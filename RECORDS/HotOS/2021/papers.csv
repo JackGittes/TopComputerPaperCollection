@@ -1,0 +1,35 @@
+The future of the shell: Unix and beyond.	Michael Greenberg 0002,Konstantinos Kallas,Nikos Vasilakis	10.1145/3458336.3465296
+The future of hardware development: a perspective from systems researchers.	Yiying Zhang 0005	10.1145/3458336.3465298
+User-defined cloud.	Yiying Zhang 0005,Ardalan Amiri Sani,Guoqing Harry Xu	10.1145/3458336.3465304
+Reasoning about modern datacenter infrastructures using partial histories.	Xudong Sun 0013,Lalith Suresh,Aishwarya Ganesan,Ramnatthan Alagappan,Michael Gasch,Lilia Tang,Tianyin Xu	10.1145/3458336.3465276
+mmapx: uniform memory protection in a heterogeneous world.	Reto Achermann,David A. Cock,Roni Haecki,Nora Hossle,Lukas Humbel,Timothy Roscoe,Daniel David Schwyn	10.1145/3458336.3465273
+Systems trivia night.	Vaastav Anand,Roberta De Viti,Jonathan Mace	10.1145/3458336.3465306
+Metastable failures in distributed systems.	Nathan Bronson,Abutalib Aghayev,Aleksey Charapko,Timothy Zhu	10.1145/3458336.3465286
+From warm to hot starts: leveraging runtimes for the serverless era.	João Carreira,Sumer Kohli,Rodrigo Bruno,Pedro Fonseca 0001	10.1145/3458336.3465305
+CloudEx: a fair-access financial exchange in the cloud.	Ahmad Ghalayini,Jinkun Geng,Vighnesh Sachidananda,Vinay Sriram,Yilong Geng,Balaji Prabhakar,Mendel Rosenblum,Anirudh Sivaraman	10.1145/3458336.3465278
+Unix shell programming: the next 50 years.	Michael Greenberg 0002,Konstantinos Kallas,Nikos Vasilakis	10.1145/3458336.3465294
+Cores that don&apos;t count.	Peter H. Hochschild,Paul Turner,Jeffrey C. Mogul,Rama Govindaraju,Parthasarathy Ranganathan,David E. Culler,Amin Vahdat	10.1145/3458336.3465297
+A case against (most) context switches.	Jack Tigar Humphries,Kostis Kaffes,David Mazières,Christos Kozyrakis	10.1145/3458336.3465274
+Century-scale smart infrastructure.	Dhananjay Jagtap,Nishant Bhaskar,Pat Pannuto	10.1145/3458336.3465275
+FlexOS: making OS isolation flexible.	Hugo Lefeuvre,Vlad-Andrei Badoiu,Stefan Teodorescu,Pierre Olivier,Tiberiu Mosnoi,Razvan Deaconescu,Felipe Huici,Costin Raiciu	10.1145/3458336.3465292
+An incremental path towards a safer OS kernel.	Jialin Li 0001,Samantha Miller,Danyang Zhuo,Ang Chen 0001,Jon Howell,Thomas Anderson	10.1145/3458336.3465277
+Doing more with less: training large DNN models on commodity servers for the masses.	Youjie Li,Amar Phanishayee,Derek Murray,Nam Sung Kim	10.1145/3458336.3465289
+Stop! Hammer time: rethinking our approach to rowhammer mitigations.	Kevin Loughlin,Stefan Saroiu,Alec Wolman,Baris Kasikci	10.1145/3458336.3465295
+Rethinking networking abstractions for cloud tenants.	Sarah McClure,Sylvia Ratnasamy,Deepak Bansal,Jitendra Padhye	10.1145/3458336.3465303
+Systems research is running out of time.	Ali Najafi,Amy Tai,Michael Wei	10.1145/3458336.3465293
+The last CPU.	Joel Nider,Alexandra (Sasha) Fedorova	10.1145/3458336.3465291
+Contextual concurrency control.	Sujin Park,Irina Calciu,Taesoo Kim,Sanidhya Kashyap	10.1145/3458336.3465279
+The RESTless cloud.	Nathan Pemberton,Johann Schleier-Smith,Joseph E. Gonzalez	10.1145/3458336.3465280
+Toward reconfigurable kernel datapaths with learned optimizations.	Yiming Qiu,Hongyi Liu,Thomas E. Anderson,Yingyan Lin,Ang Chen 0001	10.1145/3458336.3465288
+Breakfast of champions: towards zero-copy serialization with NIC scatter-gather.	Deepti Raghavan,Philip Alexander Levis,Matei Zaharia,Irene Zhang	10.1145/3458336.3465287
+We need kernel interposition over the network dataplane.	Hugo Sadok,Zhipeng Zhao,Valerie Choung,Nirav Atre,Daniel S. Berger,James C. Hoe,Aurojit Panda,Justine Sherry	10.1145/3458336.3465281
+Burnt topics in operating systems.	Malte Schwarzkopf	10.1145/3458336.3465282
+Don&apos;t be a blockhead: zoned namespaces make work on conventional SSDs obsolete.	Theano Stavrinos,Daniel S. Berger,Ethan Katz-Bassett,Wyatt Lloyd	10.1145/3458336.3465300
+From cloud computing to sky computing.	Ion Stoica,Scott Shenker	10.1145/3458336.3465301
+Privacy heroes need data disguises.	Lillian Tsai,Malte Schwarzkopf,Eddie Kohler	10.1145/3458336.3465284
+The Aurora operating system: revisiting the single level store.	Emil Tsalapatis,Ryan Hancock,Tavian Barnes,Ali José Mashtizadeh	10.1145/3458336.3465285
+In reference to RPC: it&apos;s time to add distributed memory.	Stephanie Wang,Benjamin Hindman,Ion Stoica	10.1145/3458336.3465302
+Zerializer: towards zero-copy serialization.	Adam Wolnikowski,Stephen Ibanez,Jonathan Stone,Changhoon Kim,Rajit Manohar,Robert Soulé	10.1145/3458336.3465283
+Fail-slow fault tolerance needs programming support.	Andrew Yoo,Yuanli Wang,Ritesh Sinha,Shuai Mu 0001,Tianyin Xu	10.1145/3458336.3465299
+BPF for storage: an exokernel-inspired approach.	Yuhong Zhong,Hongyi Wang,Yu Jian Wu,Asaf Cidon,Ryan Stutsman,Amy Tai,Junfeng Yang	10.1145/3458336.3465290
+HotOS &apos;21: Workshop on Hot Topics in Operating Systems, Ann Arbor, Michigan, USA, June, 1-3, 2021.	Sebastian Angel,Baris Kasikci,Eddie Kohler	10.1145/3458336

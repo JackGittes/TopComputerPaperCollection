@@ -1,0 +1,83 @@
+PThammer: Cross-User-Kernel-Boundary Rowhammer through Implicit Accesses.	Zhi Zhang 0001,Yueqiang Cheng,Dongxi Liu,Surya Nepal,Zhi Wang 0004,Yuval Yarom	10.1109/MICRO50266.2020.00016
+Shaving Retries with Sentinels for Fast Read over High-Density 3D Flash.	Qiao Li 0001,Min Ye,Yufei Cui,Liang Shi,Xiaoqiang Li,Tei-Wei Kuo,Chun Jason Xue	10.1109/MICRO50266.2020.00048
+Selective Replication in Memory-Side GPU Caches.	Xia Zhao 0004,Magnus Jahre,Lieven Eeckhout	10.1109/MICRO50266.2020.00082
+MDM: The GPU Memory Divergence Model.	Lu Wang 0019,Magnus Jahre,Almutaz Adileh,Lieven Eeckhout	10.1109/MICRO50266.2020.00085
+Predicting Execution Times With Partial Simulations in Virtual Memory Research: Why and How.	Mohammad Agbarya,Idan Yaniv,Jayneel Gandhi,Dan Tsafrir	10.1109/MICRO50266.2020.00046
+CHiRP: Control-Flow History Reuse Prediction.	Samira Mirbagher Ajorpaz,Elba Garza,Gilles Pokam,Daniel A. Jiménez	10.1109/MICRO50266.2020.00023
+PerSpectron: Detecting Invariant Footprints of Microarchitectural Attacks with Perceptron.	Samira Mirbagher Ajorpaz,Gilles Pokam,Esmaeil Mohammadian Koruyeh,Elba Garza,Nael B. Abu-Ghazaleh,Daniel A. Jiménez	10.1109/MICRO50266.2020.00093
+Circuit Compilation Methodologies for Quantum Approximate Optimization Algorithm.	Mahabubul Alam,Abdullah Ash-Saki,Swaroop Ghosh	10.1109/MICRO50266.2020.00029
+CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches.	Thomas Bourgeat,Jules Drean,Yuheng Yang,Lillian Tsai,Joel S. Emer,Mengjia Yan 0001	10.1109/MICRO50266.2020.00092
+GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis.	Damla Senol Cali,Gurpreet S. Kalsi,Zülal Bingöl,Can Firtina,Lavanya Subramanian,Jeremie S. Kim,Rachata Ausavarungnirun,Mohammed Alser,Juan Gómez-Luna,Amirali Boroumand,Anant Nori,Allison Scibisz,Sreenivas Subramoney,Can Alkan,Saugata Ghose,Onur Mutlu	10.1109/MICRO50266.2020.00081
+Boosting Store Buffer Efficiency with Store-Prefetch Bursts.	Juan M. Cebrian,Stefanos Kaxiras,Alberto Ros	10.1109/MICRO50266.2020.00054
+CATCAM: Constant-time Alteration Ternary CAM with Scalable In-Memory Architecture.	Dibei Chen,Zhaoshi Li,Tianzhu Xiong,Zhiwei Liu,Jun Yang 0006,Shouyi Yin,Shaojun Wei,Leibo Liu	10.1109/MICRO50266.2020.00038
+Deterministic Atomic Buffering.	Yuan-Hsi Chou,Christopher Ng,Shaylin Cattell,Jeremy Intan,Matthew D. Sinclair,Joseph Devietti,Timothy G. Rogers,Tor M. Aamodt	10.1109/MICRO50266.2020.00083
+FReaC Cache: Folded-logic Reconfigurable Computing in the Last Level Cache.	Ashutosh Dhar,Xiaohao Wang,Hubertus Franke,Jinjun Xiong,Jian Huang 0006,Wen-Mei W. Hwu,Nam Sung Kim,Deming Chen	10.1109/MICRO50266.2020.00021
+Systematic Crosstalk Mitigation for Superconducting Qubits via Frequency-Aware Compilation.	Yongshan Ding 0001,Pranav Gokhale,Sophia Fuhui Lin,Richard Rines,Thomas Propson,Frederic T. Chong	10.1109/MICRO50266.2020.00028
+Virtualized Logical Qubits: A 2.5D Architecture for Error-Corrected Quantum Computing.	Casey Duckering,Jonathan M. Baker,David I. Schuster,Frederic T. Chong	10.1109/MICRO50266.2020.00026
+BOW: Breathing Operand Windows to Exploit Bypassing in GPUs.	Hodjat Asghari Esfeden,AmirAli Abdolrashidi,Shafiur Rahman,Daniel Wong 0001,Nael B. Abu-Ghazaleh	10.1109/MICRO50266.2020.00084
+Mesorasi: Architecture Support for Point Cloud Analytics via Delayed-Aggregation.	Yu Feng 0007,Boyuan Tian,Tiancheng Xu,Paul N. Whatmough,Yuhao Zhu 0001	10.1109/MICRO50266.2020.00087
+Persist Level Parallelism: Streamlining Integrity Tree Updates for Secure Persistent Memory.	Alexander Freij,Shougang Yuan,Huiyang Zhou,Yan Solihin	10.1109/MICRO50266.2020.00015
+SeedEx: A Genome Sequencing Accelerator for Optimal Alignments in Subminimal Space.	Daichi Fujiki,Shunhao Wu,Nathan Ozog,Kush Goliya,David T. Blaauw,Satish Narayanasamy,Reetuparna Das	10.1109/MICRO50266.2020.00080
+Ptolemy: Architecture Support for Robust Deep Learning.	Yiming Gan,Yuxian Qiu,Jingwen Leng,Minyi Guo,Yuhao Zhu 0001	10.1109/MICRO50266.2020.00031
+AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing.	Tong Geng,Ang Li 0006,Runbin Shi,Chunshu Wu,Tianqi Wang,Yanfei Li,Pouya Haghi,Antonino Tumeo,Shuai Che,Steven K. Reinhardt,Martin C. Herbordt	10.1109/MICRO50266.2020.00079
+Planaria: Dynamic Architecture Fission for Spatial Multi-Tenant Acceleration of Deep Neural Networks.	Soroush Ghodrati,Byung Hoon Ahn,Joon Kyung Kim,Sean Kinzer,Brahmendra Reddy Yatham,Navateja Alla,Hardik Sharma,Mohammad Alian,Eiman Ebrahimi,Nam Sung Kim,Cliff Young,Hadi Esmaeilzadeh	10.1109/MICRO50266.2020.00062
+Optimized Quantum Compilation for Near-Term Algorithms with OpenPulse.	Pranav Gokhale,Ali Javadi-Abhari,Nathan Earnest,Yunong Shi,Frederic T. Chong	10.1109/MICRO50266.2020.00027
+SAVE: Sparsity-Aware Vector Engine for Accelerating DNN Training and Inference on CPUs.	Zhangxiaowen Gong,Houxiang Ji,Christopher W. Fletcher,Christopher J. Hughes,Sara S. Baghsorkhi,Josep Torrellas	10.1109/MICRO50266.2020.00070
+FlexWatts: A Power- and Workload-Aware Hybrid Power Delivery Network for Energy-Efficient Microprocessors.	Jawad Haj-Yahya,Mohammed Alser,Jeremie S. Kim,Lois Orosa 0001,Efraim Rotem,Avi Mendelson,Anupam Chattopadhyay,Onur Mutlu	10.1109/MICRO50266.2020.00088
+FIdelity: Efficient Resilience Analysis Framework for Deep Learning Accelerators.	Yi He 0010,Prasanna Balaprakash,Yanjing Li	10.1109/MICRO50266.2020.00033
+Newton: A DRAM-maker&apos;s Accelerator-in-Memory (AiM) Architecture for Machine Learning.	Mingxuan He,Choungki Song,Ilkon Kim,Chunseok Jeong,Seho Kim,Il Park 0001,Mithuna Thottethodi,T. N. Vijaykumar	10.1109/MICRO50266.2020.00040
+DUAL: Acceleration of Clustering Algorithms using Digital-based Processing In-Memory.	Mohsen Imani,Saikishan Pampana,Saransh Gupta,Minxuan Zhou,Yeseong Kim,Tajana Rosing	10.1109/MICRO50266.2020.00039
+SuperNPU: An Extremely Fast Neural Processing Unit Using Superconducting Logic Devices.	Koki Ishida,Ilkwon Byun,Ikki Nagaoka,Kosuke Fukumitsu,Masamitsu Tanaka,Satoshi Kawakami,Teruo Tanimoto,Takatsugu Ono,Jangwoo Kim,Koji Inoue	10.1109/MICRO50266.2020.00018
+Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System.	Jungi Jeong,Jaewan Hong,Seungryoul Maeng,Changhee Jung,Youngjin Kwon	10.1109/MICRO50266.2020.00051
+NCPU: An Embedded Neural CPU Architecture on Resource-Constrained Low Power Devices for Real-time End-to-End Performance.	Tianyu Jia,Yuhao Ju,Russ Joseph,Jie Gu 0001	10.1109/MICRO50266.2020.00091
+More with Less - Deriving More Translation Rules with Less Training Data for DBTs Using Parameterization.	Jinhu Jiang,Rongchao Dong,Zhongjun Zhou,Changheng Song,Wenwen Wang 0001,Pen-Chung Yew,Weihua Zhang	10.1109/MICRO50266.2020.00043
+ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning.	Sheng-Chun Kao,Geonhwa Jeong,Tushar Krishna	10.1109/MICRO50266.2020.00058
+Locality-Centric Data and Threadblock Management for Massive GPUs.	Mahmoud Khairy,Vadim Nikiforov,David W. Nellans,Timothy G. Rogers	10.1109/MICRO50266.2020.00086
+I-SPY: Context-Driven Conditional Instruction Prefetching with Coalescing.	Tanvir Ahmed Khan,Akshitha Sriraman,Joseph Devietti,Gilles Pokam,Heiner Litz,Baris Kasikci	10.1109/MICRO50266.2020.00024
+Duplo: Lifting Redundant Memory Accesses of Deep Neural Networks for GPU Tensor Cores.	Hyeonjin Kim,Sungwoo Ahn,Yunho Oh,Bogil Kim,Won Woo Ro,William J. Song	10.1109/MICRO50266.2020.00065
+Hardware-based Always-On Heap Memory Safety.	Yonghae Kim,Jaekyu Lee,Hyesoon Kim	10.1109/MICRO50266.2020.00095
+AutoScale: Energy Efficiency Optimization for Stochastic Edge Inference Using Reinforcement Learning.	Young Geun Kim,Carole-Jean Wu	10.1109/MICRO50266.2020.00090
+P-INSPECT: Architectural Support for Programmable Non-Volatile Memory Frameworks.	Apostolos Kokolis,Thomas Shull,Jian Huang 0006,Josep Torrellas	10.1109/MICRO50266.2020.00050
+Improving the Utilization of Micro-operation Caches in x86 Processors.	Jagadish B. Kotra,John Kalamatianos	10.1109/MICRO50266.2020.00025
+CuttleSys: Data-Driven Resource Management for Interactive Services on Reconfigurable Multicores.	Neeraj Kulkarni,Gonzalo Gonzalez-Pumariega,Amulya Khurana,Christine A. Shoemaker,Christina Delimitrou,David H. Albonesi	10.1109/MICRO50266.2020.00060
+D-SOAP: Dynamic Spatial Orientation Affinity Prediction for Caching in Multi-Orientation Memory Systems.	Minli Julie Liao,Jack Sampson	10.1109/MICRO50266.2020.00055
+A Benchmarking Framework for Interactive 3D Applications in the Cloud.	Tianyi Liu,Sen He 0002,Sunzhou Huang,Danny H. K. Tsang,Lingjia Tang,Jason Mars,Wei Wang 0054	10.1109/MICRO50266.2020.00076
+DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture.	Liu Liu 0017,Zheng Qu,Lei Deng 0003,Fengbin Tu,Shuangchen Li,Xing Hu 0001,Zhenyu Gu,Yufei Ding,Yuan Xie 0001	10.1109/MICRO50266.2020.00066
+(Almost) Fence-less Persist Ordering.	Sara Mahdizadeh-Shahri,Seyed Armin Vakil-Ghahani,Aasheesh Kolli	10.1109/MICRO50266.2020.00052
+TensorDash: Exploiting Sparsity to Accelerate Deep Neural Network Training.	Mostafa Mahmoud,Isak Edo,Ali Hadi Zadeh,Omar Mohamed Awad,Gennady Pekhimenko,Jorge Albericio,Andreas Moshovos	10.1109/MICRO50266.2020.00069
+Coordinated Priority-aware Charging of Distributed Batteries in Oversubscribed Data Centers.	Sulav Malla,Qingyuan Deng,Zoh Ebrahimzadeh,Joe Gasperetti,Sajal Jain,Parimala Kondety,Thiara Ortiz,Debra Vieira	10.1109/MICRO50266.2020.00073
+PerpLE: Improving the Speed and Effectiveness of Memory Consistency Testing.	Themis Melissaris,Markos Markakis,Kelly A. Shaw 0001,Margaret Martonosi	10.1109/MICRO50266.2020.00037
+HyperPlane: A Scalable Low-Latency Notification Accelerator for Software Data Planes.	Amirhossein Mirhosseini,Hossein Golestani,Thomas F. Wenisch	10.1109/MICRO50266.2020.00074
+TFE: Energy-efficient Transferred Filter-based Engine to Compress and Accelerate Convolutional Neural Networks.	Huiyu Mo,Leibo Liu,Wenjing Hu,Wenping Zhu,Qiang Li,Ang Li,Shouyi Yin,Jian Chen,Xiaowei Jiang,Shaojun Wei	10.1109/MICRO50266.2020.00067
+Printed Machine Learning Classifiers.	Muhammad Husnain Mubarik,Dennis D. Weller,Nathaniel Bleier,Matthew Tomei,Jasmin Aghassi-Hagmann,Mehdi B. Tahoori,Rakesh Kumar 0002	10.1109/MICRO50266.2020.00019
+DStress: Automatic Synthesis of DRAM Reliability Stress Viruses using Genetic Algorithms.	Lev Mukhanov,Dimitrios S. Nikolopoulos,Georgios Karakonstantis	10.1109/MICRO50266.2020.00035
+Pipette: Improving Core Utilization on Irregular Applications through Intra-Core Pipeline Parallelism.	Quan M. Nguyen,Daniel Sánchez 0003	10.1109/MICRO50266.2020.00056
+TrainBox: An Extreme-Scale Neural Network Training Server Architecture by Systematically Balancing Operations.	Pyeongsu Park,Heetaek Jeong,Jangwoo Kim	10.1109/MICRO50266.2020.00072
+Graphene: Strong yet Lightweight Row Hammer Protection.	Yeonhong Park,Woosuk Kwon,Eojin Lee,Tae Jun Ham,Jung Ho Ahn,Jae W. Lee	10.1109/MICRO50266.2020.00014
+Bit-Exact ECC Recovery (BEER): Determining DRAM On-Die ECC Functions by Exploiting DRAM Data Retention Characteristics.	Minesh Patel,Jeremie S. Kim,Taha Shahroodi,Hasan Hassan,Onur Mutlu	10.1109/MICRO50266.2020.00034
+ThymesisFlow: A Software-Defined, HW/SW co-Designed Interconnect Stack for Rack-Scale Memory Disaggregation.	Christian Pinto,Dimitris Syrivelis,Michele Gazzetti,Panos K. Koutsovasilis,Andrea Reale,Kostas Katrinis,H. Peter Hofstee	10.1109/MICRO50266.2020.00075
+GraphPulse: An Event-Driven Hardware Accelerator for Asynchronous Graph Processing.	Shafiur Rahman,Nael B. Abu-Ghazaleh,Rajiv Gupta 0001	10.1109/MICRO50266.2020.00078
+Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration.	Akshay Krishna Ramanathan,Gurpreet S. Kalsi,Srivatsa Srinivasa,Tarun Makesh Chandran,Kamlesh R. Pillai,Om Ji Omer,Vijaykrishnan Narayanan,Sreenivas Subramoney	10.1109/MICRO50266.2020.00020
+DiffTune: Optimizing CPU Simulator Parameters with Learned Differentiable Surrogates.	Alex Renda,Yishen Chen,Charith Mendis,Michael Carbin	10.1109/MICRO50266.2020.00045
+MOUSE: Inference In Non-volatile Memory for Energy Harvesting Applications.	Salonik Resch,S. Karen Khatamifard,Zamshed I. Chowdhury,Masoud Zabihi,Zhengyang Zhao,M. Hüsrev Cilasun,Jianping Wang 0006,Sachin S. Sapatnekar,Ulya R. Karpuzcu	10.1109/MICRO50266.2020.00042
+gem5-SALAM: A System Architecture for LLVM-based Accelerator Modeling.	Samuel Rogers,Joshua Slycord,Mohammadreza Baharani,Hamed Tabkhi	10.1109/MICRO50266.2020.00047
+Speculative Enforcement of Store Atomicity.	Alberto Ros,Stefanos Kaxiras	10.1109/MICRO50266.2020.00053
+Jumanji: The Case for Dynamic NUCA in the Datacenter.	Brian C. Schwedock,Nathan Beckmann	10.1109/MICRO50266.2020.00061
+Non-Blocking Simultaneous Multithreading: Embracing the Resiliency of Deep Neural Networks.	Gil Shomron,Uri C. Weiser	10.1109/MICRO50266.2020.00032
+Draco: Architectural and Operating System Support for System Call Security.	Dimitrios Skarlatos 0002,Qingrong Chen,Jianyan Chen,Tianyin Xu,Josep Torrellas	10.1109/MICRO50266.2020.00017
+VR-DANN: Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration.	Zhuoran Song,Feiyang Wu,Xueyuan Liu,Jing Ke,Naifeng Jing,Xiaoyao Liang	10.1109/MICRO50266.2020.00063
+MatRaptor: A Sparse-Sparse Matrix Multiplication Accelerator Based on Row-Wise Product.	Nitish Kumar Srivastava,Hanchen Jin,Jie Liu,David H. Albonesi,Zhiru Zhang	10.1109/MICRO50266.2020.00068
+Fast-BCNN: Massive Neuron Skipping in Bayesian Convolutional Neural Networks.	Qiyu Wan,Xin Fu	10.1109/MICRO50266.2020.00030
+FIGARO: Improving System Performance via Fine-Grained In-DRAM Data Relocation and Caching.	Yaohua Wang,Lois Orosa 0001,Xiangjun Peng,Yang Guo 0003,Saugata Ghose,Minesh Patel,Jeremie S. Kim,Juan Gómez-Luna,Mohammad Sadrosadati,Nika Mansouri-Ghiasi,Onur Mutlu	10.1109/MICRO50266.2020.00036
+Characterizing and Modeling Non-Volatile Memory Systems.	Zixuan Wang,Xiao Liu 0033,Jian Yang,Theodore Michailidis,Steven Swanson,Jishen Zhao	10.1109/MICRO50266.2020.00049
+AQUOMAN: An Analytic-Query Offloading Machine.	Shuotao Xu,Thomas Bourgeat,Tianhao Huang,Hojun Kim,Sungjin Lee 0001,Arvind	10.1109/MICRO50266.2020.00041
+Procrustes: a Dataflow and Accelerator for Sparse Deep Neural Network Training.	Dingqing Yang,Amin Ghasemazar,Xiaowei Ren,Maximilian Golub,Guy Lemieux,Mieszko Lis	10.1109/MICRO50266.2020.00064
+A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications.	Pengcheng Yao,Long Zheng 0003,Zhen Zeng,Yu Huang 0013,Chuangyi Gui,Xiaofei Liao,Hai Jin 0001,Jingling Xue	10.1109/MICRO50266.2020.00077
+Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations.	Bo Yu,Wei Hu,Leimeng Xu,Jie Tang 0003,Shaoshan Liu,Yuhao Zhu 0001	10.1109/MICRO50266.2020.00089
+GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference.	Ali Hadi Zadeh,Isak Edo,Omar Mohamed Awad,Andreas Moshovos	10.1109/MICRO50266.2020.00071
+BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches.	Siavash Zangeneh,Stephen Pruett,Sangkug Lym,Yale N. Patt	10.1109/MICRO50266.2020.00022
+RnR: A Software-Assisted Record-and-Replay Hardware Prefetcher.	Chao Zhang 0039,Yuan Zeng,John Shalf,Xiaochen Guo	10.1109/MICRO50266.2020.00057
+Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data.	Jie Zhao 0002,Peng Di	10.1109/MICRO50266.2020.00044
+Speculation Invariance (InvarSpec): Faster Safe Execution Through Program Analysis.	Zirui Neil Zhao,Houxiang Ji,Mengjia Yan 0001,Jiyong Yu,Christopher W. Fletcher,Adam Morrison 0001,Darko Marinov,Josep Torrellas	10.1109/MICRO50266.2020.00094
+Gemini: Learning to Manage CPU Power for Latency-Critical Search Engines.	Liang Zhou 0006,Laxmi N. Bhuyan,K. K. Ramakrishnan	10.1109/MICRO50266.2020.00059
+53rd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2020, Athens, Greece, October 17-21, 2020		

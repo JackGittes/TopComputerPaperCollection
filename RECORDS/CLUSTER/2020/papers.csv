@@ -1,0 +1,72 @@
+Quantifying the impact of network congestion on application performance and network metrics.	Yijia Zhang 0002,Taylor L. Groves,Brandon Cook 0001,Nicholas J. Wright,Ayse K. Coskun	10.1109/CLUSTER49012.2020.00026
+Exploring Non-Volatility of Non-Volatile Memory for High Performance Computing Under Failures.	Jie Ren 0015,Kai Wu 0006,Dong Li 0001	10.1109/CLUSTER49012.2020.00034
+LDMS Monitoring of EDR InfiniBand Networks.	Benjamin A. Allan,Michael Aguilar,Benjamin Schwaller,Steven Langer	10.1109/CLUSTER49012.2020.00066
+SSP: Speeding up Small Flows for Proactive Transport in Datacenters.	Yang Bai,Dezun Dong,Shan Huang,Zejia Zhou,Xiangke Liao	10.1109/CLUSTER49012.2020.00025
+Fast Scalable Approximate Nearest Neighbor Search for High-dimensional Data.	K. G. Renga Bashyam,Sathish Vadhiyar	10.1109/CLUSTER49012.2020.00040
+Resilient Scheduling of Moldable Jobs on Failure-Prone Platforms.	Anne Benoit,Valentin Le Fèvre,Lucas Perotin,Padma Raghavan,Yves Robert,Hongyang Sun 0001	10.1109/CLUSTER49012.2020.00018
+Parallel Particle Advection Bake-Off for Scientific Visualization Workloads.	Roba Binyahib,David Pugmire,Abhishek Yenpure,Hank Childs	10.1109/CLUSTER49012.2020.00048
+Porting Applications to Arm-based Processors.	Bine Brank,Stepan Nassyr,Fatemeh Pouyan,Dirk Pleiter	10.1109/CLUSTER49012.2020.00079
+Flexible Data Redistribution in a Task-Based Runtime System.	Qinglei Cao,George Bosilca,Wei Wu 0016,Dong Zhong,Aurelien Bouteiller,Jack J. Dongarra	10.1109/CLUSTER49012.2020.00032
+ECS2: A Fast Erasure Coding Library for GPU-Accelerated Storage Systems with Parallel &amp; Direct IO.	ChanJung Chang,Jerry Chou 0001,Yu-Ching Chou,I-Hsin Chung	10.1109/CLUSTER49012.2020.00045
+tf-Darshan: Understanding Fine-grained I/O Performance in Machine Learning Workloads.	Steven Wei Der Chien,Artur Podobas,Ivy Bo Peng,Stefano Markidis	10.1109/CLUSTER49012.2020.00046
+Dynamic Kernel Fusion for Bulk Non-contiguous Data Transfer on GPU Clusters.	Ching-Hsiang Chu,Kawthar Shafie Khorassani,Qinghua Zhou,Hari Subramoni,Dhabaleswar K. Panda 0001	10.1109/CLUSTER49012.2020.00023
+Energy Optimization and Analysis with EAR.	Julita Corbalán,Lluis Alonso,Jordi Aneas,Luigi Brochard	10.1109/CLUSTER49012.2020.00067
+CoreNEURON: Performance and Energy Efficiency Evaluation on Intel and Arm CPUs.	Joel Criado,Marta Garcia-Gasulla,Pramod S. Kumbhar,Omar Awile,Ioannis Magkanaris,Filippo Mantovani	10.1109/CLUSTER49012.2020.00077
+HCL: Distributing Parallel Data Structures in Extreme Scales.	Hariharan Devarajan,Anthony Kougkas,Keith Bateman,Xian-He Sun	10.1109/CLUSTER49012.2020.00035
+PIKA: Center-Wide and Job-Aware Cluster Monitoring.	Robert Dietrich,Frank Winkler,Andreas Knüpfer,Wolfgang E. Nagel	10.1109/CLUSTER49012.2020.00061
+Power Budgeting of Big Data Applications in Container-based Clusters.	Jonatan Enes,Guillaume Fieni,Roberto R. Expósito,Romain Rouvoy,Juan Touriño	10.1109/CLUSTER49012.2020.00038
+Democratizing Parallel Filesystem Monitoring.	Richard Todd Evans	10.1109/CLUSTER49012.2020.00065
+Toward OpenACC-enabled GPU-FPGA Accelerated Computing.	Norihisa Fujita,Ryohei Kobayashi,Yoshiki Yamaguchi,Kohji Yoshikawa,Makito Abe,Masayuki Umemura	10.1109/CLUSTER49012.2020.00060
+Towards workload-adaptive scheduling for HPC clusters.	Alexander V. Goponenko,Ramin Izadpanah,Jim M. Brandt,Damian Dechev	10.1109/CLUSTER49012.2020.00064
+Performance Evaluation of ParalleX Execution model on Arm-based Platforms.	Nikunj Gupta,Rohit Ashiwal,Bine Brank,Sateesh K. Peddoju,Dirk Pleiter	10.1109/CLUSTER49012.2020.00080
+Grade10: A Framework for Performance Characterization of Distributed Graph Processing.	Tim Hegeman,Animesh Trivedi,Alexandru Iosup	10.1109/CLUSTER49012.2020.00016
+Predicting MPI Collective Communication Performance Using Machine Learning.	Sascha Hunold,Abhinav Bhatele,George Bosilca,Peter Knees	10.1109/CLUSTER49012.2020.00036
+Extending High-Level Synthesis with High-Performance Computing Performance Visualization.	Jens Huthmann,Artur Podobas,Lukas Sommer,Andreas Koch 0001,Kentaro Sano	10.1109/CLUSTER49012.2020.00047
+Investigating Applications on the A64FX.	Adrian Jackson,Michèle Weiland,Nick Brown 0002,Andrew Turner,Mark Parsons 0001	10.1109/CLUSTER49012.2020.00078
+A Hybrid MPI+PGAS Approach to Improve Strong Scalability Limits of Finite Element Solvers.	Niclas Jansson	10.1109/CLUSTER49012.2020.00041
+Efficient Execution of Dynamic Programming Algorithms on Apache Spark.	Mohammad Mahdi Javanmard,Zafar Ahmad,Jaroslaw Zola,Louis-Noël Pouchet,Rezaul Chowdhury,Robert J. Harrison	10.1109/CLUSTER49012.2020.00044
+On the Usage of the Arm C Language Extensions for a High-Order Finite-Element Kernel.	Sylvain Jubertie,Guillaume Quintin,Fabrice Dupros	10.1109/CLUSTER49012.2020.00081
+ChOWDER: A New Approach for Viewing 3D Web GIS on Ultra-High-Resolution Scalable Display.	Tomohiro Kawanabe,Kazuma Hatta,Kenji Ono	10.1109/CLUSTER49012.2020.00055
+A Supercomputing Center Experience With Cooling Control Design.	Michael Kercher,Gary New	10.1109/CLUSTER49012.2020.00073
+Co-scheML: Interference-aware Container Co-scheduling Scheme Using Machine Learning Application Profiles for GPU Clusters.	Sejin Kim,Yoonhee Kim	10.1109/CLUSTER49012.2020.00020
+Efficient Process-to-Node Mapping Algorithms for Stencil Computations.	Konrad von Kirchbach,Markus Lehr,Sascha Hunold,Christian Schulz 0003,Jesper Larsson Träff	10.1109/CLUSTER49012.2020.00011
+Evaluation of Power Management Control on the Supercomputer Fugaku.	Yuetsu Kodama,Tetsuya Odajima,Eishi Arima,Mitsuhisa Sato	10.1109/CLUSTER49012.2020.00069
+Prompt Report on Exa-Scale HPL-AI Benchmark.	Shuhei Kudo,Keigo Nitadori,Takuya Ina,Toshiyuki Imamura	10.1109/CLUSTER49012.2020.00058
+CuVPP: Filter-based Longest Prefix Matching in Software Data Planes.	Minseok Kwon,Krishna Prasad Neupane,John Marshall,M. Mustafa Rafique	10.1109/CLUSTER49012.2020.00012
+MonSTer: An Out-of-the-Box Monitoring Tool for High Performance Computing Systems.	Jie Li 0057,Ghazanfar Ali,Ngan V. T. Nguyen,Jon R. Hass,Alan Sill,Tommy Dang,Yang Chen	10.1109/CLUSTER49012.2020.00022
+Towards End-to-end SDC Detection for HPC Applications Equipped with Lossy Compression.	Sihuan Li,Sheng Di,Kai Zhao 0008,Xin Liang 0001,Zizhong Chen,Franck Cappello	10.1109/CLUSTER49012.2020.00043
+OctCNN: An Energy-Efficient FPGA Accelerator for CNNs using Octave Convolution Algorithm.	Wenqi Lou,Chao Wang 0003,Lei Gong,Xuehai Zhou	10.1109/CLUSTER49012.2020.00054
+Optimizing GPU Memory Transactions for Convolution Operations.	Gangzhao Lu,Weizhe Zhang,Zheng Wang 0001	10.1109/CLUSTER49012.2020.00050
+HAN: a Hierarchical AutotuNed Collective Communication Framework.	Xi Luo,Wei Wu 0016,George Bosilca,Yu Pei,Qinglei Cao,Thananon Patinyasakdikul,Dong Zhong,Jack J. Dongarra	10.1109/CLUSTER49012.2020.00013
+Evaluating Worksharing Tasks on Distributed Environments.	Marcos Maroñas,Xavier Teruel,J. Mark Bull,Eduard Ayguadé,Vicenç Beltran 0001	10.1109/CLUSTER49012.2020.00017
+Performance Evaluation of Supercomputer Fugaku using Breadth-First Search Benchmark in Graph500.	Masahiro Nakao,Koji Ueno,Katsuki Fujisawa,Yuetsu Kodama,Mitsuhisa Sato	10.1109/CLUSTER49012.2020.00053
+DeepClone: Lightweight State Replication of Deep Learning Models for Data Parallel Training.	Bogdan Nicolae,Justin M. Wozniak,Matthieu Dorier,Franck Cappello	10.1109/CLUSTER49012.2020.00033
+Analysis of Cooling Water Temperature Impact on Computing Performance and Energy Consumption.	Jorji Nonaka,Toshihiro Hanawa,Fumiyoshi Shoji	10.1109/CLUSTER49012.2020.00027
+HUD-Oden: A Practical Evaluation Environment for Analyzing Hot-Water Cooled Processors.	Jorji Nonaka,Fumiyoshi Shoji	10.1109/CLUSTER49012.2020.00070
+Preliminary Performance Evaluation of the Fujitsu A64FX Using HPC Applications.	Tetsuya Odajima,Yuetsu Kodama,Miwako Tsuji,Motohiko Matsuda,Yutaka Maruyama,Mitsuhisa Sato	10.1109/CLUSTER49012.2020.00075
+Global Experiences with HPC Operational Data Measurement, Collection and Analysis.	Michael Ott 0001,Woong Shin,Norman Bourassa,Torsten Wilde,Stefan Ceballos,Melissa Romanus,Natalie J. Bates	10.1109/CLUSTER49012.2020.00071
+MAP: A Visual Analytics System for Job Monitoring and Analysis.	Ashish Pal,Preeti Malakar	10.1109/CLUSTER49012.2020.00063
+The Case for Better Integrating Scalable Data Stores and Stream-Processing Systems.	Antonis Papaioannou,Chrysostomos Zeginis,Kostas Magoutis	10.1109/CLUSTER49012.2020.00057
+The Effects of Wide Vector Operations on Processor Caches.	Andrei Poenaru,Simon McIntosh-Smith	10.1109/CLUSTER49012.2020.00076
+System-Level vs. Application-Level Checkpointing.	Jonas Posner	10.1109/CLUSTER49012.2020.00051
+Modeling the Performance of Scientific Workflow Executions on HPC Platforms with Burst Buffers.	Loïc Pottier,Rafael Ferreira da Silva,Henri Casanova,Ewa Deelman	10.1109/CLUSTER49012.2020.00019
+Investigative Report on Electrical Commissioning in HPC Data Centers.	Joseph Prisco,Grant L. Stewart,Herbert Huber,Randy Rannow,Jason Hick,Dave Martinez,Brandon Hong,Aditya M. Deshpande	10.1109/CLUSTER49012.2020.00074
+Data Life Aware Model Updating Strategy for Stream-based Online Deep Learning.	Wei Rang,Donglin Yang,Dazhao Cheng,Kun Suo,Wei Chen 0038	10.1109/CLUSTER49012.2020.00049
+E2Clab: Exploring the Computing Continuum through Repeatable, Replicable and Reproducible Edge-to-Cloud Experiments.	Daniel Rosendo,Pedro Silva 0007,Matthieu Simonin,Alexandru Costan,Gabriel Antoniu	10.1109/CLUSTER49012.2020.00028
+An HPC-based Prediction on the Practicality of Long-distance Quantum Key Distributions.	Hoon Ryu,Ji Hoon Kang 0002	10.1109/CLUSTER49012.2020.00052
+Towards Data-Flow Parallelization for Adaptive Mesh Refinement Applications.	Kevin Sala,Alejandro Rico,Vicenç Beltran 0001	10.1109/CLUSTER49012.2020.00042
+HPC System Data Pipeline to Enable Meaningful Insights through Analysis-Driven Visualizations.	Benjamin Schwaller,Nick Tucker,Tom Tucker,Benjamin A. Allan,Jim M. Brandt	10.1109/CLUSTER49012.2020.00062
+An FPGA-based Sound Field Rendering System.	Yiyu Tan,Toshiyuki Imamura	10.1109/CLUSTER49012.2020.00056
+Exploring the Potential of Fast Delta Encoding: Marching to a Higher Compression Ratio.	Haoliang Tan,Zhiyuan Zhang,Xiangyu Zou,Qing Liao 0001,Wen Xia	10.1109/CLUSTER49012.2020.00030
+A Study of Operational Impact on Power Usage Effectiveness using Facility Metrics and Server Operation Logs in the K Computer.	Masaaki Terai,Fumiyoshi Shoji,Toshiyuki Tsukamoto,Yukihiro Yamochi	10.1109/CLUSTER49012.2020.00072
+Decomposing MPI Collectives for Exploiting Multi-lane Communication.	Jesper Larsson Träff,Sascha Hunold	10.1109/CLUSTER49012.2020.00037
+Streaming File Transfer Optimization for Distributed Science Workflows.	Davut Ucar,Engin Arslan	10.1109/CLUSTER49012.2020.00029
+DelveFS - An Event-Driven Semantic File System for Object Stores.	Marc-André Vef,Rebecca Steiner,Reza Salkhordeh,Jörg Steinkamp,Florent Vennetier,Jean-François Smigielski,André Brinkmann	10.1109/CLUSTER49012.2020.00014
+Staging Based Task Execution for Data-driven, In-Situ Scientific Workflows.	Zhe Wang,Pradeep Subedi,Matthieu Dorier,Philip E. Davis,Manish Parashar	10.1109/CLUSTER49012.2020.00031
+NeoMPX: Characterizing and Improving Estimation of Multiplexing Hardware Counters for PAPI.	Yichao Wang 0001,Jie Wang,Jin-Kun Chen,Sicheng Zuo,Xiaoming Su,James Lin	10.1109/CLUSTER49012.2020.00015
+Opportunities and limitations of Quality-of-Service in Message Passing applications on adaptively routed Dragonfly and Fat Tree networks.	Jeremiah J. Wilke,Joseph P. Kenny	10.1109/CLUSTER49012.2020.00021
+Toward an End-to-End Auto-tuning Framework in HPC PowerStack.	Xingfu Wu,Aniruddha Marathe,Siddhartha Jana,Ondrej Vysocky,Jophin John,Andrea Bartolini,Lubomir Riha,Michael Gerndt,Valerie E. Taylor,Sridutt Bhalachandra	10.1109/CLUSTER49012.2020.00068
+Implementing a Comprehensive Networks-on-Chip Generator with Optimal Configurations.	Hao Zhang,Itta Ohmura,Makoto Taiji	10.1109/CLUSTER49012.2020.00059
+Estimating Power Consumption of Containers and Virtual Machines in Data Centers.	Xusheng Zhang,Ziyu Shen,Bin Xia 0003,Zheng Liu 0001,Yun Li 0009	10.1109/CLUSTER49012.2020.00039
+Autoscaling High-Throughput Workloads on Container Orchestrators.	Chao Zheng,Nathaniel Kremer-Herman,Tim Shaffer,Douglas Thain	10.1109/CLUSTER49012.2020.00024
+IEEE International Conference on Cluster Computing, CLUSTER 2020, Kobe, Japan, September 14-17, 2020		

@@ -1,0 +1,46 @@
+An efficient two-dimensional blocking strategy for sparse matrix-vector multiplication on GPUs.	Arash Ashari,Naser Sedaghati,John Eisenlohr,P. Sadayappan	10.1145/2597652.2597678
+Scalable performance analysis of exascale MPI programs through signature-based clustering algorithms.	Amir Bahmani,Frank Mueller 0001	10.1145/2597652.2597676
+Parallelizing and optimizing sparse tensor computations.	Muthu Manikandan Baskaran,Benoît Meister,Richard Lethin	10.1145/2597652.2600115
+Thread-cooperative, bit-parallel computation of levenshtein distance on GPU.	Alejandro Chacón,Santiago Marco-Sola,Antonio Espinosa,Paolo Ribeca,Juan Carlos Moure	10.1145/2597652.2597677
+LAWS: locality-aware work-stealing for multi-socket multi-core architectures.	Quan Chen 0002,Minyi Guo,Haibing Guan	10.1145/2597652.2597665
+Input-adaptive parallel sparse fast fourier transform for stream processing.	Shuo Chen,Xiaoming Li	10.1145/2597652.2597669
+Supporting storage configuration for I/O intensive workflows.	Lauro Beltrão Costa,Samer Al-Kiswany,Hao Yang 0039,Matei Ripeanu	10.1145/2597652.2597679
+DTail: a flexible approach to DRAM refresh management.	Zehan Cui,Sally A. McKee,Zhongbin Zha,Yungang Bao,Mingyu Chen 0001	10.1145/2597652.2597663
+Galaxy: a high-performance energy-efficient multi-chip architecture using photonic interconnects.	Yigit Demir,Yan Pan,Seokwoo Song,Nikos Hardavellas,John Kim,Gokhan Memik	10.1145/2597652.2597664
+Acceleration of derivative calculations with application to radial basis function: finite-differences on the intel mic architecture.	Gordon Erlebacher,Erik Saule,Natasha Flyer,Evan F. Bollig	10.1145/2597652.2597656
+Addressing bandwidth contention in SMT multicores through scheduling.	Josué Feliu,Julio Sahuquillo,Salvador Petit,José Duato	10.1145/2597652.2600109
+Unified on-chip memory allocation for SIMT architecture.	Ari B. Hayes,Eddy Z. Zhang	10.1145/2597652.2597685
+21st century computer architecture keynote at 2014 international conference on supercomputing (ICS).	Mark D. Hill	10.1145/2597652.2597687
+A programming system for xeon phis with runtime SIMD parallelization.	Xin Huo,Bin Ren,Gagan Agrawal	10.1145/2597652.2597682
+On the conditions for efficient interoperability with threads: an experience with PGAS languages using cray communication domains.	Khaled Z. Ibrahim,Katherine A. Yelick	10.1145/2597652.2597657
+An optimal distributed load balancing algorithm for homogeneous work units.	Akhil Langer	10.1145/2597652.2600108
+Block value based insertion policy for high performance last-level caches.	Lingda Li,Junlin Lu,Xu Cheng 0001	10.1145/2597652.2597653
+HPC for the human brain project.	Thomas Lippert	10.1145/2597652.2616584
+Revealing applications&apos; access pattern in collective I/O for cache management.	Yin Lu,Yong Chen 0001,Robert Latham,Yu Zhuang	10.1145/2597652.2597686
+Multi-stage coordinated prefetching for present-day processors.	Sanyam Mehta,Zhenman Fang,Antonia Zhai,Pen-Chung Yew	10.1145/2597652.2597660
+Collective memory transfers for multi-core chips.	George Michelogiannakis,Alexander Williams,Samuel Williams 0001,John Shalf	10.1145/2597652.2597654
+Reducing energy consumption of NoC by router bypassing.	Takahiro Naruko	10.1145/2597652.2600112
+Verifying micro-architecture simulators using event traces.	Hui Meen Nyew,Nilufer Onder,Soner Önder,Zhenlin Wang	10.1145/2597652.2597680
+Accelerating cache coherence mechanism with speculation.	Jun Ohno,Kei Hiraki	10.1145/2597652.2600111
+Evaluation of methods to integrate analysis into a large-scale shock shock physics code.	Ron A. Oldfield,Kenneth Moreland,Nathan Fabian,David H. Rogers 0001	10.1145/2597652.2597668
+Load balancing n-body simulations with highly non-uniform density.	Olga Pearce,Todd Gamblin,Bronis R. de Supinski,Tom Arsenlis,Nancy M. Amato	10.1145/2597652.2597659
+Scalable analysis of multicore data reuse and sharing.	Miquel Pericàs,Kenjiro Taura,Satoshi Matsuoka	10.1145/2597652.2597674
+Effective automatic computation placement and dataallocation for parallelization of regular programs.	Chandan Reddy 0001,Uday Bondhugula	10.1145/2597652.2597673
+Automating and optimizing data transfers for many-core coprocessors.	Bin Ren,Nishkam Ravi,Yi Yang 0018,Min Feng 0001,Gagan Agrawal,Srimat T. Chakradhar	10.1145/2597652.2600114
+Value influence analysis for message passing applications.	Philip C. Roth,Jeremy S. Meredith	10.1145/2597652.2597666
+A performance perspective on energy efficient HPC links.	Karthikeyan P. Saravanan,Paul M. Carpenter,Alex Ramírez	10.1145/2597652.2597671
+Improving performance by matching imbalanced workloads with heterogeneous platforms.	Jie Shen 0003,Ana Lucia Varbanescu,Peng Zou,Yutong Lu,Henk J. Sips	10.1145/2597652.2597675
+MT-MPI: multithreaded MPI for many-core environments.	Min Si,Antonio J. Peña,Pavan Balaji,Masamichi Takagi,Yutaka Ishikawa	10.1145/2597652.2597658
+The future of supercomputing.	Marc Snir	10.1145/2597652.2616585
+Scaling up matrix computations on shared-memory manycore systems with 1000 CPU cores.	Fengguang Song,Jack J. Dongarra	10.1145/2597652.2597670
+Palm: easing the burden of analytical performance modeling.	Nathan R. Tallent,Adolfy Hoisie	10.1145/2597652.2597683
+Long-term resource fairness: towards economic fairness on pay-as-you-use computing systems.	Shanjiang Tang,Bu-Sung Lee,Bingsheng He,Haikun Liu	10.1145/2597652.2597672
+Hardware-assisted scalable flow control of shared receive queue.	Teruo Tanimoto,Takatsugu Ono,Kohta Nakashima,Takashi Miyoshi	10.1145/2597652.2600113
+Last-level cache deduplication.	Yingying Tian,Samira Manabi Khan,Daniel A. Jiménez,Gabriel H. Loh	10.1145/2597652.2597655
+Implementing a classic: zero-copy all-to-all communication with mpi datatypes.	Jesper Larsson Träff,Antoine Rougier,Sascha Hunold	10.1145/2597652.2597662
+Understanding the impact of threshold voltage on MLC flash memory performance and reliability.	Wei Wang 0079,Tao Xie 0004,Deng Zhou	10.1145/2597652.2597681
+HOMR: a hybrid approach to exploit maximum overlapping in MapReduce over high performance interconnects.	Md. Wasi-ur-Rahman,Xiaoyi Lu,Nusrat Sharmin Islam,Dhabaleswar K. Panda 0001	10.1145/2597652.2597684
+DWC: dynamic write consolidation for phase change memory systems.	Fei Xia,Dejun Jiang 0001,Jin Xiong,Mingyu Chen 0001,Lixin Zhang 0002,Ninghui Sun	10.1145/2597652.2597661
+An adaptive cross-architecture combination method for graph traversal.	Yang You,Shuaiwen Leon Song,Darren J. Kerbyson	10.1145/2597652.2600110
+An end-to-end analysis of file system features on sparse virtual disks.	Ruijin Zhou,Sankaran Sivathanu,Jinpyo Kim,Bing Tsai,Tao Li 0006	10.1145/2597652.2597667
+2014 International Conference on Supercomputing, ICS&apos;14, Muenchen, Germany, June 10-13, 2014	Arndt Bode,Michael Gerndt,Per Stenström,Lawrence Rauchwerger,Barton P. Miller,Martin Schulz 0001	

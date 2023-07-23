@@ -1,0 +1,50 @@
+Durable Queues: The Second Amendment.	Gal Sela 0001,Erez Petrank	10.1145/3409964.3461791
+Efficient Load-Balancing through Distributed Token Dropping.	Sebastian Brandt 0002,Barbara Keller,Joel Rybicki,Jukka Suomela,Jara Uitto	10.1145/3409964.3461785
+Efficient Parallel Determinacy Race Detection for Structured Futures.	Yifan Xu 0007,Kunal Agrawal,I-Ting Angelina Lee	10.1145/3409964.3461815
+Efficient Access History for Race Detection.	Yifan Xu 0007,Anchengcheng Zhou,Grace Q. Yin,Kunal Agrawal,I-Ting Angelina Lee,Tao B. Schardl	10.1145/3409964.3461825
+Efficient Distributed Algorithms for Convolutional Neural Networks.	Rui Li 0033,Yufan Xu,Aravind Sukumaran-Rajam,Atanas Rountev,P. Sadayappan	10.1145/3409964.3461828
+Parallel Network Mapping Algorithms.	Ramtin Afshar,Michael T. Goodrich,Pedro Matias 0001,Martha C. Osegueda	10.1145/3409964.3461822
+Low-Span Parallel Algorithms for the Binary-Forking Model.	Zafar Ahmad,Rezaul Chowdhury,Rathish Das,Pramod Ganapathi,Aaron Gregory,Mohammad Mahdi Javanmard	10.1145/3409964.3461802
+Fast Stencil Computations using Fast Fourier Transforms.	Zafar Ahmad,Rezaul Chowdhury,Rathish Das,Pramod Ganapathi,Aaron Gregory,Yimin Zhu	10.1145/3409964.3461803
+Provable Advantages for Graph Algorithms in Spiking Neural Networks.	James B. Aimone,Yang Ho,Ojas Parekh,Cynthia A. Phillips,Ali Pinar,William Severa,Yipu Wang	10.1145/3409964.3461813
+Algorithms for Right-Sizing Heterogeneous Data Centers.	Susanne Albers,Jens Quedenfeld	10.1145/3409964.3461789
+Parallel Minimum Cuts in O(m log2n) Work and Low Depth.	Daniel Anderson,Guy E. Blelloch	10.1145/3409964.3461797
+Efficient Parallel Self-Adjusting Computation.	Daniel Anderson,Guy E. Blelloch,Anubhav Baweja,Umut A. Acar	10.1145/3409964.3461799
+Speed Scaling with Explorable Uncertainty.	Evripidis Bampis,Konstantinos Dogeas,Alexander V. Kononov,Giorgio Lucarelli,Fanny Pascual	10.1145/3409964.3461812
+Efficient Online Weighted Multi-Level Paging.	Nikhil Bansal 0001,Joseph (Seffi) Naor,Ohad Talmon	10.1145/3409964.3461801
+Block-Granularity-Aware Caching.	Nathan Beckmann,Phillip B. Gibbons,Charles McGuffey	10.1145/3409964.3461818
+Paging and the Address-Translation Problem.	Michael A. Bender,Abhishek Bhattacharjee,Alex Conway,Martin Farach-Colton,Rob Johnson,Sudarsun Kannan,William Kuszmaul,Nirjhar Mukherjee,Donald E. Porter,Guido Tagliavini,Janet Vorobyeva,Evan West	10.1145/3409964.3461814
+Network Scaffolding for Efficient Stabilization of the Chord Overlay Network.	Andrew Berns	10.1145/3409964.3461827
+Min-Max Gathering of Oblivious Robots.	Subhash Bhagat,Anisur Rahaman Molla	10.1145/3409964.3461829
+Massively Parallel Algorithms for Distance Approximation and Spanners.	Amartya Shankha Biswas,Michal Dory,Mohsen Ghaffari 0001,Slobodan Mitrovic,Yasamin Nazari	10.1145/3409964.3461784
+SPAA&apos;21 Panel Paper: Architecture-Friendly Algorithms versus Algorithm-Friendly Architectures.	Guy E. Blelloch,William J. Dally,Margaret Martonosi,Uzi Vishkin,Katherine A. Yelick	10.1145/3409964.3461780
+Finding Subgraphs in Highly Dynamic Networks.	Keren Censor-Hillel,Victor I. Kolobov,Gregory Schwartzman	10.1145/3409964.3461788
+On Sparsity Awareness in Distributed Computations.	Keren Censor-Hillel,Dean Leitersdorf,Volodymyr Polosukhin	10.1145/3409964.3461798
+PHPRX: An Efficient Hash Table for Persistent Memory.	Diego Cepeda,Wojciech M. Golab	10.1145/3409964.3461820
+Near-Optimal Time-Energy Trade-Offs for Deterministic Leader Election.	Yi-Jun Chang,Ran Duan,Shunhua Jiang	10.1145/3409964.3461830
+A Scalable Recoverable Skip List for Persistent Memory.	Sakib Chowdhury,Wojciech M. Golab	10.1145/3409964.3461819
+Hemlock: Compact and Scalable Mutual Exclusion.	Dave Dice,Alex Kogan	10.1145/3409964.3461805
+Efficient Stepping Algorithms and Implementations for Parallel Shortest Paths.	Xiaojun Dong 0001,Yan Gu 0001,Yihan Sun 0001,Yunming Zhang	10.1145/3409964.3461782
+Deterministic PRAM Approximate Shortest Paths in Polylogarithmic Time and Slightly Super-Linear Work.	Michael Elkin,Shaked Matar	10.1145/3409964.3461809
+Toward Self-Adjusting Networks for the Matching Model.	Evgeniy Feder,Ichha Rathod,Punit Shyamsukha,Robert Sama,Vitaly Aksenov,Iosif Salem,Stefan Schmid 0001	10.1145/3409964.3461824
+A Scalable Concurrent Algorithm for Dynamic Connectivity.	Alexander Fedorov,Nikita Koval,Dan Alistarh	10.1145/3409964.3461810
+Optimal Virtual Network Embeddings for Tree Topologies.	Aleksander Figiel,Leon Kellerhals,Rolf Niedermeier,Matthias Rost,Stefan Schmid 0001,Philipp Zschoche	10.1145/3409964.3461787
+Efficiency and Stability in Euclidean Network Design.	Wilhelm Friedemann,Tobias Friedrich 0001,Hans Gawendowicz,Pascal Lenzner,Anna Melnichenko,Jannik Peters 0001,Daniel Stephan,Michael Vaichenker	10.1145/3409964.3461807
+Deterministic Size Discovery and Topology Recognition in Radio Networks with Short Labels.	Adam Ganczorz,Tomasz Jurdzinski,Mateusz Lewko,Andrzej Pelc	10.1145/3409964.3461821
+Parallel Algorithms for Finding Large Cliques in Sparse Graphs.	Lukas Gianinazzi,Maciej Besta,Yannick Schaffner,Torsten Hoefler	10.1145/3409964.3461800
+On the Complexity of Load Balancing in Dynamic Networks.	Seth Gilbert,Uri Meir,Ami Paz,Gregory Schwartzman	10.1145/3409964.3461808
+Four Shades of Deterministic Leader Election in Anonymous Networks.	Barun Gorain,Avery Miller,Andrzej Pelc	10.1145/3409964.3461794
+BALM: QoS-Aware Memory Bandwidth Partitioning for Multi-Socket Cloud Nodes.	David Gureya,Vladimir Vlassov,João Barreto 0001	10.1145/3409964.3461823
+String Matching with Wildcards in the Massively Parallel Computation Model.	MohammadTaghi Hajiaghayi,Hamed Saleh,Saeed Seddighin,Xiaorui Sun	10.1145/3409964.3461793
+Non-Clairvoyant Scheduling with Predictions.	Sungjin Im,Ravi Kumar 0001,Mahshid Montazer Qaem,Manish Purohit	10.1145/3409964.3461790
+The Processing-in-Memory Model.	Hongbo Kang,Phillip B. Gibbons,Guy E. Blelloch,Laxman Dhulipala,Yan Gu 0001,Charles McGuffey	10.1145/3409964.3461816
+Supervised Average Consensus in Anonymous Dynamic Networks.	Dariusz R. Kowalski,Miguel A. Mosteiro	10.1145/3409964.3461811
+Scheduling Opportunistic Links in Two-Tiered Reconfigurable Datacenters.	Janardhan Kulkarni,Stefan Schmid 0001,Pawel Schmidt	10.1145/3409964.3461786
+Pebbles, Graphs, and a Pinch of Combinatorics: Towards Tight I/O Lower Bounds for Statically Analyzable Programs.	Grzegorz Kwasniewski,Tal Ben-Nun,Lukas Gianinazzi,Alexandru Calotoiu,Timo Schneider,Alexandros Nikolaos Ziogas,Maciej Besta,Torsten Hoefler	10.1145/3409964.3461796
+Analysis of Busy-Time Scheduling on Heterogeneous Machines.	Mozhengfu Liu,Xueyan Tang	10.1145/3409964.3461795
+Work-Optimal Parallel Minimum Cuts for Non-Sparse Graphs.	Andrés López-Martínez,Sagnik Mukhopadhyay,Danupon Nanongkai	10.1145/3409964.3461806
+Distributed Graph Coloring Made Easy.	Yannic Maus	10.1145/3409964.3461804
+Data Oblivious Algorithms for Multicores.	Vijaya Ramachandran,Elaine Shi	10.1145/3409964.3461783
+VBR: Version Based Reclamation.	Gali Sheffi,Maurice Herlihy,Erez Petrank	10.1145/3409964.3461817
+Semantic Conflict Detection for Transactional Data Structure Libraries.	Yaodong Sheng,Ahmed Hassan,Michael F. Spear	10.1145/3409964.3461826
+SPAA &apos;21: 33rd ACM Symposium on Parallelism in Algorithms and Architectures, Virtual Event, USA, 6-8 July, 2021	Kunal Agrawal,Yossi Azar	10.1145/3409964

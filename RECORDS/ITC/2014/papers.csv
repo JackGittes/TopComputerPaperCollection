@@ -1,0 +1,95 @@
+Low-distortion signal generation for ADC testing.	Fumitaka Abe,Yutaro Kobayashi,Kenji Sawada,Keisuke Kato,Osamu Kobayashi,Haruo Kobayashi 0001	10.1109/TEST.2014.7035304
+The importance of DFX, a foundry perspective.	Saman Adham,Jonathan Chang,Hung-Jen Liao,John Hung,Ting-Hua Hsieh	10.1109/TEST.2014.7035311
+A distributed, reconfigurable, and reusable bist infrastructure for 3D-stacked ICs.	Mukesh Agrawal 0001,Krishnendu Chakrabarty,Bill Eklow	10.1109/TEST.2014.7035333
+Spatio-temporal wafer-level correlation modeling with progressive sampling: A pathway to HVM yield estimation.	Ali Ahmadi,Ke Huang 0001,Suriyaprakash Natarajan,John M. Carulli Jr.,Yiorgos Makris	10.1109/TEST.2014.7035325
+The desire-friction ratio of Adaptive test.	Stacy Ajouri	10.1109/TEST.2014.7035289
+Read disturb fault detection in STT-MRAM.	Rajendra Bishnoi,Mojtaba Ebrahimi,Fabian Oboril,Mehdi Baradaran Tahoori	10.1109/TEST.2014.7035342
+Logic characterization vehicle design for maximal information extraction for yield learning.	Ronald D. Blanton,Ben Niewenhuis,Carl Taylor	10.1109/TEST.2014.7035345
+Energy-secure computer architectures.	Pradip Bose	10.1109/TEST.2014.7035284
+Concerns over predictability of supply and quality.	Carl Bowen	10.1109/TEST.2014.7035288
+Trading-off on-die observability for cache minimum supply voltage reduction in system-on-chip (SoC) processors.	Keith A. Bowman,Alex Park 0002,Venkat Narayanan,Francois Atallah,Alain Artieri,Sei Seung Yoon,Kendrick Yuen,David Hansquine	10.1109/TEST.2014.7035322
+Compositional verification using formal analysis for a flight critical system.	Guillaume Brat	10.1109/TEST.2014.7035309
+Fault sharing in a copy-on-write based ATPG system.	X. Cai,Peter Wohl,Daniel Martin 0002	10.1109/TEST.2014.7035349
+Analysis and test of the effects of single event upsets affecting the configuration memory of SRAM-based FPGAs.	Luca Cassano	10.1109/TEST.2014.7035366
+Divide and conquer diagnosis for multiple defects.	Shih-Min Chao,Po-Juei Chen,Jing-Yu Chen,Po-Hao Chen,Ang-Feng Lin,James Chien-Mo Li,Pei-Ying Hsueh,Chun-Yi Kuo,Ying-Yen Chen,Jih-Nung Li	10.1109/TEST.2014.7035362
+The case for analyzing system level failures using structural patterns.	Harry H. Chen	10.1109/TEST.2014.7035346
+Wafer Level Chip Scale Package copper pillar probing.	Hao Chen 0053,Hung-Chih Lin,Ching-Nen Peng,Min-Jer Wang	10.1109/TEST.2014.7035315
+Optimizing redundancy design for chip-multiprocessors for flexible utility functions.	Da Cheng,Sandeep K. Gupta	10.1109/TEST.2014.7035368
+Soft error resiliency characterization and improvement on IBM BlueGene/Q processor using accelerated proton irradiation.	Chen-Yong Cher,K. Paul Muller,Ruud A. Haring,David L. Satterfield,Thomas E. Musta,Thomas Gooding,Kristan D. Davis,Marc Boris Dombrowa,Gerard V. Kopcsay,Robert M. Senger,Yutaka Sugawara,Krishnan Sugavanam	10.1109/TEST.2014.7035317
+Delivering security by design in the Internet of Things.	Bill Curtis	10.1109/TEST.2014.7035283
+Low-cost phase noise testing of complex RF ICs using standard digital ATE.	Stephane David-Grignot,Florence Azaïs,Laurent Latorre,Francois Lefevre	10.1109/TEST.2014.7035301
+Massive signal tracing using on-chip DRAM for in-system silicon debug.	Sergej Deutsch,Krishnendu Chakrabarty	10.1109/TEST.2014.7035363
+Board security enhancement using new locking SIB-based architectures.	Jennifer Dworak,Zoe Conroy,Alfred L. Crouch,John C. Potter	10.1109/TEST.2014.7035355
+A Tag based solution for efficient utilization of efuse for memory repair.	Harsharaj Ellur,Kalpesh Shah	10.1109/TEST.2014.7035324
+Test pattern generation in presence of unknown values based on restricted symbolic logic.	Dominik Erb,Karsten Scheibler,Michael A. Kochte,Matthias Sauer 0002,Hans-Joachim Wunderlich,Bernd Becker 0001	10.1109/TEST.2014.7035350
+Testing silicon TV tuners on ATE without TV signal generator.	Y. Fan,A. Verma,J. Janney,S. Kumar	10.1109/TEST.2014.7035352
+Market opportunities and testing challenges for millimeter-wave radios and radars.	Brian A. Floyd	10.1109/TEST.2014.7035302
+Efficient SAT-based ATPG techniques for all multiple stuck-at faults.	Masahiro Fujita,Alan Mishchenko	10.1109/TEST.2014.7035351
+Big data and test.	Anne Gattiker	10.1109/TEST.2014.7035327
+Design and test of analog circuits towards sub-ppm level.	Georges G. E. Gielen,Wim Dobbelaere,Ronny Vanhooren,Anthony Coyette,Baris Esen	10.1109/TEST.2014.7035330
+Comparing the effectiveness of cache-resident tests against cycleaccurate deterministic functional patterns.	Sankar Gurumurthy,Mustansir Pratapgarhwala,Curtis Gilgan,Jeff Rearick	10.1109/TEST.2014.7035348
+On the testing of hazard activated open defects.	Chao Han,Adit D. Singh	10.1109/TEST.2014.7035277
+FAST-BIST: Faster-than-at-Speed BIST targeting hidden delay defects.	Sybille Hellebrand,Thomas Indlekofer,Matthias Kampmann,Michael A. Kochte,Chang Liu 0010,Hans-Joachim Wunderlich	10.1109/TEST.2014.7035360
+Error prediction and detection methodologies for reliable circuit operation under NBTI.	Julio Vazquez Hernandez	10.1109/TEST.2014.7035364
+Statistical silicon results of dynamic power integrity control of ATE for eliminating overkills and underkills.	Masahiro Ishida,Takashi Kusaka,Toru Nakura,Satoshi Komatsu,Kunihiro Asada	10.1109/TEST.2014.7035299
+Efficient RAS support for die-stacked DRAM.	Hyeran Jeon,Gabriel H. Loh,Murali Annavaram	10.1109/TEST.2014.7035318
+Efficient testing of hierarchical core-based SOCs.	Brion L. Keller,Krishna Chakravadhanula,Brian Foutz,Vivek Chickermane,Akhil Garg 0001,Richard Schoonover,James Sage,Don Pearl,Thomas J. Snethen	10.1109/TEST.2014.7035292
+Isometric test compression with low toggling activity.	Amit Kumar 0004,Mark Kassab,Elham K. Moghaddam,Nilanjan Mukherjee 0001,Janusz Rajski,Sudhakar M. Reddy,Jerzy Tyszer,Chen Wang 0014	10.1109/TEST.2014.7035293
+Latent defect detection in microcontroller embedded flash test using device stress and wordline outlier screening.	Andreas Kux,Rudolf Ullmann,Thomas Kern,Roland Strunz,Hanno Melzner,Stephan Beuven,Andreas Haase	10.1109/TEST.2014.7035298
+Emulation and its connection to test.	Kenneth Larsen	10.1109/TEST.2014.7035338
+Thermal-aware mobile SoC design and test in 14nm finfet technology.	Bong Hyun Lee	10.1109/TEST.2014.7035320
+Protecting against emerging vmin failures in advanced technology nodes.	J. K. Jerry Lee,Amr Haggag,William Eklow	10.1109/TEST.2014.7035278
+An efficient diagnosis-aware pattern generation procedure for transition faults.	Kuen-Jong Lee,Cheng-Hung Wu	10.1109/TEST.2014.7035361
+Yield and performance improvement through technology-design co-optimization in advanced technology nodes.	Yue Liang	10.1109/TEST.2014.7035312
+Redundancy architectures for channel-based 3D DRAM yield improvement.	Bing-Yang Lin,Wan-Ting Chiang,Cheng-Wen Wu,Mincent Lee,Hung-Chih Lin,Ching-Nen Peng,Min-Jer Wang	10.1109/TEST.2014.7035331
+Feature engineering with canonical analysis for effective statistical tests screening test escapes.	Fan Lin,Chun-Kai Hsu,Kwang-Ting Cheng	10.1109/TEST.2014.7035344
+Interposer test: Testing PCBs that have shrunk 100x.	T. M. Mak	10.1109/TEST.2014.7035334
+Vesuvius-3D: A 3D-DfT demonstrator.	Erik Jan Marinissen,Bart De Wachter,Stephen O&apos;Loughlin,Sergej Deutsch,Christos Papameletis,Tobias Burgherr	10.1109/TEST.2014.7035332
+Direct probing on large-array fine-pitch micro-bumps of a wide-I/O logic-memory interface.	Erik Jan Marinissen,Bart De Wachter,Ken Smith,Jorg Kiesewetter,Mottaqiallah Taouil,Said Hamdioui	10.1109/TEST.2014.7035314
+Recruiting distributed resources for grid resilience: The need for transparency.	Alexandra von Meier	10.1109/TEST.2014.7035287
+EAGLE: A regression model for fault coverage estimation using a simulation based metric.	Shahrzad Mirkhani,Jacob A. Abraham	10.1109/TEST.2014.7035347
+Systematic approach for trim test time optimization: Case study on a multi-core RF SOC.	Rajesh Mittal,Mudasir Kawoosa,Rubin A. Parekhji	10.1109/TEST.2014.7035319
+Teaching an old dog new tricks: Views on the future of mixed-signal IC design.	Boris Murmann	10.1109/TEST.2014.7035306
+Top ten challenges in Big Data security and privacy.	Praveen K. Murthy	10.1109/TEST.2014.7035307
+Improving test compression with scan feedforward techniques.	Sreenivaas S. Muthyala,Nur A. Touba	10.1109/TEST.2014.7035358
+Challenges of testing 100M chips.	Sajjad Pagarkar	10.1109/TEST.2014.7035300
+A built-in self-test circuit for jitter tolerance measurement in high-speed wireline receivers.	Myeong-Jae Park,Jaeha Kim	10.1109/TEST.2014.7035305
+A novel RF self test for a combo SoC on digital ATE with multi-site applications.	Chun-Hsien Peng,ChiaYu Yang,Adonis Tsu,Chung-Jin Tsai,Yosen Chen,C.-Y. Lin,Kai Hong,Kaipon Kao,Paul C. P. Liang,Chao Long Tsai,Charles Chien,H. C. Hwang	10.1109/TEST.2014.7035303
+Intra-die process variation aware anomaly detection in FPGAs.	Youngok K. Pino,Vinayaka Jyothi,Matthew French	10.1109/TEST.2014.7035343
+Clustering-based failure triage for RTL regression debugging.	Zissis Poulos,Andreas G. Veneris	10.1109/TEST.2014.7035339
+A diagnosis-friendly LBIST architecture with property checking.	Sarvesh Prabhu,Vineeth V. Acharya,Sharad Bagri,Michael S. Hsiao	10.1109/TEST.2014.7035359
+Welcome message.	Michael Purtell,Subhasish Mitra	10.1109/TEST.2014.7035248
+A reusable BIST with software assisted repair technology for improved memory and IO debug, validation and test time.	Bruce Querbach,Rahul Khanna,David Blankenbeckler,Yulan Zhang,Ronald T. Anderson,David G. Ellis,Zale T. Schoenborn,Sabyasachi Deyati,Patrick Chiang 0001	10.1109/TEST.2014.7035340
+A test probe for TSV using resonant inductive coupling.	Rashid Rashidzadeh,Iftekhar Ibne Basith	10.1109/TEST.2014.7035367
+Analytical MRAM test.	Raphael Robertazzi,Janusz Nowak,Jonathan Sun	10.1109/TEST.2014.7035341
+ATE and test equipment vendors; Hardware not software.	Mark Roos	10.1109/TEST.2014.7035291
+Process defect trends and strategic test gaps.	Paul G. Ryan,Irfan Aziz,William B. Howell,Teresa K. Janczak,Davia J. Lu	10.1109/TEST.2014.7035276
+DfST: Design for secure testability.	Samah Mohamed Saeed	10.1109/TEST.2014.7035365
+Test-mode-only scan attack and countermeasure for contemporary scan architectures.	Samah Mohamed Saeed,Sk Subidh Ali,Ozgur Sinanoglu,Ramesh Karri	10.1109/TEST.2014.7035357
+Microgrids as a resiliency resource.	Kevin Schneider	10.1109/TEST.2014.7035286
+A tale of two lives: Under test and in the wild.	Bianca Schroeder	10.1109/TEST.2014.7035316
+Mitigating voltage droop during scan with variable shift frequency.	John Schulze,Ryan Tally	10.1109/TEST.2014.7035295
+At-speed capture power reduction using layout-aware granular clock gate enable controls.	Raashid Shaikh,Pradeep Wilson,Khushboo Agarwal,H. V. Sanjay,Rajesh Tiwari,Kaushik Lath,Srivaths Ravi 0001	10.1109/TEST.2014.7035296
+On-chip constrained random stimuli generation for post-silicon validation using compact masks.	Xiaobing Shi,Nicola Nicolici	10.1109/TEST.2014.7035337
+Board manufacturing test correlation to IC manufacturing test.	C. Glenn Shirley,W. Robert Daasch,Phil Nigh,Zoe Conroy	10.1109/TEST.2014.7035336
+Collaboration and teamwork obstacles.	Wesley Smith	10.1109/TEST.2014.7035290
+Analog fault models: Back to the future?	Mani Soma	10.1109/TEST.2014.7035280
+Counterfeit IC detection using light emission.	Peilin Song,Franco Stellari,Alan J. Weger	10.1109/TEST.2014.7035356
+Practical random sampling of potential defects for analog fault simulation.	Stephen Sunter,Krzysztof Jurga,Peter Dingenen,Ronny Vanhooren	10.1109/TEST.2014.7035281
+Fast BIST of I/O Pin AC specifications and inter-chip delays.	Stephen Sunter,Saghir A. Shaikh,Qing Lin	10.1109/TEST.2014.7035297
+Managing signal, power and thermal integrity for 3D integration.	Madhavan Swaminathan	10.1109/TEST.2014.7035313
+Yield optimization using advanced statistical correlation methods.	Jeff Tikkanen,Sebastian Siatkowski,Nik Sumikawa,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2014.7035326
+Security solutions in the first-generation Zynq All-Programmable SoC.	Steve Trimberger	10.1109/TEST.2014.7035282
+Low cost back end signal processing driven bandwidth interleaved signal acquisition using free running undersampling clocks and mixing signals.	Nicholas Tzou,Debesh Bhatta,Abhijit Chatterjee	10.1109/TEST.2014.7035279
+Dynamic microgrids - A potential solution for enhanced resiliency in distribution systems.	Mani Vadari	10.1109/TEST.2014.7035285
+Software in a hardware view: New models for HW-dependent software in SoC verification and test.	Carlos Villarraga,Bernard Schmidt,Binghao Bao,Rakesh Raman,Christian Bartsch,Thomas Fehmel,Dominik Stoffel,Wolfgang Kunz	10.1109/TEST.2014.7035308
+A self-tuning architecture for buck converters based on alternative test.	Xian Wang 0003,Blanchard Kenfack,Estella Silva,Abhijit Chatterjee	10.1109/TEST.2014.7035353
+Achieving extreme scan compression for SoC Designs.	Peter Wohl,John A. Waicukauski,Jonathon E. Colburn,Milind Sonawane	10.1109/TEST.2014.7035294
+IC laser trimming speed-up through wafer-level spatial correlation modeling.	Constantinos Xanthopoulos,Ke Huang 0001,Abbas Poonawala,Amit Nahar,Bob Orr,John M. Carulli Jr.,Yiorgos Makris	10.1109/TEST.2014.7035329
+Fast co-test of linearity and spectral performance with non-coherent sampled and amplitude clipped data.	Li Xu,Degang Chen 0001	10.1109/TEST.2014.7035354
+Knowledge discovery and knowledge transfer in board-level functional fault diagnosis.	Fangming Ye,Zhaobo Zhang,Krishnendu Chakrabarty,Xinli Gu	10.1109/TEST.2014.7035335
+Design, technology and yield in the post-moore era.	Greg Yeric	10.1109/TEST.2014.7035310
+Robustness of TAP-based scan networks.	Farrokh Ghani Zadegan,Gunnar Carlsson,Erik Larsson	10.1109/TEST.2014.7035321
+Bayesian model fusion: Enabling test cost reduction of analog/RF circuits via wafer-level spatial variation modeling.	Shanghang Zhang,Xin Li 0001,Ronald D. Blanton,José Machado da Silva,John M. Carulli Jr.,Kenneth M. Butler	10.1109/TEST.2014.7035328
+Design, test &amp; repair methodology for FinFET-based memories.	Yervant Zorian	10.1109/TEST.2014.7035323
+2014 International Test Conference, ITC 2014, Seattle, WA, USA, October 20-23, 2014		

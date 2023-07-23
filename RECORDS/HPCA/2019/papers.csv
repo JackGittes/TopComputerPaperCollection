@@ -1,0 +1,57 @@
+E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs.	Zhe Li 0001,Caiwen Ding,Siyue Wang,Wujie Wen,Youwei Zhuo,Chang Liu,Qinru Qiu,Wenyao Xu,Xue Lin,Xuehai Qian,Yanzhi Wang	10.1109/HPCA.2019.00028
+FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads.	Jie Zhang 0048,Myoungsoo Jung,Mahmut T. Kandemir	10.1109/HPCA.2019.00055
+Power Aware Heterogeneous Node Assembly.	Bilge Acun,Alper Buyuktosunoglu,Eun Kyung Lee,Yoonho Park	10.1109/HPCA.2019.00068
+CIDR: A Cost-Effective In-Line Data Reduction System for Terabit-Per-Second Scale SSD Arrays.	Mohammadamin Ajdari,Pyeongsu Park,Joonsung Kim,Dongup Kwon,Jangwoo Kim	10.1109/HPCA.2019.00025
+Early Visibility Resolution for Removing Ineffectual Computations in the Graphics Pipeline.	Martí Anglada,Enrique de Lucas,Joan-Manuel Parcerisa,Juan L. Aragón,Antonio González 0001	10.1109/HPCA.2019.00015
+Rendering Elimination: Early Discard of Redundant Tiles in the Graphics Pipeline.	Martí Anglada,Enrique de Lucas,Joan-Manuel Parcerisa,Juan L. Aragón,Pedro Marcuello,Antonio González 0001	10.1109/HPCA.2019.00014
+Understanding the Impact of Socket Density in Density Optimized Servers.	Manish Arora,Matt Skach,Wei Huang 0004,Xudong An,Jason Mars,Lingjia Tang,Dean M. Tullsen	10.1109/HPCA.2019.00066
+Understanding the Future of Energy Efficiency in Multi-Module GPUs.	Akhil Arunkumar,Evgeny Bolotin,David W. Nellans,Carole-Jean Wu	10.1109/HPCA.2019.00063
+Shortcut Mining: Exploiting Cross-Layer Shortcut Reuse in DCNN Accelerators.	Arash AziziMazreah,Lizhong Chen	10.1109/HPCA.2019.00030
+Bingo Spatial Data Prefetcher.	Mohammad Bakhshalipour,Mehran Shakerinava,Pejman Lotfi-Kamran,Hamid Sarbazi-Azad	10.1109/HPCA.2019.00053
+Analysis and Optimization of the Memory Hierarchy for Graph Processing Workloads.	Abanti Basak,Shuangchen Li,Xing Hu 0001,Sang Min Oh,Xinfeng Xie,Li Zhao,Xiaowei Jiang,Yuan Xie 0001	10.1109/HPCA.2019.00051
+Resilient Low Voltage Accelerators for High Energy Efficiency.	Nandhini Chandramoorthy,Karthik Swaminathan,Martin Cochet,Arun Paidimarri,Schuyler Eldridge,Rajiv V. Joshi,Matthew M. Ziegler,Alper Buyuktosunoglu,Pradip Bose	10.1109/HPCA.2019.00034
+μDPM: Dynamic Power Management for the Microsecond Era.	Chih-Hsun Chou,Laxmi N. Bhuyan,Daniel Wong 0001	10.1109/HPCA.2019.00032
+Poise: Balancing Thread-Level Parallelism and Memory System Performance in GPUs Using Machine Learning.	Saumay Dublish,Vijay Nagarajan,Nigel P. Topham	10.1109/HPCA.2019.00061
+eQASM: An Executable Quantum Instruction Set Architecture.	Xiang Fu 0003,Leon Riesebos,M. A. Rol,Jeroen van Straten,J. van Someren,Nader Khammassi,Imran Ashraf,R. F. L. Vermeulen,V. Newsum,K. K. L. Loh,J. C. de Sterke,W. J. Vlothuizen,R. N. Schouten,Carmen G. Almudéver,Leonardo DiCarlo,Koen Bertels	10.1109/HPCA.2019.00040
+The Accelerator Wall: Limits of Chip Specialization.	Adi Fuchs,David Wentzlaff	10.1109/HPCA.2019.00023
+Killi: Runtime Fault Classification to Deploy Low Voltage Caches without MBIST.	Shrikanth Ganapathy,John Kalamatianos,Bradford M. Beckmann,Steven Raasch,Lukasz G. Szafaryn	10.1109/HPCA.2019.00046
+The What&apos;s Next Intermittent Computing Architecture.	Karthik Ganesan 0002,Joshua San Miguel,Natalie D. Enright Jerger	10.1109/HPCA.2019.00039
+The Best of IEEE Computer Architecture Letters in 2018.	Paul Gratz	10.1109/HPCA.2019.00060
+Gables: A Roofline Model for Mobile SoCs.	Mark D. Hill,Vijay Janapa Reddi	10.1109/HPCA.2019.00047
+Active-Routing: Compute on the Way for Near-Data Processing.	Jiayi Huang 0001,Ramprakash Reddy Puli,Pritam Majumder,Sungkeun Kim,Rahul Boyapati,Ki Hwan Yum,Eun Jung Kim 0001	10.1109/HPCA.2019.00018
+VIP: A Versatile Inference Processor.	Skand Hurkat,José F. Martínez	10.1109/HPCA.2019.00049
+POWERT Channels: A Novel Class of Covert CommunicationExploiting Power Management Vulnerabilities.	S. Karen Khatamifard,Longfei Wang,Amitabh Das,Selçuk Köse,Ulya R. Karpuzcu	10.1109/HPCA.2019.00045
+D-RaNGe: Using Commodity DRAM Devices to Generate True Random Numbers with Low Latency and High Throughput.	Jeremie S. Kim,Minesh Patel,Hasan Hassan,Lois Orosa 0001,Onur Mutlu	10.1109/HPCA.2019.00011
+NAND-Net: Minimizing Computational Complexity of In-Memory Processing for Binary Neural Networks.	Hyeonuk Kim,Jaehyeong Sim,Yeongjae Choi,Lee-Sup Kim	10.1109/HPCA.2019.00017
+PageSeer: Using Page Walks to Trigger Page Swaps in Hybrid Memory Systems.	Apostolos Kokolis,Dimitrios Skarlatos 0002,Josep Torrellas	10.1109/HPCA.2019.00012
+R3-DLA (Reduce, Reuse, Recycle): A More Efficient Approach to Decoupled Look-Ahead Architectures.	Sushant Kondguli,Michael C. Huang 0001	10.1109/HPCA.2019.00064
+Pliant: Leveraging Approximation to Improve Datacenter Resource Efficiency.	Neeraj Kulkarni,Feng Qi 0003,Christina Delimitrou	10.1109/HPCA.2019.00035
+Freeway: Maximizing MLP for Slice-Out-of-Order Execution.	Rakesh Kumar 0003,Mehdi Alipour,David Black-Schaffer	10.1109/HPCA.2019.00009
+A Scalable Priority-Aware Approach to Managing Data Center Server Power.	Yang Li 0183,Charles R. Lefurgy,Karthick Rajamani,Malcolm S. Allen-Ware,Guillermo J. Silva,Daniel D. Heimsoth,Saugata Ghose,Onur Mutlu	10.1109/HPCA.2019.00067
+Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks.	Peinan Li,Lutan Zhao,Rui Hou 0001,Lixin Zhang 0002,Dan Meng	10.1109/HPCA.2019.00043
+Stretch: Balancing QoS and Throughput for Colocated Server Workloads on SMT Cores.	Artemiy Margaritov,Siddharth Gupta 0003,Rekai González-Alberquilla,Boris Grot	10.1109/HPCA.2019.00024
+Enhancing Server Efficiency in the Face of Killer Microseconds.	Amirhossein Mirhosseini,Akshitha Sriraman,Thomas F. Wenisch	10.1109/HPCA.2019.00037
+String Figure: A Scalable and Elastic Memory Network Architecture.	Matheus Ogleari,Ye Yu 0001,Chen Qian 0001,Ethan L. Miller,Jishen Zhao	10.1109/HPCA.2019.00016
+Architecting Waferscale Processors - A GPU Case Study.	Saptadeep Pal,Daniel Petrisko,Matthew Tomei,Puneet Gupta 0001,Subramanian S. Iyer,Rakesh Kumar 0002	10.1109/HPCA.2019.00042
+Adaptive Voltage/Frequency Scaling and Core Allocation for Balanced Energy and Performance on Multicore CPUs.	George Papadimitriou 0001,Athanasios Chatzidimitriou,Dimitris Gizopoulos	10.1109/HPCA.2019.00033
+Elastic Instruction Fetching.	Arthur Perais,Rami Sheikh,Luke Yen,Michael McIlvaine,Robert D. Clancy	10.1109/HPCA.2019.00059
+Recycling Data Slack in Out-of-Order Cores.	Gokul Subramanian Ravi,Mikko H. Lipasti	10.1109/HPCA.2019.00065
+FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.	Sujoy Sinha Roy,Furkan Turan,Kimmo Järvinen 0001,Frederik Vercauteren,Ingrid Verbauwhede	10.1109/HPCA.2019.00052
+Reliability Evaluation of Mixed-Precision Architectures.	Fernando Fernandes dos Santos,Caio B. Lunardi,Daniel Oliveira 0002,Fabiano Libano,Paolo Rech	10.1109/HPCA.2019.00041
+Efficient Load Value Prediction Using Multiple Predictors and Filters.	Rami Sheikh,Derek Hower	10.1109/HPCA.2019.00057
+NoMap: Speeding-Up JavaScript Using Hardware Transactional Memory.	Thomas Shull,Jiho Choi,María Jesús Garzarán,Josep Torrellas	10.1109/HPCA.2019.00054
+HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array.	Linghao Song,Jiachen Mao,Youwei Zhuo,Xuehai Qian,Hai Li 0001,Yiran Chen 0001	10.1109/HPCA.2019.00027
+Darwin-WGA: A Co-processor Provides Increased Sensitivity in Whole Genome Alignments with High Speedup.	Yatish Turakhia,Sneha D. Goenka,Gill Bejerano,William J. Dally	10.1109/HPCA.2019.00050
+Composite-ISA Cores: Enabling Multi-ISA Heterogeneity Using a Single ISA.	Ashish Venkat,Harsha Basavaraj,Dean M. Tullsen	10.1109/HPCA.2019.00026
+BRB: Mitigating Branch Predictor Side-Channels.	Ilias Vougioukas,Nikos Nikoleris,Andreas Sandberg,Stephan Diestelhorst,Bashir M. Al-Hashimi,Geoff V. Merrett	10.1109/HPCA.2019.00058
+Featherlight Reuse-Distance Measurement.	Qingsen Wang,Xu Liu 0001,Milind Chabbi	10.1109/HPCA.2019.00056
+A Hybrid Framework for Fast and Accurate GPU Performance Estimation through Source-Level Analysis and Trace-Based Simulation.	Xiebing Wang,Kai Huang 0001,Alois C. Knoll,Xuehai Qian	10.1109/HPCA.2019.00062
+Poly: Efficient Heterogeneous System and Application Management for Interactive Applications.	Shuo Wang 0009,Yun Liang 0001,Wei Zhang 0012	10.1109/HPCA.2019.00038
+Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks.	Xiaowei Wang,Jiecao Yu,Charles Augustine,Ravi R. Iyer 0001,Reetuparna Das	10.1109/HPCA.2019.00029
+Machine Learning at Facebook: Understanding Inference at the Edge.	Carole-Jean Wu,David Brooks 0001,Kevin Chen,Douglas Chen,Sy Choudhury,Marat Dukhan,Kim M. Hazelwood,Eldad Isaac,Yangqing Jia,Bill Jia,Tommer Leyvand,Hao Lu,Yang Lu,Lin Qiao,Brandon Reagen,Joe Spisak,Fei Sun,Andrew Tulloch,Peter Vajda,Xiaodong Wang 0020,Yanghan Wang,Bram Wasti,Yiming Wu,Ran Xian,Sungjoo Yoo,Peizhao Zhang	10.1109/HPCA.2019.00048
+FPGA Accelerated INDEL Realignment in the Cloud.	Lisa Wu 0001,David Bruns-Smith,Frank A. Nothaft,Qijing Huang 0001,Sagar Karandikar,Johnny Le,Andrew Lin,Howard Mao,Brendan Sweeney,Krste Asanovic,David A. Patterson 0001,Anthony D. Joseph	10.1109/HPCA.2019.00044
+PIM-VR: Erasing Motion Anomalies In Highly-Interactive Virtual Reality World with Customized Memory Cube.	Chenhao Xie 0001,Xingyao Zhang,Ang Li 0006,Xin Fu,Shuaiwen Song	10.1109/HPCA.2019.00013
+Enabling Transparent Memory-Compression for Commodity Memory Systems.	Vinson Young,Sanjay Kariyappa,Moinuddin K. Qureshi	10.1109/HPCA.2019.00010
+Kelp: QoS for Accelerated Machine Learning Systems.	Haishan Zhu,David Lo 0003,Liqun Cheng,Rama Govindaraju,Parthasarathy Ranganathan,Mattan Erez	10.1109/HPCA.2019.00036
+Fine-Tuning the Active Timing Margin (ATM) Control Loop for Maximizing Multi-core Efficiency on an IBM POWER Server.	Yazhou Zu,Daniel Richins,Charles Lefurgy,Vijay Janapa Reddi	10.1109/HPCA.2019.00031
+25th IEEE International Symposium on High Performance Computer Architecture, HPCA 2019, Washington, DC, USA, February 16-20, 2019		

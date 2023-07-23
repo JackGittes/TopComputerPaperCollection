@@ -1,0 +1,62 @@
+Towards automatically improving package structure while respecting original design decisions.	Hani Abdeen,Houari A. Sahraoui,Osama Shata,Nicolas Anquetil,Stéphane Ducasse	10.1109/WCRE.2013.6671296
+Analyzing PL/1 legacy ecosystems: An experience report.	Erik Aeschlimann,Mircea Lungu,Oscar Nierstrasz,Carl F. Worms	10.1109/WCRE.2013.6671320
+Leveraging historical co-change information for requirements traceability.	Nasir Ali,Fehmi Jaafar,Ahmed E. Hassan	10.1109/WCRE.2013.6671311
+An approach to clone detection in behavioural models.	Elizabeth P. Antony,Manar H. Alalfi,James R. Cordy	10.1109/WCRE.2013.6671325
+Circe: A grammar-based oracle for testing Cross-site scripting in web applications.	Andrea Avancini,Mariano Ceccato	10.1109/WCRE.2013.6671301
+Evaluating architecture stability of software projects.	Lerina Aversano,Marco Molfetta,Maria Tortorella	10.1109/WCRE.2013.6671317
+3rd workshop on Mining Unstructured Data.	Alberto Bacchelli,Nicolas Bettenburg,Latifa Guerrouj,Sonia Haiduc	10.1109/WCRE.2013.6671333
+Workshop on open and original problems in software language engineering.	Anya Helene Bagge,Vadim Zaytsev	10.1109/WCRE.2013.6671334
+Empirical evidence of code decay: A systematic mapping study.	Ajay Bandi,Byron J. Williams,Edward B. Allen	10.1109/WCRE.2013.6671309
+Comparing and combining evolutionary couplings from interactions and commits.	Fasil Bantelay,Motahareh Bahrami Zanjani,Huzefa H. Kagdi	10.1109/WCRE.2013.6671306
+The influence of non-technical factors on code review.	Olga Baysal,Oleksii Kononenko,Reid Holmes,Michael W. Godfrey	10.1109/WCRE.2013.6671287
+A model-driven graph-matching approach for design pattern detection.	Mario Luca Bernardi,Marta Cimitile,Giuseppe Antonio Di Lucca	10.1109/WCRE.2013.6671292
+Effects of cloned code on software maintainability: A replicated developer study.	Debarshi Chatterji,Jeffrey C. Carver,Nicholas A. Kraft,Jan Harder	10.1109/WCRE.2013.6671286
+Who allocated my memory? Detecting custom memory allocators in C binaries.	Xi Chen 0038,Asia Slowinska,Herbert Bos	10.1109/WCRE.2013.6671277
+MemBrush: A practical tool to detect custom memory allocators in C binaries.	Xi Chen 0038,Asia Slowinska,Herbert Bos	10.1109/WCRE.2013.6671326
+Reconstructing program memory state from multi-gigabyte instruction traces to support interactive analysis.	Brendan Cleary,Patrick Gorman,Eric Verbeek 0002,Margaret-Anne D. Storey,Martin Salois,Frédéric Painchaud	10.1109/WCRE.2013.6671279
+Extracting business rules from COBOL: A model-based framework.	Valerio Cosentino,Jordi Cabot,Patrick Albert,Philippe Bauquel,Jacques Perronnet	10.1109/WCRE.2013.6671316
+Extracting business rules from COBOL: A model-based tool.	Valerio Cosentino,Jordi Cabot,Patrick Albert,Philippe Bauquel,Jacques Perronnet	10.1109/WCRE.2013.6671329
+Leveraging specifications of subcomponents to mine precise specifications of composite components.	Ziying Dai,Xiaoguang Mao,Yan Lei,Liqian Chen	10.1109/WCRE.2013.6671291
+LigRE: Reverse-engineering of control and data flow models for black-box XSS detection.	Fabien Duchene,Sanjay Rawat 0001,Jean-Luc Richier,Roland Groz	10.1109/WCRE.2013.6671300
+Lehman&apos;s laws in agile and non-agile projects.	Kelley Duran,Gabbie Burns,Paul Snell	10.1109/WCRE.2013.6671304
+PsybOt malware: A step-by-step decompilation case study.	Lukás Durfina,Jakub Kroustek,Petr Zemek	10.1109/WCRE.2013.6671321
+Clustering static analysis defect reports to reduce maintenance costs.	Zachary P. Fry,Westley Weimer	10.1109/WCRE.2013.6671303
+MemPick: High-level data structure detection in C/C++ binaries.	István Haller,Asia Slowinska,Herbert Bos	10.1109/WCRE.2013.6671278
+MemPick: A tool for data structure detection.	István Haller,Asia Slowinska,Herbert Bos	10.1109/WCRE.2013.6671327
+Genetic programming for Reverse Engineering.	Mark Harman,William B. Langdon,Westley Weimer	10.1109/WCRE.2013.6671274
+REdiffs: Refactoring-aware difference viewer for java.	Shinpei Hayashi,Sirinut Thangthumachit,Motoshi Saeki	10.1109/WCRE.2013.6671331
+Mining system specific rules from change patterns.	André C. Hora,Nicolas Anquetil,Stéphane Ducasse,Marco Túlio Valente	10.1109/WCRE.2013.6671308
+Reusing reused code.	Tomoya Ishihara,Keisuke Hotta,Yoshiki Higo,Shinji Kusumoto	10.1109/WCRE.2013.6671322
+On the effectiveness of accuracy of automated feature location technique.	Takashi Ishio,Shinpei Hayashi,Hiroshi Kazato,Tsuyoshi Oshima	10.1109/WCRE.2013.6671313
+Mining the relationship between anti-patterns dependencies and fault-proneness.	Fehmi Jaafar,Yann-Gaël Guéhéneuc,Sylvie Hamel,Foutse Khomh	10.1109/WCRE.2013.6671310
+Understanding project dissemination on a social coding site.	Jing Jiang 0005,Li Zhang 0029,Lei Li	10.1109/WCRE.2013.6671288
+Migrating a large scale legacy application to SOA: Challenges and lessons learned.	Ravi Khadka,Amir Saeidi,Slinger Jansen,Jurriaan Hage,Geer P. Haas	10.1109/WCRE.2013.6671318
+Using relationships for matching textual domain models with existing code.	Raghavan Komondoor,Indrajit Bhattacharya,Deepak D&apos;Souza,Sachin Kale	10.1109/WCRE.2013.6671312
+CCCD: Concolic code clone detection.	Daniel E. Krutz,Emad Shihab	10.1109/WCRE.2013.6671332
+Reverse Engineering in Industry.	Ralf Lämmel	10.1109/WCRE.2013.6671276
+Capture-replay vs. programmable web testing: An empirical assessment during test case evolution.	Maurizio Leotta,Diego Clerissi,Filippo Ricca,Paolo Tonella	10.1109/WCRE.2013.6671302
+What help do developers seek, when and how?	Hongwei Li 0017,Zhenchang Xing,Xin Peng 0001,Wenyun Zhao	10.1109/WCRE.2013.6671289
+Has this bug been reported?	Kaiping Liu,Hee Beng Kuan Tan,Hongyu Zhang 0002	10.1109/WCRE.2013.6671283
+Heuristics for discovering architectural violations.	Cristiano Amaral Maffort,Marco Túlio Valente,Mariza Andrade da Silva Bigonha,Nicolas Anquetil,André C. Hora	10.1109/WCRE.2013.6671297
+The first decade of GUI ripping: Extensions, applications, and broader impacts.	Atif M. Memon,Ishan Banerjee,Bao N. Nguyen,Bryan Robbins	10.1109/WCRE.2013.6671275
+Documenting APIs with examples: Lessons learned with the APIMiner platform.	João Eduardo Montandon,Hudson Borges,Daniel Felix,Marco Túlio Valente	10.1109/WCRE.2013.6671315
+Improving SOA antipatterns detection in Service Based Systems by mining execution traces.	Mathieu Nayrolles,Naouel Moha,Petko Valtchev	10.1109/WCRE.2013.6671307
+Specification extraction by symbolic execution.	Josef Pichler	10.1109/WCRE.2013.6671323
+An IDE-based context-aware meta search engine.	Mohammad Masudur Rahman 0001,Shamima Yeasmin,Chanchal K. Roy	10.1109/WCRE.2013.6671324
+An incremental update framework for efficient retrieval from software libraries for bug localization.	Shivani Rao,Henry Medeiros 0001,Avinash C. Kak	10.1109/WCRE.2013.6671281
+Gelato: GEneric language tools for model-driven analysis of legacy software systems.	Amir Saeidi,Jurriaan Hage,Ravi Khadka,Slinger Jansen	10.1109/WCRE.2013.6671328
+Recommending Move Method refactorings using dependency sets.	Vitor Sales,Ricardo Terra,Luis Fernando Miranda,Marco Túlio Valente	10.1109/WCRE.2013.6671298
+Assessing the complexity of upgrading software modules.	Bram Schoenmakers,Niels van den Broek,Istvan Nagy 0001,Bogdan Vasilescu,Alexander Serebrenik	10.1109/WCRE.2013.6671319
+Static binary rewriting without supplemental information: Overcoming the tradeoff between coverage and correctness.	Matthew Smithson,Khaled Elwazeer,Kapil Anand,Aparna Kotha,Rajeev Barua	10.1109/WCRE.2013.6671280
+Towards understanding how developers spend their effort during maintenance activities.	Zéphyrin Soh,Foutse Khomh,Yann-Gaël Guéhéneuc,Giuliano Antoniol	10.1109/WCRE.2013.6671290
+On the effect of program exploration on maintenance tasks.	Zéphyrin Soh,Foutse Khomh,Yann-Gaël Guéhéneuc,Giuliano Antoniol,Bram Adams	10.1109/WCRE.2013.6671314
+Detecting dependencies in Enterprise JavaBeans with SQuAVisiT.	Alexandru Sutii,Serguei A. Roubtsov,Alexander Serebrenik	10.1109/WCRE.2013.6671330
+Automatic discovery of function mappings between similar libraries.	Cédric Teyton,Jean-Rémy Falleri,Xavier Blanc 0001	10.1109/WCRE.2013.6671294
+Find your library experts.	Cédric Teyton,Jean-Rémy Falleri,Floréal Morandat,Xavier Blanc 0001	10.1109/WCRE.2013.6671295
+Automatic recovery of root causes from bug-fixing changes.	Ferdian Thung,David Lo 0001,Lingxiao Jiang	10.1109/WCRE.2013.6671284
+Automated library recommendation.	Ferdian Thung,David Lo 0001,Julia Lawall	10.1109/WCRE.2013.6671293
+Inferring Extended Finite State Machine models from software executions.	Neil Walkinshaw,Ramsay Taylor,John Derrick	10.1109/WCRE.2013.6671305
+Accurate developer recommendation for bug resolution.	Xin Xia 0001,David Lo 0001,Xinyu Wang 0001,Bo Zhou 0010	10.1109/WCRE.2013.6671282
+Distilling useful clones by contextual differencing.	Zhenchang Xing,Yinxing Xue,Stan Jarzabek	10.1109/WCRE.2013.6671285
+Do developers care about code smells? An exploratory survey.	Aiko Fallas Yamashita,Leon Moonen	10.1109/WCRE.2013.6671299
+20th Working Conference on Reverse Engineering, WCRE 2013, Koblenz, Germany, October 14-17, 2013	Ralf Lämmel,Rocco Oliveto,Romain Robbes	

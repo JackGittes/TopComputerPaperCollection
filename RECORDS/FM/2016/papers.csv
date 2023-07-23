@@ -1,0 +1,51 @@
+Counter-Example Guided Program Verification.	Parosh Aziz Abdulla,Mohamed Faouzi Atig,Bui Phi Diep	10.1007/978-3-319-48989-6_2
+Tighter Reachability Criteria for Deadlock-Freedom Analysis.	Pedro R. G. Antonino,Thomas Gibson-Robinson,A. W. Roscoe 0001	10.1007/978-3-319-48989-6_3
+Compositional Parameter Synthesis.	Lacramioara Astefanoaei,Saddek Bensalem,Marius Bozga,Chih-Hong Cheng,Harald Ruess	10.1007/978-3-319-48989-6_4
+Combining Mechanized Proofs and Model-Based Testing in the Formal Analysis of a Hypervisor.	Hanno Becker,Juan Manuel Crespo,Jacek Galowicz,Ulrich Hensel,Yoichi Hirai,César Kunz,Keiko Nakata 0001,Jorge Luis Sacchini,Hendrik Tews,Thomas Tuerk	10.1007/978-3-319-48989-6_5
+A Model Checking Approach to Discrete Bifurcation Analysis.	Nikola Benes,Lubos Brim,Martin Demko,Samuel Pastva,David Safránek	10.1007/978-3-319-48989-6_6
+Battery-Aware Scheduling in Low Orbit: The GomX-3 Case.	Morten Bisgaard,David Gerhardt,Holger Hermanns,Jan Krcál,Gilles Nies,Marvin Stenger	10.1007/978-3-319-48989-6_34
+State-Space Reduction of Non-deterministically Synchronizing Systems Applicable to Deadlock Detection in MPI.	Stanislav Böhm,Ondrej Meca,Petr Jancar	10.1007/978-3-319-48989-6_7
+Model-Based Design of an Energy-System Embedded Controller Using Taste.	Roberto Cavada,Alessandro Cimatti,Luigi Crema,Mattia Roccabruna,Stefano Tonetta	10.1007/978-3-319-48989-6_45
+Formal Verification of Multi-Paxos for Distributed Consensus.	Saksham Chand,Yanhong A. Liu,Scott D. Stoller	10.1007/978-3-319-48989-6_8
+Validated Simulation-Based Verification of Delayed Differential Dynamics.	Mingshuai Chen,Martin Fränzle,Yangjia Li,Peter Nazier Mosaad,Naijun Zhan	10.1007/978-3-319-48989-6_9
+Towards Learning and Verifying Invariants of Cyber-Physical Systems by Code Mutation.	Yuqi Chen 0001,Christopher M. Poskitt,Jun Sun 0001	10.1007/978-3-319-48989-6_10
+From Electrical Switched Networks to Hybrid Automata.	Alessandro Cimatti,Sergio Mover,Mirko Sessa	10.1007/978-3-319-48989-6_11
+Danger Invariants.	Cristina David,Pascal Kesseli,Daniel Kroening,Matt Lewis	10.1007/978-3-319-48989-6_12
+Local Planning of Multiparty Interactions with Bounded Horizons.	Mahieddine Dellabani,Jacques Combaz,Marius Bozga,Saddek Bensalem	10.1007/978-3-319-48989-6_13
+Finding Suitable Variability Abstractions for Family-Based Analysis.	Aleksandar S. Dimovski,Claus Brabrand,Andrzej Wasowski	10.1007/978-3-319-48989-6_14
+Recovering High-Level Conditions from Binary Programs.	Adel Djoudi,Sébastien Bardin,Éric Goubault	10.1007/978-3-319-48989-6_15
+Simulink to UPPAAL Statistical Model Checker: Analyzing Automotive Industrial Systems.	Predrag Filipovikj,Nesredin Mahmud,Raluca Marinescu,Cristina Seceleanu,Oscar Ljungkrantz,Henrik Lönn	10.1007/978-3-319-48989-6_46
+Upper and Lower Amortized Cost Bounds of Programs Expressed as Cost Relations.	Antonio Flores-Montoya	10.1007/978-3-319-48989-6_16
+Exploring Model Quality for ACAS X.	Dimitra Giannakopoulou,Dennis Guck,Johann Schumann	10.1007/978-3-319-48989-6_17
+Learning Moore Machines from Input-Output Traces.	Georgios Giantamidis,Stavros Tripakis	10.1007/978-3-319-48989-6_18
+Modal Kleene Algebra Applied to Program Correctness.	Victor B. F. Gomes,Georg Struth	10.1007/978-3-319-48989-6_19
+Mechanised Verification Patterns for Dafny.	Gudmund Grov,Yuhui Lin,Vytautas Tumas	10.1007/978-3-319-48989-6_20
+Formalising and Validating the Interface Description in the FMI Standard.	Miran Hasanagic,Peter W. V. Tran-Jørgensen,Kenneth Lausdahl,Peter Gorm Larsen	10.1007/978-3-319-48989-6_21
+An Algebra of Synchronous Atomic Steps.	Ian J. Hayes,Robert J. Colvin,Larissa A. Meinicke,Kirsten Winter,Andrius Velykis	10.1007/978-3-319-48989-6_22
+Error Invariants for Concurrent Traces.	Andreas Holzer,Daniel Schwartz-Narbonne,Mitra Tabaei Befrouei,Georg Weissenbacher,Thomas Wies	10.1007/978-3-319-48989-6_23
+An Executable Formalisation of the SPARCv8 Instruction Set Architecture: A Case Study for the LEON3 Processor.	Zhe Hou,David Sanán,Alwen Tiu,Yang Liu 0003,Koh Chuen Hoa	10.1007/978-3-319-48989-6_24
+Safety-Assured Formal Model-Driven Design of the Multifunction Vehicle Bus Controller.	Yu Jiang 0001,Han Liu 0010,Houbing Song,Hui Kong,Ming Gu 0001,Jiaguang Sun 0001,Lui Sha	10.1007/978-3-319-48989-6_47
+Hybrid Statistical Estimation of Mutual Information for Quantifying Information Flow.	Yusuke Kawamoto 0001,Fabrizio Biondi,Axel Legay	10.1007/978-3-319-48989-6_25
+A Generic Logic for Proving Linearizability.	Artem Khyzha,Alexey Gotsman,Matthew J. Parkinson	10.1007/978-3-319-48989-6_26
+Refactoring Refinement Structure of Event-B Machines.	Tsutomu Kobayashi,Fuyuki Ishikawa,Shinichi Honiden	10.1007/978-3-319-48989-6_27
+Towards Concolic Testing for Hybrid Systems.	Pingfan Kong,Yi Li 0010,Xiaohong Chen 0002,Jun Sun 0001,Meng Sun 0002,Jingyi Wang 0004	10.1007/978-3-319-48989-6_28
+Explaining Relaxed Memory Models with Program Transformations.	Ori Lahav,Viktor Vafeiadis	10.1007/978-3-319-48989-6_29
+SpecCert: Specifying and Verifying Hardware-Based Security Enforcement.	Thomas Letan,Pierre Chifflier,Guillaume Hiet,Pierre Néron,Benjamin Morin	10.1007/978-3-319-48989-6_30
+Automated Verification of Timed Security Protocols with Clock Drift.	Li Li 0044,Jun Sun 0001,Jin Song Dong	10.1007/978-3-319-48989-6_31
+Taming Interrupts for Verifying Industrial Multifunction Vehicle Bus Controllers.	Han Liu 0010,Yu Jiang 0001,Huafeng Zhang,Ming Gu 0001,Jiaguang Sun 0001	10.1007/978-3-319-48989-6_48
+Rule-Based Incremental Verification Tools Applied to Railway Designs and Regulations.	Bjørnar Luteberget,Christian Johansen,Claus Feyling,Martin Steffen	10.1007/978-3-319-48989-6_49
+Dealing with Incompleteness in Automata-Based Model Checking.	Claudio Menghi,Paola Spoletini,Carlo Ghezzi	10.1007/978-3-319-48989-6_32
+Equivalence Checking of a Floating-Point Unit Against a High-Level C Model.	Rajdeep Mukherjee,Saurabh Joshi 0001,Andreas Griesmayer,Daniel Kroening,Tom Melham	10.1007/978-3-319-48989-6_33
+Discounted Duration Calculus.	Heinrich Ody,Martin Fränzle,Michael R. Hansen	10.1007/978-3-319-48989-6_35
+Industrial-Strength Model-Based Testing of Safety-Critical Systems.	Jan Peleska 0001,Wen-ling Huang	10.1007/978-3-319-48989-6_1
+Sound and Complete Mutation-Based Program Repair.	Bat-Chen Rothenberg,Orna Grumberg	10.1007/978-3-319-48989-6_36
+An Implementation of Deflate in Coq.	Christoph-Simon Senjak,Martin Hofmann 0001	10.1007/978-3-319-48989-6_37
+Decoupling Abstractions of Non-linear Ordinary Differential Equations.	Andrew Sogokon,Khalil Ghorbal,Taylor T. Johnson	10.1007/978-3-319-48989-6_38
+RIVER: A Binary Analysis Framework Using Symbolic Execution and Reversible x86 Instructions.	Teodor Stoenescu,Alin Stefanescu,Sorina Predut,Florentin Ipate	10.1007/978-3-319-48989-6_50
+Regression Verification for Unbalanced Recursive Functions.	Ofer Strichman,Maor Veitsman	10.1007/978-3-319-48989-6_39
+Automated Mutual Explicit Induction Proof in Separation Logic.	Quang-Trung Ta,Ton Chanh Le,Siau-Cheng Khoo,Wei-Ngan Chin	10.1007/978-3-319-48989-6_40
+Finite Model Finding Using the Logic of Equality with Uninterpreted Functions.	Amirhossein Vakili,Nancy A. Day	10.1007/978-3-319-48989-6_41
+GPUexplore 2.0: Unleashing GPU Explicit-State Model Checking.	Anton Wijs,Thomas Neele,Dragan Bosnacki	10.1007/978-3-319-48989-6_42
+Approximate Bisimulation and Discretization of Hybrid CSP.	Gaogao Yan,Li Jiao,Yangjia Li,Shuling Wang,Naijun Zhan	10.1007/978-3-319-48989-6_43
+A Linear Programming Relaxation Based Approach for Generating Barrier Certificates of Hybrid Systems.	Zhengfeng Yang,Chao Huang 0015,Xin Chen 0027,Wang Lin,Zhiming Liu 0001	10.1007/978-3-319-48989-6_44
+FM 2016: Formal Methods - 21st International Symposium, Limassol, Cyprus, November 9-11, 2016, Proceedings	John S. Fitzgerald,Constance L. Heitmeyer,Stefania Gnesi,Anna Philippou	10.1007/978-3-319-48989-6

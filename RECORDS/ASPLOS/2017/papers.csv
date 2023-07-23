@@ -1,0 +1,59 @@
+Thermostat: Application-transparent Page Management for Two-tiered Main Memory.	Neha Agarwal,Thomas F. Wenisch	10.1145/3037697.3037706
+3DGates: An Instruction-Level Energy Analysis and Optimization of 3D Printers.	Jerry Ajay,Chen Song 0001,Aditya Singh Rathore,Chi Zhou 0004,Wenyao Xu	10.1145/3037697.3037752
+AMNESIAC: Amnesic Automatic Computer.	Ismail Akturk,Ulya R. Karpuzcu	10.1145/3037697.3037741
+Voltage Regulator Efficiency Aware Power Management.	Yuxin Bai,Victor W. Lee,Engin Ipek	10.1145/3037697.3037717
+Breaking the Boundaries in Heterogeneous-ISA Datacenters.	Antonio Barbalace,Robert Lyerly,Christopher Jelesnianski,Anthony Carno,Ho-Ren Chuang,Vincent Legout,Binoy Ravindran	10.1145/3037697.3037738
+Translation-Triggered Prefetching.	Abhishek Bhattacharjee	10.1145/3037697.3037705
+Improving Datacenter Efficiency.	Ricardo Bianchini	10.1145/3037697.3046426
+Black-box Concurrent Data Structures for NUMA Architectures.	Irina Calciu,Siddhartha Sen 0001,Mahesh Balakrishnan 0001,Marcos K. Aguilera	10.1145/3037697.3037721
+Prophet: Precise QoS Prediction on Non-Preemptive Accelerators to Improve Utilization in Warehouse-Scale Computers.	Quan Chen 0002,Hailong Yang,Minyi Guo,Ram Srivatsa Kannan,Jason Mars,Lingjia Tang	10.1145/3037697.3037700
+Determining Application-specific Peak Power and Energy Requirements for Ultra-low Power Processors.	Hari Cherupalli,Henry Duwe,Weidong Ye,Rakesh Kumar 0002,John Sartori	10.1145/3037697.3037711
+CHERI JNI: Sinking the Java Security Model into the C.	David Chisnall,Brooks Davis,Khilan Gudka,David Brazdil,Alexandre Joannou,Jonathan Woodruff,A. Theodore Markettos,J. Edward Maste,Robert M. Norton,Stacey D. Son,Michael Roe,Simon W. Moore,Peter G. Neumann,Ben Laurie,Robert N. M. Watson	10.1145/3037697.3037725
+Sound Loop Superoptimization for Google Native Client.	Berkeley R. Churchill,Rahul Sharma 0001,J. F. Bastien,Alex Aiken	10.1145/3037697.3037754
+Efficient Address Translation for Architectures with Multiple Page Sizes.	Guilherme Cox,Abhishek Bhattacharjee	10.1145/3037697.3037704
+Bolt: I Know What You Did Last Summer... In The Cloud.	Christina Delimitrou,Christos Kozyrakis	10.1145/3037697.3037703
+Exploiting Intra-Request Slack to Improve SSD Performance.	Nima Elyasi,Mohammad Arjomand,Anand Sivasubramaniam,Mahmut T. Kandemir,Chita R. Das,Myoungsoo Jung	10.1145/3037697.3037728
+Verification of a Practical Hardware Security Architecture Through Static Information Flow Analysis.	Andrew Ferraiuolo,Rui Xu,Danfeng Zhang,Andrew C. Myers,G. Edward Suh	10.1145/3037697.3037739
+TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.	Mingyu Gao 0001,Jing Pu,Xuan Yang,Mark Horowitz,Christos Kozyrakis	10.1145/3037697.3037702
+GRIFFIN: Guarding Control Flows Using Intel Processor Trace.	Xinyang Ge,Weidong Cui,Trent Jaeger	10.1145/3037697.3037716
+AsyncClock: Scalable Inference of Asynchronous Event Causality.	Chun-Hung Hsiao,Satish Narayanasamy,Essam Muhammad Idris Khan,Cristiano L. Pereira,Gilles A. Pokam	10.1145/3037697.3037712
+Towards &quot;Full Containerization&quot; in Containerized Network Function Virtualization.	Yang Hu 0001,Mingcong Song,Tao Li 0006	10.1145/3037697.3037713
+Pallas: Semantic-Aware Checking for Finding Deep Bugs in Fast Path.	Jian Huang 0006,Michael Allen-Bond,Xuechen Zhang	10.1145/3037697.3037743
+Approximate Storage of Compressed and Encrypted Videos.	Djordje Jevdjic,Karin Strauss,Luis Ceze,Henrique S. Malvar	10.1145/3037697.3037718
+Mallacc: Accelerating Memory Allocation.	Svilen Kanev,Sam Likun Xi,Gu-Yeon Wei,David M. Brooks	10.1145/3037697.3037736
+Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge.	Yiping Kang,Johann Hauswald,Cao Gao,Austin Rovinski,Trevor N. Mudge,Jason Mars,Lingjia Tang	10.1145/3037697.3037698
+Moonwalk: NRE Optimization in ASIC Clouds.	Moein Khazraee,Lu Zhang,Luis Vega,Michael Bedford Taylor	10.1145/3037697.3037749
+Typed Architectures: Architectural Support for Lightweight Scripting.	Channoh Kim,Jaehyeok Kim,Sungmin Kim,Doo-Young Kim,Namho Kim,Gitae Na,Young H. Oh,Hyeon-Gyu Cho,Jae W. Lee	10.1145/3037697.3037726
+Kill the Program Counter: Reconstructing Program Behavior in the Processor Cache Hierarchy.	Jinchun Kim,Elvira Teran,Paul V. Gratz,Daniel A. Jiménez,Seth H. Pugsley,Chris Wilkerson	10.1145/3037697.3037701
+ReFlex: Remote Flash ≈ Local Flash.	Ana Klimovic,Heiner Litz,Christos Kozyrakis	10.1145/3037697.3037732
+Hardware-Software Co-design to Mitigate DRAM Refresh Overheads: A Case for Refresh-Aware Process Scheduling.	Jagadish B. Kotra,Narges Shahidi,Zeshan A. Chishti,Mahmut T. Kandemir	10.1145/3037697.3037724
+Page Fault Support for Network Controllers.	Ilya Lesokhin,Haggai Eran,Shachar Raindel,Guy Shapiro,Sagi Grimberg,Liran Liss,Muli Ben-Yehuda,Nadav Amit,Dan Tsafrir	10.1145/3037697.3037710
+SaberLDA: Sparsity-Aware Learning of Topic Models on GPUs.	Kaiwei Li,Jianfei Chen 0001,Wenguang Chen,Jun Zhu 0001	10.1145/3037697.3037740
+Locality-Aware CTA Clustering for Modern GPUs.	Ang Li 0006,Shuaiwen Leon Song,Weifeng Liu 0002,Xu Liu 0001,Akash Kumar 0001,Henk Corporaal	10.1145/3037697.3037709
+DCatch: Automatically Detecting Distributed Concurrency Bugs in Cloud Systems.	Haopeng Liu,Guangpu Li,Jeffrey F. Lukman,Jiaxin Li,Shan Lu 0001,Haryadi S. Gunawi,Chen Tian 0002	10.1145/3037697.3037735
+IncBricks: Toward In-Network Computation with an In-Network Cache.	Ming Liu 0027,Liang Luo,Jacob Nelson,Luis Ceze,Arvind Krishnamurthy,Kishore Atreya	10.1145/3037697.3037731
+DudeTM: Building Durable Transactions with Decoupling for Persistent Memory.	Mengxing Liu,Mingxing Zhang,Kang Chen,Xuehai Qian,Yongwei Wu,Weimin Zheng,Jinglei Ren	10.1145/3037697.3037714
+Automated Synthesis of Comprehensive Memory Model Litmus Test Suites.	Daniel Lustig,Andrew Wright,Alexandros Papakonstantinou,Olivier Giroux	10.1145/3037697.3037723
+Towards Practical Default-On Multi-Core Record/Replay.	Ali José Mashtizadeh,Tal Garfinkel,David Terei,David Mazières,Mendel Rosenblum	10.1145/3037697.3037751
+An Architecture Supporting Formal and Compositional Binary Analysis.	Joseph McMahan,Michael Christensen 0001,Lawton Nichols,Jared Roesch,Sung-Yee Guo,Ben Hardekopf,Timothy Sherwood	10.1145/3037697.3037733
+Enabling Lightweight Transactions with Precision Time.	Pulkit A. Misra,Jeffrey S. Chase,Johannes Gehrke,Alvin R. Lebeck	10.1145/3037697.3037722
+An Analysis of Persistent Memory Use with WHISPER.	Sanketh Nalli,Swapnil Haria,Mark D. Hill,Michael M. Swift,Haris Volos 0001,Kimberly Keeton	10.1145/3037697.3037730
+What Scalable Programs Need from Transactional Memory.	Donald Nguyen,Keshav Pingali	10.1145/3037697.3037750
+Crossing Guard: Mediating Host-Accelerator Coherence Interactions.	Lena E. Olson,Mark D. Hill,David A. Wood 0001	10.1145/3037697.3037715
+Dynamic Resource Management for Efficient Utilization of Multitasking GPUs.	Jason Jong Kyu Park,Yongjun Park 0001,Scott A. Mahlke	10.1145/3037697.3037707
+Browsix: Bridging the Gap Between Unix and the Browser.	Bobby Powers,John Vilk,Emery D. Berger	10.1145/3037697.3037727
+Optimizing CNNs on Multicores for Scalability, Performance and Goodput.	Samyam Rajbhandari,Yuxiong He,Olatunji Ruwase,Michael Carbin,Trishul M. Chilimbi	10.1145/3037697.3037745
+SC-DCNN: Highly-Scalable Deep Convolutional Neural Network using Stochastic Computing.	Ao Ren,Zhe Li 0001,Caiwen Ding,Qinru Qiu,Yanzhi Wang,Ji Li 0006,Xuehai Qian,Bo Yuan 0001	10.1145/3037697.3037746
+Failure-Atomic Slotted Paging for Persistent Memory.	Jihye Seo,Wook-Hee Kim,Woongki Baek,Beomseok Nam,Sam H. Noh	10.1145/3037697.3037737
+History-Based Arbitration for Fairness in Processor-Interconnect of NUMA Servers.	WonJun Song,Gwangsun Kim,Hyungjoon Jung,Jongwook Chung,Jung Ho Ahn,Jae W. Lee,John Kim	10.1145/3037697.3037753
+Locality Transformations for Nested Recursive Iteration Spaces.	Kirshanthan Sundararajah,Laith Sakka,Milind Kulkarni 0001	10.1145/3037697.3037720
+TriCheck: Memory Model Verification at the Trisection of Software, Hardware, and ISA.	Caroline Trippel,Yatin A. Manerkar,Daniel Lustig,Michael Pellauer,Margaret Martonosi	10.1145/3037697.3037719
+KickStarter: Fast and Accurate Computations on Streaming Graphs via Trimmed Approximations.	Keval Vora,Rajiv Gupta 0001,Guoqing Xu 0001	10.1145/3037697.3037748
+CoRAL: Confined Recovery in Distributed Asynchronous Graph Processing.	Keval Vora,Chen Tian 0002,Rajiv Gupta 0001,Ziang Hu	10.1145/3037697.3037747
+Graspan: A Single-machine Disk-based Graph System for Interprocedural Static Analyses of Large-scale Systems Code.	Kai Wang 0029,Aftab Hussain 0001,Zhiqiang Zuo 0002,Guoqing Xu 0001,Ardalan Amiri Sani	10.1145/3037697.3037744
+REDSPY: Exploring Value Locality in Software.	Shasha Wen,Milind Chabbi,Xu Liu 0001	10.1145/3037697.3037729
+FLEP: Enabling Flexible and Efficient Preemption on GPUs.	Bo Wu 0002,Xu Liu 0001,Xiaobo Zhou 0002,Changjun Jiang	10.1145/3037697.3037742
+ProRace: Practical Data Race Detection for Production Use.	Tong Zhang,Changhee Jung,Dongyoon Lee	10.1145/3037697.3037708
+Identifying Security Critical Properties for the Dynamic Verification of a Processor.	Rui Zhang 0068,Natalie Stanley,Christopher Griggs,Andrew Chi,Cynthia Sturton	10.1145/3037697.3037734
+Big Data Analytics and Intelligence at Alibaba Cloud.	Jingren Zhou	10.1145/3037697.3037699
+Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2017, Xi&apos;an, China, April 8-12, 2017	Yunji Chen,Olivier Temam,John Carter	10.1145/3037697

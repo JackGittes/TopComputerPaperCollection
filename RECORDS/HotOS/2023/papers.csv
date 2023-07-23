@@ -1,0 +1,30 @@
+Beyond isolation: OS verification as a foundation for correct applications.	Matthias Brun 0002,Reto Achermann,Tej Chajed,Jon Howell,Gerd Zellweger,Andrea Lattuada	10.1145/3593856.3595899
+NextGen-Malloc: Giving Memory Allocator Its Own Room in the House.	Ruihao Li 0002,Qinzhe Wu,Krishna Kavi,Gayatri Mehta,Neeraja J. Yadwadkar,Lizy K. John	10.1145/3593856.3595911
+Why write address translation OS code yourself when you can synthesize it?	Reto Achermann,Ilias Karimalis,Margo I. Seltzer	10.1145/3593856.3595895
+Programming Fully Disaggregated Systems.	Christoph Anneser,Lukas Vogel 0001,Ferdinand Gruber,Maximilian Bandle,Jana Giceva	10.1145/3593856.3595889
+Evolving Operating System Kernels Towards Secure Kernel-Driver Interfaces.	Anton Burtsev,Vikram Narayanan,Yongzhe Huang,Kaiming Huang,Gang Tan,Trent Jaeger	10.1145/3593856.3595914
+Creating Trust by Abolishing Hierarchies.	Charly Castes,Adrien Ghosn,Neelu S. Kalani,Yuchen Qian,Marios Kogias,Mathias Payer,Edouard Bugnion	10.1145/3593856.3595900
+Putting out the hardware dumpster fire.	Ben Fiedler,Daniel Schwyn,Constantin Gierczak-Galle,David A. Cock,Timothy Roscoe	10.1145/3593856.3595903
+Towards Increased Datacenter Efficiency with Soft Memory.	Megan Frisella,Shirley Loayza Sanchez,Malte Schwarzkopf	10.1145/3593856.3595902
+Towards Modern Development of Cloud Applications.	Sanjay Ghemawat,Robert Grandl,Srdjan Petrovic,Michael Whittaker,Parveen Patel,Ivan Posva,Amin Vahdat	10.1145/3593856.3595909
+Skadi: Building a Distributed Runtime for Data Systems in Disaggregated Data Centers.	Cunchen Hu,Chenxi Wang,Sa Wang,Ninghui Sun,Yungang Bao,Jieru Zhao,Sanidhya Kashyap,Pengfei Zuo,Xusheng Chen,Liangliang Xu,Qin Zhang,Hao Feng,Yizhou Shan	10.1145/3593856.3595897
+The Case for Performance Interfaces for Hardware Accelerators.	Rishabh R. Iyer,Jiacheng Ma,Katerina J. Argyraki,George Candea,Sylvia Ratnasamy	10.1145/3593856.3595904
+Kernel extension verification is untenable.	Jinghao Jia,Raj Sahu,Adam Oswald,Dan Williams,Michael V. Le,Tianyin Xu	10.1145/3593856.3595892
+Towards a Manageable Intra-Host Network.	Xinhao Kong,Jiaqi Lou,Wei Bai 0001,Nam Sung Kim,Danyang Zhuo	10.1145/3593856.3595890
+Towards (Really) Safe and Fast Confidential I/O.	Hugo Lefeuvre,David Chisnall,Marios Kogias,Pierre Olivier	10.1145/3593856.3595913
+Executing Shell Scripts in the Wrong Order, Correctly.	Georgios Liargkovas,Konstantinos Kallas,Michael Greenberg 0002,Nikos Vasilakis	10.1145/3593856.3595891
+Fabric-Centric Computing.	Ming Liu	10.1145/3593856.3595907
+Out of Hand for Hardware? Within Reach for Software!	Zhihong Luo,Silvery Fu,Emmanuel Amaro,Amy Ousterhout,Sylvia Ratnasamy,Scott Shenker	10.1145/3593856.3595898
+Software-Defined CPU Modes.	Michael Roitzsch,Till Miemietz,Christian von Elm,Nils Asmussen	10.1145/3593856.3595894
+Unleashing True Utility Computing with Quicksand.	Zhenyuan Ruan,Shihang Li,Kaiyan Fan,Marcos K. Aguilera,Adam Belay,Seo Jin Park,Malte Schwarzkopf	10.1145/3593856.3595893
+Automatic Kernel Offload Using BPF.	Farbod Shahinfar,Sebastiano Miano,Giuseppe Siracusano,Roberto Bifulco,Aurojit Panda,Gianni Antichi	10.1145/3593856.3595888
+HotGPT: How to Make Software Documentation More Useful with a Large Language Model?	Yiming Su,Chengcheng Wan,Utsav Sethi,Shan Lu 0001,Madan Musuvathi,Suman Nath	10.1145/3593856.3595910
+FBMM: Using the VFS for Extensibility in Kernel Memory Management.	Bijan Tabatabai,Mark Mansi,Michael M. Swift	10.1145/3593856.3595908
+CPU-free Computing: A Vision with a Blueprint.	Animesh Trivedi,Marco Spaziani Brunella	10.1145/3593856.3595906
+Prefetching Using Principles of Hippocampal-Neocortical Interaction.	Michael Wu,Ketaki Joshi,Andrew Sheinberg,Guilherme Cox,Anurag Khandelwal,Raghavendra Pradyumna Pothukuchi,Abhishek Bhattacharjee	10.1145/3593856.3595901
+System Virtualization for Neural Processing Units.	Yuqi Xue,Yiqi Liu,Jian Huang 0006	10.1145/3593856.3595912
+FIFO can be Better than LRU: the Power of Lazy Promotion and Quick Demotion.	Juncheng Yang,Ziyue Qiu,Yazhuo Zhang,Yao Yue,K. V. Rashmi	10.1145/3593856.3595887
+Access Control for Database Applications: Beyond Policy Enforcement.	Wen Zhang,Aurojit Panda,Scott Shenker	10.1145/3593856.3595905
+Metal: An Open Architecture for Developing Processor Features.	Siyao Zhao,Ali José Mashtizadeh	10.1145/3593856.3595915
+Degrading Data to Save the Planet.	Aviad Zuck,Donald E. Porter,Dan Tsafrir	10.1145/3593856.3595896
+Proceedings of the 19th Workshop on Hot Topics in Operating Systems, HOTOS 2023, Providence, RI, USA, June 22-24, 2023	Malte Schwarzkopf,Andrew Baumann,Natacha Crooks	10.1145/3593856

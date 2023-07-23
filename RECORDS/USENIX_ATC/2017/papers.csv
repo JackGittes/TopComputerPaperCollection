@@ -1,0 +1,65 @@
+cHash: Detection of Redundant Compilations via AST Hashing.	Christian Dietrich 0001,Valentin Rothberg,Ludwig Füracker,Andreas Ziegler 0002,Daniel Lohmann	
+Squeezing out All the Value of Loaded Data: An Out-of-core Graph Processing System with Reduced Disk I/O.	Zhiyuan Ai,Mingxing Zhang,Yongwei Wu,Xuehai Qian,Kang Chen,Weimin Zheng	
+Optimizing the TLB Shootdown Algorithm with Page Access Tracking.	Nadav Amit	
+TRIAD: Creating Synergies Between Memory, Disk and Log in Log Structured Key-Value Stores.	Oana Balmau,Diego Didona,Rachid Guerraoui,Willy Zwaenepoel,Huapeng Yuan,Aashray Arora,Karan Gupta,Pavan Konka	
+SPIN: Seamless Operating System Integration of Peer-to-Peer DMA Between SSDs and GPUs.	Shai Bergman,Tanya Brokhman,Tzachi Cohen,Mark Silberstein	
+Hyperbolic Caching: Flexible Caching for Web Applications.	Aaron Blankstein,Siddhartha Sen 0001,Michael J. Freedman	
+Persona: A High-Performance Bioinformatics Framework.	Stuart Byma,Sam Whitlock,Laura Flueratoru,Ethan Tseng,Christos Kozyrakis,Edouard Bugnion,James R. Larus	
+Giza: Erasure Coding Objects across Global Data Centers.	Yu Lin Chen,Shuai Mu 0001,Jinyang Li 0001,Cheng Huang 0002,Jin Li 0001,Aaron Ogus,Douglas Phillips	
+Preemptive, Low Latency Datacenter Scheduling via Lightweight Virtualization.	Wei Chen 0038,Jia Rao,Xiaobo Zhou 0002	
+Memshare: a Dynamic Multi-tenant Key-value Cache.	Asaf Cidon,Daniel Rushton,Stephen M. Rumble,Ryan Stutsman	
+Optimizing the Design and Implementation of the Linux ARM Hypervisor.	Christoffer Dall,Shih-Wei Li,Jason Nieh	
+Soft Updates Made Simple and Fast on Non-volatile Memory.	Mingkai Dong 0002,Haibo Chen 0001	
+Multi-Hypervisor Virtual Machines: Enabling an Ecosystem of Hypervisor-level Services.	Kartik Gopalan,Rohith Kugve,Hardik Bagdi,Yaohui Hu,Dan Williams,Nilton Bila	
+Unobtrusive Deferred Update Stabilization for Efficient Geo-Replication.	Chathuri Gunawardhana,Manuel Bravo,Luís E. T. Rodrigues	
+Pricing Intra-Datacenter Networks with Over-Committed Bandwidth Guarantee.	Jian Guo,Fangming Liu,Tao Wang,John C. S. Lui	
+SmartMD: A High Performance Deduplication Engine with Mixed Pages.	Fan Guo,Yongkun Li 0001,Yinlong Xu,Song Jiang 0001,John C. S. Lui	
+Improving File System Performance of Mobile Storage Systems Using a Decoupled Defragmenter.	Sangwook Shane Hahn,Sungjin Lee 0001,Cheng Ji,Li-Pin Chang,Inhyuk Yee,Liang Shi,Chun Jason Xue,Jihong Kim 0001	
+High-Resolution Side Channels for Untrusted Operating Systems.	Marcus Hähnel,Weidong Cui,Marcus Peinado	
+GPU Taint Tracking.	Ari B. Hayes,Lingda Li,Mohammad Hedayati,Jia-Huan He,Eddy Z. Zhang,Kai Shen	
+Ending the Anomaly: Achieving Low Latency and Airtime Fairness in WiFi.	Toke Høiland-Jørgensen,Michal Kazior,Dave Täht,Per Hurtig,Anna Brunström	
+Log-Structured Non-Volatile Main Memory.	Qingda Hu,Jinglei Ren,Anirudh Badam,Jiwu Shu,Thomas Moscibroda	
+Towards Production-Run Heisenbugs Reproduction on Commercial Hardware.	Shiyou Huang,Bowen Cai 0006,Jeff Huang 0001	
+Don&apos;t cry over spilled records: Memory elasticity of data-parallel applications and its application to cluster scheduling.	Calin Iorgulescu,Florin Dinu,Aunn Raza,Wajih Ul Hassan,Willy Zwaenepoel	
+Scalable NUMA-aware Blocking Synchronization Primitives.	Sanidhya Kashyap,Changwoo Min,Taesoo Kim	
+CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems.	Su Yong Kim,Sangho Lee 0001,Insu Yun,Wen Xu 0002,Byoungyoung Lee,Youngtae Yun,Taesoo Kim	
+Falcon: Scaling IO Performance in Multi-SSD Volumes.	Pradeep Kumar,H. Howie Huang	
+Mercury: Bandwidth-Effective Prevention of Rollback Attacks Against Community Repositories.	Trishank Karthik Kuppusamy,Vladimir Diaz,Justin Cappos	
+Fast and Precise Retrieval of Forward and Back Porting Information for Linux Device Drivers.	Julia Lawall,Derek Palinski,Lukas Gnirke,Gilles Muller	
+Lock-in-Pop: Securing Privileged Operating System Kernels by Keeping on the Beaten Path.	Yiwen Li,Brendan Dolan-Gavitt,Sam Weber,Justin Cappos	
+Repair Pipelining for Erasure-Coded Storage.	Runhui Li,Xiaolu Li 0002,Patrick P. C. Lee,Qun Huang 0001	
+PARIX: Speculative Partial Writes in Erasure-Coded Systems.	Huiba Li,Yiming Zhang 0003,Zhiming Zhang,Shengyun Liu,Dongsheng Li 0001,Xiaohui Liu,Yuxing Peng 0001	
+Glamdring: Automatic Application Partitioning for Intel SGX.	Joshua Lind,Christian Priebe,Divya Muthukumaran,Dan O&apos;Keeffe,Pierre-Louis Aublin,Florian Kelbert,Tobias Reiher,David Goltzsche,David M. Eyers,Rüdiger Kapitza,Christof Fetzer,Peter R. Pietzuch	
+Octopus: an RDMA-enabled Distributed Persistent Memory File System.	Youyou Lu,Jiwu Shu,Youmin Chen,Tao Li	
+Garaph: Efficient GPU-accelerated Graph Processing on a Single Machine with Balanced Replication.	Lingxiao Ma,Zhi Yang 0001,Han Chen,Jilong Xue,Yafei Dai	
+Proactive error prediction to improve storage system reliability.	Farzaneh Mahdisoltani,Ioan A. Stefanovici,Bianca Schroeder	
+Everything you always wanted to know about multicore graph processing but were afraid to ask.	Jasmina Malicevic,Baptiste Lepers,Willy Zwaenepoel	
+Execution Templates: Caching Control Plane Decisions for Strong Scaling of Data Analytics.	Omid Mashayekhi,Hang Qu,Chinmayee Shah,Philip Alexander Levis	
+Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks.	William Melicher,Blase Ur,Saranga Komanduri,Lujo Bauer,Nicolas Christin,Lorrie Faith Cranor	
+StreamBox: Modern Stream Processing on a Multicore Machine.	Hongyu Miao 0002,Heejin Park,Myeongjae Jeon,Gennady Pekhimenko,Kathryn S. McKinley,Felix Xiaozhu Lin	
+Scaling Distributed File Systems in Resource-Harvesting Datacenters.	Pulkit A. Misra,Iñigo Goiri,Jason Kace,Ricardo Bianchini	
+Engineering Record and Replay for Deployability.	Robert O&apos;Callahan,Chris Jones,Nathan Froyd,Kyle Huey,Albert Noll,Nimrod Partush	
+iJournaling: Fine-Grained Journaling for Improving the Latency of Fsync System Call.	Daejun Park 0002,Dongkun Shin	
+deTector: a Topology-aware Monitoring System for Data Center Networks.	Yanghua Peng,Ji Yang,Chuan Wu 0001,Chuanxiong Guo,Chengchen Hu,Zongpeng Li	
+Application Crash Consistency and Performance with CCFS.	Thanumalayan Sankaranarayana Pillai,Ramnatthan Alagappan,Lanyue Lu,Vijay Chidambaram,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+A DSL Approach to Reconcile Equivalent Divergent Program Executions.	Luís Pina,Daniel Grumberg,Anastasios Andronidis,Cristian Cadar	
+The RCU-Reader Preemption Problem in VMs.	Aravinda Prasad,K. Gopinath,Paul E. McKenney	
+PrivApprox: Privacy-Preserving Stream Analytics.	Do Le Quoc,Martin Beck,Pramod Bhatotia,Ruichuan Chen,Christof Fetzer,Thorsten Strufe	
+Push-Button Verification of File Systems via Crash Refinement.	Helgi Sigurbjarnarson,James Bornholt,Nicolas Christin,Lorrie Faith Cranor	
+E-Team: Practical Energy Accounting for Multi-Core Systems.	Till Smejkal,Marcus Hähnel,Thomas Ilsche,Michael Roitzsch,Wolfgang E. Nagel,Hermann Härtig	
+Protego: Cloud-Scale Multitenant IPsec Gateway.	Jeongseok Son,Yongqiang Xiong,Kun Tan,Paul Wang,Ze Gan,Sue Moon	
+Titan: Fair Packet Scheduling for Commodity Multiqueue NICs.	Brent E. Stephens,Arjun Singhvi,Aditya Akella,Michael M. Swift	
+Emu: Rapid Prototyping of Networking Services.	Nik Sultana,Salvator Galea,David Greaves,Marcin Wójcik,Jonny Shipton,Richard G. Clegg,Luo Mai,Pietro Bressana,Robert Soulé,Richard Mortier,Paolo Costa,Peter R. Pietzuch,Jon Crowcroft,Andrew W. Moore 0002,Noa Zilberman	
+SmartCuckoo: A Fast and Cost-Efficient Hashing Index Scheme for Cloud Storage Systems.	Yuanyuan Sun,Yu Hua 0001,Song Jiang 0001,Qiuyu Li,Shunde Cao,Pengfei Zuo	
+Understanding Security Implications of Using Containers in the Cloud.	Byung-Chul Tak,Canturk Isci,Sastry S. Duri,Nilton Bila,Shripad Nadgowda,James Doran	
+Popularity Prediction of Facebook Videos for Higher Quality Streaming.	Linpeng Tang,Qi Huang,Amit Puntambekar,Ymir Vigfusson,Wyatt Lloyd,Kai Li	
+Graphene-SGX: A Practical Library OS for Unmodified Applications on SGX.	Chia-che Tsai,Donald E. Porter,Mona Vij	
+Cache Modeling and Optimization using Miniature Simulations.	Carl A. Waldspurger,Trausti Saemundsson,Irfan Ahmad 0005,Nohhyun Park	
+Elastic Memory Management for Cloud Data Analytics.	Jingjing Wang 0008,Magdalena Balazinska	
+Replication-driven Live Reconfiguration for Fast Distributed Transaction Processing.	Xingda Wei,Sijie Shen,Rong Chen 0001,Haibo Chen 0001	
+MopEye: Opportunistic Monitoring of Per-app Mobile Network Performance.	Daoyuan Wu,Rocky K. C. Chang,Weichao Li 0001,Eric K. T. Cheng,Debin Gao	
+HiKV: A Hybrid Index Key-Value Store for DRAM-NVM Memory Systems.	Fei Xia,Dejun Jiang 0001,Jin Xiong,Ninghui Sun	
+Early Detection of Configuration Errors to Reduce Failure Damage.	Tianyin Xu,Xinxin Jin,Peng Huang 0005,Yuanyuan Zhou 0001,Shan Lu 0001,Long Jin,Shankar Pasupathy	
+Bunshin: Compositing Security Mechanisms through Diversification.	Meng Xu 0001,Kangjie Lu,Taesoo Kim,Wenke Lee	
+Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters.	Hao Zhang 0025,Zeyu Zheng,Shizhen Xu,Wei Dai 0003,Qirong Ho,Xiaodan Liang,Zhiting Hu,Jinliang Wei,Pengtao Xie,Eric P. Xing	
+2017 USENIX Annual Technical Conference, USENIX ATC 2017, Santa Clara, CA, USA, July 12-14, 2017.	Dilma Da Silva,Bryan Ford	

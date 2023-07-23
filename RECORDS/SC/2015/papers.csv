@@ -1,0 +1,84 @@
+A work-efficient algorithm for parallel unordered depth-first search.	Umut A. Acar,Arthur Charguéraud,Mike Rainey	10.1145/2807591.2807651
+CilkSpec: optimistic concurrency for Cilk.	Shaizeen Aga,Sriram Krishnamoorthy,Satish Narayanasamy	10.1145/2807591.2807597
+Energy-aware data transfer algorithms.	Ismail Alan,Engin Arslan,Tevfik Kosar	10.1145/2807591.2807628
+Understanding the propagation of transient errors in HPC applications.	Rizwan A. Ashraf,Roberto Gioiosa,Gokcen Kestor,Ronald F. DeMara,Chen-Yong Cher,Pradip Bose	10.1145/2807591.2807670
+GossipMap: a distributed community detection algorithm for billion-edge directed graphs.	Seung-Hee Bae,Bill Howe	10.1145/2807591.2807668
+Finding the limits of power-constrained application performance.	Peter E. Bailey,Aniruddha Marathe,David K. Lowenthal,Barry Rountree,Martin Schulz 0001	10.1145/2807591.2807637
+Massively parallel phase-field simulations for ternary eutectic directional solidification.	Martin Bauer 0003,Johannes Hötzer,Marcus Jainta,Philipp Steinmetz,Marco Berghoff,Florian Schornbaum,Christian Godenschwager,Harald Köstler,Britta Nestler,Ulrich Rüde	10.1145/2807591.2807662
+Memory access patterns: the missing piece of the multi-GPU puzzle.	Tal Ben-Nun,Ely Levy,Amnon Barak,Eri Rubin	10.1145/2807591.2807611
+Multi-objective job placement in clusters.	Sergey Blagodurov,Alexandra Fedorova,Evgeny Vinnik,Tyler Dwyer,Fabien Hermenier	10.1145/2807591.2807636
+Pushing back the limit of ab-initio quantum transport simulations on hybrid supercomputers.	Mauro Calderara,Sascha Brück,Andreas Pedersen,Mohammad H. Bani-Hashemian,Joost VandeVondele,Mathieu Luisier	10.1145/2807591.2807673
+IOrchestra: supporting high-performance data-intensive applications in the cloud via collaborative virtualization.	Ron Chi-Lung Chiang,H. Howie Huang,Timothy Wood 0001,Changbin Liu,Oliver Spatscheck	10.1145/2807591.2807633
+Dynamic power sharing for higher job throughput.	Daniel A. Ellsworth,Allen D. Malony,Barry Rountree,Martin Schulz 0001	10.1145/2807591.2807643
+Parallel distributed memory construction of suffix and longest common prefix arrays.	Patrick Flick,Srinivas Aluru	10.1145/2807591.2807609
+A parallel connectivity algorithm for de Bruijn graphs in metagenomic applications.	Patrick Flick,Chirag Jain,Tony Pan,Srinivas Aluru	10.1145/2807591.2807619
+The Spack package manager: bringing order to HPC software chaos.	Todd Gamblin,Matthew P. LeGendre,Michael R. Collette,Gregory L. Lee,Adam Moody,Bronis R. de Supinski,Scott Futral	10.1145/2807591.2807623
+Local recovery and failure masking for stencil-based applications at extreme scales.	Marc Gamell,Keita Teranishi,Michael A. Heroux,Jackson R. Mayo,Hemanth Kolla,Jacqueline Chen,Manish Parashar	10.1145/2807591.2807672
+Improving backfilling by using machine learning to predict running times.	Éric Gaussier,David Glesser,Valentin Reis,Denis Trystram	10.1145/2807591.2807646
+HipMer: an extreme-scale de novo genome assembler.	Evangelos Georganas,Aydin Buluç,Jarrod Chapman,Steven A. Hofmeyr,Chaitanya Aluru,Rob Egan,Leonid Oliker,Daniel Rokhsar,Katherine A. Yelick	10.1145/2807591.2807664
+Monetary cost optimizations for MPI-based HPC applications on Amazon clouds: checkpoints and replicated execution.	Yifan Gong 0003,Bingsheng He,Amelie Chi Zhou	10.1145/2807591.2807612
+Fault tolerant MapReduce-MPI for HPC clusters.	Yanfei Guo,Wesley Bland,Pavan Balaji,Xiaobo Zhou 0002	10.1145/2807591.2807617
+STELLA: a domain-specific tool for structured grid methods in weather and climate models.	Tobias Gysi,Carlos Osuna,Oliver Fuhrer,Mauro Bianco,Thomas C. Schulthess	10.1145/2807591.2807627
+Practical scalable consensus for pseudo-synchronous distributed systems.	Thomas Hérault,Aurélien Bouteiller,George Bosilca,Marc Gamell,Keita Teranishi,Manish Parashar,Jack J. Dongarra	10.1145/2807591.2807665
+Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results.	Torsten Hoefler,Roberto Belli	10.1145/2807591.2807644
+PGX.D: a fast distributed graph processing engine.	Sungpack Hong,Siegfried Depner,Thomas Manhardt,Jan Van Der Lugt,Merijn Verstraaten,Hassan Chafi	10.1145/2807591.2807620
+Improving the scalability of the ocean barotropic solver in the community earth system model.	Yong Hu,Xiaomeng Huang,Allison H. Baker,Yu-heng Tseng,Frank O. Bryan,John M. Dennis,Guangwen Yang	10.1145/2807591.2807596
+Implicit nonlinear wave simulation with 1.08T DOF and 0.270T unstructured finite elements to enhance comprehensive earthquake simulation.	Tsuyoshi Ichimura,Kohei Fujita,Pher Errol Balde Quinay,Lalith Maddegedara,Muneo Hori,Seizo Tanaka,Yoshihisa Shizawa,Hiroshi Kobayashi,Kazuo Minami	10.1145/2807591.2807674
+Analyzing and mitigating the impact of manufacturing variability in power-constrained supercomputing.	Yuichi Inadomi,Tapasya Patki,Koji Inoue,Mutsumi Aoyagi,Barry Rountree,Martin Schulz 0001,David K. Lowenthal,Yasutaka Wada,Keiichiro Fukazawa,Masatsugu Ueda,Masaaki Kondo,Ikuo Miyoshi	10.1145/2807591.2807638
+Recovering logical structure from Charm++ event traces.	Katherine E. Isaacs,Abhinav Bhatele,Jonathan Lifflander,David Böhme,Todd Gamblin,Martin Schulz 0001,Bernd Hamann,Peer-Timo Bremer	10.1145/2807591.2807634
+Exploiting asynchrony from exact forward recovery for DUE in iterative solvers.	Luc Jaulmes,Marc Casas,Miquel Moretó,Eduard Ayguadé,Jesús Labarta,Mateo Valero	10.1145/2807591.2807599
+Network endpoint congestion control for fine-grained communication.	Nan Jiang 0009,Larry R. Dennison,William J. Dally	10.1145/2807591.2807600
+STS-k: a multilevel sparse triangular solution scheme for NUMA multicores.	Humayun Kabir,Joshua Dennis Booth,Guillaume Aupy,Anne Benoit,Yves Robert,Padma Raghavan	10.1145/2807591.2807667
+Particle tracking in open simulation laboratories.	Kalin Kanov,Randal C. Burns	10.1145/2807591.2807645
+Cost-effective diameter-two topologies: analysis and evaluation.	Georgios Kathareios,Cyriel Minkenberg,Bogdan Prisacari,Germán Rodríguez,Torsten Hoefler	10.1145/2807591.2807652
+Scalable sparse tensor decompositions in distributed memory systems.	Oguz Kaya,Bora Uçar	10.1145/2807591.2807624
+An elegant sufficiency: load-aware differentiated scheduling of data transfers.	Rajkumar Kettimuthu,Gayane Vardoyan,Gagan Agrawal,P. Sadayappan,Ian T. Foster	10.1145/2807591.2807660
+Bridging OpenCL and CUDA: a comparative analysis and translation.	Junghyun Kim,Thanh Tuan Dao,Jaehoon Jung,Jinyoung Joo,Jaejin Lee	10.1145/2807591.2807621
+Frugal ECC: efficient and versatile memory error protection through fine-grained compression.	Jungrae Kim,Michael B. Sullivan 0001,Seong-Lyong Gong,Mattan Erez	10.1145/2807591.2807659
+Big omics data experience.	Patricia A. Kovatch,Anthony Costa,Zachary Giles,Eugene Fluder,Hyung Min Cho,Svetlana Mazurkova	10.1145/2807591.2807595
+Data partitioning strategies for graph workloads on heterogeneous clusters.	Michael LeBeane,Shuang Song 0007,Reena Panda,Jee Ho Ryoo,Lizy K. John	10.1145/2807591.2807632
+Scaling iterative graph computations with GraphMap.	Kisung Lee,Ling Liu 0001,Karsten Schwan,Calton Pu,Qi Zhang 0009,Yang Zhou 0001,Emre Yigitoglu,Pingpeng Yuan	10.1145/2807591.2807604
+Adaptive and transparent cache bypassing for GPUs.	Ang Li 0006,Gert-Jan van den Braak,Akash Kumar 0001,Henk Corporaal	10.1145/2807591.2807606
+An input-adaptive and in-place approach to dense tensor-times-matrix multiply.	Jiajia Li 0001,Casey Battaglino,Ioakeim Perros,Jimeng Sun 0001,Richard W. Vuduc	10.1145/2807591.2807671
+Enterprise: breadth-first graph traversal on GPUs.	Hang Liu 0001,H. Howie Huang	10.1145/2807591.2807594
+C2-bound: a capacity and concurrency driven analytical model for many-core design.	Yu-Hang Liu,Xian-He Sun	10.1145/2807591.2807641
+Elastic job bundling: an adaptive resource request strategy for large-scale parallel applications.	Feng Liu,Jon B. Weissman	10.1145/2807591.2807610
+ScaAnalyzer: a tool to identify memory scalability bottlenecks in parallel programs.	Xu Liu 0001,Bo Wu 0002	10.1145/2807591.2807648
+Optimal scheduling of in-situ analysis for large-scale scientific simulations.	Preeti Malakar,Venkatram Vishwanath,Todd S. Munson,Christopher Knight 0001,Mark Hereld,Sven Leyffer,Michael E. Papka	10.1145/2807591.2807656
+A kernel-independent FMM in general dimensions.	William B. March,Bo Xiao 0001,Sameer Tharakan,Chenhan D. Yu,George Biros	10.1145/2807591.2807647
+Performance of random sampling for computing low-rank approximations of a dense matrix on GPUs.	Théo Mary,Ichitaro Yamazaki,Jakub Kurzak,Piotr Luszczek,Stanimire Tomov,Jack J. Dongarra	10.1145/2807591.2807613
+Profile-based power shifting in interconnection networks with on/off links.	Shinobu Miwa,Hiroshi Nakamura	10.1145/2807591.2807639
+Automatic sharing classification and timely push for cache-coherent systems.	Malek Musleh,Vijay S. Pai	10.1145/2807591.2807649
+GraphBIG: understanding graph computing in the context of industrial solutions.	Lifeng Nai,Yinglong Xia,Ilie Gabriel Tanase,Hyesoon Kim,Ching-Yung Lin	10.1145/2807591.2807626
+Runtime-driven shared last-level cache management for task-parallel programs.	Abhisek Pan,Vijay S. Pai	10.1145/2807591.2807625
+ELF: maximizing memory-level parallelism for GPUs with coordinated warp and fetch scheduling.	Jason Jong Kyu Park,Yongjun Park 0001,Scott A. Mahlke	10.1145/2807591.2807598
+High-performance algebraic multigrid solver optimized for multi-core based distributed parallel systems.	Jongsoo Park,Mikhail Smelyanskiy,Ulrike Meier Yang,Dheevatsa Mudigere,Pradeep Dubey	10.1145/2807591.2807603
+BD-CATS: big data clustering at trillion particle scale.	Md. Mostofa Ali Patwary,Surendra Byna,Nadathur Rajagopalan Satish,Narayanan Sundaram,Zarija Lukic,Vadim Roytershteyn,Michael J. Anderson,Yushu Yao,Prabhat,Pradeep Dubey	10.1145/2807591.2807616
+VOCL-FT: introducing techniques for efficient soft error coprocessor recovery.	Antonio J. Peña,Wesley Bland,Pavan Balaji	10.1145/2807591.2807640
+Exploring network optimizations for large-scale graph analytics.	Xinyu Que,Fabio Checconi,Fabrizio Petrini,Xing Liu,Daniele Buono	10.1145/2807591.2807661
+Massively parallel models of the human circulatory system.	Amanda Randles,Erik W. Draeger,Tomas Oppelstrup,Liam Krauss,John A. Gunnels	10.1145/2807591.2807676
+Relative debugging for a highly parallel hybrid computer system.	Luiz De Rose,Andrew Gontarek,Aaron Vose,Robert Moench,David Abramson 0001,Minh Ngoc Dinh,Chao Jin	10.1145/2807591.2807605
+The in-silico lab-on-a-chip: petascale and high-throughput simulations of microfluidics at cell resolution.	Diego Rossinelli,Yu-Hang Tang,Kirill Lykov,Dmitry Alexeev,Massimo Bernaschi,Panagiotis E. Hadjidoukas,Mauro Bisson,Wayne Joubert,Christian Conti,George E. Karniadakis,Massimiliano Fatica,Igor Pivkin,Petros Koumoutsakos	10.1145/2807591.2807677
+An extreme-scale implicit solver for complex PDEs: highly heterogeneous flow in earth&apos;s mantle.	Johann Rudi,A. Cristiano I. Malossi,Tobin Isaac,Georg Stadler,Michael Gurnis,Peter W. J. Staar,Yves Ineichen,Costas Bekas,Alessandro Curioni,Omar Ghattas	10.1145/2807591.2807675
+Clock delta compression for scalable order-replay of non-deterministic parallel applications.	Kento Sato,Dong H. Ahn,Ignacio Laguna,Gregory L. Lee,Martin Schulz 0001	10.1145/2807591.2807642
+Engineering inhibitory proteins with InSiPS: the in-silico protein synthesizer.	Andrew Schoenrock,Daniel J. Burnside,Houman Moteshareie,Alex Wong 0003,Ashkan Golshani,Frank Dehne	10.1145/2807591.2807630
+Node variability in large-scale power measurements: perspectives from the Green500, Top500 and EEHPCWG.	Thomas Scogland,Jonathan Azose,David Rohr,Suzanne Rivoire,Natalie J. Bates,Daniel Hackenberg	10.1145/2807591.2807653
+GraphReduce: processing large-scale graphs on accelerator-based systems.	Dipanjan Sengupta,Shuaiwen Leon Song,Kapil Agarwal,Karsten Schwan	10.1145/2807591.2807655
+Mantle: a programmable metadata load balancer for the ceph file system.	Michael A. Sevilla,Noah Watkins,Carlos Maltzahn,Ike Nassi,Scott A. Brandt,Sage A. Weil,Greg Farnum,Sam Fineberg	10.1145/2807591.2807607
+Large-scale compute-intensive analysis via a combined in-situ and co-scheduling workflow approach.	Christopher M. Sewell,Katrin Heitmann,Hal Finkel,George Zagaris,Suzanne Parete-Koon,Patricia K. Fasel,Adrian Pope,Nicholas Frontiere,Li-Ta Lo,O. E. Bronson Messer,Salman Habib,James P. Ahrens	10.1145/2807591.2807663
+Parallel implementation and performance optimization of the configuration-interaction method.	Hongzhang Shan,Samuel Williams 0001,Calvin W. Johnson,Kenneth S. McElvain,W. Erich Ormand	10.1145/2807591.2807618
+CIVL: the concurrency intermediate verification language.	Stephen F. Siegel,Manchun Zheng,Ziqing Luo,Timothy K. Zirkel,Andre V. Marianiello,John G. Edenhofner,Matthew B. Dwyer,Michael S. Rogers	10.1145/2807591.2807635
+AnalyzeThis: an analysis workflow-aware storage system.	Hyogi Sim,Youngjae Kim 0001,Sudharshan S. Vazhkudai,Devesh Tiwari,Ali Anwar 0001,Ali Raza Butt,Lavanya Ramakrishnan	10.1145/2807591.2807622
+Regent: a high-productivity programming language for HPC with logical regions.	Elliott Slaughter,Wonchan Lee,Sean Treichler,Michael Bauer 0001,Alex Aiken	10.1145/2807591.2807629
+Efficient implementation of quantum materials simulations on distributed CPU-GPU systems.	Raffaele Solcà,Anton Kozhevnikov,Azzam Haidar,Stanimire Tomov,Jack J. Dongarra,Thomas C. Schulthess	10.1145/2807591.2807654
+Adaptive data placement for staging-based coupled scientific workflows.	Qian Sun,Tong Jin,Melissa Romanus,Hoang Bui,Fan Zhang 0004,Hongfeng Yu 0001,Hemanth Kolla,Scott Klasky,Jacqueline Chen,Manish Parashar	10.1145/2807591.2807669
+Reliability lessons learned from GPU experience with the Titan supercomputer at Oak Ridge leadership computing facility.	Devesh Tiwari,Saurabh Gupta 0002,George Gallarno,Jim Rogers,Don Maxwell	10.1145/2807591.2807666
+Improving concurrency and asynchrony in multithreaded MPI applications using software offloading.	Karthikeyan Vaidyanathan,Dhiraj D. Kalamkar,Kiran Pamnany,Jeff R. Hammond,Pavan Balaji,Dipankar Das 0002,Jongsoo Park,Bálint Joó	10.1145/2807591.2807602
+A case for application-oblivious energy-efficient MPI runtime.	Akshay Venkatesh,Abhinav Vishnu,Khaled Hamidouche,Nathan R. Tallent,Dhabaleswar K. Panda 0001,Darren J. Kerbyson,Adolfy Hoisie	10.1145/2807591.2807658
+A practical approach to reconciling availability, performance, and capacity in provisioning extreme-scale storage systems.	Lipeng Wan,Feiyi Wang,Sarp Oral,Devesh Tiwari,Sudharshan S. Vazhkudai,Qing Cao	10.1145/2807591.2807615
+Smart: a MapReduce-like framework for in-situ scientific analytics.	Yi Wang,Gagan Agrawal,Tekin Bicer,Wei Jiang	10.1145/2807591.2807650
+Full correlation matrix analysis of fMRI data on Intel® Xeon Phi™ coprocessors.	Yida Wang,Michael J. Anderson,Jonathan D. Cohen 0003,Alexander Heinecke,Kai Li 0001,Nadathur Satish,Narayanan Sundaram,Nicholas B. Turk-Browne,Theodore L. Willke	10.1145/2807591.2807631
+HydraDB: a resilient RDMA-driven key-value middleware for in-memory cluster computing.	Yandong Wang,Li Zhang 0002,Jian Tan,Min Li,Yuqing Gao,Xavier Guerin,Xiaoqiao Meng,Shicong Meng	10.1145/2807591.2807614
+Randomized algorithms to update partial singular value decomposition on a hybrid CPU/GPU cluster.	Ichitaro Yamazaki,Jakub Kurzak,Piotr Luszczek,Jack J. Dongarra	10.1145/2807591.2807608
+Performance optimization for the k-nearest neighbors kernel on x86 architectures.	Chenhan D. Yu,Jianyu Huang,Woody Austin,Bo Xiao 0001,George Biros	10.1145/2807591.2807601
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2015, Austin, TX, USA, November 15-20, 2015	Jackie Kern,Jeffrey S. Vetter	

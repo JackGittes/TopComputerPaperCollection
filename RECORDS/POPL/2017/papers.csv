@@ -1,0 +1,67 @@
+Dijkstra monads for free.	Danel Ahman,Catalin Hritcu,Kenji Maillard,Guido Martínez,Gordon D. Plotkin,Jonathan Protzenko,Aseem Rastogi,Nikhil Swamy	10.1145/3009837.3009878
+Ogre and Pythia: an invariance proof method for weak consistency models.	Jade Alglave,Patrick Cousot	10.1145/3009837.3009883
+Type soundness proofs with definitional interpreters.	Nada Amin,Tiark Rompf	10.1145/3009837.3009866
+LMS-Verify: abstraction without regret for verified systems programming.	Nada Amin,Tiark Rompf	10.1145/3009837.3009867
+A semantic account of metric preservation.	Arthur Azevedo de Amorim,Marco Gaboardi,Justin Hsu,Shin-ya Katsumata,Ikram Cherigui	10.1145/3009837.3009890
+Computational higher-dimensional type theory.	Carlo Angiuli,Robert Harper 0001,Todd Wilson	10.1145/3009837.3009861
+Hypercollecting semantics and its application to static analysis of information flow.	Mounir Assaf,David A. Naumann,Julien Signoles,Eric Totel,Frédéric Tronel	10.1145/3009837.3009889
+Coupling proofs are probabilistic product programs.	Gilles Barthe,Benjamin Grégoire,Justin Hsu,Pierre-Yves Strub	10.1145/3009837.3009896
+On verifying causal consistency.	Ahmed Bouajjani,Constantin Enea,Rachid Guerraoui,Jad Hamza	10.1145/3009837.3009888
+Typed self-evaluation via intensional type functions.	Matt Brown,Jens Palsberg	10.1145/3009837.3009853
+Serializability for eventual consistency: criterion, analysis, and applications.	Lucas Brutschy,Dimitar K. Dimitrov 0002,Peter Müller 0001,Martin T. Vechev	10.1145/3009837.3009895
+Type systems as macros.	Stephen Chang 0001,Alex Knauth,Ben Greenman	10.1145/3009837.3009886
+Stochastic invariants for probabilistic termination.	Krishnendu Chatterjee,Petr Novotný 0001,Dorde Zikelic	10.1145/3009837.3009873
+Rigorous floating-point mixed-precision tuning.	Wei-Fan Chiang,Mark Baranowski,Ian Briggs,Alexey Solovyev,Ganesh Gopalakrishnan,Zvonimir Rakamaric	10.1145/3009837.3009846
+Relational cost analysis.	Ezgi Çiçek,Gilles Barthe,Marco Gaboardi,Deepak Garg 0001,Jan Hoffmann 0002	10.1145/3009837.3009858
+Automatically generating the dynamic semantics of gradually typed languages.	Matteo Cimini,Jeremy G. Siek	10.1145/3009837.3009863
+Modules, abstraction, and parametric polymorphism.	Karl Crary	10.1145/3009837.3009892
+Monadic second-order logic on finite sequences.	Loris D&apos;Antoni,Margus Veanes	10.1145/3009837.3009844
+Polymorphism, subtyping, and type inference in MLsub.	Stephen Dolan,Alan Mycroft	10.1145/3009837.3009882
+Intersection type calculi of bounded dimension.	Andrej Dudenhefner,Jakob Rehof	10.1145/3009837.3009862
+Component-based synthesis for complex APIs.	Yu Feng 0001,Ruben Martins,Yuepeng Wang 0001,Isil Dillig,Thomas W. Reps	10.1145/3009837.3009851
+Mixed-size concurrency: ARM, POWER, C/C++11, and SC.	Shaked Flur,Susmit Sarkar,Christopher Pulte,Kyndylan Nienhuis,Luc Maranget,Kathryn E. Gray,Ali Sezgin,Mark Batty,Peter Sewell	10.1145/3009837.3009839
+A posteriori environment analysis with Pushdown Delta CFA.	Kimball Germane,Matthew Might	10.1145/3009837.3009899
+Java generics are turing complete.	Radu Grigore	10.1145/3009837.3009871
+Thread modularity at many levels: a pearl in compositional verification.	Jochen Hoenicke,Rupak Majumdar,Andreas Podelski	10.1145/3009837.3009893
+Towards automatic resource bound analysis for OCaml.	Jan Hoffmann 0002,Ankush Das,Shu-Chun Weng	10.1145/3009837.3009842
+The exp-log normal form of types: decomposing extensional equality and representing terms compactly.	Danko Ilik	10.1145/3009837.3009841
+Sums of uncertainty: refinements go gradual.	Khurram A. Jafery,Jana Dunfield	10.1145/3009837.3009865
+A promising semantics for relaxed-memory concurrency.	Jeehoon Kang,Chung-Kil Hur,Ori Lahav,Viktor Vafeiadis,Derek Dreyer	10.1145/3009837.3009850
+Stream fusion, to completeness.	Oleg Kiselyov,Aggelos Biboudis,Nick Palladinos,Yannis Smaragdakis	10.1145/3009837.3009880
+On the relationship between higher-order recursion schemes and higher-order fixpoint logic.	Naoki Kobayashi 0001,Étienne Lozes,Florian Bruse	10.1145/3009837.3009854
+A short counterexample property for safety and liveness verification of fault-tolerant distributed algorithms.	Igor V. Konnov 0001,Marijana Lazic,Helmut Veith,Josef Widder	10.1145/3009837.3009860
+LOIS: syntax and semantics.	Eryk Kopczynski,Szymon Torunczyk	10.1145/3009837.3009876
+Coming to terms with quantified reasoning.	Laura Kovács,Simon Robillard,Andrei Voronkov	10.1145/3009837.3009887
+Interactive proofs in higher-order concurrent separation logic.	Robbert Krebbers,Amin Timany,Lars Birkedal	10.1145/3009837.3009855
+A relational model of types-and-effects in higher-order concurrent separation logic.	Morten Krogh-Jespersen,Kasper Svendsen,Lars Birkedal	10.1145/3009837.3009877
+Parallel functional arrays.	Ananya Kumar,Guy E. Blelloch,Robert Harper 0001	10.1145/3009837.3009869
+The geometry of parallelism: classical, probabilistic, and quantum effects.	Ugo Dal Lago,Claudia Faggian,Benoît Valiron,Akira Yoshimizu	10.1145/3009837.3009859
+Beginner&apos;s luck: a language for property-based generators.	Leonidas Lampropoulos,Diane Gallois-Wong,Catalin Hritcu,John Hughes 0001,Benjamin C. Pierce,Li-yao Xia	10.1145/3009837.3009868
+Fencing off go: liveness and safety for channel-based programming.	Julien Lange,Nicholas Ng,Bernardo Toninho,Nobuko Yoshida	10.1145/3009837.3009847
+Gradual refinement types.	Nico Lehmann,Éric Tanter	10.1145/3009837.3009856
+Type directed compilation of row-typed algebraic effects.	Daan Leijen	10.1145/3009837.3009872
+Contextual isomorphisms.	Paul Blain Levy	10.1145/3009837.3009898
+Semantic-directed clumping of disjunctive abstract states.	Huisong Li,Francois Berenger,Bor-Yuh Evan Chang,Xavier Rival	10.1145/3009837.3009881
+Dynamic race detection for C++11.	Christopher Lidbury,Alastair F. Donaldson	10.1145/3009837.3009857
+Do be do be do.	Sam Lindley,Conor McBride,Craig McLaughlin	10.1145/3009837.3009897
+Analyzing divergence in bisimulation semantics.	Xinxin Liu 0009,Tingting Yu,Wenhui Zhang	10.1145/3009837.3009870
+Contract-based resource verification for higher-order functions with memoization.	Ravichandhran Madhavan,Sumith Kulal,Viktor Kuncak	10.1145/3009837.3009874
+Learning nominal automata.	Joshua Moerman,Matteo Sammartino,Alexandra Silva 0001,Bartek Klin,Michal Szynwelski	10.1145/3009837.3009879
+Hazelnut: a bidirectionally typed structure editor calculus.	Cyrus Omar,Ian Voysey,Michael Hilton,Jonathan Aldrich,Matthew A. Hammer	10.1145/3009837.3009900
+QWIRE: a core language for quantum circuits.	Jennifer Paykin,Robert Rand 0001,Steve Zdancewic	10.1145/3009837.3009894
+Deciding equivalence with sums and the empty type.	Gabriel Scherer	10.1145/3009837.3009901
+A program optimization for automatic database result caching.	Ziv Scully,Adam Chlipala	10.1145/3009837.3009891
+Stateful manifest contracts.	Taro Sekiyama,Atsushi Igarashi	10.1145/3009837.3009875
+Exact Bayesian inference by symbolic disintegration.	Chung-chieh Shan,Norman Ramsey	10.1145/3009837.3009852
+Fast polyhedra abstract domain.	Gagandeep Singh 0001,Markus Püschel,Martin T. Vechev	10.1145/3009837.3009885
+Cantor meets scott: semantic foundations for probabilistic networks.	Steffen Smolka,Praveen Kumar 0003,Nate Foster,Dexter Kozen,Alexandra Silva 0001	10.1145/3009837.3009843
+Complexity verification using guided theorem enumeration.	Akhilesh Srikanth,Burak Sahin,William R. Harris	10.1145/3009837.3009864
+Genesis: synthesizing forwarding tables in multi-tenant networks.	Kausik Subramanian,Loris D&apos;Antoni,Aditya Akella	10.1145/3009837.3009845
+Rust: from POPL to practice (keynote).	Aaron Turon	10.1145/3009837.3011999
+Big types in little runtime: open-world soundness and collaborative blame for gradual type systems.	Michael M. Vitousek,Cameron Swords,Jeremy G. Siek	10.1145/3009837.3009849
+The influence of dependent types (keynote).	Stephanie Weirich	10.1145/3009837.3009923
+Automatically comparing memory consistency models.	John Wickerson,Mark Batty,Tyler Sorensen 0001,George A. Constantinides	10.1145/3009837.3009838
+Invariants of quantum programs: characterisations and generation.	Mingsheng Ying,Shenggang Ying,Xiaodi Wu	10.1145/3009837.3009840
+LightDP: towards automating differential privacy proofs.	Danfeng Zhang,Daniel Kifer	10.1145/3009837.3009884
+Context-sensitive data-dependence analysis via linear conjunctive language reachability.	Qirun Zhang,Zhendong Su 0001	10.1145/3009837.3009848
+Proceedings of the 44th ACM SIGPLAN Symposium on Principles of Programming Languages, POPL 2017, Paris, France, January 18-20, 2017	Giuseppe Castagna,Andrew D. Gordon 0001	10.1145/3009837

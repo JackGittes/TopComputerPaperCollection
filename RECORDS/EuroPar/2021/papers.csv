@@ -1,0 +1,39 @@
+E2EWatch: An End-to-End Anomaly Diagnosis Framework for Production HPC Systems.	Burak Aksar,Benjamin Schwaller,Omar Aaziz,Vitus J. Leung,Jim M. Brandt,Manuel Egele,Ayse K. Coskun	10.1007/978-3-030-85665-6_5
+Automatic Low-Overhead Load-Imbalance Detection in MPI Applications.	Peter Arzt,Yannic Fischler,Jan-Patrick Lehr,Christian H. Bischof	10.1007/978-3-030-85665-6_2
+Pipelined Model Parallelism: Complexity Results and Memory Considerations.	Olivier Beaumont,Lionel Eyraud-Dubois,Alena Shilova	10.1007/978-3-030-85665-6_12
+Update on the Asymptotic Optimality of LPT.	Anne Benoit,Louis-Claude Canon,Redouane Elghazi,Pierre-Cyrille Héam	10.1007/978-3-030-85665-6_4
+A Fault Tolerant and Deadline Constrained Sequence Alignment Application on Cloud-Based Spot GPU Instances.	Rafaela C. Brum,Walisson P. Sousa,Alba C. M. A. Melo,Cristiana Bentes,Maria Clicia Stelling de Castro,Lúcia Maria de A. Drummond	10.1007/978-3-030-85665-6_20
+A Scalable Approximation Algorithm for Weighted Longest Common Subsequence.	Jeremy Buhler,Thomas Lavastida,Kefu Lu,Benjamin Moseley	10.1007/978-3-030-85665-6_23
+Sustaining Performance While Reducing Energy Consumption: A Control Theory Approach.	Sophie Cerf,Raphaël Bleuse,Valentin Reis,Swann Perarnau,Éric Rutten	10.1007/978-3-030-85665-6_21
+Geo-distribute Cloud Applications at the Edge.	Ronan-Alexandre Cherrueau,Marie Delavergne,Adrien Lèbre	10.1007/978-3-030-85665-6_19
+A GPU Architecture Aware Fine-Grain Pruning Technique for Deep Neural Networks.	Kyusik Choi,Hoeseok Yang	10.1007/978-3-030-85665-6_14
+Algorithm Design for Tensor Units.	Rezaul Chowdhury,Francesco Silvestri 0001,Flavio Vella	10.1007/978-3-030-85665-6_22
+Fault-Tolerant LU Factorization Is Low Cost.	Camille Coti,Laure Petrucci,Daniel Alberto Torres González	10.1007/978-3-030-85665-6_33
+Horizontal Scaling in Cloud Using Contextual Bandits.	David Delande,Patricia Stolf,Raphaël Féraud,Jean-Marc Pierson,André Bottaro	10.1007/978-3-030-85665-6_18
+PrioRAT: Criticality-Driven Prioritization Inside the On-Chip Memory Hierarchy.	Vladimir Dimic,Miquel Moretó,Marc Casas,Mateo Valero	10.1007/978-3-030-85665-6_37
+Enhancing Load-Balancing of MPI Applications with Workshare.	Thomas Dionisi,Stéphane Bouhrour,Julien Jaeger,Patrick Carribault,Marc Pérache	10.1007/978-3-030-85665-6_29
+Designing a 3D Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems.	Yuankun Fu,Fengguang Song	10.1007/978-3-030-85665-6_32
+Mixed Precision Incomplete and Factorized Sparse Approximate Inverse Preconditioning on GPUs.	Fritz Göbel,Thomas Grützmacher,Tobias Ribizel,Hartwig Anzt	10.1007/978-3-030-85665-6_34
+Particle-In-Cell Simulation Using Asynchronous Tasking.	Nicolas Guidotti,Pedro Ceyrat,João Barreto 0001,José Monteiro 0001,Rodrigo Rodrigues 0001,Ricardo Fonseca,Xavier Martorell,Antonio J. Peña	10.1007/978-3-030-85665-6_30
+Outsmarting the Atmospheric Turbulence for Ground-Based Telescopes Using the Stochastic Levenberg-Marquardt Method.	Yuxi Hong,El Houcine Bergou,Nicolas Doucet,Hao Zhang,Jesse Cranney,Hatem Ltaief,Damien Gratadour,François Rigaut,David E. Keyes	10.1007/978-3-030-85665-6_35
+Collaborative GPU Preemption via Spatial Multitasking for Efficient GPU Sharing.	Zhuoran Ji,Cho-Li Wang	10.1007/978-3-030-85665-6_6
+Plan-Based Job Scheduling for Supercomputers with Shared Burst Buffers.	Jan Kopanski,Krzysztof Rzadca	10.1007/978-3-030-85665-6_8
+Towards Flexible and Compiler-Friendly Layer Fusion for CNNs on Multicore CPUs.	Zhongyi Lin,Evangelos Georganas,John D. Owens	10.1007/978-3-030-85665-6_15
+Efficient GPU Computation Using Task Graph Parallelism.	Dian-Lun Lin,Tsung-Wei Huang	10.1007/978-3-030-85665-6_27
+Smart Distributed DataSets for Stream Processing.	Tiago Lopes,Miguel E. Coimbra,Luís Veiga	10.1007/978-3-030-85665-6_16
+Colony: Parallel Functions as a Service on the Cloud-Edge Continuum.	Francesc Lordan,Daniele Lezzi,Rosa M. Badia	10.1007/978-3-030-85665-6_17
+ALONA: Automatic Loop Nest Approximation with Reconstruction and Space Pruning.	Daniel Maier,Biagio Cosenza,Ben H. H. Juurlink	10.1007/978-3-030-85665-6_1
+Taming Tail Latency in Key-Value Stores: A Scheduling Perspective.	Sonia Ben Mokhtar,Louis-Claude Canon,Anthony Dugois,Loris Marchal,Etienne Rivière	10.1007/978-3-030-85665-6_9
+Accelerating Graph Applications Using Phased Transactional Memory.	Catalina Munoz Morales,Rafael Murari,Joao P. L. de Carvalho,Bruno Chinelato Honorio,Alexandro Baldassin,Guido Araujo	10.1007/978-3-030-85665-6_26
+Towards High Performance Resilience Using Performance Portable Abstractions.	Nicolas Morales,Keita Teranishi,Bogdan Nicolae,Christian Trott,Franck Cappello	10.1007/978-3-030-85665-6_28
+A Log-Linear (2 +5/6)-Approximation Algorithm for Parallel Machine Scheduling with a Single Orthogonal Resource.	Adrian Naruszko,Bartlomiej Przybylski,Krzysztof Rzadca	10.1007/978-3-030-85665-6_10
+Exploiting Co-execution with OneAPI: Heterogeneity from a Modern Perspective.	Raúl Nozal,José Luis Bosque	10.1007/978-3-030-85665-6_31
+An MPI-based Algorithm for Mapping Complex Networks onto Hierarchical Architectures.	Maria Predari,Charilaos Tzovas,Christian Schulz 0003,Henning Meyerhenke	10.1007/978-3-030-85665-6_11
+G-Morph: Induced Subgraph Isomorphism Search of Labeled Graphs on a GPU.	Bryan Rowe,Rajiv Gupta 0001	10.1007/978-3-030-85665-6_25
+TSLQueue: An Efficient Lock-Free Design for Priority Queues.	Adones Rukundo,Philippas Tsigas	10.1007/978-3-030-85665-6_24
+Trace-Based Workload Generation and Execution.	Yannis Sfakianakis,Eleni Kanellou,Manolis Marazakis,Angelos Bilas	10.1007/978-3-030-85665-6_3
+GPU-Accelerated Mahalanobis-Average Hierarchical Clustering Analysis.	Adam Smelko,Miroslav Kratochvíl,Martin Krulis,Tomás Sieger	10.1007/978-3-030-85665-6_36
+A Fixed-Parameter Algorithm for Scheduling Unit Dependent Tasks with Unit Communication Delays.	Ning Tang,Alix Munier Kordon	10.1007/978-3-030-85665-6_7
+Efficient and Systematic Partitioning of Large and Deep Neural Networks for Parallelization.	Haoran Wang,Chong Li,Thibaut Tachon,Hongxing Wang,Sheng Yang,Sébastien Limet,Sophie Robert 0001	10.1007/978-3-030-85665-6_13
+Optimized Implementation of the HPCG Benchmark on Reconfigurable Hardware.	Alberto Zeni,Kenneth O&apos;Brien,Michaela Blott,Marco D. Santambrogio	10.1007/978-3-030-85665-6_38
+Euro-Par 2021: Parallel Processing - 27th International Conference on Parallel and Distributed Computing, Lisbon, Portugal, September 1-3, 2021, Proceedings	Leonel Sousa,Nuno Roma,Pedro Tomás	10.1007/978-3-030-85665-6

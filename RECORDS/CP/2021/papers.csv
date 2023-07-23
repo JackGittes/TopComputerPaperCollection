@@ -1,0 +1,61 @@
+Vehicle Dynamics in Pickup-And-Delivery Problems Using Electric Vehicles.	Saman Ahmadi,Guido Tack,Daniel Harabor,Philip Kilby	10.4230/LIPICS.CP.2021.11
+Building High Strength Mixed Covering Arrays with Constraints.	Carlos Ansótegui,Jesus Ojeda,Eduard Torres	10.4230/LIPICS.CP.2021.12
+Combining Monte Carlo Tree Search and Depth First Search Methods for a Car Manufacturing Workshop Scheduling Problem.	Valentin Antuori,Emmanuel Hebrard,Marie-José Huguet,Siham Essodaigui,Alain Nguyen	10.4230/LIPICS.CP.2021.14
+On How Turing and Singleton Arc Consistency Broke the Enigma Code.	Valentin Antuori,Tom Portoleau,Louis Rivière,Emmanuel Hebrard	10.4230/LIPICS.CP.2021.13
+Filtering Isomorphic Models by Invariants (Short Paper).	João Araújo 0002,Choiwah Chow,Mikolás Janota	10.4230/LIPICS.CP.2021.4
+The Bi-Objective Long-Haul Transportation Problem on a Road Network (Invited Talk).	Claudia Archetti,Ola Jabali,Andrea Mor,Alberto Simonetto,M. Grazia Speranza	10.4230/LIPICS.CP.2021.1
+Practical Bigraphs via Subgraph Isomorphism.	Blair Archibald,Kyle Burns,Ciaran McCreesh,Michele Sevegnani	10.4230/LIPICS.CP.2021.15
+The Hybrid Flexible Flowshop with Transportation Times.	Eddie Armstrong,Michele Garraffa,Barry O&apos;Sullivan,Helmut Simonis	10.4230/LIPICS.CP.2021.16
+CLR-DRNets: Curriculum Learning with Restarts to Solve Visual Combinatorial Games.	Yiwei Bai,Di Chen 0001,Carla P. Gomes	10.4230/LIPICS.CP.2021.17
+An Interval Constraint Programming Approach for Quasi Capture Tube Validation.	Abderahmane Bedouhene,Bertrand Neveu,Gilles Trombettoni,Luc Jaulin,Stéphane Le Ménec	10.4230/LIPICS.CP.2021.18
+Improving Local Search for Structured SAT Formulas via Unit Propagation Based Construct and Cut Initialization (Short Paper).	Shaowei Cai 0001,Chuan Luo,Xindi Zhang,Jian Zhang	10.4230/LIPICS.CP.2021.5
+Exhaustive Generation of Benzenoid Structures Sharing Common Patterns.	Yannick Carissan,Denis Hagebaum-Reignier,Nicolas Prcovic,Cyril Terrioux,Adrien Varet	10.4230/LIPICS.CP.2021.19
+Combining VSIDS and CHB Using Restarts in SAT.	Mohamed Sami Cherif,Djamal Habet,Cyril Terrioux	10.4230/LIPICS.CP.2021.20
+On the Tractability of Explaining Decisions of Classifiers.	Martin C. Cooper,João Marques-Silva 0001	10.4230/LIPICS.CP.2021.21
+A Collection of Constraint Programming Models for the Three-Dimensional Stable Matching Problem with Cyclic Preferences.	Ágnes Cseh,Guillaume Escamocher,Begüm Genç,Luis Quesada 0001	10.4230/LIPICS.CP.2021.22
+Bounds on Weighted CSPs Using Constraint Propagation and Super-Reparametrizations.	Tomás Dlask,Tomás Werner,Simon de Givry	10.4230/LIPICS.CP.2021.23
+Complications for Computational Experiments from Modern Processors.	Johannes Klaus Fichte,Markus Hecher,Ciaran McCreesh,Anas Shahab	10.4230/LIPICS.CP.2021.25
+Parallel Model Counting with CUDA: Algorithm Engineering for Efficient Hardware Utilization.	Johannes Klaus Fichte,Markus Hecher,Valentin Roland	10.4230/LIPICS.CP.2021.24
+Constrained-Based Differential Privacy (Invited Talk).	Ferdinando Fioretto	10.4230/LIPICS.CP.2021.2
+A Job Dispatcher for Large and Heterogeneous HPC Systems Running Modern Applications.	Cristian Galleguillos,Zeynep Kiziltan,Ricardo Soto 0001	10.4230/LIPICS.CP.2021.26
+The Dungeon Variations Problem Using Constraint Programming.	Gaël Glorian,Adrien Debesson,Sylvain Yvon-Paliot,Laurent Simon	10.4230/LIPICS.CP.2021.27
+Refined Core Relaxation for Core-Guided MaxSAT Solving.	Hannes Ihalainen,Jeremias Berg,Matti Järvisalo	10.4230/LIPICS.CP.2021.28
+Unit Propagation with Stable Watches (Short Paper).	Markus Iser,Tomás Balyo	10.4230/LIPICS.CP.2021.6
+A Linear Time Algorithm for the k-Cutset Constraint.	Nicolas Isoart,Jean-Charles Régin	10.4230/LIPICS.CP.2021.29
+A k-Opt Based Constraint for the TSP.	Nicolas Isoart,Jean-Charles Régin	10.4230/LIPICS.CP.2021.30
+The Seesaw Algorithm: Function Optimization Using Implicit Hitting Sets.	Mikolás Janota,António Morgado 0001,José Fragoso Santos,Vasco M. Manquinho	10.4230/LIPICS.CP.2021.31
+Reasoning Short Cuts in Infinite Domain Constraint Satisfaction: Algorithms and Lower Bounds for Backdoors.	Peter Jonsson,Victor Lagerkvist,Sebastian Ordyniak	10.4230/LIPICS.CP.2021.32
+Learning TSP Requires Rethinking Generalization.	Chaitanya K. Joshi,Quentin Cappart,Louis-Martin Rousseau,Thomas Laurent 0001	10.4230/LIPICS.CP.2021.33
+Towards Better Heuristics for Solving Bounded Model Checking Problems (Short Paper).	Anissa Kheireddine,Etienne Renault,Souheib Baarir	10.4230/LIPICS.CP.2021.7
+SAT Modulo Symmetries for Graph Generation.	Markus Kirchweger,Stefan Szeider	10.4230/LIPICS.CP.2021.34
+Integrating Tree Decompositions into Decision Heuristics of Propositional Model Counters (Short Paper).	Tuukka Korhonen,Matti Järvisalo	10.4230/LIPICS.CP.2021.8
+Counterfactual Explanations via Inverse Constraint Programming.	Anton Korikov,J. Christopher Beck	10.4230/LIPICS.CP.2021.35
+Utilizing Constraint Optimization for Industrial Machine Workload Balancing.	Benjamin Kovács,Pierre Tassel,Wolfgang Kohlenbrein,Philipp Schrott-Kostwein,Martin Gebser	10.4230/LIPICS.CP.2021.36
+Minimizing Cumulative Batch Processing Time for an Industrial Oven Scheduling Problem.	Marie-Louise Lackner,Christoph Mrkvicka,Nysret Musliu,Daniel Walkiewicz,Felix Winter	10.4230/LIPICS.CP.2021.37
+Improving Local Search for Minimum Weighted Connected Dominating Set Problem by Inner-Layer Local Search.	Bohan Li 0002,Kai Wang,Yiyuan Wang,Shaowei Cai 0001	10.4230/LIPICS.CP.2021.39
+Combining Clause Learning and Branch and Bound for MaxSAT.	Chu-Min Li,Zhenxing Xu,Jordi Coll,Felip Manyà,Djamal Habet,Kun He 0001	10.4230/LIPICS.CP.2021.38
+Failure Based Variable Ordering Heuristics for Solving CSPs (Short Paper).	Hongbo Li 0005,Minghao Yin,Zhanshan Li	10.4230/LIPICS.CP.2021.9
+Automatic Generation of Declarative Models For Differential Cryptanalysis.	Luc Libralesso,François Delobel,Pascal Lafourcade 0001,Christine Solnon	10.4230/LIPICS.CP.2021.40
+A Bound-Independent Pruning Technique to Speeding up Tree-Based Complete Search Algorithms for Distributed Constraint Optimization Problems.	Xiang-Shuang Liu,Ziyu Chen,Dingding Chen,Junsong Gao	10.4230/LIPICS.CP.2021.41
+Learning in Local Branching (Invited Talk).	Defeng Liu,Andrea Lodi 0001	10.4230/LIPICS.CP.2021.3
+Data Driven VRP: A Neural Network Model to Learn Hidden Preferences for VRP.	Jayanta Mandi,Rocsildes Canoy,Víctor Bucarey,Tias Guns	10.4230/LIPICS.CP.2021.42
+Statistical Comparison of Algorithm Performance Through Instance Selection.	Théo Matricon,Marie Anastacio,Nathanaël Fijalkow,Laurent Simon,Holger H. Hoos	10.4230/LIPICS.CP.2021.43
+Enabling Incrementality in the Implicit Hitting Set Approach to MaxSAT Under Changing Weights.	Andreas Niskanen,Jeremias Berg,Matti Järvisalo	10.4230/LIPICS.CP.2021.44
+Solving the Non-Crossing MAPF with CP.	Xiao Peng,Christine Solnon,Olivier Simonin 0001	10.4230/LIPICS.CP.2021.45
+Positive and Negative Length-Bound Reachability Constraints.	Luis Quesada 0001,Kenneth N. Brown	10.4230/LIPICS.CP.2021.46
+Evaluating the Hardness of SAT Instances Using Evolutionary Optimization Algorithms.	Alexander A. Semenov,Daniil Chivilikhin,Artem Pavlenko,Ilya V. Otpuschennikov,Vladimir Ulyantsev,Alexey Ignatiev	10.4230/LIPICS.CP.2021.47
+Optimising Training for Service Delivery.	Ilankaikone Senthooran,Pierre Le Bodic,Peter J. Stuckey	10.4230/LIPICS.CP.2021.48
+Human-Centred Feasibility Restoration.	Ilankaikone Senthooran,Matthias Klapperstück,Gleb Belov,Tobias Czauderna,Kevin Leo,Mark Wallace 0001,Michael Wybrow,Maria Garcia de la Banda	10.4230/LIPICS.CP.2021.49
+SAT-Based Approach for Learning Optimal Decision Trees with Non-Binary Features.	Pouya Shati,Eldan Cohen,Sheila A. McIlraith	10.4230/LIPICS.CP.2021.50
+Generating Magical Performances with Constraint Programming (Short Paper).	Guilherme de Azevedo Silveira	10.4230/LIPICS.CP.2021.10
+Pseudo-Boolean Optimization by Implicit Hitting Sets.	Pavel Smirnov 0003,Jeremias Berg,Matti Järvisalo	10.4230/LIPICS.CP.2021.51
+An Algorithm-Independent Measure of Progress for Linear Constraint Propagation.	Boro Sofranac,Ambros M. Gleixner,Sebastian Pokutta	10.4230/LIPICS.CP.2021.52
+Differential Programming via OR Methods.	Shannon Sweitzer,T. K. Satish Kumar	10.4230/LIPICS.CP.2021.53
+Learning Max-CSPs via Active Constraint Acquisition.	Dimosthenis C. Tsouros,Kostas Stergiou 0001	10.4230/LIPICS.CP.2021.54
+Parallelizing a SAT-Based Product Configurator.	Nils Merlin Ullmann,Tomás Balyo,Michael Klein	10.4230/LIPICS.CP.2021.55
+Solution Sampling with Random Table Constraints.	Mathieu Vavrille,Charlotte Truchet,Charles Prud&apos;homme	10.4230/LIPICS.CP.2021.56
+Making Rigorous Linear Programming Practical for Program Analysis.	Tengbin Wang,Liqian Chen,Taoqing Chen,Guangsheng Fan,Ji Wang 0001	10.4230/LIPICS.CP.2021.57
+Engineering an Efficient PB-XOR Solver.	Jiong Yang 0002,Kuldeep S. Meel	10.4230/LIPICS.CP.2021.58
+Automated Random Testing of Numerical Constrained Types.	Ghiles Ziat,Matthieu Dien,Vincent Botbol	10.4230/LIPICS.CP.2021.59
+The Effect of Asynchronous Execution and Message Latency on Max-Sum.	Roie Zivan,Omer Perry,Ben Rachmut,William Yeoh 0001	10.4230/LIPICS.CP.2021.60
+27th International Conference on Principles and Practice of Constraint Programming, CP 2021, Montpellier, France (Virtual Conference), October 25-29, 2021.	Laurent D. Michel	

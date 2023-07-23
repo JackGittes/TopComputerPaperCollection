@@ -1,0 +1,46 @@
+On Leveraging Tests to Infer Nullable Annotations.	Jens Dietrich 0001,David J. Pearce 0001,Mahin Chandramohan	10.4230/LIPICS.ECOOP.2023.10
+Designing Asynchronous Multiparty Protocols with Crash-Stop Failures.	Adam D. Barwell,Ping Hou,Nobuko Yoshida,Fangyi Zhou 0002	10.4230/LIPICS.ECOOP.2023.1
+Nested Pure Operation-Based CRDTs.	Jim Bauwens,Elisa Gonzalez Boix	10.4230/LIPICS.ECOOP.2023.2
+Building Code Transpilers for Domain-Specific Languages Using Program Synthesis (Experience Paper).	Sahil Bhatia,Sumer Kohli,Sanjit A. Seshia,Alvin Cheung	10.4230/LIPICS.ECOOP.2023.38
+Multi-Graded Featherweight Java.	Riccardo Bianchini,Francesco Dagnino,Paola Giannini,Elena Zucca	10.4230/LIPICS.ECOOP.2023.3
+Modular Abstract Definitional Interpreters for WebAssembly.	Katharina Brandl,Sebastian Erdweg,Sven Keidel,Nils Hansen	10.4230/LIPICS.ECOOP.2023.5
+Dynamically Updatable Multiparty Session Protocols: Generating Concurrent Go Code from Unbounded Protocols.	David Castro-Perez,Nobuko Yoshida	10.4230/LIPICS.ECOOP.2023.6
+Modular Compilation for Higher-Order Functional Choreographies.	Luís Cruz-Filipe,Eva Graversen,Lovro Lugovic,Fabrizio Montesi,Marco Peressotti	10.4230/LIPICS.ECOOP.2023.7
+super-Charging Object-Oriented Programming Through Precise Typing of Open Recursion.	Andong Fan,Lionel Parreaux	10.4230/LIPICS.ECOOP.2023.11
+Synthesis-Aided Crash Consistency for Storage Systems.	Jacob Van Geffen,Xi Wang 0005,Emina Torlak,James Bornholt	10.4230/LIPICS.ECOOP.2023.35
+Hoogle⋆: Constants and λ-abstractions in Petri-net-based Synthesis using Symbolic Execution.	Henrique Botelho Guerra,João F. Ferreira 0001,João Costa Seco	10.4230/LIPICS.ECOOP.2023.4
+LoRe: A Programming Model for Verifiably Safe Local-First Software (Extended Abstract).	Julian Haas,Ragnar Mogk,Elena Yanakieva,Annette Bieniusa,Mira Mezini	10.4230/LIPICS.ECOOP.2023.12
+Rust for Morello: Always-On Memory Safety, Even in Unsafe Code (Experience Paper).	Sarah Harris,Simon Cooksey,Michael Vollmer 0003,Mark Batty	10.4230/LIPICS.ECOOP.2023.39
+The Dolorem Pattern: Growing a Language Through Compile-Time Function Execution (Pearl/Brave New Idea).	Simon Henniger,Nada Amin	10.4230/LIPICS.ECOOP.2023.41
+Dynamic Determinacy Race Detection for Task-Parallel Programs with Promises.	Feiyang Jin,Lechen Yu,Tiago Cogumbreiro,Jun Shirako,Vivek Sarkar	10.4230/LIPICS.ECOOP.2023.13
+Synthetic Behavioural Typing: Sound, Regular Multiparty Sessions via Implicit Local Types (Pearl/Brave New Idea).	Sung-Shik Jongmans,Francisco Ferreira	10.4230/LIPICS.ECOOP.2023.42
+Algebraic Replicated Data Types: Programming Secure Local-First Software.	Christian Kuessner,Ragnar Mogk,Anna-Katharina Wickert,Mira Mezini	10.4230/LIPICS.ECOOP.2023.14
+Behavioural Types for Local-First Software.	Roland Kuhn,Hernán C. Melgratti,Emilio Tuosto	10.4230/LIPICS.ECOOP.2023.15
+Constraint Based Compiler Optimization for Energy Harvesting Applications.	Yannan Li,Chao Wang	10.4230/LIPICS.ECOOP.2023.16
+Programming with Purity Reflection: Peaceful Coexistence of Effects, Laziness, and Parallelism.	Magnus Madsen,Jaco van de Pol	10.4230/LIPICS.ECOOP.2023.18
+Restrictable Variants: A Simple and Practical Alternative to Extensible Variants.	Magnus Madsen,Jonathan Lindegaard Starup,Matthew Lutze	10.4230/LIPICS.ECOOP.2023.17
+Exact Separation Logic: Towards Bridging the Gap Between Verification and Bug-Finding.	Petar Maksimovic,Caroline Cronjäger,Andreas Lööw,Julian Sutherland,Philippa Gardner	10.4230/LIPICS.ECOOP.2023.19
+Morpheus: Automated Safety Verification of Data-Dependent Parser Combinator Programs.	Ashish Mishra,Suresh Jagannathan	10.4230/LIPICS.ECOOP.2023.20
+Automata Learning with an Incomplete Teacher.	Mark Moeller,Thomas Wiener,Alaia Solko-Breslin,Caleb Koch,Nate Foster,Alexandra Silva 0001	10.4230/LIPICS.ECOOP.2023.21
+On Using VeriFast, VerCors, Plural, and KeY to Check Object Usage (Experience Paper).	João Mota,Marco Giunti,António Ravara	10.4230/LIPICS.ECOOP.2023.40
+Wiring Circuits Is Easy as {0, 1, ω}, or Is It...	Jan de Muijnck-Hughes,Wim Vanderbauwhede	10.4230/LIPICS.ECOOP.2023.8
+Modular Verification of State-Based CRDTs in Separation Logic.	Abel Nieto,Arnaud Daby-Seesaram,Léon Gondelman,Amin Timany,Lars Birkedal	10.4230/LIPICS.ECOOP.2023.22
+Information Flow Analysis for Detecting Non-Determinism in Blockchain.	Luca Olivieri,Luca Negrini,Vincenzo Arceri,Fabio Tagliaferro,Pietro Ferrara 0001,Agostino Cortesi,Fausto Spoto	10.4230/LIPICS.ECOOP.2023.23
+VeriFx: Correct Replicated Data Types for the Masses.	Kevin De Porre,Carla Ferreira 0001,Elisa Gonzalez Boix	10.4230/LIPICS.ECOOP.2023.9
+On the Rise of Modern Software Documentation (Pearl/Brave New Idea).	Marco Raglianti,Csaba Nagy 0001,Roberto Minelli,Bin Lin 0008,Michele Lanza	10.4230/LIPICS.ECOOP.2023.43
+Toward Tool-Independent Summaries for Symbolic Execution.	Frederico Ramos,Nuno Sabino,Pedro Adão,David A. Naumann,José Fragoso Santos	10.4230/LIPICS.ECOOP.2023.24
+A Direct-Style Effect Notation for Sequential and Parallel Programs.	David Richter,Timon Böhler,Pascal Weisenburger,Mira Mezini	10.4230/LIPICS.ECOOP.2023.25
+Python Type Hints Are Turing Complete (Pearl/Brave New Idea).	Ori Roth	10.4230/LIPICS.ECOOP.2023.44
+Sinatra: Stateful Instantaneous Updates for Commercial Browsers Through Multi-Version eXecution.	Ugnius Rumsevicius,Siddhanth Venkateshwaran,Ellen Kidane,Luís Pina	10.4230/LIPICS.ECOOP.2023.26
+An Efficient Vectorized Hash Table for Batch Computations.	Hesam Shahrokhi,Amir Shaikhha	10.4230/LIPICS.ECOOP.2023.27
+Hinted Dictionaries: Efficient Functional Ordered Sets and Maps.	Amir Shaikhha,Mahdi Ghorbani,Hesam Shahrokhi	10.4230/LIPICS.ECOOP.2023.28
+Semantics for Noninterference with Interaction Trees.	Lucas Silver,Paul He,Ethan Cecchetti,Andrew K. Hirsch,Steve Zdancewic	10.4230/LIPICS.ECOOP.2023.29
+Interaction Tree Specifications: A Framework for Specifying Recursive, Effectful Computations That Supports Auto-Active Verification.	Lucas Silver,Eddy Westbrook,Matthew Yacavone,Ryan Scott	10.4230/LIPICS.ECOOP.2023.30
+Breaking the Negative Cycle: Exploring the Design Space of Stratification for First-Class Datalog Constraints.	Jonathan Lindegaard Starup,Magnus Madsen,Ondrej Lhoták	10.4230/LIPICS.ECOOP.2023.31
+Asynchronous Multiparty Session Type Implementability is Decidable - Lessons Learned from Message Sequence Charts.	Felix Stutz	10.4230/LIPICS.ECOOP.2023.32
+ConDRust: Scalable Deterministic Concurrency from Verifiable Rust Programs.	Felix Suchert,Lisza Zeidler,Jerónimo Castrillón,Sebastian Ertel	10.4230/LIPICS.ECOOP.2023.33
+Dependent Merges and First-Class Environments.	Jinhao Tan,Bruno C. d. S. Oliveira	10.4230/LIPICS.ECOOP.2023.34
+Synthesizing Conjunctive Queries for Code Search.	Chengpeng Wang,Peisen Yao,Wensheng Tang,Gang Fan,Charles Zhang	10.4230/LIPICS.ECOOP.2023.36
+Front Matter, Table of Contents, Preface, Conference Organization.		10.4230/LIPICS.ECOOP.2023.0
+Do Machine Learning Models Produce TypeScript Types That Type Check?	Ming-Ho Yee,Arjun Guha	10.4230/LIPICS.ECOOP.2023.37
+37th European Conference on Object-Oriented Programming, ECOOP 2023, July 17-21, 2023, Seattle, Washington, United States	Karim Ali 0001,Guido Salvaneschi	

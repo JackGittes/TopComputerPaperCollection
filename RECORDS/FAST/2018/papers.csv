@@ -1,0 +1,24 @@
+Protocol-Aware Recovery for Consensus-Based Storage.	Ramnatthan Alagappan,Aishwarya Ganesan,Eric Lee,Aws Albarghouthi,Vijay Chidambaram,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Improving Docker Registry Design Based on Production Workload Analysis.	Ali Anwar 0001,Mohamed Mohamed 0001,Vasily Tarasov,Michael Littley,Lukas Rupprecht,Yue Cheng 0001,Nannan Zhao,Dimitris Skourtis,Amit Warke,Heiko Ludwig,Dean Hildebrand,Ali Raza Butt	
+ALACC: Accelerating Restore Performance of Data Deduplication Systems Using Adaptive Look-Ahead Window Assisted Chunk Caching.	Zhichao Cao 0002,Hao Wen,Fenggang Wu,David H. C. Du	
+Towards Robust File System Checkers.	Om Rameshwar Gatla,Muhammad Hameed,Mai Zheng,Viacheslav Dubeyko,Adam Manzanares,Filip Blagojevic,Cyril Guyot,Robert Mateescu	
+Logical Synchronous Replication in the Tintri VMstore File System.	Gideon Glass,Arjun Gopalan,Dattatraya Koujalagi,Abhinand Palicherla,Sumedh Sakdeo	
+Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems.	Haryadi S. Gunawi,Riza O. Suminto,Russell Sears,Casey Golliher,Swaminathan Sundararaman,Xing Lin,Tim Emami,Weiguang Sheng,Nematollah Bidokhti,Caitie McCaffrey,Gary Grider,Parks M. Fields,Kevin Harms,Robert B. Ross,Andree Jacobson,Robert Ricci,Kirk Webb,Peter Alvaro,H. Birali Runesha,Mingzhe Hao,Huaicheng Li	
+Endurable Transient Inconsistency in Byte-Addressable Persistent B+-Tree.	Deukyeon Hwang,Wook-Hee Kim,Youjip Won,Beomseok Nam	
+Designing a True Direct-Access File System with DevFS.	Sudarsun Kannan,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau,Yuangang Wang,Jun Xu,Gopinath Palani	
+WAFL Iron: Repairing Live Enterprise File Systems.	Ram Kesavan,Harendra Kumar,Sushrut Bhowmik	
+The CASE of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator.	Huaicheng Li,Mingzhe Hao,Michael Hao Tong,Swaminathan Sundararaman,Matias Bjørling,Haryadi S. Gunawi	
+PEN: Design and Evaluation of Partial-Erase for 3D NAND-Based High Density SSDs.	Chun-Yi Liu 0002,Jagadish Kotra,Myoungsoo Jung,Mahmut T. Kandemir	
+FStream: Managing Flash Streams in the File System.	Eunhee Rho,Kanchan Joshi,Seung-Uk Shin,Nitesh Jagadeesh Shetty,Joo Young Hwang,Sangyeun Cho,Daniel D. G. Lee,Jaeheon Jeong	
+High-Performance Transaction Processing in Journaling File Systems.	Yongseok Son,Sunggon Kim,Heon Y. Yeom,Hyuck Han	
+Spiffy: Enabling File-System Aware Storage Applications.	Kuei Sun,Daniel Fryer,Joseph Chu,Matthew Lakier,Angela Demke Brown,Ashvin Goel	
+MQSim: A Framework for Enabling Realistic Studies of Modern Multi-Queue SSD Devices.	Arash Tavakkol,Juan Gómez-Luna,Mohammad Sadrosadati,Saugata Ghose,Onur Mutlu	
+Clay Codes: Moulding MDS Codes to Yield an MSR Code.	Myna Vajha,Vinayak Ramkumar,Bhagyashree Puranik,Ganesh R. Kini,Elita Lobo,Birenjith Sasidharan,P. Vijay Kumar,Alexander Barg,Min Ye 0005,Srinivasan Narayanamurthy,Syed Hussain,Siddhartha Nandi	
+Barrier-Enabled IO Stack for Flash Storage.	Youjip Won,Jaemin Jung,Gyeongyeol Choi,Joontaek Oh,Seongbae Son,Joo Young Hwang,Sangyeun Cho	
+UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling.	Nai Xia,Chen Tian 0001,Yan Luo,Hang Liu 0001,Xiaoliang Wang 0001	
+Towards Web-based Delta Synchronization for Cloud Storage Services.	He Xiao,Zhenhua Li 0001,Ennan Zhai,Tianyin Xu,Yang Li 0092,Yunhao Liu 0001,Quanlu Zhang,Yao Liu 0001	
+RFLUSH: Rethink the Flush.	Jeseong Yeon,Minseong Jeong,Sungjin Lee 0001,Eunji Lee	
+The Full Path to Full-Path Indexing.	Yang Zhan 0001,Alexander Conway,Yizheng Jiao,Eric Knorr,Michael A. Bender,Martin Farach-Colton,William Jannen,Rob Johnson,Donald E. Porter,Jun Yuan 0006	
+RAID+: Deterministic and Balanced Data Distribution for Large Disk Enclosures.	Guangyan Zhang,Zican Huang,Xiaosong Ma,Songlin Yang,Zhufan Wang,Weimin Zheng	
+Stash in a Flash.	Aviad Zuck,Yue Li 0001,Jehoshua Bruck,Donald E. Porter,Dan Tsafrir	
+16th USENIX Conference on File and Storage Technologies, FAST 2018, Oakland, CA, USA, February 12-15, 2018.	Nitin Agrawal 0001,Raju Rangaswami	

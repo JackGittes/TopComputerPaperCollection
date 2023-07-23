@@ -1,0 +1,63 @@
+Learning invariants using decision trees and implication counterexamples.	Pranav Garg 0001,Daniel Neider,P. Madhusudan,Dan Roth	10.1145/2837614.2837664
+Principal type inference for GADTs.	Sheng Chen 0008,Martin Erwig	10.1145/2837614.2837665
+Maximal specification synthesis.	Aws Albarghouthi,Isil Dillig,Arie Gurfinkel	10.1145/2837614.2837628
+Type theory in type theory using quotient inductive types.	Thorsten Altenkirch,Ambrus Kaposi	10.1145/2837614.2837638
+Printing floating-point numbers: a faster, always correct method.	Marc Andrysco,Ranjit Jhala,Sorin Lerner	10.1145/2837614.2837654
+PolyCheck: dynamic verification of iteration space transformations on affine programs.	Wenlei Bao,Sriram Krishnamoorthy,Louis-Noël Pouchet,Fabrice Rastello,P. Sadayappan	10.1145/2837614.2837656
+Overhauling SC atomics in C11 and OpenCL.	Mark Batty,Alastair F. Donaldson,John Wickerson	10.1145/2837614.2837637
+SMO: an integrated approach to intra-array and inter-array storage optimization.	Somashekaracharya G. Bhaskaracharya,Uday Bondhugula,Albert Cohen 0001	10.1145/2837614.2837636
+Fabular: regression formulas as probabilistic programming.	Johannes Borgström,Andrew D. Gordon 0001,Long Ouyang,Claudio V. Russo,Adam Scibior,Marcin Szymczak 0002	10.1145/2837614.2837653
+Optimizing synthesis with metasketches.	James Bornholt,Emina Torlak,Dan Grossman,Luis Ceze	10.1145/2837614.2837666
+Model checking for symbolic-heap separation logic with inductive predicates.	James Brotherston,Nikos Gorogiannis,Max I. Kanovich,Reuben Rowe	10.1145/2837614.2837621
+Breaking through the normalization barrier: a self-interpreter for f-omega.	Matt Brown,Jens Palsberg	10.1145/2837614.2837623
+System f-omega with equirecursive types for datatype-generic programming.	Yufei Cai,Paolo G. Giarrusso,Klaus Ostermann	10.1145/2837614.2837660
+Symbolic computation of differential equivalences.	Luca Cardelli,Mirco Tribastone,Max Tschaikowski,Andrea Vandin	10.1145/2837614.2837649
+Algorithmic analysis of qualitative and quantitative termination problems for affine probabilistic programs.	Krishnendu Chatterjee,Hongfei Fu 0001,Petr Novotný 0001,Rouzbeh Hasheminezhad	10.1145/2837614.2837639
+Algorithms for algebraic path properties in concurrent systems of constant treewidth components.	Krishnendu Chatterjee,Amir Kafshdar Goharshady,Rasmus Ibsen-Jensen,Andreas Pavlogiannis	10.1145/2837614.2837624
+The gradualizer: a methodology and algorithm for generating gradual type systems.	Matteo Cimini,Jeremy G. Siek	10.1145/2837614.2837632
+A theory of effects and resources: adjunction models and polarised calculi.	Pierre-Louis Curien,Marcelo P. Fiore,Guillaume Munch-Maccagnoni	10.1145/2837614.2837652
+Fully-abstract compilation by approximate back-translation.	Dominique Devriese,Marco Patrignani,Frank Piessens	10.1145/2837614.2837618
+PSync: a partially synchronous language for fault-tolerant distributed algorithms.	Cezara Dragoi,Thomas A. Henzinger,Damien Zufferey	10.1145/2837614.2837650
+Symbolic abstract data type inference.	Michael Emmi,Constantin Enea	10.1145/2837614.2837645
+Binding as sets of scopes.	Matthew Flatt	10.1145/2837614.2837620
+Modelling the ARMv8 architecture, operationally: concurrency and ISA.	Shaked Flur,Kathryn E. Gray,Christopher Pulte,Susmit Sarkar,Ali Sezgin,Luc Maranget,Will Deacon,Peter Sewell	10.1145/2837614.2837615
+Example-directed synthesis: a type-theoretic interpretation.	Jonathan Frankle,Peter-Michael Osera,David Walker,Steve Zdancewic	10.1145/2837614.2837629
+Abstracting gradual typing.	Ronald Garcia,Alison M. Clark,Éric Tanter	10.1145/2837614.2837670
+Pushdown control-flow analysis for free.	Thomas Gilray,Steven Lyde,Michael D. Adams 0001,Matthew Might,David Van Horn	10.1145/2837614.2837631
+The complexity of interaction.	Stéphane Gimenez,Georg Moser	10.1145/2837614.2837646
+&apos;Cause I&apos;m strong enough: reasoning about consistency choices in distributed systems.	Alexey Gotsman,Hongseok Yang,Carla Ferreira 0001,Mahsa Najafzadeh,Marc Shapiro 0001	10.1145/2837614.2837625
+Kleenex: compiling nondeterministic transducers to deterministic streaming transducers.	Niels Bjørn Bugge Grathwohl,Fritz Henglein,Ulrik Terp Rasmussen,Kristoffer Aalund Søholm,Sebastian Paaske Tørholm	10.1145/2837614.2837647
+Abstraction refinement guided by a learnt probabilistic model.	Radu Grigore,Hongseok Yang	10.1145/2837614.2837663
+Unboundedness and downward closures of higher-order pushdown automata.	Matthew Hague,Jonathan Kochems,C.-H. Luke Ong	10.1145/2837614.2837627
+Lattice-theoretic progress measures and coalgebraic model checking.	Ichiro Hasuo,Shunsuke Shimizu,Corina Cîrstea	10.1145/2837614.2837673
+Monitors and blame assignment for higher-order session types.	Limin Jia 0001,Hannah Gommerstadt,Frank Pfenning	10.1145/2837614.2837662
+Lightweight verification of separate compilation.	Jeehoon Kang,Yoonseung Kim,Chung-Kil Hur,Derek Dreyer,Viktor Vafeiadis	10.1145/2837614.2837642
+Estimating types in binaries using predictive modeling.	Omer Katz,Ran El-Yaniv,Eran Yahav	10.1145/2837614.2837674
+Reducing crash recoverability to reachability.	Eric Koskinen,Junfeng Yang	10.1145/2837614.2837648
+Taming release-acquire consistency.	Ori Lahav,Nick Giannarakis,Viktor Vafeiadis	10.1145/2837614.2837643
+The hardness of data packing.	Rahman Lavaee	10.1145/2837614.2837669
+Chapar: certified causally consistent distributed key-value stores.	Mohsen Lesani,Christian J. Bell,Adam Chlipala	10.1145/2837614.2837622
+A program logic for concurrent objects under fair scheduling.	Hongjin Liang 0001,Xinyu Feng 0001	10.1145/2837614.2837635
+String solving with word equations and transducers: towards a logic for analysing mutation XSS.	Anthony Widjaja Lin,Pablo Barceló	10.1145/2837614.2837641
+Automatic patch generation by learning correct code.	Fan Long,Martin C. Rinard	10.1145/2837614.2837617
+Sound type-dependent syntactic language extension.	Florian Lorenzen,Sebastian Erdweg	10.1145/2837614.2837644
+Programming the world of uncertain things (keynote).	Kathryn S. McKinley	10.1145/2837614.2843895
+Temporal verification of higher-order functional programs.	Akihiro Murase,Tachio Terauchi,Naoki Kobayashi 0001,Ryosuke Sato 0001,Hiroshi Unno 0001	10.1145/2837614.2837667
+Memoryful geometry of interaction II: recursion and adequacy.	Koko Muroya,Naohiko Hoshino,Ichiro Hasuo	10.1145/2837614.2837672
+Synthesis of reactive controllers for hybrid systems (keynote).	Richard M. Murray	10.1145/2837614.2843894
+Combining static analysis with probabilistic models to enable market-scale Android inter-component analysis.	Damien Octeau,Somesh Jha,Matthew L. Dering,Patrick D. McDaniel,Alexandre Bartel,Li Li 0029,Jacques Klein,Yves Le Traon	10.1145/2837614.2837661
+Effects as sessions, sessions as effects.	Dominic A. Orchard,Nobuko Yoshida	10.1145/2837614.2837634
+Decidability of inferring inductive invariants.	Oded Padon,Neil Immerman,Sharon Shoham,Aleksandr Karbyshev,Mooly Sagiv	10.1145/2837614.2837640
+A concurrency semantics for relaxed atomics that permits optimisation and avoids thin-air executions.	Jean Pichon-Pharabod,Peter Sewell	10.1145/2837614.2837616
+Scaling network verification using symmetry and surgery.	Gordon D. Plotkin,Nikolaj S. Bjørner,Nuno P. Lopes,Andrey Rybalchenko,George Varghese	10.1145/2837614.2837657
+Learning programs from noisy data.	Veselin Raychev,Pavol Bielik,Martin T. Vechev,Andreas Krause 0001	10.1145/2837614.2837671
+Newtonian program analysis via tensor product.	Thomas W. Reps,Emma Turetsky,Prathmesh Prabhu	10.1145/2837614.2837659
+From MinX to MinC: semantics-driven decompilation of recursive datatypes.	Edward Robbins 0001,Andy King,Tom Schrijvers	10.1145/2837614.2837633
+Environmental bisimulations for probabilistic higher-order languages.	Davide Sangiorgi,Valeria Vignudelli	10.1145/2837614.2837651
+Transforming spreadsheet data types using examples.	Rishabh Singh,Sumit Gulwani	10.1145/2837614.2837668
+Dependent types and multi-monadic effects in F.	Nikhil Swamy,Catalin Hritcu,Chantal Keller,Aseem Rastogi,Antoine Delignat-Lavaud,Simon Forest,Karthikeyan Bhargavan,Cédric Fournet,Pierre-Yves Strub,Markulf Kohlweiss,Jean Karim Zinzindohoue,Santiago Zanella Béguelin	10.1145/2837614.2837655
+Is sound gradual typing dead?	Asumu Takikawa,Daniel Feltey,Ben Greenman,Max S. New,Jan Vitek,Matthias Felleisen	10.1145/2837614.2837630
+Confluences in programming languages research (keynote).	David Walker	10.1145/2837614.2843896
+Casper: an efficient approach to call trace collection.	Rongxin Wu,Xiao Xiao 0003,Shing-Chi Cheung,Hongyu Zhang 0002,Charles Zhang	10.1145/2837614.2837619
+Query-guided maximum satisfiability.	Xin Zhang 0035,Ravi Mangal,Aditya V. Nori,Mayur Naik	10.1145/2837614.2837658
+Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2016, St. Petersburg, FL, USA, January 20 - 22, 2016	Rastislav Bodík,Rupak Majumdar	10.1145/2837614

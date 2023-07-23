@@ -1,0 +1,48 @@
+Brief Announcement: Efficient Best Response Computation for Strategic Network Formation under Attack.	Tobias Friedrich 0001,Sven Ihde,Christoph Keßler,Pascal Lenzner,Stefan Neubert,David Schumann	10.1145/3087556.3087594
+Bounding Cache Miss Costs of Multithreaded Computations Under General Schedulers: Extended Abstract.	Richard Cole 0001,Vijaya Ramachandran	10.1145/3087556.3087572
+Distributed Graph Clustering by Load Balancing.	He Sun 0001,Luca Zanetti	10.1145/3087556.3087569
+Brief Announcement: Parallel Dynamic Tree Contraction via Self-Adjusting Computation.	Umut A. Acar,Vitaly Aksenov,Sam Westrick	10.1145/3087556.3087595
+Brief Announcement: Scheduling Parallelizable Jobs Online to Maximize Throughput.	Kunal Agrawal,Jing Li 0025,Kefu Lu,Benjamin Moseley	10.1145/3087556.3087590
+On Energy Conservation in Data Centers.	Susanne Albers	10.1145/3087556.3087560
+Is Our Model for Contention Resolution Wrong?: Confronting the Cost of Collisions.	William C. Anderton,Maxwell Young	10.1145/3087556.3087584
+Randomized Composable Coresets for Matching and Vertex Cover.	Sepehr Assadi,Sanjeev Khanna	10.1145/3087556.3087581
+Brief Announcement: Meeting the Challenges of Parallelizing Sequential Programs.	Rohit Atre,Ali Jannesari,Felix Wolf 0001	10.1145/3087556.3087592
+Tight Bounds for Clairvoyant Dynamic Bin Packing.	Yossi Azar,Danny Vainstein	10.1145/3087556.3087570
+Almost Optimal Streaming Algorithms for Coverage Problems.	MohammadHossein Bateni,Hossein Esfandiari,Vahab S. Mirrokni	10.1145/3087556.3087585
+Brief Announcement: Graph Matching in Massive Datasets.	Soheil Behnezhad,Mahsa Derakhshan,Hossein Esfandiari,Elif Tan,Hadi Yami	10.1145/3087556.3087601
+Online Tree Caching.	Marcin Bienkowski,Jan Marcinkowski,Maciej Pacut,Stefan Schmid 0001,Aleksandra Spyra	10.1145/3087556.3087558
+Brief Announcement: Approximation Algorithms for Unsplittable Resource Allocation Problems with Diseconomies of Scale.	Antje Bjelde,Max Klimm,Daniel Schmand	10.1145/3087556.3087597
+Some Sequential Algorithms are Almost Always Parallel.	Guy E. Blelloch	10.1145/3087556.3087602
+Fast Scheduling in Distributed Transactional Memory.	Costas Busch,Maurice Herlihy,Miroslav Popovic,Gokarna Sharma	10.1145/3087556.3087565
+Minimizing Total Weighted Flow Time with Calibrations.	Vincent Chau,Minming Li,Samuel McCauley,Kai Wang 0018	10.1145/3087556.3087573
+Provably Efficient Scheduling of Cache-oblivious Wavefront Algorithms.	Rezaul Chowdhury,Pramod Ganapathi,Yuan Tang,Jesmin Jahan Tithi	10.1145/3087556.3087586
+Improved Cover Time Bounds for the Coalescing-Branching Random Walk on Graphs.	Colin Cooper,Tomasz Radzik,Nicolas Rivera	10.1145/3087556.3087564
+Julienne: A Framework for Parallel Graph Algorithms using Work-efficient Bucketing.	Laxman Dhulipala,Guy E. Blelloch,Julian Shun	10.1145/3087556.3087580
+Impact of Knowledge on Election Time in Anonymous Networks.	Yoann Dieudonné,Andrzej Pelc	10.1145/3087556.3087563
+Optimal Local Buffer Management for Information Gathering with Adversarial Traffic.	Stefan Dobrev,Manuel Lafond,Lata Narayanan,Jaroslav Opatrny	10.1145/3087556.3087577
+Bicriteria Distributed Submodular Maximization in a Few Rounds.	Alessandro Epasto,Vahab S. Mirrokni,Morteza Zadimoghaddam	10.1145/3087556.3087574
+Brief Announcement: Using Multi-Level Parallelism and 2-3 Cuckoo Filters for Set Intersection Queries and Sparse Boolean Matrix Multiplication.	David Eppstein,Michael T. Goodrich	10.1145/3087556.3087599
+The Mobile Server Problem.	Björn Feldkord,Friedhelm Meyer auf der Heide	10.1145/3087556.3087575
+Distributed Detection of Cycles.	Pierre Fraigniaud,Dennis Olivetti	10.1145/3087556.3087571
+Brief Announcement: Hardware Transactional Storage Class Memory.	Ellis Giles,Kshitij A. Doshi,Peter J. Varman	10.1145/3087556.3087589
+Distributed Partial Clustering.	Sudipto Guha,Yi Li 0002,Qin Zhang 0001	10.1145/3087556.3087568
+Beyond P vs. NP: Quadratic-Time Hardness for Big Data Problems.	Piotr Indyk	10.1145/3087556.3087603
+Lower Bounds in the Asymmetric External Memory Model.	Riko Jacob,Nodari Sitchinava	10.1145/3087556.3087583
+Asymptotically Optimal Approximation Algorithms for Coflow Scheduling.	Hamidreza Jahanjou,Erez Kantor,Rajmohan Rajaraman	10.1145/3087556.3087567
+Optimal Reissue Policies for Reducing Tail Latency.	Tim Kaler,Yuxiong He,Sameh Elnikety	10.1145/3087556.3087566
+Matrix Multiplication, a Little Faster.	Elaye Karstadt,Oded Schwartz	10.1145/3087556.3087579
+Near Optimal Parallel Algorithms for Dynamic DFS in Undirected Graphs.	Shahbaz Khan 0004	10.1145/3087556.3087576
+Sharing is Caring: Multiprocessor Scheduling with a Sharable Resource.	Peter Kling,Alexander Mäcker,Sören Riechers,Alexander Skopalik	10.1145/3087556.3087578
+Bounding Laconic Proof Systems by Solving CSPs in Parallel.	Jason Li 0006,Ryan O&apos;Donnell	10.1145/3087556.3087557
+Brief Announcement: Towards Fault-Tolerant Bin Packing for Online Cloud Resource Allocation.	Chuanyou Li,Xueyan Tang	10.1145/3087556.3087596
+Concurrent Data Structures for Near-Memory Computing.	Zhiyu Liu,Irina Calciu,Maurice Herlihy,Onur Mutlu	10.1145/3087556.3087582
+Brief Announcement: Hazard Eras - Non-Blocking Memory Reclamation.	Pedro Ramalhete,Andreia Correia	10.1145/3087556.3087588
+Online Flexible Job Scheduling for Minimum Span.	Runtian Ren,Xueyan Tang	10.1145/3087556.3087562
+Brief Announcement: A New Improved Bound for Coflow Scheduling.	Mehrnoosh Shafiee,Javad Ghaderi	10.1145/3087556.3087598
+Brief Announcement: Complete Visibility for Oblivious Robots in Linear Time.	Gokarna Sharma,Costas Busch,Supratik Mukhopadhyay	10.1145/3087556.3087591
+A Communication-Avoiding Parallel Algorithm for the Symmetric Eigenvalue Problem.	Edgar Solomonik,Grey Ballard,James Demmel,Torsten Hoefler	10.1145/3087556.3087561
+Brief Announcement: STAR (Space-Time Adaptive and Reductive) Algorithms for Dynamic Programming Recurrences with more than O(1) Dependency.	Yuan Tang,Shiyi Wang	10.1145/3087556.3087593
+Swarm-based Incast Congestion Control in Datacenters Serving Web Applications.	Haoyu Wang 0003,Haiying Shen,Guoxin Liu	10.1145/3087556.3087559
+Hand-Over-Hand Transactions with Precise Memory Reclamation.	Tingzhe Zhou,Victor Luchangco,Michael F. Spear	10.1145/3087556.3087587
+Brief Announcement: Extending Transactional Memory with Atomic Deferral.	Tingzhe Zhou,Victor Luchangco,Michael F. Spear	10.1145/3087556.3087600
+Proceedings of the 29th ACM Symposium on Parallelism in Algorithms and Architectures, SPAA 2017, Washington DC, USA, July 24-26, 2017	Christian Scheideler,Mohammad Taghi Hajiaghayi	10.1145/3087556

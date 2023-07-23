@@ -1,0 +1,110 @@
+How practitioners perceive coding proficiency.	Xin Xia 0001,Zhiyuan Wan,Pavneet Singh Kochhar,David Lo 0001	10.1109/ICSE.2019.00098
+Analyzing and supporting adaptation of online code examples.	Tianyi Zhang 0001,Di Yang,Cristina V. Lopes,Miryung Kim	10.1109/ICSE.2019.00046
+Grey-box concolic testing on binary code.	Jaeseung Choi 0002,Joonun Jang,Choongwoo Han,Sang Kil Cha	10.1109/ICSE.2019.00082
+Pattern-based mining of opinions in Q&amp;A websites.	Bin Lin 0008,Fiorella Zampetti,Gabriele Bavota,Massimiliano Di Penta,Michele Lanza	10.1109/ICSE.2019.00066
+Supporting analysts by dynamic extraction and classification of requirements-related knowledge.	Zahra Shakeri Hossein Abad,Vincenzo Gervasi,Didar Zowghi,Behrouz H. Far	10.1109/ICSE.2019.00057
+Developer reading behavior while summarizing Java methods: size and context matters.	Nahla J. Abid,Bonita Sharif,Natalia Dragan,Hend Alrasheed,Jonathan I. Maletic	10.1109/ICSE.2019.00052
+Software documentation issues unveiled.	Emad Aghajani,Csaba Nagy 0001,Olga Lucero Vega-Márquez,Mario Linares-Vásquez,Laura Moreno,Gabriele Bavota,Michele Lanza	10.1109/ICSE.2019.00122
+Leveraging artifact trees to evolve and reuse safety cases.	Ankit Agrawal 0002,Seyedehzahra Khoshmanesh,Michael Vierhauser,Mona Rahimi,Jane Cleland-Huang,Robyn R. Lutz	10.1109/ICSE.2019.00124
+Why does code review work for open source software communities?	Adam Alami,Marisa Leavitt Cohn,Andrzej Wasowski	10.1109/ICSE.2019.00111
+Mining historical test logs to predict bugs and localize faults in the test logs.	Anunay Amar,Peter C. Rigby	10.1109/ICSE.2019.00031
+Analysis and detection of information types of open source software issue discussions.	Deeksha M. Arya,Wenting Wang,Jin L. C. Guo,Jinghui Cheng	10.1109/ICSE.2019.00058
+RESTler: stateful REST API fuzzing.	Vaggelis Atlidakis,Patrice Godefroid,Marina Polishchuk	10.1109/ICSE.2019.00083
+Dynamic slicing for Android.	Tanzirul Azim,Arash Alavi 0001,Iulian Neamtiu,Rajiv Gupta 0001	10.1109/ICSE.2019.00118
+Towards understanding and reasoning about Android interoperations.	Sora Bae,Sungho Lee,Sukyoung Ryu	10.1109/ICSE.2019.00038
+Why do episodic volunteers stay in FLOSS communities?	Ann Barcomb,Klaas-Jan Stol,Dirk Riehle,Brian Fitzgerald 0001	10.1109/ICSE.2019.00100
+Class imbalance evolution and verification latency in just-in-time software defect prediction.	George G. Cabral,Leandro L. Minku,Emad Shihab,Suhaib Mujahid	10.1109/ICSE.2019.00076
+Detecting atomicity violations for event-driven Node.js applications.	Xiaoning Chang,Wensheng Dou,Yu Gao 0002,Jie Wang 0035,Jun Wei 0001,Tao Huang 0001	10.1109/ICSE.2019.00073
+Latent patterns in activities: a field study of how developers manage context.	Souti Chattopadhyay,Nicholas Nelson 0002,Yenifer Ramirez Gonzalez,Annel Amelia Leon,Rahul Pandita,Anita Sarma	10.1109/ICSE.2019.00051
+StoryDroid: automated generation of storyboard for Android apps.	Sen Chen,Lingling Fan 0003,Chunyang Chen,Ting Su 0001,Wenhe Li,Yang Liu 0003,Lihua Xu	10.1109/ICSE.2019.00070
+How reliable is the crowdsourced knowledge of security implementation?	Mengsu Chen,Felix Fischer 0001,Na Meng 0001,Xiaoyin Wang,Jens Grossklags	10.1109/ICSE.2019.00065
+Deep differential testing of JVM implementations.	Yuting Chen,Ting Su 0001,Zhendong Su 0001	10.1109/ICSE.2019.00127
+GreenBundle: an empirical study on the energy impact of bundled processing.	Shaiful Alam Chowdhury,Abram Hindle,Rick Kazman,Takumi Shuto,Ken Matsui,Yasutaka Kamei	10.1109/ICSE.2019.00114
+Interactive production performance feedback in the IDE.	Jürgen Cito,Philipp Leitner 0001,Martin C. Rinard,Harald C. Gall	10.1109/ICSE.2019.00102
+Scalable approaches for test suite reduction.	Emilio Cruciani,Breno Miranda,Roberto Verdecchia,Antonia Bertolino	10.1109/ICSE.2019.00055
+Investigating the impact of multiple dependency structures on software defects.	Di Cui,Ting Liu 0002,Yuanfang Cai,Qinghua Zheng,Qiong Feng,Wuxia Jin,Jiaqi Guo,Yu Qu	10.1109/ICSE.2019.00069
+Rotten green tests.	Julien Delplanque,Stéphane Ducasse,Guillermo Polito,Andrew P. Black,Anne Etien	10.1109/ICSE.2019.00062
+BugSwarm: mining and continuously growing a dataset of reproducible failures and fixes.	David A. Tomassi,Naji Dmeiri,Yichen Wang 0004,Antara Bhowmick,Yen-Chuan Liu,Premkumar T. Devanbu,Bogdan Vasilescu,Cindy Rubio-González	10.1109/ICSE.2019.00048
+Leopard: identifying vulnerable code for vulnerability assessment through program metrics.	Xiaoning Du 0001,Bihuan Chen 0001,Yuekang Li,Jianmin Guo,Yaqin Zhou,Yang Liu 0003,Yu Jiang 0001	10.1109/ICSE.2019.00024
+How C++ developers use immutability declarations: an empirical study.	Jonathan Eyolfson,Patrick Lam 0001	10.1109/ICSE.2019.00050
+Graph embedding based familial analysis of Android malware using unsupervised learning.	Ming Fan 0002,Xiapu Luo,Jun Liu 0002,Meng Wang 0009,Chunyin Nong,Qinghua Zheng,Ting Liu 0002	10.1109/ICSE.2019.00085
+Smoke: scalable path-sensitive memory leak detection for millions of lines of code.	Gang Fan,Rongxin Wu,Qingkai Shi,Xiao Xiao 0003,Jinguo Zhou,Charles Zhang	10.1109/ICSE.2019.00025
+Detection and repair of architectural inconsistencies in Java.	Negar Ghorbani,Joshua Garcia,Sam Malek	10.1109/ICSE.2019.00067
+Gigahorse: thorough, declarative decompilation of smart contracts.	Neville Grech,Lexi Brent,Bernhard Scholz,Yannis Smaragdakis	10.1109/ICSE.2019.00120
+Practical GUI testing of Android applications via model abstraction and refinement.	Tianxiao Gu,Chengnian Sun,Xiaoxing Ma,Chun Cao,Chang Xu 0001,Yuan Yao 0001,Qirun Zhang,Jian Lu 0001,Zhendong Su 0001	10.1109/ICSE.2019.00042
+DeepPerf: performance prediction for configurable software with deep sparse neural network.	Huong Ha,Hongyu Zhang 0002	10.1109/ICSE.2019.00113
+CTRAS: crowdsourced test report aggregation and summarization.	Rui Hao,Yang Feng 0003,James A. Jones,Yuying Li,Zhenyu Chen 0001	10.1109/ICSE.2019.00096
+9.6 million links in source code comments: purpose, evolution, and decay.	Hideaki Hata,Christoph Treude,Raula Gaikovina Kula,Takashi Ishio	10.1109/ICSE.2019.00123
+A system identification based Oracle for control-CPS software fault localization.	Zhijian He,Yao Chen,Enyan Huang,Qixin Wang,Yu Pei 0001,Haidong Yuan	10.1109/ICSE.2019.00029
+When code completion fails: a case study on real-world completions.	Vincent J. Hellendoorn,Sebastian Proksch,Harald C. Gall,Alberto Bacchelli	10.1109/ICSE.2019.00101
+Resource-aware program analysis via online abstraction coarsening.	Kihong Heo,Hakjoo Oh,Hongseok Yang	10.1109/ICSE.2019.00027
+Supporting the statistical analysis of variability models.	Ruben Heradio,David Fernández-Amorós,Christoph Mayr-Dorn,Alexander Egyed	10.1109/ICSE.2019.00091
+DockerizeMe: automatic inference of environment dependencies for python code snippets.	Eric Horton,Chris Parnin	10.1109/ICSE.2019.00047
+SafeCheck: safety enhancement of Java unsafe API.	Shiyou Huang,Jianmei Guo,Sanhong Li,Xiang Li,Yumin Qi,Kingsum Chow,Jeff Huang 0001	10.1109/ICSE.2019.00095
+Distilling neural representations of data structure manipulation using fMRI and fNIRS.	Yu Huang 0015,Xinyu Liu,Ryan Krueger,Tyler Santander,Xiaosu Hu,Kevin Leach,Westley Weimer	10.1109/ICSE.2019.00053
+Investigating the effects of gender bias on GitHub.	Nasif Imtiaz,Justin Middleton,Joymallya Chakraborty,Neill Robson,Gina R. Bai,Emerson R. Murphy-Hill	10.1109/ICSE.2019.00079
+Search-based energy testing of Android.	Reyhaneh Jabbarvand,Jun-Wei Lin,Sam Malek	10.1109/ICSE.2019.00115
+Statistical algorithmic profiling for randomized approximate programs.	Keyur Joshi 0001,Vimuth Fernando,Sasa Misailovic	10.1109/ICSE.2019.00071
+Distance-based sampling of software configuration spaces.	Christian Kaltenecker,Alexander Grebhahn,Norbert Siegmund,Jianmei Guo,Sven Apel	10.1109/ICSE.2019.00112
+Tool choice matters: JavaScript quality assurance tools and usage outcomes in GitHub projects.	David Kavaler,Asher Trockman,Bogdan Vasilescu,Vladimir Filkov	10.1109/ICSE.2019.00060
+Type migration in ultra-large-scale codebases.	Ameya Ketkar,Ali Mesbah 0001,Davood Mazinanian,Danny Dig,Edward Aftandilian	10.1109/ICSE.2019.00117
+Safe automated refactoring for intelligent parallelization of Java 8 streams.	Raffi Khatchadourian,Yiming Tang,Mehdi Bagherzadeh 0001,Syed Ahmed	10.1109/ICSE.2019.00072
+Mimic: UI compatibility testing system for Android apps.	Taeyeon Ki,Chang Min Park,Karthik Dantu,Steven Y. Ko,Lukasz Ziarek	10.1109/ICSE.2019.00040
+Guiding deep learning system testing using surprise adequacy.	Jinhan Kim,Robert Feldt,Shin Yoo	10.1109/ICSE.2019.00108
+Reasonably-most-general clients for JavaScript library analysis.	Erik Krogh Kristensen,Anders Møller	10.1109/ICSE.2019.00026
+Multifaceted automated analyses for variability-intensive embedded systems.	Sami Lazreg,Maxime Cordy,Philippe Collet,Patrick Heymans,Sébastien Mosser 0001	10.1109/ICSE.2019.00092
+On reliability of patch correctness assessment.	Xuan-Bach Dinh Le,Lingfeng Bao,David Lo 0001,Xin Xia 0001,Shanping Li,Corina S. Pasareanu	10.1109/ICSE.2019.00064
+A neural model for generating natural language summaries of program subroutines.	Alexander LeClair,Siyuan Jiang,Collin McMillan	10.1109/ICSE.2019.00087
+FLOSS participants&apos; perceptions about gender and inclusiveness: a survey.	Amanda Lee,Jeffrey C. Carver	10.1109/ICSE.2019.00077
+Dlfinder: characterizing and detecting duplicate logging code smells.	Zhenhao Li,Tse-Hsun (Peter) Chen,Jinqiu Yang 0001,Weiyi Shang	10.1109/ICSE.2019.00032
+Detecting incorrect build rules.	Nándor Licker,Andrew Rice	10.1109/ICSE.2019.00125
+Intention-based integration of software variants.	Max Lillack,Stefan Stanciulescu,Wilhelm Hedman,Thorsten Berger,Andrzej Wasowski	10.1109/ICSE.2019.00090
+Learning to spot and refactor inconsistent method names.	Kui Liu 0001,Dongsun Kim 0001,Tegawendé F. Bissyandé,Tae-young Kim,Kisub Kim,Anil Koyuncu,Suntae Kim,Yves Le Traon	10.1109/ICSE.2019.00019
+NL2Type: inferring JavaScript function types from natural language information.	Rabee Sohail Malik,Jibesh Patra,Michael Pradel	10.1109/ICSE.2019.00045
+Symbolic repairs for GR(1) specifications.	Shahar Maoz,Jan Oliver Ringert,Rafi Shalom	10.1109/ICSE.2019.00106
+Probabilistic disassembly.	Kenneth A. Miller,Yonghwi Kwon 0001,Yi Sun,Zhuo Zhang 0002,Xiangyu Zhang 0001,Zhiqiang Lin	10.1109/ICSE.2019.00121
+Training binary classifiers as data structure invariants.	Facundo Molina,Renzo Degiovanni,Pablo Ponzio,Germán Regis,Nazareno Aguirre,Marcelo F. Frias	10.1109/ICSE.2019.00084
+Automatically generating precise Oracles from structured natural language specifications.	Manish Motwani,Yuriy Brun	10.1109/ICSE.2019.00035
+Do developers discover new tools on the toilet?	Emerson R. Murphy-Hill,Edward K. Smith,Caitlin Sadowski,Ciera Jaspan,Collin Winter,Matthew Jorde,Andrea Knight,Andrew Trenk,Steve Gross	10.1109/ICSE.2019.00059
+Graph-based mining of in-the-wild, fine-grained, semantic code change patterns.	Hoan Anh Nguyen,Tien N. Nguyen,Danny Dig,Son Nguyen,Hieu Tran,Michael Hilton	10.1109/ICSE.2019.00089
+FOCUS: a recommender system for mining API function calls and usage patterns.	Phuong Thanh Nguyen 0001,Juri Di Rocco,Davide Di Ruscio,Lina Ochoa,Thomas Degueule,Massimiliano Di Penta	10.1109/ICSE.2019.00109
+DifFuzz: differential fuzzing for side-channel analysis.	Shirin Nilizadeh,Yannic Noller,Corina S. Pasareanu	10.1109/ICSE.2019.00034
+Easy modelling and verification of unpredictable and preemptive interrupt-driven systems.	Minxue Pan,Shouyu Chen,Yu Pei 0001,Tian Zhang 0001,Xuandong Li	10.1109/ICSE.2019.00037
+CRADLE: cross-backend validation to detect and localize bugs in deep learning libraries.	Hung Viet Pham,Thibaud Lutellier,Weizhen Qi,Lin Tan 0001	10.1109/ICSE.2019.00107
+FastLane: test minimization for rapidly deployed large-scale online services.	Adithya Abraham Philip,Ranjita Bhagwan,Rahul Kumar 0002,Chandra Shekhar Maddila,Nachiappan Nagappan	10.1109/ICSE.2019.00054
+Going farther together: the impact of social capital on sustained participation in open source.	Huilian Sophie Qiu,Alexander Nolte,Anita Brown,Alexander Serebrenik,Bogdan Vasilescu	10.1109/ICSE.2019.00078
+Natural software revisited.	Musfiqur Rahman,Dharani Palani,Peter C. Rigby	10.1109/ICSE.2019.00022
+The seven sins: security smells in infrastructure as code scripts.	Akond Rahman,Chris Parnin,Laurie A. Williams	10.1109/ICSE.2019.00033
+The list is the process: reliable pre-integration tracking of commits on mailing lists.	Ralf Ramsauer,Daniel Lohmann,Wolfgang Mauerer	10.1109/ICSE.2019.00088
+Zero-overhead path prediction with progressive symbolic execution.	Richard Rutledge,Sunjae Park,Haider Adnan Khan,Alessandro Orso,Milos Prvulovic,Alenka G. Zajic	10.1109/ICSE.2019.00039
+Harnessing evolution for multi-hunk program repair.	Seemanta Saha,Ripon K. Saha,Mukul R. Prasad	10.1109/ICSE.2019.00020
+Towards automating precision studies of clone detectors.	Vaibhav Saini,Farima Farmahinifarahani,Yadong Lu,Di Yang,Pedro Martins 0001,Hitesh Sajnani,Pierre Baldi,Cristina V. Lopes	10.1109/ICSE.2019.00023
+Socio-technical work-rate increase associates with changes in work patterns in online projects.	Farhana Sarker,Bogdan Vasilescu,Kelly Blincoe,Vladimir Filkov	10.1109/ICSE.2019.00099
+The product backlog.	Todd Sedano,Paul Ralph,Cécile Péraire	10.1109/ICSE.2019.00036
+Active inductive logic programming for code search.	Aishwarya Sivaraman,Tianyi Zhang 0001,Guy Van den Broeck,Miryung Kim	10.1109/ICSE.2019.00044
+Test-driven code review: an empirical study.	Davide Spadini,Fabio Palomba,Tobias Baum,Stefan Hanenberg,Magiel Bruntink,Alberto Bacchelli	10.1109/ICSE.2019.00110
+Redundant loads: a software inefficiency indicator.	Pengfei Su 0001,Shasha Wen,Hailong Yang,Milind Chabbi,Xu Liu 0001	10.1109/ICSE.2019.00103
+Recovering variable names for minified code with usage contexts.	Hieu Tran,Ngoc M. Tran,Son Nguyen,Hoan Nguyen,Tien N. Nguyen	10.1109/ICSE.2019.00119
+On learning meaningful code changes via neural machine translation.	Michele Tufano,Jevgenija Pantiuchina,Cody Watson,Gabriele Bavota,Denys Poshyvanyk	10.1109/ICSE.2019.00021
+Automated reporting of anti-patterns and decay in continuous integration.	Carmine Vassallo,Sebastian Proksch,Harald C. Gall,Massimiliano Di Penta	10.1109/ICSE.2019.00028
+Superion: grammar-aware greybox fuzzing.	Junjie Wang 0007,Bihuan Chen 0001,Lei Wei,Yang Liu 0003	10.1109/ICSE.2019.00081
+Adversarial sample detection for deep neural network through model mutation testing.	Jingyi Wang 0004,Guoliang Dong,Jun Sun 0001,Xinyu Wang 0001,Peixin Zhang	10.1109/ICSE.2019.00126
+Adjust: runtime mitigation of resource abusing third-party online ads.	Weihang Wang 0001,I Luk Kim,Yunhui Zheng	10.1109/ICSE.2019.00105
+Global optimization of numerical programs via prioritized stochastic algebraic transformations.	Xie Wang,Huaijin Wang,Zhendong Su 0001,Enyi Tang,Xin Chen 0027,Weijun Shen,Zhenyu Chen 0001,Linzhang Wang,Xianpei Zhang,Xuandong Li	10.1109/ICSE.2019.00116
+Could I have a stack trace to examine the dependency conflict issue?	Ying Wang 0038,Ming Wen 0001,Rongxin Wu,Zhenwei Liu 0001,Shin Hwei Tan,Zhiliang Zhu 0001,Hai Yu 0001,Shing-Chi Cheung	10.1109/ICSE.2019.00068
+iSENSE: completion-aware crowdtesting management.	Junjie Wang 0001,Ye Yang,Rahul Krishna,Tim Menzies,Qing Wang 0001	10.1109/ICSE.2019.00097
+Pivot: learning API-device correlations to facilitate Android compatibility issue detection.	Lili Wei,Yepang Liu 0001,Shing-Chi Cheung	10.1109/ICSE.2019.00094
+Exposing library API misuses via mutation analysis.	Ming Wen 0001,Yepang Liu 0001,Rongxin Wu,Xuan Xie,Shing-Chi Cheung,Zhendong Su 0001	10.1109/ICSE.2019.00093
+IconIntent: automatic identification of sensitive UI widgets based on icon classification for Android apps.	Xusheng Xiao,Xiaoyin Wang,Zhihao Cao,Hanlin Wang,Peng Gao 0008	10.1109/ICSE.2019.00041
+VFix: value-flow-guided precise program repair for null pointer dereferences.	Xuezheng Xu,Yulei Sui,Hua Yan,Jingling Xue	10.1109/ICSE.2019.00063
+View-centric performance optimization for database-backed web applications.	Junwen Yang,Cong Yan,Chengcheng Wan,Shan Lu 0001,Alvin Cheung	10.1109/ICSE.2019.00104
+Hunting for bugs in code coverage tools via randomized differential testing.	Yibiao Yang,Yuming Zhou,Hao Sun,Zhendong Su 0001,Zhiqiang Zuo 0002,Lei Xu 0003,Baowen Xu	10.1109/ICSE.2019.00061
+Mining software defects: should we consider affected releases?	Suraj Yatish,Jirayus Jiarpakdee,Patanamon Thongtanunam,Chakkrit Tantithamthavorn	10.1109/ICSE.2019.00075
+Parallel refinement for multi-threaded program verification.	Liangze Yin,Wei Dong 0006,Wanwei Liu,Ji Wang 0001	10.1109/ICSE.2019.00074
+SLF: fuzzing without valid seed inputs.	Wei You,Xuwei Liu,Shiqing Ma,David Mitchel Perry,Xiangyu Zhang 0001,Bin Liang 0002	10.1109/ICSE.2019.00080
+AutoTap: synthesizing and repairing trigger-action programs using LTL properties.	Lefan Zhang,Weijia He,Jesse J. Martinez,Noah Brackenbury,Shan Lu 0001,Blase Ur	10.1109/ICSE.2019.00043
+A novel neural source code representation based on abstract syntax tree.	Jian Zhang,Xu Wang 0007,Hongyu Zhang 0002,Hailong Sun 0001,Kaixuan Wang,Xudong Liu 0001	10.1109/ICSE.2019.00086
+ActionNet: vision-based workflow action recognition from programming screencasts.	Dehai Zhao,Zhenchang Xing,Chunyang Chen,Xin Xia 0001,Guoqiang Li 0001	10.1109/ICSE.2019.00049
+ReCDroid: automatically reproducing Android application crashes from bug reports.	Yu Zhao 0010,Tingting Yu,Ting Su 0001,Yang Liu 0003,Wei Zheng 0006,Jingzhi Zhang,William G. J. Halfond	10.1109/ICSE.2019.00030
+A framework for checking regression test selection tools.	Chenguang Zhu 0002,Owolabi Legunsen,August Shi,Milos Gligoric 0001	10.1109/ICSE.2019.00056
+Proceedings of the 41st International Conference on Software Engineering, ICSE 2019, Montreal, QC, Canada, May 25-31, 2019	Joanne M. Atlee,Tevfik Bultan,Jon Whittle 0001	

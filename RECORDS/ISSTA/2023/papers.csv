@@ -1,0 +1,139 @@
+That&apos;s a Tough Call: Studying the Challenges of Call Graph Construction for WebAssembly.	Daniel Lehmann 0002,Michelle Thalakottur,Frank Tip,Michael Pradel	10.1145/3597926.3598104
+API2Vec: Learning Representations of API Sequences for Malware Detection.	Lei Cui 0003,Jiancong Cui,Yuede Ji,Zhiyu Hao,Lun Li,Zhenquan Ding	10.1145/3597926.3598054
+AGORA: Automated Generation of Test Oracles for REST APIs.	Juan C. Alonso,Sergio Segura,Antonio Ruiz-Cortés	10.1145/3597926.3598114
+Finding Short Slow Inputs Faster with Grammar-Based Search.	Ziyad Alsaeed,Michal Young	10.1145/3597926.3598118
+TreeLine and SlackLine: Grammar-Based Performance Fuzzing on Coffee Break.	Ziyad Alsaeed,Michal Young	10.1145/3597926.3604925
+In Defense of Simple Techniques for Neural Network Test Case Selection.	Shenglin Bao,Chaofeng Sha,Bihuan Chen 0001,Xin Peng 0001,Wenyun Zhao	10.1145/3597926.3598073
+June: A Type Testability Transformation for Improved ATG Performance.	Dan Bruce,David Kelly,Héctor D. Menéndez 0001,Earl T. Barr,David Clark 0001	10.1145/3597926.3598055
+Security Checking of Trigger-Action-Programming Smart Home Integrations.	Lei Bu,Qiuping Zhang,Suwan Li,Jinglin Dai,Guangdong Bai,Kai Chen,Xuandong Li	10.1145/3597926.3598084
+Improving Spectrum-Based Localization of Multiple Faults by Iterative Test Suite Reduction.	Dylan Callaghan,Bernd Fischer	10.1145/3597926.3598148
+DeUEDroid: Detecting Underground Economy Apps Based on UTG Similarity.	Zhuo Chen,Jie Liu,Yubo Hu,Lei Wu,Yajin Zhou,Yiling He,Xianhao Liao,Ke Wang,Jinku Li,Zhan Qin	10.1145/3597926.3598051
+SBDT: Search-Based Differential Testing of Certificate Parsers in SSL/TLS Implementations.	Chu Chen,Pinghong Ren,Zhenhua Duan,Cong Tian,Xu Lu,Bin Yu	10.1145/3597926.3598110
+DyCL: Dynamic Neural Network Compilation Via Program Rewriting and Graph Optimization.	Simin Chen,Shiyi Wei,Cong Liu,Wei Yang 0013	10.1145/3597926.3598082
+Transforming Test Suites into Croissants.	Yang Chen,Alperen Yildiz,Darko Marinov,Reyhaneh Jabbarvand	10.1145/3597926.3598119
+Detecting Vulnerabilities in Linux-Based Embedded Firmware with SSE-Based On-Demand Alias Analysis.	Kai Cheng,Yaowen Zheng,Tao Liu,Le Guan,Peng Liu 0005,Hong Li,Hongsong Zhu,Kejiang Ye,Limin Sun	10.1145/3597926.3598062
+BehAVExplor: Behavior Diversity Guided Testing for Autonomous Driving Systems.	Mingfei Cheng,Yuan Zhou,Xiaofei Xie	10.1145/3597926.3598072
+Icicle: A Re-designed Emulator for Grey-Box Firmware Fuzzing.	Michael Chesser,Surya Nepal,Damith C. Ranasinghe	10.1145/3597926.3598039
+Beware of the Unexpected: Bimodal Taint Analysis.	Yiu Wai Chow,Max Schäfer,Michael Pradel	10.1145/3597926.3598050
+Guided Retraining to Enhance the Detection of Difficult Android Malware.	Nadia Daoudi,Kevin Allix,Tegawendé F. Bissyandé,Jacques Klein	10.1145/3597926.3598123
+Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models.	Yinlin Deng,Chunqiu Steven Xia,Haoran Peng,Chenyuan Yang,Lingming Zhang 0001	10.1145/3597926.3598067
+CONCORD: Clone-Aware Contrastive Learning for Source Code.	Yangruibo Ding,Saikat Chakraborty,Luca Buratti,Saurabh Pujar,Alessandro Morari,Gail E. Kaiser,Baishakhi Ray	10.1145/3597926.3598035
+CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation.	Yihong Dong,Ge Li 0001,Zhi Jin	10.1145/3597926.3598048
+Quantitative Robustness Analysis of Neural Networks.	Mara Downing	10.1145/3597926.3605231
+To Kill a Mutant: An Empirical Study of Mutation Testing Kills.	Hang Du,Vijay Krishna Palepu,James A. Jones	10.1145/3597926.3598090
+Quantitative Policy Repair for Access Control on the Cloud.	William Eiers,Ganesh Sankaran,Tevfik Bultan	10.1145/3597926.3598078
+Fuzzing Embedded Systems using Debug Interfaces.	Max Eisele,Daniel Ebert,Christopher Huth,Andreas Zeller	10.1145/3597926.3598115
+GrayC: Greybox Fuzzing of Compilers and Analysers for C.	Karine Even-Mendoza,Arindam Sharma,Alastair F. Donaldson,Cristian Cadar	10.1145/3597926.3598130
+Concept-Based Automated Grading of CS-1 Programming Assignments.	Zhiyu Fan,Shin Hwei Tan,Abhik Roychoudhury	10.1145/3597926.3598049
+Beyond &quot;Protected&quot; and &quot;Private&quot;: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts.	Yuzhou Fang,Daoyuan Wu,Xiao Yi,Shuai Wang,Yufan Chen,Mengjie Chen,Yang Liu,Lingxiao Jiang	10.1145/3597926.3598125
+iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements.	Pengcheng Fang,Zhenhua Zou,Xusheng Xiao,Zhuotao Liu	10.1145/3597926.3598091
+Oven: Safe and Live Communication Protocols in Scala, using Synthetic Behavioural Type Analysis.	Francisco Ferreira,Sung-Shik Jongmans	10.1145/3597926.3604926
+Vectorizing Program Ingredients for Better JVM Testing.	Tianchang Gao,Junjie Chen 0003,Yingquan Zhao,Yuqun Zhang,Lingming Zhang 0001	10.1145/3597926.3598075
+CILIATE: Towards Fairer Class-Based Incremental Learning by Dataset and Training Refinement.	Xuanqi Gao,Juan Zhai,Shiqing Ma,Chao Shen 0001,Yufei Chen 0001,Shiwei Wang	10.1145/3597926.3598071
+Type Batched Program Reduction.	Golnaz Gharachorlu,Nick Sumner	10.1145/3597926.3598065
+Fairness Testing for Recommender Systems.	Huizhong Guo	10.1145/3597926.3605235
+FairRec: Fairness Testing for Deep Recommender Systems.	Huizhong Guo,Jinfeng Li,Jingyi Wang,Xiangyu Liu,Dongxia Wang 0002,Zehong Hu,Rong Zhang,Hui Xue 0001	10.1145/3597926.3598058
+Reducing the Memory Footprint of IFDS-Based Data-Flow Analyses using Fine-Grained Garbage Collection.	Dongjie He,Yujiang Gui,Yaoqing Gao,Jingling Xue	10.1145/3597926.3598041
+COME: Commit Message Generation with Modification Embedding.	Yichen He,Liran Wang,Kaiyi Wang,Yupeng Zhang,Hang Zhang,Zhoujun Li 0001	10.1145/3597926.3598096
+Eunomia: Enabling User-Specified Fine-Grained Search in Symbolically Executing WebAssembly Binaries.	Ningyu He,Zhehao Zhao,Jikai Wang,Yubin Hu 0003,Shengjian Guo,Haoyu Wang 0001,Guangtai Liang,Ding Li,Xiangqun Chen,Yao Guo 0001	10.1145/3597926.3598064
+PhysCov: Physical Test Coverage for Autonomous Vehicles.	Carl Hildebrandt,Meriel von Stein,Sebastian G. Elbaum	10.1145/3597926.3598069
+ωTest: WebView-Oriented Testing for Android Applications.	Jiajun Hu,Lili Wei,Yepang Liu 0001,Shing-Chi Cheung	10.1145/3597926.3598112
+Interpreters for GNN-Based Vulnerability Detection: Are We There Yet?	Yutao Hu,Suyuan Wang,Wenke Li,Junru Peng,Yueming Wu,Deqing Zou,Hai Jin 0001	10.1145/3597926.3598145
+Fine-Grained Code Clone Detection with Block-Based Splitting of Abstract Syntax Tree.	Tiancheng Hu,Zijing Xu,Yilin Fang,Yueming Wu,Bin Yuan,Deqing Zou,Hai Jin 0001	10.1145/3597926.3598040
+GDsmith: Detecting Bugs in Cypher Graph Database Engines.	Ziyue Hua,Wei Lin,Luyao Ren,Zongyang Li,Lu Zhang,Wenpin Jiao,Tao Xie 0001	10.1145/3597926.3598046
+PExReport-Maven: Creating Pruned Executable Cross-Project Failure Reports in Maven Build System.	Sunzhou Huang,Xiaoyin Wang	10.1145/3597926.3604929
+ConfFix: Repairing Configuration Compatibility Issues in Android Apps.	Huaxun Huang,Chi Xu,Ming Wen 0001,Yepang Liu 0001,Shing-Chi Cheung	10.1145/3597926.3598074
+Understanding Breaking Changes in the Wild.	Dhanushka Jayasuriya,Valerio Terragni,Jens Dietrich 0001,Samuel Ou,Kelly Blincoe	10.1145/3597926.3598147
+Improving Bit-Blasting for Nonlinear Integer Constraints.	Fuqi Jia,Rui Han,Pei Huang 0002,Minghao Liu 0001,Feifei Ma,Jian Zhang	10.1145/3597926.3598034
+Third-Party Library Dependency for Large-Scale SCA in the C/C++ Ecosystem: How Far Are We?	Ling Jiang,Hengchen Yuan,Qiyi Tang 0003,Sen Nie,Shi Wu,Yuqun Zhang	10.1145/3597926.3598143
+CodeGrid: A Grid Representation of Code.	Abdoul Kader Kaboré,Earl T. Barr,Jacques Klein,Tegawendé F. Bissyandé	10.1145/3597926.3598141
+Testing Graph Database Engines via Query Partitioning.	Matteo Kamm,Manuel Rigger,Chengyu Zhang 0001,Zhendong Su 0001	10.1145/3597926.3598044
+A Bayesian Framework for Automated Debugging.	Sungmin Kang,Wonkeun Choi,Shin Yoo	10.1145/3597926.3598103
+CGuard: Scalable and Precise Object Bounds Protection for C.	Piyus Kedia,Rahul Purandare,Udit Kumar Agarwal,Rishabh	10.1145/3597926.3598137
+Enhancing REST API Testing with NLP Techniques.	Myeongsoo Kim,Davide Corradini,Saurabh Sinha,Alessandro Orso,Michele Pasqua,Rachel Tzoref-Brill,Mariano Ceccato	10.1145/3597926.3598131
+Automated Program Repair from Fuzzing Perspective.	Youngjae Kim,Seungheon Han,Askar Yeltayuly Khamit,Jooyong Yi	10.1145/3597926.3598101
+DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols.	Queping Kong,Jiachi Chen,Yanlin Wang,Zigui Jiang,Zibin Zheng	10.1145/3597926.3598124
+Behaviorally Typed State Machines in TypeScript for Heterogeneous Swarms.	Roland Kuhn,Alan Darmasaputra	10.1145/3597926.3604917
+Synthesizing Speech Test Cases with Text-to-Speech? An Empirical Study on the False Alarms in Automated Speech Recognition Testing.	Julia Kaiwen Lau,Kelvin Kai Wen Kong,Julian Hao Yong,Per Hoong Tan,Zhou Yang 0003,Zi Qian Yong,Joshua Chern Wey Low,Chun Yong Chong,Mei Kuan Lim,David Lo 0001	10.1145/3597926.3598126
+GPUHarbor: Testing GPU Memory Consistency at Large (Experience Paper).	Reese Levine,Mingun Cho,Devon McKee,Andrew Quinn 0001,Tyler Sorensen 0002	10.1145/3597926.3598095
+An Empirical Study on Concurrency Bugs in Interrupt-Driven Embedded Software.	Chao Li,Rui Chen,Boxiang Wang,Zhixuan Wang,Tingting Yu,Yunsong Jiang,Bin Gu 0006,Mengfei Yang	10.1145/3597926.3598140
+Systematically Producing Test Orders to Detect Order-Dependent Flaky Tests.	Chengpeng Li,M. Mahdi Khosravi,Wing Lam,August Shi	10.1145/3597926.3598083
+Simulation-Based Validation for Autonomous Driving Systems.	Changwen Li,Joseph Sifakis,Qiang Wang,Rongjie Yan,Jian Zhang	10.1145/3597926.3598100
+Systematic Testing of the Data-Poisoning Robustness of KNN.	Yannan Li,Jingbo Wang,Chao Wang	10.1145/3597926.3598129
+What You See Is What You Get? It Is Not the Case! Detecting Misleading Icons for Mobile Applications.	Linlin Li,Ruifeng Wang,Xian Zhan,Ying Wang 0038,Cuiyun Gao,Sinan Wang,Yepang Liu 0001	10.1145/3597926.3598076
+SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis.	Zeqin Liao,Sicheng Hao,Yuhong Nan,Zibin Zheng	10.1145/3597926.3598111
+Green Fuzzing: A Saturation-Based Stopping Criterion using Vulnerability Prediction.	Stephan Lipp,Daniel Elsner,Severin Kacianka,Alexander Pretschner,Marcel Böhme,Sebastian Banescu	10.1145/3597926.3598043
+Towards More Realistic Evaluation for Neural Test Oracle Generation.	Zhongxin Liu,Kui Liu 0001,Xin Xia 0001,Xiaohu Yang 0001	10.1145/3597926.3598080
+More Precise Regression Test Selection via Reasoning about Semantics-Modifying Changes.	Yu Liu,Jiyang Zhang 0003,Pengyu Nie 0001,Milos Gligoric 0001,Owolabi Legunsen	10.1145/3597926.3598086
+Extracting Inline Tests from Unit Tests.	Yu Liu,Pengyu Nie 0001,Anna Guo,Milos Gligoric 0001,Owolabi Legunsen	10.1145/3597926.3598149
+A Comprehensive Study on Quality Assurance Tools for Java.	Han Liu,Sen Chen,Ruitao Feng,Chengwei Liu,Kaixuan Li,Zhengzi Xu,Liming Nie,Yang Liu,Yixiang Chen	10.1145/3597926.3598056
+Who Judges the Judge: An Empirical Study on Online Judge Tests.	Kaibo Liu,Yudong Han,Jie M. Zhang,Zhenpeng Chen,Federica Sarro,Mark Harman,Gang Huang,Yun Ma 0002	10.1145/3597926.3598060
+Hybrid Inlining: A Framework for Compositional and Context-Sensitive Static Analysis.	Jiangchao Liu,Jierui Liu,Peng Di,Diyu Wu,Hengjie Zheng,Alex X. Liu,Jingling Xue	10.1145/3597926.3598042
+RefBERT: A Two-Stage Pre-trained Framework for Automatic Rename Refactoring.	Hao Liu,Yanlin Wang,Zhao Wei,Yong Xu,Juhong Wang,Hui Li,Rongrong Ji	10.1145/3597926.3598092
+Exploring Missed Optimizations in WebAssembly Optimizers.	Zhibo Liu,Dongwei Xiao,Zongjie Li,Shuai Wang,Wei Meng	10.1145/3597926.3598068
+Fuzzing Deep Learning Compilers with HirGen.	Haoyang Ma,Qingchao Shen,Yongqiang Tian 0001,Junjie Chen 0003,Shing-Chi Cheung	10.1145/3597926.3598053
+Dependency-Aware Metamorphic Testing of Datalog Engines.	Muhammad Numair Mansur,Valentin Wüstholz,Maria Christakis	10.1145/3597926.3598052
+Toward Automated Detecting Unanticipated Price Feed in Smart Contract.	Yifan Mo,Jiachi Chen,Yanlin Wang,Zibin Zheng	10.1145/3597926.3598133
+EvoSpex: A Search-Based Tool for Postcondition Inference.	Facundo Molina,Pablo Ponzio,Nazareno Aguirre,Marcelo F. Frias	10.1145/3597926.3604928
+Automatic Testing and Benchmarking for Configurable Static Analysis Tools.	Austin Mordahl	10.1145/3597926.3605232
+ECSTATIC: Automatic Configuration-Aware Testing and Debugging of Static Analysis Tools.	Austin Mordahl,Dakota Soles,Miao Miao,Zenong Zhang,Shiyi Wei	10.1145/3597926.3604918
+Understanding and Tackling Label Errors in Deep Learning-Based Vulnerability Detection (Experience Paper).	Xu Nie,Ningke Li,Kailong Wang,Shangguang Wang,Xiapu Luo,Haoyu Wang	10.1145/3597926.3598037
+Green Fuzzer Benchmarking.	Jiradet Ounjai,Valentin Wüstholz,Maria Christakis	10.1145/3597926.3598144
+Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode.	Yu Pan,Zhichao Xu,Levi Taiji Li,Yunhe Yang,Mu Zhang 0001	10.1145/3597926.3598132
+OCFI: Make Function Entry Identification Hard Again.	Chengbin Pang,Tiantai Zhang,Xuelan Xu,Linzhang Wang,Bing Mao	10.1145/3597926.3598097
+RobotBT: Behavior-Tree-Based Test-Case Specification for the Robot Framework.	Sven Peldszus,Noubar Akopian,Thorsten Berger	10.1145/3597926.3604924
+SlipCover: Near Zero-Overhead Code Coverage for Python.	Juan Altmayer Pizzorno,Emery D. Berger	10.1145/3597926.3598128
+MetaData262: Automatic Test Suite Selection for Partial JavaScript Implementations.	Frederico Ramos,Diogo Costa Reis,Miguel Trigo,António Morgado 0001,José Fragoso Santos	10.1145/3597926.3604923
+An Empirical Study on the Effects of Obfuscation on Static Machine Learning-Based Malicious JavaScript Detectors.	Kunlun Ren,Weizhong Qiang,Yueming Wu,Yi Zhou,Deqing Zou,Hai Jin 0001	10.1145/3597926.3598146
+Type Automata.	Ori Roth	10.1145/3597926.3605237
+Virtual Reality (VR) Automated Testing in the Wild: A Case Study on Unity-Based VR Applications.	Dhia Elhaq Rzig,Nafees Iqbal,Isabella Attisano,Xue Qin,Foyzul Hassan	10.1145/3597926.3598134
+EDHOC-Fuzzer: An EDHOC Protocol State Fuzzer.	Konstantinos Sagonas,Thanasis Typaldos	10.1145/3597926.3604922
+Rare Path Guided Fuzzing.	Seemanta Saha,Laboni Sarker,Md Shafiuzzaman,Chaofan Shou,Albert Li,Ganesh Sankaran,Tevfik Bultan	10.1145/3597926.3598136
+Quantitative Symbolic Similarity Analysis.	Laboni Sarker	10.1145/3597926.3605238
+KDAlloc: The KLEE Deterministic Allocator: Deterministic Memory Allocation during Symbolic Execution and Test Case Replay.	Daniel Schemmel,Julian Büning,Frank Busse,Martin Nowack,Cristian Cadar	10.1145/3597926.3604921
+Semantic-Based Neural Network Repair.	Richard Schumi,Jun Sun 0001	10.1145/3597926.3598045
+RustSmith: Random Differential Compiler Testing for Rust.	Mayank Sharma,Pingshi Yu,Alastair F. Donaldson	10.1145/3597926.3604919
+Towards Efficient Fine-Tuning of Pre-trained Code Models: An Experimental Study and Beyond.	Ensheng Shi,Yanlin Wang 0001,Hongyu Zhang 0002,Lun Du,Shi Han,Dongmei Zhang 0001,Hongbin Sun 0001	10.1145/3597926.3598036
+ACETest: Automated Constraint Extraction for Testing Deep Learning Operators.	Jingyi Shi,Yang Xiao,Yuekang Li,Yeting Li,Dongsong Yu,Chendong Yu,Hui Su,Yufeng Chen,Wei Huo	10.1145/3597926.3598088
+ItyFuzz: Snapshot-Based Fuzzer for Smart Contract.	Chaofan Shou,Shangyin Tan,Koushik Sen	10.1145/3597926.3598059
+Harnessing Large Language Models for Simulink Toolchain Testing and Developing Diverse Open-Source Corpora of Simulink Models for Metric and Evolution Analysis.	Sohil Lal Shrestha	10.1145/3597926.3605233
+Splendor: Static Detection of Stored XSS in Modern Web Applications.	He Su,Feng Li,Lili Xu,Wenbo Hu,Yujie Sun,Qing Sun,Huina Chao,Wei Huo	10.1145/3597926.3598116
+Tai-e: A Developer-Friendly Static Analysis Framework for Java by Harnessing the Good Designs of Classics.	Tian Tan,Yue Li	10.1145/3597926.3598120
+SymRustC: A Hybrid Fuzzer for Rust.	Frédéric Tuong,Mohammad Omidvar Tehrani,Marco Gaboardi,Steven Y. Ko	10.1145/3597926.3604927
+Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper).	Pablo Valle,Aitor Arrieta,Maite Arratibel	10.1145/3597926.3598117
+Guiding Greybox Fuzzing with Mutation Testing.	Vasudev Vikram,Isabella Laybourn,Ao Li,Nicole Nair,Kelton OBrien,Rafaello Sanna,Rohan Padhye	10.1145/3597926.3598107
+Validating Multimedia Content Moderation Software via Semantic Fusion.	Wenxuan Wang,Jingyuan Huang,Chang Chen,Jiazhen Gu,Jianping Zhang,Weibin Wu,Pinjia He,Michael R. Lyu	10.1145/3597926.3598079
+Back Deduction Based Testing for Word Sense Disambiguation Ability of Machine Translation Systems.	Jun Wang,Yanhui Li,Xiang Huang,Lin Chen,Xiaofang Zhang,Yuming Zhou	10.1145/3597926.3598081
+GenCoG: A DSL-Based Approach to Generating Computation Graphs for TVM Testing.	Zihan Wang,Pengbo Nie,Xinyuan Miao,Yuting Chen,Chengcheng Wan,Lei Bu,Jianjun Zhao 0001	10.1145/3597926.3598105
+KeenTune: Automated Tuning Tool for Cloud Application Performance Testing and Optimization.	Qinglong Wang,Runzhe Wang,Yuxi Hu,Xiaohai Shi,Zheng Liu,Tao Ma,Houbing Song,Heyuan Shi	10.1145/3597926.3604920
+Data Constraint Mining for Automatic Reconciliation Scripts Generation.	Tianxiao Wang,Chen Zhi,Xiaoqun Zhou,Jinjie Wu,Jianwei Yin,Shuiguang Deng	10.1145/3597926.3598122
+How Effective Are Neural Networks for Fixing Security Vulnerabilities.	Yi Wu,Nan Jiang,Hung Viet Pham,Thibaud Lutellier,Jordan Davis,Lin Tan 0001,Petr Babkin,Sameena Shah	10.1145/3597926.3598135
+CydiOS: A Model-Based Testing Framework for iOS Apps.	Shuohan Wu,Jianfeng Li,Hao Zhou,Yongsheng Fang,Kaifa Zhao,Haoyu Wang,Chenxiong Qian,Xiapu Luo	10.1145/3597926.3598033
+Latent Imitator: Generating Natural Individual Discriminatory Instances for Black-Box Fairness Testing.	Yisong Xiao,Aishan Liu,Tianlin Li,Xianglong Liu 0001	10.1145/3597926.3598099
+Precise and Efficient Patch Presence Test for Android Applications against Code Obfuscation.	Zifan Xie,Ming Wen 0001,Haoxiang Jia,Xiaochen Guo,Xiaotong Huang,Deqing Zou,Hai Jin 0001	10.1145/3597926.3598061
+An Empirical Study of Functional Bugs in Android Apps.	Yiheng Xiong,Mengqian Xu,Ting Su 0001,Jingling Sun,Jue Wang,He Wen,Geguang Pu,Jifeng He 0001,Zhendong Su 0001	10.1145/3597926.3598138
+Improving Binary Code Similarity Transformer Models by Semantics-Driven Instruction Deemphasis.	Xiangzhe Xu,Shiwei Feng 0002,Yapeng Ye,Guangyu Shen,Zian Su,Siyuan Cheng 0005,Guanhong Tao,Qingkai Shi,Zhuo Zhang 0002,Xiangyu Zhang 0001	10.1145/3597926.3598121
+LiResolver: License Incompatibility Resolution for Open Source Software.	Sihan Xu,Ya Gao,Lingling Fan 0003,Linyu Li,Xiangrui Cai,Zheli Liu	10.1145/3597926.3598085
+A Tale of Two Approximations: Tightening Over-Approximation for DNN Robustness Verification via Under-Approximation.	Zhiyi Xue,Si Liu,Zhaodi Zhang,Yiting Wu,Min Zhang	10.1145/3597926.3598127
+Silent Compiler Bug De-duplication via Three-Dimensional Analysis.	Chen Yang,Junjie Chen,Xingyu Fan,Jiajun Jiang,Jun Sun	10.1145/3597926.3598087
+Definition and Detection of Defects in NFT Smart Contracts.	Shuo Yang,Jiachi Chen,Zibin Zheng	10.1145/3597926.3598063
+1dFuzz: Reproduce 1-Day Vulnerabilities with Directed Differential Fuzzing.	Songtao Yang,Yubo He,Kaixiang Chen,Zheyu Ma,Xiapu Luo,Yong Xie,Jianjun Chen,Chao Zhang	10.1145/3597926.3598102
+Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing.	Mingxi Ye,Yuhong Nan,Zibin Zheng,Dongpeng Wu,Huizhong Li	10.1145/3597926.3598057
+Loop Invariant Inference through SMT Solving Enhanced Reinforcement Learning.	Shiwen Yu,Ting Wang 0009,Ji Wang 0001	10.1145/3597926.3598047
+Reasoning about MLIR Semantics through Effects and Handlers.	Pingshi Yu	10.1145/3597926.3605239
+ROME: Testing Image Captioning Systems via Recursive Object Melting.	Boxi Yu,Zhiqing Zhong,Jiaqi Li,Yixing Yang,Shilin He,Pinjia He	10.1145/3597926.3598094
+Pattern-Based Peephole Optimizations with Java JIT Tests.	Zhiqiang Zang,Aditya Thimmaiah,Milos Gligoric 0001	10.1145/3597926.3598038
+Building Critical Testing Scenarios for Autonomous Driving from Real Accidents.	Xudong Zhang,Yan Cai 0001	10.1145/3597926.3598070
+CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems.	Quan Zhang,Yongqiang Tian 0001,Yifeng Ding,Shanshan Li,Chengnian Sun,Yu Jiang 0001,Jiaguang Sun	10.1145/3597926.3598093
+Alligator in Vest: A Practical Failure-Diagnosis Framework via Arm Hardware Features.	Yiming Zhang,Yuxin Hu,Haonan Li 0009,Wenxuan Shi,Zhenyu Ning,Xiapu Luo,Fengwei Zhang	10.1145/3597926.3598106
+Catamaran: Low-Overhead Memory Safety Enforcement via Parallel Acceleration.	Yiyu Zhang,Tianyi Liu,Zewen Sun,Zhe Chen,Xuandong Li,Zhiqiang Zuo 0002	10.1145/3597926.3598098
+Automatically Reproducing Android Bug Reports using Natural Language Processing and Reinforcement Learning.	Zhaoxu Zhang,Robert Winn,Yu Zhao 0010,Tingting Yu,William G. J. Halfond	10.1145/3597926.3598066
+Detecting Condition-Related Bugs with Control Flow Graph Neural Network.	Jian Zhang,Xu Wang 0007,Hongyu Zhang,Hailong Sun 0001,Xudong Liu,Chunming Hu,Yang Liu	10.1145/3597926.3598142
+Testing Automated Driving Systems by Breaking Many Laws Efficiently.	Xiaodong Zhang,Wei Zhao,Yang Sun,Jun Sun 0019,Yulong Shen,Xuewen Dong,Zijiang Yang 0004	10.1145/3597926.3598108
+Testing the Compiler for a New-Born Programming Language: An Industrial Case Study (Experience Paper).	Yingquan Zhao,Junjie Chen,Ruifeng Fu,Haojie Ye,Zan Wang	10.1145/3597926.3598077
+NodeRT: Detecting Races in Node.js Applications Practically.	Jingyao Zhou,Lei Xu 0003,Gongzheng Lu,Weifeng Zhang,Xiangyu Zhang 0001	10.1145/3597926.3598139
+ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-Based Systems.	Mingyi Zhou,Xiang Gao,Jing Wu,John C. Grundy,Xiao Chen,Chunyang Chen,Li Li 0029	10.1145/3597926.3598113
+DDLDroid: Efficiently Detecting Data Loss Issues in Android Apps.	Yuhao Zhou,Wei Song	10.1145/3597926.3598089
+DDLDroid: A Static Analyzer for Automatically Detecting Data Loss Issues in Android Applications.	Yuhao Zhou,Wei Song	10.1145/3597926.3604916
+DeepAtash: Focused Test Generation for Deep Learning Systems.	Tahereh Zohdinasab,Vincenzo Riccio,Paolo Tonella	10.1145/3597926.3598109
+Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2023, Seattle, WA, USA, July 17-21, 2023	René Just,Gordon Fraser 0001	10.1145/3597926

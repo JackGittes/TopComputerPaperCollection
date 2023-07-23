@@ -1,0 +1,27 @@
+ROS-SF: A Transparent and Efficient ROS Middleware using Serialization-Free Message.	Yu-Ping Wang 0001,Yue-Jiang Dong,Gang Tan	10.1145/3528535.3531518
+Bolt: Fast Inference for Random Forests.	Eduardo Romero 0005,Christopher Stewart,Angela Li,Kyle C. Hale,Nathaniel Morris	10.1145/3528535.3531519
+A seer knows best: optimized object storage shuffling for serverless analytics.	Marc Sánchez Artigas,Germán T. Eizaguirre	10.1145/3528535.3565241
+MicroEdge: a multi-tenant edge cluster system architecture for scalable camera processing.	Difei Cao,Jinsun Yoo,Zhuangdi Xu,Enrique Saurez,Harshit Gupta,Tushar Krishna,Umakishore Ramachandran	10.1145/3528535.3565254
+GuardiaNN: Fast and Secure On-Device Inference in TrustZone Using Embedded SRAM and Cryptographic Hardware.	Jinwoo Choi,Jaeyeon Kim,Chaemin Lim,Suhyun Lee,Jinho Lee,Dokyung Song,Youngsok Kim	10.1145/3528535.3531513
+Multi-resource fair allocation for consolidated flash-based caching systems.	Wonil Choi,Bhuvan Urgaonkar,Mahmut Taylan Kandemir,George Kesidis	10.1145/3528535.3565245
+Aergia: leveraging heterogeneity in federated learning systems.	Bart Cox,Lydia Y. Chen,Jérémie Decouchant	10.1145/3528535.3565238
+Slice-Tune: a system for high performance DNN autotuning.	Aditya Dhakal,K. K. Ramakrishnan,Sameer G. Kulkarni,Puneet Sharma,Junguk Cho	10.1145/3528535.3565247
+MATEE: multimodal attestation for trusted execution environments.	Anna Galanou,Franz Gregor,Rüdiger Kapitza,Christof Fetzer	10.1145/3528535.3565239
+BoFL: bayesian optimized local training pace control for energy efficient federated learning.	Hongpeng Guo,Haotian Gu,Zhe Yang 0010,Xiaoyang Wang,Eun Kyung Lee,Nandhini Chandramoorthy,Tamar Eilam,Deming Chen,Klara Nahrstedt	10.1145/3528535.3565244
+DCert: towards secure, efficient, and versatile blockchain light clients.	Yang Ji,Cheng Xu 0004,Ce Zhang 0007,Jianliang Xu	10.1145/3528535.3565250
+SecureLease: Maintaining Execution Control in The Wild using Intel SGX.	Sandeep Kumar,Abhisek Panda,Smruti R. Sarangi	10.1145/3528535.3531514
+MixNN: protection of federated learning against inference attacks by mixing neural network layers.	Thomas Lebrun,Antoine Boutet,Jan Aalmoes,Adrien Baud	10.1145/3528535.3565240
+Reversible conflict-free replicated data types.	Yunhao Mao,Zongxin Liu,Hans-Arno Jacobsen	10.1145/3528535.3565252
+CGX: adaptive system support for communication-efficient deep learning.	Ilia Markov,Hamidreza Ramezani-Kebrya,Dan Alistarh	10.1145/3528535.3565248
+SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments.	Ines Messadi,Markus Horst Becker,Kai Bleeke,Leander Jehl,Sonia Ben Mokhtar,Rüdiger Kapitza	10.1145/3528535.3531516
+Shielding federated learning systems against inference attacks with ARM TrustZone.	Aghiles Ait Messaoud,Sonia Ben Mokhtar,Vlad Nitu,Valerio Schiavoni	10.1145/3528535.3565255
+Optimizing communication in deep reinforcement learning with XingTian.	Lichen Pan,Jun Qian,Wei Xia,Hangyu Mao,Jun Yao,Pengze Li,Zhen Xiao	10.1145/3528535.3565249
+Secure and distributed assessment of privacy-preserving GWAS releases.	Túlio A. Pascoal,Jérémie Decouchant,Marcus Völp	10.1145/3528535.3565253
+Celestial: Virtual Software System Testbeds for the LEO Edge.	Tobias Pfandzelter,David Bermbach	10.1145/3528535.3531517
+EdgeTune: Inference-Aware Multi-Parameter Tuning.	Isabelly Rocha,Pascal Felber,Valerio Schiavoni,Lydia Y. Chen	10.1145/3528535.3533273
+EventChain: a blockchain framework for secure, privacy-preserving event verification.	Signe Schwarz-Rüsch,Michael Behlendorf,Markus Horst Becker,René Kudlek,Hesham Hosney Elsayed Mohamed,Felix Schoenitz,Leander Jehl,Rüdiger Kapitza	10.1145/3528535.3565243
+Light-GC: a lightweight and efficient garbage collection scheme for embedded file systems.	Diansen Sun,Yunlong Song,Yunpeng Chai,Baoling Peng,Fangzhou Lu,Xiang Deng	10.1145/3528535.3565246
+Femto-containers: lightweight virtualization and fault isolation for small software functions on low-power IoT microcontrollers.	Koen Zandberg,Emmanuel Baccelli,Shenghao Yuan,Frédéric Besson,Jean-Pierre Talpin	10.1145/3528535.3565242
+ShadowSync: latency long tail caused by hidden synchronization in real-time LSM-tree based stream processing systems.	Shungeng Zhang,Qingyang Wang 0001,Yasuhiko Kanemasa,Julius Michaelis,Jianshu Liu,Calton Pu	10.1145/3528535.3565251
+Improving Concurrent GC for Latency Critical Services in Multi-tenant Systems.	Junxian Zhao,Aidi Pi,Xiaobo Zhou 0002,Sang-Yoon Chang,Chengzhong Xu 0001	10.1145/3528535.3531515
+Middleware &apos;22: 23rd International Middleware Conference, Quebec, QC, Canada, November 7 - 11, 2022	Paolo Bellavista,Kaiwen Zhang 0001,Abdelouahed Gherbi,Saurabh Bagchi,Marta Patiño 0001,Giuseppe Di Modica,Julien Gascon-Samson	10.1145/3528535

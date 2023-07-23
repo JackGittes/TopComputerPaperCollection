@@ -1,0 +1,93 @@
+CyberGIS Gateway for enabling data-rich geospatial research and education.	Yan Liu 0009,Anand Padmanabhan,Shaowen Wang	10.1109/CLUSTER.2013.6702694
+HPC runtime support for fast and power efficient locking and synchronization.	Hakan Akkan,Michael Lang 0003,Latchesar Ionkov	10.1109/CLUSTER.2013.6702659
+Making work queue cluster-friendly for data intensive scientific applications.	Michael Albrecht,Dinesh Rajan,Douglas Thain	10.1109/CLUSTER.2013.6702628
+Globus Nexus: An identity, profile, and group management platform for science gateways and other collaborative science applications.	Rachana Ananthakrishnan,Josh Bryan,Kyle Chard,Ian T. Foster,Tom Howe,Mattias Lidman,Steven Tuecke	10.1109/CLUSTER.2013.6702693
+Active-learning-based surrogate models for empirical performance tuning.	Prasanna Balaprakash,Robert B. Gramacy,Stefan M. Wild	10.1109/CLUSTER.2013.6702683
+Twitter bootstrap and AngularJS: Frontend frameworks to expedite science gateway development.	Viknes Balasubramanee,Chathuri Wimalasena,Raminder Singh,Marlon E. Pierce	10.1109/CLUSTER.2013.6702640
+Automotive big data.	Tim Barrett,Graham Lenes,Ken Kennedy,Philipp Lix,Amy W. Apon	10.1109/CLUSTER.2013.6702644
+Science gateway security recommendations.	Jim Basney,Von Welch	10.1109/CLUSTER.2013.6702697
+Teaching undergraduates using local virtual clusters.	Richard A. Brown,Elizabeth Shoop	10.1109/CLUSTER.2013.6702622
+Using clusters in undergraduate research: Distributed animation rendering, photo processing, and image transcoding.	Peter Bui,Travis Boettcher,Nicholas Jaeger,Jeffrey Westphal	10.1109/CLUSTER.2013.6702634
+The Oklahoma PetaStore: Big data on a small budget.	S. Patrick Calhoun,David Akin,Joshua Alexander,Brett Zimmerman,Brandon George,Henry Neeman	10.1109/CLUSTER.2013.6702629
+Using a shared, remote cluster for teaching HPC.	Clay Carley,Larry Sells,Brett A. McKinney,Chao Zhao,Henry Neeman	10.1109/CLUSTER.2013.6702630
+Parallelizing windowed stream joins in a shared-nothing cluster.	Abhirup Chakraborty,Ajit Singh	10.1109/CLUSTER.2013.6702636
+Unified and efficient HEC storage system with a working-set based reorganization scheme.	Junjie Chen,Yong Chen 0001	10.1109/CLUSTER.2013.6702620
+Developing communication-aware service placement frameworks in the Cloud economy.	Chao Chen 0011,Ligang He,Hao Chen 0002,Jianhua Sun 0002,Bo Gao 0001,Stephen A. Jarvis	10.1109/CLUSTER.2013.6702668
+BASE: Benchmark analysis software for energy-efficient solutions in large-scale storage systems.	Tseng-Yi Chen,Hsin-Wen Wei,Ying-Jie Chen,Tsan-sheng Hsu,Wei-Kuan Shih	10.1109/CLUSTER.2013.6702670
+Integrating deadline-modification SCAN algorithm to Xen-based cloud platform.	Tseng-Yi Chen,Hsin-Wen Wei,Ying-Jie Chen,Wei-Kuan Shih,Tsan-sheng Hsu	10.1109/CLUSTER.2013.6702639
+Nekkloud: A software environment for high-order finite element analysis on clusters and clouds.	Jeremy Cohen,David Moxey,Chris D. Cantwell,Pavel Burovskiy,John Darlington,Spencer J. Sherwin	10.1109/CLUSTER.2013.6702616
+The WeFold gateway: Enabling large-scale science coopetition.	Silvia Crivelli,Rion Dooley,Raquell Holmes,Stephen A. Mock	10.1109/CLUSTER.2013.6702698
+Cyberinfrastructure: The key to building successful science gateways.	Gregory J. Davis,Gregory R. Madey	10.1109/CLUSTER.2013.6702695
+Expediting scientific data analysis with reorganization of data.	Bin Dong 0002,Surendra Byna,Kesheng Wu	10.1109/CLUSTER.2013.6702675
+Runtime system design of decoupled execution paradigm for data-intensive high-end computing.	Kun Feng,Yanlong Yin,Chao Chen,Hassan Eslami,Xian-He Sun,Yong Chen 0001,Rajeev Thakur,William Gropp	10.1109/CLUSTER.2013.6702642
+Checkpoint-restart for a network of virtual machines.	Rohan Garg 0001,Komal Sodha,Zhengping Jin,Gene Cooperman	10.1109/CLUSTER.2013.6702626
+LVFS: A scalable big data scientific storage system.	Navid Golpayegani,Milton Halem,Edward J. Masuoka,Neal K. Devine,Gang Ye	10.1109/CLUSTER.2013.6702687
+Force-directed geographical load balancing and scheduling for batch jobs in distributed datacenters.	Hadi Goudarzi,Massoud Pedram	10.1109/CLUSTER.2013.6702637
+I/O scheduling for solid state devices in virtual machines.	Kai Guo,Wentao Zhao,Yingchun Lei,Yili Gong	10.1109/CLUSTER.2013.6702654
+A cost-aware region-level data placement scheme for hybrid parallel I/O systems.	Shuibing He,Xian-He Sun,Bo Feng,Xin Huang,Kun Feng	10.1109/CLUSTER.2013.6702615
+User-friendly metaworkflows in quantum chemistry.	Sonja Herres-Pawlis,Alexander Hoffmann,Sandra Gesing,Luis de la Garza,Jens Krüger 0002,Richard Grunzke	10.1109/CLUSTER.2013.6702700
+On transactional memory concurrency control in distributed real-time programs.	Sachin Hirve,Aaron Lindsay,Binoy Ravindran,Roberto Palmieri	10.1109/CLUSTER.2013.6702669
+Communication and topology-aware load balancing in Charm++ with TreeMatch.	Emmanuel Jeannot,Esteban Meneses,Guillaume Mercier,Francois Tessier,Gengbin Zheng	10.1109/CLUSTER.2013.6702666
+A parallel optimization method for stencil computation on the domain that is bigger than memory capacity of GPUs.	Guanghao Jin,Toshio Endo,Satoshi Matsuoka	10.1109/CLUSTER.2013.6702633
+Optimizations on the Parallel Virtual File System implementation integrated with Object-Based Storage Devices.	Cengiz Karakoyunlu,John A. Chandy	10.1109/CLUSTER.2013.6702660
+Toward a unified object storage foundation for scalable storage systems.	Cengiz Karakoyunlu,Dries Kimpe,Philip H. Carns,Kevin Harms,Robert B. Ross,Lee Ward	10.1109/CLUSTER.2013.6702691
+Rockhopper, a true HPC system built with cloud concepts.	Richard Knepper,Barbara Hallock,Craig A. Stewart,Matthew R. Link,Matthew Jacobs	10.1109/CLUSTER.2013.6702658
+Co-processing SPMD computation on CPUs and GPUs cluster.	Hui Li,Geoffrey C. Fox,Gregor von Laszewski,Arun Chauhan 0001	10.1109/CLUSTER.2013.6702632
+EDR: An energy-aware runtime load distribution system for data-intensive applications in the cloud.	Bo Li 0032,Shuaiwen Leon Song,Ivona Bezáková,Kirk W. Cameron	10.1109/CLUSTER.2013.6702674
+ConHA: An SOA-based API gateway for consolidating heterogeneous HA clusters.	Mingyu Li,Qian Zhang,Hanyue Chu,Xiaohui Hu,Fanjiang Xu	10.1109/CLUSTER.2013.6702645
+Fast data analysis with integrated statistical metadata in scientific datasets.	Jialin Liu 0002,Yong Chen 0001	10.1109/CLUSTER.2013.6702623
+MOLAR: A cost-efficient, high-performance hybrid storage cache.	Yi Liu,Xiongzi Ge,Xiaoxia Huang,David H. C. Du	10.1109/CLUSTER.2013.6702613
+A case of system-wide power management for scientific applications.	Zhuo Liu,Jay F. Lofstead,Teng Wang,Weikuan Yu	10.1109/CLUSTER.2013.6702681
+GPU-accelerated scalable solver for banded linear systems.	Hang Liu 0001,Jung Hee Seo,Rajat Mittal 0002,H. Howie Huang	10.1109/CLUSTER.2013.6702612
+LittleFe: The high performance computing education appliance.	Mobeen Ludin,Aaron Weeden,Jennifer Houchins,Skylar Thompson,Charles Peck,Ivan Babic,Kristin Muterspaw,Elena Sergienko	10.1109/CLUSTER.2013.6702649
+The scaling of many-task computing approaches in python on cluster supercomputers.	Monte Lunacek,Jazcek Braden,Thomas Hauser	10.1109/CLUSTER.2013.6702678
+BioExtract Server, a Web-based workflow enabling system, leveraging iPlant collaborative resources.	Carol Lushbough,Etienne Z. Gnimpieba,Rion Dooley	10.1109/CLUSTER.2013.6702692
+A multi-level approach for understanding I/O activity in HPC applications.	Huong Luu,Babak Behzad,Ruth A. Aydt,Marianne Winslett	10.1109/CLUSTER.2013.6702690
+Model-driven multisite workflow scheduling.	Ketan Maheshwari,Eun-Sung Jung,Jiayuan Meng,Venkatram Vishwanath,Rajkumar Kettimuthu	10.1109/CLUSTER.2013.6702647
+Enabling multi-task computation on Galaxy-based gateways using swift.	Ketan Maheshwari,Alex Rodriguez,David Kelly,Ravi K. Madduri,Justin M. Wozniak,Michael Wilde,Ian T. Foster	10.1109/CLUSTER.2013.6702701
+Authoring a Science Gateway Cookbook.	Suresh Marru,Rion Dooley,Nancy Wilkins-Diehr,Marlon E. Pierce,Mark A. Miller,Sudhakar Pamidighantam,Julie Wernert	10.1109/CLUSTER.2013.6702702
+K MapReduce: A scalable tool for data-processing and search/ensemble applications on large-scale supercomputers.	Motohiko Matsuda,Naoya Maruyama,Shin&apos;ichiro Takizawa	10.1109/CLUSTER.2013.6702663
+Thermal aware automated load balancing for HPC applications.	Harshitha Menon,Bilge Acun,Simon Garcia De Gonzalo,Osman Sarood,Laxmikant V. Kalé	10.1109/CLUSTER.2013.6702627
+An object interface storage node for clustered file systems.	Orko Momin,John A. Chandy	10.1109/CLUSTER.2013.6702624
+JUMMP: Job Uninterrupted Maneuverable MapReduce Platform.	William Clay Moody,Linh Bao Ngo,Edward B. Duffy,Amy W. Apon	10.1109/CLUSTER.2013.6702650
+PEXTA: A Parallel Chunked Extendible Dense Array I/O for global array (GA).	Gideon Nimako,Ekow J. Otoo,Daniel Ohene-Kwofie	10.1109/CLUSTER.2013.6702688
+GGAS: Global GPU address spaces for efficient communication in heterogeneous clusters.	Lena Oden,Holger Fröning	10.1109/CLUSTER.2013.6702638
+Understanding the performance of stencil computations on Intel&apos;s Xeon Phi.	Joshua Peraza,Ananta Tiwari,Michael Laurenzano,Laura Carrington,William A. Ward Jr.,Roy L. Campbell	10.1109/CLUSTER.2013.6702651
+AptStore: Dynamic storage management for hadoop.	Krish K. R.,Aleksandr Khasymski,Ali Raza Butt,Sameer Tiwari,Milind Bhandarkar	10.1109/CLUSTER.2013.6702657
+Distributed resource exchange: Virtualized resource management for SR-IOV InfiniBand clusters.	Adit Ranadive,Ada Gavrilovska,Karsten Schwan	10.1109/CLUSTER.2013.6702653
+A-Cache: Resolving cache interference for distributed storage with mixed workloads.	Bharath Ravi,Hrishikesh Amur,Karsten Schwan	10.1109/CLUSTER.2013.6702625
+Influence of InfiniBand FDR on the performance of remote GPU virtualization.	Carlos Reaño,Rafael Mayo 0002,Enrique S. Quintana-Ortí,Federico Silla,José Duato,Antonio J. Peña	10.1109/CLUSTER.2013.6702662
+Structured Participation Toolkit: An enabler for knowledge production in Science Gateway.	Mary J. Roderick,Timothy L. Nyerges	10.1109/CLUSTER.2013.6702699
+STREAMER: A distributed framework for incremental closeness centrality computation.	Ahmet Erdem Sariyüce,Erik Saule,Kamer Kaya,Ümit V. Çatalyürek	10.1109/CLUSTER.2013.6702680
+Optimizing power allocation to CPU and memory subsystems in overprovisioned HPC systems.	Osman Sarood,Akhil Langer,Laxmikant V. Kalé,Barry Rountree,Bronis R. de Supinski	10.1109/CLUSTER.2013.6702684
+Capturing inter-application interference on clusters.	Aamer Shah,Felix Wolf 0001,Sergey A. Zhumatiy,Vladimir V. Voevodin	10.1109/CLUSTER.2013.6702665
+A scalable and portable approach to accelerate hybrid HPL on heterogeneous CPU-GPU clusters.	Rong Shi,Sreeram Potluri,Khaled Hamidouche,Xiaoyi Lu,Karen Tomko,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2013.6702619
+ECG identification of arrhythmias by using an associative Petri net.	Dong-Her Shih,Hsiu-Sen Chiang,Ming-Hung Shih	10.1109/CLUSTER.2013.6702643
+A new design of RDMA-based small message channels for InfiniBand clusters.	Matthew Small,Xin Yuan 0001	10.1109/CLUSTER.2013.6702671
+Dynamic file striping and data layout transformation on parallel system with fluctuating I/O workload.	Seung Woo Son 0001,Saba Sehrish,Wei-keng Liao,Ron A. Oldfield,Alok N. Choudhary	10.1109/CLUSTER.2013.6702689
+Mercury: Enabling remote procedure call for high-performance computing.	Jérome Soumagne,Dries Kimpe,Judicael A. Zounmevo,Mohamad Chaarawi,Quincey Koziol,Ahmad Afsahi,Robert B. Ross	10.1109/CLUSTER.2013.6702617
+Letter from the general chair.	Craig Stewart	10.1109/CLUSTER.2013.6702606
+Design of network topology aware scheduling services for large InfiniBand clusters.	Hari Subramoni,Devendar Bureddy,Krishna Chaitanya Kandalla,Karl W. Schulz,Bill Barth,Jonathan L. Perkins,Mark Daniel Arnold,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2013.6702677
+Improving performance and energy efficiency of matrix multiplication via pipeline broadcast.	Li Tan,Longxiang Chen,Zizhong Chen,Ziliang Zong,Dong Li 0001,Rong Ge 0002	10.1109/CLUSTER.2013.6702672
+Dynamic slot allocation technique for MapReduce clusters.	Shanjiang Tang,Bu-Sung Lee,Bingsheng He	10.1109/CLUSTER.2013.6702631
+MPI collective I/O based on advanced reservations to obtain performance guarantees from shared storage systems.	Yusuke Tanimura,Rosa Filgueira,Isao Kojima,Malcolm P. Atkinson 0001	10.1109/CLUSTER.2013.6702686
+Optimizing blocking and nonblocking reduction operations for multicore systems: Hierarchical design and implementation.	Manjunath Gorentla Venkata,Pavel Shamis,Rahul S. Sampath,Richard L. Graham,Joshua Ladd	10.1109/CLUSTER.2013.6702676
+Accelerating subsurface transport simulation on heterogeneous clusters.	Oreste Villa,Nitin Gawande,Antonino Tumeo	10.1109/CLUSTER.2013.6702656
+Highly optimized full GPU-acceleration of non-hydrostatic weather model SCALE-LES.	Mohamed Wahib,Naoya Maruyama	10.1109/CLUSTER.2013.6702667
+Application power profiling on IBM Blue Gene/Q.	Sean Wallace,Venkatram Vishwanath,Susan Coghlan,John R. Tramm,Zhiling Lan,Michael E. Papka	10.1109/CLUSTER.2013.6702682
+On service migration in the cloud to facilitate mobile accesses.	Yang Wang 0006,Wei Shi 0001	10.1109/CLUSTER.2013.6702646
+Building an open Genome Wide Association Study (GWAS) platform.	Liya Wang,Doreen Ware,Nirav C. Merchant,Carol Lushbough	10.1109/CLUSTER.2013.6702696
+Zput: A speedy data uploading approach for the Hadoop Distributed File System.	Youwei Wang,Weiping Wang 0005,Can Ma,Dan Meng	10.1109/CLUSTER.2013.6702648
+Parallelization of software pipelines using the mpififo Tool.	Nathan T. Weeks,Marina Kraeva,Glenn R. Luecke	10.1109/CLUSTER.2013.6702641
+V2-Code: A new non-MDS array code with optimal reconstruction performance for RAID-6.	Ping Xie,Jianzhong Huang 0001,Qiang Cao 0001,Xiao Qin 0001,Changsheng Xie	10.1109/CLUSTER.2013.6702621
+Write bandwidth optimization of online Erasure Code based cluster file system.	Lin Yan,Jing Xing,Tian Wang,Zhigang Huo,Jie Ma,Peiheng Zhang	10.1109/CLUSTER.2013.6702661
+A synthetic bursty workload generation method for web 2.0 benchmark.	Jianwei Yin,Hanwei Chen,Xingjian Lu,Xinkui Zhao	10.1109/CLUSTER.2013.6702652
+Oncilla: A GAS runtime for efficient resource allocation and data movement in accelerated clusters.	Jeffrey S. Young 0001,Se Hoon Shon,Sudhakar Yalamanchili,Alex Merritt,Karsten Schwan,Holger Fröning	10.1109/CLUSTER.2013.6702679
+Lit: A high performance massive data computing framework based on CPU/GPU cluster.	Yanlong Zhai,Emmanuel Mbarushimana,Wei Li,Jing Zhang,Ying Guo	10.1109/CLUSTER.2013.6702614
+Towards high-performance and cost-effective distributed storage systems with information dispersal algorithms.	Dongfang Zhao 0001,Kent Burlingame,Corentin Debains,Pedro Alvarez-Tabio,Ioan Raicu	10.1109/CLUSTER.2013.6702655
+Insight and reduction of MapReduce stragglers in heterogeneous environment.	Xia Zhao,Kai Kang,Yuzhong Sun,Yin Song,Minhao Xu,Tao Pan	10.1109/CLUSTER.2013.6702673
+Distributed data provenance for large-scale data-intensive computing.	Dongfang Zhao 0001,Chen Shou,Tanu Malik,Ioan Raicu	10.1109/CLUSTER.2013.6702685
+Distance-aware virtual cluster performance optimization: A hadoop case study.	Xinkui Zhao,Jianwei Yin,Zuoning Chen,Xingjian Lu	10.1109/CLUSTER.2013.6702618
+Counting sort for the live migration of virtual machines.	Qingxin Zou,Zhiyu Hao,Xu Cui,Xiao-chun Yun,Yongzheng Zhang 0002	10.1109/CLUSTER.2013.6702664
+FlexQuery: An online query system for interactive remote visual data exploration at large scale.	Hongbo Zou,Karsten Schwan,Magdalena Slawiñska,Matthew Wolf,Greg Eisenhauer,Fang Zheng,Jai Dayal,Jeremy Logan,Qing Liu 0002,Scott Klasky,Tanja Bode,Michael Clark,Matthew Kinsey	10.1109/CLUSTER.2013.6702635
+2013 IEEE International Conference on Cluster Computing, CLUSTER 2013, Indianapolis, IN, USA, September 23-27, 2013		

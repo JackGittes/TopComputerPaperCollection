@@ -1,0 +1,24 @@
+Caches All the Way Down: Infrastructure for Data Intensive Science.	David Abramson 0001	10.1145/3078597.3091525
+NICE: Network-Integrated Cluster-Efficient Storage.	Samer Al-Kiswany,Suli Yang,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	10.1145/3078597.3078612
+Enabling Workflow-Aware Scheduling on HPC Systems.	Gonzalo Pedro Rodrigo Álvarez,Erik Elmroth,Per-Olov Östberg,Lavanya Ramakrishnan	10.1145/3078597.3078604
+To Push or To Pull: On Reducing Communication and Synchronization in Graph Computations.	Maciej Besta,Michal Podstawski,Linus Groner,Edgar Solomonik,Torsten Hoefler	10.1145/3078597.3078616
+Towards a More Complete Understanding of SDC Propagation.	Jon Calhoun 0001,Marc Snir,Luke N. Olson,William D. Gropp	10.1145/3078597.3078617
+Using Scientific Computing to Advance Wildland Fire Monitoring and Prediction.	Janice L. Coen	10.1145/3078597.3078619
+IOGP: An Incremental Online Graph Partitioning Algorithm for Distributed Graph Databases.	Dong Dai 0001,Wei Zhang 0097,Yong Chen 0001	10.1145/3078597.3078606
+ArrayUDF: User-Defined Scientific Data Analysis on Arrays.	Bin Dong 0002,Kesheng Wu,Surendra Byna,Jialin Liu 0002,Weijie Zhao 0001,Florin Rusu	10.1145/3078597.3078599
+LetGo: A Lightweight Continuous Framework for HPC Applications Under Failures.	Bo Fang,Qiang Guan,Nathan DeBardeleben,Karthik Pattabiraman,Matei Ripeanu	10.1145/3078597.3078609
+Parallel Stream Processing Against Workload Skewness and Variance.	Junhua Fang,Rong Zhang 0002,Tom Z. J. Fu,Zhenjie Zhang,Aoying Zhou,Junhua Zhu	10.1145/3078597.3078613
+Machine and Application Aware Partitioning for Adaptive Mesh Refinement Applications.	Milinda Fernando,Dmitry Duplyakin,Hari Sundar	10.1145/3078597.3078610
+Better Safe than Sorry: Grappling with Failures of In-Memory Data Analytics Frameworks.	Bogdan Ghit,Dick H. J. Epema	10.1145/3078597.3078600
+MaDaTS: Managing Data on Tiered Storage for Scientific Workflows.	Devarshi Ghoshal,Lavanya Ramakrishnan	10.1145/3078597.3078611
+Building Secure Platforms for Research on Human Subjects: The Importance of Computer Scientists.	Julia Ingrid Lane	10.1145/3078597.3078618
+COS: A Parallel Performance Model for Dynamic Variations in Processor Speed, Memory Speed, and Thread Concurrency.	Bo Li 0032,Edgar A. León,Kirk W. Cameron	10.1145/3078597.3078601
+Explaining Wide Area Data Transfer Performance.	Zhengchun Liu,Prasanna Balaprakash,Rajkumar Kettimuthu,Ian T. Foster	10.1145/3078597.3078605
+knor: A NUMA-Optimized In-Memory, Distributed and Semi-External-Memory k-means Library.	Disa Mhembere,Da Zheng,Carey E. Priebe,Joshua T. Vogelstein,Randal C. Burns	10.1145/3078597.3078607
+AllConcur: Leaderless Concurrent Atomic Broadcast.	Marius Poke,Torsten Hoefler,Colin W. Glass	10.1145/3078597.3078598
+TCP Throughput Profiles Using Measurements over Dedicated Connections.	Nageswara S. V. Rao,Qiang Liu 0007,Satyabrata Sen,Don Towsley,Gayane Vardoyan,Rajkumar Kettimuthu,Ian T. Foster	10.1145/3078597.3078615
+Deep Learning in Cancer and Infectious Disease: Novel Driver Problems for Future HPC Architecture.	Rick Stevens	10.1145/3078597.3091526
+Predicting Output Performance of a Petascale Supercomputer.	Bing Xie,Yezhou Huang,Jeffrey S. Chase,Jong Youl Choi,Scott Klasky,Jay F. Lofstead,Sarp Oral	10.1145/3078597.3078614
+CuMF_SGD: Parallelized Stochastic Gradient Descent for Matrix Factorization on GPUs.	Xiaolong Xie,Wei Tan 0001,Liana L. Fong,Yun Liang 0001	10.1145/3078597.3078602
+Diagnosing Machine Learning Pipelines with Fine-grained Lineage.	Zhao Zhang 0007,Evan R. Sparks,Michael J. Franklin	10.1145/3078597.3078603
+Proceedings of the 26th International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2017, Washington, DC, USA, June 26-30, 2017	H. Howie Huang,Jon B. Weissman,Adriana Iamnitchi,Alexandru Iosup	10.1145/3078597

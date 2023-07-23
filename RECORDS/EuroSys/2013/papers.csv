@@ -1,0 +1,29 @@
+BlinkDB: queries with bounded errors and bounded response times on very large data.	Sameer Agarwal 0002,Barzan Mozafari,Aurojit Panda,Henry Milner,Samuel Madden,Ion Stoica	10.1145/2465351.2465355
+ChainReaction: a causal+ consistent datastore based on chain replication.	Sérgio Almeida 0004,João Leitão 0001,Luís E. T. Rodrigues	10.1145/2465351.2465361
+A compiler-level intermediate representation based binary analysis and rewriting system.	Kapil Anand,Matthew Smithson,Khaled Elwazeer,Aparna Kotha,Jim Gruen,Nathan Giles,Rajeev Barua	10.1145/2465351.2465380
+Composing OS extensions safely and efficiently with Bascule.	Andrew Baumann,Dongyoon Lee,Pedro Fonseca 0001,Lisa Glendenning,Jacob R. Lorch,Barry Bond,Reuben Olinsky,Galen C. Hunt	10.1145/2465351.2465375
+hClock: hierarchical QoS for packet scheduling in a hypervisor.	Jean-Pascal Billaud,Ajay Gulati	10.1145/2465351.2465382
+RadixVM: scalable address spaces for multithreaded applications.	Austin T. Clements,M. Frans Kaashoek,Nickolai Zeldovich	10.1145/2465351.2465373
+MeT: workload aware elasticity for NoSQL.	Francisco Cruz 0001,Francisco Maia,Miguel Matos,Rui Oliveira 0001,João Paulo 0001,José Pereira 0001,Ricardo Vilaça	10.1145/2465351.2465370
+Choosy: max-min fair sharing for datacenter jobs with constraints.	Ali Ghodsi 0002,Matei Zaharia,Scott Shenker,Ion Stoica	10.1145/2465351.2465387
+RapiLog: reducing system complexity through verification.	Gernot Heiser,Etienne Le Sueur,Adrian Danis,Aleksander Budzynowski,Tudor-Ioan Salomie,Gustavo Alonso	10.1145/2465351.2465383
+Adaptive parallelism for web search.	Myeongjae Jeon,Yuxiong He,Sameh Elnikety,Alan L. Cox,Scott Rixner	10.1145/2465351.2465367
+Hypnos: understanding and treating sleep conflicts in smartphones.	Abhilash Jindal,Abhinav Pathak,Y. Charlie Hu,Samuel P. Midkiff	10.1145/2465351.2465377
+Optimus: a dynamic rewriting framework for data-parallel execution plans.	Qifa Ke,Michael Isard,Yuan Yu	10.1145/2465351.2465354
+Mizan: a system for dynamic load balancing in large-scale graph processing.	Zuhair Khayyat,Karim Awara,Amani AlOnazi,Hani Jamjoom,Dan Williams,Panos Kalnis	10.1145/2465351.2465369
+MDCC: multi-data center consistency.	Tim Kraska,Gene Pang,Michael J. Franklin,Samuel Madden,Alan D. Fekete	10.1145/2465351.2465363
+Conversion: multi-version concurrency control for main memory segments.	Timothy Merrifield,Jakob Eriksson	10.1145/2465351.2465365
+Prefetching mobile ads: can advertising systems afford it?	Prashanth Mohan,Suman Nath,Oriana Riva	10.1145/2465351.2465378
+Whose cache line is it anyway?: operating system support for live detection and repair of false sharing.	Mihir Nanavati,Mark Spear,Nathan Taylor,Shriram Rajagopalan,Dutch T. Meyer,William Aiello,Andrew Warfield	10.1145/2465351.2465366
+Augustus: scalable and robust storage for cloud applications.	Ricardo Padilha,Fernando Pedone	10.1145/2465351.2465362
+Failure-atomic msync(): a simple and efficient mechanism for preserving the integrity of durable data.	Stan Park,Terence Kelly,Kai Shen	10.1145/2465351.2465374
+TimeStream: reliable stream computation in the cloud.	Zhengping Qian,Yong He,Chunzhi Su,Zhuojie Wu,Hongyu Zhu,Taizhi Zhang,Lidong Zhou,Yuan Yu,Zheng Zhang 0001	10.1145/2465351.2465353
+Application level ballooning for efficient server consolidation.	Tudor-Ioan Salomie,Gustavo Alonso,Timothy Roscoe,Kevin Elphinstone	10.1145/2465351.2465384
+IFDB: decentralized information flow control for databases.	David A. Schultz,Barbara Liskov	10.1145/2465351.2465357
+Omega: flexible, scalable schedulers for large compute clusters.	Malte Schwarzkopf,Andy Konwinski,Michael Abd-El-Malek,John Wilkes	10.1145/2465351.2465386
+Resolving the conflict between generality and plausibility in verified computation.	Srinath T. V. Setty,Benjamin Braun,Victor Vu,Andrew J. Blumberg,Bryan Parno,Michael Walfish	10.1145/2465351.2465359
+Presto: distributed machine learning and graph processing with sparse matrices.	Shivaram Venkataraman,Erik Bodzsar,Indrajit Roy 0001,Alvin AuYoung,Robert S. Schreiber	10.1145/2465351.2465371
+Process firewalls: protecting processes during resource access.	Hayawardh Vijayakumar,Joshua Schiffman,Trent Jaeger	10.1145/2465351.2465358
+CPI2: CPU performance isolation for shared compute clusters.	Xiao Zhang,Eric Tune,Robert Hagmann,Rohit Jnagal,Vrigo Gokhale,John Wilkes	10.1145/2465351.2465388
+Maygh: building a CDN from client web browsers.	Liang Zhang 0022,Fangfei Zhou,Alan Mislove,Ravi Sundaram	10.1145/2465351.2465379
+Eighth Eurosys Conference 2013, EuroSys &apos;13, Prague, Czech Republic, April 14-17, 2013	Zdenek Hanzálek,Hermann Härtig,Miguel Castro 0001,M. Frans Kaashoek	

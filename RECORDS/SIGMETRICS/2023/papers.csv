@@ -1,0 +1,55 @@
+Asynchronous Automata Processing on GPUs.	Hongyuan Liu 0002,Sreepathi Pai,Adwait Jog	10.1145/3578338.3593524
+Real-time Spread Burst Detection in Data Streaming.	Haibo Wang 0004,Dimitrios Melissourgos,Chaoyi Ma,Shigang Chen	10.1145/3578338.3593566
+Online Adversarial Stabilization of Unknown Networked Systems.	Jing Yu 0010,Dimitar Ho,Adam Wierman	10.1145/3578338.3593557
+Malcolm: Multi-agent Learning for Cooperative Load Management at Rack Scale.	Ali Hossein Abbasi Abyaneh,Maizi Liao,Seyed Majid Zahedi	10.1145/3578338.3593550
+Mars: Near-Optimal Throughput with Shallow Buffers in Reconfigurable Datacenter Networks.	Vamsi Addanki,Chen Avin,Stefan Schmid 0001	10.1145/3578338.3593551
+Bias and Refinement of Multiscale Mean Field Models.	Sebastian Allmeier,Nicolas Gast	10.1145/3578338.3593527
+PEACH: Proactive and Environment Aware Channel State Information Prediction with Depth Images.	Serkut Ayvasik,Fidan Mehmeti,Edwin Babaians,Wolfgang Kellerer	10.1145/3578338.3593563
+Online Resource Allocation under Horizon Uncertainty.	Santiago R. Balseiro,Christian Kroer,Rachitesh Kumar	10.1145/3578338.3593559
+Online Fair Allocation of Perishable Resources.	Siddhartha Banerjee,Chamsi Hssaine,Sean R. Sinclair	10.1145/3578338.3593558
+Gacha Game Analysis and Design.	Canhui Chen,Zhixuan Fang	10.1145/3578338.3593544
+Network Monitoring on Multi-Pipe Switches.	Marco Chiesa,Fábio L. Verdi	10.1145/3578338.3593554
+Streaming Algorithms for Constrained Submodular Maximization.	Shuang Cui,Kai Han 0003,Jing Tang 0004,He Huang 0001,Xueying Li,Zhiyu Li	10.1145/3578338.3593573
+Joint Learning and Control in Stochastic Queueing Networks with Unknown Utilities.	Xinzhe Fu,Eytan H. Modiano	10.1145/3578338.3593547
+Architectural Support for Efficient Data Movement in Fully Disaggregated Systems.	Christina Giannoula,Kailong Huang,Jonathan Tang,Nectarios Koziris,Georgios I. Goumas,Zeshan Chishti,Nandita Vijaykumar	10.1145/3578338.3593533
+Batching of Tasks by Users of Pseudonymous Forums: Anonymity Compromise and Protection.	Alexander Goldberg,Giulia Fanti,Nihar B. Shah	10.1145/3578338.3593525
+Go-to-Controller is Better: Efficient and Optimal LPM Caching with Splicing.	Itamar Gozlan,Chen Avin,Gil Einziger,Gabriel Scalosub	10.1145/3578338.3593546
+Optimal Scheduling in the Multiserver-job Model under Heavy Traffic.	Isaac Grosof,Ziv Scully,Mor Harchol-Balter,Alan Scheller-Wolf	10.1145/3578338.3593560
+On the Stochastic and Asymptotic Improvement of First-Come First-Served and Nudge Scheduling.	Benny Van Houdt	10.1145/3578338.3593556
+Fiat Lux: Illuminating IPv6 Apportionment with Different Datasets.	Amanda Hsu,Frank Li 0001,Paul Pearce	10.1145/3578338.3593542
+Bias and Extrapolation in Markovian Linear Stochastic Approximation with Constant Stepsizes.	Dongyan Lucy Huo,Yudong Chen 0001,Qiaomin Xie	10.1145/3578338.3593526
+SLITS: Sparsity-Lightened Intelligent Thread Scheduling.	Wangkai Jin,Xiangjun Peng	10.1145/3578338.3593568
+Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models.	Prashanthi S. K,Sai Anuroop Kesanapalli,Yogesh Simmhan	10.1145/3578338.3593530
+Switching in the Rain: Predictive Wireless x-haul Network Reconfiguration.	Igor Kadota,Dror Jacoby,Hagit Messer,Gil Zussman,Jonatan Ostrometzky	10.1145/3578338.3593574
+Each at its Own Pace: Third-Party Dependency and Centralization Around the World.	Rashna Kumar,Sana Asif,Elise Lee,Fabián E. Bustamante	10.1145/3578338.3593539
+SplitRPC: A {Control + Data} Path Splitting RPC Stack for ML Inference Serving.	Adithya Kumar,Anand Sivasubramaniam,Timothy Zhu	10.1145/3578338.3593571
+(Private) Kernelized Bandits with Distributed Biased Feedback.	Fengjiao Li,Xingyu Zhou 0001,Bo Ji 0001	10.1145/3578338.3593565
+Towards Accelerating Data Intensive Application&apos;s Shuffle Process Using SmartNICs.	Jiaxin Lin,Tao Ji,Xiangpeng Hao,Hokeun Cha,Yanfang Le,Xiangyao Yu,Aditya Akella	10.1145/3578338.3593577
+A First Look at Wi-Fi 6 in Action: Throughput, Latency, Energy Efficiency, and Security.	Ruofeng Liu,Nakjung Choi	10.1145/3578338.3593523
+FuncPipe: A Pipelined Serverless Framework for Fast and Cost-efficient Training of Deep Learning Models.	Yunzhuo Liu,Bo Jiang 0003,Tian Guo 0001,Zimeng Huang,Wenhao Ma,Xinbing Wang,Chenghu Zhou	10.1145/3578338.3593543
+Smash: Flexible, Fast, and Resource-efficient Placement and Lookup of Distributed Storage.	Yi Liu,Shouqian Shi,Minghao Xie,Heiner Litz,Chen Qian 0001	10.1145/3578338.3593569
+Dynamic Bin Packing with Predictions.	Mozhengfu Liu,Xueyan Tang	10.1145/3578338.3593538
+Leveraging the Properties of mmWave Signals for 3D Finger Motion Tracking for Interactive IoT Applications.	Yilin Liu,Shijia Zhang,Mahanth Gowda,Srihari Nelakuditi	10.1145/3578338.3593549
+Detecting and Measuring Aggressive Location Harvesting in Mobile Apps via Data-flow Path Embedding.	Haoran Lu,Qingchuan Zhao,Yongliang Chen,Xiaojing Liao,Zhiqiang Lin	10.1145/3578338.3593535
+A Comparative Analysis of Ookla Speedtest and Measurement Labs Network Diagnostic Test (NDT7).	Kyle MacMillan,Tarun Mangla,James Saxon,Nicole P. Marwell,Nick Feamster	10.1145/3578338.3593522
+Memtrade: Marketplace for Disaggregated Memory Clouds.	Hasan Al Maruf,Yuhong Zhong,Hongyi Wang,Mosharaf Chowdhury,Asaf Cidon,Carl A. Waldspurger	10.1145/3578338.3593553
+Optimistic No-regret Algorithms for Discrete Caching.	Naram Mhaisen,Abhishek Sinha,Georgios S. Paschos,George Iosifidis	10.1145/3578338.3593561
+JS Capsules: A Framework for Capturing Fine-grained JavaScript Memory Measurements for the Mobile Web.	Usama Naseer,Theophilus A. Benson	10.1145/3578338.3593548
+Smoothed Online Optimization with Unreliable Predictions.	Daan Rutten,Nicolas Christianson,Debankur Mukherjee,Adam Wierman	10.1145/3578338.3593570
+Mean-field Analysis for Load Balancing on Spatial Graphs.	Daan Rutten,Debankur Mukherjee	10.1145/3578338.3593552
+Enabling Long-term Fairness in Dynamic Resource Allocation.	Tareq Si Salem,Georgios Iosifidis,Giovanni Neglia	10.1145/3578338.3593541
+Overcoming the Long Horizon Barrier for Sample-Efficient Reinforcement Learning with Latent Low-Rank Structure.	Tyler Sam,Yudong Chen 0001,Christina Lee Yu	10.1145/3578338.3593562
+Noise in the Clouds: Influence of Network Performance Variability on Application Scalability.	Daniele De Sensi,Tiziano De Matteis,Konstantin Taranov,Salvatore Di Girolamo,Tobias Rahn,Torsten Hoefler	10.1145/3578338.3593555
+The Online Knapsack Problem with Departures.	Bo Sun 0004,Lin Yang,Mohammad H. Hajiesmaili,Adam Wierman,John C. S. Lui,Don Towsley,Danny H. K. Tsang	10.1145/3578338.3593576
+Strategic Latency Reduction in Blockchain Peer-to-Peer Networks.	Weizhao Tang,Lucianna Kiffer,Giulia Fanti,Ari Juels	10.1145/3578338.3593572
+Power-of-d Choices Load Balancing in the Sub-Halfin Whitt Regime.	Sushil Mahavir Varma,Francisco Castro,Siva Theja Maguluri	10.1145/3578338.3593564
+Robust Multi-Agent Bandits Over Undirected Graphs.	Daniel Vial,Sanjay Shakkottai,R. Srikant 0001	10.1145/3578338.3593567
+Characterizing Cryptocurrency-themed Malicious Browser Extensions.	Kailong Wang,Yuxi Ling,Yanjun Zhang,Zhou Yu 0002,Haoyu Wang 0001,Guangdong Bai,Beng Chin Ooi,Jin Song Dong	10.1145/3578338.3593529
+Constant Regret Primal-Dual Policy for Multi-way Dynamic Matching.	Yehua Wei,Jiaming Xu,Sophie H. Yu	10.1145/3578338.3593532
+The M/M/k with Deterministic Setup Times.	Jalani K. Williams,Mor Harchol-Balter,Weina Wang	10.1145/3578338.3593575
+Duo: A High-Throughput Reconfigurable Datacenter Network Using Local Routing and Control.	Johannes Zerwas,Csaba Györgyi,Andreas Blenk,Stefan Schmid 0001,Chen Avin	10.1145/3578338.3593537
+Detecting and Measuring Security Risks of Hosting-Based Dangling Domains.	Mingming Zhang,Xiang Li,Baojun Liu,Jianyu Lu,Yiming Zhang 0009,Jianjun Chen 0005,Haixin Duan,Shuang Hao,Xiaofeng Zheng	10.1145/3578338.3593534
+Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning.	Yizhou Zhang,Guannan Qu,Pan Xu 0002,Yiheng Lin,Zaiwei Chen,Adam Wierman	10.1145/3578338.3593545
+CoBF: Coordinated Beamforming in Dense mmWave Networks.	Ding Zhang,Panneer Selvam Santhalingam,Parth H. Pathak,Zizhan Zheng	10.1145/3578338.3593531
+DiffForward: On Balancing Forwarding Traffic for Modern Cloud Block Services via Differentiated Forwarding.	Wenzhe Zhu,Yongkun Li 0001,Erci Xu,Fei Li,Yinlong Xu,John C. S. Lui	10.1145/3578338.3593536
+Abstract Proceedings of the 2023 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2023, Orlando, FL, USA, June 19-23, 2023	Evgenia Smirni,Konstantin Avrachenkov,Phillipa Gill,Bhuvan Urgaonkar	10.1145/3578338

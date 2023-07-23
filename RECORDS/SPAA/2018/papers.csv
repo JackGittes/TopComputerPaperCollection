@@ -1,0 +1,50 @@
+Brief Announcement: On Approximating PageRank Locally with Sublinear Query Complexity.	Marco Bressan 0002,Enoch Peserico,Luca Pretto	10.1145/3210377.3210664
+Parallel Working-Set Search Structures.	Kunal Agrawal,Seth Gilbert,Wei Quan Lim	10.1145/3210377.3210390
+Optimal Algorithms for Right-Sizing Data Centers.	Susanne Albers,Jens Quedenfeld	10.1145/3210377.3210385
+Distributionally Linearizable Data Structures.	Dan Alistarh,Trevor Brown 0001,Justin Kopinsky,Jerry Zheng Li,Giorgi Nadiradze	10.1145/3210377.3210411
+The Transactional Conflict Problem.	Dan Alistarh,Syed Kamran Haider,Raphael Kübler,Giorgi Nadiradze	10.1145/3210377.3210406
+The Price of Bounded Preemption.	Noga Alon,Yossi Azar,Mark Berlin	10.1145/3210377.3210407
+Distributed Domination on Graph Classes of Bounded Expansion.	Saeed Akhoondian Amiri,Patrice Ossona de Mendez,Roman Rabinovich 0001,Sebastian Siebertz	10.1145/3210377.3210383
+Wireless Expanders.	Shirel Attali,Merav Parter,David Peleg,Shay Solomon	10.1145/3210377.3210396
+Massive-scale Streaming Analytics: Models, Parallelism, &amp; Real-world Applications.	David A. Bader	10.1145/3210377.3210379
+A 3D Parallel Algorithm for QR Decomposition.	Grey Ballard,James Demmel,Laura Grigori,Mathias Jacquelin,Nicholas Knight	10.1145/3210377.3210415
+Brief Announcement: Distributed Symmetry-Breaking with Improved Vertex-Averaged Complexity.	Leonid Barenboim,Yaniv Tzur	10.1145/3210377.3210660
+Parallel Write-Efficient Algorithms and Data Structures for Computational Geometry.	Guy E. Blelloch,Yan Gu 0001,Julian Shun,Yihan Sun 0001	10.1145/3210377.3210380
+The Parallel Persistent Memory Model.	Guy E. Blelloch,Phillip B. Gibbons,Yan Gu 0001,Charles McGuffey,Julian Shun	10.1145/3210377.3210381
+Brief Announcement: Coloring-based Task Mapping for Dragonfly Systems.	Ink Chinavinijkul,Jacob Newcomb,Lingzhi Xi,David P. Bunde	10.1145/3210377.3210665
+The Inherent Cost of Remembering Consistently.	Nachshon Cohen,Rachid Guerraoui,Igor Zablotchi	10.1145/3210377.3210400
+Intense Competition can Drive Selfish Explorers to Optimize Coverage.	Simon Collet,Amos Korman	10.1145/3210377.3210405
+Romulus: Efficient Algorithms for Persistent Transactional Memory.	Andreia Correia,Pascal Felber,Pedro Ramalhete	10.1145/3210377.3210392
+Red-Blue Pebble Game: Complexity of Computing the Trade-Off between Cache Size and Memory Transfers.	Erik D. Demaine,Quanquan C. Liu	10.1145/3210377.3210387
+A Unified Rounding Algorithm For Unrelated Machines Scheduling Problems.	Nikhil R. Devanur,Janardhan Kulkarni	10.1145/3210377.3210384
+Theoretically Efficient Parallel Graph Algorithms Can Be Fast and Scalable.	Laxman Dhulipala,Guy E. Blelloch,Julian Shun	10.1145/3210377.3210414
+Online Generalized Caching with Varying Weights and Costs.	Guy Even,Moti Medina,Dror Rawitz	10.1145/3210377.3210404
+An Efficient Wait-free Resizable Hash Table.	Panagiota Fatourou,Nikolaos D. Kallimanis,Thomas Ropars	10.1145/3210377.3210408
+Online Facility Location with Mobile Facilities.	Björn Feldkord,Friedhelm Meyer auf der Heide	10.1145/3210377.3210389
+Possibilities and Impossibilities for Distributed Subgraph Detection.	Orr Fischer,Tzlil Gonen,Fabian Kuhn,Rotem Oshman	10.1145/3210377.3210401
+Parallel Minimum Cuts in Near-linear Work and Low Depth.	Barbara Geissmann,Lukas Gianinazzi	10.1145/3210377.3210393
+Integrated Model, Batch, and Domain Parallelism in Training Neural Networks.	Amir Gholami,Ariful Azad,Peter H. Jin,Kurt Keutzer,Aydin Buluç	10.1145/3210377.3210394
+Brief Announcement: Hardware Transactional Persistent Memory.	Ellis Giles,Kshitij A. Doshi,Peter J. Varman	10.1145/3210377.3210656
+Laika: Efficient In-Place Scheduling for 3D Mesh Graph Computations.	Predrag Gruevski,William Hasenplaugh,David Lugato,James Thomas 0003	10.1145/3210377.3210395
+Greedy and Local Ratio Algorithms in the MapReduce Model.	Nicholas J. A. Harvey,Christopher Liaw,Paul Liu	10.1145/3210377.3210386
+Brief Announcement: Communication in Systems of Home Based Mobile Agents.	Friedhelm Meyer auf der Heide,Johannes Schaefer	10.1145/3210377.3210662
+Brief Announcement: Competitive Routing in Hybrid Communication Networks.	Daniel Jung 0001,Christina Kolb,Christian Scheideler,Jannik Sundermeier	10.1145/3210377.3210663
+Dynamic Representations of Sparse Distributed Networks: A Locality-Sensitive Approach.	Haim Kaplan,Shay Solomon	10.1145/3210377.3210397
+Improved Worst-Case Deterministic Parallel Dynamic Minimum Spanning Forest.	Tsvi Kopelowitz,Ely Porat,Yair Rosenmutter	10.1145/3210377.3210403
+Towards a Complexity Theory for the Congested Clique.	Janne H. Korhonen,Jukka Suomela	10.1145/3210377.3210391
+Brief Announcement: A Greedy 2 Approximation for the Active Time Problem.	Saurabh Kumar,Samir Khuller	10.1145/3210377.3210659
+The Resurgence of Software Performance Engineering.	Charles E. Leiserson	10.1145/3210377.3210378
+Cache-Adaptive Exploration: Experimental Results and Scan-Hiding for Adaptivity.	Andrea Lincoln,Quanquan C. Liu,Jayson Lynch,Helen Xu 0001	10.1145/3210377.3210382
+Online Non-preemptive Scheduling on Unrelated Machines with Rejections.	Giorgio Lucarelli,Benjamin Moseley,Kim Thang Nguyen,Abhinav Srivastav,Denis Trystram	10.1145/3210377.3210402
+BQ: A Lock-Free Queue with Batching.	Gal Milman,Alex Kogan,Yossi Lev,Victor Luchangco,Erez Petrank	10.1145/3210377.3210388
+On the Distributed Complexity of Large-Scale Graph Computations.	Gopal Pandurangan,Peter Robinson 0002,Michele Scquizzato	10.1145/3210377.3210409
+Constant-Depth and Subcubic-Size Threshold Circuits for Matrix Multiplication.	Ojas Parekh,Cynthia A. Phillips,Conrad D. James,James B. Aimone	10.1145/3210377.3210410
+Brief Announcement: Stamp-it, a more Thread-efficient, Concurrent Memory Reclamation Scheme in the C++ Memory Model.	Manuel Pöter,Jesper Larsson Träff	10.1145/3210377.3210661
+Trees for Vertex Cuts, Hypergraph Cuts and Minimum Hypergraph Bisection.	Harald Räcke,Roy Schwartz 0002,Richard Stotz	10.1145/3210377.3210398
+Breaking the $ilde$Omega($sqrt{n})$ Barrier: Fast Consensus under a Late Adversary.	Peter Robinson 0002,Christian Scheideler,Alexander Setzer	10.1145/3210377.3210399
+Accurate Traffic Splitting on Commodity Switches.	Ori Rottenstreich,Yossi Kanizo,Haim Kaplan,Jennifer Rexford	10.1145/3210377.3210412
+Brief Announcement: Approximation Algorithms for Preemptive Resource Allocation.	Kanthi K. Sarpatwar,Baruch Schieber,Hadas Shachnai	10.1145/3210377.3210666
+Brief Announcement: Open Cilk.	Tao B. Schardl,I-Ting Angelina Lee,Charles E. Leiserson	10.1145/3210377.3210658
+Brief Announcement: Parallel Transitive Closure Within 3D Crosspoint Memory.	Alvaro Velasquez,Sumit Kumar Jha 0001	10.1145/3210377.3210657
+Lock-free Contention Adapting Search Trees.	Kjell Winblad,Konstantinos Sagonas,Bengt Jonsson 0001	10.1145/3210377.3210413
+Proceedings of the 30th on Symposium on Parallelism in Algorithms and Architectures, SPAA 2018, Vienna, Austria, July 16-18, 2018	Christian Scheideler,Jeremy T. Fineman	10.1145/3210377

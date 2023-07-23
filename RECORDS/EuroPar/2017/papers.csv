@@ -1,0 +1,52 @@
+Addressing Volume and Latency Overheads in 1D-parallel Sparse Matrix-Vector Multiplication.	Seher Acer,R. Oguz Selvitopi,Cevdet Aykanat	10.1007/978-3-319-64203-1_45
+A Concurrency-Optimal Binary Search Tree.	Vitaly Aksenov,Vincent Gramoli,Petr Kuznetsov,Anna Malova,Srivatsan Ravi	10.1007/978-3-319-64203-1_42
+Generic Algorithms for Scheduling Applications on Hybrid Multi-core Machines.	Marcos Amaris,Giorgio Lucarelli,Clément Mommessin,Denis Trystram	10.1007/978-3-319-64203-1_16
+GASPI/GPI In-memory Checkpointing Library.	Valeria Bartsch,Rui Machado,Dirk Merten,Mirko Rahn,Franz-Josef Pfreundt	10.1007/978-3-319-64203-1_36
+PASCAL: A Parallel Algorithmic SCALable Framework for N-body Problems.	Laleh Aghababaie Beni,Aparna Chandramowlishwaran	10.1007/978-3-319-64203-1_35
+Shutdown Policies with Power Capping for Large Scale Computing Systems.	Anne Benoit,Laurent Lefèvre,Anne-Cécile Orgerie,Issam Raïs	10.1007/978-3-319-64203-1_10
+Online Dynamic Monitoring of MPI Communications.	George Bosilca,Clément Foyer,Emmanuel Jeannot,Guillaume Mercier,Guillaume Papauré	10.1007/978-3-319-64203-1_4
+A Consensus-Based Fault-Tolerant Event Logger for High Performance Applications.	Edson Tavares de Camargo,Elias P. Duarte Jr.,Fernando Pedone	10.1007/978-3-319-64203-1_30
+Low-Cost Approximation Algorithms for Scheduling Independent Tasks on Hybrid Platforms.	Louis-Claude Canon,Loris Marchal,Frédéric Vivien	10.1007/978-3-319-64203-1_17
+Improving the Network of Search Engine Services Through Application-Driven Routing.	Joe Carrión,Daniel Franco 0002,Veronica Gil-Costa,Mauricio Marín,Emilio Luque	10.1007/978-3-319-64203-1_46
+GLT: A Unified API for Lightweight Thread Libraries.	Adrián Castelló 0001,Sangmin Seo,Rafael Mayo 0002,Pavan Balaji,Enrique S. Quintana-Ortí,Antonio J. Peña	10.1007/978-3-319-64203-1_34
+Efficient Dynamic Pinning of Parallelized Applications by Reinforcement Learning with Applications.	Georgios C. Chasparis,Michael Rossbory,Vladimir Janjic	10.1007/978-3-319-64203-1_12
+SEMem: Deployment of MPI-Based In-Memory Storage for Hadoop on Supercomputers.	Thanh-Chung Dao,Shigeru Chiba	10.1007/978-3-319-64203-1_32
+Runtime-Assisted Shared Cache Insertion Policies Based on Re-reference Intervals.	Vladimir Dimic,Miquel Moretó,Marc Casas,Mateo Valero	10.1007/978-3-319-64203-1_18
+Replica-Aware Partitioning Design in Parallel Database Systems.	Liming Dong 0002,Weidong Liu 0001,Renchuan Li,Tiejun Zhang,Weiguo Zhao	10.1007/978-3-319-64203-1_22
+Optimized Batched Linear Algebra for Modern Architectures.	Jack J. Dongarra,Sven Hammarling,Nicholas J. Higham,Samuel D. Relton,Mawussi Zounon	10.1007/978-3-319-64203-1_37
+New Efficient General Sparse Matrix Formats for Parallel SpMV Operations.	Jan Philipp Ecker,Rudolf Berrendorf,Florian Mannuss	10.1007/978-3-319-64203-1_38
+Performance Characterization of De Novo Genome Assembly on Leading Parallel Systems.	Marquita Ellis,Evangelos Georganas,Rob Egan,Steven A. Hofmeyr,Aydin Buluç,Brandon Cook 0001,Leonid Oliker,Katherine A. Yelick	10.1007/978-3-319-64203-1_6
+Nonintrusive AMR Asynchrony for Communication Optimization.	Muhammed Nufail Farooqi,Didem Unat,Tan Nguyen 0001,Weiqun Zhang,Ann S. Almgren,John Shalf	10.1007/978-3-319-64203-1_49
+More Sharing, More Benefits? A Study of Library Sharing in Container-Based Infrastructures.	José Bravo Ferreira,Marco Cello,Jesús Omana Iglesias	10.1007/978-3-319-64203-1_26
+Balanced CSR Sparse Matrix-Vector Product on Graphics Processors.	Goran Flegar,Enrique S. Quintana-Ortí	10.1007/978-3-319-64203-1_50
+Computing Just What You Need: Online Data Analysis and Reduction at Extreme Scales.	Ian T. Foster,Mark Ainsworth,Bryce Allen,Julie Bessac,Franck Cappello,Jong Youl Choi,Emil M. Constantinescu,Philip E. Davis,Sheng Di,Zichao Wendy Di,Hanqi Guo 0001,Scott Klasky,Kerstin Kleese van Dam,Tahsin M. Kurç,Qing Liu 0002,Abid Malik,Kshitij Mehta,Klaus Mueller 0001,Todd S. Munson,George Ostrouchov,Manish Parashar,Tom Peterka,Line Pouchard,Dingwen Tao,Ozan Tugluk,Stefan M. Wild,Matthew Wolf,Justin M. Wozniak,Wei Xu 0020,Shinjae Yoo	10.1007/978-3-319-64203-1_1
+Rewriting System for Profile-Guided Data Layout Transformations on Binaries.	Christopher Haine,Olivier Aumage,Denis Barthou	10.1007/978-3-319-64203-1_19
+NVIDIA Jetson Platform Characterization.	Hassan Halawa,Hazem A. Abdelhafez,Andrew Boktor,Matei Ripeanu	10.1007/978-3-319-64203-1_7
+Scaling Energy Adaptive Applications for Sustainable Profitability.	Fabien Hermenier,Giovanni Giuliani,Andre Milani,Sophie Demassey	10.1007/978-3-319-64203-1_2
+Deadline-Aware Deployment for Time Critical Applications in Clouds.	Yang Hu 0013,Junchao Wang,Huan Zhou 0006,Paul Martin 0002,Arie Taal,Cees de Laat,Zhiming Zhao	10.1007/978-3-319-64203-1_25
+Off-Road Performance Modeling - How to Deal with Segmented Data.	M. Kashif Ilyas,Alexandru Calotoiu,Felix Wolf 0001	10.1007/978-3-319-64203-1_3
+Performance Evaluation of Computation and Communication Kernels of the Fast Multipole Method on Intel Manycore Architecture.	Mustafa Abdul Jabbar,Mohammed A. Al Farhan,Rio Yokota,David E. Keyes	10.1007/978-3-319-64203-1_40
+Families of Graph Algorithms: SSSP Case Study.	Thejaka Amila Kanewala,Marcin Zalewski,Andrew Lumsdaine	10.1007/978-3-319-64203-1_31
+Execution of Recursive Queries in Apache Spark.	Pavlos Katsogridakis,Sofia Papagiannaki,Polyvios Pratikakis	10.1007/978-3-319-64203-1_21
+Partitioning Strategy Selection for In-Memory Graph Pattern Matching on Multiprocessor Systems.	Alexander Krause,Thomas Kissinger,Dirk Habich,Hannes Voigt,Wolfgang Lehner	10.1007/978-3-319-64203-1_11
+Micro-benchmarking MPI Neighborhood Collective Operations.	Felix Donatus Lübbe	10.1007/978-3-319-64203-1_5
+A Simplified Model for Simulating the Execution of a Workflow in Cloud.	Roland Mathá,Sasko Ristov,Radu Prodan	10.1007/978-3-319-64203-1_23
+Supporting the Xeon Phi Coprocessor in a Heterogeneous Programming Model.	Ana Moreton-Fernandez,Eduardo Rodriguez-Gutiez,Arturo González-Escribano,Diego R. Llanos	10.1007/978-3-319-64203-1_33
+Optimizing Egalitarian Performance in the Side-Effects Model of Colocation for Data Center Resource Management.	Fanny Pascual,Krzysztof Rzadca	10.1007/978-3-319-64203-1_15
+Energy-Driven Straggler Mitigation in MapReduce.	Tien-Dat Phan,Shadi Ibrahim,Amelie Chi Zhou,Guillaume Aupy,Gabriel Antoniu	10.1007/978-3-319-64203-1_28
+Accelerating by Idling: How Speculative Delays Improve Performance of Message-Oriented Systems.	Aleksandar Prokopec	10.1007/978-3-319-64203-1_13
+Scalable Fine-Grained Metric-Based Remeshing Algorithm for Manycore/NUMA Architectures.	Hoby Rakotoarivelo,Franck Ledoux,Franck Pommereau,Nicolas Le Goff	10.1007/978-3-319-64203-1_43
+Following the Blind Seer - Creating Better Performance Models Using Less Information.	Patrick Reisert,Alexandru Calotoiu,Sergei Shudler,Felix Wolf 0001	10.1007/978-3-319-64203-1_8
+Leveraging Cloud Heterogeneity for Cost-Efficient Execution of Parallel Applications.	Eduardo Roloff,Matthias Diener,Emmanuell Diaz Carreño,Luciano Paschoal Gaspary,Philippe O. A. Navaux	10.1007/978-3-319-64203-1_29
+Shared Memory Pipelined Parareal.	Daniel Ruprecht	10.1007/978-3-319-64203-1_48
+Performance Evaluation of Thread-Level Speculation in Off-the-Shelf Hardware Transactional Memories.	Juan Salamanca 0001,José Nelson Amaral,Guido Araujo	10.1007/978-3-319-64203-1_44
+An Accurate Simulator of Cache-Line Conflicts to Exploit the Underlying Cache Performance.	Yukinori Sato,Toshio Endo	10.1007/978-3-319-64203-1_9
+An Efficient Communication Aware Heuristic for Multiple Cloud Application Placement.	Pedro Silva 0007,Christian Pérez	10.1007/978-3-319-64203-1_27
+Accelerating the Tucker Decomposition with Compressed Sparse Tensors.	Shaden Smith,George Karypis	10.1007/978-3-319-64203-1_47
+Lazy Parallel Kronecker Algebra-Operations on Heterogeneous Multicores.	Wasuwee Sodsong,Robert Mittermayr,Yoojin Park,Bernd Burgstaller,Johann Blieberger	10.1007/978-3-319-64203-1_39
+To Distribute or Not to Distribute: The Question of Load Balancing for Performance or Energy.	Esteban Stafford,Borja Pérez,José Luis Bosque,Ramón Beivide,Mateo Valero	10.1007/978-3-319-64203-1_51
+Dealing with Performance Unpredictability in an Asymmetric Multicore Processor Cloud.	Boris Teabe,Patrick Lavoisier Wapet,Alain Tchana,Daniel Hagimont	10.1007/978-3-319-64203-1_24
+Using Simulation to Evaluate and Tune the Performance of Dynamic Load Balancing of an Over-Decomposed Geophysics Application.	Rafael Keller Tesser,Lucas Mello Schnorr,Arnaud Legrand,Fabrice Dupros,Philippe Olivier Alexandre Navaux	10.1007/978-3-319-64203-1_14
+Efficient Non-blocking Radix Trees.	Varun Velamuri	10.1007/978-3-319-64203-1_41
+Hardware Support for Scratchpad Memory Transactions on GPU Architectures.	Alejandro Villegas,Rafael Asenjo,Angeles G. Navarro,Oscar G. Plata,Rafael Ubal,David R. Kaeli	10.1007/978-3-319-64203-1_20
+Euro-Par 2017: Parallel Processing - 23rd International Conference on Parallel and Distributed Computing, Santiago de Compostela, Spain, August 28 - September 1, 2017, Proceedings	Francisco F. Rivera,Tomás F. Pena,José Carlos Cabaleiro	10.1007/978-3-319-64203-1

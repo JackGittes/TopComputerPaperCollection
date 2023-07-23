@@ -1,0 +1,325 @@
+Computing the full quotient in bi-decomposition by approximation.	Anna Bernasconi 0001,Valentina Ciriani,Jordi Cortadella,Tiziano Villa	10.23919/DATE48585.2020.9116249
+Emerging Neural Workloads and Their Impact on Hardware.	David Brooks 0001,Martin M. Frank,Tayfun Gokmen,Udit Gupta,Xiaobo Sharon Hu,Shubham Jain,Ann Franchesca Laguna,Michael T. Niemier,Ian O&apos;Connor,Anand Raghunathan,Ashish Ranjan 0001,Dayane Reis,Jacob R. Stevens,Carole-Jean Wu,Xunzhao Yin	10.23919/DATE48585.2020.9116435
+LEGaTO: Low-Energy, Secure, and Resilient Toolset for Heterogeneous Computing.	Behzad Salami 0001,Konstantinos Parasyris,Adrián Cristal,Osman S. Unsal,Xavier Martorell,Paul Carpenter,Raúl de la Cruz,Leonardo Bautista-Gomez,Daniel A. Jiménez,Carlos Álvarez 0001,Seyed Saber Nabavi Larimi,Sergi Madonar,Miquel Pericàs,Pedro Trancoso,Mustafa Abduljabbar,Jing Chen,Pirah Noor Soomro,Madhavan Manivannan,Micha vor dem Berge,Stefan Krupop,Frank Klawonn,Al Mekhlafi,Sigrun May,Tobias Becker,Georgi Gaydadjiev,Hans Salomonsson,Devdatt P. Dubhashi,Oron Port,Yoav Etsion,Do Le Quoc,Christof Fetzer,Martin Kaiser,Nils Kucza,Jens Hagemeyer,René Griessl,Lennart Tigges,Kevin Mika,A. Hüffmeier,Marcelo Pasin,Valerio Schiavoni,Isabelly Rocha,Christian Göttel,Pascal Felber	10.23919/DATE48585.2020.9116362
+CNT-Cache: an Energy-Efficient Carbon Nanotube Cache with Adaptive Encoding.	Dawen Xu 0002,Kexin Chu,Cheng Liu 0008,Ying Wang 0001,Lei Zhang 0008,Huawei Li 0001	10.23919/DATE48585.2020.9116395
+Using Programmable Delay Monitors for Wear-Out and Early Life Failure Prediction.	Chang Liu 0010,Eric Schneider,Hans-Joachim Wunderlich	10.23919/DATE48585.2020.9116284
+Hardware Acceleration of CNN with One-Hot Quantization of Weights and Activations.	Gang Li 0015,Peisong Wang,Zejian Liu,Cong Leng,Jian Cheng 0001	10.23919/DATE48585.2020.9116359
+Poisoning the (Data) Well in ML-Based CAD: A Case Study of Hiding Lithographic Hotspots.	Kang Liu 0017,Benjamin Tan 0001,Ramesh Karri,Siddharth Garg	10.23919/DATE48585.2020.9116489
+Design-flow Methodology for Secure Group Anonymous Authentication.	Rashmi S. Agrawal,Lake Bu,Eliakin Del Rosario,Michel A. Kinsy	10.23919/DATE48585.2020.9116290
+Minimizing Execution Duration in the Presence of Learning-Enabled Components.	Kunal Agrawal,Alan Burns 0001,Abhishek Singh 0007,Sanjoy K. Baruah	10.23919/DATE48585.2020.9116505
+Deeper Weight Pruning without Accuracy Loss in Deep Neural Networks.	Byungmin Ahn,Taewhan Kim	10.23919/DATE48585.2020.9116367
+Accelerating Quantum Approximate Optimization Algorithm using Machine Learning.	Mahabubul Alam,Abdullah Ash-Saki,Swaroop Ghosh	10.23919/DATE48585.2020.9116348
+Runtime Accuracy-Configurable Approximate Hardware Synthesis Using Logic Gating and Relaxation.	Tanfer Alan,Andreas Gerstlauer,Jörg Henkel	10.23919/DATE48585.2020.9116272
+On the Task Mapping and Scheduling for DAG-based Embedded Vision Applications on Heterogeneous Multi/Many-core Architectures.	Stefano Aldegheri,Nicola Bombieri,Hiren D. Patel	10.23919/DATE48585.2020.9116462
+On the Performance of Non-Profiled Differential Deep Learning Attacks against an AES Encryption Algorithm Protected using a Correlated Noise Generation based Hiding Countermeasure.	Amir Alipour,Athanasios Papadimitriou,Vincent Beroulle,Ehsan Aerabi,David Hély	10.23919/DATE48585.2020.9116387
+Realizing Quantum Algorithms on Real Quantum Computing Devices.	Carmen G. Almudéver,Lingling Lao,Robert Wille,Gian Giacomo Guerreschi	10.23919/DATE48585.2020.9116240
+Nano-Crossbar based Computing: Lessons Learned and Future Directions.	Mustafa Altun,Ismail Cevik,Ahmet Erten,Osman Eksik,Mircea Stan,Csaba Andras Moritz	10.23919/DATE48585.2020.9116566
+PIM-Aligner: A Processing-in-MRAM Platform for Biological Sequence Alignment.	Shaahin Angizi,Jiao Sun,Wei Zhang 0076,Deliang Fan	10.23919/DATE48585.2020.9116303
+Making the Relationship between Uncertainty Estimation and Safety Less Uncertain.	Vincent Aravantinos,Peter Schlicht	10.23919/DATE48585.2020.9116541
+ASCELLA: Accelerating Sparse Computation by Enabling Stream Accesses to Memory.	Bahar Asgari,Ramyad Hadidi,Hyesoon Kim	10.23919/DATE48585.2020.9116501
+A Scalable Mixed Synthesis Framework for Heterogeneous Networks.	Max Austin,Scott Temple,Walter Lau Neto,Luca G. Amarù,Xifan Tang,Pierre-Emmanuel Gaillardon	10.23919/DATE48585.2020.9116534
+A 100KHz-1GHz Termination-dependent Human Body Communication Channel Measurement using Miniaturized Wearable Devices.	Shitij Avlani,Mayukh Nath,Shovan Maity,Shreyas Sen	10.23919/DATE48585.2020.9116556
+BYNQNet: Bayesian Neural Network with Quadratic Activations for Sampling-Free Uncertainty Estimation on FPGA.	Hiromitsu Awano,Masanori Hashimoto	10.23919/DATE48585.2020.9116302
+BlastFunction: an FPGA-as-a-Service system for Accelerated Serverless Computing.	Marco Bacis,Rolando Brondolin,Marco D. Santambrogio	10.23919/DATE48585.2020.9116333
+The Hypergeometric Distribution as a More Accurate Model for Stochastic Computing.	Timothy J. Baker,John P. Hayes	10.23919/DATE48585.2020.9116492
+Macro-3D: A Physical Design Methodology for Face-to-Face-Stacked Heterogeneous 3D ICs.	Lennart Bamberg,Alberto García Ortiz,Lingjun Zhu,Sai Pentapati,Da Eun Shim,Sung Kyu Lim	10.23919/DATE48585.2020.9116297
+Mixed-Signal Vector-by-Matrix Multiplier Circuits Based on 3D-NAND Memories for Neurocomputing.	Mohammad Bavandpour,Shubham Sahay,Mohammad Reza Mahmoodi,Dmitri B. Strukov	10.23919/DATE48585.2020.9116401
+Offline Model Guard: Secure and Private ML on Mobile Devices.	Sebastian P. Bayerl,Tommaso Frassetto,Patrick Jauernig,Korbinian Riedhammer,Ahmad-Reza Sadeghi,Thomas Schneider 0003,Emmanuel Stapf,Christian Weinert	10.23919/DATE48585.2020.9116560
+Tuning the ISA for increased heterogeneous computation in MPSoCs.	Pedro Henrique Exenberger Becker,Jeckson Dellagostin Souza,Antonio C. S. Beck	10.23919/DATE48585.2020.9116547
+GraphVine: Exploiting Multicast for Scalable Graph Analytics.	Leul Belayneh,Valeria Bertacco	10.23919/DATE48585.2020.9116542
+Study on the Compensation of Silicon Photonics-Based Modulators in DCI Applications.	Naim Ben-Hamida,Ahmad Abdo,Xueyang Li,Md Samiul Alam,Mahdi Parvizi,Claude D&apos;Amours,David V. Plant	10.23919/DATE48585.2020.9116414
+Quantum Computer Architecture: Towards Full-Stack Quantum Accelerators.	Koen Bertels,Aritra Sarkar,Thomas Hubregtsen,M. Serrao,Abid A. Mouedenne,Amitabh Yadav,A. M. Krol,Imran Ashraf	10.23919/DATE48585.2020.9116502
+Template schedule construction for global real-time scheduling on unrelated multiprocessor platforms.	Antoine Bertout,Joël Goossens,Emmanuel Grolleau,Xavier Poczekajlo	10.23919/DATE48585.2020.9116409
+An Approximation-based Fault Detection Scheme for Image Processing Applications.	Matteo Biasielli,Luca Cassano,Antonio Miele	10.23919/DATE48585.2020.9116425
+A Distributed Safety Mechanism using Middleware and Hypervisors for Autonomous Vehicles.	Tjerk Bijlsma,Andrii Buriachevskyi,Alessandro Frigerio,Yuting Fu,Kees Goossens,Ali Osman Örs,Pieter J. van der Perk,Andrei Sergeevich Terechko,Bart Vermeulen	10.23919/DATE48585.2020.9116268
+Fast Kriging-based Error Evaluation for Approximate Computing Systems.	Justine Bonnot,Daniel Ménard,Karol Desnos	10.23919/DATE48585.2020.9116320
+Synthesis of Fault-Tolerant Reconfigurable Scan Networks.	Sebastian Brandhofer,Michael A. Kochte,Hans-Joachim Wunderlich	10.23919/DATE48585.2020.9116525
+BackFlow: Backward Edge Control Flow Enforcement for Low End ARM Microcontrollers.	Cyril Bresch,Roman Lysecky,David Hély	10.23919/DATE48585.2020.9116396
+Using Universal Composition to Design and Analyze Secure Complex Hardware Systems.	Ran Canetti,Marten van Dijk,Hoda Maleki,Ulrich Rührmair,Patrick Schaumont	10.23919/DATE48585.2020.9116295
+Statistical Time-based Intrusion Detection in Embedded Systems.	Nadir Amin Carreon,Allison Gilbreath,Roman Lysecky	10.23919/DATE48585.2020.9116369
+Efficient Embedded Machine Learning applications using Echo State Networks.	Luca Cerina,Marco D. Santambrogio,Giuseppe Franco,Claudio Gallicchio,Alessio Micheli	10.23919/DATE48585.2020.9116334
+CMOS Implementation of Switching Lattices.	Ismail Cevik,Levent Aksoy,Mustafa Altun	10.23919/DATE48585.2020.9116304
+ExplFrame: Exploiting Page Frame Cache for Fault Analysis of Block Ciphers.	Anirban Chakraborty,Sarani Bhattacharya,Sayandeep Saha,Debdeep Mukhopadhyay	10.23919/DATE48585.2020.9116219
+PSB-RNN: A Processing-in-Memory Systolic Array Architecture using Block Circulant Matrices for Recurrent Neural Networks.	Nagadastagiri Challapalle,Sahithi Rampalli,Makesh Chandran,Gurpreet S. Kalsi,Sreenivas Subramoney,John Sampson,Vijaykrishnan Narayanan	10.23919/DATE48585.2020.9116469
+A Convolutional Result Sharing Approach for Binarized Neural Network Inference.	Ya-Chun Chang,Chia-Chun Lin,Yi-Ting Lin,Yung-Chih Chen,Chun-Yao Wang	10.23919/DATE48585.2020.9116221
+CPS-oriented Modeling and Control of Traffic Signals Using Adaptive Back Pressure.	Wanli Chang 0001,Debayan Roy,Shuai Zhao 0004,Anuradha Annaswamy,Samarjit Chakraborty	10.23919/DATE48585.2020.9116403
+Organic-Flow: An Open-Source Organic Standard Cell Library and Process Development Kit.	Ting-Jung Chang,Zhuozhi Yao,Barry P. Rand,David Wentzlaff	10.23919/DATE48585.2020.9116540
+Lightweight Anonymous Routing in NoC based SoCs.	Subodha Charles,Megan Logan,Prabhat Mishra 0001	10.23919/DATE48585.2020.9116572
+rACE: Reverse-Order Processor Reliability Analysis.	Athanasios Chatzidimitriou,Dimitris Gizopoulos	10.23919/DATE48585.2020.9116355
+Efficient Optical Power Delivery System for Hybrid Electronic-Photonic Manycore Processors.	Shixi Chen,Jiang Xu 0001,Xuanqi Chen,Zhifei Wang,Jun Feng 0008,Jiaxu Zhang,Zhongyuan Tian,Xiao Li	10.23919/DATE48585.2020.9116328
+PhoneBit: Efficient GPU-Accelerated Binary Neural Network Inference Engine for Mobile Phones.	Gang Chen 0023,Shengyu He,Haitao Meng,Kai Huang 0001	10.23919/DATE48585.2020.9116236
+Estimating the Circuit De-obfuscation Runtime based on Graph Deep Learning.	Zhiqian Chen,Gaurav Kolhe,Setareh Rafatirad,Chang-Tien Lu,Sai Manoj P. D.,Houman Homayoun,Liang Zhao 0002	10.23919/DATE48585.2020.9116544
+Embedding Hierarchical Signal to Siamese Network for Fast Name Rectification.	Yi-An Chen,Gung-Yu Pan,Che-Hua Shih,Yen-Chin Liao,Chia-Chih Yen,Hsie-Chia Chang	10.23919/DATE48585.2020.9116210
+A 16×128 Stochastic-Binary Processing Element Array for Accelerating Stochastic Dot-Product Computation Using 1-16 Bit-Stream Length.	Qian Chen 0027,Yuqi Su,Hyunjoon Kim,Taegeun Yoo,Tony Tae-Hyoung Kim,Bongjin Kim	10.23919/DATE48585.2020.9116349
+You Only Search Once: A Fast Automation Framework for Single-Stage DNN/Accelerator Co-design.	Weiwei Chen,Ying Wang 0001,Shuang Yang,Chen Liu,Lei Zhang 0008	10.23919/DATE48585.2020.9116474
+Towards Best-effort Approximation: Applying NAS to General-purpose Approximate Computing.	Weiwei Chen,Ying Wang 0001,Shuang Yang,Chen Liu,Lei Zhang 0008	10.23919/DATE48585.2020.9116250
+Towards Safety Verification of Direct Perception Neural Networks.	Chih-Hong Cheng,Chung-Hao Huang,Thomas Brunner,Vahid Hashemi	10.23919/DATE48585.2020.9116205
+An Anomaly Comprehension Neural Network for Surveillance Videos on Terminal Devices.	Yuan Cheng,Guangtai Huang,Peining Zhen,Bin Liu,Hai-Bao Chen,Ngai Wong,Hao Yu 0001	10.23919/DATE48585.2020.9116533
+Saving Power by Converting Flip-Flop to 3-Phase Latch-Based Designs.	Huimei Cheng,Xi Li,Yichen Gu,Peter A. Beerel	10.23919/DATE48585.2020.9116563
+Wafer-Level Test Path Pattern Recognition and Test Characteristics for Test-Induced Defect Diagnosis.	Ken Chau-Cheung Cheng,Katherine Shu-Min Li,Andrew Yi-Ann Huang,Ji-Wei Li,Leon Li-Yang Chen,Nova Cheng-Yen Tsai,Sying-Jyan Wang,Chen-Shiun Lee,Leon Chou,Peter Yi-Yu Liao,Hsing-Chung Liang,Jwu E. Chen	10.23919/DATE48585.2020.9116546
+Transport-Free Module Binding for Sample Preparation using Microfluidic Fully Programmable Valve Arrays.	Gautam Choudhary,Sandeep Pal,Debraj Kundu,Sukanta Bhattacharjee,Shigeru Yamashita,Bing Li 0005,Ulf Schlichtmann,Sudip Roy 0001	10.23919/DATE48585.2020.9116370
+Backtracking Search for Optimal Parameters of a PLL-based True Random Number Generator.	Brice Colombier,Nathalie Bochard,Florent Bernard,Lilian Bossuet	10.23919/DATE48585.2020.9116307
+Modeling a Floating-Gate Memristive Device for Computer Aided Design of Neuromorphic Computing.	Loai Danial,V. Gupta,Evgeny Pikhay,Yakov Roizin,Shahar Kvatinsky	10.23919/DATE48585.2020.9116354
+Applying Reservation-based Scheduling to a μC-based Hypervisor: An industrial case study.	Dakshina Dasari,Michael Pressler,Arne Hamann,Dirk Ziegenbein,Paul Austin	10.23919/DATE48585.2020.9116385
+Fledge: Flexible Edge Platforms Enabled by In-memory Computing.	Kamalika Datta,Arko Dutt,Ahmed Zaky,Umesh Chand,Devendra Singh,Yida Li,Jackson Chun-Yang Huang,Aaron Thean,Mohamed M. Sabry Aly	10.23919/DATE48585.2020.9116423
+Approximation Trade Offs in an Image-Based Control System.	Sayandip De,Sajid Mohamed,Konstantinos Bimpisidis,Dip Goswami,Twan Basten,Henk Corporaal	10.23919/DATE48585.2020.9116552
+Towards Exploring the Potential of Alternative Quantum Computing Architectures.	Arighna Deb,Gerhard W. Dueck,Robert Wille	10.23919/DATE48585.2020.9116507
+Trading Sensitivity for Power in an IEEE 802.15.4 Conformant Adequate Demodulator.	Paul Detterer,Cumhur Erdin,Jos Huisken,Hailong Jiao,Majid Nabi,Twan Basten,José Pineda de Gyvez	10.23919/DATE48585.2020.9116195
+Gap-free Processor Verification by S2QED and Property Generation.	Keerthikumara Devarajegowda,Mohammad Rahmani Fadiheh,Eshan Singh,Clark W. Barrett,Subhasish Mitra,Wolfgang Ecker,Dominik Stoffel,Wolfgang Kunz	10.23919/DATE48585.2020.9116515
+PowerPlanningDL: Reliability-Aware Framework for On-Chip Power Grid Design using Deep Learning.	Sukanta Dey,Sukumar Nandi,Gaurav Trivedi	10.23919/DATE48585.2020.9116536
+User Interaction Aware Reinforcement Learning for Power and Thermal Efficiency of CPU-GPU Mobile MPSoCs.	Somdip Dey,Amit Kumar Singh 0002,Xiaohang Wang 0001,Klaus D. McDonald-Maier	10.23919/DATE48585.2020.9116294
+Scaling Up the Memory Interference Analysis for Hard Real-Time Many-Core Systems.	Maximilien Dupont de Dinechin,Matheus Schuh,Matthieu Moy,Claire Maiza	10.23919/DATE48585.2020.9116460
+Fault Diagnosis of Via-Switch Crossbar in Non-volatile FPGA.	Ryutaro Doi,Xu Bai,Toshitsugu Sakamoto,Masanori Hashimoto	10.23919/DATE48585.2020.9116217
+High-speed analog simulation of CMOS vision chips using explicit integration techniques on many-core processors.	Ginés Doménech-Asensi,Tom J. Kazmierski	10.23919/DATE48585.2020.9116270
+A Fail-safe Architecture for Automated Driving.	Sebastian vom Dorff,Bert Böddeker,Maximilian Kneißl,Martin Fränzle	10.23919/DATE48585.2020.9116283
+On the Automatic Exploration of Weight Sharing for Deep Neural Network Compression.	Etienne Dupuis,David Novo,Ian O&apos;Connor,Alberto Bosio	10.23919/DATE48585.2020.9116350
+OSCAR: An Optical Stochastic Computing AcceleRator for Polynomial Functions.	Hassnaa El-Derhalli,Sébastien Le Beux,Sofiène Tahar	10.23919/DATE48585.2020.9116346
+Securing Programmable Analog ICs Against Piracy.	Mohamed Elshamy,Alhassan Sayed,Marie-Minerve Louërat,Amine Rhouni,Hassan Aboushady,Haralampos-G. D. Stratigopoulos	10.23919/DATE48585.2020.9116520
+Q-learning Based Backup for Energy Harvesting Powered Embedded Systems.	Wei Fan,Yujie Zhang,Weining Song,Mengying Zhao,Zhaoyan Shen,Zhiping Jia	10.23919/DATE48585.2020.9116561
+OrthrusPE: Runtime Reconfigurable Processing Elements for Binary Neural Networks.	Nael Fasfous,Manoj Rohit Vemparala,Alexander Frickenstein,Walter Stechele	10.23919/DATE48585.2020.9116308
+Fast and Accurate DRAM Simulation: Can we Further Accelerate it?	Johannes Feldmann,Kira Kraft,Lukas Steiner,Norbert Wehn,Matthias Jung 0001	10.23919/DATE48585.2020.9116275
+Quantifying the Benefits of Monolithic 3D Computing Systems Enabled by TFT and RRAM.	Abdallah M. Felfel,Kamalika Datta,Arko Dutt,Hasita Veluri,Ahmed Zaky,Aaron Voon-Yew Thean,Mohamed M. Sabry Aly	10.23919/DATE48585.2020.9116410
+A Heat-Recirculation-Aware VM Placement Strategy for Data Centers.	Hao Feng,Yuhui Deng,Yi Zhou 0009	10.23919/DATE48585.2020.9116356
+Accurate and Efficient Continuous Time and Discrete Events Simulation in SystemC.	Breytner Fernández-Mesa,Liliana Andrade,Frédéric Pétrot	10.23919/DATE48585.2020.9116300
+BNNsplit: Binarized Neural Networks for embedded distributed FPGA-based computing systems.	Giorgia Fiscaletti,Marco Speziali,Luca Stornaiuolo,Marco D. Santambrogio,Donatella Sciuto	10.23919/DATE48585.2020.9116220
+Deterministic Cache-based Execution of On-line Self-Test Routines in Multi-core Automotive System-on-Chips.	Andrea Floridia,Tzamn Melendez Carmona,Davide Piumatti,Annachiara Ruospo,Ernesto Sánchez 0001,Sergio de Luca,Rosario Martorana,Mose Alessandro Pernice	10.23919/DATE48585.2020.9116239
+EVPS: An Automotive Video Acquisition and Processing Platform.	Christophe Flouzat,Erwan Piriou,Mickaël Guibert,Bojan Jovanovic,Mohamad Oussayran	10.23919/DATE48585.2020.9116332
+Network Synthesis for Industry 4.0.	Enrico Fraccaroli,Alan Michael Padovani,Davide Quaglia,Franco Fummi	10.23919/DATE48585.2020.9116407
+Extending the RISC-V Instruction Set for Hardware Acceleration of the Post-Quantum Scheme LAC.	Tim Fritzmann,Georg Sigl,Johanna Sepúlveda	10.23919/DATE48585.2020.9116567
+Synthesis and Optimization of Multiple Portions of Circuits for ECO based on Set-Covering and QBF Formulations.	Masahiro Fujita,Yusuke Kimura,Xingming Le,Yukio Miyasaka,Amir Masoud Gharehbaghi	10.23919/DATE48585.2020.9116459
+Sparsity-Aware Caches to Accelerate Deep Neural Networks.	Vinod Ganesan,Sanchari Sen,Pratyush Kumar,Neel Gala,Kamakoti Veezhinathan,Anand Raghunathan	10.23919/DATE48585.2020.9116511
+Pitfalls in Machine Learning-based Adversary Modeling for Hardware Systems.	Fatemeh Ganji,Sarah Amir,Shahin Tajik,Domenic Forte,Jean-Pierre Seifert	10.23919/DATE48585.2020.9116316
+System Theoretic View on Uncertainties.	Roman Gansch,Ahmad Adee	10.23919/DATE48585.2020.9116472
+Modeling and Verifying Uncertainty-Aware Timing Behaviors using Parametric Logical Time Constraint.	Fei Gao,Frédéric Mallet,Min Zhang 0002,Mingsong Chen	10.23919/DATE48585.2020.9116344
+XpulpNN: Accelerating Quantized Neural Networks on RISC-V Processors Through ISA Extensions.	Angelo Garofalo,Giuseppe Tagliavini,Francesco Conti 0001,Davide Rossi,Luca Benini	10.23919/DATE48585.2020.9116529
+2DCC: Cache Compression in Two Dimensions.	Amin Ghasemazar,Mohammad Ewais,Prashant J. Nair,Mieszko Lis	10.23919/DATE48585.2020.9116279
+Binary Linear ECCs Optimized for Bit Inversion in Memories with Asymmetric Error Probabilities.	Valentin Gherman,Samuel Evain,Bastien Giraud	10.23919/DATE48585.2020.9116531
+ESP4ML: Platform-Based Design of Systems-on-Chip for Embedded Machine Learning.	Davide Giri,Kuan-Lin Chiu,Giuseppe Di Guglielmo,Paolo Mantovani,Luca P. Carloni	10.23919/DATE48585.2020.9116317
+Are Cloud FPGAs Really Vulnerable to Power Analysis Attacks?	Ognjen Glamocanin,Louis Coulon,Francesco Regazzoni 0001,Mirjana Stojilovic	10.23919/DATE48585.2020.9116481
+ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls.	Jiaqi Gu,Zheng Zhao 0003,Chenghao Feng,Hanqing Zhu,Ray T. Chen,David Z. Pan	10.23919/DATE48585.2020.9116521
+Blockchain Technology Enabled Pay Per Use Licensing Approach for Hardware IPs.	Krishnendu Guha,Debasri Saha,Amlan Chakrabarti	10.23919/DATE48585.2020.9116526
+Next Generation Arithmetic for Edge Computing.	Andre Guntoro,Cecilia De la Parra,Farhad Merchant,Florent de Dinechin,John L. Gustafson,Martin Langhammer,Rainer Leupers,Sangeeth Nambiar	10.23919/DATE48585.2020.9116196
+SCRIMP: A General Stochastic Computing Architecture using ReRAM in-Memory Processing.	Saransh Gupta,Mohsen Imani,Joonseop Sim,Andrew Huang 0001,Fan Wu,M. Hassan Najafi,Tajana Rosing	10.23919/DATE48585.2020.9116338
+Towards Generic and Scalable Word-Length Optimization.	Van-Phu Ha,Tomofumi Yuki,Olivier Sentieys	10.23919/DATE48585.2020.9116564
+Testing Through Silicon Vias in Power Distribution Network of 3D-IC with Manufacturing Variability Cancellation.	Koutaro Hachiya,Atsushi Kurokawa	10.23919/DATE48585.2020.9116229
+STAIR: High Reliable STT-MRAM Aware Multi-Level I/O Cache Architecture by Adaptive ECC Allocation.	Mostafa Hadizadeh,Elham Cheshmikhani,Hossein Asadi 0001	10.23919/DATE48585.2020.9116550
+Thermal-Cycling-aware Dynamic Reliability Management in Many-Core System-on-Chip.	Mohammad Hashem Haghbayan,Antonio Miele,Zhuo Zou,Hannu Tenhunen,Juha Plosila	10.23919/DATE48585.2020.9116325
+Parallel Implementation of Iterative Learning Controllers on Multi-core Platforms.	Mojtaba Haghi,Yusheng Yao,Dip Goswami,Kees Goossens	10.23919/DATE48585.2020.9116241
+Verifiable Security Templates for Hardware.	William L. Harrison,Gerard Allwein	10.23919/DATE48585.2020.9116342
+Period Adaptation for Continuous Security Monitoring in Multicore Real-Time Systems.	Monowar Hasan,Sibin Mohan,Rodolfo Pellizzoni,Rakesh B. Bobba	10.23919/DATE48585.2020.9116364
+An Efficient Bayesian Optimization Approach for Analog Circuit Synthesis via Sparse Gaussian Process Modeling.	Biao He,Shuhan Zhang,Fan Yang 0001,Changhao Yan,Dian Zhou,Xuan Zeng 0001	10.23919/DATE48585.2020.9116366
+Fast and Accurate High-Sigma Failure Rate Estimation through Extended Bayesian Optimized Importance Sampling.	Michael Hefenbrock,Dennis D. Weller,Michael Beigl,Mehdi Baradaran Tahoori	10.23919/DATE48585.2020.9116242
+Fast and Accurate Performance Evaluation for RISC-V using Virtual Prototypes*.	Vladimir Herdt,Daniel Große,Rolf Drechsler	10.23919/DATE48585.2020.9116522
+Towards Specification and Testing of RISC-V ISA Compliance⋆.	Vladimir Herdt,Daniel Große,Rolf Drechsler	10.23919/DATE48585.2020.9116193
+Compressing Subject-specific Brain-Computer Interface Models into One Model by Superposition in Hyperdimensional Space.	Michael Hersche,Philipp Rupp,Luca Benini,Abbas Rahimi	10.23919/DATE48585.2020.9116447
+FT-ClipAct: Resilience Analysis of Deep Neural Networks and Improving their Fault Tolerance using Clipped Activation.	Le Ha Hoang,Muhammad Abdullah Hanif,Muhammad Shafique 0001	10.23919/DATE48585.2020.9116571
+An Efficient MILP-Based Aging-Aware Floorplanner for Multi-Context Coarse-Grained Runtime Reconfigurable FPGAs.	Bo Hu,Mustafa M. Shihab,Yiorgos Makris,Benjamin Carrión Schäfer,Carl Sechen	10.23919/DATE48585.2020.9116537
+Overcoming Challenges for Achieving High in-situ Training Accuracy with Emerging Memories.	Shanshi Huang,Xiaoyu Sun,Xiaochen Peng,Hongwu Jiang,Shimeng Yu	10.23919/DATE48585.2020.9116215
+Revisiting Persistent Hash Table Design for Commercial Non-Volatile Memory.	Kaixin Huang,Yan Yan,Linpeng Huang	10.23919/DATE48585.2020.9116223
+Design of a Reliable Power Delivery Network for Monolithic 3D ICs*.	Shao-Chun Hung,Krishnendu Chakrabarty	10.23919/DATE48585.2020.9116570
+Low Complexity Multi-directional In-Air Ultrasonic Gesture Recognition Using a TCN.	Emad A. Ibrahim,Marc Geilen,Jos Huisken,Min Li,José Pineda de Gyvez	10.23919/DATE48585.2020.9116482
+Resource-Aware MapReduce Runtime for Multi/Many-core Architectures.	Konstantinos Iliakis,Sotirios Xydis,Dimitrios Soudris	10.23919/DATE48585.2020.9116281
+Effective Write Disturbance Mitigation Encoding Scheme for High-density PCM.	Muhammad Imran 0010,Taehyun Kwon,Joon-Sung Yang	10.23919/DATE48585.2020.9116188
+DeepNVM: A Framework for Modeling and Analysis of Non-Volatile Memory Technologies for Deep Learning Applications.	Ahmet Fatih Inci,Mehmet Meric Isgenc,Diana Marculescu	10.23919/DATE48585.2020.9116263
+Dynamic Thermal Management with Proactive Fan Speed Control Through Reinforcement Learning.	Arman Iranfar,Federico Terraneo,Gabor Csordas,Marina Zapater,William Fornaciari,David Atienza	10.23919/DATE48585.2020.9116510
+High Density STT-MRAM compiler design, validation and characterization methodology in 28nm FDSOI technology.	Piyush Jain,Akshay Kumar,Nicolaas Van Winkelhoff,Didier Gayraud,Surya Gupta,Abdelali El Amraoui,Giorgio Palma,Alexandra Gourio,Laurent Vachez,Luc Palau,Jean-Christophe Buy,Cyrille Dray	10.23919/DATE48585.2020.9116202
+RESCUE: Interdependent Challenges of Reliability, Security and Quality in Nanoelectronic Systems.	Maksim Jenihhin,Said Hamdioui,Matteo Sonza Reorda,Milos Krstic,Peter Langendörfer,Christian Sauer 0001,Anton Klotz,Michael Hübner 0001,Jörg Nolte,Heinrich Theodor Vierhaus,Georgios N. Selimis,Dan Alexandrescu,Mottaqiallah Taouil,Geert Jan Schrijen,Jaan Raik,Luca Sterpone,Giovanni Squillero,Zoya Dyka	10.23919/DATE48585.2020.9116558
+On Pre-Assignment Route Prototyping for Irregular Bumps on BGA Packages.	Jyun-Ru Jiang,Yun-Chih Kuo,Simon Yi-Hung Chen,Hung-Ming Chen	10.23919/DATE48585.2020.9116421
+Engineering Change Order for Combinational and Sequential Design Rectification.	Jie-Hong R. Jiang,Victor N. Kravets,Nian-Ze Lee	10.23919/DATE48585.2020.9116504
+Energy-Efficient Two-level Instruction Cache Design for an Ultra-Low-Power Multi-core Cluster.	Jie Chen 0042,Igor Loi,Luca Benini,Davide Rossi	10.23919/DATE48585.2020.9116212
+On Improving Fault Tolerance of Memristor Crossbar Based Neural Network Designs by Target Sparsifying.	Song Jin,Songwei Pei,Yu Wang	10.23919/DATE48585.2020.9116187
+GRAMARCH: A GPU-ReRAM based Heterogeneous Architecture for Neural Image Segmentation.	Biresh Kumar Joardar,Nitthilan Kannappan Jayakodi,Janardhan Rao Doppa,Hai Li 0001,Partha Pratim Pande,Krishnendu Chakrabarty	10.23919/DATE48585.2020.9116273
+ARM-on-ARM: Leveraging Virtualization Extensions for Fast Virtual Platforms.	Lukas Jünger 0001,Jan Luca Malte Bölke,Stephan Tobies,Rainer Leupers,Andreas Hoffmann 0002	10.23919/DATE48585.2020.9116573
+Oracle-based Logic Locking Attacks: Protect the Oracle Not Only the Netlist.	Emmanouil Kalligeros,Nikolaos Karousos,Irene G. Karybali	10.23919/DATE48585.2020.9116463
+Towards a Model-based Multi-Objective Optimization Approach For Safety-Critical Real-Time Systems.	Soulimane Kamni,Yassine Ouhammou,Antoine Bertout,Emmanuel Grolleau	10.23919/DATE48585.2020.9116388
+Analysis and Solution of CNN Accuracy Reduction over Channel Loop Tiling.	Yesung Kang,Yoonho Park,Sunghoon Kim,Eunji Kwon,Taeho Lim,Sangyun Oh,Mingyu Woo,Seokhyeong Kang	10.23919/DATE48585.2020.9116465
+Is Register Transfer Level Locking Secure?	Chandan Karfa,Ramanuj Chouksey,Christian Pilato,Siddharth Garg,Ramesh Karri	10.23919/DATE48585.2020.9116261
+AstroByte: Multi-FPGA Architecture for Accelerated Simulations of Spiking Astrocyte Neural Networks.	Shvan Karim,Jim Harkin,Liam McDaid,Bryan Gardiner,Junxiu Liu	10.23919/DATE48585.2020.9116312
+A Particle Swarm Optimization Guided Approximate Key Search Attack on Logic Locking in The Absence of Scan Access.	Rajit Karmakar,Santanu Chattopadhyay	10.23919/DATE48585.2020.9116259
+Ground Plane Partitioning for Current Recycling of Superconducting Circuits.	Naveen Kumar Katam,Bo Zhang 0098,Massoud Pedram	10.23919/DATE48585.2020.9116557
+From DRUP to PAC and Back.	Daniela Kaufmann,Armin Biere,Manuel Kauers	10.23919/DATE48585.2020.9116276
+Generalized Data Placement Strategies for Racetrack Memories.	Asif Ali Khan,Andrés Goens,Fazal Hameed,Jerónimo Castrillón	10.23919/DATE48585.2020.9116245
+Energy-efficient Runtime Resource Management for Adaptable Multi-application Mapping.	Robert Khasanov,Jerónimo Castrillón	10.23919/DATE48585.2020.9116381
+AnytimeNet: Controlling Time-Quality Tradeoffs in Deep Neural Network Architectures.	Jung-Eun Kim,Richard M. Bradford,Zhong Shao	10.23919/DATE48585.2020.9116280
+ABC: Abstract prediction Before Concreteness.	Jung-Eun Kim,Richard M. Bradford,Man-Ki Yoon,Zhong Shao	10.23919/DATE48585.2020.9116479
+A Method of Via Variation Induced Delay Computation.	Moonsu Kim,Yun Heo,Seungjae Jung,Kelvin Le,Nathaniel Conos,Hanif Fatemi,Jongpil Lee,Youngmin Shin	10.23919/DATE48585.2020.9116405
+GenieHD: Efficient DNA Pattern Matching Accelerator Using Hyperdimensional Computing.	Yeseong Kim,Mohsen Imani,Niema Moshiri,Tajana Rosing	10.23919/DATE48585.2020.9116397
+Reliable and Lightweight PUF-based Key Generation using Various Index Voting Architecture.	Jeong-Hyeon Kim,Ho-Jun Jo,Kyung-Kuk Jo,Sung-Hee Cho,Jaeyong Chung,Joon-Sung Yang	10.23919/DATE48585.2020.9116519
+PCM: Precision-Controlled Memory System for Energy Efficient Deep Neural Network Training.	Boyeal Kim,Sang Hyun Lee,Hyun Kim,Duy Thanh Nguyen,Minh-Son Le,Ik Joon Chang,Dohun Kwon,Jin Hyeok Yoo,Jun Won Choi,Hyuk-Jae Lee	10.23919/DATE48585.2020.9116530
+Towards Secure Composition of Integrated Circuits and Electronic Systems: On the Role of EDA.	Johann Knechtel,Elif Bilge Kavun,Francesco Regazzoni 0001,Annelie Heuser,Anupam Chattopadhyay,Debdeep Mukhopadhyay,Soumyajit Dey,Yunsi Fei,Yaacov Belenky,Itamar Levi,Tim Güneysu,Patrick Schaumont,Ilia Polian	10.23919/DATE48585.2020.9116483
+Post-Silicon Validation of the IBM POWER9 Processor.	Tom Kolan,Hillel Mendelson,Vitali Sokhin,Kevin Reick,Elena Tsanko,Greg Wetli	10.23919/DATE48585.2020.9116491
+Formal Synthesis of Monitoring and Detection Systems for Secure CPS Implementations.	Ipsita Koley,Saurav Kumar Ghosh,Soumyajit Dey,Debdeep Mukhopadhyay,Amogh Kashyap K. N.,Sachin Kumar Singh,Lavanya Lokesh,Jithin Nalu Purakkal,Nishant Sinha 0003	10.23919/DATE48585.2020.9116211
+Efficient Compilation and Execution of JVM-Based Data Processing Frameworks on Heterogeneous Co-Processors.	Christos Kotselidis,Sotiris Diamantopoulos,Orestis Akrivopoulos,Viktor Rosenfeld,Katerina Doka,Hazeef Mohammed,Georgios Mylonas,Vassilis Spitadakis,Will Morgan	10.23919/DATE48585.2020.9116246
+A Throughput-Latency Co-Optimised Cascade of Convolutional Neural Network Classifiers.	Alexandros Kouris,Stylianos I. Venieris,Christos-Savvas Bouganis	10.23919/DATE48585.2020.9116248
+WavePro: Clock-less Wave-Propagated Pipeline Compiler for Low-Power and High-Throughput Computation.	Yehuda Kra,Tzachi Noy,Adam Teman	10.23919/DATE48585.2020.9116524
+Mitigation of Sense Amplifier Degradation Using Skewed Design.	Daniel Kraak,Mottaqiallah Taouil,Said Hamdioui,Pieter Weckx,Stefan Cosemans,Francky Catthoor	10.23919/DATE48585.2020.9116532
+Learning to Automate the Design Updates From Observed Engineering Changes in the Chip Development Cycle.	Victor N. Kravets,Jie-Hong R. Jiang,Heinz Riener	10.23919/DATE48585.2020.9116310
+Effect of Aging on PUF Modeling Attacks based on Power Side-Channel Observations.	Trevor Kroeger,Wei Cheng 0003,Sylvain Guilley,Jean-Luc Danger,Naghmeh Karimi	10.23919/DATE48585.2020.9116428
+An On-Chip Learning Accelerator for Spiking Neural Networks using STT-RAM Crossbar Arrays.	Shruti R. Kulkarni,Shihui Yin,Jae-sun Seo,Bipin Rajendran	10.23919/DATE48585.2020.9116226
+Post-Quantum Secure Boot.	Vinay B. Y. Kumar,Naina Gupta 0001,Anupam Chattopadhyay,Michael Kasper,Christoph Krauß,Ruben Niederhagen	10.23919/DATE48585.2020.9116252
+GANA: Graph Convolutional Network Based Automated Netlist Annotation for Analog Circuits.	Kishor Kunal,Tonmoy Dhar,Meghna Madhusudan,Jitesh Poojary,Arvind K. Sharma,Wenbin Xu,Steven M. Burns,Jiang Hu,Ramesh Harjani,Sachin S. Sapatnekar	10.23919/DATE48585.2020.9116329
+Flexible Group-Level Pruning of Deep Neural Networks for On-Device Machine Learning.	Kwangbae Lee,Hoseung Kim,Hayun Lee,Dongkun Shin	10.23919/DATE48585.2020.9116287
+An Efficient Persistency and Recovery Mechanism for SGX-style Integrity Tree in Secure NVM.	Mengya Lei,Fang Wang 0001,Dan Feng 0001,Fan Li,Jie Xu 0013	10.23919/DATE48585.2020.9116203
+HcveAcc: A High-Performance and Energy-Efficient Accelerator for Tracking Task in VSLAM System.	Renwei Li,Junning Wu,Meng Liu,Zuding Chen,Shengang Zhou,Shanggong Feng	10.23919/DATE48585.2020.9116551
+Lightweight Thermal Monitoring in Optical Networks-on-Chip via Router Reuse.	Mengquan Li,Jun Zhou,Weichen Liu	10.23919/DATE48585.2020.9116351
+DynUnlock: Unlocking Scan Chains Obfuscated using Dynamic Keys.	Nimisha Limaye,Ozgur Sinanoglu	10.23919/DATE48585.2020.9116197
+Selective Concolic Testing for Hardware Trojan Detection in Behavioral SystemC Designs.	Bin Lin,Jinchao Chen,Fei Xie	10.23919/DATE48585.2020.9116384
+Dynamic Stochastic Computing for Digital Signal Processing Applications.	Siting Liu,Jie Han 0001	10.23919/DATE48585.2020.9116562
+Towards Decrypting the Art of Analog Layout: Placement Quality Prediction via Transfer Learning.	Mingjie Liu,Keren Zhu 0001,Jiaqi Gu,Linxiao Shen,Xiyuan Tang,Nan Sun,David Z. Pan	10.23919/DATE48585.2020.9116330
+Sampling from Discrete Distributions in Combinational Hardware with Application to Post-Quantum Cryptography.	Michael X. Lyons,Kris Gaj	10.23919/DATE48585.2020.9116434
+Automated Test Generation for Trojan Detection using Delay-based Side Channel Analysis.	Yangdi Lyu,Prabhat Mishra 0001	10.23919/DATE48585.2020.9116461
+Go Unary: A Novel Synapse Coding and Mapping Scheme for Reliable ReRAM-based Neuromorphic Computing.	Chang Ma,Yanan Sun 0003,Weikang Qian,Ziqi Meng,Rui Yang,Li Jiang 0002	10.23919/DATE48585.2020.9116555
+TLS-Level Security for Low Power Industrial IoT Network Infrastructures.	Jochen Mades,Gerd Ebelt,Boris Janjic,Frederik Lauer,Carl Christian Rheinländer,Norbert Wehn	10.23919/DATE48585.2020.9116285
+InfiniWolf: Energy Efficient Smart Bracelet for Edge Computing with Dual Source Energy Harvesting.	Michele Magno,Xiaying Wang,Manuel Eggimann,Lukas Cavigelli,Luca Benini	10.23919/DATE48585.2020.9116218
+REPUTE: An OpenCL based Read Mapping Tool for Embedded Genomics.	Sidharth Maheshwari,Rishad A. Shafik,Ian Wilson,Alex Yakovlev,Amit Acharyya	10.23919/DATE48585.2020.9116238
+n-bit Data Parallel Spin Wave Logic Gate.	Abdulqader Nael Mahmoud,Frederic Vanderveken,Florin Ciubotaru,Christoph Adelmann,Sorin Cotofana,Said Hamdioui	10.23919/DATE48585.2020.9116368
+Towards Formal Verification of Optimized and Industrial Multipliers.	Alireza Mahzoon,Daniel Große,Christoph Scholl 0001,Rolf Drechsler	10.23919/DATE48585.2020.9116485
+A novel FPGA-based system for Tumor Growth Prediction.	Konstantinos Malavazos,Maria Papadogiorgaki,Pavlos Malakonakis,Ioannis Papaefstathiou	10.23919/DATE48585.2020.9116391
+ReD-CaNe: A Systematic Methodology for Resilience Analysis and Design of Capsule Networks under Approximations.	Alberto Marchisio,Vojtech Mrazek,Muhammad Abdullah Hanif,Muhammad Shafique 0001	10.23919/DATE48585.2020.9116393
+Emergent Control of MPSoC Operation by a Hierarchical Supervisor / Reinforcement Learning Approach.	Florian Maurer 0003,Bryan Donyanavard,Amir M. Rahmani,Nikil D. Dutt,Andreas Herkersdorf	10.23919/DATE48585.2020.9116574
+A DFT Scheme to Improve Coverage of Hard-to-Detect Faults in FinFET SRAMs.	Guilherme Cardoso Medeiros,Cemil Cem Gürsoy,Lizhou Wu,Moritz Fieback,Maksim Jenihhin,Mottaqiallah Taouil,Said Hamdioui	10.23919/DATE48585.2020.9116278
+Prospector: Synthesizing Efficient Accelerators via Statistical Learning.	Atefeh Mehrabi,Aninda Manocha,Benjamin C. Lee,Daniel J. Sorin	10.23919/DATE48585.2020.9116473
+Achieving Determinism in Adaptive AUTOSAR.	Christian Menard,Andrés Goens,Marten Lohstroh,Jerónimo Castrillón	10.23919/DATE48585.2020.9116430
+Lazy Event Prediction using Defining Trees and Schedule Bypass for Out-of-Order PDES.	Daniel Mendoza,Zhongqi Cheng,Emad Malekzadeh Arasteh,Rainer Dömer	10.23919/DATE48585.2020.9116512
+A Flexible and Scalable NTT Hardware : Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography.	Ahmet Can Mert,Emre Karabulut,Erdinç Öztürk,Erkay Savas,Michela Becchi,Aydin Aysu	10.23919/DATE48585.2020.9116470
+Semi-Autonomous Personal Care Robots Interface driven by EEG Signals Digitization.	Giovanni Mezzina,Daniela De Venuto	10.23919/DATE48585.2020.9116499
+Increased reproducibility and comparability of data leak evaluations using ExOT.	Philipp Miedl,Bruno Klopott,Lothar Thiele	10.23919/DATE48585.2020.9116497
+Opportunities for Cross-Layer Design in High-Performance Computing Systems with Integrated Silicon Photonic Networks.	Asif Mirza,Shadi Manafi Avari,Ebadollah Taheri,Sudeep Pasricha,Mahdi Nikdast	10.23919/DATE48585.2020.9116234
+Silicon Photonic Microring Resonators: Design Optimization Under Fabrication Non-Uniformity.	Asif Mirza,Febin Sunny,Sudeep Pasricha,Mahdi Nikdast	10.23919/DATE48585.2020.9116201
+Bitstream Modification Attack on SNOW 3G.	Michail Moraitis,Elena Dubrova	10.23919/DATE48585.2020.9116222
+NeuronFlow: a neuromorphic processor architecture for Live AI applications.	Orlando Moreira,Amirreza Yousefzadeh,Fabian Chersi,Gokturk Cinserin,Rik-Jan Zwartenkot,Ajay Kapoor,Peng Qiao,Peter Kievits,Mina A. Khoei,Louis Rouillard,Aimee Ferouge,Jonathan Tapson,Ashoka Visweswara	10.23919/DATE48585.2020.9116352
+Towards a Qualifiable OpenMP Framework for Embedded Systems.	Adrian Munera,Sara Royuela,Eduardo Quiñones	10.23919/DATE48585.2020.9116230
+Power, Performance, and Thermal Trade-offs in M3D-enabled Manycore Chips.	Shouvik Musavvir,Anwesha Chatterjee,Ryan Gary Kim,Dae Hyun Kim 0004,Janardhan Rao Doppa,Partha Pratim Pande	10.23919/DATE48585.2020.9116345
+Dynamic Faults based Hardware Trojan Design in STT-MRAM.	Sarath Mohanachandran Nair,Rajendra Bishnoi,Arunkumar Vijayan,Mehdi Baradaran Tahoori	10.23919/DATE48585.2020.9116471
+System-level Evaluation of Chip-Scale Silicon Photonic Networks for Emerging Data-Intensive Applications.	Aditya Narayan,Yvain Thonnart,Pascal Vivet,Ajay Joshi,Ayse K. Coskun	10.23919/DATE48585.2020.9116496
+FANNet: Formal Analysis of Noise Tolerance, Training Bias and Input Sensitivity in Neural Networks.	Mahum Naseer,Mishal Fatima Minhas,Faiq Khalid,Muhammad Abdullah Hanif,Osman Hasan,Muhammad Shafique 0001	10.23919/DATE48585.2020.9116247
+A Framework for Adding Low-Overhead, Fine-Grained Power Domains to CGRAs.	Ankita Nayak,Keyi Zhang,Rajsekhar Setaluri,Alex Carsello,Makai Mann,Stephen Richardson,Rick Bahr,Pat Hanrahan,Mark Horowitz,Priyanka Raina	10.23919/DATE48585.2020.9116477
+GraphRSim: A Joint Device-Algorithm Reliability Analysis for ReRAM-based Graph Processing.	Chin-Fu Nien,Yi-Jou Hsiao,Hsiang-Yun Cheng,Cheng-Yu Wen,Ya-Cheng Ko,Che-Ching Lin	10.23919/DATE48585.2020.9116232
+Test Pattern Superposition to Detect Hardware Trojans.	Chris Nigh,Alex Orailoglu	10.23919/DATE48585.2020.9116264
+A Performance Analysis Framework for Real-Time Systems Sharing Multiple Resources.	Shayan Tabatabaei Nikkhah,Marc Geilen,Dip Goswami,Kees Goossens	10.23919/DATE48585.2020.9116514
+Range-Controlled Floating-Gate Transistors: A Unified Solution for Unlocking and Calibrating Analog ICs.	Sai Govinda Rao Nimmalapudi,Georgios Volanis,Yichuan Lu,Angelos Antonopoulos 0002,Andrew Marshall,Yiorgos Makris	10.23919/DATE48585.2020.9116251
+Reliable and Energy-Aware Fixed-Priority (m, k)-Deadlines Enforcement with Standby-Sparing.	Linwei Niu,Dakai Zhu 0001	10.23919/DATE48585.2020.9116398
+Computational SRAM Design Automation using Pushed-Rule Bitcells for Energy-Efficient Vector Processing.	Jean-Philippe Noël,Valentin Egloff,Maha Kooli,Roman Gauchi,Jean-Michel Portal,Henri-Pierre Charles,Pascal Vivet,Bastien Giraud	10.23919/DATE48585.2020.9116506
+Towards Malicious Exploitation of Energy Management Mechanisms.	Safouane Noubir,Maria Mendez Real,Sébastien Pillement	10.23919/DATE48585.2020.9116420
+Efficient Training on Edge Devices Using Online Quantization.	Michael H. Ostertag,Sara A. Al-Doweesh,Tajana Rosing	10.23919/DATE48585.2020.9116568
+An Efficient SRAM yield Analysis Using Scaled-Sigma Adaptive Importance Sampling.	Liang Pang,Mengyun Yao,Yifan Chai	10.23919/DATE48585.2020.9116233
+XGBIR: An XGBoost-based IR Drop Predictor for Power Delivery Network.	Chi-Hsien Pao,An-Yu Su,Yu-Min Lee	10.23919/DATE48585.2020.9116327
+Energy-aware Placement for SRAM-NVM Hybrid FPGAs.	Seongsik Park,Jongwan Kim,Sungroh Yoon	10.23919/DATE48585.2020.9116487
+ProxSim: GPU-based Simulation Framework for Cross-Layer Approximate DNN Optimization.	Cecilia De la Parra,Andre Guntoro,Akash Kumar 0001	10.23919/DATE48585.2020.9116476
+Symmetry-based A/M-S BIST (SymBIST): Demonstration on a SAR ADC IP.	Antonios Pavlidis,Marie-Minerve Louërat,Eric Faehn,Anand Kumar,Haralampos-G. D. Stratigopoulos	10.23919/DATE48585.2020.9116189
+In-Memory Resistive RAM Implementation of Binarized Neural Networks for Medical Applications.	Bogdan Penkovsky,Marc Bocquet,Tifenn Hirtzlin,Jacques-Olivier Klein,Etienne Nowak,Elisa Vianello,Jean-Michel Portal,Damien Querlioz	10.23919/DATE48585.2020.9116439
+A Reinforcement Learning Approach to Directed Test Generation for Shared Memory Verification.	Nícolas Pfeifer,Bruno V. Zimpel,Gabriel A. G. Andrade,Luiz C. V. dos Santos	10.23919/DATE48585.2020.9116198
+ESA Athena WFI Onboard Electronics - Distributed Control and Data Processing.	Markus Planner,Sabine Ott,Sebastian Albrecht 0003,Jintin Tran,Christopher Mandla,Jan-Christoph Tenzer,Thomas Schanz,Samuel Pliego,Denis Tcherniak,Manfred Steller,Harald Jeszensky,Roland Ottensamer,Konrad R. Skup,Chris Thomas,Julian Thornhill	10.23919/DATE48585.2020.9116484
+Impact of NBTI Aging on Self-Heating in Nanowire FET.	Om Prakash 0007,Hussam Amrouch,Sanjeev Manhas,Jörg Henkel	10.23919/DATE48585.2020.9116267
+TRANSPIRE: An energy-efficient TRANSprecision floating-point Programmable archItectuRE.	Rohit Prasad,Satyajit Das,Kevin J. M. Martin,Giuseppe Tagliavini,Philippe Coussy,Luca Benini,Davide Rossi	10.23919/DATE48585.2020.9116408
+DiSCERN: Distilling Standard-Cells for Emerging Reconfigurable Nanotechnologies.	Shubham Rai,Michael Raitza,Siva Satyendra Sahoo,Akash Kumar 0001	10.23919/DATE48585.2020.9116216
+Cache Persistence-Aware Memory Bus Contention Analysis for Multicore Systems.	Syed Aftab Rashid,Geoffrey Nelissen,Eduardo Tovar	10.23919/DATE48585.2020.9116265
+WCET-aware Code Generation and Communication Optimization for Parallelizing Compilers.	Simon Reder,Jürgen Becker 0001	10.23919/DATE48585.2020.9116400
+AMSA: Adaptive Merkle Signature Architecture.	Emanuel Regnath,Sebastian Steinhorst	10.23919/DATE48585.2020.9116517
+A Non-invasive Wearable Bioimpedance System to Wirelessly Monitor Bladder Filling.	Markus Reichmuth,Simone Schürle,Michele Magno	10.23919/DATE48585.2020.9116378
+A Fast and Energy Efficient Computing-in-Memory Architecture for Few-Shot Learning Applications.	Dayane Reis,Ann Franchesca Laguna,Michael T. Niemier,Xiaobo Sharon Hu	10.23919/DATE48585.2020.9116292
+Efficient Latency Bound Analysis for Data Chains of Real-Time Tasks in Multiprocessor Systems.	Jiankang Ren,Xin He,Junlong Zhou,Hongwei Ge,Guowei Wu,Guozhen Tan	10.23919/DATE48585.2020.9116575
+Rescuing Logic Encryption in Post-SAT Era by Locking &amp; Obfuscation.	Amin Rezaei 0001,Yuanqi Shen,Hai Zhou	10.23919/DATE48585.2020.9116500
+Design Space Exploration for Model-based Communication Systems.	Valentina Richthammer,Marcel Rieß,Julian Bestler,Frank Slomka,Michael Glaß	10.23919/DATE48585.2020.9116508
+Exact DAG-Aware Rewriting.	Heinz Riener,Alan Mishchenko,Mathias Soeken	10.23919/DATE48585.2020.9116379
+Verification Runtime Analysis: Get the Most Out of Partial Verification.	Martin Ring,Fritjof Bornebusch,Christoph Lüth,Robert Wille,Rolf Drechsler	10.23919/DATE48585.2020.9116543
+An On-board Algorithm Implementation on an Embedded GPU: A Space Case Study.	Iván Rodriguez,Leonidas Kosmidis,Olivier Notebaert,Francisco J. Cazorla,David Steenari	10.23919/DATE48585.2020.9116538
+GhostBusters: Mitigating Spectre Attacks on a DBT-Based Processor.	Simon Rokicki	10.23919/DATE48585.2020.9116402
+ACOUSTIC: Accelerating Convolutional Neural Networks through Or-Unipolar Skipped Stochastic Computing.	Wojciech Romaszkan,Tianmu Li,Tristan Melton,Sudhakar Pamarti,Puneet Gupta 0001	10.23919/DATE48585.2020.9116289
+Detection of False Positive and False Negative Samples in Semantic Segmentation.	Matthias Rottmann,Kira Maag,Robin Chan,Fabian Hüger,Peter Schlicht,Hanno Gottschalk	10.23919/DATE48585.2020.9116288
+Embedded Social Insect-Inspired Intelligence Networks for System-level Runtime Management.	Matthew R. P. Rowlings,Andy M. Tyrrell,Martin A. Trefzer	10.23919/DATE48585.2020.9116394
+REALM: Reduced-Error Approximate Log-based Integer Multiplier.	Hassaan Saadat,Haris Javaid,Aleksandar Ignjatovic,Sri Parameswaran	10.23919/DATE48585.2020.9116315
+Energy Optimization in NCFET-based Processors.	Sami Salamin,Martin Rapp,Hussam Amrouch,Andreas Gerstlauer,Jörg Henkel	10.23919/DATE48585.2020.9116301
+Multi-Agent Actor-Critic Method for Joint Duty-Cycle and Transmission Power Control.	Sota Sawaguchi,Jean-Frédéric Christmann,Anca Molnos,Carolynn Bernier,Suzanne Lesecq	10.23919/DATE48585.2020.9116518
+A Preliminary View on Automotive Cyber Security Management Systems.	Christoph Schmittner,Jürgen Dobaj,Georg Macher,Eugen Brenner	10.23919/DATE48585.2020.9116406
+GPU-accelerated Time Simulation of Systems with Adaptive Voltage and Frequency Scaling.	Eric Schneider,Hans-Joachim Wunderlich	10.23919/DATE48585.2020.9116256
+Priority-Preserving Optimization of Status Quo ID-Assignments in Controller Area Network.	Sebastian Schwitalla,Lea Schönberger,Jian-Jia Chen	10.23919/DATE48585.2020.9116565
+Fully Automated Analog Sub-Circuit Clustering with Graph Convolutional Neural Networks.	Keertana Settaluri,Elias Fallon	10.23919/DATE48585.2020.9116513
+AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs.	Keertana Settaluri,Ameer Haj-Ali,Qijing Huang 0001,Kourosh Hakhamaneshi,Borivoje Nikolic	10.23919/DATE48585.2020.9116200
+Acceleration of probabilistic reasoning through custom processor architecture.	Nimish Shah,Laura Isabel Galindez Olascoaga,Wannes Meert,Marian Verhelst	10.23919/DATE48585.2020.9116326
+A Timing Uncertainty-Aware Clock Tree Topology Generation Algorithm for Single Flux Quantum Circuits.	Soheil Nazar Shahsavani,Bo Zhang 0098,Massoud Pedram	10.23919/DATE48585.2020.9116331
+A Novel TIGFET-based DFF Design for Improved Resilience to Power Side-Channel Attacks.	Mohammad Mehdi Sharifi,Ramin Rajaei,Patsy Cadareanu,Pierre-Emmanuel Gaillardon,Yier Jin,Michael T. Niemier,Xiaobo Sharon Hu	10.23919/DATE48585.2020.9116554
+Microfluidic Trojan Design in Flow-based Biochips.	Mohammed Shayan,Sukanta Bhattacharjee,Yong-Ak Song,Krishnendu Chakrabarty,Ramesh Karri	10.23919/DATE48585.2020.9116225
+Modeling and Designing of a PVT Auto-tracking Timing-speculative SRAM.	Shan Shen,Tianxiang Shao,Ming Ling,Jun Yang 0006,Longxing Shi	10.23919/DATE48585.2020.9116569
+Towards Serial-Equivalent Multi-Core Parallel Routing for FPGAs.	Minghua Shen,Nong Xiao	10.23919/DATE48585.2020.9116313
+Delay Sensitivity Polynomials Based Design- Dependent Performance Monitors for Wide Operating Ranges.	Ruikai Shi,Liang Yang,Hao Wang	10.23919/DATE48585.2020.9116243
+Real-Time Energy Monitoring in IoT-enabled Mobile Devices.	Nitin Shivaraman,Seima Saki,Zhiwei Liu,Saravanan Ramanathan,Arvind Easwaran,Sebastian Steinhorst	10.23919/DATE48585.2020.9116577
+Sweeping for Leakage in Masked Circuit Layouts.	Danilo Sijacic,Josep Balasch,Ingrid Verbauwhede	10.23919/DATE48585.2020.9116468
+Communication-efficient View-Pooling for Distributed Multi-View Neural Networks.	Manik Singhal,Vijay Raghunathan,Anand Raghunathan	10.23919/DATE48585.2020.9116528
+Using Learning Classifier Systems for the DSE of Adaptive Embedded Systems.	Fedor Smirnov,Behnaz Pourmohseni,Jürgen Teich	10.23919/DATE48585.2020.9116383
+Floating Random Walk Based Capacitance Solver for VLSI Structures with Non-Stratified Dielectrics.	Mingye Song,Ming Yang 0033,Wenjian Yu	10.23919/DATE48585.2020.9116553
+Enhancing Multithreaded Performance of Asymmetric Multicores with SIMD Offloading.	Jeckson Dellagostin Souza,Madhavan Manivannan,Miquel Pericàs,Antonio Carlos Schneider Beck	10.23919/DATE48585.2020.9116466
+Production Recipe Validation through Formalization and Digital Twin Generation.	Stefano Spellini,Roberta Chirico,Marco Panato,Michele Lora,Franco Fummi	10.23919/DATE48585.2020.9116343
+SOLOMON: An Automated Framework for Detecting Fault Attack Vulnerabilities in Hardware.	Milind Srivastava,Patanjali SLPSK,Indrani Roy,Chester Rebeiro,Aritra Hazra,Swarup Bhunia	10.23919/DATE48585.2020.9116380
+Statistical Model Checking of Approximate Circuits: Challenges and Opportunities.	Josef Strnadel	10.23919/DATE48585.2020.9116207
+On the Volume Calculation for Conditional DAG Tasks: Hardness and Algorithms*.	Jinghao Sun,Yaoyao Chi,Tianfei Xu,Lei Cao,Nan Guan,Zhishan Guo,Wang Yi 0001	10.23919/DATE48585.2020.9116559
+Robust and High-Performance 12-T Interlocked SRAM for In-Memory Computing.	Neelam Surana,Mili Lavania,Abhishek Barma,Joycee Mekie	10.23919/DATE48585.2020.9116361
+A Universal Spintronic Technology based on Multifunctional Standardized Stack.	Mehdi Baradaran Tahoori,Sarath Mohanachandran Nair,Rajendra Bishnoi,Lionel Torres,Sophiane Senni,Guillaume Patrigeon,Pascal Benoit,Gregory di Pendina,Guillaume Prenat	10.23919/DATE48585.2020.9116321
+A RRAM-based FPGA for Energy-efficient Edge Computing.	Xifan Tang,Edouard Giacomin,Patsy Cadareanu,Ganesh Gore,Pierre-Emmanuel Gaillardon	10.23919/DATE48585.2020.9116478
+Multiplier Architectures: Challenges and Opportunities with Plasmonic-based Logic : (Special Session Paper).	Eleonora Testa,Samantha Lubaba Noor,Odysseas Zografos,Mathias Soeken,Francky Catthoor,Azad Naeemi,Giovanni De Micheli	10.23919/DATE48585.2020.9116490
+A Logic Synthesis Toolbox for Reducing the Multiplicative Complexity in Logic Networks.	Eleonora Testa,Mathias Soeken,Heinz Riener,Luca G. Amarù,Giovanni De Micheli	10.23919/DATE48585.2020.9116467
+Ternary Compute-Enabled Memory using Ferroelectric Transistors for Accelerating Deep Neural Networks.	Sandeep Krishna Thirumala,Shubham Jain,Sumeet Kumar Gupta,Anand Raghunathan	10.23919/DATE48585.2020.9116495
+POPSTAR: a Robust Modular Optical NoC Architecture for Chiplet-based 3D Integrated Systems.	Yvain Thonnart,Stéphane Bernabé,Jean Charbonnier,Christian Bernard,David Coriat,César Fuguet Tortolero,Pierre Tissier,Benoît Charbonnier,Stéphane Malhouitre,Damien Saint-Patrice,Myriam Assous,Aditya Narayan,Ayse K. Coskun,Denis Dutoit,Pascal Vivet	10.23919/DATE48585.2020.9116214
+M3D-ADTCO: Monolithic 3D Architecture, Design and Technology Co-Optimization for High Energy Efficient 3D IC.	Sébastien Thuries,Olivier Billoint,Sylvain Choisnet,Romain Lemaire,Pascal Vivet,Perrine Batude,Didier Lattard	10.23919/DATE48585.2020.9116293
+Exploration of Memory Access Optimization for FPGA-based 3D CNN Accelerator.	Teng Tian,Xi Jin 0002,Letian Zhao,Xiaotian Wang,Jie Wang,Wei Wu	10.23919/DATE48585.2020.9116376
+Tango: An Optimizing Compiler for Just-In-Time RTL Simulation.	Blaise-Pascal Tine,Sudhakar Yalamanchili,Hyesoon Kim	10.23919/DATE48585.2020.9116253
+Maximizing Yield for Approximate Integrated Circuits.	Marcello Traiola,Arnaud Virazel,Patrick Girard 0001,Mario Barbareschi,Alberto Bosio	10.23919/DATE48585.2020.9116341
+DEFCON: Generating and Detecting Failure-prone Instruction Sequences via Stochastic Search.	Ioannis Tsiokanos,Lev Mukhanov,Giorgis Georgakoudis,Dimitrios S. Nikolopoulos,Georgios Karakonstantis	10.23919/DATE48585.2020.9116363
+IFFSET: In-Field Fuzzing of Industrial Control Systems using System Emulation.	Dimitrios Tychalas,Michail Maniatakos	10.23919/DATE48585.2020.9116365
+L2L: A Highly Accurate Log_2_Lead Quantization of Pre-trained Neural Networks.	Salim Ullah,Siddharth Gupta 0004,Kapil Ahuja,Aruna Tiwari,Akash Kumar 0001	10.23919/DATE48585.2020.9116373
+TDO-CIM: Transparent Detection and Offloading for Computation In-memory.	Kanishkan Vadivel,Lorenzo Chelini,Ali BanaGozar,Gagandeep Singh 0002,Stefano Corda,Roel Jordans,Henk Corporaal	10.23919/DATE48585.2020.9116464
+TFApprox: Towards a Fast Emulation of DNN Approximate Hardware Accelerators on GPU.	Filip Vaverka,Vojtech Mrazek,Zdenek Vasícek,Lukás Sekanina	10.23919/DATE48585.2020.9116299
+Unified Thread- and Data-Mapping for Multi-Threaded Multi-Phase Applications on SPM Many-Cores.	Vanchinathan Venkataramani,Anuj Pathania,Tulika Mitra	10.23919/DATE48585.2020.9116493
+DISSECT: Dynamic Skew-and-Split Tree for Memory Authentication.	Saru Vig,Rohan Juneja,Siew-Kei Lam	10.23919/DATE48585.2020.9116548
+A Diode-Aware Model of PV Modules from Datasheet Specifications.	Sara Vinco,Yukai Chen,Enrico Macii,Massimo Poncino	10.23919/DATE48585.2020.9116282
+Efficient and Robust High-Level Synthesis Design Space Exploration through offline Micro-kernels Pre-characterization.	Zi Wang 0006,Jianqi Chen,Benjamin Carrión Schäfer	10.23919/DATE48585.2020.9116309
+ReBoc: Accelerating Block-Circulant Neural Networks in ReRAM.	Yitu Wang,Fan Chen 0001,Linghao Song,C.-J. Richard Shi,Hai Helen Li,Yiran Chen 0001	10.23919/DATE48585.2020.9116422
+High-Density, Low-Power Voltage-Control Spin Orbit Torque Memory with Synchronous Two-Step Write and Symmetric Read Techniques.	Haotian Wang,Wang Kang,Liuyang Zhang,He Zhang,Brajesh Kumar Kaushik,Weisheng Zhao	10.23919/DATE48585.2020.9116576
+Mitigating Cache-Based Side-Channel Attacks through Randomization: A Comprehensive System and Architecture Level Analysis.	Han Wang,Hossein Sayadi,Tinoosh Mohsenin,Liang Zhao 0002,Avesta Sasan,Setareh Rafatirad,Houman Homayoun	10.23919/DATE48585.2020.9116340
+Long-term Continuous Assessment of SRAM PUF and Source of Random Numbers.	Rui Wang,Georgios N. Selimis,Roel Maes,Sven Goossens	10.23919/DATE48585.2020.9116353
+An Approximate Multiplane Network-on-Chip.	Ling Wang 0005,Yadong Wang,Xiaohang Wang 0001	10.23919/DATE48585.2020.9116377
+Capturing and Obscuring Ping-Pong Patterns to Mitigate Continuous Attacks.	Kai Wang,Fengkai Yuan,Rui Hou 0001,Zhenzhou Ji,Dan Meng	10.23919/DATE48585.2020.9116509
+SNA: A Siamese Network Accelerator to Exploit the Model-Level Parallelism of Hybrid Network Structure.	Xingbin Wang,Boyan Zhao,Rui Hou 0001,Dan Meng	10.23919/DATE48585.2020.9116404
+Shenjing: A low power reconfigurable neuromorphic accelerator with partial-sum and spike networks-on-chip.	Bo Wang 0020,Jun Zhou 0014,Weng-Fai Wong,Li-Shiuan Peh	10.23919/DATE48585.2020.9116516
+Application-Aware Scheduling of Networked Applications over the Low-Power Wireless Bus.	Kacper Wardega,Wenchao Li 0001	10.23919/DATE48585.2020.9116206
+LAD-ECC: Energy-Efficient ECC Mechanism for GPGPUs Register File.	Xiaohui Wei,Hengshan Yue,Jingweijia Tan	10.23919/DATE48585.2020.9116503
+DeepRacing: A Framework for Autonomous Racing.	Trent Weiss,Madhur Behl	10.23919/DATE48585.2020.9116486
+Fail-Operational Automotive Software Design Using Agent-Based Graceful Degradation.	Philipp Weiss,Andreas Weichslgartner,Felix Reimann,Sebastian Steinhorst	10.23919/DATE48585.2020.9116322
+A fast BDD Minimization Framework for Approximate Computing.	Andreas Wendler,Oliver Keszöcze	10.23919/DATE48585.2020.9116296
+Accuracy Tolerant Neural Networks Under Aggressive Power Optimization.	Xiang-Xiu Wu,Yi-Wen Hung,Yung-Chih Chen,Shih-Chieh Chang	10.23919/DATE48585.2020.9116475
+Impact of Magnetic Coupling and Density on STT-MRAM Performance.	Lizhou Wu,Siddharth Rao,Mottaqiallah Taouil,Erik Jan Marinissen,Gouri Sankar Kar,Said Hamdioui	10.23919/DATE48585.2020.9116444
+Self-Aligned Double-Patterning Aware Legalization.	Hua Xiang 0001,Gi-Joon Nam,Gustavo E. Téllez,Shyam Ramji,Xiaoqing Xu	10.23919/DATE48585.2020.9116527
+Frequent Access Pattern-based Prefetching Inside of Solid-State Drives.	Xiaofei Xu,Zhigang Cai,Jianwei Liao,Yutaka Ishikawa	10.23919/DATE48585.2020.9116382
+On the Design of High Performance HW Accelerator through High-level Synthesis Scheduling Approximations.	Siyuan Xu,Benjamin Carrión Schäfer	10.23919/DATE48585.2020.9116358
+Optimising Resource Management for Embedded Machine Learning.	Lei Xun,Long Tran-Thanh,Bashir M. Al-Hashimi,Geoff V. Merrett	10.23919/DATE48585.2020.9116235
+Solving Constraint Satisfaction Problems Using the Loihi Spiking Neuromorphic Processor.	Chris Yakopcic,Nayim Rahman,Tanvir Atahary,Tarek M. Taha,Scott Douglass	10.23919/DATE48585.2020.9116227
+Optimizing Performance of Persistent Memory File Systems using Virtual Superpages.	Chaoshu Yang,Duo Liu,Runyu Zhang,Xianzhang Chen,Shun Nie,Qingfeng Zhuge,Edwin H.-M. Sha	10.23919/DATE48585.2020.9116411
+A compositional approach using Keras for neural networks in real-time systems.	Xin Yang,Partha S. Roop,Hammond A. Pearce,Jin Woo Ro	10.23919/DATE48585.2020.9116371
+ARS: Reducing F2FS Fragmentation for Smartphones using Decision Trees.	Lihua Yang,Fang Wang 0001,Zhipeng Tan,Dan Feng 0001,Jiaxing Qian,Shiyun Tu	10.23919/DATE48585.2020.9116318
+SPEAR: Hardware-based Implicit Rewriting for Square-root Circuit Verification.	Atif Yasin,Tiankai Su,Sébastien Pillement,Maciej J. Ciesielski	10.23919/DATE48585.2020.9116194
+Valid Window: A New Metric to Measure the Reliability of NAND Flash Memory.	Min Ye,Qiao Li 0001,Jianqiang Nie,Tei-Wei Kuo,Chun Jason Xue	10.23919/DATE48585.2020.9116337
+Probabilistic Sequential Multi-Objective Optimization of Convolutional Neural Networks.	Zixuan Yin,Warren J. Gross,Brett H. Meyer	10.23919/DATE48585.2020.9116535
+AntiDote: Attention-based Dynamic Optimization for Neural Network Runtime Efficiency.	Fuxun Yu,Chenchen Liu,Di Wang 0003,Yanzhi Wang,Xiang Chen 0010	10.23919/DATE48585.2020.9116416
+DC-CNN: Computational Flow Redefinition for Efficient CNN through Structural Decoupling.	Fuxun Yu,Zhuwei Qin,Di Wang 0003,Ping Xu,Chenchen Liu,Zhi Tian,Xiang Chen 0010	10.23919/DATE48585.2020.9116429
+Current-Mode Carry-Free Multiplier Design using a Memristor-Transistor Crossbar Architecture.	Shengqi Yu,Ahmed Soltan,Rishad A. Shafik,Thanasin Bunnam,Fei Xia,Domenico Balsamo,Alex Yakovlev	10.23919/DATE48585.2020.9116417
+A Learning-Based Thermal Simulation Framework for Emerging Two-Phase Cooling Technologies.	Zihao Yuan,Geoffrey Vaartstra,Prachi Shukla,Zhengmao Lu,Evelyn Wang,Sherief Reda,Ayse K. Coskun	10.23919/DATE48585.2020.9116480
+An Event-Based System for Low-Power ECG QRS Complex Detection.	Silvio Zanoli,Tomás Teijeiro,Fabio Montagna,David Atienza	10.23919/DATE48585.2020.9116498
+Explainable DRC Hotspot Prediction with Random Forest and SHAP Tree Explainer.	Wei Zeng 0015,Azadeh Davoodi,Rasit Onur Topaloglu	10.23919/DATE48585.2020.9116488
+A Pulse-width Modulation Neuron with Continuous Activation for Processing-In-Memory Engines.	Shuhang Zhang,Bing Li 0005,Hai Helen Li,Ulf Schlichtmann	10.23919/DATE48585.2020.9116323
+When Sorting Network Meets Parallel Bitstreams: A Fault-Tolerant Parallel Ternary Neural Network Accelerator based on Stochastic Computing.	Yawen Zhang,Sheng Lin 0001,Runsheng Wang,Yanzhi Wang,Yuan Wang 0001,Weikang Qian,Ru Huang	10.23919/DATE48585.2020.9116390
+Accurate Power Density Map Estimation for Commercial Multi-Core Microprocessors.	Jinwei Zhang,Sheriff Sadiqbatcha,Wentian Jin,Sheldon X.-D. Tan	10.23919/DATE48585.2020.9116545
+Computational Restructuring: Rethinking Image Processing using Memristor Crossbar Arrays.	Baogang Zhang,Necati Uysal,Rickard Ewetz	10.23919/DATE48585.2020.9116255
+BeLDPC: Bit Errors Aware Adaptive Rate LDPC Codes for 3D TLC NAND Flash Memory.	Meng Zhang,Fei Wu 0005,Qin Yu,Weihua Liu,Lanlan Cui,Yahui Zhao,Changsheng Xie	10.23919/DATE48585.2020.9116324
+Efficient Hardware-Assisted Crash Consistency in Encrypted Persistent Memory.	Zhan Zhang,Jianhui Yue,Xiaofei Liao,Hai Jin 0001	10.23919/DATE48585.2020.9116523
+Automated Generation of LTL Specifications For Smart Home IoT Using Natural Language.	Shiyu Zhang,Juan Zhai,Lei Bu,Mingsong Chen,Linzhang Wang,Xuandong Li	10.23919/DATE48585.2020.9116374
+A Machine Learning Based Write Policy for SSD Cache in Cloud Block Storage.	Yu Zhang 0101,Ke Zhou 0001,Ping Huang 0001,Hua Wang 0008,Jianying Hu,Yangtao Wang,Yongguang Ji,Bin Cheng	10.23919/DATE48585.2020.9116539
+MiniDelay: Multi-Strategy Timing-Aware Layer Assignment for Advanced Technology Nodes.	Xinghai Zhang,Zhen Zhuang,Genggeng Liu,Xing Huang,Wen-Hao Liu,Wenzhong Guo,Ting-Chi Wang	10.23919/DATE48585.2020.9116269
+HIT: A Hidden Instruction Trojan Model for Processors.	Jiaqi Zhang,Ying Zhang 0040,Huawei Li 0001,Jianhui Jiang	10.23919/DATE48585.2020.9116228
+A Spectral Approach to Scalable Vectorless Thermal Integrity Verification.	Zhiqiang Zhao,Zhuo Feng	10.23919/DATE48585.2020.9116438
+Design of Almost-Nonvolatile Embedded DRAM Using Nanoelectromechanical Relay Devices.	Hongtao Zhong,Mingyang Gu,Juejian Wu,Huazhong Yang,Xueqing Li	10.23919/DATE48585.2020.9116237
+Accuracy Analysis for Stochastic Circuits with D Flip-Flop Insertion.	Kuncai Zhong,Weikang Qian	10.23919/DATE48585.2020.9116224
+Design of Multi-Output Switched-Capacitor Voltage Regulator via Machine Learning.	Zhiyuan Zhou,Syrine Belakaria,Aryan Deshwal,Wookpyo Hong,Janardhan Rao Doppa,Partha Pratim Pande,Deukhyoun Heo	10.23919/DATE48585.2020.9116413
+Statistical Training for Neuromorphic Computing using Memristor-based Crossbars Considering Process Variations and Noise.	Ying Zhu,Grace Li Zhang,Tianchen Wang,Bing Li 0005,Yiyu Shi 0001,Tsung-Yi Ho,Ulf Schlichtmann	10.23919/DATE48585.2020.9116244
+LightBulb: A Photonic-Nonvolatile-Memory-based Accelerator for Binarized Convolutional Neural Networks.	Farzaneh Zokaee,Qian Lou,Nathan Youngblood,Weichen Liu,Yiyuan Xie,Lei Jiang 0001	10.23919/DATE48585.2020.9116494
+Security Enhancement for RRAM Computing System through Obfuscating Crossbar Row Connections.	Minhui Zou,Zhenhua Zhu,Yi Cai 0003,Junlong Zhou,Chengliang Wang,Yu Wang 0002	10.23919/DATE48585.2020.9116549
+2020 Design, Automation &amp; Test in Europe Conference &amp; Exhibition, DATE 2020, Grenoble, France, March 9-13, 2020		

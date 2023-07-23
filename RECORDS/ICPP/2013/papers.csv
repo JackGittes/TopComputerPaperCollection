@@ -1,0 +1,120 @@
+A Server Model for Reliable Communication on Cell/B.E.	Rui Zhou 0005,Huaming Chen,Qun Liu,Yong Sheng,Qingguo Zhou,Xuan Wang,Kuan-Ching Li	10.1109/ICPP.2013.121
+Is Source-Code Isolation Viable for Performance Characterization?	Chadi Akel,Yuriy Kashnikov,Pablo de Oliveira Castro,William Jalby	10.1109/ICPP.2013.116
+Reformulated Conjugate Gradient for the Energy-Aware Solution of Linear Systems on GPUs.	José Ignacio Aliaga,Joaquín Pérez,Enrique S. Quintana-Ortí,Hartwig Anzt	10.1109/ICPP.2013.41
+Analytical Energy Models for MPI Communications on a Sandy-Bridge Architecture.	Francisco Almeida,Vicente Blanco Pérez,Isidro Gonzalez,Alberto Cabrera Pérez,Domingo Giménez	10.1109/ICPP.2013.103
+A Generalized Mutual Exclusion Problem and Its Algorithm.	Aoxueluo,Weigang Wu,Jiannong Cao 0001,Michel Raynal	10.1109/ICPP.2013.39
+An Efficient Deterministic Parallel Algorithm for Adaptive Multidimensional Numerical Integration on GPUs.	Kamesh Arumugam,Alexander N. Godunov,Desh Ranjan,Balsa Terzic,Mohammad Zubair	10.1109/ICPP.2013.59
+A Dynamic Moldable Job Scheduling Based Parallel SAT Solver.	Sajjad Asghar,Eric Aubanel,David Bremner	10.1109/ICPP.2013.20
+Parallel Birth and Death Process for Cell Nuclei Extraction in Histopathology Images.	Christophe Avenel,Pierre Fortin 0001,Dominique Béréziat	10.1109/ICPP.2013.52
+Achieving Speedup in Aggregate Risk Analysis Using Multiple GPUs.	Aman K. Bahl,Oliver Baltzer,Andrew Rau-Chaplin,Blesson Varghese,Aaron Whiteway	10.1109/ICPP.2013.108
+Scheduling Data Parallel Workloads - A Comparative Study of Two Common Algorithmic Approaches.	Mahadevan Balasubramaniam,Ioana Banicescu,Florina M. Ciorba	10.1109/ICPP.2013.94
+Read-Write Lock Allocation in Software Transactional Memory.	Amir Ghanbari Bavarsad,Ehsan Atoofian	10.1109/ICPP.2013.81
+Power-Aware Multi-data Center Management Using Machine Learning.	Josep Lluis Berral,Ricard Gavaldà,Jordi Torres	10.1109/ICPP.2013.102
+Event Streaming for Online Performance Measurements Reduction.	Jean-Baptiste Besnard,Marc Pérache,William Jalby	10.1109/ICPP.2013.117
+StreamMine3G OneClick - Deploy and Monitor ESP Applications with a Single Click.	Andrey Brito,André Martin,Christof Fetzer,Isabelly Rocha,Telles Nobrega	10.1109/ICPP.2013.120
+Protein Structure Prediction on GPU: A Declarative Approach in a Multi-agent Framework.	Federico Campeotto,Agostino Dovier,Enrico Pontelli	10.1109/ICPP.2013.57
+Mixed Model Universal Software Thread-Level Speculation.	Zhen Cao,Clark Verbrugge	10.1109/ICPP.2013.79
+A Secure Cloud-Based Payment Model for M-Commerce.	Tao-Ku Chang	10.1109/ICPP.2013.129
+Sampling-Based Phase Classification and Prediction for Multi-threaded Program Execution on Multi-core Architectures.	Chih-Hao Chang,Pangfeng Liu,Jan-Jan Wu	10.1109/ICPP.2013.44
+Mechanism of Automatic Deployment for Virtual Network Environment.	Min-Xiou Chen,Kuo-Le Mei	10.1109/ICPP.2013.126
+iTraffic: A Smartphone-based Traffic Information System.	Yi-Ta Chuang,Chih-Wei Yi,Yin-Chih Lu,Pei-Chuan Tsai	10.1109/ICPP.2013.109
+Automatic Extraction of Task-Level Parallelism for Heterogeneous MPSoCs.	Daniel Cordes,Olaf Neugebauer,Michael Engel,Peter Marwedel	10.1109/ICPP.2013.113
+A Framework for Performance-Aware Composition of Applications for GPU-Based Systems.	Usman Dastgeer,Christoph W. Keßler	10.1109/ICPP.2013.83
+Empirical Analysis of Space-Filling Curves for Scientific Computing Applications.	Daryl R. DeFord,Ananth Kalyanaraman	10.1109/ICPP.2013.26
+Parallel Radix Sort on the AMD Fusion Accelerated Processing Unit.	Michael C. Delorme,Tarek S. Abdelrahman,Chengyan Zhao	10.1109/ICPP.2013.43
+Hypergraph Sparsification and Its Application to Partitioning.	Mehmet Deveci,Kamer Kaya,Ümit V. Çatalyürek	10.1109/ICPP.2013.29
+A Push-Relabel-Based Maximum Cardinality Bipartite Matching Algorithm on GPUs.	Mehmet Deveci,Kamer Kaya,Bora Uçar,Ümit V. Çatalyürek	10.1109/ICPP.2013.11
+Characterizing Cloud Applications on a Google Data Center.	Sheng Di,Derrick Kondo,Franck Cappello	10.1109/ICPP.2013.56
+HyPHI - Task Based Hybrid Execution C++ Library for the Intel Xeon Phi Coprocessor.	Jirí Dokulil,Enes Bajrovic,Siegfried Benkner,Martin Sandrieser,Beverly Bachmayer	10.1109/ICPP.2013.37
+Adaptive Runtime Selection for GPU.	Jean-François Dollinger,Vincent Loechner	10.1109/ICPP.2013.16
+The DEEP Project - Pursuing Cluster-Computing in the Many-Core Era.	Norbert Eicker,Thomas Lippert,Thomas Moschny,Estela Suarez	10.1109/ICPP.2013.105
+Toward a Performance/Resilience Tool for Hardware/Software Co-design of High-Performance Computing Systems.	Christian Engelmann,Thomas J. Naughton	10.1109/ICPP.2013.114
+A NUMA-Aware Runtime Environment for the Actor Model.	Emilio Francesquini,Alfredo Goldman,Jean-François Méhaut	10.1109/ICPP.2013.34
+Efficient Routing Mechanisms for Dragonfly Networks.	Marina García,Enrique Vallejo 0001,Ramón Beivide,Miguel Odriozola,Mateo Valero	10.1109/ICPP.2013.72
+X-kaapi: A Multi Paradigm Runtime for Multicore Architectures.	Thierry Gautier,Fabien Le Mentec,Vincent Faucher,Bruno Raffin	10.1109/ICPP.2013.86
+Effects of Dynamic Voltage and Frequency Scaling on a K20 GPU.	Rong Ge 0002,Ryan Vogt,Jahangir Majumder,Arif Alam,Martin Burtscher,Ziliang Zong	10.1109/ICPP.2013.98
+Java with Auto-parallelization on Graphics Coprocessing Architecture.	Guodong Han,Chenggang Zhang,King Tin Lam,Cho-Li Wang	10.1109/ICPP.2013.62
+Enhancing Performance Portability of MPI Applications through Annotation-Based Transformations.	Md. Ziaul Haque,Qing Yi,James Dinan,Pavan Balaji	10.1109/ICPP.2013.77
+Intralayer Communication for Tree-Based Overlay Networks.	Tobias Hilbrich,Joachim Protze,Bronis R. de Supinski,Martin Schulz 0001,Matthias S. Müller,Wolfgang E. Nagel	10.1109/ICPP.2013.118
+Churn: A Key Effect on Real-World P2P Software.	Cheng-Yuan Ho,Ming-Chen Chung,Li-Hsing Yen,Chien-Chao Tseng	10.1109/ICPP.2013.23
+Efficient Data Redistribution Methods for Coupled Parallel Particle Codes.	Michael Hofmann 0002,Gudula Rünger	10.1109/ICPP.2013.13
+HAccRG: Hardware-Accelerated Data Race Detection in GPUs.	Anup Holey,Vineeth Mekkat,Antonia Zhai	10.1109/ICPP.2013.15
+Enhanced Resource Management Enabling Standard Parameter Sweep Jobs for Scientific Applications.	Sonja Holl,M. Shahbaz Memon,Bernd Schuller,Morris Riedel,Yassene Mohammed,Magnus Palmblad,Andrew S. Grimshaw	10.1109/ICPP.2013.92
+Handling Uncertainty: Pareto-Efficient BoT Scheduling on Hybrid Clouds.	M. Reza HoseinyFarahabady,Hamid R. Dehghani Samani,Luke M. Leslie,Young Choon Lee,Albert Y. Zomaya	10.1109/ICPP.2013.51
+Revisiting Server Energy Proportionality.	Chung-Hsing Hsu,Stephen W. Poole	10.1109/ICPP.2013.99
+Efficient Dissemination Algorithm for Scale-Free Topologies.	Ruijing Hu,Julien Sopena,Luciana Arantes,Pierre Sens 0001,Isabelle M. Demeure	10.1109/ICPP.2013.40
+Secure Homomorphic and Searchable Encryption in Ad Hoc Networks.	Scott C.-H. Huang,Qiao-Wei Lin,Chih-Kai Chang	10.1109/ICPP.2013.135
+A Heterogeneous Computing Framework for Computational Finance.	Gordon Inggs,David B. Thomas,Wayne Luk	10.1109/ICPP.2013.82
+Flow Migration on Multicore Network Processors: Load Balancing While Minimizing Packet Reordering.	Muhammad Faisal Iqbal,Jim Holt,Jee Ho Ryoo,Lizy K. John,Gustavo de Veciance	10.1109/ICPP.2013.24
+Pipelining/Overlapping Data Transfer for Distributed Data-Intensive Job Execution.	Eun-Sung Jung,Ketan Maheshwari,Rajkumar Kettimuthu	10.1109/ICPP.2013.93
+A Novel Functional Partitioning Approach to Design High-Performance MPI-3 Non-blocking Alltoallv Collective on Multi-core Systems.	Krishna Chaitanya Kandalla,Hari Subramoni,Karen Tomko,Dmitry Pekurovsky,Dhabaleswar K. Panda 0001	10.1109/ICPP.2013.75
+Energy-Efficient Leader Election Protocols for Single-Hop Radio Networks.	Marcin Kardas,Marek Klonowski,Dominik Pajak	10.1109/ICPP.2013.49
+An Optimal Offline Permutation Algorithm on the Hierarchical Memory Machine, with the GPU Implementation.	Akihiko Kasagi,Koji Nakano,Yasuaki Ito	10.1109/ICPP.2013.9
+Extending Battery Life of a Multi-buffered, Single-Threaded Processor in a Mobile Computing Device.	Rashid Khogali,Olivia Das	10.1109/ICPP.2013.96
+Relating Application Memory Activity to Processor Power.	Saman Khoshbakht,Nikitas Dimopoulos	10.1109/ICPP.2013.101
+Tiled QR Decomposition and Its Optimization on CPU and GPU Computing System.	Dongjin Kim,Kyu-Ho Park	10.1109/ICPP.2013.88
+Integration of a Highly Scalable, Multi-FPGA-Based Hardware Accelerator in Common Cluster Infrastructures.	Oliver Knodel,Andy Georgi,Patrick Lehmann 0001,Wolfgang E. Nagel,Rainer G. Spallek	10.1109/ICPP.2013.106
+Hardware-Specific Bare-Metal Microhypervisor Prototype.	Ivan Kolchin,Maxim Nikolaev,Stanislav Parfenov,Oleg Popkov,Sergey Sobolev	10.1109/ICPP.2013.123
+Integrating Multi-GPU Execution in an OpenACC Compiler.	Toshiya Komoda,Shinobu Miwa,Hiroshi Nakamura,Naoya Maruyama	10.1109/ICPP.2013.35
+Parallelization of Particle-in-Cell Codes for Nonlinear Kinetic Models from Mathematical Physics.	Matthias Korch,Tobias Ramming,Gerhard Rein	10.1109/ICPP.2013.65
+Cycles Embedding of Twisted Cubes.	Pao-Lien Lai,Kao-Lin Hu,Hong-Chun Hsu	10.1109/ICPP.2013.128
+Thermal-Aware Scheduling Collaborating with OS and Architecture.	Cheng-Yu Lee,Shuang-Jhu Yang,Rong-Guey Chang	10.1109/ICPP.2013.124
+A Prioritized Distributed Mutual Exclusion Algorithm Balancing Priority Inversions and Response Time.	Jonathan Lejeune,Luciana Arantes,Julien Sopena,Pierre Sens 0001	10.1109/ICPP.2013.38
+An Indoor Collaborative Pedestrian Dead Reckoning System.	Yi-Ting Li,Guaning Chen,Min-Te Sun	10.1109/ICPP.2013.110
+Discovery of Potential Parallelism in Sequential Programs.	Zhen Li 0005,Ali Jannesari,Felix Wolf 0001	10.1109/ICPP.2013.119
+Characterization of Input/Output Bandwidth Performance Models in NUMA Architecture for Data Intensive Applications.	Tan Li,Yufei Ren,Dantong Yu,Shudong Jin,Thomas G. Robertazzi	10.1109/ICPP.2013.46
+Compilers for Low Power with Design Patterns on Embedded Multicore Systems.	Cheng-Yen Lin,Chi-Bang Kuan,Jenq Kuen Lee	10.1109/ICPP.2013.125
+On Scientific Workflow Scheduling in Clouds under Budget Constraint.	Xiangyu Lin,Chase Qishi Wu	10.1109/ICPP.2013.18
+Secure PHR Access Control Scheme for Healthcare Application Clouds.	Chia-Hui Liu,Fong-Qi Lin,Dai-Lun Chiang,Tzer-Long Chen,Chin-Sheng Chen,Han-Yu Lin,Yu-Fang Chung,Tzer-Shyong Chen	10.1109/ICPP.2013.127
+WormPlanar: Topological Planarization Based Wormhole Detection in Wireless Networks.	Xiaopei Lu,Dezun Dong,Xiangke Liao	10.1109/ICPP.2013.61
+High-Performance Design of Hadoop RPC with RDMA over InfiniBand.	Xiaoyi Lu,Nusrat S. Islam,Md. Wasi-ur-Rahman,Jithin Jose,Hari Subramoni,Hao Wang 0002,Dhabaleswar K. Panda 0001	10.1109/ICPP.2013.78
+Load-Balanced Recovery Schemes for Single-Disk Failure in Storage Systems with Any Erasure Code.	Xianghong Luo,Jiwu Shu	10.1109/ICPP.2013.69
+Symbolic Analysis of Concurrency Errors in OpenMP Programs.	Hongyi Ma,Steve Diersen,Liqiang Wang,Chunhua Liao,Daniel J. Quinlan,Zijiang Yang 0006	10.1109/ICPP.2013.63
+On the Scalability of Constraint Programming on Hierarchical Multiprocessor Systems.	Rui Machado,Vasco Pedro,Salvador Abreu	10.1109/ICPP.2013.66
+AdELL: An Adaptive Warp-Balancing ELL Format for Efficient Sparse Matrix-Vector Multiplication on GPUs.	Marco Maggioni,Tanya Y. Berger-Wolf	10.1109/ICPP.2013.10
+Dynamic Server Provisioning for Carbon-Neutral Data Centers.	A. Hasan Mahmud,Shaolei Ren	10.1109/ICPP.2013.67
+A Diffusion-Based Processor Reallocation Strategy for Tracking Multiple Dynamically Varying Weather Phenomena.	Preeti Malakar,Vijay Natarajan,Sathish S. Vadhiyar,Ravi S. Nanjundiah	10.1109/ICPP.2013.14
+Efficient Forwarding of Producer-Consumer Data in Task-Based Programs.	Madhavan Manivannan,Anurag Negi,Per Stenström	10.1109/ICPP.2013.64
+AOmpLib: An Aspect Library for Large-Scale Multi-core Parallel Programming.	Bruno Medeiros,João L. Sobral	10.1109/ICPP.2013.36
+A Scalability Model for Distributed Resource Management in Real-Time Online Applications.	Dominik Meiländer,Sebastian Kottinger,Sergei Gorlatch	10.1109/ICPP.2013.90
+Expression Tree Evaluation by Dynamic Code Generation - Are Accelerators Up for the Task?	Thomas Müller 0001,Josef Weidendorfer,Andreas Blaszczyk	10.1109/ICPP.2013.32
+Development of Emergency Rescue Evacuation Support System (ERESS) in Panic-Type Disasters: Disaster Detection by Positioning Area of Terminals.	Takahumi Nakamura,Katsunori Kogo,Jun Fujimura,Kentaro Tsudaka,Tomotaka Wada,Kazuhiro Ohtsuki,Hiromi Okada	10.1109/ICPP.2013.111
+Distributed Shortcut Networks: Layout-Aware Low-Degree Topologies Exploiting Small-World Effect.	Van K. Nguyen,Nhat T. X. Le,Ikki Fujiwara,Michihiro Koibuchi	10.1109/ICPP.2013.71
+Inspector-Executor Load Balancing Algorithms for Block-Sparse Tensor Contractions.	David Ozog,Jeff R. Hammond,James Dinan,Pavan Balaji,Sameer Shende,Allen D. Malony	10.1109/ICPP.2013.12
+GPU Powered ROSA Analyzer.	Raúl Pardo,Fernando L. Pelayo,Pedro Valero-Lara	10.1109/ICPP.2013.107
+On the Merits of Distributed Work-Stealing on Selective Locality-Aware Tasks.	Jeeva Paudel,Olivier Tardieu,José Nelson Amaral	10.1109/ICPP.2013.19
+Efficient Inter-node MPI Communication Using GPUDirect RDMA for InfiniBand Clusters with NVIDIA GPUs.	Sreeram Potluri,Khaled Hamidouche,Akshay Venkatesh,Devendar Bureddy,Dhabaleswar K. Panda 0001	10.1109/ICPP.2013.17
+A Dynamic Resource Management System for Network-Attached Accelerator Clusters.	Suraj Prabhakaran,Mohsin Iqbal,Sebastian Rinke,Felix Wolf 0001	10.1109/ICPP.2013.91
+Hierarchical Parallel Matrix Multiplication on Large-Scale Distributed Memory Platforms.	Jean-Noël Quintin,Khalid Hasanov,Alexey L. Lastovetsky	10.1109/ICPP.2013.89
+Performance Evaluation of NAS Parallel Benchmarks on Intel Xeon Phi.	Arunmoezhi Ramachandran,Jérôme Vienne,Rob F. Van der Wijngaart,Lars Koesterke,Ilya Sharapov	10.1109/ICPP.2013.87
+Use of a Mobile Sink for Maximizing Data Collection in Energy Harvesting Sensor Networks.	Xiaojiang Ren,Weifa Liang,Wenzheng Xu	10.1109/ICPP.2013.53
+Efficient Offloading of Parallel Kernels Using MPI_Comm_Spawn.	Sebastian Rinke,Suraj Prabhakaran,Felix Wolf 0001	10.1109/ICPP.2013.104
+Temporal-Aware Mechanism to Detect Private Data in Chip Multiprocessors.	Alberto Ros,Blas Cuesta,María Engracia Gómez,Antonio Robles,José Duato	10.1109/ICPP.2013.70
+Finite-State Robots in a Warehouse: Achieving Linear Parallel Speedup While Rearranging Objects.	Arnold L. Rosenberg	10.1109/ICPP.2013.47
+A Flexible Approach to Staged Events.	Tiago Salmito,Ana Lúcia de Moura,Noemi de La Rocque Rodriguez	10.1109/ICPP.2013.80
+Predicting Execution Readiness of MPI Binaries with FEAM, a Framework for Efficient Application Migration.	Karolina Sarnowska-Upton,Andrew S. Grimshaw	10.1109/ICPP.2013.33
+Protocols for Fully Offloaded Collective Operations on Accelerated Network Adapters.	Timo Schneider,Torsten Hoefler,Ryan E. Grant,Brian W. Barrett,Ron Brightwell	10.1109/ICPP.2013.73
+Freeweb: P2P-Assisted Collaborative Censorship-Resistant Web Browsing.	Haiying Shen,Alex X. Liu,Lianyu Zhao	10.1109/ICPP.2013.22
+Simultaneous Finite Automata: An Efficient Data-Parallel Model for Regular Expression Matching.	Ryoma Sin&apos;ya,Kiminori Matsuzaki,Masataka Sassa	10.1109/ICPP.2013.31
+Fast Approximate Subgraph Counting and Enumeration.	George M. Slota,Kamesh Madduri	10.1109/ICPP.2013.30
+Engineering High-Performance Community Detection Heuristics for Massive Graphs.	Christian Staudt,Henning Meyerhenke	10.1109/ICPP.2013.27
+Performance Tuning on Multicore Systems for Feature Matching within Image Collections.	Xiaoxin Tang,Steven Mills,David M. Eyers,Zhiyi Huang 0001,Kai-Cheung Leung,Minyi Guo	10.1109/ICPP.2013.85
+Towards Hardware Realizations of Intelligent Systems: A Cortical Column Approach.	Anita Tino,Gul N. Khan,Fei Yuan 0005	10.1109/ICPP.2013.60
+A Power-Aware Study of Iris Matching Algorithms on Intel&apos;s SCC.	Gildo Torres,Jed Kao-Tung Chang,Fang Hua,Chen Liu 0001,Stephanie A. C. Schuckers	10.1109/ICPP.2013.122
+Prediction of Parallel Speed-Ups for Las Vegas Algorithms.	Charlotte Truchet,Florian Richoux,Philippe Codognet	10.1109/ICPP.2013.25
+Multiple-SPMD Programming Environment Based on PGAS and Workflow toward Post-petascale Computing.	Miwako Tsuji,Mitsuhisa Sato,Maxime R. Hugues,Serge G. Petiton	10.1109/ICPP.2013.58
+Application-Aware Workload Consolidation to Minimize Both Energy Consumption and Network Load in Cloud Environments.	Nikos Tziritas,Cheng-Zhong Xu 0001,Thanasis Loukopoulos,Samee Ullah Khan,Zhibin Yu 0001	10.1109/ICPP.2013.54
+Hierarchical Memory Buffering Techniques for an In-Memory Event Tracing Extension to the Open Trace Format 2.	Michael Wagner 0003,Andreas Knüpfer,Wolfgang E. Nagel	10.1109/ICPP.2013.115
+BlindDate: A Neighbor Discovery Protocol.	Keyu Wang,XuFei Mao,Yunhao Liu 0001	10.1109/ICPP.2013.21
+A Flexible Framework to Enhance RAID-6 Scalability via Exploiting the Similarities among MDS Codes.	Chentao Wu,Xubin He	10.1109/ICPP.2013.68
+HEUSPEC: A Software Speculation Parallel Model.	Fan Xu,Li Shen 0007,Zhiying Wang 0003,Hui Guo 0004,Bo Su,Wei Chen 0009	10.1109/ICPP.2013.76
+Exploiting Execution Order and Parallelism from Processing Flow Applying Pipeline-Based Programming Method on Manycore Accelerators.	Shinichi Yamagiwa,Ryo Jozaki,Shixun Zhang,Ryo Zaizen,Dewen Xu	10.1109/ICPP.2013.84
+Dynamic Content Adjustment in Mobile Ad Hoc Networks.	Shih-Rong Yang,Guaning Chen,Min-Te Sun	10.1109/ICPP.2013.112
+Efficient Information Dissemination in Dynamic Networks.	Zhiwei Yang 0004,Wei-Gang Wu,Yishun Chen,Jun Zhang 0003	10.1109/ICPP.2013.74
+Energy-Efficient Synthetic-Aperture Radar Processing on a Manycore Architecture.	Zain-ul-Abdin,Anders Ahlander,Bertil Svensson	10.1109/ICPP.2013.42
+ConMR: Concurrent MapReduce Programming Model for Large Scale Shared-Data Applications.	Fan Zhang 0003,Qutaibah M. Malluhi,Tamer M. Elsyed	10.1109/ICPP.2013.134
+A Model Based Load-Balancing Method in IaaS Cloud.	Zhenzhong Zhang,Limin Xiao,Yuan Tao,Ji Tian,Shouxin Wang,Hua Liu	10.1109/ICPP.2013.95
+Risk Intelligence: Profiting from Uncertainty in Data Processing System.	Si Zheng,Yunhuai Liu,Shanshan Li 0001,Tian He 0001,Xiangke Liao	10.1109/ICPP.2013.55
+Hysteresis Re-chunking Based Metadata Harnessing Deduplication of Disk Images.	Bing Zhou,Jiangtao Wen	10.1109/ICPP.2013.48
+Backing Up Your Data to the Cloud: Want to Pay Less?	Yingwu Zhu,Justin Masui	10.1109/ICPP.2013.50
+42nd International Conference on Parallel Processing, ICPP 2013, Lyon, France, October 1-4, 2013		

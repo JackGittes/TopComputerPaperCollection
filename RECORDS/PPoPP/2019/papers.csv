@@ -1,0 +1,61 @@
+Implementing parallel and concurrent tree structures.	Yihan Sun 0001	10.1145/3293883.3302576
+Provably and practically efficient granularity control.	Umut A. Acar	10.1145/3293883.3295725
+Blockchain abstract data type: poster.	Emmanuelle Anceaume	10.1145/3293883.3303705
+Engineering a high-performance GPU B-Tree.	Muhammad A. Awad	10.1145/3293883.3295706
+Encapsulated open nesting for STM: fine-grained higher-level conflict detection.	Martin Bättig	10.1145/3293883.3295723
+Performance portable C++ programming with RAJA.	David Beckingsale	10.1145/3293883.3302577
+Making concurrent algorithms detectable: poster.	Naama Ben-David	10.1145/3293883.3299991
+Building parallel programming language constructs in the AbleC extensible C compiler framework: a PPoPP tutorial.	Travis Carlson	10.1145/3293883.3302574
+Optimizing computation-communication overlap in asynchronous task-based programs: poster.	Emilio Castillo	10.1145/3293883.3295720
+A distributed hypervisor for resource aggregation: poster.	Yubin Chen	10.1145/3293883.3295715
+Verifying C11 programs operationally.	Simon Doherty	10.1145/3293883.3295702
+Exploiting the input sparsity to accelerate deep neural networks: poster.	Xiao Dong	10.1145/3293883.3295713
+Modular transactions: bounding mixed races in space and time.	Brijesh Dongol	10.1145/3293883.3295708
+BASMAT: bottleneck-aware sparse matrix-vector multiplication auto-tuning on GPGPUs.	Athena Elafrou	10.1145/3293883.3301490
+LOFT: lock-free transactional data structures.	Avner Elizarov	10.1145/3293883.3301491
+Stretching the capacity of hardware transactional memory in IBM POWER architectures.	Ricardo Filipe	10.1145/3293883.3295714
+Throughput-oriented GPU memory allocation.	Isaac Gelado	10.1145/3293883.3295727
+Data-flow/dependence profiling for structured transformations.	Fabian Gruber	10.1145/3293883.3295737
+A GPU memory efficient speed-up scheme for training ultra-deep neural networks: poster.	Jinrong Guo	10.1145/3293883.3295718
+Incremental flattening for nested data parallelism.	Troels Henriksen	10.1145/3293883.3295707
+Beyond human-level accuracy: computational challenges in deep learning.	Joel Hestness	10.1145/3293883.3295710
+A round-efficient distributed betweenness centrality algorithm.	Loc Hoang	10.1145/3293883.3295729
+Adaptive sparse tiling for sparse matrix multiplication.	Changwan Hong	10.1145/3293883.3295712
+QTLS: high-performance TLS asynchronous offload framework with Intel® QuickAssist technology.	Xiaokang Hu	10.1145/3293883.3295705
+Profiling based out-of-core hybrid method for large neural networks: poster.	Yuki Ito	10.1145/3293883.3298790
+Toward efficient architecture-independent algorithms for dynamic programs: poster.	Mohammad Mahdi Javanmard	10.1145/3293883.3299109
+Accelerating distributed stochastic gradient descent with adaptive periodic parameter averaging: poster.	Peng Jiang 0004	10.1145/3293883.3299818
+Creating repeatable, reusable experimentation pipelines with popper: tutorial.	Ivo Jimenez	10.1145/3293883.3302575
+A specialized B-tree for concurrent datalog evaluation.	Herbert Jordan	10.1145/3293883.3295719
+High-throughput image alignment for connectomics using frugal snap judgments: poster.	Tim Kaler	10.1145/3293883.3301495
+Scheduling HPC workloads on heterogeneous-ISA architectures: poster.	Mohamed Lamine Karaoui	10.1145/3293883.3295717
+Lock-free channels for programming via communicating sequential processes: poster.	Nikita Koval	10.1145/3293883.3297000
+Corrected trees for reliable group communication.	Martin Küttler	10.1145/3293883.3295721
+GPOP: a cache and memory-efficient framework for graph processing over partitions.	Kartik Lakhotia	10.1145/3293883.3299108
+A coordinated tiling and batching framework for efficient GEMM on GPUs.	Xiuhong Li	10.1145/3293883.3295734
+A pattern based algorithmic autotuner for graph processing on GPUs.	Ke Meng	10.1145/3293883.3295716
+Programming quantum computers: a primer with IBM Q and D-Wave exercises.	Frank Mueller 0001	10.1145/3293883.3302578
+Automated multi-dimensional elasticity for streaming runtimes: poster.	Xiang Ni	10.1145/3293883.3301492
+Compiler-assisted adaptive program scheduling in big.LITTLE systems: poster.	Marcelo Novaes	10.1145/3293883.3301493
+GOPipe: a granularity-oblivious programming framework for pipelined stencil executions on GPU.	Chanyoung Oh	10.1145/3293883.3301494
+Checking linearizability using hitting families.	Burcu Kulahcioglu Ozkan	10.1145/3293883.3295726
+High performance distributed deep learning: a beginner&apos;s guide.	Dhabaleswar K. Panda 0001	10.1145/3293883.3302260
+Processing transactions in a predefined order.	Mohamed M. Saad	10.1145/3293883.3295730
+Optimizing GPU programs by register demotion: poster.	Putt Sakdhnagool	10.1145/3293883.3297859
+Proactive work stealing for futures.	Kyle Singer	10.1145/3293883.3295735
+Optimizing graph processing on GPUs using approximate computing: poster.	Somesh Singh 0001	10.1145/3293883.3295736
+Managing application parallelism via parallel efficiency regulation: poster.	Sharanyan Srikanthan	10.1145/3293883.3301497
+VEBO: a vertex- and edge-balanced ordering heuristic to load balance parallel graph processing.	Jiawen Sun	10.1145/3293883.3295703
+Efficient race detection with futures.	Robert Utterback	10.1145/3293883.3295732
+Transitive joins: a sound and efficient online deadlock-avoidance policy.	Caleb Voss 0001	10.1145/3293883.3295724
+SEP-graph: finding shortest execution paths for graph processing under a hybrid framework on GPU.	Hao Wang 0002	10.1145/3293883.3295733
+Lightweight hardware transactional memory profiling.	Qingsen Wang	10.1145/3293883.3295728
+GPU-based 3D cryo-EM reconstruction with key-value streams: poster.	Kunpeng Wang	10.1145/3293883.3299992
+Adaptive sparse matrix-matrix multiplication on the GPU.	Martin Winter	10.1145/3293883.3295701
+S-EnKF: co-designing for scalable ensemble Kalman filter.	Junmin Xiao	10.1145/3293883.3295722
+CuLDA_CGS: solving large-scale LDA problems on GPUs.	Xiaolong Xie	10.1145/3293883.3301496
+T-thinker: a task-centric distributed framework for compute-intensive divide-and-conquer algorithms.	Da Yan 0001	10.1145/3293883.3295709
+Harmonia: a high throughput B+tree for GPUs.	Zhaofeng Yan	10.1145/3293883.3295704
+Leveraging hardware TM in Haskell.	Ryan Yates	10.1145/3293883.3295711
+Semantics-aware scheduling policies for synchronization determinism.	Qi Zhao 0003	10.1145/3293883.3295731
+Proceedings of the 24th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP 2019, Washington, DC, USA, February 16-20, 2019	Jeffrey K. Hollingsworth	10.1145/3293883

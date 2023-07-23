@@ -1,0 +1,94 @@
+Design of a low power multistandard transceiver chain based on current-reuse VCO.	Ye Zhang 0003,Jan Henning Mueller,Muh-Dey Wei,Ralf Wunderlich,Stefan Heinen	10.1109/SOCC.2014.6948961
+Benefits and costs of prediction based DVFS for NoCs at router level.	Cristinel Ababei,Nicholas Mastronarde	10.1109/SOCC.2014.6948937
+Flow control solution for efficient communication and congestion avoidance in NoC.	Ahmed Aldammas,Adel Soudani,Abdullah Al-Dhelaan	10.1109/SOCC.2014.6948922
+CM_ISA++: An instruction set for dynamic task scheduling units for more than 1000 cores.	Oliver Arnold,Benedikt Noethen,Gerhard P. Fettweis	10.1109/SOCC.2014.6948895
+Adaptive multicast routing method for 3D mesh-based Networks-on-Chip.	Poona Bahrebar,Azarakhsh Jalalvand,Dirk Stroobandt	10.1109/SOCC.2014.6948902
+Keynote speaker: &quot;The Internet of Every-Thing: EDA perspectives&quot;.	Tom Beckley	10.1109/SOCC.2014.6948889
+T2A: Clock implementation: A question of timing.	Gerard M. Blair	10.1109/SOCC.2014.6948882
+Evaluating mobile SOCs as an energy efficient DSP platform.	Matt Briggs,Payman Zarkesh-Ha	10.1109/SOCC.2014.6948943
+Plenary speaker.	Jeffrey D. Brown	10.1109/SOCC.2014.6948930
+Message from program chairs.	Thomas Büchner,Danella Zhao	10.1109/SOCC.2014.6948873
+Cost-optimal design of wireless pre-bonding test framework.	Unni Chandran,Dan Zhao	10.1109/SOCC.2014.6948948
+Thermal-aware memory management unit of 3D-stacked DRAM for 3D high definition (HD) video.	Chih-Yuan Chang,Po-Tsang Huang,Yi-Chun Chen,Tian-Sheuan Chang,Wei Hwang	10.1109/SOCC.2014.6948903
+A low supply voltage mixed-signal maximum power point tracking controller for photovoltaic power system.	Jun-Hua Chiang,Bin-Da Liu,Shih-Ming Chen,Hong-Tzer Yang	10.1109/SOCC.2014.6948912
+A 10-bit 250MS/s low-glitch binary-weighted digital-to-analog converter.	Fang-Ting Chou,Zong-Yi Chen,Chung-Chih Hung	10.1109/SOCC.2014.6948933
+An all-digital on-chip abnormal temperature warning sensor for dynamic thermal management.	Ching-Che Chung,Jhih-Wei Li	10.1109/SOCC.2014.6948931
+A 40nm 256kb 6T SRAM with threshold power-gating, low-swing global read bit-line, and charge-sharing write with Vtrip-tracking and negative source-line write-assists.	Chao-Kuei Chung,Chien-Yu Lu,Zhi-Hao Chang,Shyh-Jye Jou,Ching-Te Chuang,Ming-Hsien Tu,Yu-Hsian Chen,Yong-Jyun Hu,Paul-Sen Kan,Huan-Shun Huang,Kuen-Di Lee,Yung-Shin Kao	10.1109/SOCC.2014.6948972
+Resistorless on-die high voltage power supply noise measurement.	Raj S. Dua,Siddharth Katare,Narayanan Natarajan	10.1109/SOCC.2014.6948960
+A unique non-intrusive approach to non-ATE Based cul-de-sac SoC debug.	Vasant Easwaran,Virendra Bansal,Greg Shurtz,Rahul Gulati,Mihir N. Mody,Prashant Karandikar,Prithvi Shankar	10.1109/SOCC.2014.6948950
+Banquet speaker.	Paul Eremenko	10.1109/SOCC.2014.6948956
+Analysis of the current-voltage characteristics of Silicon on Ferroelectric Insulator Field Effect Transistor (SOF-FET).	Azzedin D. Es-Sakhi,Masud H. Chowdhury	10.1109/SOCC.2014.6948917
+Multichannel Tunneling Carbon Nanotube Field Effect Transistor (MT-CNTFET).	Azzedin D. Es-Sakhi,Masud H. Chowdhury	10.1109/SOCC.2014.6948918
+Comparative study of FinFETs versus 22nm bulk CMOS technologies: SRAM design perspective.	Hooman Farkhani,Ali Peiravi,Jens Kargaard Madsen,Farshad Moradi	10.1109/SOCC.2014.6948971
+A power efficient reconfigurable system-in-stack: 3D integration of accelerators, FPGAs, and DRAM.	Peter Gadfort,Aravind Dasu,Ali Akoglu,Yoon Kah Leow,Michael Fritze	10.1109/SOCC.2014.6948892
+Energy scalable approximate DCT architecture trading quality via boundary error-resiliency.	Bharat Garg,Nitesh K. Bharadwaj,G. K. Sharma 0001	10.1109/SOCC.2014.6948945
+Reducing the turn-on time and overshoot voltage for a diode-triggered silicon-controlled rectifier during an electrostatic discharge event.	Ahmed Ginawi,Tian Xia,Robert Gauthier 0002	10.1109/SOCC.2014.6948909
+Reliability aware logic synthesis through rewriting.	Satish Grandhi,Christian Spagnol,Jiaoyan Chen,Emanuel M. Popovici,Sorin Cotafona	10.1109/SOCC.2014.6948940
+Solar-supercapacitor harvesting system design for energy-aware applications.	Moeen Hassanalieragh,Tolga Soyata,Andrew Nadeau,Gaurav Sharma 0001	10.1109/SOCC.2014.6948941
+A low-power charge sharing hierarchical bitline and voltage-latched sense amplifier for SRAM macro in 28 nm CMOS technology.	Chi-Hao Hong,Yi-Wei Chiu,Jun-Kai Zhao,Shyh-Jye Jou,Wen-Tai Wang,Reed Lee	10.1109/SOCC.2014.6948919
+Multilayer layer graphene nanoribbon flash memory: Analysis of programming and erasing operation.	Nahid M. Hossain,Md Belayat Hossain,Masud H. Chowdhury	10.1109/SOCC.2014.6948894
+A clock generator based on multiplying delay-locked loop.	Chorng-Sii Hwang,Ting-Li Chu,Wen-Cheng Chen	10.1109/SOCC.2014.6948907
+Design of a 9-bit 1GS/s CMOS folding A/D converter with a boundary error reduction technique.	Jongyoon Hwang,Dongjoo Kim,Mun-Kyo Lee,Sun-Phil Nah,Minkyu Song	10.1109/SOCC.2014.6948904
+A framework for specifying, modeling, implementation and verification of SOC protocols.	Shahid Ikram,David Asher,Isam Akkawi,Jack Perveiler,Jim Ellis	10.1109/SOCC.2014.6948939
+A new design methodology for Voltage-to-Time Converters (VTCs) circuits suitable for Time-based Analog-to-Digital Converters (T-ADC).	M. Wagih Ismail,Hassan Mostafa	10.1109/SOCC.2014.6948908
+Microcells for ICA-SOC for remote sensing of high energy radiation.	Vijay K. Jain	10.1109/SOCC.2014.6948911
+Low-power high-speed on-chip asynchronous Wave-pipelined CML SerDes.	Ashok Jaiswal,Dominik walk,Yuan Fang,Klaus Hofmann	10.1109/SOCC.2014.6948891
+On circuit design of on-chip non-blocking interconnection networks.	Yikun Jiang,Mei Yang	10.1109/SOCC.2014.6948925
+Towards platform level power management in mobile systems.	David Kadjo,Ümit Y. Ogras,Raid Ayoub,Michael Kishinevsky,Paul Gratz	10.1109/SOCC.2014.6948916
+Variation-aware Flip-Flop energy optimization for ultra low voltage operation.	Tatsuya Kamakari,Shinichi Nishizawa,Tohru Ishihara,Hidetoshi Onodera	10.1109/SOCC.2014.6948893
+Wiring resource minimization for physically-complex Network-on-Chip architectures.	Nickvash Kani,Azad Naeemi	10.1109/SOCC.2014.6948938
+On designing circuit primitives for cortical processors with memristive hardware.	Dhireesha Kudithipudi,Cory E. Merkel,Yu Kee Ooi,Qutaiba Saleh,Garrett S. Rose	10.1109/SOCC.2014.6948957
+T4B: Formal verification in system-on-chip design: Scientific foundations and practical methodology.	Wolfgang Kunz,Dominik Stoffel,Joakim Urdahl	10.1109/SOCC.2014.6948888
+Methodology of exploring ESL/RTL many-core platforms for developing embedded parallel applications.	Jyu-Yuan Lai,Chih-Tsun Huang,Ting-Shuo Hsu,Jing-Jia Liou,Tung-Hua Yeh,Liang-Chia Cheng,Juin-Ming Lu	10.1109/SOCC.2014.6948942
+Design of a low power CMOS 10bit flash-SAR ADC.	Gi-Yoon Lee,Kwang Sub Yoon	10.1109/SOCC.2014.6948905
+Emerging memristor technology enabled next generation cortical processor.	Hai Li 0001,Miao Hu,Xiaoxiao Liu 0001,Mengjie Mao,Chuandong Li 0001,Shukai Duan	10.1109/SOCC.2014.6948958
+Design and implementation of novel source synchronous interconnection in modern GPU chips.	Tao Li,Greg Sadowski	10.1109/SOCC.2014.6948913
+Networks on chip design for real-time systems.	Ali Mahdoum	10.1109/SOCC.2014.6948920
+Power aware parallel computing on asymmetric multiprocessor.	Sheheeda Manakkadu,Sourav Dutta,Nazeih M. Botros	10.1109/SOCC.2014.6948896
+IP watermark verification based on power consumption analysis.	Cédric Marchand 0002,Lilian Bossuet,Edward Jung	10.1109/SOCC.2014.6948949
+T4A: System-on-chip design using Tri-gate technology.	Andrew Marshall	10.1109/SOCC.2014.6948886
+A stochastic learning algorithm for neuromemristive systems.	Cory E. Merkel,Dhireesha Kudithipudi	10.1109/SOCC.2014.6948954
+A systematic methodology to design high power terahertz and submillimeter-wave amplifiers.	Siavash Moghadami,Farzaneh Jalaibidgoli,Shahab Ardalan	10.1109/SOCC.2014.6948906
+Compensating imperfections in RF-DAC based transmitters using LUT-based predistortion.	Bastian Mohr,Ye Zhang 0003,Jan Henning Mueller,Stefan Heinen	10.1109/SOCC.2014.6948946
+An energy efficient wireless Network-on-Chip using power-gated transceivers.	Hemanta Kumar Mondal,Sujay Deb	10.1109/SOCC.2014.6948935
+A 25.5mW 10Gb/s inductorless receiver with an adaptive front-end in 0.13 µm CMOS.	Sushrant Monga,Shouri Chatterjee	10.1109/SOCC.2014.6948968
+A low complexity multi standard dual band CMOS polar transmitter for smart utility networks.	Jan Henning Mueller,Ye Zhang 0003,Lei Liao,Aytac Atac,Zhimiao Chen,Bastian Mohr,Stefan Heinen	10.1109/SOCC.2014.6948967
+A reconfigurable 0-L1-L2 S-MASH2 modulator with high-level sizing and power estimation.	Abhilash K. N,M. B. Srinivas	10.1109/SOCC.2014.6948952
+MITH-Dyn: A multi Vth dynamic logic design style using mixed mode FinFETs.	Ramesh Nair,Ranga Vemuri	10.1109/SOCC.2014.6948915
+Design methodology of process variation tolerant D-Flip-Flops for low voltage circuit operation.	Shinichi Nishizawa,Tohru Ishihara,Hidetoshi Onodera	10.1109/SOCC.2014.6948897
+T2B: Carbon nanotubes and opportunities for wireless on-chip interconnect.	Alireza Nojeh,Partha Pratim Pande,André Ivanov	10.1109/SOCC.2014.6948884
+Flexible reconfigurable architecture for DSP applications.	Abdulfattah Mohammad Obeid,Syed Manzoor Qasim,Mohammed S. BenSaleh,Zied Marrakchi,Habib Mehrez,Heni Ghariani,Mohamed Abid	10.1109/SOCC.2014.6948927
+T3A: Design and managements of multiprocessor systems-on-chips.	Ümit Y. Ogras	10.1109/SOCC.2014.6948885
+T1B: Wireless NoC as interconnection backbone for multicore chips: Promises and challenges.	Partha Pratim Pande,Alireza Nojeh,André Ivanov	10.1109/SOCC.2014.6948883
+On wiring delays reduction of tree-based FPGA using 3-D fabric.	Vinod Pangracious,Mohamed Sahbi Marrakchi,Habib Mehrez,Zied Marrakchi	10.1109/SOCC.2014.6948901
+Run-time voltage detection circuit for 3-D IC power delivery.	Divya Pathak,Ioannis Savidis	10.1109/SOCC.2014.6948923
+Keynote speaker.	J. Thomas Pawlowski	10.1109/SOCC.2014.6948929
+A configurable packet classification architecture for Software-Defined Networking.	Keissy Guerra Perez,Xin Yang 0010,Sandra Scott-Hayward,Sakir Sezer	10.1109/SOCC.2014.6948953
+Comparison between optimal interconnection network in different 2D and 3D NoC structures.	Farzad Radfar,Masoud Zabihi,Reza Sarvari	10.1109/SOCC.2014.6948921
+DESSERT: DESign Space ExploRation Tool based on power and energy at System-Level.	Santhosh Kumar Rethinagiri,Oscar Palomar,Adrián Cristal,Osman S. Unsal,Michael M. Swift	10.1109/SOCC.2014.6948898
+Plenary speaker: &quot;SoCs for Mobile Applications: Systems from 0 MPH to over 100 MPH&quot;.	Scott Runner	10.1109/SOCC.2014.6948890
+Electromyograph data acquisition and application using Cypress Programmable System on Chip.	Shreeyash Salunke,Shreyas Darne,Keval Shah,Rishikesh Dhamapurkar	10.1109/SOCC.2014.6948910
+Very fast co-simulation model and accurate on-the-fly performance estimation methodology for heterogeneous MPSoC.	Nicolas Serna,François Verdier	10.1109/SOCC.2014.6948928
+Heterogeneous photonic Network-on-Chip with dynamic bandwidth allocation.	Ankit Shah,Naseef Mansoor,Ben Johnstone,Amlan Ganguly,Sonia Lopez-Alarcon	10.1109/SOCC.2014.6948936
+A body-bias based current sense amplifier for high-speed low-power embedded SRAMs.	Tahseen Shakir,Manoj Sachdev	10.1109/SOCC.2014.6948970
+Message from conference general chair.	Kaijian Shi	10.1109/SOCC.2014.6948872
+A novel ratioed logic style for faster subthreshold digital circuits based on 90 nm CMOS and below.	Weiwei Shi 0001,Oliver Chiu-sing Choy	10.1109/SOCC.2014.6948899
+A neural rehabilitation chip with neural recording, peak detection, spike rate counter, and biphasic neural stimulator.	Hongjiang Song,Chen Chen,Meng-Wei Lin,Kaijun Li,Jennifer Blain Christen	10.1109/SOCC.2014.6948965
+A CMOS self-powered monolithic light direction sensor with SAR ADC.	Hongjiang Song,Zhijian Lu,Tao Luo,Jennifer Blain Christen,Hongyi Wang	10.1109/SOCC.2014.6948900
+A new approach using symbolic analysis to compute path-dependent effective properties preserving hierarchy.	Sridhar Srinivasan,Ellis Cohen,Mark Hofmann	10.1109/SOCC.2014.6948963
+T3B: Recent advancements in fiber optic transmission enabled by highly integrated mixed signal SoC and advanced digital signal processing.	Han Sun	10.1109/SOCC.2014.6948887
+REFLEX: Reconfigurable logic for entropy extraction.	Vikram B. Suresh,Wayne P. Burleson	10.1109/SOCC.2014.6948951
+Memristor crossbar based multicore neuromorphic processors.	Tarek M. Taha,Raqibul Hasan,Chris Yakopcic	10.1109/SOCC.2014.6948959
+Time stretcher for a time-to-digital converter with a precisely matched current mirror.	Muhammad Tanveer,Johan Borg,Jonny Johansson	10.1109/SOCC.2014.6948932
+T1A: Opportunities and challenges for secure hardware and verifying trust in integrated circuits.	Mohammad Tehranipoor,Charles Knapp	10.1109/SOCC.2014.6948881
+SoC Scan-Chain verification utilizing FPGA-based emulation platform and SCE-MI interface.	Bill Jason Tomas,Yingtao Jiang,Mei Yang	10.1109/SOCC.2014.6948962
+Hardware architecture of an Internet Protocol Version 6 processor.	Boris Traskov,Ulrich Langenbach,Klaus Hofmann,Peter Gregorius	10.1109/SOCC.2014.6948926
+A highly sensitive ISFET using pH-to-current conversion for real-time DNA sequencing.	Mohammad M. Uzzal,Payman Zarkesh-Ha,Jeremy S. Edwards,Ezequiel Coelho,Priyanka Rawat	10.1109/SOCC.2014.6948964
+An accelerated successive approximation technique for analog to digital converter design.	Haibo Wang 0005,Ram Harshvardhan Radhakrishnan	10.1109/SOCC.2014.6948934
+PVT-aware digital controlled voltage regulator design for ultra-low-power (ULP) DVFS systems.	Pei-Chen Wu,Yi-Ping Kuo,Chung-Shiang Wu,Ching-Te Chuang,Yuan-Hua Chu,Wei Hwang	10.1109/SOCC.2014.6948914
+High-frequency and power-efficiency ultrasound beam-forming processor for handheld applications.	Guo-Zua Wu,Song-Nien Tang,Chih-Chi Chang,Chien-Ju Lee,Kuan-Hsien Lin,Oscal T.-C. Chen	10.1109/SOCC.2014.6948966
+Errors in solving inverse problem for reversing RTN effects on VCCmin shift in SRAM reliability screening test designs.	Hiroyuki Yamauchi,Worawit Somha	10.1109/SOCC.2014.6948947
+A hardware acceleration scheme for memory-efficient flow processing.	Xin Yang 0010,Sakir Sezer,Shane O&apos;Neill	10.1109/SOCC.2014.6948969
+New quantization error assessment methodology for fixed-point pipeline FFT processor design.	Chen Yang 0003,Yizhuang Xie,He Chen,Yi Deng 0005	10.1109/SOCC.2014.6948944
+Collision array based workload assignment for Network-on-Chip concurrency.	He Zhou,Linda S. Powers,Janet Roveda	10.1109/SOCC.2014.6948924
+27th IEEE International System-on-Chip Conference, SOCC 2014, Las Vegas, NV, USA, September 2-5, 2014	Kaijian Shi,Thomas Büchner,Danella Zhao,Ramalingam Sridhar	

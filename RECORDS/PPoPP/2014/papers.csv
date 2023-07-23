@@ -1,0 +1,47 @@
+Data structures for task-based priority scheduling.	Martin Wimmer 0003	10.1145/2555243.2555278
+Provably good scheduling for parallel programs that use data structures through implicit batching.	Kunal Agrawal	10.1145/2555243.2555284
+Parallelization hints via code skeletonization.	Cfir Aguston	10.1145/2555243.2555275
+Singe: leveraging warp specialization for high performance on GPUs.	Michael Bauer 0001	10.1145/2555243.2555258
+Detecting silent data corruption through data dynamic monitoring for scientific applications.	Leonardo Arturo Bautista-Gomez	10.1145/2555243.2555279
+A general technique for non-blocking trees.	Trevor Brown 0001	10.1145/2555243.2555267
+A decomposition for in-place matrix transposition.	Bryan Catanzaro	10.1145/2555243.2555253
+Efficient search for inputs causing high floating-point errors.	Wei-Fan Chiang	10.1145/2555243.2555265
+Resilient X10: efficient failure-aware programming.	David Cunningham	10.1145/2555243.2555248
+Time-warp: lightweight abort minimization in transactional memory.	Nuno Lourenco Diegues	10.1145/2555243.2555259
+Practical concurrent binary search trees via logical ordering.	Dana Drachsler	10.1145/2555243.2555269
+Race directed scheduling of concurrent programs.	Mahdi Eslamimehr	10.1145/2555243.2555263
+Automatic semantic locking.	Guy Golan-Gueta	10.1145/2555243.2555281
+Optimistic transactional boosting.	Ahmed Hassan	10.1145/2555243.2555283
+Well-structured futures and cache locality.	Maurice Herlihy	10.1145/2555243.2555257
+21st century computer architecture.	Mark D. Hill	10.1145/2555243.2558890
+Extracting logical structure and identifying stragglers in parallel execution traces.	Katherine E. Isaacs	10.1145/2555243.2555288
+Infrastructure-free logging and replay of concurrent execution on multiple cores.	Kyu Hyung Lee	10.1145/2555243.2555274
+Task mapping stencil computations for non-contiguous allocations.	Vitus J. Leung	10.1145/2555243.2555277
+A tool to analyze the performance of multithreaded programs on NUMA architectures.	Xu Liu 0001	10.1145/2555243.2555271
+PREDATOR: predictive false sharing detection.	Tongping Liu	10.1145/2555243.2555244
+Efficient deterministic multithreading without global barriers.	Kai Lu	10.1145/2555243.2555252
+Initial study of multi-endpoint runtime for MPI+OpenMP hybrid programming model on multi-core systems.	Miao Luo	10.1145/2555243.2555287
+Theoretical analysis of classic algorithms on highly-threaded many-core GPUs.	Lin Ma 0007	10.1145/2555243.2555285
+Parallelizing dynamic programming through rank convergence.	Saeed Maleki	10.1145/2555243.2555264
+Revisiting loop fusion in the polyhedral framework.	Sanyam Mehta	10.1145/2555243.2555250
+Fast concurrent lock-free binary search trees.	Aravind Natarajan	10.1145/2555243.2555256
+Eliminating global interpreter locks in ruby through hardware transactional memory.	Rei Odaira	10.1145/2555243.2555247
+Beyond parallel programming with domain specific languages.	Kunle Olukotun	10.1145/2555243.2557966
+Leveraging hardware message passing for efficient thread synchronization.	Darko Petrovic	10.1145/2555243.2555251
+Lock contention aware thread migrations.	Kishore Kumar Pusukuri	10.1145/2555243.2555273
+Towards fair and efficient SMP virtual machine scheduling.	Jia Rao	10.1145/2555243.2555246
+Triolet: a programming system that unifies algorithmic skeleton interfaces for high-performance cluster computing.	Christopher I. Rodrigues	10.1145/2555243.2555268
+Heterogeneous computing: what does it mean for compiler research?	Norm Rubin	10.1145/2555243.2558891
+Trace driven dynamic deadlock detection and reproduction.	Malavika Samak	10.1145/2555243.2555262
+Fine-grain parallel megabase sequence comparison with multiple heterogeneous GPUs.	Edans F. de O. Sandes	10.1145/2555243.2555280
+Designing and auto-tuning parallel 3-D FFT for computation-communication overlap.	Sukhyun Song	10.1145/2555243.2555249
+In-place transposition of rectangular matrices on accelerators.	I-Jui Sung	10.1145/2555243.2555266
+X10 and APGAS at Petascale.	Olivier Tardieu	10.1145/2555243.2555245
+Concurrency testing using schedule bounding: an empirical study.	Paul Thomson	10.1145/2555243.2555260
+A practical wait-free simulation for lock-free data structures.	Shahar Timnat	10.1145/2555243.2555261
+SCCMulti: an improved parallel strongly connected components algorithm.	Daniel Tomkins	10.1145/2555243.2555286
+Concurrency bug localization using shared memory access pairs.	Wenwen Wang 0001	10.1145/2555243.2555276
+yaSpMV: yet another SpMV framework on GPUs.	Shengen Yan	10.1145/2555243.2555255
+Portable, MPI-interoperable coarray fortran.	Chaoran Yang	10.1145/2555243.2555270
+CUDA-NP: realizing nested thread-level parallelism in GPGPU applications.	Yi Yang 0018	10.1145/2555243.2555254
+ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP &apos;14, Orlando, FL, USA, February 15-19, 2014	José E. Moreira	10.1145/2555243

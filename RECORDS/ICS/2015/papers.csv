@@ -1,0 +1,44 @@
+CSR5: An Efficient Storage Format for Cross-Platform Sparse Matrix-Vector Multiplication.	Weifeng Liu 0002,Brian Vinter	10.1145/2751205.2751209
+zFENCE: Data-less Coherence for Efficient Fences.	Shaizeen Aga,Abhayendra Singh,Satish Narayanasamy	10.1145/2751205.2751211
+SemCache++: Semantics-Aware Caching for Efficient Multi-GPU Offloading.	Nabeel AlSaber,Milind Kulkarni 0001	10.1145/2751205.2751210
+Unique Worker model for OpenMP.	Raghesh Aloor,V. Krishna Nandivada	10.1145/2751205.2751238
+PeerWave: Exploiting Wavefront Parallelism on GPUs with Peer-SM Synchronization.	Mehmet E. Belviranli,Peng Deng,Laxmi N. Bhuyan,Rajiv Gupta 0001,Qi Zhu 0002	10.1145/2751205.2751243
+Parameterized Diamond Tiling for Stencil Computations with Chapel parallel iterators.	Ian J. Bertolacci,Catherine Olschanowsky,Ben Harshbarger,Bradford L. Chamberlain,David G. Wonnacott,Michelle Mills Strout	10.1145/2751205.2751226
+Active Access: A Mechanism for High-Performance Distributed Data-Centric Computations.	Maciej Besta,Torsten Hoefler	10.1145/2751205.2751219
+Datacenter Efficiency: What&apos;s Next?	Ricardo Bianchini	10.1145/2751205.2751207
+Optimizing Overlapped Memory Accesses in User-directed Vectorization.	Diego Caballero,Sara Royuela,Roger Ferrer,Alejandro Duran,Xavier Martorell	10.1145/2751205.2751224
+Automatic Parallelization of Kernels in Shared-Memory Multi-GPU Nodes.	Javier Cabezas,Lluís Vilanova,Isaac Gelado,Thomas B. Jablin,Nacho Navarro,Wen-mei W. Hwu	10.1145/2751205.2751218
+History-Assisted Adaptive-Granularity Caches (HAAG$) for High Performance 3D DRAM Architectures.	Ke Chen 0020,Sheng Li 0007,Jung Ho Ahn,Naveen Muralimanohar,Jishen Zhao,Cong Xu,Seongil O,Yuan Xie 0001,Jay B. Brockman,Norman P. Jouppi	10.1145/2751205.2751227
+Criticality-Aware Dynamic Task Scheduling for Heterogeneous Architectures.	Kallia Chronaki,Alejandro Rico,Rosa M. Badia,Eduard Ayguadé,Jesús Labarta,Mateo Valero	10.1145/2751205.2751235
+Streaming Task Parallelism.	Albert Cohen 0001	10.1145/2751205.2751208
+Real-Time In-Memory Checkpointing for Future Hybrid Memory Systems.	Shen Gao,Bingsheng He,Jianliang Xu	10.1145/2751205.2751212
+Optimistic Delinearization of Parametrically Sized Arrays.	Tobias Grosser,Jagannathan Ramanujam,Louis-Noël Pouchet,P. Sadayappan,Sebastian Pop	10.1145/2751205.2751248
+MODESTO: Data-centric Analytic Optimization of Complex Stencil Programs on Heterogeneous Architectures.	Tobias Gysi,Tobias Grosser,Torsten Hoefler	10.1145/2751205.2751223
+GreenPar: Scheduling Parallel High Performance Applications in Green Datacenters.	Md. E. Haque,Iñigo Goiri,Ricardo Bianchini,Thu D. Nguyen	10.1145/2751205.2751221
+Hadoop+: Modeling and Evaluating the Heterogeneity for MapReduce Applications in Heterogeneous Clusters.	Wenting He,Huimin Cui,Binbin Lu,Jiacheng Zhao,Shengmei Li,Gong Ruan,Jingling Xue,Xiaobing Feng 0002,Wensen Yang,Youliang Yan	10.1145/2751205.2751236
+ASPaS: A Framework for Automatic SIMDization of Parallel Sorting on x86-based Many-core Processors.	Kaixi Hou,Hao Wang 0002,Wu-chun Feng	10.1145/2751205.2751247
+Building Fuel Powered Supercomputing Data Center at Low Cost.	Yiqing Hua,Chao Li 0009,Weichao Tang,Li Jiang 0002,Xiaoyao Liang	10.1145/2751205.2751215
+Mower: A New Design for Non-blocking Misprediction Recovery.	Zhaoxiang Jin,Görkem Asilioglu,Soner Önder	10.1145/2751205.2751228
+DASX: Hardware Accelerator for Software Data Structures.	Snehasish Kumar,Naveen Vedula,Arrvindh Shriraman,Vijayalakshmi Srinivasan	10.1145/2751205.2751231
+COMPASS: A Framework for Automated Performance Modeling and Prediction.	Seyong Lee,Jeremy S. Meredith,Jeffrey S. Vetter	10.1145/2751205.2751220
+Fine-Grained Synchronizations and Dataflow Programming on GPUs.	Ang Li 0006,Gert-Jan van den Braak,Henk Corporaal,Akash Kumar 0001	10.1145/2751205.2751232
+Locality-Driven Dynamic GPU Cache Bypassing.	Chao Li 0004,Shuaiwen Leon Song,Hongwen Dai,Albert Sidelnik,Siva Kumar Sastry Hari,Huiyang Zhou	10.1145/2751205.2751237
+FAST: A Fast Stencil Autotuning Framework Based On An Optimal-solution Space Model.	Yulong Luo,Guangming Tan,Zeyao Mo,Ninghui Sun	10.1145/2751205.2751214
+PALMOS: A Transparent, Multi-tasking Acceleration Layer for Parallel Heterogeneous Systems.	Christos Margiolas,Michael F. P. O&apos;Boyle	10.1145/2751205.2751217
+STAPL-RTS: An Application Driven Runtime System.	Ioannis Papadopoulos 0001,Nathan L. Thomas,Adam Fidel,Nancy M. Amato,Lawrence Rauchwerger	10.1145/2751205.2751233
+Exploiting Process Imbalance to Improve MPI Collective Operations in Hierarchical Systems.	Benjamin S. Parsons,Vijay S. Pai	10.1145/2751205.2751242
+Automatic Selection of Sparse Matrix Representation on GPUs.	Naser Sedaghati,Te Mu,Louis-Noël Pouchet,Srinivasan Parthasarathy 0001,P. Sadayappan	10.1145/2751205.2751244
+Automatically Scalable Computation.	Margo I. Seltzer	10.1145/2751205.2751206
+Exascaling Your Library: Will Your Implementation Meet Your Expectations?	Sergei Shudler,Alexandru Calotoiu,Torsten Hoefler,Alexandre Strube,Felix Wolf 0001	10.1145/2751205.2751216
+Quantifying Performance Bottlenecks of Stencil Computations Using the Execution-Cache-Memory Model.	Holger Stengel,Jan Treibig,Georg Hager,Gerhard Wellein	10.1145/2751205.2751240
+A Nested Partitioning Algorithm for Adaptive Meshes on Heterogeneous Clusters.	Hari Sundar,Omar Ghattas	10.1145/2751205.2751246
+PaCMap: Topology Mapping of Unstructured Communication Patterns onto Non-contiguous Allocations.	Ozan Tuncer,Vitus J. Leung,Ayse K. Coskun	10.1145/2751205.2751225
+DaCache: Memory Divergence-Aware GPU Cache Management.	Bin Wang 0019,Weikuan Yu,Xian-He Sun,Xinning Wang	10.1145/2751205.2751239
+Enabling and Exploiting Flexible Task Assignment on GPU through SM-Centric Program Transformations.	Bo Wu 0002,Guoyang Chen,Dong Li 0001,Xipeng Shen,Jeffrey S. Vetter	10.1145/2751205.2751213
+A Stall-Aware Warp Scheduling for Dynamically Optimizing Thread-level Parallelism in GPGPUs.	Yulong Yu,Weijun Xiao,Xubin He,He Guo 0001,Yuxin Wang,Xin Chen 0032	10.1145/2751205.2751234
+Composing Algorithmic Skeletons to Express High-Performance Scientific Applications.	Mani Zandifar,Mustafa Abdul Jabbar,Alireza Majidi,David E. Keyes,Nancy M. Amato,Lawrence Rauchwerger	10.1145/2751205.2751241
+Underprovisioning the Grid Power Infrastructure for Green Datacenters.	Xu Zhou,Qiang Cao 0001,Hong Jiang 0001,Changsheng Xie	10.1145/2751205.2751222
+Towards Lightweight and Swift Storage Resource Management in Big Data Cloud Era.	Ruijin Zhou,Huixiang Chen 0001,Tao Li 0006	10.1145/2751205.2751230
+Leveraging Silicon-Photonic NoC for Designing Scalable GPUs.	Amir Kavyan Ziabari,José L. Abellán,Rafael Ubal,Chao Chen 0003,Ajay Joshi,David R. Kaeli	10.1145/2751205.2751229
+Automatic Energy Efficient Parallelization of Uniform Dependence Computations.	Yun Zou,Sanjay V. Rajopadhye	10.1145/2751205.2751245
+Proceedings of the 29th ACM on International Conference on Supercomputing, ICS&apos;15, Newport Beach/Irvine, CA, USA, June 08 - 11, 2015	Laxmi N. Bhuyan,Fred Chong,Vivek Sarkar	

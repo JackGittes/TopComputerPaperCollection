@@ -1,0 +1,27 @@
+SPEICHER: Securing LSM-based Key-Value Stores using Shielded Execution.	Maurice Bailleu,Jörg Thalheim,Pramod Bhatotia,Christof Fetzer,Michio Honda,Kapil Vaswani	
+Optimizing Systems for Byte-Addressable NVM by Reducing Bit Flipping.	Daniel Bittman,Darrell D. E. Long,Peter Alvaro,Ethan L. Miller	
+Sliding Look-Back Window Assisted Data Chunk Rewriting for Improving Deduplication Restore Performance.	Zhichao Cao 0002,Shiyong Liu,Fenggang Wu,Guohua Wang,Bingzhe Li,David H. C. Du	
+Speculative Encryption on GPU Applied to Cryptographic File Systems.	Vandeir Eduardo,Luis Carlos Erpen De Bona,Wagner M. Nunan Zola	
+Large-Scale Graph Processing on Emerging Storage Devices.	Nima Elyasi,Changho Choi,Anand Sivasubramaniam	
+Software Wear Management for Persistent Memories.	Vaibhav Gogte,William Wang,Stephan Diestelhorst,Aasheesh Kolli,Peter M. Chen,Satish Narayanasamy,Thomas F. Wenisch	
+Sketching Volume Capacities in Deduplicated Storage.	Danny Harnik,Moshik Hershcovitch,Yosef Shatsky,Amir Epstein,Ronen I. Kat	
+Automatic, Application-Aware I/O Forwarding Resource Allocation.	Xu Ji,Bin Yang,Tianyu Zhang,Xiaosong Ma,Xiupeng Zhu,Xiyang Wang,Nosayba El-Sayed,Jidong Zhai,Weiguo Liu,Wei Xue	
+Pay Migration Tax to Homeland: Anchor-based Scalable Reference Counting for Multicores.	Seokyong Jung,Jong-Bin Kim,Minsoo Ryu,Sooyong Kang,Hyungsoo Jung 0001	
+Cluster storage systems gotta have HeART: improving storage efficiency by exploiting disk-reliability heterogeneity.	Saurabh Kadekodi,K. V. Rashmi,Gregory R. Ganger	
+SLM-DB: Single-Level Key-Value Store with Persistent Memory.	Olzhas Kaiyrakhmet,Songyi Lee,Beomseok Nam,Sam H. Noh,Young-ri Choi	
+Storage Gardening: Using a Virtualization Layer for Efficient Defragmentation in the WAFL File System.	Ram Kesavan,Matthew Curtis-Maury,Vinay Devadas,Kesari Mishra	
+Design Tradeoffs for SSD Reliability.	Bryan S. Kim,Jongmoo Choi,Sang Lyul Min	
+Fully Automatic Stream Management for Multi-Streamed SSDs Using Program Contexts.	Taejin Kim,Duwon Hong,Sangwook Shane Hahn,Myoungjun Chun,Sungjin Lee 0001,Joo Young Hwang,Jongyoul Lee,Jihong Kim 0001	
+Reaping the performance of fast NVM storage with uDepot.	Kornilios Kourtis,Nikolas Ioannou,Ioannis Koltsidas	
+GraphOne: A Data Store for Real-time Analytics on Evolving Graphs.	Pradeep Kumar,H. Howie Huang	
+OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems.	Xiaolu Li 0002,Runhui Li,Patrick P. C. Lee,Yuchong Hu	
+DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching.	Zaoxing Liu,Zhihao Bai,Zhenming Liu,Xiaozhou Li,Changhoon Kim,Vladimir Braverman,Xin Jin 0008,Ion Stoica	
+Write-Optimized Dynamic Hashing for Persistent Memory.	Moohyeon Nam,Hokeun Cha,Young-ri Choi,Sam H. Noh,Beomseok Nam	
+INSTalytics: Cluster Filesystem Co-design for Big-data Analytics.	Muthian Sivathanu,Midhul Vuppalapati,Bhargav S. Gulavani,Kaushik Rajan,Jyoti Leeka,Jayashree Mohan,Piyus Kedia	
+ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems.	Cesar A. Stuardo,Tanakorn Leesatapornwongsa,Riza O. Suminto,Huan Ke,Jeffrey F. Lukman,Wei-Chiu Chuang,Shan Lu 0001,Haryadi S. Gunawi	
+Orion: A Distributed File System for Non-Volatile Main Memory and RDMA-Capable Networks.	Jian Yang,Joseph Izraelevitz,Steven Swanson	
+GearDB: A GC-free Key-Value Store on HM-SMR Drives with Gear Compaction.	Ting Yao,Jiguang Wan,Ping Huang 0001,Yiwen Zhang,Zhiwen Liu,Changsheng Xie,Xubin He	
+Finesse: Fine-Grained Feature Locality based Fast Resemblance Detection for Post-Deduplication Delta Compression.	Yucheng Zhang,Wen Xia,Dan Feng 0001,Hong Jiang 0001,Yu Hua 0001,Qiang Wang 0035	
+Ziggurat: A Tiered File System for Non-Volatile Main Memories and Disks.	Shengan Zheng,Morteza Hoseinzadeh,Steven Swanson	
+Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques.	Tianli Zhou,Chao Tian 0002	
+17th USENIX Conference on File and Storage Technologies, FAST 2019, Boston, MA, February 25-28, 2019.	Arif Merchant,Hakim Weatherspoon	

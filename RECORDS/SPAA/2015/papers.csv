@@ -1,0 +1,45 @@
+Access to Data and Number of Iterations: Dual Primal Algorithms for Maximum Matching under Resource Constraints.	Kook Jin Ahn,Sudipto Guha	10.1145/2755573.2755586
+ThreadScan: Automatic and Scalable Memory Reclamation.	Dan Alistarh,William M. Leiserson,Alexander Matveev,Nir Shavit	10.1145/2755573.2755600
+Practical Massively Parallel Sorting.	Michael Axtmann,Timo Bingmann,Peter Sanders 0001,Christian Schulz 0003	10.1145/2755573.2755595
+Speed Scaling in the Non-clairvoyant Model.	Yossi Azar,Nikhil R. Devanur,Zhiyi Huang 0002,Debmalya Panigrahi	10.1145/2755573.2755582
+Brief Announcement: Hypergraph Partitioning for Parallel Sparse Matrix-Matrix Multiplication.	Grey Ballard,Alex Druinsky,Nicholas Knight,Oded Schwartz	10.1145/2755573.2755613
+Self-Stabilizing Repeated Balls-into-Bins.	Luca Becchetti,Andrea E. F. Clementi,Emanuele Natale,Francesco Pasquale,Gustavo Posta	10.1145/2755573.2755584
+Cost-Oblivious Reallocation for Scheduling and Planning.	Michael A. Bender,Martin Farach-Colton,Sándor P. Fekete,Jeremy T. Fineman,Seth Gilbert	10.1145/2755573.2755589
+Sorting with Asymmetric Read and Write Costs.	Guy E. Blelloch,Jeremy T. Fineman,Phillip B. Gibbons,Yan Gu 0001,Julian Shun	10.1145/2755573.2755604
+Myths and Misconceptions about Threads.	Hans-Juergen Boehm	10.1145/2755573.2764966
+Space and Time Efficient Parallel Graph Decomposition, Clustering, and Diameter Approximation.	Matteo Ceccarello,Andrea Pietracaprina,Geppino Pucci,Eli Upfal	10.1145/2755573.2755591
+Brief Announcement: New Streaming Algorithms for Parameterized Maximal Matching &amp; Beyond.	Rajesh Hemant Chitnis,Graham Cormode,Hossein Esfandiari,MohammadTaghi Hajiaghayi,Morteza Monemizadeh	10.1145/2755573.2755618
+Efficient Memory Management for Lock-Free Data Structures with Optimistic Access.	Nachshon Cohen,Erez Petrank	10.1145/2755573.2755579
+Seer: Probabilistic Scheduling for Hardware Transactional Memory.	Nuno Diegues,Paolo Romano 0002,Stoyan Garbatov	10.1145/2755573.2755578
+Race Detection in Two Dimensions.	Dimitar K. Dimitrov 0002,Martin T. Vechev,Vivek Sarkar	10.1145/2755573.2755601
+Better Deterministic Online Packet Routing on Grids.	Guy Even,Moti Medina,Boaz Patt-Shamir	10.1145/2755573.2755588
+Randomized Local Network Computing.	Laurent Feuilloley,Pierre Fraigniaud	10.1145/2755573.2755596
+Scheduling Non-Unit Jobs to Minimize Calibrations.	Jeremy T. Fineman,Brendan Sheridan	10.1145/2755573.2755605
+Branch-Avoiding Graph Algorithms.	Oded Green,Marat Dukhan,Richard W. Vuduc	10.1145/2755573.2755580
+A Top-Down Parallel Semisort.	Yan Gu 0001,Julian Shun,Yihan Sun 0001,Guy E. Blelloch	10.1145/2755573.2755597
+Brief Announcement: Efficient Approximation Algorithms for Computing k Disjoint Restricted Shortest Paths.	Longkun Guo,Kewen Liao,Hong Shen 0001,Peng Li	10.1145/2755573.2755608
+Distributed Backup Placement in Networks.	Magnús M. Halldórsson,Sven Köhler 0001,Boaz Patt-Shamir,Dror Rawitz	10.1145/2755573.2755583
+Temporal Fairness of Round Robin: Competitive Analysis for Lk-norms of Flow Time.	Sungjin Im,Janardhan Kulkarni,Benjamin Moseley	10.1145/2755573.2755581
+Brief Announcement: Fast and Better Distributed MapReduce Algorithms for k-Center Clustering.	Sungjin Im,Benjamin Moseley	10.1145/2755573.2755607
+Scheduling in Bandwidth Constrained Tree Networks.	Sungjin Im,Benjamin Moseley	10.1145/2755573.2755576
+Electing a Leader in Wireless Networks Quickly Despite Jamming.	Marek Klonowski,Dominik Pajak	10.1145/2755573.2755602
+Brief Announcement: Towards a Universal Approach for the Finite Departure Problem in Overlay Networks.	Andreas Koutsopoulos,Christian Scheideler,Thim Strothmann	10.1145/2755573.2755614
+Efficiently Detecting Races in Cilk Programs That Use Reducer Hyperobjects.	I-Ting Angelina Lee,Tao B. Schardl	10.1145/2755573.2755599
+Brief Announcement: Local Computation Algorithms for Graphs of Non-Constant Degrees.	Reut Levi,Ronitt Rubinfeld,Anak Yodpinyanee	10.1145/2755573.2755615
+Parallel Computation of Persistent Homology using the Blowup Complex.	Ryan Lewis,Dmitriy Morozov	10.1145/2755573.2755587
+Transactional Acceleration of Concurrent Data Structures.	Yujie Liu,Tingzhe Zhou,Michael F. Spear	10.1145/2755573.2755598
+Online Caching with Convex Costs: Extended Abstract.	Ishai Menache,Mohit Singh	10.1145/2755573.2755585
+The Revolution in Graph Theoretic Optimization Problems.	Gary L. Miller	10.1145/2755573.2764965
+Improved Parallel Algorithms for Spanners and Hopsets.	Gary L. Miller,Richard Peng,Adrian Vladu,Shen Chen Xu	10.1145/2755573.2755574
+Brief Announcement: Managing Resource Limitation of Best-Effort HTM.	Mohamed Mohamedin,Roberto Palmieri,Ahmed Hassan,Binoy Ravindran	10.1145/2755573.2755611
+Brief Announcement: On Scheduling Best-Effort HTM Transactions.	Mohamed Mohamedin,Roberto Palmieri,Binoy Ravindran	10.1145/2755573.2755612
+Brief Announcement: Fair Adaptive Parallelism for Concurrent Transactional Memory Applications.	Amin Mohtasham,João Pedro Barreto 0002	10.1145/2755573.2755609
+Fault Tolerant BFS Structures: A Reinforcement-Backup Tradeoff.	Merav Parter,David Peleg	10.1145/2755573.2755590
+Minimizing the Total Weighted Completion Time of Coflows in Datacenter Networks.	Zhen Qiu,Cliff Stein 0001,Yuan Zhong	10.1145/2755573.2755592
+Brief Announcement: MultiQueues: Simple Relaxed Concurrent Priority Queues.	Hamza Rihani,Peter Sanders 0001,Roman Dementiev	10.1145/2755573.2755616
+The Cilkprof Scalability Profiler.	Tao B. Schardl,Bradley C. Kuszmaul,I-Ting Angelina Lee,William M. Leiserson,Charles E. Leiserson	10.1145/2755573.2755603
+Matrix Multiplication I/O-Complexity by Path Routing.	Jacob Scott,Olga Holtz,Oded Schwartz	10.1145/2755573.2755594
+Brief Announcement: A Compiler-Runtime Application Binary Interface for Pipe-While Loops.	Jim Sukha	10.1145/2755573.2755610
+Conflict Reduction in Hardware Transactions Using Advisory Locks.	Lingxiang Xiang,Michael L. Scott	10.1145/2755573.2755577
+Communication-Efficient Computation on Distributed Noisy Datasets.	Qin Zhang 0001	10.1145/2755573.2755575
+Proceedings of the 27th ACM on Symposium on Parallelism in Algorithms and Architectures, SPAA 2015, Portland, OR, USA, June 13-15, 2015	Guy E. Blelloch,Kunal Agrawal	10.1145/2755573

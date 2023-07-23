@@ -1,0 +1,66 @@
+APRON: Authenticated and Progressive System Image Renovation.	Sangho Lee 0001	
+The Hitchhiker&apos;s Guide to Operating Systems.	Yanyan Jiang 0001	
+SOWalker: An I/O-Optimized Out-of-Core Graph Processing System for Second-Order Random Walks.	Yutong Wu 0013,Zhan Shi 0001,Shicai Huang,Zhipeng Tian,Pengwei Zuo,Peng Fang,Dan Feng 0001	
+Change Management in Physical Network Lifecycle Automation.	Mohammad Al-Fares,Virginia Beauregard,Kevin Grant,Angus Griffith,Jahangir Hasan,Chen Huang,Quan Leng,Jiayao Li,Alexander Lin,Zhuotao Liu,Ahmed Mansy,Bill Martinusen,Nikil Mehta,Jeffrey C. Mogul,Andrew Narver,Anshul Nigham,Melanie Obenberger,Sean Smith,Kurt Steinkraus,Sheng Sun,Edward Thiele,Amin Vahdat	
+Decentralized and Stateful Serverless Computing on the Internet Computer Blockchain.	Maksym Arutyunyan,Andriy Berestovskyy,Adam Bratschi-Kaye,Ulan Degenbaev,Manu Drijvers,Islam El-Ashi,Stefan Kaestle,Roman Kashitsyn,Maciej Kot,Yvonne-Anne Pignolet,Rostislav Rumenov,Dimitris Sarlis,Alin Sinpalean,Alexandru Uta,Bogdan Warinschi,Alexandra Zapuc	
+Oakestra: A Lightweight Hierarchical Orchestration Framework for Edge Computing.	Giovanni Bartolomeo,Mehdi Yosofie,Simon Bäurle,Oliver Haluszczynski,Nitinder Mohan,Jörg Ott	
+Translation Pass-Through for Near-Native Paging Performance in VMs.	Shai Bergman,Mark Silberstein,Takahiro Shinagawa,Peter R. Pietzuch,Lluís Vilanova	
+oBBR: Optimize Retransmissions of BBR Flows on the Internet.	Pengqiang Bi,Mengbai Xiao,Dongxiao Yu,Guanghui Zhang	
+On-demand Container Loading in AWS Lambda.	Marc Brooker,Mike Danilov,Chris Greenwood,Phil Piwonka	
+EnvPipe: Performance-preserving DNN Training Framework for Saving Energy.	Sangjin Choi,Inhoe Koo,Jeongseob Ahn,Myeongjae Jeon,Youngjin Kwon	
+AutoARTS: Taxonomy, Insights and Tools for Root Cause Labelling of Incidents in Microsoft Azure.	Pradeep Dogga,Chetan Bansal,Richard Costleigh,Gopinath Jayagopal,Suman Nath,Xuchao Zhang	
+Avoiding the Ordering Trap in Systems Performance Measurement.	Dmitry Duplyakin,Nikhil Ramesh,Carina Imburgia,Hamza Fathallah Al Sheikh,Semil Jain,Prikshit Tekta,Aleksander Maricq,Gary Wong,Robert Ricci	
+VectorVisor: A Binary Translation Scheme for Throughput-Oriented GPU Acceleration.	Samuel Ginzburg,Mohammad Shahrad,Michael J. Freedman	
+Adaptive Online Cache Capacity Optimization via Lightweight Working Set Size Estimation at Scale.	Rong Gu,Simian Li,Haipeng Dai,Hancheng Wang,Yili Luo,Bin Fan,Ran Ben Basat,Ke Wang,Zhenyu Song,Shouwei Chen,Beinan Wang,Yihua Huang 0001,Guihai Chen	
+Cyclosa: Redundancy-Free Graph Pattern Mining via Set Dataflow.	Chuangyi Gui,Xiaofei Liao,Long Zheng 0003,Hai Jin 0001	
+SingularFS: A Billion-Scale Distributed File System Using a Single Metadata Server.	Hao Guo,Youyou Lu,Wenhao Lv,Xiaojian Liao,Shaoxun Zeng,Jiwu Shu	
+Pinolo: Detecting Logical Bugs in Database Management Systems with Approximate Query Synthesis.	Zongyin Hao,Quanfeng Huang,Chengpeng Wang,Jianfeng Wang,Yushan Zhang,Rongxin Wu,Charles Zhang	
+Luci: Loader-based Dynamic Software Updates for Off-the-shelf Shared Objects.	Bernhard Heinloth,Peter Wägemann,Wolfgang Schröder-Preikschat	
+Zhuque: Failure is Not an Option, it&apos;s an Exception.	George Hodgkins,Yi Xu,Steven Swanson,Joseph Izraelevitz	
+Lifting the veil on Meta&apos;s microservice architecture: Analyses of topology and request workflows.	Darby Huye,Yuri Shkuro,Raja R. Sambasivan	
+Distributed Transactions at Scale in Amazon DynamoDB.	Joseph Idziorek,Alex Keyes,Colin Lazier,Somu Perianayagam,Prithvi Ramanathan,James Christopher Sorenson III,Doug Terry,Akshat Vig	
+SAGE: Software-based Attestation for GPU Execution.	Andrei Ivanov,Benjamin Rothenberger,Arnaud Dethise,Marco Canini,Torsten Hoefler,Adrian Perrig	
+CXL-ANNS: Software-Hardware Collaborative Memory Disaggregation and Computation for Billion-Scale Approximate Nearest Neighbor Search.	Junhyeok Jang,Hanjin Choi,Hanyeoreum Bae,Seungjun Lee,Miryeong Kwon,Myoungsoo Jung	
+STYX: Exploiting SmartNIC Capability to Reduce Datacenter Memory Tax.	Houxiang Ji,Mark Mansi,Yan Sun,Yifan Yuan,Jinghan Huang,Reese Kuper,Michael M. Swift,Nam Sung Kim	
+Arbitor: A Numerically Accurate Hardware Emulation Tool for DNN Accelerators.	Chenhao Jiang,Anand Jayarajan,Hao Lu,Gennady Pekhimenko	
+EPF: Evil Packet Filter.	Di Jin,Vaggelis Atlidakis,Vasileios P. Kemerlis	
+Prefix Siphoning: Exploiting LSM-Tree Range Filters For Information Disclosure.	Adi Kaufman,Moshik Hershcovitch,Adam Morrison 0001	
+Portunus: Re-imagining Access Control in Distributed Systems.	Watson Ladd,Tanya Verma,Marloes Venema,Armando Faz-Hernández,Brendan McMillion,Avani Wildani,Nick Sullivan	
+GLogS: Interactive Graph Pattern Matching Query At Large Scale.	Longbin Lai,Yufan Yang,Zhibin Wang,Yuxuan Liu,Haotian Ma,Sijie Shen,Bingqing Lyu,Xiaoli Zhou,Wenyuan Yu,Zhengping Qian,Chen Tian 0001,Sheng Zhong 0002,Yeh-Ching Chung,Jingren Zhou	
+RubbleDB: CPU-Efficient Replication with NVMe-oF.	Haoyu Li,Sheng Jiang,Chen Chen,Ashwini Raina,Xingyu Zhu 0015,Changxu Luo,Asaf Cidon	
+Accelerating Distributed MoE Training and Inference with Lina.	Jiamin Li,Yimin Jiang,Yibo Zhu,Cong Wang 0001,Hong Xu	
+Bifrost: Analysis and Optimization of Network I/O Tax in Confidential Virtual Machines.	Dingji Li,Zeyu Mi,Chenhui Ji,Yifan Tan,Binyu Zang,Haibing Guan,Haibo Chen 0001	
+P2CACHE: Exploring Tiered Memory for In-Kernel File Systems Caching.	Zhen Lin,Lingfeng Xiang,Jia Rao,Hui Lu 0001	
+SecretFlow-SPU: A Performant and User-Friendly Framework for Privacy-Preserving Machine Learning.	Junming Ma,Yancheng Zheng,Jun Feng,Derun Zhao,Haoqi Wu,Wenjing Fang,Jin Tan,Chaofan Yu,Benyu Zhang,Lei Wang	
+TiDedup: A New Distributed Deduplication Architecture for Ceph.	Myoungwon Oh,Sungmin Lee,Samuel Just,Youngjin Yu,Duck-Ho Bae,Sage A. Weil,Sangyeun Cho,Heon Y. Yeom	
+LPNS: Scalable and Latency-Predictable Local Storage Virtualization for Unpredictable NVMe SSDs in Clouds.	Bo Peng,Cheng Guo,Jianguo Yao,Haibing Guan	
+AWARE: Automate Workload Autoscaling with Reinforcement Learning in Production Cloud Systems.	Haoran Qiu,Weichao Mao,Chen Wang 0039,Hubertus Franke,Alaa Youssef,Zbigniew T. Kalbarczyk,Tamer Basar,Ravishankar K. Iyer	
+Light-Dedup: A Light-weight Inline Deduplication Framework for Non-Volatile Memory File Systems.	Jiansheng Qiu,Yanqi Pan,Wen Xia,Xiaojia Huang,Wenjun Wu,Xiangyu Zou,Shiyi Li,Yu Hua 0001	
+Comosum: An Extensible, Reconfigurable, and Fault-Tolerant IoT Platform for Digital Agriculture.	Gloire Rubambiza,Shiang-Wan Chin,Mueed Rehman,Sachille Atapattu,José F. Martínez,Hakim Weatherspoon	
+UnFaaSener: Latency and Cost Aware Offloading of Functions from Serverless Platforms.	Ghazal Sadeghian,Mohamed Elsakhawy,Mohanna Shahrad,Joe Hattori,Mohammad Shahrad	
+Explore Data Placement Algorithm for Balanced Recovery Load Distribution.	Yingdi Shan,Kang Chen,Yongwei Wu	
+Bridging the Gap between Relational OLTP and Graph-based OLAP.	Sijie Shen,Zihang Yao,Lin Shi,Lei Wang,Longbin Lai,Qian Tao,Li Su,Rong Chen 0001,Wenyuan Yu,Haibo Chen 0001,Binyu Zang,Jingren Zhou	
+FarReach: Write-back Caching in Programmable Switches.	Siyuan Sheng,Huancheng Puyang,Qun Huang 0001,Lu Tang 0004,Patrick P. C. Lee	
+Nodens: Enabling Resource Efficient and Fast QoS Recovery of Dynamic Microservice Applications in Datacenters.	Jiuchen Shi,Hang Zhang,Zhixin Tong,Quan Chen 0002,Kaihua Fu,Minyi Guo	
+Towards Iterative Relational Algebra on the GPU.	Ahmedur Rahman Shovon,Thomas Gilray,Kristopher K. Micinski,Sidharth Kumar	
+Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks.	Won Wook Song,Taegeon Um,Sameh Elnikety,Myeongjae Jeon,Byung-Gon Chun	
+Legion: Automatically Pushing the Envelope of Multi-GPU System for Billion-Scale GNN Training.	Jie Sun,Li Su,Zuocheng Shi,Wenting Shen,Zeke Wang,Lei Wang,Jie Zhang,Yong Li,Wenyuan Yu,Jingren Zhou,Fei Wu	
+Decentralized Application-Level Adaptive Scheduling for Multi-Instance DNNs on Open Mobile Devices.	Hsin-Hsuan Sung,Jou-An Chen,Wei Niu,Jiexiong Guan,Bin Ren,Xipeng Shen	
+MELF: Multivariant Executables for a Heterogeneous World.	Dominik Töllner,Christian Dietrich 0001,Illia Ostapyshyn,Florian Rommel,Daniel Lohmann	
+Confidential Computing within an AI Accelerator.	Kapil Vaswani,Stavros Volos,Cédric Fournet,Antonio Nino Diaz,Ken Gordon,Balaji Vembu,Sam Webster,David Chisnall,Saurabh Kulkarni,Graham Cunningham,Richard Osborne,Dan Wilkinson	
+TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.	Yuke Wang,Boyuan Feng,Zheng Wang,Guyue Huang,Yufei Ding	
+Revisiting Secondary Indexing in LSM-based Storage Systems with Persistent Memory.	Jing Wang,Youyou Lu,Qing Wang 0031,Yuhao Zhang,Jiwu Shu	
+Efficient Memory Overcommitment for I/O Passthrough Enabled VMs via Fine-grained Page Meta-data Management.	Yaohui Wang,Ben Luo,Yibin Shen	
+Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent.	Qizhen Weng,Lingyun Yang,Yinghao Yu,Wei Wang 0030,Xiaochuan Tang,Guodong Yang,Liping Zhang	
+LLFree: Scalable and Optionally-Persistent Page-Frame Allocation.	Lars Wrenger,Florian Rommel,Alexander Halbuer,Christian Dietrich 0001,Daniel Lohmann	
+Overcoming the Memory Wall with CXL-Enabled SSDs.	Shao-Peng Yang,Minjae Kim,Sanghyun Nam,Juhyung Park,Jin-Yong Choi,Eyee Hyun Nam,Eunji Lee,Sungjin Lee,Bryan S. Kim	
+AAsclepius: Monitoring, Diagnosing, and Detouring at the Internet Peering Edge.	Kaicheng Yang,Yuanpeng Li,Sheng Long,Tong Yang 0003,Ruijie Miao,Yikai Zhao,Chaoyang Ji,Penghui Mi,Guodong Yang,Qiong Xie,Hao Wang,Yinhua Wang,Bo Deng,Zhiqiang Liao,Chengqiang Huang,Yongqiang Yang,Xiang Huang,Wei Sun,Xiaoping Zhu	
+zpoline: a system call hook mechanism based on binary rewriting.	Kenichi Yasukata,Hajime Tazaki,Pierre-Louis Aublin,Kenta Ishiguro	
+SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization.	Mingshu Zhai,Jiaao He,Zixuan Ma,Zan Zong,Runqing Zhang,Jidong Zhai	
+LoopDelta: Embedding Locality-aware Opportunistic Delta Compression in Inline Deduplication for Highly Efficient Data Reduction.	Yucheng Zhang,Hong Jiang 0001,Dan Feng 0001,Nan Jiang,Taorong Qiu,Wei Huang 0013	
+Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective.	Jia Zhang,Yixuan Zhang,Enhuan Dong,Yan Zhang,Shaorui Ren,Zili Meng,Mingwei Xu,Xiaotian Li,Zongzhi Hou,Zhicheng Yang,Xiaoming Fu 0001	
+Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training.	Mark Zhao,Satadru Pan,Niket Agarwal,Zhaoduo Wen,David Xu,Anand Natarajan,Pavan Kumar,Shiva Shankar P.,Ritesh Tijoriwala,Karan Asher,Hao Wu,Aarti Basant,Daniel Ford,Delia David,Nezih Yigitbasi,Pratap Singh,Carole-Jean Wu	
+Calcspar: A Contract-Aware LSM Store for Cloud Storage with Low Latency Spikes.	Yuanhui Zhou,Jian Zhou,Shuning Chen,Peng Xu,Peng Wu,Yanguang Wang,Xian Liu,Ling Zhan,Jiguang Wan	
+MSRL: Distributed Reinforcement Learning with Dataflow Fragments.	Huanzhou Zhu,Bo Zhao 0019,Gang Chen,Weifeng Chen,Yijie Chen,Liang Shi,Yaodong Yang 0001,Peter R. Pietzuch,Lei Chen	
+Deploying User-space TCP at Cloud Scale with LUNA.	Lingjun Zhu,Yifan Shen,Erci Xu,Bo Shi,Ting Fu,Shu Ma,Shuguang Chen,Zhongyu Wang,Haonan Wu,Xingyu Liao,Zhendan Yang,Zhongqing Chen,Wei Lin,Yijun Hou,Rong Liu,Chao Shi,Jiaji Zhu,Jiesheng Wu	
+2023 USENIX Annual Technical Conference, USENIX ATC 2023, Boston, MA, USA, July 10-12, 2023.	Julia Lawall,Dan Williams	

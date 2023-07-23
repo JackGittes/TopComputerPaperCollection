@@ -1,0 +1,51 @@
+Model Agnostic Time Series Analysis via Matrix Estimation.	Anish Agarwal,Muhammad Jehangir Amjad,Devavrat Shah,Dennis Shen	10.1145/3309697.3331479
+Crystal Gazer: Profile-Driven Write-Rationing Garbage Collection for Hybrid Memories.	Shoaib Akram 0001,Jennifer B. Sartor,Kathryn S. McKinley,Lieven Eeckhout	10.1145/3309697.3331492
+The Segmentation-Thickness Tradeoff in Online Marketplaces.	Reza Alijani,Siddhartha Banerjee,Sreenivas Gollapudi,Kostas Kollias,Kamesh Munagala	10.1145/3309697.3331519
+Optimizing the Cost of Executing Mixed Interactive and Batch Workloads on Transient VMs.	Pradeep Ambati,David E. Irwin 0001	10.1145/3309697.3331489
+mRSC: Multidimensional Robust Synthetic Control.	Muhammad Jehangir Amjad,Vishal Misra,Devavrat Shah,Dennis Shen	10.1145/3309697.3331507
+Dynamic Pricing of Relocating Resources in Large Networks: Extended Abstract.	Santiago R. Balseiro,David B. Brown,Chen Chen 0038	10.1145/3309697.3331512
+Hyper-Scalable JSQ with Sparse Feedback.	Mark van der Boor,Sem C. Borst,Johan van Leeuwaarden	10.1145/3309697.3331477
+Learning to Control Renewal Processes with Bandit Feedback.	Semih Cayci,Atilla Eryilmaz,Rayadurgam Srikant	10.1145/3309697.3331515
+Two Extensions of Kingman&apos;s GI/G/1 Bound.	Florin Ciucu,Felix Poloczek	10.1145/3309697.3331494
+Queue and Loss Distributions in Finite-Buffer Queues.	Florin Ciucu,Felix Poloczek,Amr Rizk	10.1145/3309697.3331496
+Computationally Efficient Estimation of the Spectral Gap of a Markov Chain.	Richard Combes,Mikael Touati	10.1145/3309697.3331486
+Online Optimization in Cloud Resource Provisioning: Predictions, Regrets, and Algorithms.	Joshua Comden,Sijie Yao,Niangjun Chen,Haipeng Xing,Zhenhua Liu 0002	10.1145/3309697.3331516
+Analysis of a Canonical Labeling Algorithm for the Alignment of Correlated Erdős-Rényi Graphs.	Osman Emre Dai,Daniel Cullina,Negar Kiyavash,Matthias Grossglauser	10.1145/3309697.3331505
+Demystifying Complex Workload-DRAM Interactions: An Experimental Study.	Saugata Ghose,Tianshi Li,Nastaran Hajinazar,Damla Senol Cali,Onur Mutlu	10.1145/3309697.3331482
+Load Balancing Guardrails: Keeping Your Heavy Traffic on the Road to Low Response Times.	Isaac Grosof,Ziv Scully,Mor Harchol-Balter	10.1145/3309697.3331514
+TeksDB: Weaving Data Structures for a High-Performance Key-Value Store.	Youil Han,Bryan S. Kim,Jeseong Yeon,Sungjin Lee 0001,Eunji Lee	10.1145/3309697.3331490
+Performance Analysis of Workload Dependent Load Balancing Policies.	Tim Hellemans,Tejas Bodas,Benny Van Houdt	10.1145/3309697.3331504
+Efficient Distributed Workload (Re-)Embedding.	Monika Henzinger,Stefan Neumann 0003,Stefan Schmid 0001	10.1145/3309697.3331503
+Learning Graphs from Noisy Epidemic Cascades.	Jessica H. Hoffmann,Constantine Caramanis	10.1145/3309697.3331511
+Global Attraction of ODE-based Mean Field Models with Hyperexponential Job Sizes.	Benny Van Houdt	10.1145/3309697.3331476
+A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State.	Lavanya Jose,Stephen Ibanez,Mohammad Alizadeh,Nick McKeown	10.1145/3309697.3331472
+Architecture-Aware Approximate Computing.	Mustafa Karaköy,Orhan Kislal,Xulong Tang,Mahmut Taylan Kandemir,Meenakshi Arunachalam	10.1145/3309697.3331508
+A TTL-based Approach for Data Aggregation in Geo-distributed Streaming Analytics.	Dhruv Kumar 0001,Jian Li 0008,Abhishek Chandra,Ramesh K. Sitaraman	10.1145/3309697.3331491
+Non-Markovian Monte Carlo on Directed Graphs.	Chul-Ho Lee,Min Kang,Do Young Eun	10.1145/3309697.3331510
+Competitive Online Optimization under Inventory Constraints.	Qiulin Lin,Hanling Yi,John Z. F. Pang,Minghua Chen 0001,Adam Wierman,Michael L. Honig,Yuanzhang Xiao	10.1145/3309697.3331495
+Proactive Caching for Low Access-Delay Services under Uncertain Predictions.	Ran Liu 0010,Edmund Yeh,Atilla Eryilmaz	10.1145/3309697.3331471
+Everything You Should Know about Intel SGX Performance on Virtualized Systems.	Tu Dinh Ngoc,Bao Bui,Stella Bitchebe,Alain Tchana,Valerio Schiavoni,Pascal Felber,Daniel Hagimont	10.1145/3309697.3331480
+Network Resilience Assessment via QoS Degradation Metrics: An Algorithmic Approach.	Lan N. Nguyen,My T. Thai	10.1145/3309697.3331470
+Retroactive Packet Sampling for Traffic Receipts.	Pavlos Nikolopoulos,Christos Pappas,Katerina J. Argyraki,Adrian Perrig	10.1145/3309697.3331485
+What-If Analysis of Page Load Time in Web Browsers Using Causal Profiling.	Behnam Pourghassemi,Ardalan Amiri Sani,Aparna Chandramowlishwaran	10.1145/3309697.3331483
+A New Flexible Multi-flow LRU Cache Management Paradigm for Minimizing Misses.	Guocong Quan,Jian Tan,Atilla Eryilmaz,Ness B. Shroff	10.1145/3309697.3331509
+PROFET: Modeling System Performance and Energy Without Simulating the CPU.	Milan Radulovic,Rommel Sánchez Verdejo,Paul M. Carpenter,Petar Radojkovic,Bruce L. Jacob,Eduard Ayguadé	10.1145/3309697.3331502
+Inferring Catchment in Internet Routing.	Pavlos Sermpezis,Vasileios Kotronis	10.1145/3309697.3331493
+On the Value of Look-Ahead in Competitive Online Convex Optimization.	Ming Shi,Xiaojun Lin 0001,Lei Jiao 0002	10.1145/3309697.3331474
+Securing Distributed Gradient Descent in High Dimensional Statistical Learning.	Lili Su,Jiaming Xu	10.1145/3309697.3331499
+Collaboratively Learning the Best Option on Graphs, Using Bounded Local Memory.	Lili Su,Martin Zubeldia,Nancy A. Lynch	10.1145/3309697.3331498
+Computing with Near Data.	Xulong Tang,Mahmut Taylan Kandemir,Hui Zhao 0013,Myoungsoo Jung,Mustafa Karaköy	10.1145/3309697.3331487
+Quantifying Data Locality in Dynamic Parallelism in GPUs.	Xulong Tang,Ashutosh Pattnaik,Onur Kayiran,Adwait Jog,Mahmut Taylan Kandemir,Chita R. Das	10.1145/3309697.3331473
+Random Walk Based Sampling for Load Balancing in Multi-Server Systems.	Dengwang Tang,Vijay G. Subramanian	10.1145/3309697.3331506
+The Bayesian Prophet: A Low-Regret Framework for Online Decision Making.	Alberto Vera,Siddhartha Banerjee	10.1145/3309697.3331518
+A Structural Result for Personalized PageRank and its Algorithmic Consequences.	Daniel Vial,Vijay G. Subramanian	10.1145/3309697.3331481
+QuickStop: A Markov Optimal Stopping Approach for Quickest Misinformation Detection.	Honghao Wei,Xiaohan Kang,Weina Wang,Lei Ying	10.1145/3309697.3331513
+HyperBench: A Benchmark Suite for Virtualization Capabilities.	Song Wei,Kun Zhang 0016,Bibo Tu	10.1145/3309697.3331478
+Information, Memory and Capacity in Dynamic Resource Allocation.	Kuang Xu,Yuan Zhong	10.1145/3309697.3331488
+Improved Queue-Size Scaling for Input-Queued Switches via Graph Factorization.	Jiaming Xu,Yuan Zhong	10.1145/3309697.3331497
+Analyzing Location-Based Advertising for Vehicle Service Providers Using Effective Resistances.	Haoran Yu,Ermin Wei,Randall A. Berry	10.1145/3309697.3331484
+Axiomatizing Congestion Control.	Doron Zarchy,Radhika Mittal,Michael Schapira,Scott Shenker	10.1145/3309697.3331501
+App in the Middle: Demystify Application Virtualization in Android and its Security Threats.	Lei Zhang 0096,Zhemin Yang,Yuyu He,Mingqi Li,Sen Yang,Min Yang 0002,Yuan Zhang 0009,Zhiyun Qian	10.1145/3309697.3331517
+Heavy-traffic Delay Optimality in Pull-based Load Balancing Systems: Necessary and Sufficient Conditions.	Xingyu Zhou 0001,Jian Tan,Ness B. Shroff	10.1145/3309697.3331500
+Understanding the Networking Performance of Wear OS.	Xiao Zhu 0001,Yihua Ethan Guo,Ashkan Nikravesh,Feng Qian 0001,Z. Morley Mao	10.1145/3309697.3331475
+Abstracts of the 2019 SIGMETRICS/Performance Joint International Conference on Measurement and Modeling of Computer Systems, Phoenix, AZ, USA, June 24-28, 2019.	Erich M. Nahum,Thomas Bonald,Nick Duffield	10.1145/3309697

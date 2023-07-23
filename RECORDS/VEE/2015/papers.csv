@@ -1,0 +1,18 @@
+PARS: A Page-Aware Replication System for Efficiently Storing Virtual Machine Snapshots.	Lei Cui 0003,Tianyu Wo,Bo Li 0005,Jianxin Li 0002,Bin Shi,Jinpeng Huai	10.1145/2731186.2731190
+Proactively Breaking Large Pages to Improve Memory Overcommitment Performance in VMware ESXi.	Fei Guo,Seongbeom Kim,Yury Baskakov,Ishan Banerjee	10.1145/2731186.2731187
+HeteroVisor: Exploiting Resource Heterogeneity to Enhance the Elasticity of Cloud Platforms.	Vishal Gupta 0001,Min Lee,Karsten Schwan	10.1145/2731186.2731191
+Improving Remote Desktopping Through Adaptive Record/Replay.	Shehbaz Jaffer,Piyush Kedia,Sorav Bansal	10.1145/2731186.2731193
+Hardware-Assisted Secure Resource Accounting under a Vulnerable Hypervisor.	Seongwook Jin,Jinho Seol,Jaehyuk Huh,Seungryoul Maeng	10.1145/2731186.2731203
+GPUswap: Enabling Oversubscription of GPU Memory through Transparent Swapping.	Jens Kehne,Jonathan Metter,Frank Bellosa	10.1145/2731186.2731192
+Application of Domain-aware Binary Fuzzing to Aid Android Virtual Machine Testing.	Stephen C. Kyle,Hugh Leather,Björn Franke,Dave Butcher,Stuart Monteith	10.1145/2731186.2731198
+Migration of Web Applications with Seamless Execution.	JinSeok Oh,Jin-woo Kwon,Hyukwoo Park,Soo-Mook Moon	10.1145/2731186.2731197
+A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces.	Jonas Pfefferle,Patrick Stuedi,Animesh Trivedi,Bernard Metzler,Ioannis Koltsidas,Thomas R. Gross	10.1145/2731186.2731200
+AppSec: A Safe Execution Environment for Security Sensitive Applications.	Jianbao Ren,Yong Qi,Yue-hua Dai,Xiaoguang Wang 0003,Yi Shi	10.1145/2731186.2731199
+Towards VM Consolidation Using a Hierarchy of Idle States.	Rayman Preet Singh,Tim Brecht,Srinivasan Keshav	10.1145/2731186.2731195
+Exploring VM Introspection: Techniques and Trade-offs.	Sahil Suneja,Canturk Isci,Eyal de Lara,Vasanth Bala	10.1145/2731186.2731196
+A Comprehensive Implementation and Evaluation of Direct Interrupt Delivery.	Cheng-Chun Tu,Michael Ferdman,Chao-Tang Lee,Tzi-cker Chiueh	10.1145/2731186.2731189
+A-DRM: Architecture-aware Distributed Resource Management of Virtualized Clusters.	Hui Wang,Canturk Isci,Lavanya Subramanian,Jongmoo Choi,Depei Qian,Onur Mutlu	10.1145/2731186.2731202
+HSPT: Practical Implementation and Efficient Management of Embedded Shadow Page Tables for Cross-ISA System Virtual Machines.	Zhe Wang 0017,Jianjun Li,Chenggang Wu 0002,Dongyan Yang,Zhenjiang Wang,Wei-Chung Hsu,Bin Li,Yong Guan	10.1145/2731186.2731188
+Supporting High Performance Molecular Dynamics in Virtualized Clusters using IOMMU, SR-IOV, and GPUDirect.	Andrew J. Younge,John Paul Walters,Stephen P. Crago,Geoffrey Charles Fox	10.1145/2731186.2731194
+PEMU: A Pin Highly Compatible Out-of-VM Dynamic Binary Instrumentation Framework.	Junyuan Zeng,Yangchun Fu,Zhiqiang Lin	10.1145/2731186.2731201
+Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, Istanbul, Turkey, March 14-15, 2015	Ada Gavrilovska,Angela Demke Brown,Bjarne Steensgaard	10.1145/2731186

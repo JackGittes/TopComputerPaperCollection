@@ -1,0 +1,27 @@
+Software prefetching for indirect memory accesses.	Sam Ainsworth 0001,Timothy M. Jones 0001	
+Taming warp divergence.	Jayvant Anantpur,R. Govindarajan	
+Formalizing the concurrency semantics of an LLVM fragment.	Soham Chakraborty 0001,Viktor Vafeiadis	
+Cross-ISA machine emulation for multicores.	Emilio G. Cota,Paolo Bonzini,Alex Bennée,Luca P. Carloni	
+Synthesizing benchmarks for predictive modeling.	Chris Cummins,Pavlos Petoumenos,Zheng Wang 0001,Hugh Leather	
+Optimistic loop optimization.	Johannes Doerfert,Tobias Grosser,Sebastian Hack	
+Removing checks in dynamically typed languages through efficient profiling.	Gem Dot,Alejandro Martínez,Antonio González 0001	
+A space- and energy-efficient code Compression/Decompression technique for coarse-grained reconfigurable architectures.	Bernhard Egger,Hochan Lee,Duseok Kang,Mansureh S. Moghaddam,Youngchul Cho,Yeonbok Lee,Sukjin Kim,Soonhoi Ha,Kiyoung Choi	
+Dynamic buffer overflow detection for GPGPUs.	Christopher Erb,Mike Collins,Joseph L. Greathouse	
+Discovery and exploitation of general reductions: a constraint based approach.	Philip Ginsbach,Michael F. P. O&apos;Boyle	
+TwinKernels: an execution model to improve GPU hardware scheduling at compile time.	Xiang Gong,Zhongliang Chen,Amir Kavyan Ziabari,Rafael Ubal,David R. Kaeli	
+Automatic detection of extended data-race-free regions.	Alexandra Jimborean,Jonatan Waern,Per Ekemark,Stefanos Kaxiras,Alberto Ros	
+ThinLTO: scalable and incremental LTO.	Teresa Johnson,Mehdi Amini,David Xinliang Li	
+A collaborative dependence analysis framework.	Nick P. Johnson,Jordan Fix,Stephen R. Beard,Taewook Oh,Thomas B. Jablin,David I. August	
+Pointer disambiguation via strict inequalities.	Maroua Maalej,Vitor Paisante,Pedro Ramos,Laure Gonnord,Fernando Magno Quintão Pereira	
+Phase-aware optimization in approximate computing.	Subrata Mitra,Manish K. Gupta,Sasa Misailovic,Saurabh Bagchi	
+Minimizing the cost of iterative compilation with active learning.	William F. Ogilvie,Pavlos Petoumenos,Zheng Wang 0001,Hugh Leather	
+Optimizing function placement for large-scale data-center applications.	Guilherme Ottoni,Bertrand Maher	
+Characterizing data organization effects on heterogeneous memory architectures.	Apan Qasem,Ashwin M. Aji,Gregory Rodgers	
+Incremental whole program optimization and compilation.	Patrick W. Sathyanathan,Wenlei He,Ten H. Tzen	
+Legato: end-to-end bounded region serializability using commodity hardware transactional memory.	Aritra Sengupta,Man Cao,Michael D. Bond,Milind Kulkarni 0001	
+Lift: a functional data-parallel IR for high-performance GPU code generation.	Michel Steuwer,Toomas Remmelg,Christophe Dubach	
+Automatic generation of fast BLAS3-GEMM: a portable compiler approach.	Xing Su,Xiangke Liao,Jingling Xue	
+Parallel associative reductions in halide.	Patricia Suriana,Andrew Adams,Shoaib Kamil 0001	
+Clairvoyance: look-ahead compile-time scheduling.	Kim-Anh Tran,Trevor E. Carlson,Konstantinos Koukos,Magnus Själander,Vasileios Spiliopoulos,Stefanos Kaxiras,Alexandra Jimborean	
+FinePar: irregularity-aware fine-grained workload partitioning on integrated architectures.	Feng Zhang 0007,Bo Wu 0002,Jidong Zhai,Bingsheng He,Wenguang Chen	
+Proceedings of the 2017 International Symposium on Code Generation and Optimization, CGO 2017, Austin, TX, USA, February 4-8, 2017	Vijay Janapa Reddi,Aaron Smith,Lingjia Tang	

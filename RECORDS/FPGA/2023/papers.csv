@@ -1,0 +1,51 @@
+Cyclone-NTT: An NTT/FFT Architecture Using Quasi-Streaming of Large Datasets on DDR- and HBM-based FPGA Platforms.	Kaveh Aasaraai,Emanuele Cesena,Rahul Maganti,Nicolas Stalder,Javier Varela,Kevin Bowers	10.1145/3543622.3573143
+Compiler Support for Structured Data.	Saman P. Amarasinghe	10.1145/3543622.3578887
+Exploring the Versal AI Engines for Accelerating Stencil-based Atmospheric Advection Simulation.	Nick Brown 0002	10.1145/3543622.3573047
+Accelerating Neural-ODE Inference on FPGAs with Two-Stage Structured Pruning and History-based Stepsize Search.	Lei Cai,Jing Wang,Lianfeng Yu,Bonan Yan,Yaoyu Tao,Yuchao Yang	10.1145/3543622.3573044
+A Flexible Toolflow for Mapping CNN Models to High Performance FPGA-based Accelerators.	Yongzheng Chen,Gang Wu 0007	10.1145/3543622.3573131
+Graph-OPU: An FPGA-Based Overlay Processor for Graph Neural Networks.	Ruiqi Chen,Haoyang Zhang,Yuhanxiao Ma,Enhao Tang,Shun Li,Yanxiang Zhu,Jun Yu,Kun Wang 0005	10.1145/3543622.3573152
+Weave: Abstraction for Accelerator Integration of Generated Modules.	Tuo Dai,Bizhao Shi,Guojie Luo	10.1145/3543622.3573176
+FPGAs and Their Evolving Role in Domain Specific Architectures: A Case Study of the AMD 400G Adaptive SmartNIC/DPU SoC.	Jaideep Dastidar	10.1145/3543622.3578888
+Turn on, Tune in, Listen up: Maximizing Side-Channel Recovery in Time-to-Digital Converters.	Colin Drewes,Olivia Weng,Keegan Ryan,Bill Hunter,Christopher McCarty,Ryan Kastner,Dustin Richmond	10.1145/3543622.3573193
+FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs.	Linfeng Du,Tingyuan Liang,Sharad Sinha,Zhiyao Xie,Wei Zhang 0012	10.1145/3543622.3573188
+Straight to the Queue: Fast Load-Store Queue Allocation in Dataflow Circuits.	Ayatallah Elakhras,Riya Sawhney,Andrea Guerrieri,Lana Josipovic,Paolo Ienne	10.1145/3543622.3573050
+FPGA Technology Mapping with Adaptive Gate Decomposition.	Longfei Fan,Chang Wu	10.1145/3543622.3573048
+LAWS: Large-Scale Accelerated Wave Simulations on FPGAs.	Dimitrios Gourounas,Bagus Hanindhito,Arash Fathi,Dimitar Trenev,Lizy Kurian John,Andreas Gerstlauer	10.1145/3543622.3573160
+FPGA Mux Usage and Routability Estimates without Explicit Routing.	Jonathan W. Greene	10.1145/3543622.3573045
+CSAIL2019 Crypto-Puzzle Solver Architecture.	Sergey Gribok,Bogdan Pasca 0001,Martin Langhammer	10.1145/3543622.3573184
+Towards a Machine Learning Approach to Predicting the Difficulty of FPGA Routing Problems.	Andrew David Gunter,Steven J. E. Wilton	10.1145/3543622.3573135
+Single-Batch CNN Training using Block Minifloats on FPGAs.	Chuliang Guo,Binglei Lou,Xueyuan Liu,David Boland,Philip H. W. Leong	10.1145/3543622.3573171
+Open-source and FPGAs: Hardware, Software, Both or None?	Dana How,Tim Ansell,Vaughn Betz,Chris Lavin,Ted Speers,Pierre-Emmanuel Gaillardon	10.1145/3543622.3579026
+Multi-bit-width CNN Accelerator with Systolic-in-Systolic Dataflow and Single DSP Multiple Multiplication Scheme.	Mingqiang Huang,Yucen Liu,Sixiao Huang,Kai Li,Qiuping Wu,Hao Yu 0001	10.1145/3543622.3573209
+Power Side-channel Countermeasures for ARX Ciphers using High-level Synthesis.	Saya Inagaki,Mingyu Yang,Yang Li 0001,Kazuo Sakiyama,Yuko Hara-Azumi	10.1145/3543622.3573167
+ACTS: A Near-Memory FPGA Graph Processing Framework.	Wole Jaiyeoba,Nima Elyasi,Changho Choi,Kevin Skadron	10.1145/3543622.3573180
+AoCStream: All-on-Chip CNN Accelerator With Stream-Based Line-Buffer Architecture.	Hyeong-Ju Kang	10.1145/3543622.3573141
+Approximate Hybrid Binary-Unary Computing with Applications in BERT Language Model and Image Processing.	Alireza Khataei,Gaurav Singh,Kia Bazargan	10.1145/3543622.3573181
+FPGA Acceleration for Successive Interference Cancellation in Severe Multipath Acoustic Communication Channels.	Jinfeng Li,Yahong Rosa Zheng	10.1145/3543622.3573149
+FNNG: A High-Performance FPGA-based Accelerator for K-Nearest Neighbor Graph Construction.	Chaoqiang Liu,Haifeng Liu,Long Zheng 0003,Yu Huang 0013,Xiangyu Ye,Xiaofei Liao,Hai Jin 0001	10.1145/3543622.3573189
+HMLib: Efficient Data Transfer for HLS Using Host Memory.	Michael Lo,Young-kyu Choi,Weikang Qiao,Mau-Chung Frank Chang,Jason Cong	10.1145/3543622.3573157
+Nimblock: Scheduling for Fine-grained FPGA Sharing through Virtualization.	Meghna Mandava,Deming Chen	10.1145/3543622.3573164
+An Efficient High-Speed FFT Implementation.	Ross Martin	10.1145/3543622.3573139
+A Framework for Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform via on-chip Dynamic Tree Management.	Yuan Meng,Rajgopal Kannan,Viktor K. Prasanna	10.1145/3543622.3573177
+A Study of Early Aggregation in Database Query Processing on FPGAs.	Mehdi Moghaddamfar,Norman May,Christian Färber,Wolfgang Lehner,Akash Kumar 0001	10.1145/3543622.3573194
+FreezeTime: Towards System Emulation through Architectural Virtualization.	Sergiu Mosanu,Joshua Fixelle,Kevin Skadron,Mircea Stan	10.1145/3543622.3573150
+BOBBER A Prototyping Platform for Batteryless Intermittent Accelerators.	Vishak Narayanan,Rohit Sahu,Jidong Sun,Henry Duwe	10.1145/3543622.3573046
+Regularity Matters: Designing Practical FPGA Switch-Blocks.	Stefan Nikolic,Paolo Ienne	10.1145/3543622.3573192
+Fault Detection on Multi COTS FPGA Systems for Physics Experiments on the International Space Station.	Tim Oberschulte,Jakob Marten,Holger Blume	10.1145/3543622.3573148
+OMT: A Demand-Adaptive, Hardware-Targeted Bonsai Merkle Tree Framework for Embedded Heterogeneous Memory Platform.	Rakin Muhammad Shadab,Yu Zou,Sanjay Gandham,Mingjie Lin	10.1145/3543622.3573165
+ENCORE: Efficient Architecture Verification Framework with FPGA Acceleration.	Kan Shi,Shuoxiang Xu,Yuhan Diao,David Boland,Yungang Bao	10.1145/3543622.3573187
+Mitigating the Last-Mile Bottleneck: A Two-Step Approach For Faster Commercial FPGA Routing.	Shashwat Shrivastava,Stefan Nikolic,Chirag Ravishankar,Dinesh Gaitonde,Mirjana Stojilovic	10.1145/3543622.3573161
+A Fractal Astronomical Correlator Based on FPGA Cluster with Scalability.	Lin Shu,Long Xiao,Yafang Song,Qiuxiang Fan,Guitian Fang,Jie Hao	10.1145/3543622.3573132
+Callipepla: Stream Centric Instruction Set and Mixed Precision for Accelerating Conjugate Gradient Solver.	Linghao Song,Licheng Guo,Suhail Basalama,Yuze Chi,Robert F. Lucas,Jason Cong	10.1145/3543622.3573182
+Senju: A Framework for the Design of Highly Parallel FPGA-based Iterative Stencil Loop Accelerators.	Emanuele Del Sozzo,Davide Conficconi,Marco D. Santambrogio,Kentaro Sano	10.1145/3543622.3573170
+Janus: An Experimental Reconfigurable SmartNIC with P4 Programmability and SDN Isolation.	Bharat Sukhwani,Mohit Kapur,Alda Ohmacht,Liran Schour,Martin Ohmacht,Chris Ward,Chuck Haymes,Sameh W. Asaad	10.1145/3543622.3573158
+An FPGA-Based Weightless Neural Network for Edge Network Intrusion Detection.	Zachary Susskind,Aman Arora,Alan T. L. Bacellar,Diego Leonel Cadette Dutra,Igor D. S. Miranda,Maurício Breternitz,Priscila M. V. Lima,Felipe M. G. França,Lizy K. John	10.1145/3543622.3573140
+hAP: A Spatial-von Neumann Heterogeneous Automata Processor with Optimized Resource and IO Overhead on FPGA.	Xuan Wang,Lei Gong,Jing Cao,Wenqi Lou,Weiya Wang,Chao Wang 0003,Xuehai Zhou	10.1145/3543622.3573190
+Adapting Skip Connections for Resource-Efficient FPGA Inference.	Olivia Weng,Gabriel Marcano,Vladimir Loncar,Alireza Khodamoradi,Nojan Sheybani,Farinaz Koushanfar,Kristof Denolf,Javier Mauricio Duarte,Ryan Kastner	10.1145/3543622.3573172
+Accelerating Sparse MTTKRP for Tensor Decomposition on FPGA.	Sasindu Wijeratne,Ta-Yang Wang,Rajgopal Kannan,Viktor K. Prasanna	10.1145/3543622.3573179
+Post-Radiation Fault Analysis of a High Reliability FPGA Linux SoC.	Andrew Elbert Wilson,Nathan Baker,Ethan Campbell,Jackson Sahleen,Michael J. Wirthlin	10.1145/3543622.3573191
+DONGLE: Direct FPGA-Orchestrated NVMe Storage for HLS.	Linus Y. Wong,Jialiang Zhang,Jing Jane Li	10.1145/3543622.3573185
+Eliminating Excessive Dynamism of Dataflow Circuits Using Model Checking.	Jiahui Xu,Emmet Murphy,Jordi Cortadella,Lana Josipovic	10.1145/3543622.3573196
+A Novel FPGA Simulator Accelerating Reinforcement Learning-Based Design of Power Converters.	Zhenyu Xu,Miaoxiang Yu,Qing Yang 0001,Yeonho Jeong,Tao Wei	10.1145/3543622.3573136
+CHARM: Composing Heterogeneous AcceleRators for Matrix Multiply on Versal ACAP Architecture.	Jinming Zhuang,Jason Lau,Hanchen Ye,Zhuoping Yang,Yubo Du,Jack Lo,Kristof Denolf,Stephen Neuendorffer,Alex K. Jones,Jingtong Hu,Deming Chen,Jason Cong,Peipei Zhou 0001	10.1145/3543622.3573210
+Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2023, Monterey, CA, USA, February 12-14, 2023	Paolo Ienne,Zhiru Zhang	10.1145/3543622

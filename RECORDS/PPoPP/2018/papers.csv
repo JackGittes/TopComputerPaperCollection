@@ -1,0 +1,51 @@
+Griffin: uniting CPU and GPU in information retrieval systems for intra-query parallelism.	Yang Liu 0044	10.1145/3178487.3178512
+Performance challenges in modular parallel programs.	Umut A. Acar	10.1145/3178487.3178516
+Harnessing epoch-based reclamation for efficient range queries.	Maya Arbel-Raviv	10.1145/3178487.3178489
+Reducing the burden of parallel loop schedulers for many-core processors.	Mahwish Arif	10.1145/3178487.3178517
+Graph partitioning applied to DAG scheduling to reduce NUMA effects.	Isaac Sánchez Barrera	10.1145/3178487.3178535
+Juggler: a dependence-aware task-based execution framework for GPUs.	Mehmet E. Belviranli	10.1145/3178487.3178492
+Featherlight on-the-fly false-sharing detection.	Milind Chabbi	10.1145/3178487.3178499
+Reducing transaction aborts by looking to the future.	Nachshon Cohen	10.1145/3178487.3178518
+Strong trylocks for reader-writer locks.	Andreia Correia	10.1145/3178487.3178519
+SecureMR: secure mapreduce using homomorphic encryption and program partitioning.	Yao Dong 0001	10.1145/3178487.3178520
+Practical concurrent traversals in search trees.	Dana Drachsler-Cohen	10.1145/3178487.3178503
+A scalable distance-1 vertex coloring algorithm for power-law graphs.	Jesun Sahariar Firoz	10.1145/3178487.3178521
+A persistent lock-free queue for non-volatile memory.	Michal Friedman 0001	10.1145/3178487.3178490
+Efficient shuffle management with SCache for DAG computing frameworks.	Zhouwang Fu	10.1145/3178487.3178510
+Communication-avoiding parallel minimum cuts and connected components.	Lukas Gianinazzi	10.1145/3178487.3178504
+Making pull-based graph processing performant.	Samuel Grossman	10.1145/3178487.3178506
+Hierarchical memory management for mutable state.	Adrien Guatto	10.1145/3178487.3178494
+Shared-memory parallelization of MTTKRP for dense tensors.	Koby Hayashi	10.1145/3178487.3178522
+Performance modeling for GPUs using abstract kernel emulation.	Changwan Hong	10.1145/3178487.3178524
+An effective fusion and tile size model for optimizing image processing pipelines.	Abhinav Jangda	10.1145/3178487.3178507
+Optimizing N-dimensional, winograd-based convolution for manycore CPUs.	Zhen Jia 0001	10.1145/3178487.3178496
+Revealing parallel scans and reductions in sequential loops through function reconstruction.	Peng Jiang 0004	10.1145/3178487.3178523
+Two concurrent data structures for efficient datalog query processing.	Herbert Jordan	10.1145/3178487.3178525
+A scalable queue for work distribution on GPUs.	Bernhard Kerbl	10.1145/3178487.3178526
+Safe privatization in transactional memory.	Artem Khyzha	10.1145/3178487.3178505
+HPVM: heterogeneous parallel virtual machine.	Maria Kotsifakou	10.1145/3178487.3178493
+High-performance genomic analysis framework with in-memory computing.	Xueqi Li	10.1145/3178487.3178511
+Designing scalable FPGA architectures using high-level synthesis.	Johannes de Fine Licht	10.1145/3178487.3178527
+Register-based implementation of the sparse general matrix-matrix multiplication on GPUs.	Junhong Liu	10.1145/3178487.3178529
+Layrub: layer-centric GPU memory reuse and data migration in extreme-scale deep learning systems.	Bo Liu 0057	10.1145/3178487.3178528
+DisCVar: discovering critical variables using algorithmic differentiation for transient faults.	Harshitha Menon	10.1145/3178487.3178502
+Quantifying and reducing execution variance in STM via model driven commit optimization.	Girish Mururu	10.1145/3178487.3178530
+Transparent GPU memory management for DNNs.	Jung-Ho Park	10.1145/3178487.3178531
+Stamp-it, amortized constant-time memory reclamation in comparison to five other schemes.	Manuel Pöter	10.1145/3178487.3178532
+Cache-tries: concurrent lock-free hash tries with constant-time operations.	Aleksandar Prokopec	10.1145/3178487.3178498
+Register optimizations for stencils on GPUs.	Prashant Singh Rawat	10.1145/3178487.3178500
+A predictable synchronisation algorithm.	Stefan Reif	10.1145/3178487.3178533
+Automated code acceleration targeting heterogeneous openCL devices.	Heinrich Riebler	10.1145/3178487.3178534
+PAM: parallel augmented maps.	Yihan Sun 0001	10.1145/3178487.3178509
+vSensor: leveraging fixed-workload snippets of programs for performance variance detection.	Xiongchao Tang	10.1145/3178487.3178497
+A microbenchmark to study GPU performance models.	Vasily Volkov	10.1145/3178487.3178536
+swSpTRSV: a fast sparse triangular solve with sparse level tile layout on sunway architectures.	Xinliang Wang	10.1145/3178487.3178513
+Superneurons: dynamic GPU memory management for training deep neural networks.	Linnan Wang	10.1145/3178487.3178491
+Lazygraph: lazy data coherency for replicas in distributed graph-parallel computation.	Lei Wang 0004	10.1145/3178487.3178508
+Interval-based memory reclamation.	Haosen Wen	10.1145/3178487.3178488
+VerifiedFT: a verified, high-performance precise dynamic race detector.	James R. Wilcox	10.1145/3178487.3178514
+Efficient parallel determinacy race detection for two-dimensional dags.	Yifan Xu 0007	10.1145/3178487.3178515
+SIMD code generation for stencils on brick decompositions.	Tuowen Zhao	10.1145/3178487.3178537
+Bridging the gap between deep learning and sparse matrix format selection.	Yue Zhao 0011	10.1145/3178487.3178495
+FlashR: parallelize and scale R for machine learning using SSDs.	Da Zheng	10.1145/3178487.3178501
+Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP 2018, Vienna, Austria, February 24-28, 2018	Andreas Krall	10.1145/3178487

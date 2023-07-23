@@ -1,0 +1,56 @@
+Welder: Scheduling Deep Learning Memory Access via Tile-graph.	Yining Shi 0001,Zhi Yang 0001,Jilong Xue,Lingxiao Ma,Yuqing Xia,Ziming Miao,Yuxiao Guo,Fan Yang 0024,Lidong Zhou	
+Userspace Bypass: Accelerating Syscall-intensive Applications.	Zhe Zhou 0001,Yanxiang Bi,Junpeng Wan,Yangfan Zhou,Zhou Li 0001	
+Replicating Persistent Memory Key-Value Stores with Efficient RDMA Abstraction.	Qing Wang 0031,Youyou Lu,Jing Wang,Jiwu Shu	
+An Extensible Orchestration and Protection Framework for Confidential Cloud Computing.	Adil Ahmad,Alex Schultz,Byoungyoung Lee,Pedro Fonseca 0001	
+K9db: Privacy-Compliant Storage For Web Applications By Construction.	Kinan Dak Albab,Ishan Sharma,Justus Adam,Benjamin Kilimnik,Aaron R. Jeyaraj,Raj Paul,Artem Agvanian,Leonhard F. Spiegelberg,Malte Schwarzkopf	
+Nimble: Rollback Protection for Confidential Cloud Services.	Sebastian Angel,Aditya Basu,Weidong Cui,Trent Jaeger,Stella Lau,Srinath T. V. Setty,Sudheesh Singanamalla	
+Triangulating Python Performance Issues with SCALENE.	Emery D. Berger,Sam Stern,Juan Altmayer Pizzorno	
+Cilantro: Performance-Aware Resource Allocation for General Objectives via Online Feedback.	Romil Bhardwaj,Kirthevasan Kandasamy,Asim Biswal,Wenshuo Guo,Benjamin Hindman,Joseph Gonzalez 0001,Michael I. Jordan,Ion Stoica	
+Verifying vMVCC, a high-performance transaction library using multi-version concurrency control.	Yun-Sheng Chang,Ralf Jung 0002,Upamanyu Sharma,Joseph Tassarotti,M. Frans Kaashoek,Nickolai Zeldovich	
+Security and Performance in the Delegated User-level Virtualization.	Jiahao Chen,Dingji Li,Zeyu Mi,Yuxuan Liu,Binyu Zang,Haibing Guan,Haibo Chen 0001	
+Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate.	Audrey Cheng,David Chu,Terrance Li,Jason Chan,Natacha Crooks,Joseph M. Hellerstein,Ion Stoica,Xiangyao Yu	
+Optimizing Dynamic Neural Networks with Brainstorm.	Weihao Cui,Zhenhua Han,Lingji Ouyang,Yichuan Wang,Ningxin Zheng,Lingxiao Ma,Yuqing Yang 0001,Fan Yang 0024,Jilong Xue,Lili Qiu,Lidong Zhou,Quan Chen 0002,Haisheng Tan,Minyi Guo	
+Accountable authentication with privacy protection: The Larch system for universal login.	Emma Dauterman,Danny Lin,Henry Corrigan-Gibbs,David Mazières	
+Automated Verification of Idempotence for Stateful Serverless Applications.	Haoran Ding,Zhaoguo Wang,Zhuohao Shen,Rong Chen 0001,Haibo Chen 0001	
+Chardonnay: Fast and General Datacenter Transactions for On-Disk Databases.	Tamer Eldeeb,Xincheng Xie,Philip A. Bernstein,Asaf Cidon,Junfeng Yang	
+Global Capacity Management With Flux.	Marius Eriksen,Kaushik Veeraraghavan,Yusuf Abdulghani,Andrew Birchall,Po-Yen Chou,Richard Cornew,Adela Kabiljo,Ranjith Kumar S.,Maroo Lieuw,Justin Meza,Scott Michelson,Thomas Rohloff,Hayley Russell,Jeff Qin,Chunqiang Tang	
+TAILCHECK: A Lightweight Heap Overflow Detection Mechanism with Page Protection and Tagged Pointers.	Amogha Udupa Shankaranarayana Gopal,Raveendra Soori,Michael Ferdman,Dongyoon Lee	
+Conveyor: One-Tool-Fits-All Continuous Software Deployment at Meta.	Boris Grubic,Yang Wang,Tyler Petrochko,Ran Yaniv,Brad Jones,David Callies,Matt Clarke-Lauer,Dan Kelley,Soteris Demetriou,Kenny Yu,Chunqiang Tang	
+Ship your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS.	Vishal Gupta,Kumar Kartikeya Dwivedi,Yugesh Kothari,Yueyang Pan,Diyu Zhou,Sanidhya Kashyap	
+Sharding the State Machine: Automated Modular Reasoning for Complex Concurrent Systems.	Travis Hance,Yi Zhou,Andrea Lattuada,Reto Achermann,Alex Conway,Ryan Stutsman,Gerd Zellweger,Chris Hawblitzel,Jon Howell,Bryan Parno	
+Hydro: Surrogate-Based Hyperparameter Tuning Service in Datacenters.	Qinghao Hu,Zhisheng Ye 0002,Meng Zhang,Qiaoling Chen,Peng Sun 0006,Yonggang Wen 0001,Tianwei Zhang 0004	
+Detecting Transactional Bugs in Database Engines via Graph-Based Oracle Construction.	Zu-Ming Jiang,Si Liu,Manuel Rigger,Zhendong Su 0001	
+AdaEmbed: Adaptive Embedding for Large-Scale Recommendation Models.	Fan Lai,Wei Zhang,Rui Liu,William Tsai,Xiaohan Wei,Yuxi Hu,Sabin Devkota,Jianyu Huang,Jongsoo Park,Xing Liu,Zeliang Chen,Ellie Wen,Paul Rivera,Jie You,Chun-cheng Jason Chen,Mosharaf Chowdhury	
+Johnny Cache: the End of DRAM Cache Conflicts (in Tiered Main Memory Systems).	Baptiste Lepers,Willy Zwaenepoel	
+LVMT: An Efficient Authenticated Storage for Blockchain.	Chenxing Li,Sidi Mohamed Beillahi,Guang Yang 0020,Ming Wu 0007,Wei Xu,Fan Long	
+Flor: An Open High Performance RDMA Framework Over Heterogeneous RNICs.	Qiang Li,Yixiao Gao,Xiaoliang Wang 0001,Haonan Qiu,Yanfang Le,Derui Liu,Qiao Xiang,Fei Feng,Peng Zhang,Bo Li,Jianbo Dong,Lingbo Tang,Hongqiang Harry Liu,Shaozong Liu,Weijie Li,Rui Miao,Yaohui Wu,Zhiwu Wu,Chao Han,Lei Yan,Zheng Cao,Zhongjie Wu,Chen Tian 0001,Guihai Chen,Dennis Cai,Jinbo Wu,Jiaji Zhu,Jiesheng Wu,Jiwu Shu	
+Spoq: Scaling Machine-Checkable Systems Verification in Coq.	Xupeng Li,Xuheng Li,Wei Qiang,Ronghui Gu,Jason Nieh	
+Encrypted Databases Made Secure Yet Maintainable.	Mingyu Li,Xuyang Zhao,Le Chen,Cheng Tan 0005,Huorong Li,Sheng Wang 0011,Zeyu Mi,Yubin Xia,Feifei Li 0001,Haibo Chen 0001	
+AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving.	Zhuohan Li,Lianmin Zheng,Yinmin Zhong,Vincent Liu,Ying Sheng 0007,Xin Jin 0008,Yanping Huang,Zhifeng Chen,Hao Zhang,Joseph E. Gonzalez,Ion Stoica	
+RON: One-Way Circular Shortest Routing to Achieve Efficient and Bounded-waiting Spinlocks.	Shiwu Lo,Han-Ting Lin,Yao-Hung Hsieh,Chao-Ting Lin,Yu-Hsueh Fang,Ching-Shen Lin,Ching-Chun (Jim) Huang,Kam-Yiu Lam,Yuan-Hao Chang 0001	
+NCC: Natural Concurrency Control for Strictly Serializable Datastores by Avoiding the Timestamp-Inversion Pitfall.	Haonan Lu,Shuai Mu 0001,Siddhartha Sen 0001,Wyatt Lloyd	
+SMART: A High-Performance Adaptive Radix Tree for Disaggregated Memory.	Xuchuan Luo,Pengfei Zuo,Jiacheng Shen,Jiazhen Gu,Xin Wang 0002,Michael R. Lyu,Yangfan Zhou	
+Hyrax: Fail-in-Place Server Operation in Cloud Platforms.	Jialun Lyu,Marisa You,Celine Irvene,Mark Jung,Tyler Narmore,Jacob Shapiro,Luke Marshall,Savyasachi Samal,Ioannis Manousakis,Lisa Hsu,Preetha Subbarayalu,Ashish Raniwala,Brijesh Warrier,Ricardo Bianchini,Bianca Schroeder,Daniel S. Berger	
+Honeycomb: Secure and Efficient GPU Executions via Static Validation.	Haohui Mai,Jiacheng Zhao,Hongren Zheng,Yiyang Zhao,Zibin Liu,Mingyu Gao 0001,Cong Wang,Huimin Cui,Xiaobing Feng 0002,Christos Kozyrakis	
+ScaleDB: A Scalable, Asynchronous In-Memory Database.	Syed Akbar Mehdi,Deukyeon Hwang,Simon Peter 0001,Lorenzo Alvisi	
+Defcon: Preventing Overload with Graceful Feature Degradation.	Justin Meza,Thote Gowda,Ahmed Eid,Tomiwa Ijaware,Dmitry Chernyshev,Yi Yu,Md Nazim Uddin,Rohan Das,Chad Nachiappan,Sari Tran,Shuyang Shi,Tina Luo,David Ke Hong,Sankaralingam Panneerselvam,Hans Ragas,Svetlin Manavski,Weidong Wang,Francois Richard	
+eZNS: An Elastic Zoned Namespace for Commodity ZNS SSDs.	Jaehong Min,Chenxingyu Zhao,Ming Liu 0027,Arvind Krishnamurthy	
+ShRing: Networking with Shared Receive Rings.	Boris Pismenny,Adam Morrison 0001,Dan Tsafrir	
+Relational Debugging - Pinpointing Root Causes of Performance Problems.	Xiang (Jenny) Ren,Sitao Wang,Zhuqi Jin,David Lion,Adrian Chiu,Tianyin Xu,Ding Yuan 0004	
+Ensō: A Streaming Interface for NIC-Application Communication.	Hugo Sadok,Nirav Atre,Zhipeng Zhao,Daniel S. Berger,James C. Hoe,Aurojit Panda,Justine Sherry,Ren Wang	
+Kerveros: Efficient and Scalable Cloud Admission Control.	Sultan Mahmud Sajal,Luke Marshall,Beibin Li,Shandan Zhou,Abhisek Pan,Konstantina Mellou,Deepak Narayanan,Timothy Zhu,David Dion,Thomas Moscibroda,Ishai Menache	
+ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta.	Harshit Saokar,Soteris Demetriou,Nick Magerko,Max Kontorovich,Josh Kirstein,Margot Leibold,Dimitrios Skarlatos 0002,Hitesh Khandelwal,Chunqiang Tang	
+ORC: Increasing Cloud Memory Density via Object Reuse with Capabilities.	Vasily A. Sartakov,Lluís Vilanova,Munir Geden,David M. Eyers,Takahiro Shinagawa,Peter R. Pietzuch	
+Karma: Resource Allocation for Dynamic Demands.	Midhul Vuppalapati,Giannis Fikioris,Rachit Agarwal 0001,Asaf Cidon,Anurag Khandelwal,Éva Tardos	
+MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms.	Yuke Wang,Boyuan Feng,Zheng Wang,Tong Geng,Kevin J. Barker,Ang Li 0006,Yufei Ding	
+SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory.	Chao Wang,Junliang Hu,Tsun-Yu Yang,Yuhong Liang,Ming-Chang Yang	
+BWoS: Formally Verified Block-based Work Stealing for Parallel Processing.	Jiawei Wang,Bohdan Trach,Ming Fu,Diogo Behrens,Jonathan Schwender,Yutao Liu,Jitang Lei,Viktor Vafeiadis,Hermann Härtig,Haibo Chen 0001	
+Characterizing Off-path SmartNIC for Accelerating Distributed Systems.	Xingda Wei,Rongxin Chen,Yuhan Yang,Rong Chen 0001,Haibo Chen 0001	
+No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing.	Xingda Wei,Fangming Lu,Tianxia Wang,Jinyu Gu 0001,Yuhan Yang,Rong Chen 0001,Haibo Chen 0001	
+Cocktailer: Analyzing and Optimizing Dynamic Control Flow in Deep Learning.	Chen Zhang,Lingxiao Ma,Jilong Xue,Yining Shi,Ziming Miao,Fan Yang 0024,Jidong Zhai,Zhi Yang 0001,Mao Yang	
+VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity.	Qianxi Zhang,Shuotao Xu,Qi Chen,Guoxin Sui,Jiadong Xie,Zhizhen Cai,Yaoqi Chen,Yinxuan He,Yuqing Yang 0001,Fan Yang 0024,Mao Yang,Lidong Zhou	
+Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators.	Jie Zhao 0002,Siyuan Feng,Xiaoqiang Dan,Fei Liu,Chengke Wang,Sheng Yuan,Wenyuan Lv,Qikai Xie	
+EINNET: Optimizing Tensor Programs with Derivation-Based Transformations.	Liyan Zheng,Haojie Wang,Jidong Zhai,Muyan Hu,Zixuan Ma,Tuowei Wang,Shuhong Huang,Xupeng Miao,Shizhi Tang,Kezhao Huang,Zhihao Jia	
+Core slicing: closing the gap between leaky confidential VMs and bare-metal cloud.	Ziqiao Zhou,Yizhou Shan,Weidong Cui,Xinyang Ge,Marcus Peinado,Andrew Baumann	
+ExoFlow: A Universal Workflow System for Exactly-Once DAGs.	Siyuan Zhuang,Stephanie Wang,Eric Liang,Yi Cheng,Ion Stoica	
+17th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2023, Boston, MA, USA, July 10-12, 2023.	Roxana Geambasu,Ed Nightingale	

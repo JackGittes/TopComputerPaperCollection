@@ -1,0 +1,24 @@
+How to Copy Files.	Yang Zhan 0001,Alexander Conway,Yizheng Jiao,Nirjhar Mukherjee,Ian Groombridge,Michael A. Bender,Martin Farach-Colton,William Jannen,Rob Johnson,Donald E. Porter,Jun Yuan 0006	
+Scalable Parallel Flash Firmware for Many-core Architectures.	Jie Zhang 0048,Miryeong Kwon,Michael M. Swift,Myoungsoo Jung	
+Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook.	Zhichao Cao 0002,Siying Dong,Sagar Vemuri,David H. C. Du	
+Carver: Finding Important Parameters for Storage System Tuning.	Zhen Cao,Geoff Kuenning,Erez Zadok	
+POLARDB Meets Computational Storage: Efficiently Support Analytical Workloads in Cloud-Native Relational Database.	Wei Cao,Yang Liu,Zhushi Cheng,Ning Zheng,Wei Li,Wenjie Wu,Linqiang Ouyang,Peng Wang,Yijing Wang,Ray Kuan,Zhenjun Liu,Feng Zhu,Tong Zhang 0002	
+HotRing: A Hotspot-Aware In-Memory Key-Value Store.	Jiqiang Chen,Liang Chen,Sheng Wang 0011,Guoyun Zhu,Yuanyuan Sun,Huan Liu,Feifei Li 0001	
+Lock-Free Collaboration Support for Cloud Storage Services with Operation Inference and Transformation.	Jian Chen,Minghao Zhao 0001,Zhenhua Li 0001,Ennan Zhai,Feng Qian 0001,Hongyi Chen,Yunhao Liu 0001,Tianyin Xu	
+Strong and Efficient Consistency with Consistency-Aware Durability.	Aishwarya Ganesan,Ramnatthan Alagappan,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Read as Needed: Building WiSER, a Flash-Optimized Search Engine.	Jun He,Kan Wu,Sudarsun Kannan,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Quiver: An Informed Storage Cache for Deep Learning.	Abhishek Vijaya Kumar,Muthian Sivathanu	
+DC-Store: Eliminating Noisy Neighbor Containers using Deterministic I/O Performance and Resource Isolation.	Miryeong Kwon,Donghyun Gouk,Changrim Lee,Byounggeun Kim,Jooyoung Hwang,Myoungsoo Jung	
+Making Disk Failure Predictions SMARTer!	Sidi Lu,Bing Luo,Tirthak Patel,Yongtao Yao,Devesh Tiwari,Weisong Shi	
+A Study of SSD Reliability in Large Scale Enterprise Storage Deployments.	Stathis Maneas,Kaveh Mahdaviani,Tim Emami,Bianca Schroeder	
+GoSeed: Generating an Optimal Seeding Plan for Deduplicated Storage.	Aviv Nachman,Gala Yadgar,Sarai Sheinvald	
+GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems.	Tirthak Patel,Rohan Garg 0001,Devesh Tiwari	
+Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems.	Tirthak Patel,Suren Byna,Glenn K. Lockwood,Nicholas J. Wright,Philip H. Carns,Robert B. Ross,Devesh Tiwari	
+Hybrid Data Reliability for Emerging Key-Value Storage Devices.	Rekha Pitchumani,Yang-Suk Kee	
+BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server.	Shucheng Wang,Ziyi Lu,Qiang Cao 0001,Hong Jiang 0001,Jie Yao,Yuanyuan Dong,Puyuan Yang	
+CRaft: An Erasure-coding-supported Version of Raft for Reducing Storage Cost and Network Cost.	Zizhong Wang,Tongliang Li,Haixia Wang,Airan Shao,Yunren Bai,Shangming Cai,Zihan Xu,Dongsheng Wang 0002	
+InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache.	Ao Wang,Jingyuan Zhang,Xiaolong Ma,Ali Anwar 0001,Lukas Rupprecht,Dimitrios Skourtis,Vasily Tarasov,Feng Yan 0001,Yue Cheng 0001	
+MAPX: Controlled Data Migration in the Expansion of Decentralized Object-Based Storage Systems.	Li Wang,Yiming Zhang 0003,Jiawei Xu,Guangtao Xue	
+An Empirical Guide to the Behavior and Use of Scalable Persistent Memory.	Jian Yang,Juno Kim,Morteza Hoseinzadeh,Joseph Izraelevitz,Steven Swanson	
+FPGA-Accelerated Compactions for LSM-based Key-Value Store.	Teng Zhang,Jianying Wang,Xuntao Cheng,Hao Xu,Nanlong Yu,Gui Huang,Tieying Zhang,Dengcheng He,Feifei Li 0001,Wei Cao 0006,Zhongdong Huang,Jianling Sun	
+18th USENIX Conference on File and Storage Technologies, FAST 2020, Santa Clara, CA, USA, February 24-27, 2020.	Sam H. Noh,Brent Welch	

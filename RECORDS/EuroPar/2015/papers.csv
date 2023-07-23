@@ -1,0 +1,54 @@
+High Performance Multi-GPU SpMV for Multi-component PDE-Based Applications.	Ahmad Abdelfattah,Hatem Ltaief,David E. Keyes	10.1007/978-3-662-48096-0_46
+Targeting the Parallella.	Spiros N. Agathos,Alexandros Papadogiannakis,Vassilios V. Dimakopoulos	10.1007/978-3-662-48096-0_51
+Automatic On-Line Detection of MPI Application Structure with Event Flow Graphs.	Xavier Aguilar,Karl Fürlinger,Erwin Laure	10.1007/978-3-662-48096-0_6
+Systematic Fusion of CUDA Kernels for Iterative Sparse Linear System Solvers.	José Ignacio Aliaga,Joaquín Pérez,Enrique S. Quintana-Ortí	10.1007/978-3-662-48096-0_52
+Non-preemptive Throughput Maximization for Speed-Scaling with Power-Down.	Eric Angel,Evripidis Bampis,Vincent Chau,Kim Thang Nguyen	10.1007/978-3-662-48096-0_14
+Iterative Sparse Triangular Solves for Preconditioning.	Hartwig Anzt,Edmond Chow,Jack J. Dongarra	10.1007/978-3-662-48096-0_50
+Online Automated Reliability Classification of Queueing Models for Streaming Processing Using Support Vector Machines.	Jonathan C. Beard,Cooper Epstein,Roger D. Chamberlain	10.1007/978-3-662-48096-0_7
+Allocating Jobs with Periodic Demand Variations.	Olivier Beaumont,Ikbel Belaid,Lionel Eyraud-Dubois,Juan Ángel Lorenzo del Castillo	10.1007/978-3-662-48096-0_12
+Rapid Tomographic Image Reconstruction via Large-Scale Parallelization.	Tekin Bicer,Doga Gürsoy,Rajkumar Kettimuthu,Francesco De Carlo,Gagan Agrawal,Ian T. Foster	10.1007/978-3-662-48096-0_23
+Accelerating Lattice Boltzmann Applications with OpenACC.	Enrico Calore,Jiri Kraus,Sebastiano Fabio Schifano,Raffaele Tripiccione	10.1007/978-3-662-48096-0_47
+On the Heterogeneity Bias of Cost Matrices When Assessing Scheduling Algorithms.	Louis-Claude Canon,Laurent Philippe 0001	10.1007/978-3-662-48096-0_9
+Runtime-Aware Architectures.	Marc Casas,Miquel Moretó,Lluc Alvarez,Emilio Castillo,Dimitrios Chasapis,Timothy Hayes 0001,Luc Jaulmes,Oscar Palomar,Osman S. Unsal,Adrián Cristal,Eduard Ayguadé,Jesús Labarta,Mateo Valero	10.1007/978-3-662-48096-0_2
+Scheduling Tasks from Selfish Multi-tasks Agents.	Johanne Cohen,Fanny Pascual	10.1007/978-3-662-48096-0_15
+Locality and Balance for Communication-Aware Thread Mapping in Multicore Systems.	Matthias Diener,Eduardo Henrique Molina da Cruz,Marco A. Z. Alves,Mohammad S. Alhakeem,Philippe Olivier Alexandre Navaux,Hans-Ulrich Heiß	10.1007/978-3-662-48096-0_16
+Moody Scheduling for Speculative Parallelization.	Alvaro Estebanez,Diego R. Llanos,David Orden,Belén Palop	10.1007/978-3-662-48096-0_11
+A Connectivity Model for Agreement in Dynamic Systems.	Carlos Gómez-Calzado,Arnaud Casteigts,Alberto Lafuente,Mikel Larrea	10.1007/978-3-662-48096-0_26
+Behavioral Non-portability in Scientific Numeric Computing.	Yijia Gu,Thomas Wahl,Mahsa Bayati,Miriam Leeser	10.1007/978-3-662-48096-0_43
+Scheduling Trees of Malleable Tasks for Sparse Linear Algebra.	Abdou Guermouche,Loris Marchal,Bertrand Simon,Frédéric Vivien	10.1007/978-3-662-48096-0_37
+DFEP: Distributed Funding-Based Edge Partitioning.	Alessio Guerrieri,Alberto Montresor	10.1007/978-3-662-48096-0_27
+Exploiting Task-Based Parallelism in Bayesian Uncertainty Quantification.	Panagiotis E. Hadjidoukas,Panagiotis Angelikopoulos,Lina Kulakova,Costas Papadimitriou,Petros Koumoutsakos	10.1007/978-3-662-48096-0_41
+Event-Action Mappings for Parallel Tools Infrastructures.	Tobias Hilbrich,Martin Schulz 0001,Holger Brunst,Joachim Protze,Bronis R. de Supinski,Matthias S. Müller	10.1007/978-3-662-48096-0_4
+Load Balancing Prioritized Tasks via Work-Stealing.	Shams Imam,Vivek Sarkar	10.1007/978-3-662-48096-0_18
+A Composable Deadlock-Free Approach to Object-Based Isolation.	Shams Imam,Jisheng Zhao,Vivek Sarkar	10.1007/978-3-662-48096-0_33
+How Many Threads will be too Many? On the Scalability of OpenMP Implementations.	Christian Iwainsky,Sergei Shudler,Alexandru Calotoiu,Alexandre Strube,Michael Knobloch,Christian H. Bischof,Felix Wolf 0001	10.1007/978-3-662-48096-0_35
+Improving Performance of Convolutional Neural Networks by Separable Filters on GPU.	Hao-Ping Kang,Che-Rung Lee	10.1007/978-3-662-48096-0_49
+Automatic Data Layout Optimizations for GPUs.	Klaus Kofler,Biagio Cosenza,Thomas Fahringer	10.1007/978-3-662-48096-0_21
+Parallelization of an Advection-Diffusion Problem Arising in Edge Plasma Physics Using Hybrid MPI/OpenMP Programming.	Matthieu Kuhn,Guillaume Latu,Nicolas Crouseilles,Stéphane Genaud	10.1007/978-3-662-48096-0_42
+Efficient Nested Dissection for Multicore Architectures.	Dominique LaSalle,George Karypis	10.1007/978-3-662-48096-0_36
+VMPlaceS: A Generic Tool to Investigate and Compare VM Placement Algorithms.	Adrien Lèbre,Jonathan Pastor,Mario Südholt	10.1007/978-3-662-48096-0_25
+Priority Queues Are Not Good Concurrent Priority Schedulers.	Andrew Lenharth,Donald Nguyen,Keshav Pingali	10.1007/978-3-662-48096-0_17
+High-Performance and Scalable Design of MPI-3 RMA on Xeon Phi Clusters.	Mingzhe Li,Khaled Hamidouche,Xiaoyi Lu,Jian Lin 0006,Dhabaleswar K. Panda 0001	10.1007/978-3-662-48096-0_48
+A Multi-level Hypergraph Partitioning Algorithm Using Rough Set Clustering.	Foad Lotfifar,Matthew Johnson 0002	10.1007/978-3-662-48096-0_13
+Hardware Round-Robin Scheduler for Single-ISA Asymmetric Multi-core.	Nikola Markovic,Daniel Nemirovsky,Veljko Milutinovic,Osman S. Unsal,Mateo Valero,Adrián Cristal	10.1007/978-3-662-48096-0_10
+A Multicore Parallelization of Continuous Skyline Queries on Data Streams.	Tiziano De Matteis,Salvatore Di Girolamo,Gabriele Mencagli	10.1007/978-3-662-48096-0_31
+Semi-discrete Matrix-Free Formulation of 3D Elastic Full Waveform Inversion Modeling.	Stephen Moore 0003,Devi Sudheer Chunduri,Sergiy Zhuk,Tigran T. Tchrakian,Ewout van den Berg,Albert Akhriev,Alberto Costa Nogueira Jr.,Andrew A. Rawlinson,Lior Horesh	10.1007/978-3-662-48096-0_39
+Performance Impacts with Reliable Parallel File Systems at Exascale Level.	Ramon Nou,Alberto Miranda,Toni Cortes	10.1007/978-3-662-48096-0_22
+A Duplicate-Free State-Space Model for Optimal Task Scheduling.	Michael Orr,Oliver Sinnen	10.1007/978-3-662-48096-0_8
+Concurrent Systems: Hybrid Object Implementations and Abortable Objects.	Michel Raynal	10.1007/978-3-662-48096-0_1
+Effective Barrier Synchronization on Intel Xeon Phi Coprocessor.	Andrey Rodchenko,Andy Nisbet,Antoniu Pop,Mikel Luján	10.1007/978-3-662-48096-0_45
+A Fast and Scalable Graph Coloring Algorithm for Multi-core and Many-core Architectures.	Georgios Rokos,Gerard Gorman,Paul H. J. Kelly	10.1007/978-3-662-48096-0_32
+MPI Thread-Level Checking for MPI+OpenMP Applications.	Emmanuelle Saillard,Patrick Carribault,Denis Barthou	10.1007/978-3-662-48096-0_3
+Elastic Tasks: Unifying Task Parallelism and SPMD Parallelism with an Adaptive Runtime.	Alina Simion Sbîrlea,Kunal Agrawal,Vivek Sarkar	10.1007/978-3-662-48096-0_38
+Low-Overhead Detection of Memory Access Patterns and Their Time Evolution.	Harald Servat,Germán Llort,Juan Gonzalez,Judit Giménez,Jesús Labarta	10.1007/978-3-662-48096-0_5
+Data Layout Optimization for Portable Performance.	Kamal Sharma,Ian Karlin,Jeff Keasler,James R. McGraw,Vivek Sarkar	10.1007/978-3-662-48096-0_20
+PR-STM: Priority Rule Based Software Transactions for the GPU.	Qi Shen,Craig Sharp,William Blewitt,Gary Ushaw,Graham Morgan	10.1007/978-3-662-48096-0_28
+Efficient Execution of Multiple CUDA Applications Using Transparent Suspend, Resume and Migration.	Taichiro Suzuki,Akira Nukada,Satoshi Matsuoka	10.1007/978-3-662-48096-0_53
+Software Consolidation as an Efficient Energy and Cost Saving Solution for a SaaS/PaaS Cloud Model.	Alain Tchana,Noel De Palma,Ibrahim Safieddine,Daniel Hagimont,Bruno Diot,Nicolas Vuillerme	10.1007/978-3-662-48096-0_24
+Optimizing Task Parallelism with Library-Semantics-Aware Compilation.	Peter Thoman,Stefan Moosbrugger,Thomas Fahringer	10.1007/978-3-662-48096-0_19
+A Practical Transactional Memory Interface.	Shahar Timnat,Maurice Herlihy,Erez Petrank	10.1007/978-3-662-48096-0_30
+10, 000 Performance Models per Minute - Scalability of the UG4 Simulation Framework.	Andreas Vogel 0001,Alexandru Calotoiu,Alexandre Strube,Sebastian Reiter 0002,Arne Nägel,Felix Wolf 0001,Gabriel Wittum	10.1007/978-3-662-48096-0_40
+Fast Parallel Suffix Array on the GPU.	Leyuan Wang,Sean Baxter,John D. Owens	10.1007/978-3-662-48096-0_44
+Scalable Data-Driven PageRank: Algorithms, System Issues, and Lessons Learned.	Joyce Jiyoung Whang,Andrew Lenharth,Inderjit S. Dhillon,Keshav Pingali	10.1007/978-3-662-48096-0_34
+Leveraging MPI-3 Shared-Memory Extensions for Efficient PGAS Runtime Systems.	Huan Zhou,Kamran Idrees,José Gracia	10.1007/978-3-662-48096-0_29
+Euro-Par 2015: Parallel Processing - 21st International Conference on Parallel and Distributed Computing, Vienna, Austria, August 24-28, 2015, Proceedings	Jesper Larsson Träff,Sascha Hunold,Francesco Versaci	10.1007/978-3-662-48096-0

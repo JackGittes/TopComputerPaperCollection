@@ -1,0 +1,26 @@
+ATMem: adaptive data placement in graph applications on heterogeneous memories.	Yu Chen 0036,Ivy Bo Peng,Zhen Peng,Xu Liu 0001,Bin Ren	10.1145/3368826.3377922
+Type freezing: exploiting attribute type monomorphism in tracing JIT compilers.	Lin Cheng,Berkin Ilbeyi,Carl Friedrich Bolz-Tereick,Christopher Batten	10.1145/3368826.3377907
+Automatic generation of high-performance quantized machine learning kernels.	Meghan Cowan,Thierry Moreau,Tianqi Chen 0001,James Bornholt,Luis Ceze	10.1145/3368826.3377912
+The design and implementation of the wolfram language compiler.	Abdul Dakkak,Tom Wickham-Jones,Wen-Mei Hwu	10.1145/3368826.3377913
+Speculative reconvergence for improved SIMT efficiency.	Sana Damani,Daniel R. Johnson,Mark Stephenson,Stephen W. Keckler,Eddie Q. Yan,Michael McKeown,Olivier Giroux	10.1145/3368826.3377911
+SIMD support in .NET: abstract and concrete vector types and operations.	Carol Eidt,Tanner Gooding	10.1145/3368826.3377926
+NeuroVectorizer: end-to-end vectorization with deep reinforcement learning.	Ameer Haj-Ali,Nesreen K. Ahmed,Theodore L. Willke,Yakun Sophia Shao,Krste Asanovic,Ion Stoica	10.1145/3368826.3377928
+Efficient nursery sizing for managed languages on multi-core processors with shared caches.	Mohamed Ismail,G. Edward Suh	10.1145/3368826.3377908
+Deriving parametric multi-way recursive divide-and-conquer dynamic programming algorithms using polyhedral compilers.	Mohammad Mahdi Javanmard,Zafar Ahmad,Martin Kong,Louis-Noël Pouchet,Rezaul Chowdhury,Robert J. Harrison	10.1145/3368826.3377916
+Aloe: verifying reliability of approximate programs in the presence of recovery mechanisms.	Keyur Joshi 0001,Vimuth Fernando,Sasa Misailovic	10.1145/3368826.3377924
+PreScaler: an efficient system-aware precision scaling framework on heterogeneous systems.	Seokwon Kang,Kyunghwan Choi,Yongjun Park 0001	10.1145/3368826.3377917
+CogniCryptGEN: generating code for the secure usage of crypto APIs.	Stefan Krüger,Karim Ali 0001,Eric Bodden	10.1145/3368826.3377905
+Introducing the pseudorandom value generator selection in the compilation toolchain.	Michael Leonard,Simone Campanoni	10.1145/3368826.3377906
+A performance-optimizing compiler for cyber-physical digital microfluidic biochips.	Tyson Loveless,Jason Ott,Philip Brisk	10.1145/3368826.3377925
+AN5D: automated stencil framework for high-degree temporal blocking on GPUs.	Kazuaki Matsumura,Hamid Reza Zohouri,Mohamed Wahib,Toshio Endo,Satoshi Matsuoka	10.1145/3368826.3377904
+Secure automatic bounds checking: prevention is simpler than cure.	Ejebagom John Ojogbo,Mithuna Thottethodi,T. N. Vijaykumar	10.1145/3368826.3377921
+Low-cost prediction-based fault protection strategy.	Sunghyun Park 0004,Shikai Li,Ze Zhang,Scott A. Mahlke	10.1145/3368826.3377920
+HALO: post-link heap-layout optimisation.	Joe Savage,Timothy M. Jones 0001	10.1145/3368826.3377914
+Multi-layer optimizations for end-to-end data analytics.	Amir Shaikhha,Maximilian Schleich,Alexandru Ghita,Dan Olteanu	10.1145/3368826.3377923
+Optimizing occupancy and ILP on the GPU using a combinatorial approach.	Ghassan Shobaki,Austin Kerbow,Stanislav Mekhanoshin	10.1145/3368826.3377918
+Testing static analyses for precision and soundness.	Jubi Taneja,Zhengyang Liu 0003,John Regehr	10.1145/3368826.3377927
+Interactive debugging of concurrent programs under relaxed memory models.	Aakanksha Verma,Pankaj Kumar Kalita,Awanish Pandey,Subhajit Roy 0001	10.1145/3368826.3377910
+Efficient and scalable cross-ISA virtualization of hardware transactional memory.	Wenwen Wang 0001,Pen-Chung Yew,Antonia Zhai,Stephen McCamant	10.1145/3368826.3377919
+COLAB: a collaborative multi-factor scheduler for asymmetric multicore processors.	Teng Yu,Pavlos Petoumenos,Vladimir Janjic,Hugh Leather,John Thomson	10.1145/3368826.3377915
+Optimizing ordered graph algorithms with GraphIt.	Yunming Zhang,Ajay Brahmakshatriya,Xinyi Chen,Laxman Dhulipala,Shoaib Kamil 0001,Saman P. Amarasinghe,Julian Shun	10.1145/3368826.3377909
+CGO &apos;20: 18th ACM/IEEE International Symposium on Code Generation and Optimization, San Diego, CA, USA, February, 2020		10.1145/3368826

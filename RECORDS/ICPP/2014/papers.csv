@@ -1,0 +1,55 @@
+An Infrastructure-less Vehicle Counting without Disruption.	Jie Wu 0001,Paul Sabatino,Jennifer Tsan,Zhen Jiang	10.1109/ICPP.2014.61
+Adaptive Configuration Selection for Power-Constrained Heterogeneous Systems.	Peter E. Bailey,David K. Lowenthal,Vignesh Ravi,Barry Rountree,Martin Schulz 0001,Bronis R. de Supinski	10.1109/ICPP.2014.46
+Fast Parallel Algorithms for Edge-Switching to Achieve a Target Visit Rate in Heterogeneous Graphs.	Md Hasanuzzaman Bhuiyan,Jiangzhuo Chen,Maleq Khan,Madhav V. Marathe	10.1109/ICPP.2014.15
+Simulating Big Data Clusters for System Planning, Evaluation, and Optimization.	Zhaojuan Bian,Kebing Wang,Zhihong Wang,Gene Munce,Illia Cremer,Wei Zhou,Qian Chen 0031,Gen Xu	10.1109/ICPP.2014.48
+A Hybrid CPU-GPU System for Stitching Large Scale Optical Microscopy Images.	Timothy Blattner,Walid Keyrouz,Joe Chalfoun,Bertrand Stivalet,Mary Brady,Shujia Zhou	10.1109/ICPP.2014.9
+Hydra: Efficient Detection of Multiple Concurrency Bugs on Fused CPU-GPU Architecture.	Zhuofang Dai,Haojun Wang,Weihua Zhang,Haibo Chen 0001,Binyu Zang	10.1109/ICPP.2014.42
+Software-Managed Power Reduction in Infiniband Links.	Branimir Dickov,Miquel Pericàs,Paul M. Carpenter,Nacho Navarro,Eduard Ayguadé	10.1109/ICPP.2014.40
+A Fast Batched Cholesky Factorization on a GPU.	Tingxing Dong,Azzam Haidar,Stanimire Tomov,Jack J. Dongarra	10.1109/ICPP.2014.52
+R-Dedup: Content Aware Redundancy Management for SSD-Based RAID Systems.	Yimo Du,Youtao Zhang,Nong Xiao	10.1109/ICPP.2014.20
+Grover: Looking for Performance Improvement by Disabling Local Memory Usage in OpenCL Kernels.	Jianbin Fang,Henk J. Sips,Pekka Jääskeläinen,Ana Lucia Varbanescu	10.1109/ICPP.2014.25
+Parallel Simulation of Superscalar Scheduling.	Blake Haugen,Jakub Kurzak,Asim YarKhan,Piotr Luszczek,Jack J. Dongarra	10.1109/ICPP.2014.21
+Lightweight Software Transactions on GPUs.	Anup Holey,Antonia Zhai	10.1109/ICPP.2014.55
+Reducing MapReduce Abstraction Costs for Text-centric Applications.	Chun-Hung Hsiao,Michael J. Cafarella,Satish Narayanasamy	10.1109/ICPP.2014.13
+A Runtime Approach to Dynamic Resource Allocation for Sparse Direct Solvers.	Andra-Ecaterina Hugo,Abdou Guermouche,Pierre-André Wacrenier,Raymond Namyst	10.1109/ICPP.2014.57
+CUDA-Accelerated Alignment of Subsequences in Streamed Time Series Data.	Christian Hundt 0002,Bertil Schmidt,Elmar Schömer	10.1109/ICPP.2014.10
+FEVES: Framework for Efficient Parallel Video Encoding on Heterogeneous Systems.	Aleksandar Ilic,Svetislav Momcilovic,Nuno Roma,Leonel Sousa	10.1109/ICPP.2014.11
+Parallel Algorithms for the Summed Area Table on the Asynchronous Hierarchical Memory Machine, with GPU implementations.	Akihiko Kasagi,Koji Nakano,Yasuaki Ito	10.1109/ICPP.2014.34
+Fast Biological Sequence Comparison on Hybrid Platforms.	Safia Kedad-Sidhoum,Fernando Machado Mendonca,Florence Monna,Gregory Mounie,Denis Trystram	10.1109/ICPP.2014.59
+A Case for Resource Efficient Prefetching in Multicores.	Muneeb Khan,Andreas Sandberg,Erik Hagersten	10.1109/ICPP.2014.19
+Crystal: A Design-Time Resource Partitioning Method for Hybrid Main Memory.	Dmitry Knyaginin,Georgi Gaydadjiev,Per Stenström	10.1109/ICPP.2014.18
+Characterizing the Impact of Rollback Avoidance at Extreme-Scale: A Modeling Approach.	Scott Levy,Kurt B. Ferreira,Patrick G. Bridges	10.1109/ICPP.2014.49
+Energy-Aware Scheduling for Aperiodic Tasks on Multi-core Processors.	Dawei Li 0002,Jie Wu 0001	10.1109/ICPP.2014.45
+Code Layout Optimization for Defensiveness and Politeness in Shared Cache.	Pengcheng Li 0001,Hao Luo 0007,Chen Ding 0001,Ziang Hu,Handong Ye	10.1109/ICPP.2014.24
+A Constraint Programming-Based Resource Management Technique for Processing MapReduce Jobs with SLAs on Clouds.	Norman Lim,Shikharesh Majumdar,Peter Ashwood-Smith	10.1109/ICPP.2014.50
+An Energy-Efficient Task Scheduler for Multi-core Platforms with Per-core DVFS Based on Task Characteristics.	Ching-Chi Lin,Chao-Jui Chang,You-Cheng Syu,Jan-Jan Wu,Pangfeng Liu,Po-Wen Cheng,Wei-Te Hsu	10.1109/ICPP.2014.47
+Improving Multisite Workflow Performance Using Model-Based Scheduling.	Ketan Maheshwari,Eun-Sung Jung,Jiayuan Meng,Venkatram Vishwanath,Rajkumar Kettimuthu	10.1109/ICPP.2014.22
+A Framework for Data Protection in Cloud Federations.	Lena Mashayekhy,Mahyar Movahed Nejad,Daniel Grosu	10.1109/ICPP.2014.37
+Scaling the ISAM Land Surface Model through Parallelization of Inter-component Data Transfer.	Phil Miller,Michael P. Robson,Bassil El-Masri,Rahul Barman,Gengbin Zheng,Atul Jain,Laxmikant V. Kalé	10.1109/ICPP.2014.51
+HERCULES: Strong Patterns towards More Intelligent Predictive Modeling.	Eunjung Park,Christos Kartsaklis,John Cavazos	10.1109/ICPP.2014.26
+Measuring Effective Work to Reward Success in Dynamic Transaction Scheduling.	Marcio Machado Pereira,José Nelson Amaral,Guido Araujo	10.1109/ICPP.2014.23
+A Batch System with Fair Scheduling for Evolving Applications.	Suraj Prabhakaran,Mohsin Iqbal,Sebastian Rinke,Christian Windisch,Felix Wolf 0001	10.1109/ICPP.2014.44
+Output-Sensitive Parallel Algorithm for Polygon Clipping.	Satish Puri,Sushil K. Prasad	10.1109/ICPP.2014.33
+CAST: Contraction Algorithm for Symmetric Tensors.	Samyam Rajbhandari,Akshay Nikam,Pai-Wei Lai,Kevin Stock,Sriram Krishnamoorthy,P. Sadayappan	10.1109/ICPP.2014.35
+Modeling the Energy Efficiency of Heterogeneous Clusters.	Lavanya Ramapantulu,Bogdan Marius Tudor,Dumitrel Loghin,Trang Vu,Yong Meng Teo	10.1109/ICPP.2014.41
+High-Performance Inverse Modeling with Reverse Monte Carlo Simulations.	Abhinav Sarje,Xiaoye S. Li,Alexander Hexemer	10.1109/ICPP.2014.29
+HAND: A Hybrid Approach to Accelerate Non-contiguous Data Movement Using MPI Datatypes on GPU Clusters.	Rong Shi,Xiaoyi Lu,Sreeram Potluri,Khaled Hamidouche,Jie Zhang 0045,Dhabaleswar K. Panda 0001	10.1109/ICPP.2014.31
+Parallel Pointer Analysis with CFL-Reachability.	Yu Su 0012,Ding Ye,Jingling Xue	10.1109/ICPP.2014.54
+Designing Topology-Aware Communication Schedules for Alltoall Operations in Large InfiniBand Clusters.	Hari Subramoni,Krishna Chaitanya Kandalla,Jithin Jose,Karen Tomko,Karl W. Schulz,Dmitry Pekurovsky,Dhabaleswar K. Panda 0001	10.1109/ICPP.2014.32
+CASTA: CUDA-Accelerated Static Timing Analysis for VLSI Designs.	Hunta H.-W. Wang,Louis Y.-Z. Lin,Ryan H.-M. Huang,Charles H.-P. Wen	10.1109/ICPP.2014.28
+A Sampling-Based Hybrid Approximate Query Processing System in the Cloud.	Yuxiang Wang 0001,Junzhou Luo,Aibo Song,Fang Dong 0001	10.1109/ICPP.2014.38
+MiCA: Real-Time Mixed Compression Scheme for Large-Scale Distributed Monitoring.	Bo Wang 0018,Ying Song,Yuzhong Sun,Jun Liu 0002	10.1109/ICPP.2014.53
+Performance Modeling for RDMA-Enhanced Hadoop MapReduce.	Md. Wasi-ur-Rahman,Xiaoyi Lu,Nusrat Sharmin Islam,Dhabaleswar K. Panda 0001	10.1109/ICPP.2014.14
+TRAM: Optimizing Fine-Grained Communication with Topological Routing and Aggregation of Messages.	Lukasz Wesolowski,Ramprasad Venkataraman,Abhishek Gupta 0002,Jae-Seung Yeom,Keith R. Bisset,Yanhua Sun,Pritish Jetley,Thomas R. Quinn,Laxmikant V. Kalé	10.1109/ICPP.2014.30
+A Compiler Extension for Parallel Matrix Programming.	Kevin Williams,Matthew Le,Ted Kaminski,Eric Van Wyk	10.1109/ICPP.2014.56
+Xentry: Hypervisor-Level Soft Error Detection.	Xin Xu,Ron Chi-Lung Chiang,H. Howie Huang	10.1109/ICPP.2014.43
+Towards Perpetual Sensor Networks via Deploying Multiple Mobile Wireless Chargers.	Wenzheng Xu,Weifa Liang,Xiaola Lin,Guoqiang Mao,Xiaojiang Ren	10.1109/ICPP.2014.17
+Designing a Heuristic Cross-Architecture Combination for Breadth-First Search.	Yang You 0001,David A. Bader,Maryam Mehri Dehnavi	10.1109/ICPP.2014.16
+NetMaster: Taming Energy Devourers on Smartphones.	Yi Zhang 0017,Yuan He 0004,Xiaopei Wu,Yunhao Liu 0001,Wenbo He	10.1109/ICPP.2014.39
+Double Free: Measurement-Free Localization for Transceiver-Free Object.	Dian Zhang,Xiaoyan Jiang,Lionel M. Ni	10.1109/ICPP.2014.62
+A GPU-Based Algorithm-Specific Optimization for High-Performance Background Subtraction.	Chulian Zhang,Hamed Tabkhi,Gunar Schirner	10.1109/ICPP.2014.27
+SMARTH: Enabling Multi-pipeline Data Transfer in HDFS.	Hong Zhang,Liqiang Wang,Hai Huang 0002	10.1109/ICPP.2014.12
+NEO: A Nonblocking Hybrid Switch Architecture for Large Scale Data Centers.	Zhemin Zhang,Yuanyuan Yang 0001	10.1109/ICPP.2014.60
+Kylix: A Sparse Allreduce for Commodity Clusters.	Huasha Zhao,John F. Canny	10.1109/ICPP.2014.36
+Analysis and Design of Fault-Tolerant Scheduling for Real-Time Tasks on Earth-Observation Satellites.	Xiaomin Zhu 0001,Jianjiang Wang,Ji Wang 0002,Xiao Qin 0001	10.1109/ICPP.2014.58
+43rd International Conference on Parallel Processing, ICPP 2014, Minneapolis, MN, USA, September 9-12, 2014		

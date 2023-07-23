@@ -1,0 +1,57 @@
+STREX: boosting instruction cache reuse in OLTP workloads through stratified transaction execution.	Islam Atta,Pinar Tözün,Xin Tong 0005,Anastasia Ailamaki,Andreas Moshovos	10.1145/2485922.2485946
+Zombie memory: extending memory lifetime by reviving dead blocks.	Rodolfo Azevedo,John D. Davis,Karin Strauss,Parikshit Gopalan,Mark S. Manasse,Sergey Yekhanin	10.1145/2485922.2485961
+Dynamic reduction of voltage margins by leveraging on-chip ECC in Itanium II processors.	Anys Bacha,Radu Teodorescu	10.1145/2485922.2485948
+Efficient virtual memory for big memory servers.	Arkaprava Basu,Jayneel Gandhi,Jichuan Chang,Mark D. Hill,Michael M. Swift	10.1145/2485922.2485943
+Continuous real-world inputs can open up alternative accelerator designs.	Bilel Belhadj,Antoine Joubert,Zheng Li,Rodolphe Héliot,Olivier Temam	10.1145/2485922.2485923
+Criticality stacks: identifying critical threads in parallel programs using synchronization behavior.	Kristof Du Bois,Stijn Eyerman,Jennifer B. Sartor,Lieven Eeckhout	10.1145/2485922.2485966
+Robust architectural support for transactional memory in the power architecture.	Harold W. Cain,Maged M. Michael,Brad Frey,Cathy May,Derek Williams,Hung Q. Le	10.1145/2485922.2485942
+QuickSAN: a storage area network for fast, distributed, solid state disks.	Adrian M. Caulfield,Steven Swanson	10.1145/2485922.2485962
+Improving virtualization in the presence of software managed translation lookaside buffers.	Xiaotao Chang,Hubertus Franke,Yi Ge,Tao Liu,Kun Wang,Jimi Xenidis,Fei Chen,Yu Zhang	10.1145/2485922.2485933
+LINQits: big data on little clients.	Eric S. Chung,John D. Davis,Jaewon Lee	10.1145/2485922.2485945
+A hardware evaluation of cache partitioning to improve utilization and energy-efficiency while preserving responsiveness.	Henry Cook,Miquel Moretó,Sarah Bird,Khanh Dao,David A. Patterson 0001,Krste Asanovic	10.1145/2485922.2485949
+Catnap: energy proportional multiple network-on-chip.	Reetuparna Das,Satish Narayanasamy,Sudhir Satpathy,Ronald G. Dreslinski	10.1145/2485922.2485950
+On the feasibility of online malware detection with performance counters.	John Demme,Matthew Maycock,Jared Schmitz,Adrian Tang,Adam Waksman,Simha Sethumadhavan,Salvatore J. Stolfo	10.1145/2485922.2485970
+Bit mapping for balanced PCM cell programming.	Yu Du,Miao Zhou,Bruce R. Childers,Daniel Mossé,Rami G. Melhem	10.1145/2485922.2485959
+WeeFence: toward making fences free in TSO.	Yuelu Duan,Abdullah Muzahid,Josep Torrellas	10.1145/2485922.2485941
+Deconfigurable microprocessor architectures for silicon debug acceleration.	Nikos Foutris,Dimitris Gizopoulos,Xavier Vera,Antonio González 0001	10.1145/2485922.2485976
+Improving memory scheduling via processor-side load criticality information.	Saugata Ghose,Hyodong Lee,José F. Martínez	10.1145/2485922.2485930
+AC-DIMM: associative computing with STT-MRAM.	Qing Guo 0004,Xiaochen Guo,Ravi Patel,Engin Ipek,Eby G. Friedman	10.1145/2485922.2485939
+Exploring memory consistency for massively-threaded throughput-oriented processors.	Blake A. Hechtman,Daniel J. Sorin	10.1145/2485922.2485940
+Non-race concurrency bug detection through order-sensitive critical sections.	Ruirui C. Huang,Erik Halberg,G. Edward Suh	10.1145/2485922.2485978
+Agile, efficient virtualization power management with low-latency server power states.	Canturk Isci,Suzanne McIntosh,Jeffrey O. Kephart,Rajarshi Das,James E. Hanson,Scott Piper,Robert R. Wolford,Thomas Brey,Robert Kantner,Allen Ng,James Norris,Abdoulaye Traore,Michael Frissora	10.1145/2485922.2485931
+Die-stacked DRAM caches for servers: hit ratio, latency, or bandwidth? have it all with footprint cache.	Djordje Jevdjic,Stavros Volos,Babak Falsafi	10.1145/2485922.2485957
+An energy-efficient and scalable eDRAM-based register file architecture for GPGPU.	Naifeng Jing,Yao Shen,Yao Lu,Shrikanth Ganapathy,Zhigang Mao,Minyi Guo,Ramon Canal,Xiaoyao Liang	10.1145/2485922.2485952
+Utility-based acceleration of multithreaded applications on asymmetric CMPs.	José A. Joao,M. Aater Suleman,Onur Mutlu,Yale N. Patt	10.1145/2485922.2485936
+Orchestrated scheduling and prefetching for GPGPUs.	Adwait Jog,Onur Kayiran,Asit K. Mishra,Mahmut T. Kandemir,Onur Mutlu,Ravishankar R. Iyer 0001,Chita R. Das	10.1145/2485922.2485951
+A new perspective for efficient virtual-cache coherence.	Stefanos Kaxiras,Alberto Ros	10.1145/2485922.2485968
+Microarchitectural mechanisms to exploit value structure in SIMT architectures.	Ji Kim,Christopher Torng,Shreesha Srinath,Derek Lockhart,Christopher Batten	10.1145/2485922.2485934
+Quantum rotations: a case study in static and dynamic machine-code generation for quantum computers.	Daniel Kudrow,Kenneth Bier,Zhaoxia Deng,Diana Franklin,Yu Tomita,Kenneth R. Brown,Frederic T. Chong	10.1145/2485922.2485937
+The locality-aware adaptive cache coherence protocol.	George Kurian,Omer Khan,Srinivas Devadas	10.1145/2485922.2485967
+GPUWattch: enabling energy optimizations in GPGPUs.	Jingwen Leng,Tayler H. Hetherington,Ahmed ElTantawy,Syed Zohaib Gilani,Nam Sung Kim,Tor M. Aamodt,Vijay Janapa Reddi	10.1145/2485922.2485964
+Thin servers with smart pipes: designing SoC accelerators for memcached.	Kevin T. Lim,David Meisner,Ali G. Saidi,Parthasarathy Ranganathan,Thomas F. Wenisch	10.1145/2485922.2485926
+An experimental study of data retention behavior in modern DRAM devices: implications for retention time profiling mechanisms.	Jamie Liu,Ben Jaiyen,Yoongu Kim,Chris Wilkerson,Onur Mutlu	10.1145/2485922.2485928
+CPU transparent protection of OS kernel and hypervisor integrity with programmable DRAM.	Ziyi Liu,Jong-Hyuk Lee,Junyuan Zeng,Yuanfeng Wen,Zhiqiang Lin,Weidong Shi	10.1145/2485922.2485956
+Whare-map: heterogeneity in &quot;homogeneous&quot; warehouse-scale computers.	Jason Mars,Lingjia Tang	10.1145/2485922.2485975
+Understanding and mitigating refresh overheads in high-density DDR4 DRAM systems.	Janani Mukundan,Hillery C. Hunter,Kyu-hyoun Kim,Jeffrey Stuecheli,José F. Martínez	10.1145/2485922.2485927
+DNA-based molecular architecture with spatially localized components.	Richard A. Muscat,Karin Strauss,Luis Ceze,Georg Seelig	10.1145/2485922.2485938
+ArchShield: architectural framework for assisting DRAM scaling by tolerating high error rates.	Prashant J. Nair,Dae-Hyun Kim 0003,Moinuddin K. Qureshi	10.1145/2485922.2485929
+Triggered instructions: a control paradigm for spatially-programmed architectures.	Angshuman Parashar,Michael Pellauer,Michael Adler,Bushra Ahsan,Neal Clayton Crago,Daniel Lustig,Vladimir Pavlov,Antonia Zhai,Mohit Gambhir,Aamer Jaleel,Randy L. Allmon,Rachid Rayess,Stephen Maresh,Joel S. Emer	10.1145/2485922.2485935
+Cooperative boosting: needy versus greedy power management.	Indrani Paul,Srilatha Manne,Manish Arora,William Lloyd Bircher,Sudhakar Yalamanchili	10.1145/2485922.2485947
+Flicker: a dynamically adaptive architecture for power limited multicore systems.	Paula Petrica,Adam M. Izraelevitz,David H. Albonesi,Christine A. Shoemaker	10.1145/2485922.2485924
+QuickRec: prototyping an intel architecture extension for record and replay of multithreaded programs.	Gilles Pokam,Klaus Danne,Cristiano Pereira,Rolf Kassa,Tim Kranich,Shiliang Hu,Justin Emile Gottschlich,Nima Honarmand,Nathan Dautenhahn,Samuel T. King,Josep Torrellas	10.1145/2485922.2485977
+Convolution engine: balancing efficiency &amp; flexibility in specialized computing.	Wajahat Qadeer,Rehan Hameed,Ofer Shacham,Preethi Venkatesan,Christos Kozyrakis,Mark A. Horowitz	10.1145/2485922.2485925
+Design space exploration and optimization of path oblivious RAM in secure processors.	Ling Ren 0001,Xiangyao Yu,Christopher W. Fletcher,Marten van Dijk,Srinivas Devadas	10.1145/2485922.2485971
+Maximizing SIMD resource utilization in GPGPUs with SIMD lane permutation.	Minsoo Rhu,Mattan Erez	10.1145/2485922.2485953
+ZSim: fast and accurate microarchitectural simulation of thousand-core systems.	Daniel Sánchez 0003,Christos Kozyrakis	10.1145/2485922.2485963
+Tri-level-cell phase change memory: toward an efficient and reliable memory system.	Nak Hee Seong,Sungkap Yeo,Hsien-Hsin S. Lee	10.1145/2485922.2485960
+Resilient die-stacked DRAM caches.	Jaewoong Sim,Gabriel H. Loh,Vilas Sridharan,Mike O&apos;Connor	10.1145/2485922.2485958
+Reducing memory access latency with asymmetric DRAM bank organizations.	Young Hoon Son,Seongil O,Yuhwan Ro,Jae W. Lee,Jung Ho Ahn	10.1145/2485922.2485955
+Secure I/O device sharing among virtual machines on multiple hosts.	Cheng-Chun Tu,Chao-Tang Lee,Tzi-cker Chiueh	10.1145/2485922.2485932
+SIMD divergence optimization through intra-warp compaction.	Aniruddha S. Vaidya,Anahita Shayesteh,Dong Hyuk Woo,Roy Saharoy,Mani Azimi	10.1145/2485922.2485954
+Virtualizing power distribution in datacenters.	Di Wang 0003,Chuangang Ren,Anand Sivasubramaniam	10.1145/2485922.2485973
+SurfNoC: a low latency and provably non-interfering approach to secure networks-on-chip.	Hassan M. G. Wassel,Ying Gao 0001,Jason Oberg,Ted Huffmire,Ryan Kastner,Frederic T. Chong,Timothy Sherwood	10.1145/2485922.2485972
+Navigating big data with high-throughput, energy-efficient data partitioning.	Lisa Wu 0001,Raymond J. Barker,Martha A. Kim,Kenneth A. Ross	10.1145/2485922.2485944
+Studying multicore processor scaling via reuse distance analysis.	Meng-Ju Wu,Minshu Zhao,Donald Yeung	10.1145/2485922.2485965
+Bubble-flux: precise online QoS management for increased utilization in warehouse scale computers.	Hailong Yang,Alex D. Breslow,Jason Mars,Lingjia Tang	10.1145/2485922.2485974
+Protozoa: adaptive granularity cache coherence.	Hongzhou Zhao,Arrvindh Shriraman,Snehasish Kumar,Sandhya Dwarkadas	10.1145/2485922.2485969
+The 40th Annual International Symposium on Computer Architecture, ISCA&apos;13, Tel-Aviv, Israel, June 23-27, 2013	Avi Mendelson	10.1145/2485922

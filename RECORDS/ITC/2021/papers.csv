@@ -1,0 +1,52 @@
+Study on High-Accuracy and Low-Cost Recycled FPGA Detection.	Foisal Ahmed,Michihiro Shintani,Michiko Inoue	10.1109/ITC50571.2021.00021
+Hierarchical Failure Modeling and Machine Learning Assisted Correction of Electro-Mechanical Subsystem Failures in Autonomous Vehicles.	Chandramouli N. Amarnath,Md Imran Momtaz,Abhijit Chatterjee	10.1109/ITC50571.2021.00055
+Background Receiver IQ Imbalance Correction for in-Field and Post-Production Testing and Calibration.	Muslum Emir Avci,Sule Ozev	10.1109/ITC50571.2021.00054
+Compositional Fault Propagation Analysis in Embedded Systems using Abstract Interpretation.	Christian Bartsch,Stephan Wilhelm,Daniel Kästner,Dominik Stoffel,Wolfgang Kunz	10.1109/ITC50571.2021.00057
+Efficient Fault-Criticality Analysis for AI Accelerators using a Neural Twin∗.	Arjun Chaudhuri,Ching-Yuan Chen,Jonti Talukdar,Siddarth Madala,Abhishek Kumar Dubey,Krishnendu Chakrabarty	10.1109/ITC50571.2021.00015
+On-line Functional Testing of Memristor-mapped Deep Neural Networks using Backdoored Checksums.	Ching-Yuan Chen,Krishnendu Chakrabarty	10.1109/ITC50571.2021.00016
+The Security Enhancement Techniques of the Double-layer PUF Against the ANN-based Modeling Attack.	Yongliang Chen,Xiaole Cui,Wenqiang Ye,Xiaoxin Cui	10.1109/ITC50571.2021.00014
+Semi-Supervised Framework for Wafer Defect Pattern Recognition with Enhanced Labeling.	Leon Li-Yang Chen,Katherine Shu-Min Li,Xu-Hao Jiang,Sying-Jyan Wang,Andrew Yi-Ann Huang,Jwu E. Chen,Hsing-Chung Liang,Chun-Lung Hsu	10.1109/ITC50571.2021.00029
+Multi-Transition Fault Model (MTFM) ATPG patterns towards achieving 0 DPPB on automotive designs.	Jorge Corso,Saidapet Ramesh,Kumar Abishek,Ley Teng Tan,Chik Hooi Lew	10.1109/ITC50571.2021.00037
+Characterizing Corruptibility of Logic Locks using ATPG.	Danielle Duvalsaint,R. D. Shawn Blanton	10.1109/ITC50571.2021.00030
+On Reduction of Deterministic Test Pattern Sets.	Stephan Eggersglüß,Sylwester Milewski,Janusz Rajski,Jerzy Tyszer	10.1109/ITC50571.2021.00035
+Systematic Hardware Error Identification and Calibration for Massive Multisite Testing.	Praise O. Farayola,Isaac Bruce,Shravan K. Chaganti,Abdullah O. Obaidi,Abalhassan Sheikh,Srivaths Ravi 0001,Degang Chen 0001	10.1109/ITC50571.2021.00042
+Brain-Inspired Computing for Wafer Map Defect Pattern Classification.	Paul R. Genssler,Hussam Amrouch	10.1109/ITC50571.2021.00020
+Efficient Functional In-Field Self-Test for Deep Learning Accelerators.	Yi He 0010,Takumi Uezono,Yanjing Li	10.1109/ITC50571.2021.00017
+Semi-supervised Wafer Map Pattern Recognition using Domain-Specific Data Augmentation and Contrastive Learning.	Hanbin Hu,Chen He,Peng Li 0001	10.1109/ITC50571.2021.00019
+Adaptive NN-based Root Cause Analysis in Volume Diagnosis for Yield Improvement.	Xin Huang,Min Qin,Ruosheng Xu,Cheng Chen,Shangling Jui,Zhihao Ding,Pengyun Li,Yu Huang	10.1109/ITC50571.2021.00010
+Summing Node and False Summing Node Methods: Accurate Operational Amplifier AC Characteristics Testing without Audio Analyzer.	Daisuke Iimori,Takayuki Nakatani,Shogo Katayama,Gaku Ogihara,Akemi Hatta,Anna Kuwana,Keno Sato,Takashi Ishida 0003,Toshiyuki Okamoto,Tamotsu Ichikawa,Jianglin Wei,Yujie Zhao,Minh Tri Tran,Kazumi Hatayama,Haruo Kobayashi 0001	10.1109/ITC50571.2021.00052
+A Scalable Design Flow for Performance Monitors Using Functional Path Ring Oscillators.	Tobias Kilian,Heiko Ahrens,Daniel Tille,Martin Huch,Ulf Schlichtmann	10.1109/ITC50571.2021.00041
+Machine Learning for Circuit Aging Estimation under Workload Dependency.	Florian Klemme,Hussam Amrouch	10.1109/ITC50571.2021.00011
+Minimum Operating Voltage Prediction in Production Test Using Accumulative Learning.	Yen-Ting Kuo,Wei-Chen Lin,Chun Chen,Chao-Ho Hsieh,James Chien-Mo Li,Eric Jia-Wei Fang,Sung S.-Y. Hsueh	10.1109/ITC50571.2021.00012
+Accessing general IEEE Std. 1687 networks via functional ports.	Erik Larsson,Prathamesh Murali,Ziling Zhang	10.1109/ITC50571.2021.00051
+3.5Gsps MIPI C-PHY Receiver Circuit for Automatic Test Equipment.	Seongkwan Lee,Minho Kang,Cheolmin Park,HyungSun Ryu,Jaemoo Choi,Byunghyun Yim	10.1109/ITC50571.2021.00040
+A Fast and Low Cost Embedded Test Solution for CMOS Image Sensors.	J. Lefevre,Philippe Debaud,Patrick Girard 0001,Arnaud Virazel	10.1109/ITC50571.2021.00007
+Testability-Aware Low Power Controller Design with Evolutionary Learning.	Min Li 0019,Zhengyuan Shi,Zezhong Wang 0006,Weiwei Zhang,Yu Huang,Qiang Xu 0001	10.1109/ITC50571.2021.00046
+WGrid: Wafermap Grid Pattern Recognition with Machine Learning Techniques.	Peter Yi-Yu Liao,Katherine Shu-Min Li,Leon Li-Yang Chen,Sying-Jyan Wang,Andrew Yi-Ann Huang,Ken Chau-Cheung Cheng,Nova Cheng-Yen Tsai,Leon Chou	10.1109/ITC50571.2021.00043
+Adaptive Methods for Machine Learning-Based Testing of Integrated Circuits and Boards.	Mengyun Liu,Krishnendu Chakrabarty	10.1109/ITC50571.2021.00023
+Smart Sampling for Efficient System Level Test: A Robust Machine Learning Approach.	Chenwei Liu,Jie Ou	10.1109/ITC50571.2021.00013
+Triplet Convolutional Networks for Classifying Mixed-Type WBM Patterns with Noisy Labels.	Chenwei Liu,Qiaoyue Tang	10.1109/ITC50571.2021.00028
+Testability-Enhancing Resynthesis of Reconfigurable Scan Networks.	Natalia Lylina,Chih-Hao Wang,Hans-Joachim Wunderlich	10.1109/ITC50571.2021.00009
+Analyzing and Mitigating Sensing Failures in Spintronic-based Computing in Memory.	Mahta Mayahinia,Christopher Münch,Mehdi B. Tahoori	10.1109/ITC50571.2021.00036
+Automatic Verification of Mixed-Signal ATE Test Programs using Device Variation.	Franziska Mayer,Christian Schott,Enrico Billich,Saeid Yazdani,Ulrich Heinkel,Georg Daler,Bernhard Ruf,Ricardo Pannuzzo,Wolfgang Dickenscheid	10.1109/ITC50571.2021.00053
+Relevant Signals and Devices for Failure Analysis of Analog and Mixed-signal Circuits.	Tommaso Melis,Emmanuel Simeu,Luc Saury,Etienne Auvray	10.1109/ITC50571.2021.00033
+Is your secure test infrastructure secure enough? : Attacks based on delay test patterns using transient behavior analysis.	Sergej Meschkov,Dennis R. E. Gnad,Jonas Krautter,Mehdi B. Tahoori	10.1109/ITC50571.2021.00048
+AAA: Automated, On-ATE AI Debug of Scan Chain Failures.	Chris Nigh,Gaurav Bhargava,Ronald D. Blanton	10.1109/ITC50571.2021.00044
+Security EDA Extension through P1687.1 and 1687 Callbacks.	Michele Portolan,Vincent Reynaud,Paolo Maistri,Régis Leveugle,Giorgio Di Natale	10.1109/ITC50571.2021.00050
+Exploiting Application Tolerance for Functional Safety.	V. Prasanth,Rubin A. Parekhji,Bharadwaj Amrutur	10.1109/ITC50571.2021.00056
+LL-ATPG: Logic-Locking Aware Test Using Valet Keys in an Untrusted Environment.	M. Sazadur Rahman,Henian Li,Rui Guo,Fahim Rahman,Farimah Farahmandi,Mark M. Tehranipoor	10.1109/ITC50571.2021.00026
+Impeccable Circuits III.	Shahram Rasoolzadeh,Aein Rezaei Shahmirzadi,Amir Moradi 0001	10.1109/ITC50571.2021.00024
+Revisit to Accurate ADC Testing with Incoherent Sampling Using Proper Sinusoidal Signal and Sampling Frequencies.	Keno Sato,Takashi Ishida 0003,Toshiyuki Okamoto,Tamotsu Ichikawa,Jianglin Wei,Takayuki Nakatani,Yujie Zhao,Shogo Katayama,Shuhei Yamamoto,Anna Kuwana,Kazumi Hatayama,Haruo Kobayashi 0001	10.1109/ITC50571.2021.00038
+Open-short Normalization Method for a Quick Defect Identification in Branched Traces with High-resolution Time-domain Reflectometry.	Yang Shang,Makoto Shinohara,Eiji Kato,Masaichi Hashimoto,Joanna Kiljan	10.1109/ITC50571.2021.00032
+Wafer-level Variation Modeling for Multi-site RF IC Testing via Hierarchical Gaussian Process.	Michihiro Shintani,Riaz-ul-haque Mian,Michiko Inoue,Tomoki Nakamura,Masuo Kajiyama,Makoto Eiki	10.1109/ITC50571.2021.00018
+An automated formal-based approach for reducing undetected faults in ISO 26262 hardware compliant designs.	Felipe Augusto da Silva,Ahmet Cagri Bagbaba,Said Hamdioui,Christian Sauer 0001	10.1109/ITC50571.2021.00047
+Low Power Shift and Capture through ATPG-Configured Embedded Enable Capture Bits.	Yi Sun,Hui Jiang,Lakshmi Ramakrishnan,Jennifer Dworak,Kundan Nepal,Theodore W. Manikas,R. Iris Bahar	10.1109/ITC50571.2021.00045
+Seamless Physical Implementation of ASIC Hierarchical Integrated Scan Architecture.	Bambang Suparjo,Jugantor Chetia,Ankit R. Shah	10.1109/ITC50571.2021.00049
+A BIST-based Dynamic Obfuscation Scheme for Resilience against Removal and Oracle-guided Attacks*.	Jonti Talukdar,Siyuan Chen,Amitabh Das,Sohrab Aftabjahani,Peilin Song,Krishnendu Chakrabarty	10.1109/ITC50571.2021.00025
+Adaptive High Voltage Stress Methodology to Enable Automotive Quality on FinFET Technologies.	Stephen Traynor,Chen He,Y. Y. Yu,Ken Klein	10.1109/ITC50571.2021.00039
+SymbA: Symbolic Execution at C-level for Hardware Trojan Activation.	Arash Vafaei,Nick Hooten,Mark M. Tehranipoor,Farimah Farahmandi	10.1109/ITC50571.2021.00031
+Improving Volume Diagnosis and Debug with Test Failure Clustering and Reorganization.	Mu-Ting Wu,Cheng-Sian Kuo,James Chien-Mo Li,Chris Nigh,Gaurav Bhargava	10.1109/ITC50571.2021.00034
+Testing STT-MRAM: Manufacturing Defects, Fault Models, and Test Solutions.	Lizhou Wu,Siddharth Rao,Mottaqiallah Taouil,Erik Jan Marinissen,Gouri Sankar Kar,Said Hamdioui	10.1109/ITC50571.2021.00022
+ACE-Pro: Reduction of Functional Errors with ACE Propagation Graph.	Dun-An Yang,Yu-Teng Chang,Ting-Shuo Hsu,Jing-Jia Liou,Harry H. Chen	10.1109/ITC50571.2021.00008
+MINiature Interactive Offset Networks (MINIONs) for Wafer Map Classification.	Yueling Jenny Zeng,Li-C. Wang,Chuanhe Jay Shan	10.1109/ITC50571.2021.00027
+IEEE International Test Conference, ITC 2021, Anaheim, CA, USA, October 10-15, 2021		10.1109/ITC50571.2021

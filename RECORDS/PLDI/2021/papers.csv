@@ -1,0 +1,88 @@
+Termination analysis without the tears.	Shaowei Zhu 0001,Zachary Kincaid	10.1145/3453483.3454110
+Snapshot-free, transparent, and robust memory reclamation for lock-free data structures.	Ruslan Nikolaev 0001,Binoy Ravindran	10.1145/3453483.3454090
+Wire sorts: a language abstraction for safe hardware composition.	Michael Christensen 0001,Timothy Sherwood,Jonathan Balkind,Ben Hardekopf	10.1145/3453483.3454037
+Demanded abstract interpretation.	Benno Stein 0002,Bor-Yuh Evan Chang,Manu Sridharan	10.1145/3453483.3454044
+JPortal: precise and efficient control-flow tracing for JVM programs with Intel processor trace.	Zhiqiang Zuo 0002,Kai Ji,Yifei Wang,Wei Tao,Linzhang Wang,Xuandong Li,Guoqing Harry Xu	10.1145/3453483.3454096
+Chianina: an evolving graph system for flow- and context-sensitive analyses of million lines of C code.	Zhiqiang Zuo 0002,Yiyu Zhang,Qiuhong Pan,Shenming Lu,Yue Li 0006,Linzhang Wang,Xuandong Li,Guoqing Harry Xu	10.1145/3453483.3454085
+Viaduct: an extensible, optimizing compiler for secure distributed programs.	Cosku Acay,Rolph Recto,Joshua Gancher,Andrew C. Myers,Elaine Shi	10.1145/3453483.3454074
+Concurrent deferred reference counting with constant-time overhead.	Daniel Anderson,Guy E. Blelloch,Yuanhao Wei	10.1145/3453483.3454060
+Polynomial reachability witnesses via Stellensätze.	Ali Asadi,Krishnendu Chatterjee,Hongfei Fu 0001,Amir Kafshdar Goharshady,Mohammad Mahdavi	10.1145/3453483.3454076
+Frequent background polling on a shared thread, using light-weight compiler interrupts.	Nilanjana Basu,Claudio Montanari,Jakob Eriksson	10.1145/3453483.3454107
+Compiling Stan to generative probabilistic languages and extension to deep probabilistic programming.	Guillaume Baudart,Javier Burroni,Martin Hirzel,Louis Mandel,Avraham Shinnar	10.1145/3453483.3454058
+On probabilistic termination of functional programs with continuous distributions.	Raven Beutner,Luke Ong	10.1145/3453483.3454111
+Fast and precise certification of transformers.	Gregory Bonaert,Dimitar I. Dimitrov,Maximilian Baader,Martin T. Vechev	10.1145/3453483.3454056
+Compiler-assisted object inlining with value fields.	Rodrigo Bruno,Vojin Jovanovic,Christian Wimmer,Gustavo Alonso	10.1145/3453483.3454034
+Canary: practical static detection of inter-thread value-flow bugs.	Yuandao Cai,Peisen Yao,Charles Zhang	10.1145/3453483.3454099
+Zooid: a DSL for certified multiparty computation: from mechanised metatheory to certified multiparty processes.	David Castro-Perez,Francisco Ferreira 0001,Lorenzo Gheri,Nobuko Yoshida	10.1145/3453483.3454041
+Proving non-termination by program reversal.	Krishnendu Chatterjee,Ehsan Kafshdar Goharshady,Petr Novotný 0001,Dorde Zikelic	10.1145/3453483.3454093
+Web question answering with neurosymbolic program synthesis.	Qiaochu Chen,Aaron Lamoreaux,Xinyu Wang 0006,Greg Durrett,Osbert Bastani,Isil Dillig	10.1145/3453483.3454047
+Modular data-race-freedom guarantees in the promising semantics.	Minki Cho,Sung-Hwan Lee 0001,Chung-Kil Hur,Ori Lahav	10.1145/3453483.3454082
+Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8.	Kyeongmin Cho,Sung-Hwan Lee 0001,Azalea Raad,Jeehoon Kang	10.1145/3453483.3454027
+Porcupine: a synthesizing compiler for vectorized homomorphic encryption.	Meghan Cowan,Deeksha Dangwal,Armin Alaghi,Caroline Trippel,Vincent T. Lee,Brandon Reagen	10.1145/3453483.3454050
+Test-case reduction and deduplication almost for free with transformation-based compiler testing.	Alastair F. Donaldson,Paul Thomson,Vasyl Teliman,Stefano Milizia,André Perez Maselco,Antoni Karpinski	10.1145/3453483.3454092
+DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning.	Kevin Ellis,Catherine Wong,Maxwell I. Nye,Mathias Sablé-Meyer,Lucas Morales,Luke B. Hewitt,Luc Cary,Armando Solar-Lezama,Joshua B. Tenenbaum	10.1145/3453483.3454080
+Integration verification across software and hardware for a simple embedded system.	Andres Erbsen,Samuel Gruetter,Joonwon Choi,Clark Wood,Adam Chlipala	10.1145/3453483.3454065
+Concise, type-safe, and efficient structural diffing.	Sebastian Erdweg,Tamás Szabó,André Pacak	10.1145/3453483.3454052
+Phased synthesis of divide and conquer programs.	Azadeh Farzan,Victor Nicolet	10.1145/3453483.3454089
+DIY assistant: a multi-modal end-user programmable virtual assistant.	Michael H. Fischer,Giovanni Campagna,Euirim Choi,Monica S. Lam	10.1145/3453483.3454046
+Mirror: making lock-free data structures persistent.	Michal Friedman 0001,Erez Petrank,Pedro Ramalhete	10.1145/3453483.3454105
+RbSyn: type- and effect-guided program synthesis.	Sankha Narayan Guria,Jeffrey S. Foster,David Van Horn	10.1145/3453483.3454048
+Learning to find naming issues with big code and small supervision.	Jingxuan He,Cheng-Chun Lee,Veselin Raychev,Martin T. Vechev	10.1145/3453483.3454045
+Satisfiability modulo ordering consistency theory for multi-threaded program verification.	Fei He 0001,Zhihang Sun,Hongyu Fan	10.1145/3453483.3454108
+An efficient interpreter for Datalog by de-specializing relations.	Xiaowen Hu,David Zhao 0001,Herbert Jordan,Bernhard Scholz	10.1145/3453483.3454070
+Cyclic program synthesis.	Shachar Itzhaky,Hila Peleg,Nadia Polikarpova,Reuben N. S. Rowe,Ilya Sergey	10.1145/3453483.3454087
+Fluid: a framework for approximate concurrency via controlled dependency relaxation.	Huaipan Jiang,Haibo Zhang 0005,Xulong Tang,Vineetha Govindaraj,Jack Sampson,Mahmut Taylan Kandemir,Danfeng Zhang	10.1145/3453483.3454042
+DeepCuts: a deep learning optimization framework for versatile GPU workloads.	Wookeun Jung,Thanh Tuan Dao,Jaejin Lee	10.1145/3453483.3454038
+Logical bytecode reduction.	Christian Gram Kalhauge,Jens Palsberg	10.1145/3453483.3454091
+Distance-in-time versus distance-in-space.	Mahmut Taylan Kandemir,Xulong Tang,Hui Zhao 0013,Jihyun Ryoo,Mustafa Karaköy	10.1145/3453483.3454069
+Adaptive restarts for stochastic synthesis.	Jason R. Koenig,Oded Padon,Alex Aiken	10.1145/3453483.3454071
+CompCertO: compiling certified open C components.	Jérémie Koenig,Zhong Shao	10.1145/3453483.3454097
+Beyond the elementary representations of program invariants over algebraic data types.	Yurii Kostyukov,Dmitry Mordvinov,Grigory Fedyukovich	10.1145/3453483.3454055
+CoStar: a verified ALL(*) parser.	Sam Lasser,Chris Casinghino,Kathleen Fisher,Cody Roux	10.1145/3453483.3454053
+Abstraction for conflict-free replicated data types.	Hongjin Liang 0001,Xinyu Feng 0001	10.1145/3453483.3454067
+High performance correctly rounded math libraries for 32-bit floating point representations.	Jay P. Lim,Santosh Nagarakatte	10.1145/3453483.3454049
+When threads meet events: efficient and precise static race detection with origins.	Bozhen Liu,Peiming Liu,Yanze Li,Chia-Che Tsai,Dilma Da Silva,Jeff Huang 0001	10.1145/3453483.3454073
+Alive2: bounded translation validation for LLVM.	Nuno P. Lopes,Juneyoung Lee,Chung-Kil Hur,Zhengyang Liu 0003,John Regehr	10.1145/3453483.3454030
+Vectorized secure evaluation of decision forests.	Raghav Malik,Vidush Singhal,Benjamin Gottfried,Milind Kulkarni 0001	10.1145/3453483.3454094
+Hashing modulo alpha-equivalence.	Krzysztof Maziarz,Tom Ellis,Alan Lawrence,Andrew W. Fitzgibbon,Simon Peyton Jones	10.1145/3453483.3454088
+Robustness certification with generative models.	Matthew Mirman,Alexander Hägele,Pavol Bielik,Timon Gehr,Martin T. Vechev	10.1145/3453483.3454100
+Trace-based control-flow analysis.	Benoît Montagu,Thomas P. Jensen	10.1145/3453483.3454057
+Reverse engineering for reduction parallelization via semiring polynomials.	Akimasa Morihata,Shigeyuki Sato	10.1145/3453483.3454079
+Developer and user-transparent compiler optimization for interactive applications.	Paschalis Mpeis,Pavlos Petoumenos,Kim M. Hazelwood,Hugh Leather	10.1145/3453483.3454043
+DNNFusion: accelerating deep neural networks execution with advanced operator fusion.	Wei Niu,Jiexiong Guan,Yanzhi Wang,Gagan Agrawal,Bin Ren	10.1145/3453483.3454083
+IOOpt: automatic derivation of I/O complexity bounds for affine programs.	Auguste Olivry,Guillaume Iooss,Nicolas Tollenaere,Atanas Rountev,P. Sadayappan,Fabrice Rastello	10.1145/3453483.3454103
+Filling typed holes with live GUIs.	Cyrus Omar,David Moon,Andrew Blinn,Ian Voysey,Nick Collins,Ravi Chugh	10.1145/3453483.3454059
+Synthesizing data structure refinements from integrity constraints.	Shankara Pailoor,Yuepeng Wang 0001,Xinyu Wang 0006,Isil Dillig	10.1145/3453483.3454063
+Unqomp: synthesizing uncomputation in Quantum circuits.	Anouk Paradis,Benjamin Bichsel,Samuel Steffen,Martin T. Vechev	10.1145/3453483.3454040
+Practical smart contract sharding with ownership and commutativity analysis.	George Pîrlea,Amrit Kumar 0001,Ilya Sergey	10.1145/3453483.3454112
+Repairing serializability bugs in distributed database programs via automated schema refactoring.	Kia Rahmani,Kartik Nagar,Benjamin Delaware,Suresh Jagannathan	10.1145/3453483.3454028
+Task parallel assembly language for uncompromising parallelism.	Mike Rainey,Ryan R. Newton,Kyle C. Hale,Nikos Hardavellas,Simone Campanoni,Peter A. Dinda,Umut A. Acar	10.1145/3453483.3460969
+Perceus: garbage free reference counting with reuse.	Alex Reinking,Ningning Xie,Leonardo de Moura 0001,Daan Leijen	10.1145/3453483.3454032
+Unleashing the hidden power of compiler optimization on binary code difference: an empirical study.	Xiaolei Ren,Michael Ho,Jiang Ming 0002,Yu Lei 0001,Li Li 0029	10.1145/3453483.3454035
+Scooter &amp; Sidecar: a domain-specific approach to writing secure database migrations.	John Renner,Alex Sanchez-Stern,Fraser Brown,Sorin Lerner,Deian Stefan	10.1145/3453483.3454072
+Proof repair across type equivalences.	Talia Ringer,RanDair Porter,Nathaniel Yazdani,John Leo,Dan Grossman	10.1145/3453483.3454033
+Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models.	Rohan Basu Roy,Tirthak Patel,Vijay Gadepally,Devesh Tiwari	10.1145/3453483.3454109
+Specification synthesis with constrained Horn clauses.	Sumanth Prabhu S,Grigory Fedyukovich,Kumar Madhukar,Deepak D&apos;Souza	10.1145/3453483.3454104
+SPPL: probabilistic programming with fast exact symbolic inference.	Feras A. Saad,Martin C. Rinard,Vikash K. Mansinghka	10.1145/3453483.3454078
+RefinedC: automating the foundational verification of C code with refined ownership types.	Michael Sammler,Rodolphe Lepigre,Robbert Krebbers,Kayvan Memarian,Derek Dreyer,Deepak Garg 0001	10.1145/3453483.3454036
+Concolic program repair.	Ridwan Salihin Shariffdeen,Yannic Noller,Lars Grunske,Abhik Roychoudhury	10.1145/3453483.3454051
+Path-sensitive sparse analysis without path conditions.	Qingkai Shi,Peisen Yao,Rongxin Wu,Charles Zhang	10.1145/3453483.3454086
+Retrofitting effect handlers onto OCaml.	K. C. Sivaramakrishnan,Stephen Dolan,Leo White,Tom Kelly,Sadiq Jaffer,Anil Madhavapeddy	10.1145/3453483.3454039
+Provable repair of deep neural networks.	Matthew Sotoudeh,Aditya V. Thakur	10.1145/3453483.3454064
+Transfinite Iris: resolving an existential dilemma of step-indexed separation logic.	Simon Spies,Lennard Gäher,Daniel Gratzer,Joseph Tassarotti,Robbert Krebbers,Derek Dreyer,Lars Birkedal	10.1145/3453483.3454031
+Symbolic Boolean derivatives for efficiently solving extended regular expression constraints.	Caleb Stanford,Margus Veanes,Nikolaj S. Bjørner	10.1145/3453483.3454066
+Automatically enforcing fresh and consistent inputs in intermittent systems.	Milijana Surbatovich,Limin Jia 0001,Brandon Lucia	10.1145/3453483.3454081
+Incremental whole-program analysis in Datalog with lattices.	Tamás Szabó,Sebastian Erdweg,Gábor Bergmann	10.1145/3453483.3454026
+SyRust: automatic testing of Rust libraries with semantic-aware program synthesis.	Yoshiki Takashima,Ruben Martins,Limin Jia 0001,Corina S. Pasareanu	10.1145/3453483.3454084
+Gleipnir: toward practical error analysis for Quantum programs.	Runzhou Tao,Yunong Shi,Jianan Yao,John Hui,Frederic T. Chong,Ronghui Gu	10.1145/3453483.3454029
+Example-guided synthesis of relational queries.	Aalok Thakkar,Aaditya Naik,Nathaniel Sands,Rajeev Alur,Mayur Naik,Mukund Raghothaman	10.1145/3453483.3454098
+Reticle: a virtual machine for programming modern FPGAs.	Luis Vega,Joseph McMahan,Adrian Sampson,Dan Grossman,Luis Ceze	10.1145/3453483.3454075
+Central moment analysis for cost accumulators in probabilistic programs.	Di Wang 0017,Jan Hoffmann 0002,Thomas W. Reps	10.1145/3453483.3454062
+Sound probabilistic inference via guide types.	Di Wang 0017,Jan Hoffmann 0002,Thomas W. Reps	10.1145/3453483.3454077
+Quantitative analysis of assertion violations in probabilistic programs.	Jinyi Wang,Yican Sun,Hongfei Fu 0001,Krishnendu Chatterjee,Amir Kafshdar Goharshady	10.1145/3453483.3454102
+Boosting SMT solver performance on mixed-bitwise-arithmetic expressions.	Dongpeng Xu 0001,Binbin Liu,Weijie Feng,Jiang Ming 0002,Qilong Zheng,Jing Li 0047,Qiaoyan Yu	10.1145/3453483.3454068
+Automated conformance testing for JavaScript engines via deep compiler fuzzing.	Guixin Ye,Zhanyong Tang,Shin Hwei Tan,Songfang Huang,Dingyi Fang,Xiaoyang Sun,Lizhong Bian,Haibo Wang,Zheng Wang 0001	10.1145/3453483.3454054
+Quantum abstract interpretation.	Nengkun Yu,Jens Palsberg	10.1145/3453483.3454061
+AKG: automatic kernel generation for neural processing units using polyhedral transformations.	Jie Zhao 0002,Bojie Li,Wang Nie,Zhen Geng,Renwei Zhang,Xiong Gao,Bin Cheng,Chen Wu,Yun Cheng,Zheng Li,Peng Di,Kun Zhang,Xuefeng Jin	10.1145/3453483.3454106
+Execution reconstruction: harnessing failure reoccurrences for failure reproduction.	Gefei Zuo,Jiacheng Ma,Andrew Quinn 0001,Pramod Bhatotia,Pedro Fonseca 0001,Baris Kasikci	10.1145/3453483.3454101
+PLDI &apos;21: 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, Virtual Event, Canada, June 20-25, 2021.	Stephen N. Freund,Eran Yahav	10.1145/3453483

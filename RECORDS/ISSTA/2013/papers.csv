@@ -1,0 +1,39 @@
+Collecting a heap of shapes.	Earl T. Barr,Christian Bird,Mark Marron	10.1145/2483760.2483761
+Variable and thread bounding for systematic testing of multithreaded programs.	Sandeep Bindal,Sorav Bansal,Akash Lal	10.1145/2483760.2483764
+Formal safety proof: a real case study in a railway interlocking system.	Andrea Bonacchi 0001	10.1145/2483760.2492398
+Generation of test databases using sampling methods.	Teodora Sandra Buda	10.1145/2483760.2492397
+Finding rare numerical stability errors in concurrent computations.	Hana Chockler,Karine Even,Eran Yahav	10.1145/2483760.2483791
+Efficient and flexible GUI test execution via test merging.	Pranavadatta Devaki,Suresh Thummalapenta,Nimit Singhania,Saurabh Sinha	10.1145/2483760.2483781
+Does automated white-box test generation really help software testers?	Gordon Fraser 0001,Matt Staats,Phil McMinn,Andrea Arcuri,Frank Padberg	10.1145/2483760.2483774
+Analysis of performance regression testing data by transaction profiles.	Shadi Ghaith	10.1145/2483760.2492399
+Comparing non-adequate test suites using coverage criteria.	Milos Gligoric 0001,Alex Groce,Chaoqiang Zhang,Rohan Sharma,Mohammad Amin Alipour,Darko Marinov	10.1145/2483760.2483769
+Selective mutation testing for concurrent code.	Milos Gligoric 0001,Lingming Zhang 0001,Cristiano Pereira,Gilles Pokam	10.1145/2483760.2483773
+Combining model checking and testing with an application to reliability prediction and distribution.	Lin Gui 0002,Jun Sun 0001,Yang Liu 0003,Yuanjie Si,Jin Song Dong,Xinyu Wang 0001	10.1145/2483760.2483779
+Generation of Java programs properties from test purposes.	Simone Hanazumi,Ana Cristina Vieira de Melo	10.1145/2483760.2492400
+An empirical study of PHP feature usage: a static analysis perspective.	Mark Hills 0001,Paul Klint,Jurgen J. Vinju	10.1145/2483760.2483786
+Hybrid learning: interface generation through static, dynamic, and symbolic analysis.	Falk Howar,Dimitra Giannakopoulou,Zvonimir Rakamaric	10.1145/2483760.2483783
+Automated testing with targeted event sequence generation.	Casper Svenning Jensen,Mukul R. Prasad,Anders Møller	10.1145/2483760.2483777
+F3: fault localization for field failures.	Wei Jin 0001,Alessandro Orso	10.1145/2483760.2483763
+Orthogonal exploration of the search space in evolutionary test case generation.	Fitsum Meshesha Kifetew,Annibale Panichella,Andrea De Lucia,Rocco Oliveto,Paolo Tonella	10.1145/2483760.2483789
+Dynamically validating static memory leak warnings.	Mengchen Li,Yuanjun Chen,Linzhang Wang,Guoqing Xu 0001	10.1145/2483760.2483778
+Calculating source line level energy information for Android applications.	Ding Li 0001,Shuai Hao,William G. J. Halfond,Ramesh Govindan	10.1145/2483760.2483780
+EnforceMOP: a runtime property enforcement system for multithreaded programs.	Qingzhou Luo,Grigore Rosu	10.1145/2483760.2483766
+Data model property inference and repair.	Jaideep Nijjar,Tevfik Bultan	10.1145/2483760.2483768
+Debugging non-deadlock concurrency bugs.	Sangmin Park	10.1145/2483760.2492395
+Griffin: grouping suspicious memory-access patterns to improve understanding of concurrency bugs.	Sangmin Park,Mary Jean Harrold,Richard W. Vuduc	10.1145/2483760.2483792
+Optimizing monitoring of finite state properties through monitor compaction.	Rahul Purandare,Matthew B. Dwyer,Sebastian G. Elbaum	10.1145/2483760.2483762
+Using automated program repair for evaluating the effectiveness of fault localization techniques.	Yuhua Qi,Xiaoguang Mao,Yan Lei,Chengsong Wang	10.1145/2483760.2483785
+Practical static race detection for Java parallel loops.	Cosmin Radoi,Danny Dig	10.1145/2483760.2483765
+Parallel bounded analysis in code with rich invariants by refinement of field bounds.	Nicolás Rosner,Juan P. Galeotti,Santiago Bermúdez,Guido Marucci Blas,Santiago Perez De Rosso,Lucas Pizzagalli,Luciano Zemín,Marcelo F. Frias	10.1145/2483760.2483770
+Declarative mocking.	Hesam Samimi,Rebecca Hicks,Ari Fogel,Todd D. Millstein	10.1145/2483760.2483790
+Threats to the validity and value of empirical assessments of the accuracy of coverage-based fault locators.	Friedrich Steimann,Marcus Frenkel,Rui Abreu 0001	10.1145/2483760.2483767
+Product-line verification with feature-oriented contracts.	Thomas Thüm	10.1145/2483760.2492396
+Finding your way in the testing jungle: a learning approach to web security testing.	Omer Tripp,Omri Weisman,Lotem Guy	10.1145/2483760.2483776
+Semi-valid input coverage for fuzz testing.	Petar Tsankov,Mohammad Torabi Dashti,David A. Basin	10.1145/2483760.2483787
+Practical blended taint analysis for JavaScript.	Shiyi Wei,Barbara G. Ryder	10.1145/2483760.2483788
+Context-sensitive delta inference for identifying workload-dependent performance bottlenecks.	Xusheng Xiao,Shi Han,Dongmei Zhang 0001,Tao Xie 0001	10.1145/2483760.2483784
+Expressing and checking intended changes via software change contracts.	Jooyong Yi,Dawei Qi,Shin Hwei Tan,Abhik Roychoudhury	10.1145/2483760.2483772
+SimRacer: an automated framework to support testing for process-level races.	Tingting Yu,Witawas Srisa-an,Gregg Rothermel	10.1145/2483760.2483771
+Automatically repairing broken workflows for evolving GUI applications.	Sai Zhang 0001,Hao Lü,Michael D. Ernst	10.1145/2483760.2483775
+Faster mutation testing inspired by test prioritization and reduction.	Lingming Zhang 0001,Darko Marinov,Sarfraz Khurshid	10.1145/2483760.2483782
+International Symposium on Software Testing and Analysis, ISSTA &apos;13, Lugano, Switzerland, July 15-20, 2013	Mauro Pezzè,Mark Harman	10.1145/2483760

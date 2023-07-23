@@ -1,0 +1,46 @@
+The Impact of Cooperation in Bilateral Network Creation.	Tobias Friedrich 0001,Hans Gawendowicz,Pascal Lenzner,Arthur Zahn	10.1145/3583668.3594588
+Distributed MIS with Low Energy and Time Complexities.	Mohsen Ghaffari 0001,Julian Portmann	10.1145/3583668.3594587
+A Near-Optimal Deterministic Distributed Synchronizer.	Mohsen Ghaffari 0001,Anton Trygub	10.1145/3583668.3594598
+Brief Announcement: Local Problems in the SUPPORTED Model.	Akanksha Agrawal,John Augustine,David Peleg,Srikkanth Ramachandran	10.1145/3583668.3594583
+Optimal Eventual Byzantine Agreement Protocols with Omission Failures.	Kaya Alpturer,Joseph Y. Halpern,Ron van der Meyden	10.1145/3583668.3594573
+Fast Convergence of k-Opinion Undecided State Dynamics in the Population Protocol Model.	Talley Amir,James Aspnes,Petra Berenbrink,Felix Biermeier,Christopher Hahn,Dominik Kaaser,John Lazarsfeld	10.1145/3583668.3594589
+Universally Composable Simultaneous Broadcast against a Dishonest Majority and Applications.	Myrto Arapinis,Ábel Kocsis,Nikolaos Lamprou,Liam Medley,Thomas Zacharias 0001	10.1145/3583668.3594591
+Efficient Bounded Timestamping from Standard Synchronization Primitives.	Benyamin Bashari,Ali Jamadi,Philipp Woelfel	10.1145/3583668.3594601
+Brief Announcement: Breaking the f + 1 Barrier: Executing Payment Transactions in Parallel with Less than f + 1 Validations.	Rida A. Bazzi,Sara Tucci Piergiovanni	10.1145/3583668.3594580
+Distributed Averaging in Opinion Dynamics.	Petra Berenbrink,Colin Cooper,Cristina Gava,David Kohan Marzagão,Frederik Mallmann-Trenn,Tomasz Radzik,Nicolas Rivera	10.1145/3583668.3594593
+Brief Announcement: CausalEC: A Causally Consistent Data Storage Algorithm based on Cross-Object Erasure Coding.	Viveck R. Cadambe,Shihang Lyu	10.1145/3583668.3594603
+Asynchronous Wait-Free Runtime Verification and Enforcement of Linearizability.	Armando Castañeda,Gilde Valeria Rodríguez	10.1145/3583668.3594563
+Word-Size RMR Tradeoffs for Recoverable Mutual Exclusion.	David Yu Cheng Chan,George Giakkoupis,Philipp Woelfel	10.1145/3583668.3594597
+Efficient Distributed Decomposition and Routing Algorithms in Minor-Free Networks and Their Applications.	Yi-Jun Chang	10.1145/3583668.3594604
+The Complexity of Distributed Approximation of Packing and Covering Integer Linear Programs.	Yi-Jun Chang,Zeyong Li	10.1145/3583668.3594562
+Deterministic Fault-Tolerant Distributed Computing in Linear Time and Communication.	Bogdan S. Chlebus,Dariusz Rafal Kowalski,Jan Olkowski	10.1145/3583668.3594599
+On the Validity of Consensus.	Pierre Civit,Seth Gilbert,Rachid Guerraoui,Jovan Komatovic,Manuel Vidigueira	10.1145/3583668.3594567
+Brief Announcement: Discrete Incremental Voting.	Colin Cooper,Tomasz Radzik,Takeharu Shiraga	10.1145/3583668.3594582
+Brief Announcement: Efficient Collaborative Tree Exploration with Breadth-First Depth-Next.	Romain Cosson,Laurent Massoulié,Laurent Viennot	10.1145/3583668.3594568
+Brief Announcement: Population Protocols Decide Double-exponential Thresholds.	Philipp Czerner	10.1145/3583668.3594571
+Uniting General-Graph and Geometric-Based Radio Networks via Independence Number Parametrization.	Peter Davies	10.1145/3583668.3594595
+Optimal Message-Passing with Noisy Beeps.	Peter Davies	10.1145/3583668.3594594
+Brief Announcement: The MBroadcast Abstraction.	Mathilde Déprés,Achour Mostéfaoui,Matthieu Perrin,Michel Raynal	10.1145/3583668.3594569
+Brief Announcement: Distributed Construction of Near-Optimal Compact Routing Schemes for Planar Graphs.	Jinfeng Dou,Thorsten Götte,Henning Hillebrandt,Christian Scheideler,Julian Werthmann	10.1145/3583668.3594561
+Distributed MIS in O(log log n) Awake Complexity.	Fabien Dufoulon,William K. Moses Jr.,Gopal Pandurangan	10.1145/3583668.3594574
+Distributed CONGEST Algorithms against Mobile Adversaries.	Orr Fischer,Merav Parter	10.1145/3583668.3594578
+Brief Announcement: The Laplacian Paradigm in Deterministic Congested Clique.	Sebastian Forster,Tijn de Vos	10.1145/3583668.3594577
+Distributed Self-Stabilizing MIS with Few States and Weak Communication.	George Giakkoupis,Isabella Ziccardi	10.1145/3583668.3594581
+BeeGees: Stayin&apos; Alive in Chained BFT.	Neil Giridharan,Florian Suri-Payer,Matthew Ding,Heidi Howard,Ittai Abraham,Natacha Crooks	10.1145/3583668.3594572
+Brief Announcement: Improved Consensus in Quantum Networks.	MohammadTaghi Hajiaghayi,Dariusz Rafal Kowalski,Jan Olkowski	10.1145/3583668.3594600
+(1-ϵ)-Approximate Maximum Weighted Matching in poly(1/ϵ, log n) Time in the Distributed and Parallel Settings.	Shang-En Huang,Hsin-Hao Su	10.1145/3583668.3594570
+Deterministic Fault-Tolerant Connectivity Labeling Scheme.	Taisuke Izumi,Yuval Emek,Tadashi Wadayama,Toshimitsu Masuzawa	10.1145/3583668.3594584
+Brief Announcement: Efficient Recoverable Writable-CAS.	Prasad Jayanti,Siddhartha Visveswara Jayanti,Sucharita Jayanti	10.1145/3583668.3594592
+Improved Tradeoffs for Leader Election.	Shay Kutten,Peter Robinson 0002,Ming Ming Tan,Xianbin Zhu 0002	10.1145/3583668.3594576
+Brief Announcement: Efficient Computation in Congested Anonymous Dynamic Networks.	Giuseppe Antonio Di Luna,Giovanni Viglietta	10.1145/3583668.3594590
+Distributed Symmetry Breaking on Power Graphs via Sparsification.	Yannic Maus,Saku Peltonen,Jara Uitto	10.1145/3583668.3594579
+A Wait-free Queue with Polylogarithmic Step Complexity.	Hossein Naderibeni,Eric Ruppert	10.1145/3583668.3594565
+Brief Announcement: What Can We Compute in a Single Round of the Congested Clique?	Peter Robinson 0002	10.1145/3583668.3594575
+The ERA Theorem for Safe Memory Reclamation.	Gali Sheffi,Erez Petrank	10.1145/3583668.3594564
+Brief Announcement: Improved, Partially-Tight Multiplicity Queue Lower Bounds.	Anh Tran,Edward Talmage	10.1145/3583668.3594602
+Brief Announcement: Minimum Cost Maximum Flow in the CONGEST Model.	Tijn de Vos	10.1145/3583668.3594566
+On the Amortized Communication Complexity of Byzantine Broadcast.	Jun Wan,Atsuki Momose,Ling Ren 0001,Elaine Shi,Zhuolun Xiang	10.1145/3583668.3594596
+From Distributed Algorithms to Machine Learning and Back.	Roger Wattenhofer	10.1145/3583668.3600025
+A Near Time-optimal Population Protocol for Self-stabilizing Leader Election on Rings with a Poly-logarithmic Number of States.	Daisuke Yokota,Yuichi Sudo,Fukuhito Ooshita,Toshimitsu Masuzawa	10.1145/3583668.3594586
+Sparse Semi-Oblivious Routing: Few Random Paths Suffice.	Goran Zuzic,Bernhard Haeupler,Antti Roeyskoe	10.1145/3583668.3594585
+Proceedings of the 2023 ACM Symposium on Principles of Distributed Computing, PODC 2023, Orlando, FL, USA, June 19-23, 2023	Rotem Oshman,Alexandre Nolin,Magnús M. Halldórsson,Alkida Balliu	10.1145/3583668

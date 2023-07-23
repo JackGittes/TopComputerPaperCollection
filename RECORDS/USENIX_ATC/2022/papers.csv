@@ -1,0 +1,68 @@
+SoftTRR: Protect Page Tables against Rowhammer Attacks using Software-only Target Row Refresh.	Zhi Zhang 0001,Yueqiang Cheng,Minghua Wang,Wei He,Wenhao Wang 0001,Surya Nepal,Yansong Gao,Kang Li,Zhe Wang 0017,Chenggang Wu 0002	
+EPK: Scalable and Efficient Memory Protection Keys.	Jinyu Gu 0001,Hao Li,Wentai Li,Yubin Xia,Haibo Chen 0001	
+Zero-Change Object Transmission for Distributed Big Data Analytics.	Mingyu Wu 0001,Shuaiwei Wang,Haibo Chen 0001,Binyu Zang	
+CRISP: Critical Path Analysis of Large-Scale Microservice Architectures.	Zhizhou Zhang 0002,Murali Krishna Ramanathan,Prithvi Raj,Abhishek Parwal,Timothy Sherwood,Milind Chabbi	
+PilotFish: Harvesting Free Cycles of Cloud Gaming with Deep Learning Training.	Wei Zhang 0149,Binghao Chen,Zhenhua Han,Quan Chen 0002,Peng Cheng 0005,Fan Yang 0024,Ran Shu 0001,Yuqing Yang 0001,Minyi Guo	
+DLOS: Effective Static Detection of Deadlocks in OS Kernels.	Jia-Ju Bai,Tuo Li,Shi-Min Hu 0001	
+ZNSwap: un-Block your Swap.	Shai Bergman,Niklas Cassel,Matias Bjørling,Mark Silberstein	
+Faster Software Packet Processing on FPGA NICs with eBPF Program Warping.	Marco Bonola,Giacomo Belocchi,Angelo Tulumello,Marco Spaziani Brunella,Giuseppe Siracusano,Giuseppe Bianchi 0001,Roberto Bifulco	
+Eric Brewer, VP Infrastructure, Google Fellow and Professor Emeritus, UC Berkeley.	Eric A. Brewer	
+FlatFS: Flatten Hierarchical File System Namespace on Non-volatile Memories.	Miao Cai,Junru Shen,Bin Tang,Hao Huang,Baoliu Ye	
+Firebolt: Finding Bugs in Programmable Data Plane Generators.	Jiamin Cao,Yu Zhou 0008,Chen Sun 0005,Lin He 0004,Zhaowei Xi,Ying Liu 0024	
+Memory Harvesting in Multi-GPU Systems with Hierarchical Unified Virtual Memory.	Sangjin Choi,Taeksoo Kim,Jinwoo Jeong,Rachata Ausavarungnirun,Myeongjae Jeon,Youngjin Kwon,Jeongseob Ahn	
+Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing.	Seungbeom Choi,Sunho Lee,Yeonjae Kim,Jongse Park,Youngjin Kwon,Jaehyuk Huh	
+DVABatch: Diversity-aware Multi-Entry Multi-Exit Batching for Efficient Processing of DNN Services on GPUs.	Weihao Cui,Han Zhao 0005,Quan Chen 0002,Hao Wei,Zirui Li,Deze Zeng,Chao Li 0009,Minyi Guo	
+Riker: Always-Correct and Fast Incremental Builds from Simple Specifications.	Charlie Curtsinger,Daniel W. Barowy	
+Automatic Recovery of Fine-grained Compiler Artifacts at the Binary Level.	Yufei Du,Ryan Court,Kevin Z. Snow,Fabian Monrose	
+Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service.	Mostafa Elhemali,Niall Gallagher,Nick Gordon,Joseph Idziorek,Richard Krog,Colin Lazier,Erben Mo,Akhilesh Mritunjai,Somasundaram Perianayagam,Tim Rath,Swami Sivasubramanian,James Christopher Sorenson III,Sroaj Sosothikul,Doug Terry,Akshat Vig	
+Faith: An Efficient Framework for Transformer Verification on GPUs.	Boyuan Feng,Tianqi Tang 0001,Yuke Wang,Zhaodong Chen,Zheng Wang,Shu Yang,Yuan Xie 0001,Yufei Ding	
+High Throughput Replication with Integrated Membership Management.	Pedro Fouto,Nuno M. Preguiça,João Leitão 0001	
+Direct Access, High-Performance Memory Disaggregation with DirectCXL.	Donghyun Gouk,Sangwon Lee,Miryeong Kwon,Myoungsoo Jung	
+Cachew: Machine Learning Input Data Processing as a Service.	Dan Graur,Damien Aymon,Dan Kluser,Tanguy Albrici,Chandramohan A. Thekkath,Ana Klimovic	
+Meces: Latency-efficient Rescaling via Prioritized State Migration for Stateful Distributed Stream Processing Systems.	Rong Gu,Han Yin,Weichang Zhong,Chunfeng Yuan,Yihua Huang 0001	
+uKharon: A Membership Service for Microsecond Applications.	Rachid Guerraoui,Antoine Murat,Javier Picorel,Athanasios Xygkis,Huabing Yan,Pengfei Zuo	
+Campo: Cost-Aware Performance Optimization for Mixed-Precision Neural Network Training.	Xin He,Jianhua Sun 0002,Hao Chen 0002,Dong Li 0001	
+Not that Simple: Email Delivery in the 21st Century.	Florian Holzbauer,Johanna Ullrich,Martina Lindorfer,Tobias Fiebig	
+Primo: Practical Learning-Augmented Systems with Interpretable Models.	Qinghao Hu,Harsha Nori,Peng Sun 0006,Yonggang Wen 0001,Tianwei Zhang 0004	
+CoVA: Exploiting Compressed-Domain Analysis to Accelerate Video Analytics.	Jinwoo Hwang,Minsu Kim,Daeun Kim,Seungho Nam,Yoonsung Kim,Dohee Kim,Hardik Sharma,Jongse Park	
+Co-opting Linux Processes for High-Performance Network Simulation.	Rob Jansen,James Newsome,Ryan Wails	
+Whale: Efficient Giant Model Training over Heterogeneous GPUs.	Xianyan Jia,Le Jiang,Ang Wang,Wencong Xiao,Ziji Shi,Jie Zhang 0078,Xinyuan Li,Langshi Chen,Yong Li,Zhen Zheng,Xiaoyong Liu,Wei Lin 0016	
+HyperEnclave: An Open and Cross-platform Trusted Execution Environment.	Yuekai Jia,Shuang Liu,Wenhao Wang,Yu Chen 0004,Zhengde Zhai,Shoumeng Yan,Zhengyu He	
+Hardening Hypervisors with Ombro.	Ethan Johnson,Colin Pronovost,John Criswell	
+Vinter: Automatic Non-Volatile Memory Crash Consistency Testing for Full Systems.	Samuel Kalbfleisch,Lukas Werling,Frank Bellosa	
+JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud.	Alexey Khrabrov 0002,Marius Pirvu,Vijay Sundaresan,Eyal de Lara	
+Sibylla: To Retry or Not To Retry on Deep Learning Job Failure.	Taeyoon Kim,Suyeon Jeong,Jongseop Lee,Soobee Lee,Myeongjae Jeon	
+Modulo: Finding Convergence Failure Bugs in Distributed Systems with Divergence Resync Models.	Beom Heyn Kim,Taesoo Kim,David Lie	
+IPLFS: Log-Structured File System without Garbage Collection.	Juwon Kim,Minsu Kim,Muhammad Danish Tehseen,Joontaek Oh,Youjip Won	
+Privbox: Faster System Calls Through Sandboxed Privileged Execution.	Dmitry Kuznetsov,Adam Morrison 0001	
+Vigil-KV: Hardware-Software Co-Design to Integrate Strong Latency Determinism into Log-Structured Merge Key-Value Stores.	Miryeong Kwon,Seungjun Lee,Hyunkyu Choi,Jooyoung Hwang,Myoungsoo Jung	
+RunD: A Lightweight Secure Container Runtime for High-density Deployment and High-concurrency Startup in Serverless Computing.	Zijun Li,Jiagan Cheng,Quan Chen 0002,Eryu Guan,Zizheng Bian,Yi Tao,Bin Zha,Qiang Wang,Weidong Han,Minyi Guo	
+Help Rather Than Recycle: Alleviating Cold Startup in Serverless Computing Through Inter-Function Container Sharing.	Zijun Li,Linsong Guo,Quan Chen 0002,Jiagan Cheng,Chuhao Xu,Deze Zeng,Zhuo Song,Tao Ma,Yong Yang,Chao Li 0009,Minyi Guo	
+Speculative Recovery: Cheap, Highly Available Fault Tolerance with Disaggregated Storage.	Nanqinqin Li,Anja Kalaba,Michael J. Freedman,Wyatt Lloyd,Amit Levy	
+AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing.	Junru Li,Youyou Lu,Qing Wang 0031,Jiazhen Lin,Zhe Yang,Jiwu Shu	
+Tetris: Memory-efficient Serverless Inference through Tensor Sharing.	Jie Li,Laiping Zhao,Yanan Yang,Kunlin Zhan,Keqiu Li	
+Investigating Managed Language Runtime Performance: Why JavaScript and Python are 8x and 29x slower than C++, yet Java and Go can be Faster?	David Lion,Adrian Chiu,Michael Stumm,Ding Yuan 0004	
+NVMe SSD Failures in the Field: the Fail-Stop and the Fail-Slow.	Ruiming Lu,Erci Xu,Yiming Zhang 0003,Zhaosheng Zhu,Mengtian Wang,Zongpeng Zhu,Guangtao Xue,Minglu Li 0001,Jiesheng Wu	
+DepFast: Orchestrating Code of Quorum Systems.	Xuhao Luo,Weihai Shen,Shuai Mu 0001,Tianyin Xu	
+Sift: Using Refinement-guided Automation to Verify Complex Distributed Systems.	Haojun Ma,Hammad Ahmad,Aman Goel,Eli Goldweber,Jean-Baptiste Jeannin,Manos Kapritsos,Baris Kasikci	
+CBMM: Financial Advice for Kernel Memory Managers.	Mark Mansi,Bijan Tabatabai,Michael M. Swift	
+Margaret Martonosi, National Science Foundation.	Margaret Martonosi	
+PRIDWEN: Universally Hardening SGX Programs via Load-Time Synthesis.	Fan Sang,Ming-Wei Shih,Sangho Lee 0001,Xiaokuan Zhang,Michael Steiner 0001,Mona Vij,Taesoo Kim	
+SOTER: Guarding Black-box Inference for General Neural Networks at the Edge.	Tianxiang Shen,Ji Qi,Jianyu Jiang,Xian Wang,Siyuan Wen,Xusheng Chen,Shixiong Zhao,Sen Wang,Li Chen,Xiapu Luo,Fengwei Zhang,Heming Cui	
+AddrMiner: A Comprehensive Global Active IPv6 Address Discovery System.	Guanglei Song,Jiahai Yang 0001,Lin He 0004,Zhiliang Wang,Guo Li,Chenxin Duan,Yaozhong Liu,Zhongxiang Sun	
+KSG: Augmenting Kernel Fuzzing with System Call Specification Generation.	Hao Sun,Yuheng Shen,Jianzhong Liu,Yiru Xu,Yu Jiang	
+Surprise-Inspired Networking.	David L. Tennenhouse	
+StRAID: Stripe-threaded Architecture for Parity-based RAIDs with Ultra-fast SSDs.	Shucheng Wang,Qiang Cao 0001,Ziyi Lu,Hong Jiang 0001,Jie Yao,Yuanyuan Dong	
+BBQ: A Block-based Bounded Queue for Exchanging Data and Profiling.	Jiawei Wang,Diogo Behrens,Ming Fu,Lilith Oberhauser,Jonas Oberhauser,Jitang Lei,Geng Chen,Hermann Härtig,Haibo Chen 0001	
+FpgaNIC: An FPGA-based Versatile 100Gb SmartNIC for GPUs.	Zeke Wang,Hongjing Huang,Jie Zhang 0081,Fei Wu 0001,Gustavo Alonso	
+Pacman: An Efficient Compaction Approach for Log-Structured Key-Value Store on Persistent Memory.	Jing Wang,Youyou Lu,Qing Wang 0031,Minhui Xie,Keji Huang,Jiwu Shu	
+Zero Overhead Monitoring for Cloud-native Infrastructure using RDMA.	Zhe Wang 0015,Teng Ma,Linghe Kong,Zhenzao Wen,Jingxuan Li,Zhuo Song,Yang Lu,Guihai Chen,Wei Cao	
+KRCORE: A Microsecond-scale RDMA Control Plane for Elastic Computing.	Xingda Wei,Fangming Lu,Rong Chen 0001,Haibo Chen 0001	
+Hashing Design in Modern Networks: Challenges and Mitigation Techniques.	Yunhong Xu,Keqiang He,Rui Wang 0025,Minlan Yu,Nick Duffield,Hassan M. G. Wassel,Shidong Zhang,Leon Poutievski,Junlan Zhou,Amin Vahdat	
+Towards Latency Awareness for Content Delivery Network Caching.	Gang Yan,Jian Li 0008	
+Secure and Lightweight Deduplicated Storage via Shielded Deduplication-Before-Encryption.	Zuoru Yang,Jingwei Li 0001,Patrick P. C. Lee	
+CacheSack: Admission Optimization for Google Datacenter Flash Caches.	Tzu-Wei Yang,Seth Pollen,Mustafa Uysal,Arif Merchant,Homer Wolfmeister	
+RRC: Responsive Replicated Containers.	Diyu Zhou,Yuval Tamir	
+PetS: A Unified Framework for Parameter-Efficient Transformers Serving.	Zhe Zhou,Xuechao Wei,Jiejing Zhang,Guangyu Sun 0003	
+Building a High-performance Fine-grained Deduplication Framework for Backup Storage with High Deduplication Ratio.	Xiangyu Zou,Wen Xia,Philip Shilane,Haijun Zhang 0002,Xuan Wang 0002	
+2022 USENIX Annual Technical Conference, USENIX ATC 2022, Carlsbad, CA, USA, July 11-13, 2022	Jiri Schindler,Noa Zilberman	

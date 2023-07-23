@@ -1,0 +1,49 @@
+Software in Silicon in the Oracle SPARC M7 processor.	Kathirgamar Aingaran,Sumti Jairath,David Lutz	10.1109/HOTCHIPS.2016.7936220
+Inside 6th gen Intel® Core™: New microarchitecture code named skylake.	Ittai Anati,David Blythe,Jack Doweck,Hong Jiang,Wen-Fu Kao,Julius Mandelblat,Lihu Rappoport,Efraim Rotem,Ahmad Yasin	10.1109/HOTCHIPS.2016.7936222
+Design and development of a an ultra-low power Intel architecture MCU class SoCs.	Peter Barry	10.1109/HOTCHIPS.2016.7936206
+KiloCore: A 32 nm 1000-processor array.	Brent Bohnenstiehl,Aaron Stillmaker,Jon J. Pimentel,Timothy Andreas,Bin Liu 0037,Anh Tran,Emmanuel Adeagbo,Bevan M. Baas	10.1109/HOTCHIPS.2016.7936218
+MvEcho - acoustic response modelling for auralisation.	Léonie Buckley,Sam Caulfield,David Moloney	10.1109/HOTCHIPS.2016.7936238
+MvEcho.	Léonie Buckley,Sam Caulfield,David Moloney	10.1109/HOTCHIPS.2016.7936239
+Samsung exynos M1 processor.	Brad Burgess	10.1109/HOTCHIPS.2016.7936205
+VR and AR anytime and everywhere: Contributions of PMD depth sensing to an evolving ecosystem.	Bernd Buxbaum	10.1109/HOTCHIPS.2016.7936195
+AnyCore-1: A comprehensively adaptive 4-way superscalar processor.	Rangeen Basu Roy Chowdhury,Anil K. Kannepalli,Eric Rotenberg	10.1109/HOTCHIPS.2016.7936237
+A new ×86 core architecture for the next generation of computing.	Mike Clark	10.1109/HOTCHIPS.2016.7936224
+Task parallel programming model + hardware acceleration = performance advantage.	Tamer Dallou,Divino Cesar Soares Lucas,Guido Araujo,Lucas Morais,Eduardo Ferreira Barbosa,Michael Frank 0008,Richard Bagley,Raj Sayana	10.1109/HOTCHIPS.2016.7936235
+Pascal GPU with NVLink.	John Danskin,Denis Foley	10.1109/HOTCHIPS.2016.7936202
+The bifrost GPU architecture and the ARM Mali-G71 GPU.	Jem Davies	10.1109/HOTCHIPS.2016.7936201
+3D reconstruction with tango.	Ivan Dryanovski	10.1109/HOTCHIPS.2016.7936198
+QORIQ® LS1012A: Big things in small packages: 64-bit core in a sub-10mm package.	Ben Eckermann	10.1109/HOTCHIPS.2016.7936227
+High performance DSP for vision, imaging and neural networks.	Greg Efland,Sandip Parikh,Himanshu Sanghavi,Aamir Farooqui	10.1109/HOTCHIPS.2016.7936210
+From model to FPGA: Software-hardware co-design for efficient neural network acceleration.	Kaiyuan Guo,Lingzhi Sui,Jiantao Qiu,Song Yao,Song Han 0003,Yu Wang 0002,Huazhong Yang	10.1109/HOTCHIPS.2016.7936208
+Deep compression and EIE: Efficient inference engine on compressed deep neural network.	Song Han 0003,Xingyu Liu,Huizi Mao,Jing Pu,Ardavan Pedram,Mark Horowitz,Bill Dally	10.1109/HOTCHIPS.2016.7936226
+The future of graphic and mobile memory for new applications.	Jin Kim	10.1109/HOTCHIPS.2016.7936170
+An intelligent ADAS processor with real-time semi-global matching and intention prediction for 720p stereo vision.	Kyuho Jason Lee,Kyeongryeol Bong,Changhyeon Kim,Hoi-Jun Yoo	10.1109/HOTCHIPS.2016.7936225
+Helio X20: The first tri-gear mobile SoC with CorePilot™ 3.0 technology.	Tsung-Yao Lin,Ming-Hsien Lee,Loda Chou,Clavin Peng,Jih-Ming Hsu,Jia-Ming Chen,John-CC Chen,Alex Chiou,Artis Chiu,David Lee,Carrie Huang,Kenny Lee,TzuHeng Wang,Wei-Ting Wang,Yenchi Lee,Chi-Hui Wang,Pao-Ching Tseng,Ryan Chen,Kevin Jou	10.1109/HOTCHIPS.2016.7936204
+A 16nm 256-bit wide 89.6GByte/s total bandwidth in-package interconnect with 0.3V swing and 0.062pJ/bit power in InFO package.	Mu-Shan Lin,Chien-Chun Tsai,Kenny Cheng-Hsiang Hsieh,Wen-Hung Huang,Yu-Chi Chen,Shu-Chun Yang,Chin-Ming Fu,Hao-Jie Zhan,Jinn-Yeh Chien,Shao-Yu Li,Y.-H. Chen,C.-C. Kuo,Shih-Peng Tai,Kazuyoshi Yamada	10.1109/HOTCHIPS.2016.7936211
+Quantum dot based imagers for multispectral cameras and sensors.	Emanuele Mandelli	10.1109/HOTCHIPS.2016.7936215
+Piton: A 25-core academic manycore research processor.	Michael McKeown,Yaosheng Fu,Tri Minh Nguyen 0003,Yanqi Zhou,Jonathan Balkind,Alexey Lavrov,Mohammad Shahrad,Samuel Payne,David Wentzlaff	10.1109/HOTCHIPS.2016.7936217
+A dynamically scheduled architecture for the synthesis of graph methods.	Marco Minutoli,Vito Giovanni Castellana,Antonino Tumeo,Marco Lattuada 0001,Fabrizio Ferrandi	10.1109/HOTCHIPS.2016.7936228
+HW acceleration for volumetric applications.	David Moloney	10.1109/HOTCHIPS.2016.7936196
+Embedded deep neural networks: &quot;The cost of everything and the value of nothing&quot;.	David Moloney	10.1109/HOTCHIPS.2016.7936219
+100Gbit/s, 120km, PAM 4 based switch to switch, layer 2 silicon photonics based optical interconnects for datacenters.	Radhakrishnan Nagarajan,Sudeep Bhoja,Tom Issenhuth	10.1109/HOTCHIPS.2016.7936212
+Modularizing the microprocessor core to outperform traditional out-of-order.	Tony Nowatzki,Karthikeyan Sankaralingam	10.1109/HOTCHIPS.2016.7936230
+SDA: Software-Defined Accelerator for general-purpose big data analysis system.	Jian Ouyang,Wei Qi,Yong Wang,YichenTu,Jing Wang,Bowen Jia	10.1109/HOTCHIPS.2016.7936221
+Memory as we approach a new horizon.	J. Thomas Pawlowski	10.1109/HOTCHIPS.2016.7936169
+LiveSynth: Towards an interactive synthesis flow.	Rafael Trapani Possignolo,Jose Renau	10.1109/HOTCHIPS.2016.7936229
+Passive dense stereo vision on the Myriad2 VPU.	Luca Puglia,Mircea Ionica,Giancarlo Raiconi,David Moloney	10.1109/HOTCHIPS.2016.7936240
+HBM package integration: Technology trends, challenges and applications.	Suresh Ramalingam	10.1109/HOTCHIPS.2016.7936172
+Memory technology and applications.	Allen Rush	10.1109/HOTCHIPS.2016.7936173
+Welcome to 2016 Hot Chips.	Stefan Rusu	10.1109/HOTCHIPS.2016.7936200
+The path to embedded vision &amp; AI using a low power vision DSP.	Yair Siegel	10.1109/HOTCHIPS.2016.7936209
+Introducing &quot;parker&quot;: Next-generation tegra system-on-chip.	Andi Skende	10.1109/HOTCHIPS.2016.7936207
+Mobile 3D capture for professional applications.	Rafael Spring	10.1109/HOTCHIPS.2016.7936199
+Encoder logic for reducing serial I/O power in sensors and sensor hubs.	Phillip Stanley-Marbell,Pier Andrea Francese,Martin C. Rinard	10.1109/HOTCHIPS.2016.7936231
+ARMv8-A next-generation vector architecture for HPC.	Nigel Stephens	10.1109/HOTCHIPS.2016.7936203
+POWER9: Processor for the cognitive era.	Brian W. Thompto	10.1109/HOTCHIPS.2016.7936223
+NOSQL hardware appliance with multiple data structure.	Yuta Tokusashi,Hiroki Matsutani	10.1109/HOTCHIPS.2016.7936236
+Experiences using a novel Python-based hardware modeling framework for computer architecture test chips.	Christopher Torng,Moyang Wang,Bharath Sudheendra,Nagaraj Murali,Suren Jayasuriya,Shreesha Srinath,Taylor Pritchard,Robin Ying,Christopher Batten	10.1109/HOTCHIPS.2016.7936233
+The era of high bandwidth memory.	Kevin Tran	10.1109/HOTCHIPS.2016.7936171
+Reconfigure your RTL with EFLX join the SoC revolution.	Cheng C. Wang,Dejan Markovic	10.1109/HOTCHIPS.2016.7936234
+3D sensors for the rest of us.	Larry Yang	10.1109/HOTCHIPS.2016.7936194
+Inuitive breakthrough solution for AR and VR worlds.	Dor Zepeniuk	10.1109/HOTCHIPS.2016.7936197
+2016 IEEE Hot Chips 28 Symposium (HCS), Cupertino, CA, USA, August 21-23, 2016		

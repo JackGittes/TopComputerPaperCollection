@@ -1,0 +1,56 @@
+Towards the Essence of Hygiene.	Michael D. Adams 0001	10.1145/2676726.2677013
+Sound Modular Verification of C Code Executing in an Unverified Context.	Pieter Agten,Bart Jacobs 0002,Frank Piessens	10.1145/2676726.2676972
+DReX: A Declarative Language for Efficiently Evaluating Regular String Transformations.	Rajeev Alur,Loris D&apos;Antoni,Mukund Raghothaman	10.1145/2676726.2676981
+Higher-Order Approximate Relational Refinement Types for Mechanism Design and Differential Privacy.	Gilles Barthe,Marco Gaboardi,Emilio Jesús Gallego Arias,Justin Hsu,Aaron Roth 0001,Pierre-Yves Strub	10.1145/2676726.2677000
+Specification Inference Using Context-Free Language Reachability.	Osbert Bastani,Saswat Anand,Alex Aiken	10.1145/2676726.2676977
+K-Java: A Complete Semantics of Java.	Denis Bogdanas,Grigore Rosu	10.1145/2676726.2676982
+Full Abstraction for Signal Flow Graphs.	Filippo Bonchi,Pawel Sobocinski 0001,Fabio Zanasi	10.1145/2676726.2676993
+Tractable Refinement Checking for Concurrent Objects.	Ahmed Bouajjani,Michael Emmi,Constantin Enea,Jad Hamza	10.1145/2676726.2677002
+Self-Representation in Girard&apos;s System U.	Matt Brown,Jens Palsberg	10.1145/2676726.2676988
+Databases and Programming: Two Subjects Divided by a Common Language?	Peter Buneman	10.1145/2676726.2682620
+Polymorphic Functions with Set-Theoretic Types: Part 2: Local Type Inference and Type Reconstruction.	Giuseppe Castagna,Kim Nguyen 0001,Zhiwu Xu 0001,Pietro Abate	10.1145/2676726.2676991
+Faster Algorithms for Algebraic Path Properties in Recursive State Machines with Constant Treewidth.	Krishnendu Chatterjee,Rasmus Ibsen-Jensen,Andreas Pavlogiannis,Prateesh Goyal	10.1145/2676726.2676979
+Quantitative Interprocedural Analysis.	Krishnendu Chatterjee,Andreas Pavlogiannis,Yaron Velner	10.1145/2676726.2676968
+Ur/Web: A Simple Model for Programming the Web.	Adam Chlipala	10.1145/2676726.2677004
+From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification.	Adam Chlipala	10.1145/2676726.2677003
+Program Boosting: Program Synthesis via Crowd-Sourcing.	Robert A. Cochran,Loris D&apos;Antoni,Benjamin Livshits,David Molnar,Margus Veanes	10.1145/2676726.2676973
+A Calculus for Relaxed Memory.	Karl Crary,Michael J. Sullivan	10.1145/2676726.2676984
+Fiat: Deductive Synthesis of Abstract Data Types in a Proof Assistant.	Benjamin Delaware,Clément Pit-Claudel,Jason Gross,Adam Chlipala	10.1145/2676726.2677006
+A Scalable, Correct Time-Stamped Stack.	Mike Dodds,Andreas Haas,Christoph M. Kirsch	10.1145/2676726.2676963
+Differential Privacy: Now it&apos;s Getting Personal.	Hamid Ebadi,David Sands 0001,Gerardo Schneider	10.1145/2676726.2677005
+On Characterizing the Data Access Complexity of Programs.	Venmugil Elango,Fabrice Rastello,Louis-Noël Pouchet,J. Ramanujam,P. Sadayappan	10.1145/2676726.2677010
+Proof Spaces for Unbounded Parallelism.	Azadeh Farzan,Zachary Kincaid,Andreas Podelski	10.1145/2676726.2677012
+Probabilistic Termination: Soundness, Completeness, and Compositionality.	Luis María Ferrer Fioriti,Holger Hermanns	10.1145/2676726.2677001
+A Coalgebraic Decision Procedure for NetKAT.	Nate Foster,Dexter Kozen,Mae Milano,Alexandra Silva 0001,Laure Thompson	10.1145/2676726.2677011
+Principal Type Schemes for Gradual Programs.	Ronald Garcia,Matteo Cimini	10.1145/2676726.2676992
+Analyzing Program Analyses.	Roberto Giacobazzi,Francesco Logozzo,Francesco Ranzato	10.1145/2676726.2676987
+Space-Efficient Manifest Contracts.	Michael Greenberg 0002	10.1145/2676726.2676967
+Deep Specifications and Certified Abstraction Layers.	Ronghui Gu,Jérémie Koenig,Tahina Ramananandro,Zhong Shao,Xiongnan (Newman) Wu,Shu-Chun Weng,Haozhong Zhang,Yu Guo	10.1145/2676726.2676975
+Automating Repetitive Tasks for the Masses.	Sumit Gulwani	10.1145/2676726.2682621
+Succinct Representation of Concurrent Trace Sets.	Ashutosh Gupta 0001,Thomas A. Henzinger,Arjun Radhakrishna,Roopsha Samanta,Thorsten Tarrach	10.1145/2676726.2677008
+Leveraging Weighted Automata in Compositional Reasoning about Concurrent Probabilistic Systems.	Fei He 0001,Xiaowei Gao,Bow-Yaw Wang,Lijun Zhang 0001	10.1145/2676726.2676998
+Conjugate Hylomorphisms - Or: The Mother of All Structured Recursion Schemes.	Ralf Hinze,Nicolas Wu,Jeremy Gibbons	10.1145/2676726.2676989
+A Formally-Verified C Static Analyzer.	Jacques-Henri Jourdan,Vincent Laporte,Sandrine Blazy,Xavier Leroy,David Pichardie	10.1145/2676726.2676966
+Iris: Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning.	Ralf Jung 0002,David Swasey,Filip Sieczkowski,Kasper Svendsen,Aaron Turon,Lars Birkedal,Derek Dreyer	10.1145/2676726.2676980
+Integrating Linear and Dependent Types.	Neelakantan R. Krishnaswami,Pierre Pradic,Nick Benton	10.1145/2676726.2676969
+From Communicating Machines to Graphical Choreographies.	Julien Lange,Emilio Tuosto,Nobuko Yoshida	10.1145/2676726.2676964
+Coding by Everyone, Every Day.	Peter Lee	10.1145/2676726.2682622
+Dependent Information Flow Types.	Luísa Lourenço,Luís Caires	10.1145/2676726.2676994
+Functors are Type Refinement Systems.	Paul-André Melliès,Noam Zeilberger	10.1145/2676726.2676970
+Runtime Enforcement of Security Policies on Black Box Reactive Programs.	Minh Ngo,Fabio Massacci,Dimiter Milushev,Frank Piessens	10.1145/2676726.2676978
+Decentralizing SDN Policies.	Oded Padon,Neil Immerman,Aleksandr Karbyshev,Ori Lahav,Mooly Sagiv,Sharon Shoham	10.1145/2676726.2676990
+Symbolic Algorithms for Language Equivalence and Kleene Algebra with Tests.	Damien Pous	10.1145/2676726.2677007
+Abstract Symbolic Automata: Mixed syntactic/semantic similarity analysis of executables.	Mila Dalla Preda,Roberto Giacobazzi,Arun Lakhotia,Isabella Mastroeni	10.1145/2676726.2676986
+Safe &amp; Efficient Gradual Typing for TypeScript.	Aseem Rastogi,Nikhil Swamy,Cédric Fournet,Gavin M. Bierman,Panagiotis Vekris	10.1145/2676726.2676971
+Predicting Program Properties from &quot;Big Code&quot;.	Veselin Raychev,Martin T. Vechev,Andreas Krause 0001	10.1145/2676726.2677009
+Equations, Contractions, and Unique Solutions.	Davide Sangiorgi	10.1145/2676726.2676965
+Manifest Contracts for Datatypes.	Taro Sekiyama,Yuki Nishida 0001,Atsushi Igarashi	10.1145/2676726.2676996
+Programming up to Congruence.	Vilhelm Sjöberg,Stephanie Weirich	10.1145/2676726.2676974
+Higher Inductive Types as Homotopy-Initial Algebras.	Kristina Sojakova	10.1145/2676726.2676983
+Algebraic Effects, Linearity, and Quantum Programming Languages.	Sam Staton	10.1145/2676726.2676999
+Compositional CompCert.	Gordon Stewart 0001,Lennart Beringer,Santiago Cuellar,Andrew W. Appel	10.1145/2676726.2676985
+Summary-Based Context-Sensitive Data-Dependence Analysis in Presence of Callbacks.	Hao Tang,Xiaoyin Wang,Lingming Zhang 0001,Bing Xie,Lu Zhang 0023,Hong Mei 0001	10.1145/2676726.2676997
+A Meta Lambda Calculus with Cross-Level Computation.	Kazunori Tobisawa	10.1145/2676726.2676976
+Common Compiler Optimisations are Invalid in the C11 Memory Model and what we can do about it.	Viktor Vafeiadis,Thibaut Balabonski,Soham Chakraborty 0001,Robin Morisset,Francesco Zappa Nardelli	10.1145/2676726.2676995
+Data-Parallel String-Manipulating Programs.	Margus Veanes,Todd Mytkowicz,David Molnar,Benjamin Livshits	10.1145/2676726.2677014
+Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2015, Mumbai, India, January 15-17, 2015	Sriram K. Rajamani,David Walker	10.1145/2676726

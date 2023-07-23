@@ -1,0 +1,51 @@
+Simplex Queues for Hot-Data Download.	Mehmet Fatih Aktas,Elie Najm,Emina Soljanin	10.1145/3078505.3078553
+A Low-Complexity Approach to Distributed Cooperative Caching with Geographic Constraints.	Konstantin Avrachenkov,Jasper Goseling,Berksan Serbetci	10.1145/3078505.3078534
+Adaptive TTL-Based Caching for Content Delivery.	Soumya Basu 0001,Aditya Sundarrajan,Javad Ghaderi,Sanjay Shakkottai,Ramesh K. Sitaraman	10.1145/3078505.3078560
+Quality and Cost of Deterministic Network Calculus: Design and Evaluation of an Accurate and Fast Analysis.	Steffen Bondorf,Paul Nikolaus,Jens B. Schmitt	10.1145/3078505.3078594
+Delay Scalings and Mean-Field Limits in Networked Systems.	Sem C. Borst	10.1145/3078505.3080572
+Fluid-Model-Based Car Routing for Modern Ridesharing Systems.	Anton Braverman,Jim G. Dai,Xin Liu 0049,Lei Ying	10.1145/3078505.3078595
+Deconstructing the Energy Consumption of the Mobile Page Load.	Yi Cao,Javad Nejati,Muhammad Wajahat,Aruna Balasubramanian,Anshul Gandhi	10.1145/3078505.3078587
+Accelerating Performance Inference over Closed Systems by Asymptotic Methods.	Giuliano Casale	10.1145/3078505.3078514
+Understanding Reduced-Voltage Operation in Modern DRAM Devices: Experimental Characterization, Analysis, and Mechanisms.	Kevin K. Chang,Abdullah Giray Yaglikçi,Saugata Ghose,Aditya Agrawal,Niladrish Chatterjee,Abhijith Kashyap,Donghyuk Lee,Mike O&apos;Connor,Hasan Hassan,Onur Mutlu	10.1145/3078505.3078590
+Exploiting Data Longevity for Enhancing the Lifetime of Flash-based Storage Class Memory.	Wonil Choi,Mohammad Arjomand,Myoungsoo Jung,Mahmut T. Kandemir	10.1145/3078505.3078527
+Overcommitment in Cloud Services Bin packing with Chance Constraints.	Maxime C. Cohen,Philipp W. Keller,Vahab S. Mirrokni,Morteza Zadimoghaddam	10.1145/3078505.3078530
+Incentivizing Reliable Demand Response with Customers&apos; Uncertainties and Capacity Planning.	Joshua Comden,Zhenhua Liu 0002,Yue Zhao 0007	10.1145/3078505.3078546
+On the Capacity Requirement for Arbitrary End-to-End Deadline and Reliability Guarantees in Multi-hop Networks.	Han Deng 0001,I-Hong Hou	10.1145/3078505.3078540
+A Case Study in Power Substation Network Dynamics.	David Formby,Anwar I. Walid,Raheem A. Beyah	10.1145/3078505.3078525
+Why &quot;Some&quot; Like It Hot Too: Thermal Attack on Data Centers.	Xing Gao 0001,Zhang Xu,Haining Wang,Li Li 0064,Xiaorui Wang	10.1145/3078505.3078545
+Expected Values Estimated via Mean-Field Approximation are 1/N-Accurate: Extended Abstract.	Nicolas Gast	10.1145/3078505.3078523
+Hadoop on Named Data Networking: Experience and Results.	Mathias Gibbens,Chris Gniady,Lei Ye 0008,Beichuan Zhang 0001	10.1145/3078505.3078508
+Queue-Proportional Sampling: A Better Approach to Crossbar Scheduling for Input-Queued Switches.	Long Gong,Paul Tune,Liang Liu 0013,Sen Yang 0001,Jun (Jim) Xu	10.1145/3078505.3078509
+A Spot Capacity Market to Increase Power Infrastructure Utilization in Multi-Tenant Data Centers.	Mohammad A. Islam 0001,Xiaoqi Ren,Shaolei Ren,Adam Wierman	10.1145/3078505.3078542
+A Study on Performance and Power Efficiency of Dense Non-Volatile Caches in Multi-Core Systems.	Amin Jadidi,Mohammad Arjomand,Mahmut T. Kandemir,Chita R. Das	10.1145/3078505.3078547
+On Gradient-Based Optimization: Accelerated, Distributed, Asynchronous and Stochastic.	Michael I. Jordan	10.1145/3078505.3078506
+Hieroglyph: Locally-Sufficient Graph Processing via Compute-Sync-Merge.	Xiaoen Ju,Hani Jamjoom,Kang G. Shin	10.1145/3078505.3078589
+Pseudo-Separation for Assessment of Structural Vulnerability of a Network.	Alan Kuhnle,Tianyi Pan,Victoria G. Crawford,Md Abdul Alim,My T. Thai	10.1145/3078505.3078538
+Design-Induced Latency Variation in Modern DRAM Chips: Characterization, Analysis, and Latency Reduction Mechanisms.	Donghyuk Lee,Samira Manabi Khan,Lavanya Subramanian,Saugata Ghose,Rachata Ausavarungnirun,Gennady Pekhimenko,Vivek Seshadri,Onur Mutlu	10.1145/3078505.3078533
+A Simple Yet Effective Balanced Edge Partition Model for Parallel Computing.	Lingda Li,Robel Geda,Ari B. Hayes,Yan-Hao Chen,Pranav Chaudhari,Eddy Z. Zhang,Mario Szegedy	10.1145/3078505.3078520
+ECF: An MPTCP Path Scheduler to Manage Heterogeneous Paths.	Yeon-Sup Lim,Erich M. Nahum,Don Towsley,Richard J. Gibbens	10.1145/3078505.3078552
+Routing Money, Not Packets: A Tutorial on Internet Economics.	Richard T. B. Ma,Vishal Misra	10.1145/3078505.3083764
+Multipath TCP on a VANET: A Performance Study.	Jorge Mena,Peter Bankole,Mario Gerla	10.1145/3078505.3078555
+Online Optimization for Markets and the Cloud: Theory and Practice.	Vahab S. Mirrokni	10.1145/3078505.3078507
+Optimal Service Elasticity in Large-Scale Distributed Systems.	Debankur Mukherjee,Souvik Dhara,Sem C. Borst,Johan S. H. van Leeuwaarden	10.1145/3078505.3078532
+Outward Influence and Cascade Size Estimation in Billion-scale Networks.	Hung T. Nguyen 0003,Tri P. Nguyen,Tam N. Vu,Thang N. Dinh	10.1145/3078505.3078526
+Matrix Factorization at the Frontier of Non-convex Optimizations: Abstract for SIGMETRICS 2017 Rising Star Award Talk.	Sewoong Oh	10.1145/3078505.3080573
+Investigation of the 2016 Linux TCP Stack Vulnerability at Scale.	Alan Quach,Zhongjie Wang 0002,Zhiyun Qian	10.1145/3078505.3078510
+Scheduling Coflows in Datacenter Networks: Improved Bound for Total Weighted Completion Time.	Mehrnoosh Shafiee,Javad Ghaderi	10.1145/3078505.3078548
+Portfolio-driven Resource Management for Transient Cloud Servers.	Prateek Sharma,David E. Irwin 0001,Prashant J. Shenoy	10.1145/3078505.3078511
+An Empirical Analysis of Facebook&apos;s Free Basics.	Siddharth Singh,Vedant Nanda,Rijurekha Sen,Sohaib Ahmad,Satadal Sengupta,Amreesh Phokeer,Zaid Ahmed Farooq,Taslim Arefin Khan,Ponnurangam Kumaraguru,Ihsan Ayyub Qazi,David R. Choffnes,Krishna P. Gummadi	10.1145/3078505.3078554
+Analysis of a Stochastic Model of Replication in Large Distributed Storage Systems: A Mean-Field Approach.	Wen Sun,Véronique Simon,Sébastien Monnet,Philippe Robert,Pierre Sens 0001	10.1145/3078505.3078531
+Dandelion: Redesigning the Bitcoin Network for Anonymity.	Shaileshh Bojja Venkatakrishnan,Giulia Fanti,Pramod Viswanath	10.1145/3078505.3078528
+Characterizing and Modeling Patching Practices of Industrial Control Systems.	Brandon Wang,Xiaoye Li,Leandro Pfleger de Aguiar,Daniel Sadoc Menasché,Zubair Shafiq	10.1145/3078505.3078524
+On Optimal Two-Sided Pricing of Congested Networks.	Xin Wang 0040,Richard T. B. Ma,Yinlong Xu	10.1145/3078505.3078588
+Security Game with Non-additive Utilities and Multiple Attacker Resources.	Sinong Wang,Ness B. Shroff	10.1145/3078505.3078519
+Using Burstable Instances in the Public Cloud: Why, When and How?	Cheng Wang 0014,Bhuvan Urgaonkar,Neda Nasiriani,George Kesidis	10.1145/3078505.3078591
+HFTraC: High-Frequency Traffic Control.	Ning Wu,Yingjie Bi,Nithin Michael,Ao Tang,John Doyle,Nikolai Matni	10.1145/3078505.3078557
+Characterizing 3D Floating Gate NAND Flash.	Qin Xiong,Fei Wu 0005,Zhonghai Lu,Yue Zhu,You Zhou,Yibing Chu,Changsheng Xie,Ping Huang 0001	10.1145/3078505.3078550
+Optimizing Speculative Execution of Deadline-Sensitive Jobs in Cloud.	Maotong Xu,Sultan Alamro,Tian Lan,Suresh Subramaniam	10.1145/3078505.3078541
+Hour-Ahead Offering Strategies in Electricity Market for Power Producers with Storage and Intermittent Supply.	Lin Yang,Mohammad Hassan Hajiesmaili,Hanling Yi,Minghua Chen 0001	10.1145/3078505.3078543
+Stein&apos;s Method for Mean-Field Approximations in Light and Heavy Traffic Regimes.	Lei Ying	10.1145/3078505.3078592
+A Fast, Small, and Dynamic Forwarding Information Base.	Ye Yu 0001,Djamal Belazzougui,Chen Qian 0001,Qin Zhang 0001	10.1145/3078505.3078556
+Optimal Posted Prices for Online Cloud Resource Allocation.	Zijun Zhang,Zongpeng Li,Chuan Wu 0001	10.1145/3078505.3078529
+Persistent Spread Measurement for Big Network Data Based on Register Intersection.	You Zhou 0003,Yian Zhou,Min Chen 0007,Shigang Chen	10.1145/3078505.3078593
+Proceedings of the 2017 ACM SIGMETRICS / International Conference on Measurement and Modeling of Computer Systems, Urbana-Champaign, IL, USA, June 05 - 09, 2017	Bruce E. Hajek,Sewoong Oh,Augustin Chaintreau,Leana Golubchik,Zhi-Li Zhang	10.1145/3078505

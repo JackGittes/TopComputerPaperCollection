@@ -1,0 +1,55 @@
+PRISM: Rethinking the RDMA Interface for Distributed Systems.	Matthew Burke 0001,Sowmya Dharanipragada,Shannon Joyner,Adriana Szekeres,Jacob Nelson,Irene Zhang,Dan R. K. Ports	10.1145/3477132.3483587
+Coeus: A System for Oblivious Document Ranking and Retrieval.	Ishtiyaque Ahmad,Laboni Sarker,Divyakant Agrawal,Amr El Abbadi,Trinabh Gupta	10.1145/3477132.3483586
+Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale.	Yechan Bae,Youngsuk Kim,Ammar Askar,Jungwon Lim,Taesoo Kim	10.1145/3477132.3483570
+Gradient Compression Supercharged High-Performance Data Parallel DNN Training.	Youhui Bai,Cheng Li 0001,Quan Zhou,Jun Yi,Ping Gong,Feng Yan 0001,Ruichuan Chen,Yinlong Xu	10.1145/3477132.3483553
+Log-structured Protocols in Delos.	Mahesh Balakrishnan 0001,Chen Shen,Ahmed Jafri,Suyog Mapara,David Geraghty,Jason Flinn,Vidhya Venkat,Ivailo Nedelchev,Santosh Ghosh,Mihir Dharamshi,Jingming Liu,Filip Gruszczynski,Jun Li,Rounak Tibrewal,Ali Zaveri,Rajeev Nagar,Ahmed Yossef,Francois Richard,Yee Jiun Song	10.1145/3477132.3483544
+Bladerunner: Stream Processing at Scale for a Live View of Backend Data Mutations at the Edge.	Jeff Barber,Ximing Yu,Laney Kuenzel Zamore,Jerry Lin,Vahid Jazayeri,Shie Erlich,Tony Savor,Michael Stumm	10.1145/3477132.3483572
+Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks.	Shane Bergsma,Timothy Zeyl,Arik Senderovich,J. Christopher Beck	10.1145/3477132.3483590
+Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3.	James Bornholt,Rajeev Joshi,Vytautas Astrauskas,Brendan Cully,Bernhard Kragl,Seth Markle,Kyle Sauri,Drew Schleit,Grant Slatton,Serdar Tasiran,Jacob Van Geffen,Andrew Warfield	10.1145/3477132.3483540
+CLoF: A Compositional Lock Framework for Multi-level NUMA Systems.	Rafael Lourenco de Lima Chehab,Antonio Paolillo,Diogo Behrens,Ming Fu,Hermann Härtig,Haibo Chen 0001	10.1145/3477132.3483557
+Forerunner: Constraint-based Speculative Transaction Execution for Ethereum.	Yang Chen,Zhongxin Guo,Runhuai Li,Shuo Chen 0001,Lidong Zhou,Yajin Zhou,Xian Zhang 0001	10.1145/3477132.3483564
+Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage.	Emma Dauterman,Vivian Fang,Ioannis Demertzis,Natacha Crooks,Raluca Ada Popa	10.1145/3477132.3483562
+When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Perséphone.	Henri Maxime Demoulin,Joshua Fried,Isaac Pedisich,Marios Kogias,Boon Thau Loo,Linh Thi Xuan Phan,Irene Zhang	10.1145/3477132.3483571
+Witcher: Systematic Crash Consistency Testing for Non-Volatile Memory Key-Value Stores.	Xinwei Fu,Wook-Hee Kim,Ajay Paddayuru Shreepathi,Mohannad Ismail,Sunny Wadkar,Dongyoon Lee,Changwoo Min	10.1145/3477132.3483556
+dSpace: Composable Abstractions for Smart Spaces.	Silvery Fu,Sylvia Ratnasamy	10.1145/3477132.3483559
+Exploiting Nil-Externality for Fast Replicated Storage.	Aishwarya Ganesan,Ramnatthan Alagappan,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	10.1145/3477132.3483543
+Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.	Sishuai Gong,Deniz Altinbüken,Pedro Fonseca 0001,Petros Maniatis	10.1145/3477132.3483549
+Regular Sequential Serializability and Regular Sequential Consistency.	Jeffrey Helt,Matthew Burke 0001,Amit Levy,Wyatt Lloyd	10.1145/3477132.3483566
+ghOSt: Fast &amp; Flexible User-Space Delegation of Linux Scheduling.	Jack Tigar Humphries,Neel Natu,Ashwin Chaugule,Ofir Weisse,Barret Rhoden,Josh Don,Luigi Rizzo,Oleg Rombakh,Paul Turner,Christos Kozyrakis	10.1145/3477132.3483542
+Boki: Stateful Serverless Computing with Shared Logs.	Zhipeng Jia,Emmett Witchel	10.1145/3477132.3483541
+WineFS: a hugepage-aware file system for persistent memory that ages gracefully.	Rohan Kadekodi,Saurabh Kadekodi,Soujanya Ponnapalli,Harshad Shirwadkar,Gregory R. Ganger,Aasheesh Kolli,Vijay Chidambaram	10.1145/3477132.3483567
+Syrup: User-Defined Scheduling Across the Stack.	Kostis Kaffes,Jack Tigar Humphries,David Mazières,Christos Kozyrakis	10.1145/3477132.3483548
+iGUARD: In-GPU Advanced Race Detection.	Aditya K. Kamath,Arkaprava Basu	10.1145/3477132.3483545
+LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism.	Jongyul Kim,Insu Jang,Waleed Reda,Jaeseong Im,Marco Canini,Dejan Kostic,Youngjin Kwon,Simon Peter 0001,Emmett Witchel	10.1145/3477132.3483565
+PACTree: A High Performance Persistent Range Index Using PAC Guidelines.	Wook-Hee Kim,Madhava Krishnan Ramanathan,Xinwei Fu,Sanidhya Kashyap,Changwoo Min	10.1145/3477132.3483589
+Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications.	Sangmin Lee,Zhenhua Guo,Omer Sunercan,Jun Ying,Thawan Kooburat,Suryadeep Biswal,Jun Chen,Kun Huang,Yatpang Cheung,Yiding Zhou,Kaushik Veeraraghavan,Biren Damani,Pol Mauri Ruiz,Vikas Mehta,Chunqiang Tang	10.1145/3477132.3483546
+MIND: In-Network Memory Management for Disaggregated Data Centers.	Seung-Seob Lee,Yanpeng Yu,Yupeng Tang,Anurag Khandelwal,Lin Zhong 0001,Abhishek Bhattacharjee	10.1145/3477132.3483561
+J-NVM: Off-heap Persistent Objects in Java.	Anatole Lefort,Yohan Pipereau,Kwabena Amponsem,Pierre Sutra,Gaël Thomas 0001	10.1145/3477132.3483579
+TwinVisor: Hardware-isolated Confidential Virtual Machines for ARM.	Dingji Li,Zeyu Mi,Yubin Xia,Binyu Zang,Haibo Chen 0001,Haibing Guan	10.1145/3477132.3483554
+lODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage.	Huaicheng Li,Martin L. Putra,Ronald Shi,Xing Lin,Gregory R. Ganger,Haryadi S. Gunawi	10.1145/3477132.3483573
+Crash Consistent Non-Volatile Memory Express.	Xiaojian Liao,Youyou Lu,Zhe Yang,Jiwu Shu	10.1145/3477132.3483592
+Scale and Performance in a Filesystem Semi-Microkernel.	Jing Liu,Anthony Rebello,Yifan Dai,Chenhao Ye,Sudarsun Kannan,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	10.1145/3477132.3483581
+Kangaroo: Caching Billions of Tiny Objects on Flash.	Sara McAllister,Benjamin Berg,Julian Tutuncu-Macias,Juncheng Yang,Sathya Gunasekar,Jimmy Lu,Daniel S. Berger,Nathan Beckmann,Gregory R. Ganger	10.1145/3477132.3483568
+Birds of a Feather Flock Together: Scaling RDMA RPCs with Flock.	Sumit Kumar Monga,Sanidhya Kashyap,Changwoo Min	10.1145/3477132.3483576
+Solving Large-Scale Granular Resource Allocation Problems Efficiently with POP.	Deepak Narayanan,Fiodar Kazhamiaka,Firas Abuzaid,Peter Kraft,Akshay Agrawal 0001,Srikanth Kandula,Stephen P. Boyd,Matei Zaharia	10.1145/3477132.3483588
+Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation.	Ray Neiheiser,Miguel Matos,Luís E. T. Rodrigues	10.1145/3477132.3483584
+RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation.	Andrew Newell,Dimitrios Skarlatos 0002,Jingyuan Fan,Pavan Kumar,Maxim Khutornenko,Mayank Pundir,Yirui Zhang,Mingjun Zhang,Yuanlai Liu,Linh Le,Brendon Daugherty,Apurva Samudra,Prashasti Baid,James Kneeland,Igor Kabiljo,Dmitry Shchukin,Andre Rodrigues,Scott Michelson,Ben Christensen,Kaushik Veeraraghavan,Chunqiang Tang	10.1145/3477132.3483578
+Rabia: Simplifying State-Machine Replication Through Randomization.	Haochen Pan,Jesse Tuglu,Neo Zhou,Tianshu Wang,Yicheng Shen,Xiong Zheng,Joseph Tassarotti,Lewis Tseng,Roberto Palmieri	10.1145/3477132.3483582
+FragPicker: A New Defragmentation Tool for Modern Storage Devices.	Jonggyu Park,Young Ik Eom	10.1145/3477132.3483593
+Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks.	Ji Qi,Xusheng Chen,Yunpeng Jiang,Jianyu Jiang,Tianxiang Shen,Shixiong Zhao,Sen Wang,Gong Zhang,Li Chen,Man Ho Au,Heming Cui	10.1145/3477132.3483574
+Caracal: Contention Management with Deterministic Concurrency Control.	Dai Qin,Angela Demke Brown,Ashvin Goel	10.1145/3477132.3483591
+Automated SmartNIC Offloading Insights for Network Functions.	Yiming Qiu,Jiarong Xing,Kuo-Feng Hsu,Qiao Kang,Ming Liu 0027,Srinivas Narayana,Ang Chen 0001	10.1145/3477132.3483583
+HeMem: Scalable Tiered Memory Management for Big Data Applications and Real NVM.	Amanda Raybuck,Tim Stamler,Wei Zhang,Mattan Erez,Simon Peter 0001	10.1145/3477132.3483550
+Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy.	Edo Roth,Karan Newatia,Yiping Ma 0001,Ke Zhong,Sebastian Angel,Andreas Haeberlen	10.1145/3477132.3483585
+Xenic: SmartNIC-Accelerated Distributed Transactions.	Henry N. Schuh,Weihao Liang,Ming Liu 0027,Jacob Nelson,Arvind Krishnamurthy	10.1145/3477132.3483555
+Geometric Partitioning: Explore the Boundary of Optimal Erasure Code Repair.	Yingdi Shan,Kang Chen,Tuoyu Gong,Lidong Zhou,Tai Zhou,Yongwei Wu	10.1145/3477132.3483558
+HEALER: Relation Learning Guided Kernel Fuzzing.	Hao Sun,Yuheng Shen,Cong Wang 0020,Jianzhong Liu,Yu Jiang 0001,Ting Chen 0002,Aiguo Cui	10.1145/3477132.3483547
+Basil: Breaking up BFT with ACID (transactions).	Florian Suri-Payer,Matthew Burke 0001,Zheng Wang,Yunhao Zhang,Lorenzo Alvisi,Natacha Crooks	10.1145/3477132.3483552
+Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware.	Runzhou Tao,Jianan Yao,Xupeng Li,Shih-Wei Li,Jason Nieh,Ronghui Gu	10.1145/3477132.3483560
+The Aurora Single Level Store Operating System.	Emil Tsalapatis,Ryan Hancock,Tavian Barnes,Ali José Mashtizadeh	10.1145/3477132.3483563
+Random Walks on Huge Graphs at Cache Efficiency.	Ke Yang,Xiaosong Ma,Saravanan Thirumuruganathan,Kang Chen,Yongwei Wu	10.1145/3477132.3483575
+Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing.	Adar Zeitak,Adam Morrison 0001	10.1145/3477132.3483551
+Faster and Cheaper Serverless Computing on Harvested Resources.	Yanqi Zhang,Iñigo Goiri,Gohar Irfan Chaudhry,Rodrigo Fonseca,Sameh Elnikety,Christina Delimitrou,Ricardo Bianchini	10.1145/3477132.3483580
+The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems.	Irene Zhang,Amanda Raybuck,Pratyush Patel,Kirk Olynyk,Jacob Nelson,Omar S. Navarro Leija,Ashlie Martinez,Jing Liu,Anna Kornfeld Simpson,Sujay Jayakar,Pedro Henrique Penna,Max Demoulin,Piali Choudhury,Anirudh Badam	10.1145/3477132.3483569
+Understanding and Detecting Software Upgrade Failures in Distributed Systems.	Yongle Zhang,Junwen Yang,Zhuqi Jin,Utsav Sethi,Kirk Rodrigues,Shan Lu 0001,Ding Yuan 0004	10.1145/3477132.3483577
+SOSP &apos;21: ACM SIGOPS 28th Symposium on Operating Systems Principles, Virtual Event / Koblenz, Germany, October 26-29, 2021	Robbert van Renesse,Nickolai Zeldovich	10.1145/3477132

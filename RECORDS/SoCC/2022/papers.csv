@@ -1,0 +1,63 @@
+CNN Implementation and Analysis on Xilinx Versal ACAP at European XFEL.	Ahmad Al-Zoubi,Gianluca Martino,Fin Hendrik Bahnsen,Jun Zhu,Holger Schlarb,Görschwin Fey	10.1109/SOCC56010.2022.9908101
+Monte Cimone: Paving the Road for the First Generation of RISC-V High-Performance Computers.	Andrea Bartolini,Federico Ficarelli,Emanuele Parisi,Francesco Beneventi,Francesco Barchi,Daniele Gregori,Fabrizio Magugliani,Marco Cicala,Cosimo Gianfreda,Daniele Cesarini,Andrea Acquaviva,Luca Benini	10.1109/SOCC56010.2022.9908096
+I/O Constraints Optimization using Machine Learning.	Lekshmi C,Anmol Khatri,Sourav Saha,Shivangi Gupta,Raj Yadav,Rakshit Bazaz	10.1109/SOCC56010.2022.9908119
+Design and Implementation of Stochastic Neural Networks Using Superconductor Quantum-Flux-Parametron Devices.	Olivia Chen,Yanzhi Wang,Renyuan Zhang,Nobuyuki Yoshikawa	10.1109/SOCC56010.2022.9908075
+Energy-Efficient Black Hole Router Detection in Network-on-Chip.	Luka Daoud,Nader Rafla 0001	10.1109/SOCC56010.2022.9908078
+Implementation and Evaluation of Deep Neural Networks in Commercially Available Processing in Memory Hardware.	Prangon Das,Purab Ranjan Sutradhar,Mark Indovina,Sai Manoj Pudukotai Dinakarrao,Amlan Ganguly	10.1109/SOCC56010.2022.9908126
+Modeling Attacks Resilient Multiple PUF-CPRNG Architecture Design Methodology.	Agshare Dheeraj,Pabitra Das,Kiran Kumar A,Srisubha Kalanadhabhatta,Amit Acharyya	10.1109/SOCC56010.2022.9908089
+Thermal Side-channel Leakage Protection in Monolithic Three Dimensional Integrated Circuits.	Jaya Dofe	10.1109/SOCC56010.2022.9908080
+Automated Deep Learning Platform for Accelerated Analog Circuit Design.	Rahul Dutta,Ashish James,Salahuddin Raju,Yong-Joon Jeon,Chuan Sheng Foo,Kevin Tshun Chuan Chai	10.1109/SOCC56010.2022.9908139
+A Duty Cycle Error Reduction with 1-point Calibration achieving 0.017UI in 7.2Gbps HBM3 DRAM Data Read.	Javed S. Gaggatur	10.1109/SOCC56010.2022.9908129
+Noise Analysis of CMOS Ring Oscillator-based Capacitance Measurement for Lab-on-Chip Application.	Javed S. Gaggatur	10.1109/SOCC56010.2022.9908136
+Accurate Estimation of the CNN Inference Cost for TinyML Devices.	Thomas Garbay,Khalil Hachicha,Petr Dobiás,Wilfried Dron,Pedro Lusich,Imane Khalis,Andrea Pinna 0001,Bertrand Granado	10.1109/SOCC56010.2022.9908108
+Investigating SAMV Regarding its Suitability For FPGAs.	Farehe Giahi,Sebastian Rachuj,Dietmar Fey	10.1109/SOCC56010.2022.9908124
+kNN-MSDF: A Hardware Accelerator for k-Nearest Neighbors Using Most Significant Digit First Computation.	Saeid Gorgin 0001,MohammadHosein Gholamrezaei,Danial Javaheri,Jeong-A Lee	10.1109/SOCC56010.2022.9908102
+A Versatile &amp; Adjustable 400 Node CMOS Oscillator Based Ising Machine to Investigate and Optimize the Internal Computing Principle.	Markus Graber,Klaus Hofmann	10.1109/SOCC56010.2022.9908118
+A General Algorithm for Loop-gain and TDC-resolution Optimization in an ADPLL with a 2-bit TDC Phase detector.	Abdelrahman G. Habib,Mohamed Dessouky	10.1109/SOCC56010.2022.9908092
+Cache-locality Based Adaptive Warp Scheduling for Neural Network Acceleration on GPGPUs.	Weiming Hu,Yi Zhou,Ying Quan,Yuanfeng Wang,Xin Lou	10.1109/SOCC56010.2022.9908120
+Non-deterministic Quantization for mmWave Beam Prediction.	Haohui Jia,Na Chen 0004,Renyuan Zhang,Minoru Okada	10.1109/SOCC56010.2022.9908091
+In-depth Analysis of the Effects of Electromagnetic Fault Injection Attack on a 32-bit MCU.	Jinteng Jiao,He Li,Yanzhao Feng,Chengdong Qian,Qiang Liu 0011	10.1109/SOCC56010.2022.9908097
+Virtual Platform Acceleration through Userspace Host Execution.	Lukas Jünger 0001,Antonios Salios,Peter Blöcher,Rainer Leupers	10.1109/SOCC56010.2022.9908079
+Performance evaluation of High Bandwidth Memory for HPC Workloads.	Amit Kumar Kabat,Shubhang Pandey,Venkatesh Tiruchirai Gopalakrishnan	10.1109/SOCC56010.2022.9908071
+Securing Microservices Against Password Guess Attacks using Hardware Performance Counters.	Sai Praveen Kadiyala,Xiaolan Li,Wonjun Lee,Andrew Catlin	10.1109/SOCC56010.2022.9908109
+Runtime Adaptive Cache Checkpointing for RISC Multi-Core Processors.	Fabian Kempf,Julian Höfer,Fabian Kreß,Tim Hotfilter,Tanja Harbaum,Jürgen Becker 0001	10.1109/SOCC56010.2022.9908110
+Towards More Secure PUF Applications: A Low-Area Polar Decoder Implementation.	Claus Kestel,Christoph Frisch,Michael Pehl,Norbert Wehn	10.1109/SOCC56010.2022.9908130
+An Architecture for On-Chip Face Recognition in a Compressive Image Sensor.	Amir Khan,Jorge Fernández-Berni,Ricardo Carmona-Galán	10.1109/SOCC56010.2022.9908140
+&quot;High Five&quot;: Arm&apos;s first 5nm Silicon in flip-chip!	Pragya Laad	10.1109/SOCC56010.2022.9908138
+Divided by Designs, United by Flow-Uniquified, modular and automated approach to improve design efficiency.	Pragya Laad,Olivier Rizzo	10.1109/SOCC56010.2022.9908117
+Overhead-Aware Schedule Synthesis for Logical Execution Time (LET) in Automotive Systems.	Erjola Lalo,Andreas Sailer,Jürgen Mottok,Christian Siemers	10.1109/SOCC56010.2022.9908103
+Quantum Key Distribution Post-processing: A Heterogeneous Computing Perspective.	He Li,Adrian Wonfor,Amanda Weerasinghe,Muataz Alhussein,Yupeng Gong,Richard V. Penty	10.1109/SOCC56010.2022.9908122
+A Scalable DC/DC Converter with Fast Load Transient Response and Security Improvement.	Xingye Liu,Paul Ampadu	10.1109/SOCC56010.2022.9908087
+A Practical Man-in-the-Middle Attack on Deep Learning Edge Device by Sparse Light Strip Injection into Camera Data Lane.	Wenye Liu,Weiyang He,Bowen Hu,Chip-Hong Chang	10.1109/SOCC56010.2022.9908112
+A Novel Combined Correlation Power Analysis (CPA) Attack on Schoolbook Polynomial Multiplication in Lattice-based Cryptosystems.	Chuanchao Lu,Yijun Cui,Ayesha Khalid,Chongyan Gu,Chenghua Wang,Weiqiang Liu 0001	10.1109/SOCC56010.2022.9908076
+Efficient Low-bit-width Activation Function Implementations for Ultra Low Power SoCs.	Shenghou Ma,Paul Ampadu	10.1109/SOCC56010.2022.9908141
+Post-Processing Refinement for Semi-Global Matching Algorithm Based on Real-Time FPGA.	Yunhao Ma,Xiwei Fang,Pingcheng Dong,Xinyu Guan,Ke Li,Lei Chen 0070,Fengwei An	10.1109/SOCC56010.2022.9908134
+Hardware Oriented Strip-wise Optimization (HOSO) Framework for Efficient Deep Neural Network.	Xiaotian Ma,Kevin Han,Yucheng Yang,Ronald F. DeMara,Yu Bai 0004	10.1109/SOCC56010.2022.9908125
+Enhancing Adversarial Attacks on Single-Layer NVM Crossbar-Based Neural Networks with Power Consumption Information.	Cory E. Merkel	10.1109/SOCC56010.2022.9908114
+Low Complexity Reconfigurable-Scalable Architecture Design Methodology for Deep Neural Network Inference Accelerator.	Anagha Nimbekar,Chandrasekhara Srinivas Vatti,Y. V. Sai Dinesh,Sunidhi Singh,Tarun Gupta,Ramesh Reddy Chandrapu,Amit Acharyya	10.1109/SOCC56010.2022.9908073
+Application and Evaluation of Quantization for Narrow Bit-width Resampling of Sequential Monte Carlo.	Hiroki Nishimoto,Renyuan Zhang,Yasuhiko Nakashima	10.1109/SOCC56010.2022.9908085
+The Case for SoC in Future Radio Astronomy.	Omar A. Yeste Ojeda,Nolan Denman,Stephen Wunduke	10.1109/SOCC56010.2022.9908088
+Cardinality Constrained Portfolio Optimization on an Ising Machine.	Matthieu Parizy,Przemyslaw Sadowski,Nozomu Togawa	10.1109/SOCC56010.2022.9908082
+Novel Pulse Detection System Using Differentiation: Optical Experimental Results.	Sharath Patil,Bhanu Singh,Raunak Borwankar,Martin Margala	10.1109/SOCC56010.2022.9908111
+A Mixed-Signal Interface Circuit for Integration of Embedded 1T1R RRAM Arrays.	Stefan Pechmann,Amelie Hagelauer	10.1109/SOCC56010.2022.9908137
+Memristive Neural Network with Efficient In-Situ Supervised Training.	Santlal Prajaprati,Manobendra Nath Mondal,Susmita Sur-Kolay	10.1109/SOCC56010.2022.9908131
+Machine Learning Based Parameter Tuning for Performance and Power optimization of Multisource Clock Tree Synthesis.	Prasenjit Ray,V. Sai Prashant,Bindu P. Rao	10.1109/SOCC56010.2022.9908123
+Hypervisor-Based Target Deployment Strategies for Time Predictability in Model-Based Development.	Florian Schade,Tobias Dörr,Jürgen Becker 0001	10.1109/SOCC56010.2022.9908090
+Data-Centric Machine Learning Pipeline for Hardware Verification.	Hongsup Shin	10.1109/SOCC56010.2022.9908095
+Zero-Aware Fine-Grained Power Gating for Standard-Cell Memories in Voltage-Scaled Circuits.	Jun Shiomi,Shogo Terada,Tohru Ishihara,Hidetoshi Onodera	10.1109/SOCC56010.2022.9908116
+MSIM: A Highly Parallel Near-Memory Accelerator for MinHash Sketch.	Aman Sinha,Jhih-Yong Mai,Bo-Cheng Lai	10.1109/SOCC56010.2022.9908115
+Efficient Hardware Approximation for Bit-Decomposition Based Deep Neural Network Accelerators.	Taha Soliman,Amro Eldebiky,Cecilia De la Parra,Andre Guntoro,Norbert Wehn	10.1109/SOCC56010.2022.9908072
+Towards Hardware Trojan Resilient Design of Convolutional Neural Networks.	Peiyao Sun,Basel Halak,Tomasz Kazmierski	10.1109/SOCC56010.2022.9908104
+DPReDO: Dynamic Partial Reconfiguration enabled Design Obfuscation for FPGA Security.	Sandeep Sunkavilli,Nishanth Goud Chennagouni,Qiaoyan Yu	10.1109/SOCC56010.2022.9908070
+In-Network Accumulation: Extending the Role of NoC for DNN Acceleration.	Binayak Tiwari,Mei Yang,Xiaohang Wang 0001,Yingtao Jiang	10.1109/SOCC56010.2022.9908106
+FPGA Implementation of Addition-based CORDIC-SNN With Izhikevich Neurons.	Uchechukwu Leo Udeji,Martin Margala	10.1109/SOCC56010.2022.9908081
+An Efficient FPGA Accelerator for Point Cloud.	Zilun Wang,Wendong Mao,Peixiang Yang,Zhongfeng Wang 0001,Jun Lin 0001	10.1109/SOCC56010.2022.9908099
+Energy-Based Analog Neural Network Framework.	Mohamed Watfa,Alberto García Ortiz,Gilles Sassatelli	10.1109/SOCC56010.2022.9908086
+Towards Automating a Software-Centered Development Process that considers Timing Properties.	Raphael Weber,Nico Adler,Thomas Wilhelm 0005,Andreas Sailer,Clemens Reichmann	10.1109/SOCC56010.2022.9908127
+RECO-HCON: A High-Throughput Reconfigurable Compact ASCON Processor for Trusted IoT.	Xiangdong Wei,Mohamed El-Hadedy 0001,Sergiu Mosanu,Zhengping Zhu,Wen-Mei Hwu,Xinfei Guo	10.1109/SOCC56010.2022.9908100
+A New Perspective of Inscribing Temporal Encryption on Spatial MPV Imprints for PUF Design.	Xiangye Wei,Liming Xiu	10.1109/SOCC56010.2022.9908094
+GAND-Nets: Training Deep Spiking Neural Networks with Ternary Weights.	Man Wu,Yirong Kan,Renyuan Zhang,Yasuhiko Nakashima	10.1109/SOCC56010.2022.9908132
+Inconspicuous Data Augmentation Based Backdoor Attack on Deep Neural Networks.	Chaohui Xu,Wenye Liu,Yue Zheng,Si Wang,Chip-Hong Chang	10.1109/SOCC56010.2022.9908113
+An RRAM-based Neural Radiance Field Processor.	Yueyang Zheng,Chaolin Rao,Haochuan Wan,Yuliang Zhou,Pingqiang Zhou,Jingyi Yu,Xin Lou	10.1109/SOCC56010.2022.9908135
+A Stochastic Coding Method of EEG Signals for Sleep Stage Classification.	Guangxian Zhu,Huijia Wang,Yirong Kan,Zheng Chen 0012,Ming Huang 0002,Md. Altaf-Ul-Amin,Naoaki Ono,Shigehiko Kanaya,Renyuan Zhang,Yasuhiko Nakashima	10.1109/SOCC56010.2022.9908121
+35th IEEE International System-on-Chip Conference, SOCC 2022, Belfast, United Kingdom, September 5-8, 2022	Sakir Sezer,Thomas Büchner,Jürgen Becker 0001,Andrew Marshall,Fahad Siddiqui 0001,Tanja Harbaum,Kieran McLaughlin	10.1109/SOCC56010.2022

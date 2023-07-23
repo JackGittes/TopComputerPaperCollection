@@ -1,0 +1,34 @@
+Smokestack: Thwarting DOP Attacks with Runtime Stack Layout Randomization.	Misiker Tadesse Aga,Todd M. Austin	10.1109/CGO.2019.8661202
+Tiramisu: A Polyhedral Compiler for Expressing Fast and Portable Code.	Riyadh Baghdadi,Jessica Ray,Malek Ben Romdhane,Emanuele Del Sozzo,Abdurrahman Akkas,Yunming Zhang,Patricia Suriana,Shoaib Kamil 0001,Saman P. Amarasinghe	10.1109/CGO.2019.8661197
+Multi-target Compiler for the Deployment of Machine Learning Models.	Oscar Castro-López,Inés Fernando Vega López	10.1109/CGO.2019.8661199
+IGC: The Open Source Intel Graphics Compiler.	Anupama Chandrasekhar,Gang Chen,Po-Yu Chen,Wei-Yu Chen,Junjie Gu,Peng Guo,Shruthi Hebbur Prasanna Kumar,Guei-Yuan Lueh,Pankaj Mistry,Wei Pan,Thomas Raoux,Konrad Trifunovic	10.1109/CGO.2019.8661189
+A Shared BTB Design for Multicore Systems.	Moumita Das,Ansuman Banerjee,Bhaskar Sardar	10.1109/CGO.2019.8661183
+Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures.	Sheng-Yu Fu,Wei-Chung Hsu	10.1109/CGO.2019.8661195
+Code Generation from Formal Models for Automatic RTOS Portability.	Renata Martins Gomes,Marcel Baunach	10.1109/CGO.2019.8661170
+Automatic Generation of Warp-Level Primitives and Atomic Instructions for Fast and Portable Parallel Reduction on GPUs.	Simon Garcia De Gonzalo,Sitao Huang,Juan Gómez-Luna,Simon D. Hammond,Onur Mutlu,Wen-Mei Hwu	10.1109/CGO.2019.8661187
+Decoding CUDA Binary.	Ari B. Hayes,Fei Hua,Jin Huang,Yan-Hao Chen,Eddy Z. Zhang	10.1109/CGO.2019.8661186
+Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation.	Yonghae Kim,Hyesoon Kim	10.1109/CGO.2019.8661172
+A Code Generator for High-Performance Tensor Contractions on GPUs.	Jinsung Kim,Aravind Sukumaran-Rajam,Vineeth Thumma,Sriram Krishnamoorthy,Ajay Panyala,Louis-Noël Pouchet,Atanas Rountev,P. Sadayappan	10.1109/CGO.2019.8661182
+Tensor Algebra Compilation with Workspaces.	Fredrik Kjolstad,Peter Ahrens,Shoaib Kamil 0001,Saman P. Amarasinghe	10.1109/CGO.2019.8661185
+Extending LLVM for Lightweight SPMD Vectorization: Using SIMD and Vector Instructions Easily from Any Language.	Robin Kruppe,Julian Oppermann,Lukas Sommer,Andreas Koch 0001	10.1109/CGO.2019.8661165
+White-Box Program Tuning.	Wen-Chuan Lee,Yingqi Liu,Peng Liu 0010,Shiqing Ma,Hongjun Choi,Xiangyu Zhang 0001,Rajiv Gupta 0001	10.1109/CGO.2019.8661177
+Accelerating GPU Computing at Runtime with Binary Optimization.	Guangli Li,Lei Liu 0030,Xiaobing Feng 0002	10.1109/CGO.2019.8661168
+Automatic Equivalence Checking for Assembly Implementations of Cryptography Libraries.	Jay P. Lim,Santosh Nagarakatte	10.1109/CGO.2019.8661180
+CSOD: Context-Sensitive Overflow Detection.	Hongyu Liu,Sam Silvestro,Xiaoyin Wang,Lide Duan,Tongping Liu	10.1109/CGO.2019.8661198
+Kernel Fusion/Decomposition for Automatic GPU-Offloading.	Alok Mishra,Martin Kong,Barbara M. Chapman	10.1109/CGO.2019.8661188
+Quantifying and Reducing Execution Variance in STM via Model Driven Commit Optimization.	Girish Mururu,Ada Gavrilovska,Santosh Pande	10.1109/CGO.2019.8661179
+Understanding RDMA Behavior in NUMA Systems.	Jacob Nelson,Roberto Palmieri	10.1109/CGO.2019.8661190
+Automatic Parallelization of Irregular x86-64 Loops.	Brandon Neth,Michelle Mills Strout	10.1109/CGO.2019.8661167
+BOLT: A Practical Binary Optimizer for Data Centers and Beyond.	Maksim Panchenko,Rafael Auler,Bill Nell,Guilherme Ottoni	10.1109/CGO.2019.8661201
+Super-Node SLP: Optimized Vectorization for Code Sequences Containing Operators and Their Inverse Elements.	Vasileios Porpodas,Rodrigo C. O. Rocha,Evgueni Brevnov,Luís F. W. Góes,Timothy G. Mattson	10.1109/CGO.2019.8661192
+An Optimization-Driven Incremental Inline Substitution Algorithm for Just-in-Time Compilers.	Aleksandar Prokopec,Gilles Duboscq,David Leopoldseder,Thomas Würthinger	10.1109/CGO.2019.8661171
+From Loop Fusion to Kernel Fusion: A Domain-Specific Approach to Locality Optimization.	Bo Qiao 0004,Oliver Reiche,Frank Hannig,Jürgen Teich	10.1109/CGO.2019.8661176
+Function Merging by Sequence Alignment.	Rodrigo C. O. Rocha,Pavlos Petoumenos,Zheng Wang 0001,Murray Cole,Hugh Leather	10.1109/CGO.2019.8661174
+Generation of In-Bounds Inputs for Arrays in Memory-Unsafe Languages.	Marcus Rodrigues,Breno Guimarães,Fernando Magno Quintão Pereira	10.1109/CGO.2019.8661178
+Reasoning about the Node.js Event Loop using Async Graphs.	Haiyang Sun,Daniele Bonetta,Filippo Schiavio,Walter Binder	10.1109/CGO.2019.8661173
+Locus: A System and a Language for Program Optimization.	Thiago S. F. X. Teixeira,Corinne Ancourt,David A. Padua,William Gropp	10.1109/CGO.2019.8661203
+Transforming Query Sequences for High-Throughput B+ Tree Processing on Many-Core Processors.	Ruiqin Tian,Junqiao Qiu,Zhijia Zhao 0001,Xu Liu 0001,Bin Ren	10.1109/CGO.2019.8661166
+Optimizing RNA-RNA Interaction Computations.	Swetha Varadarajan	10.1109/CGO.2019.8661181
+Janus: Statically-Driven and Profile-Guided Automatic Dynamic Binary Parallelisation.	Ruoyu Zhou,Timothy M. Jones 0001	10.1109/CGO.2019.8661196
+A Tool for Performance Analysis of GPU-Accelerated Applications.	Keren Zhou 0001,John M. Mellor-Crummey	10.1109/CGO.2019.8661169
+IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2019, Washington, DC, USA, February 16-20, 2019	Mahmut Taylan Kandemir,Alexandra Jimborean,Tipp Moseley	

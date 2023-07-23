@@ -1,0 +1,212 @@
+How Do We Read Formal Claims? Eye-Tracking and the Cognition of Proofs about Algorithms.	Hammad Ahmad,Zachary Karas,Kimberly Diaz,Amir Kamil,Jean-Baptiste Jeannin,Westley Weimer	10.1109/ICSE48619.2023.00029
+Recommending Root-Cause and Mitigation Steps for Cloud Incidents using Large Language Models.	Toufique Ahmed,Supriyo Ghosh,Chetan Bansal,Thomas Zimmermann 0001,Xuchao Zhang,Saravan Rajmohan	10.1109/ICSE48619.2023.00149
+Triggers for Reactive Synthesis Specifications.	Gal Amram,Dor Ma&apos;ayan,Shahar Maoz,Or Pistiner,Jan Oliver Ringert	10.1109/ICSE48619.2023.00070
+Fonte: Finding Bug Inducing Commits from Failures.	Gabin An,Jingun Hong,Naryeong Kim,Shin Yoo	10.1109/ICSE48619.2023.00059
+Testing Database Engines via Query Plan Guidance.	Jinsheng Ba,Manuel Rigger	10.1109/ICSE48619.2023.00174
+Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis.	Sahar Badihi,Khaled Ahmed 0004,Yi Li 0008,Julia Rubin	10.1109/ICSE48619.2023.00057
+Evidence Profiles for Validity Threats in Program Comprehension Experiments.	Marvin Muñoz Barón,Marvin Wyrich,Daniel Graziotin,Stefan Wagner 0001	10.1109/ICSE48619.2023.00162
+What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?	Setu Kumar Basak,Lorenzo Neil,Bradley Reaves,Laurie A. Williams	10.1109/ICSE48619.2023.00141
+SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript.	Masudul Hasan Masud Bhuiyan,Adithya Srinivas Parthasarathy,Nikos Vasilakis,Michael Pradel,Cristian-Alexandru Staicu	10.1109/ICSE48619.2023.00096
+Fairify: Fairness Verification of Neural Networks.	Sumon Biswas,Hridesh Rajan	10.1109/ICSE48619.2023.00134
+Columbus: Android App Testing Through Systematic Callback Exploration.	Priyanka Bose,Dipanjan Das 0002,Saastha Vasan,Sebastiano Mariani,Ilya Grishchenko,Andrea Continella,Antonio Bianchi,Christopher Kruegel,Giovanni Vigna	10.1109/ICSE48619.2023.00121
+Developers&apos; Visuo-spatial Mental Model and Program Comprehension.	Abir Bouraffa,Gian-Luca Fuhrmann,Walid Maalej	10.1109/ICSE48619.2023.00163
+When to Say What: Learning to Find Condition-Message Inconsistencies.	Islem Bouzenia,Michael Pradel	10.1109/ICSE48619.2023.00081
+&quot;STILL AROUND&quot;: Experiences and Survival Strategies of Veteran Women Software Developers.	Sterre van Breukelen,Ann Barcomb,Sebastian Baltes,Alexander Serebrenik	10.1109/ICSE48619.2023.00103
+Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation.	Sicong Cao,Xiaobing Sun,Xiaoxue Wu,Lili Bo,Bin Li 0006,Rongxin Wu,Wei Liu,Biao He,Yu Ouyang,Jiajia Li	10.1109/ICSE48619.2023.00044
+Cross-Domain Requirements Linking via Adversarial-based Domain Adaptation.	Zhiyuan Chang,Mingyang Li,Qing Wang 0001,Shoubin Li,Junjie Wang 0001	10.1109/ICSE48619.2023.00138
+Duetcs: Code Style Transfer through Generation and Retrieval.	Binger Chen,Ziawasch Abedjan	10.1109/ICSE48619.2023.00198
+The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing.	Qihong Chen,Rúben Câmara,José Campos,André Souto,Iftekhar Ahmed 0001	10.1109/ICSE48619.2023.00041
+Compiler Test-Program Generation via Memoized Configuration Search.	Junjie Chen 0003,Chenyao Suo,Jiajun Jiang,Peiqi Chen,Xingjian Li	10.1109/ICSE48619.2023.00172
+Detecting Dialog-Related Keyboard Navigation Failures in Web Applications.	Paul T. Chiou,Ali S. Alotaibi,William G. J. Halfond	10.1109/ICSE48619.2023.00120
+Generating Realistic and Diverse Tests for LiDAR-Based Perception Systems.	Garrett Christian,Trey Woodlief,Sebastian G. Elbaum	10.1109/ICSE48619.2023.00217
+Source Code Recommender Systems: The Practitioners&apos; Perspective.	Matteo Ciniselli,Luca Pascarella,Emad Aghajani,Simone Scalabrino,Rocco Oliveto,Gabriele Bavota	10.1109/ICSE48619.2023.00182
+Automated Black-Box Testing of Mass Assignment Vulnerabilities in RESTful APIs.	Davide Corradini,Michele Pasqua,Mariano Ceccato	10.1109/ICSE48619.2023.00213
+Data Quality for Software Vulnerability Datasets.	Roland Croft,Muhammad Ali Babar 0001,M. Mehdi Kholoosi	10.1109/ICSE48619.2023.00022
+SmallRace: Static Race Detection for Dynamic Languages - A Case on Smalltalk.	Siwei Cui,Yifei Gao,Rainer Unterguggenberger,Wilfried Pichler,Sean Livingstone,Jeff Huang 0001	10.1109/ICSE48619.2023.00102
+PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing.	Hetong Dai,Yiming Tang,Heng Li 0007,Weiyi Shang	10.1109/ICSE48619.2023.00077
+UPCY: Safely Updating Outdated Dependencies.	Andreas Dann,Ben Hermann 0001,Eric Bodden	10.1109/ICSE48619.2023.00031
+PYEVOLVE: Automating Frequent Code Changes in Python ML Systems.	Malinda Dilhara,Danny Dig,Ameya Ketkar	10.1109/ICSE48619.2023.00091
+On the Temporal Relations between Logging and Code.	Zishuo Ding,Yiming Tang,Yang Li,Heng Li 0007,Weiyi Shang	10.1109/ICSE48619.2023.00079
+Revisiting Learning-based Commit Message Generation.	Jinhao Dong,Yiling Lou,Dan Hao 0001,Lin Tan 0001	10.1109/ICSE48619.2023.00075
+Detecting Isolation Bugs via Transaction Oracle Construction.	Wensheng Dou,Ziyu Cui,Qianwang Dai,Jiansen Song,Dong Wang,Yu Gao 0002,Wei Wang 0049,Jun Wei 0001,Lei Chen,Hanmo Wang,Hua Zhong 0001,Tao Huang 0001	10.1109/ICSE48619.2023.00101
+AI-based Question Answering Assistance for Analyzing Natural-language Requirements.	Saad Ezzini,Sallam Abualhaija,Chetan Arora 0002,Mehrdad Sabetzadeh	10.1109/ICSE48619.2023.00113
+Automated Repair of Programs from Large Language Models.	Zhiyu Fan,Xiang Gao 0012,Martin Mirchev,Abhik Roychoudhury,Shin Hwei Tan	10.1109/ICSE48619.2023.00128
+RepresentThemAll: A Universal Learning Representation of Bug Reports.	Sen Fang,Tao Zhang 0001,Youshuai Tan,He Jiang 0001,Xin Xia 0001,Xiaobing Sun 0001	10.1109/ICSE48619.2023.00060
+Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference.	Sidong Feng,Mulong Xie,Chunyang Chen	10.1109/ICSE48619.2023.00084
+Read It, Don&apos;t Watch It: Captioning Bug Recordings Automatically.	Sidong Feng,Mulong Xie,Yinxing Xue,Chunyang Chen	10.1109/ICSE48619.2023.00197
+Strategies, Benefits and Challenges of App Store-inspired Requirements Elicitation.	Alessio Ferrari 0001,Paola Spoletini	10.1109/ICSE48619.2023.00114
+Usability-Oriented Design of Liquid Types for Java.	Catarina Gamboa,Paulo Canelas,Christopher Steven Timperley,Alcides Fonseca	10.1109/ICSE48619.2023.00132
+Coverage Guided Fault Injection for Cloud Systems.	Yu Gao 0002,Wensheng Dou,Dong Wang,Wenhan Feng,Jun Wei 0001,Hua Zhong 0001,Tao Huang 0001	10.1109/ICSE48619.2023.00186
+Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension.	Shuzheng Gao,Cuiyun Gao,Chaozheng Wang,Jun Sun 0001,David Lo 0001,Yue Yu	10.1109/ICSE48619.2023.00164
+Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models.	Shuzheng Gao,Hongyu Zhang 0002,Cuiyun Gao,Chaozheng Wang	10.1109/ICSE48619.2023.00015
+Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models.	Jiri Gesi,Xinyun Shen,Yunfan Geng,Qihong Chen,Iftekhar Ahmed 0001	10.1109/ICSE48619.2023.00135
+AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities.	Asem Ghaleb,Julia Rubin,Karthik Pattabiraman	10.1109/ICSE48619.2023.00087
+Autonomy Is An Acquired Taste: Exploring Developer Preferences for GitHub Bots.	Amir Ghorbani,Nathan Cassee,Derek Robinson,Adam Alami,Neil A. Ernst,Alexander Serebrenik,Andrzej Wasowski	10.1109/ICSE48619.2023.00123
+FedDebug: Systematic Debugging for Federated Learning Applications.	Waris Gill,Ali Anwar 0001,Muhammad Ali Gulzar	10.1109/ICSE48619.2023.00053
+Towards Understanding Fairness and its Composition in Ensemble Machine Learning.	Usman Gohar,Sumon Biswas,Hridesh Rajan	10.1109/ICSE48619.2023.00133
+On the Applicability of Language Models to Block-Based Programs.	Elisabeth Griebl,Benedikt Fein,Florian Obermüller,Gordon Fraser 0001,René Just	10.1109/ICSE48619.2023.00199
+A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization.	Hao Guan,Ying Xiao,Jiaying Li,Yepang Liu 0001,Guangdong Bai	10.1109/ICSE48619.2023.00024
+Rules of Engagement: Why and How Companies Participate in OSS.	Mariam Guizani,Aileen Abril Castro-Guzman,Anita Sarma,Igor Steinmacher	10.1109/ICSE48619.2023.00218
+Operand-Variation-Oriented Differential Analysis for Fuzzing Binding Calls in PDF Readers.	Suyue Guo,Xinyu Wan,Wei You,Bin Liang,Wenchang Shi,Yiwei Zhang,Jianjun Huang 0001,Jian Zhang	10.1109/ICSE48619.2023.00020
+Data-driven Recurrent Set Learning For Non-termination Analysis.	Zhilei Han,Fei He	10.1109/ICSE48619.2023.00115
+Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems.	Fitash Ul Haq,Donghwan Shin 0001,Lionel C. Briand	10.1109/ICSE48619.2023.00155
+Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs.	Jaemin Hong,Sukyoung Ryu	10.1109/ICSE48619.2023.00069
+Measuring and Mitigating Gaps in Structural Testing.	Soneya Binta Hossain,Matthew B. Dwyer,Sebastian G. Elbaum,Anh Nguyen-Tuong	10.1109/ICSE48619.2023.00147
+Aries: Efficient Testing of Deep Neural Networks via Labeling-Free Accuracy Estimation.	Qiang Hu,Yuejun Guo 0001,Xiaofei Xie,Maxime Cordy,Mike Papadakis,Lei Ma 0003,Yves Le Traon	10.1109/ICSE48619.2023.00152
+Doppelgänger Test Generation for Revealing Bugs in Autonomous Driving Software.	Yuqi Huai,Yuntianyi Chen,Sumaya Almanee,Tuan Ngo,Xiang Liao,Ziwen Wan,Qi Alfred Chen,Joshua Garcia	10.1109/ICSE48619.2023.00216
+PExReport: Automatic Creation of Pruned Executable Cross-Project Failure Reports.	Sunzhou Huang,Xiaoyin Wang	10.1109/ICSE48619.2023.00027
+Context-aware Bug Reproduction for Mobile Apps.	Yuchao Huang,Junjie Wang 0001,Zhe Liu 0025,Song Wang 0009,Chunyang Chen,Mingyang Li,Qing Wang 0001	10.1109/ICSE48619.2023.00196
+SemParser: A Semantic Parser for Log Analytics.	Yintong Huo,Yuxin Su 0001,Cheryl Lee,Michael R. Lyu	10.1109/ICSE48619.2023.00082
+Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement.	Sayem Mohammad Imtiaz,Fraol Batole,Astha Singh,Rangeet Pan,Breno Dantas Cruz,Hridesh Rajan	10.1109/ICSE48619.2023.00093
+CC: Causality-Aware Coverage Criterion for Deep Neural Networks.	Zhenlan Ji,Pingchuan Ma 0004,Yuanyuan Yuan,Shuai Wang 0011	10.1109/ICSE48619.2023.00153
+Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces.	Haoxiang Jia,Ming Wen 0001,Zifan Xie,Xiaochen Guo,Rongxin Wu,Maolin Sun,Kang Chen,Hai Jin 0001	10.1109/ICSE48619.2023.00016
+Impact of Code Language Models on Automated Program Repair.	Nan Jiang,Kevin Liu,Thibaud Lutellier,Lin Tan 0001	10.1109/ICSE48619.2023.00125
+KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair.	Nan Jiang,Thibaud Lutellier,Yiling Lou,Lin Tan 0001,Dan Goldwasser,Xiangyu Zhang 0001	10.1109/ICSE48619.2023.00111
+An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry.	Wenxin Jiang,Nicholas Synovic,Matt Hyatt,Taylor R. Schorlemmer,Rohan Sethi,Yung-Hsiang Lu,George K. Thiruvathukal,James C. Davis 0001	10.1109/ICSE48619.2023.00206
+Evaluating and Improving Hybrid Fuzzing.	Ling Jiang,Hengchen Yuan,Mingyuan Wu,Lingming Zhang 0001,Yuqun Zhang	10.1109/ICSE48619.2023.00045
+Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization.	Wuxia Jin,Yitong Dai,Jianguo Zheng,Yu Qu,Ming Fan 0002,Zhenyu Huang,Dezhi Huang,Ting Liu 0002	10.1109/ICSE48619.2023.00144
+Large Language Models are Few-shot Testers: Exploring LLM-based General Bug Reproduction.	Sungmin Kang,Juyeon Yoon,Shin Yoo	10.1109/ICSE48619.2023.00194
+Smartmark: Software Watermarking Scheme for Smart Contracts.	Taeyoung Kim,Yunhee Jang,Chanjong Lee,Hyungjoon Koo,Hyoungshick Kim	10.1109/ICSE48619.2023.00035
+Diver: Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations.	Jongwook Kim,Sunbeom So,Hakjoo Oh	10.1109/ICSE48619.2023.00187
+BFTDETECTOR: Automatic Detection of Business Flow Tampering for Digital Content Service.	I Luk Kim,Weihang Wang 0001,Yonghwi Kwon 0001,Xiangyu Zhang 0001	10.1109/ICSE48619.2023.00048
+Learning to Boost Disjunctive Static Bug-Finders.	Yoonseok Ko,Hakjoo Oh	10.1109/ICSE48619.2023.00099
+On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks.	Viktoria Koscinski,Sara Hashemi,Mehdi Mirakhorli	10.1109/ICSE48619.2023.00139
+Automated Summarization of Stack Overflow Posts.	Bonan Kou,Muhao Chen,Tianyi Zhang 0001	10.1109/ICSE48619.2023.00158
+Predicting Bugs by Monitoring Developers During Task Execution.	Gennaro Laudato,Simone Scalabrino,Nicole Novielli,Filippo Lanubile,Rocco Oliveto	10.1109/ICSE48619.2023.00100
+Log Parsing with Prompt-based Few-shot Learning.	Van-Hoang Le,Hongyu Zhang 0002	10.1109/ICSE48619.2023.00204
+Learning Seed-Adaptive Mutation Strategies for Greybox Fuzzing.	Myungho Lee,Sooyoung Cha,Hakjoo Oh	10.1109/ICSE48619.2023.00043
+Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data.	Cheryl Lee,Tianyi Yang,Zhuangbin Chen,Yuxin Su 0001,Michael R. Lyu	10.1109/ICSE48619.2023.00150
+Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention.	Cheryl Lee,Tianyi Yang,Zhuangbin Chen,Yuxin Su 0001,Yongqiang Yang,Michael R. Lyu	10.1109/ICSE48619.2023.00148
+Sibyl: Improving Software Engineering Tools with SMT Selection.	Will Leeson,Matthew B. Dwyer,Antonio Filieri	10.1109/ICSE48619.2023.00184
+CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models.	Caroline Lemieux,Jeevana Priya Inala,Shuvendu K. Lahiri,Siddhartha Sen 0001	10.1109/ICSE48619.2023.00085
+Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality.	Jiawei Li,Iftekhar Ahmed 0001	10.1109/ICSE48619.2023.00076
+Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction.	Zhenhao Li,Chuan Luo,Tse-Hsun Chen,Weiyi Shang,Shilin He,Qingwei Lin,Dongmei Zhang 0001	10.1109/ICSE48619.2023.00078
+SkCoder: A Sketch-based Approach for Automatic Code Generation.	Jia Li,Yongmin Li,Ge Li 0001,Zhi Jin,Yiyang Hao,Xing Hu 0008	10.1109/ICSE48619.2023.00179
+CCTEST: Testing and Repairing Code Completion Systems.	Zongjie Li,Chaozheng Wang,Zhibo Liu,Haoxuan Wang,Dong Chen,Shuai Wang 0011,Cuiyun Gao	10.1109/ICSE48619.2023.00110
+Reliability Assurance for Deep Neural Network Architectures Against Numerical Defects.	Linyi Li,Yuhao Zhang,Luyao Ren,Yingfei Xiong 0001,Tao Xie 0001	10.1109/ICSE48619.2023.00156
+Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective.	Zenan Li,Maorun Zhang,Jingwei Xu 0001,Yuan Yao 0001,Chun Cao,Taolue Chen,Xiaoxing Ma,Jian Lu 0001	10.1109/ICSE48619.2023.00106
+A Qualitative Study on the Implementation Design Decisions of Developers.	Jenny T. Liang,Maryam Arab,Minhyuk Ko,Amy J. Ko,Thomas D. LaToza	10.1109/ICSE48619.2023.00047
+Fill in the Blank: Context-aware Automated Text Input Generation for Mobile GUI Testing.	Zhe Liu 0025,Chunyang Chen,Junjie Wang 0001,Xing Che,Yuekai Huang,Jun Hu,Qing Wang 0001	10.1109/ICSE48619.2023.00119
+Ex pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network.	Zhe Liu 0025,Chunyang Chen,Junjie Wang 0001,Yuhui Su,Yuekai Huang,Jun Hu,Qing Wang 0001	10.1109/ICSE48619.2023.00168
+Incident-aware Duplicate Ticket Aggregation for Cloud Systems.	Jinyang Liu,Shilin He,Zhuangbin Chen,Liqun Li,Yu Kang,Xu Zhang,Pinjia He,Hongyu Zhang 0002,Qingwei Lin,Zhangwei Xu,Saravan Rajmohan,Dongmei Zhang 0001,Michael R. Lyu	10.1109/ICSE48619.2023.00193
+Syntax and Domain Aware Model for Unsupervised Program Translation.	Fang Liu,Jia Li,Li Zhang	10.1109/ICSE48619.2023.00072
+CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back.	Zhongxin Liu,Zhijie Tang,Xin Xia 0001,Xiaohu Yang 0001	10.1109/ICSE48619.2023.00014
+ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning.	Shangqing Liu,Bozhi Wu,Xiaofei Xie,Guozhu Meng,Yang Liu 0003	10.1109/ICSE48619.2023.00207
+Learning Graph-based Code Representations for Source-level Functional Similarity Detection.	Jiahao Liu,Jun Zeng,Xiang Wang 0010,Zhenkai Liang	10.1109/ICSE48619.2023.00040
+Reachable Coverage: Estimating Saturation in Fuzzing.	Danushka Liyanage,Marcel Böhme,Chakkrit Tantithamthavorn,Stephan Lipp	10.1109/ICSE48619.2023.00042
+CHRONOS: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports.	Yunbo Lyu,Thanh Le-Cong,Hong Jin Kang,Ratnadira Widyasari,Zhipeng Zhao,Xuan-Bach Dinh Le,Ming Li,David Lo 0001	10.1109/ICSE48619.2023.00094
+Using Reactive Synthesis: An End-to-End Exploratory Case Study.	Dor Ma&apos;ayan,Shahar Maoz	10.1109/ICSE48619.2023.00071
+Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation.	Parvez Mahbub,Ohiduzzaman Shuvo,Mohammad Masudur Rahman 0001	10.1109/ICSE48619.2023.00063
+Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront.	Alina Mailach,Norbert Siegmund	10.1109/ICSE48619.2023.00067
+AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces.	S. M. Hasan Mansur 0001,Sabiha Salma,Damilola Awofisayo,Kevin Moran	10.1109/ICSE48619.2023.00166
+On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot.	Antonio Mastropaolo,Luca Pascarella,Emanuela Guglielmi,Matteo Ciniselli,Simone Scalabrino,Rocco Oliveto,Gabriele Bavota	10.1109/ICSE48619.2023.00181
+Moving on from the Software Engineers&apos; Gambit: An Approach to Support the Defense of Software Effort Estimates.	Patrícia G. F. Matsubara,Igor Steinmacher,Bruno Gadelha,Tayana Conte	10.1109/ICSE48619.2023.00068
+Sustainability is Stratified: Toward a Better Theory of Sustainable Software Engineering.	Sean McGuire,Erin Schultz,Bimpe Ayoola,Paul Ralph	10.1109/ICSE48619.2023.00169
+Template-based Neural Program Repair.	Xiangxin Meng,Xu Wang 0007,Hongyu Zhang 0002,Hailong Sun 0001,Xudong Liu 0001,Chunming Hu	10.1109/ICSE48619.2023.00127
+Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX.	Xinyuan Miao,Ziyi Lin,Shaojun Wang,Lei Yu,Sanhong Li,Zihan Wang,Pengbo Nie,Yuting Chen,Beijun Shen,He Jiang 0001	10.1109/ICSE48619.2023.00142
+Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks.	Verya Monjezi,Ashutosh Trivedi 0001,Gang Tan,Saeid Tizpaz-Niari	10.1109/ICSE48619.2023.00136
+ECSTATIC: An Extensible Framework for Testing and Debugging Configurable Static Analysis.	Austin Mordahl,Zenong Zhang,Dakota Soles,Shiyi Wei	10.1109/ICSE48619.2023.00056
+Better Automatic Program Repair by Using Bug Reports and Tests Together.	Manish Motwani,Yuriy Brun	10.1109/ICSE48619.2023.00109
+Developer-Intent Driven Code Comment Generation.	Fangwen Mu,Xiao Chen 0015,Lin Shi 0006,Song Wang 0009,Qing Wang 0001	10.1109/ICSE48619.2023.00073
+Analysing the Impact of Workloads on Modeling the Performance of Configurable Software Systems.	Stefan Mühlbauer,Florian Sattler,Christian Kaltenecker,Johannes Dorn,Sven Apel,Norbert Siegmund	10.1109/ICSE48619.2023.00176
+Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods.	Daye Nam,Brad A. Myers,Bogdan Vasilescu,Vincent J. Hellendoorn	10.1109/ICSE48619.2023.00161
+Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning.	Noor Nashid,Mifta Sintaha,Ali Mesbah 0001	10.1109/ICSE48619.2023.00205
+Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions.	Mahtab Nejati,Mahmoud Alfadel,Shane McIntosh	10.1109/ICSE48619.2023.00108
+From Organizations to Individuals: Psychoactive Substance Use By Professional Programmers.	Kaia Newman,Madeline Endres,Westley Weimer,Brittany Johnson	10.1109/ICSE48619.2023.00065
+Learning Deep Semantics for Test Completion.	Pengyu Nie 0001,Rahul Banerjee,Junyi Jessy Li,Raymond J. Mooney,Milos Gligoric 0001	10.1109/ICSE48619.2023.00178
+RAT: A Refactoring-Aware Traceability Model for Bug Localization.	Feifei Niu,Wesley K. G. Assunção,LiGuo Huang,Christoph Mayr-Dorn,Jidong Ge,Bin Luo 0003,Alexander Egyed	10.1109/ICSE48619.2023.00028
+An Empirical Comparison of Pre-Trained Models of Source Code.	Changan Niu,Chuanyi Li,Vincent Ng 0001,Dongxiao Chen,Jidong Ge,Bin Luo 0003	10.1109/ICSE48619.2023.00180
+CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models.	Changan Niu,Chuanyi Li,Vincent Ng 0001,Bin Luo 0003	10.1109/ICSE48619.2023.00055
+VULGEN: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning.	Yu Nong,Yuzhe Ou,Michael Pradel,Feng Chen 0001,Haipeng Cai	10.1109/ICSE48619.2023.00211
+The untold story of code refactoring customizations in practice.	Daniel Oliveira 0005,Wesley K. G. Assunção,Alessandro F. Garcia 0001,Ana Carla Bibiano,Márcie Ribeiro,Rohit Gheyi,Baldoino Fonseca	10.1109/ICSE48619.2023.00021
+Do code refactorings influence the merge effort?	André Oliveira,Vânia Neves,Alexandre Plastino 0001,Ana Carla Bibiano,Alessandro F. Garcia 0001,Leonardo Murta 0001	10.1109/ICSE48619.2023.00023
+MirrorTaint: Practical Non-intrusive Dynamic Taint Tracking for JVM-based Microservice Systems.	Yicheng Ouyang,Kailai Shao,Kunqiu Chen,Ruobing Shen,Chao Chen,Mingze Xu,Yuqun Zhang,Lingming Zhang 0001	10.1109/ICSE48619.2023.00210
+MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform.	Matteo Paltenghi,Michael Pradel	10.1109/ICSE48619.2023.00202
+Fine-grained Commit-level Vulnerability Type Prediction by CWE Tree Structure.	Shengyi Pan,Lingfeng Bao,Xin Xia 0001,David Lo 0001,Shanping Li	10.1109/ICSE48619.2023.00088
+Identifying Key Classes for Initial Software Comprehension: Can We Do It Better?	Weifeng Pan 0001,Xin Du,Ming Hua 0003,Dae-Kyoo Kim,Zijiang Yang 0006	10.1109/ICSE48619.2023.00160
+ATM: Black-box Test Case Minimization based on Test Code Similarity and Evolutionary Search.	Rongqi Pan,Taher Ahmed Ghaleb,Lionel C. Briand	10.1109/ICSE48619.2023.00146
+Rete: Learning Namespace Representation for Program Repair.	Nikhil Parasaram,Earl T. Barr,Sergey Mechtaev	10.1109/ICSE48619.2023.00112
+Flexible and Optimal Dependency Management via Max-SMT.	Donald Pinckney,Federico Cassano,Arjun Guha,Jonathan Bell 0001,Massimiliano Culpo,Todd Gamblin	10.1109/ICSE48619.2023.00124
+Future Software for Life in Trusted Futures.	Sarah Pink	10.1109/ICSE48619.2023.00010
+Safe Low-Level Code Without Overhead is Practical.	Solal Pirelli,George Candea	10.1109/ICSE48619.2023.00183
+Message from the ICSE 2023 Program Co-Chairs.	Lori L. Pollock,Massimiliano Di Penta	10.1109/ICSE48619.2023.00006
+Keyword Extraction From Specification Documents for Planning Security Mechanisms.	Jeffy Jahfar Poozhithara,Hazeline U. Asuncion,Brent Lagesse	10.1109/ICSE48619.2023.00143
+Finding Causally Different Tests for an Industrial Control System.	Christopher M. Poskitt,Yuqi Chen 0001,Jun Sun 0001,Yu Jiang 0001	10.1109/ICSE48619.2023.00215
+Reusing Deep Neural Network Models through Model Re-engineering.	Binhang Qi,Hailong Sun 0001,Xiang Gao,Hongyu Zhang 0002,Zhaotian Li,Xudong Liu 0001	10.1109/ICSE48619.2023.00090
+Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing.	Dezhi Ran,Hao Wang,Wenyu Wang,Tao Xie 0001	10.1109/ICSE48619.2023.00083
+Testability Refactoring in Pull Requests: Patterns and Trends.	Pavel Reich,Walid Maalei	10.1109/ICSE48619.2023.00131
+Does the Stream API Benefit from Special Debugging Facilities? A Controlled Experiment on Loops and Streams with Specific Debuggers.	Jan Reichl,Stefan Hanenberg,Volker Gruhn	10.1109/ICSE48619.2023.00058
+DeepArc: Modularizing Neural Networks for the Model Maintenance.	Xiaoning Ren,Yun Lin 0001,Yinxing Xue,Ruofan Liu,Jun Sun 0001,Zhiyong Feng 0002,Jin Song Dong	10.1109/ICSE48619.2023.00092
+When and Why Test Generators for Deep Learning Produce Invalid Inputs: an Empirical Study.	Vincenzo Riccio,Paolo Tonella	10.1109/ICSE48619.2023.00104
+How Do Developers&apos; Profiles and Experiences Influence their Logging Practices? An Empirical Study of Industrial Practitioners.	Guoping Rong,Shenghui Gu,Haifeng Shen,He Zhang 0001,Hongyu Kuang	10.1109/ICSE48619.2023.00080
+Semi-Automatic, Inline and Collaborative Web Page Code Curations.	Roy Rutishauser,André A. Meyer,Reid Holmes,Thomas Fritz 0001	10.1109/ICSE48619.2023.00159
+Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is not the Moon.	Ita Ryan,Utz Roedig,Klaas-Jan Stol	10.1109/ICSE48619.2023.00140
+On Privacy Weaknesses and Vulnerabilities in Software Systems.	Pattaraporn Sangaroonsilp,Hoa Khanh Dam,Aditya Ghose	10.1109/ICSE48619.2023.00097
+Which of My Assumptions are Unnecessary for Realizability and Why Should I Care?	Rafi Shalom,Shahar Maoz	10.1109/ICSE48619.2023.00030
+CoCoSoDa: Effective Contrastive Learning for Code Search.	Ensheng Shi,Yanlin Wang 0001,Wenchao Gu,Lun Du,Hongyu Zhang 0002,Shi Han,Dongmei Zhang 0001,Hongbin Sun 0001	10.1109/ICSE48619.2023.00185
+Testing Database Systems via Differential Query Execution.	Jiansen Song,Wensheng Dou,Ziyu Cui,Qianwang Dai,Wei Wang 0049,Jun Wei 0001,Hua Zhong 0001,Tao Huang 0001	10.1109/ICSE48619.2023.00175
+Evaluating the Impact of Experimental Assumptions in Automated Fault Localization.	Ezekiel O. Soremekun,Lukas Kirschner,Marcel Böhme,Mike Papadakis	10.1109/ICSE48619.2023.00025
+An Empirical Study of Deep Learning Models for Vulnerability Detection.	Benjamin Steenhoek,Md Mahbubur Rahman,Richard Jiles,Wei Le	10.1109/ICSE48619.2023.00188
+Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation.	Jiamou Sun,Zhenchang Xing,Qinghua Lu 0001,Xiwei Xu 0001,Liming Zhu 0001,Thong Hoang,Dehai Zhao	10.1109/ICSE48619.2023.00089
+Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs.	Maolin Sun,Yibiao Yang,Ming Wen 0001,Yongcong Wang,Yuming Zhou,Hai Jin 0001	10.1109/ICSE48619.2023.00018
+Is It Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues.	Xin Tan,Yiran Chen 0005,Haohua Wu,Minghui Zhou 0001,Li Zhang	10.1109/ICSE48619.2023.00064
+PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps.	Zeya Tan,Wei Song	10.1109/ICSE48619.2023.00050
+The Road Toward Dependable AI Based Systems.	Paolo Tonella	10.1109/ICSE48619.2023.00011
+Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors.	Bianca Trinkenreich,Klaas-Jan Stol,Anita Sarma,Daniel M. Germán,Marco Aurélio Gerosa,Igor Steinmacher	10.1109/ICSE48619.2023.00038
+Automating Code-Related Tasks Through Transformers: The Impact of Pre-training.	Rosalia Tufano,Luca Pascarella,Gabriele Bavota	10.1109/ICSE48619.2023.00203
+Bad Snakes: Understanding and Improving Python Package Index Malware Scanning.	Duc-Ly Vu,Zachary Newman,John Speed Meyers	10.1109/ICSE48619.2023.00052
+One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization.	Deze Wang,Boxing Chen,Shanshan Li 0001,Wei Luo,Shaoliang Peng,Wei Dong 0006,Xiangke Liao	10.1109/ICSE48619.2023.00013
+Verifying Data Constraint Equivalence in FinTech Systems.	Chengpeng Wang,Gang Fan,Peisen Yao,Fuxiong Pan,Charles Zhang	10.1109/ICSE48619.2023.00117
+MTTM: Metamorphic Testing for Textual Content Moderation Software.	Wenxuan Wang,Jen-tse Huang,Weibin Wu,Jianping Zhang,Yizhan Huang,Shuqing Li,Pinjia He,Michael R. Lyu	10.1109/ICSE48619.2023.00200
+Understanding and Detecting On-The-Fly Configuration Bugs.	Teng Wang 0004,Zhouyang Jia,Shanshan Li 0001,Si Zheng,Yue Yu 0001,Erci Xu,Shaoliang Peng,Xiangke Liao	10.1109/ICSE48619.2023.00062
+Taintmini: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.	Chao Wang,Ronny Ko,Yue Zhang,Yuqing Yang,Zhiqiang Lin	10.1109/ICSE48619.2023.00086
+Test Selection for Unified Regression Testing.	Shuai Wang,Xinyu Lian,Darko Marinov,Tianyin Xu	10.1109/ICSE48619.2023.00145
+DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection.	Wenbo Wang,Tien N. Nguyen,Shaohua Wang 0002,Yi Li,Jiyuan Zhang,Aashish Yadavally	10.1109/ICSE48619.2023.00189
+Comparison and Evaluation of Clone Detection Techniques with Different Code Representations.	Yuekun Wang,Yuhang Ye,Yueming Wu,Weiwei Zhang,Yinxing Xue,Yang Liu	10.1109/ICSE48619.2023.00039
+APICAD: Augmenting API Misuse Detection through Specifications from Code and Documents.	Xiaoke Wang,Lei Zhao	10.1109/ICSE48619.2023.00032
+DStream: A Streaming-Based Highly Parallel IFDS Framework.	Xizao Wang,Zhiqiang Zuo 0002,Lei Bu,Jianhua Zhao	10.1109/ICSE48619.2023.00208
+Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software.	Max Weber,Christian Kaltenecker,Florian Sattler,Sven Apel,Norbert Siegmund	10.1109/ICSE48619.2023.00177
+Compiling Parallel Symbolic Execution with Continuations.	Guannan Wei 0001,Songlin Jia,Ruiqi Gao,Haotian Deng,Shangyin Tan,Oliver Bracevac,Tiark Rompf	10.1109/ICSE48619.2023.00116
+Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning.	Xin-Cheng Wen,Yupan Chen,Cuiyun Gao,Hongyu Zhang 0002,Jie M. Zhang,Qing Liao 0001	10.1109/ICSE48619.2023.00191
+JITfuzz: Coverage-guided Fuzzing for JVM Just-in-Time Compilers.	Mingyuan Wu,Minghai Lu,Heming Cui,Junjie Chen 0003,Yuqun Zhang,Lingming Zhang 0001	10.1109/ICSE48619.2023.00017
+OSSFP: Precise and Scalable C/C++ Third-Party Library Detection using Fingerprinting Functions.	Jiahui Wu,Zhengzi Xu,Wei Tang,Lyuye Zhang,Yueming Wu,Chengyue Liu,Kairan Sun,Lida Zhao,Yang Liu	10.1109/ICSE48619.2023.00034
+Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem.	Yulun Wu,Zeliang Yu,Ming Wen 0001,Qiang Li,Deqing Zou,Hai Jin 0001	10.1109/ICSE48619.2023.00095
+Practical and Efficient Model Extraction of Sentiment Analysis APIs.	Weibin Wu,Jianping Zhang,Victor Junqiu Wei,Xixian Chen,Zibin Zheng,Irwin King,Michael R. Lyu	10.1109/ICSE48619.2023.00054
+An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead.	Boming Xia,Tingting Bi,Zhenchang Xing,Qinghua Lu 0001,Liming Zhu 0001	10.1109/ICSE48619.2023.00219
+Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests.	Chunqiu Steven Xia,Saikat Dutta 0001,Sasa Misailovic,Darko Marinov,Lingming Zhang 0001	10.1109/ICSE48619.2023.00154
+Automated Program Repair in the Era of Large Pre-trained Language Models.	Chunqiu Steven Xia,Yuxiang Wei 0003,Lingming Zhang 0001	10.1109/ICSE48619.2023.00129
+Metamorphic Shader Fusion for Testing Graphics Shader Compilers.	Dongwei Xiao,Zhibo Liu,Shuai Wang	10.1109/ICSE48619.2023.00201
+Data Quality Matters: A Case Study of Obsolete Comment Detection.	Shengbin Xu,Yuan Yao 0001,Feng Xu 0007,Tianxiao Gu,Jingwei Xu 0001,Xiaoxing Ma	10.1109/ICSE48619.2023.00074
+(Partial) Program Dependence Learning.	Aashish Yadavally,Tien N. Nguyen,Wenbo Wang,Shaohua Wang 0002	10.1109/ICSE48619.2023.00209
+DLInfer: Deep Learning with Static Slicing for Python Type Inference.	Yanyan Yan,Yang Feng 0003,Hongcheng Fan,Baowen Xu	10.1109/ICSE48619.2023.00170
+Generating Test Databases for Database-Backed Applications.	Cong Yan,Suman Nath,Shan Lu 0001	10.1109/ICSE48619.2023.00173
+Locating Framework-specific Crashing Faults with Compact and Explainable Candidate Set.	Jiwei Yan,Miaomiao Wang,Yepang Liu 0001,Jun Yan 0009,Long Zhang	10.1109/ICSE48619.2023.00026
+Adhere: Automated Detection and Repair of Intrusive Ads.	Yutian Yan,Yunhui Zheng,Xinyue Liu,Nenad Medvidovic,Weihang Wang 0001	10.1109/ICSE48619.2023.00051
+Carving UI Tests to Generate API Tests and API Specification.	Rahulkrishna Yandrapally,Saurabh Sinha,Rachel Tzoref-Brill,Ali Mesbah 0001	10.1109/ICSE48619.2023.00167
+Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis.	Sen Yang,Sen Chen,Lingling Fan 0003,Sihan Xu,Zhanwei Hui,Song Huang	10.1109/ICSE48619.2023.00033
+Fuzzing Automatic Differentiation in Deep-Learning Libraries.	Chenyuan Yang,Yinlin Deng,Jiayi Yao,Yuxing Tu,Hanchi Li,Lingming Zhang 0001	10.1109/ICSE48619.2023.00105
+Demystifying Issues, Challenges, and Solutions for Multilingual Software Development.	Haoran Yang,Weile Lian,Shaowei Wang,Haipeng Cai	10.1109/ICSE48619.2023.00157
+Does data sampling improve deep learning-based vulnerability detection? Yeas! and Nays!	Xu Yang,Shaowei Wang,Yi Li,Shaohua Wang	10.1109/ICSE48619.2023.00192
+On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study.	Likang Yin,Xiyu Zhang,Vladimir Filkov	10.1109/ICSE48619.2023.00066
+Regression Fuzzing for Deep Learning Systems.	Hanmo You,Zan Wang,Junjie Chen 0003,Shuang Liu 0007,Shuochuan Li	10.1109/ICSE48619.2023.00019
+LogReducer: Identify and Reduce Log Hotspots in Kernel on the Fly.	Guangba Yu,Pengfei Chen 0002,Pairui Li,Tianjun Weng,Haibing Zheng,Yuetang Deng,Zibin Zheng	10.1109/ICSE48619.2023.00151
+ViolationTracker: Building Precise Histories for Static Analysis Violations.	Ping Yu,Yijian Wu,Xin Peng 0001,Jiahan Peng,Jian Zhang,Peicheng Xie,Wenyun Zhao	10.1109/ICSE48619.2023.00171
+GameRTS: A Regression Testing Framework for Video Games.	Jiongchi Yu,Yuechen Wu,Xiaofei Xie,Wei Le,Lei Ma 0003,Yingfeng Chen,Jingyu Hu,Fan Zhang	10.1109/ICSE48619.2023.00122
+Enhancing Deep Learning-based Vulnerability Detection by Building Behavior Graph Model.	Bin Yuan,Yifan Lu,Yilin Fang,Yueming Wu,Deqing Zou,Zhen Li,Zhi Li,Hai Jin 0001	10.1109/ICSE48619.2023.00190
+Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion.	Yuanyuan Yuan,Qi Pang,Shuai Wang 0011	10.1109/ICSE48619.2023.00107
+Detecting Exception Handling Bugs in C++ Programs.	Hao Zhang,Ji Luo,Mengze Hu,Jun Yan,Jian Zhang,Zongyan Qiu	10.1109/ICSE48619.2023.00098
+FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing.	Ziqi Zhang,Yuanchun Li,Bingyan Liu,Yifeng Cai,Ding Li 0001,Yao Guo 0001,Xiangqun Chen	10.1109/ICSE48619.2023.00049
+Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects.	Lyuye Zhang,Chengwei Liu,Zhengzi Xu,Sen Chen,Lingling Fan 0003,Lida Zhao,Jiahui Wu,Yang Liu	10.1109/ICSE48619.2023.00212
+Robustification of Behavioral Designs against Environmental Deviations.	Changjian Zhang,Tarang Saluja,Rômulo Meira-Góes,Matthew L. Bolton,David Garlan,Eunsuk Kang	10.1109/ICSE48619.2023.00046
+Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence.	Zejun Zhang,Zhenchang Xing,Xin Xia 0001,Xiwei Xu 0001,Liming Zhu 0001,Qinghua Lu 0001	10.1109/ICSE48619.2023.00130
+Demystifying Exploitable Bugs in Smart Contracts.	Zhuo Zhang,Brian Zhang,Wen Xu,Zhiqiang Lin	10.1109/ICSE48619.2023.00061
+SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics.	Dehai Zhao,Zhenchang Xing,Xin Xia 0001,Deheng Ye,Xiwei Xu 0001,Liming Zhu 0001	10.1109/ICSE48619.2023.00165
+Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps.	Kaifa Zhao,Xian Zhan,Le Yu 0002,Shiyao Zhou,Hao Zhou,Xiapu Luo,Haoyu Wang 0001,Yepang Liu 0001	10.1109/ICSE48619.2023.00137
+BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts.	Peilin Zheng,Xiapu Luo,Zibin Zheng	10.1109/ICSE48619.2023.00037
+Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum.	Zibin Zheng,Neng Zhang 0001,Jianzhong Su,Zhijie Zhong,Mingxi Ye,Jiachi Chen	10.1109/ICSE48619.2023.00036
+CoLeFunDa: Explainable Silent Vulnerability Fix Identification.	Jiayuan Zhou,Michael Pacheco,Jinfu Chen 0002,Xing Hu 0008,Xin Xia 0001,David Lo 0001,Ahmed E. Hassan	10.1109/ICSE48619.2023.00214
+Software Engineering as the Linchpin of Responsible AI.	Liming Zhu 0001	10.1109/ICSE48619.2023.00012
+Tolerate Control-Flow Changes for Sound Data Race Prediction.	Shihao Zhu,Yuqi Guo,Long Zhang,Yan Cai 0001	10.1109/ICSE48619.2023.00118
+On the Reproducibility of Software Defect Datasets.	Hao-Nan Zhu,Cindy Rubio-González	10.1109/ICSE48619.2023.00195
+Tare: Type-Aware Neural Program Repair.	Qihao Zhu,Zeyu Sun 0004,Wenjie Zhang,Yingfei Xiong 0001,Lu Zhang 0023	10.1109/ICSE48619.2023.00126
+45th IEEE/ACM International Conference on Software Engineering, ICSE 2023, Melbourne, Australia, May 14-20, 2023		10.1109/ICSE48619.2023

@@ -1,0 +1,37 @@
+YOLO: Speeding Up VM and Docker Boot Time by Reducing I/O Operations.	Thuy-Linh Nguyen 0001,Ramon Nou,Adrien Lebre	10.1007/978-3-030-29400-7_20
+Scheduling on Two Unbounded Resources with Communication Costs.	Massinissa Ait Aba,Alix Munier Kordon,Guillaume Pallez	10.1007/978-3-030-29400-7_9
+Hardware Counters&apos; Space Reduction for Code Region Characterization.	Jordi Alcaraz,Anna Sikora,Eduardo César	10.1007/978-3-030-29400-7_6
+Accelerating Data-Dependence Profiling with Static Hints.	Mohammad Norouzi Arab,Qamar Ilias,Ali Jannesari,Felix Wolf 0001	10.1007/978-3-030-29400-7_2
+Implementing YewPar: A Framework for Parallel Tree Search.	Blair Archibald,Patrick Maier 0001,Robert J. Stewart 0001,Phil Trinder	10.1007/978-3-030-29400-7_14
+Declarative Big Data Analysis for High-Energy Physics: TOTEM Use Case.	Valentina Avati,Milosz Blaszkiewicz,Enrico Bocchi,Luca Canali,Diogo Castro,Javier Cervantes,Leszek Grzanka,Enrico Guiraud,Jan Kaspar,Prasanth Kothuri,Massimo Lamanna,Maciej Malawski,Aleksandra Mnich,Jakub T. Moscicki,Shravan Murali,Danilo Piparo,Enric Tejedor	10.1007/978-3-030-29400-7_18
+Improving Fairness in a Large Scale HTC System Through Workload Analysis and Simulation.	Frédéric Azevedo,Dalibor Klusácek,Frédéric Suter	10.1007/978-3-030-29400-7_10
+Clustering as Approximation Method to Optimize Hydrological Simulations.	Elnaz Azmi,Uwe Ehret,Jörg Meyer 0001,Rik van Pruijssen,Achim Streit,Marcus Strobl	10.1007/978-3-030-29400-7_19
+A Comparison of Random Task Graph Generation Methods for Scheduling Problems.	Louis-Claude Canon,Mohamad El Sayah,Pierre-Cyrille Héam	10.1007/978-3-030-29400-7_5
+Automatic Exploration of Reduced Floating-Point Representations in Iterative Methods.	Yohan Chatelain,Eric Petit 0002,Pablo de Oliveira Castro,Ghislain Lartigue,David Defour	10.1007/978-3-030-29400-7_34
+TWA - Ticket Locks Augmented with a Waiting Array.	Dave Dice,Alex Kogan	10.1007/978-3-030-29400-7_24
+Avoiding Scalability Collapse by Restricting Concurrency.	Dave Dice,Alex Kogan	10.1007/978-3-030-29400-7_26
+Load-Balancing for Parallel Delaunay Triangulations.	Daniel Funke,Peter Sanders 0001,Vincent Winkler	10.1007/978-3-030-29400-7_12
+Parallel Adaptive Sampling with Almost No Synchronization.	Alexander van der Grinten,Eugenio Angriman,Henning Meyerhenke	10.1007/978-3-030-29400-7_31
+Unified and Scalable Incremental Recommenders with Consumed Item Packs.	Rachid Guerraoui,Erwan Le Merrer,Rhicheek Patra,Jean-Ronan Vigouroux	10.1007/978-3-030-29400-7_17
+Multi-valued Expression Analysis for Collective Checking.	Pierre Huchant,Emmanuelle Saillard,Denis Barthou,Patrick Carribault	10.1007/978-3-030-29400-7_3
+Linear Time Algorithms for Multiple Cluster Scheduling and Multiple Strip Packing.	Klaus Jansen,Malin Rau	10.1007/978-3-030-29400-7_8
+Toggle: Contention-Aware Task Scheduler for Concurrent Hierarchical Operations.	Saurabh Kalikar,Rupesh Nasre	10.1007/978-3-030-29400-7_11
+Scalable FIFO Channels for Programming via Communicating Sequential Processes.	Nikita Koval,Dan Alistarh,Roman Elizarov	10.1007/978-3-030-29400-7_23
+Combining Checkpointing and Data Compression to Accelerate Adjoint-Based Optimization Problems.	Navjot Kukreja,Jan Hückelheim,Mathias Louboutin,Paul D. Hovland,Gerard Gorman	10.1007/978-3-030-29400-7_7
+Featherlight Speculative Task Parallelism.	Vivek Kumar 0001	10.1007/978-3-030-29400-7_28
+Linear Systems Solvers for Distributed-Memory Machines with GPU Accelerators.	Jakub Kurzak,Mark Gates,Ali Charara 0001,Asim YarKhan,Ichitaro Yamazaki,Jack J. Dongarra	10.1007/978-3-030-29400-7_35
+Enhancing the Programmability and Performance Portability of GPU Tensor Operations.	Arya Mazaheri,Johannes Schulte,Matthew W. Moskewicz,Felix Wolf 0001,Ali Jannesari	10.1007/978-3-030-29400-7_16
+Online Fault Classification in HPC Systems Through Machine Learning.	Alessio Netti,Zeynep Kiziltan,Özalp Babaoglu,Alina Sîrbu,Andrea Bartolini,Andrea Borghesi	10.1007/978-3-030-29400-7_1
+Design-Space Exploration with Multi-Objective Resource-Aware Modulo Scheduling.	Julian Oppermann,Patrick Sittel,Martin Kumm,Melanie Reuter-Oppermann,Andreas Koch 0001,Oliver Sinnen	10.1007/978-3-030-29400-7_13
+Enabling Resilience in Asynchronous Many-Task Programming Models.	Sri Raj Paul,Akihiro Hayashi,Nicole Slattengren,Hemanth Kolla,Matthew Whitlock,Seonmyeong Bak,Keita Teranishi,Jackson R. Mayo,Vivek Sarkar	10.1007/978-3-030-29400-7_25
+Fine-Grained MPI+OpenMP Plasma Simulations: Communication Overlap with Dependent Tasks.	Jérôme Richard,Guillaume Latu,Julien Bigot,Thierry Gautier	10.1007/978-3-030-29400-7_30
+PLB-HAC: Dynamic Load-Balancing for Heterogeneous Accelerator Clusters.	Luis Sant&apos;Ana,Daniel Cordeiro,Raphael Y. de Camargo	10.1007/978-3-030-29400-7_15
+Graph Coloring Using GPUs.	Meghana Aparna Sistla,V. Krishna Nandivada	10.1007/978-3-030-29400-7_27
+Parallel Streaming Random Sampling.	Kanat Tangwongsan,Srikanta Tirthapura	10.1007/978-3-030-29400-7_32
+One Table to Count Them All: Parallel Frequency Estimation on Single-Board Computers.	Fatih Tasyaran,Kerem Yildirir,Mustafa Kemal Tas,Kamer Kaya	10.1007/978-3-030-29400-7_29
+Celerity: High-Level C++ for Accelerator Clusters.	Peter Thoman,Philip Salzmann,Biagio Cosenza,Thomas Fahringer	10.1007/978-3-030-29400-7_21
+Cholesky and Gram-Schmidt Orthogonalization for Tall-and-Skinny QR Factorizations on Graphics Processors.	Andrés E. Tomás,Enrique S. Quintana-Ortí	10.1007/978-3-030-29400-7_33
+Towards Portable Online Prediction of Network Utilization Using MPI-Level Monitoring.	Shu-Mei Tseng,Bogdan Nicolae,George Bosilca,Emmanuel Jeannot,Aparna Chandramowlishwaran,Franck Cappello	10.1007/978-3-030-29400-7_4
+Radio-Astronomical Imaging: FPGAs vs GPUs.	Bram Veenboer,John W. Romein	10.1007/978-3-030-29400-7_36
+Dataflow Execution of Hierarchically Tiled Arrays.	Chih-Chieh Yang,Juan Carlos Pichel,David A. Padua	10.1007/978-3-030-29400-7_22
+Euro-Par 2019: Parallel Processing - 25th International Conference on Parallel and Distributed Computing, Göttingen, Germany, August 26-30, 2019, Proceedings	Ramin Yahyapour	10.1007/978-3-030-29400-7

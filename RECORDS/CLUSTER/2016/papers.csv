@@ -1,0 +1,83 @@
+Distributed Bayesian Probabilistic Matrix Factorization.	Tom Vander Aa,Imen Chakroun,Tom Haber	10.1109/CLUSTER.2016.13
+FTS 2016 Workshop Keynote Speech.	David Abramson 0001	10.1109/CLUSTER.2016.98
+A Software-Defined Storage for Workflow Applications.	Samer Al-Kiswany,Matei Ripeanu	10.1109/CLUSTER.2016.56
+Design and Implementation for Checkpointing of Distributed Resources Using Process-Level Virtualization.	Kapil Arya,Rohan Garg 0001,Artem Y. Polyakov,Gene Cooperman	10.1109/CLUSTER.2016.55
+A Comparative Survey of the HPC and Big Data Paradigms: Analysis and Experiments.	HamidReza Asaadi,Dounia Khaldi,Barbara M. Chapman	10.1109/CLUSTER.2016.21
+ARCS: Adaptive Runtime Configuration Selection for Power-Constrained OpenMP Applications.	Md Abdullah Shahneous Bari,Nicholas Chaimov,Abid Muslim Malik,Kevin A. Huck,Barbara M. Chapman,Allen D. Malony,Osman Sarood	10.1109/CLUSTER.2016.39
+Adaptive and Dynamic Design for MPI Tag Matching.	Mohammadreza Bayatpour,Hari Subramoni,Sourav Chakraborty 0003,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2016.69
+High Throughput Log-Based Replication for Many Small In-Memory Objects.	Kevin Beineke,Stefan Nothaas,Michael Schöttner	10.1109/CLUSTER.2016.85
+Results of a Model for Hadoop YARN MapReduce Tasks.	Thomas C. Bressoud,Qiuyi Tang	10.1109/CLUSTER.2016.51
+Distributed Parallel #SAT Solving.	Jan Burchard,Tobias Schubert 0001,Bernd Becker 0001	10.1109/CLUSTER.2016.20
+Fast Multi-parameter Performance Modeling.	Alexandru Calotoiu,David Beckingsale,Christopher W. Earl,Torsten Hoefler,Ian Karlin,Martin Schulz 0001,Felix Wolf 0001	10.1109/CLUSTER.2016.57
+A Review of Lightweight Thread Approaches for High Performance Computing.	Adrián Castelló 0001,Antonio J. Peña,Sangmin Seo,Rafael Mayo 0002,Pavan Balaji,Enrique S. Quintana-Ortí	10.1109/CLUSTER.2016.12
+When Amdahl Meets Young/Daly.	Aurélien Cavelan,Jiafan Li,Yves Robert,Hongyang Sun 0001	10.1109/CLUSTER.2016.17
+Improving Collective I/O Performance Using Non-volatile Memory Devices.	Giuseppe Congiu,Sai Narasimhamurthy,Tim Süß,André Brinkmann	10.1109/CLUSTER.2016.37
+Directive-Based Pipelining Extension for OpenMP.	Xuewen Cui,Thomas R. W. Scogland,Bronis R. de Supinski,Wu-Chun Feng	10.1109/CLUSTER.2016.53
+GraphMeta: A Graph-Based Engine for Managing Large-Scale HPC Rich Metadata.	Dong Dai 0001,Yong Chen 0001,Philip H. Carns,John Jenkins,Wei Zhang 0097,Robert B. Ross	10.1109/CLUSTER.2016.50
+VOLAP: A Scalable Distributed System for Real-Time OLAP with High Velocity Data.	Frank Dehne,David E. Robillard,Andrew Rau-Chaplin,Neil Burke	10.1109/CLUSTER.2016.29
+TwinPCG: Dual Thread Redundancy with forward Recovery for Preconditioned Conjugate Gradient Methods.	Kiril Dichev,Dimitrios S. Nikolopoulos	10.1109/CLUSTER.2016.86
+TwinPCG: Dual Thread Redundancy with Forward Recovery for Preconditioned Conjugate Gradient Methods.	Kiril Dichev,Dimitrios S. Nikolopoulos	10.1109/CLUSTER.2016.99
+A Low Disk-Bound Transaction Logging System for In-memory Distributed Data Stores.	Dayal Dilli,Kenneth B. Kent,Yang Wang 0006,Cheng-Zhong Xu 0001	10.1109/CLUSTER.2016.35
+Evaluation of Topology-Aware Broadcast Algorithms for Dragonfly Networks.	Matthieu Dorier,Misbah Mubarak,Robert B. Ross,Jianping Kelvin Li,Christopher D. Carothers,Kwan-Liu Ma	10.1109/CLUSTER.2016.26
+Adaptive Performance-Constrained In Situ Visualization of Atmospheric Simulations.	Matthieu Dorier,Robert Sisneros,Leonardo Bautista-Gomez,Tom Peterka,Leigh Orf,Lokman Rahmani,Gabriel Antoniu,Luc Bougé	10.1109/CLUSTER.2016.25
+Bredala: Semantic Data Redistribution for In Situ Applications.	Matthieu Dreher,Tom Peterka	10.1109/CLUSTER.2016.30
+Active Learning in Performance Analysis.	Dmitry Duplyakin,Jed Brown,Robert Ricci	10.1109/CLUSTER.2016.63
+Realizing Out-of-Core Stencil Computations Using Multi-tier Memory Hierarchy on GPGPU Clusters.	Toshio Endo	10.1109/CLUSTER.2016.61
+Energy and Performance Efficient Underloading Detection Algorithm of Virtual Machines in Cloud Data Centers.	Juan Fang,Lifu Zhou,Xiaoting Hao,Min Cai,Xingtian Ren	10.1109/CLUSTER.2016.72
+Quick Eviction of Virtual Machines through Proactive Snapshots.	Dinuni Fernando,Hardik Bagdi,Yaohui Hu,Ping Yang 0002,Kartik Gopalan,Charles A. Kamhoua,Kevin A. Kwiat	10.1109/CLUSTER.2016.83
+streamingRPHash: Random Projection Clustering of High-Dimensional Data in a MapReduce Framework.	Jacob Franklin,Samuel Wenke,Sadiq Quasem,Lee A. Carraher,Philip A. Wilsey	10.1109/CLUSTER.2016.89
+Spatial Locality Aware, Fast, and Scalable SLINK Algorithm for Commodity Clusters.	Poonam Goyal,Sonal Kumari,Sumit Sharma 0001,Vivek Kishore,Navneet Goyal,Sundar Balasubramaniam	10.1109/CLUSTER.2016.84
+Separation Kernel Robustness Testing: The XtratuM Case Study.	Stephen Grixti,Nicholas Sammut,Maria Hernek,Elena Carrascosa,Miguel Masmano,Alfons Crespo	10.1109/CLUSTER.2016.91
+(SAI) Stalled, Active and Idle: Characterizing Power and Performance of Large-Scale Dragonfly Networks.	Taylor L. Groves,Ryan E. Grant,K. Scott Hemmert,Simon D. Hammond,Michael J. Levenhagen,Dorian C. Arnold	10.1109/CLUSTER.2016.52
+Skyline Service Selection Based on QoS Prediction.	Yan Guo 0004,Shangguang Wang	10.1109/CLUSTER.2016.80
+Compiler-Assisted Overlapping of Communication and Computation in MPI Applications.	Jichi Guo,Qing Yi,Jiayuan Meng,Junchao Zhang,Pavan Balaji	10.1109/CLUSTER.2016.62
+Optimizing Locality by Topology-Aware Placement for a Task Based Programming Model.	Jens Gustedt,Emmanuel Jeannot,Farouk Mansouri	10.1109/CLUSTER.2016.87
+Tiresias: Low-Overhead Sample Based Scheduling with Task Hopping.	Chunliang Hao,Jie Shen 0008,Heng Zhang 0005,Yanjun Wu,Mingshu Li 0001	10.1109/CLUSTER.2016.31
+Unequal Failure Protection Coding Technology for Cloud Storage Systems.	Yupeng Hu,Yonghe Liu,Wenjia Li,Nong Xiao,Zheng Qin 0001,Shu Yin	10.1109/CLUSTER.2016.16
+Application-Assisted Writeback for Hadoop Clusters.	Jungi Jeong,DaeWoo Lee,Seungryoul Maeng	10.1109/CLUSTER.2016.14
+An ABFT Scheme Based on Communication Characteristics.	Upama Kabir,Dhrubajyoti Goswami	10.1109/CLUSTER.2016.68
+Deduplication Potential of HPC Applications&apos; Checkpoints.	Jürgen Kaiser,Ramy Gad,Tim Süß,Federico Padua,Lars Nagel 0001,André Brinkmann	10.1109/CLUSTER.2016.32
+Design and Analysis of Fault Tolerance Mechanisms for Big Data Transfers.	Preethika Kasu,Youngjae Kim 0001,Sungyong Park,Scott Atchley,Geoffroy R. Vallée	10.1109/CLUSTER.2016.74
+Time Optimization Modeling for Big Data Placement and Analysis for Geo-Distributed Data Centers.	Awais Khan 0002,Muhammad Attique 0001,Tae-Sun Chung,Youngjae Kim 0001	10.1109/CLUSTER.2016.75
+GLAP: Distributed Dynamic Workload Consolidation through Gossip-Based Learning.	Mansour Khelghatdoust,Vincent Gramoli,Daniel Sun 0004	10.1109/CLUSTER.2016.24
+A Case for Criticality Models in Exascale Systems.	Brian Kocoloski,Leonardo Piga,Wei Huang 0004,Indrani Paul,John R. Lange	10.1109/CLUSTER.2016.38
+SSDUP: An Efficient SSD Write Buffer Using Pipeline.	Ming Li,Xuanhua Shi,Wei Liu 0004,Hai Jin 0001,Yong Chen 0001	10.1109/CLUSTER.2016.88
+Fast Big Data Analysis in Geo-Distributed Cloud.	Yue Li,Laiping Zhao,Chenzhou Cui,Ce Yu	10.1109/CLUSTER.2016.28
+Themis: A Scalable Performance Evaluation Framework for Virtualized Datacenter.	Zhengmin Li,Di Zhang,Xinran Liu,Bin Sun,Zhicheng Yao,Xiufeng Sui	10.1109/CLUSTER.2016.78
+Efficient Semantic-Aware Coflow Scheduling for Data-Parallel Jobs.	Ziyang Li,Yiming Zhang 0003,Yunxiang Zhao,Dongsheng Li 0001	10.1109/CLUSTER.2016.82
+CORP: Cooperative Opportunistic Resource Provisioning for Short-Lived Jobs in Cloud Systems.	Jinwei Liu,Haiying Shen,Liuhua Chen	10.1109/CLUSTER.2016.65
+SuperGlue: Standardizing Glue Components for HPC Workflows.	Jay F. Lofstead,Alexis Champsaur,Jai Dayal,Matthew Wolf,Greg Eisenhauer	10.1109/CLUSTER.2016.90
+Custody: Towards Data-Aware Resource Sharing in Cloud-Based Big Data Processing.	Shiyao Ma,Jingjie Jiang,Bo Li 0001,Baochun Li	10.1109/CLUSTER.2016.59
+In-cache MapReduce: Leverage Tiling to Boost Temporal Locality-Sensitive MapReduce Computations.	Daniel Magro,Hervé Paulino	10.1109/CLUSTER.2016.33
+Spark Versus Flink: Understanding Performance in Big Data Analytics Frameworks.	Ovidiu-Cristian Marcu,Alexandru Costan,Gabriel Antoniu,María S. Pérez-Hernández	10.1109/CLUSTER.2016.22
+Serving More GPU Jobs, with Low Penalty, Using Remote GPU Execution and Migration.	Pak Markthub,Akihiro Nomura 0002,Satoshi Matsuoka	10.1109/CLUSTER.2016.36
+Minimizing CMT Miss Penalty in Selective Page-Level Address Mapping Table.	Ronnie Mativenga,Joon-Young Paik,Junghee Lee,Tae-Sun Chung,Youngjae Kim 0001	10.1109/CLUSTER.2016.81
+Machine Learning Predictions of Runtime and IO Traffic on High-End Clusters.	Ryan McKenna,Stephen Herbein,Adam Moody,Todd Gamblin,Michela Taufer	10.1109/CLUSTER.2016.58
+Reduced-Precision Floating-Point Formats on GPUs for High Performance and Energy Efficient Computation.	Daichi Mukunoki,Toshiyuki Imamura	10.1109/CLUSTER.2016.77
+Performance Optimization for All Flash Scale-Out Storage.	Myoungwon Oh,Jugwan Eom,Jungyeon Yoon,Jae Yeun Yun,Seungmin Kim,Heon Y. Yeom	10.1109/CLUSTER.2016.11
+CHOPPER: Optimizing Data Partitioning for In-memory Data Analytics Frameworks.	Arnab Kumar Paul,Wenjie Zhuang,Luna Xu,Min Li,M. Mustafa Rafique,Ali Raza Butt	10.1109/CLUSTER.2016.41
+Exploring Data Migration for Future Deep-Memory Many-Core Systems.	Swann Perarnau,Judicael A. Zounmevo,Balazs Gerofi,Kamil Iskra,Peter H. Beckman	10.1109/CLUSTER.2016.42
+On Energy Proportionality and Time-Energy Performance of Heterogeneous Clusters.	Lavanya Ramapantulu,Dumitrel Loghin,Yong Meng Teo	10.1109/CLUSTER.2016.44
+Parallel DTFE Surface Density Field Reconstruction.	Esteban Rangel,Nan Li 0022,Salman Habib,Tom Peterka,Ankit Agrawal 0001,Wei-Keng Liao,Alok N. Choudhary	10.1109/CLUSTER.2016.40
+A Model for Weak Scaling to Many GPUs at the Basis of the Linpack Benchmark.	David Rohr,Jan de Cuveland,Volker Lindenstruth	10.1109/CLUSTER.2016.15
+Horme: Random Access Big Data Analytics.	Guangchen Ruan,Beth Plale	10.1109/CLUSTER.2016.27
+Enhancing Performance of Large-Scale Electronic Structure Calculations with Many-Core Computing.	Hoon Ryu,Yosang Jeong	10.1109/CLUSTER.2016.76
+Probabilistic Network-Aware Task Placement for MapReduce Scheduling.	Haiying Shen,Ankur Sarker,Lei Yu 0002,Feng Deng	10.1109/CLUSTER.2016.48
+Smart-MLlib: A High-Performance Machine-Learning Library.	David Siegal,Jia Guo,Gagan Agrawal	10.1109/CLUSTER.2016.49
+VarySched: A Framework for Variable Scheduling in Heterogeneous Environments.	Tim Süß,Nils Döring,Ramy Gad,Lars Nagel 0001,André Brinkmann,Dustin Feld,Thomas Soddemann,Stefan Lankes	10.1109/CLUSTER.2016.19
+A Runtime Heuristic to Selectively Replicate Tasks for Application-Specific Reliability Targets.	Omer Subasi,Gulay Yalcin,Ferad Zyulkyarov,Osman S. Unsal,Jesús Labarta	10.1109/CLUSTER.2016.54
+Extending the Roofline Model for Asynchronous Many-Task Runtimes.	Joshua D. Suetterlein,Joshua Landwehr,Andrès Márquez,Joseph B. Manzano,Guang R. Gao	10.1109/CLUSTER.2016.47
+Towards Resource Disaggregation - Memory Scavenging for Scientific Workloads.	Alexandru Uta,Ana-Maria Oprescu,Thilo Kielmann	10.1109/CLUSTER.2016.18
+Dynamically Building Energy Proportional Data Centers with Heterogeneous Computing Resources.	Violaine Villebonnet,Georges Da Costa,Laurent Lefèvre,Jean-Marc Pierson,Patricia Stolf	10.1109/CLUSTER.2016.34
+Intra-host Rate Control with Centralized Approach.	Zhuang Wang,Ke Liu 0004,Yifan Shen,Jack Y. B. Lee,Mingyu Chen 0001,Lixin Zhang 0002	10.1109/CLUSTER.2016.23
+Extending SSD Lifetime with Persistent In-Memory Metadata Management.	Qingsong Wei,Cheng Chen 0008,Mingdi Xue,Chundong Wang 0001,Jun Yang 0022	10.1109/CLUSTER.2016.45
+vProbe: Scheduling Virtual Machines on NUMA Systems.	Song Wu 0001,Huahua Sun,Like Zhou,Qingtian Gan,Hai Jin 0001	10.1109/CLUSTER.2016.60
+Machine Status Prediction for Dynamic and Heterogenous Cloud Environment.	Jinliang Xu,Ao Zhou 0001,Shangguang Wang,Qibo Sun,Jinglin Li,Fangchun Yang	10.1109/CLUSTER.2016.73
+A Lightweight Causal Message Logging Protocol to Lower Fault Tolerance Overhead.	Jinmin Yang	10.1109/CLUSTER.2016.64
+MBL: A Multi-stage Bufferless High-radix Router.	Wenxiang Yang,Dezun Dong,Jingyue Zhao,Cunlu Li	10.1109/CLUSTER.2016.101
+Accelerating I/O Performance of SVM on HDFS.	Mao Ye,Jun Wang 0001,Jiangling Yin,Xuhong Zhang 0002	10.1109/CLUSTER.2016.71
+Conflict Prediction-Based Transaction Execution for Transactional Memory in Multi-core In-memory Databases.	Min Yoon,Moon-Hwan Kang,Yeon-Woo Jang,Jae-Woo Chang	10.1109/CLUSTER.2016.79
+SMARTPARTITION: Efficient Partitioning for Natural Graphs.	Chengfei Zhang,Yiming Zhang 0003,Dongsheng Li 0001,Jia Li,Min-ne Li	10.1109/CLUSTER.2016.70
+FlashStager: Improving the Performance of SSD-Based Data Staging Systems via Write Redirection.	Xuechen Zhang,Fang Zheng,Karsten Schwan,Matthew Wolf	10.1109/CLUSTER.2016.46
+Exploring Plan-Based Scheduling for Large-Scale Computing Systems.	Xingwu Zhang,Zhou Zhou,Xu Yang 0009,Zhiling Lan,Jia Wang	10.1109/CLUSTER.2016.43
+2016 IEEE International Conference on Cluster Computing, CLUSTER 2016, Taipei, Taiwan, September 12-16, 2016		

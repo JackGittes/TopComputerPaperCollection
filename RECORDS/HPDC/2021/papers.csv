@@ -1,0 +1,29 @@
+DRLPart: A Deep Reinforcement Learning Framework for Optimally Efficient and Robust Resource Partitioning on Commodity Servers.	Ruobing Chen 0002,Jinping Wu,Haosen Shi,Yusen Li,Xiaoguang Liu 0001,Gang Wang 0001	10.1145/3431379.3460648
+File System Semantics Requirements of HPC Applications.	Chen Wang 0004,Kathryn Mohror,Marc Snir	10.1145/3431379.3460637
+Hardware Specialization for Distributed Computing.	Gustavo Alonso	10.1145/3431379.3460654
+Superscalar Programming Models: A Perspective from Barcelona.	Rosa M. Badia	10.1145/3431379.3466720
+Productive Programming of Distributed Systems with the SHAD C++ Library.	Vito Giovanni Castellana,Marco Minutoli	10.1145/3431379.3462765
+CharminG: A Scalable GPU-resident Runtime System.	Jaemin Choi,David F. Richards,Laxmikant V. Kalé	10.1145/3431379.3464454
+Achieving Scalable Consensus by Being Less Writey.	Michael Davis,Hans Vandierendonck	10.1145/3431379.3464452
+Machine Learning Augmented Hybrid Memory Management.	Thaleia Dimitra Doudali,Ada Gavrilovska	10.1145/3431379.3464450
+ARC: An Automated Approach to Resiliency for Lossy Compressed Data via Error Correcting Codes.	Dakota Fulp,Alexandra Poulos,Robert Underwood,Jon C. Calhoun	10.1145/3431379.3460638
+Computing Challenges for High Energy Physics.	Maria Girone	10.1145/3431379.3466719
+DStore: A Fast, Tailless, and Quiescent-Free Object Store for PMEM.	Shashank Gugnani,Xiaoyi Lu	10.1145/3431379.3460649
+DLion: Decentralized Distributed Deep Learning in Micro-Clouds.	Rankyung Hong,Abhishek Chandra	10.1145/3431379.3460643
+Towards Exploiting CPU Elasticity via Efficient Thread Oversubscription.	Hang Huang,Jia Rao,Song Wu 0001,Hai Jin 0001,Hong Jiang 0001,Hao Che,Xiaofeng Wu	10.1145/3431379.3460641
+Parallel Program Scaling Analysis using Hardware Counters.	Shobhit Jagga,Preeti Malakar	10.1145/3431379.3464453
+Adaptive Configuration of In Situ Lossy Compression for Cosmology Simulations via Fine-Grained Rate-Quality Modeling.	Sian Jin,Jesus Pulido,Pascal Grosset,Jiannan Tian,Dingwen Tao,James P. Ahrens	10.1145/3431379.3460653
+SnuRHAC: A Runtime for Heterogeneous Accelerator Clusters with CUDA Unified Memory.	Jaehoon Jung,Daeyoung Park,Gangwon Jo,Jungho Park,Jaejin Lee	10.1145/3431379.3460647
+An Oracle for Guiding Large-Scale Model/Hybrid Parallel Training of Convolutional Neural Networks.	Albert Njoroge Kahira,Truong Thao Nguyen,Leonardo Bautista-Gomez,Ryousei Takano,Rosa M. Badia,Mohamed Wahib	10.1145/3431379.3460644
+Q-adaptive: A Multi-Agent Reinforcement Learning Based Routing on Dragonfly Network.	Yao Kang,Xin Wang 0115,Zhiling Lan	10.1145/3431379.3460650
+Cache-aware Sparse Patterns for the Factorized Sparse Approximate Inverse Preconditioner.	Sergi Laut,Ricard Borrell,Marc Casas	10.1145/3431379.3460642
+MPI-CorrBench: Towards an MPI Correctness Benchmark Suite.	Jan-Patrick Lehr,Tim Jammer,Christian H. Bischof	10.1145/3431379.3460652
+TEMPI: An Interposed MPI Library with a Canonical Representation of CUDA-aware Datatypes.	Carl Pearson,Kun Wu,I-Hsin Chung,Jinjun Xiong,Wen-Mei Hwu	10.1145/3431379.3460645
+Apollo: : An ML-assisted Real-Time Storage Resource Observer.	Neeraj Rajesh,Hariharan Devarajan,Jaime Cernuda Garcia,Keith Bateman,Luke Logan,Jie Ye,Anthony Kougkas,Xian-He Sun	10.1145/3431379.3460640
+Scalable All-pairs Shortest Paths for Huge Graphs on Multi-GPU Clusters.	Piyush Sao,Hao Lu,Ramakrishnan Kannan,Vijay Thakkar,Richard W. Vuduc,Thomas E. Potok	10.1145/3431379.3460651
+A Serverless Framework for Distributed Bulk Metadata Extraction.	Tyler J. Skluzacek,Ryan Wong 0002,Zhuozhao Li,Ryan Chard,Kyle Chard,Ian T. Foster	10.1145/3431379.3460636
+Jigsaw: A High-Utilization, Interference-Free Job Scheduler for Fat-Tree Clusters.	Staci A. Smith,David K. Lowenthal	10.1145/3431379.3460635
+Using Pilot Jobs and CernVM File System for Simplified Use of Containers and Software Distribution.	Namratha Urs,Marco Mambelli,Dave Dykstra	10.1145/3431379.3464451
+LaSS: Running Latency Sensitive Serverless Computations at the Edge.	Bin Wang,Ahmed Ali-Eldin,Prashant J. Shenoy	10.1145/3431379.3460646
+AITurbo: Unified Compute Allocation for Partial Predictable Training in Commodity Clusters.	Laiping Zhao,Fangshu Li,Wenyu Qu,Kunlin Zhan,Qingman Zhang	10.1145/3431379.3460639
+HPDC &apos;21: The 30th International Symposium on High-Performance Parallel and Distributed Computing, Virtual Event, Sweden, June 21-25, 2021.	Erwin Laure,Stefano Markidis,Ana Lucia Verbanescu,Jay F. Lofstead	10.1145/3431379

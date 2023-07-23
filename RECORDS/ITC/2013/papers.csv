@@ -1,0 +1,62 @@
+True non-intrusive sensors for RF built-in test.	Louay Abdallah,Haralampos-G. D. Stratigopoulos,Salvador Mir	10.1109/TEST.2013.6651885
+A graph-theoretic approach for minimizing the number of wrapper cells for pre-bond testing of 3D-stacked ICs.	Mukesh Agrawal 0001,Krishnendu Chakrabarty	10.1109/TEST.2013.6651895
+A design-for-reliability approach based on grading library cells for aging effects.	Senthil Arasu,Mehrdad Nourani,John M. Carulli,Kenneth M. Butler,Vijay Reddy	10.1109/TEST.2013.6651923
+In-system diagnosis of RF ICs for tolerance against on-chip in-band interferers.	Naoya Azuma,T. Makita,S. Ueyama,Makoto Nagata,Satoru Takahashi,Motoki Murakami,Kazuaki Hori,Satoshi Tanaka,Masahiro Yamaguchi	10.1109/TEST.2013.6651922
+Keynote address wednesday: Compute continuum and the nonlinear validation challenge.	John D. Barton	10.1109/TEST.2013.6651872
+Keynote address thursday: Efficient resilience in future systems: Design and modeling challenges.	Pradip Bose	10.1109/TEST.2013.6651873
+12Gbps SerDes Jitter Tolerance BIST in production loopback testing with enhanced spread spectrum clock generation circuit.	Yi Cai,Liming Fang,Ivan Chan,Max Olsen,Kevin Richter	10.1109/TEST.2013.6651882
+A distributed-multicore hybrid ATPG system.	X. Cai,Peter Wohl	10.1109/TEST.2013.6651916
+Fault mitigation strategies for CUDA GPUs.	Stefano Di Carlo,Giulio Gambardella,Ippazio Martella,Paolo Prinetto,Daniele Rolfo,Pascal Trotta	10.1109/TEST.2013.6651908
+SmartScan - Hierarchical test compression for pin-limited low power designs.	Krishna Chakravadhanula,Vivek Chickermane,Don Pearl,Akhil Garg 0001,R. Khurana,Subhasish Mukherjee,P. Nagaraj	10.1109/TEST.2013.6651897
+Predicting system-level test and in-field customer failures using data mining.	Harry H. Chen,Roger Hsu,PaulYoung Yang,J. J. Shyr	10.1109/TEST.2013.6651892
+Test time reduction with SATOM: Simultaneous AC-DC Test with Orthogonal Multi-excitations.	Degang Chen 0001,Zhongjun Yu,Krunal Maniar,Mojtaba Nowrozi	10.1109/TEST.2013.6651912
+Theory, model, and applications of non-Gaussian probability density functions for random jitter/noise with non-white power spectral densities.	Daniel Chow,Masashi Shimanouchi,Mike Peng Li	10.1109/TEST.2013.6651910
+RF MEMS switches for Wide I/O data bus applications.	Michael B. Cohn,Kaosio Saechao,Michael Whitlock,Daniel Brenman,Wallace T. Tang,Robert M. Proie	10.1109/TEST.2013.6651889
+BA-BIST: Board test from inside the IC out.	Zoe Conroy,Alfred L. Crouch	10.1109/TEST.2013.6651919
+Uncertainty-aware robust optimization of test-access architectures for 3D stacked ICs.	Sergej Deutsch,Krishnendu Chakrabarty,Erik Jan Marinissen	10.1109/TEST.2013.6651905
+Don&apos;t forget to lock your SIB: Hiding instruments using P16871.	Jennifer Dworak,Al Crouch,John C. Potter,Adam Zygmontowicz,Micah Thornton	10.1109/TEST.2013.6651903
+FPGA-based universal embedded digital instrument.	Joshua Ferry	10.1109/TEST.2013.6651917
+Representative critical-path selection for aging-induced delay monitoring.	Farshad Firouzi,Fangming Ye,Krishnendu Chakrabarty,Mehdi Baradaran Tahoori	10.1109/TEST.2013.6651924
+Performance enhancement of a WCDMA/HSDPA+ receiver via minimizing error vector magnitude.	Wei Gao,Chris Liu	10.1109/TEST.2013.6651881
+Towards data reliable crossbar-based memristive memories.	Amirali Ghofrani,Miguel Angel Lastras-Montaño,Kwang-Ting Cheng	10.1109/TEST.2013.6651928
+Test and debug strategy for TSMC CoWoS™ stacking process based heterogeneous 3D IC: A silicon case study.	Sandeep Kumar Goel,Saman Adham,Min-Jer Wang,Ji-Jan Chen,Tze-Chiang Huang,Ashok Mehta,Frank Lee,Vivek Chickermane,Brion L. Keller,Thomas Valind,Subhasish Mukherjee,Navdeep Sood,Jeongho Cho,Hayden Hyungdong Lee,Jungi Choi,Sangdoo Kim	10.1109/TEST.2013.6651893
+Adaptive testing - Cost reduction through test pattern sampling.	Matt Grady,Bradley Pepper,Joshua Patch,Michael Degregorio,Phil Nigh	10.1109/TEST.2013.6651891
+Test-yield improvement of high-density probing technology using optimized metal backer with plastic patch.	Sen-Kuei Hsu,Hao Chen 0053,Chung-Han Huang,Der-Jiann Liu,Wei-Hsun Lin,Hung-Chih Lin,Ching-Nen Peng,Min-Jer Wang	10.1109/TEST.2013.6651888
+Test data analytics - Exploring spatial and test-item correlations in production test data.	Chun-Kai Hsu,Fan Lin,Kwang-Ting Cheng,Wangyang Zhang,Xin Li 0001,John M. Carulli,Kenneth M. Butler	10.1109/TEST.2013.6651900
+Counterfeit electronics: A rising threat in the semiconductor manufacturing industry.	Ke Huang 0001,John M. Carulli,Yiorgos Makris	10.1109/TEST.2013.6651880
+Delay testing and characterization of post-bond interposer wires in 2.5-D ICs.	Shi-Yu Huang,Li-Ren Huang,Kun-Han Tsai,Wu-Tung Cheng	10.1109/TEST.2013.6651906
+Process monitoring through wafer-level spatial variation decomposition.	Ke Huang 0001,Nathan Kupp,John M. Carulli Jr.,Yiorgos Makris	10.1109/TEST.2013.6651901
+Fault modeling and diagnosis for nanometric analog circuits.	Ke Huang,Haralampos-G. D. Stratigopoulos,Salvador Mir	10.1109/TEST.2013.6651886
+A functional test of 2-GHz/4-GHz RF digital communication device using digital tester.	Kiyotaka Ichiyama,Masahiro Ishida,Kenichi Nagatani,Toshifumi Watanabe	10.1109/TEST.2013.6651909
+EDT bandwidth management - Practical scenarios for large SoC designs.	Jakub Janicki,Jerzy Tyszer,Wu-Tung Cheng,Yu Huang 0005,Mark Kassab,Nilanjan Mukherjee 0001,Janusz Rajski,Yan Dong,Grady Giles	10.1109/TEST.2013.6651898
+Practical methods for extending ATE to 40 and 50Gbps.	David C. Keezer,Carl Edward Gray,Te-Hui Chen,Ashraf Majid	10.1109/TEST.2013.6651876
+Keynote address tuesday: Challenges in mobile devices: Process, design and manufacturing.	Kwang-Hyun Kim	10.1109/TEST.2013.6651871
+On the generation of compact test sets.	Amit Kumar 0004,Janusz Rajski,Sudhakar M. Reddy,Chen Wang 0014	10.1109/TEST.2013.6651914
+Self-repair of uncore components in robust system-on-chips: An OpenSPARC T2 case study.	Yanjing Li,Eric Cheng,Samy Makar,Subhasish Mitra	10.1109/TEST.2013.6651907
+An enhanced procedure for calculating dynamic properties of high-performance DAC on ATE.	Ming Lu	10.1109/TEST.2013.6651877
+The implementation and application of a protocol aware architecture.	Timothy Lyons,George Conner,John Aslanian,Shawn Sullivan	10.1109/TEST.2013.6651911
+Differential scan-path: A novel solution for secure design-for-testability.	Salvador Manich,Markus S. Wamser,Oscar M. Guillen,Georg Sigl	10.1109/TEST.2013.6651902
+Zero-overhead self test and calibration of RF transceivers.	Afsaneh Nassery,Jae Woong Jeong,Sule Ozev	10.1109/TEST.2013.6651921
+SCAN-PUF: A low overhead Physically Unclonable Function from scan chain power-up states.	Ben Niewenhuis,Ronald D. Blanton,Mudit Bhargava,Ken Mai	10.1109/TEST.2013.6651904
+Advanced method to refine waveform smeared by jitter in waveform sampler measurement.	Hideo Okawara	10.1109/TEST.2013.6651883
+Application of under-approximation techniques to functional test generation targeting hard to detect stuck-at faults.	Mahesh Prabhu,Jacob A. Abraham	10.1109/TEST.2013.6651915
+VLSI testing based security metric for IC camouflaging.	Jeyavijayan Rajendran,Ozgur Sinanoglu,Ramesh Karri	10.1109/TEST.2013.6651879
+Fault diagnosis of TSV-based interconnects in 3-D stacked designs.	Janusz Rajski,Jerzy Tyszer	10.1109/TEST.2013.6651894
+Welcome message.	Gordon W. Roberts,Rob Aitken	10.1109/TEST.2013.6651865
+Early-life-failure detection using SAT-based ATPG.	Matthias Sauer 0002,Young Moon Kim,Jun Seomun,Hyung-Ock Kim,Kyung Tae Do,Jung Yun Choi,Kee Sup Kim,Subhasish Mitra,Bernd Becker 0001	10.1109/TEST.2013.6651925
+High sensitivity test signatures for unconventional analog circuit test paradigms.	Suraj Sindia,Vishwani D. Agrawal	10.1109/TEST.2013.6651884
+Accurate full spectrum test robust to simultaneous non-coherent sampling and amplitude clipping.	Siva Sudani,Li Xu,Degang Chen 0001	10.1109/TEST.2013.6651920
+A pattern mining framework for inter-wafer abnormality analysis.	Nik Sumikawa,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2013.6651890
+AgentDiag: An agent-assisted diagnostic framework for board-level functional failures.	Zelong Sun,Li Jiang 0002,Qiang Xu 0001,Zhaobo Zhang,Zhiyuan Wang,Xinli Gu	10.1109/TEST.2013.6651918
+Design rule check on the clock gating logic for testability and beyond.	Kun-Han Tsai,Shuo Sheng	10.1109/TEST.2013.6651930
+ATE test time reduction using asynchronous clock period.	Praveen Venkataramani,Vishwani D. Agrawal	10.1109/TEST.2013.6651931
+30-Gb/s optical and electrical test solution for high-volume testing.	Daisuke Watanabe,Shin Masuda,Hideo Hara,Tsuyoshi Ataka,Atsushi Seki,Atsushi Ono,Toshiyuki Okayasu	10.1109/TEST.2013.6651887
+Two-level compression through selective reseeding.	Peter Wohl,John A. Waicukauski,Frederic Neuveux,Gregory A. Maston,Nadir Achouri,Jonathon E. Colburn	10.1109/TEST.2013.6651896
+PADRE: Physically-Aware Diagnostic Resolution Enhancement.	Yang Xue,Osei Poku,Xin Li 0001,Ronald D. Blanton	10.1109/TEST.2013.6651899
+A novel test structure for measuring the threshold voltage variance in MOSFETs.	Takahiro J. Yamaguchi,James S. Tandon,Satoshi Komatsu,Kunihiro Asada	10.1109/TEST.2013.6651878
+Diagnosis and Layout Aware (DLA) scan chain stitching.	Jing Ye 0001,Yu Huang 0005,Yu Hu 0001,Wu-Tung Cheng,Ruifeng Guo,Liyang Lai,Ting-Pu Tai,Xiaowei Li 0001,Wei-pin Changchien,Daw-Ming Lee,Ji-Jan Chen,Sandeep C. Eruvathi,Kartik K. Kumara,Charles C. C. Liu,Sam Pan	10.1109/TEST.2013.6651929
+A circular pipeline processing based deterministic parallel test pattern generator.	Kuen-Wei Yeh,Jiun-Lang Huang,Hao-Jan Chao,Laung-Terng Wang	10.1109/TEST.2013.6651913
+Best paper award winners.	Z. Yu,D. Chen	10.1109/TEST.2013.6651867
+Module diversification: Fault tolerance and aging mitigation for runtime reconfigurable architectures.	Hongyan Zhang 0004,Lars Bauer,Michael A. Kochte,Eric Schneider,Claus Braun,Michael E. Imhof,Hans-Joachim Wunderlich,Jörg Henkel	10.1109/TEST.2013.6651926
+On the reuse of read and write assist circuits to improve test efficiency in low-power SRAMs.	Leonardo Bonet Zordan,Alberto Bosio,Luigi Dilillo,Patrick Girard 0001,Aida Todri,Arnaud Virazel,Nabil Badereddine	10.1109/TEST.2013.6651927
+2013 IEEE International Test Conference, ITC 2013, Anaheim, CA, USA, September 6-13, 2013		

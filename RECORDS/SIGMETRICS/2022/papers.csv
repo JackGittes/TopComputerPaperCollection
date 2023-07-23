@@ -1,0 +1,60 @@
+On Multivariate Singular Spectrum Analysis and Its Variants.	Anish Agarwal,Abdullah Alomar,Devavrat Shah	10.1145/3489048.3526952
+A Detailed Look at MIMO Performance in 60 GHz WLANs.	Shivang Aggarwal,Srisai Karthik Neelamraju,Ajit Bhat,Dimitrios Koutsonikolas	10.1145/3489048.3530971
+An Enterprise-Grade Open-Source Data Reduction Architecture for All-Flash Storage Systems.	Mohammadamin Ajdari,Patrick Raaf,Mostafa Kishani,Reza Salkhordeh,Hossein Asadi 0001,André Brinkmann	10.1145/3489048.3530963
+Mean Field and Refined Mean Field Approximations for Heterogeneous Systems: It Works!	Sebastian Allmeier,Nicolas Gast	10.1145/3489048.3522653
+Data-Driven Network Path Simulation with iBox.	Sachin Ashok,Shubham Tiwari,Nagarajan Natarajan,Venkata N. Padmanabhan,Sundararajan Sellamanickam	10.1145/3489048.3522646
+End-to-end Characterization of Game Streaming Applications on Mobile Platforms.	Sandeepa Bhuyan,Shulin Zhao 0001,Ziyu Ying 0001,Mahmut T. Kandemir,Chita R. Das	10.1145/3489048.3522650
+Unleashing the Power of Paying Multiplexing Only Once in Stochastic Network Calculus.	Anne Bouillard,Paul Nikolaus,Jens B. Schmitt	10.1145/3489048.3530964
+Traffic Refinery: Cost-Aware Data Representation for Machine Learning on Network Traffic.	Francesco Bronzino,Paul Schmitt,Sara Ayoubi,Hyojoon Kim,Renata Teixeira,Nick Feamster	10.1145/3489048.3522637
+Stationary Behavior of Constant Stepsize SGD Type Algorithms: An Asymptotic Characterization.	Zaiwei Chen,Shancong Mou,Siva Theja Maguluri	10.1145/3489048.3522659
+NURA: A Framework for Supporting Non-Uniform Resource Accesses in GPUs.	Sina Darabi,Negin Mahani,Hazhir Baxishi,Ehsan Yousefzadeh,Mohammad Sadrosadati,Hamid Sarbazi-Azad	10.1145/3489048.3522656
+Tuxedo: Maximizing Smart Contract Computation in PoW Blockchains.	Sourav Das,Nitin Awathare,Ling Ren 0001,Vinay J. Ribeiro,Umesh Bellur	10.1145/3489048.3522638
+Learning To Maximize Welfare with a Reusable Resource.	Matthew Faw,Orestis Papadigenopoulos,Constantine Caramanis,Sanjay Shakkottai	10.1145/3489048.3530960
+Towards Efficient Sparse Matrix Vector Multiplication on Real Processing-In-Memory Architectures.	Christina Giannoula,Ivan Fernandez,Juan Gómez-Luna,Nectarios Koziris,Georgios I. Goumas,Onur Mutlu	10.1145/3489048.3522661
+Cerberus: The Power of Choices in Datacenter Topology Design - A Throughput Perspective.	Chen Griner,Johannes Zerwas,Andreas Blenk,Manya Ghobadi,Stefan Schmid 0001,Chen Avin	10.1145/3489048.3522635
+Dissecting Cloud Gaming Performance with DECAF.	Hassan Iqbal,Ayesha Khalid,Muhammad Shahzad 0001	10.1145/3489048.3522628
+Understanding the Practices of Global Censorship through Accurate, End-to-End Measurements.	Lin Jin,Shuai Hao 0001,Haining Wang,Chase Cotton	10.1145/3489048.3522640
+A Formalism of DNN Accelerator Flexibility.	Sheng-Chun Kao,Hyoukjun Kwon,Michael Pellauer,Angshuman Parashar,Tushar Krishna	10.1145/3489048.3530974
+Data Convection: A GPU-Driven Case Study for Thermal-Aware Data Placement in 3D DRAMs.	Soheil Khadirsharbiyani,Jagadish Kotra,Karthik Rao,Mahmut Taylan Kandemir	10.1145/3489048.3522647
+Real-time Bidding for Time Constrained Impression Contracts in First and Second Price Auctions - Theory and Algorithms.	Ryan J. Kinnear,Ravi R. Mazumdar,Peter Marbach	10.1145/3489048.3522634
+Offline and Online Algorithms for SSD Management.	Tomer Lange,Joseph (Seffi) Naor,Gala Yadgar	10.1145/3489048.3522630
+SimNet: Accurate and High-Performance Computer Architecture Simulation using Deep Learning.	Lingda Li,Santosh Pandey,Thomas Flynn 0001,Hang Liu 0001,Noel Wheeler,Adolfy Hoisie	10.1145/3489048.3530958
+Online Caching Networks with Adversarial Guarantees.	Yuanyuan Li,Tareq Si Salem,Giovanni Neglia,Stratis Ioannidis	10.1145/3489048.3522632
+Robustness and Consistency in Linear Quadratic Control with Untrusted Predictions.	Tongxin Li,Ruixiao Yang,Guannan Qu,Guanya Shi,Chenkai Yu,Adam Wierman,Steven H. Low	10.1145/3489048.3522658
+Expert-Calibrated Learning for Online Optimization with Switching Costs.	Pengfei Li,Jianyi Yang,Shaolei Ren	10.1145/3489048.3530961
+Competitive Online Optimization with Multiple Inventories: A Divide-and-Conquer Approach.	Qiulin Lin,Yanfang Mo,Junyan Su,Minghua Chen 0001	10.1145/3489048.3530969
+Large-System Insensitivity of Zero-Waiting Load Balancing Algorithms.	Xin Liu 0049,Kang Gong,Lei Ying	10.1145/3489048.3526955
+Fusing Speed Index during Web Page Loading.	Wei Liu,Xinlei Yang,Hao Lin 0005,Zhenhua Li 0001,Feng Qian 0001	10.1145/3489048.3522663
+One Proxy Device Is Enough for Hardware-Aware Neural Architecture Search.	Bingqian Lu,Jianyi Yang,Weiwen Jiang,Yiyu Shi 0001,Shaolei Ren	10.1145/3489048.3522631
+Dynamic Regret Minimization for Control of Non-stationary Linear Dynamical Systems.	Yuwei Luo,Varun Gupta,Mladen Kolar	10.1145/3489048.3522649
+WISEFUSE: Workload Characterization and DAG Transformation for Serverless Workflows.	Ashraf Mahgoub,Edgardo Barsallo Yi,Karthick Shankar,Eshaan Minocha,Sameh Elnikety,Saurabh Bagchi,Somali Chaterji	10.1145/3489048.3530959
+Xatu: Richer Neural Network Based Prediction for Video Streaming.	Yun Seong Nam,Jianfei Gao 0001,Chandan Bothra,Ehab Ghabashneh,Sanjay Rao,Bruno Ribeiro 0001,Jibin Zhan,Hui Zhang 0001	10.1145/3489048.3522641
+YourAdvalue: Measuring Advertising Price Dynamics without Bankrupting User Privacy.	Michalis Pachilakis,Panagiotis Papadopoulos,Nikolaos Laoutaris,Evangelos P. Markatos,Nicolas Kourtellis	10.1145/3489048.3522629
+The First 5G-LTE Comparative Study in Extreme Mobility.	Yueyang Pan,Ruihan Li,Chenren Xu	10.1145/3489048.3522660
+Online Optimization with Feedback Delay and Nonlinear Switching Cost.	Weici Pan,Guanya Shi,Yiheng Lin,Adam Wierman	10.1145/3489048.3522657
+Free2Shard: Adversary-resistant Distributed Resource Allocation for Blockchains.	Ranvir Rana,Sreeram Kannan,David Tse,Pramod Viswanath	10.1145/3489048.3522651
+Argus: Predictable Millimeter-Wave Picocells with Vision and Learning Augmentation.	Hem Regmi,Sanjib Sur	10.1145/3489048.3522642
+Memory Space Recycling.	Jihyun Ryoo,Mahmut Taylan Kandemir,Mustafa Karaköy	10.1145/3489048.3522654
+Curvature-based Analysis of Network Connectivity in Private Backbone Infrastructures.	Loqman Salamatian,Scott Anderson,Joshua Matthews,Paul Barford,Walter Willinger,Mark Crovella	10.1145/3489048.3522645
+Asymptotic Convergence Rate of Dropout on Shallow Linear Neural Networks.	Albert Senen-Cerda,Jaron Sanders	10.1145/3489048.3530965
+Power of Bonus in Pricing for Crowdsourcing.	Suho Shin,Hoyong Choi,Yung Yi,Jungseul Ok	10.1145/3489048.3522633
+Automatic Inference of BGP Location Communities.	Brivaldo A. da Silva Jr.,Paulo Mol,Osvaldo L. H. M. Fonseca,Ítalo Cunha,Ronaldo A. Ferreira,Ethan Katz-Bassett	10.1145/3489048.3522643
+Sequential Fair Allocation: Achieving the Optimal Envy-Efficiency Tradeoff Curve.	Sean R. Sinclair,Siddhartha Banerjee,Christina Lee Yu	10.1145/3489048.3526951
+A Comprehensive Empirical Study of Query Performance Across GPU DBMSes.	Young-Kyoon Suh,Jun Young An,Byungchul Tak,Gap-Joo Na	10.1145/3489048.3522644
+MalRadar: Demystifying Android Malware in the New Era.	Liu Wang 0002,Haoyu Wang 0001,Ren He,Ran Tao,Guozhu Meng,Xiapu Luo,Xuanzhe Liu	10.1145/3489048.3530973
+Understanding I/O Direct Cache Access Performance for End Host Networking.	Minhu Wang,Mingwei Xu,Jianping Wu	10.1145/3489048.3522662
+Trade or Trick?: Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange.	Pengcheng Xia,Haoyu Wang 0001,Bingyu Gao,Weihang Su,Zhou Yu 0002,Xiapu Luo,Chao Zhang 0008,Xusheng Xiao,Guoai Xu	10.1145/3489048.3522636
+Metamorphic Testing of Deep Learning Compilers.	Dongwei Xiao,Zhibo Liu,Yuanyuan Yuan,Qi Pang,Shuai Wang 0011	10.1145/3489048.3522655
+Monetizing Spare Bandwidth: The Case of Distributed VPNs.	Yunming Xiao,Matteo Varvello,Aleksandar Kuzmanovic	10.1145/3489048.3530966
+NG-Scope: Fine-Grained Telemetry for NextG Cellular Networks.	Yaxiong Xie,Kyle Jamieson	10.1145/3489048.3522652
+Hierarchical Learning Algorithms for Multi-scale Expert Problems.	Lin Yang,Yu-Zhen Janice Chen,Mohammad H. Hajiesmaili,Mark Herbster,Don Towsley	10.1145/3489048.3530967
+Prediction of the Resource Consumption of Distributed Deep Learning Systems.	Gyeongsik Yang,Changyong Shin,Jeunghwan Lee,Yeonho Yoo,Chuck Yoo	10.1145/3489048.3530962
+Competitive Algorithms for Online Multidimensional Knapsack Problems.	Lin Yang,Ali Zeynali,Mohammad H. Hajiesmaili,Ramesh K. Sitaraman,Don Towsley	10.1145/3489048.3522627
+Tensor Completion with Nearly Linear Samples Given Weak Side Information.	Christina Lee Yu,Xumei Xi	10.1145/3489048.3530972
+Age-Dependent Differential Privacy.	Meng Zhang 0013,Ermin Wei,Randall Berry,Jianwei Huang 0001	10.1145/3489048.3526953
+Dremel: Adaptive Configuration Tuning of RocksDB KV-Store.	Chenxingyu Zhao,Tapan Chugh,Jaehong Min,Ming Liu 0027,Arvind Krishnamurthy	10.1145/3489048.3530970
+Understanding the Performance Guarantee of Physical Topology Design for Optical Circuit Switched Data Centers.	Shizhen Zhao,Peirui Cao,Xinbing Wang	10.1145/3489048.3522639
+Differentially Private Reinforcement Learning with Linear Function Approximation.	Xingyu Zhou 0001	10.1145/3489048.3522648
+CachePerf: A Unified Cache Miss Classifier via Hybrid Hardware Sampling.	Jin Zhou,Steven (Jiaxun) Tang,Hanmei Yang,Tongping Liu	10.1145/3489048.3526954
+Toxicity in the Decentralized Web and the Potential for Model Sharing.	Haris Bin Zia,Aravindh Raman,Ignacio Castro,Anaobi Ishaku Hassan,Emiliano De Cristofaro,Nishanth Sastry,Gareth Tyson	10.1145/3489048.3530968
+SIGMETRICS/PERFORMANCE &apos;22: ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems, Mumbai, India, June 6 - 10, 2022	D. Manjunath,Jayakrishnan Nair 0001,Niklas Carlsson,Edith Cohen,Philippe Robert	10.1145/3489048

@@ -1,0 +1,56 @@
+Dashed Strings and the Replace(-all) Constraint.	Roberto Amadini,Graeme Gange,Peter J. Stuckey	10.1007/978-3-030-58475-7_1
+Leveraging Reinforcement Learning, Constraint Programming and Local Search: A Case Study in Car Manufacturing.	Valentin Antuori,Emmanuel Hebrard,Marie-José Huguet,Siham Essodaigui,Alain Nguyen	10.1007/978-3-030-58475-7_38
+Combinatorial Search in CP-Based Iterated Belief Propagation.	Behrouz Babaki,Bilel Omrani,Gilles Pesant	10.1007/978-3-030-58475-7_2
+Replication-Guided Enumeration of Minimal Unsatisfiable Subsets.	Jaroslav Bendík,Ivana Cerná	10.1007/978-3-030-58475-7_3
+Solving Satisfaction Problems Using Large-Neighbourhood Search.	Gustav Björdal,Pierre Flener,Justin Pearson,Peter J. Stuckey,Guido Tack	10.1007/978-3-030-58475-7_4
+Quantum-Accelerated Global Constraint Filtering.	Kyle E. C. Booth,Bryan O&apos;Gorman,Jeffrey Marshall,Stuart Hadfield,Eleanor Gilbert Rieffel	10.1007/978-3-030-58475-7_5
+Pushing Data into CP Models Using Graphical Model Learning and Solving.	Céline Brouard,Simon de Givry,Thomas Schiex	10.1007/978-3-030-58475-7_47
+Verifying Equivalence Properties of Neural Networks with ReLU Activation Functions.	Marko Kleine Büning,Philipp Kern,Carsten Sinz	10.1007/978-3-030-58475-7_50
+Pure MaxSAT and Its Applications to Combinatorial Optimization via Linear Local Search.	Shaowei Cai 0001,Xindi Zhang	10.1007/978-3-030-58475-7_6
+Computing the Local Aromaticity of Benzenoids Thanks to Constraint Programming.	Yannick Carissan,Chisom-Adaobi Dim,Denis Hagebaum-Reignier,Nicolas Prcovic,Cyril Terrioux,Adrien Varet	10.1007/978-3-030-58475-7_39
+Using Constraint Programming to Generate Benzenoid Structures in Theoretical Chemistry.	Yannick Carissan,Denis Hagebaum-Reignier,Nicolas Prcovic,Cyril Terrioux,Adrien Varet	10.1007/978-3-030-58475-7_40
+Tractable Fragments of Temporal Sequences of Topological Information.	Quentin Cohen-Solal	10.1007/978-3-030-58475-7_7
+RobTest: A CP Approach to Generate Maximal Test Trajectories for Industrial Robots.	Mathieu Collet,Arnaud Gotlieb,Nadjib Lazaar,Mats Carlsson,Dusica Marijan,Morten Mossige	10.1007/978-3-030-58475-7_41
+Strengthening Neighbourhood Substitution.	Martin C. Cooper	10.1007/978-3-030-58475-7_8
+Effective Encodings of Constraint Programming Models to SMT.	Ewan Davidson,Özgür Akgün,Joan Espasa,Peter Nightingale	10.1007/978-3-030-58475-7_9
+Watched Propagation of 0-1 Integer Linear Constraints.	Jo Devriendt	10.1007/978-3-030-58475-7_10
+Generating Random Logic Programs Using Constraint Programming.	Paulius Dilkas,Vaishak Belle	10.1007/978-3-030-58475-7_48
+Bounding Linear Programs by Constraint Propagation: Application to Max-SAT.	Tomás Dlask,Tomás Werner	10.1007/978-3-030-58475-7_11
+On Relation Between Constraint Propagation and Block-Coordinate Descent in Linear Programs.	Tomás Dlask,Tomás Werner	10.1007/978-3-030-58475-7_12
+DPMC: Weighted Model Counting by Dynamic Programming on Project-Join Trees.	Jeffrey M. Dudek,Vu H. N. Phan,Moshe Y. Vardi	10.1007/978-3-030-58475-7_13
+Aggregation and Garbage Collection for Online Optimization.	Alexander Ek,Maria Garcia de la Banda,Andreas Schutt,Peter J. Stuckey,Guido Tack	10.1007/978-3-030-58475-7_14
+Treewidth-Aware Quantifier Elimination and Expansion for QCSP.	Johannes Klaus Fichte,Markus Hecher,Maximilian F. I. Kieler	10.1007/978-3-030-58475-7_15
+A Time Leap Challenge for SAT-Solving.	Johannes Klaus Fichte,Markus Hecher,Stefan Szeider	10.1007/978-3-030-58475-7_16
+Breaking Symmetries with RootClique and LexTopSort.	Johannes Klaus Fichte,Markus Hecher,Stefan Szeider	10.1007/978-3-030-58475-7_17
+Towards Faster Reasoners by Using Transparent Huge Pages.	Johannes Klaus Fichte,Norbert Manthey,Julian Stecklina,André Schidler	10.1007/978-3-030-58475-7_18
+The Argmax Constraint.	Graeme Gange,Peter J. Stuckey	10.1007/978-3-030-58475-7_19
+A Branch-and-bound Algorithm to Rigorously Enclose the Round-Off Errors.	Rémy Garcia,Claude Michel,Michel Rueher	10.1007/978-3-030-58475-7_37
+A Two-Phase Constraint Programming Model for Examination Timetabling at University College Cork.	Begum Genc,Barry O&apos;Sullivan	10.1007/978-3-030-58475-7_42
+HADDOCK: A Language and Architecture for Decision Diagram Compilation.	Rebecca Gentzel,Laurent Michel,Willem Jan van Hoeve	10.1007/978-3-030-58475-7_31
+Certifying Solvers for Clique and Maximum Common (Connected) Subgraph Problems.	Stephan Gocht,Ross McBride,Ciaran McCreesh,Jakob Nordström,Patrick Prosser,James Trimble 0001	10.1007/978-3-030-58475-7_20
+Solving the Group Cumulative Scheduling Problem with CPO and ACO.	Lucas Groleaz,Samba Ndojh Ndiaye,Christine Solnon	10.1007/978-3-030-58475-7_36
+Phase Transition Behavior in Knowledge Compilation.	Rahul Gupta,Subhajit Roy 0001,Kuldeep S. Meel	10.1007/978-3-030-58475-7_21
+A Faster Exact Algorithm to Count X3SAT Solutions.	Gordon Hoi,Sanjay Jain 0001,Frank Stephan 0001	10.1007/978-3-030-58475-7_22
+Visualizations to Summarize Search Behavior.	Ian Howell,Berthe Y. Choueiry,Hongfeng Yu 0001	10.1007/978-3-030-58475-7_23
+Towards Formal Fairness in Machine Learning.	Alexey Ignatiev,Martin C. Cooper,Mohamed Siala 0002,Emmanuel Hebrard,João Marques-Silva 0001	10.1007/978-3-030-58475-7_49
+Parallelization of TSP Solving in CP.	Nicolas Isoart,Jean-Charles Régin	10.1007/978-3-030-58475-7_24
+Using Resolution Proofs to Analyse CDCL Solvers.	Janne I. Kokkala,Jakob Nordström	10.1007/978-3-030-58475-7_25
+Large Neighborhood Search for Temperature Control with Demand Response.	Edward Lam 0001,Frits de Nijs,Peter J. Stuckey,Donald Azuatalam,Ariel Liebman	10.1007/978-3-030-58475-7_35
+Exact Approaches to the Multi-agent Collective Construction Problem.	Edward Lam 0001,Peter J. Stuckey,Sven Koenig,T. K. Satish Kumar	10.1007/978-3-030-58475-7_43
+Core-Guided Model Reformulation.	Kevin Leo,Graeme Gange,Maria Garcia de la Banda,Mark Wallace 0001	10.1007/978-3-030-58475-7_26
+Learning the Satisfiability of Pseudo-Boolean Problem with Graph Neural Networks.	Minghao Liu 0001,Fan Zhang,Pei Huang 0002,Shuzi Niu,Feifei Ma,Jian Zhang 0001	10.1007/978-3-030-58475-7_51
+The Confidence Constraint: A Step Towards Stochastic CP Solvers.	Alexandre Mercier-Aubin,Ludwig Dumetz,Jonathan Gaudreault,Claude-Guy Quimper	10.1007/978-3-030-58475-7_44
+Filtering Rules for Flow Time Minimization in a Parallel Machine Scheduling Problem.	Margaux Nattaf,Arnaud Malapert	10.1007/978-3-030-58475-7_27
+A Machine Learning Based Splitting Heuristic for Divide-and-Conquer Solvers.	Saeed Nejati,Ludovic Le Frioux,Vijay Ganesh	10.1007/978-3-030-58475-7_52
+Perturbing Branching Heuristics in Constraint Solving.	Anastasia Paparrizou,Hugues Wattez	10.1007/978-3-030-58475-7_29
+Finding the Hardest Formulas for Resolution.	Tomás Peitl,Stefan Szeider	10.1007/978-3-030-58475-7_30
+MaxSAT-Based Postprocessing for Treedepth.	Vaidyanathan Peruvemba Ramaswamy,Stefan Szeider	10.1007/978-3-030-58475-7_28
+Towards a Generic Interval Solver for Differential-Algebraic CSP.	Simon Rohou,Abderahmane Bedouhene,Gilles Chabert,Alexandre Goldsztejn,Luc Jaulin,Bertrand Neveu,Victor Reyes,Gilles Trombettoni	10.1007/978-3-030-58475-7_32
+abstractXOR: A global constraint dedicated to differential cryptanalysis.	Loïc Rouquette,Christine Solnon	10.1007/978-3-030-58475-7_33
+Theoretical and Experimental Results for Planning with Learned Binarized Neural Network Transition Models.	Buser Say,Jo Devriendt,Jakob Nordström,Peter J. Stuckey	10.1007/978-3-030-58475-7_53
+Parity (XOR) Reasoning for the Index Calculus Attack.	Monika Trimoska,Sorina Ionica,Gilles Dequen	10.1007/978-3-030-58475-7_45
+Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks.	Rodothea-Myrsini Tsoupidi,Roberto Castañeda Lozano,Benoit Baudry	10.1007/978-3-030-58475-7_46
+Omissions in Constraint Acquisition.	Dimosthenis C. Tsouros,Kostas Stergiou 0001,Christian Bessiere	10.1007/978-3-030-58475-7_54
+Computing Optimal Decision Sets with SAT.	Jinqiang Yu,Alexey Ignatiev,Peter J. Stuckey,Pierre Le Bodic	10.1007/978-3-030-58475-7_55
+In Pursuit of an Efficient SAT Encoding for the Hamiltonian Cycle Problem.	Neng-Fa Zhou	10.1007/978-3-030-58475-7_34
+Principles and Practice of Constraint Programming - 26th International Conference, CP 2020, Louvain-la-Neuve, Belgium, September 7-11, 2020, Proceedings	Helmut Simonis	10.1007/978-3-030-58475-7

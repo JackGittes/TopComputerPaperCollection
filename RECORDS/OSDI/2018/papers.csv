@@ -1,0 +1,48 @@
+FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for Ultra-Low Latency SSDs.	Jie Zhang 0048,Miryeong Kwon,Donghyun Gouk,Sungjoon Koh,Changlim Lee,Mohammad Alian,Myoungjun Chun,Mahmut Taylan Kandemir,Nam Sung Kim,Jihong Kim 0001,Myoungsoo Jung	
+Fault-Tolerance, Fast and Slow: Exploiting Failure Asynchrony in Distributed Systems.	Ramnatthan Alagappan,Aishwarya Ganesan,Jing Liu,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+An Analysis of Network-Partitioning Failures in Cloud Systems.	Ahmed Alquraan,Hatem Takruri,Mohammed Alfatafta,Samer Al-Kiswany	
+Sharding the Shards: Managing Datastore Locality at Scale with Akkio.	Muthukaruppan Annamalai,Kaushik Ravichandran 0001,Harish Srinivas,Igor Zinkovsky,Luning Pan,Tony Savor,David Nagle,Michael Stumm	
+RobinHood: Tail Latency Aware Caching - Dynamic Reallocation from Cache-Rich to Cache-Poor.	Daniel S. Berger,Benjamin Berg,Timothy Zhu,Siddhartha Sen 0001,Mor Harchol-Balter	
+Orca: Differential Bug Localization in Large-Scale Services.	Ranjita Bhagwan,Rahul Kumar 0002,Chandra Shekhar Maddila,Adithya Abraham Philip	
+Verifying concurrent software using movers in CSPEC.	Tej Chajed,M. Frans Kaashoek,Butler W. Lampson,Nickolai Zeldovich	
+TVM: An Automated End-to-End Optimizing Compiler for Deep Learning.	Tianqi Chen 0001,Thierry Moreau,Ziheng Jiang,Lianmin Zheng,Eddie Q. Yan,Haichen Shen,Meghan Cowan,Leyuan Wang,Yuwei Hu,Luis Ceze,Carlos Guestrin,Arvind Krishnamurthy	
+Obladi: Oblivious Serializable Transactions in the Cloud.	Natacha Crooks,Matthew Burke 0001,Ethan Cecchetti,Sitar Harel,Rachit Agarwal 0001,Lorenzo Alvisi	
+REPT: Reverse Debugging of Failures in Deployed Software.	Weidong Cui,Xinyang Ge,Baris Kasikci,Ben Niu,Upamanyu Sharma,Ruoyu Wang 0001,Insu Yun	
+The benefits and costs of writing a POSIX kernel in a high-level language.	Cody Cutler,M. Frans Kaashoek,Robert Tappan Morris	
+Flare: Optimizing Apache Spark with Native Compilation for Scale-Up Architectures and Medium-Size Data.	Grégory M. Essertel,Ruby Y. Tahboub,James M. Decker,Kevin J. Brown,Kunle Olukotun,Tiark Rompf	
+Noria: dynamic, partially-stateful data-flow for high-performance web applications.	Jon Gjengset,Malte Schwarzkopf,Jonathan Behrens,Lara Timbó Araújo,Martin Ek,Eddie Kohler,M. Frans Kaashoek,Robert Tappan Morris	
+Focus: Querying Large Video Datasets with Low Latency and Low Cost.	Kevin Hsieh,Ganesh Ananthanarayanan,Peter Bodík,Shivaram Venkataraman,Paramvir Bahl,Matthai Philipose,Phillip B. Gibbons,Onur Mutlu	
+Capturing and Enhancing In Situ System Observability for Failure Detection.	Peng Huang 0005,Chuanxiong Guo,Jacob R. Lorch,Lidong Zhou,Yingnong Dang	
+Proving confidentiality in a file system using DiskSec.	Atalay Mert Ileri,Tej Chajed,Adam Chlipala,M. Frans Kaashoek,Nickolai Zeldovich	
+ASAP: Fast, Approximate Graph Pattern Mining at Scale.	Anand Padmanabha Iyer,Zaoxing Liu,Xin Jin 0008,Shivaram Venkataraman,Vladimir Braverman,Ion Stoica	
+Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows.	Vasiliki Kalavri,John Liagouris,Moritz Hoffmann 0001,Desislava C. Dimitrova,Matthew Forshaw,Timothy Roscoe	
+Sharing, Protection, and Compatibility for Reconfigurable Fabric with AmorphOS.	Ahmed Khawaja,Joshua Landgraf,Rohith Prakash,Michael Wei,Eric Schkufza,Christopher J. Rossbach	
+Pocket: Elastic Ephemeral Storage for Serverless Analytics.	Ana Klimovic,Yawen Wang,Patrick Stuedi,Animesh Trivedi,Jonas Pfefferle,Christos Kozyrakis	
+ZebRAM: Comprehensive and Compatible Software Protection Against Rowhammer Attacks.	Radhesh Krishnan Konoth,Marco Oliverio,Andrei Tatar,Dennis Andriesse,Herbert Bos,Cristiano Giuffrida,Kaveh Razavi	
+Splinter: Bare-Metal Extensions for Multi-Tenant Low-Latency Storage.	Chinmay Kulkarni 0002,Sara Moore,Mazhar Naqvi,Tian Zhang,Robert Ricci,Ryan Stutsman	
+Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis.	David Lazar,Yossi Gilad,Nickolai Zeldovich	
+PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems.	Yunseong Lee,Alberto Scolari,Byung-Gon Chun,Marco Domenico Santambrogio,Markus Weimer,Matteo Interlandi	
+The FuzzyLog: A Partially Ordered Shared Log.	Joshua Lockerman,Jose M. Faleiro,Juno Kim,Soham Sankaran,Daniel J. Abadi,James Aspnes,Siddhartha Sen 0001,Mahesh Balakrishnan 0001	
+Adaptive Dynamic Checkpointing for Safe Efficient Intermittent Computing.	Kiwan Maeng,Brandon Lucia	
+Dynamic Query Re-Planning using QOOP.	Kshiteej Mahajan,Mosharaf Chowdhury,Aditya Akella,Shuchi Chawla 0001	
+Taming Performance Variability.	Aleksander Maricq,Dmitry Duplyakin,Ivo Jimenez,Carlos Maltzahn,Ryan Stutsman,Robert Ricci,Ana Klimovic	
+Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing.	Jayashree Mohan,Ashlie Martinez,Soujanya Ponnapalli,Pandian Raju,Vijay Chidambaram	
+Ray: A Distributed Framework for Emerging AI Applications.	Philipp Moritz,Robert Nishihara,Stephanie Wang,Alexey Tumanov,Richard Liaw,Eric Liang,Melih Elibol,Zongheng Yang,William Paul,Michael I. Jordan,Ion Stoica	
+Floem: A Programming System for NIC-Accelerated Network Applications.	Phitchaya Mangpo Phothilimthana,Ming Liu 0027,Antoine Kaufmann,Simon Peter 0001,Rastislav Bodík,Thomas E. Anderson	
+Arachne: Core-Aware Thread Management.	Henry Qin,Qian Li 0027,Jacqueline Speiser,Peter Kraft,John K. Ousterhout	
+Sledgehammer: Cluster-Fueled Debugging.	Andrew Quinn 0001,Jason Flinn,Michael J. Cafarella	
+Proving the correct execution of concurrent services in zero-knowledge.	Srinath T. V. Setty,Sebastian Angel,Trinabh Gupta,Jonathan Lee 0003	
+LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation.	Yizhou Shan,Yutong Huang,Yilun Chen,Yiying Zhang 0005	
+Nickel: A Framework for Design and Verification of Information Flow Control Systems.	Helgi Sigurbjarnarson,Luke Nelson,Bruno Castro-Karney,James Bornholt,Emina Torlak,Xi Wang 0005	
+µTune: Auto-Tuned Threading for OLDI Microservices.	Akshitha Sriraman,Thomas F. Wenisch	
+Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently.	Kaushik Veeraraghavan,Justin Meza,Scott Michelson,Sankaralingam Panneerselvam,Alex Gyori,David Chou,Sonia Margulis,Daniel Obenshain,Shruti Padmanabha,Ashish Shah,Yee Jiun Song,Tianyin Xu	
+Graviton: Trusted Execution Environments on GPUs.	Stavros Volos,Kapil Vaswani,Rodrigo Bruno	
+RStream: Marrying Relational Algebra with Streaming for Efficient Graph Mining on A Single Machine.	Kai Wang 0029,Zhiqiang Zuo 0002,John Thorpe,Tien Quang Nguyen,Guoqing Harry Xu	
+Deconstructing RDMA-enabled Distributed Transactions: Hybrid is Better!	Xingda Wei,Zhiyuan Dong,Rong Chen 0001,Haibo Chen 0001	
+Differential Energy Profiling: Energy Optimization via Diffing Similar Apps.	Abhilash Jindal,Y. Charlie Hu	
+Gandiva: Introspective Cluster Scheduling for Deep Learning.	Wencong Xiao,Romil Bhardwaj,Ramachandran Ramjee,Muthian Sivathanu,Nipun Kwatra,Zhenhua Han,Pratyush Patel,Xuan Peng,Hanyu Zhao,Quanlu Zhang,Fan Yang 0024,Lidong Zhou	
+Principled Schedulability Analysis for Distributed Storage Systems using Thread Architecture Models.	Suli Yang,Jing Liu,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Neural Adaptive Content-aware Internet Video Delivery.	Hyunho Yeo,Youngmok Jung,Jaehong Kim 0002,Jinwoo Shin,Dongsu Han	
+wPerf: Generic Off-CPU Analysis to Identify Bottleneck Waiting Events.	Fang Zhou,Yifan Gan,Sixiang Ma,Yang Wang 0009	
+Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory.	Pengfei Zuo,Yu Hua 0001,Jie Wu 0022	
+13th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2018, Carlsbad, CA, USA, October 8-10, 2018.	Andrea C. Arpaci-Dusseau,Geoff Voelker	

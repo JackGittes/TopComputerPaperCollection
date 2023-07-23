@@ -1,0 +1,57 @@
+Layout-aware 2-step window-based pattern reordering for fast bridge/open test generation.	Masayuki Arai,Shingo Inuyama,Kazuhiko Iwasaki	10.1109/TEST.2017.8242060
+Fault simulation acceleration for TRAX dictionary construction using GPUs.	Matthew Beckler,Ronald D. Blanton	10.1109/TEST.2017.8242078
+Advancing test compression to the physical dimension.	Krishna Chakravadhanula,Vivek Chickermane,Paul Cunningham,Brian Foutz,Dale Meehl,Louis Milano,Christos Papameletis,David Scott,Steev Wilcox	10.1109/TEST.2017.8242035
+High throughput multiple device diagnosis system.	Sameer Chillarige,Anil Malik,Sharjinder Singh,Joe Swenton,Krishna Chakravadhanula	10.1109/TEST.2017.8242051
+Concurrent built in test and tuning of beamforming MIMO systems using learning assisted performance optimization.	Sabyasachi Deyati,Barry J. Muldrey,Byunghoo Jung,Abhijit Chatterjee	10.1109/TEST.2017.8242031
+Cross-layer refresh mitigation for efficient and reliable DRAM systems: A comparative study.	Xiaoan Ding,Xi Liang 0002,Yanjing Li	10.1109/TEST.2017.8242065
+Maximizing scan pin and bandwidth utilization with a scan routing fabric.	Yan Dong,Grady Giles,GuoLiang Li,Jeff Rearick,John Schulze,James Wingfield,Tim Wood 0001	10.1109/TEST.2017.8242053
+Fault tolerant electronic system design.	Boyang Du,Luca Sterpone	10.1109/TEST.2017.8242080
+Run-time hardware trojan detection using performance counters.	Rana Elnaggar,Krishnendu Chakrabarty,Mehdi Baradaran Tahoori	10.1109/TEST.2017.8242063
+Non-intrusive detection of defects in mixed-signal integrated circuits using light activation.	Baris Esen,Anthony Coyette,Nektar Xama,Wim Dobbelaere,Ronny Vanhooren,Georges G. E. Gielen	10.1109/TEST.2017.8242056
+Improvement of the tolerated raw bit error rate in NAND flash-based SSDs with the help of embedded statistics.	Valentin Gherman,Emna Farjallah,Jean-Marc Armani,Marcelino Seif,Luigi Dilillo	10.1109/TEST.2017.8242066
+Increasing IJTAG bandwidth and managing security through parallel locking-SIBs.	Saurabh Gupta 0005,Al Crouch,Jennifer Dworak,Daniel Engels	10.1109/TEST.2017.8242034
+Analysis and mitigation or IR-Drop induced scan shift-errors.	Stefan Holst,Eric Schneider,Koshi Kawagoe,Michael A. Kochte,Kohei Miyase,Hans-Joachim Wunderlich,Seiji Kajihara,Xiaoqing Wen	10.1109/TEST.2017.8242055
+A run-pause-resume silicon debug technique with cycle granularity for multiple clock domain systems.	Shuo-Lian Hong,Kuen-Jong Lee	10.1109/TEST.2017.8242077
+A jitter separation and BER estimation method for asymmetric total jitter distributions.	Masahiro Ishida,Kiyotaka Ichiyama	10.1109/TEST.2017.8242058
+Low cost dynamic error detection in linearity testing of SAR ADCs.	Nimit Jain,Nitin Agarwal,Rajavelu Thinakaran,Rubin A. Parekhji	10.1109/TEST.2017.8242030
+Built-in self-test for stability measurement of low dropout regulator.	Jae Woong Jeong,Ender Yilmaz,LeRoy Winemberg,Sule Ozev	10.1109/TEST.2017.8242033
+An on-chip ADC BIST solution and the BIST enabled calibration scheme.	Xiankun Jin,Tao Chen 0006,Mayank Jain,Arun Kumar Barman,David Kramer,Doug Garrity,Randall L. Geiger,Degang Chen 0001	10.1109/TEST.2017.8242032
+Changepoint-based anomaly detection in a core router system.	Shi Jin 0001,Zhaobo Zhang,Krishnendu Chakrabarty,Xinli Gu	10.1109/TEST.2017.8242043
+Symbol-based health-status analysis in a core router system.	Shi Jin 0001,Zhaobo Zhang,Krishnendu Chakrabarty,Xinli Gu	10.1109/TEST.2017.8242044
+Testing beyond the green light.	Bob Klosterboer	10.1109/TEST.2017.8242025
+Advanced functional safety mechanisms for embedded memories and IPs in automotive SoCs.	Tal Kogan,Yehonatan Abotbol,Gabriele Boschi,Gurgen Harutyunyan,I. Kroul,Hanna Shaheen,Yervant Zorian	10.1109/TEST.2017.8242046
+Diagnosing multiple faulty chains with low pin convolution compressor using compressed production test set.	Subhadip Kundu,Kuldip Kumar,Rishi Kumar,Rohit Kapur	10.1109/TEST.2017.8242048
+Automotive keynote: Look Mom! No hands!	Joachim Kunkel	10.1109/TEST.2017.8242027
+Single-pin test control for Big A, little D devices.	Michael Laisne,Hans Martin von Staudt,Sourabh Bhalerao,Mark Eason	10.1109/TEST.2017.8242069
+On applying scan based structural test for designs with dual-edge triggered flip-flops.	Xijiang Lin	10.1109/TEST.2017.8242054
+Highly reliable and low-cost symbiotic IOT devices and systems.	Bing-Yang Lin,Hsin-Wei Hung,Shu-Mei Tseng,Chi Chen,Cheng-Wen Wu	10.1109/TEST.2017.8242076
+Front-end layout reflection for test chip design.	Zeye Liu 0001,Phillip Fynan,Ronald D. Blanton	10.1109/TEST.2017.8242041
+Modeling trans-threshold correlations for reducing functional test time in ultra-low power systems.	Christopher J. Lukas,Farah B. Yahya,Benton H. Calhoun	10.1109/TEST.2017.8242039
+Security keynote: Ultra-low-energy security circuit primitives for IoT platforms.	Sanu Mathew	10.1109/TEST.2017.8242026
+Cognitive approach to support dynamic aging compensation.	Souhir Mhira,Vincent Huard,Ahmed Benhassain,Florian Cacho,David Meyer,Sylvie Naudet,Abhishek Jain,C. R. Parthasarathy,Alain Bravaix	10.1109/TEST.2017.8242042
+Full-scan LBIST with capture-per-cycle hybrid test points.	Sylwester Milewski,Nilanjan Mukherjee 0001,Janusz Rajski,Jedrzej Solecki,Jerzy Tyszer,Justyna Zawada	10.1109/TEST.2017.8242036
+Hardware trojan detection through information flow security verification.	Adib Nahiyan,Mehdi Sadi,Rahul Vittal,Gustavo K. Contreras,Domenic Forte,Mark M. Tehranipoor	10.1109/TEST.2017.8242062
+Marginal PCB assembly defect detection on DDR3/4 memory bus.	Sergei Odintsov,Artur Jutman,Sergei Devadze	10.1109/TEST.2017.8242070
+RTL functional test generation using factored concolic execution.	Sonal Pinto,Michael S. Hsiao	10.1109/TEST.2017.8242038
+Selecting target bridging faults for uniform circuit coverage.	Irith Pomeranz	10.1109/TEST.2017.8242061
+POSTT: Path-oriented static test compaction for transition faults in scan circuits.	Irith Pomeranz	10.1109/TEST.2017.8242073
+Frequency scaled segmented (FSS) scan architecture for optimized scan-shift power and faster test application time.	W. Pradeep,P. Narayanan,R. Mittal,N. Maheshwari,N. Naresh	10.1109/TEST.2017.8242052
+Demystifying automotive safety and security for semiconductor developer.	V. Prasanth,David Foley,Srivaths Ravi 0001	10.1109/TEST.2017.8242074
+Safety analysis for integrated circuits in the context of hybrid systems.	V. Prasanth,Rubin A. Parekhji,Bharadwaj Amrutur	10.1109/TEST.2017.8242045
+Analytical test of 3D integrated circuits.	Raphael Robertazzi,Micheal Scheurman,Matt Wordeman,Shurong Tian,Christy Tyberg	10.1109/TEST.2017.8242067
+Design-for-test and test time optimization for 3D SOCs.	Surajit Kumar Roy,Chandan Giri	10.1109/TEST.2017.8242082
+Use models for extending IEEE 1687 to analog test.	Peter Sarson,Jeff Rearick	10.1109/TEST.2017.8242068
+Systematic defect detection methodology for volume diagnosis: A data mining perspective.	Chuanhe Jay Shan,Pietro Babighian,Yan Pan,John M. Carulli,Li-C. Wang	10.1109/TEST.2017.8242050
+DFM-aware fault model and ATPG for intra-cell and inter-cell defects.	Arani Sinha,Sujay Pandey,Ayush Singhal,Alodeep Sanyal,Alan Schmaltz	10.1109/TEST.2017.8242059
+Exploiting path delay test generation to develop better TDF tests for small delay defects.	Ankush Srivastava,Adit D. Singh,Virendra Singh,Kewal K. Saluja	10.1109/TEST.2017.8242072
+Kernel based clustering for quality improvement and excursion detection.	Nik Sumikawa,Matt Nero,Li-C. Wang	10.1109/TEST.2017.8242071
+A/MS benchmark circuits for comparing fault simulation, DFT, and test generation methods.	Stephen Sunter,Peter Sarson	10.1109/TEST.2017.8242079
+An effective functional safety solution for automotive systems-on-chip.	Grigor Tshagharyan,Gurgen Harutyunyan,Yervant Zorian	10.1109/TEST.2017.8242075
+Test reordering for improved scan chain diagnosis using an enhanced defect diagnosis procedure.	Srikanth Venkataraman,Irith Pomeranz,Shraddha Bodhe,M. Enamul Amyeen	10.1109/TEST.2017.8242049
+Some considerations on choosing an outlier method for automotive product lines.	Li-C. Wang,Sebastian Siatkowski,Chuanhe Jay Shan,Matthew Nero,Nikolas Sumikawa,LeRoy Winemberg	10.1109/TEST.2017.8242047
+Thwarting analog IC piracy via combinational locking.	Jiafan Wang 0002,Congyin Shi,Adriana C. Sanabria-Borbon,Edgar Sánchez-Sinencio,Jiang Hu	10.1109/TEST.2017.8242064
+Automated die inking: A pattern recognition-based approach.	Constantinos Xanthopoulos,Peter Sarson,Heinz Reiter,Yiorgos Makris	10.1109/TEST.2017.8242040
+Accurate ADC testing with significantly relaxed instrumentation including large cumulative jitter.	Li Xu,Yuming Zhuang,Rajavelu Thinakaran,Kenneth M. Butler,Degang Chen 0001	10.1109/TEST.2017.8242057
+Software-based online self-testing of network-on-chip using bounded model checking.	Ying Zhang 0040,Krishnendu Chakrabarty,Huawei Li 0001,Jianhui Jiang	10.1109/TEST.2017.8242037
+Accurate and robust spectral testing with relaxed instrumentation requirements.	Yuming Zhuang,Degang Chen 0001	10.1109/TEST.2017.8242081
+IEEE International Test Conference, ITC 2017, Fort Worth, TX, USA, October 31 - Nov. 2, 2017		

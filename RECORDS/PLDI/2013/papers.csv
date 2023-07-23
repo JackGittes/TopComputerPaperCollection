@@ -1,0 +1,49 @@
+How to combine widening and narrowing for non-monotonic systems of equations.	Kalmer Apinis,Helmut Seidl,Vesal Vojdani	10.1145/2491956.2462190
+Thresher: precise refutations for heap reachability.	Sam Blackshear,Bor-Yuh Evan Chang,Manu Sridharan	10.1145/2491956.2462186
+Almost-correct specifications: a modular semantic framework for assigning confidence to warnings.	Sam Blackshear,Shuvendu K. Lahiri	10.1145/2491956.2462188
+SPLLIFT: statically analyzing software product lines in minutes instead of years.	Eric Bodden,Társis Tolêdo,Márcio Ribeiro 0001,Claus Brabrand,Paulo Borba,Mira Mezini	10.1145/2491956.2491976
+It&apos;s alive! continuous feedback in UI programming.	Sebastian Burckhardt,Manuel Fähndrich,Peli de Halleux,Sean McDirmid,Michal Moskal,Nikolai Tillmann,Jun Kato 0001	10.1145/2491956.2462170
+Taming compiler fuzzers.	Yang Chen 0024,Alex Groce,Chaoqiang Zhang,Weng-Keen Wong,Xiaoli Z. Fern,Eric Eide,John Regehr	10.1145/2491956.2462173
+Optimizing database-backed applications with query synthesis.	Alvin Cheung,Armando Solar-Lezama,Samuel Madden	10.1145/2491956.2462180
+Limitations of partial compaction: towards practical bounds.	Nachshon Cohen,Erez Petrank	10.1145/2491956.2491973
+Reasoning about nondeterminism in programs.	Byron Cook,Eric Koskinen	10.1145/2491956.2491969
+Asynchronous functional reactive programming for GUIs.	Evan Czaplicki,Stephen Chong	10.1145/2491956.2462161
+Terra: a multi-stage language for high-performance computing.	Zachary DeVito,James Hegarty,Alex Aiken,Pat Hanrahan,Jan Vitek	10.1145/2491956.2462166
+P: safe asynchronous event-driven programming.	Ankush Desai,Vivek Gupta,Ethan K. Jackson,Shaz Qadeer,Sriram K. Rajamani,Damien Zufferey	10.1145/2491956.2462184
+CONCURRIT: a domain specific language for reproducing concurrency bugs.	Tayfun Elmas,Jacob Burnim,George C. Necula,Koushik Sen	10.1145/2491956.2462162
+Scalable variable and data type detection in a binary rewriter.	Khaled Elwazeer,Kapil Anand,Aparna Kotha,Matthew Smithson,Rajeev Barua	10.1145/2491956.2462165
+Using managed runtime systems to tolerate holes in wearable memories.	Tiejun Gao,Karin Strauss,Stephen M. Blackburn,Kathryn S. McKinley,Doug Burger,James R. Larus	10.1145/2491956.2462171
+Concurrent libraries with foresight.	Guy Golan-Gueta,G. Ramalingam,Mooly Sagiv,Eran Yahav	10.1145/2491956.2462172
+Rely-guarantee references for refinement types over aliased mutable data.	Colin S. Gordon,Michael D. Ernst,Dan Grossman	10.1145/2491956.2462160
+Quipper: a scalable quantum programming language.	Alexander S. Green,Peter LeFanu Lumsdaine,Neil J. Ross,Peter Selinger,Benoît Valiron	10.1145/2491956.2462177
+Machine-verified network controllers.	Arjun Guha,Mark Reitblatt,Nate Foster	10.1145/2491956.2462178
+Complete completion using types and weights.	Tihomir Gvero,Viktor Kuncak,Ivan Kuraj,Ruzica Piskac	10.1145/2491956.2462192
+CLAP: recording local executions to reproduce concurrency failures.	Jeff Huang 0001,Charles Zhang,Julian Dolby	10.1145/2491956.2462167
+AutoSynch: an automatic-signal monitor based on predicate tagging.	Wei-Lun Hung,Vijay K. Garg	10.1145/2491956.2462175
+Reconciling exhaustive pattern matching with objects.	Chinawat Isradisaikul,Andrew C. Myers	10.1145/2491956.2462194
+Fast condensation of the program dependence graph.	Nick P. Johnson,Taewook Oh,Ayal Zaks,David I. August	10.1145/2491956.2491960
+Hybrid context-sensitivity for points-to analysis.	George Kastrinis,Yannis Smaragdakis	10.1145/2491956.2462191
+When polyhedral transformations meet SIMD code generation.	Martin Kong,Richard Veras,Kevin Stock,Franz Franchetti,Louis-Noël Pouchet,P. Sadayappan	10.1145/2491956.2462187
+Look up!: your future is in the cloud.	James R. Larus	10.1145/2491956.2462157
+SMAT: an input adaptive auto-tuner for sparse matrix-vector multiplication.	Jiajia Li 0001,Guangming Tan,Mingyu Chen 0001,Ninghui Sun	10.1145/2491956.2462181
+Modular verification of linearizability with non-fixed linearization points.	Hongjin Liang 0001,Xinyu Feng 0001	10.1145/2491956.2462189
+Steal Tree: low-overhead tracing of work stealing schedulers.	Jonathan Lifflander,Sriram Krishnamoorthy,Laxmikant V. Kalé	10.1145/2491956.2462193
+Compiler testing via a theory of sound optimisations in the C11/C++11 memory model.	Robin Morisset,Pankaj Pawan,Francesco Zappa Nardelli	10.1145/2491956.2491967
+A general constraint-centric scheduling framework for spatial architectures.	Tony Nowatzki,Michael Sartin-Tarm,Lorenzo De Carli,Karthikeyan Sankaralingam,Cristian Estan,Behnam Robatmili	10.1145/2491956.2462163
+Natural proofs for structure, data, and separation.	Xiaokang Qiu,Pranav Garg 0001,Andrei Stefanescu,Parthasarathy Madhusudan	10.1145/2491956.2462169
+Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines.	Jonathan Ragan-Kelley,Connelly Barnes,Andrew Adams,Sylvain Paris,Frédo Durand,Saman P. Amarasinghe	10.1145/2491956.2462176
+Fast RMWs for TSO: semantics and implementation.	Bharghava Rajaram,Vijay Nagarajan,Susmit Sarkar,Marco Elver	10.1145/2491956.2462196
+Static analysis for probabilistic programs: inferring whole program properties from finitely many paths.	Sriram Sankaranarayanan 0001,Aleksandar Chakarov,Sumit Gulwani	10.1145/2491956.2462179
+Dynamic determinacy analysis.	Max Schäfer,Manu Sridharan,Julian Dolby,Frank Tip	10.1145/2491956.2462168
+Programming languages in security: keynote.	Fred B. Schneider	10.1145/2491956.2462158
+Monadic abstract interpreters.	Ilya Sergey,Dominique Devriese,Matthew Might,Jan Midtgaard,David Darais,Dave Clarke 0001,Frank Piessens	10.1145/2491956.2491979
+Translation validation for a verified OS kernel.	Thomas Arthur Leck Sewell,Magnus O. Myreen,Gerwin Klein	10.1145/2491956.2462183
+Automated feedback generation for introductory programming assignments.	Rishabh Singh,Sumit Gulwani,Armando Solar-Lezama	10.1145/2491956.2462195
+Verifying higher-order programs with the dijkstra monad.	Nikhil Swamy,Joel Weinberger,Cole Schlesinger,Juan Chen 0002,Benjamin Livshits	10.1145/2491956.2491978
+Harmonizing classes, functions, tuples, and type parameters in virgil iii.	Ben L. Titzer	10.1145/2491956.2491962
+TRANSIT: specifying protocols with concolic snippets.	Abhishek Udupa,Arun Raghavan,Jyotirmoy V. Deshmukh,Sela Mador-Haim,Milo M. K. Martin,Rajeev Alur	10.1145/2491956.2462174
+General data structure expansion for multi-threading.	Hongtao Yu,Hou-Jen Ko,Zhiyuan Li 0001	10.1145/2491956.2462182
+Fast algorithms for Dyck-CFL-reachability with applications to alias analysis.	Qirun Zhang,Michael R. Lyu,Hao Yuan,Zhendong Su 0001	10.1145/2491956.2462159
+Finding optimum abstractions in parametric dataflow analysis.	Xin Zhang 0035,Mayur Naik,Hongseok Yang	10.1145/2491956.2462185
+Formal verification of SSA-based optimizations for LLVM.	Jianzhou Zhao,Santosh Nagarakatte,Milo M. K. Martin,Steve Zdancewic	10.1145/2491956.2462164
+ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI &apos;13, Seattle, WA, USA, June 16-19, 2013	Hans-Juergen Boehm,Cormac Flanagan	10.1145/2491956

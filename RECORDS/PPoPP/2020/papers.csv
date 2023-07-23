@@ -1,0 +1,47 @@
+Reflector: a fine-grained I/O tracker for HPC systems.	Abdullah Al-Mamun 0001	10.1145/3332466.3374505
+Increasing the parallelism of graph coloring via shortcutting.	Ghadeer Alabandi	10.1145/3332466.3374519
+YewPar: skeletons for exact combinatorial search.	Blair Archibald	10.1145/3332466.3374537
+Nesting and composition in transactional data structure libraries.	Gal Assa	10.1145/3332466.3374514
+Nonblocking persistent software transactional memory.	H. Alan Beadle	10.1145/3332466.3374506
+Breaking master-slave model between host and FPGAs.	Jaume Bosch	10.1145/3332466.3374545
+Non-blocking interpolation search trees with doubly-logarithmic running time.	Trevor Brown 0001	10.1145/3332466.3374542
+Understanding and optimizing persistent memory allocation.	Wentao Cai 0002	10.1145/3332466.3374502
+A wait-free universal construction for large objects.	Andreia Correia	10.1145/3332466.3374523
+Detecting and reproducing error-code propagation bugs in MPI implementations.	Daniel DeFreez	10.1145/3332466.3374515
+Neighbor-list-free molecular dynamics on sunway TaihuLight supercomputer.	Xiaohui Duan	10.1145/3332466.3374532
+Kite: efficient and available release consistency for the datacenter.	Vasilis Gavrielatos	10.1145/3332466.3374516
+&lt;u&gt;G&lt;/u&gt;PU &lt;u&gt;i&lt;/u&gt;nitiated &lt;u&gt;O&lt;/u&gt;penSHMEM: correct and efficient intra-kernel networking for dGPUs.	Khaled Hamidouche	10.1145/3332466.3374544
+Parallel and distributed bounded model checking of multi-threaded programs.	Omar Inverso	10.1145/3332466.3374529
+Understand the overheads of storage data structures on persistent memory.	Abdullah Al Raqibul Islam	10.1145/3332466.3374509
+A novel data transformation and execution strategy for accelerating sparse matrix multiplication on GPUs.	Peng Jiang 0004	10.1145/3332466.3374546
+Identifying scalability bottlenecks for large-scale parallel programs with graph analysis.	Yuyang Jin	10.1145/3332466.3374518
+Overlapping host-to-device copy and computation using hidden unified memory.	Jaehoon Jung	10.1145/3332466.3374531
+Restricted memory-friendly lock-free bounded queues.	Nikita Koval	10.1145/3332466.3374508
+Testing concurrency on the JVM with lincheck.	Nikita Koval	10.1145/3332466.3374503
+Taming unbalanced training workloads in deep learning with partial collective operations.	Shigang Li 0002	10.1145/3332466.3374528
+A parallel sparse tensor benchmark suite on CPUs and GPUs.	Jiajia Li 0001	10.1145/3332466.3374513
+PLUM: static parallel program locality analysis under uniform multiplexing.	Fangzhou Liu	10.1145/3332466.3374510
+MatRox: modular approach for improving data locality in hierarchical (Mat)rix App(Rox)imation.	Bangtian Liu	10.1145/3332466.3374548
+No barrier in the road: a comprehensive study and optimization of ARM barriers.	Nian Liu	10.1145/3332466.3374535
+Oak: a scalable off-heap allocated key-value map.	Hagar Meir	10.1145/3332466.3374526
+Universal wait-free memory reclamation.	Ruslan Nikolaev 0001	10.1145/3332466.3374540
+Scaling concurrent queues by using HTM to profit from failed atomic operations.	Or Ostrovsky	10.1145/3332466.3374511
+spECK: accelerating GPU sparse matrix-matrix multiplication through lightweight analysis.	Mathias Parger	10.1145/3332466.3374521
+Fast concurrent data sketches.	Arik Rinberg	10.1145/3332466.3374512
+On the fly MHP analysis.	Sonali Saha	10.1145/3332466.3374541
+A supernodal all-pairs shortest path algorithm.	Piyush Sao	10.1145/3332466.3374533
+Scalable top-k retrieval with Sparta.	Gali Sheffi	10.1145/3332466.3374522
+Functional faults.	Gali Sheffi	10.1145/3332466.3374539
+Revisiting linpack algorithm on large-scale CPU-GPU heterogeneous systems.	Chaoyang Shui	10.1145/3332466.3374530
+Practical parallel hypergraph algorithms.	Julian Shun	10.1145/3332466.3374527
+XIndex: a scalable learned index for multicore data storage.	Chuzhe Tang	10.1145/3332466.3374547
+ArcherGear: data race equivalencing for expeditious HPC debugging.	Samuel Thayer	10.1145/3332466.3374504
+waveSZ: a hardware-algorithm co-design of efficient lossy compression for scientific data.	Jiannan Tian	10.1145/3332466.3374525
+Optimizing GPU programs by partial evaluation.	Aleksey Tyurin	10.1145/3332466.3374507
+ELDA: LDA made efficient via algorithm-system codesign submission.	Shilong Wang	10.1145/3332466.3374517
+Using sample-based time series data for automated diagnosis of scalability losses in parallel programs.	Lai Wei	10.1145/3332466.3374538
+Scaling out speculative execution of finite-state machines with parallel merge.	Yang Xia	10.1145/3332466.3374524
+Parallel determinacy race detection for futures.	Yifan Xu 0007	10.1145/3332466.3374536
+Optimizing batched Winograd convolution on GPUs.	Da Yan 0002	10.1145/3332466.3374520
+A tool for top-down performance analysis of GPU-accelerated applications.	Keren Zhou 0001	10.1145/3332466.3374534
+PPoPP &apos;20: 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, San Diego, California, USA, February 22-26, 2020	Rajiv Gupta 0001	10.1145/3332466

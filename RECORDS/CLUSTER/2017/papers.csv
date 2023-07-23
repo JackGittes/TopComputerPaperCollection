@@ -1,0 +1,121 @@
+Contention-Aware Kernel-Assisted MPI Collectives for Multi-/Many-Core Systems.	Sourav Chakraborty 0003,Hari Subramoni,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2017.106
+YAViT (Yet Another Viz Tool): Raising the Level of Abstraction in End-User HPC Interactions.	Omar Aaziz,Ujjwal Panthi,Jonathan Cook	10.1109/CLUSTER.2017.81
+Measuring Minimum Switch Port Metric Retrieval Time and Impact for Multi-layer InfiniBand Fabrics.	Michael Aguilar,Benjamin A. Allan,Sergei Polevitzky	10.1109/CLUSTER.2017.39
+The Effect of Resource Allocation and System Events on VM Consolidation.	Maruf Ahmed,Albert Y. Zomaya	10.1109/CLUSTER.2017.20
+Optimizing the Datapath for Key-value Middleware with NVMe SSDs over RDMA Interconnects.	Zhongqi An,Zhengyu Zhang,Qiang Li,Jing Xing,Hao Du,Zhan Wang,Zhigang Huo,Jie Ma	10.1109/CLUSTER.2017.69
+Assuming Failure Independence: Are We Right to be Wrong?	Guillaume Aupy,Yves Robert,Frédéric Vivien	10.1109/CLUSTER.2017.24
+Understanding the Role of GPGPU-Accelerated SoC-Based ARM Clusters.	Reza Azimi,Tyler Fox,Sherief Reda	10.1109/CLUSTER.2017.86
+Parallel and Efficient Sensitivity Analysis of Microscopy Image Segmentation Workflows in Hybrid Systems.	Willian Barreiros,George Teodoro,Tahsin M. Kurç,Jun Kong,Alba C. M. A. Melo,Joel H. Saltz	10.1109/CLUSTER.2017.28
+Parallelized Recovery of Hundreds of Millions Small Data Objects.	Kevin Beineke,Stefan Nothaas,Michael Schöttner	10.1109/CLUSTER.2017.48
+Flexible Data Aggregation for Performance Profiling.	David Böhme,David Beckingsale,Martin Schulz 0001	10.1109/CLUSTER.2017.34
+Monitoring Infrastructure: The Challenges of Moving Beyond Petascale.	Amanda Bonnie,Mike Mason,Daniel Illescas	10.1109/CLUSTER.2017.89
+Dynamic Co-Scheduling Driven by Main Memory Bandwidth Utilization.	Jens Breitbart,Simon Pickartz,Stefan Lankes,Josef Weidendorfer,Antonello Monti	10.1109/CLUSTER.2017.59
+Co-locating Graph Analytics and HPC Applications.	Kevin A. Brown,Satoshi Matsuoka	10.1109/CLUSTER.2017.111
+A Malleable and Fault-Tolerant Task Pool Framework for X10.	Marco Bungart,Claudia Fohry	10.1109/CLUSTER.2017.27
+Evaluating Effect of Write Combining on PCIe Throughput to Improve HPC Interconnect Performance.	Mahesh Chaudhari,Kedar Kulkarni,Shreeya Badhe,Vandana Inamdar	10.1109/CLUSTER.2017.109
+keybin: Key-Based Binning for Distributed Clustering.	Xinyu Chen,Jeremy Benson,Trilce Estrada	10.1109/CLUSTER.2017.96
+Mitigating the Write Amplification Problem of Write-Optimized File Systems on Flash Storage.	Shuo-Han Chen,Jun-Long Lin,Tseng-Yi Chen,Tsan-sheng Hsu,Hsin-Wen Wei,Wei-Kuan Shih	10.1109/CLUSTER.2017.38
+AMM: Scalable Memory Reuse Model to Predict the Performance of Physics Codes.	Gopinath Chennupati,Nandakishore Santhi,Stephan J. Eidenbenz,Sunil Thulasidasan	10.1109/CLUSTER.2017.77
+DH-Falcon: A Language for Large-Scale Graph Processing on Distributed Heterogeneous Systems.	Unnikrishnan Cheramangalath,Rupesh Nasre,Y. N. Srikant	10.1109/CLUSTER.2017.72
+TGE: Machine Learning Based Task Graph Embedding for Large-Scale Topology Mapping.	Jong Youl Choi,Jeremy Logan,Matthew Wolf,George Ostrouchov,Tahsin M. Kurç,Qing Liu 0002,Norbert Podhorszki,Scott Klasky,Melissa Romanus,Qian Sun,Manish Parashar,Randy Michael Churchill,Choong-Seock Chang	10.1109/CLUSTER.2017.67
+Justice: A Deadline-Aware, Fair-Share Resource Allocator for Implementing Multi-Analytics.	Stratos Dimopoulos,Chandra Krintz,Rich Wolski	10.1109/CLUSTER.2017.52
+Manala: A Flexible Flow Control Library for Asynchronous Task Communication.	Matthieu Dreher,Kiran Sasikumar,Subramanian Sankaranarayanan,Tom Peterka	10.1109/CLUSTER.2017.31
+S-Aligner: Ultrascalable Read Mapping on Sunway Taihu Light.	Xiaohui Duan,Kai Xu,Yuandong Chan,Christian Hundt 0002,Bertil Schmidt,Pavan Balaji,Weiguo Liu	10.1109/CLUSTER.2017.16
+Performance and Power Analysis of SX-ACE Using HP-X Benchmark Programs.	Ryusuke Egawa,Kazuhiko Komatsu,Yoko Isobe,Toshihiro Kato,Souya Fujimoto,Hiroyuki Takizawa,Akihiro Musa,Hiroaki Kobayashi	10.1109/CLUSTER.2017.65
+Trade-Off Between Prediction Accuracy and Underestimation Rate in Job Runtime Estimates.	Yuping Fan,Paul Rich,William E. Allcock,Michael E. Papka,Zhiling Lan	10.1109/CLUSTER.2017.11
+Thoughtful Precision in Mini-Apps.	Shane Fogerty,Siddhartha Bishnu,Yuliana Zamora,Laura Monroe,Steve Poole 0001,Michael O. Lam,Joe Schoonover,Robert Robey	10.1109/CLUSTER.2017.120
+Pushing the Limits of Irregular Access Patterns on Emerging Network Architecture: A Case Study.	Roberto Gioiosa,Thomas Warfel,Antonino Tumeo,Ryan D. Friese	10.1109/CLUSTER.2017.125
+Distributed Parallel Backprojection for Real-Time Stripmap SAR Imaging on GPU Clusters.	Masato Gocho,Noboru Oishi,Atsuo Ozaki	10.1109/CLUSTER.2017.64
+Understanding Performance Variability on the Aries Dragonfly Network.	Taylor L. Groves,Yizi Gu,Nicholas J. Wright	10.1109/CLUSTER.2017.76
+Detection of Silent Data Corruption in Adaptive Numerical Integration Solvers.	Pierre-Louis Guhur,Emil M. Constantinescu,Debojyoti Ghosh,Tom Peterka,Franck Cappello	10.1109/CLUSTER.2017.13
+Automatic, Abstracted and Portable Topology-Aware Thread Placement.	Jens Gustedt,Emmanuel Jeannot,Farouk Mansouri	10.1109/CLUSTER.2017.71
+Checkpointing Workflows for Fail-Stop Errors.	Li Han 0001,Louis-Claude Canon,Henri Casanova,Yves Robert,Frédéric Vivien	10.1109/CLUSTER.2017.14
+Accelerating a Burst Buffer Via User-Level I/O Isolation.	Jaehyun Han,Donghun Koo,Glenn K. Lockwood,Jaehwan Lee 0001,Hyeonsang Eom,Soonwook Hwang	10.1109/CLUSTER.2017.60
+Predicting the Energy-Consumption of MPI Applications at Scale Using Only a Single Node.	Franz Christian Heinrich,Tom Cornebize,Augustin Degomme,Arnaud Legrand,Alexandra Carpen-Amarie,Sascha Hunold,Anne-Cécile Orgerie,Martin Quinson	10.1109/CLUSTER.2017.66
+QoS- and Contention- Aware Resource Provisioning in a Stream Processing Engine.	MohammadReza HoseinyFarahabady,Albert Y. Zomaya,Zahir Tari	10.1109/CLUSTER.2017.21
+Performance Modeling for Optimal Data Placement on GPU with Heterogeneous Memory Systems.	Yingchao Huang,Dong Li	10.1109/CLUSTER.2017.42
+Delay Spotter: A Tool for Spotting Scheduler-Caused Delays in Task Parallel Runtime Systems.	An Huynh,Kenjiro Taura	10.1109/CLUSTER.2017.82
+A Wait-Free Multi-word Atomic (1, N) Register for Large-Scale Data Sharing on Multi-core Machines.	Mauro Ianni,Alessandro Pellegrini 0001,Francesco Quaglia	10.1109/CLUSTER.2017.84
+A Comparison of Graph-Based Synthetic Data Generators for Benchmarking Next-Generation Intrusion Detection Systems.	Stefano Iannucci,Hisham A. Kholidy,Amrita Dhakal Ghimire,Rui Jia,Sherif Abdelwahed,Ioana Banicescu	10.1109/CLUSTER.2017.54
+lo2s - Multi-core System and Application Performance Analysis for Linux.	Thomas Ilsche,Robert Schöne,Mario Bielert,Andreas Gocht,Daniel Hackenberg	10.1109/CLUSTER.2017.116
+AUTOBAHN: Accelerating Concurrent, Durable File I/O via a Non-volatile Buffer.	Hyeongwon Jang,Sang Youp Rhee,Jae Eun Kim,Sooyong Kang,Hyuck Han,Hyungsoo Jung 0001	10.1109/CLUSTER.2017.46
+Holistic Measurement-Driven System Assessment.	Saurabh Jha,Jim M. Brandt,Ann C. Gentile,Zbigniew Kalbarczyk,Gregory H. Bauer,Jeremy Enos,Michael T. Showerman,Larry Kaplan,Brett M. Bode,Annette Greiner,Amanda Bonnie,Mike Mason,Ravishankar K. Iyer,William Kramer 0001	10.1109/CLUSTER.2017.124
+Halide Vectorization for Android Photography Applications - A Case Study.	Martin Johnson,Daniel P. Playne	10.1109/CLUSTER.2017.40
+A Probabilistic Monte Carlo Framework for Branch Prediction.	Bhargava Kalla,Nandakishore Santhi,Abdel-Hameed A. Badawy,Gopinath Chennupati,Stephan J. Eidenbenz	10.1109/CLUSTER.2017.29
+ConVGPU: GPU Management Middleware in Container Based Virtualized Environment.	Daeyoun Kang,Tae Joon Jun,Dohyeun Kim,Jaewook Kim,Daeyoung Kim 0001	10.1109/CLUSTER.2017.17
+Acceleration of Turbulent Flow Simulations with Intel Xeon Phi(TM) Manycore Processors.	Ji Hoon Kang 0002,Hoon Ryu	10.1109/CLUSTER.2017.36
+Assessing Representativeness of Kernels Using Descriptive Statistics.	Youngsung Kim,John M. Dennis,Christopher Kerr	10.1109/CLUSTER.2017.117
+Achieving Performance Portability for a Heat Conduction Solver Mini-Application on Modern Multi-core Systems.	Richard O. Kirk,Gihan R. Mudalige,István Z. Reguly,Steven A. Wright 0001,Matt J. Martineau,Stephen A. Jarvis	10.1109/CLUSTER.2017.122
+Data Mining-Based Analysis of HPC Center Operations.	Jannis Klinkenberg,Christian Terboven,Stefan Lankes,Matthias S. Müller	10.1109/CLUSTER.2017.23
+Preliminary Performance Evaluation of Application Kernels Using ARM SVE with Multiple Vector Lengths.	Yuetsu Kodama,Tetsuya Odajima,Motohiko Matsuda,Miwako Tsuji,Jinpil Lee,Mitsuhisa Sato	10.1109/CLUSTER.2017.93
+A Case for Uni-directional Network Topologies in Large-Scale Clusters.	Michihiro Koibuchi,Tomohiro Totoki,Hiroki Matsutani,Hideharu Amano,Fabien Chaix,Ikki Fujiwara,Henri Casanova	10.1109/CLUSTER.2017.33
+Performance of Large-Scale Electronic Structure Calculations on Built-in FPGA Systems.	Seungmin Lee,Dukyun Nam,Hoon Ryu	10.1109/CLUSTER.2017.37
+Evaluating the Viability of Using Compression to Mitigate Silent Corruption of Read-Mostly Application Data.	Scott Levy,Kurt B. Ferreira,Patrick G. Bridges	10.1109/CLUSTER.2017.99
+Utility-Based Hybrid Memory Management.	Yang Li 0183,Saugata Ghose,Jongmoo Choi,Jin Sun,Hui Wang,Onur Mutlu	10.1109/CLUSTER.2017.130
+Visual Analytics Techniques for Exploring the Design Space of Large-Scale High-Radix Networks.	Jianping Kelvin Li,Misbah Mubarak,Robert B. Ross,Christopher D. Carothers,Kwan-Liu Ma	10.1109/CLUSTER.2017.26
+Spatiotemporal Wavelet Compression for Visualization of Scientific Simulation Data.	Shaomeng Li,Sudhanshu Sane,Leigh Orf,Pablo D. Mininni,John P. Clyne,Hank Childs	10.1109/CLUSTER.2017.15
+Task Allocation for Stream Processing with Recovery Latency Guarantee.	Hongliang Li,Jie Wu 0001,Zhen Jiang,Xiang Li,Xiaohui Wei	10.1109/CLUSTER.2017.10
+A Unified Optimization Approach for Sparse Tensor Operations on GPUs.	Bangtian Liu,Chengyao Wen,Anand D. Sarwate,Maryam Mehri Dehnavi	10.1109/CLUSTER.2017.75
+Extending Skel to Support the Development and Optimization of Next Generation I/O Systems.	Jeremy Logan,Jong Youl Choi,Matthew Wolf,George Ostrouchov,Lipeng Wan,Norbert Podhorszki,William F. Godoy,Scott Klasky,Erich Lohrmann,Greg Eisenhauer,Chad Wood,Kevin A. Huck	10.1109/CLUSTER.2017.30
+Introducing Weirs: An Abstraction for Next Generation Streaming Workflows.	Erich Lohrmann,Greg Eisenhauer,Matthew Wolf	10.1109/CLUSTER.2017.107
+Canopus: A Paradigm Shift Towards Elastic Extreme-Scale Data Analytics on HPC Storage.	Tao Lu,Eric Suchyta,David Pugmire,Jong Choi 0001,Scott Klasky,Qing Liu 0002,Norbert Podhorszki,Mark Ainsworth,Matthew Wolf	10.1109/CLUSTER.2017.62
+Exploring On-Node Parallelism with Neutral, a Monte Carlo Neutral Particle Transport Mini-App.	Matt Martineau,Simon McIntosh-Smith	10.1109/CLUSTER.2017.83
+The Arch Project: Physics Mini-Apps for Algorithmic Exploration and Evaluating Programming Environments on HPC Architectures.	Matthew Martineau,Simon McIntosh-Smith	10.1109/CLUSTER.2017.126
+Could Blobs Fuel Storage-Based Convergence Between HPC and Big Data?	Pierre Matri,Yevhen Alforov,Álvaro Brandón,Michael Kuhn 0003,Philip H. Carns,Thomas Ludwig 0002	10.1109/CLUSTER.2017.63
+TeaLeaf: A Mini-Application to Enable Design-Space Explorations for Iterative Sparse Linear Solvers.	Simon McIntosh-Smith,Matthew Martineau,Tom Deakin,Grzegorz Pawelczak,Wayne P. Gaudin,Paul Garrett,Wei Liu,Richard P. Smedley-Stevenson,David Beckingsale	10.1109/CLUSTER.2017.105
+Mira: A Framework for Static Performance Analysis.	Kewen Meng,Boyana Norris	10.1109/CLUSTER.2017.43
+Efficient Swap Protocol of Remote Memory Paging for Out-of-Core Multi-thread Applications.	Hiroko Midorikawa,Kenji Kitagawa,Hikari Ohura	10.1109/CLUSTER.2017.55
+Automatic Data Filtering for In Situ Workflows.	Clément Mommessin,Matthieu Dreher,Bruno Raffin,Tom Peterka	10.1109/CLUSTER.2017.35
+Quantifying I/O and Communication Traffic Interference on Dragonfly Networks Equipped with Burst Buffers.	Misbah Mubarak,Philip H. Carns,Jonathan Jenkins,Jianping Kelvin Li,Nikhil Jain,Shane Snyder,Robert B. Ross,Christopher D. Carothers,Abhinav Bhatele,Kwan-Liu Ma	10.1109/CLUSTER.2017.25
+Implementing Lattice QCD Application with XcalableACC Language on Accelerated Cluster.	Masahiro Nakao,Hitoshi Murai,Hidetoshi Iwashita,Akihiro Tabuchi,Taisuke Boku,Mitsuhisa Sato	10.1109/CLUSTER.2017.58
+A New Direction for Streaming Graph Analysis.	Eisha Nathan,E. Jason Riedy,Anita Zakrzewska,Chunxing Yin	10.1109/CLUSTER.2017.112
+Distributed Affine-Invariant MCMC Sampler.	Balázs Németh,Tom Haber,Jori Liesenborgs,Wim Lamotte	10.1109/CLUSTER.2017.68
+Runtime Techniques for Programming with Fast and Slow Memory.	Xiang Ni,Nikhil Jain,Kavitha Chandrasekar,Laxmikant V. Kalé	10.1109/CLUSTER.2017.94
+SharP Hash: A High-Performing Distributed Hash for Extreme-Scale Systems.	Zachary W. Parchman,Ferrol Aderholdt,Manjunath Gorentla Venkata	10.1109/CLUSTER.2017.104
+Accelerating Smith-Waterman Alignment Workload with Scalable Vector Computing.	Dong-Hyeon Park,Jonathan Beaumont,Trevor N. Mudge	10.1109/CLUSTER.2017.91
+Big Data Meets HPC Log Analytics: Scalable Approach to Understanding Systems at Extreme Scale.	Byung H. Park,Saurabh Hukerikar,Ryan Adamson,Christian Engelmann	10.1109/CLUSTER.2017.113
+Dynamically Compiled Artifact Sharing for Clouds.	Panagiotis Patros,Dayal Dilli,Kenneth B. Kent,Michael Dawson 0001	10.1109/CLUSTER.2017.9
+Investigating the Effect of Garbage Collection on Service Level Objectives of Clouds.	Panagiotis Patros,Kenneth B. Kent,Michael Dawson 0001	10.1109/CLUSTER.2017.74
+Application-Based Fault Tolerance Techniques for Fully Protecting Sparse Matrix Solvers.	Grzegorz Pawelczak,Simon McIntosh-Smith,James Price,Matt Martineau	10.1109/CLUSTER.2017.49
+A Comparison of Parallel Graph Processing Implementations.	Samuel D. Pollard,Boyana Norris	10.1109/CLUSTER.2017.56
+cudaCR: An In-Kernel Application-Level Checkpoint/Restart Scheme for CUDA-Enabled GPUs.	Behnam Pourghassemi,Aparna Chandramowlishwaran	10.1109/CLUSTER.2017.100
+Analyzing Hybrid Transactional Memory Performance Using Intel SDE.	Mohammad A. Qayum,Abdel-Hameed A. Badawy,Jeanine E. Cook	10.1109/CLUSTER.2017.110
+Preliminary Interference Study About Job Placement and Routing Algorithms in the Fat-Tree Topology for HPC Applications.	Peixin Qiao,Xin Wang 0115,Xu Yang 0009,Yuping Fan,Zhiling Lan	10.1109/CLUSTER.2017.90
+Performance Implications of Failures on MapReduce Applications.	Mohammad Tanvir Rahman,Edgar Gabriel,Jaspal Subhlok	10.1109/CLUSTER.2017.87
+Towards Practical and Robust Labeled Pattern Matching in Trillion-Edge Graphs.	Tahsin Reza,Christine Klymko,Matei Ripeanu,Geoffrey Sanders,Roger A. Pearce	10.1109/CLUSTER.2017.85
+Quicksilver: A Proxy App for the Monte Carlo Transport Code Mercury.	David F. Richards,Ryan C. Bleile,Patrick S. Brantley,Shawn A. Dawson,Michael Scott McKinley,Matthew J. OBrien	10.1109/CLUSTER.2017.121
+LIKWID Monitoring Stack: A Flexible Framework Enabling Job Specific Performance monitoring for the masses.	Thomas Röhl,Jan Eitzinger,Georg Hager,Gerhard Wellein	10.1109/CLUSTER.2017.115
+Fast Failure Erasure Encoding Using Just in Time Compilation for CPUs, GPUs, and FPGAs.	David Rohr,Volker Lindenstruth	10.1109/CLUSTER.2017.101
+EclipseMR: Distributed and Parallel Task Processing with Consistent Hashing.	Vicente A. B. Sanchez,Wonbae Kim,Youngmoon Eom,Kibeom Jin,Moohyeon Nam,Deukyeon Hwang,Jik-Soo Kim,Beomseok Nam	10.1109/CLUSTER.2017.12
+Job Storage Performance Monitoring on Sonexion with Project Caribou.	Nathan Schumann,Craig Flaskerud	10.1109/CLUSTER.2017.114
+HPC-Oriented Toolchain for Hardware Simulators.	Olivier Serres,Engin Kayraklioglu,Tarek A. El-Ghazawi	10.1109/CLUSTER.2017.108
+Automating the Application Data Placement in Hybrid Memory Systems.	Harald Servat,Antonio J. Peña,Germán Llort,Estanislao Mercadal,Hans-Christian Hoppe,Jesús Labarta	10.1109/CLUSTER.2017.50
+A Stencil Framework to Realize Large-Scale Computations Beyond Device Memory Capacity on GPU Supercomputers.	Takashi Shimokawabe,Toshio Endo,Naoyuki Onodera,Takayuki Aoki	10.1109/CLUSTER.2017.97
+A Novel Hybrid Transactional Memory Based on Abort Prediction and Adaptive Retry Policy.	Young-Sung Shin,Yeon-Woo Jang,Moon-Hwan Kang,Jae-Woo Chang	10.1109/CLUSTER.2017.41
+High Throughput and Low Latency on Hadoop Clusters Using Explicit Congestion Notification: The Untold Truth.	Renan Fischer e Silva,Paul M. Carpenter	10.1109/CLUSTER.2017.19
+Tracking System Behavior from Resource Usage Data.	Niyazi Sorkunlu,Varun Chandola,Abani K. Patra	10.1109/CLUSTER.2017.70
+Parallel Multivariate Spatio-Temporal Clustering of Large Ecological Datasets on Hybrid Supercomputers.	Sarat Sreepathi,Jitendra Kumar 0001,Richard Tran Mills,Forrest M. Hoffman,Vamsi Sripathi,William W. Hargrove	10.1109/CLUSTER.2017.88
+MACORD: Online Adaptive Machine Learning Framework for Silent Error Detection.	Omer Subasi,Sheng Di,Prasanna Balaprakash,Osman S. Unsal,Jesús Labarta,Adrián Cristal,Sriram Krishnamoorthy,Franck Cappello	10.1109/CLUSTER.2017.128
+A Gaussian Process Approach for Effective Soft Error Detection.	Omer Subasi,Sriram Krishnamoorthy	10.1109/CLUSTER.2017.129
+Toward a General Theory of Optimal Checkpoint Placement.	Omer Subasi,Gokcen Kestor,Sriram Krishnamoorthy	10.1109/CLUSTER.2017.127
+A Scalable Network-Based Performance Analysis Tool for MPI on Large-Scale HPC Systems.	Hari Subramoni,Xiaoyi Lu,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2017.78
+GraphH: High Performance Big Graph Analytics in Small Clusters.	Peng Sun 0006,Yonggang Wen 0001,Ta Nguyen Binh Duong,Xiaokui Xiao	10.1109/CLUSTER.2017.51
+A Power-Efficient Accelerator for Convolutional Neural Networks.	Fan Sun,Chao Wang 0003,Lei Gong,Chongchong Xu,Yiwei Zhang 0001,Yuntao Lu,Xi Li 0003,Xuehai Zhou	10.1109/CLUSTER.2017.47
+Pure Functions in C: A Small Keyword for Automatic Parallelization.	Tim Süß,Lars Nagel 0001,Marc-Andre Vef,André Brinkmann,Dustin Feld,Thomas Soddemann	10.1109/CLUSTER.2017.32
+PFAnalyzer: A Toolset for Analyzing Application-Aware Dynamic Interconnects.	Keichi Takahashi,Susumu Date,Dashdavaa Khureltulga,Yoshiyuki Kido,Shinji Shimojo	10.1109/CLUSTER.2017.18
+Vectorization-Aware Loop Optimization with User-Defined Code Transformations.	Hiroyuki Takizawa,Thorsten Reimann,Kazuhiko Komatsu,Takashi Soga,Ryusuke Egawa,Akihiro Musa,Hiroaki Kobayashi	10.1109/CLUSTER.2017.102
+SoMeta: Scalable Object-Centric Metadata Management for High Performance Computing.	Houjun Tang,Suren Byna,Bin Dong 0002,Jialin Liu 0002,Quincey Koziol	10.1109/CLUSTER.2017.53
+Effective Running of End-to-End HPC Workflows on Emerging Heterogeneous Architectures.	Kun Tang,Devesh Tiwari,Saurabh Gupta 0002,Sudharshan S. Vazhkudai,Xubin He	10.1109/CLUSTER.2017.22
+A Comparative Analysis of Materialized Views Selection and Concurrency Control Mechanisms in NoSQL Databases.	Ashish Tapdiya,Yuan Xue,Daniel Fabbri	10.1109/CLUSTER.2017.79
+TAPIOCA: An I/O Library for Optimized Topology-Aware Data Aggregation on Large-Scale Supercomputers.	Francois Tessier,Venkatram Vishwanath,Emmanuel Jeannot	10.1109/CLUSTER.2017.80
+A Comparative Study of HDD and SSD RAIDs&apos; Impact on Server Energy Consumption.	Erica Tomes,Nihat Altiparmak	10.1109/CLUSTER.2017.103
+A Performance Projection of Mini-Applications onto Benchmarks Toward the Performance Projection of Real-Applications.	Miwako Tsuji,William T. C. Kramer,Mitsuhisa Sato	10.1109/CLUSTER.2017.123
+A Preliminary Study of Intra-Application Interference on Dragonfly Network.	Xin Wang 0115,Xu Yang 0009,Misbah Mubarak,Robert B. Ross,Zhiling Lan	10.1109/CLUSTER.2017.95
+Performance Evaluation of Quantum ESPRESSO on NEC SX-ACE.	Osamu Watanabe,Akihiro Musa,Hiroaki Hokari,Shivanshu Kumar Singh,Raghunandan Mathur,Hiroaki Kobayashi	10.1109/CLUSTER.2017.57
+OmniGraph: A Scalable Hardware Accelerator for Graph Processing.	Chongchong Xu,Chao Wang 0003,Lei Gong,Yuntao Lu,Fan Sun,Yiwei Zhang 0001,Xi Li 0003,Xuehai Zhou	10.1109/CLUSTER.2017.44
+Algorithm-Directed Crash Consistence in Non-volatile Memory for HPC.	Shuo Yang,Kai Wu 0006,Yifan Qiao,Dong Li 0001,Jidong Zhai	10.1109/CLUSTER.2017.61
+Eley: On the Effectiveness of Burst Buffers for Big Data Processing in HPC Systems.	Orcun Yildiz,Amelie Chi Zhou,Shadi Ibrahim	10.1109/CLUSTER.2017.73
+Enabling Diverse Software Stacks on Supercomputers Using High Performance Virtual Clusters.	Andrew J. Younge,Kevin T. Pedretti,Ryan E. Grant,Brian L. Gaines,Ron Brightwell	10.1109/CLUSTER.2017.92
+A Power-Efficient Accelerator Based on FPGAs for LSTM Network.	Yiwei Zhang 0001,Chao Wang 0003,Lei Gong,Yuntao Lu,Fan Sun,Chongchong Xu,Xi Li 0003,Xuehai Zhou	10.1109/CLUSTER.2017.45
+CLIP: Cluster-Level Intelligent Power Coordination for Power-Bounded Systems.	Pengfei Zou,Tyler N. Allen,Claude H. Davis IV,Xizhou Feng,Rong Ge 0002	10.1109/CLUSTER.2017.98
+2017 IEEE International Conference on Cluster Computing, CLUSTER 2017, Honolulu, HI, USA, September 5-8, 2017		

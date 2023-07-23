@@ -1,0 +1,115 @@
+Exploring the viability of stochastic computing.	Joao Marcos de Aguiar,Sunil P. Khatri	10.1109/ICCD.2015.7357131
+Improving reliability, performance, and energy efficiency of STT-MRAM with dynamic write latency.	Ali Ahari,Mojtaba Ebrahimi,Fabian Oboril,Mehdi Baradaran Tahoori	10.1109/ICCD.2015.7357091
+Security implications of cyberphysical digital microfluidic biochips.	Sk Subidh Ali,Mohamed Ibrahim 0002,Ozgur Sinanoglu,Krishnendu Chakrabarty,Ramesh Karri	10.1109/ICCD.2015.7357154
+Sequential C-code to distributed pipelined heterogeneous MPSoC synthesis for streaming applications.	Jude Angelo Ambrose,Yusuke Yachide,Kapil Batra,Jorgen Peddersen,Sri Parameswaran	10.1109/ICCD.2015.7357106
+Immediate sleep: Reducing energy impact of peripheral circuits in STT-MRAM caches.	Eishi Arima,Hiroki Noguchi,Takashi Nakada,Shinobu Miwa,Susumu Takeda,Shinobu Fujita,Hiroshi Nakamura	10.1109/ICCD.2015.7357096
+Shift-aware racetrack memory.	Ehsan Atoofian,Ahsan Saghir	10.1109/ICCD.2015.7357140
+Keynote talk I: Ending the Tyranny of Amdahl&apos;s Law.	Todd M. Austin	10.1109/ICCD.2015.7357074
+Architecting a MOS current mode logic (MCML) processor for fast, low noise and energy-efficient computing in the near-threshold regime.	Yuxin Bai,Yanwei Song,Mahdi Nazm Bojnordi,Alexander E. Shapiro,Engin Ipek,Eby G. Friedman	10.1109/ICCD.2015.7357161
+On the conditions of guaranteed k-fault tolerant systems supporting on-the-fly repairs.	Soumya Banerjee 0004,Wenjing Rao	10.1109/ICCD.2015.7357130
+3D Integration: New opportunities in defense against cache-timing side-channel attacks.	Chongxi Bao,Ankur Srivastava 0001	10.1109/ICCD.2015.7357114
+Exploring early and late ALUs for single-issue in-order pipelines.	Alen Bardizbanyan,Per Larsson-Edefors	10.1109/ICCD.2015.7357163
+Power-agility metrics: Measuring dynamic characteristics of energy proportionality.	Rizwana Begum,Mark Hempstead	10.1109/ICCD.2015.7357176
+ItHELPS: Iterative high-accuracy error localization in post-silicon.	Valeria Bertacco,Wade Bonkowski	10.1109/ICCD.2015.7357103
+An aging-aware battery charge scheme for mobile devices exploiting plug-in time patterns.	Alberto Bocca,Alessandro Sassone,Alberto Macii,Enrico Macii,Massimo Poncino	10.1109/ICCD.2015.7357135
+An orchestrated approach to efficiently manage resources in heterogeneous system architectures.	Cristiana Bolchini,Gianluca C. Durelli,Antonio Miele,Gabriele Pallotta,Marco D. Santambrogio	10.1109/ICCD.2015.7357104
+Exploiting GPU architectures for dynamic invariant mining.	Nicola Bombieri,Federico Busato,Alessandro Danese,Luca Piccolboni,Graziano Pravadelli	10.1109/ICCD.2015.7357102
+Mobile ecosystem driven application-specific low-power control microarchitecture.	Garo Bournoutian,Alex Orailoglu	10.1109/ICCD.2015.7357186
+Bottom-up disjoint-support decomposition based on cofactor and boolean difference analysis.	Vinicius Callegaro,Felipe S. Marranghello,Mayler G. A. Martins,Renato P. Ribas,André Inácio Reis	10.1109/ICCD.2015.7357181
+Memory design for selective error protection.	Yanan Cao,Long Chen,Zhao Zhang 0010	10.1109/ICCD.2015.7357094
+Cache allocation for fixed-priority real-time scheduling on multi-core platforms.	Gustavo A. Chaparro-Baquero,Soamar Homsi,Omara Vichot,Shaolei Ren,Gang Quan,Shangping Ren	10.1109/ICCD.2015.7357169
+InvArch: A hardware eficient architecture for Matrix Inversion.	Umer I. Cheema,Gregory Nash,Rashid Ansari,Ashfaq A. Khokhar	10.1109/ICCD.2015.7357100
+A scan chain optimization method for diagnosis.	Huajun Chen,Zichu Qi,Lin Wang,Chao Xu	10.1109/ICCD.2015.7357172
+A multicore vacation scheme for thermal-aware packet processing.	Chih-Hsun Chou,Laxmi N. Bhuyan	10.1109/ICCD.2015.7357166
+VLSI implementation of high-throughput, low-energy, configurable MIMO detector.	Pierce I-Jen Chuang,Manoj Sachdev,Vincent C. Gaudet	10.1109/ICCD.2015.7357162
+Exploring well configurations for voltage level converter design in 28 nm UTBB FDSOI technology.	Pasquale Corsonello,Stefania Perri,Fabio Frustaci	10.1109/ICCD.2015.7357157
+Reactive clocks with variability-tracking jitter.	Jordi Cortadella,Luciano Lavagno,Pedro Lopez,Marc Lupon,Alberto Moreno,Antoni Roca 0001,Sachin S. Sapatnekar	10.1109/ICCD.2015.7357159
+PID controlled thermal management in photonic network-on-chip.	Dharanidhar Dang,Rabi N. Mahapatra,Eun Jung Kim 0001	10.1109/ICCD.2015.7357079
+Increasing reconfigurability with memristive interconnects.	John Demme,Bipin Rajendran,Steven M. Nowick,Simha Sethumadhavan	10.1109/ICCD.2015.7357124
+Trace-based automated logical debugging for high-level synthesis generated circuits.	Pietro Fezzardi,Michele Castellana,Fabrizio Ferrandi	10.1109/ICCD.2015.7357111
+A wirelessly powered system with charge recovery logic.	Leo Filippini,Emre Salman,Baris Taskin	10.1109/ICCD.2015.7357158
+Automatic identification of assertions and invariants with small numbers of test vectors.	Masahiro Fujita	10.1109/ICCD.2015.7357149
+A thermal adaptive scheme for reliable write operation on RRAM based architectures.	Fernando García-Redondo,Marisa López-Vallejo,Pablo Ituero	10.1109/ICCD.2015.7357126
+A methodology to generate evenly distributed input stimuli by clustering of variable domain.	M. P. Jomu George,Otmane Aït Mohamed	10.1109/ICCD.2015.7357171
+Comparison of single-ISA heterogeneous versus wide dynamic range processors for mobile applications.	Hamid Reza Ghasemi,Ulya R. Karpuzcu,Nam Sung Kim	10.1109/ICCD.2015.7357118
+Combative cache efficacy techniques: Cache replacement in the context of independent prefetching in last level cache.	Cesar Gomes,Mark Hempstead	10.1109/ICCD.2015.7357139
+ROST-C: Reliability driven optimisation and synthesis techniques for combinational circuits.	Satish Grandhi,David McCarthy,Christian Spagnol,Emanuel M. Popovici,Sorin Cotofana	10.1109/ICCD.2015.7357141
+M-MAP: Multi-factor memory authentication for secure embedded processors.	Syed Kamran Haider,Masab Ahmad,Farrukh Hijaz,Astha Patni,Ethan Johnson,Matthew Seita,Omer Khan,Marten van Dijk	10.1109/ICCD.2015.7357151
+Wide I/O or LPDDR? Exploration and analysis of performance, power and temperature trade-offs of emerging DRAM technologies in embedded MPSoCs.	Mohammad Hossein Hajkazemi,Mohammad Khavari Tavana,Houman Homayoun	10.1109/ICCD.2015.7357085
+Using M/G/l queueing models with vacations to analyze virtualized logic computations.	Michael J. Hall,Roger D. Chamberlain	10.1109/ICCD.2015.7357087
+Runtime multi-optimizations for energy efficient on-chip interconnections1.	Yuan He 0002,Masaaki Kondo,Takashi Nakada,Hiroshi Sasaki 0001,Shinobu Miwa,Hiroshi Nakamura	10.1109/ICCD.2015.7357147
+Cyber-physical integration in programmable microfluidic biochips.	Tsung-Yi Ho,William H. Grover,Shiyan Hu,Krishnendu Chakrabarty	10.1109/ICCD.2015.7357107
+Logic simplification by minterm complement for error tolerant application.	Hideyuki Ichihara,Tomoya Inaoka,Tsuyoshi Iwagaki,Tomoo Inoue	10.1109/ICCD.2015.7357089
+A novel TSV probing technique with adhesive test interposer.	Li Jiang 0002,Xiangwei Huang,Hongfeng Xie,Qiang Xu 0001,Chao Li 0009,Xiaoyao Liang,Huiyun Li	10.1109/ICCD.2015.7357170
+Analytic processor model for fast design-space exploration.	Rik Jongerius,Giovanni Mariani,Andreea Anghel,Gero Dittmann,Erik Vermij,Henk Corporaal	10.1109/ICCD.2015.7357136
+Physical synthesis of DNA circuits with spatially localized gates.	Jinwook Jung,Daijoon Hyun,Youngsoo Shin	10.1109/ICCD.2015.7357112
+Deep Packet Field Extraction Engine (DPFEE): A pre-processor for network intrusion detection and denial-of-service detection systems.	Vinayaka Jyothi,Sateesh Addepalli,Ramesh Karri	10.1109/ICCD.2015.7357113
+Design of high-performance, power-efficient optical NoCs using Silica-embedded silicon nanophotonics.	Elena Kakoulli,Vassos Soteriou,Charalambos Koutsides,Kyriacos Kalli	10.1109/ICCD.2015.7357077
+Power-aware multi-voltage custom memory models for enhancing RTL and low power verification.	Vijay Kiran Kalyanam,Martin Saint-Laurent,Jacob A. Abraham	10.1109/ICCD.2015.7357080
+Dark silicon aware runtime mapping for many-core systems: A patterning approach.	Anil Kanduri,Mohammad Hashem Haghbayan,Amir-Mohammad Rahmani,Pasi Liljeberg,Axel Jantsch,Hannu Tenhunen	10.1109/ICCD.2015.7357167
+Energy-optimal voltage model supporting a wide range of nodal switching rates for early design-space exploration.	Doyun Kim,Jiangyi Li,Mingoo Seok	10.1109/ICCD.2015.7357129
+Application behavior aware re-reference interval prediction for shared LLC.	Parth Lathigara,Shankar Balachandran,Virendra Singh	10.1109/ICCD.2015.7357099
+Methods for analysing and improving the fault resilience of delay-insensitive codes.	Jakob Lechner,Andreas Steininger,Florian Huemer	10.1109/ICCD.2015.7357160
+Applied statistical inference for system design and management.	Benjamin C. Lee	10.1109/ICCD.2015.7357101
+A methodology for power characterization of associative memories.	Dawei Li,Siddhartha Joshi,Seda Ogrenci Memik,James Hoff,Sergo Jindariani,Tiehui Liu 0001,Jamieson Olsen,Nhan Tran	10.1109/ICCD.2015.7357156
+A fast and energy efficient branch and bound algorithm for NoC task mapping.	Jiashen Li,Yun Pan	10.1109/ICCD.2015.7357078
+CSL: Coordinated and scalable logic synthesis techniques for effective NBTI reduction.	Chen-Hsuan Lin,Subhendu Roy,Chun-Yao Wang,David Z. Pan,Deming Chen	10.1109/ICCD.2015.7357109
+Optimized local control strategy for voice-based interaction-tracking badges for social applications.	Xiaowei Liu,Alex Doboli,Fan Ye 0003	10.1109/ICCD.2015.7357182
+A low power buffer-aided vector register file for LTE baseband signal processing.	Zhiguo Liu,Ziyuan Zhu,Jinglin Shi,Jinbao Liu,Shiqiang Li	10.1109/ICCD.2015.7357134
+Side-channel power analysis of a GPU AES implementation.	Chao Luo,Yunsi Fei,Pei Luo,Saoni Mukherjee,David R. Kaeli	10.1109/ICCD.2015.7357115
+Energy-efficient reconstruction of compressively sensed bioelectrical signals with stochastic computing circuits.	Yufei Ma 0002,Minkyu Kim 0001,Yu Cao 0001,Jae-sun Seo,Sarma B. K. Vrudhula	10.1109/ICCD.2015.7357144
+Data-driven logic synthesizer for acceleration of Forward propagation in artificial neural networks.	Khaled Z. Mahmoud,William E. Smith,Mark Fishkin,Timothy N. Miller	10.1109/ICCD.2015.7357142
+Clustering-based revision debug in regression verification.	Djordje Maksimovic,Andreas G. Veneris,Zissis Poulos	10.1109/ICCD.2015.7357081
+Big data on low power cores: Are low power embedded processors a good fit for the big data workloads?	Maria Malik,Houman Homayoun	10.1109/ICCD.2015.7357128
+Optimizing latency, energy, and reliability of 1T1R ReRAM through appropriate voltage settings.	Manqing Mao,Yu Cao 0001,Shimeng Yu,Chaitali Chakrabarti	10.1109/ICCD.2015.7357125
+Exploiting request characteristics and internal parallelism to improve SSD performance.	Bo Mao,Suzhen Wu	10.1109/ICCD.2015.7357145
+SOP based logic synthesis for memristive IMPLY stateful logic.	Felipe S. Marranghello,Vinicius Callegaro,André Inácio Reis,Renato P. Ribas	10.1109/ICCD.2015.7357108
+Power management of pulsed-index communication protocols.	Shahzad Muzaffar,Ibrahim Abe M. Elfadel	10.1109/ICCD.2015.7357127
+Hardware support for production run diagnosis of performance bugs.	Abdullah Muzahid	10.1109/ICCD.2015.7357155
+Power and performance characterization, analysis and tuning for energy-efficient edge detection on atom and ARM based platforms.	Paul Otto,Maria Malik,Nima Akhlaghi,Rebel Sequeira,Houman Homayoun,Siddhartha Sikdar	10.1109/ICCD.2015.7357153
+Acceleration of microwave imaging algorithms for breast cancer detection via High-Level Synthesis.	Daniele Jahier Pagliari,Mario R. Casu,Luca P. Carloni	10.1109/ICCD.2015.7357152
+An automated design flow for approximate circuits based on reduced precision redundancy.	Daniele Jahier Pagliari,Andrea Calimera,Enrico Macii,Massimo Poncino	10.1109/ICCD.2015.7357088
+SCP: Synergistic cache compression and prefetching.	Bhargavraj Patel,Nikos Hardavellas,Gokhan Memik	10.1109/ICCD.2015.7357098
+Improving the interface performance of synthesized structural FAME simulators through scheduling.	David A. Penry	10.1109/ICCD.2015.7357086
+Energy-efficient execution of data-parallel applications on heterogeneous mobile platforms.	Alok Prakash,Siqi Wang,Alexandru Eugen Irimiea,Tulika Mitra	10.1109/ICCD.2015.7357105
+Fixed-function hardware sorting accelerators for near data MapReduce execution.	Seth H. Pugsley,Arjun Deb,Rajeev Balasubramonian,Feifei Li 0001	10.1109/ICCD.2015.7357143
+A hardware-based multi-objective thread mapper for tiled manycore architectures.	Ravi Kumar Pujari,Thomas Wild,Andreas Herkersdorf	10.1109/ICCD.2015.7357148
+SI-SMART: Functional test generation for RTL circuits using loop abstraction and learning recurrence relationships.	Prateek Puri,Michael S. Hsiao	10.1109/ICCD.2015.7357082
+A pair selection algorithm for robust RO-PUF against environmental variations and aging.	Md. Tauhidur Rahman 0001,Domenic Forte,Fahim Rahman,Mark M. Tehranipoor	10.1109/ICCD.2015.7357137
+VPM: Virtual power meter tool for low-power many-core/heterogeneous data center prototypes.	Santhosh Kumar Rethinagiri,Oscar Palomar,Javier Arias Moreno,Osman S. Unsal,Adrián Cristal	10.1109/ICCD.2015.7357177
+From theory to practice of private circuit: A cautionary note.	Debapriya Basu Roy,Shivam Bhasin,Sylvain Guilley,Jean-Luc Danger,Debdeep Mukhopadhyay	10.1109/ICCD.2015.7357117
+Exploring multiple sleep modes in on/off based energy efficient HPC networks.	Karthikeyan P. Saravanan,Paul M. Carpenter,Alex Ramírez	10.1109/ICCD.2015.7357084
+Performance optimization for on-chip sensors to detect recycled ICs.	Bicky Shakya,Ujjwal Guin,Mark M. Tehranipoor,Domenic Forte	10.1109/ICCD.2015.7357116
+Reliable and high performance STT-MRAM architectures based on controllable-polarity devices.	Kaveh Shamsi,Yu Bi,Yier Jin,Pierre-Emmanuel Gaillardon,Michael T. Niemier,Xiaobo Sharon Hu	10.1109/ICCD.2015.7357123
+GPU acceleration for PCA-based statistical static timing analysis.	Yiren Shen,Jiang Hu	10.1109/ICCD.2015.7357180
+Improving memristor memory with sneak current sharing.	Manjunath Shevgoor,Naveen Muralimanohar,Rajeev Balasubramonian,Yoocharn Jeon	10.1109/ICCD.2015.7357164
+Pool directory: Efficient coherence tracking with dynamic directory allocation in many-core systems.	Sudhanshu Shukla,Mainak Chaudhuri	10.1109/ICCD.2015.7357165
+RAPITIMATE: Rapid performance estimation of pipelined processing systems containing shared memory.	Su Myat Min Shwe,Kapil Batra,Yusuke Yachide,Jorgen Peddersen,Sri Parameswaran	10.1109/ICCD.2015.7357175
+Non-enumerative correlation-aware path selection.	Ahish Mysore Somashekar,Spyros Tragoudas,Rathish Jayabharathi	10.1109/ICCD.2015.7357174
+Energy-efficient data movement with sparse transition encoding.	Yanwei Song,Mahdi Nazm Bojnordi,Engin Ipek	10.1109/ICCD.2015.7357133
+Hybrid scratchpad and cache memory management for energy-efficient parallel HEVC encoding.	Chang Song,Lei Ju,Zhiping Jia	10.1109/ICCD.2015.7357185
+Online mechanism for reliability and power-efficiency management of a dynamically reconfigurable core.	Sudarshan Srinivasan,Israel Koren,Sandip Kundu	10.1109/ICCD.2015.7357121
+Emulation-based selection and assessment of assertion checkers for post-silicon validation.	Pouya Taatizadeh,Nicola Nicolici	10.1109/ICCD.2015.7357083
+FPGA-SPICE: A simulation-based power estimation framework for FPGAs.	Xifan Tang,Pierre-Emmanuel Gaillardon,Giovanni De Micheli	10.1109/ICCD.2015.7357183
+Energy-efficient implementations of GF (p) and GF(2m) elliptic curve cryptography.	Andrew D. Targhetta,Donald E. Owen,Francis L. Israel,Paul V. Gratz	10.1109/ICCD.2015.7357184
+Realizing complexity-effective on-chip power delivery for many-core platforms by exploiting optimized mapping.	Mohammad Khavari Tavana,Divya Pathak,Mohammad Hossein Hajkazemi,Maria Malik,Ioannis Savidis,Houman Homayoun	10.1109/ICCD.2015.7357168
+A novel 3D graphics DRAM architecture for high-performance and low-energy memory accesses.	Ishan G. Thakkar,Sudeep Pasricha	10.1109/ICCD.2015.7357150
+Resilient, UAV-embedded real-time computing.	Augusto Vega,Chung-Ching Lin,Karthik Swaminathan,Alper Buyuktosunoglu,Sharathchandra Pankanti,Pradip Bose	10.1109/ICCD.2015.7357189
+Fault-tolerant in-memory crossbar computing using quantified constraint solving.	Alvaro Velasquez,Sumit Kumar Jha 0001	10.1109/ICCD.2015.7357090
+Resilient mobile cognition: Algorithms, innovations, and architectures.	Raphael Viguier,Chung-Ching Lin,Karthik Swaminathan,Augusto Vega,Alper Buyuktosunoglu,Sharathchandra Pankanti,Pradip Bose,H. Akbarpour,Filiz Bunyak,Kannappan Palaniappan,Guna Seetharaman	10.1109/ICCD.2015.7357187
+Clotho: Proactive wearout deceleration in Chip-Multiprocessor interconnects.	Arseniy Vitkovskiy,Vassos Soteriou,Paul V. Gratz	10.1109/ICCD.2015.7357092
+Effective hardware-level thread synchronization for high performance and power efficiency in application specific multi-threaded embedded processors.	Mahanama Wickramasinghe,Hui Guo 0001	10.1109/ICCD.2015.7357119
+Chameleon: Adaptive energy-efficient heterogeneous network-on-chip.	Ji Wu 0006,Dezun Dong,Xiangke Liao,Wang Li 0003	10.1109/ICCD.2015.7357138
+A pre-search assisted ILP approach to analog integrated circuit routing.	Chia-Yu Wu,Helmut Graeb,Jiang Hu	10.1109/ICCD.2015.7357110
+POS: A Popularity-based Online Scaling scheme for RAID-structured storage systems.	Si Wu 0003,Yinlong Xu,Yongkun Li 0001,Yunfeng Zhu	10.1109/ICCD.2015.7357095
+Fast boolean logic mapped on memristor crossbar.	Lei Xie 0005,Hoang Anh Du Nguyen,Mottaqiallah Taouil,Koen Bertels,Said Hamdioui	10.1109/ICCD.2015.7357122
+A one-pass test-selection method for maximizing test coverage.	Cheng Xue,R. D. (Shawn) Blanton	10.1109/ICCD.2015.7357173
+A new encoding mechanism for low power inter-chip serial communication in asynchronous circuits.	Tomohiro Yoneda,Masashi Imai	10.1109/ICCD.2015.7357132
+FDRAM: DRAM architecture flexible in successive row and column accesses.	Jeongjae Yu,Wooyoung Jang	10.1109/ICCD.2015.7357146
+OpenNVM: An open-sourced FPGA-based NVM controller for low level memory characterization.	Jie Zhang 0048,Gieseo Park,Mustafa M. Shihab,David Donofrio,John Shalf,Myoungsoo Jung	10.1109/ICCD.2015.7357179
+Dynamic core scaling: Trading off performance and energy beyond DVFS.	Wei Zhang 0044,Hang Zhang 0031,John C. Lach	10.1109/ICCD.2015.7357120
+DLB: Dynamic lane borrowing for improving bandwidth and performance in Hybrid Memory Cube.	XianWei Zhang,Youtao Zhang,Jun Yang 0002	10.1109/ICCD.2015.7357093
+TriState-SET: Proactive SET for improved performance of MLC phase change memories.	XianWei Zhang,Youtao Zhang,Jun Yang 0002	10.1109/ICCD.2015.7357178
+Exploit common source-line to construct energy efficient domain wall memory based caches.	XianWei Zhang,Lei Zhao,Youtao Zhang,Jun Yang 0002	10.1109/ICCD.2015.7357097
+A testing platform for on-drone computation.	Wang Zhou,Dhruv Nair,Oki Gunawan,Theodore G. van Kessel,Hendrik F. Hamann	10.1109/ICCD.2015.7357188
+33rd IEEE International Conference on Computer Design, ICCD 2015, New York City, NY, USA, October 18-21, 2015		

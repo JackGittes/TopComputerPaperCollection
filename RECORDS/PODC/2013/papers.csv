@@ -1,0 +1,58 @@
+Brief announcement: a simple stretch 2 distance oracle.	Rachit Agarwal 0001,Philip Brighten Godfrey	10.1145/2484239.2484277
+Brief announcement: on minimum interaction time for continuous distributed interactive computing.	Lu Zhang 0021,Xueyan Tang,Bingsheng He	10.1145/2484239.2484287
+A distributed algorithm for gathering many fat mobile robots in the plane.	Chrysovalandis Agathangelou,Chryssis Georgiou,Marios Mavronicolas	10.1145/2484239.2484266
+Brief announcement: resettable objects and efficient memory reclamation for concurrent algorithms.	Zahra Aghazadeh,Wojciech M. Golab,Philipp Woelfel	10.1145/2484239.2484286
+Randomized loose renaming in O(log log n) time.	Dan Alistarh,James Aspnes,George Giakkoupis,Philipp Woelfel	10.1145/2484239.2484240
+Upper bound on the complexity of solving hard renaming.	Hagit Attiya,Armando Castañeda,Maurice Herlihy,Ami Paz	10.1145/2484239.2484251
+A programming language perspective on transactional memory consistency.	Hagit Attiya,Alexey Gotsman,Sandeep Hans,Noam Rinetzky	10.1145/2484239.2484267
+An O(1)-barriers optimal RMRs mutual exclusion algorithm: extended abstract.	Hagit Attiya,Danny Hendler,Smadar Levy	10.1145/2484239.2484255
+Fast byzantine agreement in dynamic networks.	John Augustine,Gopal Pandurangan,Peter Robinson 0002	10.1145/2484239.2484275
+Leaplist: lessons learned in designing tm-supported range queries.	Hillel Avni,Nir Shavit,Adi Suissa	10.1145/2484239.2484254
+Brief announcement: deterministic self-stabilizing leader election with O(log log n)-bits.	Lélia Blin,Sébastien Tixeuil	10.1145/2484239.2484289
+Connectivity and aggregation in multihop wireless networks.	Marijke H. L. Bodlaender,Magnús M. Halldórsson,Pradipta Mitra	10.1145/2484239.2484265
+Fast byzantine agreement.	Nicolas Braud-Santoni,Rachid Guerraoui,Florian Huc	10.1145/2484239.2484243
+Pragmatic primitives for non-blocking data structures.	Trevor Brown 0001,Faith Ellen,Eric Ruppert	10.1145/2484239.2484273
+Brief announcement: pareto optimal solutions to consensus and set consensus.	Armando Castañeda,Yannai A. Gonczarowski,Yoram Moses	10.1145/2484239.2484280
+Compact routing schemes with improved stretch.	Shiri Chechik	10.1145/2484239.2484268
+Brief announcement: constructing fault-tolerant overlay networks for topic-based publish/subscribe.	Chen Chen 0008,Roman Vitenberg,Hans-Arno Jacobsen	10.1145/2484239.2484282
+Maximal independent sets in multichannel radio networks.	Sebastian Daum,Mohsen Ghaffari 0001,Seth Gilbert,Fabian Kuhn,Calvin C. Newport	10.1145/2484239.2484257
+Brief announcement: self-stabilizing resource discovery algorithm.	Seda Davtyan,Kishori M. Konwar,Alexander A. Shvartsman	10.1145/2484239.2484278
+Byzantine renaming in synchronous systems with t&lt;N.	Oksana Denysyuk,Luís E. T. Rodrigues	10.1145/2484239.2484261
+How to meet asynchronously at polynomial cost.	Yoann Dieudonné,Andrzej Pelc,Vincent Villain	10.1145/2484239.2484245
+Early-deciding consensus is expensive.	Danny Dolev,Christoph Lenzen 0001	10.1145/2484239.2484269
+Introducing speculation in self-stabilization: an application to mutual exclusion.	Swan Dubois,Rachid Guerraoui	10.1145/2484239.2484246
+Stone age distributed computing.	Yuval Emek,Roger Wattenhofer	10.1145/2484239.2484244
+Brief announcement: fair maximal independent sets in trees.	Jeremy T. Fineman,Calvin C. Newport,Tonghe Wang	10.1145/2484239.2484291
+What can be decided locally without identifiers?	Pierre Fraigniaud,Mika Göös,Amos Korman,Jukka Suomela	10.1145/2484239.2484264
+Randomized broadcast in radio networks with collision detection.	Mohsen Ghaffari 0001,Bernhard Haeupler,Majid Khabbazian	10.1145/2484239.2484248
+The cost of radio network broadcast for different models of unreliable links.	Mohsen Ghaffari 0001,Nancy A. Lynch,Calvin C. Newport	10.1145/2484239.2484259
+Brief announcement: an asymmetric flat-combining based queue algorithm.	Michael Gorelik,Danny Hendler	10.1145/2484239.2484279
+Highly dynamic distributed computing with byzantine failures.	Rachid Guerraoui,Florian Huc,Anne-Marie Kermarrec	10.1145/2484239.2484263
+On deterministic abortable objects.	Vassos Hadzilacos,Sam Toueg	10.1145/2484239.2484241
+Distributed algorithms for barrier coverage using relocatable sensors.	Mohsen Eftekhari Hesari,Evangelos Kranakis,Danny Krizanc,Oscar Morales-Ponce,Lata Narayanan,Jaroslav Opatrny,Sunil M. Shende	10.1145/2484239.2484258
+Brief announcement: threshold load balancing in networks.	Martin Hoefer 0001,Thomas Sauerwald	10.1145/2484239.2484283
+Brief announcement: parameterized model checking of fault-tolerant distributed algorithms by abstraction.	Annu John,Igor Konnov 0001,Ulrich Schmid 0001,Helmut Veith,Josef Widder	10.1145/2484239.2484285
+Brief announcement: brokerage and closure in a strategic model of social capital.	Samuel D. Johnson,Raissa M. D&apos;Souza	10.1145/2484239.2484292
+Brief announcement: scalable anonymous communication with byzantine adversary.	Josh R. Karlin,Joud S. Khoury,Jared Saia,Mahdi Zamani	10.1145/2484239.2484290
+Brief announcement: byzantine agreement with a strong adversary in polynomial expected time.	Valerie King,Jared Saia	10.1145/2484239.2484288
+The multi-agent rotor-router on the ring: a deterministic alternative to parallel random walks.	Ralf Klasing,Adrian Kosowski,Dominik Pajak,Thomas Sauerwald	10.1145/2484239.2484260
+Synchronous byzantine agreement with nearly a cubic number of communication bits: synchronous byzantine agreement with nearly a cubic number of communication bits.	Dariusz R. Kowalski,Achour Mostéfaoui	10.1145/2484239.2484271
+On the complexity of universal leader election.	Shay Kutten,Gopal Pandurangan,David Peleg,Peter Robinson 0002,Amitabh Trehan	10.1145/2484239.2484274
+Optimal deterministic routing and sorting on the congested clique.	Christoph Lenzen 0001	10.1145/2484239.2501983
+Efficient distributed source detection with limited bandwidth.	Christoph Lenzen 0001,David Peleg	10.1145/2484239.2484262
+On the complexity of asynchronous agreement against powerful adversaries.	Allison B. Lewko,Mark Lewko	10.1145/2484239.2484250
+Fair and resilient incentive tree mechanisms.	Yuezhou Lv,Thomas Moscibroda	10.1145/2484239.2484252
+Athena lecture: distributed computing theory for wireless networks and mobile systems.	Nancy A. Lynch	10.1145/2484239.2493966
+Plenary talk.	Michael Merritt	10.1145/2484239.2493965
+Brief announcement: a shorter and stronger proof of an Ω(d log(n/d)) lower bound for broadcast in radio networks.	Calvin C. Newport	10.1145/2484239.2484284
+The SkipTrie: low-depth concurrent search without rebalancing.	Rotem Oshman,Nir Shavit	10.1145/2484239.2484270
+Synchrony weakened by message adversaries vs asynchrony restricted by failure detectors.	Michel Raynal,Julien Stainer	10.1145/2484239.2484249
+Feedback from nature: an optimal distributed algorithm for maximal independent set selection.	Alex Scott 0001,Peter Jeavons 0001,Lei Xu 0002	10.1145/2484239.2484247
+Programming models for extreme-scale computing.	Marc Snir	10.1145/2484239.2493967
+Byzantine vector consensus in complete graphs.	Nitin H. Vaidya,Vijay K. Garg	10.1145/2484239.2484256
+Brief announcement: a local approximation algorithm for MDS problem in anonymous planar networks.	Wojciech Wawrzyniak	10.1145/2484239.2484281
+Brief announcement: techniques for programmatically troubleshooting distributed systems.	Sam Whitlock,Colin Scott,Scott Shenker	10.1145/2484239.2484293
+What&apos;s a little collusion between friends?	Edmund L. Wong,Lorenzo Alvisi	10.1145/2484239.2484242
+Delegation of computation with verification outsourcing: curious verifiers.	Gang Xu,George T. Amariucai,Yong Guan	10.1145/2484239.2484253
+Stable and scalable universal swarms.	Ji Zhu 0003,Stratis Ioannidis,Nidhi Hegde 0001,Laurent Massoulié	10.1145/2484239.2484272
+ACM Symposium on Principles of Distributed Computing, PODC &apos;13, Montreal, QC, Canada, July 22-24, 2013	Panagiota Fatourou,Gadi Taubenfeld	

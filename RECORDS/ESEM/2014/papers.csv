@@ -1,0 +1,73 @@
+Monitoring bottlenecks in achieving release readiness: a retrospective case study across ten OSS projects.	S. M. Didar Al Alam,S. M. Shahnewaz 0001,Dietmar Pfahl,Günther Ruhe	10.1145/2652524.2652549
+Evaluating strategies for study selection in systematic literature studies.	Nauman Bin Ali,Kai Petersen	10.1145/2652524.2652557
+Empirical analysis of comments and fault-proneness in methods: can comments point to faulty methods?	Hirohisa Aman,Takashi Sasaki,Sousuke Amasaki,Minoru Kawahara	10.1145/2652524.2652592
+VCS-analyzer for software evolution empirical analysis.	Francesca Arcelli,Matteo Rolla,Marco Zanoni	10.1145/2652524.2652599
+Improving requirements glossary construction via clustering: approach and industrial case studies.	Chetan Arora 0002,Mehrdad Sabetzadeh,Lionel C. Briand,Frank Zimmer	10.1145/2652524.2652530
+Evaluating the TESTAR tool in an industrial case study.	Sebastian Bauersfeld,Tanja E. J. Vos,Nelly Condori-Fernández,Alessandra Bagnato,Etienne Brosse	10.1145/2652524.2652588
+A controlled experiment to evaluate the effects of mindfulness in software engineering.	Beatriz Bernárdez 0001,Amador Durán 0001,José Antonio Parejo,Antonio Ruiz Cortés	10.1145/2652524.2652539
+Towards a semantic knowledge base on threats to validity and control actions in controlled experiments.	Stefan Biffl,Marcos Kalinowski,Fajar J. Ekaputra,Amadeu Anderlin Neto,Tayana Conte,Dietmar Winkler 0001	10.1145/2652524.2652568
+A replicated study on duplicate detection: using apache lucene to search among Android defects.	Markus Borg,Per Runeson,Jens Johansson,Mika Mäntylä	10.1145/2652524.2652556
+Support mechanisms to conduct empirical studies in software engineering.	Alex N. Borges,Waldemar Ferreira,Emanoel Francisco Spósito Barreiros,Adauto Almeida,Liliane Fonseca,Eudis Teixeira,Diogo Silva,Aline Alencar,Sérgio Soares	10.1145/2652524.2652572
+Impact of developer reputation on code review outcomes in OSS projects: an empirical investigation.	Amiangshu Bosu,Jeffrey C. Carver	10.1145/2652524.2652544
+Measuring shared understanding in software project teams using pathfinder networks.	Brandt Braunschweig,Carolyn B. Seaman	10.1145/2652524.2652543
+Comparing and contrasting model-driven engineering at three large companies.	Håkan Burden,Rogardt Heldal,Jon Whittle 0001	10.1145/2652524.2652527
+Reviewing technical approaches for sharing and preservation of experimental data.	Efraín R. Fonseca C.,Oscar Dieste,Natalia Juristo Juzgado,Estefanía Serral,Stefan Biffl	10.1145/2652524.2652600
+An empirical simulation-based study of real-time speech translation for multilingual global project teams.	Fabio Calefato,Filippo Lanubile,Rafael Prikladnicki,João Henrique Stocker Pinto	10.1145/2652524.2652537
+Debsources: live and historical views on macro-level software evolution.	Matthieu Caneill,Stefano Zacchiroli	10.1145/2652524.2652528
+Impacts of design pattern decay on system quality.	Melissa R. Dale,Clemente Izurieta	10.1145/2652524.2652560
+Engineering of quality requirements as perceived by near-shore development centers&apos; architects in eastern Europe: the hole in the whole.	Maya Daneva,Sabrina Marczak,Andrea Herrmann 0001	10.1145/2652524.2652534
+What&apos;s in a bug report?	Steven Davies,Marc Roper	10.1145/2652524.2652541
+Bridging the gap: SE technology transfer into practice: study design and preliminary results.	Philipp Diebold,Antonio Vetrò	10.1145/2652524.2652552
+Forking and coordination in multi-platform development: a case study.	Anh Nguyen Duc 0001,Audris Mockus,Randy L. Hackbarth,John Douglas Palframan	10.1145/2652524.2652546
+Cooperation between information system development and operations: a literature review.	Floris Erich,Chintan Amrit,Maya Daneva	10.1145/2652524.2652598
+The role of mentoring and project characteristics for onboarding in open source software projects.	Fabian Fagerholm,Alejandro Sánchez Guinea,Jürgen Münch,Jay Borenstein	10.1145/2652524.2652540
+Discovering buffer overflow vulnerabilities in the wild: an empirical study.	Ming Fang,Munawar Hafiz	10.1145/2652524.2652533
+Industrial evaluation of the impact of quality-driven release planning.	Michael Felderer,Armin Beer,Jason Ho,Günther Ruhe	10.1145/2652524.2652579
+On the impact of passive voice requirements on domain modelling.	Henning Femmer,Jan Kucera,Antonio Vetrò	10.1145/2652524.2652554
+Where do we stand in requirements engineering improvement today?: first results from a mapping study.	Daniel Méndez Fernández,Saahil Ognawala,Stefan Wagner 0001,Maya Daneva	10.1145/2652524.2652555
+Tracking line changes in source code repositories.	Francesca Arcelli Fontana,Marco Zanoni	10.1145/2652524.2652597
+Motivated software engineers are engaged and focused, while satisfied ones are happy.	A. César C. França,Helen Sharp,Fabio Q. B. da Silva	10.1145/2652524.2652545
+Impact of process conformance on the effects of test-driven development.	Davide Fucci,Burak Turhan,Markku Oivo	10.1145/2652524.2652526
+Security triage: an industrial case study on the effectiveness of a lean methodology to identify security requirements.	Matteo Giacalone,Federica Paci,Rocco Mammoliti,Rodolfo Perugino,Fabio Massacci,Claudio Selli	10.1145/2652524.2652585
+An UML-based approach to software development cost estimation.	Antonio Girasella,Filippo Pagin	10.1145/2652524.2652580
+ISBSG variables most frequently used for software effort estimation: a mapping review.	Fernando González-Ladrón-de-Guevara,Marta Fernández-Diego	10.1145/2652524.2652550
+A systematic mapping study on testing technique experiments: has the situation changed since 2000?	Jorge E. González,Natalia Juristo Juzgado,Sira Vegas	10.1145/2652524.2652569
+Design pattern decay: the case for class grime.	Isaac Griffith,Clemente Izurieta	10.1145/2652524.2652570
+Mining energy traces to aid in software development: an empirical case study.	Ashish Gupta,Thomas Zimmermann 0001,Christian Bird,Nachiappan Nagappan,Thirumalesh Bhat,Syed Emran	10.1145/2652524.2652578
+The impact of test ownership and team structure on the reliability and effectiveness of quality test runs.	Kim Herzig,Nachiappan Nagappan	10.1145/2652524.2652535
+Tracing back the history of commits in low-tech reviewing environments: a case study of the Linux kernel.	Yujuan Jiang,Bram Adams,Foutse Khomh,Daniel M. Germán	10.1145/2652524.2652542
+Process simulation for software engineering education.	Shu Jiang,He Zhang 0001,Chao Gao	10.1145/2652524.2652601
+What do game developers test in their products?	Jussi Kasurinen,Kari Smolander	10.1145/2652524.2652525
+Factors impacting rapid releases: an industrial case study.	Noureddine Kerzazi,Foutse Khomh	10.1145/2652524.2652589
+The effect of evolutionary coupling on software defects: an industrial case study on a legacy system.	Serkan Kirbas,Alper Sen 0001,Bora Caglayan,Ayse Bener,Rasim Mahmutogullari	10.1145/2652524.2652577
+Estimation of student&apos;s programming expertise.	Eduard Kuric,Mária Bieliková	10.1145/2652524.2652561
+Evaluation in practice: artifact-based requirements engineering and scenarios in smart mobility domains.	Constanza Lampasona,Philipp Diebold,Jonas Eckhardt,Rolf Schneider	10.1145/2652524.2652582
+Towards a framework to support large scale sampling in software engineering surveys.	Rafael Maiani de Mello,Pedro Correa da Silva,Per Runeson,Guilherme Horta Travassos	10.1145/2652524.2652567
+Sampling improvement in software engineering surveys.	Rafael Maiani de Mello,Pedro Correa da Silva,Guilherme Horta Travassos	10.1145/2652524.2652566
+Effect of temporal collaboration network, maintenance activity, and experience on defect exposure.	Andriy V. Miranskyy,Bora Caglayan,Ayse Bener,Enzo Cialini	10.1145/2652524.2652586
+Networking in a large-scale distributed agile project.	Nils Brede Moe,Darja Smite,Aivars Sablis,Anne-Lie Börjesson,Pia Andréasson	10.1145/2652524.2652584
+Software population pyramids: the current and the future of OSS development communities.	Saya Onoue,Hideaki Hata,Ken-ichi Matsumoto	10.1145/2652524.2652565
+An approach for effort estimation in incremental software development using cosmic function points.	Freddy Paz,Claudia Zapata,José Antonio Pow-Sang	10.1145/2652524.2652571
+How is exploratory testing used? A state-of-the-practice survey.	Dietmar Pfahl,Huishi Yin,Mika Mäntylä,Jürgen Münch	10.1145/2652524.2652531
+What we have learned about the value of software assurance.	Dan Port,Tung Bui 0001,Joel M. Wilf,Yuki Kobayashi,Yuko Miyamoto	10.1145/2652524.2652591
+Function point structure and applicability validation using the ISBSG dataset: a replicated study.	Christian Quesada-López,Marcelo Jenkins	10.1145/2652524.2652595
+Enriching source code by empirical metadata.	Karol Rástocný,Mária Bieliková	10.1145/2652524.2652596
+A replication case study to measure the architectural quality of a commercial system.	Derek Reimanis,Clemente Izurieta,Rachael Luhr,Lu Xiao 0001,Yuanfang Cai,Gabe Rudy	10.1145/2652524.2652581
+Using templates to elicit implied security requirements from functional requirements - a controlled experiment.	Maria Riaz,John Slankas,Jason Tyler King,Laurie A. Williams	10.1145/2652524.2652532
+Using qualitative metasummary to synthesize empirical findings in literature reviews.	Danilo Monteiro Ribeiro,Marcos Cardoso,Fabio Q. B. da Silva,A. César C. França	10.1145/2652524.2652562
+Evaluating capture and replay and model-based performance testing tools: an empirical comparison.	Elder M. Rodrigues,Rodrigo S. Saad,Flávio Moreira de Oliveira,Leandro T. Costa,Maicon Bernardino,Avelino F. Zorzo	10.1145/2652524.2652587
+Simple empirical software effort estimation model.	Wilson Rosa,Raymond J. Madachy,Barry W. Boehm,Bradford K. Clark	10.1145/2652524.2652558
+Evolution of design patterns: a replication study.	Bruno Rossi 0001,Barbara Russo	10.1145/2652524.2652563
+Process mining can be applied to software too!	Vladimir A. Rubin,Alexey A. Mitsyuk,Irina A. Lomazova,Wil M. P. van der Aalst	10.1145/2652524.2652583
+How do code refactorings affect energy usage?	Cagri Sahin,Lori L. Pollock,James Clause	10.1145/2652524.2652538
+The use of systematic reviews in evidence based software engineering: a systematic mapping study.	Ronnie E. S. Santos,Cleyton V. C. de Magalhães,Fabio Q. B. da Silva	10.1145/2652524.2652553
+Classification of project team patterns for benchmarking.	Yasutaka Shirai,William Nichols	10.1145/2652524.2652594
+A qualitative analysis of software build system changes and build ownership styles.	Mini Shridhar,Bram Adams,Foutse Khomh	10.1145/2652524.2652547
+Productivity for proof engineering.	Mark Staples,D. Ross Jeffery,June Andronick,Toby C. Murray,Gerwin Klein,Rafal Kolanski	10.1145/2652524.2652551
+Empirical and face validity of software maintenance defect models used at the jet propulsion laboratory.	William Taber,Dan Port	10.1145/2652524.2652590
+Studying abbreviated vs. full-word identifier names when dealing with faults: an external replication.	Porfirio Tramontana,Michele Risi,Giuseppe Scanniello	10.1145/2652524.2652593
+FixerCache: unsupervised caching active developers for diverse bug triage.	Song Wang 0009,Wen Zhang 0001,Qing Wang 0001	10.1145/2652524.2652536
+Writing for synthesis of evidence in empirical software engineering.	Claes Wohlin	10.1145/2652524.2652559
+Patterns of folder use and project popularity: a case study of github repositories.	Jiaxin Zhu,Minghui Zhou 0001,Audris Mockus	10.1145/2652524.2652564
+On knowledge transfer skill in pair programming.	Franz Zieris,Lutz Prechelt	10.1145/2652524.2652529
+2014 ACM-IEEE International Symposium on Empirical Software Engineering and Measurement, ESEM &apos;14, Torino, Italy, September 18-19, 2014	Maurizio Morisio,Tore Dybå,Marco Torchiano	

@@ -1,0 +1,31 @@
+Machine Learning Systems are Stuck in a Rut.	Paul Barham 0001,Michael Isard	10.1145/3317550.3321441
+Fast key-value stores: An idea whose time has come and gone.	Atul Adya,Robert Grandl,Daniel Myers,Henry Qin	10.1145/3317550.3321434
+Designing Far Memory Data Structures: Think Outside the Box.	Marcos K. Aguilera,Kimberly Keeton,Stanko Novakovic,Sharad Singhal	10.1145/3317550.3321433
+Rethinking General-Purpose Decentralized Computing.	Enis Ceyhun Alp,Eleftherios Kokoris-Kogias,Georgia Fragkouli,Bryan Ford	10.1145/3317550.3321448
+A fork() in the road.	Andrew Baumann,Jonathan Appavoo,Orran Krieger,Timothy Roscoe	10.1145/3317550.3321435
+In-Network Compute: Considered Armed and Dangerous.	Theophilus A. Benson	10.1145/3317550.3321436
+Project PBerry: FPGA Acceleration for Remote Memory.	Irina Calciu,Ivan Puddu,Aasheesh Kolli,Andreas Nowatzyk,Jayneel Gandhi,Onur Mutlu,Pratap Subrahmanyam	10.1145/3317550.3321424
+I/O Is Faster Than the CPU: Let&apos;s Partition Resources and Eliminate (Most) OS Abstractions.	Pekka Enberg,Ashwin Rao,Sasu Tarkoma	10.1145/3317550.3321426
+Can We Prove Time Protection?	Gernot Heiser,Gerwin Klein,Toby C. Murray	10.1145/3317550.3321431
+Isolation and Beyond: Challenges for System Security.	Tyler Hunt,Zhipeng Jia,Vance Miller,Christopher J. Rossbach,Emmett Witchel	10.1145/3317550.3321427
+CPR for SSDs.	Bryan S. Kim,Eunji Lee,Sungjin Lee 0001,Sang Lyul Min	10.1145/3317550.3321437
+Granular Computing.	Collin Lee,John K. Ousterhout	10.1145/3317550.3321447
+Composing Abstractions using the null-Kernel.	James Litton,Deepak Garg 0001,Peter Druschel,Bobby Bhattacharjee	10.1145/3317550.3321450
+What bugs cause production cloud incidents?	Haopeng Liu,Shan Lu 0001,Madan Musuvathi,Suman Nath	10.1145/3317550.3321438
+Comprehensive and Efficient Runtime Checking in System Software through Watchdogs.	Chang Lou,Peng Huang 0005,Scott Smith	10.1145/3317550.3321440
+Towards Automatic Inference of Inductive Invariants.	Haojun Ma,Aman Goel,Jean-Baptiste Jeannin,Manos Kapritsos,Baris Kasikci,Karem A. Sakallah	10.1145/3317550.3321451
+Towards Multiverse Databases.	Alana Marzoev,Lara Timbó Araújo,Malte Schwarzkopf,Samyukta Yagati,Eddie Kohler,Robert Tappan Morris,M. Frans Kaashoek,Sam Madden	10.1145/3317550.3321425
+Practical Safe Linux Kernel Extensibility.	Samantha Miller,Kaiyuan Zhang 0001,Danyang Zhuo,Shibin Xu,Arvind Krishnamurthy,Thomas E. Anderson	10.1145/3317550.3321429
+Nines are Not Enough: Meaningful Metrics for Clouds.	Jeffrey C. Mogul,John Wilkes	10.1145/3317550.3321432
+RedLeaf: Towards An Operating System for Safe and Verified Firmware.	Vikram Narayanan,Marek S. Baranowski,Leonid Ryzhyk,Zvonimir Rakamaric,Anton Burtsev	10.1145/3317550.3321449
+When Should The Network Be The Computer?	Dan R. K. Ports,Jacob Nelson	10.1145/3317550.3321439
+You can&apos;t debug what you can&apos;t see: Expanding observability with the OmniTable.	Andrew Quinn 0001,Jason Flinn,Michael J. Cafarella	10.1145/3317550.3321428
+Unikernels: The Next Stage of Linux&apos;s Dominance.	Ali Raza 0003,Parul Sohal,James Cadden,Jonathan Appavoo,Ulrich Drepper,Richard Jones,Orran Krieger,Renato Mancuso 0001,Larry Woodman	10.1145/3317550.3321445
+The Case for I/O-Device-as-a-Service.	Ardalan Amiri Sani,Thomas E. Anderson	10.1145/3317550.3321446
+Synthesizing Cluster Management Code for Distributed Systems.	Lalith Suresh,João Loff,Nina Narodytska,Leonid Ryzhyk,Mooly Sagiv,Brian Oki	10.1145/3317550.3321444
+A Case for Managed and Model-less Inference Serving.	Neeraja J. Yadwadkar,Francisco Romero,Qian Li 0027,Christos Kozyrakis	10.1145/3317550.3321443
+The Synchronous Data Center.	Tian Yang,Robert Gifford,Andreas Haeberlen,Linh Thi Xuan Phan	10.1145/3317550.3321442
+Automatic Virtualization of Accelerators.	Hangchen Yu,Arthur Michener Peters,Amogh Akshintala,Christopher J. Rossbach	10.1145/3317550.3321423
+I&apos;m Not Dead Yet!: The Role of the Operating System in a Kernel-Bypass Era.	Irene Zhang,Jing Liu,Amanda Austin,Michael Lowell Roberts,Anirudh Badam	10.1145/3317550.3321422
+Why and How to Increase SSD Performance Transparency.	Aviad Zuck,Philipp Gühring,Tao Zhang 0045,Donald E. Porter,Dan Tsafrir	10.1145/3317550.3321430
+Proceedings of the Workshop on Hot Topics in Operating Systems, HotOS 2019, Bertinoro, Italy, May 13-15, 2019		10.1145/3317550

@@ -1,0 +1,48 @@
+Massively Parallel Algorithms for b-Matching.	Mohsen Ghaffari 0001,Christoph Grunau,Slobodan Mitrovic	10.1145/3490148.3538589
+Parallel Cover Trees and their Applications.	Yan Gu 0001,Zachary Napier,Yihan Sun 0001,Letong Wang	10.1145/3490148.3538581
+Average Awake Complexity of MIS and Matching.	Mohsen Ghaffari 0001,Julian Portmann	10.1145/3490148.3538566
+wCQ: A Fast Wait-Free Queue with Bounded Memory Usage.	Ruslan Nikolaev 0001,Binoy Ravindran	10.1145/3490148.3538572
+Sparse Matrix Multiplication in the Low-Bandwidth Model.	Chetan Gupta 0002,Juho Hirvonen,Janne H. Korhonen,Jan Studený,Jukka Suomela	10.1145/3490148.3538575
+Online Parallel Paging with Optimal Makespan.	Kunal Agrawal,Michael A. Bender,Rathish Das,William Kuszmaul,Enoch Peserico,Michele Scquizzato	10.1145/3490148.3538577
+Brief Announcement: Faster Stencil Computations using Gaussian Approximations.	Zafar Ahmad,Rezaul Chowdhury,Rathish Das,Pramod Ganapathi,Aaron Gregory,Yimin Zhu	10.1145/3490148.3538558
+A Fully-Distributed Scalable Peer-to-Peer Protocol for Byzantine-Resilient Distributed Hash Tables.	John Augustine,Soumyottam Chatterjee,Gopal Pandurangan	10.1145/3490148.3538588
+Brief Announcement: A Parallel (Δ, Γ)-Stepping Algorithm for the Constrained Shortest Path Problem.	Tayebeh Bahreini,Nathan Fisher,Daniel Grosu	10.1145/3490148.3538555
+I/O-Optimal Algorithms for Symmetric Linear Algebra Kernels.	Olivier Beaumont,Lionel Eyraud-Dubois,Julien Langou,Mathieu Vérité	10.1145/3490148.3538587
+Brief Announcement: Spatial Locality and Granularity Change in Caching.	Nathan Beckmann,Phillip B. Gibbons,Charles McGuffey	10.1145/3490148.3538559
+Contention Resolution for Coded Radio Networks.	Michael A. Bender,Seth Gilbert,Fabian Kuhn,John Kuszmaul,Muriel Médard	10.1145/3490148.3538573
+Deterministic Distributed Sparse and Ultra-Sparse Spanners and Connectivity Certificates.	Marcel Bezdrighin,Michael Elkin,Mohsen Ghaffari 0001,Christoph Grunau,Bernhard Haeupler,Saeed Ilchi,Václav Rozhon	10.1145/3490148.3538565
+Scalable Fine-Grained Parallel Cycle Enumeration Algorithms.	Jovan Blanusa,Paolo Ienne,Kubilay Atasu	10.1145/3490148.3538585
+Brief Announcement: Nested Active-Time Scheduling.	Nairen Cao,Jeremy T. Fineman,Shi Li,Julián Mestre,Katina Russell,Seeun William Umboh	10.1145/3490148.3538554
+Parallel Shortest Paths with Negative Edge Weights.	Nairen Cao,Jeremy T. Fineman,Katina Russell	10.1145/3490148.3538583
+The k-Server with Preferences Problem.	Jannik Castenow,Björn Feldkord,Till Knollmann,Manuel Malatyali,Friedhelm Meyer auf der Heide	10.1145/3490148.3538595
+The Energy Complexity of Las Vegas Leader Election.	Yi-Jun Chang,Shunhua Jiang	10.1145/3490148.3538586
+HybriDS: Cache-Conscious Concurrent Data Structures for Near-Memory Processing Architectures.	Jiwon Choe,Andrew Crotty,Tali Moreshet,Maurice Herlihy,R. Iris Bahar	10.1145/3490148.3538591
+Brief Announcement: Composable Dynamic Secure Emulation.	Pierre Civit,Maria Potop-Butucaru	10.1145/3490148.3538562
+PREP-UC: A Practical Replicated Persistent Universal Construction.	Gaetano C. Coccimiglio,Trevor Alexander Brown,Srivatsan Ravi	10.1145/3490148.3538568
+Competitive Algorithms for Block-Aware Caching.	Christian Coester,Roie Levin,Joseph (Seffi) Naor,Ohad Talmon	10.1145/3490148.3538567
+Brief Announcement: Tight Memory-Independent Parallel Matrix Multiplication Communication Lower Bounds.	Hussam Al Daas,Grey Ballard,Laura Grigori,Suraj Kumar,Kathryn Rouse	10.1145/3490148.3538552
+Balancing Flow Time and Energy Consumption.	Sami Davies,Samir Khuller,Shirley Zhang	10.1145/3490148.3538582
+Automatic HBM Management: Models and Algorithms.	Daniel DeLayo,Kenny Zhang,Kunal Agrawal,Michael A. Bender,Jonathan W. Berry,Rathish Das,Benjamin Moseley,Cynthia A. Phillips	10.1145/3490148.3538570
+Brief Announcement: Distributed Lightweight Spanner Construction for Unit Ball Graphs in Doubling Metrics.	David Eppstein,Hadi Khodabandeh	10.1145/3490148.3538553
+A NUMA-Aware Recoverable Mutex Lock.	Ahmed Fahmy,Wojciech M. Golab	10.1145/3490148.3538594
+Brief Announcement: The (Limited) Power of Multiple Identities: Asynchronous Byzantine Reliable Broadcast with Improved Resilience through Collusion.	Thorsten Götte,Christian Scheideler	10.1145/3490148.3538556
+Adaptive Massively Parallel Algorithms for Cut Problems.	MohammadTaghi Hajiaghayi,Marina Knittel,Jan Olkowski,Hamed Saleh	10.1145/3490148.3538576
+Achieving Sublinear Complexity under Constant T in T-interval Dynamic Networks.	Ruomu Hou,Irvan Jahja,Yucheng Sun,Jiyan Wu,Haifeng Yu	10.1145/3490148.3538571
+Fully Polynomial-Time Distributed Computation in Low-Treewidth Graphs.	Taisuke Izumi,Naoki Kitamura,Takamasa Naruse,Gregory Schwartzman	10.1145/3490148.3538590
+Robust and Optimal Contention Resolution without Collision Detection.	Yonggang Jiang,Chaodong Zheng	10.1145/3490148.3538592
+Keynote Talk: Large Scale Parallel Sparse Matrix Streaming Graph/Network Analysis.	Jeremy Kepner	10.1145/3490148.3538597
+Bamboo Trimming Revisited: Simple Algorithms Can Do Well Too.	John Kuszmaul	10.1145/3490148.3538580
+Permutation Predictions for Non-Clairvoyant Scheduling.	Alexander Lindermayr,Nicole Megow	10.1145/3490148.3538579
+Parallel Batch-Dynamic Algorithms for k-Core Decomposition and Related Graph Problems.	Quanquan C. Liu,Jessica Shi,Shangdi Yu,Laxman Dhulipala,Julian Shun	10.1145/3490148.3538569
+Brief Announcement: Tight Bounds for Repeated Balls-into-Bins.	Dimitrios Los,Thomas Sauerwald	10.1145/3490148.3538561
+Balanced Allocations in Batches: Simplified and Generalized.	Dimitrios Los,Thomas Sauerwald	10.1145/3490148.3538593
+Preparing for Disaster: Leveraging Precomputation to Efficiently Repair Graph Structures Upon Failures.	Calvin Newport,Nitin H. Vaidya,Alex Weaver	10.1145/3490148.3538564
+Approximate Dynamic Balanced Graph Partitioning.	Harald Räcke,Stefan Schmid 0001,Ruslan Zabrodin	10.1145/3490148.3538563
+Performance Analysis and Modelling of Concurrent Multi-access Data Structures.	Adones Rukundo,Aras Atalar,Philippas Tsigas	10.1145/3490148.3538578
+Many Sequential Iterative Algorithms Can Be Parallel and (Nearly) Work-efficient.	Zheqi Shen,Zijin Wan,Yan Gu 0001,Yihan Sun 0001	10.1145/3490148.3538574
+Brief Announcement: On the I/O Complexity of Sequential and Parallel Hybrid Integer Multiplication Algorithms.	Lorenzo De Stefani	10.1145/3490148.3538551
+Keynote Talk: Algorithm Improvement: How Fast Has It Been and How Much Farther Can It Go?	Neil Thompson	10.1145/3490148.3538596
+Brief Announcement: Fast(er) Construction of Round-optimal n-Block Broadcast Schedules.	Jesper Larsson Träff	10.1145/3490148.3538560
+Parallel Batch-Dynamic Minimum Spanning Forest and the Efficiency of Dynamic Agglomerative Graph Clustering.	Tom Tseng,Laxman Dhulipala,Julian Shun	10.1145/3490148.3538584
+Brief Announcement: Towards a More Robust Algorithm for Flow Time Scheduling with Predictions.	Tianming Zhao 0002,Chunhao Li,Wei Li 0058,Albert Y. Zomaya	10.1145/3490148.3538557
+SPAA &apos;22: 34th ACM Symposium on Parallelism in Algorithms and Architectures, Philadelphia, PA, USA, July 11 - 14, 2022	Kunal Agrawal,I-Ting Angelina Lee	10.1145/3490148

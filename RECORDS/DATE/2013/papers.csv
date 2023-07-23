@@ -1,0 +1,362 @@
+System and circuit level power modeling of energy-efficient 3D-stacked wide I/O DRAMs.	Karthik Chandrasekar 0001,Christian Weis,Benny Akesson,Norbert Wehn,Kees Goossens	10.7873/DATE.2013.061
+Verifying safety and liveness for the FlexTM hybrid transactional memory.	Parosh Aziz Abdulla,Sandhya Dwarkadas,Ahmed Rezine,Arrvindh Shriraman,Yunyun Zhu	10.7873/DATE.2013.167
+Utility-aware deferred load balancing in the cloud driven by dynamic pricing of electricity.	Muhammad Abdullah Adnan,Rajesh Gupta 0001	10.7873/DATE.2013.066
+Runtime verification of nonlinear analog circuits using incremental time-augmented RRT algorithm.	Seyed Nematollah Ahmadyan,Jayanand Asok Kumar,Shobha Vasudevan	10.7873/DATE.2013.019
+Reachability analysis of nonlinear analog circuits through iterative reachable set reduction.	Seyed Nematollah Ahmadyan,Shobha Vasudevan	10.7873/DATE.2013.293
+Reliability analysis reloaded: how will we survive?	Robert C. Aitken,Görschwin Fey,Zbigniew T. Kalbarczyk,Frank Reichenbach,Matteo Sonza Reorda	10.7873/DATE.2013.084
+An efficient network on-chip architecture based on isolating local and non-local communications.	Vahideh Akhlaghi,Mehdi Kamal,Ali Afzali-Kusha,Massoud Pedram	10.7873/DATE.2013.082
+Optimizing remote accesses for offloaded kernels: application to high-level synthesis for FPGA.	Christophe Alias,Alain Darte,Alexandru Plesco	10.7873/DATE.2013.127
+Automatic success tree-based reliability analysis for the consideration of transient and permanent faults.	Hananeh Aliee,Michael Glaß,Felix Reimann,Jürgen Teich	10.7873/DATE.2013.329
+Biconditional BDD: a novel canonical BDD for logic synthesis targeting XOR-rich circuits.	Luca Gaetano Amarù,Pierre-Emmanuel Gaillardon,Giovanni De Micheli	10.7873/DATE.2013.211
+Control-quality driven design of cyber-physical systems with robustness guarantees.	Amir Aminifar,Petru Eles,Zebo Peng,Anton Cervin	10.7873/DATE.2013.230
+Breaking the energy barrier in fault-tolerant caches for multicore systems.	Paul Ampadu,Meilin Zhang,Vladimir Stojanovic	10.7873/DATE.2013.157
+Low cost permanent fault detection using ultra-reduced instruction set co-processors.	Sundaram Ananthanarayanan,Siddharth Garg,Hiren D. Patel	10.7873/DATE.2013.196
+Proactive aging management in heterogeneous NoCs through a criticality-driven routing approach.	Dean Michael Ancajas,Koushik Chakraborty,Sanghamitra Roy	10.7873/DATE.2013.215
+HW-SW integration for energy-efficient/variability-aware computing.	Gasser Ayad,Andrea Acquaviva,Enrico Macii,Brahim Sahbi,Romain Lemaire	10.7873/DATE.2013.133
+Using cubes of non-state variables with property directed reachability.	John D. Backes,Marc D. Riedel	10.7873/DATE.2013.171
+Automatic and efficient heap data management for limited local memory multicore architectures.	Ke Bai,Aviral Shrivastava	10.7873/DATE.2013.130
+LFSR seed computation and reduction using SMT-based fault-chaining.	Dhrumeel Bakshi,Michael S. Hsiao	10.7873/DATE.2013.226
+Modeling and analysis of fault-tolerant distributed memories for networks-on-chip.	Abbas BanaiyanMofrad,Nikil D. Dutt,Gustavo Girão	10.7873/DATE.2013.326
+Multispeculative additive trees in high-level synthesis.	Alberto A. Del Barrio,Román Hermida,Seda Ogrenci Memik,Jose Manuel Mendias,María C. Molina	10.7873/DATE.2013.052
+An EDA-friendly protection scheme against side-channel attacks.	Ali Galip Bayrak,Nikola Velickovic,Francesco Regazzoni 0001,David Novo,Philip Brisk,Paolo Ienne	10.7873/DATE.2013.093
+Metastability challenges for 65nm and beyond: simulation and measurements.	Salomon Beer,Ran Ginosar,Jerome Cox,Tom Chaney,David M. Zar	10.7873/DATE.2013.268
+Ultra-wide voltage range designs in fully-depleted silicon-on-insulator FETs.	Edith Beigné,Alexandre Valentian,Bastien Giraud,Olivier Thomas,Thomas Benoist,Yvain Thonnart,Serge Bernard,Guillaume Moritz,Olivier Billoint,Y. Maneglia,Philippe Flatresse,Jean-Philippe Noel,Fady Abouzeid,Bertrand Pelloux-Prayer,Anuj Grover,Sylvain Clerc,Philippe Roche,Julien Le Coz,Sylvain Engels,Robin Wilson	10.7873/DATE.2013.135
+Core minimization in SAT-based abstraction.	Anton Belov,Huan Chen 0001,Alan Mishchenko,João Marques-Silva 0001	10.7873/DATE.2013.288
+On-line functionally untestable fault identification in embedded processor cores.	Paolo Bernardi,Michele Bonazza,Ernesto Sánchez 0001,Matteo Sonza Reorda,Oscar Ballan	10.7873/DATE.2013.298
+Minimization of P-circuits using Boolean relations.	Anna Bernasconi 0001,Valentina Ciriani,Gabriella Trucco,Tiziano Villa	10.7873/DATE.2013.208
+On the use of GP-GPUs for accelerating compute-intensive EDA applications.	Valeria Bertacco,Debapriya Chatterjee,Nicola Bombieri,Franco Fummi,Sara Vinco,Anirudh M. Kaushik,Hiren D. Patel	10.7873/DATE.2013.279
+STT-RAM designs supporting dual-port accesses.	Xiuyuan Bi,Mohamed Anis Weldon,Hai Li 0001	10.7873/DATE.2013.180
+MALEC: a multiple access low energy cache.	Matthias Boettcher,Giacomo Gabrielli,Bashir M. Al-Hashimi,Danny Kershaw	10.7873/DATE.2013.085
+Leveraging sensitivity analysis for fast, accurate estimation of SRAM dynamic write VMIN.	James Boley,Vikas Chandra,Robert C. Aitken,Benton H. Calhoun	10.7873/DATE.2013.364
+System-level modeling of energy in TLM for early validation of power and thermal management.	Tayeb Bouhadiba,Matthieu Moy,Florence Maraninchi	10.7873/DATE.2013.327
+Support for dynamic issue width in VLIW processors using generic binaries.	Anthony Brandon,Stephan Wong	10.7873/DATE.2013.175
+A methodology for embedded classification of heartbeats using random projections.	Rubén Braojos,Giovanni Ansaloni,David Atienza	10.7873/DATE.2013.189
+Event density analysis for event triggered control systems.	Tobias Bund,Benjamin Menhorn,Frank Slomka	10.7873/DATE.2013.233
+Enabling fine-grained OpenMP tasking on tightly-coupled shared memory clusters.	Paolo Burgio,Giuseppe Tagliavini,Andrea Marongiu,Luca Benini	10.7873/DATE.2013.306
+Optimization techniques for craig interpolant compaction in unbounded model checking.	Gianpiero Cabodi,Carmelo Loiacono,Danilo Vendraminetto	10.7873/DATE.2013.289
+Threshold voltage distribution in MLC NAND flash memory: characterization, analysis, and modeling.	Yu Cai,Erich F. Haratsch,Onur Mutlu,Ken Mai	10.7873/DATE.2013.266
+Multi-pumping for resource reduction in FPGA high-level synthesis.	Andrew Canis,Jason Helge Anderson,Stephen Dean Brown	10.7873/DATE.2013.053
+Capturing vulnerability variations for register files.	Javier Carretero,Enric Herrero,Matteo Monchiero,Tanausú Ramírez,Xavier Vera	10.7873/DATE.2013.299
+An open platform for mixed-criticality real-time ethernet.	Gonzalo Carvajal,Sebastian Fischmeister	10.7873/DATE.2013.044
+Panel: &quot;will 3D-IC remain a technology of the future... even in the future?&quot;.	Marco Casale-Rossi,Patrick Leduc,Giovanni De Micheli,Patrick Blouet,Brendan Farley,Anna Fontanelli,Dragomir Milojevic,Steve Smith	
+Panel: the heritage of Mead &amp; Conway: what has remained the same, what was missed, what has changed, what lies ahead.	Marco Casale-Rossi,Alberto L. Sangiovanni-Vincentelli,Luca P. Carloni,Bernard Courtois,Hugo De Man,Antun Domic,Jan M. Rabaey	
+On-line testing of permanent radiation effects in reconfigurable systems.	Luca Cassano,Dario Cozzi,Sebastian Korf,Jens Hagemeyer,Mario Porrmann,Luca Sterpone	10.7873/DATE.2013.154
+Scheduling independent liveness analysis for register binding in high level synthesis.	Vito Giovanni Castellana,Fabrizio Ferrandi	10.7873/DATE.2013.319
+Fast and accurate BER estimation methodology for I/O links based on extreme value theory.	Alessandro Cevrero,Nestor E. Evmorfopoulos,Charalampos Antoniadis,Paolo Ienne,Yusuf Leblebici,Andreas Burg,Georgios I. Stamoulis	10.7873/DATE.2013.114
+Trojan detection via delay measurements: a new approach to select paths and vectors to maximize effectiveness and minimize cost.	Byeongju Cha,Sandeep K. Gupta	10.7873/DATE.2013.262
+Time- and angle-triggered real-time kernel.	Damien Chabrol,Didier Roux,Vincent David,Mathieu Jan,Moha Ait Hmid,Patrice Oudin,Gilles Zeppa	10.7873/DATE.2013.223
+Impact of adaptive voltage scaling on aging-aware signoff.	Tuck-Boon Chan,Wei-Ting Jonas Chan,Andrew B. Kahng	10.7873/DATE.2013.340
+Space sensitive cache dumping for post-silicon validation.	Sandeep Chandran,Smruti R. Sarangi,Preeti Ranjan Panda	10.7873/DATE.2013.113
+Process-variation-aware Iddq diagnosis for nano-scale CMOS designs - the first step.	Chia-Ling Chang,Charles H.-P. Wen,Jayanta Bhadra	10.7873/DATE.2013.101
+Enhancing multicore reliability through wear compensation in online assignment and scheduling.	Thidapat Chantem,Xiang Yun,Xiaobo Sharon Hu,Robert P. Dick	10.7873/DATE.2013.281
+Optimized out-of-order parallel discrete event simulation using predictions.	Weiwei Chen 0001,Rainer Dömer	10.7873/DATE.2013.016
+Energy optimization with worst-case deadline guarantee for pipelined multiprocessor systems.	Gang Chen 0023,Kai Huang 0001,Christian Buckl,Alois C. Knoll	10.7873/DATE.2013.024
+Dual-addressing memory architecture for two-dimensional memory access patterns.	Yen-Hao Chen,Yi-Yu Liu	10.7873/DATE.2013.029
+High-level modeling and synthesis for embedded FPGAs.	Xiaolin Chen,Shuai Li,Jochen Schleifer,Thomas Coenen,Anupam Chattopadhyay,Gerd Ascheid,Tobias G. Noll	10.7873/DATE.2013.318
+System-level modeling and microprocessor reliability analysis for backend wearout mechanisms.	Chang-Chih Chen,Linda Milor	10.7873/DATE.2013.328
+SMART: a single-cycle reconfigurable NoC for SoC applications.	Chia-Hsin Owen Chen,Sunghyun Park 0002,Tushar Krishna,Suvinay Subramanian,Anantha P. Chandrakasan,Li-Shiuan Peh	10.7873/DATE.2013.080
+A SPICE-compatible model of graphene nano-ribbon field-effect transistors enabling circuit-level delay and power analysis under process variation.	Ying-Yu Chen,Artem Rogachev,Amit Sangai,Giuseppe Iannaccone,Gianluca Fiori,Deming Chen	10.7873/DATE.2013.359
+Automatic circuit sizing technique for the analog circuits with flexible TFTs considering process variation and bending effects.	Yen-Lung Chen,Wan-Rong Wu,Guan-Ruei Lu,Chien-Nan Jimmy Liu	10.7873/DATE.2013.297
+Resource-constrained high-level datapath optimization in ASIP design.	Yuankai Chen,Hai Zhou	10.7873/DATE.2013.054
+On reconfigurable single-electron transistor arrays synthesis using reordering techniques.	Chang-En Chiang,Li-Fu Tang,Chun-Yao Wang,Ching-Yi Huang,Yung-Chih Chen,Suman Datta,Vijaykrishnan Narayanan	10.7873/DATE.2013.362
+Efficient and scalable OpenMP-based system-level design.	Alessandro Cilardo,Luca Gallo,Antonino Mazzeo,Nicola Mazzocca	10.7873/DATE.2013.206
+From embedded multi-core SoCs to scale-out processors.	Marcello Coppola,Babak Falsafi,John Goodacre,George Kornaros	10.7873/DATE.2013.199
+A parallel fast transform-based preconditioning approach for electrical-thermal co-simulation of power delivery networks.	Konstantis Daloukas,Alexia Marnari,Nestor E. Evmorfopoulos,Panagiota E. Tsompanopoulou,George I. Stamoulis	10.7873/DATE.2013.341
+CARS: congestion-aware request scheduler for network interfaces in NoC-based manycore systems.	Masoud Daneshtalab,Masoumeh Ebrahimi,Juha Plosila,Hannu Tenhunen	10.7873/DATE.2013.218
+SoC low-power practices for wireless applications.	Nicolas Darbel,Stéphane Lecomte	10.7873/DATE.2013.165
+Reliability-driven task mapping for lifetime extension of networks-on-chip based multiprocessor systems.	Anup Das 0001,Akash Kumar 0001,Bharadwaj Veeravalli	10.7873/DATE.2013.149
+Communication and migration energy aware design space exploration for multicore systems with intermittent faults.	Anup Das 0001,Akash Kumar 0001,Bharadwaj Veeravalli	10.7873/DATE.2013.331
+Near-threshold voltage design in nanoscale CMOS.	Vivek De	10.7873/DATE.2013.134
+Machine learning-based anomaly detection for post-silicon bug diagnosis.	Andrew DeOrio,Qingkun Li,Matthew Burgess,Valeria Bertacco	10.7873/DATE.2013.112
+Electrical calibration of spring-mass MEMS capacitive accelerometers.	Lingfei Deng,Vinay Kundur,Naveen Sai Jangala Naga,Muhlis Kenan Ozel,Ender Yilmaz,Sule Ozev,Bertan Bakkaloglu,Sayfe Kiaei,Divya Pratab,Tehmoor Dar	10.7873/DATE.2013.126
+Non-invasive pre-bond TSV test using ring oscillators and multiple voltage levels.	Sergej Deutsch,Krishnendu Chakrabarty	10.7873/DATE.2013.225
+Wireless sensor network simulation for security and performance analysis.	Álvaro Díaz Suárez,Pablo Sánchez Espeso,Juan Sancho,Juan Rico	10.7873/DATE.2013.097
+Switch folding: network-on-chip routers with time-multiplexed output ports.	Giorgos Dimitrakopoulos,N. Georgiadis,Chrysostomos Nicopoulos,Emmanouil Kalligeros	10.7873/DATE.2013.081
+SCC thermal model identification via advanced bias-compensated least-squares.	Roberto Diversi,Andrea Bartolini,Andrea Tilli,Francesco Beneventi,Luca Benini	10.7873/DATE.2013.060
+Synchronizing code execution on ultra-low-power embedded multi-channel signal analysis platforms.	Ahmed Yasir Dogan,Rubén Braojos,Jeremy Constantin,Giovanni Ansaloni,Andreas Burg,David Atienza	10.7873/DATE.2013.090
+3D integration for power-efficient computing.	Denis Dutoit,Eric Guthmuller,Ivan Miro Panades	10.7873/DATE.2013.166
+Fault-tolerant routing algorithm for 3D NoC using Hamiltonian path strategy.	Masoumeh Ebrahimi,Masoud Daneshtalab,Juha Plosila	10.7873/DATE.2013.325
+A dual grain hit-miss detector for large die-stacked DRAM caches.	Michel El-Nacouzi,Islam Atta,Myrto Papadopoulou,Jason Zebchuk,Natalie D. Enright Jerger,Andreas Moshovos	10.7873/DATE.2013.032
+FBLT: a real-time contention manager with improved schedulability.	Mohammed El-Shambakey,Binoy Ravindran	10.7873/DATE.2013.273
+A novel concurrent cache-friendly binary decision diagram construction for multi-core platforms.	Mahmoud Elbayoumi,Michael S. Hsiao,Mustafa Y. ElNainay	10.7873/DATE.2013.291
+Closed-loop control for power and thermal management in multi-core processors: formal methods and industrial practice.	Ibrahim M. Elfadel,Radu Marculescu,David Atienza	10.7873/DATE.2013.374
+Towards performance analysis of SDFGs mapped to shared-bus architectures using model-checking.	Maher Fakih,Kim Grüttner,Martin Fränzle,Achim Rettberg	10.7873/DATE.2013.243
+An automatic tool flow for the combined implementation of multi-mode circuits.	Brahim Al Farisi,Karel Bruneel,João M. P. Cardoso,Dirk Stroobandt	10.7873/DATE.2013.174
+Large-scale flip-chip power grid reduction with geometric templates.	Zhuo Feng	10.7873/DATE.2013.339
+Wireless interconnect for board and chip level.	Gerhard P. Fettweis,Najeeb ul Hassan,Lukas Landau,Erik Fischer	10.7873/DATE.2013.201
+Incorporating the impacts of workload-dependent runtime variations into timing analysis.	Farshad Firouzi,Saman Kiamehr,Mehdi Baradaran Tahoori,Sani R. Nassif	10.7873/DATE.2013.213
+Explicit transient thermal simulation of liquid-cooled 3D ICs.	Alain Fourmigue,Giovanni Beltrame,Gabriela Nicolescu	10.7873/DATE.2013.283
+On-the-fly verification of memory consistency with concurrent relaxed scoreboards.	Leandro S. Freitas,Eberle A. Rambo,Luiz C. V. dos Santos	10.7873/DATE.2013.138
+Vertically-stacked double-gate nanowire FETs with controllable polarity: from devices to regular ASICs.	Pierre-Emmanuel Gaillardon,Luca Gaetano Amarù,Shashikanth Bobba,Michele De Marchi,Davide Sacchetto,Yusuf Leblebici,Giovanni De Micheli	10.7873/DATE.2013.137
+Quality-aware media scheduling on MPSoC platforms.	Deepak Gangadharan,Samarjit Chakraborty,Roger Zimmermann	10.7873/DATE.2013.204
+A new paradigm for trading off yield, area and performance to enhance performance per wafer.	Yue Gao,Melvin A. Breuer,Yanzhi Wang	10.7873/DATE.2013.353
+Using explicit output comparisons for fault tolerant scheduling (FTS) on modern high-performance processors.	Yue Gao,Sandeep K. Gupta,Melvin A. Breuer	10.7873/DATE.2013.195
+Role of design in multiple patterning: technology development, design enablement and process control.	Rani S. Ghaida,Puneet Gupta 0001	10.7873/DATE.2013.076
+A transition-signaling bundled data NoC switch architecture for cost-effective GALS multicore systems.	Alberto Ghiribaldi,Davide Bertozzi,Steven M. Nowick	10.7873/DATE.2013.079
+Stochastic degradation modeling and simulation for analog integrated circuits in nanometer CMOS.	Georges G. E. Gielen,Elie Maricau	10.7873/DATE.2013.078
+Exploring resource mapping policies for dynamic clustering on NoC-based MPSoCs.	Gustavo Girão,Thiago Santini,Flávio Rech Wagner	10.7873/DATE.2013.147
+FPGA latency optimization using system-level transformations and DFG restructuring.	Daniel Gomez-Prado,Maciej J. Ciesielski,Russell Tessier	10.7873/DATE.2013.316
+Architecture and optimal configuration of a real-time multi-channel memory controller.	Manil Dev Gomony,Benny Akesson,Kees Goossens	10.7873/DATE.2013.270
+Conservative open-page policy for mixed time-criticality memory controllers.	Sven Goossens,Benny Akesson,Kees Goossens	10.7873/DATE.2013.118
+Multirate controller design for resource- and schedule-constrained automotive ECUs.	Dip Goswami,Alejandro Masrur,Reinhard Schneider 0001,Chun Jason Xue,Samarjit Chakraborty	10.7873/DATE.2013.235
+Bridging the gap between dual propagation and CNF-based QBF solving.	Alexandra Goultiaeva,Martina Seidl,Armin Biere	10.7873/DATE.2013.172
+Innovative energy storage solutions for future electromobility in smart cities.	Kevin Green,Salvador Rodríguez González,Ruud Wijtvliet	10.7873/DATE.2013.348
+Ultra-low power: an EDA challenge.	Christoph Grimm 0001,Javier Moreno 0003,Xiao Pan	
+FIFO cache analysis for WCET estimation: a quantitative approach.	Nan Guan,Xinping Yang,Mingsong Lv,Wang Yi 0001	10.7873/DATE.2013.073
+DA-RAID-5: a disturb aware data protection technique for NAND flash storage systems.	Jie Guo 0002,Wujie Wen,Yaojun Zhang,Sicheng Li,Hai Li 0001,Yiran Chen 0001	10.7873/DATE.2013.087
+Low cost power failure protection for MLC NAND flash storage systems with PRAM/DRAM hybrid buffer.	Jie Guo 0002,Jun Yang 0002,Youtao Zhang,Yiran Chen 0001	10.7873/DATE.2013.181
+Self-aware cyber-physical systems and applications in smart buildings and cities.	Levent Gürgen,Ozan Necati Günalp,Yazid Benazzouz,Mathieu Gallissot	10.7873/DATE.2013.240
+Reliability challenges of real-time systems in forthcoming technology nodes.	Said Hamdioui,Michael Nicolaidis,Dimitris Gizopoulos,Arnaud Grasset,Guido Groeseneken,Philippe Bonnot 0001	10.7873/DATE.2013.040
+Adaptive cache management for a combined SRAM and DRAM cache hierarchy for multi-cores.	Fazal Hameed,Lars Bauer,Jörg Henkel	10.7873/DATE.2013.030
+Compiling control-intensive loops for CGRAs with state-based full predication.	Kyuseung Han,Kiyoung Choi,Jongeun Lee	10.7873/DATE.2013.321
+Automotive ethernet: in-vehicle networking and smart mobility.	Peter Hank,Steffen Müller,Ovidiu Vermesan,Jeroen Van den Keybus	10.7873/DATE.2013.349
+Sequentially constructive concurrency: a conservative extension of the synchronous model of computation.	Reinhard von Hanxleden,Michael Mendler,Joaquín Aguado,Björn Duderstadt,Insa Fuhrmann,Christian Motika,Stephen Mercer,Owen O&apos;Brien	10.7873/DATE.2013.128
+Instruction-set extension under process variation and aging effects.	Yuko Hara-Azumi,Farshad Firouzi,Saman Kiamehr,Mehdi Baradaran Tahoori	10.7873/DATE.2013.051
+Formal analysis of steady state errors in feedback control systems using HOL-light.	Osman Hasan,Muhammad Ahmad	10.7873/DATE.2013.290
+Utilizing voltage-frequency islands in C-to-RTL synthesis for streaming applications.	Xinyu He,Shuangchen Li,Yongpan Liu,Xiaobo Sharon Hu,Huazhong Yang	10.7873/DATE.2013.207
+Reliability analysis for integrated circuit amplifiers used in neural measurement systems.	Nico Hellwege,Nils Heidmann,Dagmar Peters-Drolshagen,Steffen Paul	10.7873/DATE.2013.153
+Fast and accurate TLM simulations using temporal decoupling for FIFO-based communications.	Claude Helmstetter,Jérôme Cornet,Bruno Galilée,Matthieu Moy,Pascal Vivet	10.7873/DATE.2013.246
+Accurate QBF-based test pattern generation in presence of unknown values.	Stefan Hillebrecht,Michael A. Kochte,Dominik Erb,Hans-Joachim Wunderlich,Bernd Becker 0001	10.7873/DATE.2013.098
+AVICA: an access-time variation insensitive L1 cache architecture.	Seokin Hong,Soontae Kim	10.7873/DATE.2013.028
+Addressing the healthcare cost dilemma by managing health instead of managing illness: an opportunity for wearable wireless sensors.	Chris Van Hoof,Julien Penders	10.7873/DATE.2013.312
+DANCE: distributed application-aware node configuration engine in shared reconfigurable sensor networks.	Chih-Ming Hsieh,Zhonglei Wang,Jörg Henkel	10.7873/DATE.2013.177
+Fault detection, real-time error recovery, and experimental demonstration for digital microfluidic biochips.	Kai Hu 0003,Bang-Ning Hsu,Andrew Madison,Krishnendu Chakrabarty,Richard B. Fair	10.7873/DATE.2013.124
+High-sensitivity hardware trojan detection using multimodal characterization.	Kangqiao Hu,Abdullah Nazma Nowroz,Sherief Reda,Farinaz Koushanfar	10.7873/DATE.2013.263
+Orchestrator: a low-cost solution to reduce voltage emergencies for multi-threaded applications.	Xing Hu 0001,Guihai Yan,Yu Hu 0001,Xiaowei Li 0001	10.7873/DATE.2013.056
+Software enabled wear-leveling for hybrid PCM main memory on embedded systems.	Jingtong Hu,Qingfeng Zhuge,Chun Jason Xue,Wei-Che Tseng,Edwin Hsing-Mean Sha	10.7873/DATE.2013.131
+Handling discontinuous effects in modeling spatial correlation of wafer-level analog/RF tests.	Ke Huang 0001,Nathan Kupp,John M. Carulli Jr.,Yiorgos Makris	10.7873/DATE.2013.123
+A fast and Effective DFT for test and diagnosis of power switches in SoCs.	Xiaoyu Huang,Jimson Mathew,Rishad A. Shafik,Subhasis Bhattacharjee,Dhiraj K. Pradhan	10.7873/DATE.2013.229
+A cost-effective selective TMR for heterogeneous coarse-grained reconfigurable architectures based on DFG-level vulnerability analysis.	Takashi Imagawa,Hiroshi Tsutsui,Hiroyuki Ochi,Takashi Sato	10.7873/DATE.2013.151
+Pipelets: self-organizing software pipelines for many-core architectures.	Janmartin Jahn,Jörg Henkel	10.7873/DATE.2013.308
+Automated determination of top level control signals.	Rohit Kumar Jain,Praveen Tiwari,Soumen Ghosh	10.7873/DATE.2013.115
+Designing tightly-coupled extension units for the STxP70 processor.	Yves Janin,Valérie Bertin,Hervé Chauvet,Thomas Deruyter,Christophe Eichwald,Olivier-André Giraud,Vincent Lorquet,Thomas Thery	10.7873/DATE.2013.219
+Optimization of secure embedded systems with dynamic task sets.	Ke Jiang,Petru Eles,Zebo Peng	10.7873/DATE.2013.355
+Phœnix: reviving MLC blocks as SLC to extend NAND flash devices lifetime.	Xavier Jimenez,David Novo,Paolo Ienne	10.7873/DATE.2013.059
+Semiconductor technologies for smart mobility management.	Reiner John,Martin Schulz 0006,Ovidiu Vermesan,Kai Kriegel	10.7873/DATE.2013.352
+Extracting analytical nonlinear models from analog circuits by recursive vector fitting of transfer function trajectories.	Dimitri de Jonghe,Dirk Deschrijver,Tom Dhaene,Georges G. E. Gielen	10.7873/DATE.2013.295
+Using synchronization stalls in power-aware accelerators.	Ali Jooya,Amirali Baniasadi	10.7873/DATE.2013.091
+DeBAR: deflection based adaptive router with minimal buffering.	John Jose,Bhawna Nayak,Damarla Kranthi Kumar,Madhu Mutyam	10.7873/DATE.2013.322
+A gate level methodology for efficient statistical leakage estimation in complex 32nm circuits.	Smriti Joshi,Anne Lombardot,Marc Belleville,Edith Beigné,Stéphane Girard	10.7873/DATE.2013.221
+Qualification and testing process to implement anti-counterfeiting technologies into IC packages.	Nathalie Kae-Nune,Stephanie Pesseguier	10.7873/DATE.2013.237
+Active-mode leakage reduction with data-retained power gating.	Andrew B. Kahng,Seokhyeong Kang,Bongil Park	10.7873/DATE.2013.251
+Enhanced metamodeling techniques for high-dimensional IC design estimation problems.	Andrew B. Kahng,Bill Lin 0001,Siddhartha Nath	10.7873/DATE.2013.371
+Alternative power supply concepts for self-sufficient wireless sensor nodes by energy harvesting.	Robert Kappel,Günter Hofer,Gerald Holweg,Thomas Herndl	
+Model-based energy optimization of automotive control systems.	Joost-Pieter Katoen,Thomas Noll 0001,Hao Wu 0013,Thomas Santen,Dirk Seifert	10.7873/DATE.2013.162
+Testing for SoCs with advanced static and dynamic power-management capabilities.	Xrysovalantis Kavousianos,Krishnendu Chakrabarty	10.7873/DATE.2013.158
+DoE-based performance optimization of energy management in sensor nodes powered by tunable energy-harvesters.	Tom J. Kazmierski,Leran Wang,Bashir M. Al-Hashimi,Geoff V. Merrett	
+An H.264 Quad-FullHD low-latency intra video encoder.	Muhammad Usman Karim Khan,Jan Micha Borrmann,Lars Bauer,Muhammad Shafique 0001,Jörg Henkel	10.7873/DATE.2013.037
+Hardware-software collaborative complexity reduction scheme for the emerging HEVC intra encoder.	Muhammad Usman Karim Khan,Muhammad Shafique 0001,Mateus Grellert,Jörg Henkel	10.7873/DATE.2013.039
+Runtime power estimation of mobile AMOLED displays.	Dongwon Kim,Wonwoo Jung,Hojung Cha	10.7873/DATE.2013.027
+Correlation-aware virtual machine allocation for energy-efficient datacenters.	Jungsoo Kim,Martino Ruggiero,David Atienza,Marcel Lederberger	10.7873/DATE.2013.277
+Optimized scheduling of multi-IMA partitions with exclusive region for synchronized real-time multi-core systems.	Jung-Eun Kim,Man-Ki Yoon,Sungjin Im,Richard M. Bradford,Lui Sha	10.7873/DATE.2013.203
+MARTHA: architecture for control and emulation of power electronics and smart grid systems.	Michel A. Kinsy,Ivan Celanovic,Omer Khan,Srinivas Devadas	10.7873/DATE.2013.117
+Cyborg insects, neural interfaces and other things: building interfaces between the synthetic and the multicellular.	Joshua Paul van Kleef,Travis L. Massey,Peter Ledochowitsch,Rikky Muller,R. Tiefenauer,Timothy J. Blanche,Hirotaka Sato,Michel M. Maharbiz	10.7873/DATE.2013.314
+Supervisor synthesis for controller upgrades.	Johannes Kloos,Rupak Majumdar	10.7873/DATE.2013.232
+Exploiting replicated checkpoints for soft error detection and correction.	Fahrettin Koc,Kenan Bozdas,Burak Karsli,Oguz Ergin	10.7873/DATE.2013.304
+A near-future prediction method for low power consumption on a many-core processor.	Takeshi Kodaka,Akira Takeda,Shunsuke Sasaki,Akira Yokosawa,Toshiki Kizu,Takahiro Tokuyoshi,Hui Xu,Toru Sano,Hiroyuki Usui,Jun Tanabe,Takashi Miyamori,Nobu Matsumoto	10.7873/DATE.2013.222
+Memristor PUFs: a new generation of memory-based physically unclonable functions.	Patrick Koeberl,Ünal Koçabas,Ahmad-Reza Sadeghi	10.7873/DATE.2013.096
+Share with care: a quantitative evaluation of sharing approaches in high-level synthesis.	Alex Kondratyev,Luciano Lavagno,Mike Meyer,Yosinori Watanabe	10.7873/DATE.2013.315
+A cache design for probabilistically analysable real-time systems.	Leonidas Kosmidis,Jaume Abella 0001,Eduardo Quiñones,Francisco J. Cazorla	10.7873/DATE.2013.116
+Probabilistic timing analysis on conventional cache designs.	Leonidas Kosmidis,Charlie Curtsinger,Eduardo Quiñones,Jaume Abella 0001,Emery D. Berger,Francisco J. Cazorla	10.7873/DATE.2013.132
+Resource efficient computing for warehouse-scale datacenters.	Christos Kozyrakis	10.7873/DATE.2013.278
+A satisfiability approach to speed assignment for distributed real-time systems.	Pratyush Kumar,Devesh B. Chokshi,Lothar Thiele	10.7873/DATE.2013.160
+Crosstalk avoidance codes for 3D VLSI.	Rajeev Kumar,Sunil P. Khatri	10.7873/DATE.2013.338
+Data mining MPSoC simulation traces to identify concurrent memory access patterns.	Sofiane Lagraa,Alexandre Termier,Frédéric Pétrot	10.7873/DATE.2013.161
+SlackProbe: a low overhead in situ on-line timing slack monitoring methodology.	Liangzhen Lai,Vikas Chandra,Robert C. Aitken,Puneet Gupta 0001	10.7873/DATE.2013.070
+Scalable fault localization for SystemC TLM designs.	Hoang Minh Le 0001,Daniel Große,Rolf Drechsler	10.7873/DATE.2013.022
+Fast shared on-chip memory architecture for efficient hybrid computing with CGRAs.	Jongeun Lee,Yeonghun Jeong,Sungsok Seo	10.7873/DATE.2013.320
+An integrated approach for managing the lifetime of flash-based SSDs.	Sungjin Lee 0001,Taejin Kim,Jisung Park 0001,Jihong Kim 0001	10.7873/DATE.2013.309
+Design of low energy, high performance synchronous and asynchronous 64-point FFT.	William Lee,Vikas S. Vij,Anthony R. Thatcher,Kenneth S. Stevens	10.7873/DATE.2013.062
+NUMANA: a hybrid &lt;u&gt;num&lt;/u&gt;erical and &lt;u&gt;ana&lt;/u&gt;lytical thermal simulator for 3-D ICs.	Yu-Min Lee,Tsung-Heng Wu,Pei-Yu Huang,Chi-Ping Yang	10.7873/DATE.2013.282
+Anti-counterfeiting with hardware intrinsic security.	Vincent van der Leest,Pim Tuyls	10.7873/DATE.2013.238
+Is TSV-based 3D integration suitable for inter-die memory repair?	Mihai Lefter,George Razvan Voicu,Mottaqiallah Taouil,Marius Enachescu,Said Hamdioui,Sorin Dan Cotofana	10.7873/DATE.2013.259
+Energy-efficient in-memory database computing.	Wolfgang Lehner	10.7873/DATE.2013.105
+Optical look up table.	Zhen Li 0046,Sébastien Le Beux,Christelle Monat,Xavier Letartre,Ian O&apos;Connor	10.7873/DATE.2013.184
+A hybrid approach for fast and accurate trace signal selection for post-silicon debug.	Min Li,Azadeh Davoodi	10.7873/DATE.2013.111
+Cache coherence enabled adaptive refresh for volatile STT-RAM.	Jianhua Li 0003,Liang Shi,Qing&apos;an Li,Chun Jason Xue,Yiran Chen 0001,Yinlong Xu	10.7873/DATE.2013.258
+CSER: HW/SW configurable soft-error resiliency for application specific instruction-set processors.	Tuo Li 0001,Muhammad Shafique 0001,Semeen Rehman,Swarnalatha Radhakrishnan,Roshan G. Ragel,Jude Angelo Ambrose,Jörg Henkel,Sri Parameswaran	10.7873/DATE.2013.152
+SmartCap: user experience-oriented power adaptation for smartphone&apos;s application processor.	Xueliang Li 0004,Guihai Yan,Yinhe Han 0001,Xiaowei Li 0001	10.7873/DATE.2013.026
+Multi-level phase analysis for sampling simulation.	Jiaxin Li,Weihua Zhang,Haibo Chen 0001,Binyu Zang	10.7873/DATE.2013.141
+Dynamic configuration prefetching based on piecewise linear prediction.	Adrian Alin Lifa,Petru Eles,Zebo Peng	10.7873/DATE.2013.173
+Overcoming post-silicon validation challenges through quick error detection (QED).	David Lin,Ted Hong,Yanjing Li,Farzan Fallah,Donald S. Gardner,Nagib Hakim,Subhasish Mitra	10.7873/DATE.2013.077
+High-performance imaging subsystems and their integration in mobile devices.	Menno Lindwer,Mark Ruvald Pedersen	10.7873/DATE.2013.048
+Mutation analysis with coverage discounting.	Peter Lisherness,Nicole Lesperance,Kwang-Ting (Tim) Cheng	10.7873/DATE.2013.021
+A network-flow based algorithm for power density mitigation at post-placement stage.	Shih-Ying Sean Liu,Ren-Guo Luo,Hung-Ming Chen	10.7873/DATE.2013.344
+Effective power network prototyping via statistical-based clustering and sequential linear programming.	Shih-Ying Sean Liu,Chieh-Jui Lee,Chuan-Chia Huang,Hung-Ming Chen,Chang-Tzu Lin,Chia-Hsin Lee	10.7873/DATE.2013.343
+Radar signature in multiple target tracking system for driver assistant application.	Haisheng Liu,Smaïl Niar	10.7873/DATE.2013.187
+Fast and efficient lagrangian relaxation-based discrete gate sizing.	Vinicius S. Livramento,Chrystian Guth,José Luís Güntzel,Marcelo O. Johann	10.7873/DATE.2013.370
+Fast cone-of-influence computation and estimation in problems with multiple properties.	Carmelo Loiacono,Marco Palena,Paolo Pasini,Denis Patti,Stefano Quer,Stefano Ricossa,Danilo Vendraminetto,Jason Baumgartner	10.7873/DATE.2013.170
+Combining RAM technologies for hard-error recovery in L1 data caches working at very-low power modes.	Vicente Lorente,Alejandro Valero,Julio Sahuquillo,Salvador Petit,Ramon Canal,Pedro López 0001,José Duato	10.7873/DATE.2013.031
+An ultra-low power hardware accelerator architecture for wearable computers using dynamic time warping.	Reza Lotfian,Roozbeh Jafari	10.7873/DATE.2013.192
+Slack budgeting and slack to length converting for multi-bit flip-flop merging.	Chia-Chieh Lu,Rung-Bin Lin	10.7873/DATE.2013.367
+Fast cache simulation for host-compiled simulation of embedded software.	Kun Lu 0005,Daniel Mueller-Gritschneder,Ulf Schlichtmann	10.7873/DATE.2013.139
+Analytical timing estimation for temporally decoupled TLMs considering resource conflicts.	Kun Lu 0005,Daniel Mueller-Gritschneder,Ulf Schlichtmann	10.7873/DATE.2013.242
+Retiming for Soft Error Minimization Under Error-Latching Window Constraints.	Yinghai Lu,Hai Zhou	10.7873/DATE.2013.210
+Priority assignment for event-triggered systems using mathematical programming.	Martin Lukasiewycz,Sebastian Steinhorst,Samarjit Chakraborty	10.7873/DATE.2013.205
+Hypervised transient SPICE simulations of large netlists &amp; workloads on multi-processor systems.	Grigorios Lyras,Dimitrios Rodopoulos,Antonis Papanikolaou,Dimitrios Soudris	10.7873/DATE.2013.142
+Toward polychronous analysis and validation for timed software architectures in AADL.	Yue Ma 0004,Huafeng Yu,Thierry Gautier,Paul Le Guernic,Jean-Pierre Talpin,Loïc Besnard,Maurice Heitz	10.7873/DATE.2013.244
+UTBB FD-SOI: a process/design symbiosis for breakthrough energy-efficiency.	Philippe Magarshack,Philippe Flatresse,Giorgio Cesana	10.7873/DATE.2013.200
+Tuning dynamic data flow analysis to support design understanding.	Jan Malburg,Alexander Finder,Görschwin Fey	10.7873/DATE.2013.245
+Exploring topologies for source-synchronous ring-based network-on-chip.	Ayan Mandal,Sunil P. Khatri,Rabi N. Mahapatra	10.7873/DATE.2013.214
+AVF-driven parity optimization for MBU protection of in-core memory arrays.	Michail Maniatakos,Maria K. Michael,Yiorgos Makris	10.7873/DATE.2013.301
+Efficient cache architectures for reliable hybrid voltage operation using EDC codes.	Bojan Maric,Jaume Abella 0001,Mateo Valero	10.7873/DATE.2013.193
+Configurable I/O integration to reduce system-on-chip time to market: DDR, PCIe examples.	Frank Martin,Peter Bennett 0002	10.7873/DATE.2013.047
+Sustainable energy policies: research challenges and opportunities.	Michela Milano	10.7873/DATE.2013.239
+Formal verification of analog circuit parameters across variation utilizing SAT.	Merritt Miller,Forrest Brewer	10.7873/DATE.2013.294
+A verilog-a model for reconfigurable logic gates based on graphene pn-junctions.	Sandeep Miryala,Mehrdad Montazeri,Andrea Calimera,Enrico Macii,Massimo Poncino	10.7873/DATE.2013.185
+GLA: gate-level abstraction revisited.	Alan Mishchenko,Niklas Eén,Robert K. Brayton,Jason Baumgartner,Hari Mony,Pradeep Kumar Nalla	10.7873/DATE.2013.286
+A semi-canonical form for sequential AIGs.	Alan Mishchenko,Niklas Eén,Robert K. Brayton,Michael L. Case,Pankaj Chauhan,Nikhil Sharma	10.7873/DATE.2013.169
+A sub-μa power management circuit in 0.18μm CMOS for energy harvesters.	Biswajit Mishra,Cyril Botteron,Gabriele Tasselli,Christian Robert,Pierre-André Farine	10.7873/DATE.2013.249
+Adaptable, high performance energy harvesters: can energy harvesting deliver enough power for automotive electronics?	Paul D. Mitcheson	
+Towards adaptive test of multi-core RF SoCs.	Rajesh Mittal,Lakshmanan Balasubramanian,Y. B. Chethan Kumar,V. R. Devanathan,Mudasir Kawoosa,Rubin A. Parekhji	10.7873/DATE.2013.159
+Development of low power many-core SoC for multimedia applications.	Takashi Miyamori,Hui Xu,Takeshi Kodaka,Hiroyuki Usui,Toru Sano,Jun Tanabe	10.7873/DATE.2013.164
+Interactions of large scale EV mobility and virtual power plants.	Randolf Mock,Tullio Salmon Cinotti,Johannes Reinschke,Luciano Bononi	10.7873/DATE.2013.347
+Mempack: an order of magnitude reduction in the cost, risk, and time for memory compiler certification.	Kartik Mohanram,Matthew Wartell,Sundar Iyer	10.7873/DATE.2013.303
+Parallel programming with SystemC for loosely timed models: a non-intrusive approach.	Matthieu Moy	10.7873/DATE.2013.017
+A virtual prototyping platform for real-time systems with a case study for a two-wheeled robot.	Daniel Mueller-Gritschneder,Kun Lu 0005,Erik Wallander,Marc Greim,Ulf Schlichtmann	10.7873/DATE.2013.274
+Model predictive control over delay-based differentiated services control networks.	Riccardo Muradore,Davide Quaglia,Paolo Fiorini	10.7873/DATE.2013.234
+Parameterized area-efficient multi-standard turbo decoder.	Purushotham Murugappa,Amer Baghdadi,Michel Jézéquel	10.7873/DATE.2013.036
+Efficient software-based fault tolerance approach on multicore platforms.	Hamid Mushtaq,Zaid Al-Ars,Koen Bertels	10.7873/DATE.2013.194
+The RecoBlock SoC platform: a flexible array of reusable run-time-reconfigurable IP-blocks.	Byron Navas,Ingo Sander,Johnny Öberg	10.7873/DATE.2013.176
+Timing analysis of multi-mode applications on AUTOSAR conform multi-core systems.	Mircea Negrean,Sebastian Klawitter,Rolf Ernst	10.7873/DATE.2013.074
+Sensitivity analysis for arbitrary activation patterns in real-time systems.	Moritz Neukirchner,Sophie Quinton,Tobias Michaels,Philip Axer,Rolf Ernst	10.7873/DATE.2013.041
+An automated parallel simulation flow for heterogeneous embedded systems.	Seyed-Hosein Attarzadeh-Niaki,Ingo Sander	10.7873/DATE.2013.020
+Memory array protection: check on read or check on write?	Panagiota Nikolaou,Yiannakis Sazeides,Lorena Ndreu,Emre Özer,Sachin Idgunji	10.7873/DATE.2013.057
+D-MRAM cache: enhancing energy efficiency with 3T-1MTJ DRAM/MRAM hybrid memory.	Hiroki Noguchi,Kumiko Nomura,Keiko Abe,Shinobu Fujita,Eishi Arima,Kyundong Kim,Takashi Nakada,Shinobu Miwa,Hiroshi Nakamura	10.7873/DATE.2013.363
+Accuracy vs speed tradeoffs in the estimation of fixed-point errors on linear time-invariant systems.	David Novo,Sara El Alaoui,Paolo Ienne	10.7873/DATE.2013.018
+Future of GPGPU micro-architectural parameters.	Cedric Nugteren,Gert-Jan van den Braak,Henk Corporaal	10.7873/DATE.2013.089
+A practical testing framework for isolating hardware timing channels.	Jason Oberg,Sarah Meiklejohn,Timothy Sherwood,Ryan Kastner	10.7873/DATE.2013.265
+MTTF-balanced pipeline design.	Fabian Oboril,Mehdi Baradaran Tahoori	10.7873/DATE.2013.068
+ARTM: a lightweight fork-join framework for many-core embedded systems.	Maroun Ojail,Raphaël David,Yves Lhuillier,Alexandre Guerre	10.7873/DATE.2013.307
+Electronic implants: power delivery and management.	Jacopo Olivo,Sara S. Ghoreishizadeh,Sandro Carrara,Giovanni De Micheli	10.7873/DATE.2013.313
+Systematic design of nanomagnet logic circuits.	Indranil Palit,Xiaobo Sharon Hu,Joseph Nahas,Michael T. Niemier	10.7873/DATE.2013.360
+PAGE: parallel agile genetic exploration towards utmost performance for analog circuit design.	Po-Cheng Pan,Hung-Ming Chen,Chien-Chih Lin	10.7873/DATE.2013.369
+Improving simulation speed and accuracy for many-core embedded platforms with ensemble models.	Edoardo Paone,Nazanin Vahabi,Vittorio Zaccaria,Cristina Silvano,Diego Melpignano,Germain Haugou,Thierry Lepley	10.7873/DATE.2013.145
+Non-speculative double-sampling technique to increase energy-efficiency in a high-performance processor.	Junyoung Park,Ameya Chaudhari,Jacob A. Abraham	10.7873/DATE.2013.064
+40.4fJ/bit/mm low-swing on-chip signaling with self-resetting logic repeaters embedded within a mesh NoC in 45nm SOI CMOS.	Sunghyun Park 0002,Masood Qazi,Li-Shiuan Peh,Anantha P. Chandrakasan	10.7873/DATE.2013.332
+Mitigating dark-silicon problems using superlattice-based thermoelectric coolers.	Francesco Paterna,Sherief Reda	10.7873/DATE.2013.284
+Creating a sustainable information and communication infrastructure.	Massoud Pedram	10.7873/DATE.2013.015
+Design of an ultra-low power device for aircraft structural health monitoring.	Alessandro Perelli,Carlo Caione,Luca De Marchi,Davide Brunelli,Alessandro Marzani,Luca Benini	10.7873/DATE.2013.236
+Hybrid interconnect design for heterogeneous hardware accelerators.	Cuong Pham-Quoc,Jan Heisswolf,Stephan Werner 0002,Zaid Al-Ars,Jürgen Becker 0001,Koen Bertels	10.7873/DATE.2013.178
+Lemma localization: a practical method for downsizing SMT-interpolants.	Florian Pigorsch,Christoph Scholl 0001	10.7873/DATE.2013.287
+A fast and accurate methodology for power estimation and reduction of programmable architectures.	Erwan Piriou,Raphaël David,Fahim Rahim,Solaiman Rahim	10.7873/DATE.2013.220
+Development of a fully implantable recording system for ECoG signals.	Jonas Pistor,Janpeter Hoeffmann,David Rotermund,Elena Tolstosheeva,Tim Schellenberg,Dmitriy Boll,Víctor Gordillo-González,Sunita Mandon,Dagmar Peters-Drolshagen,Andreas K. Kreiter,Martin Schneider 0004,Walter Lang,Klaus Pawelzik,Steffen Paul	10.7873/DATE.2013.188
+Sufficient real-time analysis for an engine control unit with constant angular velocities.	Victor Pollex,Timo Feld,Frank Slomka,Ulrich Margull,Ralph Mader,Gerhard Wirrer	10.7873/DATE.2013.275
+On candidate fault sets for fault diagnosis and dominance graphs of equivalence classes.	Irith Pomeranz	10.7873/DATE.2013.228
+Error detection in ternary CAMs using bloom filters.	Salvatore Pontarelli,Marco Ottavi,Adrian Evans,Shi-Jie Wen	10.7873/DATE.2013.300
+Perpetual and low-cost power meter for monitoring residential and industrial appliances.	Danilo Porcarelli,Domenico Balsamo,Davide Brunelli,Giacomo Paci	10.7873/DATE.2013.241
+Design and implementation of an adaptive proactive reconfiguration technique for SRAM caches.	Peyman Pouyan,Esteve Amat,Francesc Moll,Antonio Rubio 0001	10.7873/DATE.2013.269
+SVR-NoC: a performance analysis tool for network-on-chips using learning-based support vector regression model.	Zhiliang Qian,Da-Cheng Juan,Paul Bogdan,Chi-Ying Tsui,Diana Marculescu,Radu Marculescu	10.7873/DATE.2013.083
+Formal analysis of sporadic bursts in real-time systems.	Sophie Quinton,Mircea Negrean,Rolf Ernst	10.7873/DATE.2013.163
+Cherry-picking: exploiting process variations in dark-silicon homogeneous chip multi-processors.	Bharathwaj Raghunathan,Yatish Turakhia,Siddharth Garg,Diana Marculescu	10.7873/DATE.2013.023
+Hierarchically focused guardbanding: an adaptive approach to mitigate PVT variations and aging.	Abbas Rahimi,Luca Benini,Rajesh K. Gupta 0001	10.7873/DATE.2013.342
+Variation-tolerant OpenMP tasking on tightly-coupled processor clusters.	Abbas Rahimi,Andrea Marongiu,Paolo Burgio,Rajesh K. Gupta 0001,Luca Benini	10.7873/DATE.2013.121
+Is split manufacturing secure?	Jeyavijayan Rajendran,Ozgur Sinanoglu,Ramesh Karri	10.7873/DATE.2013.261
+Experiences with mobile processors for energy efficient HPC.	Nikola Rajovic,Alejandro Rico,James Vipond,Isaac Gelado,Nikola Puzovic,Alex Ramírez	10.7873/DATE.2013.103
+Hot-swapping architecture with back-biased testing for mitigation of permanent faults in functional unit array.	Zoltán Endre Rákossy,Masayuki Hiromoto,Hiroshi Tsutsui,Takashi Sato,Yukihiro Nakamura,Hiroyuki Ochi	10.7873/DATE.2013.120
+Contrasting wavelength-routed optical NoC topologies for power-efficient 3D-stacked multicore processors using physical-layer analysis.	Luca Ramini,Paolo Grani,Sandro Bartolini,Davide Bertozzi	10.7873/DATE.2013.323
+An efficient wirelength model for analytical placement.	B. N. Bhramar Ray,Shankar Balachandran	10.7873/DATE.2013.345
+Leveraging variable function resilience for selective software reliability on unreliable hardware.	Semeen Rehman,Muhammad Shafique 0001,Pau Vilimelis Aceituno,Florian Kriebel,Jian-Jia Chen,Jörg Henkel	10.7873/DATE.2013.354
+Intuitive ECO synthesis for high performance circuits.	Haoxing Ren,Ruchir Puri,Lakshmi N. Reddy,Smita Krishnaswamy,Cindy Washburn,Joel Earl,Joachim Keinert	10.7873/DATE.2013.209
+A low-power and low-voltage BBPLL-based sensor interface in 130nm CMOS for wireless sensor networks.	Jelle Van Rethy,Hans Danneels,Valentijn De Smedt,Wim Dehaene,Georges G. E. Gielen	10.7873/DATE.2013.292
+Improving fault tolerance utilizing hardware-software-co-synthesis.	Heinz Riener,Stefan Frehse,Görschwin Fey	10.7873/DATE.2013.197
+Statically-scheduled application-specific processor design: a case-study on MMSE MIMO equalization.	Mostafa Rizk,Amer Baghdadi,Michel Jézéquel,Yasser Mohana,Youssef Atat	10.7873/DATE.2013.146
+Reducing writes in phase-change memory environments by using efficient cache replacement policies.	Roberto Rodríguez-Rodríguez,Fernando Castro,Daniel Chaver,Luis Piñuel,Francisco Tirado	10.7873/DATE.2013.033
+Roadmap towards ultimately-efficient zeta-scale datacenters.	Patrick W. Ruch,Thomas Brunschwiler,Stephan Paredes,Gerhard Ingmar Meijer,Bruno Michel	10.7873/DATE.2013.276
+Low complexity QR-decomposition architecture using the logarithmic number system.	Jochen Rust,Frank Ludwig,Steffen Paul	10.7873/DATE.2013.034
+A transparent and energy aware reconfigurable multiprocessor platform for simultaneous ILP and TLP exploitation.	Mateus B. Rutzig,Antonio Carlos Schneider Beck,Luigi Carro	10.7873/DATE.2013.317
+Hybrid prototyping of multicore embedded systems.	Ehsan Saboori,Samar Abdi	10.7873/DATE.2013.330
+Security challenges in automotive hardware/software architecture design.	Florian Sagstetter,Martin Lukasiewycz,Sebastian Steinhorst,Marko Wolf,Alexandre Bouard,William R. Harris,Somesh Jha,Thomas Peyrin,Axel Poschmann,Samarjit Chakraborty	10.7873/DATE.2013.102
+Energy-efficient memory hierarchy for motion and disparity estimation in multiview video coding.	Felipe Sampaio,Bruno Zatt,Muhammad Shafique 0001,Luciano Volcan Agostini,Sergio Bampi,Jörg Henkel	10.7873/DATE.2013.144
+Scan design with shadow flip-flops for low performance overhead and concurrent delay fault detection.	Sébastien Sarrazin,Samuel Evain,Lirida Alves de Barros Naviner,Yannick Bonhomme,Valentin Gherman	10.7873/DATE.2013.227
+Efficient SAT-based dynamic compaction and relaxation for longest sensitizable paths.	Matthias Sauer 0002,Sven Reimer,Tobias Schubert 0001,Ilia Polian,Bernd Becker 0001	10.7873/DATE.2013.100
+An extremely compact JPEG encoder for adaptive embedded systems.	Josef Schneider,Sri Parameswaran	10.7873/DATE.2013.224
+Compositional analysis of switched ethernet topologies.	Reinhard Schneider 0001,Licong Zhang,Dip Goswami,Alejandro Masrur,Samarjit Chakraborty	10.7873/DATE.2013.231
+Shared memory aware MPSoC software deployment.	Timo Schönwald,Alexander Viehl,Oliver Bringmann 0001,Wolfgang Rosenstiel	10.7873/DATE.2013.356
+A multi-level Monte Carlo FPGA accelerator for option pricing in the Heston model.	Christian de Schryver,Pedro Torruella,Norbert Wehn	10.7873/DATE.2013.063
+Determining relevant model elements for the verification of UML/OCL specifications.	Julia Seiter,Robert Wille,Mathias Soeken,Rolf Drechsler	10.7873/DATE.2013.247
+Reversible logic synthesis of k-input, m-output lookup tables.	Alireza Shafaei,Mehdi Saeedi,Massoud Pedram	10.7873/DATE.2013.256
+Self-adaptive hybrid dynamic power management for many-core systems.	Muhammad Shafique 0001,Benjamin Vogel,Jörg Henkel	10.7873/DATE.2013.025
+Bounding SDRAM interference: detailed analysis vs. latency-rate analysis.	Hardik Shah,Alois C. Knoll,Benny Akesson	10.7873/DATE.2013.075
+User-aware energy efficient streaming strategy for smartphone based video playback applications.	Hao Shen,Qinru Qiu	10.7873/DATE.2013.065
+SPaC: a segment-based parallel compression for backup acceleration in nonvolatile processors.	Xiao Sheng,Yiqun Wang,Yongpan Liu,Huazhong Yang	10.7873/DATE.2013.182
+An enhanced double-TSV scheme for defect tolerance in 3D-IC.	Hsiu-Chuan Shih,Cheng-Wen Wu	10.7873/DATE.2013.302
+An approach for redundancy in FlexRay networks using FPGA partial reconfiguration.	Shanker Shreejith,Kizheppatt Vipin,Suhaib A. Fahmy,Martin Lukasiewycz	10.7873/DATE.2013.155
+An area-efficient network interface for a TDM-based network-on-chip.	Jens Sparsø,Evangelia Kasapaki,Martin Schoeberl	10.7873/DATE.2013.217
+Performance analysis of HPC applications on low-power embedded platforms.	Luka Stanisic,Brice Videau,Johan Cronsioe,Augustin Degomme,Vania Marangozova-Martin,Arnaud Legrand,Jean-François Méhaut	10.7873/DATE.2013.106
+Optimizing BDDs for time-series dataset manipulation.	Stergios Stergiou,Jawahar Jain	10.7873/DATE.2013.212
+Sub-quadratic objectives in quadratic placement.	Markus Struzyna	10.7873/DATE.2013.372
+Defect-tolerant logic hardening for crossbar-based nanosystems.	Yehua Su,Wenjing Rao	10.7873/DATE.2013.361
+An elastic mixed-criticality task model and its scheduling algorithm.	Hang Su 0008,Dakai Zhu 0001	10.7873/DATE.2013.043
+Reverse engineering digital circuits using functional analysis.	Pramod Subramanyan,Nestan Tsiskaridze,Kanika Pasricha,Dillon Reisman,Adriana Susnea,Sharad Malik	10.7873/DATE.2013.264
+Adaptive reduction of the frequency search space for multi-vdd digital circuits.	Chandra K. H. Suresh,Ender Yilmaz,Sule Ozev,Ozgur Sinanoglu	10.7873/DATE.2013.072
+Sparse-rotary oscillator array (SROA) design for power and skew reduction.	Ying Teng,Baris Taskin	10.7873/DATE.2013.255
+An efficient and flexible hardware support for accelerating synchronization operations on the STHORM many-core architecture.	Farhat Thabet,Yves Lhuillier,Caaliph Andriamisaina,Jean-Marc Philippe,Raphaël David	10.7873/DATE.2013.119
+Comprehensive analysis of software countermeasures against fault attacks.	Nikolaus Theißing,Dominik Merli,Michael Smola,Frederic Stumpf,Georg Sigl	10.7873/DATE.2013.092
+Configurability in IP subystems: baseband examples.	Pierre-Xavier Thomas,Grant Martin,David Heine,Dennis Moolenaar,James Kim	10.7873/DATE.2013.046
+A spectral clustering approach to application-specific network-on-chip synthesis.	Vladimir Todorov,Daniel Mueller-Gritschneder,Helmut Reinig,Ulf Schlichtmann	10.7873/DATE.2013.358
+Co-synthesis of data paths and clock control paths for minimum-period clock gating.	Wen-Pin Tu,Shih-Hsu Huang,Chun-Hua Cheng	10.7873/DATE.2013.366
+Periodic jitter and bounded uncorrelated jitter decomposition using incoherent undersampling.	Nicholas Tzou,Debesh Bhatta,Sen-Wen Hsiao,Abhijit Chatterjee	10.7873/DATE.2013.337
+Area optimization on fixed analog floorplans using convex area functions.	Ahmet Unutulmaz,Günhan Dündar,Francisco V. Fernández 0001	10.7873/DATE.2013.368
+Substitute-and-simplify: a unified design paradigm for approximate and quality configurable circuits.	Swagath Venkataramani,Kaushik Roy 0001,Anand Raghunathan	10.7873/DATE.2013.280
+DWM-TAPESTRI - an energy efficient all-spin cache using domain wall shift based writes.	Rangharajan Venkatesan,Mrigank Sharad,Kaushik Roy 0001,Anand Raghunathan	10.7873/DATE.2013.365
+Dr. Frankenstein&apos;s dream made possible: implanted electronic devices.	Daniela De Venuto,Alberto L. Sangiovanni-Vincentelli	10.7873/DATE.2013.311
+Smart, connected and mobile: architecting future electric mobility ecosystems.	Ovidiu Vermesan,Lars-Cyril Julin Blystad,Reiner John,Peter Hank,Roy Bahr,Alessandro Moscatelli	10.7873/DATE.2013.350
+Smart systems for internet of things.	Benedetto Vigna	10.7873/DATE.2013.014
+What designs for coming supercomputers?	Xavier Vigouroux	10.7873/DATE.2013.104
+Topology-agnostic fault-tolerant NoC routing method.	Eduardo Wächter,Augusto Erichsen,Alexandre M. Amory,Fernando Moraes 0001	10.7873/DATE.2013.324
+Efficient variation-aware statistical dynamic timing analysis for delay test applications.	Marcus Wagner,Hans-Joachim Wunderlich	10.7873/DATE.2013.069
+OAP: an obstruction-aware cache management policy for STT-RAM last-level caches.	Jue Wang,Xiangyu Dong,Yuan Xie 0001	10.7873/DATE.2013.179
+Fast and accurate cache modeling in source-level simulation of embedded software.	Zhonglei Wang,Jörg Henkel	10.7873/DATE.2013.129
+A work-stealing scheduling framework supporting fault tolerance.	Yizhuo Wang,Weixing Ji,Feng Shi,Qi Zuo	10.7873/DATE.2013.150
+Capital cost-aware design and partial shading-aware architecture optimization of a reconfigurable photovoltaic system.	Yanzhi Wang,Xue Lin,Massoud Pedram,Jaemin Kim,Naehyuck Chang	10.7873/DATE.2013.191
+Optimal control of a grid-connected hybrid electrical energy storage system for homes.	Yanzhi Wang,Xue Lin,Massoud Pedram,Sangyoung Park,Naehyuck Chang	10.7873/DATE.2013.186
+Accurate and efficient reliability estimation techniques during ADL-driven embedded processor design.	Zheng Wang 0020,Kapil Singh,Chao Chen,Anupam Chattopadhyay	10.7873/DATE.2013.122
+A power-driven thermal sensor placement algorithm for dynamic thermal management.	Hai Wang 0002,Sheldon X.-D. Tan,Sahana Swarup,Xuexin Liu	10.7873/DATE.2013.252
+TreeFTL: efficient RAM management for high performance of NAND flash-based storage systems.	Chundong Wang 0001,Weng-Fai Wong	10.7873/DATE.2013.086
+Active power-gating-induced power/ground noise alleviation using parasitic capacitance of on-chip memories.	Xuan Wang 0001,Jiang Xu 0001,Wei Zhang 0012,Xiaowen Wu,Yaoyao Ye,Zhehui Wang,Mahdi Nikdast,Zhe Wang 0003	10.7873/DATE.2013.253
+3D reconfigurable power switch network for demand-supply matching between multi-output power converters and many-core microprocessors.	Kanwen Wang,Hao Yu 0001,Benfei Wang,Chun Zhang	10.7873/DATE.2013.333
+A survey of multi-source energy harvesting systems.	Alex S. Weddell,Michele Magno,Geoff V. Merrett,Davide Brunelli,Bashir M. Al-Hashimi,Luca Benini	10.7873/DATE.2013.190
+CATALYST: planning layer directives for effective design closure.	Yaoguang Wei,Zhuo Li 0001,Cliff C. N. Sze,Shiyan Hu,Charles J. Alpert,Sachin S. Sapatnekar	10.7873/DATE.2013.373
+Carbon nanotube circuits: opportunities and challenges.	Hai Wei,Max M. Shulaker,Gage Hills,Hong-Yu Chen,Chi-Shuen Lee,Luckshitha Liyanage,Jie Zhang 0007,H.-S. Philip Wong,Subhasish Mitra	10.7873/DATE.2013.136
+QF BV model checking with property directed reachability.	Tobias Welp,Andreas Kuehlmann	10.7873/DATE.2013.168
+Energy-efficient multicore chip design through cross-layer approach.	Paul Wettin,Jacob Murray,Partha Pratim Pande,Behrooz A. Shirazi,Amlan Ganguly	10.7873/DATE.2013.156
+Game-theoretic analysis of decentralized core allocation schemes on many-core systems.	Stefan Wildermann,Tobias Ziermann,Jürgen Teich	10.7873/DATE.2013.305
+Towards a generic verification methodology for system models.	Robert Wille,Martin Gogolla,Mathias Soeken,Mirco Kuhlmann,Rolf Drechsler	10.7873/DATE.2013.248
+Modular SoC integration with subsystems: the audio subsystem case.	Pieter van der Wolf,Ruud Derwig	10.7873/DATE.2013.045
+Saliency aware display power management.	Yang Xiao 0002,Kevin M. Irick,Vijaykrishnan Narayanan,Donghwa Shin,Naehyuck Chang	10.7873/DATE.2013.250
+Future memory and interconnect technologies.	Yuan Xie 0001	10.7873/DATE.2013.202
+Adaptive thermal management for portable system batteries by forced convection cooling.	Qing Xie 0001,Siyu Yue,Massoud Pedram,Donghwa Shin,Naehyuck Chang	10.7873/DATE.2013.254
+Thermal-aware datapath merging for coarse-grained reconfigurable processors.	Sotirios Xydis,Gianluca Palermo,Cristina Silvano	10.7873/DATE.2013.334
+A meta-model assisted coprocessor synthesis framework for compiler/architecture parameters customization.	Sotirios Xydis,Gianluca Palermo,Vittorio Zaccaria,Cristina Silvano	10.7873/DATE.2013.143
+Advances in asynchronous logic: from principles to GALS &amp; NoC, recent industry applications, and commercial CAD tools.	Alex Yakovlev,Pascal Vivet,Marc Renaudin	10.7873/DATE.2013.346
+FaulTM: error detection and recovery using hardware transactional memory.	Gulay Yalcin,Osman S. Unsal,Adrián Cristal	10.7873/DATE.2013.058
+A dynamic self-adaptive correction method for error resilient application.	Luming Yan,Huaguo Liang,Zhengfeng Huang	10.7873/DATE.2013.198
+ClockPUF: physical unclonable functions based on clock networks.	Yida Yao,MyungBo Kim,Jianmin Li,Igor L. Markov,Farinaz Koushanfar	10.7873/DATE.2013.095
+Efficient importance sampling for high-sigma yield analysis with adaptive online surrogate modeling.	Jian Yao,Zuochang Ye,Yan Wang 0023	10.7873/DATE.2013.267
+Extracting useful computation from error-prone processors for streaming applications.	Yavuz Yetim,Margaret Martonosi,Sharad Malik	10.7873/DATE.2013.055
+Fault analysis and simulation of large scale industrial mixed-signal circuits.	Ender Yilmaz,Geoff Shofner,LeRoy Winemberg,Sule Ozev	10.7873/DATE.2013.125
+Design and implementation of a group-based RO PUF.	Chi-En Daniel Yin,Gang Qu 0001,Qiang Zhou 0001	10.7873/DATE.2013.094
+Fast and optimized task allocation method for low vertical link density 3-dimensional networks-on-chip based many core systems.	Haoyuan Ying,Thomas Hollstein,Klaus Hofmann	10.7873/DATE.2013.357
+Holistic design parameter optimization of multiple periodic resources in hierarchical scheduling.	Man-Ki Yoon,Jung-Eun Kim,Richard M. Bradford,Lui Sha	10.7873/DATE.2013.271
+Statistical modeling with the virtual source MOSFET model.	Li Yu 0009,Lan Wei,Dimitri A. Antoniadis,Ibrahim M. Elfadel,Duane S. Boning	10.7873/DATE.2013.296
+A critical-section-level timing synchronization approach for deterministic multi-core instruction set simulations.	Fan-Wei Yu,Bo-Han Zeng,Yu-Hung Huang,Hsin-I Wu,Che-Rung Lee,Ren-Song Tsay	10.7873/DATE.2013.140
+Exploiting subarrays inside a bank to improve phase change memory performance.	Jianhui Yue,Yifeng Zhu	10.7873/DATE.2013.088
+Perceptual quality preserving SRAM architecture for color motion pictures.	Wen Yueh,Minki Cho,Saibal Mukhopadhyay	10.7873/DATE.2013.035
+e-Mobility the next frontier for automotive industry.	Roberto Zafalon,Giovanni Coppola,Ovidiu Vermesan	10.7873/DATE.2013.351
+Characterizing the performance benefits of fused CPU/GPU systems using FusionSim.	Vitaly Zakharenko,Tor M. Aamodt,Andreas Moshovos	10.7873/DATE.2013.148
+Leakage and temperature aware server control for improving energy efficiency in data centers.	Marina Zapater,José Luis Ayala,José Manuel Moya,Kalyan Vaidyanathan,Kenny C. Gross,Ayse K. Coskun	10.7873/DATE.2013.067
+GPU-friendly floating random walk algorithm for capacitance extraction of VLSI interconnects.	Kuangya Zhai,Wenjian Yu,Hao Zhuang 0001	10.7873/DATE.2013.336
+3D-MMC: a modular 3D multi-core architecture with efficient resource pooling.	Tiansheng Zhang,Alessandro Cevrero,Giulia Beanato,Panagiotis Athanasopoulos,Ayse K. Coskun,Yusuf Leblebici	10.7873/DATE.2013.257
+Capturing post-silicon variation by layout-aware path-delay testing.	Xiaolin Zhang,Jing Ye 0001,Yu Hu 0001,Xiaowei Li 0001	10.7873/DATE.2013.071
+PT-AMC: integrating preemption thresholds into mixed-criticality scheduling.	Qingling Zhao,Zonghua Gu 0001,Haibo Zeng 0001	10.7873/DATE.2013.042
+Run-time probabilistic detection of miscalibrated thermal sensors in many-core systems.	Jia Zhao,Shiting (Justin) Lu,Wayne P. Burleson,Russell Tessier	10.7873/DATE.2013.285
+Profit maximization through process variation aware high level synthesis with speed binning.	Mengying Zhao,Alex Orailoglu,Chun Jason Xue	10.7873/DATE.2013.050
+Placement optimization of power supply pads based on locality.	Pingqiang Zhou,Vivek Mishra,Sachin S. Sapatnekar	10.7873/DATE.2013.335
+The design of sustainable wireless sensor network node using solar energy and phase change memory.	Ping Zhou,Youtao Zhang,Jun Yang 0002	10.7873/DATE.2013.183
+Robust and extensible task implementations of synchronous finite state machines.	Qi Zhu 0002,Peng Deng,Marco Di Natale,Haibo Zeng 0001	10.7873/DATE.2013.272
+A 100 GOPS ASP based baseband processor for wireless communication.	Ziyuan Zhu,Shan Tang,Yongtao Su,Juan Han,Gang Sun,Jinglin Shi	10.7873/DATE.2013.038
+Sensor-wise methodology to face NBTI stress of NoC buffers.	Davide Zoni,William Fornaciari	10.7873/DATE.2013.216
+Test solution for data retention faults in low-power SRAMs.	Leonardo Bonet Zordan,Alberto Bosio,Luigi Dilillo,Patrick Girard 0001,Aida Todri,Arnaud Virazel,Nabil Badereddine	10.7873/DATE.2013.099
+Thermomechanical stress-aware management for 3D IC designs.	Qiaosha Zou,Tao Zhang 0032,Eren Kursun,Yuan Xie 0001	10.7873/DATE.2013.260
+Design, Automation and Test in Europe, DATE 13, Grenoble, France, March 18-22, 2013	Enrico Macii	

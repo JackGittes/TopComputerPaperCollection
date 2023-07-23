@@ -1,0 +1,46 @@
+Approximate Lock: Trading off Accuracy for Performance by Skipping Critical Sections.	Riad Akram,Mohammad Mejbah Ul Alam,Abdullah Muzahid	10.1109/ISSRE.2016.49
+SV-AF - A Security Vulnerability Analysis Framework.	Sultan S. Al-Qahtani,Ellis E. Eghan,Juergen Rilling	10.1109/ISSRE.2016.12
+Automatically Classifying Test Results by Semi-Supervised Learning.	Rafig Almaghairbe,Marc Roper	10.1109/ISSRE.2016.22
+Using a Cognitive Psychology Perspective on Errors to Improve Requirements Quality: An Empirical Investigation.	Vaibhav K. Anu,Gursimran Singh Walia,Wenhua Hu,Jeffrey C. Carver,Gary L. Bradshaw	10.1109/ISSRE.2016.41
+Dodging Unsafe Update Points in Java Dynamic Software Updating Systems.	Walter Cazzola,Mehdi Jalili	10.1109/ISSRE.2016.17
+Distance-Integrated Combinatorial Testing.	Eun-Hye Choi,Cyrille Artho,Takashi Kitamura 0001,Osamu Mizuno,Akihisa Yamada 0002	10.1109/ISSRE.2016.26
+Using Approximate Bayesian Computation to Empirically Test Email Malware Propagation Models Relevant to Common Intervention Actions.	Edward Condon,Michel Cukier	10.1109/ISSRE.2016.24
+Software Aging Analysis of the Android Mobile OS.	Domenico Cotroneo,Francesco Fucci,Antonio Ken Iannillo,Roberto Natella,Roberto Pietrantuono	10.1109/ISSRE.2016.25
+The Effect of Test Suite Type on Regression Test Selection.	Nima Dini,Allison Sullivan,Milos Gligoric 0001,Gregg Rothermel	10.1109/ISSRE.2016.28
+ORPLocator: Identifying Read Points of Configuration Options via Static Analysis.	Zhen Dong 0004,Artur Andrzejak 0001,David Lo 0001,Diego Costa 0001	10.1109/ISSRE.2016.37
+WAP: Understanding the Brain at Software Debugging.	João Durães,Henrique Madeira,João Castelhano,Catarina Duarte,Miguel Castelo Branco	10.1109/ISSRE.2016.53
+Frequent Subgraph Based Familial Classification of Android Malware.	Ming Fan 0002,Jun Liu 0002,Xiapu Luo,Kai Chen 0012,Tianyi Chen,Zhenzhou Tian,Xiaodong Zhang 0014,Qinghua Zheng,Ting Liu 0002	10.1109/ISSRE.2016.14
+Goal-Driven Deception Tactics Design.	Cristiano De Faveri,Ana Moreira 0001,Vasco Amaral 0001	10.1109/ISSRE.2016.44
+SCOUT: A Multi-objective Method to Select Components in Designing Unit Testing.	Eduardo Noronha de Andrade Freitas,Celso Gonçalves Camilo-Junior,Auri Marcelo Rizzo Vincenzi	10.1109/ISSRE.2016.52
+Experience Report: Model-Based Test Automation of a Concurrent Flight Software Bus.	Dharmalingam Ganesan,Mikael Lindvall,Stefan Hafsteinsson,Rance Cleaveland,Susanne L. Strege,Walter Moleski	10.1109/ISSRE.2016.47
+Evaluating the Effects of Compiler Optimizations on Mutation Testing at the Compiler IR Level.	Farah Hariri,August Shi,Hayes Converse,Sarfraz Khurshid,Darko Marinov	10.1109/ISSRE.2016.51
+Experience Report: System Log Analysis for Anomaly Detection.	Shilin He,Jieming Zhu,Pinjia He,Michael R. Lyu	10.1109/ISSRE.2016.21
+Failure Models for Testing Continuous Controllers.	Dominik Holling,Alvin Stanescu,Kristian Beckers,Alexander Pretschner,Matthias Gemmar	10.1109/ISSRE.2016.34
+Detecting, Exposing, and Classifying Sequential Consistency Violations.	Mohammad Majharul Islam,Abdullah Muzahid	10.1109/ISSRE.2016.48
+Switching to Git: The Good, the Bad, and the Ugly.	Sascha Just,Kim Herzig,Jacek Czerwonka,Brendan Murphy	10.1109/ISSRE.2016.38
+Experience Report: Detecting Poor-Responsive UI in Android Applications.	Yu Kang,Yangfan Zhou,Min Gao,Yixia Sun,Michael R. Lyu	10.1109/ISSRE.2016.16
+Fixing Resource Leaks in Android Apps with Light-Weight Static Analysis and Low-Overhead Instrumentation.	Jierui Liu,Tianyong Wu,Jun Yan 0009,Jian Zhang 0001	10.1109/ISSRE.2016.15
+Experience Report: Understanding Cross-Platform App Issues from User Reviews.	Yichuan Man,Cuiyun Gao,Michael R. Lyu,Jiuchun Jiang	10.1109/ISSRE.2016.27
+WAP: A Novel Automatic Test Generation Technique Based on Moth Flame Optimization.	Aya S. Metwally,Eman Hosam,Marwa M. Hassan,Sarah M. Rashad	10.1109/ISSRE.2016.20
+Quantifying the Attack Detection Accuracy of Intrusion Detection Systems in Virtualized Environments.	Aleksandar Milenkoski,K. R. Jayaram,Nuno Antunes,Marco Vieira,Samuel Kounev	10.1109/ISSRE.2016.39
+Peeking into the Past: Efficient Checkpoint-Assisted Time-Traveling Debugging.	Armando Miraglia,Dirk Vogt,Herbert Bos,Andy Tanenbaum,Cristiano Giuffrida	10.1109/ISSRE.2016.9
+Experience Report: An Empirical Study of API Failures in OpenStack Cloud Environments.	Pooya Musavi,Bram Adams,Foutse Khomh	10.1109/ISSRE.2016.42
+Cause Points Analysis for Effective Handling of Alarms.	Tukaram Muske,Uday P. Khedker	10.1109/ISSRE.2016.45
+Does Geographical Distance Effect Distributed Development Teams: How Aggregation Bias in Software Artifacts Causes Contradictory Findings.	Thanh H. D. Nguyen,Bram Adams,Ahmed E. Hassan	10.1109/ISSRE.2016.36
+Experience Report: Practical Software Availability Prediction in Telecommunication Industry.	Kazuhiro Okumoto	10.1109/ISSRE.2016.19
+On Adaptive Sampling-Based Testing for Software Reliability Assessment.	Roberto Pietrantuono,Stefano Russo 0001	10.1109/ISSRE.2016.50
+On the Personality Traits of GitHub Contributors.	Ayushi Rastogi,Nachiappan Nagappan	10.1109/ISSRE.2016.43
+RRF: A Race Reproduction Framework for Use in Debugging Process-Level Races.	Supat Rattanasuksun,Tingting Yu,Witawas Srisa-an,Gregg Rothermel	10.1109/ISSRE.2016.35
+Domain Arguments in Safety Critical Software Development.	Jonathan C. Rowanhill,John C. Knight	10.1109/ISSRE.2016.40
+Anomaly Detection and Root Cause Localization in Virtual Network Functions.	Carla Sauvanaud,Kahina Lazri,Mohamed Kaâniche,Karama Kanoun	10.1109/ISSRE.2016.32
+Proving Concurrent Data Structures Linearizable.	Vineet Singh,Iulian Neamtiu,Rajiv Gupta 0001	10.1109/ISSRE.2016.31
+Experience Report: Automated System Level Regression Test Prioritization Using Multiple Factors.	Per Erik Strandberg,Daniel Sundmark,Wasif Afzal,Thomas J. Ostrand,Elaine J. Weyuker	10.1109/ISSRE.2016.23
+Bear: A Framework for Understanding Application Sensitivity to OS (Mis) Behavior.	Ruimin Sun,Andrew Lee,Aokun Chen,Donald E. Porter,Matt Bishop,Daniela Oliveira 0001	10.1109/ISSRE.2016.18
+Risk Assessment of User-Defined Security Configurations for Android Devices.	Daniel Vecchiato,Marco Vieira,Eliane Martins	10.1109/ISSRE.2016.30
+CoLUA: Automatically Predicting Configuration Bug Reports and Extracting Configuration Options.	Wei Wen,Tingting Yu,Jane Huffman Hayes	10.1109/ISSRE.2016.29
+The Impact of Feature Selection on Defect Prediction Performance: An Empirical Comparison.	Zhou Xu 0003,Jin Liu 0016,Zijiang Yang 0006,Gege An,Xiangyang Jia	10.1109/ISSRE.2016.13
+MHCP Model for Quality Evaluation for Software Structure Based on Software Complex Network.	Yuwei Yang,Jun Ai,Xue-Lin Li,W. Eric Wong	10.1109/ISSRE.2016.46
+Combining Word Embedding with Information Retrieval to Recommend Similar Bug Reports.	Xinli Yang,David Lo 0001,Xin Xia 0001,Lingfeng Bao,Jianling Sun	10.1109/ISSRE.2016.33
+Evaluation Metrics of Service-Level Reliability Monitoring Rules of a Big Data Service.	Keun Soo Yim	10.1109/ISSRE.2016.10
+Predicting Consistent Clone Change.	Fanlong Zhang,Siau-Cheng Khoo,Xiaohong Su	10.1109/ISSRE.2016.11
+27th IEEE International Symposium on Software Reliability Engineering, ISSRE 2016, Ottawa, ON, Canada, October 23-27, 2016		

@@ -1,0 +1,47 @@
+RTNN: accelerating neighbor search using hardware ray tracing.	Yuhao Zhu 0001	10.1145/3503221.3508409
+wCQ: a fast wait-free queue with bounded memory usage.	Ruslan Nikolaev 0001	10.1145/3503221.3508440
+Automatic synthesis of parallel unix commands and pipelines with KumQuat.	Jiasi Shen 0001	10.1145/3503221.3508400
+PathCAS: an efficient middle ground for concurrent search data structures.	Trevor Brown 0001	10.1145/3503221.3508410
+Near-optimal sparse allreduce for distributed deep learning.	Shigang Li 0002	10.1145/3503221.3508399
+CASE: a compiler-assisted SchEduling framework for multi-GPU systems.	Chao Chen 0024	10.1145/3503221.3508423
+The problem-based benchmark suite (PBBS), V2.	Daniel Anderson	10.1145/3503221.3508422
+Detectable recovery of lock-free data structures.	Hagit Attiya	10.1145/3503221.3508444
+Lock-free locks revisited.	Naama Ben-David	10.1145/3503221.3508433
+Scaling graph traversal to 281 trillion edges with 40 million cores.	Huanqi Cao	10.1145/3503221.3508403
+Optimizing sparse computations jointly.	Kazem Cheshmi	10.1145/3503221.3508439
+Dopia: online parallelism management for integrated CPU/GPU architectures.	Younghyun Cho	10.1145/3503221.3508421
+Deadlock-free asynchronous message reordering in rust with multiparty session types.	Zak Cutner	10.1145/3503221.3508404
+LOTUS: locality optimizing triangle counting.	Mohsen Koohi Esfahani	10.1145/3503221.3508402
+Interference relation-guided SMT solving for multi-threaded program verification.	Hongyu Fan	10.1145/3503221.3508424
+The performance power of software combining in persistence.	Panagiota Fatourou	10.1145/3503221.3508426
+A parallel branch-and-bound algorithm with history-based domination.	Taspon Gonggiatgul	10.1145/3503221.3508415
+Extending the limit of molecular dynamics with ab initio accuracy to 10 billion atoms.	Zhuoqiang Guo	10.1145/3503221.3508425
+FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models.	Jiaao He	10.1145/3503221.3508418
+Hardening selective protection across multiple program inputs for HPC applications.	Yafan Huang	10.1145/3503221.3508414
+Automatic differentiation of parallel loops with formal methods.	Jan Hückelheim	10.1145/3503221.3508442
+PerFlow: a domain specific framework for automatic performance analysis of parallel applications.	Yuyang Jin	10.1145/3503221.3508405
+Stream processing with dependency-guided synchronization.	Konstantinos Kallas	10.1145/3503221.3508413
+Jiffy: a lock-free skip list with batch updates and snapshots.	Tadeusz Kobus	10.1145/3503221.3508437
+Towards OmpSs-2 and OpenACC interoperation.	Orestis Korakitis	10.1145/3503221.3508401
+Optimizing consistency for partially replicated data stores.	Ivan Kuraj	10.1145/3503221.3508438
+Asymmetry-aware scalable locking.	Nian Liu	10.1145/3503221.3508420
+BaGuaLu: targeting brain scale pretrained models with over 37 million cores.	Zixuan Ma	10.1145/3503221.3508417
+Parallel algorithms for masked sparse matrix-matrix products.	Srdan Milakovic	10.1145/3503221.3508430
+Bundling linked data structures for linearizable range queries.	Jacob Nelson-Slivon	10.1145/3503221.3508412
+TileSpGEMM: a tiled algorithm for parallel sparse general matrix-matrix multiplication on GPUs.	Yuyao Niu	10.1145/3503221.3508431
+Remote OpenMP offloading.	Atmn Patel	10.1145/3503221.3508416
+Multi-queues can be state-of-the-art priority schedulers.	Anastasiia Postnikova	10.1145/3503221.3508432
+Understanding and detecting deep memory persistency bugs in NVM programs with DeepMC.	Benjamin Reidys	10.1145/3503221.3508427
+Mashup: making serverless computing useful for HPC workflows via hybrid execution.	Rohan Basu Roy	10.1145/3503221.3508407
+Rethinking graph data placement for graph neural network training on multiple GPUs.	Shihui Song	10.1145/3503221.3508435
+Elimination (a, b)-trees with fast, durable updates.	Anubhav Srivastava	10.1145/3503221.3508441
+QGTC: accelerating quantized graph neural networks via GPU tensor core.	Yuke Wang	10.1145/3503221.3508408
+ParGeo: a library for parallel computational geometry.	Yiqiu Wang	10.1145/3503221.3508429
+FliT: a library for simple and efficient persistent algorithms.	Yuanhao Wei	10.1145/3503221.3508436
+Parallel block-delayed sequences.	Sam Westrick	10.1145/3503221.3508434
+A W-cycle algorithm for efficient batched SVD on GPUs.	Junmin Xiao	10.1145/3503221.3508443
+LB-HM: load balance-aware data placement on heterogeneous memory for task-parallel HPC applications.	Zhen Xie	10.1145/3503221.3508406
+An LLVM-based open-source compiler for NVIDIA GPUs.	Da Yan 0002	10.1145/3503221.3508428
+High performance GPU concurrent B+tree.	Weihua Zhang	10.1145/3503221.3508419
+Vapro: performance variance detection and diagnosis for production-run parallel applications.	Liyan Zheng	10.1145/3503221.3508411
+PPoPP &apos;22: 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Seoul, Republic of Korea, April 2 - 6, 2022	Jaejin Lee	10.1145/3503221

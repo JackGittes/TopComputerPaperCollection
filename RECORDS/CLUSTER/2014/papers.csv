@@ -1,0 +1,62 @@
+On the use of microservers in supporting hadoop applications.	Ali Anwar 0001,Krish K. R.,Ali Raza Butt	10.1109/CLUSTER.2014.6968753
+Exploring void search for fault detection on extreme scale systems.	Eduardo Berrocal,Li Yu 0006,Sean Wallace,Michael E. Papka,Zhiling Lan	10.1109/CLUSTER.2014.6968757
+Job scheduling in Hadoop with Shared Input Policy and RAMDISK.	Aprígio Bezerra,Porfidio Hernández,Antonio Espinosa,Juan Carlos Moure	10.1109/CLUSTER.2014.6968788
+Demonstrating improved application performance using dynamic monitoring and task mapping.	Jim M. Brandt,Karen D. Devine,Ann C. Gentile,Kevin T. Pedretti	10.1109/CLUSTER.2014.6968670
+Efficient speed (ES): Adaptive DVFS and clock modulation for energy efficiency.	Pietro Cicotti,Ananta Tiwari,Laura Carrington	10.1109/CLUSTER.2014.6968750
+Fingerprinting application dependencies.	Luca Clementi,Philip M. Papadopoulos	10.1109/CLUSTER.2014.6968762
+Optimizing scientific file I/O patterns using advice based knowledge.	Giuseppe Congiu,Matthias Grawinkel,Federico Padua,James Morse,Tim Süß,André Brinkmann	10.1109/CLUSTER.2014.6968763
+Evaluating Grasp-based cloud dimensioning for comparative genomics: A practical approach.	Rafaelli de C. Coutinho,Lúcia M. A. Drummond,Yuri Frota,Daniel de Oliveira 0001,Kary A. C. S. Ocaña	10.1109/CLUSTER.2014.6968789
+zFabric: How to virtualize lossless ethernet?	Daniel Crisan,Robert Birke,Nikolaos Chrysos,Cyriel Minkenberg,Mitchell Gusat	10.1109/CLUSTER.2014.6968740
+a generic framework for asynchronous progression and multithreaded communications.	Alexandre Denis 0001	10.1109/CLUSTER.2014.6968752
+Parallel query evaluation as a Scientific Data Service.	Bin Dong 0002,Surendra Byna,Kesheng Wu	10.1109/CLUSTER.2014.6968765
+A spatiotemporal data aggregation technique for performance analysis of large-scale execution traces.	Damien Dosimont,Robin Lamarche-Perrin,Lucas Mello Schnorr,Guillaume Huard,Jean-Marc Vincent	10.1109/CLUSTER.2014.6968741
+CD-RAIS: Constrained dynamic striping in redundant array of independent SSDs.	Yimo Du,Youtao Zhang,Nong Xiao,Fang Liu 0002	10.1109/CLUSTER.2014.6968742
+Checkpoint/restart in practice: When &apos;simple is better&apos;.	Nosayba El-Sayed,Bianca Schroeder	10.1109/CLUSTER.2014.6968777
+To checkpoint or not to checkpoint: Understanding energy-performance-I/O tradeoffs in HPC checkpointing.	Nosayba El-Sayed,Bianca Schroeder	10.1109/CLUSTER.2014.6968778
+Software technologies coping with memory hierarchy of GPGPU clusters for stencil computations.	Toshio Endo,Guanghao Jin	10.1109/CLUSTER.2014.6968747
+KOALA-C: A task allocator for integrated multicluster and multicloud environments.	Lipu Fei,Bogdan Ghit,Alexandru Iosup,Dick H. J. Epema	10.1109/CLUSTER.2014.6968764
+A hybrid OpenMP and OpenMPI approach to geometrical motif search in proteins.	Marco Ferretti,Mirto Musci,Luigi Santangelo	10.1109/CLUSTER.2014.6968787
+Digging deeper into cluster system logs for failure prediction and root cause diagnosis.	Xiaoyu Fu,Rui Ren,Sally A. McKee,Jianfeng Zhan,Ninghui Sun	10.1109/CLUSTER.2014.6968768
+Energy-performance tradeoffs in multilevel checkpoint strategies.	Leonardo Arturo Bautista-Gomez,Prasanna Balaprakash,Mohamed-Slim Bouguerra,Stefan M. Wild,Franck Cappello,Paul D. Hovland	10.1109/CLUSTER.2014.6968749
+Support for bioinformatics applications through volunteer and scalable computing frameworks.	Felipe Gutierrez,Danilo Azevedo,Marcos Barreto 0001,Rodrigo Zucoloto	10.1109/CLUSTER.2014.6968780
+A scalable framework for large-scale analysis of gene-gene interactions.	Moez Ben Haj Hmida,Yahya Slimani	10.1109/CLUSTER.2014.6968785
+Leveraging deep memory hierarchies for data staging in coupled data-intensive simulation workflows.	Tong Jin,Fan Zhang 0004,Qian Sun,Hoang Bui,Norbert Podhorszki,Scott Klasky,Hemanth Kolla,Jacqueline Chen,Robert Hager,Choong-Seock Chang,Manish Parashar	10.1109/CLUSTER.2014.6968744
+High performance OpenSHMEM for Xeon Phi clusters: Extensions, runtime designs and application co-design.	Jithin Jose,Khaled Hamidouche,Xiaoyi Lu,Sreeram Potluri,Jie Zhang 0045,Karen Tomko,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2014.6968754
+Load analysis and cost estimation of parallel constrained producer-consumer algorithms.	Tariq Kamal,Keith R. Bisset,Ali Raza Butt,Madhav V. Marathe	10.1109/CLUSTER.2014.6968759
+UPC++ for bioinformatics: A case study using genome-wide association studies.	Jan Christian Kässens,Jorge González-Domínguez,Lars Wienbrandt,Bertil Schmidt	10.1109/CLUSTER.2014.6968770
+Feature selection in high-dimensional EEG data by parallel multi-objective optimization.	Dragi Kimovski,Julio Ortega Lopera,Andrés Ortiz,Raul Baños	10.1109/CLUSTER.2014.6968782
+Memory management for billions of small objects in a distributed in-memory storage.	Florian Klein 0002,Kevin Beineke,Michael Schöttner	10.1109/CLUSTER.2014.6968771
+How file access patterns influence interference among cluster applications.	Chih-Song Kuo,Aamer Shah,Akihiro Nomura 0002,Satoshi Matsuoka,Felix Wolf 0001	10.1109/CLUSTER.2014.6968743
+Scalable Graph500 design with MPI-3 RMA.	Mingzhe Li,Xiaoyi Lu,Sreeram Potluri,Khaled Hamidouche,Jithin Jose,Karen Tomko,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2014.6968755
+Scalable replay with partial-order dependencies for message-logging fault tolerance.	Jonathan Lifflander,Esteban Meneses,Harshitha Menon,Phil Miller,Sriram Krishnamoorthy,Laxmikant V. Kalé	10.1109/CLUSTER.2014.6968739
+SWAPHI-LS: Smith-Waterman Algorithm on Xeon Phi coprocessors for Long DNA Sequences.	Yongchao Liu,Tuan Tu Tran,Felix Lauenroth,Bertil Schmidt	10.1109/CLUSTER.2014.6968772
+An innovative storage stack addressing extreme scale platforms and Big Data applications.	Jay F. Lofstead,Ivo Jimenez,Carlos Maltzahn,Quincey Koziol,John Bent,Eric Barton	10.1109/CLUSTER.2014.6968760
+Multiobjective optimization technique based on monitoring information to increase the performance of thread migration on multicores.	Oscar G. Lorenzo,Tomás F. Pena,José Carlos Cabaleiro,Juan Carlos Pichel,Francisco F. Rivera	10.1109/CLUSTER.2014.6968733
+Utilizing dataflow-based execution for coupled cluster methods.	Heike McCraw,Anthony Danalis,Thomas Hérault,George Bosilca,Jack J. Dongarra,Karol Kowalski,Theresa L. Windus	10.1109/CLUSTER.2014.6968738
+Power monitoring with PAPI for extreme scale architectures and dataflow-based programming models.	Heike McCraw,James Ralph,Anthony Danalis,Jack J. Dongarra	10.1109/CLUSTER.2014.6968672
+QMapper: Scalability and energy saving for virtualized web server clusters.	André Felipe Monteiro,Orlando Loques	10.1109/CLUSTER.2014.6968769
+High-performance implementations for shear-shear correlation calculation.	Miguel Cárdenas-Montes,Juan José Rodríguez-Vázquez,Ignacio Sevilla-Noarbe,Eusebio Sánchez Álvaro,Rafael Ponce,Miguel Ángel Vega Rodríguez,Christopher Bonnett	10.1109/CLUSTER.2014.6968767
+Preliminary evaluation of optimized transfer method for cluster-wide RAID-4.	Hiroki Ohtsuji,Osamu Tatebe	10.1109/CLUSTER.2014.6968775
+Applying frequency analysis techniques to dag-based workflows to benchmark and predict resource behavior on non-dedicated clusters.	Vivek K. Pallipuram,Jeffrey DiMarco,Michela Taufer	10.1109/CLUSTER.2014.6968734
+&quot;Analysis of scalability: A parallel application model approach&quot;.	Javier Panadero,Alvaro Wong,Dolores Rexachs,Emilio Luque	10.1109/CLUSTER.2014.6968776
+Toward the efficient use of multiple explicitly managed memory subsystems.	Antonio J. Peña,Pavan Balaji	10.1109/CLUSTER.2014.6968756
+Profit-aware cloud resource provisioner for ecommerce.	Nicolás Poggi,David Carrera 0001,Eduard Ayguadé,Jordi Torres	10.1109/CLUSTER.2014.6968746
+Boosting the performance of remote GPU virtualization using InfiniBand connect-IB and PCIe 3.0.	Carlos Reaño,Federico Silla,Antonio J. Peña,Gilad Shainer,Scot Schultz,Adrián Castelló 0001,Enrique S. Quintana-Ortí,José Duato	10.1109/CLUSTER.2014.6968737
+Performance evaluation of a signal extraction algorithm for the Cherenkov Telescope Array&apos;s Real Time Analysis pipeline.	Juan José Rodríguez-Vázquez,José Luis Vázquez-Poletti,Carlos José Delgado-Méndez,Andrea Bulgarelli,Miguel Cárdenas-Montes	10.1109/CLUSTER.2014.6968758
+Methodologies and application of machine learning algorithms to classify the performance of high performance cluster components.	Philip Romero,Craig Idler	10.1109/CLUSTER.2014.6968669
+Smith-Waterman algorithm on heterogeneous systems: A case study.	Enzo Rucci,Armando De Giusti,Marcelo R. Naiouf,Guillermo Botella Juan,Carlos García 0001,Manuel Prieto-Matías	10.1109/CLUSTER.2014.6968784
+Applying OpenMP-based parallel implementations of NSGA-II and SPEA2 to study phylogenetic relationships.	Sergio Santander-Jiménez,Miguel A. Vega-Rodríguez	10.1109/CLUSTER.2014.6968779
+It takes a village: Monitoring the blue waters supercomputer.	B. David Semeraro,Robert Sisneros,Joshi Fullop,Gregory H. Bauer	10.1109/CLUSTER.2014.6968671
+High-performance X-ray tomography reconstruction algorithm based on heterogeneous accelerated computing systems.	Estefania Serrano,Guzmán Bermejo,Francisco Javier García Blas,Jesús Carretero 0001	10.1109/CLUSTER.2014.6968781
+GIRAFFE: A scalable distributed coordination service for large-scale systems.	Xuanhua Shi,Haohong Lin,Hai Jin 0001,Bing Bing Zhou,Zuoning Yin,Sheng Di,Song Wu 0001	10.1109/CLUSTER.2014.6968766
+Out-of-core GPU memory management for MapReduce-based large-scale graph processing.	Koichi Shirahata,Hitoshi Sato,Satoshi Matsuoka	10.1109/CLUSTER.2014.6968748
+Evaluation of emerging memory technologies for HPC, data intensive applications.	Amoghavarsha Suresh,Pietro Cicotti,Laura Carrington	10.1109/CLUSTER.2014.6968745
+Anisotropic nonlinear diffusion for filtering 3D images on GPUs.	Siham Tabik,Alin Murarasu,Luis Felipe Romero	10.1109/CLUSTER.2014.6968786
+Disk cache-aware task scheduling for data-intensive and many-task workflow.	Masahiro Tanaka,Osamu Tatebe	10.1109/CLUSTER.2014.6968774
+MemFS: An in-memory runtime file system with symmetrical data distribution.	Alexandru Uta,Andreea Sandu,Thilo Kielmann	10.1109/CLUSTER.2014.6968773
+Multi-GPU acceleration of DARTEL (early detection of Alzheimer).	Pedro Valero-Lara	10.1109/CLUSTER.2014.6968783
+Evaluating job packing in warehouse-scale computing.	Abhishek Verma,Madhukar Korupolu,John Wilkes	10.1109/CLUSTER.2014.6968735
+SCALER: Scalable parallel file write in HDFS.	Xi Yang 0002,Yanlong Yin,Hui Jin 0001,Xian-He Sun	10.1109/CLUSTER.2014.6968736
+Balancing job performance with system performance via locality-aware scheduling on torus-connected systems.	Xu Yang 0009,Zhou Zhou,Wei Tang 0001,Xingwu Zheng,Jia Wang,Zhiling Lan	10.1109/CLUSTER.2014.6968751
+Multi-tenant fair share in NoSQL data stores.	Jiaan Zeng,Beth Plale	10.1109/CLUSTER.2014.6968761
+2014 IEEE International Conference on Cluster Computing, CLUSTER 2014, Madrid, Spain, September 22-26, 2014		

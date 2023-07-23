@@ -1,0 +1,68 @@
+IncProf: Efficient Source-Oriented Phase Identification for Application Behavior Understanding.	Omar Aaziz,Mohammad Al-Tahat,Strahinja Trecakov,Jonathan Cook	10.1109/CLUSTER51413.2022.00081
+The Cost of Flexibility: Embedded versus Discrete Routers in CGRAs for HPC.	Boma A. Adhi,Carlos Cortes,Yiyu Tan,Takuya Kojima,Artur Podobas,Kentaro Sano	10.1109/CLUSTER51413.2022.00046
+ALBADross: Active Learning Based Anomaly Diagnosis for Production HPC Systems.	Burak Aksar,Efe Sencan,Benjamin Schwaller,Omar Aaziz,Vitus J. Leung,Jim M. Brandt,Brian Kulis,Ayse K. Coskun	10.1109/CLUSTER51413.2022.00048
+Spark Meets MPI: Towards High-Performance Communication Framework for Spark using MPI.	Kinan Al-Attar,Aamir Shafi,Mustafa Abduljabbar,Hari Subramoni,Dhabaleswar K. Panda 0001	10.1109/CLUSTER51413.2022.00022
+fairDMS: Rapid Model Training by Data and Model Reuse.	Ahsan Ali,Hemant Sharma,Rajkumar Kettimuthu,Peter Kenesei,Dennis Trujillo,Antonino Miceli,Ian T. Foster,Ryan N. Coffee,Jana Thayer,Zhengchun Liu	10.1109/CLUSTER51413.2022.00050
+Be SMART, Save I/O: A Probabilistic Approach to Avoid Uncorrectable Errors in Storage Systems.	Md. Arifuzzaman,Masudul Bhuiyan,Mehmet Gümüs,Engin Arslan	10.1109/CLUSTER51413.2022.00038
+A Performance Evaluation of Adaptive MPI for a Particle-In-Cell Code.	Christian Asch,Diego Jiménez,Markus Rampp,Erwin Laure,Esteban Meneses	10.1109/CLUSTER51413.2022.00064
+SVAGC: Garbage Collection with a Scalable Virtual Address Swapping Technique.	Ismail Ataie,Weikuan Yu	10.1109/CLUSTER51413.2022.00047
+Shasta Log Aggregation, Monitoring and Alerting in HPC Environments with Grafana Loki and ServiceNow.	Elizabeth Bautista,Nitin Sukhija,Siqi Deng	10.1109/CLUSTER51413.2022.00079
+An Analysis of Performance Variability on Dragonfly+topology.	Majid Salimi Beni,Biagio Cosenza	10.1109/CLUSTER51413.2022.00061
+The role of storage target allocation in applications&apos; I/O performance with BeeGFS.	Francieli Boito,Guillaume Pallez,Luan Teylo	10.1109/CLUSTER51413.2022.00039
+Assessing the State of Autovectorization Support based on SVE.	Bine Brank,Dirk Pleiter	10.1109/CLUSTER51413.2022.00073
+Enabling Dynamic Virtual Frequency Scaling for Virtual Machines in the Cloud.	Emile Cadorel,Romain Rouvoy	10.1109/CLUSTER51413.2022.00045
+On Using Linux Kernel Huge Pages with FLASH, an Astrophysical Simulation Code.	Alan C. Calder,Catherine Feldman,Eva Siegmann,John Dey,Anthony Curtis,Smeet Chheda,Robert J. Harrison	10.1109/CLUSTER51413.2022.00070
+Scalable Architectures to Support Sustainable Advanced Information Technologies.	Oscar Carrillo,Carlos Jaime Barrios Hernández,Frédéric Le Mouël,Harold Enrique Castro Barrera,Yves Denneulin,José Tiberio Hernández,Fernando Jiménez Vargas,Lola Xiomara Bautista Rozo,Claudia Roncancio,Michel Riveill	10.1109/CLUSTER51413.2022.00065
+Lossy all-to-all exchange for accelerating parallel 3-D FFTs on hybrid architectures with GPUs.	Sébastien Cayrols,Jiali Li,George Bosilca,Stanimire Tomov,Alan Ayala,Jack J. Dongarra	10.1109/CLUSTER51413.2022.00029
+Empirical Study on the GPU-accelerated HPL Performance: Effects of PCIe Communication.	Jieun Choi,Yosang Jeong,Ji Hoon Kang 0002,Gibeom Gu,Hoon Ryu	10.1109/CLUSTER51413.2022.00059
+PYTHIA: an oracle to guide runtime system decisions.	Alexis Colin,François Trahay,Denis Conan	10.1109/CLUSTER51413.2022.00025
+Extracting and characterizing I/O behavior of HPC workloads.	Hariharan Devarajan,Kathryn Mohror	10.1109/CLUSTER51413.2022.00037
+HPC Storage Service Autotuning Using Variational- Autoencoder -Guided Asynchronous Bayesian Optimization.	Matthieu Dorier,Romain Egele,Prasanna Balaprakash,Jaehoon Koo,Sandeep Madireddy,Srinivasan Ramesh,Allen D. Malony,Robert B. Ross	10.1109/CLUSTER51413.2022.00049
+HPH: Hybrid Parallelism on Heterogeneous Clusters for Accelerating Large-scale DNNs Training.	Yabo Duan,Zhiquan Lai,Shengwei Li,Weijie Liu,Keshi Ge,Peng Liang 0017,Dongsheng Li 0001	10.1109/CLUSTER51413.2022.00043
+Efficient Hierarchical State Vector Simulation of Quantum Circuits via Acyclic Graph Partitioning.	Bo Fang,M. Yusuf Özkaya,Ang Li 0006,Ümit V. Çatalyürek,Sriram Krishnamoorthy	10.1109/CLUSTER51413.2022.00041
+Recursive Multi-Section on the Fly: Shared-Memory Streaming Algorithms for Hierarchical Graph Partitioning and Process Mapping.	Marcelo Fonseca Faraj,Christian Schulz 0003	10.1109/CLUSTER51413.2022.00057
+H2M: Towards Heuristics for Heterogeneous Memory.	Clément Foyer,Brice Goglin,Emmanuel Jeannot,Jannis Klinkenberg,Anara Kozhokanova,Christian Terboven	10.1109/CLUSTER51413.2022.00060
+Productivity meets Performance: Julia on A64FX.	Mosè Giordano,Milan Klöwer,Valentin Churavy	10.1109/CLUSTER51413.2022.00072
+Fast Dynamic Updates and Dynamic SpGEMM on MPI-Distributed Graphs.	Alexander van der Grinten,Geert Custers,Duy Le Thanh,Henning Meyerhenke	10.1109/CLUSTER51413.2022.00053
+Painless Transposition of Reproducible Distributed Environments with NixOS Compose.	Quentin Guilloteau,Jonathan Bleuzen,Millian Poquet,Olivier Richard	10.1109/CLUSTER51413.2022.00051
+Optimizations of H-matrix-vector Multiplication for Modern Multi-core Processors.	Tetsuya Hoshino,Akihiro Ida,Toshihiro Hanawa	10.1109/CLUSTER51413.2022.00056
+Bridging the Gap between Application Performance Analysis and System Monitoring.	Thomas Ilsche,Mario Bielert,Christian von Elm	10.1109/CLUSTER51413.2022.00080
+ecoHMEM: Improving Object Placement Methodology for Hybrid Memory Systems in HPC.	Marc Jordà,Siddharth Rai,Eduard Ayguadé,Jesús Labarta,Antonio J. Peña	10.1109/CLUSTER51413.2022.00040
+A framework for hierarchical single-copy MPI collectives on multicore nodes.	George Katevenis,Manolis Ploumidis,Manolis Marazakis	10.1109/CLUSTER51413.2022.00024
+Hvac: Removing I/O Bottleneck for Large-Scale Deep Learning Applications.	Awais Khan 0002,Arnab K. Paul,Christopher Zimmer 0001,Sarp Oral,Sajal Dash,Scott Atchley,Feiyi Wang	10.1109/CLUSTER51413.2022.00044
+MemGaze: Rapid and Effective Load-Level Memory Trace Analysis.	Ozgur O. Kilic,Nathan R. Tallent,Yasodha Suriyakumar,Chenhao Xie 0001,Andrès Márquez,Stéphane Eranian	10.1109/CLUSTER51413.2022.00058
+MRSch: Multi-Resource Scheduling for HPC.	Boyang Li,Yuping Fan,Matthew T. Dearing,Zhiling Lan,Paul Rich,William E. Allcock,Michael E. Papka	10.1109/CLUSTER51413.2022.00020
+Deadlock Detection for MPI Programs Based on Refined Match-sets.	Shushan Li,Meng Wang,Hong Zhang	10.1109/CLUSTER51413.2022.00023
+AutoPipe: A Fast Pipeline Parallelism Approach with Balanced Partitioning and Micro-batch Slicing.	Weijie Liu,Zhiquan Lai,Shengwei Li,Yabo Duan,Keshi Ge,Dongsheng Li 0001	10.1109/CLUSTER51413.2022.00042
+Bring the BitCODE-Moving Compute and Data in Distributed Heterogeneous Systems.	Wenbin Lu,Luis E. Peña,Pavel Shamis,Valentin Churavy,Barbara M. Chapman,Steve Poole 0001	10.1109/CLUSTER51413.2022.00017
+Protecting Metadata Servers From Harm Through Application-level I/O Control.	Ricardo Macedo,Mariana Miranda,Yusuke Tanimura,Jason Haga,Amit Ruhela,Stephen Lien Harrell,Richard Todd Evans,João Paulo 0001	10.1109/CLUSTER51413.2022.00075
+Matching-based Scheduling of Asynchronous Data Processing Workflows on the Computing Continuum.	Narges Mehran,Zahra Najafabadi Samani,Dragi Kimovski,Radu Prodan	10.1109/CLUSTER51413.2022.00021
+BALA-CPD: BALanced and Asynchronous Distributed Tensor Decomposition.	Zheng Miao,Jiajia Li 0001,Jon C. Calhoun,Rong Ge 0002	10.1109/CLUSTER51413.2022.00054
+Towards Virtual Certification of Gas Turbine Engines With Performance-Portable Simulations.	Gihan R. Mudalige,István Z. Reguly,Arun Prabhakar,Dario Amirante,Leigh Lapworth,Stephen A. Jarvis	10.1109/CLUSTER51413.2022.00034
+Learning tenant behavior and evolutionary approach for demand response in colocation datacenters.	Jonathan Muraña,Santiago Iturriaga,Sergio Nesmachnow	10.1109/CLUSTER51413.2022.00067
+Assessment of the I/O and Storage Subsystem in Modular Supercomputing Architectures.	Sarah Neuwirth	10.1109/CLUSTER51413.2022.00077
+What does Inter-Cluster Job Submission and Execution Behavior Reveal to Us?	Tirthak Patel,Devesh Tiwari,Raj Kettimuthu,William E. Allcock,Paul Rich,Zhengchun Liu	10.1109/CLUSTER51413.2022.00019
+Automatic vehicle counting area creation based on vehicle Deep Learning detection and DBSCAN.	Gerardo Alvarez Piña,Eduardo Ulises Moya-Sánchez,Abraham Sánchez Pérez,Ulises Cortés	10.1109/CLUSTER51413.2022.00069
+Towards Real- Time Classification of HPC Workloads via Out-of-band Telemetry.	Steven Presser	10.1109/CLUSTER51413.2022.00078
+High Performance Adaptive Physics Refinement to Enable Large-Scale Tracking of Cancer Cell Trajectory.	Daniel F. Puleri,Sayan Roychowdhury,Peter Balogh,John Gounley,Erik W. Draeger,Jeff Ames,Adebayo Adebiyi,Simbarashe Chidyagwai,Benjamín Hernández,Seyong Lee,Shirley V. Moore,Jeffrey S. Vetter,Amanda Randles	10.1109/CLUSTER51413.2022.00036
+FaaSt: Optimize makespan of serverless workflows in federated commercial FaaS.	Sashko Ristov,Philipp Gritsch	10.1109/CLUSTER51413.2022.00032
+Early Experiences of Noise-Sensitivity Performance Analysis of a Distributed Deep Learning Framework.	Elvis Rojas,Michael Knobloch,Nour Daoud,Esteban Meneses,Bernd Mohr	10.1109/CLUSTER51413.2022.00066
+Pushing the Boundaries of Small Tasks: Scalable Low-Overhead Data-Flow Programming in TTG.	Joseph Schuchart,Poornima Nookala,Thomas Hérault,Edward F. Valeev,George Bosilca	10.1109/CLUSTER51413.2022.00026
+Exploring Light-weight Cryptography for Efficient and Secure Lossy Data Compression.	Ruiwen Shan,Sheng Di,Jon C. Calhoun,Franck Cappello	10.1109/CLUSTER51413.2022.00018
+Last-mile Matters: Mitigating the Tail Latency of Virtualized Networks with Multipath Data Plane.	Dian Shen,Yi Zhai,Fang Dong 0001,Junzhou Luo	10.1109/CLUSTER51413.2022.00033
+Distributed Continuation Stealing is More Scalable than You Might Think.	Shumpei Shiina,Kenjiro Taura	10.1109/CLUSTER51413.2022.00027
+Performance of an Astrophysical Radiation Hydrodynamics Code under Scalable Vector Extension Optimization.	Dennis C. Smolarski,F. Douglas Swesty,Alan C. Calder	10.1109/CLUSTER51413.2022.00071
+Hybrid Analysis of Fusion Data for Online Understanding of Complex Science on Extreme Scale Computers.	Eric Suchyta,Jong Youl Choi,Seung-Hoe Ku,David Pugmire,Ana Gainaru,Kevin A. Huck,Ralph Kube,Aaron Scheinberg,Frédéric Suter,Choong-Seock Chang,Todd S. Munson,Norbert Podhorszki,Scott Klasky	10.1109/CLUSTER51413.2022.00035
+SKV: A SmartNIC-Offloaded Distributed Key-Value Store.	Shangyi Sun,Rui Zhang,Ming Yan,Jie Wu 0003	10.1109/CLUSTER51413.2022.00016
+An Asynchronous Parallel Algorithm to Improve the Scalability of Finite Element Solvers.	Zhuo Tian,Changyou Zhang	10.1109/CLUSTER51413.2022.00062
+Fast(er) Construction of Round-optimal $n$-Block Broadcast Schedules.	Jesper Larsson Träff	10.1109/CLUSTER51413.2022.00028
+Performance analysis of a state vector quantum circuit simulation on A64FX processor.	Miwako Tsuji,Mitsuhisa Sato	10.1109/CLUSTER51413.2022.00074
+LDMS Darshan Connector: For Run Time Diagnosis of HPC Application I/O Performance.	Sara Walton,Omar Aaziz,Ana Luisa Veroneze Solórzano,Benjamin Schwaller	10.1109/CLUSTER51413.2022.00082
+Integrating process, control-flow, and data resiliency layers using a hybrid Fenix/Kokkos approach.	Matthew Whitlock,Nicolas Morales,George Bosilca,Aurelien Bouteiller,Bogdan Nicolae,Keita Teranishi,Elisabeth Giem,Vivek Sarkar	10.1109/CLUSTER51413.2022.00052
+ACCLAiM: Advancing the Practicality of MPI Collective Communication Autotuning Using Machine Learning.	Michael Wilkins,Yanfei Guo,Rajeev Thakur,Peter A. Dinda,Nikos Hardavellas	10.1109/CLUSTER51413.2022.00030
+Impact of Containerization on Low-Cost Post Moore Computing Architectures.	Pablo Josue Rojas Yepes,Carlos Jaime Barrios Hernández,Luiz Angelo Steffenel	10.1109/CLUSTER51413.2022.00068
+Optimizing Irregular-Shaped Matrix-Matrix Multiplication on Multi-Core DSPs.	Shangfei Yin,Qinglin Wang,Ruochen Hao,Tianyang Zhou,Songzhu Mei,Jie Liu 0002	10.1109/CLUSTER51413.2022.00055
+An Efficient Sparse CNNs Accelerator on FPGA.	Yonghua Zhang,Hongxu Jiang,Xiaobin Li,Haojie Wang,Dong Dong,Yongxiang Cao	10.1109/CLUSTER51413.2022.00063
+A Comprehensive I/O Knowledge Cycle for Modular and Automated HPC Workload Analysis.	Zhaobin Zhu,Sarah Neuwirth,Thomas Lippert	10.1109/CLUSTER51413.2022.00076
+Call Scheduling to Reduce Response Time of a FaaS System.	Pawel Zuk,Bartlomiej Przybylski,Krzysztof Rzadca	10.1109/CLUSTER51413.2022.00031
+IEEE International Conference on Cluster Computing, CLUSTER 2022, Heidelberg, Germany, September 5-8, 2022		10.1109/CLUSTER51413.2022

@@ -1,0 +1,47 @@
+General-purpose code acceleration with limited-precision analog computation.	Renée St. Amant,Amir Yazdanbakhsh,Jongse Park,Bradley Thwaites,Hadi Esmaeilzadeh,Arjang Hassibi,Luis Ceze,Doug Burger	10.1109/ISCA.2014.6853213
+SC2: A statistical compression cache scheme.	Angelos Arelakis,Per Stenström	10.1109/ISCA.2014.6853231
+Eliminating redundant fragment shader executions on a mobile GPU via hardware memoization.	José-María Arnau,Joan-Manuel Parcerisa,Polychronis Xekalakis	10.1109/ISCA.2014.6853207
+SynFull: Synthetic traffic models capturing cache coherent behaviour.	Mario Badr,Natalie D. Enright Jerger	10.1109/ISCA.2014.6853236
+HELIX-RC: An architecture-compiler co-design for automatic parallelization of irregular programs.	Simone Campanoni,Kevin Brownell,Svilen Kanev,Timothy M. Jones 0001,Gu-Yeon Wei,David M. Brooks	10.1109/ISCA.2014.6853215
+ArchRanker: A ranking approach to design space exploration.	Tianshi Chen 0002,Qi Guo 0001,Ke Tang 0001,Olivier Temam,Zhiwei Xu 0002,Zhi-Hua Zhou,Yunji Chen	10.1109/ISCA.2014.6853198
+Increasing off-chip bandwidth in multi-core processors with switchable pins.	Shaoming Chen,Yue Hu,Ying Zhang 0016,Lu Peng 0001,Jesse Ardonne,Samuel Irving,Ashok Srivastava	10.1109/ISCA.2014.6853220
+MemGuard: A low cost and energy efficient design to support and enhance memory system reliability.	Long Chen,Zhao Zhang 0010	10.1109/ISCA.2014.6853221
+Improving the energy efficiency of Big Cores.	Kenneth Czechowski,Victor W. Lee,Ed Grochowski,Ronny Ronen,Ronak Singhal,Richard W. Vuduc,Pradeep Dubey	10.1109/ISCA.2014.6853219
+SCORPIO: A 36-core research chip demonstrating snoopy coherence on a scalable mesh NoC with in-network ordering.	Bhavya K. Daya,Chia-Hsin Owen Chen,Suvinay Subramanian,Woo-Cheol Kwon,Sunghyun Park 0002,Tushar Krishna,Jim Holt,Anantha P. Chandrakasan,Li-Shiuan Peh	10.1109/ISCA.2014.6853232
+GangES: Gang error simulation for hardware resiliency evaluation.	Siva Kumar Sastry Hari,Radha Venkatagiri,Sarita V. Adve,Helia Naeimi	10.1109/ISCA.2014.6853212
+Replay debugging: Leveraging record and replay for program debugging.	Nima Honarmand,Josep Torrellas	10.1109/ISCA.2014.6853229
+Reducing access latency of MLC PCMs through line striping.	Morteza Hoseinzadeh,Mohammad Arjomand,Hamid Sarbazi-Azad	10.1109/ISCA.2014.6853228
+A low power and reliable charge pump design for Phase Change Memories.	Lei Jiang 0001,Bo Zhao 0007,Jun Yang 0002,Youtao Zhang	10.1109/ISCA.2014.6853194
+HIOS: A host interface I/O scheduler for Solid State Disks.	Myoungsoo Jung,Wonil Choi,Shekhar Srikantaiah,Joonhyuk Yoo,Mahmut T. Kandemir	10.1109/ISCA.2014.6853216
+Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors.	Yoongu Kim,Ross Daly,Jeremie S. Kim,Chris Fallin,Ji-Hye Lee,Donghyuk Lee,Chris Wilkerson,Konrad Lai,Onur Mutlu	10.1109/ISCA.2014.6853210
+SleepScale: Runtime joint speed scaling and sleep states management for power efficient data centers.	Yanpei Liu,Stark C. Draper,Nam Sung Kim	10.1109/ISCA.2014.6853235
+Optimizing virtual machine consolidation performance on NUMA server architecture for cloud workloads.	Ming Liu 0006,Tao Li 0006	10.1109/ISCA.2014.6853224
+Going vertical in memory management: Handling multiplicity by multi-policy.	Lei Liu 0030,Yong Li,Zehan Cui,Yungang Bao,Mingyu Chen 0001,Chengyong Wu	10.1109/ISCA.2014.6853214
+Towards energy proportionality for large-scale latency-critical workloads.	David Lo 0003,Liqun Cheng,Rama Govindaraju,Luiz André Barroso,Christos Kozyrakis	10.1109/ISCA.2014.6853237
+Race Logic: A hardware acceleration for dynamic programming algorithms.	Advait Madhavan,Timothy Sherwood,Dmitri B. Strukov	10.1109/ISCA.2014.6853226
+Row-buffer decoupling: A case for low-latency DRAM microarchitecture.	Seongil O,Young Hoon Son,Nam Sung Kim,Jung Ho Ahn	10.1109/ISCA.2014.6853230
+Fine-grain task aggregation and coordination on GPUs.	Marc S. Orr,Bradford M. Beckmann,Steven K. Reinhardt,David A. Wood 0001	10.1109/ISCA.2014.6853209
+Memory persistency.	Steven Pelley,Peter M. Chen,Thomas F. Wenisch	10.1109/ISCA.2014.6853222
+EOLE: Paving the way for an effective implementation of value prediction.	Arthur Perais,André Seznec	10.1109/ISCA.2014.6853205
+A reconfigurable fabric for accelerating large-scale datacenter services.	Andrew Putnam,Adrian M. Caulfield,Eric S. Chung,Derek Chiou,Kypros Constantinides,John Demme,Hadi Esmaeilzadeh,Jeremy Fowers,Gopi Prashanth Gopal,Jan Gray,Michael Haselman,Scott Hauck,Stephen Heil,Amir Hormati,Joo-Young Kim 0001,Sitaram Lanka,James R. Larus,Eric Peterson,Simon Pope,Aaron Smith,Jason Thong,Phillip Yi Xiao,Doug Burger	10.1109/ISCA.2014.6853195
+Pacifier: Record and replay for relaxed-consistency multiprocessors with distributed directory protocol.	Xuehai Qian,Benjamín Sahelices,Depei Qian	10.1109/ISCA.2014.6853225
+OmniOrder: Directory-based conflict serialization of transactions.	Xuehai Qian,Benjamín Sahelices,Josep Torrellas	10.1109/ISCA.2014.6853223
+Navigating the cache hierarchy with a single lookup.	Andreas Sembrant,Erik Hagersten,David Black-Schaffer	10.1109/ISCA.2014.6853203
+The Dirty-Block Index.	Vivek Seshadri,Abhishek Bhowmick 0002,Onur Mutlu,Phillip B. Gibbons,Michael A. Kozuch,Todd C. Mowry	10.1109/ISCA.2014.6853204
+Aladdin: A pre-RTL, power-performance accelerator simulator enabling large design space exploration of customized architectures.	Yakun Sophia Shao,Brandon Reagen,Gu-Yeon Wei,David M. Brooks	10.1109/ISCA.2014.6853196
+Efficient digital neurons for large scale cortical architectures.	James E. Smith 0001	10.1109/ISCA.2014.6853206
+An examination of the architecture and system-level tradeoffs of employing steep slope devices in 3D CMPs.	Karthik Swaminathan,Huichu Liu,Jack Sampson,Vijaykrishnan Narayanan	10.1109/ISCA.2014.6853197
+Enabling preemptive multiprogramming on GPUs.	Ivan Tanasic,Isaac Gelado,Javier Cabezas,Alex Ramírez,Nacho Navarro,Mateo Valero	10.1109/ISCA.2014.6853208
+Unifying on-chip and inter-node switching within the Anton 2 network.	Brian Towles,J. P. Grossman,Brian Greskamp,David E. Shaw	10.1109/ISCA.2014.6853238
+Avoiding core&apos;s DUE &amp; SDC via acoustic wave detectors and tailored error containment and recovery.	Gaurang Upasani,Xavier Vera,Antonio González 0001	10.1109/ISCA.2014.6853200
+Harnessing ISA diversity: Design of a heterogeneous-ISA chip multiprocessor.	Ashish Venkat,Dean M. Tullsen	10.1109/ISCA.2014.6853218
+STAG: Spintronic-Tape Architecture for GPGPU cache hierarchies.	Rangharajan Venkatesan,Shankar Ganesh Ramasubramanian,Swagath Venkataramani,Kaushik Roy 0001,Anand Raghunathan	10.1109/ISCA.2014.6853233
+CODOMs: Protecting software with Code-centric memory Domains.	Lluís Vilanova,Muli Ben-Yehuda,Nacho Navarro,Yoav Etsion,Mateo Valero	10.1109/ISCA.2014.6853202
+Single-graph multiple flows: Energy efficient design alternative for GPGPUs.	Dani Voitsechov,Yoav Etsion	10.1109/ISCA.2014.6853234
+Fractal++: Closing the performance gap between fractal and conventional coherence.	Gwendolyn Voskuilen,T. N. Vijaykumar	10.1109/ISCA.2014.6853211
+Real-world design and evaluation of compiler-managed GPU redundant multithreading.	Jack Wadden,Alexander Lyashevsky,Sudhanva Gurumurthi,Vilas Sridharan,Kevin Skadron	10.1109/ISCA.2014.6853227
+The CHERI capability model: Revisiting RISC in an age of risk.	Jonathan Woodruff,Robert N. M. Watson,David Chisnall,Simon W. Moore,Jonathan Anderson,Brooks Davis,Ben Laurie,Peter G. Neumann,Robert M. Norton,Michael Roe	10.1109/ISCA.2014.6853201
+Half-DRAM: A high-bandwidth and low-power DRAM architecture from the rethinking of fine-grained activation.	Tao Zhang 0032,Ke Chen 0020,Cong Xu,Guangyu Sun 0003,Tao Wang 0004,Yuan Xie 0001	10.1109/ISCA.2014.6853217
+Architecture implications of pads as a scarce resource.	Runjie Zhang,Ke Wang 0011,Brett H. Meyer,Mircea R. Stan,Kevin Skadron	10.1109/ISCA.2014.6853199
+WebCore: Architectural support for mobile Web browsing.	Yuhao Zhu 0001,Vijay Janapa Reddi	10.1109/ISCA.2014.6853239
+ACM/IEEE 41st International Symposium on Computer Architecture, ISCA 2014, Minneapolis, MN, USA, June 14-18, 2014		

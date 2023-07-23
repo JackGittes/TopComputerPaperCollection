@@ -1,0 +1,89 @@
+Fast and Scalable Sparse Triangular Solver for Multi-GPU Based HPC Architectures.	Chenhao Xie 0001,Jieyang Chen,Jesun Firoz,Jiajia Li 0001,Shuaiwen Leon Song,Kevin J. Barker,Mark Raugas,Ang Li 0006	10.1145/3472456.3472478
+Interferences between Communications and Computations in Distributed HPC Systems.	Alexandre Denis 0001,Emmanuel Jeannot,Philippe Swartvagher	10.1145/3472456.3473516
+Sparker: Efficient Reduction for More Scalable Machine Learning with Spark.	Bowen Yu 0003,Huanqi Cao,Tianyi Shan,Haojie Wang,Xiongchao Tang,Wenguang Chen	10.1145/3472456.3472499
+SPMFS: A Scalable Persistent Memory File System on Optane Persistent Memory.	Yang Yang 0068,Qiang Cao 0001,Jie Yao,Yuanyuan Dong,Weikang Kong	10.1145/3472456.3472503
+An Evaluation of Task-Parallel Frameworks for Sparse Solvers on Multicore and Manycore CPU Architectures.	Abdullah Alperen,Md. Afibuzzaman,Fazlay Rabbi,M. Yusuf Özkaya,Ümit V. Çatalyürek,Hasan Metin Aktulga	10.1145/3472456.3472476
+Efficiently Parallelizable Strassen-Based Multiplication of a Matrix by its Transpose.	Viviana Arrigoni,Filippo Maggioli,Annalisa Massini,Emanuele Rodolà	10.1145/3472456.3473519
+Optimizing Work Stealing Communication with Structured Atomic Operations.	Hannah Cartier,James Dinan,D. Brian Larkins	10.1145/3472456.3472522
+HiPa: Hierarchical Partitioning for Fast PageRank on NUMA Multicore Systems.	YuAng Chen,Yeh-Ching Chung	10.1145/3472456.3475737
+BGPQ: A Heap-Based Priority Queue Design for GPUs.	Yan-Hao Chen,Fei Hua,Yuwei Jin,Eddy Z. Zhang	10.1145/3472456.3472463
+Coupling Right-Provisioned Cold Storage Data Centers with Deduplication.	Liangfeng Cheng,Yuchong Hu,Zhaokang Ke,Zhongjie Wu	10.1145/3472456.3472485
+A Graph-Assisted Out-of-Place Update Scheme for Erasure Coded Storage Systems.	Haiwei Deng,Ranhao Jia,Chentao Wu	10.1145/3472456.3472502
+Fast and Consistent Remote Direct Access to Non-volatile Memory.	Jingwen Du,Fang Wang 0001,Dan Feng 0001,Weiguang Li,Fan Li	10.1145/3472456.3472480
+Joint Optimization of DNN Partition and Scheduling for Mobile Cloud Computing.	Yubin Duan,Jie Wu 0001	10.1145/3472456.3472468
+GVT-Guided Demand-Driven Scheduling in Parallel Discrete Event Simulation.	Ali Eker,David Timmerman,Barry Williams,Kenneth Chiu,Dmitry Ponomarev 0001	10.1145/3472456.3472470
+Scaling Generalized N-Body Problems, A Case Study from Genomics.	Marquita Ellis,Aydin Buluç,Katherine A. Yelick	10.1145/3472456.3472517
+Exploiting in-Hub Temporal Locality in SpMV-based Graph Processing.	Mohsen Koohi Esfahani,Peter Kilpatrick,Hans Vandierendonck	10.1145/3472456.3472462
+CNN+LSTM Accelerated Turbulent Flow Simulation with Link-Wise Artificial Compressibility Method.	Sijiang Fan,Jiawei Fei,Xiaowei Guo,Canqun Yang,Alistair Revell	10.1145/3472456.3472525
+Regu2D: Accelerating Vectorization of SpMV on Intel Processors through 2D-partitioning and Regular Arrangement.	Xiang Fei,Youhui Zhang	10.1145/3472456.3472479
+Accelerating Sequence-to-Graph Alignment on Heterogeneous Processors.	Zonghao Feng,Qiong Luo 0001	10.1145/3472456.3472505
+Automatic Generation of High-Performance Inference Kernels for Graph Neural Networks on Multi-Core Systems.	Qiang Fu,H. Howie Huang	10.1145/3472456.3473511
+FIFL: A Fair Incentive Mechanism for Federated Learning.	Liang Gao,Li Li 0064,Yingwen Chen 0001,Wenli Zheng,Chengzhong Xu 0001,Ming Xu 0002	10.1145/3472456.3472469
+ComputeCOVID19+: Accelerating COVID-19 Diagnosis and Monitoring via High-Performance Deep Learning on CT Images.	Garvit Goel,Atharva Gondhalekar,Jingyuan Qi,Zhicheng Zhang,Guohua Cao,Wu Feng	10.1145/3472456.3473523
+Wave-PIM: Accelerating Wave Simulation Using Processing-in-Memory.	Bagus Hanindhito,Ruihao Li 0002,Dimitrios Gourounas,Arash Fathi,Karan Govil,Dimitar Trenev,Andreas Gerstlauer,Lizy Kurian John	10.1145/3472456.3472512
+Parallel Multi-split Extendible Hashing for Persistent Memory.	Jing Hu,Jianxi Chen,Yifeng Zhu,Qing Yang,Zhouxuan Peng,Ya Yu	10.1145/3472456.3472500
+A Novel Multi-CPU/GPU Collaborative Computing Framework for SGD-based Matrix Factorization.	Yizhi Huang,Yanlong Yin,Yan Liu 0032,Shuibing He,Yang Bai 0007,Renfa Li	10.1145/3472456.3472520
+AMPS-Inf: Automatic Model Partitioning for Serverless Inference with Cost Efficiency.	Jananie Jarachanthan,Li Chen 0019,Fei Xu,Bo Li 0001	10.1145/3472456.3472501
+Accelerating DBSCAN Algorithm with AI Chips for Large Datasets.	Zhuoran Ji,Cho-Li Wang	10.1145/3472456.3473518
+Matryoshka: A Coalesced Delta Sequence Prefetcher.	Shizhi Jiang,Yiwei Ci,Qiusong Yang,Mingshu Li 0001	10.1145/3472456.3473510
+ROBOTune: High-Dimensional Configuration Tuning for Cluster-Based Data Analytics.	Md. Muhib Khan,Weikuan Yu	10.1145/3472456.3472518
+Tridiagonal GPU Solver with Scaled Partial Pivoting at Maximum Bandwidth.	Christoph Klein 0002,Robert Strzodka	10.1145/3472456.3472484
+MetaCache-GPU: Ultra-Fast Metagenomic Classification.	Robin Kobus,André Müller,Daniel Jünger,Christian Hundt 0002,Bertil Schmidt	10.1145/3472456.3472460
+CuART - a CUDA-based, scalable Radix-Tree lookup and update engine.	Martin Koppehel,Tobias Groth,Sven Groppe,Thilo Pionteck	10.1145/3472456.3472511
+Efficient GPU-Implementation for Integer Sorting Based on Histogram and Prefix-Sums.	Seiya Kozakai,Noriyuki Fujimoto,Koichi Wada	10.1145/3472456.3472486
+Accelerated Device Placement Optimization with Contrastive Learning.	Hao Lan,Li Chen 0019,Baochun Li	10.1145/3472456.3472523
+Tool-Supported Mini-App Extraction to Facilitate Program Analysis and Parallelization.	Jan-Patrick Lehr,Christian H. Bischof,Florian Dewald,Heiko Mantel,Mohammad Norouzi 0003,Felix Wolf 0001	10.1145/3472456.3472521
+Crash-Consistency-Aware Encryption for Non-Volatile Memories.	Mengya Lei,Fang Wang 0001,Dan Feng 0001,Fan Li,Xueliang Wei	10.1145/3472456.3472483
+Parallel Tucker Decomposition with Numerically Accurate SVD.	Zitong Li,Qiming Fang,Grey Ballard	10.1145/3472456.3472472
+Optimizing Massively Parallel Winograd Convolution on ARM Processor.	Dongsheng Li,Dan Huang,Zhiguang Chen,Yutong Lu	10.1145/3472456.3472496
+LoWino: Towards Efficient Low-Precision Winograd Convolutions on Modern CPUs.	Guangli Li,Zhen Jia,Xiaobing Feng 0002,Yida Wang	10.1145/3472456.3472464
+Intra-page Cache Update in SLC-mode with Partial Programming in High Density SSDs.	Jun Li 0062,Minjun Li,Zhigang Cai,François Trahay,Mohamed Wahib,Balazs Gerofi,Zhiming Liu 0001,Min Huang,Jianwei Liao	10.1145/3472456.3472492
+BitX: Empower Versatile Inference with Hardware Runtime Pruning.	Hongyan Li,Hang Lu,Jiawen Huang,Wenxu Wang,Mingzhe Zhang,Wei Chen,Liang Chang,Xiaowei Li 0001	10.1145/3472456.3472513
+Fast Reconstruction for Large Disk Enclosures Based on RAID2.0.	Qiliang Li,Min Lyu,Liangliang Xu,Yinlong Xu,Wei Wang	10.1145/3472456.3474450
+Automatic Code Generation and Optimization of Large-scale Stencil Computation on Many-core Processors.	Mingzhen Li,Yi Liu 0013,Hailong Yang,Yongmin Hu,Qingxiao Sun,Bangduo Chen,Xin You,Xiaoyan Liu,Zhongzhi Luan,Depei Qian	10.1145/3472456.3473517
+Optimizing Flow Completion Time via Adaptive Buffer Management in Data Center Networks.	Sen Liu 0002,Xiang Lin,Zehua Guo 0001,Yi Wang 0004,Mohamed Adel Serhani,Yang Xu 0010	10.1145/3472456.3472507
+FastPSO: Towards Efficient Swarm Intelligence Algorithm on GPUs.	Hanfeng Liu,Zeyi Wen,Wei Cai 0002	10.1145/3472456.3472474
+Optimizing Winograd-Based Convolution with Tensor Cores.	Junhong Liu,Dongxu Yang,Junjie Lai	10.1145/3472456.3472473
+gem5 + rtl: A Framework to Enable RTL Models Inside a Full-System Simulator.	Guillem López-Paradís,Adrià Armejach,Miquel Moretó	10.1145/3472456.3472461
+Efficient Complete Event Trend Detection over High-Velocity Streams.	Huiyao Mei,Hanhua Chen,Hai Jin 0001,Qiang-Sheng Hua,Bing Zhou	10.1145/3472456.3472526
+Efficient Parallel Algorithms for String Comparison.	Nikita Mishin,Daniil Berezun,Alexander Tiskin	10.1145/3472456.3472489
+Accurate Matrix Multiplication on Binary128 Format Accelerated by Ozaki Scheme.	Daichi Mukunoki,Katsuhisa Ozaki,Takeshi Ogita,Toshiyuki Imamura	10.1145/3472456.3472493
+Combining Dynamic Concurrency Throttling with Voltage and Frequency Scaling on Task-based Programming Models.	Antoni Navarro Muñoz,Arthur Francisco Lorenzon,Eduard Ayguadé Parra,Vicenç Beltran Querol	10.1145/3472456.3472471
+Exploiting system level heterogeneity to improve the performance of a GeoStatistics multi-phase task-based application.	Lucas Leandro Nesi,Arnaud Legrand,Lucas Mello Schnorr	10.1145/3472456.3472516
+Fourth-Order Exhaustive Epistasis Detection for the xPU Era.	Ricardo Nobre,Aleksandar Ilic,Sergio Santander-Jiménez,Leonel Sousa	10.1145/3472456.3472509
+Multi-Resource List Scheduling of Moldable Parallel Jobs under Precedence Constraints.	Lucas Perotin,Hongyang Sun 0001,Padma Raghavan	10.1145/3472456.3472487
+Teddy: An Efficient SIMD-based Literal Matching Engine for Scalable Deep Packet Inspection.	Kun Qiu,Harry Chang,Yang Hong,Wenjun Zhu,Xiang Wang,Baoqian Li	10.1145/3472456.3473512
+Generalized Skyline Interval Coloring and Dynamic Geometric Bin Packing Problems.	Runtian Ren,Xueyan Tang	10.1145/3472456.3472519
+IMPECCABLE: Integrated Modeling PipelinE for COVID Cure by Assessing Better LEads.	Aymen Al Saadi,Dario Alfè,Yadu N. Babuji,Agastya Bhati,Ben Blaiszik,Alexander Brace,Thomas S. Brettin,Kyle Chard,Ryan Chard,Austin Clyde,Peter V. Coveney,Ian T. Foster,Tom Gibbs,Shantenu Jha,Kristopher Keipert,Dieter Kranzlmüller,Thorsten Kurth,Hyungro Lee,Zhuozhao Li,Heng Ma,Gerald Mathias,André Merzky,Alexander Partin,Arvind Ramanathan,Ashka Shah,Abraham C. Stern,Rick Stevens,Li Tan,Mikhail Titov,Anda Trifan,Aristeidis Tsaris,Matteo Turilli,Huub J. J. Van Dam,Shunzhou Wan,David Wifling,Junqi Yin	10.1145/3472456.3473524
+Paratick: Reducing Timer Overhead in Virtual Machines.	Stijn Schildermans,Kris Aerts,Jianchen Shan,Xiaoning Ding	10.1145/3472456.3472510
+Context-aware Data Operation Strategies in Edge Systems for High Application Performance.	Tanmoy Sen,Haiying Shen	10.1145/3472456.3472481
+Using Vectorized Execution to Improve SQL Query Performance on Spark.	Yijie Shen,Jin Xiong,Dejun Jiang 0001	10.1145/3472456.3472495
+sRouting: Towards a Better Flow Size Estimation Performance through Routing and Sketch Configuration.	Yang Shi,Mei Wen	10.1145/3472456.3472465
+Processor-Aware Cache-Oblivious Algorithms✱.	Yuan Tang,Weiguo Gao	10.1145/3472456.3472506
+Ascetic: Enhancing Cross-Iterations Data Efficiency in Out-of-Memory Graph Processing on GPUs.	Ruiqi Tang,Ziyi Zhao,Kailun Wang,Xiaoli Gong,Jin Zhang 0003,Wenwen Wang 0001,Pen-Chung Yew	10.1145/3472456.3472457
+Enabling Efficient SIMD Acceleration for Virtual Radio Access Network.	Jianda Wang,Yang Hu 0001	10.1145/3472456.3472477
+Distributed Game-Theoretical Route Navigation for Vehicular Crowdsensing.	En Wang,Dongming Luan,Yongjian Yang,Zihe Wang 0001,Pengmin Dong,Dawei Li 0002,Wenbin Liu,Jie Wu 0001	10.1145/3472456.3472498
+Multi-Agent Reinforcement Learning based Distributed Renewable Energy Matching for Datacenters.	Haoyu Wang 0003,Haiying Shen,Jiechao Gao,Kevin Zheng,Xiaoying Li	10.1145/3472456.3473514
+Exploring HW/SW Co-Optimizations for Accelerating Large-scale Texture Identification on Distributed GPUs.	Junsong Wang,Xiaofan Zhang 0001,Yubo Li,Yonghua Lin	10.1145/3472456.3473520
+A Fast, General System for Buffered Persistent Data Structures.	Haosen Wen,Wentao Cai 0002,Mingzhe Du,Louis Jenkins,Benjamin Valpey,Michael L. Scott	10.1145/3472456.3472458
+ADA: An Application-Conscious Data Acquirer for Visual Molecular Dynamics.	Hanpei Wu,Tongliang Deng,Yanliang Zou,Shu Yin,Si Chen,Tao Xie 0004	10.1145/3472456.3473509
+Best VM Selection for Big Data Applications across Multiple Frameworks by Transfer Learning.	Yuewen Wu,Heng Wu,Yuanjia Xu,Yi Hu,Wenbo Zhang 0006,Hua Zhong 0007,Tao Huang 0001	10.1145/3472456.3472488
+Efficient Modeling of Random Sampling-Based LRU.	Junyao Yang,Yuchen Wang,Zhenlin Wang	10.1145/3472456.3472514
+Progressive Memory Adjustment with Performance Guarantee in Virtualized Systems.	Lulu Yao,Yongkun Li 0001,Jiawei Li,Weijie Wu,Yinlong Xu	10.1145/3472456.3472491
+Hippie: A Data-Paralleled Pipeline Approach to Improve Memory-Efficiency and Scalability for Large DNN Training.	Xiangyu Ye,Zhiquan Lai,Shengwei Li,Lei Cai,Ding Sun,Linbo Qiao,Dongsheng Li 0001	10.1145/3472456.3472497
+NoStop: A Novel Configuration Optimization Scheme for Spark Streaming.	Qianwen Ye,Wuji Liu,Chase Q. Wu	10.1145/3472456.3472515
+A Universal Construction to implement Concurrent Data Structure for NUMA-muticore.	Zhengming Yi,Yiping Yao,Kai Chen 0020	10.1145/3472456.3472475
+CD-SGD: Distributed Stochastic Gradient Descent with Compression and Delay Compensation.	Enda Yu,Dezun Dong,Yemao Xu,Shuo Ouyang,Xiangke Liao	10.1145/3472456.3472508
+CERES: Container-Based Elastic Resource Management System for Mixed Workloads.	Jinyu Yu,Dan Feng 0001,Wei Tong 0001,Pengze Lv,Yufei Xiong	10.1145/3472456.3472459
+An Edge-Fencing Strategy for Optimizing SSSP Computations on Large-Scale Graphs.	Huashan Yu,Xiaolin Wang 0001,Yingwei Luo	10.1145/3472456.3472482
+FedCav: Contribution-aware Model Aggregation on Distributed Heterogeneous Data in Federated Learning.	Hui Zeng,Tongqing Zhou,Yeting Guo,Zhiping Cai,Fang Liu 0002	10.1145/3472456.3472504
+Receiver-Driven Congestion Control for InfiniBand.	Yiran Zhang,Kun Qian 0004,Fengyuan Ren	10.1145/3472456.3472466
+Dubhe: Towards Data Unbiasedness with Homomorphic Encryption in Federated Learning Client Selection.	Shulai Zhang,Zirui Li,Quan Chen 0002,Wenli Zheng,Jingwen Leng,Minyi Guo	10.1145/3472456.3473513
+Prophet: Speeding up Distributed DNN Training with Predictable Communication Scheduling.	Zhenwei Zhang,Qiang Qi,Ruitao Shang,Li Chen 0019,Fei Xu	10.1145/3472456.3472467
+Recursion Brings Speedup to Out-of-Core TensorCore-based Linear Algebra Algorithms: A Case Study of Classic Gram-Schmidt QR Factorization.	Shaoshuai Zhang,Panruo Wu	10.1145/3472456.3473522
+Multi-level Forwarding and Scheduling Repair Technique in Heterogeneous Network for Erasure-coded Clusters.	Hai Zhou,Dan Feng 0001,Yuchong Hu	10.1145/3472456.3472494
+ASLDP: An Active Semi-supervised Learning method for Disk Failure Prediction.	Yang Zhou,Fang Wang 0001,Dan Feng 0001	10.1145/3472456.3472490
+PREP: Predicting Job Runtime with Job Running Path on Supercomputers.	Longfang Zhou,Xiaorong Zhang,Wenxiang Yang,Yongguo Han,Fang Wang,Yadong Wu,Jie Yu 0006	10.1145/3472456.3473521
+Communication Avoiding All-Pairs Shortest Paths Algorithm for Sparse Graphs.	Lin Zhu,Qiang-Sheng Hua,Hai Jin 0001	10.1145/3472456.3472524
+HDNH: a read-efficient and write-optimized hashing scheme for hybrid DRAM-NVM memory.	Junhao Zhu,Kaixin Huang,Xiaomin Zou,Chenglong Huang,Nuo Xu,Liang Fang	10.1145/3472456.3473515
+ICPP 2021: 50th International Conference on Parallel Processing, Lemont, IL, USA, August 9 - 12, 2021	Xian-He Sun,Sameer Shende,Laxmikant V. Kalé,Yong Chen 0001	10.1145/3472456

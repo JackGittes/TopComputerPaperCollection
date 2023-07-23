@@ -1,0 +1,48 @@
+POSTER: Cache-Oblivious MPI All-to-All Communications on Many-Core Architectures.	Shigang Li 0002	10.1145/3018743.3019025
+Contention in Structured Concurrency: Provably Efficient Dynamic Non-Zero Indicators for Nested Parallelism.	Umut A. Acar	10.1145/3018743.3018762
+POSTER: Reuse, don&apos;t Recycle: Transforming Algorithms that Throw Away Descriptors.	Maya Arbel-Raviv	10.1145/3018743.3019035
+S-Caffe: Co-designing MPI Runtimes and Caffe for Scalable Deep Learning on Modern GPU Clusters.	Ammar Ahmad Awan	10.1145/3018743.3018769
+POSTER: An Architecture and Programming Model for Accelerating Parallel Commutative Computations via Privatization.	Vignesh Balaji	10.1145/3018743.3019030
+KiWi: A Key-Value Map for Scalable Real-Time Analytics.	Dmitry Basin	10.1145/3018743.3018761
+Synchronized-by-Default Concurrency for Shared-Memory Systems.	Martin Bättig	10.1145/3018743.3018747
+Groute: An Asynchronous Multi-GPU Programming Model for Irregular Computations.	Tal Ben-Nun	10.1145/3018743.3018756
+POSTER: HythTM: Extending the Applicability of Intel TSX Hardware Transactional Support.	Arnamoy Bhattacharyya	10.1145/3018743.3019027
+An Efficient Abortable-locking Protocol for Multi-level NUMA Systems.	Milind Chabbi	10.1145/3018743.3018768
+EffiSha: A Software Framework for Enabling Effficient Preemptive Scheduling of GPU.	Guoyang Chen	10.1145/3018743.3018748
+POSTER: Provably Efficient Scheduling of Cache-Oblivious Wavefront Algorithms.	Rezaul Chowdhury	10.1145/3018743.3019031
+POSTER: State Teleportation via Hardware Transactional Memory.	Nachshon Cohen	10.1145/3018743.3019026
+Layout Lock: A Scalable Locking Paradigm for Concurrent Data Layout Modifications.	Nachshon Cohen	10.1145/3018743.3018753
+POSTER: IOGP: An Incremental Online Graph Partitioning for Large-Scale Distributed Graph Databases.	Dong Dai 0001	10.1145/3018743.3019037
+POSTER: Distributed Control: The Benefits of Eliminating Global Synchronization via Effective Scheduling.	Jesun Sahariar Firoz	10.1145/3018743.3019036
+Combining SIMD and Many/Multi-core Parallelism for Finite State Machines with Enumerative Speculation.	Peng Jiang 0004	10.1145/3018743.3018760
+Grammar-aware Parallelization for Scalable XPath Querying.	Lin Jiang	10.1145/3018743.3018772
+POSTER: MAPA: An Automatic Memory Access Pattern Analyzer for GPU Applications.	Gangwon Jo	10.1145/3018743.3019034
+Thread Data Sharing in Cache: Theory and Measurement.	Hao Luo 0007	10.1145/3018743.3018759
+A Multicore Path to Connectomics-on-Demand.	Alexander Matveev	10.1145/3018743.3018766
+POSTER: Automated Load Balancer Selection Based on Application Characteristics.	Harshitha Menon	10.1145/3018743.3019033
+Function Call Re-Vectorization.	Rubens E. A. Moreira	10.1145/3018743.3018751
+POSTER: A GPU-Friendly Skiplist Algorithm.	Nurit Moscovici	10.1145/3018743.3019032
+Checking Concurrent Data Structures Under the C/C++11 Memory Model.	Peizhao Ou	10.1145/3018743.3018749
+Simple, Accurate, Analytical Time Modeling and Optimal Tile Size Selection for GPGPU Stencils.	Nirmal Prajapati	10.1145/3018743.3018744
+Optimizing the Four-Index Integral Transform Using Data Movement Lower Bounds Analysis.	Samyam Rajbhandari	10.1145/3018743.3018771
+POSTER: Poor Man&apos;s URCU.	Pedro Ramalhete	10.1145/3018743.3019021
+POSTER: A Wait-Free Queue with Wait-Free Memory Reclamation.	Pedro Ramalhete	10.1145/3018743.3019022
+Exploiting Vector and Multicore Parallelism for Recursive, Data- and Task-Parallel Programs.	Bin Ren	10.1145/3018743.3018763
+Model-based Iterative CT Image Reconstruction on GPUs.	Amit Sabne	10.1145/3018743.3018765
+Noise Injection Techniques to Expose Subtle and Unintended Message Races.	Kento Sato	10.1145/3018743.3018767
+Tapir: Embedding Fork-Join Parallelism into LLVM&apos;s Intermediate Representation.	Tao B. Schardl	10.1145/3018743.3018758
+Isoefficiency in Practice: Configuring and Understanding the Performance of Task-based Applications.	Sergei Shudler	10.1145/3018743.3018770
+It&apos;s Time for a New Old Language.	Guy L. Steele Jr.	10.1145/3018743.3018773
+Using Butterfly-Patterned Partial Sums to Draw from Discrete Distributions.	Guy L. Steele Jr.	10.1145/3018743.3018757
+POSTER: STAR (Space-Time Adaptive and Reductive) Algorithms for Real-World Space-Time Optimality.	Yuan Tang	10.1145/3018743.3019029
+Self-Checkpoint: An In-Memory Checkpoint Method Using Less Space and Its Practice on Fault-Tolerant HPL.	Xiongchao Tang	10.1145/3018743.3018745
+Processor-Oblivious Record and Replay.	Robert Utterback	10.1145/3018743.3018764
+SC-Haskell: Sequential Consistency in Languages That Minimize Mutable Shared Heap.	Michael Vollmer 0003	10.1145/3018743.3018746
+Eunomia: Scaling Concurrent Search Trees under Contention Using HTM.	Xin Wang	10.1145/3018743.3018752
+Silent Data Corruption Resilient Two-sided Matrix Factorizations.	Panruo Wu	10.1145/3018743.3018750
+POSTER: Recovering Performance for Vector-based Machine Learning on Managed Runtime.	Mingyu Wu 0001	10.1145/3018743.3019039
+Pagoda: Fine-Grained GPU Resource Virtualization for Narrow Tasks.	Tsung Tai Yeh	10.1145/3018743.3018754
+POSTER: On the Problem of Consistency Exceptions in the Context of Strong Memory Models.	Minjia Zhang	10.1145/3018743.3019024
+Understanding the GPU Microarchitecture to Achieve Bare-Metal Performance Tuning.	Xiuxia Zhang	10.1145/3018743.3018755
+POSTER: An Infrastructure for HPC Knowledge Sharing and Reuse.	Yue Zhao 0011	10.1145/3018743.3019023
+Proceedings of the 22nd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Austin, TX, USA, February 4-8, 2017	Vivek Sarkar	10.1145/3018743

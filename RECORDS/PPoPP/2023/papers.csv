@@ -1,0 +1,44 @@
+Transactional Composition of Nonblocking Data Structures.	Wentao Cai 0002	10.1145/3572848.3577503
+Unexpected Scaling in Path Copying Trees.	Vitaly Aksenov	10.1145/3572848.3577512
+TL4x: Buffered Durable Transactions on Disk as Fast as in Memory.	Gal Assa	10.1145/3572848.3577495
+Visibility Algorithms for Dynamic Dependence Analysis and Distributed Coherence.	Michael Bauer 0001	10.1145/3572848.3577515
+High-Performance and Scalable Agent-Based Simulation with BioDynaMo.	Lukas Breitwieser	10.1145/3572848.3577480
+DSP: Efficient GNN Training with Multiple GPUs.	Zhenkun Cai	10.1145/3572848.3577528
+Exploring the Use of WebAssembly in HPC.	Mohak Chadha	10.1145/3572848.3577436
+Improving Energy Saving of One-Sided Matrix Decompositions on CPU-GPU Heterogeneous Systems.	Jieyang Chen	10.1145/3572848.3577496
+Elastic Averaging for Efficient Pipelined DNN Training.	Zihao Chen	10.1145/3572848.3577484
+Lifetime-Based Optimization for Simulating Quantum Circuits on a New Sunway Supercomputer.	Yaojian Chen	10.1145/3572848.3577529
+Dynamic N: M Fine-Grained Structured Sparse Attention Mechanism.	Zhaodong Chen	10.1145/3572848.3577500
+Efficient All-Reduce for Distributed DNN Training in Optical Interconnect Systems.	Fei Dai	10.1145/3572848.3577391
+Provably Fast and Space-Efficient Parallel Biconnectivity.	Xiaojun Dong 0001	10.1145/3572848.3577483
+Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing.	Rati Gelashvili	10.1145/3572848.3577524
+CuPBoP: A Framework to Make CUDA Portable.	Ruobing Han	10.1145/3572848.3577504
+Learning to Parallelize in a Shared-Memory Environment with Transformers.	Re&apos;em Harel	10.1145/3572848.3582565
+AArch64 Atomics: Might They Be Harming Your Performance?	Ricardo Jesus	10.1145/3572848.3579838
+Fast Parallel Exact Inference on Bayesian Networks.	Jiantong Jiang	10.1145/3572848.3577476
+Fast and Scalable Channels in Kotlin Coroutines.	Nikita Koval	10.1145/3572848.3577481
+Generating Fast FFT Kernels on CPUs via FFT-Specific Intrinsics.	Zhihao Li	10.1145/3572848.3577477
+A Scalable Hybrid Total FETI Method for Massively Parallel FEM Simulations.	Kehao Lin	10.1145/3572848.3577517
+High-Performance Filters for GPUs.	Hunter McCoy	10.1145/3572848.3577507
+High-Performance GPU-to-CPU Transpilation and Optimization via High-Level Parallel Constructs.	William S. Moses	10.1145/3572848.3577475
+Stream-K: Work-Centric Parallel Decomposition for Dense Matrix-Matrix Multiplication on the GPU.	Muhammad Osama	10.1145/3572848.3577479
+A Programming Model for GPU Load Balancing.	Muhammad Osama	10.1145/3572848.3577434
+iQAN: Fast and Accurate Vector Search with Efficient Intra-Query Parallelism on Multi-Core Architectures.	Zhen Peng	10.1145/3572848.3577527
+2PLSF: Two-Phase Locking with Starvation-Freedom.	Pedro Ramalhete	10.1145/3572848.3577433
+The State-of-the-Art LCRQ Concurrent Queue Algorithm Does NOT Require CAS2.	Raed Romanov	10.1145/3572848.3577485
+Efficient Direct Convolution Using Long SIMD Instructions.	Alexandre de Limas Santana	10.1145/3572848.3577435
+OpenCilk: A Modular and Extensible Software Infrastructure for Fast Task-Parallel Code.	Tao B. Schardl	10.1145/3572848.3577509
+The ERA Theorem for Safe Memory Reclamation.	Gali Sheffi	10.1145/3572848.3577491
+TGOpt: Redundancy-Aware Optimizations for Temporal Graph Attention Networks.	Yufeng Wang	10.1145/3572848.3577490
+PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs.	Chunyang Wang	10.1145/3572848.3577487
+Provably Good Randomized Strategies for Data Placement in Distributed Key-Value Stores.	Zhe Wang	10.1145/3572848.3577501
+Practically and Theoretically Efficient Garbage Collection for Multiversioning.	Yuanhao Wei	10.1145/3572848.3577508
+End-to-End LU Factorization of Large Matrices on GPUs.	Yang Xia	10.1145/3572848.3577486
+TDC: Towards Extremely Efficient CNNs on GPUs via Hardware-Aware Tucker Decomposition.	Lizhi Xiang	10.1145/3572848.3577478
+Merchandiser: Data Placement on Heterogeneous Memory for Task-Parallel HPC Applications with Load-Balance Awareness.	Zhen Xie	10.1145/3572848.3577497
+High-Throughput GPU Random Walk with Fine-Tuned Concurrent Query Processing.	Cheng Xu	10.1145/3572848.3577482
+WISE: Predicting the Performance of Sparse Matrix Vector Multiplication with Machine Learning.	Serif Yesil	10.1145/3572848.3577506
+Fast Symmetric Eigenvalue Decomposition via WY Representation on Tensor Core.	Shaoshuai Zhang	10.1145/3572848.3577516
+Boosting Performance and QoS for Concurrent GPU B+trees by Combining-Based Synchronization.	Weihua Zhang	10.1145/3572848.3577474
+Swift: Expedited Failure Recovery for Large-Scale DNN Training.	Yuchen Zhong	10.1145/3572848.3577510
+Proceedings of the 28th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, PPoPP 2023, Montreal, QC, Canada, 25 February 2023 - 1 March 2023	Maryam Mehri Dehnavi	10.1145/3572848

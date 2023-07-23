@@ -1,0 +1,60 @@
+Tutorial on geo-replication in data center applications.	Marcos K. Aguilera	10.1145/2465529.2465768
+A tale of two metrics: simultaneous bounds on competitiveness and regret.	Lachlan L. H. Andrew,Siddharth Barman,Katrina Ligett,Minghong Lin,Adam Meyerson,Alan Roytman,Adam Wierman	10.1145/2465529.2465533
+Detecting user dissatisfaction and understanding the underlying reasons.	Åke Arvidsson,Ying Zhang 0022	10.1145/2465529.2465538
+Understanding internet video viewing behavior in the wild.	Athula Balachandran,Vyas Sekar,Aditya Akella,Srinivasan Seshan	10.1145/2465529.2465534
+Delays and mixing times in random-access networks.	Niek Bouman,Sem C. Borst,Johan van Leeuwaarden	10.1145/2465529.2465759
+Scheduling of users with markovian time-varying transmission rates.	Fabio Cecchi,Peter Jacko	10.1145/2465529.2465550
+Characterizing the impact of process variation on write endurance enhancing techniques for non-volatile memory systems.	Marcelo Cintra,Niklas Linkewitsch	10.1145/2465529.2465755
+Sharp bounds in stochastic network calculus.	Florin Ciucu,Felix Poloczek,Jens B. Schmitt	10.1145/2465529.2465746
+Understanding architectural characteristics of multimedia retrieval workloads.	Chen Dai,Chao Lv,Jiaxin Li,Weihua Zhang,Binyu Zang	10.1145/2465529.2465541
+Characterizing and modeling the impact of wireless signal strength on smartphone battery drain.	Ning Ding 0004,Daniel T. Wagner,Xiaomeng Chen,Y. Charlie Hu,Andrew C. Rice	10.1145/2465529.2466586
+How does energy accounting matter for energy management?	Mian Dong,Tian Lan,Lin Zhong 0001	10.1145/2465529.2465742
+Exact convex relaxation for optimal power flow in distribution networks.	Lingwen Gan,Na Li,Steven H. Low,Ufuk Topcu	10.1145/2465529.2465535
+Exact analysis of the M/M/k/setup class of Markov chains via recursive renewal reward.	Anshul Gandhi,Sherwin Doroudi,Mor Harchol-Balter,Alan Scheller-Wolf	10.1145/2465529.2465760
+Firming solar power.	Yashar Ghiassi-Farrokhfal,Srinivasan Keshav,Catherine Rosenberg,Florin Ciucu	10.1145/2465529.2465744
+A mean field model for a class of garbage collection algorithms in flash-based solid state drives.	Benny Van Houdt	10.1145/2465529.2465543
+The design space of probing algorithms for network-performance measurement.	Aaron D. Jaggard,Swara Kopparty,Vijay Ramachandran,Rebecca N. Wright	10.1145/2465529.2465765
+Understanding SMS spam in a large cellular network.	Nan Jiang,Yu Jin 0001,Ann Skudlark,Zhi-Li Zhang	10.1145/2465529.2465530
+Revisiting widely held SSD expectations and rethinking system-level implications.	Myoungsoo Jung,Mahmut T. Kandemir	10.1145/2465529.2465548
+Parallel scaling properties from a basic block view.	Melanie Kambadur,Kui Tang,Joshua Lopez,Martha A. Kim	10.1145/2465529.2465748
+Efficient crowdsourcing for multi-class labeling.	David R. Karger,Sewoong Oh,Devavrat Shah	10.1145/2465529.2465761
+Root cause detection in a service-oriented architecture.	Myunghwan Kim 0002,Roshan Sumbaly,Sam Shah	10.1145/2465529.2465753
+Discriminant malware distance learning on structuralinformation for automated malware classification.	Deguang Kong,Guanhua Yan	10.1145/2465529.2465531
+Exploiting the past to reduce delay in CSMA scheduling: a high-order markov chain approach.	Jaewook Kwak,Chul-Ho Lee,Do Young Eun	10.1145/2465529.2465542
+Stochastic modeling of large-scale solid-state storage systems: analysis, design tradeoffs and optimization.	Yongkun Li 0001,Patrick P. C. Lee,John C. S. Lui	10.1145/2465529.2465546
+Tolerating path heterogeneity in multipath TCP with bounded receive buffers.	Ming Li 0035,Andrey Lukyanenko,Sasu Tarkoma,Yong Cui 0001,Antti Ylä-Jääski	10.1145/2465529.2465750
+Data center demand response: avoiding the coincident peak via workload shifting and local generation.	Zhenhua Liu 0002,Adam Wierman,Yuan Chen 0001,Benjamin Razon,Niangjun Chen	10.1145/2465529.2465740
+Online energy generation scheduling for microgrids with intermittent energy sources and co-generation.	Lian Lu,Jinlong Tu,Chi-Kin Chau,Minghua Chen 0001,Xiaojun Lin 0001	10.1145/2465529.2465551
+Challenges in cloud scale data centers.	David A. Maltz	10.1145/2465529.2465767
+Computational analysis of cascading failures in power networks.	Dorian Mazauric,Saleh Soltan,Gil Zussman	10.1145/2465529.2465752
+Online load balancing under graph constraints.	Sharayu Moharir,Sujay Sanghavi,Sanjay Shakkottai	10.1145/2465529.2465751
+The fundamentals of heavy-tails: properties, emergence, and identification.	Jayakrishnan Nair 0001,Adam Wierman,Bert Zwart	10.1145/2465529.2466587
+Data center asset tracking using a mobile robot.	John C. Nelson,Jonathan Connell,Canturk Isci,Jonathan Lenchner	10.1145/2465529.2466584
+FaRNet: fast recognition of high multi-dimensional network traffic patterns.	Ignasi Paredes-Oliva,Pere Barlet-Ros,Xenofontas A. Dimitropoulos	10.1145/2465529.2465743
+Sustainability of service provisioning systems under attack.	Georgios S. Paschos,Leandros Tassiulas	10.1145/2465529.2465747
+Multipath TCP algorithms: theory and design.	Qiuyu Peng,Anwar Walid,Steven H. Low	10.1145/2465529.2466585
+Elastic paging.	Enoch Peserico	10.1145/2465529.2479781
+An empirical analysis of intra- and inter-datacenter network failures for geo-distributed services.	Rahul Potharaju,Navendu Jain	10.1145/2465529.2465749
+Designing large-scale nudge engines.	Balaji Prabhakar	10.1145/2465529.2465766
+Delivering fairness and priority enforcement on asymmetric multicore systems via OS scheduling.	Juan Carlos Saez,Fernando Castro,Daniel Chaver,Manuel Prieto 0001	10.1145/2465529.2465532
+Profiling and analyzing the I/O performance of NoSQL DBs.	Jiri Schindler	10.1145/2465529.2479782
+Reuse-based online models for caches.	Rathijit Sen,David A. Wood 0001	10.1145/2465529.2465756
+A first look at cellular network performance during crowded events.	Muhammad Zubair Shafiq,Lusheng Ji,Alex X. Liu,Jeffrey Pang,Shobha Venkataraman,Jia Wang 0001	10.1145/2465529.2465754
+Probabilistic optimal tree hopping for RFID identification.	Muhammad Shahzad 0001,Alex X. Liu	10.1145/2465529.2465549
+Defragmenting the cloud using demand-based resource allocation.	Ganesha Shanmuganathan,Ajay Gulati,Peter J. Varman	10.1145/2465529.2465763
+Distributing content simplifies ISP traffic engineering.	Abhigyan Sharma,Arun Venkataramani,Ramesh K. Sitaraman	10.1145/2465529.2465764
+Lingering issues in distributed scheduling.	Florian Simatos,Niek Bouman,Sem C. Borst	10.1145/2465529.2465758
+High-throughput low-latency fine-grained disk logging.	Dilip Nijagal Simha,Tzi-cker Chiueh,Ganesh Karuppur Rajagopalan,Pallav Bose	10.1145/2465529.2465552
+A large-scale service system with packing constraints: minimizing the number of occupied servers.	Alexander L. Stolyar,Yuan Zhong	10.1145/2465529.2465547
+Web performance bottlenecks in broadband access networks.	Srikanth Sundaresan,Nazanin Magharei,Nick Feamster,Renata Teixeira,Sam Crawford	10.1145/2465529.2465745
+Trap array: a unified model for scalability evaluation of geometric routing.	Guang Tan,Zhimeng Yin 0001,Hongbo Jiang 0001	10.1145/2465529.2465544
+Queueing system topologies with limited flexibility.	John N. Tsitsiklis,Kuang Xu	10.1145/2465529.2465757
+On understanding the energy consumption of ARM-based multicore servers.	Bogdan Marius Tudor,Yong Meng Teo	10.1145/2465529.2465553
+Quantifying the benefits of joint content and network routing.	Vytautas Valancius,Bharath Ravi,Nick Feamster,Alex C. Snoeren	10.1145/2465529.2465762
+ACE: abstracting, characterizing and exploiting peaks and valleys in datacenter power consumption.	Di Wang 0003,Chuangang Ren,Sriram Govindan,Anand Sivasubramaniam,Bhuvan Urgaonkar,Aman Kansal,Kushagra Vaid	10.1145/2465529.2465536
+Greedy name lookup for named data networking.	Yi Wang 0004,Dongzhe Tai,Ting Zhang 0010,Jianyuan Lu,Boyang Xu,Huichen Dai,Bin Liu 0001	10.1145/2465529.2465741
+Temperature aware workload management in geo-distributed datacenters.	Hong Xu 0001,Chen Feng 0001,Baochun Li	10.1145/2465529.2465539
+Accelerating GPGPU architecture simulation.	Zhibin Yu 0001,Lieven Eeckhout,Nilanjan Goswami,Tao Li 0006,Lizy Kurian John,Hai Jin 0001,Cheng-Zhong Xu 0001	10.1145/2465529.2465540
+Practical conflict graphs for dynamic spectrum distribution.	Xia Zhou,Zengbin Zhang,Gang Wang 0011,Xiaoxiao Yu,Ben Y. Zhao,Haitao Zheng 0001	10.1145/2465529.2465545
+Stable and scalable universal swarms.	Ji Zhu 0003,Stratis Ioannidis,Nidhi Hegde 0001,Laurent Massoulié	10.1145/2465529.2465537
+ACM SIGMETRICS / International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS &apos;13, Pittsburgh, PA, USA, June 17-21, 2013	Mor Harchol-Balter,John R. Douceur,Jun Xu	10.1145/2465529

@@ -1,0 +1,65 @@
+Brief Announcement: Holistic Verification of Blockchain Consensus.	Nathalie Bertrand 0001,Vincent Gramoli,Igor Konnov 0001,Marijana Lazic,Pierre Tholoniat,Josef Widder	10.1145/3519270.3538468
+From Switch Scheduling to Datacenter Scheduling: Matching-Coordinated Greed is Good.	Rachit Agarwal 0001,Shijin Rajakrishnan,David B. Shmoys	10.1145/3519270.3538443
+A Recursive Early-Stopping Phase King Protocol.	Christoph Lenzen 0001,Sahar Sheikholeslami	10.1145/3519270.3538425
+Universally-Optimal Distributed Exact Min-Cut.	Mohsen Ghaffari 0001,Goran Zuzic	10.1145/3519270.3538429
+Gradecast in Synchrony and Reliable Broadcast in Asynchrony with Optimal Resilience, Efficiency, and Unconditional Security.	Ittai Abraham,Gilad Asharov	10.1145/3519270.3538451
+Efficient and Adaptively Secure Asynchronous Binary Agreement via Binding Crusader Agreement.	Ittai Abraham,Naama Ben-David,Sravya Yandamuri	10.1145/3519270.3538426
+2022 Principles of Distributed Computing Doctoral Dissertation Award.	Yehuda Afek,Keren Censor-Hillel,Pierre Fraigniaud,Seth Gilbert,Gopal Pandurangan,Gadi Taubenfeld	10.1145/3519270.3538412
+2022 Edsger W. Dijkstra Prize in Distributed Computing.	Marcos Aguiliera,Andréa W. Richa,Alexander A. Schwarzmann,Alessandro Panconesi,Christian Scheideler,Philipp Woelfel	10.1145/3519270.3538411
+Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation.	Nicolas Alhaddad,Sourav Das,Sisi Duan,Ling Ren 0001,Mayank Varia,Zhuolun Xiang,Haibin Zhang	10.1145/3519270.3538475
+Brief Announcement: Asynchronous Verifiable Information Dispersal with Near-Optimal Communication.	Nicolas Alhaddad,Sourav Das,Sisi Duan,Ling Ren 0001,Mayank Varia,Zhuolun Xiang,Haibin Zhang	10.1145/3519270.3538476
+Near-Optimal Leader Election in Population Protocols on Graphs.	Dan Alistarh,Joel Rybicki,Sasha Voitovych	10.1145/3519270.3538435
+Brief Announcement: Almost Universally Optimal Distributed Laplacian Solver.	Ioannis Anagnostides,Christoph Lenzen 0001,Bernhard Haeupler,Goran Zuzic,Themis Gouleakis	10.1145/3519270.3538464
+A Framework for Distributed Quantum Queries in the CONGEST Model.	Joran van Apeldoorn,Tijn de Vos	10.1145/3519270.3538413
+Perfectly-Secure Synchronous MPC with Asynchronous Fallback Guarantees.	Ananya Appan,Anirudh Chandramouli,Ashish Choudhury	10.1145/3519270.3538417
+Blunting an Adversary Against Randomized Concurrent Programs with Linearizable Implementations.	Hagit Attiya,Constantin Enea,Jennifer L. Welch	10.1145/3519270.3538446
+Brief Announcement: Distributed MST Computation in the Sleeping Model: Awake-Optimal Algorithms and Lower Bounds.	John Augustine,William K. Moses Jr.,Gopal Pandurangan	10.1145/3519270.3538459
+Node and Edge Averaged Complexities of Local Graph Problems.	Alkida Balliu,Mohsen Ghaffari 0001,Fabian Kuhn,Dennis Olivetti	10.1145/3519270.3538419
+Distributed Edge Coloring in Time Polylogarithmic in Δ.	Alkida Balliu,Sebastian Brandt 0002,Fabian Kuhn,Dennis Olivetti	10.1145/3519270.3538440
+Population Protocols for Exact Plurality Consensus: How a small chance of failure helps to eliminate insignificant opinions.	Gregor Bankhamer,Petra Berenbrink,Felix Biermeier,Robert Elsässer,Hamed Hosseinpour,Dominik Kaaser,Peter Kling	10.1145/3519270.3538447
+Fast and Fair Randomized Wait-Free Locks.	Naama Ben-David,Guy E. Blelloch	10.1145/3519270.3538448
+Revisiting the Power of Non-Equivocation in Distributed Protocols.	Naama Ben-David,Benjamin Y. Chan,Elaine Shi	10.1145/3519270.3538427
+Brief Announcement: How to Tame Multiple Spending in Decentralized Cryptocurrencies.	João Paulo Bezerra,Petr Kuznetsov	10.1145/3519270.3538465
+Internet Computer Consensus.	Jan Camenisch,Manu Drijvers,Timo Hanke,Yvonne-Anne Pignolet,Victor Shoup,Dominic Williams 0003	10.1145/3519270.3538430
+Adaptively Secure Single Secret Leader Election from DDH.	Dario Catalano,Dario Fiore 0001,Emanuele Giunta	10.1145/3519270.3538424
+Distributed Computations in Fully-Defective Networks.	Keren Censor-Hillel,Shir Cohen,Ran Gelles,Gal Sela 0001	10.1145/3519270.3538432
+Deterministic Near-Optimal Distributed Listing of Cliques.	Keren Censor-Hillel,Dean Leitersdorf,David Vulakh	10.1145/3519270.3538434
+Narrowing the LOCAL-CONGEST Gaps in Sparse Networks via Expander Decompositions.	Yi-Jun Chang,Hsin-Hao Su	10.1145/3519270.3538423
+Constant-Round Near-Optimal Spanners in Congested Clique.	Shiri Chechik,Tianyi Zhang	10.1145/3519270.3538439
+Brief Announcement: Deterministic Consensus and Checkpointing with Crashes: Time and Communication Efficiency.	Bogdan S. Chlebus,Dariusz R. Kowalski,Jan Olkowski	10.1145/3519270.3538471
+Brief Announcement: Probabilistic Dynamic Input/Output Automata.	Pierre Civit,Maria Potop-Butucaru	10.1145/3519270.3538466
+A Massively Parallel Modularity-Maximizing Algorithm with Provable Guarantees.	Vincent Cohen-Addad,Frederik Mallmann-Trenn,David Saulpic	10.1145/3519270.3538449
+Brief Announcement: Make Every Word Count: Adaptive Byzantine Agreement with Fewer Words.	Shir Cohen,Idit Keidar,Alexander Spiegelman	10.1145/3519270.3538458
+When is Recoverable Consensus Harder Than Consensus?	Carole Delporte-Gallet,Panagiota Fatourou,Hugues Fauconnier,Eric Ruppert	10.1145/3519270.3538418
+Near-Optimal Distributed Dominating Set in Bounded Arboricity Graphs.	Michal Dory,Mohsen Ghaffari 0001,Saeed Ilchi	10.1145/3519270.3538437
+Brief Announcement: Broadcasting Time in Dynamic Rooted Trees is Linear.	Antoine El-Hayek,Monika Henzinger,Stefan Schmid 0001	10.1145/3519270.3538460
+Brief Announcement: (1+ε)-Approximate Shortest Paths in Dynamic Streams.	Michael Elkin,Chhaya Trehan	10.1145/3519270.3538469
+What Can Be Certified Compactly? Compact local certification of MSO properties in tree-like graphs.	Laurent Feuilloley,Nicolas Bousquet,Théo Pierron	10.1145/3519270.3538416
+Massively Parallel Computation in a Heterogeneous Regime.	Orr Fischer,Adi Horowitz,Rotem Oshman	10.1145/3519270.3538450
+The Laplacian Paradigm in the Broadcast Congested Clique.	Sebastian Forster,Tijn de Vos	10.1145/3519270.3538436
+Brief Announcement: Fault Tolerant Coloring of the Asynchronous Cycle.	Pierre Fraigniaud,Patrick Lambein-Monette,Mikaël Rabie	10.1145/3519270.3538456
+A Speedup Theorem for Asynchronous Computation with Applications to Consensus and Approximate Agreement.	Pierre Fraigniaud,Ami Paz,Sergio Rajsbaum	10.1145/3519270.3538422
+Optimal Synchronous Approximate Agreement with Asynchronous Fallback.	Diana Ghinea,Chen-Da Liu-Zhang,Roger Wattenhofer	10.1145/3519270.3538442
+The Landscape of Distributed Complexities on Trees and Beyond.	Christoph Grunau,Václav Rozhon,Sebastian Brandt 0002	10.1145/3519270.3538452
+Overcoming Congestion in Distributed Coloring.	Magnús M. Halldórsson,Alexandre Nolin,Tigran Tonoyan	10.1145/3519270.3538438
+Brief Announcement: Gathering Despite a Linear Number of Weakly Byzantine Agents.	Jion Hirose,Junya Nakamura 0001,Fukuhito Ooshita,Michiko Inoue	10.1145/3519270.3538470
+Can&apos;t See the Forest for the Trees: Navigating Metric Spaces by Bounded Hop-Diameter Spanners.	Omri Kahalon,Hung Le,Lazar Milenkovic,Shay Solomon	10.1145/3519270.3538414
+Encrypted Distributed Systems.	Seny Kamara	10.1145/3519270.3538454
+Early Adapting to Trends: Self-Stabilizing Information Spread using Passive Communication.	Amos Korman,Robin Vacus	10.1145/3519270.3538415
+Parameterized Verification under Release Acquire is PSPACE-complete.	Shankaranarayanan Krishna,Adwait Godbole,Roland Meyer 0001,Soham Chakraborty 0001	10.1145/3519270.3538445
+Optimal Clock Synchronization with Signatures.	Christoph Lenzen 0001,Julian Loss	10.1145/3519270.3538444
+State Complexity of Protocols with Leaders.	Jérôme Leroux	10.1145/3519270.3538421
+Brief Announcement: Towards a Theory of Wear Leveling in Persistent Data Structures.	Xialin Liu,Wojciech M. Golab	10.1145/3519270.3538457
+Balanced Allocations with the Choice of Noise.	Dimitrios Los,Thomas Sauerwald	10.1145/3519270.3538428
+Brief Announcement: Near Optimal Bounds for Replacement Paths and Related Problems in the CONGEST Model.	Vignesh Manoharan,Vijaya Ramachandran	10.1145/3519270.3538473
+The Space Complexity of Consensus from Swap.	Sean Ovens	10.1145/3519270.3538420
+Brief Announcement: Deterministic Massively Parallel Algorithms for Ruling Sets.	Shreyas Pai,Sriram V. Pemmaraju	10.1145/3519270.3538472
+A Graph Theoretic Approach for Resilient Distributed Algorithms.	Merav Parter	10.1145/3519270.3538453
+A Distributed Combinatorial Topology Approach to Arrow&apos;s Impossibility Theorem.	Sergio Rajsbaum,Armajac Raventós-Pujol	10.1145/3519270.3538433
+How Should We Think about Persistent Data Structures?	Michael L. Scott	10.1145/3519270.3538455
+Brief Announcement: Asynchronous Randomness and Consensus without Trusted Setup.	Luciano Freitas de Souza,Petr Kuznetsov,Andrei Tonkikh	10.1145/3519270.3538461
+Brief Announcement: The Weakest Failure Detector for Genuine Atomic Multicast.	Pierre Sutra	10.1145/3519270.3538467
+Brief Announcement: Computability and Anonymous Storage-Efficient Consensus with an Abstract MAC Layer.	Lewis Tseng,Qinzi Zhang	10.1145/3519270.3538462
+Brief Announcement: On Polynomial-Time Local Decision.	Eden Aldema Tshuva,Rotem Oshman	10.1145/3519270.3538463
+Quantum Complexity of Weighted Diameter and Radius in CONGEST Networks.	Xudong Wu,Penghui Yao	10.1145/3519270.3538441
+PODC &apos;22: ACM Symposium on Principles of Distributed Computing, Salerno, Italy, July 25 - 29, 2022	Alessia Milani,Philipp Woelfel	10.1145/3519270

@@ -1,0 +1,28 @@
+SRTuner: Effective Compiler Optimization Customization by Exposing Synergistic Relations.	Sunghyun Park 0004,Salar Latifi,Yongjun Park 0001,Armand Behroozi,Byungsoo Jeon,Scott A. Mahlke	10.1109/CGO53902.2022.9741263
+Optimizing GPU Deep Learning Operators with Polyhedral Scheduling Constraint Injection.	Cédric Bastoul,Zhen Zhang,Harenome Razanajato,Nelson Lossing,Adilla Susungi,Javier de Juan,Etienne Filhol,Baptiste Jarry,Gianpietro Consolaro,Renwei Zhang	10.1109/CGO53902.2022.9741260
+Lambda the Ultimate SSA: Optimizing Functional Programs in SSA.	Siddharth Bhat,Tobias Grosser	10.1109/CGO53902.2022.9741279
+GraphIt to CUDA Compiler in 2021 LOC: A Case for High-Performance DSL Implementation via Staging with BuilDSL.	Ajay Brahmakshatriya,Saman P. Amarasinghe	10.1109/CGO53902.2022.9741280
+CompilerGym: Robust, Performant Compiler Optimization Environments for AI Research.	Chris Cummins,Bram Wasti,Jiadong Guo,Brandon Cui,Jason Ansel,Sahir Gomez,Somya Jain,Jia Liu,Olivier Teytaud,Benoit Steiner,Yuandong Tian,Hugh Leather	10.1109/CGO53902.2022.9741258
+PALMED: Throughput Characterization for Superscalar Architectures.	Nicolas Derumigny,Théophile Bastian,Fabian Gruber,Guillaume Iooss,Christophe Guillon,Louis-Noël Pouchet,Fabrice Rastello	10.1109/CGO53902.2022.9741289
+Unified Compilation for Lossless Compression and Sparse Computing.	Daniel Donenfeld,Stephen Chou,Saman P. Amarasinghe	10.1109/CGO53902.2022.9741282
+Efficient Execution of OpenMP on GPUs.	Joseph Huber,Melanie Cornelius,Giorgis Georgakoudis,Shilei Tian,Jose Manuel Monsalve Diaz,Kuter Dinel,Barbara M. Chapman,Johannes Doerfert	10.1109/CGO53902.2022.9741290
+Aggregate Update Problem for Multi-clocked Dataflow Languages.	Hannes Kallwies,Martin Leucker,Torben Scheffel,Malte Schmitz 0001,Daniel Thoma	10.1109/CGO53902.2022.9741275
+Solving PBQP-Based Register Allocation using Deep Reinforcement Learning.	Minsu Kim,Jeong-Keun Park,Soo-Mook Moon	10.1109/CGO53902.2022.9741272
+Automatic Generation of Debug Headers through BlackBox Equivalence Checking.	Vaibhav Kiran Kurhe,Pratik Karia,Shubhani Gupta,Abhishek Rose,Sorav Bansal	10.1109/CGO53902.2022.9741273
+HECATE: Performance-Aware Scale Optimization for Homomorphic Encryption Compiler.	Yongwoo Lee,Seonyeong Heo,Seonyoung Cheon,Shinnung Jeong,Changsu Kim 0004,Eunkyung Kim 0002,Dongyoon Lee,Hanjun Kim 0001	10.1109/CGO53902.2022.9741265
+Automatic Horizontal Fusion for GPU Kernels.	Ao Li,Bojian Zheng,Gennady Pekhimenko,Fan Long	10.1109/CGO53902.2022.9741270
+NOELLE Offers Empowering LLVM Extensions.	Angelo Matni,Enrico Armenio Deiana,Yian Su,Lukas Gross,Souradip Ghosh,Sotiris Apostolakis,Ziyang Xu,Zujun Tan,Ishita Chaturvedi,Brian Homerding,Tommy McMichen,David I. August,Simone Campanoni	10.1109/CGO53902.2022.9741276
+Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation.	Zifan Nan,Xipeng Shen,Hui Guan	10.1109/CGO53902.2022.9741262
+A Compiler Framework for Optimizing Dynamic Parallelism on GPUs.	Mhd Ghaith Olabi,Juan Gómez-Luna,Onur Mutlu,Wen-Mei Hwu,Izzat El Hajj	10.1109/CGO53902.2022.9741284
+A Compiler for Sound Floating-Point Computations using Affine Arithmetic.	Joao Rivera,Franz Franchetti,Markus Püschel	10.1109/CGO53902.2022.9741286
+Loop Rolling for Code Size Reduction.	Rodrigo C. O. Rocha,Pavlos Petoumenos,Björn Franke,Pramod Bhatotia,Michael F. P. O&apos;Boyle	10.1109/CGO53902.2022.9741256
+DARM: Control-Flow Melding for SIMT Thread Divergence Reduction.	Charitha Saumya,Kirshanthan Sundararajah,Milind Kulkarni 0001	10.1109/CGO53902.2022.9741285
+SPNC: An Open-Source MLIR-Based Compiler for Fast Sum-Product Network Inference on CPUs and GPUs.	Lukas Sommer,Cristian Axenie,Andreas Koch 0001	10.1109/CGO53902.2022.9741277
+F3M: Fast Focused Function Merging.	Sean Stirling,Rodrigo C. O. Rocha,Kim M. Hazelwood,Hugh Leather,Michael F. P. O&apos;Boyle,Pavlos Petoumenos	10.1109/CGO53902.2022.9741269
+Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting.	Linan Tian,Yangyang Shi,Liwei Chen,Yanqi Yang,Gang Shi	10.1109/CGO53902.2022.9741259
+Comprehensive Accelerator-Dataflow Co-design Optimization for Convolutional Neural Networks.	Miheer Vaidya,Aravind Sukumaran-Rajam,Atanas Rountev,P. Sadayappan	10.1109/CGO53902.2022.9741281
+Distill: Domain-Specific Compilation for Cognitive Models.	Ján Veselý,Raghavendra Pradyumna Pothukuchi,Ketaki Joshi,Samyak Gupta,Jonathan D. Cohen 0003,Abhishek Bhattacharjee	10.1109/CGO53902.2022.9741278
+Sound, Precise, and Fast Abstract Interpretation with Tristate Numbers.	Harishankar Vishwanathan,Matan Shachnai,Srinivas Narayana,Santosh Nagarakatte	10.1109/CGO53902.2022.9741267
+Recovering Container Class Types in C++ Binaries.	Xudong Wang,Xuezheng Xu,Qingan Li,Mengting Yuan,Jingling Xue	10.1109/CGO53902.2022.9741274
+M3V: Multi-modal Multi-view Context Embedding for Repair Operator Prediction.	Xuezheng Xu,Xudong Wang,Jingling Xue	10.1109/CGO53902.2022.9741261
+IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2022, Seoul, Korea, Republic of, April 2-6, 2022	Jae W. Lee,Sebastian Hack,Tatiana Shpeisman	10.1109/CGO53902.2022

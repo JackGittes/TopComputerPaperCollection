@@ -1,0 +1,165 @@
+TAG: Learning Circuit Spatial Embedding from Layouts.	Keren Zhu 0001,Hao Chen 0059,Walker J. Turner,George F. Kokai,Po-Hsuan Wei,David Z. Pan,Haoxing Ren	10.1145/3508352.3549384
+Evaluating the Security of eFPGA-Based Redaction Algorithms.	Amin Rezaei 0001,Raheel Afsharmazayejani,Jordan Maynard	10.1145/3508352.3549425
+Quantum Machine Learning Applications in High-Energy Physics.	Andrea Delgado 0002,Kathleen E. Hamilton	10.1145/3508352.3561114
+TorchQuantum Case Study for Robust Quantum Circuits.	Hanrui Wang 0002,Zhiding Liang,Jiaqi Gu,Zirui Li,Yongshan Ding 0001,Weiwen Jiang,Yiyu Shi 0001,David Z. Pan,Frederic T. Chong,Song Han 0003	10.1145/3508352.3561118
+Inhale: Enabling High-Performance and Energy-Efficient In-SRAM Cryptographic Hash for IoT.	Jingyao Zhang 0002,Elaheh Sadredini	10.1145/3508352.3549381
+Numerically-Stable and Highly-Scalable Parallel LU Factorization for Circuit Simulation.	Xiaoming Chen 0003	10.1145/3508352.3549337
+All-in-One: A Highly Representative DNN Pruning Framework for Edge Devices with Dynamic Power Management.	Yifan Gong 0004,Zheng Zhan 0001,Pu Zhao 0001,Yushu Wu,Chao Wu,Caiwen Ding,Weiwen Jiang,Minghai Qin,Yanzhi Wang	10.1145/3508352.3549379
+HyperEF: Spectral Hypergraph Coarsening by Effective-Resistance Clustering.	Ali Aghdaei,Zhuo Feng	10.1145/3508352.3549438
+An MLIR-based Compiler Flow for System-Level Design and Hardware Acceleration.	Nicolas Bohm Agostini,Serena Curzel,Vinay Amatya,Cheng Tan 0002,Marco Minutoli,Vito Giovanni Castellana,Joseph B. Manzano,David R. Kaeli,Antonino Tumeo	10.1145/3508352.3549424
+SODA Synthesizer: An Open-Source, Multi-Level, Modular, Extensible Compiler from High-Level Frameworks to Silicon.	Nicolas Bohm Agostini,Ankur Limaye,Marco Minutoli,Vito Giovanni Castellana,Joseph B. Manzano,Antonino Tumeo,Serena Curzel,Fabrizio Ferrandi	10.1145/3508352.3561101
+Don&apos;t CWEAT It: Toward CWE Analysis Techniques in Early Stages of Hardware Design.	Baleegh Ahmad,Wei-Kai Liu,Luca Collini,Hammond Pearce,Jason M. Fung,Jonathan Valamehr,Mohammad Bidmeshki,Piotr Sapiecha,Steve Brown,Krishnendu Chakrabarty,Ramesh Karri,Benjamin Tan 0001	10.1145/3508352.3549369
+Embracing Graph Neural Networks for Hardware Security.	Lilas Alrahis,Satwik Patnaik,Muhammad Shafique 0001,Ozgur Sinanoglu	10.1145/3508352.3561096
+A Novel Semi-Analytical Approach for Fast Electromigration Stress Analysis in Multi-Segment Interconnects.	Olympia Axelou,Nestor E. Evmorfopoulos,George Floros 0002,George I. Stamoulis,Sachin S. Sapatnekar	10.1145/3508352.3549476
+Squeezing Accumulators in Binary Neural Networks for Extremely Resource-Constrained Applications.	Azat Azamat,Jaewoo Park,Jongeun Lee	10.1145/3508352.3549418
+Pin Accessibility and Routing Congestion Aware DRC Hotspot Prediction Using Graph Neural Network and U-Net.	Kyeonghyeon Baek,Hyunbum Park,Suwan Kim,Kyumyung Choi,Taewhan Kim	10.1145/3508352.3549346
+Sensor Security: Current Progress, Research Challenges, and Future Roadmap (Invited Paper).	Anomadarshi Barua,Mohammad Abdullah Al Faruque	10.1145/3508352.3561100
+Quantum Machine Learning for Material Synthesis and Hardware Security (Invited Paper).	Collin Beaudoin,Satwik Kundu,Rasit Onur Topaloglu,Swaroop Ghosh	10.1145/3508352.3561115
+Observation Point Insertion Using Deep Learning.	Bonita Bhaskaran,Sanmitra Banerjee,Kaushik Narayanun,Shao-Chun Hung,Seyed Nima Mozaffari Mojaveri,Mengyun Liu,Gang Chen,Tung-Che Liang	10.1145/3508352.3561122
+Hardware IP Protection against Confidentiality Attacks and Evolving Role of CAD Tool.	Swarup Bhunia,Amitabh Das,Saverio Fazzari,Vivian Kammler,David Kehlet,Jeyavijayan Rajendran,Ankur Srivastava 0001	10.1145/3508352.3561103
+AppGNN: Approximation-Aware Functional Reverse Engineering Using Graph Neural Networks.	Tim Bücher,Lilas Alrahis,Guilherme Paim,Sergio Bampi,Ozgur Sinanoglu,Hussam Amrouch	10.1145/3508352.3549471
+SpecPart: A Supervised Spectral Framework for Hypergraph Partitioning Solution Improvement.	Ismail Bustany,Andrew B. Kahng,Ioannis Koutis,Bodhisatta Pramanik,Zhiang Wang	10.1145/3508352.3549390
+Stochastic Mixed-Signal Circuit Design for In-Sensor Privacy.	Ningyuan Cao,Jianbo Liu,Boyang Cheng,Muya Chang	10.1145/3508352.3561099
+Spatz: A Compact Vector Processing Unit for High-Performance and Energy-Efficient Shared-L1 Clusters.	Matheus A. Cavalcante,Domenic Wüthrich,Matteo Perotti,Samuel Riedel,Luca Benini	10.1145/3508352.3549367
+Reliable Computing of ReRAM Based Compute-in-Memory Circuits for AI Edge Devices.	Meng-Fan Chang,Je-Ming Hung,Ping-Cheng Chen,Tai-Hao Wen	10.1145/3508352.3561119
+Machine Learning for Testing Machine-Learning Hardware: A Virtuous Cycle.	Arjun Chaudhuri,Jonti Talukdar,Krishnendu Chakrabarty	10.1145/3508352.3561121
+Obstacle-Avoiding Multiple Redistribution Layer Routing with Irregular Structures.	Yen-Ting Chen,Yao-Wen Chang	10.1145/3508352.3549419
+DARL: Distributed Reconfigurable Accelerator for Hyperdimensional Reinforcement Learning.	Hanning Chen,Mariam Issa,Yang Ni,Mohsen Imani	10.1145/3508352.3549437
+Romanus: Robust Task Offloading in Modular Multi-Sensor Autonomous Driving Systems.	Luke Chen,Mohanad Odema,Mohammad Abdullah Al Faruque	10.1145/3508352.3549356
+Overview of 2022 CAD Contest at ICCAD.	Yu-Guang Chen,Chun-Yao Wang,Tsung-Wei Huang,Takashi Sato	10.1145/3508352.3561106
+An Approach to Unlocking Cyclic Logic Locking: LOOPLock 2.0.	Pei-Pei Chen,Xiang-Min Yang,Yi-Ting Li,Yung-Chih Chen,Chun-Yao Wang	10.1145/3508352.3549461
+Hidden-ROM: A Compute-in-ROM Architecture to Deploy Large-Scale Neural Networks on Chip with Flexible and Scalable Post-Fabrication Task Transfer Capability.	Yiming Chen,Guodong Yin,Mingyen Lee,Wenjun Tang,Zekun Yang,Yongpan Liu,Huazhong Yang,Xueqing Li	10.1145/3508352.3549335
+QCIR: Pattern Matching Based Universal Quantum Circuit Rewriting Framework.	Mingyu Chen 0009,Yu Zhang,Yongshang Li,Zhen Wang,Jun Li,Xiangyang Li	10.1145/3508352.3549405
+GraphRC: Accelerating Graph Processing on Dual-Addressing Memory with Vertex Merging.	Wei Cheng,Chun-Feng Wu,Yuan-Hao Chang 0001,Ing-Chao Lin	10.1145/3508352.3549408
+Accelerating Fully Homomorphic Encryption by Bridging Modular and Bit-Level Arithmetic.	Eduardo Chielle,Oleg Mazonka,Homer Gamil,Michail Maniatakos	10.1145/3508352.3549415
+Automatic Test Configuration and Pattern Generation (ATCPG) for Neuromorphic Chips.	I-Wei Chiu,Xin-Ping Chen,Jennifer Shueh-Inn Hu,James Chien-Mo Li	10.1145/3508352.3549422
+2022 CAD Contest Problem A: Learning Arithmetic Operations from Gate-Level Circuit.	Chung-Han Chou,Chih-Jen (Jacky) Hsu,Chi-An (Rocky) Wu,Kuan-Hua Tu	10.1145/3508352.3561107
+Reconfigurable Logic for Hardware IP Protection: Opportunities and Challenges.	Luca Collini,Benjamin Tan 0001,Christian Pilato,Ramesh Karri	10.1145/3508352.3561117
+Polynomial Formal Verification: Ensuring Correctness under Resource Constraints.	Rolf Drechsler,Alireza Mahzoon	10.1145/3508352.3561104
+Tunable Precision Control for Approximate Image Filtering in an In-Memory Architecture with Embedded Neurons.	Ayushi Dube,Ankit Wagle,Gian Singh,Sarma B. K. Vrudhula	10.1145/3508352.3549385
+Batch Sequential Black-Box Optimization with Embedding Alignment Cells for Logic Synthesis.	Chang Feng,Wenlong Lyu,Zhitang Chen,Junjie Ye,Mingxuan Yuan,Jianye Hao	10.1145/3508352.3549363
+Towards High Performance and Accurate BNN Inference on FPGA with Structured Fine-Grained Pruning.	Keqi Fu,Zhi Qi,Jiaxuan Cai,Xulong Shi	10.1145/3508352.3549368
+GPU-Accelerated Rectilinear Steiner Tree Generation.	Zizheng Guo,Feng Gu,Yibo Lin	10.1145/3508352.3549434
+Factor Graph Accelerator for LiDAR-Inertial Odometry (Invited Paper).	Yuhui Hao,Bo Yu,Qiang Liu,Shaoshan Liu,Yuhao Zhu 0001	10.1145/3508352.3561112
+Garbled EDA: Privacy Preserving Electronic Design Automation.	Mohammad Hashemi,Steffi Roy,Fatemeh Ganji,Domenic Forte	10.1145/3508352.3549455
+Design Space and Memory Technology Co-Exploration for In-Memory Computing Based Machine Learning Accelerators.	Kang He,Indranil Chakraborty,Cheng Wang,Kaushik Roy 0001	10.1145/3508352.3549453
+X-Check: CPU-Accelerated Design Rule Checking via Parallel Sweepline Algorithms.	Zhuolun He,Yuzhe Ma,Bei Yu 0001	10.1145/3508352.3549383
+Approximate Computing and the Efficient Machine Learning Expedition.	Jörg Henkel,Hai Li,Anand Raghunathan,Mehdi B. Tahoori,Swagath Venkataramani,Xiaoxuan Yang,Georgios Zervakis 0001	10.1145/3508352.3561105
+A Pragmatic Methodology for Blind Hardware Trojan Insertion in Finalized Layouts.	Alexander Hepp,Tiago D. Perez,Samuel Pagliarini,Georg Sigl	10.1145/3508352.3549452
+Equivalence Checking of Dynamic Quantum Circuits.	Xin Hong,Yuan Feng 0001,Sanjiang Li,Mingsheng Ying	10.1145/3508352.3549479
+Transitive Closure Graph-Based Warpage-Aware Floorplanning for Package Designs.	Yang Hsu,Min-Hsuan Chung,Yao-Wen Chang,Ci-Hong Lin	10.1145/3508352.3549354
+Quantum Neural Network Compression.	Zhirui Hu,Peiyan Dong,Zhepeng Wang,Youzuo Lin,Yanzhi Wang,Weiwen Jiang	10.1145/3508352.3549382
+2022 ICCAD CAD Contest Problem B: 3D Placement with D2D Vertical Connections.	Kai-Shun Hu,I-Jye Lin,Yu-Hui Huang,Hao-Yu Chi,Yi-Hsuan Wu,Cindy Chin-Fang Shen	10.1145/3508352.3561108
+Reinforcement Learning and DEAR Framework for Solving the Qubit Mapping Problem.	Ching-Yao Huang,Chi-Hsiang Lien,Wai-Kei Mak	10.1145/3508352.3549472
+Hardware Architecture of Graph Neural Network-Enabled Motion Planner (Invited Paper).	Lingyi Huang,Xiao Zang,Yu Gong,Bo Yuan 0001	10.1145/3508352.3561113
+FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs.	Shehzeen Hussain,Nojan Sheybani,Paarth Neekhara,Xinqiao Zhang,Javier Duarte,Farinaz Koushanfar	10.1145/3508352.3549357
+Reliable Machine Learning for Wearable Activity Monitoring: Novel Algorithms and Theoretical Guarantees.	Dina Hussein,Taha Belkhouja,Ganapati Bhat,Janardhan Rao Doppa	10.1145/3508352.3549430
+EVE: Environmental Adaptive Neural Network Models for Low-Power Energy Harvesting System.	Sahidul Islam,Shanglin Zhou,Ran Ran,Yufang Jin,Wujie Wen,Caiwen Ding,Mimi Xie	10.1145/3508352.3549451
+HierPINN-EM: Fast Learning-Based Electromigration Analysis for Multi-Segment Interconnects Using Hierarchical Physics-Informed Neural Network.	Wentian Jin,Liang Chen,Subed Lamichhane,Mohammadamir Kavousi,Sheldon X.-D. Tan	10.1145/3508352.3549371
+Fault-Tolerant Deep Learning Using Regularization.	Biresh Kumar Joardar,Aqeeb Iqbal Arka,Janardhan Rao Doppa,Partha Pratim Pande	10.1145/3508352.3561120
+Temporal Vectorization: A Compiler Approach to Automatic Multi-Pumping.	Carl-Johannes Johnsen,Tiziano De Matteis,Tal Ben-Nun,Johannes de Fine Licht,Torsten Hoefler	10.1145/3508352.3549374
+IEEE CEDA DATC: Expanding Research Foundations for IC Physical Design and ML-Enabled EDA.	Jinwook Jung,Andrew B. Kahng,Ravi Varadarajan,Zhiang Wang	10.1145/3508352.3561379
+A Mixed Open-Source and Proprietary EDA Commons for Education and Prototyping.	Andrew B. Kahng	10.1145/3508352.3561378
+Fine-Granular Computation and Data Layout Reorganization for Improving Locality.	Mahmut T. Kandemir,Xulong Tang,Jagadish Kotra,Mustafa Karaköy	10.1145/3508352.3549386
+Securing Hardware through Reconfigurable Nano-Structures.	Nima Kavand,Armin Darjani,Shubham Rai,Akash Kumar 0001	10.1145/3508352.3561116
+Design and Technology Co-Optimization Utilizing Multi-Bit Flip-Flop Cells.	Soomin Kim 0001,Taewhan Kim	10.1145/3508352.3549351
+Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware.	Hao Kong,Di Liu 0002,Shuo Huai,Xiangzhong Luo,Weichen Liu,Ravi Subramaniam,Christian Makaya,Qian Lin	10.1145/3508352.3549397
+Attack Directories on ARM big.LITTLE Processors.	Zili Kou,Sharad Sinha,Wenjian He,Wei Zhang 0012	10.1145/3508352.3549340
+INDENT: Incremental Online Decision Tree Training for Domain-Specific Systems-on-Chip.	Anish Krishnakumar,Radu Marculescu,Ümit Y. Ogras	10.1145/3508352.3549436
+Big-Little Chiplets for In-Memory Acceleration of DNNs: A Scalable Heterogeneous Architecture.	Gokul Krishnan,A. Alper Goksoy,Sumit K. Mandal,Zhenyu Wang,Chaitali Chakrabarti,Jae-sun Seo,Ümit Y. Ogras,Yu Cao 0001	10.1145/3508352.3549447
+Low-Cost 7T-SRAM Compute-in-Memory Design Based on Bit-Line Charge-Sharing Based Analog-to-Digital Conversion.	Kyeongho Lee,Joonhyung Kim,Jongsun Park 0001	10.1145/3508352.3549423
+Gzippo: Highly-Compact Processing-in-Memory Graph Accelerator Alleviating Sparsity and Redundancy.	Xing Li,Rachata Ausavarungnirun,Xiao Liu,Xueyuan Liu,Xuan Zhang,Heng Lu,Zhuoran Song,Naifeng Jing,Xiaoyao Liang	10.1145/3508352.3549372
+2022 ICCAD CAD Contest Problem C: Microarchitecture Design Space Exploration.	Sicheng Li,Chen Bai,Xuechao Wei,Bizhao Shi,Yen-Kuang Chen,Yuan Xie 0001	10.1145/3508352.3561109
+Physics-Aware Differentiable Discrete Codesign for Diffractive Optical Neural Networks.	Yingjie Li,Ruiyang Chen,Weilu Gao,Cunxi Yu	10.1145/3508352.3549378
+Accelerating Cache Coherence in Manycore Processor through Silicon Photonic Chiplet.	Chengeng Li,Fan Jiang,Shixi Chen,Jiaxu Zhang,Yinyi Liu,Yuxiang Fu,Jiang Xu 0001	10.1145/3508352.3549338
+Associative Memory Based Experience Replay for Deep Reinforcement Learning.	Mengyuan Li,Arman Kazemi,Ann Franchesca Laguna,X. Sharon Hu	10.1145/3508352.3549387
+RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering.	Chaojian Li,Sixu Li,Yang Zhao 0013,Wenbo Zhu,Yingyan Lin	10.1145/3508352.3549380
+GIA: A Reusable General Interposer Architecture for Agile Chiplet Integration.	Fuping Li,Ying Wang 0001,Yuanqing Cheng,Yujie Wang,Yinhe Han 0001,Huawei Li 0001,Xiaowei Li 0001	10.1145/3508352.3549464
+Hardware Computation Graph for DNN Accelerator Design Automation without Inter-PU Templates.	Jun Li,Wei Wang,Wu-Jun Li	10.1145/3508352.3549342
+CoMUX: Combinatorial-Coding-Based High-Performance Microfluidic Control Multiplexer Design.	Siyuan Liang,Mengchu Li,Tsun-Ming Tseng,Ulf Schlichtmann,Tsung-Yi Ho	10.1145/3508352.3549353
+Deep Learning Toolkit-Accelerated Analytical Co-Optimization of CNN Hardware and Dataflow.	Rongjian Liang,Jianfeng Song,Yuan Bo,Jiang Hu	10.1145/3508352.3549402
+A Stochastic Approach to Handle Non-Determinism in Deep Learning-Based Design Rule Violation Predictions.	Rongjian Liang,Hua Xiang 0001,Jinwook Jung,Jiang Hu,Gi-Joon Nam	10.1145/3508352.3549347
+Routability-Driven Analytical Placement with Precise Penalty Models for Large-Scale 3D ICs.	Jai-Ming Lin,Hao-Yuan Hsieh,Hsuan Kung,Hao-Jia Lin	10.1145/3508352.3549339
+On Minimizing the Read Latency of Flash Memory to Preserve Inter-Tree Locality in Random Forest.	Yu-Cheng Lin,Yu-Pei Liang,Tseng-Yi Chen,Yuan-Hao Chang 0001,Shuo-Han Chen,Wei-Kuan Shih	10.1145/3508352.3549365
+A Novel Blockage-Avoiding Macro Placement Approach for 3D ICs Based on POCS.	Jai-Ming Lin,Po-Chen Lu,Heng-Yu Lin,Jia-Ting Tsai	10.1145/3508352.3549352
+Language Equation Solving via Boolean Automata Manipulation.	Wan-Hsuan Lin,Chia-Hsuan Su,Jie-Hong R. Jiang	10.1145/3508352.3549428
+Superfast Full-Scale CPU-Accelerated Global Routing.	Shiju Lin,Martin D. F. Wong	10.1145/3508352.3549474
+COSIME: FeFET Based Associative Memory for In-Memory Cosine Similarity Search.	Che-Kai Liu,Haobang Chen,Mohsen Imani,Kai Ni 0004,Arman Kazemi,Ann Franchesca Laguna,Michael T. Niemier,Xiaobo Sharon Hu,Liang Zhao,Cheng Zhuo,Xunzhao Yin	10.1145/3508352.3549412
+Generation of Mixed-Driving Multi-Bit Flip-Flops for Power Optimization.	Meng-Yun Liu,Yu-Cheng Lai,Wai-Kei Mak,Ting-Chi Wang	10.1145/3508352.3549473
+A Reconfigurable Hardware Library for Robot Scene Perception.	Yanqi Liu,Anthony Opipari,Odest Chadwicke Jenkins,R. Iris Bahar	10.1145/3508352.3561110
+Sub-Resolution Assist Feature Generation with Reinforcement Learning and Transfer Learning.	Guan-Ting Liu,Wei-Chen Tai,Yi-Ting Lin,Iris Hui-Ru Jiang,James P. Shiely,Pu-Jen Cheng	10.1145/3508352.3549388
+ISSA: Input-Skippable, Set-Associative Computing-in-Memory (SA-CIM) Architecture for Neural Network Accelerators.	Yun-Chen Lo,Chih-Chen Yeh,Jun-Shen Wu,Chia-Chun Wang,Yu-Chih Tsai,Wen-Chien Ting,Ren-Shuo Liu	10.1145/3508352.3549333
+Applying GNNs to Timing Estimation at RTL.	Daniela Sanchez Lopera,Wolfgang Ecker	10.1145/3508352.3561095
+On Advancing Physical Design Using Graph Neural Networks.	Yi-Chen Lu,Sung Kyu Lim	10.1145/3508352.3561094
+Fast and Compact Interleaved Modular Multiplication Based on Carry Save Addition.	Oleg Mazonka,Eduardo Chielle,Deepraj Soni,Michail Maniatakos	10.1145/3508352.3549414
+Accelerating N-Bit Operations over TFHE on Commodity CPU-FPGA.	Kevin Nam,Hyunyoung Oh,Hyungon Moon,Yunheung Paek	10.1145/3508352.3549413
+TransSizer: A Novel Transformer-Based Fast Gate Sizer.	Siddhartha Nath,Geraldo Pradipta,Corey Hu,Tian Yang,Brucek Khailany,Haoxing Ren	10.1145/3508352.3549442
+DynaPAT: A Dynamic Pattern-Aware Encoding Technique for Robust MLC PCM-Based Deep Neural Networks.	Thai-Hoang Nguyen,Muhammad Imran 0010,Joon-Sung Yang	10.1145/3508352.3549400
+Neurally-Inspired Hyperdimensional Classification for Efficient and Robust Biosignal Processing.	Yang Ni,Nicholas A. Lesica,Fan-Gang Zeng,Mohsen Imani	10.1145/3508352.3549477
+CASU: Compromise Avoidance via Secure Update for Low-End Embedded Systems.	Ivan De Oliveira Nunes,Sashidhar Jakkamsetti,Youngil Kim,Gene Tsudik	10.1145/3508352.3549450
+Quantitative Verification and Design Space Exploration under Uncertainty with Parametric Stochastic Contracts.	Chanwook Oh,Michele Lora,Pierluigi Nuzzo 0002	10.1145/3508352.3549446
+Robustify ML-Based Lithography Hotspot Detectors.	Jingyu Pan,Chen-Chia Chang,Zhiyao Xie,Jiang Hu,Yiran Chen 0001	10.1145/3508352.3549389
+Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates.	Naebeom Park,Daehyun Ahn,Jae-Joon Kim	10.1145/3508352.3549343
+MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device.	Sunghye Park,Dohun Kim,Jae-Yoon Sim,Seokhyeong Kang	10.1145/3508352.3549462
+Seprox: Sequence-Based Approximations for Compressing Ultra-Low Precision Deep Neural Networks.	Aradhana Mohan Parvathy,Sarada Krithivasan,Sanchari Sen,Anand Raghunathan	10.1145/3508352.3549435
+Fast, Robust and Accurate Detection of Cache-Based Spectre Attack Phases.	Arash Pashrashid,Ali Hajiabadi,Trevor E. Carlson	10.1145/3508352.3549330
+DCIM-GCN: Digital Computing-in-Memory to Efficiently Accelerate Graph Convolutional Networks.	Yikan Qiu,Yufei Ma 0002,Wentao Zhao,Meng Wu,Le Ye,Ru Huang	10.1145/3508352.3549465
+Logic Synthesis for Digital In-Memory Computing.	Muhammad Rashedul Haq Rashed,Sumit Kumar Jha 0001,Rickard Ewetz	10.1145/3508352.3549348
+Why are Graph Neural Networks Effective for EDA Problems?: (Invited Paper).	Haoxing Ren,Siddhartha Nath,Yanqing Zhang 0002,Hao Chen 0059,Mingjie Liu	10.1145/3508352.3561093
+Qilin: Enabling Performance Analysis and Optimization of Shared-Virtual Memory Systems with FPGA Accelerators.	Edward Richter,Deming Chen	10.1145/3508352.3549431
+AntiSIFA-CAD: A Framework to Thwart SIFA at the Layout Level.	Rajat Sadhukhan,Sayandeep Saha,Debdeep Mukhopadhyay	10.1145/3508352.3549480
+DaS: Implementing Dense Ising Machines Using Sparse Resistive Networks.	Naomi Sagan,Jaijeet Roychowdhury	10.1145/3508352.3549467
+A Scalable Methodology for Agile Chip Development with Open-Source Hardware Components.	Maico Cassel dos Santos,Tianyu Jia,Martin Cochet,Karthik Swaminathan,Joseph Zuckerman,Paolo Mantovani,Davide Giri,Jeff Jun Zhang,Erik Jens Loscalzo,Gabriele Tombesi,Kevin Tien,Nandhini Chandramoorthy,John-David Wellman,David Brooks 0001,Gu-Yeon Wei,Kenneth L. Shepard,Luca P. Carloni,Pradip Bose	10.1145/3508352.3561102
+Sound Source Localization Using Stochastic Computing.	Peter Schober,Seyedeh Newsha Estiri,Sercan Aygun,Nima TaheriNejad,M. Hassan Najafi	10.1145/3508352.3549373
+Technology Mapping of Genetic Circuits: From Optimal to Fast Solutions.	Tobias Schwarz,Christian Hochberger	10.1145/3508352.3549344
+How Good Is Your Verilog RTL Code?: A Quick Answer from Machine Learning.	Prianka Sengupta,Aakash Tyagi,Yiran Chen 0001,Jiang Hu	10.1145/3508352.3549375
+False Data Injection Attacks on Sensor Systems.	Dimitrios Serpanos	10.1145/3508352.3561098
+Graph Neural Networks for Idling Error Mitigation.	Vedika Servanan,Samah Mohamed Saeed	10.1145/3508352.3549444
+NASA: Neural Architecture Search and Acceleration for Hardware Inspired Hybrid Networks.	Huihong Shi,Haoran You,Yang Zhao 0013,Zhongfeng Wang 0001,Yingyan Lin	10.1145/3508352.3549478
+Re2fresh: A Framework for Mitigating Read Disturbance in ReRAM-Based DNN Accelerators.	Hyein Shin,Myeonggu Kang,Lee-Sup Kim	10.1145/3508352.3549345
+HDTorch: Accelerating Hyperdimensional Computing with GP-GPUs for Design Space Exploration.	William Andrew Simon,Una Pale,Tomás Teijeiro,David Atienza	10.1145/3508352.3549475
+ModelMap: A Model-Based Multi-Domain Application Framework for Centralized Automotive Systems.	Soham Sinha,Anam Farrukh,Richard West	10.1145/3508352.3549463
+Designing Energy-Efficient Decision Tree Memristor Crossbar Circuits Using Binary Classification Graphs.	Pranav Sinha,Sunny Raj	10.1145/3508352.3549448
+Arjun: An Efficient Independent Support Computation Technique and its Applications to Counting and Sampling.	Mate Soos,Kuldeep S. Meel	10.1145/3508352.3549406
+ReSiPI: A Reconfigurable Silicon-Photonic 2.5D Chiplet Network with PCMs for Energy-Efficient Interposer Communication.	Ebadollah Taheri,Sudeep Pasricha,Mahdi Nikdast	10.1145/3508352.3549432
+Qubit Mapping for Reconfigurable Atom Arrays.	Bochen Tan,Dolev Bluvstein,Mikhail D. Lukin,Jason Cong	10.1145/3508352.3549331
+Usage-Based RTL Subsetting for Hardware Accelerators.	Qinhan Tan,Aarti Gupta,Sharad Malik	10.1145/3508352.3549391
+Combining Gradients and Probabilities for Heterogeneous Approximation of Neural Networks.	Elias Trommer,Bernd Waschneck,Akash Kumar 0001	10.1145/3508352.3549329
+Sparse-T: Hardware Accelerator Thread for Unstructured Sparse Data Processing.	Pranathi Vasireddy,Krishna Kavi,Gayatri Mehta	10.1145/3508352.3549441
+Analyzing and Improving Resilience and Robustness of Autonomous Systems.	Zishen Wan,Karthik Swaminathan,Pin-Yu Chen,Nandhini Chandramoorthy,Arijit Raychowdhury	10.1145/3508352.3561111
+SGIRR: Sparse Graph Index Remapping for ReRAM Crossbar Operation Unit and Power Optimization.	Cheng-Yuan Wang,Yao-Wen Chang,Yuan-Hao Chang 0001	10.1145/3508352.3549364
+DeePEB: A Neural Partial Differential Equation Solver for Post Exposure Baking Simulation in Lithography.	Qipan Wang,Xiaohan Gao,Yibo Lin,Runsheng Wang,Ru Huang	10.1145/3508352.3549398
+WaferHSL: Wafer Failure Pattern Classification with Efficient Human-Like Staged Learning.	Qijing Wang,Martin D. F. Wong	10.1145/3508352.3549466
+EI-MOR: A Hybrid Exponential Integrator and Model Order Reduction Approach for Transient Power/Ground Network Analysis.	Cong Wang,Dongen Yang,Quan Chen	10.1145/3508352.3549407
+Re-LSM: A ReRAM-Based Processing-in-Memory Framework for LSM-Based Key-Value Store.	Qian Wei,Zhaoyan Shen,Yiheng Tong,Zhiping Jia,Lei Ju,Jiezhi Chen,Bingzhe Li	10.1145/3508352.3549392
+LayouTransformer: Generating Layout Patterns with Transformer via Sequential Pattern Modeling.	Liangjian Wen,Yi Zhu 0004,Lei Ye,Guojin Chen,Bei Yu 0001,Jianzhuang Liu,Chunjing Xu	10.1145/3508352.3549350
+Speculative Load Forwarding Attack on Modern Processors.	Hasini Witharana,Prabhat Mishra 0001	10.1145/3508352.3549417
+Attacks on Image Sensors.	Marilyn Wolf,Kruttidipta Samal	10.1145/3508352.3561097
+A Robust Quantum Layout Synthesis Algorithm with a Qubit Mapping Checker.	Tsou-An Wu,Yun-Jhe Jiang,Shao-Yun Fang	10.1145/3508352.3549394
+ASPPLN: Accelerated Symbolic Probability Propagation in Logic Network.	Weihua Xiao,Weikang Qian	10.1145/3508352.3549456
+DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters.	Zhiyao Xie,Shiyu Li,Mingyuan Ma,Chen-Chia Chang,Jingyu Pan,Yiran Chen 0001,Jiang Hu	10.1145/3508352.3549427
+Compositional Verification Using a Formal Component and Interface Specification.	Yue Xing,Huaixi Lu,Aarti Gupta,Sharad Malik	10.1145/3508352.3549341
+SHAPE: Scheduling of Fixed-Priority Tasks on Heterogeneous Architectures with Multiple CPUs and Many PEs.	Yuankai Xu,Tiancheng He,Ruiqi Sun,Yehan Ma,Yier Jin,An Zou	10.1145/3508352.3549409
+HECTOR: A Multi-Level Intermediate Representation for Hardware Synthesis Methodologies.	Ruifan Xu,Youwei Xiao,Jin Luo,Yun Liang 0001	10.1145/3508352.3549370
+Computing-In-Memory Neural Network Accelerators for Safety-Critical Systems: Can Small Device Variations Be Disastrous?	Zheyu Yan,Xiaobo Sharon Hu,Yiyu Shi 0001	10.1145/3508352.3549360
+A High-Precision Stochastic Solver for Steady-State Thermal Analysis with Fourier Heat Transfer Robin Boundary Conditions.	Longlong Yang,Cuiyang Ding,Changhao Yan,Dian Zhou,Xuan Zeng 0001	10.1145/3508352.3549457
+Personalized Heterogeneity-Aware Federated Search Towards Better Accuracy and Energy Efficiency.	Zhao Yang,Qingshuang Sun	10.1145/3508352.3549403
+ATLAS: A Two-Level Layer-Aware Scheme for Routing with Cell Movement.	Xinshi Zang,Fangzhou Wang,Jinwei Liu,Martin D. F. Wong	10.1145/3508352.3549470
+ScaleHD: Robust Brain-Inspired Hyperdimensional Computing via Adapative Scaling.	Sizhe Zhang,Mohsen Imani,Xun Jiao	10.1145/3508352.3549376
+WSQ-AdderNet: Efficient Weight Standardization Based Quantized AdderNet FPGA Accelerator Design with High-Density INT8 DSP-LUT Co-Packing Optimization.	Yunxiang Zhang,Biao Sun,Weixiong Jiang,Yajun Ha,Miao Hu,Wenfeng Zhao	10.1145/3508352.3549439
+QuBRIM: A CMOS Compatible Resistively-Coupled Ising Machine with Quantized Nodal Interactions.	Yiqiao Zhang,Uday Kumar Reddy Vengalam,Anshujit Sharma,Michael C. Huang 0001,Zeljko Ignjatovic	10.1145/3508352.3549443
+Combining BMC and Complementary Approximate Reachability to Accelerate Bug-Finding.	Xiaoyu Zhang,Shengping Xiao,Jianwen Li,Geguang Pu,Ofer Strichman	10.1145/3508352.3549393
+Aging-Aware Training for Printed Neuromorphic Circuits.	Haibin Zhao,Michael Hefenbrock,Michael Beigl,Mehdi B. Tahoori	10.1145/3508352.3549411
+AdaOPC: A Self-Adaptive Mask Optimization Framework for Real Design Patterns.	Wenqian Zhao,Xufeng Yao,Ziyang Yu,Guojin Chen,Yuzhe Ma,Bei Yu 0001,Martin D. F. Wong	10.1145/3508352.3549468
+Exploiting Uniform Spatial Distribution to Design Efficient Random Number Source for Stochastic Computing.	Kuncai Zhong,Zexi Li,Haoran Jin,Weikang Qian	10.1145/3508352.3549396
+ReD-LUT: Reconfigurable In-DRAM LUTs Enabling Massive Parallel Computation.	Ranyang Zhou,Arman Roohi,Durga Misra,Shaahin Angizi	10.1145/3508352.3549469
+ObfuNAS: A Neural Architecture Search-Based DNN Obfuscation Approach.	Tong Zhou,Shaolei Ren,Xiaolin Xu	10.1145/3508352.3549429
+Heterogeneous Graph Neural Network-Based Imitation Learning for Gate Sizing Acceleration.	Xinyi Zhou 0010,Junjie Ye,Chak-Wa Pui,Kun Shao,Guangliang Zhang,Bin Wang 0034,Jianye Hao,Guangyong Chen,Pheng-Ann Heng	10.1145/3508352.3549361
+Fuse and Mix: MACAM-Enabled Analog Activation for Energy-Efficient Neural Acceleration.	Hanqing Zhu,Keren Zhu 0001,Jiaqi Gu,Harrison Jin,Ray T. Chen,Jean Anne Incorvia,David Z. Pan	10.1145/3508352.3549449
+A Robust Global Routing Engine with High-Accuracy Cell Movement under Advanced Constraints.	Ziran Zhu,Fuheng Shen,Yangjie Mei,Zhipeng Huang 0009,Jianli Chen,Jun Yang	10.1145/3508352.3549421
+PowerTouch: A Security Objective-Guided Automation Framework for Generating Wired Ghost Touch Attacks on Touchscreens.	Huifeng Zhu,Zhiyuan Yu,Weidong Cao,Ning Zhang 0017,Xuan Zhang	10.1145/3508352.3549395
+Multi-Package Co-Design for Chiplet Integration.	Zhen Zhuang,Bei Yu 0001,Kai-Yuan Chao,Tsung-Yi Ho	10.1145/3508352.3549404
+Towards High-Quality CGRA Mapping with Graph Neural Networks and Reinforcement Learning.	Yan Zhuang,Zhihao Zhang,Dajiang Liu	10.1145/3508352.3549458
+Dynamic Frequency Boosting Beyond Critical Path Delay.	Nikolaos Zompakis,Sotirios Xydis	10.1145/3508352.3549433
+A Combined Logical and Physical Attack on Logic Obfuscation.	Michael Zuzak,Yuntao Liu 0001,Isaac McDaniel,Ankur Srivastava 0001	10.1145/3508352.3549349
+Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design, ICCAD 2022, San Diego, California, USA, 30 October 2022 - 3 November 2022	Tulika Mitra,Evangeline F. Y. Young,Jinjun Xiong	10.1145/3508352

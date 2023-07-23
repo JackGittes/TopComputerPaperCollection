@@ -1,0 +1,54 @@
+Optimal context-sensitive dynamic partial order reduction with observers.	Elvira Albert,Maria Garcia de la Banda,Miguel Gómez-Zamalloa,Miguel Isabel,Peter J. Stuckey	10.1145/3293882.3330565
+SAFEVM: a safety verifier for Ethereum smart contracts.	Elvira Albert,Jesús Correas,Pablo Gordillo,Guillermo Román-Díez,Albert Rubio	10.1145/3293882.3338999
+Some challenges for software testing research (invited talk paper).	Nadia Alshahwan,Andrea Ciancone,Mark Harman,Yue Jia 0001,Ke Mao,Alexandru Marginean,Alexander Mols,Hila Peleg,Federica Sarro,Ilya Zorin	10.1145/3293882.3338991
+A large-scale study of application incompatibilities in Android.	Haipeng Cai,Ziyi Zhang,Li Li 0029,Xiaoqin Fu	10.1145/3293882.3330564
+VFQL: combinational static analysis as query language.	Guang Chen,Yuexing Wang,Min Zhou 0001,Jiaguang Sun 0001	10.1145/3293882.3338997
+Detecting memory errors at runtime with source-level instrumentation.	Zhe Chen,Junqi Yan,Shuanglong Kan,Ju Qian,Jingling Xue	10.1145/3293882.3330581
+Search-based test and improvement of machine-learning-based anomaly detection systems.	Maxime Cordy,Steve Muller,Mike Papadakis,Yves Le Traon	10.1145/3293882.3330580
+Learning user interface element interactions.	Christian Degott,Nataniel P. Borges Jr.,Andreas Zeller	10.1145/3293882.3330569
+Automated API-usage update for Android apps.	Mattia Fazzini,Qi Xin,Alessandro Orso	10.1145/3293882.3330571
+Towards scalable defense of information flow security for distributed systems.	Xiaoqin Fu	10.1145/3293882.3338988
+Automatically testing self-driving cars with search-based procedural content generation.	Alessio Gambi,Marc Müller,Gordon Fraser 0001	10.1145/3293882.3330566
+Crash-avoiding program repair.	Xiang Gao 0012,Sergey Mechtaev,Abhik Roychoudhury	10.1145/3293882.3330558
+Practical program repair via bytecode mutation.	Ali Ghanbari 0001,Samuel Benton,Lingming Zhang 0001	10.1145/3293882.3330559
+Failure clustering without coverage.	Mojdeh Golagha,Constantin Lehnhoff,Alexander Pretschner,Hermann Ilmberger	10.1145/3293882.3330561
+A new dimension of test quality: assessing and generating higher quality unit test cases.	Giovanni Grano	10.1145/3293882.3338984
+Sara: self-replay augmented record and replay for Android in industrial cases.	Jiaqi Guo,Shuyue Li,Jian-Guang Lou,Zijiang Yang 0006,Ting Liu 0002	10.1145/3293882.3330557
+Conditional dynamic partial order reduction and optimality results.	Miguel Isabel	10.1145/3293882.3338987
+Effective and efficient API misuse detection via exception propagation and search-based testing.	Maria Kechagia,Xavier Devroey,Annibale Panichella,Georgios Gousios,Arie van Deursen	10.1145/3293882.3330552
+Theory and practice of string solvers (invited talk abstract).	Adam Kiezun,Philip J. Guo,Pieter Hooimeijer,Michael D. Ernst,Vijay Ganesh	10.1145/3293882.3338993
+Differentially testing soundness and precision of program analyzers.	Christian Klinger,Maria Christakis,Valentin Wüstholz	10.1145/3293882.3330553
+Exploiting the laws of order in smart contracts.	Aashish Kolluri,Ivica Nikolic,Ilya Sergey,Aquinas Hobor,Prateek Saxena	10.1145/3293882.3330560
+Mining Android crash fixes in the absence of issue- and change-tracking systems.	Pingfan Kong,Li Li 0029,Jun Gao 0001,Tegawendé F. Bissyandé,Jacques Klein	10.1145/3293882.3330572
+A cost-effective strategy for software vulnerability prediction based on bellwether analysis.	Patrick Kwaku Kudjo,Jinfu Chen 0001	10.1145/3293882.3338985
+Continuous software performance assessment: detecting performance problems of software libraries on every build.	Christoph Laaber	10.1145/3293882.3338982
+Root causing flaky tests in a large-scale industrial setting.	Wing Lam,Patrice Godefroid,Suman Nath,Anirudh Santhiar,Suresh Thummalapenta	10.1145/3293882.3330570
+JNI program analysis with automatically extracted C semantic summary.	Sungho Lee	10.1145/3293882.3338990
+Adlib: analyzer for mobile ad platform libraries.	Sungho Lee,Sukyoung Ryu	10.1145/3293882.3330562
+CoCoTest: collaborative crowdsourced testing for Android applications.	Haoyu Li,Chunrong Fang,Zhibin Wei,Zhenyu Chen 0001	10.1145/3293882.3339000
+CTRAS: a tool for aggregating and summarizing crowdsourced test reports.	Yuying Li,Rui Hao,Yang Feng 0003,James A. Jones,Xiaofang Zhang,Zhenyu Chen 0001	10.1145/3293882.3339004
+DeepFL: integrating multiple fault diagnosis dimensions for deep fault localization.	Xia Li,Wei Li 0159,Yuqun Zhang,Lingming Zhang 0001	10.1145/3293882.3330574
+VBSAC: a value-based static analyzer for C.	Chi Li,Min Zhou 0001,Zuxing Gu,Guang Chen,Yuexing Wang,Jiecheng Wu,Ming Gu 0001	10.1145/3293882.3338998
+TBar: revisiting template-based automated program repair.	Kui Liu 0001,Anil Koyuncu,Dongsun Kim 0001,Tegawendé F. Bissyandé	10.1145/3293882.3330577
+History-driven build failure fixing: how far are we?	Yiling Lou,Junjie Chen 0003,Lingming Zhang 0001,Dan Hao 0001,Lu Zhang 0023	10.1145/3293882.3330578
+Mining constraints for grammar fuzzing.	Michaël Mera	10.1145/3293882.3338983
+JQF: coverage-guided property-based testing in Java.	Rohan Padhye,Caroline Lemieux,Koushik Sen	10.1145/3293882.3339002
+Semantic fuzzing with zest.	Rohan Padhye,Caroline Lemieux,Koushik Sen,Mike Papadakis,Yves Le Traon	10.1145/3293882.3330576
+Androlic: an extensible flow, context, object, field, and path-sensitive static analysis framework for Android.	Linjie Pan 0001,Baoquan Cui,Jiwei Yan,Xutong Ma,Jun Yan 0009,Jian Zhang 0001	10.1145/3293882.3339001
+Deferred concretization in symbolic execution via fuzzing.	Awanish Pandey,Phani Raj Goutham Kotcharlakota,Subhajit Roy 0001	10.1145/3293882.3330554
+On the correctness of GPU programs.	Chao Peng 0002	10.1145/3293882.3338989
+Codebase-adaptive detection of security-relevant methods.	Goran Piskachev,Lisa Nguyen Quang Do,Eric Bodden	10.1145/3293882.3330556
+TestMig: migrating GUI test cases from iOS to Android.	Xue Qin,Hao Zhong 0001,Xiaoyin Wang	10.1145/3293882.3330575
+Judge: identifying, understanding, and evaluating sources of unsoundness in call graphs.	Michael Reif,Florian Kübler,Michael Eichberg,Dominik Helm,Mira Mezini	10.1145/3293882.3330555
+Ukwikora: continuous inspection for keyword-driven testing.	Renaud Rwemalika,Marinos Kintis,Mike Papadakis,Yves Le Traon,Pierre Lorrach	10.1145/3293882.3339003
+Assessing the state and improving the art of parallel testing for C.	Oliver Schwahn,Nicolas Coppik,Stefan Winter 0001,Neeraj Suri	10.1145/3293882.3330573
+QADroid: regression event selection for Android applications.	Aman Sharma,Rupesh Nasre	10.1145/3293882.3330550
+Mitigating the effects of flaky tests on mutation testing.	August Shi,Jonathan Bell 0001,Darko Marinov	10.1145/3293882.3330568
+Identifying error code misuses in complex system.	Wensheng Tang	10.1145/3293882.3338986
+Interactive metamorphic testing of debuggers.	Sandro Tolksdorf,Daniel Lehmann 0002,Michael Pradel	10.1145/3293882.3330567
+Go-clone: graph-embedding based clone detector for Golang.	Cong Wang 0020,Jian Gao 0008,Yu Jiang 0001,Zhenchang Xing,Huafeng Zhang,Weiliang Yin,Ming Gu 0001,Jiaguang Sun 0001	10.1145/3293882.3338996
+Improving random GUI testing with image-based widget detection.	Thomas D. White,Gordon Fraser 0001,Guy J. Brown	10.1145/3293882.3330551
+DeepHunter: a coverage-guided fuzz testing framework for deep neural networks.	Xiaofei Xie,Lei Ma 0003,Felix Juefei-Xu,Minhui Xue,Hongxu Chen,Yang Liu 0003,Jianjun Zhao 0001,Bo Li 0026,Jianxiong Yin,Simon See	10.1145/3293882.3330579
+From typestate verification to interpretable deep models (invited talk abstract).	Eran Yahav,Stephen J. Fink,Nurit Dor,G. Ramalingam,Emmanuel Geay	10.1145/3293882.3338992
+LibID: reliable identification of obfuscated third-party Android libraries.	Jiexin Zhang 0001,Alastair R. Beresford,Stephan A. Kollmann	10.1145/3293882.3330563
+Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2019, Beijing, China, July 15-19, 2019.	Dongmei Zhang 0001,Anders Møller	10.1145/3293882

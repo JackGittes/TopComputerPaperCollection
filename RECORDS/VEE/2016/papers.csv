@@ -1,0 +1,17 @@
+Urgent Virtual Machine Eviction with Enlightened Post-Copy.	Yoshihisa Abe,Roxana Geambasu,Kaustubh R. Joshi,Mahadev Satyanarayanan	10.1145/2892242.2892252
+The nom Profit-Maximizing Operating System.	Muli Ben-Yehuda,Orna Agmon Ben-Yehuda,Dan Tsafrir	10.1145/2892242.2892250
+Abstractions for Practical Virtual Machine Replay.	Anton Burtsev,David Johnson 0004,Mike Hibler,Eric Eide,John Regehr	10.1145/2892242.2892257
+Virtualizing the Edge of the Cloud: the New Frontier.	Ada Gavrilovska	10.1145/2892242.2892243
+Enabling Hybrid Parallel Runtimes Through Kernel and Virtualization Support.	Kyle C. Hale,Peter A. Dinda	10.1145/2892242.2892255
+Building a KVM-based Hypervisor for a Heterogeneous System Architecture Compliant System.	Yu-Ju Huang,Hsuan-Heng Wu,Yeh-Ching Chung,Wei-Chung Hsu	10.1145/2892242.2892246
+Next Generation Virtual Memory Management.	Kathryn S. McKinley	10.1145/2892242.2892244
+Performance Implications of Extended Page Tables on Virtualized x86 Processors.	Timothy Merrifield,H. Reza Taheri	10.1145/2892242.2892258
+On Selecting the Right Optimizations for Virtual Machine Migration.	Senthil Nathan,Umesh Bellur,Purushottam Kulkarni	10.1145/2892242.2892247
+Shoot4U: Using VMM Assists to Optimize TLB Operations on Preempted vCPUs.	Jiannan Ouyang,John R. Lange,Haoqiang Zheng	10.1145/2892242.2892245
+Exploiting FIFO Scheduler to Improve Parallel Garbage Collection Performance.	Junjie Qian,Witawas Srisa-an,Sharad C. Seth,Hong Jiang 0001,Du Li,Pan Yi	10.1145/2892242.2892248
+Leveraging Managed Runtime Systems to Build, Analyze, and Optimize Memory Graphs.	Rebecca Smith,Scott Rixner	10.1145/2892242.2892253
+Sweet Spots and Limits for Virtualization.	Carl A. Waldspurger,Emery D. Berger,Abhishek Bhattacharjee,Kevin T. Pedretti,Simon Peter 0001,Christopher J. Rossbach	10.1145/2892242.2892249
+Enabling Efficient Hypervisor-as-a-Service Clouds with Eemeral Virtualization.	Dan Williams,Yaohui Hu,Umesh Deshpande,Piush K. Sinha,Nilton Bila,Kartik Gopalan,Hani Jamjoom	10.1145/2892242.2892254
+SRVM: Hypervisor Support for Live Migration with Passthrough SR-IOV Network Devices.	Xin Xu,Bhavesh Davda	10.1145/2892242.2892256
+Performance Analysis and Optimization of Full Garbage Collection in Memory-hungry Environments.	Yang Yu,Tianyang Lei,Weihua Zhang,Haibo Chen 0001,Binyu Zang	10.1145/2892242.2892251
+Proceedings of the 12th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, Atlanta, GA, USA, April 2-3, 2016	Vishakha Gupta-Cledat,Donald E. Porter,Vivek Sarkar	10.1145/2892242

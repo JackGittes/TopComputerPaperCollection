@@ -1,0 +1,75 @@
+Comprehensive Evaluation of Supply Voltage Underscaling in FPGA on-Chip Memories.	Behzad Salami 0001,Osman S. Unsal,Adrián Cristal Kestelman	10.1109/MICRO.2018.00064
+Architectural Support for Probabilistic Branches.	Almutaz Adileh,David J. Lilja,Lieven Eeckhout	10.1109/MICRO.2018.00018
+Application-Transparent Near-Memory Processing Architecture with Memory Channel Network.	Mohammad Alian,Seungwon Min,Hadi Asgharimoghaddam,Ashutosh Dhar,Dong Kai Wang,Thomas Roewer,Adam J. McPadden,Oliver O&apos;Halloran,Deming Chen,Jinjun Xiong,Daehoon Kim,Wen-Mei W. Hwu,Nam Sung Kim	10.1109/MICRO.2018.00070
+Performance Improvement by Prioritizing the Issue of the Instructions in Unconfident Branch Slices.	Hideki Ando	10.1109/MICRO.2018.00016
+ASPEN: A Scalable In-SRAM Architecture for Pushdown Automata.	Kevin Angstadt,Arun Subramaniyan 0001,Elaheh Sadredini,Reza Rahimi,Kevin Skadron,Westley Weimer,Reetuparna Das	10.1109/MICRO.2018.00079
+Scalable Distributed Last-Level TLBs Using Low-Latency Interconnects.	Srikant Bharadwaj,Guilherme Cox,Tushar Krishna,Abhishek Bhattacharjee	10.1109/MICRO.2018.00030
+MAVBench: Micro Aerial Vehicle Benchmarking.	Behzad Boroujerdian,Hasan Genc,Srivatsan Krishnan,Wenzhi Cui,Aleksandra Faust,Vijay Janapa Reddi	10.1109/MICRO.2018.00077
+An Architectural Framework for Accelerating Dynamic Parallel Algorithms on Reconfigurable Hardware.	Tao Chen 0045,Shreesha Srinath,Christopher Batten,G. Edward Suh	10.1109/MICRO.2018.00014
+Taming the Killer Microsecond.	Shenghsun Cho,Amoghavarsha Suresh,Tapti Palit,Michael Ferdman,Nima Honarmand	10.1109/MICRO.2018.00057
+Invalid Data-Aware Coding to Enhance the Read Performance of High-Density Flash Memories.	Wonil Choi,Myoungsoo Jung,Mahmut T. Kandemir	10.1109/MICRO.2018.00046
+Compresso: Pragmatic Main Memory Compression.	Esha Choukse,Mattan Erez,Alaa R. Alameldeen	10.1109/MICRO.2018.00051
+PermDNN: Efficient Compressed DNN Architecture with Permuted Diagonal Matrices.	Chunhua Deng,Siyu Liao,Yi Xie 0001,Keshab K. Parhi,Xuehai Qian,Bo Yuan 0001	10.1109/MICRO.2018.00024
+EMPROF: Memory Profiling Via EM-Emanation in IoT and Hand-Held Devices.	Moumita Dey,Alireza Nazari,Alenka G. Zajic,Milos Prvulovic	10.1109/MICRO.2018.00076
+Magic-State Functional Units: Mapping and Scheduling Multi-Level Distillation Circuits for Fault-Tolerant Quantum Architectures.	Yongshan Ding 0001,Adam Holmes,Ali Javadi-Abhari,Diana Franklin,Margaret Martonosi,Frederic T. Chong	10.1109/MICRO.2018.00072
+MDACache: Caching for Multi-Dimensional-Access Memories.	Sumitha George,Minli Julie Liao,Huaipan Jiang,Jagadish B. Kotra,Mahmut T. Kandemir,Jack Sampson,Vijaykrishnan Narayanan	10.1109/MICRO.2018.00073
+Amber*: Enabling Precise Full-System Simulation with Detailed Modeling of All SSD Resources.	Donghyun Gouk,Miryeong Kwon,Jie Zhang 0048,Sungjoon Koh,Wonil Choi,Nam Sung Kim,Mahmut T. Kandemir,Myoungsoo Jung	10.1109/MICRO.2018.00045
+Leveraging CPU Electromagnetic Emanations for Voltage Noise Characterization.	Zacharias Hadjilambrou,Shidhartha Das,Marco A. Antoniades,Yiannakis Sazeides	10.1109/MICRO.2018.00053
+Morph: Flexible Acceleration for 3D CNN-Based Video Understanding.	Kartik Hegde,Rohit Agrawal 0001,Yulun Yao,Christopher W. Fletcher	10.1109/MICRO.2018.00080
+Attaché: Towards Ideal Memory Compression by Mitigating Metadata Bandwidth Overheads.	Seokin Hong,Prashant Jayaprakash Nair,Bülent Abali,Alper Buyuktosunoglu,Kyu-hyoun Kim,Michael B. Healy	10.1109/MICRO.2018.00034
+Multi-dimensional Parallel Training of Winograd Layer on Memory-Centric Architecture.	Byungchul Hong,Yeonju Ro,John Kim	10.1109/MICRO.2018.00061
+Persistence Parallelism Optimization: A Holistic Approach from Memory Bus to RDMA Network.	Xing Hu 0001,Matheus Ogleari,Jishen Zhao,Shuangchen Li,Abanti Basak,Yuan Xie 0001	10.1109/MICRO.2018.00047
+STRAIGHT: Hazardless Processor Architecture Without Register Renaming.	Hidetsugu Irie,Toru Koizumi 0001,Akifumi Fukuda,Seiya Akaki,Satoshi Nakae,Yutaro Bessho,Ryota Shioya,Takahiro Notsu,Katsuhiro Yoda,Teruo Ishihara,Shuichi Sakai	10.1109/MICRO.2018.00019
+RpStacks-MT: A High-Throughput Design Evaluation Methodology for Multi-Core Processors.	Hanhwi Jang,Jae-Eon Jo,Jaewon Lee,Jangwoo Kim	10.1109/MICRO.2018.00054
+Harmonizing Speculative and Non-Speculative Execution in Architectures for Ordered Parallelism.	Mark C. Jeffrey,Victor A. Ying,Suvinay Subramanian,Hyun Ryong Lee,Joel S. Emer,Daniel Sánchez 0003	10.1109/MICRO.2018.00026
+Efficient Hardware-Assisted Logging with Asynchronous and Direct-Update for Persistent Memory.	Jungi Jeong,Chang Hyun Park 0001,Jaehyuk Huh,Seungryoul Maeng	10.1109/MICRO.2018.00049
+In-Register Parameter Caching for Dynamic Neural Nets with Virtual Persistent Processor Specialization.	Farzad Khorasani,Hodjat Asghari Esfeden,Nael B. Abu-Ghazaleh,Vivek Sarkar	10.1109/MICRO.2018.00038
+SSDcheck: Timely and Accurate Prediction of Irregular Behaviors in Black-Box SSDs.	Joonsung Kim,Pyeongsu Park,Jaehyung Ahn,Jihun Kim 0002,Jong Kim 0001,Jangwoo Kim	10.1109/MICRO.2018.00044
+DAWG: A Defense Against Cache Timing Attacks in Speculative Execution Processors.	Vladimir Kiriansky,Ilia A. Lebedev,Saman P. Amarasinghe,Srinivas Devadas,Joel S. Emer	10.1109/MICRO.2018.00083
+CHAMELEON: A Dynamically Reconfigurable Heterogeneous Memory System.	Jagadish B. Kotra,Haibo Zhang 0005,Alaa R. Alameldeen,Chris Wilkerson,Mahmut T. Kandemir	10.1109/MICRO.2018.00050
+Beyond the Memory Wall: A Case for Memory-Centric HPC System for Deep Learning.	Youngeun Kwon,Minsoo Rhu	10.1109/MICRO.2018.00021
+SCOPE: A Stochastic Computing Engine for DRAM-Based In-Situ Accelerator.	Shuangchen Li,Alvin Oliver Glova,Xing Hu 0001,Peng Gu,Dimin Niu,Krishna T. Malladi,Hongzhong Zheng,Bob Brennan,Yuan Xie 0001	10.1109/MICRO.2018.00062
+A Network-Centric Hardware/Algorithm Co-Design to Accelerate Distributed Training of Deep Neural Networks.	Youjie Li,Jongse Park,Mohammad Alian,Yifan Yuan,Zheng Qu 0002,Peitian Pan,Ren Wang 0001,Alexander G. Schwing,Hadi Esmaeilzadeh,Nam Sung Kim	10.1109/MICRO.2018.00023
+Duplicon Cache: Mitigating Off-Chip Memory Bank and Bank Group Conflicts Via Data Duplication.	Ben Lin,Michael B. Healy,Rustam Miftakhutdinov,Philip G. Emma,Yale N. Patt	10.1109/MICRO.2018.00031
+Architectural Support for Efficient Large-Scale Automata Processing.	Hongyuan Liu 0002,Mohamed Assem Ibrahim,Onur Kayiran,Sreepathi Pai,Adwait Jog	10.1109/MICRO.2018.00078
+iDO: Compiler-Directed Failure Atomicity for Nonvolatile Memory.	Qingrui Liu,Joseph Izraelevitz,Se Kwon Lee,Michael L. Scott,Sam H. Noh,Changhee Jung	10.1109/MICRO.2018.00029
+Processing-in-Memory for Energy-Efficient Neural Network Training: A Heterogeneous Approach.	Jiawen Liu,Hengyu Zhao,Matheus A. Ogleari,Dong Li 0001,Jishen Zhao	10.1109/MICRO.2018.00059
+CounterMiner: Mining Big Performance Data from Hardware Counters.	Yirong Lv,Bin Sun,Qingyi Luo,Jing Wang 0055,Zhibin Yu 0001,Xuehai Qian	10.1109/MICRO.2018.00056
+Diffy: a Déjà vu-Free Differential Deep Neural Network Accelerator.	Mostafa Mahmoud,Kevin Siu,Andreas Moshovos	10.1109/MICRO.2018.00020
+PipeProof: Automated Memory Consistency Proofs for Microarchitectural Specifications.	Yatin A. Manerkar,Daniel Lustig,Margaret Martonosi,Aarti Gupta	10.1109/MICRO.2018.00069
+LerGAN: A Zero-Free, Low Data Movement and PIM-Based GAN Architecture.	Haiyu Mao,Mingcong Song,Tao Li 0006,Yuting Dai,Jiwu Shu	10.1109/MICRO.2018.00060
+TAPAS: Generating Parallel Accelerators from Parallel Programs.	Steve Margerm,Amirali Sharifian,Apala Guha,Arrvindh Shriraman,Gilles Pokam	10.1109/MICRO.2018.00028
+The EH Model: Early Design Space Exploration of Intermittent Processor Architectures.	Joshua San Miguel,Karthik Ganesan 0002,Mario Badr,Chunqiu Xia,Rose Li,Hsuan Hsiao,Natalie D. Enright Jerger	10.1109/MICRO.2018.00055
+Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling.	Anurag Mukkara,Nathan Beckmann,Maleen Abeydeera,Xiaosong Ma,Daniel Sánchez 0003	10.1109/MICRO.2018.00010
+CABLE: A CAche-Based Link Encoder for Bandwidth-Starved Manycores.	Tri Minh Nguyen 0003,Adi Fuchs,David Wentzlaff	10.1109/MICRO.2018.00033
+PiCL: A Software-Transparent, Persistent Cache Log for Nonvolatile Main Memory.	Tri Minh Nguyen 0003,David Wentzlaff	10.1109/MICRO.2018.00048
+Fault Site Pruning for Practical Reliability Analysis of GPGPU Applications.	Bin Nie,Lishan Yang,Adwait Jog,Evgenia Smirni	10.1109/MICRO.2018.00066
+FineReg: Fine-Grained Register File Management for Augmenting GPU Throughput.	Yunho Oh,Myung Kuk Yoon,William J. Song,Won Woo Ro	10.1109/MICRO.2018.00037
+Error Correlation Prediction in Lockstep Processors for Safety-Critical Systems.	Emre Ozer,Balaji Venu,Xabier Iturbe,Shidhartha Das,Spyros Lyberis,John Biggs,Peter Harrod,John Penton	10.1109/MICRO.2018.00065
+CEASER: Mitigating Conflict-Based Cache Attacks via Encrypted-Address and Remapping.	Moinuddin K. Qureshi	10.1109/MICRO.2018.00068
+CritICs Critiquing Criticality in Mobile Apps.	Prasanna Venkatesh Rengasamy,Haibo Zhang 0005,Shulin Zhao 0001,Nachiappan Chidambaram Nachiappan,Anand Sivasubramaniam,Mahmut T. Kandemir,Chita R. Das	10.1109/MICRO.2018.00075
+The Superfluous Load Queue.	Alberto Ros,Stefanos Kaxiras	10.1109/MICRO.2018.00017
+Morphable Counters: Enabling Compact Integrity Trees For Low-Overhead Secure Memories.	Gururaj Saileshwar,Prashant J. Nair,Prakash Ramrakhyani,Wendy Elsasser,José A. Joao,Moinuddin K. Qureshi	10.1109/MICRO.2018.00041
+GeneSys: Enabling Continuous Learning through Neural Network Evolution in Hardware.	Ananda Samajdar,Parth Mannan,Kartikay Garg,Tushar Krishna	10.1109/MICRO.2018.00074
+Farewell My Shared LLC! A Case for Private Die-Stacked DRAM Caches for Servers.	Amna Shahab,Mingcan Zhu,Artemiy Margaritov,Boris Grot	10.1109/MICRO.2018.00052
+Neighborhood-Aware Address Translation for Irregular GPU Applications.	Seunghee Shin,Michael LeBeane,Yan Solihin,Arkaprava Basu	10.1109/MICRO.2018.00036
+Sampler: PMU-Based Sampling to Detect Memory Errors Latent in Production Software.	Sam Silvestro,Hongyu Liu,Tong Zhang,Changhee Jung,Dongyoon Lee,Tongping Liu	10.1109/MICRO.2018.00027
+SwapCodes: Error Codes for Hardware-Software Cooperative GPU Pipeline Error Detection.	Michael B. Sullivan 0001,Siva Kumar Sastry Hari,Brian Zimmer,Timothy Tsai 0002,Stephen W. Keckler	10.1109/MICRO.2018.00067
+CheckMate: Automated Synthesis of Hardware Exploits and Security Litmus Tests.	Caroline Trippel,Daniel Lustig,Margaret Martonosi	10.1109/MICRO.2018.00081
+Adaptive Scheduling for Systems with Asymmetric Memory Hierarchies.	Po-An Tsai,Changping Chen,Daniel Sánchez 0003	10.1109/MICRO.2018.00058
+Rethinking the Memory Hierarchy for Modern Languages.	Po-An Tsai,Yee Ling Gan,Daniel Sánchez 0003	10.1109/MICRO.2018.00025
+Inter-Thread Communication in Multithreaded, Reconfigurable Coarse-Grain Arrays.	Dani Voitsechov,Oron Port,Yoav Etsion	10.1109/MICRO.2018.00013
+Reducing DRAM Latency via Charge-Level-Aware Look-Ahead Partial Restoration.	Yaohua Wang,Arash Tavakkol,Lois Orosa 0001,Saugata Ghose,Nika Mansouri-Ghiasi,Minesh Patel,Jeremie S. Kim,Hasan Hassan,Mohammad Sadrosadati,Onur Mutlu	10.1109/MICRO.2018.00032
+InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy.	Mengjia Yan 0001,Jiho Choi,Dimitrios Skarlatos 0002,Adam Morrison 0001,Christopher W. Fletcher,Josep Torrellas	10.1109/MICRO.2018.00042
+Osiris: A Low-Cost Mechanism to Enable Restoration of Secure Non-Volatile Memories.	Mao Ye,Clayton Hughes,Amro Awad	10.1109/MICRO.2018.00040
+Combining HW/SW Mechanisms to Improve NUMA Performance of Multi-GPU Systems.	Vinson Young,Aamer Jaleel,Evgeny Bolotin,Eiman Ebrahimi,David W. Nellans,Oreste Villa	10.1109/MICRO.2018.00035
+End-to-End Automated Exploit Generation for Validating the Security of Processor Designs.	Rui Zhang 0068,Calvin Deutschbein,Peng Huang 0005,Cynthia Sturton	10.1109/MICRO.2018.00071
+Exploring and Optimizing Chipkill-Correct for Persistent Memory Based on High-Density NVRAMs.	Da Zhang 0004,Vilas Sridharan,Xun Jian 0002	10.1109/MICRO.2018.00063
+Shadow Block: Accelerating ORAM Accesses with Data Duplication.	Xian Zhang 0001,Guangyu Sun 0003,Peichen Xie,Chao Zhang 0007,Yannan Liu,Lingxiao Wei,Qiang Xu 0001,Chun Jason Xue	10.1109/MICRO.2018.00082
+Composable Building Blocks to Open up Processor Design.	Sizhuo Zhang,Andrew Wright,Thomas Bourgeat,Arvind	10.1109/MICRO.2018.00015
+Towards Memory Friendly Long-Short Term Memory Networks (LSTMs) on Mobile GPUs.	Xingyao Zhang,Chenhao Xie 0001,Jing Wang 0055,Weidong Zhang,Xin Fu	10.1109/MICRO.2018.00022
+Cambricon-S: Addressing Irregularity in Sparse Neural Networks through A Cooperative Software/Hardware Approach.	Xuda Zhou,Zidong Du,Qi Guo 0001,Shaoli Liu,Chengsi Liu,Chao Wang 0003,Xuehai Zhou,Ling Li 0001,Tianshi Chen 0002,Yunji Chen	10.1109/MICRO.2018.00011
+CSE: Parallel Finite State Machines with Convergence Set Enumeration.	Youwei Zhuo,Jinglei Cheng,Qinyi Luo,Jidong Zhai,Yanzhi Wang,Zhongzhi Luan,Xuehai Qian	10.1109/MICRO.2018.00012
+Voltage-Stacked GPUs: A Control Theory Driven Cross-Layer Solution for Practical Voltage Stacking in GPUs.	An Zou,Jingwen Leng,Xin He,Yazhou Zu,Christopher D. Gill,Vijay Janapa Reddi,Xuan Zhang 0001	10.1109/MICRO.2018.00039
+Improving the Performance and Endurance of Encrypted Non-Volatile Main Memory through Deduplicating Writes.	Pengfei Zuo,Yu Hua 0001,Ming Zhao 0002,Wen Zhou,Yuncheng Guo	10.1109/MICRO.2018.00043
+51st Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2018, Fukuoka, Japan, October 20-24, 2018		

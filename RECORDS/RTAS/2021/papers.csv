@@ -1,0 +1,61 @@
+Brief Industry Paper: Digital Twin for Dependable Multi-Core Real-Time Systems - Requirements and Open Challenges.	Xiaotian Dai 0001,Shuai Zhao 0004,Iain Bate,Alan Burns 0001,Xing Guo,Wanli Chang 0001	10.1109/RTAS52030.2021.00057
+Brief Industry Paper: AXI-InterconnectRT: Towards a Real-Time AXI-Interconnect for System-on-Chips.	Zhe Jiang 0004,Neil C. Audsley,Dayu Shill,Kecheng Yang 0001,Nathan Fisher,Zheng Dong 0002	10.1109/RTAS52030.2021.00046
+Real-Time Adaptive Sensor Attack Detection in Autonomous Cyber-Physical Systems.	Francis Akowuah,Fanxin Kong	10.1109/RTAS52030.2021.00027
+Work in Progress: Heart Disease Detection Methodology using E-Stethoscope.	Sayeda Farzana Aktar,Stefan Andrei,Albert M. K. Cheng	10.1109/RTAS52030.2021.00065
+Event-Driven Delay-Induced Tasks: Model, Analysis, and Applications.	Federico Aromolo,Alessandro Biondi 0001,Geoffrey Nelissen,Giorgio C. Buttazzo	10.1109/RTAS52030.2021.00013
+Simultaneous Multithreading in Mixed-Criticality Real-Time Systems.	Joshua Bakita,Shareef Ahmed,Sims Hill Osborne,Stephen Tang,Jingyuan Chen,F. Donelson Smith,James H. Anderson	10.1109/RTAS52030.2021.00030
+Automatic Latency Management for ROS 2: Benefits, Challenges, and Open Problems.	Tobias Blaß,Arne Hamann,Ralph Lange,Dirk Ziegenbein,Björn B. Brandenburg	10.1109/RTAS52030.2021.00029
+Developing Real-Time Scheduling Policy by Deep Reinforcement Learning.	Zitong Bo,Ying Qiao,Chang Leng,Hongan Wang,Chaoping Guo,Shaohui Zhang	10.1109/RTAS52030.2021.00019
+Latency Analysis of I/O Virtualization Techniques in Hypervisor-Based Real-Time Systems.	Daniel Casini,Alessandro Biondi 0001,Giorgiomaria Cicero,Giorgio C. Buttazzo	10.1109/RTAS52030.2021.00032
+SchedGuard: Protecting against Schedule Leaks Using Linux Containers.	Jiyang Chen,Tomasz Kloda,Ayoosh Bansal,Rohan Tabish,Chien-Ying Chen,Bo Liu 0044,Sibin Mohan,Marco Caccamo,Lui Sha	10.1109/RTAS52030.2021.00010
+PiCAS: New Design of Priority-Driven Chain-Aware Scheduling for ROS2.	Hyunjong Choi,Yecheng Xiang,Hyoseung Kim 0001	10.1109/RTAS52030.2021.00028
+Fault-Tolerant Mapping of Real-Time Parallel Applications under multiple DVFS schemes.	Minyu Cui,Angeliki Kritikakou,Lei Mo,Emmanuel Casseau	10.1109/RTAS52030.2021.00038
+Brief Industry Paper: Dissecting the QNX Adaptive Partitioning Scheduler.	Dakshina Dasari,Arne Hamann,Holger Broede,Michael Pressler,Dirk Ziegenbein	10.1109/RTAS52030.2021.00056
+ARA: Static Initialization of Dynamically-Created System Objects.	Björn Fiedler,Gerion Entrup,Christian Dietrich 0001,Daniel Lohmann	10.1109/RTAS52030.2021.00039
+Brief Industry Paper: Tenma: A Real-time LibOS Developed for Industry Embedded Systems.	Zhihui Gao,Hui Chen,Wei Ren,Jianhui Huang,Lei Dai,Zichang Lin	10.1109/RTAS52030.2021.00053
+Insert &amp; Save: Energy Optimization in IP Core Integration for FPGA-based Real-time Systems.	Martin Geier 0001,Marian Brändle,Samarjit Chakraborty	10.1109/RTAS52030.2021.00015
+Tightening Network Calculus Delay Bounds by Predicting Flow Prolongations in the FIFO Analysis.	Fabien Geyer,Alexander Scheffler,Steffen Bondorf	10.1109/RTAS52030.2021.00021
+DNA: Dynamic Resource Allocation for Soft Real-Time Multicore Systems.	Robert Gifford,Neeraj Gandhi,Linh Thi Xuan Phan,Andreas Haeberlen	10.1109/RTAS52030.2021.00024
+Brief Industry Paper: LiteOS: Managing Sleep for Low-energy IoT.	Chuancai Gu,Tao Yang,Qiulin Chen	10.1109/RTAS52030.2021.00054
+Timing Analysis of Asynchronized Distributed Cause-Effect Chains.	Mario Günzel,Kuan-Hsun Chen,Niklas Ueter,Georg von der Brüggen,Marco Dürr,Jian-Jia Chen	10.1109/RTAS52030.2021.00012
+Work in Progress: Identifying Unexpected Inter-core Interference Induced by Shared Cache.	Denis Hoornaert,Shahin Roozkhosh,Renato Mancuso 0001,Marco Caccamo	10.1109/RTAS52030.2021.00066
+Practical Principle of Least Privilege for Secure Embedded Systems.	Samuel Jero,Juliana Furgala,Runyu Pan,Phani Kishore Gadepalli,Alexandra Clifford,Bite Ye,Roger Khazan,Bryan C. Ward,Gabriel Parmer,Richard Skowyra	10.1109/RTAS52030.2021.00009
+Safety-Aware Integration of Hardware-Assisted Program Tracing in Mixed-Criticality Systems for Security Monitoring.	Marine Kadar,Gerhard Fohler,Don Kuzhiyelil,Philipp Gorski	10.1109/RTAS52030.2021.00031
+Budget RNNs: Multi-Capacity Neural Networks to Improve In-Sensor Inference Under Energy Budgets.	Tejas Kannan,Henry Hoffmann	10.1109/RTAS52030.2021.00020
+A Systematic Approach to Achieving Tight Worst-Case Latency and High-Performance Under Predictable Cache Coherence.	Anirudh Mohan Kaushik,Hiren D. Patel	10.1109/RTAS52030.2021.00017
+Constrained Data-Age with Job-Level Dependencies: How to Reconcile Tight Bounds and Overheads.	Tobias Klaus,Matthias Becker 0004,Wolfgang Schröder-Preikschat,Peter Ulbrich	10.1109/RTAS52030.2021.00014
+ML for RT: Priority Assignment Using Machine Learning.	Seunghoon Lee,Hyeongboo Baek,Honguk Woo,Kang G. Shin,Jinkyu Lee 0001	10.1109/RTAS52030.2021.00018
+Brief Industry Paper: An Edge-Based High-Definition Map Crowdsourcing Task Distribution Framework for Autonomous Driving.	Donghua Li,Jie Tang 0003,Shaoshan Liu	10.1109/RTAS52030.2021.00050
+Brief Industry Paper: A Model-based Framework and Tool Support for Capturing System Verification Strategy.	Mole Li,Alan Grigg	10.1109/RTAS52030.2021.00047
+Work in Progress: Topology-based Multilevel Algorithm for Large-scale Task Scheduling in Clouds.	Minjia Li,Yikun Hu,Cen Chen,Zheng Xiao,Chubo Liu,Kenli Li 0001	10.1109/RTAS52030.2021.00062
+Brief Industry Paper: An Energy-Reduction On-Chip Memory Management for Intermittent Systems.	Yu-Pei Liang,Yu-Ting Fang,Shuo-Han Chen,Yen-Ting Chen,Tseng-Yi Chen,Wei-Lin Wang,Wei-Kuan Shih,Yuan-Hao Chang 0001	10.1109/RTAS52030.2021.00044
+Work in Progress: Path-based Graph Partition for Parallel Hardware-accelerated Functional Verification.	Peiying Lin,Kenli Li 0001,Zheng Xiao,Cen Chen,Siyang Yu	10.1109/RTAS52030.2021.00061
+Brief Industry Paper: The Matter of Time - A General and Efficient System for Precise Sensor Synchronization in Robotic Computing.	Shaoshan Liu,Bo Yu,Yahui Liu,Kunai Zhang,Yisong Qiao,Thomas Yuang Li,Jie Tang 0003,Yuhao Zhu 0001	10.1109/RTAS52030.2021.00040
+IGOR: Accelerating Byzantine Fault Tolerance for Real-Time Systems with Eager Execution.	Andrew D. Loveless,Ronald G. Dreslinski,Baris Kasikci,Linh Thi Xuan Phan	10.1109/RTAS52030.2021.00036
+Low-Latency In-Band Integration of Multiple Low-Power Wide-Area Networks.	Venkata P. Modekurthy,Dali Ismail,Mahbubur Rahman 0001,Abusayeed Saifullah	10.1109/RTAS52030.2021.00034
+Effectively Scheduling Hard and Soft Real-Time Tasks on Multiprocessors.	Flávia Maristela Santos Nascimento,George Lima 0001	10.1109/RTAS52030.2021.00025
+No Crash, No Exploit: Automated Verification of Embedded Kernels.	Olivier Nicole,Matthieu Lemerre,Sébastien Bardin,Xavier Rival	10.1109/RTAS52030.2021.00011
+OpenUVR: an Open-Source System Framework for Untethered Virtual Reality Applications.	Alec Rohloff,Zackary Allen,Kung-Min Lin,Joshua Okrend,Chengyi Nie,Yu-Chia Liu,Hung-Wei Tseng 0001	10.1109/RTAS52030.2021.00026
+Do Not Overpay for Fault Tolerance!	Edo Roth,Andreas Haeberlen	10.1109/RTAS52030.2021.00037
+Work in Progress: Role-based Deep Reinforcement Learning with Information Sharing for Intelligent Unmanned Systems.	Qingshuang Sun,Yuan Yao 0004,Peng Yi,Xingshe Zhou 0001,Gang Yang 0008	10.1109/RTAS52030.2021.00059
+Deficit Round-Robin: A Second Network Calculus Analysis.	Seyed Mohammadhossein Tabatabaee,Jean-Yves Le Boudec	10.1109/RTAS52030.2021.00022
+Work in Progress: Network Attack Detection Towards Smart Factory.	Dan Tang,Dongshuo Zhang,Huan Zhao,Dashun Liu,Yudong Yan,Jingwen Chen	10.1109/RTAS52030.2021.00058
+Work-In-Progress: Fault Tolerance in a Two-State Regularity-Based Checkpointing System.	Elena Torre,Albert M. K. Cheng,Guangli Dai,Pavan Kumar Paluri	10.1109/RTAS52030.2021.00063
+Brief Industry Paper: HDAD: Hyperdimensional Computing-based Anomaly Detection for Automotive Sensor Attacks.	Ruixuan Wang,Fanxin Kong,Hasshi Sudler,Xun Jiao	10.1109/RTAS52030.2021.00052
+Demo Abstract: A Full-Blown 6TiSCH Network with Partition-based Resource Management for Large-Scale Real-Time Wireless Applications.	Jiachen Wang,Tianyu Zhang,Song Han 0002,Xiaobo Sharon Hu	10.1109/RTAS52030.2021.00067
+APaS: An Adaptive Partition-Based Scheduling Framework for 6TiSCH Networks.	Jiachen Wang,Tianyu Zhang,Dawei Shen,Xiaobo Sharon Hu,Song Han 0002	10.1109/RTAS52030.2021.00033
+A Hardware Platform for Exploring Predictable Cache Coherence Protocols for Real-time Multicores.	Zhuanhao Wu,Anirudh Mohan Kaushik,Paulos Tegegn,Hiren D. Patel	10.1109/RTAS52030.2021.00016
+Brief Industry Paper: An Infrastructure-Aided High Definition Map Data Provisioning Service for Autonomous Driving.	Jinliang Xie,Jie Tang 0003,Yanzhi Wang,Qi Zhu 0002,Shaoshan Liu	10.1109/RTAS52030.2021.00042
+Brief Industry Paper: AutoToolCSU: CAN Signal Unpacking Tool for Automotive Software.	Guoqi Xie,Pingfu Xie,Bo He,Fengnan Huang,Renfa Li	10.1109/RTAS52030.2021.00055
+Brief Industry Paper: Catching IoT Malware in the Wild Using HoneyIoT.	Yiwen Xu,Yu Jiang 0001,Lu Yu,Juan Li	10.1109/RTAS52030.2021.00045
+Brief Industry Paper: Workload-Aware GPU Performance Estimation in the Airborne Embedded System.	Yuan Yao 0004,Sikai Wu,Shuangyang Liu,Qingshuang Sun,Gang Yang 0008,Yujiao Hu,Yu Zhang 0034,Huixia Liu,Xinyu Tian	10.1109/RTAS52030.2021.00041
+Work in Progress: Mobile or FPGA? A Comprehensive Evaluation on Energy Efficiency and a Unified Optimization Framework.	Geng Yuan,Peiyan Dong,Mengshu Sun,Wei Niu,Zhengang Li,Yuxuan Cai,Jun Liu,Weiwen Jiang,Xue Lin,Bin Ren,Xulong Tang,Yanzhi Wang	10.1109/RTAS52030.2021.00060
+Towards a Real-Time Wireless Powered Communication Network: Design, Implementation and Evaluation.	Zelin Yun,Song Han 0002	10.1109/RTAS52030.2021.00035
+Demo Abstract: RT-WPCN: A Multi-hop Real-time Wireless Powered Communication Network.	Zelin Yun,Song Han 0002	10.1109/RTAS52030.2021.00068
+Brief Industry Paper: Modeling and Verification of Descent Guidance Control of Mars Lander.	Bohua Zhan,Bin Gu 0006,Xiong Xu,Xiangyu Jin,Shuling Wang,Bai Xue 0001,Xiaofeng Li,Yao Chen,Mengfei Yang,Naijun Zhan	10.1109/RTAS52030.2021.00051
+Brief Industry Paper: SylixOS: A Secure and Compatible RTOS with Constant Scheduling on SMP.	Yuanhai Zhang,Hui Han,Jinxing Jiao,Guizhou Xu,Gang Chen 0023,Kai Huang	10.1109/RTAS52030.2021.00049
+Work in Progress: Power-aware Scheduling Strategy for Multiple DAGs in the Heterogeneous Cloud.	Hui Zhao 0003,Shangshu Li,Quan Wang 0006,Jing Wang 0028	10.1109/RTAS52030.2021.00064
+Brief Industry Paper: Towards Real-Time 3D Object Detection for Autonomous Vehicles with Pruning Search.	Pu Zhao 0001,Wei Niu,Geng Yuan,Yuxuan Cai,Hsin-Hsuan Sung,Shaoshan Liu,Sijia Liu 0001,Xipeng Shen,Bin Ren,Yanzhi Wang,Xue Lin	10.1109/RTAS52030.2021.00043
+Brief Industry Paper: optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms.	Ao Zhou,Jianlei Yang 0001,Yeqi Gao,Tong Qiao,Yingjie Qi,Xiaoyi Wang,Yunli Chen,Pengcheng Dai,Weisheng Zhao,Chunming Hu	10.1109/RTAS52030.2021.00048
+ASIL-Decomposition Based Routing and Scheduling in Safety-Critical Time-Sensitive Networking.	Yuanbin Zhou,Soheil Samii,Petru Eles,Zebo Peng	10.1109/RTAS52030.2021.00023
+27th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2021, Nashville, TN, USA, May 18-21, 2021		10.1109/RTAS52030.2021

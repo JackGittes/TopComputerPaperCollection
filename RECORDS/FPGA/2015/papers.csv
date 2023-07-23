@@ -1,0 +1,84 @@
+300 Thousand Gates Single Event Effect Hardened SRAM-based FPGA for Space Application (Abstract Only).	Lei Chen 0010,Yuanfu Zhao,Zhiping Wen 0001,Jing Zhou,Xuewu Li,Yanlong Zhang,Huabo Sun	10.1145/2684746.2689120
+Take the Highway: Design for Embedded NoCs on FPGAs.	Mohamed S. Abdelfattah,Andrew Bitar,Vaughn Betz	10.1145/2684746.2689074
+Energy-Efficient High-Order FIR Filtering through Reconfigurable Stochastic Processing (Abstract Only).	Mohammed Alawad,Mingjie Lin	10.1145/2684746.2689129
+An Automated Design Framework for Floating Point Scientific Algorithms using Field Programmable Gate Arrays (FPGAs) (Abstract Only).	Michaela E. Amoo,Youngsoo Kim,Vance Alford,Shrikant Jadhav,Naser I. El-Bathy,Clay S. Gloster Jr.	10.1145/2684746.2689101
+Ramethy: Reconfigurable Acceleration of Bisulfite Sequence Alignment.	James Arram,Wayne Luk,Peiyong Jiang	10.1145/2684746.2689066
+Architecture of Reconfigurable-Logic Cell Array with Atom Switch: Cluster Size &amp; Routing Fabrics (Abstract Only).	Xu Bai,Yukihide Tsuji,Ayuka Morioka,Makoto Miyamura,Toshi Sakamoto,Munehiro Tada,Naoki Banno,Koichiro Okamoto,Noriyuki Iguchi,Hiromitsu Hada	10.1145/2684746.2689122
+Design of a Loeffler DCT using Xilinx Vivado HLS (Abstract Only).	Seung Yeol Baik,Seokjin Jeong,Hyeong-Cheol Oh	10.1145/2684746.2694735
+A Novel Method for Enabling FPGA Context-Switch (Abstract Only).	Alban Bourge,Olivier Muller,Frédéric Rousseau 0001	10.1145/2684746.2689096
+Automatic Time-Redundancy Transformation for Fault-Tolerant Circuits.	Dmitry Burlyaev,Pascal Fradet,Alain Girault	10.1145/2684746.2689058
+Expanding OpenFlow Capabilities with Virtualized Reconfigurable Hardware.	Stuart Byma,Naif Tarafdar,Talia Xu,Hadi Bannazadeh,Alberto Leon-Garcia,Paul Chow	10.1145/2684746.2689086
+Rapid Prototyping of Wireless Physical Layer Modules Using Flexible Software/Hardware Design Flow.	James Chacko,Cem Sahin,Douglas Pfiel,Nagarajan Kandasamy,Kapil R. Dandekar	10.1145/2684746.2689084
+An Embedded FPGA Operating System Optimized for Vision Computing (Abstract Only).	Zhilei Chai,Jin Yu,Zhibin Wang,Jie Zhang,Haojie Zhou	10.1145/2684746.2689127
+Enhancements in UltraScale CLB Architecture.	Shant Chandrakar,Dinesh Gaitonde,Trevor Bauer	10.1145/2684746.2689077
+The BEEcube Story: Lessons Learned from Running a FPGA Startup for the Past 7 Years.	Chen Chang	10.1145/2684746.2721405
+MedianPipes: An FPGA based Highly Pipelined and Scalable Technique for Median Filtering (Abstract Only).	Umer I. Cheema,Gregory Nash,Rashid Ansari,Ashfaq A. Khokhar	10.1145/2684746.2689142
+Energy and Memory Efficient Mapping of Bitonic Sorting on FPGA.	Ren Chen,Sruja Siriyal,Viktor K. Prasanna	10.1145/2684746.2689068
+Silicon Verification using High-Level Design Tools (Abstract Only).	Tomasz S. Czajkowski	10.1145/2684746.2689131
+An Automatic Design Flow for Hybrid Parallel Computing on MPSoCs (Abstract Only).	Hongyuan Ding,Miaoqing Huang	10.1145/2684746.2689141
+An Efficient and Flexible FPGA Implementation of a Face Detection System (Abstract Only).	Hichem Ben Fekih,Ahmed Elhossini,Ben H. H. Juurlink	10.1145/2684746.2689095
+System-level Linking of Synthesised Hardware and Compiled Software Using a Higher-order Type System.	Shane T. Fleming,David B. Thomas,George A. Constantinides,Dan R. Ghica	10.1145/2684746.2689089
+Formal Verification ATPG Search Engine Emulator (Abstract Only).	Gregory Ford,Aswin Krishna,Jacob A. Abraham,Daniel G. Saab	10.1145/2684746.2689105
+On Implementation of LUT with Large Numbers of Inputs (Abstract Only).	Masahiro Fujita	10.1145/2684746.2689107
+Towards More Efficient Logic Blocks By Exploiting Biconditional Expansion (Abstract Only).	Pierre-Emmanuel Gaillardon,Gain Kim,Xifan Tang,Luca Gaetano Amarù,Giovanni De Micheli	10.1145/2684746.2689100
+Numerical Program Optimization for High-Level Synthesis.	Xitong Gao,George A. Constantinides	10.1145/2684746.2689090
+A Hardware Implementation of a Unit for Geometric Algebra Operations With Parallel Memory Arrays (Abstract Only).	Gerardo Soria García,Adrian Pedroza de-la-Crúz,Susana Ortega-Cisneros,Juan José Raygoza-Panduro,Eduardo Bayro-Corrochano	10.1145/2684746.2689132
+RapidSmith 2: A Framework for BEL-level CAD Exploration on Xilinx FPGAs.	Travis Haroldsen,Brent E. Nelson,Brad L. Hutchings	10.1145/2684746.2689085
+200 MS/s ADC implemented in a FPGA employing TDCs.	Harald Homulle,Francesco Regazzoni 0001,Edoardo Charbon	10.1145/2684746.2689070
+Delay-Bounded Routing for Shadow Registers.	Eddie Hung,Joshua M. Levine,Edward A. Stott,George A. Constantinides,Wayne Luk	10.1145/2684746.2689075
+An FPGA-Based Accelerator for the 2D Implicit FDM and Its Application to Heat Conduction Simulations (Abstract Only).	Yutaro Ishigaki,Ning Li,Yoichi Tomioka,Akihiko Miyazaki,Hitoshi Kitazawa	10.1145/2684746.2689112
+FPGA Implementation of Trained Coarse Carrier Frequency Offset Estimation and Correction for OFDM Signals (Abstract Only).	Marko Jacovic,James Chacko,Doug Pfeil,Nagarajan Kandasamy,Kapil R. Dandekar	10.1145/2684746.2689128
+Enhancing Hardware Design Flows with MyHDL.	Keerthan Jaic,Melissa C. Smith	10.1145/2684746.2689092
+Impact of Memory Architecture on FPGA Energy Consumption.	Edin Kadric,David Lakata,André DeHon	10.1145/2684746.2689062
+InTime: A Machine Learning Approach for Efficient Selection of FPGA CAD Tool Parameters.	Nachiket Kapre,Harnhua Ng,Kirvy Teo,Jaco Naude	10.1145/2684746.2689081
+Acceleration of Synthetic Aperture Radar (SAR) Algorithms using Field Programmable Gate Arrays (FPGAs) (Abstract Only).	Youngsoo Kim,William Harding,Clay S. Gloster Jr.,Winser E. Alexander	10.1145/2684746.2689125
+Software-Driven Hardware Development.	Myron King,Jamey Hicks,John Ankcorn	10.1145/2684746.2689064
+Efficient Generation of Energy and Performance Pareto Front for FPGA Designs (Abstract Only).	Sanmukh R. Kuppannagari,Viktor K. Prasanna	10.1145/2684746.2689133
+Floating-Point DSP Block Architecture for FPGAs.	Martin Langhammer,Bogdan Pasca 0001	10.1145/2684746.2689071
+An FPGA Implementation of a Timing-Error Tolerant Discrete Cosine Transform (Abstract Only).	Yaoqiang Li,Pierce I-Jen Chuang,Andrew A. Kennings,Manoj Sachdev	10.1145/2684746.2689113
+Resource-Aware Throughput Optimization for High-Level Synthesis.	Peng Li 0031,Peng Zhang 0007,Louis-Noël Pouchet,Jason Cong	10.1145/2684746.2689065
+A Mixed-Grained Reconfigurable Computing Platform for Multiple-Standard Video Decoding (Abstract Only).	Leibo Liu,Yingjie Victor Chen,Dong Wang 0040,Min Zhu 0001,Shouyi Yin,Shaojun Wei	10.1145/2684746.2689116
+Growing a Healthy FPGA Ecosystem.	John Lockwood,Michael Adler,Dan Mansur,Derek Chiou,Mike Strickland,Jason Cong,Steve Teig	10.1145/2684746.2721404
+Accelerating Complete Decision Support Queries Through High-Level Synthesis Technology (Abstract Only).	Gorker Alp Malazgirt,Nehir Sönmez,Arda Yurdakul,Osman S. Unsal,Adrián Cristal	10.1145/2684746.2689151
+Unlocking FPGAs Using High Level Synthesis Compiler Technologies.	Fernando Martinez-Vallina,Henry Styles	10.1145/2684746.2721403
+Low-Resource Bluespec Design of a Modular Acquisition and Stimulation System for Neuroscience (Abstract Only).	Paulo Matias,Rafael Tuma Guariento,Lírio Onofre Baptista de Almeida,Jan Frans Willem Slaets	10.1145/2684746.2689137
+Design Space Exploration of L1 Data Caches for FPGA-Based Multiprocessor Systems.	Eric Matthews,Nicholas C. Doyle,Lesley Shannon	10.1145/2684746.2689083
+Technology Mapping into General Programmable Cells.	Alan Mishchenko,Robert K. Brayton,Wenyi Feng,Jonathan W. Greene	10.1145/2684746.2689082
+0.5-V Highly Power-Efficient Programmable Logic using Nonvolatile Configuration Switch in BEOL.	Makoto Miyamura,Toshitsugu Sakamoto,Yukihide Tsuji,Munehiro Tada,Naoki Banno,Koichiro Okamoto,Noriyuki Iguchi,Hiromitsu Hada	10.1145/2684746.2689088
+Optimized Fixed-Point FPGA Implementation of SVPWM for a Two-Level Inverter (Abstract Only).	Danyal Mohammadi,Said Ahmed-Zaid,Nader Rafla 0001	10.1145/2684746.2689144
+Bridging Architecture and Programming for Throughput-Oriented Vision Processing (Abstract Only).	Amir Momeni,Hamed Tabkhi,Gunar Schirner,David R. Kaeli	10.1145/2684746.2689140
+Using Source-Level Transformations to Improve High-Level Synthesis Debug and Validation on FPGAs.	Joshua S. Monson,Brad L. Hutchings	10.1145/2684746.2689087
+FiT: An Automated Toolkit for Matching Processor Architecture to Applications (Abstract Only).	Charles Mutigwe,Johnson Kinyua,Farhad Aghdasi	10.1145/2684746.2689117
+High Level Programming of Document Classification Systems for Heterogeneous Environments using OpenCL (Abstract Only).	Nasibeh Nasiri,Oren Segal,Martin Margala,Wim Vanderbauwhede,Sai Rahul Chalamalasetti	10.1145/2684746.2689136
+EURECA: On-Chip Configuration Generation for Effective Dynamic Data Access.	Xinyu Niu,Wayne Luk,Yu Wang 0002	10.1145/2684746.2689076
+FPGA-based BLOB Detection Using Dual-pipelining (Abstract Only).	Naoto Nojiri,Lin Meng,Katsuhiro Yamazaki	10.1145/2684746.2689118
+Real-Time Obstacle Avoidance for Mobile Robots via Stereoscopic Vision Using Reconfigurable Hardware (Abstract Only).	Martinianos Papadopoulos,Christos Ttofis,Christos Kyrkou,Theocharis Theocharides	10.1145/2684746.2689099
+A Novel Coefficient Address Generation Algorithm for Split-Radix FFT (Abstract Only).	Zhuo Qian,Martin Margala	10.1145/2684746.2689134
+Exploring Efficiency of Ring Oscillator-Based Temperature Sensor Networks on FPGAs (Abstract Only).	Navid Rahmanikia,Amirali Amiri,Hamid Noori,Farhad Mehdipour	10.1145/2684746.2689104
+Fine-Grained Interconnect Synthesis.	Alex Rodionov,David Biancolin,Jonathan Rose	10.1145/2684746.2689061
+Platform-Independent Gigabit Communication for Low-Cost FPGAs (Abstract Only).	Ralf Salomon,Ralf Joost,Matthias Hinkfoth	10.1145/2684746.2689150
+Wavefront Skipping using BRAMs for Conditional Algorithms on Vector Processors.	Aaron Severance,Joe Edwards,Guy G. F. Lemieux	10.1145/2684746.2689072
+FPGA Acceleration of Irregular Iterative Computations using Criticality-Aware Dataflow Optimizations (Abstract Only).	Siddhartha 0001,Nachiket Kapre	10.1145/2684746.2689110
+High-Level Design Tools for Floating Point FPGAs.	Deshanand P. Singh,Bogdan Pasca 0001,Tomasz S. Czajkowski	10.1145/2684746.2689079
+An FPGA Implementation of Multi-stream Tracking Hardware using 2D SIMD Array (Abstract Only).	Ryota Takasu,Yoichi Tomioka,Takashi Aoki,Hitoshi Kitazawa	10.1145/2684746.2689119
+Sequence-based In-Circuit Breakpoints for Post-Silicon Debug (Abstract Only).	Yutaka Tamiya,Yoshinori Tomita,Toshiyuki Ichiba,Kaoru Kawamura	10.1145/2684746.2689102
+Mapping-Aware Constrained Scheduling for LUT-Based FPGAs.	Mingxing Tan,Steve Dai,Udit Gupta,Zhiru Zhang	10.1145/2684746.2689063
+Area Optimization of Arithmetic Units by Component Sharing for FPGAs (Abstract Only).	Shao Lin S. T. Tang,Guy Lemieux	10.1145/2684746.2689146
+Logic Gates in the routing network of FPGAs (Abstract Only).	Elias Vansteenkiste,Berg Severens,Dirk Stroobandt	10.1145/2684746.2689098
+A Parallel And Scalable Multi-FPGA based Architecture for High Performance Applications (Abstract Only).	Venkatasubramanian Viswanathan,Rabie Ben Atitallah,Jean-Luc Dekeyser,Benjamin Nakache,Maurice Nakache	10.1145/2684746.2689115
+Customizable and High Performance Matrix Multiplication Kernel on FPGA (Abstract Only).	Jie Wang 0022,Jason Cong	10.1145/2684746.2689147
+REPROC: A Dynamically Reconfigurable Architecture for Symmetric Cryptography (Abstract Only).	Bo Wang 0023,Leibo Liu	10.1145/2684746.2689121
+RapidPath: Accelerating Constrained Shortest Path Finding in Graphs on FPGA (Abstract Only).	Chao Wang 0003,Xi Li 0003,Qi Guo,Xuehai Zhou	10.1145/2684746.2689135
+A Novel Composite Method to Accelerate Control Flow on Reconfigurable Architecture (Abstract Only).	Junbin Wang,Leibo Liu,Jianfeng Zhu 0001,Shouyi Yin,Shaojun Wei	10.1145/2684746.2689124
+Application of Specific Delay Window Routing for Timing Optimization in FPGA Designs.	Evan Wegley,Qinhai Zhang	10.1145/2684746.2689059
+Superoptimized Memory Subsystems for Streaming Applications.	Joseph G. Wingbermuehle,Ron K. Cytron,Roger D. Chamberlain	10.1145/2684746.2689069
+MATCHUP: Memory Abstractions for Heap Manipulating Programs.	Felix Winterstein,Kermin Fleming,Hsin-Jung Yang,Samuel Bayliss,George A. Constantinides	10.1145/2684746.2689073
+Physical Design Space Exploration.	Ephrem Wu,Inkeun Cho	10.1145/2684746.2689080
+Toward Wave Digital Filter based Analog Circuit Emulation on FPGA (Abstract Only).	Wei Wu,Peng Gu,Yen-Lung Chen,Chien-Nan Liu,Sudhakar Pamarti,Chang Wu,Lei He 0001	10.1145/2684746.2689143
+On Data Forwarding in Deeply Pipelined Soft Processors.	Hui Yan Cheah,Suhaib A. Fahmy,Nachiket Kapre	10.1145/2684746.2689067
+Cost-Effective Memory Architecture to Achieve Flexible Configuration and Efficient Data Transmission for Coarse-Grained Reconfigurable Array (Abstract Only).	Chen Yang 0005,Leibo Liu,Shouyi Yin,Shaojun Wei	10.1145/2684746.2689103
+Energy-Efficient Discrete Signal Processing with Field Programmable Analog Arrays (FPAAs).	Yu Bai 0004,Mingjie Lin	10.1145/2684746.2689078
+Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks.	Chen Zhang 0001,Peng Li 0031,Guangyu Sun 0003,Yijin Guan,Bingjun Xiao,Jason Cong	10.1145/2684746.2689060
+FPGA Acceleration for Simultaneous Image Reconstruction and Segmentation based on the Mumford-Shah Regularization (Abstract Only).	Wentai Zhang 0001,Li Shen,Thomas Page,Guojie Luo,Peng Li 0031,Peter Maaß,Ming Jiang 0001,Jason Cong	10.1145/2684746.2689097
+A Novel Method for FPGA Test Based on Partial Reconfiguration and Sorting Algorithm (Abstract Only).	Xianjian Zheng,Fan Zhang,Lei Chen 0010,Zhiping Wen 0001,Yuanfu Zhao,Xuewu Li	10.1145/2684746.2689123
+Proceedings of the 2015 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, Monterey, CA, USA, February 22-24, 2015	George A. Constantinides,Deming Chen	10.1145/2684746

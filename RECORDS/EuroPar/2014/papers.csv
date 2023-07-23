@@ -1,0 +1,69 @@
+High Performance Pseudo-analytical Simulation of Multi-Object Adaptive Optics over Multi-GPU Systems.	Ahmad Abdelfattah,Eric Gendron,Damien Gratadour,David E. Keyes,Hatem Ltaief,Arnaud Sevin,Fabrice Vidal	10.1007/978-3-319-09873-9_59
+MPI Trace Compression Using Event Flow Graphs.	Xavier Aguilar,Karl Fürlinger,Erwin Laure	10.1007/978-3-319-09873-9_1
+A New GCC Plugin-Based Compiler Pass to Add Support for Thread-Level Speculation into OpenMP.	Sergio Aldea,Alvaro Estebanez,Diego R. Llanos,Arturo González-Escribano	10.1007/978-3-319-09873-9_20
+ScalaJack: Customized Scalable Tracing with In-situ Data Analysis.	Srinath Krishna Ananthakrishnan,Frank Mueller 0001	10.1007/978-3-319-09873-9_2
+Software Defined Multicasting for MPI Collective Operation Offloading with the NetFPGA.	Omer Arap,Geoffrey Brown,Bryce Himebaugh,Martin Swany	10.1007/978-3-319-09873-9_53
+Power-Aware L1 and L2 Caches for GPGPUs.	Ehsan Atoofian,Ali Manzak	10.1007/978-3-319-09873-9_30
+Power-Aware Replica Placement in Tree Networks with Multiple Servers per Client.	Guillaume Aupy,Anne Benoit,Matthieu Journault,Yves Robert	10.1007/978-3-319-09873-9_51
+Switchable Scheduling for Runtime Adaptation of Optimization.	Lénaïc Bagnères,Cédric Bastoul	10.1007/978-3-319-09873-9_19
+Energy Efficient Scheduling of MapReduce Jobs.	Evripidis Bampis,Vincent Chau,Dimitrios Letsios,Giorgio Lucarelli,Ioannis Milis,Georgios Zois	10.1007/978-3-319-09873-9_17
+SPAGHETtI: Scheduling/Placement Approach for Task-Graphs on HETerogeneous archItecture.	Denis Barthou,Emmanuel Jeannot	10.1007/978-3-319-09873-9_15
+A Generic Strategy for Multi-stage Stencils.	Mauro Bianco,Benjamin Cumming	10.1007/978-3-319-09873-9_49
+Scheduling Data Flow Program in XKaapi: A New Affinity Based Algorithm for Heterogeneous Architectures.	Raphaël Bleuse,Thierry Gautier,João V. F. Lima,Grégory Mounié,Denis Trystram	10.1007/978-3-319-09873-9_47
+Time-Domain BEM for the Wave Equation: Optimization and Hybrid Parallelization.	Bérenger Bramas,Olivier Coulaud,Guillaume Sylvand	10.1007/978-3-319-09873-9_43
+Ultra-Fast Load Balancing of Distributed Key-Value Stores through Network-Assisted Lookups.	Davide De Cesaris,Kostas Katrinis,Spyros Kotoulas,Antonio Corradi	10.1007/978-3-319-09873-9_25
+Robust and Efficient Large-Large Table Outer Joins on Distributed Infrastructures.	Long Cheng 0003,Spyros Kotoulas,Tomas E. Ward,Georgios Theodoropoulos 0001	10.1007/978-3-319-09873-9_22
+Evaluation of OpenMP Task Scheduling Algorithms for Large NUMA Architectures.	Jérôme Clet-Ortega,Patrick Carribault,Marc Pérache	10.1007/978-3-319-09873-9_50
+Energy-Aware Multi-Organization Scheduling Problem.	Johanne Cohen,Daniel Cordeiro,Pedro Luis F. Raphael	10.1007/978-3-319-09873-9_16
+Implementation and Performance Analysis of SkelGIS for Network Mesh-Based Simulations.	Hélène Coullon,Sébastien Limet	10.1007/978-3-319-09873-9_37
+Customizing Driving Directions with GPUs.	Daniel Delling,Moritz Kobitzsch,Renato F. Werneck	10.1007/978-3-319-09873-9_61
+Parallel Computation of Echelon Forms.	Jean-Guillaume Dumas,Thierry Gautier,Clément Pernet,Ziad Sultan	10.1007/978-3-319-09873-9_42
+A Queueing Theory Approach to Pareto Optimal Bags-of-Tasks Scheduling on Clouds.	Cosmin Dumitru,Ana-Maria Oprescu,Miroslav Zivkovic,Rob van der Mei,Paola Grosso,Cees de Laat	10.1007/978-3-319-09873-9_14
+Workflow Scheduling on Federated Clouds.	Juan José Durillo,Radu Prodan	10.1007/978-3-319-09873-9_27
+Shades: Expediting Kademlia&apos;s Lookup Process.	Gil Einziger,Roy Friedman,Yoav Kantor	10.1007/978-3-319-09873-9_33
+Writing Self-adaptive Codes for Heterogeneous Systems.	Jorge F. Fabeiro,Diego Andrade,Basilio B. Fraguela,Ramon Doallo	10.1007/978-3-319-09873-9_67
+Virtual Machine Consolidation in Cloud Data Centers Using ACO Metaheuristic.	Md Hasanul Ferdaus,M. Manzur Murshed,Rodrigo N. Calheiros,Rajkumar Buyya	10.1007/978-3-319-09873-9_26
+Applying Selectively Parallel I/O Compression to Parallel Storage Systems.	Rosa Filgueira,Malcolm P. Atkinson 0001,Yusuke Tanimura,Isao Kojima	10.1007/978-3-319-09873-9_24
+Structured Orthogonal Inversion of Block p-Cyclic Matrices on Multicores with GPU Accelerators.	Sergiy Gogolenko,Zhaojun Bai,Richard Scalettar	10.1007/978-3-319-09873-9_44
+Hybrid CPU/GPU Acceleration of Detection of 2-SNP Epistatic Interactions in GWAS.	Jorge González-Domínguez,Bertil Schmidt,Jan Christian Kässens,Lars Wienbrandt	10.1007/978-3-319-09873-9_57
+Multi-Objective Auto-Tuning with Insieme: Optimization and Trade-Off Analysis for Time, Energy and Resource Usage.	Philipp Gschwandtner,Juan José Durillo,Thomas Fahringer	10.1007/978-3-319-09873-9_8
+Top-k Item Identification on Dynamic and Distributed Datasets.	Alessio Guerrieri,Alberto Montresor,Yannis Velegrakis	10.1007/978-3-319-09873-9_23
+Toward OpenCL Automatic Multi-Device Support.	Sylvain Henry,Alexandre Denis 0001,Denis Barthou,Marie Christine Counilh,Raymond Namyst	10.1007/978-3-319-09873-9_65
+Performance Prediction and Evaluation of Parallel Applications in KVM, Xen, and VMware.	Cheol-Ho Hong,Beom-Joon Kim,Young-Pil Kim,Hyunchan Park,Chuck Yoo	10.1007/978-3-319-09873-9_9
+Automated Transformation of GPU-Specific OpenCL Kernels Targeting Performance Portability on Multi-Core/Many-Core CPUs.	Dafei Huang,Mei Wen,Changqing Xun,Dong Chen,Xing Cai,Yuran Qiao,Nan Wu 0003,Chunyuan Zhang	10.1007/978-3-319-09873-9_18
+Random Fields Generation on the GPU with the Spectral Turning Bands Method.	Lars Hunger,Biagio Cosenza,Stefan Kimeswenger,Thomas Fahringer	10.1007/978-3-319-09873-9_55
+Power Consumption Due to Data Movement in Distributed Programming Models.	Siddhartha Jana,Oscar R. Hernandez,Stephen Poole 0001,Barbara M. Chapman	10.1007/978-3-319-09873-9_31
+Resolution of Linear Algebra for the Discrete Logarithm Problem Using GPU and Multi-core Architectures.	Hamza Jeljeli	10.1007/978-3-319-09873-9_64
+Performance Measurement and Analysis of Transactional Memory and Speculative Execution on IBM Blue Gene/Q.	Jie Jiang,Peter Philippen,Michael Knobloch,Bernd Mohr	10.1007/978-3-319-09873-9_3
+ParaShares: Finding the Important Basic Blocks in Multithreaded Programs.	Melanie Kambadur,Kui Tang,Martha A. Kim	10.1007/978-3-319-09873-9_7
+Delegation Locking Libraries for Improved Performance of Multithreaded Programs.	David Klaftenegger,Konstantinos Sagonas,Kjell Winblad	10.1007/978-3-319-09873-9_48
+On Interactions among Scheduling Policies: Finding Efficient Queue Setup Using High-Resolution Simulations.	Dalibor Klusácek,Simon Tóth	10.1007/978-3-319-09873-9_12
+Parallel Dual Tree Traversal on Multi-core and Many-core Architectures for Astrophysical N-body Simulations.	Benoit Lange,Pierre Fortin 0001	10.1007/978-3-319-09873-9_60
+Characterizing the Performance-Energy Tradeoff of Small ARM Cores in HPC Computation.	Michael A. Laurenzano,Ananta Tiwari,Adam Jundt,Joshua Peraza,William A. Ward Jr.,Roy L. Campbell,Laura Carrington	10.1007/978-3-319-09873-9_11
+DReAM: Per-Task DRAM Energy Metering in Multicore Systems.	Qixiao Liu,Miquel Moretó,Jaume Abella 0001,Francisco J. Cazorla,Mateo Valero	10.1007/978-3-319-09873-9_10
+High-Performance Computer Algebra: A Hecke Algebra Case Study.	Patrick Maier 0001,Daria Livesey,Hans-Wolfgang Loidl,Phil Trinder	10.1007/978-3-319-09873-9_35
+GPU Accelerated Range Trees with Applications.	Manoj Kumar Maramreddy,Kishore Kothapalli	10.1007/978-3-319-09873-9_62
+Generic Deterministic Random Number Generation in Dynamic-Multithreaded Platforms.	Stefano Drimon Kurz Mor,Jean-Louis Roch,Nicolas Maillard	10.1007/978-3-319-09873-9_36
+Scalable On-Board Multi-GPU Simulation of Long-Range Molecular Dynamics.	Marcos Novalbos,Jaime Gonzalez,Miguel A. Otaduy,Roberto Martinez-Benito,Alberto Sánchez 0001	10.1007/978-3-319-09873-9_63
+Spanning Tree or Gossip for Aggregation: A Comparative Study.	Lehel Nyers,Márk Jelasity	10.1007/978-3-319-09873-9_32
+Locality-Aware Cooperation for VM Scheduling in Distributed Clouds.	Jonathan Pastor,Marin Bertier,Frédéric Desprez,Adrien Lebre,Flavien Quesnel,Cédric Tedeschi	10.1007/978-3-319-09873-9_28
+Analysis and Comparison of Truly Distributed Solvers for Linear Least Squares Problems on Wireless Sensor Networks.	Karl E. Prikopa,Hana Straková,Wilfried N. Gansterer	10.1007/978-3-319-09873-9_34
+ProPS: A Progressively Pessimistic Scheduler for Software Transactional Memory.	Hugo Rito,João P. Cachopo	10.1007/978-3-319-09873-9_13
+On Constructing DAG-Schedules with Large AREAs.	Scott T. Roche,Arnold L. Rosenberg,Rajmohan Rajaraman	10.1007/978-3-319-09873-9_52
+A Fast Sparse Block Circulant Matrix Vector Product.	Eloy Romero,Andrés Tomás,Antonio Soriano,Ignacio Blanquer	10.1007/978-3-319-09873-9_46
+Automatic Tuning of the Parallelism Degree in Hardware Transactional Memory.	Diego Rughetti,Paolo Romano 0002,Francesco Quaglia,Bruno Ciciani	10.1007/978-3-319-09873-9_40
+A Distributed CPU-GPU Sparse Direct Solver.	Piyush Sao,Richard W. Vuduc,Xiaoye Sherry Li	10.1007/978-3-319-09873-9_41
+High-Throughput Maps on Message-Passing Manycore Architectures: Partitioning versus Replication.	Omid Shahmirzadi,Thomas Ropars,André Schiper	10.1007/978-3-319-09873-9_45
+Resolving Semantic Conflicts in Word Based Software Transactional Memory.	Craig Sharp,William Blewitt,Graham Morgan	10.1007/978-3-319-09873-9_39
+GoFFish: A Sub-graph Centric Framework for Large-Scale Graph Analytics.	Yogesh Simmhan,Alok Gautam Kumbhare,Charith Wickramaarachchi,Soonil Nagarkar,Santosh Ravi,Cauligi S. Raghavendra,Viktor K. Prasanna	10.1007/978-3-319-09873-9_38
+IFM: A Scalable High Resolution Flood Modeling Framework.	Swati Singhal,Sandhya Aneja,Frank Liu 0001,Lucas Villa Real,Thomas George	10.1007/978-3-319-09873-9_58
+c-Eclipse: An Open-Source Management Framework for Cloud Applications.	Chrystalla Sofokleous,Nicholas Loulloudes,Demetris Trihinas,George Pallis 0001,Marios D. Dikaiakos	10.1007/978-3-319-09873-9_4
+Modeling and Simulation of a Dynamic Task-Based Runtime System for Heterogeneous Multi-core Architectures.	Luka Stanisic,Samuel Thibault,Arnaud Legrand,Brice Videau,Jean-François Méhaut	10.1007/978-3-319-09873-9_5
+Improving Read Performance with Online Access Pattern Analysis and Prefetching.	Houjun Tang,Xiaocheng Zou,John Jenkins,David A. Boyuka II,Stephen Ranshous,Dries Kimpe,Scott Klasky,Nagiza F. Samatova	10.1007/978-3-319-09873-9_21
+Modeling the Impact of Reduced Memory Bandwidth on HPC Applications.	Ananta Tiwari,Anthony Gamst,Michael A. Laurenzano,Martin Schulz 0001,Laura Carrington	10.1007/978-3-319-09873-9_6
+MapReduce over Lustre: Can RDMA-Based Approach Benefit?	Md. Wasi-ur-Rahman,Xiaoyi Lu,Nusrat Sharmin Islam,Raghunath Rajachandrasekar,Dhabaleswar K. Panda 0001	10.1007/978-3-319-09873-9_54
+Concurrent Kernel Execution on Xeon Phi within Parallel Heterogeneous Workloads.	Florian Wende,Thomas Steinke 0001,Frank Cordes	10.1007/978-3-319-09873-9_66
+A Pattern-Based Comparison of OpenACC and OpenMP for Accelerator Computing.	Sandra Wienke,Christian Terboven,James C. Beyer,Matthias S. Müller	10.1007/978-3-319-09873-9_68
+Can Inter-VM Shmem Benefit MPI Applications on SR-IOV Based Virtualized Infiniband Clusters?	Jie Zhang 0045,Xiaoyi Lu,Jithin Jose,Rong Shi,Dhabaleswar K. Panda 0001	10.1007/978-3-319-09873-9_29
+Fast Set Intersection through Run-Time Bitmap Construction over PForDelta-Compressed Indexes.	Xiaocheng Zou,Sriram Lakshminarasimhan,David A. Boyuka II,Stephen Ranshous,Houjun Tang,Scott Klasky,Nagiza F. Samatova	10.1007/978-3-319-09873-9_56
+Euro-Par 2014 Parallel Processing - 20th International Conference, Porto, Portugal, August 25-29, 2014. Proceedings	Fernando M. A. Silva,Inês de Castro Dutra,Vítor Santos Costa	10.1007/978-3-319-09873-9

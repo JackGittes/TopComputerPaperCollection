@@ -1,0 +1,55 @@
+Making Dynamic Page Coalescing Effective on Virtualized Clouds.	Weiwei Jia 0001,Jiyuan Zhang 0003,Jianchen Shan,Xiaoning Ding	10.1145/3552326.3567487
+Morty: Scaling Concurrency Control with Re-Execution.	Matthew Burke 0001,Florian Suri-Payer,Jeffrey Helt,Lorenzo Alvisi,Natacha Crooks	10.1145/3552326.3567500
+OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers.	Ruobing Chen 0002,Haosen Shi,Yusen Li,Xiaoguang Liu 0001,Gang Wang 0001	10.1145/3552326.3567490
+CFS: Scaling Metadata Service for Distributed File System via Pruned Scope of Critical Sections.	Yiduo Wang 0002,Yufei Wu 0011,Cheng Li 0001,Pengfei Zheng,Biao Cao,Yan Sun,Fei Zhou,Yinlong Xu,Yao Wang,Guangjun Xie	10.1145/3552326.3587443
+Unikernel Linux (UKL).	Ali Raza 0003,Thomas Unger,Matthew Boyd,Eric B. Munson,Parul Sohal,Ulrich Drepper,Richard Jones,Daniel Bristot de Oliveira,Larry Woodman,Renato Mancuso 0001,Jonathan Appavoo,Orran Krieger	10.1145/3552326.3587458
+With Great Freedom Comes Great Opportunity: Rethinking Resource Allocation for Serverless Functions.	Muhammad Bilal 0007,Marco Canini,Rodrigo Fonseca,Rodrigo Rodrigues 0001	10.1145/3552326.3567506
+REFL: Resource-Efficient Federated Learning.	Ahmed M. Abdelmoniem,Atal Narayan Sahu,Marco Canini,Suhaib A. Fahmy	10.1145/3552326.3567485
+Palette Load Balancing: Locality Hints for Serverless Functions.	Mania Abdi,Samuel Ginzburg,Xiayue Charles Lin,Jose M. Faleiro,Gohar Irfan Chaudhry,Iñigo Goiri,Ricardo Bianchini,Daniel S. Berger,Rodrigo Fonseca	10.1145/3552326.3567496
+Groundhog: Efficient Request Isolation in FaaS.	Mohamed Alzayat,Jonathan Mace,Peter Druschel,Deepak Garg 0001	10.1145/3552326.3567503
+R2C: AOCR-Resilient Diversity with Reactive and Reflective Camouflage.	Felix Berlakovich,Stefan Brunthaler	10.1145/3552326.3587439
+Foxhound: Server-Grade Observability for Network-Augmented Applications.	Lucas Castanheira,Alberto Schaeffer-Filho,Theophilus A. Benson	10.1145/3552326.3567502
+Aggregate VM: Why Reduce or Evict VM&apos;s Resources When You Can Borrow Them From Other Nodes?	Ho-Ren Chuang,Karim Manaouil,Tong Xing,Antonio Barbalace,Pierre Olivier,Balvansh Heerekar,Binoy Ravindran	10.1145/3552326.3587452
+Mumak: Efficient and Black-Box Bug Detection for Persistent Memory.	João Gonçalves,Miguel Matos,Rodrigo Rodrigues 0001	10.1145/3552326.3587447
+Diablo: A Benchmark Suite for Blockchains.	Vincent Gramoli,Rachid Guerraoui,Andrei Lebedev,Chris Natoli,Gauthier Voron	10.1145/3552326.3567482
+Dissecting BFT Consensus: In Trusted Components we Trust!	Suyash Gupta,Sajjad Rahnama,Shubham Pandey,Natacha Crooks,Mohammad Sadoghi	10.1145/3552326.3587455
+TEA: A General-Purpose Temporal Graph Random Walk Engine.	Chengying Huan,Shuaiwen Leon Song,Santosh Pandey,Hang Liu 0001,Yongchao Liu,Baptiste Lepers,Changhua He,Kang Chen,Jinlei Jiang,Yongwei Wu	10.1145/3552326.3567491
+Accelerating Graph Mining Systems with Subgraph Morphing.	Kasra Jamshidi,Harry Xu 0001,Keval Vora	10.1145/3552326.3567489
+Fast and Efficient Model Serving Using Multi-GPUs with Direct-Host-Access.	Jinwoo Jeong,Seungsu Baek,Jeongseob Ahn	10.1145/3552326.3567508
+Diagnosing Kernel Concurrency Failures with AITIA.	Dae R. Jeong,Minkyu Jung,Yoochan Lee,Byoungyoung Lee,Insik Shin,Youngjin Kwon	10.1145/3552326.3567486
+Saba: Rethinking Datacenter Network Allocation from Application&apos;s Perspective.	M. R. Siavash Katebzadeh,Paolo Costa,Boris Grot	10.1145/3552326.3587450
+All-Flash Array Key-Value Cache for Large Objects.	Jinhyung Koo,Jinwook Bae,Minjeong Yuk,Seonggyun Oh,Jungwoo Kim,Jung-Soo Park,Eunji Lee,Bryan S. Kim,Sungjin Lee 0001	10.1145/3552326.3567509
+Chipmunk: Investigating Crash-Consistency in Persistent-Memory File Systems.	Hayley LeBlanc,Shankara Pailoor,Om Saran K. R. E,Isil Dillig,James Bornholt,Vijay Chidambaram	10.1145/3552326.3567498
+FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines.	Gyewon Lee,Jaewoo Maeng,Jinsol Park,Jangho Seo,Haeyoon Cho 0001,Youngseok Yang,Taegeon Um,Jongsung Lee 0001,Jae W. Lee,Byung-Gon Chun	10.1145/3552326.3567493
+OFence: Pairing Barriers to Find Concurrency Bugs in the Linux Kernel.	Baptiste Lepers,Josselin Giet,Willy Zwaenepoel,Julia Lawall	10.1145/3552326.3567504
+ICE: Collaborating Memory and Process Management for User Experience on Resource-limited Mobile Devices.	Changlong Li,Yu Liang 0004,Rachata Ausavarungnirun,Zongwei Zhu,Liang Shi,Chun Jason Xue	10.1145/3552326.3567497
+A2TP: Aggregator-aware In-network Aggregation for Multi-tenant Learning.	Zhaoyi Li,Jiawei Huang 0001,Yijun Li,Aikun Xu,Shengwen Zhou,Jingling Liu,Jianxin Wang 0001	10.1145/3552326.3587436
+Lyra: Elastic Scheduling for Deep Learning Clusters.	Jiamin Li,Hong Xu 0001,Yibo Zhu,Zherui Liu,Chuanxiong Guo,Cong Wang 0001	10.1145/3552326.3587445
+RIO: Order-Preserving and CPU-Efficient Remote Storage Access.	Xiaojian Liao,Zhe Yang,Jiwu Shu	10.1145/3552326.3567495
+FlexPass: A Case for Flexible Credit-based Transport for Datacenter Networks.	Hwijoon Lim,Jaehong Kim 0002,Inho Cho,Keon Jang,Wei Bai 0001,Dongsu Han	10.1145/3552326.3587453
+Understanding and Optimizing Workloads for Unified Resource Management in Large Cloud Platforms.	Chengzhi Lu,Huanle Xu,Kejiang Ye,Guoyao Xu,Liping Zhang,Guodong Yang,Chengzhong Xu 0001	10.1145/3552326.3587437
+Nephele: Extending Virtualization Environments for Cloning Unikernel-based VMs.	Costin Lupu,Andrei Albisoru,Radu Nichita,Doru-Florin Blânzeanu,Mihai Pogonaru,Razvan Deaconescu,Costin Raiciu	10.1145/3552326.3587454
+DRAMHiT: A Hash Table Architected for the Speed of DRAM.	Vikram Narayanan,David Detweiler,Tianjiao Huang,Anton Burtsev	10.1145/3552326.3587457
+Omni-Paxos: Breaking the Barriers of Partial Connectivity.	Harald Ng,Seif Haridi,Paris Carbone	10.1145/3552326.3587441
+Pocket: ML Serving from the Edge.	Misun Park,Ketan Bhardwaj,Ada Gavrilovska	10.1145/3552326.3587459
+Safe and Practical GPU Computation in TrustZone.	Heejin Park,Felix Xiaozhu Lin	10.1145/3552326.3567483
+FrozenHot Cache: Rethinking Cache Management for Modern Hardware.	Ziyue Qiu,Juncheng Yang,Juncheng Zhang,Cheng Li,Xiaosong Ma,Qi Chen,Mao Yang,Yinlong Xu	10.1145/3552326.3587446
+NearPM: A Near-Data Processing System for Storage-Class Applications.	Yasas Seneviratne,Korakit Seemakhupt,Sihang Liu 0001,Samira Manabi Khan	10.1145/3552326.3587456
+vTMM: Tiered Memory Management for Virtual Machines.	Sai Sha,Chuandong Li,Yingwei Luo,Xiaolin Wang 0001,Zhenlin Wang	10.1145/3552326.3587449
+WAFFLE: Exposing Memory Ordering Bugs Efficiently with Active Delay Injection.	Bogdan Alexandru Stoica,Shan Lu 0001,Madanlal Musuvathi,Suman Nath	10.1145/3552326.3567507
+Fail through the Cracks: Cross-System Interaction Failures in Modern Cloud Systems.	Lilia Tang,Chaitanya Bhandari,Yongle Zhang,Anna Karanika,Shuyang Ji,Indranil Gupta,Tianyin Xu	10.1145/3552326.3587448
+MariusGNN: Resource-Efficient Out-of-Core Training of Graph Neural Networks.	Roger Waleffe,Jason Mohoney,Theodoros Rekatsinas,Shivaram Venkataraman	10.1145/3552326.3567501
+Integrating Non-Volatile Main Memory in a Deterministic Database.	Yu Chen Wang,Angela Demke Brown,Ashvin Goel	10.1145/3552326.3567494
+Tabi: An Efficient Multi-Level Inference System for Large Language Models.	Yiding Wang,Kai Chen,Haisheng Tan,Kun Guo	10.1145/3552326.3587438
+Model Checking Guided Testing for Distributed Systems.	Dong Wang,Wensheng Dou,Yu Gao 0002,Chenao Wu,Jun Wei 0001,Tao Huang 0001	10.1145/3552326.3587442
+Hi-Speed DNN Training with Espresso: Unleashing the Full Potential of Gradient Compression with Near-Optimal Usage Strategies.	Zhuang Wang,Haibin Lin,Yibo Zhu,T. S. Eugene Ng	10.1145/3552326.3567505
+Egeria: Efficient DNN Training with Knowledge-Guided Layer Freezing.	Yiding Wang,Decang Sun,Kai Chen 0005,Fan Lai,Mosharaf Chowdhury	10.1145/3552326.3587451
+LogGrep: Fast and Cheap Cloud Log Storage by Exploiting both Static and Runtime Patterns.	Junyu Wei,Guangyan Zhang,Junchao Chen 0005,Yang Wang 0009,Weimin Zheng,Tingtao Sun,Jiesheng Wu,Jiangwei Jiang	10.1145/3552326.3567484
+Effective Performance Issue Diagnosis with Value-Assisted Cost Profiling.	Lingmei Weng,Yigong Hu,Peng Huang 0005,Jason Nieh,Junfeng Yang	10.1145/3552326.3587444
+ALT: Breaking the Wall between Data Layout and Loop Optimizations for Deep Learning Compilation.	Zhiying Xu,Jiafan Xu,Hongding Peng,Wei Wang 0002,Xiaoliang Wang 0001,Haoran Wan,Haipeng Dai,Yixu Xu,Hao Cheng 0004,Kun Wang 0005,Guihai Chen	10.1145/3552326.3587440
+DyTIS: A Dynamic Dataset Targeted Index Structure Simultaneously Efficient for Search, Insert, and Scan.	Jin Yang,Heejin Yoon,Gyeongchan Yun,Sam H. Noh,Young-ri Choi	10.1145/3552326.3587434
+Efficient and Safe I/O Operations for Intermittent Systems.	Eren Yildiz,Saad Ahmed,Bashima Islam,Josiah D. Hester,Kasim Sinan Yildirim	10.1145/3552326.3587435
+DiLOS: Do Not Trade Compatibility for Performance in Memory Disaggregation.	Wonsup Yoon,Jisu Ok,Jinyoung Oh,Sue Moon,Youngjin Kwon	10.1145/3552326.3567488
+Viper: A Fast Snapshot Isolation Checker.	Jian Zhang,Ye Ji,Shuai Mu,Cheng Tan	10.1145/3552326.3567492
+SiloD: A Co-design of Caching and Scheduling for Deep Learning Clusters.	Hanyu Zhao,Zhenhua Han,Zhi Yang 0001,Quanlu Zhang,Mingxia Li,Fan Yang 0024,Qianxi Zhang,Binyang Li,Yuqing Yang 0001,Lili Qiu,Lintao Zhang,Lidong Zhou	10.1145/3552326.3567499
+Proceedings of the Eighteenth European Conference on Computer Systems, EuroSys 2023, Rome, Italy, May 8-12, 2023	Giuseppe Antonio Di Luna,Leonardo Querzoni,Alexandra Fedorova,Dushyanth Narayanan	10.1145/3552326

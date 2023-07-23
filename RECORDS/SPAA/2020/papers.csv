@@ -1,0 +1,69 @@
+Time- and Space-Optimal Discrete Clock Synchronization in the Beeping Model.	Michael Feldmann 0001,Ardalan Khazraei,Christian Scheideler	10.1145/3350755.3400246
+Simple Local Computation Algorithms for the General Lovász Local Lemma.	Dimitris Achlioptas,Themis Gouleakis,Fotis Iliopoulos	10.1145/3350755.3400250
+Reconstructing Binary Trees in Parallel.	Ramtin Afshar,Michael T. Goodrich,Pedro Matias 0001,Martha C. Osegueda	10.1145/3350755.3400229
+Faster Deterministic All Pairs Shortest Paths in Congest Model.	Udit Agarwal,Vijaya Ramachandran	10.1145/3350755.3400256
+Green Paging and Parallel Paging.	Kunal Agrawal,Michael A. Bender,Rathish Das,William Kuszmaul,Enoch Peserico,Michele Scquizzato	10.1145/3350755.3400231
+Contention Resolution with Message Deadlines.	Kunal Agrawal,Michael A. Bender,Jeremy T. Fineman,Seth Gilbert,Maxwell Young	10.1145/3350755.3400239
+Provable Neuromorphic Advantages for Computing Shortest Paths.	James B. Aimone,Yang Ho,Ojas Parekh,Cynthia A. Phillips,Ali Pinar,William Severa,Yipu Wang	10.1145/3350755.3400258
+A LOCAL Constant Approximation Factor Algorithm for Minimum Dominating Set of Certain Planar Graphs.	Sharareh Alipour,Amir Jafari	10.1145/3350755.3400217
+Memory Tagging: Minimalist Synchronization for Scalable Concurrent Data Structures.	Dan Alistarh,Trevor Brown 0001,Nandini Singhal	10.1145/3350755.3400213
+Work-Efficient Batch-Incremental Minimum Spanning Trees with Applications to the Sliding-Window Model.	Daniel Anderson,Guy E. Blelloch,Kanat Tangwongsan	10.1145/3350755.3400241
+Tracking in Order to Recover - Detectable Recovery of Lock-Free Data Structures.	Hagit Attiya,Ohad Ben-Baruch,Panagiota Fatourou,Danny Hendler,Eleftherios Kosmas	10.1145/3350755.3400257
+Closing the Gap Between Cache-oblivious and Cache-adaptive Analysis.	Michael A. Bender,Rezaul Alam Chowdhury,Rathish Das,Rob Johnson,William Kuszmaul,Andrea Lincoln,Quanquan C. Liu,Jayson Lynch,Helen Xu 0001	10.1145/3350755.3400274
+Optimal Resource Allocation for Elastic and Inelastic Jobs.	Benjamin Berg,Mor Harchol-Balter,Benjamin Moseley,Weina Wang,Justin Whitehouse	10.1145/3350755.3400265
+ParlayLib - A Toolkit for Parallel Algorithms on Shared-Memory Multicore Machines.	Guy E. Blelloch,Daniel Anderson,Laxman Dhulipala	10.1145/3350755.3400254
+Optimal Parallel Algorithms in the Binary-Forking Model.	Guy E. Blelloch,Jeremy T. Fineman,Yan Gu 0001,Yihan Sun 0001	10.1145/3350755.3400227
+Randomized Incremental Convex Hull is Highly Parallel.	Guy E. Blelloch,Yan Gu 0001,Julian Shun,Yihan Sun 0001	10.1145/3350755.3400255
+Almost Universal Anonymous Rendezvous in the Plane.	Sébastien Bouchard,Yoann Dieudonné,Andrzej Pelc,Franck Petit	10.1145/3350755.3400283
+Improved Work Span Tradeoff for Single Source Reachability and Approximate Shortest Paths.	Nairen Cao,Jeremy T. Fineman,Katina Russell	10.1145/3350755.3400222
+The Online Multi-Commodity Facility Location Problem.	Jannik Castenow,Björn Feldkord,Till Knollmann,Manuel Malatyali,Friedhelm Meyer auf der Heide	10.1145/3350755.3400281
+A Discrete and Continuous Study of the Max-Chain-Formation Problem: Slow Down to Speed up.	Jannik Castenow,Peter Kling,Till Knollmann,Friedhelm Meyer auf der Heide	10.1145/3350755.3400263
+Unconditional Lower Bounds for Adaptive Massively Parallel Computation.	Moses Charikar,Weiyun Ma,Li-Yang Tan	10.1145/3350755.3400230
+A Computational Model for Tensor Core Units.	Rezaul Chowdhury,Francesco Silvestri 0001,Flavio Vella	10.1145/3350755.3400252
+On the Hardness of Massively Parallel Computation.	Kai-Min Chung,Kuan-Yi Ho,Xiaorui Sun	10.1145/3350755.3400223
+Parallel Load Balancing on Constrained Client-Server Topologies.	Andrea E. F. Clementi,Emanuele Natale,Isabella Ziccardi	10.1145/3350755.3400232
+Graph Sparsification for Derandomizing Massively Parallel Computation with Low Space.	Artur Czumaj,Peter Davies,Merav Parter	10.1145/3350755.3400282
+How to Manage High-Bandwidth Memory Automatically.	Rathish Das,Kunal Agrawal,Michael A. Bender,Jonathan W. Berry,Benjamin Moseley,Cynthia A. Phillips	10.1145/3350755.3400233
+Communication-Optimal Tilings for Projective Nested Loops with Arbitrary Bounds.	Grace Dinh,James Demmel	10.1145/3350755.3400275
+Self-Stabilizing Task Allocation In Spite of Noise.	Anna R. Dornhaus,Nancy A. Lynch,Frederik Mallmann-Trenn,Dominik Pajak,Tsvetomira Radeva	10.1145/3350755.3400226
+Constant-Length Labelling Schemes for Faster Deterministic Radio Broadcast.	Faith Ellen,Seth Gilbert	10.1145/3350755.3400238
+Efficient Distributed Algorithms for the K-Nearest Neighbors Problem.	Reza Fathi,Anisur Rahaman Molla,Gopal Pandurangan	10.1145/3350755.3400268
+Predicate Detection to Solve Combinatorial Optimization Problems.	Vijay K. Garg	10.1145/3350755.3400235
+Efficient Local Medium Access.	Pawel Garncarek,Tomasz Jurdzinski,Dariusz R. Kowalski	10.1145/3350755.3400292
+A Massively Parallel Algorithm for Minimum Weight Vertex Cover.	Mohsen Ghaffari 0001,Ce Jin 0001,Daan Nilis	10.1145/3350755.3400260
+Parallel Planar Subgraph Isomorphism and Vertex Connectivity.	Lukas Gianinazzi,Torsten Hoefler	10.1145/3350755.3400259
+How Fast Can You Update Your MST?	Seth Gilbert,Lawrence Er Lu Li	10.1145/3350755.3400240
+A Queueing Network-Based Distributed Laplacian Solver.	Iqra Altaf Gillani,Amitabha Bagchi	10.1145/3350755.3400251
+Feasibility of Cross-Chain Payment with Success Guarantees.	Rob van Glabbeek,Vincent Gramoli,Pierre Tholoniat	10.1145/3350755.3400264
+The Recoverable Consensus Hierarchy.	Wojciech M. Golab	10.1145/3350755.3400212
+A Closer Look at Quantum Distributed Consensus.	Wojciech M. Golab,Hao Tan	10.1145/3350755.3400215
+Bandwidth Optimized Parallel Algorithms for Sparse Matrix-Matrix Multiplication using Propagation Blocking.	Zhixiang Gu,Jose Moreira,David Edelsohn,Ariful Azad	10.1145/3350755.3400216
+Communication-Efficient Weighted Reservoir Sampling from Fully Distributed Data Streams.	Lorenz Hübschle-Schneider,Peter Sanders 0001	10.1145/3350755.3400287
+Scheduling Flows on a Switch to Optimize Response Times.	Hamidreza Jahanjou,Rajmohan Rajaraman,David Stalfa	10.1145/3350755.3400218
+Sublinear Algorithms in T-interval Dynamic Networks.	Irvan Jahja,Haifeng Yu	10.1145/3350755.3400228
+Spectral Lower Bounds on the I/O Complexity of Computation Graphs.	Saachi Jain,Matei Zaharia	10.1145/3350755.3400210
+Commitment and Slack for Online Load Maximization.	Samin Jamalabadi,Chris Schwiegelshohn,Uwe Schwiegelshohn	10.1145/3350755.3400271
+Approximation Algorithms for Scheduling with Class Constraints.	Klaus Jansen,Alexandra Lassota,Marten Maack	10.1145/3350755.3400247
+Multicore Paging Algorithms Cannot Be Competitive.	Shahin Kamali,Helen Xu 0001	10.1145/3350755.3400270
+Cache-Efficient Parallel-Partition Algorithms using Exclusive-Read-and-Write Memory.	William Kuszmaul,Alek Westover	10.1145/3350755.3400234
+Connected Components on a PRAM in Log Diameter Time.	Sixue Cliff Liu,Robert E. Tarjan,Peilin Zhong	10.1145/3350755.3400249
+Fast Byzantine Agreement for Permissioned Distributed Ledgers.	Thomas Locher	10.1145/3350755.3400219
+The Append Memory Model: Why BlockDAGs Excel Blockchains.	Darya Melnyk,Roger Wattenhofer	10.1145/3350755.3400272
+A Unified Sparsification Approach for Matching Problems in Graphs of Bounded Neighborhood Independence.	Lazar Milenkovic,Shay Solomon	10.1145/3350755.3400248
+Deterministic Leader Election in Anonymous Radio Networks.	Avery Miller,Andrzej Pelc,Ram Narayan Yadav	10.1145/3350755.3400276
+Towards Lockfree Persistent Homology.	Dmitriy Morozov,Arnur Nigmetov	10.1145/3350755.3400244
+Sparse Tensor Transpositions.	Suzanne Mueller,Peter Ahrens,Stephen Chou,Fredrik Kjolstad,Saman P. Amarasinghe	10.1145/3350755.3400245
+Network Partitioning and Avoidable Contention.	Yishai Oltchik,Oded Schwartz	10.1145/3350755.3400242
+On the Hardness of Red-Blue Pebble Games.	Pál András Papp,Roger Wattenhofer	10.1145/3350755.3400278
+Non-Linear Ski Rental.	Boaz Patt-Shamir,Evyatar Yadai	10.1145/3350755.3400280
+pTrans: A Scalable Algorithm for Reservation Guarantees in Distributed Systems.	Yuhan Peng,Peter J. Varman	10.1145/3350755.3400273
+On the Limits of Parallelizing Convolutional Neural Networks on GPUs.	Behnam Pourghassemi,Chenghao Zhang,Joo Hwan Lee,Aparna Chandramowlishwaran	10.1145/3350755.3400266
+Functional Faults.	Gali Sheffi,Erez Petrank	10.1145/3350755.3400261
+Efficient Concurrent Range Queries in B+-trees using RCU-HTM.	Dimitrios Siakavaras,Panagiotis Billis,Konstantinos Nikas,Georgios I. Goumas,Nectarios Koziris	10.1145/3350755.3400237
+Priority Scheduling for Interactive Applications.	Kyle Singer,Noah Goldstein,Stefan K. Muller,Kunal Agrawal,I-Ting Angelina Lee,Umut A. Acar	10.1145/3350755.3400236
+Balanced Partitioning of Several Cache-Oblivious Algorithms.	Yuan Tang	10.1145/3350755.3400214
+Communication vs Synchronisation in Parallel String Comparison.	Alexander Tiskin	10.1145/3350755.3400225
+Benchmarking Recoverable Mutex Locks.	Jeffrey Xiao,Zheng Zhang,Wojciech M. Golab	10.1145/3350755.3400269
+Giving Future(s) to Transactional Memory.	Jingna Zeng,Seif Haridi,Shady Issa,Paolo Romano 0002,Luís E. T. Rodrigues	10.1145/3350755.3400220
+Communication Lower Bounds of Convolutions in CNNs.	Xiaoyang Zhang,Junmin Xiao,Guangming Tan	10.1145/3350755.3400267
+SPAA &apos;20: 32nd ACM Symposium on Parallelism in Algorithms and Architectures, Virtual Event, USA, July 15-17, 2020	Christian Scheideler,Michael Spear	10.1145/3350755

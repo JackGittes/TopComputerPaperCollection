@@ -1,0 +1,33 @@
+Uni-Address Threads: Scalable Thread Management for RDMA-Based Work Stealing.	Shigeki Akiyama,Kenjiro Taura	10.1145/2749246.2749272
+HPC System Lifetime Story: Workload Characterization and Evolutionary Analyses on NERSC Systems.	Gonzalo Pedro Rodrigo Álvarez,Per-Olov Östberg,Erik Elmroth,Katie Antypas,Richard A. Gerber,Lavanya Ramakrishnan	10.1145/2749246.2749270
+Lightweight Silent Data Corruption Detection Based on Runtime Data Analysis for HPC Applications.	Eduardo Berrocal,Leonardo Arturo Bautista-Gomez,Sheng Di,Zhiling Lan,Franck Cappello	10.1145/2749246.2749253
+Accelerating Irregular Computations with Hardware Transactional Memory and Active Messages.	Maciej Besta,Torsten Hoefler	10.1145/2749246.2749263
+CAST: Tiering Storage for Data Analytics in the Cloud.	Yue Cheng 0001,M. Safdar Iqbal,Aayush Gupta,Ali Raza Butt	10.1145/2749246.2749252
+High Impact Computing: Computing for Science and the Science of Computing.	Ewa Deelman	10.1145/2749246.2749247
+A Numerical Soft Fault Model for Iterative Linear Solvers.	James Elliott,Mark Hoemmen,Frank Mueller 0001	10.1145/2749246.2749254
+POW: System-wide Dynamic Reallocation of Limited Power in HPC.	Daniel A. Ellsworth,Allen D. Malony,Barry Rountree,Martin Schulz 0001	10.1145/2749246.2749277
+Exploring Failure Recovery for Stencil-based Applications at Extreme Scales.	Marc Gamell,Keita Teranishi,Michael A. Heroux,Jackson R. Mayo,Hemanth Kolla,Jacqueline Chen,Manish Parashar	10.1145/2749246.2749260
+Bidding for Highly Available Services with Low Price in Spot Instance Market.	Weichao Guo,Kang Chen,Yongwei Wu,Weimin Zheng	10.1145/2749246.2749259
+A Case for Transforming Parallel Runtimes Into Operating System Kernels.	Kyle C. Hale,Peter A. Dinda	10.1145/2749246.2749264
+Cutting the Cost of Hosting Online Services Using Cloud Spot Markets.	Xin He,Prashant J. Shenoy,Ramesh K. Sitaraman,David E. Irwin 0001	10.1145/2749246.2749275
+Optimizing Grouped Aggregation in Geo-Distributed Streaming Analytics.	Benjamin Heintz,Abhishek Chandra,Ramesh K. Sitaraman	10.1145/2749246.2749276
+Turning Centralized Coherence and Distributed Critical-Section Execution on their Head: A New Approach for Scalable Distributed Shared Memory.	Stefanos Kaxiras,David Klaftenegger,Magnus Norgren,Alberto Ros,Konstantinos Sagonas	10.1145/2749246.2749250
+Planning and Optimization in TORQUE Resource Manager.	Dalibor Klusácek,Vaclav Chlumsky,Hana Rudová	10.1145/2749246.2749266
+XEMEM: Efficient Shared Memory for Composed Applications on Multi-OS/R Exascale Systems.	Brian Kocoloski,John R. Lange	10.1145/2749246.2749274
+Transit: A Visual Analytical Model for Multithreaded Machines.	Ang Li 0006,Y. C. Tay,Akash Kumar 0001,Henk Corporaal	10.1145/2749246.2749265
+A Multiplatform Study of I/O Behavior on Petascale Supercomputers.	Huong Luu,Marianne Winslett,William Gropp,Robert B. Ross,Philip H. Carns,Kevin Harms,Prabhat,Surendra Byna,Yushu Yao	10.1145/2749246.2749269
+Through the Looking-Glass: From Performance Observation to Dynamic Adaptation.	Allen D. Malony	10.1145/2749246.2749248
+Achieving Performance Isolation with Lightweight Co-Kernels.	Jiannan Ouyang,Brian Kocoloski,John R. Lange,Kevin T. Pedretti	10.1145/2749246.2749273
+Practical Resource Management in Power-Constrained, High Performance Computing.	Tapasya Patki,David K. Lowenthal,Anjana Sasidharan,Matthias Maiterth,Barry Rountree,Martin Schulz 0001,Bronis R. de Supinski	10.1145/2749246.2749262
+DARE: High-Performance State Machine Replication on RDMA Networks.	Marius Poke,Torsten Hoefler	10.1145/2749246.2749267
+Cache Line Aware Optimizations for ccNUMA Systems.	Sabela Ramos,Torsten Hoefler	10.1145/2749246.2749256
+Automated Characterization of Parallel Application Communication Patterns.	Philip C. Roth,Jeremy S. Meredith,Jeffrey S. Vetter	10.1145/2749246.2749278
+HeteroDoop: A MapReduce Programming System for Accelerator Clusters.	Amit Sabne,Putt Sakdhnagool,Rudolf Eigenmann	10.1145/2749246.2749261
+In-Situ Bitmaps Generation and Efficient Data Analysis based on Bitmaps.	Yu Su 0011,Yi Wang,Gagan Agrawal	10.1145/2749246.2749268
+Automated GPU Kernel Transformations in Large-Scale Production Stencil Applications.	Mohamed Wahib,Naoya Maruyama	10.1145/2749246.2749255
+Towards Scalable Distributed Workload Manager with Monitoring-Based Weakly Consistent Resource Stealing.	Ke Wang 0012,Xiaobing Zhou,Kan Qiao,Michael Lang 0003,Benjamin McClelland,Ioan Raicu	10.1145/2749246.2749249
+Monte Carlo Based Ray Tracing in CPU-GPU Heterogeneous Systems and Applications in Radiation Therapy.	Kai Xiao,Danny Ziyi Chen,Xiaobo Sharon Hu,Bo Zhou 0018	10.1145/2749246.2749271
+Understanding Graph Computation Behavior to Enable Robust Benchmarking.	Fan Yang 0015,Andrew A. Chien	10.1145/2749246.2749257
+A Declarative Optimization Engine for Resource Provisioning of Scientific Workflows in IaaS Clouds.	Amelie Chi Zhou,Bingsheng He,Xuntao Cheng,Chiew Tong Lau	10.1145/2749246.2749251
+Fast Iterative Graph Computation with Resource Aware Graph Parallel Abstractions.	Yang Zhou 0001,Ling Liu 0001,Kisung Lee,Calton Pu,Qi Zhang 0009	10.1145/2749246.2749258
+Proceedings of the 24th International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2015, Portland, OR, USA, June 15-19, 2015	Thilo Kielmann,Dean Hildebrand,Michela Taufer	

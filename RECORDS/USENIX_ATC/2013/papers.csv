@@ -1,0 +1,34 @@
+Janus: Optimal Flash Provisioning for Cloud Storage Workloads.	Christoph Albrecht,Arif Merchant,Murray Stokely,Muhammad Waliji,François Labelle,Nate Coehlo,Xudong Shi 0003,Eric Schrock	
+On the Efficiency of Durable State Machine Replication.	Alysson Neves Bessani,Marcel Santos,João Felix,Nuno Ferreira Neves,Miguel Correia 0001	
+IAMEM: Interaction-Aware Memory Energy Management.	Mingsong Bi,Srinivasan Chandrasekharan,Chris Gniady	
+TAO: Facebook&apos;s Distributed Data Store for the Social Graph.	Nathan Bronson,Zach Amsden,George Cabrera,Prasad Chakka,Peter Dimov,Hui Ding,Jack Ferris,Anthony Giardullo,Sachin Kulkarni,Harry C. Li,Mark Marchukov,Dmitri Petrov,Lovro Puzar,Yee Jiun Song,Venkateshwaran Venkataramani	
+Redundant State Detection for Dynamic Symbolic Execution.	Suhabe Bugrara,Dawson R. Engler	
+packetdrill: Scriptable Network Stack Testing, from Sockets to Packets.	Neal Cardwell,Yuchung Cheng,Lawrence Brakmo,Matt Mathis,Barath Raghavan,Nandita Dukkipati,Hsiao-Keng Jerry Chu,Andreas Terzis,Tom Herbert	
+Improving Server Application Performance via Pure TCP ACK Receive Optimization.	Michael Chan,David R. Cheriton	
+Copysets: Reducing the Frequency of Data Loss in Cloud Storage.	Asaf Cidon,Stephen M. Rumble,Ryan Stutsman,Sachin Katti,John K. Ousterhout,Mendel Rosenblum	
+Network Interface Design for Low Latency Request-Response Protocols.	Mario Flajslik,Mendel Rosenblum	
+PIKACHU: How to Rebalance Load in Optimizing MapReduce On Heterogeneous Clusters.	Rohan Gandhi,Di Xie,Y. Charlie Hu	
+The Harey Tortoise: Managing Heterogeneous Write Performance in SSDs.	Laura M. Grupp,John D. Davis,Steven Swanson	
+Efficient and Scalable Paravirtual I/O System.	Nadav Har&apos;El,Abel Gordon,Alex Landau,Muli Ben-Yehuda,Avishay Traeger,Razya Ladelsky	
+Flash Caching on the Storage Client.	David A. Holland,Elaine Angelino,Gideon Wald,Margo I. Seltzer	
+How to Run POSIX Apps in a Minimal Picoprocess.	Jon Howell,Bryan Parno,John R. Douceur	
+When Slower Is Faster: On Heterogeneous Multicores for Reliable Systems.	Tomás Hrubý,Herbert Bos,Andrew S. Tanenbaum	
+MutantX-S: Scalable Malware Clustering Based on Static Features.	Xin Hu 0001,Kang G. Shin,Sandeep Bhatkar,Kent Griffin	
+I/O Stack Optimization for Smartphones.	Sooman Jeong,Kisung Lee,Seongjin Lee,Seoungbum Son,Youjip Won	
+Practical and Effective Sandboxing for Non-root Users.	Taesoo Kim,Nickolai Zeldovich	
+Mantis: Automatic Performance Prediction for Smartphone Applications.	Yongin Kwon,Sangmin Lee,Hayoon Yi,Donghyun Kwon,Seungjun Yang,Byung-Gon Chun,Ling Huang,Petros Maniatis,Mayur Naik,Yunheung Paek	
+DEFINED: Deterministic Execution for Interactive Control-Plane Debugging.	Chia-Chi Lin,Virajith Jalaparti,Matthew Caesar 0001,Jacobus E. van der Merwe	
+Enabling OS Research by Inferring Interactions in the Black-Box GPU Stack.	Konstantinos Menychtas,Kai Shen,Michael L. Scott	
+XLH: More Effective Memory Deduplication Scanners Through Cross-layer Hints.	Konrad Miller,Fabian Franz,Marc Rittinghaus,Marius Hillenbrand,Frank Bellosa	
+Using One-Sided RDMA Reads to Build a Fast, CPU-Efficient Key-Value Store.	Christopher Mitchell,Yifeng Geng,Jinyang Li 0001	
+DeepDive: Transparently Identifying and Managing Performance Interference in Virtualized Environments.	Dejan M. Novakovic,Nedeljko Vasic,Stanko Novakovic,Dejan Kostic,Ricardo Bianchini	
+Lightweight Memory Tracing.	Mathias Payer,Enrico Kravina,Thomas R. Gross	
+MiG: Efficient Migration of Desktop VMs Using Semantic Compression.	Anshul Rai,Ramachandran Ramjee,Ashok Anand,Venkata N. Padmanabhan,George Varghese	
+Hyper-Switch: A Scalable Software Virtual Switching Architecture.	Kaushik Kumar Ram,Alan L. Cox,Mehul Chadha,Scott Rixner	
+TABLEFS: Enhancing Metadata Efficiency in the Local File System.	Kai Ren 0001,Garth A. Gibson	
+FlashFQ: A Fair Queueing I/O Scheduler for Flash-Based SSDs.	Kai Shen,Stan Park	
+Characterization of Incremental Data Changes for Efficient Data Protection.	Hyong Shim,Philip Shilane,Windsor Hsu	
+Estimating Duplication by Content-based Sampling.	Fei Xie,Michael Condict,Sandip Shete	
+vTurbo: Accelerating Virtual Machine I/O Processing Using Designated Turbo-Sliced Core.	Cong Xu,Sahan Gamage,Hui Lu 0001,Ramana Rao Kompella,Dongyan Xu	
+Optimizing VM Checkpointing for Restore Performance in VMware ESXi.	Irene Zhang,Tyler Denniston,Yury Baskakov,Alex Garthwaite	
+2013 USENIX Annual Technical Conference, San Jose, CA, USA, June 26-28, 2013	Andrew Birrell,Emin Gün Sirer	

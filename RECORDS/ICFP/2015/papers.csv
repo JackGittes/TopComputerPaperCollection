@@ -1,0 +1,38 @@
+Analysing the complexity of functional programs: higher-order meets first-order.	Martin Avanzini,Ugo Dal Lago,Georg Moser	10.1145/2784731.2784753
+Certified symbolic management of financial multi-party contracts.	Patrick Bahr,Jost Berthold,Martin Elsman	10.1145/2784731.2784747
+Pycket: a tracing JIT for a functional language.	Spenser Bauman,Carl Friedrich Bolz,Robert Hirschfeld,Vasily Kirilichev,Tobias Pape,Jeremy G. Siek,Sam Tobin-Hochstadt	10.1145/2784731.2784740
+Foundational extensible corecursion: a proof assistant perspective.	Jasmin Christian Blanchette,Andrei Popescu 0001,Dmitriy Traytel	10.1145/2784731.2784732
+Program synthesis: opportunities for the next decade.	Rastislav Bodík	10.1145/2784731.2789052
+Noninterference for free.	William J. Bowman,Amal Ahmed 0001	10.1145/2784731.2784733
+HLIO: mixing static and dynamic typing for information-flow control in Haskell.	Pablo Buiras,Dimitrios Vytiniotis,Alejandro Russo	10.1145/2784731.2784758
+An optimizing compiler for a purely functional web-application language.	Adam Chlipala	10.1145/2784731.2784741
+Denotational cost semantics for functional languages with inductive types.	Norman Danner,Daniel R. Licata,Ramyaa	10.1145/2784731.2784749
+Structures for structural recursion.	Paul Downen,Philip Johnson-Freyd,Zena M. Ariola	10.1145/2784731.2784762
+Elaborating evaluation-order polymorphism.	Jana Dunfield	10.1145/2784731.2784744
+Algebras and coalgebras in the light affine Lambda calculus.	Marco Gaboardi,Romain Péchoux	10.1145/2784731.2784759
+XQuery and static typing: tackling the problem of backward axes.	Pierre Genevès,Nils Gesbert	10.1145/2784731.2784746
+Functional pearl: a smart view on datatypes.	Mauro Jaskelioff,Exequiel Rivas	10.1145/2784731.2784743
+GADTs meet their match: pattern-matching warnings that account for GADTs, guards, and laziness.	Georgios Karachalias,Tom Schrijvers,Dimitrios Vytiniotis,Simon L. Peyton Jones	10.1145/2784731.2784748
+Blame assignment for higher-order contracts with intersection and union.	Matthias Keil 0002,Peter Thiemann 0001	10.1145/2784731.2784737
+Partial aborts for transactions via first-class continuations.	Matthew Le,Matthew Fluet	10.1145/2784731.2784736
+Applicative bidirectional programming with lenses.	Kazutaka Matsuda,Meng Wang 0002	10.1145/2784731.2784750
+Pilsner: a compositionally verified compiler for a higher-order imperative language.	Georg Neis,Chung-Kil Hur,Jan-Oliver Kaiser,Craig McLaughlin,Derek Dreyer,Viktor Vafeiadis	10.1145/2784731.2784764
+Adaptive lock-free maps: purely-functional to scalable.	Ryan R. Newton,Peter P. Fogg,Ali Varamesh	10.1145/2784731.2784734
+Practical SMT-based type error localization.	Zvonimir Pavlinovic,Tim King 0001,Thomas Wies	10.1145/2784731.2784765
+Practical principled FRP: forget the past, change the future, FRPNow!	Atze van der Ploeg,Koen Claessen	10.1145/2784731.2784752
+Hygienic resugaring of compositional desugaring.	Justin Pombrio,Shriram Krishnamurthi	10.1145/2784731.2784755
+Automatic refunctionalization to a language with copattern matching: with applications to the expression problem.	Tillmann Rendel,Julia Trieflinger,Klaus Ostermann	10.1145/2784731.2784763
+Functional pearl: a SQL to C compiler in 500 lines of code.	Tiark Rompf,Nada Amin	10.1145/2784731.2784760
+1ML - core and modules united (F-ing first-class modules).	Andreas Rossberg	10.1145/2784731.2784738
+Functional pearl: two can keep a secret, if one of them uses Haskell.	Alejandro Russo	10.1145/2784731.2784756
+Which simple types have a unique inhabitant?	Gabriel Scherer,Didier Rémy	10.1145/2784731.2784757
+Functional programming and hardware design: still interesting after all these years.	Mary Sheeran	10.1145/2784731.2789053
+A fast compiler for NetKAT.	Steffen Smolka,Spiridon Aristides Eliopoulos,Nate Foster,Arjun Guha	10.1145/2784731.2784761
+Generating performance portable code using rewrite rules: from high-level functional expressions to high-performance OpenCL code.	Michel Steuwer,Christian Fensch,Sam Lindley,Christophe Dubach	10.1145/2784731.2784754
+RRB vector: a practical general purpose immutable sequence.	Nicolas Stucki,Tiark Rompf,Vlad Ureche,Phil Bagwell	10.1145/2784731.2784739
+Expressing contract monitors as patterns of communication.	Cameron Swords,Amr Sabry,Sam Tobin-Hochstadt	10.1145/2784731.2784742
+Bounded refinement types.	Niki Vazou,Alexander Bakst,Ranjit Jhala	10.1145/2784731.2784745
+Efficient communication and collection with compact normal forms.	Edward Z. Yang,Giovanni Campagna,Ömer S. Agacan,Ahmed El-Hassany,Abhishek Kulkarni,Ryan R. Newton	10.1145/2784731.2784735
+Learning refinement types.	He Zhu 0001,Aditya V. Nori,Suresh Jagannathan	10.1145/2784731.2784766
+A unification algorithm for Coq featuring universe polymorphism and overloading.	Beta Ziliani,Matthieu Sozeau	10.1145/2784731.2784751
+Proceedings of the 20th ACM SIGPLAN International Conference on Functional Programming, ICFP 2015, Vancouver, BC, Canada, September 1-3, 2015	Kathleen Fisher,John H. Reppy	10.1145/2784731

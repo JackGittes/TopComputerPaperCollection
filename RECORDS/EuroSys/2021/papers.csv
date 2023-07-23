@@ -1,0 +1,39 @@
+Home, safehome: smart home reliability with visibility and atomicity.	Shegufta Bakht Ahsan,Rui Yang,Shadi A. Noghabi,Indranil Gupta	10.1145/3447786.3456261
+Take it to the limit: peak prediction-driven resource overcommitment in datacenters.	Noman Bashir,Nan Deng,Krzysztof Rzadca,David E. Irwin 0001,Sree Kodak,Rohit Jnagal	10.1145/3447786.3456259
+Profiling dataflow systems on multiple abstraction levels.	Alexander Beischl,Timo Kersten,Maximilian Bandle,Jana Giceva,Thomas Neumann 0001	10.1145/3447786.3456254
+Tesseract: distributed, general graph pattern mining on evolving graphs.	Laurent Bindschaedler,Jasmina Malicevic,Baptiste Lepers,Ashvin Goel,Willy Zwaenepoel	10.1145/3447786.3456253
+DGCL: an efficient communication library for distributed GNN training.	Zhenkun Cai,Xiao Yan 0002,Yidi Wu,Kaihao Ma,James Cheng,Fan Yu	10.1145/3447786.3456233
+Site-to-site internet traffic control.	Frank Cangialosi,Akshay Narayan 0001,Prateesh Goyal,Radhika Mittal,Mohammad Alizadeh,Hari Balakrishnan	10.1145/3447786.3456260
+Achieving low tail-latency and high scalability for serializable transactions in edge computing.	Xusheng Chen,Haoze Song,Jianyu Jiang,Chaoyi Ruan,Cheng Li,Sen Wang,Gong Zhang,Reynold Cheng,Heming Cui	10.1145/3447786.3456238
+Understanding and dealing with hard faults in persistent memory systems.	Brian Choi,Randal Burns,Peng Huang	10.1145/3447786.3456252
+Efficient replication via timestamp stability.	Vitor Enes,Carlos Baquero,Alexey Gotsman,Pierre Sutra	10.1145/3447786.3456236
+REBOUND: defending distributed systems against attacks with bounded-time recovery.	Neeraj Gandhi,Edo Roth,Brian Sandler,Andreas Haeberlen,Linh Thi Xuan Phan	10.1145/3447786.3456257
+Odyssey: the impact of modern hardware on strongly-consistent replication protocols.	Vasilis Gavrielatos,Antonios Katsarakis,Vijay Nagarajan	10.1145/3447786.3456240
+Confidential computing for OpenPOWER.	Guerney D. H. Hunt,Ramachandra Pai,Michael V. Le,Hani Jamjoom,Sukadev Bhattiprolu,Rick Boivie,Laurent Dufour,Brad Frey,Mohit Kapur,Kenneth A. Goldman,Ryan Grimm,Janani Janakirman,John M. Ludden,Paul Mackerras,Cathy May,Elaine R. Palmer,Bharata Bhasker Rao,Lawrence Roy,William A. Starke,Jeff Stuecheli,Enriquillo Valdez,Wendel Voigt	10.1145/3447786.3456243
+Accelerating graph sampling for graph machine learning using GPUs.	Abhinav Jangda,Sandeep Polisetty,Arjun Guha,Marco Serafini	10.1145/3447786.3456244
+Tripoline: generalized incremental graph processing via graph triangle inequality.	Xiaolin Jiang 0002,Chengshuo Xu,Xizhe Yin,Zhijia Zhao 0001,Rajiv Gupta 0001	10.1145/3447786.3456226
+Zeus: locality-aware distributed transactions.	Antonios Katsarakis,Yijun Ma,Zhaowei Tan,Andrew Bainbridge,Matthew Balkwill,Aleksandar Dragojevic,Boris Grot,Bozidar Radunovic,Yongguang Zhang	10.1145/3447786.3456234
+Ethanos: efficient bootstrapping for full nodes on account-based blockchain.	Jae-Yun Kim,Junmo Lee,Yeon-Jae Koo,Sang-Hyeon Park,Soo-Mook Moon	10.1145/3447786.3456231
+Unikraft: fast, specialized unikernels the easy way.	Simon Kuenzer,Vlad-Andrei Badoiu,Hugo Lefeuvre,Sharan Santhanam,Alexander Jung,Gaulthier Gain,Cyril Soldani,Costin Lupu,Stefan Teodorescu,Costi Raducanu,Cristian Banu,Laurent Mathy,Razvan Deaconescu,Costin Raiciu,Felipe Huici	10.1145/3447786.3456248
+Parallelizing packet processing in container overlay networks.	Jiaxin Lei,Manish Munikar,Kun Suo,Hui Lu 0001,Jia Rao	10.1145/3447786.3456241
+Towards timeout-less transport in commodity datacenter networks.	Hwijoon Lim,Wei Bai 0001,Yibo Zhu,Youngmok Jung,Dongsu Han	10.1145/3447786.3456227
+M3: end-to-end memory management in elastic system software stacks.	David Lion,Adrian Chiu,Ding Yuan 0004	10.1145/3447786.3456256
+Finding heterogeneous-unsafe configuration parameters in cloud systems.	Sixiang Ma,Fang Zhou,Michael D. Bond,Yang Wang 0009	10.1145/3447786.3456250
+DZiG: sparsity-aware incremental processing of streaming graphs.	Mugilan Mariappan,Joanna Che,Keval Vora	10.1145/3447786.3456230
+Characterizing, exploiting, and detecting DMA code injection vulnerabilities in the presence of an IOMMU.	Alex Markuze,Shay Vargaftik,Gil Kupfer,Boris Pismenny,Nadav Amit,Adam Morrison 0001,Dan Tsafrir	10.1145/3447786.3456249
+RubberBand: cloud-based hyperparameter tuning.	Ujval Misra,Richard Liaw,Lisa Dunlap,Romil Bhardwaj,Kirthevasan Kandasamy,Joseph E. Gonzalez,Ion Stoica,Alexey Tumanov	10.1145/3447786.3456245
+OFC: an opportunistic caching system for FaaS platforms.	Djob Mvondo,Mathieu Bacou,Kevin Nguetchouang,Lucien Ngale,Stéphane Pouget,Josiane Kouam,Renaud Lachaize,Jinho Hwang,Tim Wood 0006,Daniel Hagimont,Noël De Palma,Bernabé Batchakui,Alain Tchana	10.1145/3447786.3456239
+Mitigating vulnerability windows with hypervisor transplant.	Tu Dinh Ngoc,Boris Teabe,Alain Tchana,Gilles Muller,Daniel Hagimont	10.1145/3447786.3456235
+Memory-mapped I/O on steroids.	Anastasios Papagiannis,Manolis Marazakis,Angelos Bilas	10.1145/3447786.3456242
+Virtual machine preserving host updates for zero day patching in public cloud.	Mark Russinovich,Naga K. Govindaraju,Melur Raghuraman,David Hepkin,Jamie Schwartz,Arun Kishan	10.1145/3447786.3456232
+TraceSplitter: a new paradigm for downscaling traces.	Sultan Mahmud Sajal,Rubaba Hasan,Timothy Zhu,Bhuvan Urgaonkar,Siddhartha Sen 0001	10.1145/3447786.3456262
+rkt-io: a direct I/O stack for shielded execution.	Jörg Thalheim,Harshavardhan Unnibhavi,Christian Priebe,Pramod Bhatotia,Peter R. Pietzuch	10.1145/3447786.3456255
+PaSh: light-touch data-parallel shell processing.	Nikos Vasilakis,Konstantinos Kallas,Konstantinos Mamouras,Achilles Benetopoulos,Lazar Cvetkovic	10.1145/3447786.3456228
+SmartHarvest: harvesting idle CPUs safely and efficiently in the cloud.	Yawen Wang,Kapil Arya,Marios Kogias,Manohar Vanga,Aditya Bhandari,Neeraja J. Yadwadkar,Siddhartha Sen 0001,Sameh Elnikety,Christos Kozyrakis,Ricardo Bianchini	10.1145/3447786.3456225
+FlexGraph: a flexible and efficient distributed framework for GNN training.	Lei Wang,Qiang Yin 0002,Chao Tian 0001,Jianbang Yang,Rong Chen 0001,Wenyuan Yu,Zihang Yao,Jingren Zhou	10.1145/3447786.3456229
+Seastar: vertex-centric programming for graph neural networks.	Yidi Wu,Kaihao Ma,Zhenkun Cai,Tatiana Jin,Boyang Li 0016,Chengguang Zheng,James Cheng,Fan Yu	10.1145/3447786.3456247
+Tahoe: tree structure-aware high performance inference engine for decision tree ensemble on GPU.	Zhen Xie,Wenqian Dong,Jiawen Liu,Hang Liu 0001,Dong Li 0001	10.1145/3447786.3456251
+Bridging the performance gap for copy-based garbage collectors atop non-volatile memory.	Yanfei Yang,Mingyu Wu 0001,Haibo Chen 0001,Binyu Zang	10.1145/3447786.3456246
+ChameleonDB: a key-value store for optane persistent memory.	Wenhui Zhang 0005,Xingsheng Zhao,Song Jiang 0001,Hong Jiang 0001	10.1145/3447786.3456237
+On-demand-fork: a microsecond fork for memory-intensive and latency-sensitive applications.	Kaiyang Zhao,Sishuai Gong,Pedro Fonseca 0001	10.1145/3447786.3456258
+EuroSys &apos;21: Sixteenth European Conference on Computer Systems, Online Event, United Kingdom, April 26-28, 2021	Antonio Barbalace,Pramod Bhatotia,Lorenzo Alvisi,Cristian Cadar	10.1145/3447786

@@ -1,0 +1,43 @@
+An Empirical Study of Common Challenges in Developing Deep Learning Applications.	Tianyi Zhang 0001,Cuiyun Gao,Lei Ma 0003,Michael R. Lyu,Miryung Kim	10.1109/ISSRE.2019.00020
+Propheticus: Machine Learning Framework for the Development of Predictive Models for Reliable and Secure Software.	João R. Campos,Marco Vieira,Ernesto Costa	10.1109/ISSRE.2019.00026
+Learning Marked Markov Modulated Poisson Processes for Online Predictive Analysis of Attack Scenarios.	Laura Carnevali,Francesco Santoni,Enrico Vicario	10.1109/ISSRE.2019.00028
+Mirage: Towards a Metasploit-Like Framework for IoT.	Romain Cayre,Vincent Nicomette,Guillaume Auriol,Eric Alata,Mohamed Kaâniche,Géraldine Vache Marconato	10.1109/ISSRE.2019.00034
+Amplifying Integration Tests with CAMP.	Franck Chauvel,Brice Morin,Enrique Garcia-Ceja	10.1109/ISSRE.2019.00036
+Inferring Performance Bug Patterns from Developer Commits.	Yiqun Chen,Stefan Winter 0001,Neeraj Suri	10.1109/ISSRE.2019.00017
+Criteria to Systematically Evaluate (Safety) Assurance Cases.	Thomas Chowdhury,Alan Wassyng,Richard F. Paige,Mark Lawford	10.1109/ISSRE.2019.00045
+Analyzing the Context of Bug-Fixing Changes in the OpenStack Cloud Computing Platform.	Domenico Cotroneo,Luigi De Simone,Antonio Ken Iannillo,Roberto Natella,Stefano Rosiello,Nematollah Bidokhti	10.1109/ISSRE.2019.00041
+Enhancing Failure Propagation Analysis in Cloud Computing Systems.	Domenico Cotroneo,Luigi De Simone,Pietro Liguori,Roberto Natella,Nematollah Bidokhti	10.1109/ISSRE.2019.00023
+Spotting Problematic Code Lines using Nonintrusive Programmers&apos; Biofeedback.	Ricardo Couceiro,Paulo Carvalho 0001,Miguel Castelo Branco,Henrique Madeira,Raul Barbosa,João Durães,Gonçalo Duarte,João Castelhano,Catarina Duarte,César Alexandre Teixeira,Nuno Laranjeiro,Julio Medeiros	10.1109/ISSRE.2019.00019
+Estimating Return on Investment for GUI Test Automation Frameworks.	Felix Dobslaw,Robert Feldt,David Michaëlsson,Patrick Haar,Francisco Gomes de Oliveira Neto,Richard Torkar	10.1109/ISSRE.2019.00035
+Integrating Safety Certification Into Model-Based Testing of Safety-Critical Systems.	Aiman Gannous,Anneliese Andrews	10.1109/ISSRE.2019.00033
+Symbolic Execution for Importance Analysis and Adversarial Generation in Neural Networks.	Divya Gopinath,Mengshi Zhang,Kaiyuan Wang,Ismet Burak Kadron,Corina S. Pasareanu,Sarfraz Khurshid	10.1109/ISSRE.2019.00039
+Benefits and Challenges of Model-Based Software Engineering: Lessons Learned Based on Qualitative and Quantitative Findings.	Katerina Goseva-Popstojanova,Thomas Kyanko,Noble Nkwocha	10.1109/ISSRE.2019.00048
+How Do Developers Act on Static Analysis Alerts? An Empirical Study of Coverity Usage.	Nasif Imtiaz,Brendan Murphy,Laurie A. Williams	10.1109/ISSRE.2019.00040
+Fuzzing Error Handling Code in Device Drivers Based on Software Fault Injection.	Zu-Ming Jiang,Jia-Ju Bai,Julia Lawall,Shi-Min Hu 0001	10.1109/ISSRE.2019.00022
+Trustworthiness Assessment of Web Applications: Approach and Experimental Study using Input Validation Coding Practices.	Cristiano Inácio Lemes,Vincent Naessens,Marco Vieira	10.1109/ISSRE.2019.00050
+Generic and Robust Localization of Multi-dimensional Root Causes.	Zeyan Li,Dan Pei,Chengyang Luo,Yiwei Zhao,Yongqian Sun,Kaixin Sui,Xiping Wang,Dapeng Liu,Xing Jin,Qi Wang	10.1109/ISSRE.2019.00015
+Engineering a Better Fuzzer with Synergically Integrated Optimizations.	Jie Liang,Yuanliang Chen,Mingzhe Wang,Yu Jiang 0001,Zijiang Yang 0006,Chengnian Sun,Xun Jiao,Jiaguang Sun 0001	10.1109/ISSRE.2019.00018
+How to Explain a Patch: An Empirical Study of Patch Explanations in Open Source Projects.	Jingjing Liang,Yaozong Hou,Shurui Zhou,Junjie Chen 0003,Yingfei Xiong 0001,Gang Huang 0001	10.1109/ISSRE.2019.00016
+FluxRank: A Widely-Deployable Framework to Automatically Localizing Root Cause Machines for Software Service Failure Mitigation.	Ping Liu,Yu Chen,Xiaohui Nie,Jing Zhu,Shenglin Zhang,Kaixin Sui,Ming Zhang,Dan Pei	10.1109/ISSRE.2019.00014
+TamperNN: Efficient Tampering Detection of Deployed Neural Nets.	Erwan Le Merrer,Gilles Trédan	10.1109/ISSRE.2019.00049
+FILO: FIx-LOcus Recommendation for Problems Caused by Android Framework Upgrade.	Marco Mobilio,Oliviero Riganelli,Daniela Micucci,Leonardo Mariani	10.1109/ISSRE.2019.00043
+Charting a Course Through Uncertain Environments: SEA Uses Past Problems to Avoid Future Failures.	Preston Moore,Justin Cappos,Phyllis G. Frankl,Thomas Wies	10.1109/ISSRE.2019.00011
+OpenErrorPro: A New Tool for Stochastic Model-Based Reliability and Resilience Analysis.	Andrey Morozov 0001,Kai Ding 0001,Mikael Steurer,Klaus Janschek	10.1109/ISSRE.2019.00038
+On the Density and Diversity of Degradation Symptoms in Refactored Classes: A Multi-case Study.	Willian Nalepa Oizumi,Leonardo da Silva Sousa,Anderson Oliveira,Luiz Carvalho,Alessandro Garcia 0001,Thelma Elita Colanzi,Roberto Felicio Oliveira 0003	10.1109/ISSRE.2019.00042
+A Tale of Two Injectors: End-to-End Comparison of IR-Level and Assembly-Level Fault Injection.	Lucas Palazzi,Guanpeng Li,Bo Fang,Karthik Pattabiraman	10.1109/ISSRE.2019.00024
+Back to Basics - Redefining Quality Measurement for Hybrid Software Development Organizations.	Satya Pradhan,Venky Nanniyur	10.1109/ISSRE.2019.00047
+A Safety Analysis Method for Perceptual Components in Automated Driving.	Rick Salay,Matt Angus,Krzysztof Czarnecki 0001	10.1109/ISSRE.2019.00013
+Machine Learning and Constraint Solving for Automated Form Testing.	Dionny Santiago,Justin Phillips,Patrick Alt,Brian Muras,Tariq M. King,Peter J. Clarke	10.1109/ISSRE.2019.00030
+Understanding and Improving Regression Test Selection in Continuous Integration.	August Shi,Peiyuan Zhao,Darko Marinov	10.1109/ISSRE.2019.00031
+The Impact of Data Preparation on the Fairness of Software Systems.	Inês Valentim,Nuno Lourenço 0002,Nuno Antunes	10.1109/ISSRE.2019.00046
+Supervised Representation Learning Approach for Cross-Project Aging-Related Bug Prediction.	Xiaohui Wan,Zheng Zheng 0001,Fangyun Qin,Yu Qiao,Kishor S. Trivedi	10.1109/ISSRE.2019.00025
+Test Case Generation Based on Client-Server of Web Applications by Memetic Algorithm.	Weiwei Wang,Xiaohong Guo,Zheng Li 0002,Ruilian Zhao	10.1109/ISSRE.2019.00029
+Textout: Detecting Text-Layout Bugs in Mobile Apps via Visualization-Oriented Learning.	Yaohui Wang,Hui Xu 0009,Yangfan Zhou,Michael R. Lyu,Xin Wang 0002	10.1109/ISSRE.2019.00032
+HiRec: API Recommendation using Hierarchical Context.	Rensong Xie,Xianglong Kong,Lulu Wang 0001,Ying Zhou,Bixin Li	10.1109/ISSRE.2019.00044
+Identifying Crashing Fault Residence Based on Cross Project Model.	Zhou Xu 0003,Tao Zhang 0001,Yifeng Zhang,Yutian Tang,Jin Liu 0016,Xiapu Luo,Jacky Keung,Xiaohui Cui	10.1109/ISSRE.2019.00027
+MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract.	William Zhang,Sebastian Banescu,Leonardo Pasos,Steven T. Stewart,Vijay Ganesh	10.1109/ISSRE.2019.00052
+TripleAgent: Monitoring, Perturbation and Failure-Obliviousness for Automated Resilience Improvement in Java Applications.	Long Zhang,Martin Monperrus	10.1109/ISSRE.2019.00021
+Assessing the Safety and Reliability of Autonomous Vehicles from Road Testing.	Xingyu Zhao 0001,Valentin Robu,David Flynn,Kizito Salako,Lorenzo Strigini	10.1109/ISSRE.2019.00012
+Evaluation of Anomaly Detection Algorithms Made Easy with RELOAD.	Tommaso Zoppi,Andrea Ceccarelli,Andrea Bondavalli	10.1109/ISSRE.2019.00051
+TCD: Statically Detecting Type Confusion Errors in C++ Programs.	Changwei Zou,Yulei Sui,Hua Yan,Jingling Xue	10.1109/ISSRE.2019.00037
+30th IEEE International Symposium on Software Reliability Engineering, ISSRE 2019, Berlin, Germany, October 28-31, 2019	Katinka Wolter,Ina Schieferdecker,Barbara Gallina,Michel Cukier,Roberto Natella,Naghmeh Ramezani Ivaki,Nuno Laranjeiro	

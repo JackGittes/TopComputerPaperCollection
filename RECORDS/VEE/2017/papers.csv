@@ -1,0 +1,19 @@
+Improving Virtualized Storage Performance with Sky.	Leo Prasath Arulraj,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	10.1145/3050748.3050755
+HyperMAMBO-X64: Using Virtualization to Support High-Performance Transparent Binary Translation.	Amanieu D&apos;Antras,Cosmin Gorgovan,Jim D. Garside,John Goodacre,Mikel Luján	10.1145/3050748.3050756
+Dancing with Wolves: Towards Practical Event-driven VMM Monitoring.	Liang Deng,Peng Liu 0005,Jun Xu 0024,Ping Chen 0003,Qingkai Zeng 0002	10.1145/3050748.3050750
+Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds.	Zachary John Estrada,Read Sprabery,Lok K. Yan,Zhongzhi Yu,Roy H. Campbell,Zbigniew T. Kalbarczyk,Ravishankar K. Iyer	10.1145/3050748.3050759
+Just-In-Time GPU Compilation for Interpreted Languages with Partial Evaluation.	Juan José Fumero,Michel Steuwer,Lukas Stadler,Christophe Dubach	10.1145/3050748.3050761
+Catalyst: GPU-assisted rapid memory deduplication in virtualization environments.	Anshuj Garg,Debadatta Mishra,Purushottam Kulkarni	10.1145/3050748.3050760
+Security Analysis of Encrypted Virtual Machines.	Felicitas Hetzelt,Robert Buhren	10.1145/3050748.3050763
+One Process to Reap Them All: Garbage Collection as-a-Service.	Ahmed Hussein,Mathias Payer,Antony L. Hosking,Christopher A. Vick	10.1145/3050748.3050754
+Heterogeneous Managed Runtime Systems: A Computer Vision Case Study.	Christos Kotselidis,James Clarkson,Andrey Rodchenko,Andy Nisbet,John Mawer,Mikel Luján	10.1145/3050748.3050764
+Unikernels Everywhere: The Case for Elastic CDNs.	Simon Kuenzer,Anton Ivanov,Filipe Manco,Jose Mendes,Yuri Volchkov,Florian Schmidt 0002,Kenichi Yasukata,Michio Honda,Felipe Huici	10.1145/3050748.3050757
+Flexible Page-level Memory Access Monitoring Based on Virtualization Hardware.	Kai Lu,Wenzhe Zhang,Xiaoping Wang,Mikel Luján,Andy Nisbet	10.1145/3050748.3050751
+Swift Birth and Quick Death: Enabling Fast Parallel Guest Boot and Destruction in the Xen Hypervisor.	Vlad Nitu,Pierre Olivier,Alain Tchana,Daniel Chiba,Antonio Barbalace,Daniel Hagimont,Binoy Ravindran	10.1145/3050748.3050758
+Safe Inspection of Live Virtual Machines.	Sahil Suneja,Ricardo Koller,Canturk Isci,Eyal de Lara,Ali B. Hashemi,Arnamoy Bhattacharyya,Cristiana Amza	10.1145/3050748.3050766
+ReRanz: A Light-Weight Virtual Machine to Mitigate Memory Disclosure Attacks.	Zhe Wang 0017,Chenggang Wu 0002,Jianjun Li,Yuanming Lai,Xiangyu Zhang 0001,Wei-Chung Hsu,Yueqiang Cheng	10.1145/3050748.3050752
+Content Look-Aside Buffer for Redundancy-Free Virtual Disk I/O and Caching.	Chun Yang,Xianhua Liu 0001,Xu Cheng 0001	10.1145/3050748.3050762
+MigVisor: Accurate Prediction of VM Live Migration Behavior using a Working-Set Pattern Model.	Jinshi Zhang,Eddie Dong,Jian Li 0021,Haibing Guan	10.1145/3050748.3050753
+Designing Locality and NUMA Aware MPI Runtime for Nested Virtualization based HPC Cloud with SR-IOV Enabled InfiniBand.	Jie Zhang 0045,Xiaoyi Lu,Dhabaleswar K. Panda 0001	10.1145/3050748.3050765
+HA-VMSI: A Lightweight Virtual Machine Isolation Approach with Commodity Hardware for ARM.	Min Zhu,Bibo Tu,Wei Wei,Dan Meng	10.1145/3050748.3050767
+Proceedings of the 13th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, VEE 2017, Xi&apos;an, China, April 8-9, 2017		10.1145/3050748

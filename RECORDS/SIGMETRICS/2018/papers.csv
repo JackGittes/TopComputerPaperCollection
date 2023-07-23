@@ -1,0 +1,60 @@
+On a Class of Stochastic Multilayer Networks.	Bo Jiang 0003,Philippe Nain,Don Towsley,Saikat Guha 0001	10.1145/3219617.3219667
+The PDE Method for the Analysis of Randomized Load Balancing Networks.	Reza Aghajani,Xingjie Li,Kavita Ramanan	10.1145/3219617.3219672
+ECI-Cache: A High-Endurance and Cost-Efficient I/O Caching Scheme for Virtualized Platforms.	Saba Ahmadian,Onur Mutlu,Hossein Asadi 0001	10.1145/3219617.3219646
+Censored Demand Estimation in Retail.	Muhammad J. Amjad,Devavrat Shah	10.1145/3219617.3219624
+A Whittle&apos;s Index Based Approach for QoE Optimization in Wireless Networks.	Arjun Anand,Gustavo de Veciana	10.1145/3219617.3219633
+State Dependent Control of Closed Queueing Networks.	Siddhartha Banerjee,Yash Kanoria,Pengyu Qian	10.1145/3219617.3219619
+Towards Optimality in Parallel Job Scheduling.	Benjamin Berg,Jan-Pieter L. Dorsman,Mor Harchol-Balter	10.1145/3219617.3219666
+Practical Bounds on Optimal Caching with Variable Object Sizes.	Daniel S. Berger,Nathan Beckmann,Mor Harchol-Balter	10.1145/3219617.3219627
+Performance of Balanced Fairness in Resource Pools: A Recursive Approach.	Thomas Bonald,Céline Comte,Fabien Mathieu	10.1145/3219617.3219669
+Delay Scaling in Many-Sources Wireless Networks without Queue State Information.	Sem C. Borst,Martin Zubeldia	10.1145/3219617.3219626
+Bootstrapped Graph Diffusions: Exposing the Power of Nonlinearity.	Eliav Buchnik,Edith Cohen	10.1145/3219617.3219621
+A Fine-grained Event-based Modem Power Model for Enabling In-depth Modem Energy Drain Analysis.	Xiaomeng Chen,Jiayi Meng,Y. Charlie Hu,Maruti Gupta,Ralph Hasholzner,Venkatesan Nallampatti Ekambaram,Ashish Singh,Srikathyayani Srikanteswara	10.1145/3219617.3219660
+Distributed Statistical Machine Learning in Adversarial Settings: Byzantine Gradient Descent.	Yudong Chen 0001,Lili Su,Jiaming Xu	10.1145/3219617.3219655
+Steady-state Approximations: Achievement Lecture.	Jim G. Dai	10.1145/3219617.3219618
+On the Convergence Rate of Distributed Gradient Methods for Finite-Sum Optimization under Communication Delays.	Thinh T. Doan 0001,Carolyn L. Beck,R. Srikant 0001	10.1145/3219617.3219654
+Asymptotic Optimal Control of Markov-Modulated Restless Bandits.	Santiago Duran,Ina Maria Verloop	10.1145/3219617.3219636
+Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees.	Giulia Fanti,Shaileshh Bojja Venkatakrishnan,Surya Bakshi,Bradley Denby,Shruti Bhargava,Andrew Miller 0001,Pramod Viswanath	10.1145/3219617.3219620
+Dynamic Proportional Sharing: A Game-Theoretic Approach.	Rupert Freeman,Seyed Majid Zahedi,Vincent Conitzer,Benjamin C. Lee	10.1145/3219617.3219631
+A Refined Mean Field Approximation.	Nicolas Gast,Benny Van Houdt	10.1145/3219617.3219663
+What Your DRAM Power Models Are Not Telling You: Lessons from a Detailed Experimental Study.	Saugata Ghose,Abdullah Giray Yaglikçi,Raghav Gupta,Donghyuk Lee,Kais Kudrolli,William X. Liu,Hasan Hassan,Kevin K. Chang,Niladrish Chatterjee,Aditya Agrawal,Mike O&apos;Connor,Onur Mutlu	10.1145/3219617.3219661
+Diversity in Faculty Recruiting: A WiSE Approach.	Leana Golubchik,Mallory Redel	10.1145/3219617.3219676
+ACM Sigmetrics Performance Evaluation Review: A New Series on Diversity.	Nidhi Hegde 0001	10.1145/3219617.3219675
+On the Power-of-d-choices with Least Loaded Server Selection.	Tim Hellemans,Benny Van Houdt	10.1145/3219617.3219664
+The Cost of Uncertainty in Curing Epidemics.	Jessica Hoffmann,Constantine Caramanis	10.1145/3219617.3219622
+Why Some Like It Loud: Timing Power Attacks in Multi-tenant Data Centers Using an Acoustic Side Channel.	Mohammad A. Islam 0001,Luting Yang,Kiran Ranganath,Shaolei Ren	10.1145/3219617.3219645
+A Quantitative Evaluation of Contemporary GPU Simulation Methodology.	Akshay Jain,Mahmoud Khairy,Timothy G. Rogers	10.1145/3219617.3219658
+Inherent Trade-Offs in Algorithmic Fairness.	Jon M. Kleinberg	10.1145/3219617.3219634
+Network Resilience and the Length-Bounded Multicut Problem: Reaching the Dynamic Billion-Scale with Guarantees.	Alan Kuhnle,Victoria G. Crawford,My T. Thai	10.1145/3219617.3219650
+Minimizing Queue Length Regret Under Adversarial Network Models.	Qingkai Liang,Eytan H. Modiano	10.1145/3219617.3219630
+Improving 3D NAND Flash Memory Lifetime by Tolerating Early Retention Loss and Process Variation.	Yixin Luo,Saugata Ghose,Yu Cai,Erich F. Haratsch,Onur Mutlu	10.1145/3219617.3219659
+Online Learning of Optimally Diverse Rankings.	Stefan Magureanu,Alexandre Proutière,Marcus Isaksson,Boxun Zhang	10.1145/3219617.3219637
+New Metrics and Models for a Post-ISA Era: Managing Complexity and Scaling Performance in Heterogeneous Parallelism and Internet-of-Things.	Margaret Martonosi	10.1145/3219617.3219625
+Asymptotically Optimal Load Balancing Topologies.	Debankur Mukherjee,Sem C. Borst,Johan S. H. van Leeuwaarden	10.1145/3219617.3219674
+Working Set Size Estimation Techniques in Virtualized Environments: One Size Does not Fit All.	Vlad Nitu,Aram Kocharyan,Hannas Yaya,Alain Tchana,Daniel Hagimont,Hrachya V. Astsatryan	10.1145/3219617.3219642
+Intel MPX Explained: A Cross-layer Analysis of the Intel MPX System Stack.	Oleksii Oleksenko,Dmitrii Kuvaiskii,Pramod Bhatotia,Pascal Felber,Christof Fetzer	10.1145/3219617.3219662
+Tomographic Node Placement Strategies and the Impact of the Routing Model.	Yvonne-Anne Pignolet,Stefan Schmid 0001,Gilles Trédan	10.1145/3219617.3219648
+On Non-Preemptive VM Scheduling in the Cloud.	Konstantinos Psychas,Javad Ghaderi	10.1145/3219617.3219644
+The CSI Framework for Compiler-Inserted Program Instrumentation.	Tao B. Schardl,Tyler Denniston,Damon Doucet,Bradley C. Kuszmaul,I-Ting Angelina Lee,Charles E. Leiserson	10.1145/3219617.3219657
+SOAP: One Clean Analysis of All Age-Based Scheduling Policies.	Ziv Scully,Mor Harchol-Balter,Alan Scheller-Wolf	10.1145/3219617.3219632
+The Price of Fragmentation in Mobility-on-Demand Services.	Thibault Séjourné,Samitha Samaranayake,Siddhartha Banerjee	10.1145/3219617.3219623
+Synthesis of Fault-Tolerant Distributed Router Configurations.	Kausik Subramanian,Loris D&apos;Antoni,Aditya Akella	10.1145/3219617.3219652
+Learning Proportionally Fair Allocations with Low Regret.	Mohammad Sadegh Talebi,Alexandre Proutière	10.1145/3219617.3219638
+Supporting Mobile VR in LTE Networks: How Close Are We?	Zhaowei Tan,Yuanjie Li,Qianru Li,Zhehui Zhang,Zhehan Li,Songwu Lu	10.1145/3219617.3219647
+On Resource Pooling and Separation for LRU Caching.	Jian Tan,Guocong Quan,Kaiyi Ji,Ness B. Shroff	10.1145/3219617.3219628
+LTERadar: Towards LTE-Aware Wi-Fi Access Points.	Christina Vlachou,Ioannis Pefkianakis,Kyu-Han Kim	10.1145/3219617.3219649
+Neural Network Meets DCN: Traffic-driven Topology Adaptation with Deep Learning.	Mowei Wang,Yong Cui 0001,Shihan Xiao,Xin Wang 0001,Dan Yang,Kai Chen 0005,Jun Zhu 0001	10.1145/3219617.3219656
+Towards Fast-Convergence, Low-Delay and Low-Complexity Network Optimization.	Sinong Wang,Ness B. Shroff	10.1145/3219617.3219671
+Online Learning in Weakly Coupled Markov Decision Processes: A Convergence Time Study.	Xiaohan Wei,Hao Yu 0002,Michael J. Neely	10.1145/3219617.3219640
+Reinforcement with Fading Memories.	Kuang Xu,Se-Young Yun	10.1145/3219617.3219653
+An Optimal Algorithm for Online Non-Convex Learning.	Lin Yang,Lei Deng 0001,Mohammad Hassan Hajiesmaili,Cheng Tan 0001,Wing Shing Wong	10.1145/3219617.3219635
+Safe Randomized Load-Balanced Switching by Diffusing Extra Loads.	Sen Yang 0001,Bill Lin 0001,Jun Xu 0014	10.1145/3219617.3219673
+An Optimal Randomized Online Algorithm for QoS Buffer Management.	Lin Yang,Wing Shing Wong,Mohammad Hassan Hajiesmaili	10.1145/3219617.3219629
+Predictive Impact Analysis for Designing a Resilient Cellular Backhaul Network.	Sen Yang 0001,He Yan,Zihui Ge,Dongmei Wang,Jun Xu 0014	10.1145/3219617.3219651
+Multi-armed Bandit with Additional Observations.	Donggyu Yun,Sumyeong Ahn,Alexandre Proutière,Jinwoo Shin,Yung Yi	10.1145/3219617.3219639
+Fork and Join Queueing Networks with Heavy Tails: Scaling Dimension and Throughput Limit.	Yun Zeng,Jian Tan,Cathy Honghui Xia	10.1145/3219617.3219668
+PreFix: Switch Failure Prediction in Datacenter Networks.	Shenglin Zhang,Ying Liu 0024,Weibin Meng,Zhiling Luo,Jiahao Bu,Sen Yang 0001,Peixian Liang,Dan Pei,Jun Xu 0014,Yuzhi Zhang,Yu Chen,Hui Dong,Xianping Qu,Lei Song	10.1145/3219617.3219643
+Hound: Causal Learning for Datacenter-scale Straggler Diagnosis.	Pengfei Zheng,Benjamin C. Lee	10.1145/3219617.3219641
+Degree of Queue Imbalance: Overcoming the Limitation of Heavy-traffic Delay Optimality in Load Balancing Systems.	Xingyu Zhou 0001,Fei Wu 0008,Jian Tan,Kannan Srinivasan 0001,Ness B. Shroff	10.1145/3219617.3219665
+Designing Low-Complexity Heavy-Traffic Delay-Optimal Load Balancing Schemes: Theory to Algorithms.	Xingyu Zhou 0001,Fei Wu 0008,Jian Tan,Yin Sun,Ness B. Shroff	10.1145/3219617.3219670
+Abstracts of the 2018 ACM International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2018, Irvine, CA, USA, June 18-22, 2018	Konstantinos Psounis,Aditya Akella,Adam Wierman	10.1145/3219617

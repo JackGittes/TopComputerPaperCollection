@@ -1,0 +1,32 @@
+What&apos;s the Optimal Performance of Precise Dynamic Race Detection? - A Redundancy Perspective.	Jeff Huang 0001,Arun K. Rajagopalan	10.4230/LIPICS.ECOOP.2017.15
+Parallelizing Julia with a Non-Invasive DSL.	Todd A. Anderson 0001,Hai Liu 0012,Lindsey Kuper,Ehsan Totoni,Jan Vitek,Tatiana Shpeisman	10.4230/LIPICS.ECOOP.2017.4
+Modelling Homogeneous Generative Meta-Programming.	Martin Berger 0001,Laurence Tratt,Christian Urban	10.4230/LIPICS.ECOOP.2017.5
+Composing Software in an Age of Dissonance (Invited Talk).	Gilad Bracha	10.4230/LIPICS.ECOOP.2017.2
+Relaxed Linear References for Lock-free Data Structures.	Elias Castegren,Tobias Wrigstad	10.4230/LIPICS.ECOOP.2017.6
+Type Abstraction for Relaxed Noninterference.	Raimil Cruz,Tamara Rezk,Bernard P. Serpette,Éric Tanter	10.4230/LIPICS.ECOOP.2017.7
+Concurrent Data Structures Linked in Time.	Germán Andrés Delbianco,Ilya Sergey,Aleksandar Nanevski,Anindya Banerjee 0001	10.4230/LIPICS.ECOOP.2017.8
+Evil Pickles: DoS Attacks Based on Object-Graph Engineering.	Jens Dietrich 0001,Kamil Jezek,Shawn Rasheed,Amjed Tahir,Alex Potanin	10.4230/LIPICS.ECOOP.2017.10
+Contracts in the Wild: A Study of Java Programs.	Jens Dietrich 0001,David J. Pearce 0001,Kamil Jezek,Premek Brada	10.4230/LIPICS.ECOOP.2017.9
+Mixing Metaphors: Actors as Channels and Channels as Actors.	Simon Fowler 0001,Sam Lindley,Philip Wadler	10.4230/LIPICS.ECOOP.2017.11
+muPuppet: A Declarative Subset of the Puppet Configuration Language.	Weili Fu,Roly Perera,Paul Anderson 0003,James Cheney	10.4230/LIPICS.ECOOP.2017.12
+A Generic Approach to Flow-Sensitive Polymorphic Effects.	Colin S. Gordon	10.4230/LIPICS.ECOOP.2017.13
+IceDust 2: Derived Bidirectional Relations and Calculation Strategy Composition.	Daco Harkes,Eelco Visser	10.4230/LIPICS.ECOOP.2017.14
+Speeding Up Maximal Causality Reduction with Static Dependency Analysis.	Shiyou Huang,Jeff Huang 0001	10.4230/LIPICS.ECOOP.2017.16
+Strong Logic for Weak Memory: Reasoning About Release-Acquire Consistency in Iris.	Jan-Oliver Kaiser,Hoang-Hai Dang,Derek Dreyer,Ori Lahav,Viktor Vafeiadis	10.4230/LIPICS.ECOOP.2017.17
+A Co-contextual Type Checker for Featherweight Java .	Edlira Kuci,Sebastian Erdweg,Oliver Bracevac,Andi Bejleri,Mira Mezini	10.4230/LIPICS.ECOOP.2017.18
+Proactive Synthesis of Recursive Tree-to-String Functions from Examples.	Mikaël Mayer,Jad Hamza,Viktor Kuncak	10.4230/LIPICS.ECOOP.2017.19
+A Capability-Based Module System for Authority Control.	Darya Melicher,Yangqingwei Shi,Alex Potanin,Jonathan Aldrich	10.4230/LIPICS.ECOOP.2017.20
+Data Exploration through Dot-driven Development.	Tomas Petricek 0001	10.4230/LIPICS.ECOOP.2017.21
+Promising Compilation to ARMv8 POP.	Anton Podkopaev,Ori Lahav,Viktor Vafeiadis	10.4230/LIPICS.ECOOP.2017.22
+Interprocedural Specialization of Higher-Order Dynamic Languages Without Static Analysis.	Baptiste Saleil,Marc Feeley	10.4230/LIPICS.ECOOP.2017.23
+A Linear Decomposition of Multiparty Sessions for Safe Distributed Programming.	Alceste Scalas,Ornela Dardha,Raymond Hu,Nobuko Yoshida	10.4230/LIPICS.ECOOP.2017.24
+Challenges to Achieving High Availability at Scale (Invited Talk).	Wolfram Schulte	10.4230/LIPICS.ECOOP.2017.1
+Mailbox Abstractions for Static Analysis of Actor Programs.	Quentin Stiévenart,Jens Nicolay,Wolfgang De Meuter,Coen De Roover	10.4230/LIPICS.ECOOP.2017.25
+Retargeting Gradual Typing (Invited Talk).	Ross Tate	10.4230/LIPICS.ECOOP.2017.3
+Compiling Tree Transforms to Operate on Packed Representations.	Michael Vollmer 0003,Sarah Spall,Buddhika Chamith,Laith Sakka,Chaitanya Koparkar,Milind Kulkarni 0001,Sam Tobin-Hochstadt,Ryan Newton	10.4230/LIPICS.ECOOP.2017.26
+Towards Strong Normalization for Dependent Object Types (DOT).	Fei Wang 0046,Tiark Rompf	10.4230/LIPICS.ECOOP.2017.27
+Mixed Messages: Measuring Conformance and Non-Interference in TypeScript.	Jack Williams 0001,J. Garrett Morris,Philip Wadler,Jakub Zalewski	10.4230/LIPICS.ECOOP.2017.28
+Front Matter, Table of Contents, Foreword, Conference Organization, External Reviewers, Authors.		10.4230/LIPICS.ECOOP.2017.0
+EVF: An Extensible and Expressive Visitor Framework for Programming Language Reuse.	Weixin Zhang,Bruno C. d. S. Oliveira	10.4230/LIPICS.ECOOP.2017.29
+An Empirical Study on Deoptimization in the Graal Compiler.	Yudi Zheng,Lubomír Bulej,Walter Binder	10.4230/LIPICS.ECOOP.2017.30
+31st European Conference on Object-Oriented Programming, ECOOP 2017, June 19-23, 2017, Barcelona, Spain	Peter Müller 0001	

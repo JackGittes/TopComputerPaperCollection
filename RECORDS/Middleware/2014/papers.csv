@@ -1,0 +1,28 @@
+G-DUR: a middleware for assembling, analyzing, and improving transactional protocols.	Masoud Saeida Ardekani,Pierre Sutra,Marc Shapiro 0001	10.1145/2663165.2663336
+LVD: lean virtual disks.	Gaurab Basu,Shripad Nadgowda,Akshat Verma	10.1145/2663165.2663322
+Building global and scalable systems with atomic multicast.	Samuel Benz,Parisa Jalili Marandi,Fernando Pedone,Benoît Garbinato	10.1145/2663165.2663323
+Slider: incremental sliding window analytics.	Pramod Bhatotia,Umut A. Acar,Flavio Paiva Junqueira,Rodrigo Rodrigues 0001	10.1145/2663165.2663334
+HyRec: leveraging browsers for scalable recommenders.	Antoine Boutet,Davide Frey,Rachid Guerraoui,Anne-Marie Kermarrec,Rhicheek Patra	10.1145/2663165.2663315
+Publish/subscribe network designs for multiplayer games.	César Cañas,Kaiwen Zhang 0001,Bettina Kemme,Jörg Kienzle,Hans-Arno Jacobsen	10.1145/2663165.2663337
+Improving MapReduce performance in heterogeneous environments with adaptive task tuning.	Dazhao Cheng,Jia Rao,Yanfei Guo,Xiaobo Zhou 0002	10.1145/2663165.2666089
+Fast, expressive top-k matching.	William Culhane,K. R. Jayaram,Patrick Eugster	10.1145/2663165.2663326
+Consensus inside.	Tudor David,Rachid Guerraoui,Maysam Yabandeh	10.1145/2663165.2663321
+A framework for the dynamic evolution of highly-available dataflow programs.	Sebastian Ertel,Pascal Felber	10.1145/2663165.2663320
+Stage-aware anomaly detection through tracking log points.	Saeed Ghanbari,Ali B. Hashemi,Cristiana Amza	10.1145/2663165.2663319
+CAMP: a cost adaptive multi-queue eviction policy for key-value stores.	Shahram Ghandeharizadeh,Sandy Irani,Jenny Lam,Jason Yap	10.1145/2663165.2663317
+Strong consistency in cache augmented SQL systems.	Shahram Ghandeharizadeh,Jason Yap,Hieu Nguyen	10.1145/2663165.2663318
+Mutable checkpoint-restart: automating live update for generic server programs.	Cristiano Giuffrida,Calin Iorgulescu,Andrew S. Tanenbaum	10.1145/2663165.2663328
+Thematic event processing.	Souleiman Hasan,Edward Curry	10.1145/2663165.2663335
+Archie: a speculative replicated transactional system.	Sachin Hirve,Roberto Palmieri,Binoy Ravindran	10.1145/2663165.2666090
+Trustworthy geographically fenced hybrid clouds.	K. R. Jayaram,David Safford,Upendra Sharma,Vijay K. Naik,Dimitrios E. Pendarakis,Shu Tao	10.1145/2663165.2666091
+SOUP: an online social network by the people, for the people.	David Koll,Jun Li 0001,Xiaoming Fu 0001	10.1145/2663165.2663324
+StackSync: bringing elasticity to dropbox-like file synchronization.	Pedro García López,Marc Sánchez Artigas,Sergi Toda,Cristian Cotes,John Lenton	10.1145/2663165.2663332
+Mitigating interference in cloud services by middleware reconfiguration.	Amiya Kumar Maji,Subrata Mitra,Bowen Zhou,Saurabh Bagchi,Akshat Verma	10.1145/2663165.2663330
+SenSocial: a middleware for integrating online social networks and mobile sensing data streams.	Abhinav Mehrotra,Veljko Pejovic,Mirco Musolesi	10.1145/2663165.2663331
+Tiera: towards flexible multi-tiered cloud storage instances.	Ajaykrishna Raghavan,Abhishek Chandra,Jon B. Weissman	10.1145/2663165.2663333
+Stay-Away, protecting sensitive applications from performance interference.	Navaneeth Rameshan,Leandro Navarro 0001,Enric Monte,Vladimir Vlassov	10.1145/2663165.2663327
+Affinity-aware checkpoint restart.	Ajay Saini,Arash Rezaei,Frank Mueller 0001,Paul Hargrove,Eric Roman	10.1145/2663165.2663325
+PLEROMA: a SDN-based high performance publish/subscribe middleware.	Muhammad Adnan Tariq,Boris Koldehofe,Sukanya Bhowmik,Kurt Rothermel	10.1145/2663165.2663338
+Virtual machine consolidation in the wild.	Akshat Verma,Juhi Bagrodia,Vimmi Jaiswal	10.1145/2663165.2663316
+CrowdWiFi: efficient crowdsensing of roadside WiFi networks.	Di Wu 0002,Qiang Liu,Yuan Zhang,Julie A. McCann,Amelia Regan,Nalini Venkatasubramanian	10.1145/2663165.2663329
+Proceedings of the 15th International Middleware Conference, Bordeaux, France, December 8-12, 2014	Laurent Réveillère,Lucy Cherkasova,François Taïani	

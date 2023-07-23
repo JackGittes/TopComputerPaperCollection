@@ -1,0 +1,43 @@
+Accelerating relax-ordered task-parallel workloads using multi-level dependency checking.	Masab Ahmad,Mohsin Shan,Akif Rehman,Omer Khan	10.1145/3392717.3392758
+SB-Fetch: synchronization aware hardware prefetching for chip multiprocessors.	Laith M. AlBarakat,Paul V. Gratz,Daniel A. Jiménez	10.1145/3392717.3392735
+Global link arrangement for practical Dragonfly.	Zaid Salamah A. Alzaid,Saptarshi Bhowmik,Xin Yuan 0001,Michael Lang 0003	10.1145/3392717.3392756
+Fast, accurate, and scalable memory modeling of GPGPUs using reuse profiles.	Yehia Arafa,Abdel-Hameed A. Badawy,Gopinath Chennupati,Atanu Barai,Nandakishore Santhi,Stephan J. Eidenbenz	10.1145/3392717.3392761
+Modeling and optimizing NUMA effects and prefetching with machine learning.	Isaac Sánchez Barrera,David Black-Schaffer,Marc Casas,Miquel Moretó,Anastasiia Stupnikova,Mihail Popov	10.1145/3392717.3392765
+A scalable framework for solving fractional diffusion equations.	Max Carlson,Robert M. Kirby,Hari Sundar	10.1145/3392717.3392769
+Mapping and scheduling HPC applications for optimizing I/O.	Jesús Carretero 0001,Emmanuel Jeannot,Guillaume Pallez,David E. Singh,Nicolas Vidal	10.1145/3392717.3392764
+AMOEBA: a coarse grained reconfigurable architecture for dynamic GPU scaling.	Xianwei Cheng,Hui Zhao 0013,Mahmut T. Kandemir,Beilei Jiang,Gayatri Mehta	10.1145/3392717.3392738
+End-to-end performance modeling of distributed GPU applications.	Jaemin Choi,David F. Richards,Laxmikant V. Kalé,Abhinav Bhatele	10.1145/3392717.3392737
+NV-group: link-efficient reduction for distributed deep learning on modern dense GPU systems.	Ching-Hsiang Chu,Pouya Kousha,Ammar Ahmad Awan,Kawthar Shafie Khorassani,Hari Subramoni,Dhabaleswar K. D. K. Panda	10.1145/3392717.3392771
+Compiler aided checkpointing using crash-consistent data structures in NVMM systems.	Tyler Coy,Shuibing He,Bin Ren,Xuechen Zhang	10.1145/3392717.3392755
+RICH: implementing reductions in the cache hierarchy.	Vladimir Dimic,Miquel Moretó,Marc Casas,Jan Ciesko,Mateo Valero	10.1145/3392717.3392736
+A coordinate-oblivious index for high-dimensional distance similarity searches on the GPU.	Brian Donnelly,Michael Gowanlock	10.1145/3392717.3392768
+Post-moore server architecture.	Babak Falsafi	10.1145/3392717.3400033
+Leveraging intra-page update diversity for mitigating write amplification in SSDs.	Imran Fareed,Mincheol Kang,Wonyoung Lee 0001,Soontae Kim	10.1145/3392717.3392767
+Sparse-TPU: adapting systolic arrays for sparse matrices.	Xin He,Subhankar Pal,Aporva Amarnath,Siying Feng,Dong-Hyeon Park,Austin Rovinski,Haojie Ye,Kuan-Yu Chen,Ronald G. Dreslinski,Trevor N. Mudge	10.1145/3392717.3392751
+Snug: architectural support for relaxed concurrent priority queueing in chip multiprocessors.	Azin Heidarshenas,Tanmay Gangwani,Serif Yesil,Adam Morrison 0001,Josep Torrellas	10.1145/3392717.3392740
+V-Combiner: speeding-up iterative graph processing on a shared-memory platform with vertex merging.	Azin Heidarshenas,Serif Yesil,Dimitrios Skarlatos 0002,Sasa Misailovic,Adam Morrison 0001,Josep Torrellas	10.1145/3392717.3392739
+Parallelizing pruned landmark labeling: dealing with dependencies in graph algorithms.	Ruoming Jin,Zhen Peng,Wendell Wu,Feodor F. Dragan,Gagan Agrawal,Bin Ren	10.1145/3392717.3392745
+Bundlefly: a low-diameter topology for multicore fiber.	Fei Lei,Dezun Dong,Xiangke Liao,José Duato	10.1145/3392717.3392747
+MKPipe: a compiler framework for optimizing multi-kernel workloads in OpenCL for FPGA.	Ji Liu 0007,Abdullah-Al Kafi,Xipeng Shen,Huiyang Zhou	10.1145/3392717.3392757
+Characterization and identification of HPC applications at leadership computing facility.	Zhengchun Liu,Ryan Lewis,Rajkumar Kettimuthu,Kevin Harms,Philip H. Carns,Nageswara S. V. Rao,Ian T. Foster,Michael E. Papka	10.1145/3392717.3392774
+Fast distributed bandits for online recommendation systems.	Kanak Mahadik,Qingyun Wu,Shuai Li 0011,Amit Sabne	10.1145/3392717.3392748
+AutoParBench: a unified test framework for OpenMP-based parallelizers.	Gleison Souza Diniz Mendonca,Chunhua Liao,Fernando Magno Quintão Pereira	10.1145/3392717.3392744
+cuRipples: influence maximization on multi-GPU systems.	Marco Minutoli,Maurizio Drocco,Mahantesh Halappanavar,Antonino Tumeo,Ananth Kalyanaraman	10.1145/3392717.3392750
+CFDNet: a deep learning-based accelerator for fluid simulations.	Octavi Obiols-Sales,Abhinav Vishnu,Nicholas Malaya,Aparna Chandramowlishwaran	10.1145/3392717.3392772
+Chunking loops with non-uniform workloads.	Indu K. Prabhu,V. Krishna Nandivada	10.1145/3392717.3392763
+Wavefront parallelization of recurrent neural networks on multi-core architectures.	Robin Kumar Sharma,Marc Casas	10.1145/3392717.3392762
+CSB-RNN: a faster-than-realtime RNN acceleration framework with compressed structured blocks.	Runbin Shi,Peiyan Dong,Tong Geng,Yuhao Ding,Xiaolong Ma,Hayden Kwok-Hay So,Martin C. Herbordt,Ang Li 0006,Yanzhi Wang	10.1145/3392717.3392749
+Efficient parallel algorithms for betweenness- and closeness-centrality in dynamic graphs.	Kshitij Shukla,Sai Charan Regunta,Sai Harsh Tondomker,Kishore Kothapalli	10.1145/3392717.3392743
+BurstZ: a bandwidth-efficient scientific computing accelerator platform for large-scale data.	Gongjin Sun,Seongyoung Kang,Sang-Woo Jun	10.1145/3392717.3392746
+What every scientific programmer should know about compiler optimizations?	Jialiang Tan,Shuyin Jiao,Milind Chabbi,Xu Liu 0001	10.1145/3392717.3392754
+Fuzzy fairness controller for NVMe SSDs.	Shivani Tripathy,Debiprasanna Sahoo,Manoranjan Satpathy,Madhu Mutyam	10.1145/3392717.3392766
+Graptor: efficient pull and push style vectorized graph processing.	Hans Vandierendonck	10.1145/3392717.3392753
+CodeSeer: input-dependent code variants selection via machine learning.	Tao Wang 0077,Nikhil Jain,David Böhme,David Beckingsale,Frank Mueller 0001,Todd Gamblin	10.1145/3392717.3392741
+Identifying and (automatically) remedying performance problems in CPU/GPU applications.	Benjamin Welton,Barton P. Miller	10.1145/3392717.3392759
+Ouroboros: virtualized queues for dynamic memory management on GPUs.	Martin Winter,Daniel Mlakar,Mathias Parger,Markus Steinberger	10.1145/3392717.3392742
+Optimizing supercompilers for supercomputers.	Michael Wolfe	10.1145/3392717.3400034
+Tuning applications for efficient GPU offloading to in-memory processing.	Yudong Wu,Mingyao Shen,Yi-Hui Chen,Yuanyuan Zhou 0001	10.1145/3392717.3392760
+How I learned to stop worrying about user-visible endpoints and love MPI.	Rohit Zambre,Aparna Chandramowlishwaran,Pavan Balaji	10.1145/3392717.3392773
+TensorSVM: accelerating kernel machines with tensor engine.	Shaoshuai Zhang,Ruchi Shah,Panruo Wu	10.1145/3392717.3392770
+Tools for top-down performance analysis of GPU-accelerated applications.	Keren Zhou 0001,Mark W. Krentel,John M. Mellor-Crummey	10.1145/3392717.3392752
+ICS &apos;20: 2020 International Conference on Supercomputing, Barcelona Spain, June, 2020	Eduard Ayguadé,Wen-mei W. Hwu,Rosa M. Badia,H. Peter Hofstee	10.1145/3392717

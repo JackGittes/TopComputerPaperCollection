@@ -1,0 +1,46 @@
+Work-stealing with configurable scheduling strategies.	Martin Wimmer 0003	10.1145/2442516.2442562
+Scheduling parallel programs by work stealing with private deques.	Umut A. Acar	10.1145/2442516.2442538
+Programming with hardware lock elision.	Yehuda Afek	10.1145/2442516.2442552
+From relational verification to SIMD loop synthesis.	Gilles Barthe	10.1145/2442516.2442529
+Data-only flattening for nested data parallelism.	Lars Bergstrom	10.1145/2442516.2442525
+TigerQuoll: parallel event-based JavaScript.	Daniele Bonetta	10.1145/2442516.2442541
+TeamWork: synchronizing threads globally to detect real deadlocks for multithreaded programs.	Yan Cai 0001	10.1145/2442516.2442560
+NUMA-aware reader-writer locks.	Irina Calciu	10.1145/2442516.2442532
+Runtime elision of transactional barriers for captured memory.	Fernando Miguel Carvalho	10.1145/2442516.2442556
+ZOOMM: a parallel web browser engine for multicore mobile devices.	Calin Cascaval	10.1145/2442516.2442543
+Online-ABFT: an online algorithm based fault tolerance scheme for soft error detection in iterative methods.	Zizhong Chen	10.1145/2442516.2442533
+Scalable deterministic replay in a parallel full-system emulator.	Yufei Chen 0005	10.1145/2442516.2442537
+Parallel suffix array and least common prefix for the GPU.	Mrinal Deo	10.1145/2442516.2442536
+Relational algorithms for multi-bulk-synchronous processors.	Gregory Frederick Diamos	10.1145/2442516.2442555
+Using hardware transactional memory to correct and simplify and readers-writer lock algorithm.	Dave Dice	10.1145/2442516.2442542
+Scalable statistics counters.	Dave Dice	10.1145/2442516.2442558
+Towards an energy estimator for fault tolerance protocols.	Mohammed el Mehdi Diouri	10.1145/2442516.2442561
+Expressing graph algorithms using generalized active messages.	Nick Edmonds	10.1145/2442516.2442549
+Ownership passing: efficient distributed memory programming on multi-core systems.	Andrew Friedley	10.1145/2442516.2442534
+Automatic problem size sensitive task partitioning on heterogeneous parallel systems.	Ivan Grasso	10.1145/2442516.2442545
+The tasks with effects model for safe concurrency.	Stephen Heumann	10.1145/2442516.2442540
+Correct and efficient work-stealing for weak memory models.	Nhat Minh Lê	10.1145/2442516.2442524
+Adoption protocols for fanout-optimal fault-tolerant termination detection.	Jonathan Lifflander	10.1145/2442516.2442519
+Data layout optimization for GPGPU architectures.	Jun Liu 0008	10.1145/2442516.2442546
+Multi-level parallel computing of reverse time migration for seismic imaging on blue Gene/Q.	Ligang Lu	10.1145/2442516.2442550
+RaceFree: an efficient multi-threading model for determinism.	Kai Lu	10.1145/2442516.2442553
+Parallel schedule synthesis for attribute grammars.	Leo A. Meyerovich	10.1145/2442516.2442535
+Distributed merge trees.	Dmitriy Morozov	10.1145/2442516.2442526
+Fast concurrent queues for x86 processors.	Adam Morrison 0001	10.1145/2442516.2442527
+Morph algorithms on GPUs.	Rupesh Nasre	10.1145/2442516.2442531
+Decomposition techniques for optimal design-space exploration of streaming applications.	Shobana Padmanabhan	10.1145/2442516.2442547
+Scalable data race detection for partitioned global address space programs.	Chang-Seo Park	10.1145/2442516.2442557
+Parallel programming with big operators.	Changhee Park	10.1145/2442516.2442551
+Betweenness centrality: algorithms and implementations.	Dimitrios Prountzos	10.1145/2442516.2442521
+Ligra: a lightweight graph processing framework for shared memory.	Julian Shun	10.1145/2442516.2442530
+Reducing contention through priority updates.	Julian Shun	10.1145/2442516.2442554
+FastLane: improving performance of software transactional memory for low thread counts.	Jons-Tobias Wamhoff	10.1145/2442516.2442528
+Swift/T: scalable data flow programming for many-task applications.	Justin M. Wozniak	10.1145/2442516.2442559
+Complexity analysis and algorithm design for reorganizing data to minimize non-coalesced memory accesses on GPU.	Bo Wu 0002	10.1145/2442516.2442523
+Compiler aided manual speculation for high performance concurrent data structures.	Lingxiang Xiang	10.1145/2442516.2442522
+StreamScan: fast scan algorithms for GPUs without global barrier synchronization.	Shengen Yan	10.1145/2442516.2442539
+A peta-scalable CPU-GPU algorithm for global atmospheric simulations.	Chao Yang 0002	10.1145/2442516.2442518
+Exploring different automata representations for efficient regular expression matching on GPUs.	Xiaodong Yu	10.1145/2442516.2442548
+Array dataflow analysis for polyhedral X10 programs.	Tomofumi Yuki	10.1145/2442516.2442520
+WuKong: effective diagnosis of bugs at large system scales.	Bowen Zhou	10.1145/2442516.2442563
+ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP &apos;13, Shenzhen, China, February 23-27, 2013	Alex Nicolau	10.1145/2442516

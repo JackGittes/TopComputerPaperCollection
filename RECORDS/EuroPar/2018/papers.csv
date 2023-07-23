@@ -1,0 +1,58 @@
+Minimizing Network Traffic for Distributed Joins Using Lightweight Locality-Aware Scheduling.	Long Cheng 0003,John Murphy 0001,Qingzhi Liu,Chunliang Hao,Georgios Theodoropoulos 0001	10.1007/978-3-319-96983-1_21
+SharP Unified Memory Allocator: An Intent-Based Memory Allocator for Extreme-Scale Systems.	Ferrol Aderholdt,Manjunath Gorentla Venkata,Zachary W. Parchman	10.1007/978-3-319-96983-1_38
+Exploiting Data Sparsity for Large-Scale Matrix Computations.	Kadir Akbudak,Hatem Ltaief,Aleksandr Mikhalev,Ali Charara 0001,Aniello Esposito,David E. Keyes	10.1007/978-3-319-96983-1_51
+High-Quality Shared-Memory Graph Partitioning.	Yaroslav Akhremtsev,Peter Sanders 0001,Christian Schulz 0003	10.1007/978-3-319-96983-1_47
+Global-Local View: Scalable Consistency for Concurrent Data Types.	Deepthi Devaki Akkoorath,José Brandão 0001,Annette Bieniusa,Carlos Baquero	10.1007/978-3-319-96983-1_35
+Hybrid Parallelization and Performance Optimization of the FLEUR Code: New Possibilities for All-Electron Density Functional Theory.	Uliana Alekseeva,Gregor Michalicek,Daniel Wortmann,Stefan Blügel	10.1007/978-3-319-96983-1_52
+Taxonomist: Application Detection Through Rich Monitoring Data.	Emre Ates,Ozan Tuncer,Ata Turk,Vitus J. Leung,Jim M. Brandt,Manuel Egele,Ayse K. Coskun	10.1007/978-3-319-96983-1_7
+VIoLET: A Large-Scale Virtual Environment for Internet of Things.	Shreyas Badiger,Shrey Baheti,Yogesh Simmhan	10.1007/978-3-319-96983-1_22
+Characterization of Smartphone Governor Strategies.	Sarbartha Banerjee,Lizy Kurian John	10.1007/978-3-319-96983-1_9
+Efficient Strict-Binning Particle-in-Cell Algorithm for Multi-core SIMD Processors.	Yann Barsamian,Arthur Charguéraud,Sever A. Hirstoaga,Michel Mehrenberger	10.1007/978-3-319-96983-1_53
+Resource-Efficient Execution of Conditional Parallel Real-Time Tasks.	Sanjoy K. Baruah	10.1007/978-3-319-96983-1_16
+Improving Cloud Simulation Using the Monte-Carlo Method.	Luke Bertot,Stéphane Genaud,Julien Gossa	10.1007/978-3-319-96983-1_29
+Interference-Aware Scheduling Using Geometric Constraints.	Raphaël Bleuse,Konstantinos Dogeas,Giorgio Lucarelli,Grégory Mounié,Denis Trystram	10.1007/978-3-319-96983-1_15
+Efficient Load Balancing Techniques for Graph Traversal Applications on GPUs.	Federico Busato,Nicola Bombieri	10.1007/978-3-319-96983-1_45
+Bulk: A Modern C++ Interface for Bulk-Synchronous Parallel Programs.	Jan-Willem Buurlage,Tom Bannink,Rob H. Bisseling	10.1007/978-3-319-96983-1_37
+Improving GPU Cache Hierarchy Performance with a Fetch and Replacement Cache.	Francisco Candel,Salvador Petit,Alejandro Valero,Julio Sahuquillo	10.1007/978-3-319-96983-1_17
+Online Scheduling of Task Graphs on Hybrid Platforms.	Louis-Claude Canon,Loris Marchal,Bertrand Simon,Frédéric Vivien	10.1007/978-3-319-96983-1_14
+IT Optimization for Datacenters Under Renewable Power Constraint.	Stéphane Caux,Paul Renaud-Goud,Gustavo Rostirolla,Patricia Stolf	10.1007/978-3-319-96983-1_24
+Improved Distributed Algorithm for Graph Truss Decomposition.	Venkatesan T. Chakaravarthy,Aashish Goyal,Prakash Murali,Shivmaran S. Pandian,Yogish Sabharwal	10.1007/978-3-319-96983-1_50
+Tile Low-Rank GEMM Using Batched Operations on GPUs.	Ali Charara 0001,David E. Keyes,Hatem Ltaief	10.1007/978-3-319-96983-1_57
+OpenABL: A Domain-Specific Language for Parallel and Distributed Agent-Based Simulations.	Biagio Cosenza,Nikita Popov,Ben H. H. Juurlink,Paul Richmond,Mozhgan Kabiri Chimeh,Carmine Spagnuolo,Gennaro Cordasco,Vittorio Scarano	10.1007/978-3-319-96983-1_36
+One-Sided Communications for More Efficient Parallel State Space Exploration over RDMA Clusters.	Camille Coti,Sami Evangelista,Laure Petrucci	10.1007/978-3-319-96983-1_31
+Robust Decentralized Mean Estimation with Limited Communication.	Gábor Danner,Márk Jelasity	10.1007/978-3-319-96983-1_32
+Dynamic Placement of Progress Thread for Overlapping MPI Non-blocking Collectives on Manycore Processor.	Alexandre Denis 0001,Julien Jaeger,Emmanuel Jeannot,Marc Pérache,Hugo Taboada	10.1007/978-3-319-96983-1_44
+Automatic Detection of Synchronization Errors in Codes that Target the Open Community Runtime.	Jirí Dokulil,Jana Katreniaková	10.1007/978-3-319-96983-1_1
+Stream Processing on Hybrid CPU/Intel® Xeon Phi™ Systems.	Paulo Ferrão,Hélder Marques,Hervé Paulino	10.1007/978-3-319-96983-1_56
+Multi-granularity Locking in Hierarchies with Synergistic Hierarchical and Fine-Grained Locks.	K. Ganesh,Saurabh Kalikar,Rupesh Nasre	10.1007/978-3-319-96983-1_39
+Snapshot-Based Synchronization: A Fast Replacement for Hand-over-Hand Locking.	Eran Gilad,Trevor Brown 0001,Mark Oskin,Yoav Etsion	10.1007/978-3-319-96983-1_33
+Abelian: A Compiler for Graph Analytics on Distributed, Heterogeneous Platforms.	Gurbinder Gill,Roshan Dathathri,Loc Hoang,Andrew Lenharth,Keshav Pingali	10.1007/978-3-319-96983-1_18
+Combinatorial Auction Algorithm Selection for Cloud Resource Allocation Using Machine Learning.	Diana Gudu,Marcus Hardt,Achim Streit	10.1007/978-3-319-96983-1_27
+Distributed Graph Clustering Using Modularity and Map Equation.	Michael Hamann,Ben Strasser,Dorothea Wagner,Tim Zeitz	10.1007/978-3-319-96983-1_49
+ECSched: Efficient Container Scheduling on Heterogeneous Clusters.	Yang Hu 0013,Huan Zhou 0006,Cees de Laat,Zhiming Zhao	10.1007/978-3-319-96983-1_26
+CEML: a Coordinated Runtime System for Efficient Machine Learning on Heterogeneous Computing Systems.	Jihoon Hyun,Jinsu Park,Kyu Yeun Kim,Seongdae Yu,Woongki Baek	10.1007/978-3-319-96983-1_55
+Combined Vertical and Horizontal Autoscaling Through Model Predictive Control.	Emilio Incerto,Mirco Tribastone,Catia Trubiani	10.1007/978-3-319-96983-1_11
+Reducing GPU Register File Energy.	Vishwesh Jatala,Jayvant Anantpur,Amey Karkare	10.1007/978-3-319-96983-1_6
+GPU Provisioning: The 80 - 20 80 - 20 Rule.	Eleni Kanellou,Nikolaos Chrysos,Stelios Mavridis,Yannis Sfakianakis,Angelos Bilas	10.1007/978-3-319-96983-1_25
+Nobody Cares if You Liked Star Wars: KNN Graph Construction on the Cheap.	Anne-Marie Kermarrec,Olivier Ruas,François Taïani	10.1007/978-3-319-96983-1_30
+Cloud Federation Formation in Oligopolistic Markets.	Yash Khandelwal,Karthik Ganti,Suresh Purini,Puduru V. Reddy	10.1007/978-3-319-96983-1_28
+Peacock: Probe-Based Scheduling of Jobs by Rotating Between Elastic Queues.	Mansour Khelghatdoust,Vincent Gramoli	10.1007/978-3-319-96983-1_13
+Privacy-Preserving Top-k Query Processing in Distributed Systems.	Sakina Mahboubi,Reza Akbarinia,Patrick Valduriez	10.1007/978-3-319-96983-1_20
+Using Dynamic Compilation to Achieve Ninja Performance for CNN Training on Many-Core Processors.	Ankush Mandal,Rajkishore Barik,Vivek Sarkar	10.1007/978-3-319-96983-1_19
+Runtime Determinacy Race Detection for OpenMP Tasks.	Hassan Salehe Matar,Didem Unat	10.1007/978-3-319-96983-1_3
+NUMA Optimizations for Algorithmic Skeletons.	Paul Metzger,Murray Cole,Christian Fensch	10.1007/978-3-319-96983-1_42
+Task-Based Programming on Emerging Parallel Architectures for Finite-Differences Seismic Numerical Kernel.	Salli Moustafa,Wilfried Kirschenmann,Fabrice Dupros,Hideo Aochi	10.1007/978-3-319-96983-1_54
+Adaptive Bandwidth-Efficient Recovery Techniques in Erasure-Coded Cloud Storage.	Rekha Nachiappan,Bahman Javadi,Rodrigo N. Calheiros,Kenan M. Matawie	10.1007/978-3-319-96983-1_23
+Energy Efficient Stencil Computations on the Low-Power Manycore MPPA-256 Processor.	Emmanuel Podestá Jr.,Bruno Marques do Nascimento,Márcio Castro 0001	10.1007/978-3-319-96983-1_46
+Improving System Turnaround Time with Intel CAT by Identifying LLC Critical Applications.	Lucia Pons,Vicent Selfa,Julio Sahuquillo,Salvador Petit,Julio Pons Terol	10.1007/978-3-319-96983-1_43
+Efficient Lock-Free Removing and Compaction for the Cache-Trie Data Structure.	Aleksandar Prokopec	10.1007/978-3-319-96983-1_41
+HPC Benchmarking: Scaling Right and Looking Beyond the Average.	Milan Radulovic,Kazi Asifuzzaman,Paul M. Carpenter,Petar Radojkovic,Eduard Ayguadé	10.1007/978-3-319-96983-1_10
+Diagnosing Highly-Parallel OpenMP Programs with Aggregated Grain Graphs.	Nico Reissmann,Ananya Muddukrishna	10.1007/978-3-319-96983-1_8
+Measuring Multithreaded Message Matching Misery.	Whit Schonbein,Matthew G. F. Dosanjh,Ryan E. Grant,Patrick G. Bridges	10.1007/978-3-319-96983-1_34
+Efficient Communication/Computation Overlap with MPI+OpenMP Runtimes Collaboration.	Marc Sergent,Mario Dagrada,Patrick Carribault,Julien Jaeger,Marc Pérache,Guillaume Papauré	10.1007/978-3-319-96983-1_40
+Estimating the Impact of External Interference on Application Performance.	Aamer Shah,Matthias S. Müller,Felix Wolf 0001	10.1007/978-3-319-96983-1_4
+A Methodology for Performance Analysis of Applications Using Multi-layer I/O.	Ronny Tschüter,Christian Herold,Bert Wesarg,Matthias Weber 0002	10.1007/978-3-319-96983-1_2
+Design Principles for Sparse Matrix Multiplication on the GPU.	Carl Yang,Aydin Buluç,John D. Owens	10.1007/978-3-319-96983-1_48
+GT-Race: Graph Traversal Based Data Race Detection for Asynchronous Many-Task Parallelism.	Lechen Yu,Vivek Sarkar	10.1007/978-3-319-96983-1_5
+Early Termination of Failed HPC Jobs Through Machine and Deep Learning.	Michal Zasadzinski,Victor Muntés-Mulero,Marc Solé,David Carrera 0001,Thomas Ludwig 0002	10.1007/978-3-319-96983-1_12
+Euro-Par 2018: Parallel Processing - 24th International Conference on Parallel and Distributed Computing, Turin, Italy, August 27-31, 2018, Proceedings	Marco Aldinucci,Luca Padovani,Massimo Torquati	10.1007/978-3-319-96983-1

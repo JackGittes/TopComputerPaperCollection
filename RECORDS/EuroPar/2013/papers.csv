@@ -1,0 +1,87 @@
+GPUMAFIA: Efficient Subspace Clustering with MAFIA on GPUs.	Andrew V. Adinetz,Jiri Kraus,Jan H. Meinke,Dirk Pleiter	10.1007/978-3-642-40047-6_83
+Multifrontal QR Factorization for Multicore Architectures over Runtime Systems.	Emmanuel Agullo,Alfredo Buttari,Abdou Guermouche,Florent Lopez	10.1007/978-3-642-40047-6_53
+On the Scalability of Snapshot Isolation.	Masoud Saeida Ardekani,Pierre Sutra,Marc Shapiro 0001,Nuno M. Preguiça	10.1007/978-3-642-40047-6_39
+Dynamic Protocol Tuning Algorithms for High Performance Data Transfers.	Engin Arslan,Brandon Ross,Tevfik Kosar	10.1007/978-3-642-40047-6_72
+VGTS: Variable Granularity Transactional Snoop.	Ehsan Atoofian	10.1007/978-3-642-40047-6_22
+Multi-level Clustering on Metric Spaces Using a Multi-GPU Platform.	Ricardo J. Barrientos,José Ignacio Gómez,Christian Tenllado,Manuel Prieto-Matías,Pavel Zezula	10.1007/978-3-642-40047-6_24
+Topic 4: High-Performance Architectures and Compilers - (Introduction).	Denis Barthou,Wolfgang Karl,Ramon Doallo,Evelyn Duesterwald,Sami Yehia	10.1007/978-3-642-40047-6_18
+GWAS on GPUs: Streaming Data from HDD for Sustained Performance.	Lucas Beyer,Paolo Bientinesi	10.1007/978-3-642-40047-6_78
+Efficient Parallel and External Matching.	Marcel Birn,Vitaly Osipov,Peter Sanders 0001,Christian Schulz 0003,Nodari Sitchinava	10.1007/978-3-642-40047-6_66
+Energy to Solution: A New Mission for Parallel Computing.	Arndt Bode	10.1007/978-3-642-40047-6_1
+Making the Network Scalable: Inter-subnet Routing in InfiniBand.	Bartosz Bogdanski,Bjørn Dag Johnsen,Sven-Arne Reinemo,José Flich	10.1007/978-3-642-40047-6_69
+Multi-criteria Checkpointing Strategies: Response-Time versus Resource Utilization.	Aurélien Bouteiller,Franck Cappello,Jack J. Dongarra,Amina Guermouche,Thomas Hérault,Yves Robert	10.1007/978-3-642-40047-6_43
+Scheduling HPC Workflows for Responsiveness and Fairness with Networking Delays and Inaccurate Estimates of Execution Times.	Andrew Burkimsher,Iain Bate,Leandro Soares Indrusiak	10.1007/978-3-642-40047-6_15
+Topic 7: Peer-to-Peer Computing - (Introduction).	Damiano Carra,Thorsten Strufe,György Dán,Marcel Karnstedt	10.1007/978-3-642-40047-6_36
+Scheduling Jobs with Multiple Non-uniform Tasks.	Venkatesan T. Chakaravarthy,Anamitra R. Choudhury,Sambuddha Roy,Yogish Sabharwal	10.1007/978-3-642-40047-6_12
+Hierarchical Parallel Algorithm for Modularity-Based Community Detection Using GPUs.	Chun Yew Cheong,Huynh Phung Huynh,David Lo 0001,Rick Siow Mong Goh	10.1007/978-3-642-40047-6_77
+On the Use of a Proportional-Share Market for Application SLO Support in Clouds.	Stefania Costache 0002,Nikos Parlavantzas,Christine Morin,Samuel Kortas	10.1007/978-3-642-40047-6_35
+A Contention-Friendly Binary Search Tree.	Tyler Crain,Vincent Gramoli,Michel Raynal	10.1007/978-3-642-40047-6_25
+Topic 9: Parallel and Distributed Programming - (Introduction).	José Cunha,Michael Philippsen,Domenico Talia,Ana Lucia Varbanescu	10.1007/978-3-642-40047-6_44
+GPU Accelerated Maximum Cardinality Matching Algorithms for Bipartite Graphs.	Mehmet Deveci,Kamer Kaya,Bora Uçar,Ümit V. Çatalyürek	10.1007/978-3-642-40047-6_84
+Lightweight Contention Management for Efficient Compare-and-Swap Operations.	David Dice,Danny Hendler,Ilya Mirsky	10.1007/978-3-642-40047-6_60
+Topic 14+16: High-Performance and Scientific Applications and Extreme-Scale Computing - (Introduction).	Turlough P. Downes,Sabine Roller,Ari P. Seitsonen,Sophie Valcke,David E. Keyes,Marie-Christine Sawley,Thomas C. Schulthess,John Shalf	10.1007/978-3-642-40047-6_73
+Topic 3: Scheduling and Load Balancing - (Introduction).	Zhihui Du,Ramin Yahyapour,Yuxiong He,Nectarios Koziris,Bilha Mendelson,Veronika Sonigo,Achim Streit,Andrei Tchernykh	10.1007/978-3-642-40047-6_9
+A (2 + ε)-Approximation for Scheduling Parallel Jobs in Platforms.	Pierre-François Dutot,Klaus Jansen,Christina Robenek,Denis Trystram	10.1007/978-3-642-40047-6_11
+Solving a Least-Squares Problem with Algorithmic Differentiation and OpenMP.	Michael Förster,Uwe Naumann	10.1007/978-3-642-40047-6_76
+Fast Full-System Execution-Driven Performance Simulator for Blue Gene/Q.	Diego S. Gallo,José R. Brunheroto,Kyung Dong Ryu	10.1007/978-3-642-40047-6_4
+A Hybrid Parallel Barnes-Hut Algorithm for GPU and Multicore Architectures.	Hannes Hannak,Hendrik Hochstetter,Wolfgang Blochinger	10.1007/978-3-642-40047-6_57
+Model and Complexity Results for Tree Traversals on Hybrid Platforms.	Julien Herrmann,Loris Marchal,Yves Robert	10.1007/978-3-642-40047-6_65
+Topic 2: Performance Prediction and Evaluation - (Introduction).	Adolfy Hoisie,Michael Gerndt,Shajulin Benedict,Thomas Fahringer,Vladimir Getov,Scott Pakin	10.1007/978-3-642-40047-6_5
+A Scalable Barotropic Mode Solver for the Parallel Ocean Program.	Yong Hu,Xiaomeng Huang,Xiaoge Wang,Haohuan Fu,Shizhen Xu,Huabin Ruan,Wei Xue,Guangwen Yang	10.1007/978-3-642-40047-6_74
+Topic 12: Theory and Algorithms for Parallel Computation - (Introduction).	Giuseppe F. Italiano,Henning Meyerhenke,Guy E. Blelloch,Philippas Tsigas	10.1007/978-3-642-40047-6_64
+How to be a Successful Thief - Feudal Work Stealing for Irregular Divide-and-Conquer Applications on Heterogeneous Distributed Systems.	Vladimir Janjic,Kevin Hammond	10.1007/978-3-642-40047-6_14
+Online Dynamic Dependence Analysis for Speculative Polyhedral Parallelization.	Alexandra Jimborean,Philippe Clauss,Juan Manuel Martinez Caamaño,Aravind Sukumaran-Rajam	10.1007/978-3-642-40047-6_21
+Energy-Efficient Scheduling with Time and Processors Eligibility Restrictions.	Xibo Jin,Fa Zhang 0001,Ying Song,Liya Fan,Zhiyong Liu 0002	10.1007/978-3-642-40047-6_10
+PonIC: Using Stratosphere to Speed Up Pig Analytics.	Vasiliki Kalavri,Vladimir Vlassov,Per Brand	10.1007/978-3-642-40047-6_30
+Heterogeneous Combinatorial Candidate Generation.	Fahad Khalid,Zoran Nikoloski,Peter Tröger,Andreas Polze	10.1007/978-3-642-40047-6_75
+Application-Centric Resource Provisioning for Amazon EC2 Spot Instances.	Sunirmal Khatua,Nandini Mukherjee	10.1007/978-3-642-40047-6_29
+Energy and Carbon-Efficient Placement of Virtual Machines in Distributed Cloud Data Centers.	Atefeh Khosravi,Saurabh Kumar Garg 0001,Rajkumar Buyya	10.1007/978-3-642-40047-6_33
+Enhancing Concurrency in Distributed Transactional Memory through Commutativity.	Junwhan Kim,Roberto Palmieri,Binoy Ravindran	10.1007/978-3-642-40047-6_17
+Splittable Single Source-Sink Routing on CMP Grids: A Sublinear Number of Paths Suffice.	Adrian Kosowski,Przemyslaw Uznanski	10.1007/978-3-642-40047-6_67
+Towards a Scalable Microkernel Personality for Multicore Processors.	Jilong Kuang,Daniel G. Waddington,Chen Tian 0005	10.1007/978-3-642-40047-6_62
+Fast Methods for Computing Selected Elements of the Green&apos;s Function in Massively Parallel Nanoelectronic Device Simulations.	Andrey Kuzmin,Mathieu Luisier,Olaf Schenk	10.1007/978-3-642-40047-6_54
+High-Resolution Power Profiling of GPU Functions Using Low-Resolution Measurement.	Jens Lang 0002,Gudula Rünger	10.1007/978-3-642-40047-6_80
+Topic 10: Parallel Numerical Algorithms - (Introduction).	Julien Langou,Matthias Bolten,Laura Grigori,Marián Vajtersic	10.1007/978-3-642-40047-6_49
+Topic 6: Grid, Cluster and Cloud Computing - (Introduction).	Erwin Laure,Odej Kao,Rosa M. Badia,Laurent Lefèvre,Beniamino Di Martino,Radu Prodan,Matteo Turilli,Daniel Warneke	10.1007/978-3-642-40047-6_26
+Programming with BSP Homomorphisms.	Joeffrey Legaux,Zhenjiang Hu,Frédéric Loulergue,Kiminori Matsuzaki,Julien Tesson	10.1007/978-3-642-40047-6_46
+Efficient Event Prewarning for Sensor Networks with Multi Microenvironments.	Yinglong Li,Hong Chen 0001,Suyun Zhao,Shangfeng Mo	10.1007/978-3-642-40047-6_40
+Gunther: Search-Based Auto-Tuning of MapReduce.	Guangdeng Liao,Kushal Datta,Theodore L. Willke	10.1007/978-3-642-40047-6_42
+Towards Efficient Dynamic LLC Home Bank Mapping with NoC-Level Support.	Mario Lodde,José Flich,Manuel E. Acacio	10.1007/978-3-642-40047-6_20
+Discrete Adjoints of PETSc through dco/c++ and Adjoint MPI.	Johannes Lotz 0001,Uwe Naumann,Max Sagebaum,Michel Schanen	10.1007/978-3-642-40047-6_51
+Accelerating Communication-Intensive Parallel Workloads Using Commodity Optical Switches and a Software-Configurable Control Stack.	Diego Lugones,Konstantinos Christodoulopoulos,Kostas Katrinis,Marco Ruffini,Donal O&apos;Mahony,Martin Collier	10.1007/978-3-642-40047-6_71
+Topic 13: High-Performance Networks and Communication - (Introduction).	Olav Lysne,Torsten Hoefler,Pedro López 0001,Davide Bertozzi	10.1007/978-3-642-40047-6_68
+Algorithmic Skeleton Framework for the Orchestration of GPU Computations.	Ricardo Marqués,Hervé Paulino,Fernando Alexandre,Pedro D. Medeiros	10.1007/978-3-642-40047-6_86
+FLEX-MPI: An MPI Extension for Supporting Dynamic Load Balancing on Heterogeneous Non-dedicated Systems.	Gonzalo Martín 0001,Maria-Cristina V. Marinescu,David E. Singh,Jesús Carretero 0001	10.1007/978-3-642-40047-6_16
+Topic 15: GPU and Accelerator Computing - (Introduction).	Naoya Maruyama,Leif Kobbelt,Pavan Balaji,Nikola Puzovic,Samuel Thibault,Kun Zhou	10.1007/978-3-642-40047-6_79
+Dynamic Thread Pinning for Phase-Based OpenMP Programs.	Abdelhafid Mazouz,Sid Ahmed Ali Touati,Denis Barthou	10.1007/978-3-642-40047-6_8
+Reconfiguration Stability of Adaptive Distributed Parallel Applications through a Cooperative Predictive Control Approach.	Gabriele Mencagli,Marco Vanneschi,Emanuele Vespa	10.1007/978-3-642-40047-6_34
+Topic 8: Distributed Systems and Algorithms - (Introduction).	Achour Mostéfaoui,Andreas Polze,Carlos Baquero,Paul D. Ezhilchelvan,Lars Lundberg	10.1007/978-3-642-40047-6_38
+Examining the Expert Gap in Parallel Programming.	Sebastian Nanz,Scott West,Kaue Soares da Silveira	10.1007/978-3-642-40047-6_45
+Leveraging Collaborative Content Exchange for On-Demand VM Multi-deployments in IaaS Clouds.	Bogdan Nicolae,M. Mustafa Rafique	10.1007/978-3-642-40047-6_32
+On-Board Multi-GPU Molecular Dynamics.	Marcos Novalbos,Jaime Gonzalez,Miguel Angel Otaduy,Alvaro Lopez-Medrano,Alberto Sánchez 0001	10.1007/978-3-642-40047-6_85
+Topic 5: Parallel and Distributed Data Management - (Introduction).	María S. Pérez-Hernández,André Brinkmann,Stergios V. Anastasiadis,Sandro Fiore,Adrien Lèbre,Kostas Magoutis	10.1007/978-3-642-40047-6_23
+Transparent Support for Partial Rollback in Software Transactional Memories.	Alice Porfirio,Alessandro Pellegrini 0001,Pierangelo di Sanzo,Francesco Quaglia	10.1007/978-3-642-40047-6_59
+Efficient Parallel Block-Max WAND Algorithm.	Oscar Rojas,Veronica Gil-Costa,Mauricio Marín	10.1007/978-3-642-40047-6_41
+Topic 11: Multicore and Manycore Programming - (Introduction).	Luiz De Rose,Jan Treibig,William Jalby,Alba Cristina Magalhaes Alves de Melo,David Abramson 0001,Alastair F. Donaldson,Tomàs Margalef	10.1007/978-3-642-40047-6_55
+A Generic High-Performance Method for Deinterleaving Scientific Data.	Eric R. Schendel,Steve Harenberg,Houjun Tang,Venkatram Vishwanath,Michael E. Papka,Nagiza F. Samatova	10.1007/978-3-642-40047-6_58
+Evaluation of Two Formulations of the Conjugate Gradients Method with Transactional Memory.	Martin Schindewolf,Björn Rocker,Wolfgang Karl,Vincent Heuveline	10.1007/978-3-642-40047-6_52
+Assessing the Performance of OpenMP Programs on the Intel Xeon Phi.	Dirk Schmidl,Tim Cramer,Sandra Wienke,Christian Terboven,Matthias S. Müller	10.1007/978-3-642-40047-6_56
+Cluster Optimization and Parallelization of Simulations with Dynamically Adaptive Grids.	Martin Schreiber 0001,Tobias Weinzierl,Hans-Joachim Bungartz	10.1007/978-3-642-40047-6_50
+BBQ: A Straightforward Queuing Scheme to Reduce HoL-Blocking in High-Performance Hybrid Networks.	Pedro Yebenes Segura,Jesús Escudero-Sahuquillo,Crispín Gómez Requena,Pedro Javier García,Francisco J. Quiles 0001,José Duato	10.1007/978-3-642-40047-6_70
+Hugh: A Semantically Aware Universal Construction for Transactional Memory Systems.	Craig Sharp,Graham Morgan	10.1007/978-3-642-40047-6_48
+Scheduling Jobs in the Cloud Using On-Demand and Reserved Instances.	Siqi Shen,Kefeng Deng,Alexandru Iosup,Dick H. J. Epema	10.1007/978-3-642-40047-6_27
+Workflow Fairness Control on Online and Non-clairvoyant Distributed Computing Platforms.	Rafael Ferreira da Silva,Tristan Glatard,Frédéric Desprez	10.1007/978-3-642-40047-6_13
+On-Line, Non-clairvoyant Optimization of Workflow Activity Granularity on Grids.	Rafael Ferreira da Silva,Tristan Glatard,Frédéric Desprez	10.1007/978-3-642-40047-6_28
+MacroDB: Scaling Database Engines on Multicores.	João Soares,João Lourenço,Nuno M. Preguiça	10.1007/978-3-642-40047-6_61
+An Implementation of the Codelet Model.	Joshua Suetterlein,Stéphane Zuckerman,Guang R. Gao	10.1007/978-3-642-40047-6_63
+Topic 1: Support Tools and Environments - (Introduction).	Bronis R. de Supinski,Bettina Krammer,Karl Fürlinger,Jesús Labarta,Dimitrios S. Nikolopoulos	10.1007/978-3-642-40047-6_2
+MROrder: Flexible Job Ordering Optimization for Online MapReduce Workloads.	Shanjiang Tang,Bu-Sung Lee,Bingsheng He	10.1007/978-3-642-40047-6_31
+Giraphx: Parallel Yet Serializable Large-Scale Graph Processing.	Serafettin Tasci,Murat Demirbas	10.1007/978-3-642-40047-6_47
+Adaptive Granularity Control in Task Parallel Programs Using Multiversioning.	Peter Thoman,Herbert Jordan,Thomas Fahringer	10.1007/978-3-642-40047-6_19
+Design and Implementation of a Scalable Membership Service for Supercomputer Resiliency-Aware Runtime.	Yoav Tock,Benjamin Mandler,José E. Moreira,Terry R. Jones	10.1007/978-3-642-40047-6_37
+Optimizing 3D Convolutions for Wavelet Transforms on CPUs with SSE Units and GPUs.	Brice Videau,Vania Marangozova-Martin,Luigi Genovese,Thierry Deutsch	10.1007/978-3-642-40047-6_82
+Power/Performance Trade-Offs of Small Batched LU Based Solvers on GPUs.	Oreste Villa,Massimiliano Fatica,Nitin Gawande,Antonino Tumeo	10.1007/978-3-642-40047-6_81
+Alignment-Based Metrics for Trace Comparison.	Matthias Weber 0002,Kathryn Mohror,Martin Schulz 0001,Bronis R. de Supinski,Holger Brunst,Wolfgang E. Nagel	10.1007/978-3-642-40047-6_6
+Validation and Uncertainty Assessment of Extreme-Scale HPC Simulation through Bayesian Inference.	Jeremiah J. Wilke,Khachik Sargsyan,Joseph P. Kenny,Bert J. Debusschere,Habib N. Najm,Gilbert Hendry	10.1007/978-3-642-40047-6_7
+Synchronization Identification through On-the-Fly Test.	Xiang Yuan,Zhenjiang Wang,Chenggang Wu 0002,Pen-Chung Yew,Wenwen Wang 0001,Jianjun Li,Di Xu	10.1007/978-3-642-40047-6_3
+Euro-Par 2013 Parallel Processing - 19th International Conference, Aachen, Germany, August 26-30, 2013. Proceedings	Felix Wolf 0001,Bernd Mohr,Dieter an Mey	10.1007/978-3-642-40047-6

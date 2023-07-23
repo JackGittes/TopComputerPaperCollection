@@ -1,0 +1,26 @@
+Trace-based affine reconstruction of codes.	Gabriel Rodríguez 0001,José M. Andión,Mahmut T. Kandemir,Juan Touriño	10.1145/2854038.2854056
+Opening polyhedral compiler&apos;s black box.	Lénaïc Bagnères,Oleksandr Zinenko,Stéphane Huot,Cédric Bastoul	10.1145/2854038.2854048
+A black-box approach to energy-aware scheduling on integrated CPU-GPU systems.	Rajkishore Barik,Naila Farooqui,Brian T. Lewis,Chunling Hu,Tatiana Shpeisman	10.1145/2854038.2854052
+Have abstraction and eat performance, too: optimized heterogeneous computing with parallel patterns.	Kevin J. Brown,HyoukJoong Lee,Tiark Rompf,Arvind K. Sujeeth,Christopher De Sa,Christopher R. Aberger,Kunle Olukotun	10.1145/2854038.2854042
+Validating optimizations of concurrent C/C++ programs.	Soham Chakraborty 0001,Viktor Vafeiadis	10.1145/2854038.2854051
+Exploiting recent SIMD architectural advances for irregular applications.	Linchuan Chen,Peng Jiang 0004,Gagan Agrawal	10.1145/2854038.2854046
+AutoFDO: automatic feedback-directed optimization for warehouse-scale applications.	Dehao Chen,David Xinliang Li,Tipp Moseley	10.1145/2854038.2854044
+Flexible on-stack replacement in LLVM.	Daniele Cono D&apos;Elia,Camil Demetrescu	10.1145/2854038.2854061
+BlackBox: lightweight security monitoring for COTS binaries.	Byron Hawkins,Brian Demsky,Michael B. Taylor	10.1145/2854038.2854062
+Portable performance on asymmetric multicore processors.	Ivan Jibaja,Ting Cao,Stephen M. Blackburn,Kathryn S. McKinley	10.1145/2854038.2854047
+NRG-loops: adjusting power from within applications.	Melanie Kambadur,Martha A. Kim	10.1145/2854038.2854045
+Re-constructing high-level information for language-specific binary re-optimization.	Toshihiko Koju,Reid Copeland,Motohiro Kawahito,Moriyoshi Ohara	10.1145/2854038.2854057
+IPAS: intelligent protection against silent output corruption in scientific applications.	Ignacio Laguna,Martin Schulz 0001,David F. Richards,Jon Calhoun 0001,Luke N. Olson	10.1145/2854038.2854059
+Cheetah: detecting false sharing efficiently and effectively.	Tongping Liu,Xu Liu 0001	10.1145/2854038.2854039
+Portable and transparent software managed scheduling on accelerators for fair resource sharing.	Christos Margiolas,Michael F. P. O&apos;Boyle	10.1145/2854038.2854040
+Communication-aware mapping of stream graphs for multi-GPU platforms.	Dong Nguyen 0001,Jongeun Lee	10.1145/2854038.2854055
+Symbolic range analysis of pointers.	Vitor Paisante,Maroua Maalej,Leonardo Barbosa e Oliveira,Laure Gonnord,Fernando Magno Quintão Pereira	10.1145/2854038.2854050
+StructSlim: a lightweight profiler to guide structure splitting.	Probir Roy,Xu Liu 0001	10.1145/2854038.2854053
+A basic linear algebra compiler for structured matrices.	Daniele G. Spampinato,Markus Püschel	10.1145/2854038.2854060
+Sparse flow-sensitive pointer analysis for multithreaded programs.	Yulei Sui,Peng Di,Jingling Xue	10.1145/2854038.2854043
+Inference of peak density of indirect branches to detect ROP attacks.	Mateus Tymburibá,Rubens E. A. Moreira,Fernando Magno Quintão Pereira	10.1145/2854038.2854049
+Towards automatic significance analysis for approximate computing.	Vassilis Vassiliadis,Jan Riehme,Jens Deussen,Konstantinos Parasyris,Christos D. Antonopoulos,Nikolaos Bellas,Spyros Lalis,Uwe Naumann	10.1145/2854038.2854058
+gpucc: an open-source GPGPU compiler.	Jingyue Wu,Artem Belevich,Eli Bendersky,Mark Heffernan,Chris Leary,Jacques A. Pienaar,Bjarke Roune,Rob Springer,Xuetian Weng,Robert Hundt	10.1145/2854038.2854041
+Atomicity violation checker for task parallel programs.	Adarsh Yoga,Santosh Nagarakatte	10.1145/2854038.2854063
+Exploiting mixed SIMD parallelism by reducing data reorganization overhead.	Hao Zhou 0009,Jingling Xue	10.1145/2854038.2854054
+Proceedings of the 2016 International Symposium on Code Generation and Optimization, CGO 2016, Barcelona, Spain, March 12-18, 2016	Björn Franke,Youfeng Wu,Fabrice Rastello	10.1145/2854038

@@ -1,0 +1,51 @@
+Data-driven equivalence checking.	Rahul Sharma 0001,Eric Schkufza,Berkeley R. Churchill,Alex Aiken	10.1145/2509136.2509509
+Targeted and depth-first exploration for systematic testing of android apps.	Tanzirul Azim,Iulian Neamtiu	10.1145/2509136.2509549
+Class hierarchy complementation: soundly completing a partial type graph.	George Balatsouras,Yannis Smaragdakis	10.1145/2509136.2509530
+On-the-fly detection of instability problems in floating-point program execution.	Tao Bao,Xiangyu Zhang 0001	10.1145/2509136.2509526
+Input-covering schedules for multithreaded programs.	Tom Bergan,Luis Ceze,Dan Grossman	10.1145/2509136.2509508
+Combining concern input with program analysis for bloat detection.	Suparna Bhattacharya,Kanchi Gopinath,Mangala Gowri Nanda	10.1145/2509136.2509522
+Bottle graphs: visualizing scalability bottlenecks in multi-threaded applications.	Kristof Du Bois,Jennifer B. Sartor,Stijn Eyerman,Lieven Eeckhout	10.1145/2509136.2509529
+Storage strategies for collections in dynamically typed languages.	Carl Friedrich Bolz,Lukas Diekmann,Laurence Tratt	10.1145/2509136.2509531
+OCTET: capturing and controlling cross-thread dependences efficiently.	Michael D. Bond,Milind Kulkarni 0001,Man Cao,Minjia Zhang,Meisam Fathi Salmi,Swarnendu Biswas,Aritra Sengupta,Jipeng Huang	10.1145/2509136.2509519
+Verifying quantitative reliability for programs that execute on unreliable hardware.	Michael Carbin,Sasa Misailovic,Martin C. Rinard	10.1145/2509136.2509546
+Guided GUI testing of android apps with minimal restart and approximate learning.	Wontae Choi,George C. Necula,Koushik Sen	10.1145/2509136.2509552
+Barrier invariants: a shared state abstraction for the analysis of data-dependent GPU kernels.	Nathan Chong,Alastair F. Donaldson,Paul H. J. Kelly,Jeroen Ketema,Shaz Qadeer	10.1145/2509136.2509517
+Fully concurrent garbage collection of actors on many-core machines.	Sylvan Clebsch,Sophia Drossopoulou	10.1145/2509136.2509557
+Bounded partial-order reduction.	Katherine E. Coons,Madan Musuvathi,Kathryn S. McKinley	10.1145/2509136.2509556
+Ball-Larus path profiling across multiple loop iterations.	Daniele Cono D&apos;Elia,Camil Demetrescu	10.1145/2509136.2509521
+Ironclad C++: a library-augmented type-safe subset of c++.	Christian DeLozier,Richard A. Eisenberg,Santosh Nagarakatte,Peter-Michael Osera,Milo M. K. Martin,Steve Zdancewic	10.1145/2509136.2509550
+Efficient concurrency-bug detection across inputs.	Dongdong Deng,Wei Zhang 0022,Shan Lu 0001	10.1145/2509136.2509539
+Inductive invariant generation via abductive inference.	Isil Dillig,Thomas Dillig,Boyang Li 0002,Kenneth L. McMillan	10.1145/2509136.2509511
+Option contracts.	Christos Dimoulas,Robert Bruce Findler,Matthias Felleisen	10.1145/2509136.2509548
+Semi-automatic rename refactoring for JavaScript.	Asger Feldthaus,Anders Møller	10.1145/2509136.2509520
+Forsaking inheritance: supercharged delegation in DelphJ.	Prodromos Gerakios,Aggelos Biboudis,Yannis Smaragdakis	10.1145/2509136.2509535
+River trail: a path to parallelism in JavaScript.	Stephan Herhut,Richard L. Hudson,Tatiana Shpeisman,Jaswanth Sreeram	10.1145/2509136.2509516
+Do developers benefit from generic types?: an empirical comparison of generic and raw types in java.	Michael Hoppe,Stefan Hanenberg	10.1145/2509136.2509528
+Efficient context sensitivity for dynamic analyses via calling context uptrees and customized memory management.	Jipeng Huang,Michael D. Bond	10.1145/2509136.2509510
+The latency, accuracy, and battery (LAB) abstraction: programmer productivity and energy efficiency for continuous mobile context sensing.	Aman Kansal,T. Scott Saponas,A. J. Bernheim Brush,Kathryn S. McKinley,Todd Mytkowicz,Ryder Ziola	10.1145/2509136.2509541
+Synthesis modulo recursive functions.	Etienne Kneuss,Ivan Kuraj,Viktor Kuncak,Philippe Suter	10.1145/2509136.2509555
+Steering symbolic execution to less traveled paths.	You Li,Zhendong Su 0001,Linzhang Wang,Xuandong Li	10.1145/2509136.2509553
+Empirical analysis of programming language adoption.	Leo A. Meyerovich,Ariel S. Rabkin	10.1145/2509136.2509515
+Instant pickles: generating object-oriented pickler combinators for fast and extensible serialization.	Heather Miller,Philipp Haller,Eugene Burmako,Martin Odersky	10.1145/2509136.2509547
+On-the-fly capacity planning.	Nick Mitchell,Peter F. Sweeney	10.1145/2509136.2509540
+Online feedback-directed optimizations for parallel Java code.	Albert Noll,Thomas R. Gross	10.1145/2509136.2509518
+CDSchecker: checking concurrent data structures written with C/C++ atomics.	Brian Norris,Brian Demsky	10.1145/2509136.2509514
+Python: the full monty.	Joe Gibbs Politz,Alejandro Martinez,Mae Milano,Sumner Warren,Daniel Patterson 0001,Junsong Li,Anand Chitipothu,Shriram Krishnamurthi	10.1145/2509136.2509536
+Multiverse: efficiently supporting distributed high-level speculation.	Kaushik Ravichandran 0001,Santosh Pande	10.1145/2509136.2509525
+Refactoring with synthesis.	Veselin Raychev,Max Schäfer,Manu Sridharan,Martin T. Vechev	10.1145/2509136.2509544
+Effective race detection for event-driven programs.	Veselin Raychev,Martin T. Vechev,Manu Sridharan	10.1145/2509136.2509538
+Flexible access control for javascript.	Gregor Richards,Christian Hammer 0001,Francesco Zappa Nardelli,Suresh Jagannathan,Jan Vitek	10.1145/2509136.2509542
+Interacting with dead objects.	Robin Salkeld,Gregor Kiczales	10.1145/2509136.2509543
+Taking off the gloves with reference counting Immix.	Rifat Shahriyar,Stephen M. Blackburn,Xi Yang 0021,Kathryn S. McKinley	10.1145/2509136.2509527
+Code optimizations using formally verified properties.	Yao Shi,Bernard Blackham,Gernot Heiser	10.1145/2509136.2509513
+Set-based pre-processing for points-to analysis.	Yannis Smaragdakis,George Balatsouras,George Kastrinis	10.1145/2509136.2509524
+MrCrypt: static analysis for secure cloud computations.	Sai Deep Tetali,Mohsen Lesani,Rupak Majumdar,Todd D. Millstein	10.1145/2509136.2509554
+Language support for dynamic, hierarchical data partitioning.	Sean Treichler,Michael Bauer 0001,Alex Aiken	10.1145/2509136.2509545
+Turning nondeterminism into parallelism.	Omer Tripp,Eric Koskinen,Mooly Sagiv	10.1145/2509136.2509533
+Miniboxing: improving the speed to code size tradeoff in parametric polymorphism translations.	Vlad Ureche,Cristian Talau,Martin Odersky	10.1145/2509136.2509537
+Relaxed separation logic: a program logic for C11 concurrency.	Viktor Vafeiadis,Chinmay Narayan	10.1145/2509136.2509532
+Resurrector: a tunable object lifetime profiling technique for optimizing real-world programs.	Guoqing Xu 0001	10.1145/2509136.2509512
+Injecting mechanical faults to localize developer faults for evolving software.	Lingming Zhang 0001,Lu Zhang 0023,Sarfraz Khurshid	10.1145/2509136.2509551
+Isolation for nested task parallelism.	Jisheng Zhao,Roberto Lublinerman,Zoran Budimlic,Swarat Chaudhuri,Vivek Sarkar	10.1145/2509136.2509534
+Detecting API documentation errors.	Hao Zhong 0001,Zhendong Su 0001	10.1145/2509136.2509523
+Proceedings of the 2013 ACM SIGPLAN International Conference on Object Oriented Programming Systems Languages &amp; Applications, OOPSLA 2013, part of SPLASH 2013, Indianapolis, IN, USA, October 26-31, 2013	Antony L. Hosking,Patrick Th. Eugster,Cristina V. Lopes	10.1145/2509136

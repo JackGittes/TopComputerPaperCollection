@@ -1,0 +1,246 @@
+Invited: Hardware/Software Co-Synthesis and Co-Optimization for Autonomous Systems.	Wanli Chang 0001,Shuai Zhao 0004,Simon Burton 0001,Haitong Wang,Ting Chen,Nan Chen,Neil C. Audsley	10.1109/DAC18074.2021.9586147
+Privacy-Preserving Medical Image Segmentation via Hybrid Trusted Execution Environment.	Song Bian 0001,Weiwen Jiang,Takashi Sato	10.1109/DAC18074.2021.9586198
+TinyML: Current Progress, Research Challenges, and Future Roadmap.	Muhammad Shafique 0001,Theocharis Theocharides,Vijay Janapa Reddi,Boris Murmann	10.1109/DAC18074.2021.9586232
+Architecture-aware Precision Tuning with Multiple Number Representation Systems.	Daniele Cattaneo 0002,Michele Chiari,Nicola Fossati,Stefano Cherubin,Giovanni Agosta	10.1109/DAC18074.2021.9586303
+Optimized Polynomial Multiplier Architectures for Post-Quantum KEM Saber.	Andrea Basso 0002,Sujoy Sinha Roy	10.1109/DAC18074.2021.9586219
+LolliRAM: A Cross-Layer Design to Exploit Data Locality in Oblivious RAM.	Yi Wang 0003,Weixuan Chen,Xianhua Wang,Rui Mao 0001	10.1109/DAC18074.2021.9586126
+MELOPPR: Software/Hardware Co-design for Memory-efficient Low-latency Personalized PageRank.	Lixiang Li 0003,Yao Chen,Zacharie Zirnheld,Pan Li 0005,Cong Hao	10.1109/DAC18074.2021.9586129
+PrefixRL: Optimization of Parallel Prefix Circuits using Deep Reinforcement Learning.	Rajarshi Roy 0003,Jonathan Raiman,Neel Kant,Ilyas Elkin,Robert Kirby,Michael Y. Siu,Stuart F. Oberman,Saad Godil,Bryan Catanzaro	10.1109/DAC18074.2021.9586094
+I/O-GUARD: Hardware/Software Co-Design for I/O Virtualization with Guaranteed Real-time Performance.	Zhe Jiang 0004,Kecheng Yang 0001,Yunfeng Ma,Nathan Fisher,Neil C. Audsley,Zheng Dong 0002	10.1109/DAC18074.2021.9586156
+Late Breaking Results: An Effective Legalization Algorithm for Heterogeneous FPGAs with Complex Constraints.	Zhipeng Huang 0009,Haokai Sun,Huimin Wang,Ziran Zhu,Jun Yu 0010,Jianli Chen	10.1109/DAC18074.2021.9586104
+LUT-Based Optimization For ASIC Design Flow.	Luca Gaetano Amarù,Vinicius N. Possani,Eleonora Testa,Felipe S. Marranghello,Christopher Casares,Jiong Luo,Patrick Vuillod,Alan Mishchenko,Giovanni De Micheli	10.1109/DAC18074.2021.9586132
+AID: Attesting the Integrity of Deep Neural Networks.	Omid Aramoon,Pin-Yu Chen,Gang Qu 0001	10.1109/DAC18074.2021.9586290
+Late Breaking Results: Heterogeneous Circuit Layout Centerline Extraction for Mask Verification.	Xiqiong Bai,Ziran Zhu,Peng Zou,Lichong Sun,Jianli Chen	10.1109/DAC18074.2021.9586256
+SPROUT - Smart Power ROUting Tool for Board-Level Exploration and Prototyping.	Rassul Bairamkulov,Abinash Roy,Mali Nagarajan,Vaishnav Srinivas,Eby G. Friedman	10.1109/DAC18074.2021.9586128
+Invited: Security Beyond Bulk Silicon: Opportunities and Challenges of Emerging Devices.	Lejla Batina,Rosario Cammarota,Nele Mentens,Ahmad-Reza Sadeghi,Johanna Sepúlveda,Shaza Zeitouni	10.1109/DAC18074.2021.9754222
+Property-driven Automatic Generation of Reduced-ISA Hardware.	Nathaniel Bleier,John Sartori,Rakesh Kumar 0002	10.1109/DAC18074.2021.9586090
+Convergence of SoC architecture and semiconductor manufacturing through AI/ML systems.	Srinivas Bodapati,Pushkar Ranade,Ramune Nagisetty	10.1109/DAC18074.2021.9586243
+RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity.	Behzad Boroujerdian,Radhika Ghosal,Jonathan J. Cruz,Brian Plancher,Vijay Janapa Reddi	10.1109/DAC18074.2021.9586280
+Scalable Pitch-Constrained Neural Processing Unit for 3D Integration with Event-Based Imagers.	Maxence Bouvier,Alexandre Valentian,Gilles Sicard	10.1109/DAC18074.2021.9586099
+DNN-Opt: An RL Inspired Optimization for Analog Circuit Sizing using Deep Neural Networks.	Ahmet Faruk Budak,Prateek Bhansali,Bo Liu 0003,Nan Sun,David Z. Pan,Chandramouli V. Kashyap	10.1109/DAC18074.2021.9586139
+Simultaneous Pre- and Free-assignment Routing for Multiple Redistribution Layers with Irregular Vias.	Yu-Jie Cai,Yang Hsu,Yao-Wen Chang	10.1109/DAC18074.2021.9586296
+NeurFill: Migrating Full-Chip CMP Simulators to Neural Networks for Model-Based Dummy Filling Synthesis.	Junzhe Cai,Changhao Yan,Yuzhe Ma,Bei Yu 0001,Dian Zhou,Xuan Zeng 0001	10.1109/DAC18074.2021.9586325
+DirectFuzz: Automated Test Generation for RTL Designs using Directed Graybox Fuzzing.	Sadullah Canakci,Leila Delshadtehrani,Furkan Eris,Michael Bedford Taylor,Manuel Egele,Ajay Joshi	10.1109/DAC18074.2021.9586289
+HADFL: Heterogeneity-aware Decentralized Federated Learning Framework.	Jing Cao,Zirui Lian,Weihong Liu,Zongwei Zhu,Cheng Ji	10.1109/DAC18074.2021.9586101
+SACReD: An Attack Framework on SAC Resistant Delay-PUFs leveraging Bias and Reliability Factors.	Durba Chatterjee,Urbi Chatterjee,Debdeep Mukhopadhyay,Aritra Hazra	10.1109/DAC18074.2021.9586249
+Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks.	Hao Chen 0059,Keren Zhu 0001,Mingjie Liu,Xiyuan Tang,Nan Sun,David Z. Pan	10.1109/DAC18074.2021.9586211
+DyGNN: Algorithm and Architecture Support of Dynamic Pruning for Graph Neural Networks.	Cen Chen,Kenli Li 0001,Xiaofeng Zou,Yangfan Li	10.1109/DAC18074.2021.9586298
+Pruning of Deep Neural Networks for Fault-Tolerant Memristor-based Accelerators.	Ching-Yuan Chen,Krishnendu Chakrabarty	10.1109/DAC18074.2021.9586269
+Late Breaking Results: Novel Discrete Dynamic Filled Function Algorithm for Acyclic Graph Partitioning.	Jianli Chen,Jiarui Chen,Xiao Shi,Lichong Sun,Jun Yu 0010	10.1109/DAC18074.2021.9586307
+Performance-Driven Simultaneous Partitioning and Routing for Multi-FPGA Systems.	Ming-Hung Chen,Yao-Wen Chang,Jun-Jie Wang	10.1109/DAC18074.2021.9586225
+A Finer-Grained Blocking Analysis for Parallel Real-Time Tasks with Spin-Locks.	Ze-Wei Chen,Hang Lei,Maolin Yang,Yong Liao,Lei Qiao	10.1109/DAC18074.2021.9586270
+Skew-Oblivious Data Routing for Data Intensive Applications on FPGAs with HLS.	Xinyu Chen,Hongshi Tan,Yao Chen,Bingsheng He,Weng-Fai Wong,Deming Chen	10.1109/DAC18074.2021.9586184
+Reptail: Cutting Storage Tail Latency with Inherent Redundancy.	Yun-Chih Chen,Chun-Feng Wu,Yuan-Hao Chang 0001,Tei-Wei Kuo	10.1109/DAC18074.2021.9586218
+Efficient Tunstall Decoder for Deep Neural Network Compression.	Chunyun Chen,Zhe Wang,Xiaowei Chen,Jie Lin 0001,Mohamed M. Sabry Aly	10.1109/DAC18074.2021.9586173
+Leveraging Noise and Aggressive Quantization of In-Memory Computing for Robust DNN Hardware Against Adversarial Input and Weight Attacks.	Sai Kiran Cherupally,Adnan Siraj Rakin,Shihui Yin,Mingoo Seok,Deliang Fan,Jae-sun Seo	10.1109/DAC18074.2021.9586233
+Application of Deep Reinforcement Learning to Dynamic Verification of DRAM Designs.	Hyojin Choi,In Huh,Seungju Kim,Jeonghoon Ko,Changwook Jeong,Hyeonsik Son,Kiwon Kwon,Joonwan Chai,Younsik Park,Jaehoon Jeong,Daesin Kim,Jung Yun Choi	10.1109/DAC18074.2021.9586282
+DANCE: Differentiable Accelerator/Network Co-Exploration.	Kanghyun Choi,Deokki Hong,Hojae Yoon,Joonsang Yu,Youngsok Kim,Jinho Lee	10.1109/DAC18074.2021.9586121
+VLSI Structure-aware Placement for Convolutional Neural Network Accelerator Units.	Yun Chou,Jhih-Wei Hsu,Yao-Wen Chang,Tung-Chieh Chen	10.1109/DAC18074.2021.9586294
+On The Efficiency of Sparse-Tiled Tensor Graph Processing For Low Memory Usage.	Antonio Cipolletta,Andrea Calimera	10.1109/DAC18074.2021.9586154
+PRUID: Practical User Interface Distribution for Multi-surface Computing.	Menglong Cui,Mingsong Lv,Qingqiang He,Caiqi Zhang,Chuancai Gu,Tao Yang,Nan Guan	10.1109/DAC18074.2021.9586162
+New Predictor-Based Attacks in Processors.	Shuwen Deng,Jakub Szefer	10.1109/DAC18074.2021.9586089
+Learning Pareto-Frontier Resource Management Policies for Heterogeneous SoCs: An Information-Theoretic Approach.	Aryan Deshwal,Syrine Belakaria,Ganapati Bhat,Janardhan Rao Doppa,Partha Pratim Pande	10.1109/DAC18074.2021.9586283
+Distributed Memory Guard: Enabling Secure Enclave Computing in NoC-based Architectures.	Ghada Dessouky,Mihailo Isakov,Michel A. Kinsy,Pouya Mahmoody,Miguel Mark,Ahmad-Reza Sadeghi,Emmanuel Stapf,Shaza Zeitouni	10.1109/DAC18074.2021.9586222
+ISA Modeling with Trace Notation for Context Free Property Generation.	Keerthikumara Devarajegowda,Endri Kaja,Sebastian Siegfried Prebeck,Wolfgang Ecker	10.1109/DAC18074.2021.9586264
+SHORE: Hardware/Software Method for Memory Safety Acceleration on RISC-V.	Hsu-Kang Dow,Tuo Li 0001,William Miles,Sri Parameswaran	10.1109/DAC18074.2021.9586293
+High-Performance FPGA-based Accelerator for Bayesian Neural Networks.	Hongxiang Fan,Martin Ferianc,Miguel Rodrigues 0001,Hongyu Zhou,Xinyu Niu,Wayne Luk	10.1109/DAC18074.2021.9586137
+Neuromorphic Algorithm-hardware Codesign for Temporal Pattern Learning.	Haowen Fang,Brady Taylor,Ziru Li,Zaidao Mei,Hai Helen Li,Qinru Qiu	10.1109/DAC18074.2021.9586133
+SGL: Spectral Graph Learning from Measurements.	Zhuo Feng	10.1109/DAC18074.2021.9586124
+CoSPARSE: A Software and Hardware Reconfigurable SpMV Framework for Graph Analytics.	Siying Feng,Jiawen Sun,Subhankar Pal,Xin He,Kuba Kaszyk,Dong-Hyeon Park,John Magnus Morton,Trevor N. Mudge,Murray Cole,Michael F. P. O&apos;Boyle,Chaitali Chakrabarti,Ronald G. Dreslinski	10.1109/DAC18074.2021.9586114
+Invited: Bambu: an Open-Source Research Framework for the High-Level Synthesis of Complex Applications.	Fabrizio Ferrandi,Vito Giovanni Castellana,Serena Curzel,Pietro Fezzardi,Michele Fiorito,Marco Lattuada 0001,Marco Minutoli,Christian Pilato,Antonino Tumeo	10.1109/DAC18074.2021.9586110
+General Chair&apos;s Message.	Harry Foster	10.1109/DAC18074.2021.9586182
+Safety in Autonomous Driving: Can Tools Offer Guarantees?	Daniel J. Fremont,Alberto L. Sangiovanni-Vincentelli,Sanjit A. Seshia	10.1109/DAC18074.2021.9586292
+InstantNet: Automated Generation and Deployment of Instantaneously Switchable-Precision Networks.	Yonggan Fu,Zhongzhi Yu,Yongan Zhang,Yifan Jiang 0001,Chaojian Li,Yongyuan Liang,Mingchao Jiang,Zhangyang Wang,Yingyan Lin	10.1109/DAC18074.2021.9586254
+A3C-S: Automated Agent Accelerator Co-Search towards Efficient Deep Reinforcement Learning.	Yonggan Fu,Yongan Zhang,Chaojian Li,Zhongzhi Yu,Yingyan Lin	10.1109/DAC18074.2021.9586305
+Topology Agnostic Virtual Channel Assignment and Protocol Level Deadlock Avoidance in a Network-on-Chip.	Anup Gangwar,Ravishankar Sreedharan,Ambica Prasad,Nitin Kumar Agarwal,Sri Harsha Gade	10.1109/DAC18074.2021.9586196
+Bayesian Inference Based Robust Computing on Memristor Crossbar.	Di Gao,Qingrong Huang,Grace Li Zhang,Xunzhao Yin,Bing Li 0005,Ulf Schlichtmann,Cheng Zhuo	10.1109/DAC18074.2021.9586160
+Interactive Analog Layout Editing with Instant Placement Legalization.	Xiaohan Gao,Mingjie Liu,David Z. Pan,Yibo Lin	10.1109/DAC18074.2021.9586234
+An Intelligent Video Processing Architecture for Edge-cloud Video Streaming.	Chengsi Gao,Ying Wang 0001,Weiwei Chen,Lei Zhang 0008	10.1109/DAC18074.2021.9586328
+Gemmini: Enabling Systematic Deep-Learning Architecture Evaluation via Full-Stack Integration.	Hasan Genc,Seah Kim,Alon Amid,Ameer Haj-Ali,Vighnesh Iyer,Pranav Prakash,Jerry Zhao,Daniel Grubb,Harrison Liew,Howard Mao,Albert J. Ou,Colin Schmidt 0001,Samuel Steffl,John Charles Wright,Ion Stoica,Jonathan Ragan-Kelley,Krste Asanovic,Borivoje Nikolic,Yakun Sophia Shao	10.1109/DAC18074.2021.9586216
+An Efficient Algorithm for Sparse Quantum State Preparation.	Niels Gleinig,Torsten Hoefler	10.1109/DAC18074.2021.9586240
+Classifying Computations on Multi-Tenant FPGAs.	Mustafa S. Gobulukoglu,Colin Drewes,William Hunter,Ryan Kastner,Dustin Richmond	10.1109/DAC18074.2021.9586098
+MyML: User-Driven Machine Learning.	Vidushi Goyal,Valeria Bertacco,Reetuparna Das	10.1109/DAC18074.2021.9586320
+A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs.	Zizheng Guo,Tsung-Wei Huang,Yibo Lin	10.1109/DAC18074.2021.9586085
+GPU-accelerated Path-based Timing Analysis.	Guannan Guo,Tsung-Wei Huang,Yibo Lin,Martin D. F. Wong	10.1109/DAC18074.2021.9586316
+GRAPHSPY: Fused Program Semantic Embedding through Graph Neural Networks for Memory Efficiency.	Yixin Guo,Pengcheng Li 0001,Yingwei Luo,Xiaolin Wang 0001,Zhenlin Wang	10.1109/DAC18074.2021.9586120
+Ultrafast CPU/GPU Kernels for Density Accumulation in Placement.	Zizheng Guo,Jing Mai,Yibo Lin	10.1109/DAC18074.2021.9586149
+Formulating Data-arrival Synchronizers in Integer Linear Programming for CGRA Mapping.	Yijiang Guo,Jiarui Wang,Jiaxi Zhang 0001,Guojie Luo	10.1109/DAC18074.2021.9586267
+Invited: Accelerating Fully Homomorphic Encryption with Processing in Memory.	Saransh Gupta,Tajana Simunic Rosing	10.1109/DAC18074.2021.9586285
+Late Breaking Results: Attention in Graph2Seq Neural Networks towards Push-Button Analog IC Placement.	António Gusmão 0001,Nuno Horta,Nuno Lourenço 0003,Ricardo Martins 0003	10.1109/DAC18074.2021.9586177
+BLOwing Trees to the Ground: Layout Optimization of Decision Trees on Racetrack Memory.	Christian Hakert,Asif Ali Khan,Kuan-Hsun Chen,Fazal Hameed,Jerónimo Castrillón,Jian-Jia Chen	10.1109/DAC18074.2021.9586167
+Building scalable variational circuit training for machine learning tasks.	Kathleen E. Hamilton,Emily Lynn,Tyler Kharazi,Titus Morris,Ryan S. Bennink,Raphael C. Pooser	10.1109/DAC18074.2021.9586171
+Secure Logic Locking with Strain-Protected Nanomagnet Logic.	Naimul Hassan,Alexander J. Edwards,Dhritiman Bhattacharya,Mustafa M. Shihab,Varun Venkat,Peng Zhou,Xuan Hu,Shamik Kundu,Abraham Peedikayil Kuruvila,Kanad Basu,Jayasimha Atulasimha,Yiorgos Makris,Joseph S. Friedman	10.1109/DAC18074.2021.9586258
+Circuit Connectivity Inspired Neural Network for Analog Mixed-Signal Functional Modeling.	Mohsen Hassanpourghadi,Shiyu Su,Rezwan A. Rasul,Juzheng Liu,Qiaochu Zhang,Mike Shuo-Wei Chen	10.1109/DAC18074.2021.9586236
+GCiM: A Near-Data Processing Accelerator for Graph Construction.	Lei He 0016,Cheng Liu 0008,Ying Wang 0001,Shengwen Liang,Huawei Li 0001,Xiaowei Li 0001	10.1109/DAC18074.2021.9586221
+TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning.	Yintao He,Ying Wang 0001,Cheng Liu 0008,Huawei Li 0001,Xiaowei Li 0001	10.1109/DAC18074.2021.9586193
+PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Systems.	Alejandro Hernández-Cano,Rosario Cammarota,Mohsen Imani	10.1109/DAC18074.2021.9586217
+RegHD: Robust and Efficient Regression in Hyper-Dimensional Learning System.	Alejandro Hernández-Cano,Cheng Zhuo,Xunzhao Yin,Mohsen Imani	10.1109/DAC18074.2021.9586284
+TCL: an ANN-to-SNN Conversion with Trainable Clipping Layers.	Nguyen-Dong Ho,Ik-Joon Chang	10.1109/DAC18074.2021.9586266
+Approximate Equivalence Checking of Noisy Quantum Circuits.	Xin Hong,Mingsheng Ying,Yuan Feng 0001,Xiangzhen Zhou,Sanjiang Li	10.1109/DAC18074.2021.9586214
+A Bridge-based Compression Algorithm for Topological Quantum Circuits.	Chen-Hao Hsu,Wan-Hsuan Lin,Wei-Hsiang Tseng,Yao-Wen Chang	10.1109/DAC18074.2021.9586322
+Sensitivity Importance Sampling Yield Analysis and Optimization for High Sigma Failure Rate Estimation.	Wenfei Hu,Zhikai Wang,Sen Yin,Zuochang Ye,Yan Wang 0023	10.1109/DAC18074.2021.9586136
+ZeroBN: Learning Compact Neural Networks For Latency-Critical Edge Systems.	Shuo Huai,Lei Zhang 0072,Di Liu 0002,Weichen Liu,Ravi Subramaniam	10.1109/DAC18074.2021.9586309
+RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU.	Geonhwa Jeong,Eric Qin 0001,Ananda Samajdar,Christopher J. Hughes,Sreenivas Subramoney,Hyesoon Kim,Tushar Krishna	10.1109/DAC18074.2021.9586257
+Enabling On-Device Model Personalization for Ventricular Arrhythmias Detection by Generative Adversarial Networks.	Zhenge Jia,Feng Hong,Lichuan Ping,Yiyu Shi 0001,Jingtong Hu	10.1109/DAC18074.2021.9586123
+TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra.	Liancheng Jia,Zizhang Luo,Liqiang Lu,Yun Liang 0001	10.1109/DAC18074.2021.9586329
+UMOC: Unified Modular Ordering Constraints to Unify Cycle- and Register-Transfer-Level Modeling.	Shunning Jiang,Yanghui Ou,Peitian Pan,Christopher Batten	10.1109/DAC18074.2021.9586130
+TAIT: One-Shot Full-Integer Lightweight DNN Quantization via Tunable Activation Imbalance Transfer.	Weixiong Jiang,Heng Yu 0001,Xinzhe Liu,Hao Sun,Rui Li,Yajun Ha	10.1109/DAC18074.2021.9586109
+Quantifying Rowhammer Vulnerability for DRAM Security.	Yichen Jiang,Huifeng Zhu,Dean Sullivan,Xiaolong Guo,Xuan Zhang 0001,Yier Jin	10.1109/DAC18074.2021.9586119
+EMGraph: Fast Learning-Based Electromigration Analysis for Multi-Segment Interconnect Using Graph Convolution Networks.	Wentian Jin,Liang Chen,Sheriff Sadiqbatcha,Shaoyi Peng,Sheldon X.-D. Tan	10.1109/DAC18074.2021.9586239
+ST2 GPU: An Energy-Efficient GPU Design with Spatio-Temporal Shared-Thread Speculative Adders.	Vijay Kandiah,Ali Murat Gök,Georgios Tziantzioulis,Nikos Hardavellas	10.1109/DAC18074.2021.9586093
+FALCON Down: Breaking FALCON Post-Quantum Signature Scheme through Side-Channel Attacks.	Emre Karabulut,Aydin Aysu	10.1109/DAC18074.2021.9586131
+Rewrite to Reinforce: Rewriting the Binary to Apply Countermeasures against Fault Injection.	Pantea Kiaei,Cees-Bart Breunesse,Mohsen Ahmadi,Patrick Schaumont,Jasper Van Woudenberg	10.1109/DAC18074.2021.9586278
+CascadeHD: Efficient Many-Class Learning Framework Using Hyperdimensional Computing.	Yeseong Kim,Jiseung Kim 0005,Mohsen Imani	10.1109/DAC18074.2021.9586235
+Dynamic Chip Clustering and Task Allocation for Real-time Flash.	Gyeongtaek Kim,Sungjin Lee,Hoon Sung Chwa	10.1109/DAC18074.2021.9586252
+Micro-bumping, Hybrid Bonding, or Monolithic? A PPA Study for Heterogeneous 3D IC Options.	Jinwoo Kim,Lingjun Zhu,Hakki Mert Torun,Madhavan Swaminathan,Sung Kyu Lim	10.1109/DAC18074.2021.9586229
+Securing Hardware via Dynamic Obfuscation Utilizing Reconfigurable Interconnect and Logic Blocks.	Gaurav Kolhe,Soheil Salehi,Tyler David Sheaves,Houman Homayoun,Setareh Rafatirad,Sai Manoj P. D.,Avesta Sasan	10.1109/DAC18074.2021.9586242
+Load-Step: A Precise TrustZone Execution Control Framework for Exploring New Side-channel Attacks Like Flush+Evict.	Zili Kou,Wenjian He,Sharad Sinha,Wei Zhang 0012	10.1109/DAC18074.2021.9586226
+Towards Improving the Trustworthiness of Hardware based Malware Detector using Online Uncertainty Estimation.	Harshit Kumar,Nikhil Chawla,Saibal Mukhopadhyay	10.1109/DAC18074.2021.9586288
+Statheros: Compiler for Efficient Low-Precision Probabilistic Programming.	Jacob Laurel,Rem Yang,Atharva Sehgal,Shubham Ugare,Sasa Misailovic	10.1109/DAC18074.2021.9586276
+Ultra-Fast CGRA Scheduling to Enable Run Time, Programmable CGRAs.	Jinho Lee,Trevor E. Carlson	10.1109/DAC18074.2021.9586255
+A Charge-Sharing based 8T SRAM In-Memory Computing for Edge DNN Acceleration.	Kyeongho Lee,Sungsoo Cheon,Joongho Jo,Woong Choi,Jongsun Park 0001	10.1109/DAC18074.2021.9586103
+Dataflow Mirroring: Architectural Support for Highly Efficient Fine-Grained Spatial Multitasking on Systolic-Array NPUs.	Jounghoo Lee,Jinwoo Choi,Jaeyeon Kim,Jinho Lee,Youngsok Kim	10.1109/DAC18074.2021.9586312
+Efficient Error-Correcting-Code Mechanism for High-Throughput Memristive Processing-in-Memory.	Orian Leitersdorf,Ben Perach,Ronny Ronen,Shahar Kvatinsky	10.1109/DAC18074.2021.9586324
+Invited: Drug Discovery Approaches using Quantum Machine Learning.	Junde Li,Mahabubul Alam,Congzhou M. Sha,Jian Wang 0094,Nikolay V. Dokholyan,Swaroop Ghosh	10.1109/DAC18074.2021.9586268
+BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs.	Hebi Li,Youbiao He,Qi Xiao,Jin Tian 0001,Forrest Sheng Bao	10.1109/DAC18074.2021.9586086
+Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects.	Yuan Li 0029,Ahmed Louri,Avinash Karanth	10.1109/DAC18074.2021.9586311
+AppealNet: An Efficient and Highly-Accurate Edge/Cloud Collaborative Architecture for DNN Inference.	Min Li 0019,Yu Li 0007,Ye Tian 0010,Li Jiang 0002,Qiang Xu 0001	10.1109/DAC18074.2021.9586176
+MobileSwap: Cross-Device Memory Swapping for Mobile Devices.	Changlong Li,Liang Shi,Chun Jason Xue	10.1109/DAC18074.2021.9586108
+SpV8: Pursuing Optimal Vectorization and Regular Computation Pattern in SpMV.	Chenyang Li,Tian Xia,Wenzhe Zhao,Nanning Zheng 0001,Pengju Ren	10.1109/DAC18074.2021.9586251
+Late Breaking Results: Physical Adversarial Attacks of Diffractive Deep Neural Networks.	Yingjie Li,Cunxi Yu	10.1109/DAC18074.2021.9586204
+Eco-feller: Minimizing the Energy Consumption of Random Forest Algorithm by an Eco-pruning Strategy over MLC NVRAM.	Yu-Pei Liang,Yung-Han Hsu,Tseng-Yi Chen,Shuo-Han Chen,Hsin-Wen Wei,Tsan-sheng Hsu,Wei-Kuan Shih	10.1109/DAC18074.2021.9586164
+Move-On-Modify: An Efficient yet Crash-Consistent Update Strategy for Interlaced Magnetic Recording.	Yuhong Liang,Ming-Chang Yang	10.1109/DAC18074.2021.9586091
+Fortifying RTL Locking Against Oracle-Less (Untrusted Foundry) and Oracle-Guided Attacks.	Nimisha Limaye,Animesh Basak Chowdhury,Christian Pilato,Mohammed Thari Nabeel,Ozgur Sinanoglu,Siddharth Garg,Ramesh Karri	10.1109/DAC18074.2021.9586314
+CDAR-DRAM: An In-situ Charge Detection and Adaptive Data Restoration DRAM Architecture for Performance and Energy Efficiency Improvement.	Chuxiong Lin,Weifeng He,Yanan Sun 0003,Zhigang Mao,Mingoo Seok	10.1109/DAC18074.2021.9586146
+ADROIT: An Adaptive Dynamic Refresh Optimization Framework for DRAM Energy Saving In DNN Training.	Xinhan Lin,Liang Sun,Fengbin Tu,Leibo Liu,Xiangyu Li,Shaojun Wei,Shouyi Yin	10.1109/DAC18074.2021.9586265
+A Complete PCB Routing Methodology with Concurrent Hierarchical Routing.	Shih-Ting Lin,Hung-Hsiao Wang,Chia-Yu Kuo,Yolo Chen,Yih-Lang Li	10.1109/DAC18074.2021.9586143
+NAAS: Neural Accelerator Architecture Search.	Yujun Lin 0001,Mengtian Yang,Song Han 0003	10.1109/DAC18074.2021.9586250
+Bitwidth-Optimized Energy-Efficient FFT Design via Scaling Information Propagation.	Xinzhe Liu,Fupeng Chen,Raees Kizhakkumkara Muhamad,David Blinder,Dessislava Nikolova,Peter Schelkens,Francky Catthoor,Yajun Ha	10.1109/DAC18074.2021.9586168
+REST: Constructing Rectilinear Steiner Minimum Tree via Reinforcement Learning.	Jinwei Liu,Gengjie Chen,Evangeline F. Y. Young	10.1109/DAC18074.2021.9586209
+F3D: Accelerating 3D Convolutional Neural Networks in Frequency Space Using ReRAM.	Bosheng Liu,Zhuoshen Jiang,Jigang Wu,Xiaoming Chen 0003,Yinhe Han 0001,Peng Liu 0045	10.1109/DAC18074.2021.9586135
+MEGATRON: Software-Managed Device TLB for Shared-Memory FPGA Virtualization.	Yanqiang Liu,Jiacheng Ma,Zhengjun Zhang,Linsheng Li,Zhengwei Qi,Haibing Guan	10.1109/DAC18074.2021.9586197
+Invited: Towards Fully Intelligent Transportation through Infrastructure-Vehicle Cooperative Autonomous Driving: Challenges and Opportunities.	Shaoshan Liu,Bo Yu,Jie Tang 0003,Qi Zhu	10.1109/DAC18074.2021.9586317
+PETRI: Reducing Bandwidth Requirement in Smart Surveillance by Edge-Cloud Collaborative Adaptive Frame Clustering and Pipelined Bidirectional Tracking.	Ruoyang Liu,Lu Zhang,Jingyu Wang,Huazhong Yang,Yongpan Liu	10.1109/DAC18074.2021.9586088
+Automated Compensation Scheme Design for Operational Amplifier via Bayesian Optimization.	Jialin Lu,Liangbo Lei,Fan Yang 0001,Changhao Yan,Xuan Zeng 0001	10.1109/DAC18074.2021.9586306
+RL-Sizer: VLSI Gate Sizing for Timing Optimization using Deep Reinforcement Learning.	Yi-Chen Lu,Siddhartha Nath,Vishal Khandelwal,Sung Kyu Lim	10.1109/DAC18074.2021.9586138
+A Framework for Optimizing CPU-iGPU Communication on Embedded Platforms.	Francesco Lumpp,Hiren D. Patel,Nicola Bombieri	10.1109/DAC18074.2021.9586304
+DeepStrike: Remotely-Guided Fault Injection Attacks on DNN Accelerator in Cloud-FPGA.	Yukui Luo,Cheng Gongye,Yunsi Fei,Xiaolin Xu	10.1109/DAC18074.2021.9586262
+HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing.	Dongning Ma,Jianmin Guo,Yu Jiang 0001,Xun Jiao	10.1109/DAC18074.2021.9586169
+Late Breaking Results: Polynomial Formal Verification of Fast Adders.	Alireza Mahzoon,Rolf Drechsler	10.1109/DAC18074.2021.9586107
+Synergically Rebalancing Parallel Execution via DCT and Turbo Boosting.	Sandro M. Marques,Thiarles S. Medeiros,Fábio Diniz Rossi,Marcelo Caggiani Luizelli,Antonio Carlos Schneider Beck,Arthur Francisco Lorenzon	10.1109/DAC18074.2021.9586201
+SoCCAR: Detecting System-on-Chip Security Violations Under Asynchronous Resets.	Xingyu Meng,Kshitij Raj,Atul Prasad Deb Nath,Kanad Basu,Sandip Ray	10.1109/DAC18074.2021.9586291
+INVITED: kCC-Net for Compression of Biomedical Image Segmentation Networks.	Suraj Mishra,Danny Z. Chen,X. Sharon Hu	10.1109/DAC18074.2021.9586113
+SeMPE: Secure Multi Path Execution Architecture for Removing Conditional Branch Side Channels.	Andrea Mondelli,Paul Gazzillo,Yan Solihin	10.1109/DAC18074.2021.9586183
+A Formal Approach to Confidentiality Verification in SoCs at the Register Transfer Level.	Johannes Müller,Mohammad Rahmani Fadiheh,Anna Lena Duque Antón,Thomas Eisenbarth 0001,Dominik Stoffel,Wolfgang Kunz	10.1109/DAC18074.2021.9586248
+HLock: Locking IPs at the High-Level Language.	Md Rafid Muttaki,Roshanak Mohammadivojdan,Mark M. Tehranipoor,Farimah Farahmandi	10.1109/DAC18074.2021.9586159
+SLAP: A Supervised Learning Approach for Priority Cuts Technology Mapping.	Walter Lau Neto,Matheus T. Moreira,Yingjie Li,Luca G. Amarù,Cunxi Yu,Pierre-Emmanuel Gaillardon	10.1109/DAC18074.2021.9586230
+Low-Cost and Effective Fault-Tolerance Enhancement Techniques for Emerging Memories-Based Deep Neural Networks.	Thai-Hoang Nguyen,Muhammad Imran 0010,Jaehyuk Choi 0001,Joon-Sung Yang	10.1109/DAC18074.2021.9586112
+DIALED: Data Integrity Attestation for Low-end Embedded Devices.	Ivan De Oliveira Nunes,Sashidhar Jakkamsetti,Gene Tsudik	10.1109/DAC18074.2021.9586180
+LENS: Layer Distribution Enabled Neural Architecture Search in Edge-Cloud Hierarchies.	Mohanad Odema,Nafiul Rashid,Berken Utku Demirel,Mohammad Abdullah Al Faruque	10.1109/DAC18074.2021.9586259
+AutoSVA: Democratizing Formal Verification of RTL Module Interactions.	Marcelo Orenes-Vera,Aninda Manocha,David Wentzlaff,Margaret Martonosi	10.1109/DAC18074.2021.9586118
+Theory-Specific Proof Steps Witnessing Correctness of SMT Executions.	Rodrigo Otoni,Martin Blicha,Patrick Eugster,Antti E. J. Hyvärinen,Natasha Sharygina	10.1109/DAC18074.2021.9586272
+Designing a 2048-Chiplet, 14336-Core Waferscale Processor.	Saptadeep Pal,Jingyang Liu,Irina Alam,Nicholas Cebry,Haris Suhail,Shi Bu,Subramanian S. Iyer,Sudhakar Pamarti,Rakesh Kumar 0002,Puneet Gupta 0001	10.1109/DAC18074.2021.9586194
+Reinforcement Learning-Assisted Cache Cleaning to Mitigate Long-Tail Latency in DM-SMR.	Yungang Pan,Zhiping Jia,Zhaoyan Shen,Bingzhe Li,Wanli Chang 0001,Zili Shao	10.1109/DAC18074.2021.9586084
+UPTPU: Improving Energy Efficiency of a Tensor Processing Unit through Underutilization Based Power-Gating.	Pramesh Pandey,Noel Daniel Gundi,Koushik Chakraborty,Sanghamitra Roy	10.1109/DAC18074.2021.9586224
+Noise-Robust Deep Spiking Neural Networks with Temporal Information.	Seongsik Park,Dongjin Lee,Sungroh Yoon	10.1109/DAC18074.2021.9586195
+Scaling up HBM Efficiency of Top-K SpMV for Approximate Embedding Similarity on FPGAs.	Alberto Parravicini,Luca Giuseppe Cellamare,Marco Siracusa,Marco D. Santambrogio	10.1109/DAC18074.2021.9586203
+qSeq: Full Algorithmic and Tool Support for Synthesizing Sequential Circuits in Superconducting SFQ Technology.	Ghasem Pasandi,Massoud Pedram	10.1109/DAC18074.2021.9586102
+Optimal Memory Allocation and Scheduling for DMA Data Transfers under the LET Paradigm.	Paolo Pazzaglia,Daniel Casini,Alessandro Biondi 0001,Marco Di Natale	10.1109/DAC18074.2021.9586200
+Heterogeneous Monolithic 3D ICs: EDA Solutions, and Power, Performance, Cost Tradeoffs.	Sai Surya Kiran Pentapati,Sung Kyu Lim	10.1109/DAC18074.2021.9586246
+Requirement Specification, Analysis and Verification for Autonomous Systems.	Alessandro Pinto	10.1109/DAC18074.2021.9586208
+StocHD: Stochastic Hyperdimensional System for Efficient and Robust Learning from Raw Data.	Prathyush Poduval,Zhuowen Zou,M. Hassan Najafi,Houman Homayoun,Mohsen Imani	10.1109/DAC18074.2021.9586166
+Cognitive Correlative Encoding for Genome Sequence Matching in Hyperdimensional System.	Prathyush Poduval,Zhuowen Zou,Xunzhao Yin,Elaheh Sadredini,Mohsen Imani	10.1109/DAC18074.2021.9586253
+SpikeDyn: A Framework for Energy-Efficient Spiking Neural Networks with Continual and Unsupervised Learning Capabilities in Dynamic Environments.	Rachmad Vidya Wicaksana Putra,Muhammad Shafique 0001	10.1109/DAC18074.2021.9586281
+SparkXD: A Framework for Resilient and Energy-Efficient Spiking Neural Network Inference using Approximate DRAM.	Rachmad Vidya Wicaksana Putra,Muhammad Abdullah Hanif,Muhammad Shafique 0001	10.1109/DAC18074.2021.9586332
+ASBP: Automatic Structured Bit-Pruning for RRAM-based NN Accelerator.	Songyun Qu,Bing Li,Ying Wang 0001,Lei Zhang 0008	10.1109/DAC18074.2021.9586105
+SmartBoost: Lightweight ML-Driven Boosting for Thermally-Constrained Many-Core Processors.	Martin Rapp,Mohammed Bakr Sikal,Heba Khdr,Jörg Henkel	10.1109/DAC18074.2021.9586287
+Invited- NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning.	Haoxing Ren,Matthew Fojtik	10.1109/DAC18074.2021.9586188
+Pruning In Time (PIT): A Lightweight Network Architecture Optimizer for Temporal Convolutional Networks.	Matteo Risso,Alessio Burrello,Daniele Jahier Pagliari,Francesco Conti 0001,Lorenzo Lamberti,Enrico Macii,Luca Benini,Massimo Poncino	10.1109/DAC18074.2021.9586187
+On the Intrinsic Robustness of NVM Crossbars Against Adversarial Attacks.	Deboleena Roy,Indranil Chakraborty,Timur Ibrayev,Kaushik Roy 0001	10.1109/DAC18074.2021.9586202
+Shortest Path to Secured Hardware: Domain Oriented Masking with High-Level-Synthesis.	Rajat Sadhukhan,Sayandeep Saha,Debdeep Mukhopadhyay	10.1109/DAC18074.2021.9586165
+KV-SSD: What Is It Good For?	Manoj Pravakar Saha,Adnan Maruf,Bryan S. Kim,Janki Bhimani	10.1109/DAC18074.2021.9586111
+Invited: End-to-End Secure SoC Lifecycle Management.	Md Sami Ul Islam Sami,Fahim Rahman,Farimah Farahmandi,Adam Cron,Mike Borza,Mark M. Tehranipoor	10.1109/DAC18074.2021.9586106
+Synthesizing Barrier Certificates of Neural Network Controlled Continuous Systems via Approximations.	Meng Sha,Xin Chen 0027,Yuzhe Ji,Qingye Zhao,Zhengfeng Yang,Wang Lin,Enyi Tang,Qiguang Chen,Xuandong Li	10.1109/DAC18074.2021.9586327
+CuckoOnsai: An Efficient Memory Authentication Using Amalgam of Cuckoo Filters and Integrity Trees.	Omais Shafi,Ismi Abidi	10.1109/DAC18074.2021.9586205
+Enabling the Design of Behavioral Systems-on-Chip.	Santosh Shetty,Benjamin Carrión Schäfer	10.1109/DAC18074.2021.9586263
+Reversible Gating Architecture for Rare Failure Detection of Analog and Mixed-Signal Circuits.	Myung Seok Shim,Hanbin Hu,Peng Li 0001	10.1109/DAC18074.2021.9586153
+Fault-free: A Fault-resilient Deep Neural Network Accelerator based on Realistic ReRAM Devices.	Hyein Shin,Myeonggu Kang,Lee-Sup Kim	10.1109/DAC18074.2021.9586286
+Tamper-Resistant Optical Logic Circuits Based on Integrated Nanophotonics.	Jun Shiomi,Shuya Kotsugi,Boyu Dong,Hidetoshi Onodera,Akihiko Shinya,Masaya Notomi	10.1109/DAC18074.2021.9586142
+A New, Computationally Efficient &quot;Blech Criterion&quot; for Immortality in General Interconnects.	Mohammad Abdullah Al Shohel,Vidya A. Chhabria,Sachin S. Sapatnekar	10.1109/DAC18074.2021.9586127
+In-Hardware Learning of Multilayer Spiking Neural Networks on a Neuromorphic Processor.	Amar Shrestha,Haowen Fang,Daniel Patrick Rider,Zaidao Mei,Qinru Qiu	10.1109/DAC18074.2021.9586323
+On-device Malware Detection using Performance-Aware and Robust Collaborative Learning.	Sanket Shukla,Sai Manoj P. D.,Gaurav Kolhe,Setareh Rafatirad	10.1109/DAC18074.2021.9586330
+Exact Neural Networks from Inexact Multipliers via Fibonacci Weight Encoding.	William Andrew Simon,Valérian Ray,Alexandre Levisse,Giovanni Ansaloni,Marina Zapater,David Atienza	10.1109/DAC18074.2021.9586245
+Prioritized Reinforcement Learning for Analog Circuit Optimization With Design Knowledge.	N. S. Karthik Somayaji,Hanbin Hu,Peng Li 0001	10.1109/DAC18074.2021.9586189
+BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System.	Tao Song,Xiaoming Chen 0003,Xiaoyu Zhang 0002,Yinhe Han 0001	10.1109/DAC18074.2021.9586247
+Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices.	Yuhong Song,Weiwen Jiang,Bingbing Li,Panjie Qi,Qingfeng Zhuge,Edwin Hsing-Mean Sha,Sakyasingha Dasgupta,Yiyu Shi 0001,Caiwen Ding	10.1109/DAC18074.2021.9586295
+GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks.	Jacob R. Stevens,Dipankar Das 0002,Sasikanth Avancha,Bharat Kaul,Anand Raghunathan	10.1109/DAC18074.2021.9586122
+Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers.	Jacob R. Stevens,Rangharajan Venkatesan,Steve Dai,Brucek Khailany,Anand Raghunathan	10.1109/DAC18074.2021.9586134
+CrossLight: A Cross-Layer Optimized Silicon Photonic Neural Network Accelerator.	Febin Sunny,Asif Mirza,Mahdi Nikdast,Sudeep Pasricha	10.1109/DAC18074.2021.9586161
+AdEle: An Adaptive Congestion-and-Energy-Aware Elevator Selection for Partially Connected 3D NoCs.	Ebadollah Taheri,Ryan Gary Kim,Mahdi Nikdast	10.1109/DAC18074.2021.9586174
+Invited: Independent Verification and Validation of Security-Aware EDA Tools and IP.	Benjamin Tan 0001,Siddharth Garg,Ramesh Karri,Yuntao Liu 0001,Michael Zuzak,Abhisek Chakraborty,Ankur Srivastava 0001,Omid Aramoon,Qian Xu,Gang Qu 0001,Adam A. Porter,Jeno Szep,Warren Savage	10.1109/DAC18074.2021.9586302
+ROLoad: Securing Sensitive Operations with Pointee Integrity.	Wende Tan,Yuan Li,Chao Zhang 0008,Xingman Chen,Songtao Yang,Ying Liu 0024,Jianping Wu	10.1109/DAC18074.2021.9586274
+Towards Reliable Spatial Memory Safety for Embedded Software by Combining Checked C with Concolic Testing.	Sören Tempel,Vladimir Herdt,Rolf Drechsler	10.1109/DAC18074.2021.9586170
+Invited: Getting the Most out of your Circuits with Heterogeneous Logic Synthesis.	Scott Temple,Walter Lau Neto,Ashton Snelgrove,Xifan Tang,Pierre-Emmanuel Gaillardon	10.1109/DAC18074.2021.9586215
+Invited: Trainable Discrete Feature Embeddings for Quantum Machine Learning.	Napat Thumwanit,Chayaphol Lortaraprasert,Rudy Raymond	10.1109/DAC18074.2021.9586190
+Late Breaking Results: Reinforcement Learning for Scalable Logic Optimization with Graph Neural Networks.	Xavier Timoneda,Lukas Cavigelli	10.1109/DAC18074.2021.9586206
+Local Bayesian Optimization For Analog Circuit Sizing.	Konstantinos Touloupas,Nikos Chouridis,Paul P. Sotiriadis	10.1109/DAC18074.2021.9586172
+Bit-Slicing the Hilbert Space: Scaling Up Accurate Quantum Circuit Simulation.	Yuan-Hung Tsai,Jie-Hong R. Jiang,Chiao-Shan Jhang	10.1109/DAC18074.2021.9586191
+RePIM: Joint Exploitation of Activation and Weight Repetitions for In-ReRAM DNN Acceleration.	Chen-Yang Tsai,Chin-Fu Nien,Tz-Ching Yu,Hung-Yu Yeh,Hsiang-Yun Cheng	10.1109/DAC18074.2021.9586315
+Subresolution Assist Feature Insertion by Variational Adversarial Active Learning and Clustering with Data Point Retrieval.	Sean Shang-En Tseng,Iris Hui-Ru Jiang,James P. Shiely	10.1109/DAC18074.2021.9586238
+QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code.	Yosuke Ueno,Masaaki Kondo,Masamitsu Tanaka,Yasunari Suzuki,Yutaka Tabuchi	10.1109/DAC18074.2021.9586326
+CLAppED: A Design Framework for Implementing Cross-Layer Approximation in FPGA-based Embedded Systems.	Salim Ullah,Siva Satyendra Sahoo,Akash Kumar 0001	10.1109/DAC18074.2021.9586260
+Late Breaking Results: Parallelizing Net Routing with cGANs.	Dmitry Utyamishev,Inna Partin-Vaisband	10.1109/DAC18074.2021.9586319
+EImprove - Optimizing Energy and Comfort in Buildings based on Formal Semantics and Reinforcement Learning.	Sagar Verma,Supriya Agrawal,R. Venkatesh 0001,Ulka Shrotri,Srinarayana Nagarathinam,Rajesh Jayaprakash,Aabriti Dutta	10.1109/DAC18074.2021.9586313
+Quantum Spectral Clustering of Mixed Graphs.	Daniel Volya,Prabhat Mishra 0001	10.1109/DAC18074.2021.9586308
+Analyzing and Improving Fault Tolerance of Learning-Based Navigation Systems.	Zishen Wan,Aqeel Anwar,Yu-Shun Hsiao,Tianyu Jia,Vijay Janapa Reddi,Arijit Raychowdhury	10.1109/DAC18074.2021.9586116
+An Automated and Process-Portable Generator for Phase-Locked Loop.	Zhongkai Wang,Minsoo Choi,Eric Chang,John Charles Wright,Wooham Bae,Sijun Du,Zhaokai Liu,Nathan Narevsky,Colin Schmidt 0001,Ayan Biswas,Borivoje Nikolic,Elad Alon	10.1109/DAC18074.2021.9586318
+Cocktail: Learn a Better Neural Network Controller from Multiple Experts via Adaptive Mixing and Robust Distillation.	Yixuan Wang,Chao Huang 0015,Zhilu Wang,Shichao Xu,Zhaoran Wang,Qi Zhu 0002	10.1109/DAC18074.2021.9586148
+Two-Stage Neural Network Classifier for the Data Imbalance Problem with Application to Hotspot Detection.	Bingshu Wang,Lanfan Jiang,Wenxing Zhu,Longkun Guo,Jianli Chen,Yao-Wen Chang	10.1109/DAC18074.2021.9586237
+A Novel Machine-Learning based SoC Performance Monitoring Methodology under Wide-Range PVT Variations with Unknown Critical Paths.	Ding-Hao Wang,Pei-Ju Lin,Hui-Ting Yang,Ching-An Hsu,Sin-Han Huang,Mark Po-Hung Lin	10.1109/DAC18074.2021.9586155
+PixelSieve: Towards Efficient Activity Analysis From Compressed Video Streams.	Yongchen Wang,Ying Wang 0001,Huawei Li 0001,Xiaowei Li 0001	10.1109/DAC18074.2021.9586310
+Network-on-Interposer Design for Agile Neural-Network Processor Chip Customization.	Mengdi Wang,Ying Wang 0001,Cheng Liu 0008,Lei Zhang 0008	10.1109/DAC18074.2021.9586261
+OpenMem: Hardware/Software Cooperative Management for Mobile Memory System.	Fei Wen,Mian Qin,Paul Gratz,A. L. Narasimha Reddy	10.1109/DAC18074.2021.9586186
+New Regular Expressions on Old Accelerators.	Jackson Woodruff,Michael F. P. O&apos;Boyle	10.1109/DAC18074.2021.9586095
+Enabling On-Device Self-Supervised Contrastive Learning with Selective Data Contrast.	Yawen Wu,Zhepeng Wang,Dewen Zeng,Yiyu Shi 0001,Jingtong Hu	10.1109/DAC18074.2021.9586228
+SGX-FPGA: Trusted Execution Environment for CPU-FPGA Heterogeneous Architecture.	Ke Xia,Yukui Luo,Xiaolin Xu,Sheng Wei 0001	10.1109/DAC18074.2021.9586207
+Low-Cost Lithography Hotspot Detection with Active Entropy Sampling and Model Calibration.	Yifeng Xiao,Miaodi Su,Haoyu Yang,Jianli Chen,Jun Yu 0010,Bei Yu 0001	10.1109/DAC18074.2021.9586273
+Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method.	Jiafeng Xie,Pengzhou He,Wujie Wen	10.1109/DAC18074.2021.9586151
+Obfuscated Priority Assignment to CAN-FD Messages with Dependencies: A Swapping-based and Affix-Matching Approach.	Guoqi Xie,Debayan Roy,Yawen Zhang,Renfa Li,Wanli Chang 0001	10.1109/DAC18074.2021.9586125
+Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering.	Lei Xie,Jidong Zhai,Weimin Zheng	10.1109/DAC18074.2021.9586145
+Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration.	Zirui Xu,Fuxun Yu,Jinjun Xiong,Xiang Chen 0010	10.1109/DAC18074.2021.9586241
+gGuard: Enabling Leakage-Resilient Memory Isolation in GPU-accelerated Autonomous Embedded Systems.	Yaswanth Yadlapalli,Husheng Zhou,Yuqun Zhang,Cong Liu 0005	10.1109/DAC18074.2021.9586244
+FIXAR: A Fixed-Point Deep Reinforcement Learning Platform with Quantization-Aware Training and Adaptive Parallelism.	Je Yang,Seongmin Hong,Joo-Young Kim 0001	10.1109/DAC18074.2021.9586213
+PIMGCN: A ReRAM-Based PIM Design for Graph Convolutional Network Acceleration.	Tao Yang,Dongyue Li,Yibo Han,Yilong Zhao,Fangxin Liu,Xiaoyao Liang,Zhezhi He,Li Jiang 0002	10.1109/DAC18074.2021.9586231
+3D-Adv: Black-Box Adversarial Attacks against Deep Learning Models through 3D Sensors.	Kaichen Yang,Xuan-Yi Lin,Yixin Sun,Tsung-Yi Ho,Yier Jin	10.1109/DAC18074.2021.9586275
+Trust-Region Method with Deep Reinforcement Learning in Analog Design Space Exploration.	Kai-En Yang,Chia-Yu Tsai,Hung-Hao Shen,Chen-Feng Chiang,Feng-Ming Tsai,Chung-An Wang,Yiju Ting,Chia-Shun Yeh,Chin-Tang Lai	10.1109/DAC18074.2021.9586087
+GNN4IP: Graph Neural Network for Hardware Intellectual Property Piracy Detection.	Rozhin Yasaei,Shih-Yuan Yu,Emad Kasaeyan Naeini,Mohammad Abdullah Al Faruque	10.1109/DAC18074.2021.9586150
+BayesFT: Bayesian Optimization for Fault Tolerant Neural Network Architecture.	Nanyang Ye 0001,Jingbiao Mei,Zhicheng Fang,Yuwen Zhang,Ziqing Zhang,Huaying Wu,Xiaoyao Liang	10.1109/DAC18074.2021.9586115
+FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control.	Yutong Ye,Wupan Zhao,Tongquan Wei,Shiyan Hu,Mingsong Chen	10.1109/DAC18074.2021.9586175
+JPDHeap: A JVM Heap Design for PM-DRAM Memories.	Litong You,Tianxiao Gu,Shengan Zheng,Jianmei Guo,Sanhong Li,Yuting Chen,Linpeng Huang	10.1109/DAC18074.2021.9586279
+COSAIM: Counter-based Stochastic-behaving Approximate Integer Multiplier for Deep Neural Networks.	Shuyuan Yu,Yibo Liu,Sheldon X.-D. Tan	10.1109/DAC18074.2021.9586097
+Cross-Device Profiled Side-Channel Attacks using Meta-Transfer Learning.	Honggang Yu,Haoqi Shan,Maximillian Panoff,Yier Jin	10.1109/DAC18074.2021.9586100
+Optimizing ADC Utilization through Value-Aware Bypass in ReRAM-based DNN Accelerator.	HanCheon Yun,Hyein Shin,Myeonggu Kang,Lee-Sup Kim	10.1109/DAC18074.2021.9586140
+Invited: Hardware-aware Real-time Myocardial Segmentation Quality Control in Contrast Echocardiography.	Dewen Zeng,Yukun Ding,Haiyun Yuan,Meiping Huang,Xiaowei Xu 0004,Jian Zhuang,Jingtong Hu,Yiyu Shi 0001	10.1109/DAC18074.2021.9586158
+Training Acceleration for Deep Neural Networks: A Hybrid Parallelization Strategy.	Zihao Zeng,Chubo Liu,Zhuo Tang,Wanli Chang 0001,Kenli Li 0001	10.1109/DAC18074.2021.9586300
+Control Variate Approximation for DNN Accelerators.	Georgios Zervakis 0001,Ourania Spantidi,Iraklis Anagnostopoulos,Hussam Amrouch,Jörg Henkel	10.1109/DAC18074.2021.9586092
+Max-PIM: Fast and Efficient Max/Min Searching in DRAM.	Fan Zhang 0069,Shaahin Angizi,Deliang Fan	10.1109/DAC18074.2021.9586096
+PIM-Quantifier: A Processing-in-Memory Platform for mRNA Quantification.	Fan Zhang 0069,Shaahin Angizi,Naima Ahmed Fahmi,Wei Zhang 0076,Deliang Fan	10.1109/DAC18074.2021.9586144
+Towards Resilient Deployment of In-Memory Neural Networks with High Throughput.	Baogang Zhang,Rickard Ewetz	10.1109/DAC18074.2021.9586185
+Deep Integration of Circuit Simulator and SAT Solver.	He-Teng Zhang,Jie-Hong R. Jiang,Luca G. Amarù,Alan Mishchenko,Robert K. Brayton	10.1109/DAC18074.2021.9586331
+A Unified DNN Weight Pruning Framework Using Reweighted Optimization Methods.	Tianyun Zhang,Xiaolong Ma,Zheng Zhan 0001,Shanglin Zhou,Caiwen Ding,Makan Fardad,Yanzhi Wang	10.1109/DAC18074.2021.9586152
+PSC-TG: RTL Power Side-Channel Leakage Assessment with Test Pattern Generation.	Tao Zhang,Jungmin Park,Mark M. Tehranipoor,Farimah Farahmandi	10.1109/DAC18074.2021.9586210
+F-CAD: A Framework to Explore Hardware Accelerators for Codec Avatar Decoding.	Xiaofan Zhang 0001,Dawei Wang,Pierce Chuang,Shugao Ma,Deming Chen,Yuecheng Li	10.1109/DAC18074.2021.9586192
+Attentional Transfer is All You Need: Technology-aware Layout Pattern Generation.	Xiaopeng Zhang 0009,Haoyu Yang,Evangeline F. Y. Young	10.1109/DAC18074.2021.9586227
+A Lightweight Isolation Mechanism for Secure Branch Predictors.	Lutan Zhao,Peinan Li,Rui Hou 0001,Michael C. Huang 0001,Jiazhen Li,Lixin Zhang 0002,Xuehai Qian,Dan Meng	10.1109/DAC18074.2021.9586178
+SFLU: Synchronization-Free Sparse LU Factorization for Fast Circuit Simulation on GPUs.	Jianqi Zhao,Yao Wen,Yuchen Luo,Zhou Jin 0001,Weifeng Liu 0002,Zhenya Zhou	10.1109/DAC18074.2021.9586141
+Neural Pruning Search for Real-Time Object Detection of Autonomous Vehicles.	Pu Zhao 0001,Geng Yuan,Yuxuan Cai,Wei Niu,Qi Liu 0017,Wujie Wen,Bin Ren,Yanzhi Wang,Xue Lin	10.1109/DAC18074.2021.9586163
+A Compute-in-Memory Architecture Compatible with 3D NAND Flash that Parallelly Activates Multi-Layers.	Liang Zhao,Chu Yan,Fan Yang,Shifan Gao,Gabriel Rosca,Dan Manea,Zhichao Lu,Yi Zhao	10.1109/DAC18074.2021.9586271
+MAT: Processing In-Memory Acceleration for Long-Sequence Attention.	Minxuan Zhou,Yunhui Guo,Weihong Xu,Bin Li 0064,Kevin W. Eliceiri,Tajana Rosing	10.1109/DAC18074.2021.9586212
+An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance.	Changchun Zhou,Min Liu,Siyuan Qiu,Yifan He,Hailong Jiao	10.1109/DAC18074.2021.9586299
+BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices.	Zhe Zhou,Bizhao Shi,Zhe Zhang,Yijin Guan,Guangyu Sun 0003,Guojie Luo	10.1109/DAC18074.2021.9586181
+Distilling Arbitration Logic from Traces using Machine Learning: A Case Study on NoC.	Yuan Zhou,Hanyu Wang 0005,Jieming Yin,Zhiru Zhang	10.1109/DAC18074.2021.9586301
+Late Breaking Results: Incremental 3D Global Routing Considering Cell Movement.	Peng Zou,Zhifeng Lin,Chenyue Ma,Jun Yu 0010,Jianli Chen	10.1109/DAC18074.2021.9586277
+SEALing Neural Network Models in Encrypted Deep Learning Accelerators.	Pengfei Zuo,Yu Hua 0001,Ling Liang,Xinfeng Xie,Xing Hu 0001,Yuan Xie 0001	10.1109/DAC18074.2021.9586199
+PAVFuzz: State-Sensitive Fuzz Testing of Protocols in Autonomous Vehicles.	Feilong Zuo,Zhengxiong Luo,Junze Yu,Zhe Liu 0001,Yu Jiang 0001	10.1109/DAC18074.2021.9586321
+A Resource Binding Approach to Logic Obfuscation.	Michael Zuzak,Yuntao Liu 0001,Ankur Srivastava 0001	10.1109/DAC18074.2021.9586179
+58th ACM/IEEE Design Automation Conference, DAC 2021, San Francisco, CA, USA, December 5-9, 2021		10.1109/DAC18074.2021

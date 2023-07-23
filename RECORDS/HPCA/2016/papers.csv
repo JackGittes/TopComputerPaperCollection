@@ -1,0 +1,58 @@
+Approximating warps with intra-warp operand value similarity.	Daniel Wong 0001,Nam Sung Kim,Murali Annavaram	10.1109/HPCA.2016.7446063
+Selective GPU caches to eliminate CPU-GPU HW cache coherence.	Neha Agarwal,David W. Nellans,Eiman Ebrahimi,Thomas F. Wenisch,John Danskin,Stephen W. Keckler	10.1109/HPCA.2016.7446089
+Modeling cache performance beyond LRU.	Nathan Beckmann,Daniel Sánchez 0003	10.1109/HPCA.2016.7446067
+Memristive Boltzmann machine: A hardware accelerator for combinatorial optimization and deep learning.	Mahdi Nazm Bojnordi,Engin Ipek	10.1109/HPCA.2016.7446049
+Low-Cost Inter-Linked Subarrays (LISA): Enabling fast inter-subarray data movement in DRAM.	Kevin K. Chang,Prashant J. Nair,Donghyuk Lee,Saugata Ghose,Moinuddin K. Qureshi,Onur Mutlu	10.1109/HPCA.2016.7446095
+A low power software-defined-radio baseband processor for the Internet of Things.	Yajing Chen,Shengshuo Lu,Hun-Seok Kim,David T. Blaauw,Ronald G. Dreslinski,Trevor N. Mudge	10.1109/HPCA.2016.7446052
+Efficient GPU hardware transactional memory through early conflict resolution.	Sui Chen,Lu Peng 0001	10.1109/HPCA.2016.7446071
+SLaC: Stage laser control for a flattened butterfly network.	Yigit Demir,Nikos Hardavellas	10.1109/HPCA.2016.7446075
+Venice: Exploring server architectures for effective resource sharing.	Jianbo Dong,Rui Hou 0001,Michael C. Huang 0001,Tao Jiang 0010,Boyan Zhao,Sally A. McKee,Haibin Wang,Xiaosong Cui,Lixin Zhang 0002	10.1109/HPCA.2016.7446090
+Atomic persistence for SCM with a non-intrusive backend controller.	Kshitij A. Doshi,Ellis Giles,Peter J. Varman	10.1109/HPCA.2016.7446055
+SCsafe: Logging sequential consistency violations continuously and precisely.	Yuelu Duan,David A. Koufaty,Josep Torrellas	10.1109/HPCA.2016.7446069
+Symbiotic job scheduling on the IBM POWER8.	Josué Feliu,Stijn Eyerman,Julio Sahuquillo,Salvador Petit	10.1109/HPCA.2016.7446103
+Lattice priority scheduling: Low-overhead timing-channel protection for a shared memory controller.	Andrew Ferraiuolo,Yao Wang 0008,Danfeng Zhang,Andrew C. Myers,G. Edward Suh	10.1109/HPCA.2016.7446080
+HRL: Efficient and flexible reconfigurable logic for near-data processing.	Mingyu Gao 0001,Christos Kozyrakis	10.1109/HPCA.2016.7446059
+Improving smartphone user experience by balancing performance and energy with probabilistic QoS guarantee.	Benjamin Gaudette,Carole-Jean Wu,Sarma B. K. Vrudhula	10.1109/HPCA.2016.7446053
+ScalCore: Designing a core for voltage scalability.	Bhargava Gopireddy,Choungki Song,Josep Torrellas,Nam Sung Kim,Aditya Agrawal,Asit K. Mishra	10.1109/HPCA.2016.7446104
+Mobile CPU&apos;s rise to power: Quantifying the impact of generational mobile CPU design trends on performance, energy, and user satisfaction.	Matthew Halpern,Yuhao Zhu 0001,Vijay Janapa Reddi	10.1109/HPCA.2016.7446054
+ChargeCache: Reducing DRAM latency by exploiting row access locality.	Hasan Hassan,Gennady Pekhimenko,Nandita Vijaykumar,Vivek Seshadri,Donghyuk Lee,Oguz Ergin,Onur Mutlu	10.1109/HPCA.2016.7446096
+LiveSim: Going live with microarchitecture simulation.	Sina Hassani,Gabriel Southern,Jose Renau	10.1109/HPCA.2016.7446098
+Cache QoS: From concept to reality in the Intel® Xeon® processor E5-2600 v3 product family.	Andrew Herdrich,Edwin Verplanke,Priya Autee,Ramesh Illikkal,Chris Gianos,Ronak Singhal,Ravi R. Iyer 0001	10.1109/HPCA.2016.7446102
+A market approach for handling power emergencies in multi-tenant data center.	Mohammad A. Islam 0001,Xiaoqi Ren,Shaolei Ren,Adam Wierman,Xiaorui Wang	10.1109/HPCA.2016.7446084
+Efficient footprint caching for Tagless DRAM Caches.	Hakbeom Jang,Yongjun Lee,Jongwon Kim,Youngsok Kim,Jangwoo Kim,Jinkyu Jeong,Jae W. Lee	10.1109/HPCA.2016.7446068
+Parity Helix: Efficient protection for single-dimensional faults in multi-dimensional memory systems.	Xun Jian 0002,Vilas Sridharan,Rakesh Kumar 0002	10.1109/HPCA.2016.7446094
+A complete key recovery timing attack on a GPU.	Zhen Hang Jiang,Yunsi Fei,David R. Kaeli	10.1109/HPCA.2016.7446081
+Energy-efficient address translation.	Vasileios Karakostas,Jayneel Gandhi,Adrián Cristal,Mark D. Hill,Kathryn S. McKinley,Mario Nemirovsky,Michael M. Swift,Osman S. Unsal	10.1109/HPCA.2016.7446100
+A low-power hybrid reconfigurable architecture for resistive random-access memories.	Miguel Angel Lastras-Montaño,Amirali Ghofrani,Kwang-Ting Cheng	10.1109/HPCA.2016.7446057
+iPAWS: Instruction-issue pattern-based adaptive warp scheduling for GPGPUs.	Minseok Lee,Gwangsun Kim,John Kim,Woong Seo,Yeon-Gon Cho,Soojung Ryu	10.1109/HPCA.2016.7446079
+Warped-preexecution: A GPU pre-execution approach for improving latency hiding.	Keunsoo Kim,Sangpil Lee,Myung Kuk Yoon,Gunjae Koo,Won Woo Ro,Murali Annavaram	10.1109/HPCA.2016.7446062
+The runahead network-on-chip.	Zimo Li,Joshua San Miguel,Natalie D. Enright Jerger	10.1109/HPCA.2016.7446076
+SizeCap: Efficiently handling power surges in fuel cell powered data centers.	Yang Li 0183,Di Wang 0003,Saugata Ghose,Jie Liu 0001,Sriram Govindan,Sean James,Eric Peterson,John Siegler,Rachata Ausavarungnirun,Onur Mutlu	10.1109/HPCA.2016.7446085
+CATalyst: Defeating last-level cache side channel attacks in cloud computing.	Fangfei Liu,Qian Ge 0001,Yuval Yarom,Frank McKeen,Carlos V. Rozas,Gernot Heiser,Ruby B. Lee	10.1109/HPCA.2016.7446082
+LASER: Light, Accurate Sharing dEtection and Repair.	Liang Luo,Akshitha Sriraman,Brooke Fugate,Shiliang Hu,Gilles Pokam,Chris J. Newburn,Joseph Devietti	10.1109/HPCA.2016.7446070
+TABLA: A unified template-based framework for accelerating statistical machine learning.	Divya Mahajan 0001,Jongse Park,Emmanuel Amaro,Hardik Sharma,Amir Yazdanbakhsh,Joon Kyung Kim,Hadi Esmaeilzadeh	10.1109/HPCA.2016.7446050
+RADAR: Runtime-assisted dead region management for last-level caches.	Madhavan Manivannan,Vassilis Papaefstathiou,Miquel Pericàs,Per Stenström	10.1109/HPCA.2016.7446101
+Best-offset hardware prefetching.	Pierre Michaud	10.1109/HPCA.2016.7446087
+McVerSi: A test generation framework for fast memory consistency verification in simulation.	Marco Elver,Vijay Nagarajan	10.1109/HPCA.2016.7446099
+A large-scale study of soft-errors on GPUs in the field.	Bin Nie,Devesh Tiwari,Saurabh Gupta 0002,Evgenia Smirni,James H. Rogers	10.1109/HPCA.2016.7446091
+Pushing the limits of accelerator efficiency while retaining programmability.	Tony Nowatzki,Vinay Gangadhar,Karthikeyan Sankaralingam,Greg Wright	10.1109/HPCA.2016.7446051
+CompEx: Compression-expansion coding for energy, latency, and lifetime improvements in MLC/TLC NVM.	Poovaiah M. Palangappa,Kartik Mohanram	10.1109/HPCA.2016.7446056
+PleaseTM: Enabling transaction conflict management in requester-wins hardware transactional memory.	Sunjae Park,Milos Prvulovic,Christopher J. Hughes	10.1109/HPCA.2016.7446072
+A case for toggle-aware compression for GPU systems.	Gennady Pekhimenko,Evgeny Bolotin,Nandita Vijaykumar,Onur Mutlu,Todd C. Mowry,Stephen W. Keckler	10.1109/HPCA.2016.7446064
+Cost effective physical register sharing.	Arthur Perais,André Seznec	10.1109/HPCA.2016.7446105
+Design and implementation of a mobile storage leveraging the DRAM interface.	Sungyong Seo,Youngjin Cho,Youngkwang Yoo,Otae Bae,Jaegeun Park,Heehyun Nam,Sunmi Lee,Yongmyung Lee,Seungdo Chae,Moonsang Kwon,Jin-Hyeok Choi,Sangyeun Cho,Jaeheon Jeong,Duckhyun Chang	10.1109/HPCA.2016.7446092
+Amdahl&apos;s law for lifetime reliability scaling in heterogeneous multicore processors.	William J. Song,Saibal Mukhopadhyay,Sudhakar Yalamanchili	10.1109/HPCA.2016.7446097
+Minimal disturbance placement and promotion.	Elvira Teran,Yingying Tian,Zhe Wang 0023,Daniel A. Jiménez	10.1109/HPCA.2016.7446065
+Core tunneling: Variation-aware voltage noise mitigation in GPUs.	Renji Thomas,Kristin Barber,Naser Sedaghati,Li Zhou,Radu Teodorescu	10.1109/HPCA.2016.7446061
+Predicting the memory bandwidth and optimal core allocations for multi-threaded applications on large-scale NUMA machines.	Wei Wang 0054,Jack W. Davidson,Mary Lou Soffa	10.1109/HPCA.2016.7446083
+MaPU: A novel mathematical computing architecture.	Donglin Wang,Xueliang Du,Leizu Yin,Chen Lin,Hong Ma,Weili Ren,Huijuan Wang,Xingang Wang,Shaolin Xie,Lei Wang,Zijun Liu,Tao Wang,Zhonghua Pu,Guangxin Ding,Mengchen Zhu,Lipeng Yang,Ruoshan Guo,Zhiwei Zhang,Xiao Lin,Jie Hao,Yongyong Yang,Wenqin Sun,Fabiao Zhou,NuoZhou Xiao,Qian Cui,Xiaoqin Wang	10.1109/HPCA.2016.7446086
+A performance analysis framework for optimizing OpenCL applications on FPGAs.	Ze-ke Wang,Bingsheng He,Wei Zhang 0012,Shunning Jiang	10.1109/HPCA.2016.7446058
+Simultaneous Multikernel GPU: Multi-tasking throughput processors via fine-grained sharing.	Zhenning Wang,Jun Yang 0002,Rami G. Melhem,Bruce R. Childers,Youtao Zhang,Minyi Guo	10.1109/HPCA.2016.7446078
+DUANG: Fast and lightweight page migration in asymmetric memory systems.	Hao Wang 0011,Jie Zhang 0048,Sharmila Shridhar,Gieseo Park,Myoungsoo Jung,Nam Sung Kim	10.1109/HPCA.2016.7446088
+Software transparent dynamic binary translation for coarse-grain reconfigurable architectures.	Matthew A. Watkins,Tony Nowatzki,Anthony Carno	10.1109/HPCA.2016.7446060
+DVFS for NoCs in CMPs: A thread voting approach.	Yuan Yao 0009,Zhonghai Lu	10.1109/HPCA.2016.7446074
+Efficient synthetic traffic models for large, complex SoCs.	Jieming Yin,Onur Kayiran,Matthew Poremba,Natalie D. Enright Jerger,Gabriel H. Loh	10.1109/HPCA.2016.7446073
+Revisiting virtual L1 caches: A practical design using dynamic synonym remapping.	Hongil Yoon,Gurindar S. Sohi	10.1109/HPCA.2016.7446066
+Restore truncation for performance improvement in future DRAM systems.	XianWei Zhang,Youtao Zhang,Bruce R. Childers,Jun Yang 0002	10.1109/HPCA.2016.7446093
+Towards high performance paged memory for GPUs.	Tianhao Zheng,David W. Nellans,Arslan Zulfiqar,Mark Stephenson,Stephen W. Keckler	10.1109/HPCA.2016.7446077
+2016 IEEE International Symposium on High Performance Computer Architecture, HPCA 2016, Barcelona, Spain, March 12-16, 2016		

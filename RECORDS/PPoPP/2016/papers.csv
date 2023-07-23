@@ -1,0 +1,56 @@
+Articulation points guided redundancy elimination for betweenness centrality.	Lei Wang 0004	10.1145/2851141.2851154
+Exploiting accelerators for efficient high dimensional similarity search.	Sandeep R. Agrawal	10.1145/2851141.2851144
+GPU multisplit.	Saman Ashkiani	10.1145/2851141.2851169
+Multi-core on-the-fly SCC decomposition.	Vincent Bloemen	10.1145/2851141.2851161
+Drinking from both glasses: combining pessimistic and optimistic tracking of cross-thread dependences.	Man Cao	10.1145/2851141.2851143
+Contention-conscious, locality-preserving locks.	Milind Chabbi	10.1145/2851141.2851166
+A programming system for future proofing performance critical libraries.	Li-Wen Chang	10.1145/2851141.2851178
+ESTIMA: extrapolating scalability of in-memory applications.	Georgios Chatzopoulos	10.1145/2851141.2851159
+Samsara parallel: a non-BSP parallel-in-time model.	Yifeng Chen	10.1145/2851141.2851185
+AUTOGEN: automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs.	Rezaul Alam Chowdhury	10.1145/2851141.2851167
+Declarative coordination of graph-based parallel programs.	Flávio Cruz	10.1145/2851141.2851153
+Distributed Halide.	Tyler Denniston	10.1145/2851141.2851157
+Refined transactional lock elision.	Dave Dice	10.1145/2851141.2851162
+NUMA-aware scheduling and memory allocation for data-flow task-parallel applications.	Andi Drebes	10.1145/2851141.2851193
+Affinity-aware work-stealing for integrated CPU-GPU processors.	Naila Farooqui	10.1145/2851141.2851194
+An interval constrained memory allocator for the Givy GAS runtime.	François Gindraud	10.1145/2851141.2851195
+Optimistic concurrency with OPTIK.	Rachid Guerraoui	10.1145/2851141.2851146
+Lease/release: architectural support for scaling contended data structures.	Syed Kamran Haider	10.1145/2851141.2851155
+SPIRIT: a runtime system for distributed irregular tree applications.	Nikhil Hegde	10.1145/2851141.2851177
+DomLock: a new multi-granularity locking technique for hierarchies.	Saurabh Kalikar	10.1145/2851141.2851164
+A high-performance parallel algorithm for nonnegative matrix factorization.	Ramakrishnan Kannan	10.1145/2851141.2851152
+User-assisted storage reuse determination for dynamic task graphs.	Mehmet Can Kurt	10.1145/2851141.2851180
+Work stealing for interactive services to meet target latency.	Jing Li 0025	10.1145/2851141.2851151
+Hybrid CPU-GPU scheduling and execution of tree traversals.	Jianqiao Liu	10.1145/2851141.2851174
+Data-centric combinatorial optimization of parallel code.	Hao Luo 0007	10.1145/2851141.2851182
+Production-guided concurrency debugging.	Nuno Machado	10.1145/2851141.2851149
+Concurrent hash tables: fast and general?(!).	Tobias Maier	10.1145/2851141.2851188
+DSMR: a shared and distributed memory algorithm for single-source shortest path problem.	Saeed Maleki	10.1145/2851141.2851183
+Unifying fixed code and fixed data mapping of load-imbalanced pipelined loops.	Aristeidis Mastoras	10.1145/2851141.2851172
+Keep calm and react with foresight: strategies for low-latency and energy-efficient elastic data stream processing.	Tiziano De Matteis	10.1145/2851141.2851148
+Merge-based sparse matrix-vector multiplication (SpMV) using the CSR storage format.	Duane Merrill	10.1145/2851141.2851190
+On designing NUMA-aware concurrency control for scalable transactional memory.	Mohamed Mohamedin	10.1145/2851141.2851189
+Grain graphs: OpenMP performance analysis made easy.	Ananya Muddukrishna	10.1145/2851141.2851156
+The virtues of conflict: analysing modern concurrency.	Ganesh Narayanaswamy	10.1145/2851141.2851165
+Parallel type-checking with haskell using saturating LVars and stream generators.	Ryan R. Newton	10.1145/2851141.2851142
+A scalable lock-free hash table with open addressing.	Jesper Puge Nielsen	10.1145/2851141.2851196
+Efficient distributed workstealing via matchmaking.	Hrushit Parikh	10.1145/2851141.2851175
+Causal consistency: beyond memory.	Matthieu Perrin	10.1145/2851141.2851170
+CUDA acceleration for Xen virtual machines in infiniband clusters with rCUDA.	Javier Prades	10.1145/2851141.2851181
+OPR: deterministic group replay for one-sided communication.	Xuehai Qian	10.1145/2851141.2851179
+Preemption-aware planning on big-data systems.	Marco Rabozzi	10.1145/2851141.2851187
+Improving efficacy of internal binary search trees using local recovery.	Arunmoezhi Ramachandran	10.1145/2851141.2851173
+Tidex: a mutual exclusion lock.	Pedro Ramalhete	10.1145/2851141.2851171
+Verification of MPI Java programs using software model checking.	Waqas ur Rehman	10.1145/2851141.2851192
+Benchmarking weak memory models.	Carl G. Ritson	10.1145/2851141.2851150
+On ordering transaction commit.	Mohamed M. Saad	10.1145/2851141.2851191
+Generic messages: capability-based shared memory parallelism for event-loop systems.	Luca Salucci	10.1145/2851141.2851184
+Adding approximate counters.	Guy L. Steele Jr.	10.1145/2851141.2851147
+Coarse grain parallelization of deep neural networks.	Marc González Tallada	10.1145/2851141.2851158
+Effect of portable fine-grained locality on energy efficiency and performance in concurrent search trees.	Ibrahim Umar	10.1145/2851141.2851186
+Be my guest: MCS lock now welcomes guests.	Tianzheng Wang 0001	10.1145/2851141.2851160
+Gunrock: a high-performance graph processing library on the GPU.	Yangzihao Wang	10.1145/2851141.2851145
+High performance model based image reconstruction.	Xiao Wang 0004	10.1145/2851141.2851163
+A wait-free queue as fast as fetch-and-add.	Chaoran Yang	10.1145/2851141.2851168
+Scalable adaptive NUMA-aware lock: combining local locking and remote locking for efficient concurrency.	Mingzhe Zhang	10.1145/2851141.2851176
+Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP 2016, Barcelona, Spain, March 12-16, 2016	Rafael Asenjo	10.1145/2851141

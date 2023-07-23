@@ -1,0 +1,16 @@
+Extending Intel PML for hardware-assisted working set size estimation of VMs.	Stella Bitchebe,Djob Mvondo,Laurent Réveillère,Noël De Palma,Alain Tchana	10.1145/3453933.3454018
+Efficient LLVM-based dynamic binary translation.	Alexis Engelke,Dominik Okwieka,Martin Schulz 0001	10.1145/3453933.3454022
+virtio-mem: paravirtualized memory hot(un)plug.	David Hildenbrand,Martin Schulz 0001	10.1145/3453933.3454010
+BTMMU: an efficient and versatile cross-ISA memory virtualization.	Kele Huang,Fuxin Zhang,Cun Li,Gen Niu,Junrong Wu,Tianyi Liu	10.1145/3453933.3454015
+Mitigating excessive vCPU spinning in VM-agnostic KVM.	Kenta Ishiguro,Naoki Yasuno,Pierre-Louis Aublin,Kenji Kono	10.1145/3453933.3454020
+Adaptive live migration of virtual machines under limited network bandwidth.	Handong Li,Guangrong Xiao,Yulei Zhang,Ping Gao,Qiumin Lu,Jianguo Yao	10.1145/3453933.3454017
+Automated bug localization in JIT compilers.	HeuiChan Lim,Saumya Debray	10.1145/3453933.3454021
+Automatically exploiting the memory hierarchy of GPUs through just-in-time compilation.	Michail Papadimitriou,Juan Fumero,Athanasios Stratikopoulos,Christos Kotselidis	10.1145/3453933.3454014
+Multiple-tasks on multiple-devices (MTMD): exploiting concurrency in heterogeneous managed runtimes.	Michail Papadimitriou,Eleni Markou,Juan Fumero,Athanasios Stratikopoulos,Florin Blanaru,Christos Kotselidis	10.1145/3453933.3454019
+Spons &amp; Shields: practical isolation for trusted execution.	Vasily A. Sartakov,Daniel O&apos;Keeffe,David M. Eyers,Lluís Vilanova,Peter R. Pietzuch	10.1145/3453933.3454024
+Swift shadow paging (SSP): no write-protection but following TLB flushing.	Sai Sha,Yi Zhang,Yingwei Luo,Xiaolin Wang 0001,Zhenlin Wang	10.1145/3453933.3454012
+How to design a library OS for practical containers?	Hajime Tazaki,Akira Moroo,Yohei Kuga,Ryo Nakamura	10.1145/3453933.3454011
+(No)Compromis: paging virtualization is not a fatality.	Boris Teabe,Peterson Yuhala,Alain Tchana,Fabien Hermenier,Daniel Hagimont,Gilles Muller	10.1145/3453933.3454013
+Analysis of NVMe-SSD to passthrough GPU data transfer in virtualized systems.	Arunkumar Vediappan,Debadatta Mishra	10.1145/3453933.3454023
+Effective exploitation of SIMD resources in cross-ISA virtualization.	Jin Wu,Jian Dong,Ruili Fang,Ziyi Zhao,Xiaoli Gong,Wenwen Wang 0001,Decheng Zuo	10.1145/3453933.3454016
+VEE &apos;21: 17th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, Virtual USA, April 16, 2021	Ben L. Titzer,Harry Xu 0001,Irene Zhang	10.1145/3453933

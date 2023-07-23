@@ -1,0 +1,75 @@
+A reference architecture for datacenter scheduling: design, validation, and experiments.	Georgios Andreadis,Laurens Versluis,Fabian Mastenbroek,Alexandru Iosup	
+bespoKV: application tailored scale-out key-value stores.	Ali Anwar 0001,Yue Cheng 0001,Hai Huang 0002,Jingoo Han,Hyogi Sim,Dongyoon Lee,Fred Douglis,Ali Raza Butt	
+Best practices and lessons from deploying and operating a sustained-petascale system: the blue waters experience.	Gregory H. Bauer,Brett M. Bode,Jeremy Enos,William T. Kramer,Scott A. Lathrop,Celso L. Mendes,Robert Sisneros	
+Simulating the weak death of the Neutron in a femtoscale universe with near-exascale computing.	Evan Berkowitz,Michael A. Clark,Arjun Singh Gambhir,Kenneth McElvain,Amy N. Nicholson,Enrico Rinaldi,Pavlos Vranas,André Walker-Loud,Chia-Cheng Chang,Bálint Joó,Thorsten Kurth,Kostas Orginos	
+Exploiting idle resources in a high-radix switch for supplemental storage.	Matthias A. Blumrich,Nan Jiang 0009,Larry R. Dennison	
+A parallelism profiler with what-if analyses for OpenMP programs.	Nader Boushehrinejadmoradi,Adarsh Yoga,Santosh Nagarakatte	
+Runtime-assisted cache coherence deactivation in task parallel programs.	Paul Caheny,Lluc Alvarez,Mateo Valero,Miquel Moretó,Marc Casas	
+Cooperative rendezvous protocols for improved performance and overlap.	Sourav Chakraborty 0003,Mohammadreza Bayatpour,Jahanzeb Maqbool Hashmi,Hari Subramoni,Dhabaleswar K. Panda 0001	
+Evaluating and accelerating high-fidelity error injection for HPC.	Chun-Kai Chang,Sangkug Lym,Nicholas Kelly,Michael B. Sullivan 0001,Mattan Erez	
+Simulating the Wenchuan earthquake with accurate surface topography on Sunway TaihuLight.	Bingwei Chen,Haohuan Fu,Yanwen Wei,Conghui He,Wenqiang Zhang,Yuxuan Li,Wubin Wan,Wei Zhang,Lin Gan,Wei Zhang,Zhenguo Zhang,Guangwen Yang,Xiaofei Chen	
+Fault tolerant one-sided matrix decompositions on heterogeneous systems with GPUs.	Jieyang Chen,Hongbo Li 0006,Sihuan Li,Xin Liang 0001,Panruo Wu,Dingwen Tao,Kaiming Ouyang,Yuanlai Liu,Kai Zhao 0008,Qiang Guan,Zizhong Chen	
+ParSy: inspection and transformation of sparse matrix computations for parallelism.	Kazem Cheshmi,Shoaib Kamil 0001,Michelle Mills Strout,Maryam Mehri Dehnavi	
+High-performance dense tucker decomposition on GPU clusters.	Jee W. Choi,Xing Liu,Venkatesan T. Chakaravarthy	
+Characterization of MPI usage on a production supercomputer.	Sudheer Chunduri,Scott Parker,Pavan Balaji,Kevin Harms,Kalyan Kumaran	
+Doomsday: predicting which node will fail when on supercomputers.	Anwesha Das,Frank Mueller 0001,Paul Hargrove,Eric Roman,Scott B. Baden	
+A divide and conquer algorithm for DAG scheduling under power constraints.	Gökalp Demirci,Ivana Marincic,Henry Hoffmann	
+Redesigning LAMMPS for peta-scale and hundred-billion-atom simulation on Sunway TaihuLight.	Xiaohui Duan,Ping Gao 0005,Tingjian Zhang,Meng Zhang,Weiguo Liu,Wusheng Zhang,Wei Xue,Haohuan Fu,Lin Gan,Dexun Chen,Xiangxu Meng,Guangwen Yang	
+Light-weight protocols for wire-speed ordering.	Hans Eberle,Larry Dennison	
+Distributed memory sparse inverse covariance matrix estimation on high-performance computing architectures.	Aryan Eftekhari,Matthias Bollhöfer,Olaf Schenk	
+Energy efficiency modeling of parallel applications.	Mark Endrei,Chao Jin,Minh Ngoc Dinh,David Abramson 0001,Heidi Poxon,Luiz DeRose,Bronis R. de Supinski	
+Many-core graph workload analysis.	Stijn Eyerman,Wim Heirman,Kristof Du Bois,Joshua B. Fryman,Ibrahim Hur	
+Phase asynchronous AMR execution for productive and performant astrophysical flows.	Muhammed Nufail Farooqi,Tan Nguyen 0001,Weiqun Zhang,Ann S. Almgren,John Shalf,Didem Unat	
+Anatomy of high-performance deep learning convolutions on SIMD architectures.	Evangelos Georganas,Sasikanth Avancha,Kunal Banerjee 0001,Dhiraj D. Kalamkar,Greg Henry,Hans Pabst,Alexander Heinecke	
+Extreme scale de novo metagenome assembly.	Evangelos Georganas,Rob Egan,Steven A. Hofmeyr,Eugene Goltsman,Bill Arndt,Andrew Tritt,Aydin Buluç,Leonid Oliker,Katherine A. Yelick	
+Dac-Man: data change management for scientific datasets on HPC systems.	Devarshi Ghoshal,Lavanya Ramakrishnan,Deborah A. Agarwal	
+Dynamic data race detection for OpenMP programs.	Yizi Gu,John M. Mellor-Crummey	
+FlipTracker: understanding natural error resilience in HPC applications.	Luanzheng Guo,Dong Li 0001,Ignacio Laguna,Martin Schulz 0001	
+Harnessing GPU tensor cores for fast FP16 arithmetic to speed up mixed-precision iterative refinement solvers.	Azzam Haidar,Stanimire Tomov,Jack J. Dongarra,Nicholas J. Higham	
+TriCore: parallel triangle counting on GPUs.	Yang Hu,Hang Liu 0001,H. Howie Huang	
+Accelerating quantum chemistry with vectorized and batched integrals.	Hua Huang,Edmond Chow	
+Partial redundancy in HPC systems with non-uniform node reliabilities.	Zaeem Hussain,Taieb Znati,Rami G. Melhem	
+A fast scalable implicit solver for nonlinear time-evolution earthquake city problem on low-ordered unstructured finite elements with artificial intelligence and transprecision computing.	Tsuyoshi Ichimura,Kohei Fujita,Takuma Yamaguchi,Akira Naruse,Jack C. Wells,Thomas C. Schulthess,Tjerk P. Straatsma,Christopher Zimmer 0001,Maxime Martinasso,Kengo Nakajima,Muneo Hori,Lalith Maddegedara	
+Lessons learned from analyzing dynamic promotion for user-level threading.	Shintaro Iwasaki,Abdelhalim Amer,Kenjiro Taura,Pavan Balaji	
+Framework for scalable intra-node collective operations using shared memory.	Surabhi Jain,Rashid Kaleem,Marc Gamell Balmana,Akhil Langer,Dmitry Durnov,Alexander Sannikov,Maria Garzaran 0001	
+iSpan: parallel identification of strongly connected components with spanning trees.	Yuede Ji,Hang Liu 0001,H. Howie Huang	
+Attacking the opioid epidemic: determining the epistatic and pleiotropic genetic architectures for chronic pain and opioid addiction.	Wayne Joubert,Deborah A. Weighill,David Kainer,Sharlee Climer,Amy Justice,Kjiersten Fagnan,Daniel A. Jacobson	
+PRISM: predicting resilience of GPU applications using statistical methods.	Cham Kalra,Fritz Previlon,Xiangyu Li,Norman Rubin,David R. Kaeli	
+Adaptive anonymization of data using b-edge cover.	Arif Khan 0005,Krzysztof Choromanski,Alex Pothen,S. M. Ferdous,Mahantesh Halappanavar,Antonino Tumeo	
+Performance evaluation of a vector supercomputer SX-aurora TSUBASA.	Kazuhiko Komatsu,Shintaro Momose,Yoko Isobe,Osamu Watanabe,Akihiro Musa,Mitsuo Yokokawa,Toshikazu Aoyama,Masayuki Sato 0001,Hiroaki Kobayashi	
+A lightweight model for right-sizing master-worker applications.	Nathaniel Kremer-Herman,Benjamín Tovar,Douglas Thain	
+Exascale deep learning for climate analytics.	Thorsten Kurth,Sean Treichler,Joshua Romero,Mayur Mudigonda,Nathan Luehr,Everett H. Phillips,Ankur Mahesh,Michael A. Matheson,Jack Deslippe,Massimiliano Fatica,Prabhat,Michael Houston	
+Dynamic tracing: memoization of task graphs for dynamic task-based runtimes.	Wonchan Lee,Elliott Slaughter,Michael Bauer 0001,Sean Treichler,Todd Warszawski,Michael Garland,Alex Aiken	
+Lessons learned from memory errors observed over the lifetime of Cielo.	Scott Levy,Kurt B. Ferreira,Nathan DeBardeleben,Taniya Siddiqua,Vilas Sridharan,Elisabeth Baseman	
+HiCOO: hierarchical storage of sparse tensors.	Jiajia Li 0001,Jimeng Sun 0001,Richard W. Vuduc	
+Large-scale hierarchical k-means for heterogeneous many-core supercomputers.	Liandeng Li,Teng Yu,Wenlai Zhao,Haohuan Fu,Chenyu Wang,Li Tan,Guangwen Yang,John Thomson	
+ShenTu: processing multi-trillion edge graphs on millions of cores in seconds.	Heng Lin,Xiaowei Zhu,Bowen Yu 0003,Xiongchao Tang,Wei Xue,Wenguang Chen,Lufei Zhang,Torsten Hoefler,Xiaosong Ma,Xin Liu,Weimin Zheng,Jingfang Xu	
+Dynamically negotiating capacity between on-demand and batch clusters.	Feng Liu,Kate Keahey,Pierre Riteau,Jon B. Weissman	
+A year in the life of a parallel file system.	Glenn K. Lockwood,Shane Snyder,Teng Wang,Suren Byna,Philip H. Carns,Nicholas J. Wright	
+Optimizing software-directed instruction replication for GPU error detection.	Abdulrahman Mahmoud,Siva Kumar Sastry Hari,Michael B. Sullivan 0001,Timothy Tsai 0002,Stephen W. Keckler	
+Topology-aware space-shared co-analysis of large-scale molecular dynamics simulations.	Preeti Malakar,Todd S. Munson,Christopher Knight 0001,Venkatram Vishwanath,Michael E. Papka	
+DRAGON: breaking GPU memory capacity limits with direct NVM access.	Pak Markthub,Mehmet E. Belviranli,Seyong Lee,Jeffrey S. Vetter,Satoshi Matsuoka	
+RM-replay: a high-fidelity tuning, optimization and exploration tool for resource management.	Maxime Martinasso,Miguel Gila,Mauro Bianco,Sadaf R. Alam,Colin McMurtrie,Thomas C. Schulthess	
+CosmoFlow: using deep learning to learn the universe at scale.	Amrita Mathuriya,Deborah Bard,Peter Mendygral,Lawrence Meadows,James Arnemann,Lei Shao,Siyu He,Tuomas Kärnä,Diana Moise,Simon J. Pennycook,Kristyn J. Maschhoff,Jason Sewall,Nalini Kumar,Shirley Ho,Michael F. Ringenburg,Prabhat,Victor W. Lee	
+HPL and DGEMM performance variability on the Xeon Platinum 8160 processor.	John D. McCalpin	
+ADAPT: algorithmic differentiation applied to floating-point precision tuning.	Harshitha Menon,Michael O. Lam,Daniel Osei-Kuffuor,Markus Schordan,Scott Lloyd,Kathryn Mohror,Jeffrey Hittinger	
+Optimizing high performance distributed memory parallel hash tables for DNA k-mer counting.	Tony C. Pan,Sanchit Misra,Srinivas Aluru	
+167-PFlops deep learning for electron microscopy: from learning physics to atomic manipulation.	Robert M. Patton,J. Travis Johnston,Steven R. Young,Catherine D. Schuman,Don D. March,Thomas E. Potok,Derek C. Rose,Seung-Hwan Lim,Thomas P. Karnowski,Maxim A. Ziatdinov,Sergei V. Kalinin	
+Siena: exploring the design space of heterogeneous memory systems.	Ivy Bo Peng,Jeffrey S. Vetter	
+Exploring flexible communications for streamlining DNN ensemble training pipelines.	Randall Pittman,Hui Guan,Xipeng Shen,Seung-Hwan Lim,Robert M. Patton	
+Evaluation of an interference-free node allocation policy on fat-tree clusters.	Samuel D. Pollard,Nikhil Jain,Stephen Herbein,Abhinav Bhatele	
+Associative instruction reordering to alleviate register pressure.	Prashant Singh Rawat,Aravind Sukumaran-Rajam,Atanas Rountev,Fabrice Rastello,Louis-Noël Pouchet,P. Sadayappan	
+PruneJuice: pruning trillion-edge graphs to a precise pattern-matching solution.	Tahsin Reza,Matei Ripeanu,Nicolas Tripoul,Geoffrey Sanders,Roger Pearce	
+Computing planetary interior normal modes with a highly parallel polynomial filtering eigensolver.	Jia Shi,Ruipeng Li,Yuanzhe Xi,Yousef Saad,Maarten V. de Hoop	
+Mitigating inter-job interference using adaptive flow-aware routing.	Staci A. Smith,Clara E. Cromey,David K. Lowenthal,Jens Domke,Nikhil Jain,Jayaraman J. Thiagarajan,Abhinav Bhatele	
+Stacker: an autonomic data movement engine for extreme-scale data staging-based in-situ workflows.	Pradeep Subedi,Philip E. Davis,Shaohua Duan,Scott Klasky,Hemanth Kolla,Manish Parashar	
+The design, deployment, and evaluation of the CORAL pre-exascale systems.	Sudharshan S. Vazhkudai,Bronis R. de Supinski,Arthur S. Bland,Al Geist,James C. Sexton,Jim Kahle,Christopher Zimmer 0001,Scott Atchley,Sarp Oral,Don E. Maxwell,Verónica G. Vergara Larrea,Adam Bertsch,Robin Goldstone,Wayne Joubert,Chris Chambreau,David Appelhans,Robert Blackmore,Ben Casses,George Chochia,Gene Davison,Matthew A. Ezell,Tom Gooding,Elsa Gonsiorowski,Leopold Grinberg,Bill Hanson,Bill Hartner,Ian Karlin,Matthew L. Leininger,Dustin Leverman,Chris Marroquin,Adam Moody,Martin Ohmacht,Ramesh Pankajakshan,Fernando Pizzano,James H. Rogers,Bryan S. Rosenburg,Drew Schmidt,Mallikarjun Shankar,Feiyi Wang,Py Watson,Bob Walkup,Lance D. Weems,Junqi Yin	
+faimGraph: high performance management of fully-dynamic graphs under tight memory constraints on the GPU.	Martin Winter,Daniel Mlakar,Rhaleb Zayer,Hans-Peter Seidel,Markus Steinberger	
+Runtime data management on non-volatile memory-based heterogeneous memory for task-parallel programs.	Kai Wu 0006,Jie Ren 0015,Dong Li 0001	
+Fine-grained, multi-domain network resource abstraction as a fundamental primitive to enable high-performance, collaborative data sciences.	Qiao Xiang,J. Jensen Zhang,Xin Tony Wang,Y. Jace Liu,Chin Guok,Franck Le,John MacAuley,Harvey B. Newman,Yang Richard Yang	
+Detecting MPI usage anomalies via partial program symbolic execution.	Fangke Ye,Jisheng Zhao,Vivek Sarkar	
+SP-cache: load-balanced, redundancy-free cluster caching with selective partition.	Yinghao Yu,Renfei Huang,Wei Wang 0030,Jun Zhang 0004,Khaled Ben Letaief	
+Distributed-memory hierarchical compression of dense SPD matrices.	Chenhan D. Yu,Severin Reiz,George Biros	
+Scaling embedded in-situ indexing with deltaFS.	Qing Zheng,Charles D. Cranor,Danhao Guo,Gregory R. Ganger,George Amvrosiadis,Garth A. Gibson,Bradley W. Settlemyer,Gary Grider,Fan Guo	
+GPU age-aware scheduling to improve the reliability of leadership jobs on Titan.	Christopher Zimmer 0001,Don Maxwell,Stephen McNally,Scott Atchley,Sudharshan S. Vazhkudai	
+Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, SC 2018, Dallas, TX, USA, November 11-16, 2018		

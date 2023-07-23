@@ -1,0 +1,44 @@
+MultiNyx: a multi-level abstraction framework for systematic analysis of hypervisors.	Pedro Fonseca 0001,Xi Wang 0005,Arvind Krishnamurthy	10.1145/3190508.3190529
+RTVirt: enabling time-sensitive computing on virtualized systems through cross-layer CPU scheduling.	Ming Zhao 0002,Jorge Cabrera 0002	10.1145/3190508.3190527
+Accelerating critical OS services in virtualized systems with flexible micro-sliced cores.	Jeongseob Ahn,Chang Hyun Park 0001,Taekyung Heo,Jaehyuk Huh	10.1145/3190508.3190521
+Hyperledger fabric: a distributed operating system for permissioned blockchains.	Elli Androulaki,Artem Barger,Vita Bortnikov,Christian Cachin,Konstantinos Christidis,Angelo De Caro,David Enyeart,Christopher Ferris,Gennady Laventman,Yacov Manevich,Srinivasan Muralidharan,Chet Murthy,Binh Nguyen,Manish Sethi,Gari Singh,Keith Smith,Alessandro Sorniotti,Chrysoula Stathakopoulou,Marko Vukolic,Sharon Weed Cocco,Jason Yellick	10.1145/3190508.3190538
+LibSEAL: revealing service integrity violations using trusted execution.	Pierre-Louis Aublin,Florian Kelbert,Dan O&apos;Keeffe,Divya Muthukumaran,Christian Priebe,Joshua Lind,Robert Krahn,Christof Fetzer,David M. Eyers,Peter R. Pietzuch	10.1145/3190508.3190547
+Rock you like a hurricane: taming skew in large scale analytics.	Laurent Bindschaedler,Jasmina Malicevic,Nicolas Schiper,Ashvin Goel,Willy Zwaenepoel	10.1145/3190508.3190532
+Hang doctor: runtime detection and diagnosis of soft hangs for smartphone apps.	Marco Brocanelli,Xiaorui Wang	10.1145/3190508.3190525
+G-Miner: an efficient task-oriented graph mining system.	Hongzhi Chen,Miao Liu 0006,Yunjian Zhao,Xiao Yan 0002,Da Yan 0001,James Cheng	10.1145/3190508.3190545
+Reducing DRAM footprint with NVM in facebook.	Assaf Eisenman,Darryl Gardner,Islam AbdelRahman,Jens Axboe,Siying Dong,Kim M. Hazelwood,Chris Petersen,Asaf Cidon,Sachin Katti	10.1145/3190508.3190524
+Low latency RNN inference with cellular batching.	Pin Gao,Lingfan Yu,Yongwei Wu,Jinyang Li 0001	10.1145/3190508.3190541
+Medea: scheduling of long running applications in shared production clusters.	Panagiotis Garefalakis,Konstantinos Karanasos,Peter R. Pietzuch,Arun Suresh,Sriram Rao	10.1145/3190508.3190549
+Scale-out ccNUMA: exploiting skew with strongly consistent caching.	Vasilis Gavrielatos,Antonios Katsarakis,Arpit Joshi,Nicolai Oswald,Boris Grot,Vijay Nagarajan	10.1145/3190508.3190550
+Power sandbox: power awareness redefined.	Liwei Guo,Tiantu Xu,Mengwei Xu,Xuanzhe Liu,Felix Xiaozhu Lin	10.1145/3190508.3190533
+Wide-area analytics with multiple resources.	Chien-Chun Hung,Ganesh Ananthanarayanan,Leana Golubchik,Minlan Yu,Mingyang Zhang 0005	10.1145/3190508.3190528
+Improving the expressiveness of deep learning frameworks with recursion.	Eunji Jeong,Joo Seong Jeong,Soojeong Kim,Gyeong-In Yu,Byung-Gon Chun	10.1145/3190508.3190530
+Service fabric: a distributed platform for building microservices in the cloud.	Gopal Kakivaya,Lu Xun,Richard Hasha,Shegufta Bakht Ahsan,Todd Pfleiger,Rishi Sinha,Anurag Gupta,Mihail Tarta,Mark Fussell,Vipul Modi,Mansoor Mohsin,Ray Kong,Anmol Ahuja,Oana Platon,Alex Wun,Matthew Snider,Chacko Daniel,Dan Mastrian,Yang Li,Aprameya Rao,Vaishnav Kidambi,Randy Wang,Abhishek Ram,Sumukh Shivaprakash,Rajeet Nair,Alan Warwick,Bharat S. Narasimman,Meng Lin,Jeffrey Chen,Abhay Balkrishna Mhatre,Preetha Subbarayalu,Mert Coskun,Indranil Gupta	10.1145/3190508.3190546
+A scalable ordering primitive for multicore machines.	Sanidhya Kashyap,Changwoo Min,Kangnyeon Kim,Taesoo Kim	10.1145/3190508.3190510
+Pesos: policy enhanced secure object store.	Robert Krahn,Bohdan Trach,Anjo Vahldiek-Oberwagner,Thomas Knauth,Pramod Bhatotia,Christof Fetzer	10.1145/3190508.3190518
+Delta pointers: buffer overflow checks without the checks.	Taddeus Kroes,Koen Koning,Erik van der Kouwe,Herbert Bos,Cristiano Giuffrida	10.1145/3190508.3190553
+Pcatch: automatically detecting performance cascading bugs in cloud systems.	Jiaxin Li,Yuxi Chen,Haopeng Liu,Shan Lu 0001,Yiming Zhang 0003,Haryadi S. Gunawi,Xiaohui Gu,Xicheng Lu,Dongsheng Li 0001	10.1145/3190508.3190552
+DumbNet: a smart data center network fabric with dumb switches.	Yiran Li,Da Wei,Xiaoqi Chen,Ziheng Song,Ruihan Wu,Yuxing Li,Xin Jin 0008,Wei Xu	10.1145/3190508.3190531
+Scheduling-context capabilities: a principled, light-weight operating-system mechanism for managing time.	Anna Lyons,Kent McLeod,Hesham Almatary,Gernot Heiser	10.1145/3190508.3190539
+Universal context propagation for distributed system instrumentation.	Jonathan Mace,Rodrigo Fonseca	10.1145/3190508.3190526
+Solros: a data-centric operating system architecture for heterogeneous computing.	Changwoo Min,Woon-Hak Kang,Mohan Kumar,Sanidhya Kashyap,Steffen Maass,Heeseung Jo,Taesoo Kim	10.1145/3190508.3190523
+Model-driven computational sprinting.	Nathaniel Morris,Christopher Stewart,Lydia Y. Chen,Robert Birke,Jaimie Kelley	10.1145/3190508.3190543
+Welcome to zombieland: practical and energy-efficient memory disaggregation in a datacenter.	Vlad Nitu,Boris Teabe,Alain Tchana,Canturk Isci,Daniel Hagimont	10.1145/3190508.3190537
+3Sigma: distribution-based cluster scheduling for runtime uncertainty.	Jun Woo Park,Alexey Tumanov,Angela H. Jiang,Michael A. Kozuch,Gregory R. Ganger	10.1145/3190508.3190515
+Optimus: an efficient dynamic resource scheduler for deep learning clusters.	Yanghua Peng,Yixin Bao,Yangrui Chen,Chuan Wu 0001,Chuanxiong Guo	10.1145/3190508.3190517
+A frugal approach to reduce RCU grace period overhead.	Aravinda Prasad,K. Gopinath	10.1145/3190508.3190522
+Analytics with smart arrays: adaptive and efficient language-independent data.	Iraklis Psaroudakis,Stefan Kaestle,Matthias Grimmer,Daniel Goodman,Jean-Pierre Lozi,Tim Harris 0001	10.1145/3190508.3190514
+Decoupling the control plane from program control flow for flexibility and performance in cloud computing.	Hang Qu,Omid Mashayekhi,Chinmayee Shah,Philip Alexander Levis	10.1145/3190508.3190516
+Scrub: online troubleshooting for large mission-critical applications.	Arjun Satish,Thomas Shiou,Chuck Zhang,Khaled Elmeleegy,Willy Zwaenepoel	10.1145/3190508.3190513
+Turboflow: information rich flow record generation on commodity switches.	John Sonchack,Adam J. Aviv,Eric Keller,Jonathan M. Smith	10.1145/3190508.3190558
+Characterizing and optimizing hotspot parallel garbage collection on multicore systems.	Kun Suo,Jia Rao,Hong Jiang 0001,Witawas Srisa-an	10.1145/3190508.3190512
+Fast and strongly-consistent per-item resilience in key-value stores.	Konstantin Taranov,Gustavo Alonso,Torsten Hoefler	10.1145/3190508.3190536
+Tableau: a high-throughput and predictable VM scheduler for high-density workloads.	Manohar Vanga,Arpan Gujarati,Björn B. Brandenburg	10.1145/3190508.3190557
+Popular is cheaper: curtailing memory costs in interactive analytics engines.		10.1145/3190508.3190542
+DCAPS: dynamic cache allocation with partial sharing.	Yaocheng Xiang,Xiaolin Wang 0001,Zihui Huang,Zeyu Wang,Yingwei Luo,Zhenlin Wang	10.1145/3190508.3190511
+dCat: dynamic cache management for efficient, performance-sensitive infrastructure-as-a-service.	Cong Xu,Karthick Rajamani,Alexandre Ferreira,Wesley M. Felter,Juan Rubio 0001,Yang Li 0183	10.1145/3190508.3190555
+Dynamic control flow in large-scale machine learning.	Yuan Yu,Martín Abadi,Paul Barham 0001,Eugene Brevdo,Mike Burrows,Andy Davis,Jeff Dean,Sanjay Ghemawat,Tim Harley,Peter Hawkins,Michael Isard,Manjunath Kudlur,Rajat Monga,Derek Gordon Murray,Xiaoqiang Zheng	10.1145/3190508.3190551
+Riffle: optimized shuffle service for large-scale data analytics.	Haoyu Zhang,Brian Cho,Ergin Seyfe,Avery Ching,Michael J. Freedman	10.1145/3190508.3190534
+BDS: a centralized near-optimal overlay network for inter-datacenter data replication.	Yuchao Zhang,Junchen Jiang,Ke Xu 0002,Xiaohui Nie,Martin J. Reed,Haiyang Wang,Guang Yao,Miao Zhang,Kai Chen 0005	10.1145/3190508.3190519
+Flashabacus: a self-governing flash-based accelerator for low-power systems.	Jie Zhang 0048,Myoungsoo Jung	10.1145/3190508.3190544
+Proceedings of the Thirteenth EuroSys Conference, EuroSys 2018, Porto, Portugal, April 23-26, 2018	Rui Oliveira 0001,Pascal Felber,Y. Charlie Hu	

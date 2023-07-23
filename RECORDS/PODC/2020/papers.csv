@@ -1,0 +1,67 @@
+Generalizing the Sharp Threshold Phenomenon for the Distributed Complexity of the Lovász Local Lemma.	Sebastian Brandt 0002,Christoph Grunau,Václav Rozhon	10.1145/3382734.3405730
+Truly Tight-in-Δ Bounds for Bipartite Maximal Matching and Variants.	Sebastian Brandt 0002,Dennis Olivetti	10.1145/3382734.3405745
+Revisiting Asynchronous Fault Tolerant Computation with Optimal Resilience.	Ittai Abraham,Danny Dolev,Gilad Stern	10.1145/3382734.3405722
+Brief Announcement: Why Extension-Based Proofs Fail.	Dan Alistarh,James Aspnes,Faith Ellen,Rati Gelashvili,Leqi Zhu	10.1145/3382734.3405743
+Brief Announcement: Self-stabilizing Systems in Spite of High Dynamics.	Karine Altisen,Stéphane Devismes,Anaïs Durand,Colette Johnen,Franck Petit	10.1145/3382734.3404502
+Brief Announcement: Noisy Beeping Networks.	Yagel Ashkenazi,Ran Gelles,Amir Leshem	10.1145/3382734.3405705
+Lower Bounds for Distributed Sketching of Maximal Matchings and Maximal Independent Sets.	Sepehr Assadi,Gillat Kol,Rotem Oshman	10.1145/3382734.3405732
+Brief Announcement: Collect in the Presence of Continuous Churn with Application to Snapshots and Lattice Agreement.	Hagit Attiya,Sweta Kumari,Archit Somani,Jennifer L. Welch	10.1145/3382734.3405709
+Long-Lived Snapshots with Polylogarithmic Amortized Step Complexity.	Mirza Ahad Baig,Danny Hendler,Alessia Milani,Corentin Travers	10.1145/3382734.3406005
+Brief Announcement: Classification of Distributed Binary Labeling Problems.	Alkida Balliu,Sebastian Brandt 0002,Yuval Efron,Juho Hirvonen,Yannic Maus,Dennis Olivetti,Jukka Suomela	10.1145/3382734.3405703
+How much does randomness help with locally checkable problems?	Alkida Balliu,Sebastian Brandt 0002,Dennis Olivetti,Jukka Suomela	10.1145/3382734.3405715
+Distributed Edge Coloring in Time Quasi-Polylogarithmic in Delta.	Alkida Balliu,Fabian Kuhn,Dennis Olivetti	10.1145/3382734.3405710
+Efficient Deterministic Distributed Coloring with Small Bandwidth.	Philipp Bamberger,Fabian Kuhn,Yannic Maus	10.1145/3382734.3404504
+Positive Aging Admits Fast Asynchronous Plurality Consensus.	Gregor Bankhamer,Robert Elsässer,Dominik Kaaser,Matjaz Krnc	10.1145/3382734.3406506
+Distributed Approximation on Power Graphs.	Reuven Bar-Yehuda,Keren Censor-Hillel,Yannic Maus,Shreyas Pai,Sriram V. Pemmaraju	10.1145/3382734.3405750
+Upper and Lower Bounds on the Space Complexity of Detectable Objects.	Ohad Ben-Baruch,Danny Hendler,Matan Rusanovsky	10.1145/3382734.3405725
+Brief Announcement: Optimal Time and Space Leader Election in Population Protocols.	Petra Berenbrink,George Giakkoupis,Peter Kling	10.1145/3382734.3405726
+Want to Gather? No Need to Chatter!	Sébastien Bouchard,Yoann Dieudonné,Andrzej Pelc	10.1145/3382734.3405693
+On Distributed Listing of Cliques.	Keren Censor-Hillel,François Le Gall,Dean Leitersdorf	10.1145/3382734.3405742
+Recoverable Mutual Exclusion with Constant Amortized RMR Complexity from Standard Primitives.	David Yu Cheng Chan,Philipp Woelfel	10.1145/3382734.3405736
+The Energy Complexity of BFS in Radio Networks.	Yi-Jun Chang,Varsha Dani,Thomas P. Hayes,Seth Pettie	10.1145/3382734.3405713
+Sleeping is Efficient: MIS in O(1)-rounds Node-averaged Awake Complexity.	Soumyottam Chatterjee,Robert Gmyr,Gopal Pandurangan	10.1145/3382734.3405718
+Single-Source Shortest Paths in the CONGEST Model with Improved Bound.	Shiri Chechik,Doron Mukhtar	10.1145/3382734.3405729
+Self-Stabilizing Leader Election in Regular Graphs.	Hsueh-Ping Chen,Ho-Lin Chen	10.1145/3382734.3405733
+Brief Announcement: Resource Competitive Broadcast against Adaptive Adversary in Multi-channel Radio Networks.	Haimin Chen,Chaodong Zheng	10.1145/3382734.3405697
+Brief Announcement: Almost-surely Terminating Asynchronous Byzantine Agreement Protocols with a Constant Expected Running Time.	Ashish Choudhury	10.1145/3382734.3404503
+Brief Announcement: Not a COINcidence: Sub-Quadratic Asynchronous Byzantine Agreement WHP.	Shir Cohen,Idit Keidar,Alexander Spiegelman	10.1145/3382734.3405708
+Simple, Deterministic, Constant-Round Coloring in the Congested Clique.	Artur Czumaj,Peter Davies,Merav Parter	10.1145/3382734.3405751
+An Adaptive Approach to Recoverable Mutual Exclusion.	Sahil Dhoked,Neeraj Mittal	10.1145/3382734.3405739
+Efficient and Simple Algorithms for Fault-Tolerant Spanners.	Michael Dinitz,Caleb Robelle	10.1145/3382734.3405735
+Brief Announcement: The Only Undoable CRDTs are Counters.	Stephen Dolan	10.1145/3382734.3405749
+Exponentially Faster Shortest Paths in the Congested Clique.	Michal Dory,Merav Parter	10.1145/3382734.3405711
+Can Uncoordinated Beeps tell Stories?	Fabien Dufoulon,Janna Burman,Joffroy Beauquier	10.1145/3382734.3405699
+Noisy Beeps.	Klim Efremenko,Gillat Kol,Raghuvansh R. Saxena	10.1145/3382734.3404501
+Beyond Alice and Bob: Improved Inapproximability for Maximum Independent Set in CONGEST.	Yuval Efron,Ofer Grossman,Seri Khoury	10.1145/3382734.3405702
+Genuinely Distributed Byzantine Machine Learning.	El-Mahdi El-Mhamdi,Rachid Guerraoui,Arsany Guirguis,Lê Nguyên Hoang,Sébastien Rouault	10.1145/3382734.3405695
+Distributed Construction of Light Networks.	Michael Elkin,Arnold Filtser,Ofer Neiman	10.1145/3382734.3405701
+Compact Distributed Certification of Planar Graphs.	Laurent Feuilloley,Pierre Fraigniaud,Pedro Montealegre 0001,Ivan Rapaport,Éric Rémila,Ioan Todinca	10.1145/3382734.3404505
+Massively Parallel Algorithms for Minimum Cut.	Mohsen Ghaffari 0001,Krzysztof Nowicki 0002	10.1145/3382734.3405737
+DConstructor: Efficient and Robust Network Construction with Polylogarithmic Overhead.	Seth Gilbert,Gopal Pandurangan,Peter Robinson 0002,Amitabh Trehan	10.1145/3382734.3405716
+From Bezout&apos;s Identity to Space-Optimal Election in Anonymous Memory Systems.	Emmanuel Godard,Damien Imbs,Michel Raynal,Gadi Taubenfeld	10.1145/3382734.3405727
+Brief Announcement: On the Significance of Consecutive Ballots in Paxos.	Eli Goldweber,Nuda Zhang,Manos Kapritsos	10.1145/3382734.3405700
+Brief Announcement: On Using Null Messages in a Byzantine Setting.	Guy Goren,Yoram Moses	10.1145/3382734.3405717
+Multiple Source Replacement Path Problem.	Manoj Gupta 0002,Rahul Jain,Nitiksha Modi	10.1145/3382734.3405714
+Fault-Tolerance in Distributed Optimization: The Case of Redundancy.	Nirupam Gupta,Nitin H. Vaidya	10.1145/3382734.3405748
+Distance-2 Coloring in the CONGEST Model.	Magnús M. Halldórsson,Fabian Kuhn,Yannic Maus	10.1145/3382734.3405706
+Fine-grained Analysis on Fast Implementations of Distributed Multi-writer Atomic Registers.	Kaile Huang,Yu Huang 0002,Hengfeng Wei	10.1145/3382734.3405698
+Brief Announcement: Improved Distributed Approximations for Maximum-Weight Independent Set.	Ken-ichi Kawarabayashi,Seri Khoury,Aaron Schild,Gregory Schwartzman	10.1145/3382734.3405728
+Brief Announcement: Byzantine Agreement with Unknown Participants and Failures.	Pankaj Khanchandani,Roger Wattenhofer	10.1145/3382734.3405740
+Computing Shortest Paths and Diameter in the Hybrid Network Model.	Fabian Kuhn,Philipp Schneider	10.1145/3382734.3405719
+Dumbo-MVBA: Optimal Multi-Valued Validated Asynchronous Byzantine Agreement, Revisited.	Yuan Lu 0001,Zhenliang Lu,Qiang Tang 0005,Guiling Wang 0001	10.1145/3382734.3405707
+On the Subject of Non-Equivocation: Defining Non-Equivocation in Synchronous Agreement Systems.	Mads Frederik Madsen,Søren Debois	10.1145/3382734.3405731
+Perigee: Efficient Peer-to-Peer Network Design for Blockchains.	Yifan Mao,Soubhik Deb,Shaileshh Bojja Venkatakrishnan,Sreeram Kannan,Kannan Srinivasan 0001	10.1145/3382734.3405704
+Brief Announcement: Hazard Pointer Protection of Structures with Immutable Links.	Maged M. Michael	10.1145/3382734.3405738
+Distributed Computation and Reconfiguration in Actively Dynamic Networks.	Othon Michail,George Skretas,Paul G. Spirakis	10.1145/3382734.3405744
+Probably Approximately Knowing.	Yoram Moses,Nitzan Zamir	10.1145/3382734.3405734
+An O(log3/2 n) Parallel Time Population Protocol for Majority with O(log n) States.	Stav Ben-Nun,Tsvi Kopelowitz,Matan Kraus,Ely Porat	10.1145/3382734.3405747
+Brief Announcement: Round eliminator: a tool for automatic speedup simulation.	Dennis Olivetti	10.1145/3382734.3405694
+Brief Announcement: Deterministic Lower Bound for Dynamic Balanced Graph Partitioning.	Maciej Pacut,Mahmoud Parham,Stefan Schmid 0001	10.1145/3382734.3405696
+Extending the Wait-free Hierarchy to Multi-Threaded Systems.	Matthieu Perrin,Achour Mostéfaoui,Grégoire Bonin	10.1145/3382734.3405723
+Tight Analysis of Asynchronous Rumor Spreading in Dynamic Networks.	Ali Pourmiri,Bernard Mans	10.1145/3382734.3405720
+Brief Announcement: Intermediate Value Linearizability: A Quantitative Correctness Criterion.	Arik Rinberg,Idit Keidar	10.1145/3382734.3405712
+Brief Announcement: On Implementing Software Transactional Memory in the C++ Memory Model.	Matthew Rodriguez,Michael F. Spear	10.1145/3382734.3405746
+Seeing Far vs. Seeing Wide: Volume Complexity of Local Graph Problems.	Will Rosenbaum,Jukka Suomela	10.1145/3382734.3405721
+Asynchronous Byzantine Approximate Consensus in Directed Networks.	Dimitris Sakavalas,Lewis Tseng,Nitin H. Vaidya	10.1145/3382734.3405724
+K-set agreement bounds in round-based models through combinatorial topology.	Adam Shimi,Armando Castañeda	10.1145/3382734.3405752
+PODC &apos;20: ACM Symposium on Principles of Distributed Computing, Virtual Event, Italy, August 3-7, 2020	Yuval Emek,Christian Cachin	10.1145/3382734

@@ -1,0 +1,29 @@
+Skylight-A Window on Shingled Disk Operation.	Abutalib Aghayev,Peter Desnoyers	
+A Practical Implementation of Clustered Fault Tolerant Write Acceleration in a Virtualized Environment.	Deepavali Bhagwat,Mahesh Patil,Michal Ostrowski,Murali Vilayannur,Woon Jung,Chethan Kumar	
+Non-blocking Writes to Files.	Daniel Campello,Hector López,Ricardo Koller,Raju Rangaswami,Luis Useche	
+Design Tradeoffs for Data Deduplication Performance in Backup Workloads.	Min Fu 0002,Dan Feng 0001,Yu Hua 0001,Xubin He,Zuoning Chen,Wen Xia,Yucheng Zhang,Yujuan Tan	
+Reliable, Consistent, and Efficient Data Sync for Mobile Apps.	Younghwan Go,Nitin Agrawal 0001,Akshat Aranya,Cristian Ungureanu	
+Analysis of the ECMWF Storage Landscape.	Matthias Grawinkel,Lars Nagel 0001,Markus Mäsker,Federico Padua,André Brinkmann,Lennart Sorth	
+Host-side Filesystem Journaling for Durable Shared Storage.	Andromachi Hatzieleftheriou,Stergios V. Anastasiadis	
+Reducing File System Tail Latencies with Chopper.	Jun He,Duy Nguyen,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+BetrFS: A Right-Optimized Write-Optimized File System.	William Jannen,Jun Yuan 0006,Yang Zhan 0001,Amogh Akshintala,John Esmet,Yizheng Jiao,Ankur Mittal,Prashant Pandey 0001,Phaneendra Reddy,Leif Walsh,Michael A. Bender,Martin Farach-Colton,Rob Johnson,Bradley C. Kuszmaul,Donald E. Porter	
+Boosting Quasi-Asynchronous I/O for Better Responsiveness in Mobile Devices.	Daeho Jeong,Youngjae Lee,Jin-Soo Kim 0001	
+Chronicle: Capture and Analysis of NFS Workloads at Line Rate.	Ardalan Kangarlou,Sandip Shete,John D. Strunk	
+LADS: Optimizing Data Transfers Using Layout-Aware Data Scheduling.	Youngjae Kim 0001,Scott Atchley,Geoffroy Vallée,Galen M. Shipman	
+Towards SLO Complying SSDs Through OPS Isolation.	Jaeho Kim,Donghee Lee 0001,Sam H. Noh	
+F2FS: A New File System for Flash Storage.	Changman Lee,Dongho Sim,Joo Young Hwang,Sangyeun Cho	
+How Much Can Data Compressibility Help to Improve NAND Flash Memory Lifetime?	Jiangpeng Li,Kai Zhao 0005,Xuebin Zhang,Jun Ma 0012,Ming Zhao,Tong Zhang 0002	
+RAIDShield: Characterizing, Monitoring, and Proactively Protecting Against Disk Failures.	Ao Ma,Fred Douglis,Guanlin Lu,Darren Sawyer,Surendar Chandra,Windsor W. Hsu	
+Efficient Intra-Operating System Protection Against Harmful DMAs.	Moshe Malka,Nadav Amit,Dan Tsafrir	
+Having Your Cake and Eating It Too: Jointly Optimal Erasure Codes for I/O, Storage, and Network-bandwidth.	K. V. Rashmi,Preetum Nakkiran,Jingyan Wang 0001,Nihar B. Shah,Kannan Ramchandran	
+RIPQ: Advanced Photo Caching on Flash for Facebook.	Linpeng Tang,Qi Huang,Wyatt Lloyd,Sanjeev Kumar,Kai Li 0001	
+CalvinFS: Consistent WAN Replication and Scalable Metadata Management for Distributed File Systems.	Alexander Thomson,Daniel J. Abadi	
+SDGen: Mimicking Datasets for Content Generation in Storage Benchmarks.	Raúl Gracia Tinedo,Danny Harnik,Dalit Naor,Dmitry Sotnikov,Sivan Toledo,Aviad Zuck	
+Failure-Atomic Updates of Application Data in a Linux File System.	Rajat Verma,Anton Ajay Mendez,Stan Park,Sandya S. Mannarswamy,Terence Kelly,Charles B. Morrey III	
+Efficient MRC Construction with SHARDS.	Carl A. Waldspurger,Nohhyun Park,Alexander T. Garthwaite,Irfan Ahmad 0005	
+ANViL: Advanced Virtualization for Modern Non-Volatile Memory Devices.	Zev Weiss,Sriram Subramanian,Swaminathan Sundararaman,Nisha Talagala,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+A Tale of Two Erasure Codes in HDFS.	Mingyuan Xia,Mohit Saxena,Mario Blaum,David Pease	
+Write Once, Get 50% Free: Saving SSD Erase Costs Using WOM Codes.	Gala Yadgar,Eitan Yaakobi,Assaf Schuster	
+NV-Tree: Reducing Consistency Cost for NVM-based Single Level Systems.	Jun Yang 0022,Qingsong Wei,Cheng Chen 0008,Chundong Wang 0001,Khai Leong Yong,Bingsheng He	
+FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs.	Da Zheng,Disa Mhembere,Randal C. Burns,Joshua T. Vogelstein,Carey E. Priebe,Alexander S. Szalay	
+Proceedings of the 13th USENIX Conference on File and Storage Technologies, FAST 2015, Santa Clara, CA, USA, February 16-19, 2015	Jiri Schindler,Erez Zadok	

@@ -1,0 +1,46 @@
+Poster Abstract: I/O Contention Aware Mapping of Multi-Criticalities Real-Time Applications over Many-Core Architectures.	Laure Abdallah,Mathieu Jan,Jérôme Ermont,Christian Fraboul	10.1109/RTAS.2016.7461348
+Poster Abstract: Slot-Level Time-Triggered Scheduling on COTS Multicore Platform with Resource Contentions.	Ankit Agrawal 0005,Gerhard Fohler,Jan Nowotsch,Sascha Uhrig,Michael Paulitsch	10.1109/RTAS.2016.7461353
+Trading Cores for Memory Bandwidth in Real-Time Systems.	Ahmed Alhammad,Rodolfo Pellizzoni	10.1109/RTAS.2016.7461364
+OSEK-Like Kernel Support for Engine Control Applications under EDF Scheduling.	Vincenzo Apuzzo,Alessandro Biondi 0001,Giorgio C. Buttazzo	10.1109/RTAS.2016.7461345
+Symbolic Buffer Sizing for Throughput-Optimal Scheduling of Dataflow Graphs.	Adnan Bouakaz,Pascal Fradet,Alain Girault	10.1109/RTAS.2016.7461360
+Poster Abstract: Preliminary Performance Evaluation of HEF Scheduling Algorithm.	Carlos A. Rincon C.,Albert M. K. Cheng	10.1109/RTAS.2016.7461351
+Precise Cache Timing Analysis via Symbolic Execution.	Duc-Hiep Chu,Joxan Jaffar,Rasool Maghareh	10.1109/RTAS.2016.7461358
+Demo Abstract: Applications of the CPAL Language to Model, Simulate and Program Cyber-Physical Systems.	Loïc Fejoz,Nicolas Navet,Sakthivel Manikandan Sundharam,Sebastian Altmeyer	10.1109/RTAS.2016.7461329
+Poster Abstract: Towards Correct Transformation: From High-Level Models to Time-Triggered Implementations.	Hela Guesmi,Belgacem Ben Hedia,Mathieu Jan,Simon Bliudze,Saddek Bensalem	10.1109/RTAS.2016.7461354
+Demo Abstract: Demonstration of the FMTV 2016 Timing Verification Challenge.	Arne Hamann,Dirk Ziegenbein,Simon Kramer 0003,Martin Lukasiewycz	10.1109/RTAS.2016.7461330
+Criticality- and Requirement-Aware Bus Arbitration for Multi-Core Mixed Criticality Systems.	Mohamed Hassan 0002,Hiren D. Patel	10.1109/RTAS.2016.7461327
+Demo Abstract: TEMPO: Integrating Scheduling Analysis in the Industrial Design Practices.	Rafik Henia,Laurent Rioux,Nicolas Sordon	10.1109/RTAS.2016.7461334
+Poster Abstract: Towards Parallelizing Legacy Embedded Control Software Using the LET Programming Paradigm.	Julien Hennig,Hermann von Hasseln,Hassan Mohammad,Stefan Resmerita,Stefan Lukesch,Andreas Naderlinger	10.1109/RTAS.2016.7461355
+From Stateflow Simulation to Verified Implementation: A Verification Approach and A Real-Time Train Controller Design.	Yu Jiang 0001,Yixiao Yang,Han Liu 0010,Hui Kong,Ming Gu 0001,Jia-Guang Sun 0001,Lui Sha	10.1109/RTAS.2016.7461337
+Buffer Space Allocation for Real-Time Priority-Aware Networks.	Hany Kashif,Hiren D. Patel	10.1109/RTAS.2016.7461324
+Attacking the One-Out-Of-m Multicore Problem by Combining Hardware Management with Mixed-Criticality Provisioning.	Namhoon Kim,Bryan C. Ward,Micaiah Chisholm,Cheng-Yang Fu,James H. Anderson,F. Donelson Smith	10.1109/RTAS.2016.7461323
+Modeling Multi-Periodic Simulink Systems by Synchronous Dataflow Graphs.	Enagnon Cédric Klikpo,Jad Khatib,Alix Munier Kordon	10.1109/RTAS.2016.7461343
+Combining Offsets with Precedence Constraints to Improve Temporal Analysis of Cyclic Real-Time Streaming Applications.	Philip S. Kurtin,Joost P. H. M. Hausmans,Marco Jan Gerrit Bekooij	10.1109/RTAS.2016.7461325
+Poster Abstract: Towards Worst-Case Bounds Analysis of the IEEE 802.15.4e.	Harrison Kurunathan,Ricardo Severino,Anis Koubaa,Eduardo Tovar	10.1109/RTAS.2016.7461356
+Demo Abstract: Timing Aware Hardware Virtualization on the L4Re Microkernel Systems.	Adam Lackorzynski,Alexander Warg	10.1109/RTAS.2016.7461335
+Modeling and Verification of Dynamic Command Scheduling for Real-Time Memory Controllers.	Yonghui Li 0002,Benny Akesson,Kai Lampka,Kees Goossens	10.1109/RTAS.2016.7461341
+Mixed-Criticality Federated Scheduling for Parallel Real-Time Tasks.	Jing Li 0025,David Ferry,Shaurya Ahuja,Kunal Agrawal,Christopher D. Gill,Chenyang Lu 0001	10.1109/RTAS.2016.7461340
+Poster Abstract: Using Linked List in Exact Schedulability Tests for Fixed Priority Scheduling.	Jiaming Lv,Yu Jiang,Xingliang Zou,Albert M. K. Cheng	10.1109/RTAS.2016.7461357
+Exploring Energy Saving for Mixed-Criticality Systems on Multi-Cores.	Sujay Narayana,Pengcheng Huang,Georgia Giannopoulou,Lothar Thiele,R. Venkatesha Prasad	10.1109/RTAS.2016.7461336
+Demo Abstract: Run-Time Monitoring Environments for Real-Time and Safety Critical Systems.	Geoffrey Nelissen,Humberto Carvalho,David Pereira,Eduardo Tovar	10.1109/RTAS.2016.7461333
+Modeling High-Performance Wormhole NoCs for Critical Real-Time Embedded Systems.	Milos Panic,Carles Hernández 0001,Eduardo Quiñones,Jaume Abella 0001,Francisco J. Cazorla	10.1109/RTAS.2016.7461342
+Demo Abstract: A Real-Time Low Datarate Protocol for Cooperative Mobile Robot Teams.	Gaetano Patti,Giovanni Muscato,Nunzio Abbate,Lucia Lo Bello	10.1109/RTAS.2016.7461328
+Memory Servers for Multicore Systems.	Rodolfo Pellizzoni,Heechul Yun	10.1109/RTAS.2016.7461339
+Temporal Isolation of Hard Real-Time Applications on Many-Core Processors.	Quentin Perret,Pascal Maurère,Eric Noulard,Claire Pagetti,Pascal Sainrat,Benoit Triquet	10.1109/RTAS.2016.7461363
+Poster Abstract: Cache Persistence Aware Response Time Analysis for Fixed Priority Preemptive Systems.	Syed Aftab Rashid,Geoffrey Nelissen,Eduardo Tovar	10.1109/RTAS.2016.7461347
+Multi-Objective Co-Optimization of FlexRay-Based Distributed Control Systems.	Debayan Roy,Licong Zhang,Wanli Chang 0001,Dip Goswami,Samarjit Chakraborty	10.1109/RTAS.2016.7461344
+Poster Abstract: Online Semi-Partitioned Multiprocessor Scheduling of Soft Real-Time Periodic Tasks for QoS Optimization.	Behnaz Sanati,Albert M. K. Cheng	10.1109/RTAS.2016.7461350
+Response-Time Analysis for Task Chains in Communicating Threads.	Johannes Schlatow,Rolf Ernst	10.1109/RTAS.2016.7461359
+Demo Abstract: Response-Time Analysis for Task Chains in Communicating Threads with pyCPA.	Johannes Schlatow,Jonas Peeck,Rolf Ernst	10.1109/RTAS.2016.7461332
+Complete, High-Assurance Determination of Loop Bounds and Infeasible Paths for WCET Analysis.	Thomas Sewell,Felix Kam,Gernot Heiser	10.1109/RTAS.2016.7461326
+Demo Abstract: Predictable SoC Architecture Based on COTS Multi-Core.	Nitin Shivaraman,Sriram Vasudevan,Arvind Easwaran	10.1109/RTAS.2016.7461331
+Poster Abstract: An Optimizing Framework for Real-Time Scheduling.	Sakthivel Manikandan Sundharam,Sebastian Altmeyer,Nicolas Navet	10.1109/RTAS.2016.7461346
+A Real-Time Scratchpad-Centric OS for Multi-Core Embedded Systems.	Rohan Tabish,Renato Mancuso 0001,Saud Wasly,Ahmed Alhammad,Sujit S. Phatak,Rodolfo Pellizzoni,Marco Caccamo	10.1109/RTAS.2016.7461321
+Poster Abstract: Scheduling Multi-Threaded Tasks to Reduce Intra-Task Cache Contention.	Corey Tessler,Nathan Fisher	10.1109/RTAS.2016.7461352
+Improving Early Design Stage Timing Modeling in Multicore Based Real-Time Systems.	David Trilla,Javier Jalle,Mikel Fernández,Jaume Abella 0001,Francisco J. Cazorla	10.1109/RTAS.2016.7461338
+Taming Non-Blocking Caches to Improve Isolation in Multicore Real-Time Systems.	Prathap Kumar Valsan,Heechul Yun,Farzad Farshchi	10.1109/RTAS.2016.7461361
+A Kernel for Energy-Neutral Real-Time Systems with Mixed Criticalities.	Peter Wägemann,Tobias Distler,Heiko Janker,Phillip Raffeck,Volkmar Sieh	10.1109/RTAS.2016.7461320
+Analysis and Implementation of GlEnergy Saving for Mixed-Criticalityobal Preemptive Fixed-Priority Scheduling with Dynamic Cache Allocation.	Meng Xu,Linh Thi Xuan Phan,Hyon-Young Choi,Insup Lee 0001	10.1109/RTAS.2016.7461322
+TaskShuffler: A Schedule Randomization Protocol for Obfuscation against Timing Inference Attacks in Real-Time Systems.	Man-Ki Yoon,Sibin Mohan,Chien-Ying Chen,Lui Sha	10.1109/RTAS.2016.7461362
+Poster Abstract: Memory-Aware Response Time Analysis for P-FRP Tasks.	Xingliang Zou,Albert M. K. Cheng	10.1109/RTAS.2016.7461349
+2016 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Vienna, Austria, April 11-14, 2016		

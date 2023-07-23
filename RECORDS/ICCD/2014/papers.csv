@@ -1,0 +1,81 @@
+Refresh Enabled Video Analytics (REVA): Implications on power and performance of DRAM supported embedded visual systems.	Siddharth Advani,Nandhini Chandramoorthy,Karthik Swaminathan,Kevin M. Irick,Yong Cheol Peter Cho,Jack Sampson,Vijaykrishnan Narayanan	10.1109/ICCD.2014.6974727
+Fair share: Allocation of GPU resources for both performance and fairness.	Paula Aguilera,Katherine Morrow,Nam Sung Kim	10.1109/ICCD.2014.6974717
+DFM is dead - Long live DFM.	Robert C. Aitken,David Pietromonaco,Brian Cline	10.1109/ICCD.2014.6974697
+Efficient design of FIR filters using hybrid multiple constant multiplications on FPGA.	Levent Aksoy,Paulo F. Flores,José Monteiro 0001	10.1109/ICCD.2014.6974660
+ReMAP: Reuse and memory access cost aware eviction policy for last level cache management.	Akhil Arunkumar,Carole-Jean Wu	10.1109/ICCD.2014.6974670
+More Moore landscape for system readiness - ITRS2.0 requirements.	Mustafa Badaroglu,Kwok Ng,Mehdi Salmani Jelodar,SungGeun Kim,Gerhard Klimeck,Chorng-Ping Chang,Charles Cheung,Yuzo Fukuzaki	10.1109/ICCD.2014.6974674
+Design space exploration of an NVM-based memory hierarchy.	Seungjae Baek,Daeyeon Son,Dongwoo Kang,Jongmoo Choi,Sangyeun Cho	10.1109/ICCD.2014.6974685
+A lightweight and open-source framework for the lifetime estimation of multicore systems.	Cristiana Bolchini,Matteo Carminati,Marco Gribaudo,Antonio Miele	10.1109/ICCD.2014.6974677
+ITRS 2.0: Toward a re-framing of the Semiconductor Technology Roadmap.	Juan Antonio Carballo,Wei-Ting Jonas Chan,Paolo A. Gargini,Andrew B. Kahng,Siddhartha Nath	10.1109/ICCD.2014.6974673
+Improved signoff methodology with tightened BEOL corners.	Tuck-Boon Chan,Sorin Dobre,Andrew B. Kahng	10.1109/ICCD.2014.6974699
+The ITRS MPU and SOC system drivers: Calibration and implications for design-based equivalent scaling in the roadmap.	Wei-Ting Jonas Chan,Andrew B. Kahng,Siddhartha Nath,Ichiro Yamamoto	10.1109/ICCD.2014.6974675
+Analyzing and controlling accuracy in stochastic circuits.	Te-Hsuan Chen,John P. Hayes	10.1109/ICCD.2014.6974707
+Chip clustering with mutual information on multiple clock tests and its application to yield tuning.	Jiun-Yi Chiang,Jun-Hua Kuo,Ting-Shuo Hsu,Jing-Jia Liou	10.1109/ICCD.2014.6974688
+Dynamic associative caches: Reducing dynamic energy of first level caches.	Karthikeyan Dayalan,Meltem Ozsoy,Dmitry V. Ponomarev	10.1109/ICCD.2014.6974693
+An asynchronous Network-on-Chip router with low standby power.	Amr Elshennawy,Sunil P. Khatri	10.1109/ICCD.2014.6974711
+The heterogeneous block architecture.	Chris Fallin,Chris Wilkerson,Onur Mutlu	10.1109/ICCD.2014.6974710
+An area-efficient Ternary CAM design using floating gate transistors.	Viacheslav V. Fedorov,Monther Abusultan,Sunil P. Khatri	10.1109/ICCD.2014.6974662
+Design-effort alloy: Boosting a highly tuned primary core with untuned alternate cores.	Elliott Forbes,Niket Kumar Choudhary,Brandon H. Dwiel,Eric Rotenberg	10.1109/ICCD.2014.6974713
+iRMW: A low-cost technique to reduce NBTI-dependent parametric failures in L1 data caches.	Shrikanth Ganapathy,Ramon Canal,Antonio González 0001,Antonio Rubio 0001	10.1109/ICCD.2014.6974664
+Exploit asymmetric error rates of cell states to improve the performance of flash memory storage systems.	Congming Gao,Liang Shi,Kaijie Wu 0001,Chun Jason Xue,Edwin Hsing-Mean Sha	10.1109/ICCD.2014.6974682
+Pattern-restricted design at 10nm and beyond.	Rani S. Ghaida,Yasmine Badr,Puneet Gupta 0001	10.1109/ICCD.2014.6974698
+Leveraging dynamic slicing to enhance indirect branch prediction.	Walid J. Ghandour,Nadine J. Ghandour	10.1109/ICCD.2014.6974696
+Accelerating divergent applications on SIMD architectures using neural networks.	Beayna Grigorian,Glenn Reinman	10.1109/ICCD.2014.6974700
+Dark silicon aware power management for manycore systems under dynamic workloads.	Mohammad Hashem Haghbayan,Amir-Mohammad Rahmani,Awet Yemane Weldezion,Pasi Liljeberg,Juha Plosila,Axel Jantsch,Hannu Tenhunen	10.1109/ICCD.2014.6974729
+Ternary cache: Three-valued MLC STT-RAM caches.	Seokin Hong,Jongmin Lee 0002,Soontae Kim	10.1109/ICCD.2014.6974666
+Improving power delivery network design by practical methodologies.	Chia-Chi Huang,Chang-Tzu Lin,Wei-Syun Liao,Chieh-Jui Lee,Hung-Ming Chen,Chia-Hsin Lee,Ding-Ming Kwai	10.1109/ICCD.2014.6974687
+Increasing cache capacity via critical-words-only cache.	Cheng-Chieh Huang,Vijay Nagarajan	10.1109/ICCD.2014.6974671
+Compact and accurate stochastic circuits with shared random number sources.	Hideyuki Ichihara,Shota Ishii,Daiki Sunamori,Tsuyoshi Iwagaki,Tomoo Inoue	10.1109/ICCD.2014.6974706
+Power-capped DVFS and thread allocation with ANN models on modern NUMA systems.	Satoshi Imamura,Hiroshi Sasaki 0001,Koji Inoue,Dimitrios S. Nikolopoulos	10.1109/ICCD.2014.6974701
+Hermes: Architecting a top-performing fault-tolerant routing algorithm for Networks-on-Chips.	Costas Iordanou,Vassos Soteriou,Konstantinos Aisopos	10.1109/ICCD.2014.6974715
+Advanced modes in AES: Are they safe from power analysis based side channel attacks?	Darshana Jayasinghe,Roshan G. Ragel,Jude Angelo Ambrose,Aleksandar Ignjatovic,Sri Parameswaran	10.1109/ICCD.2014.6974678
+PRATHAM: A power delivery-aware and thermal-aware mapping framework for parallel embedded applications on 3D MPSoCs.	Nishit Ashok Kapadia,Sudeep Pasricha	10.1109/ICCD.2014.6974733
+Modeling and analysis of Phase Change Materials for efficient thermal management.	Fulya Kaplan,Charlie De Vivero,Samuel Howes,Manish Arora,Houman Homayoun,Wayne P. Burleson,Dean M. Tullsen,Ayse K. Coskun	10.1109/ICCD.2014.6974690
+Hybrid modeling attacks on current-based PUFs.	Raghavan Kumar,Wayne P. Burleson	10.1109/ICCD.2014.6974725
+Storage-allocation to sequential structures in High-Level Synthesis-assisted prototyping.	Vinay B. Y. Kumar,Shovan Maity,Sachin B. Patkar	10.1109/ICCD.2014.6974720
+Cache design for mixed criticality real-time systems.	N. G. Chetan Kumar,Sudhanshu Vyas,Ron K. Cytron,Christopher D. Gill,Joseph Zambreno,Phillip H. Jones	10.1109/ICCD.2014.6974730
+Exploiting natural redundancy in visual information.	Chris S. Lee,Kevin M. Irick,Jack Sampson,Chuanjun Zhang,Vijaykrishnan Narayanan	10.1109/ICCD.2014.6974728
+ScalaHDL: Express and test hardware designs in a Scala DSL.	Yao Li 0004,Antonio Roldao Lopes,Zhouyun Xu,Zhengwei Qi,Haibing Guan	10.1109/ICCD.2014.6974732
+Power supply and consumption co-optimization of portable embedded systems with hybrid power supply.	Xue Lin,Yanzhi Wang,Naehyuck Chang,Massoud Pedram	10.1109/ICCD.2014.6974722
+Simultaneous EUV flare- and CMP-aware placement.	Chi-Yuan Liu,Yao-Wen Chang	10.1109/ICCD.2014.6974689
+Improving multilevel PCM reliability through age-aware reading and writing strategies.	Chen Liu 0013,Chengmo Yang	10.1109/ICCD.2014.6974691
+Loose-Ordering Consistency for persistent memory.	Youyou Lu,Jiwu Shu,Long Sun,Onur Mutlu	10.1109/ICCD.2014.6974684
+Multi-accelerator system development with the ShrinkFit acceleration framework.	Michael J. Lyons 0003,Gu-Yeon Wei,David M. Brooks	10.1109/ICCD.2014.6974665
+HW/SW partitioning for region-based dynamic partial reconfigurable FPGAs.	Yuchun Ma,Jinglan Liu,Chao Zhang,Wayne Luk	10.1109/ICCD.2014.6974721
+SFFMap: Set-First Fill mapping for an energy efficient pipelined data cache.	Pritam Majumder,T. Venkata Kalyan,Madhu Mutyam	10.1109/ICCD.2014.6974669
+Dynamic variability management in mobile multicore processors under lifetime constraints.	Pietro Mercati,Francesco Paterna,Andrea Bartolini,Luca Benini,Tajana Simunic Rosing	10.1109/ICCD.2014.6974718
+Software pipelining of dataflow programs with dynamic constructs on multi-core processor.	Yogesh Murarka,Pankaj Shailendra Gode,Sirish Kumar Pasupuleti,Soma Kohli	10.1109/ICCD.2014.6974703
+Optimal variable ordering in ZBDD-based path representations for directed acyclic graphs.	Stelios N. Neophytou,Maria K. Michael	10.1109/ICCD.2014.6974724
+NVSleep: Using non-volatile memory to enable fast sleep/wakeup of idle cores.	Xiang Pan,Radu Teodorescu	10.1109/ICCD.2014.6974712
+Automated generation of battery aging models from datasheets.	Massimo Petricca,Donghwa Shin,Alberto Bocca,Alberto Macii,Enrico Macii,Massimo Poncino	10.1109/ICCD.2014.6974723
+Accurate prediction of detailed routing congestion using supervised data learning.	Zhongdong Qi,Yici Cai,Qiang Zhou 0001	10.1109/ICCD.2014.6974668
+REEM: Failure/non-failure region estimation method for SRAM yield analysis.	Manish Rana,Ramon Canal	10.1109/ICCD.2014.6974659
+Static thread mapping for NoCs via binary instrumentation traces.	Giordano Salvador,Siddharth Nilakantan,Baris Taskin,Mark Hempstead,Ankit More	10.1109/ICCD.2014.6974731
+Boolean circuit design using emerging tunneling devices.	Behnam Sedighi,Joseph J. Nahas,Michael T. Niemier,Xiaobo Sharon Hu	10.1109/ICCD.2014.6974705
+Low write-energy STT-MRAMs using FinFET-based access transistors.	Alireza Shafaei,Yanzhi Wang,Massoud Pedram	10.1109/ICCD.2014.6974708
+Energy efficiency improvement of renamed trace cache through the reduction of dependent path length.	Ryota Shioya,Hideki Ando	10.1109/ICCD.2014.6974714
+Timing error masking by exploiting operand value locality in SIMD architecture.	Jaehyeong Sim,Jun-Seok Park,Seungwook Paek,Lee-Sup Kim	10.1109/ICCD.2014.6974667
+Timing characterization of clock buffers for clock tree synthesis.	Can Sitik,Scott Lerner,Baris Taskin	10.1109/ICCD.2014.6974686
+Updates of the ITRS design cost and power models.	Gary Smith 0001	10.1109/ICCD.2014.6974676
+Exploring the state dependent SET sensitivity of asynchronous logic - The muller-pipeline example.	Andreas Steininger,Varadan Savulimedu Veeravalli,Dan Alexandrescu,Enrico Costenaro,Lorena Anghel	10.1109/ICCD.2014.6974663
+The Blacklisting Memory Scheduler: Achieving high performance and fairness at low cost.	Lavanya Subramanian,Donghyuk Lee,Vivek Seshadri,Harsha Rastogi,Onur Mutlu	10.1109/ICCD.2014.6974655
+3D-Wiz: A novel high bandwidth, optically interfaced 3D DRAM architecture with reduced random access time.	Ishan G. Thakkar,Sudeep Pasricha	10.1109/ICCD.2014.6974654
+BarTLB: Barren page resistant TLB for managed runtime languages.	Xin Tong 0005,Andreas Moshovos	10.1109/ICCD.2014.6974692
+CoolBudget: Data center power budgeting with workload and cooling asymmetry awareness.	Ozan Tuncer,Kalyan Vaidyanathan,Kenny C. Gross,Ayse K. Coskun	10.1109/ICCD.2014.6974726
+An energy efficient column-major backend for FPGA SpMV accelerators.	Yaman Umuroglu,Magnus Jahre	10.1109/ICCD.2014.6974716
+Built-in self-test for interposer-based 2.5D ICs.	Ran Wang 0002,Krishnendu Chakrabarty,Sudipta Bhawmik	10.1109/ICCD.2014.6974679
+ProactiveDRAM: A DRAM-initiated retention management scheme.	Jue Wang,Xiangyu Dong,Yuan Xie 0001	10.1109/ICCD.2014.6974657
+Optimizing MLC-based STT-RAM caches by dynamic block size reconfiguration.	Jianxing Wang,Pooja Roy,Weng-Fai Wong,Xiuyuan Bi,Hai Li 0001	10.1109/ICCD.2014.6974672
+HAP: Hybrid-memory-Aware Partition in shared Last-Level Cache.	Wei Wei,Dejun Jiang 0001,Jin Xiong,Mingyu Chen 0001	10.1109/ICCD.2014.6974658
+Equivalence verification for NULL Convention Logic (NCL) circuits.	Vidura Wijayasekara,Sudarshan K. Srinivasan,Scott C. Smith	10.1109/ICCD.2014.6974681
+Write-aware random page initialization for non-volatile memory systems.	Fei Xia,Dejun Jiang 0001,Jin Xiong,Ninghui Sun	10.1109/ICCD.2014.6974683
+Variation-aware joint optimization of the supply voltage and sleep transistor size for the 7nm FinFET technology.	Qing Xie 0001,Yanzhi Wang,Shuang Chen 0001,Massoud Pedram	10.1109/ICCD.2014.6974709
+A Thread-Aware Adaptive Data Prefetcher.	Jiyang Yu,Peng Liu 0016	10.1109/ICCD.2014.6974694
+An optimized diagnostic procedure for pre-bond TSV defects.	Bei Zhang,Vishwani D. Agrawal	10.1109/ICCD.2014.6974680
+Dynamic front-end sharing in graphics processing units.	Tao Zhang 0046,Xiaoyao Liang	10.1109/ICCD.2014.6974695
+Intra-task scheduling for storage-less and converter-less solar-powered nonvolatile sensor nodes.	Daming Zhang,Shuangchen Li,Ang Li,Yongpan Liu,Xiaobo Sharon Hu,Huazhong Yang	10.1109/ICCD.2014.6974704
+QoS management on heterogeneous architecture for parallel applications.	Ying Zhang 0016,Li Zhao 0002,Ramesh Illikkal,Ravi R. Iyer 0001,Andrew Herdrich,Lu Peng 0001	10.1109/ICCD.2014.6974702
+A low-power accuracy-configurable floating point multiplier.	Hang Zhang 0031,Wei Zhang 0044,John C. Lach	10.1109/ICCD.2014.6974661
+Leveling to the last mile: Near-zero-cost bit level wear leveling for PCM-based main memory.	Mengying Zhao,Liang Shi,Chengmo Yang,Chun Jason Xue	10.1109/ICCD.2014.6974656
+Design space exploration of multiple loops on FPGAs using high level synthesis.	Guanwen Zhong,Vanchinathan Venkataramani,Yun Liang 0001,Tulika Mitra,Smaïl Niar	10.1109/ICCD.2014.6974719
+32nd IEEE International Conference on Computer Design, ICCD 2014, Seoul, South Korea, October 19-22, 2014		

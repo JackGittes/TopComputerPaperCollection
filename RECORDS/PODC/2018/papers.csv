@@ -1,0 +1,80 @@
+Distributed Coloring in Sparse Graphs with Fewer Colors.	Pierre Aboulker,Marthe Bonamy,Nicolas Bousquet,Louis Esperet	
+2018 Edsger W. Dijkstra Prize in Distributed Computing.	Yehuda Afek,Idit Keidar,Boaz Patt-Shamir,Sergio Rajsbaum,Ulrich Schmid 0001,Gadi Taubenfeld	10.1145/3212734.3232540
+A Deterministic Distributed Algorithm for Exact Weighted All-Pairs Shortest Paths in Õ(n 3/2 ) Rounds.	Udit Agarwal,Vijaya Ramachandran,Valerie King,Matteo Pontecorvi	10.1145/3212734.3212773
+Passing Messages while Sharing Memory.	Marcos K. Aguilera,Naama Ben-David,Irina Calciu,Rachid Guerraoui,Erez Petrank,Sam Toueg	10.1145/3212734.3212741
+Locking Timestamps versus Locking Objects.	Marcos K. Aguilera,Tudor David,Rachid Guerraoui,Junxiong Wang	
+Brief Announcement: Performance Prediction for Coarse-Grained Locking.	Vitaly Aksenov,Dan Alistarh,Petr Kuznetsov	
+Session details: Session 1B: Shared Memory Theory.	Dan Alistarh	
+A Brief Tutorial on Distributed and Concurrent Machine Learning.	Dan Alistarh	
+Relaxed Schedulers Can Efficiently Parallelize Iterative Algorithms.	Dan Alistarh,Trevor Brown 0001,Justin Kopinsky,Giorgi Nadiradze	
+The Convergence of Stochastic Gradient Descent in Asynchronous Shared Memory.	Dan Alistarh,Christopher De Sa,Nikola Konstantinov	10.1145/3212734.3212763
+Deterministic Abortable Mutual Exclusion with Sublogarithmic Adaptive RMR Complexity.	Adam Alon,Adam Morrison 0001	10.1145/3212734.3212759
+2018 Doctoral Dissertation Award.	Lorenzo Alvisi,Idit Keidar,Andréa W. Richa,Alexander A. Schwarzmann	10.1145/3212734.3232541
+Nesting-Safe Recoverable Linearizability: Modular Constructions for Non-Volatile Memory.	Hagit Attiya,Ohad Ben-Baruch,Danny Hendler	10.1145/3212734.3212753
+Separating Lock-Freedom from Wait-Freedom.	Hagit Attiya,Armando Castañeda,Danny Hendler,Matthieu Perrin	10.1145/3212734.3212739
+Sublinear Message Bounds for Randomized Agreement.	John Augustine,Anisur Rahaman Molla,Gopal Pandurangan	
+Brief Announcement: MUSIC: Multi-Site Entry Consistencyfor Geo-Distributed Services.	Bharath Balasubramanian,Richard D. Schlichting,Pamela Zave	
+Almost-Surely Terminating Asynchronous Byzantine Agreement Revisited.	Laasya Bangalore,Ashish Choudhury,Arpita Patra	
+Locally-Iterative Distributed (Δ+ 1): -Coloring below Szegedy-Vishwanathan Barrier, and Applications to Self-Stabilization and to Restricted-Bandwidth Models.	Leonid Barenboim,Michael Elkin,Uri Goldenberg	
+Brief Announcement: Asynchronous Secure Distributed Computing with Transferrable Non-equivocation Revisited.	Rishabh Bhadauria,Ashish Choudhury	
+Brief Announcement: Simple and Local Independent Set Approximation.	Ravi B. Boppana,Magnús M. Halldórsson,Dror Rawitz	10.1145/3212734.3212793
+Session details: Session 1C: Wireless Networks.	Janna Burman	
+Brief Announcement: Space-Optimal Naming in Population Protocols.	Janna Burman,Joffroy Beauquier,Devan Sohier	
+Brief Announcement: A Local Stochastic Algorithm for Separation in Heterogeneous Self-Organizing Particle Systems.	Sarah Cannon,Joshua J. Daymude,Cem Gokmen,Dana Randall,Andréa W. Richa	
+Barriers due to Congestion and Two Ways to Deal With Them.	Keren Censor-Hillel	
+Distributed Spanner Approximation.	Keren Censor-Hillel,Michal Dory	10.1145/3212734.3212758
+On the Classification of Deterministic Objects via Set Agreement Power.	David Yu Cheng Chan,Vassos Hadzilacos,Sam Toueg	10.1145/3212734.3212775
+The Energy Complexity of Broadcast.	Yi-Jun Chang,Varsha Dani,Thomas P. Hayes,Qizheng He,Wenzheng Li,Seth Pettie	10.1145/3212734.3212774
+Session details: Session 2C: Security, Blockchains, and Replication.	Gregory V. Chockler	
+Data Summarization and Distributed Computation.	Graham Cormode	10.1145/3212734.3212795
+Distributed Approximation of Minimum k-edge-connected Spanning Subgraphs.	Michal Dory	10.1145/3212734.3212760
+Brief Announcement: Beeping a Time-Optimal Leader Election.	Fabien Dufoulon,Janna Burman,Joffroy Beauquier	
+Session details: Session 3D: Graphs and Population.	Michael Elkin	
+Near-Optimal Distributed Routing with Low Memory.	Michael Elkin,Ofer Neiman	10.1145/3212734.3212761
+Revisionist Simulations: A New Approach to Proving Space Lower Bounds.	Faith Ellen,Rati Gelashvili,Leqi Zhu	10.1145/3212734.3212749
+On Local Distributed Sampling and Counting.	Weiming Feng 0001,Yitong Yin	10.1145/3212734.3212757
+Distributed Uniformity Testing.	Orr Fischer,Uri Meir,Rotem Oshman	
+Tight Bounds for Asymptotic and Approximate Consensus.	Matthias Függer,Thomas Nowak,Manfred Schwarz	
+Sublinear-Time Quantum Computation of the Diameter in CONGEST Networks.	François Le Gall,Frédéric Magniez	
+Session details: Session 2D: Consensus.	Chryssis Georgiou	
+Session details: Session 2B: Routing and Leader Election.	Mohsen Ghaffari 0001	
+Improved Massively Parallel Computation Algorithms for MIS, Matching, and Vertex Cover.	Mohsen Ghaffari 0001,Themis Gouleakis,Christian Konrad 0001,Slobodan Mitrovic,Ronitt Rubinfeld	10.1145/3212734.3212743
+Improved Distributed Delta-Coloring.	Mohsen Ghaffari 0001,Juho Hirvonen,Fabian Kuhn,Yannic Maus	
+Nearly-Tight Analysis for 2-Choice and 3-Majority Consensus Dynamics.	Mohsen Ghaffari 0001,Johannes Lengler	
+Congested Clique Algorithms for the Minimum Cut Problem.	Mohsen Ghaffari 0001,Krzysztof Nowicki 0002	
+Leader Election in Well-Connected Graphs.	Seth Gilbert,Peter Robinson 0002,Suman Sourav	10.1145/3212734.3212754
+Recoverable Mutual Exclusion Under System-Wide Failures.	Wojciech M. Golab,Danny Hendler	10.1145/3212734.3212755
+Population Stability: Regulating Size in the Presence of an Adversary.	Shafi Goldwasser,Rafail Ostrovsky,Alessandra Scafuro,Adam Sealfon	
+Silence.	Guy Goren,Yoram Moses	
+Tutorial: Consistency Choices in Modern Distributed Systems.	Alexey Gotsman	
+Round- and Message-Optimal Distributed Graph Algorithms.	Bernhard Haeupler,D. Ellis Hershkowitz,David Wajc	10.1145/3212734.3212737
+Minor Excluded Network Families Admit Fast Distributed Algorithms.	Bernhard Haeupler,Jason Li 0006,Goran Zuzic	
+Optimal Gossip Algorithms for Exact and Approximate Quantile Computations.	Bernhard Haeupler,Jeet Mohapatra,Hsin-Hao Su	10.1145/3212734.3212770
+Session details: Session 3C: Coloring.	Magnús M. Halldórsson	
+Leveraging Indirect Signaling for Topology Inference and Fast Broadcast.	Magnús M. Halldórsson,Tigran Tonoyan	10.1145/3212734.3212766
+Atomic Cross-Chain Swaps.	Maurice Herlihy	
+Brief Announcement: Automatic Log Enhancement for Fault Diagnosis.	Tong Jia,Ying Li 0012,Zhonghai Wu	
+Brief Announcement: Optimal Record and Replay under Causal Consistency.	Russell L. Jones,Muhammad Samir Khan,Nitin H. Vaidya	
+Deterministic Digital Clustering of Wireless Ad Hoc Networks.	Tomasz Jurdzinski,Dariusz R. Kowalski,Michal Rózanski,Grzegorz Stachowiak	10.1145/3212734.3212752
+Session details: Session 1A: Persistent Memory.	Idit Keidar	
+Session details: Session 2A: Approximation and Learning.	Idit Keidar	
+Session details: Session 3A: Congest.	Idit Keidar	
+Brief Announcement: Graph Exploration Using Constant-Size Memory and Storage.	Naoki Kitamura,Kazuki Kakizawa,Yuya Kawabata,Taisuke Izumi	
+Brief Announcement: Broadcast in Radio Networks, Time vs. Energy Tradeoffs.	Marek Klonowski,Dominik Pajak	10.1145/3212734.3212786
+Interactive Distributed Proofs.	Gillat Kol,Rotem Oshman,Raghuvansh R. Saxena	
+Brief Announcement: Distributed Minimum Vertex Coloring and Maximum Independent Set in Chordal Graphs.	Christian Konrad 0001,Viktor Zamaraev	10.1145/3212734.3212787
+Brief Announcement: Population Protocols Are Fast.	Adrian Kosowski,Przemyslaw Uznanski	
+Lower Bounds for Searching Robots, some Faulty.	Andrey Kupavskii,Emo Welzl	
+An Asynchronous Computability Theorem for Fair Adversaries.	Petr Kuznetsov,Thibault Rieutord,Yuan He 0003	
+Property Testing of Planarity in the CONGEST model.	Reut Levi,Moti Medina,Dana Ron	
+Brief Announcement: Persistent Multi-Word Compare-and-Swap.	Matej Pavlovic,Alex Kogan,Virendra J. Marathe,Tim Harris 0001	10.1145/3212734.3212783
+Overview of Persistent Memory in Distributed Systems Architecture - Past, Present, Future.	Robert Peglar	10.1145/3212734.3212796
+Session details: Session 1D: Graph Algorithms.	Peter Robinson 0002	
+Brief Announcement: 2D-Stack - A Scalable Lock-Free Stack Design that Continuously Relaxes Semantics for Better Performance.	Adones Rukundo,Aras Atalar,Philippas Tsigas	
+From Self-Stabilization to Self-Optimization: Principles of Distributed Network Design.	Stefan Schmid 0001	
+Brief Announcement: Sustainable Blockchains through Proof of eXercise.	Ali Shoker	
+Erasure Coding in Object Stores: Challenges and Opportunities.	Lewis Tseng	
+Brief Announcement: Specification and Implementation of Replicated List: The Jupiter Protocol Revisited.	Hengfeng Wei,Yu Huang 0002,Jian Lu 0001	10.1145/3212734.3212778
+Brief Announcement: Partially Replicated Causally Consistent Shared Memory.	Zhuolun Xiang,Nitin H. Vaidya	
+Fair Leader Election for Rational Agents in Asynchronous Rings and Networks.	Assaf Yifrach,Yishay Mansour	10.1145/3212734.3212767
+Proceedings of the 2018 ACM Symposium on Principles of Distributed Computing, PODC 2018, Egham, United Kingdom, July 23-27, 2018	Calvin Newport,Idit Keidar	10.1145/3212734

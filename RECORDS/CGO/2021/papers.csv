@@ -1,0 +1,36 @@
+UNIT: Unifying Tensorized Instruction Compilation.	Jian Weng 0002,Animesh Jain,Jie Wang 0022,Leyuan Wang,Yida Wang,Tony Nowatzki	10.1109/CGO51591.2021.9370330
+YaskSite: Stencil Optimization Techniques Applied to Explicit ODE Methods on Modern Architectures.	Christie L. Alappat,Johannes Seiferth,Georg Hager,Matthias Korch,Thomas Rauber,Gerhard Wellein	10.1109/CGO51591.2021.9370316
+Cinnamon: A Domain-Specific Language for Binary Profiling and Monitoring.	Mahwish Arif,Ruoyu Zhou,Hsi-Ming Ho,Timothy M. Jones 0001	10.1109/CGO51591.2021.9370313
+Object Versioning for Flow-Sensitive Pointer Analysis.	Mohamad Barbar,Yulei Sui,Shiping Chen 0001	10.1109/CGO51591.2021.9370334
+BuildIt: A Type-Based Multi-stage Programming Framework for Code Generation in C++.	Ajay Brahmakshatriya,Saman P. Amarasinghe	10.1109/CGO51591.2021.9370333
+Compiling Graph Applications for GPU s with GraphIt.	Ajay Brahmakshatriya,Yunming Zhang,Changwan Hong,Shoaib Kamil 0001,Julian Shun,Saman P. Amarasinghe	10.1109/CGO51591.2021.9370321
+An Experience with Code-Size Optimization for Production iOS Mobile Applications.	Milind Chabbi,Jin Lin,Raj Barik	10.1109/CGO51591.2021.9370306
+Progressive Raising in Multi-level IR.	Lorenzo Chelini,Andi Drebes,Oleksandr Zinenko,Albert Cohen 0001,Nicolas Vasilache,Tobias Grosser,Henk Corporaal	10.1109/CGO51591.2021.9370332
+Data Layout and Data Representation Optimizations to Reduce Data Movement Keynote.	Mary W. Hall	10.1109/CGO51591.2021.9370325
+Seamless Compiler Integration of Variable Precision Floating-Point Arithmetic.	Tiago Trevisan Jost,Yves Durand,Christian Fabre,Albert Cohen 0001,Frédéric Pétrot	10.1109/CGO51591.2021.9370331
+Thread-Aware Area-Efficient High-Level Synthesis Compiler for Embedded Devices.	Changsu Kim 0004,Shinnung Jeong,Sungjun Cho,Yongwoo Lee,William Song,Youngsok Kim,Hanjun Kim 0001	10.1109/CGO51591.2021.9370341
+Towards a Domain-Extensible Compiler: Optimizing an Image Processing Pipeline on Mobile CPUs.	Thomas Koehler 0005,Michel Steuwer	10.1109/CGO51591.2021.9370337
+r3d3: Optimized Query Compilation on GPUs.	Alexander Krolik,Clark Verbrugge,Laurie J. Hendren	10.1109/CGO51591.2021.9370323
+MLIR: Scaling Compiler Infrastructure for Domain Specific Computation.	Chris Lattner,Mehdi Amini,Uday Bondhugula,Albert Cohen 0001,Andy Davis,Jacques A. Pienaar,River Riddle,Tatiana Shpeisman,Nicolas Vasilache,Oleksandr Zinenko	10.1109/CGO51591.2021.9370308
+Message from the General Chair.	Jae W. Lee	10.1109/CGO51591.2021.9370329
+Scaling Up the IFDS Algorithm with Efficient Disk-Assisted Computing.	Haofeng Li,Haining Meng,Hengjie Zheng,Liqing Cao,Jie Lu,Lian Li 0002,Lin Gao 0002	10.1109/CGO51591.2021.9370311
+Unleashing the Low-Precision Computation Potential of Tensor Cores on GPUs.	Guangli Li,Jingling Xue,Lei Liu 0030,Xueying Wang,Xiu Ma,Xiao Dong,Jiansong Li,Xiaobing Feng 0002	10.1109/CGO51591.2021.9370335
+StencilFlow: Mapping Large Stencil Programs to Distributed Spatial Computing Systems.	Johannes de Fine Licht,Andreas Kuster,Tiziano De Matteis,Tal Ben-Nun,Dominic Hofer,Torsten Hoefler	10.1109/CGO51591.2021.9370315
+Relaxed Peephole Optimization: A Novel Compiler Optimization for Quantum Circuits.	Ji Liu 0007,Luciano Bello,Huiyang Zhou	10.1109/CGO51591.2021.9370310
+C-for-Metal: High Performance Simd Programming on Intel GPUs.	Guei-Yuan Lueh,Kaiyu Chen,Gang Chen,Joel Fuentes,Wei-Yu Chen,Fangwen Fu,Hong Jiang,Hongzheng Li,Daniel Rhee	10.1109/CGO51591.2021.9370324
+Variable-Sized Blocks for Locality-Aware SpMV.	Naveen Namashivavam,Sanyam Mehta,Pen-Chung Yew	10.1109/CGO51591.2021.9370327
+HHVM Jump-Start: Boosting Both Warmup and Steady-State Performance at Scale.	Guilherme Ottoni,Bin Liu	10.1109/CGO51591.2021.9370314
+Vulkan Vision: Ray Tracing Workload Characterization using Automatic Graphics Instrumentation.	David Pankratz,Tyler Nowicki,Ahmed Eltantawy,José Nelson Amaral	10.1109/CGO51591.2021.9370320
+ELFies: Executable Region Checkpoints for Performance Analysis and Simulation.	Harish Patil,Alexander Isaev,Wim Heirman,Alen Sabu,Ali Hajiabadi,Trevor E. Carlson	10.1109/CGO51591.2021.9370340
+An Interval Compiler for Sound Floating-Point Computations.	Joao Rivera,Franz Franchetti,Markus Püschel	10.1109/CGO51591.2021.9370307
+ANGHABENCH: A Suite with One Million Compilable C Benchmarks for Code-Size Reduction.	Anderson Faustino da Silva,Bruno Conde Kind,José Wesley de Souza Magalhães,Jerônimo Nunes Rocha,Breno Campos Ferreira Guimarães,Fernando Magno Quintão Pereira	10.1109/CGO51591.2021.9370322
+Memory-Safe Elimination of Side Channels.	Luigi Soares,Fernando Magno Quintão Pereira	10.1109/CGO51591.2021.9370305
+Message from the Program Chairs.	Mary Lou Soffa,Ayal Zaks	10.1109/CGO51591.2021.9370338
+Fine-Grained Pipeline Parallelization for Network Function Programs.	Seungbin Song,Heelim Choi,Hanjun Kim 0001	10.1109/CGO51591.2021.9370309
+Report from the Artifact Evaluation Committee.	Jubi Taneja,Michel Steuwer	10.1109/CGO51591.2021.9370336
+Loop Parallelization using Dynamic Commutativity Analysis.	Christos Vasiladiotis,Roberto Castañeda Lozano,Murray Cole,Björn Franke	10.1109/CGO51591.2021.9370319
+GoBench: A Benchmark Suite of Real-World Go Concurrency Bugs.	Ting Yuan,Guangwei Li,Jie Lu,Chen Liu,Lian Li 0002,Jingling Xue	10.1109/CGO51591.2021.9370317
+Enhancing Atomic Instruction Emulation for Cross-ISA Dynamic Binary Translation.	Ziyi Zhao,Zhang Jiang,Ying Chen,Xiaoli Gong,Wenwen Wang 0001,Pen-Chung Yew	10.1109/CGO51591.2021.9370312
+Efficient Execution of Graph Algorithms on CPU with SIMD Extensions.	Ruohuang Zheng,Sreepathi Pai	10.1109/CGO51591.2021.9370326
+GPA: A GPU Performance Advisor Based on Instruction Sampling.	Keren Zhou 0001,Xiaozhu Meng,Ryuichi Sai,John M. Mellor-Crummey	10.1109/CGO51591.2021.9370339
+IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2021, Seoul, South Korea, February 27 - March 3, 2021	Jae W. Lee,Mary Lou Soffa,Ayal Zaks	10.1109/CGO51591.2021

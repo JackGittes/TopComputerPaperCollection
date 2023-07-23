@@ -1,0 +1,59 @@
+On the Push&amp;Pull Protocol for Rumour Spreading: [Extended Abstract].	Hüseyin Acan,Andrea Collevecchio,Abbas Mehrabian,Nick Wormald	10.1145/2767386.2767416
+On the Time and Space Complexity of ABA Prevention and Detection.	Zahra Aghazadeh,Philipp Woelfel	10.1145/2767386.2767403
+Fast and Exact Majority in Population Protocols.	Dan Alistarh,Rati Gelashvili,Milan Vojnovic	10.1145/2767386.2767429
+How To Elect a Leader Faster than a Tournament.	Dan Alistarh,Rati Gelashvili,Adrian Vladu	10.1145/2767386.2767420
+Lock-Free Algorithms under Stochastic Schedulers.	Dan Alistarh,Thomas Sauerwald,Milan Vojnovic	10.1145/2767386.2767430
+Limitations of Highly-Available Eventually-Consistent Data Stores.	Hagit Attiya,Faith Ellen,Adam Morrison 0001	10.1145/2767386.2767419
+Trading Fences with RMRs and Separating Memory Models.	Hagit Attiya,Danny Hendler,Philipp Woelfel	10.1145/2767386.2767427
+Deterministic (Δ + 1)-Coloring in Sublinear (in Δ) Time in Static, Dynamic and Faulty Networks.	Leonid Barenboim	10.1145/2767386.2767410
+Brief Announcement: A Hierarchy of Congested Clique Models, from Broadcast to Unicast.	Florent Becker,Antonio Fernández Anta,Ivan Rapaport,Eric Rémila	10.1145/2767386.2767447
+The Price of being Adaptive.	Ohad Ben-Baruch,Danny Hendler	10.1145/2767386.2767428
+Improved Analysis of Deterministic Load-Balancing Schemes.	Petra Berenbrink,Ralf Klasing,Adrian Kosowski,Frederik Mallmann-Trenn,Przemyslaw Uznanski	10.1145/2767386.2767413
+Stabilizing Server-Based Storage in Byzantine Asynchronous Message-Passing Systems: Extended abstract.	Silvia Bonomi,Shlomi Dolev,Maria Potop-Butucaru,Michel Raynal	10.1145/2767386.2767441
+Minimal Synchrony for Byzantine Consensus.	Zohir Bouzid,Achour Mostéfaoui,Michel Raynal	10.1145/2767386.2767418
+On Information Complexity in the Broadcast Model.	Mark Braverman,Rotem Oshman	10.1145/2767386.2767425
+Reclaiming Memory for Lock-Free Data Structures: There has to be a Better Way.	Trevor Alexander Brown	10.1145/2767386.2767436
+Impossibility Results for Distributed Transactional Memory.	Costas Busch,Maurice Herlihy,Miroslav Popovic,Gokarna Sharma	10.1145/2767386.2767433
+Safety-Liveness Exclusion in Distributed Computing.	Victor Bushkov,Rachid Guerraoui	10.1145/2767386.2767401
+Algebraic Methods in the Congested Clique.	Keren Censor-Hillel,Petteri Kaski,Janne H. Korhonen,Christoph Lenzen 0001,Ami Paz,Jukka Suomela	10.1145/2767386.2767414
+Help!	Keren Censor-Hillel,Erez Petrank,Shahar Timnat	10.1145/2767386.2767415
+On the Space Complexity of Set Agreement.	Carole Delporte-Gallet,Hugues Fauconnier,Petr Kuznetsov,Eric Ruppert	10.1145/2767386.2767406
+Brief Announcement: On the Feasibility of Leader Election and Shape Formation with Self-Organizing Programmable Matter.	Zahra Derakhshandeh,Robert Gmyr,Thim Strothmann,Rida A. Bazzi,Andréa W. Richa,Christian Scheideler	10.1145/2767386.2767451
+Brief Announcement: Robust and Private Distributed Shared Atomic Memory in Message Passing Networks.	Shlomi Dolev,Thomas Petig,Elad Michael Schiller	10.1145/2767386.2767450
+The Weakest Failure Detector for Eventual Consistency.	Swan Dubois,Rachid Guerraoui,Petr Kuznetsov,Franck Petit,Pierre Sens 0001	10.1145/2767386.2767404
+Brief Announcement: Average Complexity for the LOCAL Model.	Laurent Feuilloley	10.1145/2767386.2767446
+Brief Announcement: Fast and Simple Node Coloring in the SINR Model.	Fabian Fuchs	10.1145/2767386.2767445
+How Fair is Your Protocol?: A Utility-based Approach to Protocol Optimality.	Juan A. Garay,Jonathan Katz,Björn Tackmann,Vassilis Zikas	10.1145/2767386.2767431
+Brief Announcement: Routing the Internet with Very Few Entries.	Cyril Gavoille,Christian Glacet,Nicolas Hanusse,David Ilcinkas	10.1145/2767386.2767449
+Near-Optimal Scheduling of Distributed Algorithms.	Mohsen Ghaffari 0001	10.1145/2767386.2767417
+Near-Optimal Distributed Maximum Flow: Extended Abstract.	Mohsen Ghaffari 0001,Andreas Karrenbauer,Fabian Kuhn,Christoph Lenzen 0001,Boaz Patt-Shamir	10.1145/2767386.2767440
+Distributed House-Hunting in Ant Colonies.	Mohsen Ghaffari 0001,Cameron Musco,Tsvetomira Radeva,Nancy A. Lynch	10.1145/2767386.2767426
+Brief Announcement: Distributed Single-Source Reachability.	Mohsen Ghaffari 0001,Rajan Udwani	10.1145/2767386.2767444
+Efficient Communication in Cognitive Radio Networks.	Seth Gilbert,Fabian Kuhn,Calvin Newport,Chaodong Zheng	10.1145/2767386.2767422
+Computing Weak Consistency in Polynomial Time: [Extended Abstract].	Wojciech M. Golab,Xiaozhou (Steve) Li,Alejandro López-Ortiz,Naomi Nishimura	10.1145/2767386.2767407
+Distributed Resource Discovery in Sub-Logarithmic Time.	Bernhard Haeupler,Dahlia Malkhi	10.1145/2767386.2767435
+A Local Broadcast Layer for the SINR Network Model.	Magnús M. Halldórsson,Stephan Holzer,Nancy A. Lynch	10.1145/2767386.2767432
+Leveraging Multiple Channels in Ad Hoc Networks.	Magnús M. Halldórsson,Yuexuan Wang,Dongxiao Yu	10.1145/2767386.2767437
+Adaptively Secure Computation with Partial Erasures.	Carmit Hazay,Yehuda Lindell,Arpita Patra	10.1145/2767386.2767400
+Toward Optimal Bounds in the Congested Clique: Graph Connectivity and MST.	James W. Hegeman,Gopal Pandurangan,Sriram V. Pemmaraju,Vivek B. Sardeshmukh,Michele Scquizzato	10.1145/2767386.2767434
+The Cost of Synchronizing Multiple-Access Channels.	Tomasz Jurdzinski,Grzegorz Stachowiak	10.1145/2767386.2767439
+Construction and Impromptu Repair of an MST in a Distributed Network with o(m) Communication.	Valerie King,Shay Kutten,Mikkel Thorup	10.1145/2767386.2767405
+Brief Announcement: Eventually Consistent Linearizability.	Maciej Kokocinski,Tadeusz Kobus,Pawel T. Wojciechowski	10.1145/2767386.2767448
+Fast Partial Distance Estimation and Applications.	Christoph Lenzen 0001,Boaz Patt-Shamir	10.1145/2767386.2767398
+Towards Optimal Synchronous Counting.	Christoph Lenzen 0001,Joel Rybicki,Jukka Suomela	10.1145/2767386.2767423
+Scheduling Loop-free Network Updates: It&apos;s Good to Relax!	Arne Ludwig,Jan Marcinkowski,Stefan Schmid 0001	10.1145/2767386.2767412
+Brief Announcement: Investigating the Cost of Anonymity on Dynamic Networks.	Giuseppe Antonio Di Luna,Roberto Baldoni	10.1145/2767386.2767442
+A (Truly) Local Broadcast Layer for Unreliable Radio Networks.	Nancy A. Lynch,Calvin Newport	10.1145/2767386.2767411
+Online Resource Leasing.	Christine Markarian,Friedhelm Meyer auf der Heide	10.1145/2767386.2767454
+Terminating Distributed Construction of Shapes and Patterns in a Fair Solution of Automata.	Othon Michail	10.1145/2767386.2767402
+Randomized Proof-Labeling Schemes.	Mor Baruch,Pierre Fraigniaud,Boaz Patt-Shamir	10.1145/2767386.2767421
+Fast Distributed Almost Stable Matchings.	Rafail Ostrovsky,Will Rosenbaum	10.1145/2767386.2767424
+Cortical Computation.	Christos H. Papadimitriou,Santosh S. Vempala	10.1145/2767386.2767452
+Dual Failure Resilient BFS Structure.	Merav Parter	10.1145/2767386.2767408
+Disjoint-Access Parallelism: Impossibility, Possibility, and Cost of Transactional Memory Implementations.	Sebastiano Peluso,Roberto Palmieri,Paolo Romano 0002,Binoy Ravindran,Francesco Quaglia	10.1145/2767386.2767438
+New Routing Techniques and their Applications.	Liam Roditty,Roei Tov	10.1145/2767386.2767409
+Brief Announcement: Fault-tolerant Broadcast in Anonymous Distributed Systems with Fair Lossy Communication Channels.	Jian Tang,Mikel Larrea,Sergio Arévalo,Ernesto Jiménez	10.1145/2767386.2767443
+Fault-Tolerant Consensus in Directed Graphs.	Lewis Tseng,Nitin H. Vaidya	10.1145/2767386.2767399
+Distributed Convex Thresholding.	Ran Wolff	10.1145/2767386.2767387
+The &quot;Mobile Adversary&quot; Paradigm in Distributed Computation and Systems.	Moti Yung	10.1145/2767386.2767453
+Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing, PODC 2015, Donostia-San Sebastián, Spain, July 21 - 23, 2015	Chryssis Georgiou,Paul G. Spirakis	

@@ -1,0 +1,43 @@
+SKI: Exposing Kernel Concurrency Bugs through Systematic Schedule Exploration.	Pedro Fonseca 0001,Rodrigo Rodrigues 0001,Björn B. Brandenburg	
+End-to-end Performance Isolation Through Virtual Datacenters.	Sebastian Angel,Hitesh Ballani,Thomas Karagiannis,Greg O&apos;Shea,Eno Thereska	
+A Self-Configurable Geo-Replicated Cloud Storage System.	Masoud Saeida Ardekani,Douglas B. Terry	
+Pelican: A Building Block for Exascale Cold Data Storage.	Shobana Balakrishnan,Richard Black,Austin Donnelly,Paul England,Adam Glass,David Harper,Sergey Legtchenko,Aaron Ogus,Eric Peterson,Antony I. T. Rowstron	
+Nail: A Practical Tool for Parsing and Generating Data Formats.	Julian Bangert,Nickolai Zeldovich	
+Shielding Applications from an Untrusted Cloud with Haven.	Andrew Baumann,Marcus Peinado,Galen C. Hunt	
+IX: A Protected Dataplane Operating System for High Throughput and Low Latency.	Adam Belay,George Prekas,Ana Klimovic,Samuel Grossman,Christos Kozyrakis,Edouard Bugnion	
+Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing.	Eric Boutin,Jaliya Ekanayake,Wei Lin 0016,Bing Shi,Jingren Zhou,Zhengping Qian,Ming Wu 0007,Lidong Zhou	
+Identifying Information Disclosure in Web Applications with Retroactive Auditing.	Haogang Chen 0001,Taesoo Kim,Xi Wang 0005,Nickolai Zeldovich,M. Frans Kaashoek	
+Detecting Covert Timing Channels with Time-Deterministic Replay.	Ang Chen 0001,W. Brad Moore,Hanjun Xiao,Andreas Haeberlen,Linh Thi Xuan Phan,Micah Sherr,Wenchao Zhou	
+Project Adam: Building an Efficient and Scalable Deep Learning Training System.	Trishul M. Chilimbi,Yutaka Suzue,Johnson Apacible,Karthik Kalyanaraman	
+The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services.	Michael Chow,David Meisner,Jason Flinn,Daniel Peek,Thomas F. Wenisch	
+Eidetic Systems.	David Devecsery,Michael Chow,Xianzheng Dou,Jason Flinn,Peter M. Chen	
+GraphX: Graph Processing in a Distributed Dataflow Framework.	Joseph E. Gonzalez,Reynold S. Xin,Ankur Dave,Daniel Crankshaw,Michael J. Franklin,Ion Stoica	
+Ironclad Apps: End-to-End Security via Automated Full-System Verification.	Chris Hawblitzel,Jon Howell,Jacob R. Lorch,Arjun Narayan,Bryan Parno,Danfeng Zhang,Brian Zill	
+GPUnet: Networking Abstractions for GPU Programs.	Sangman Kim,Seonggu Huh,Xinya Zhang,Yige Hu,Amir Wated,Emmett Witchel,Mark Silberstein	
+Code-Pointer Integrity.	Volodymyr Kuznetsov,Laszlo Szekeres,Mathias Payer,George Candea,R. Sekar 0001,Dawn Song	
+SAMC: Semantic-Aware Model Checking for Fast Discovery of Deep Bugs in Cloud Systems.	Tanakorn Leesatapornwongsa,Mingzhe Hao,Pallavi Joshi,Jeffrey F. Lukman,Haryadi S. Gunawi	
+Scaling Distributed Machine Learning with the Parameter Server.	Mu Li 0003,David G. Andersen,Jun Woo Park,Alexander J. Smola,Amr Ahmed,Vanja Josifovski,James Long,Eugene J. Shekita,Bor-Yiing Su	
+Physical Disentanglement in a Container-Based File System.	Lanyue Lu,Yupu Zhang,Thanh Do,Samer Al-Kiswany,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+SHILL: A Secure Shell Scripting Language.	Scott Moore,Christos Dimoulas,Dan King,Stephen Chong	
+Extracting More Concurrency from Distributed Transactions.	Shuai Mu 0001,Yang Cui,Yang Zhang,Wyatt Lloyd,Jinyang Li 0001	
+Pydron: Semi-Automatic Parallelization for Multi-Core and the Cloud.	Stefan C. Müller,Gustavo Alonso,Adam Amara,André Csillaghy	
+Phase Reconciliation for Contended In-Memory Transactions.	Neha Narula,Cody Cutler,Eddie Kohler,Robert Tappan Morris	
+Arrakis: The Operating System is the Control Plane.	Simon Peter 0001,Jialin Li 0001,Irene Zhang,Dan R. K. Ports,Doug Woos,Arvind Krishnamurthy,Thomas E. Anderson,Timothy Roscoe	
+All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications.	Thanumalayan Sankaranarayana Pillai,Vijay Chidambaram,Ramnatthan Alagappan,Samer Al-Kiswany,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+User-Guided Device Driver Synthesis.	Leonid Ryzhyk,Adam Walker,John Keys,Alexander Legg,Arun Raghunath,Michael Stumm,Mona Vij	
+Willow: A User-Programmable SSD.	Sudharsan Seshadri,Mark Gahagan,Meenakshi Sundaram Bhaskaran,Trevor Bunker,Arup De,Yanqin Jin,Yang Liu 0044,Steven Swanson	
+Pebbles: Fine-Grained Data Management Abstractions for Modern Operating Systems.	Riley Spahn,Jonathan Bell 0001,Michael Lee,Sravan Bhamidipati,Roxana Geambasu,Gail E. Kaiser	
+Protecting Users by Confining JavaScript with COWL.	Deian Stefan,Edward Z. Yang,Petr Marchenko,Alejandro Russo,David Herman,Brad Karp,David Mazières	
+f4: Facebook&apos;s Warm BLOB Storage System.	Muralidhar Subramanian,Wyatt Lloyd,Sabyasachi Roy,Cory Hill,Ernest Lin,Weiwen Liu,Satadru Pan,Shiva Shankar,Sivakumar Viswanathan,Linpeng Tang,Sanjeev Kumar	
+The Power of Choice in Data-Aware Cluster Scheduling.	Shivaram Venkataraman,Aurojit Panda,Ganesh Ananthanarayanan,Michael J. Franklin,Ion Stoica	
+Jitk: A Trustworthy In-Kernel Interpreter Infrastructure.	Xi Wang 0005,David Lazar,Nickolai Zeldovich,Adam Chlipala,Zachary Tatlock	
+Characterizing Storage Workloads with Counter Stacks.	Jake Wires,Stephen Ingram,Zachary Drudi,Nicholas J. A. Harvey,Andrew Warfield	
+Salt: Combining ACID and BASE in a Distributed Database.	Chao Xie,Chunzhi Su,Manos Kapritsos,Yang Wang 0009,Navid Yaghmazadeh,Lorenzo Alvisi,Prince Mahajan	
+Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems.	Ding Yuan 0004,Yu Luo,Xin Zhuang,Guilherme Renna Rodrigues,Xu Zhao,Yongle Zhang,Pranay Jain,Michael Stumm	
+Decoupling Cores, Kernels, and Operating Systems.	Gerd Zellweger,Simon Gerber,Kornilios Kourtis,Timothy Roscoe	
+Heading Off Correlated Failures through Independence-as-a-Service.	Ennan Zhai,Ruichuan Chen,David Isaac Wolinsky,Bryan Ford	
+Customizable and Extensible Deployment for Mobile/Cloud Applications.	Irene Zhang,Adriana Szekeres,Dana Van Aken,Isaac Ackerman,Steven D. Gribble,Arvind Krishnamurthy,Henry M. Levy	
+lprof: A Non-intrusive Request Flow Profiler for Distributed Systems.	Xu Zhao,Yongle Zhang,David Lion,Muhammad Faizan Ullah,Yu Luo,Ding Yuan 0004,Michael Stumm	
+Torturing Databases for Fun and Profit.	Mai Zheng,Joseph Tucek,Dachuan Huang,Feng Qin,Mark Lillibridge,Elizabeth S. Yang,Bill W. Zhao,Shashank Singh 0003	
+Fast Databases with Fast Durability and Recovery Through Multicore Parallelism.	Wenting Zheng,Stephen Tu,Eddie Kohler,Barbara Liskov	
+11th USENIX Symposium on Operating Systems Design and Implementation, OSDI &apos;14, Broomfield, CO, USA, October 6-8, 2014.	Jason Flinn,Hank Levy	

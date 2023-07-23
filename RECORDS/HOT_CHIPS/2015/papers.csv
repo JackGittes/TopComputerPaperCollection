@@ -1,0 +1,40 @@
+Current trends for hardware and software developers.	Vrajesh Bhavsar	10.1109/HOTCHIPS.2015.7477324
+UltraScale+ MPSoC and FPGA families.	Vamsi Boppana,Sagheer Ahmad,Ilya Ganusov,Vinod Kathail,Vidya Rajagopalan,Ralph Wittig	10.1109/HOTCHIPS.2015.7477457
+The ARM® Mali-T880 Mobile GPU.	Ian Bratt	10.1109/HOTCHIPS.2015.7477462
+Ultra-low power wireless SoCs enabling a batteryless IoT.	Benton H. Calhoun,David D. Wentzloff	10.1109/HOTCHIPS.2015.7477327
+Architecture of the Hexagon™ 680 DSP for mobile imaging and computer vision.	Lucian Codrescu	10.1109/HOTCHIPS.2015.7477329
+Kalray MPPA®: Massively parallel processor array: Revisiting DSP acceleration with the Kalray MPPA Manycore processor.	Benoît Dupont de Dinechin	10.1109/HOTCHIPS.2015.7477332
+Ultra-low-light CMOS biosensor helps tackle infectious diseases.	Zhimin Ding	10.1109/HOTCHIPS.2015.7477465
+Maker trends: The path of least resistance.	Pete Dokter	10.1109/HOTCHIPS.2015.7477321
+Under 100-cycle thread migration latency in a single-ISA heterogeneous multi-core processor.	Elliott Forbes,Zhenqian Zhang,Randy Widialaksono,Brandon H. Dwiel,Rangeen Basu Roy Chowdhury,Vinesh Srinivasan,Steve Lipa,Eric Rotenberg,W. Rhett Davis,Paul D. Franzon	10.1109/HOTCHIPS.2015.7477478
+MIAOW: An open source GPGPU.	Vinay Gangadhar,Raghuraman Balasubramanian,Mario Drumond,Ziliang Guo,Jai Menon 0003,Cherin Joseph,Robin Prakash,Sharath Prasad,Pradip Vallathol,Karu Sankaralingam	10.1109/HOTCHIPS.2015.7477460
+The road to 5G: Providing the connectivity fabric for everything.	Matt Grob	10.1109/HOTCHIPS.2015.7477463
+I/O virtualization and system acceleration in POWER8.	Michael Gschwind	10.1109/HOTCHIPS.2015.7477456
+Stratix® 10: 14nm FPGA delivering 1GHz.	Mike Hutton	10.1109/HOTCHIPS.2015.7477458
+Professional H.265/HEVC encoder LSI toward high-quality 4K/8K broadcast infrastructure.	Hiroe Iwasaki,Takayuki Onishi,Ken Nakamura,Koyo Nitta,Takashi Sano,Yukikuni Nishida,Kazuya Yokohari,Jia Su,Naoki Ono,Ritsu Kusaba,Atsushi Sagata,Mitsuo Ikeda,Atsushi Shimizu	10.1109/HOTCHIPS.2015.7477464
+Flexible video processing platform for 8K UHD TV.	Sukjin Kim,Young-Hwan Park,Jaehyun Kim,Minsoo Kim,Wonchang Lee,Shihwa Lee	10.1109/HOTCHIPS.2015.7477475
+A low-power and real-time augmented reality processor for the next generation smart glasses.	Gyeonghoon Kim,Hoi-Jun Yoo	10.1109/HOTCHIPS.2015.7477476
+Energy efficient graphics and multimedia in 28NM Carrizo APU.	Guhan Krishnan,Dan Bouvier,Louis Zhang,Praveen Dongara	10.1109/HOTCHIPS.2015.7477331
+Deep learning &amp; convolutional networks.	Yann LeCun	10.1109/HOTCHIPS.2015.7477328
+Raven: A 28nm RISC-V vector processor with integrated switched-capacitor DC-DC converters and adaptive clocking.	Yunsup Lee,Brian Zimmer,Andrew Waterman,Alberto Puggelli,Jaehwa Kwak,Ruzica Jevtic,Ben Keller,Stevo Bailey,Milovan Blagojevic,Pi-Feng Chiu,Henry Cook,Rimas Avizienis,Brian C. Richards,Elad Alon,Borivoje Nikolic,Krste Asanovic	10.1109/HOTCHIPS.2015.7477469
+Comparison of Key/Value Store (KVS) in software and programmable hardware.	John W. Lockwood	10.1109/HOTCHIPS.2015.7477473
+AMD&apos;s next generation GPU and high bandwidth memory architecture: FURY.	Joe Macri	10.1109/HOTCHIPS.2015.7477461
+IoT device development challenges and solutions.	Venkat Mattela	10.1109/HOTCHIPS.2015.7477322
+Deep learning: Architectures, algorithms, applications.	Roland Memisevic	10.1109/HOTCHIPS.2015.7477319
+Intel® Xeon® Processor D: The First Xeon processor optimized for dense solutions.	Dheemanth Nagaraj,Chris Gianos	10.1109/HOTCHIPS.2015.7477468
+A scalable heterogeneous multicore architecture for ADAS: Presented at HOT CHIPS: A symposium on high performance chips Flint Center, Cupertino, CA.	Zoran Nikolic,Rama Venkatasubramanian,Jason A. T. Jones,Peter Labaziewicz	10.1109/HOTCHIPS.2015.7477330
+Makers from Hobbyists to professionals.	Christopher Nitta	10.1109/HOTCHIPS.2015.7477320
+Implementing software defined radio on the paralella.	Andreas Olofsson	10.1109/HOTCHIPS.2015.7477323
+Toward accelerating deep learning at scale using specialized hardware in the datacenter.	Kalin Ovtcharov,Olatunji Ruwase,Joo-Young Kim 0001,Jeremy Fowers,Karin Strauss,Eric S. Chung	10.1109/HOTCHIPS.2015.7477459
+NMI: A new memory interface to enable innovation.	David Roberts,Amin Farmahini Farahani,Kevin Cheng,Nathan Hu,David Mayhew,Michael Ignatowski	10.1109/HOTCHIPS.2015.7477474
+PULP: A parallel ultra low power platform for next generation IoT applications.	Davide Rossi,Francesco Conti 0001,Andrea Marongiu,Antonio Pullini,Igor Loi,Michael Gautschi,Giuseppe Tagliavini,Alessandro Capotondi,Philippe Flatresse,Luca Benini	10.1109/HOTCHIPS.2015.7477325
+10G   5G   2.5G   1G   100M physical layer PHY: HOT CHIPS 2015 conference.	Ramin Shirani,Ramin Farjad-Rad	10.1109/HOTCHIPS.2015.7477466
+Knights landing (KNL): 2nd Generation Intel® Xeon Phi processor.	Avinash Sodani	10.1109/HOTCHIPS.2015.7477467
+A silicon anti-virus engine.	Adrian Tang,John Demme,Simha Sethumadhavan,Salvatore J. Stolfo	10.1109/HOTCHIPS.2015.7477477
+Atom™ - x5/x7 Series processor, codenamed Cherry Trail.	Steven Tu	10.1109/HOTCHIPS.2015.7477470
+Oracle&apos;s Sonoma processor: Advanced low-cost SPARC processor for enterprise workloads.	Basant Vinaik,Rahoul Puri	10.1109/HOTCHIPS.2015.7477455
+Design of a low power SoC testchip for wearables and IoTs.	May Wu,Ravi Iyer,Yatin Hoskote,Steven Zhang,Julio Zamora-Esquivel,German Fabila Garcia,Ilya Klotchkov,Mukesh Bhartiya	10.1109/HOTCHIPS.2015.7477326
+LS2085/8A Freescale&apos;s new QorlQ Layerscape communications processor.	Zheng John Xu	10.1109/HOTCHIPS.2015.7477453
+Lagopus FPGA - A reprogrammable data plane for high-performance software SDN switches.	Koji Yamazaki,Yoshihiro Nakajima,Takahiro Hatano,Akihiko Miyazaki	10.1109/HOTCHIPS.2015.7477471
+Mars: A 64-core ARMv8 processor.	Charles Zhang	10.1109/HOTCHIPS.2015.7477454
+2015 IEEE Hot Chips 27 Symposium (HCS), Cupertino, CA, USA, August 22-25, 2015		

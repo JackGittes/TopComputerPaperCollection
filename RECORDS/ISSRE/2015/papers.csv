@@ -1,0 +1,56 @@
+Experience report: Evaluating the effectiveness of decision trees for detecting code smells.	Lucas Amorim,Evandro Costa,Nuno Antunes,Baldoino Fonseca,Márcio Ribeiro 0001	10.1109/ISSRE.2015.7381819
+Experience report: Mining test results for reasons other than functional correctness.	Jeff Anderson,Hyunsook Do,Saeed Salem	10.1109/ISSRE.2015.7381834
+Automated resource release in device drivers.	Jia-Ju Bai,Yu-Ping Wang 0001,Hu-Qiu Liu,Shi-Min Hu 0001	10.1109/ISSRE.2015.7381811
+Specifying and verifying real-time self-adaptive systems.	Matteo Camilli,Angelo Gargantini,Patrizia Scandurra	10.1109/ISSRE.2015.7381823
+MoIO: Run-time monitoring for I/O protocol violations in storage device drivers.	Domenico Cotroneo,Luigi De Simone,Francesco Fucci,Roberto Natella	10.1109/ISSRE.2015.7381840
+Studying the influence of standard compiler optimizations on symbolic execution.	Shiyu Dong,Oswaldo Olivo,Lingming Zhang 0001,Sarfraz Khurshid	10.1109/ISSRE.2015.7381814
+AtomChase: Directed search towards atomicity violations.	Mahdi Eslamimehr,Mohsen Lesani	10.1109/ISSRE.2015.7381795
+Experience report: Anomaly detection of cloud application operations using log and cloud metric correlation analysis.	Mostafa Farshchi,Jean-Guy Schneider,Ingo Weber,John C. Grundy	10.1109/ISSRE.2015.7381796
+WAP: Unreasonable distributions of execution time under reasonable conditions.	David Flater	10.1109/ISSRE.2015.7381803
+Pushing the limits on automation in GUI regression testing.	Zebao Gao,Chunrong Fang,Atif M. Memon	10.1109/ISSRE.2015.7381848
+PAID: Prioritizing app issues for developers by tracking user reviews over versions.	Cuiyun Gao,Baoxiang Wang 0001,Pinjia He,Jieming Zhu,Yangfan Zhou,Michael R. Lyu	10.1109/ISSRE.2015.7381797
+How hard does mutation analysis have to be, anyway?	Rahul Gopinath,Amin Alipour,Iftekhar Ahmed 0001,Carlos Jensen,Alex Groce	10.1109/ISSRE.2015.7381815
+WAP: Models and metrics for the assessment of critical-infrastructure-targeted malware campaigns.	Michael Grottke,Alberto Avritzer,Daniel Sadoc Menasché,Javier Alonso,Leandro Pfleger de Aguiar,Sara G. Alvarez	10.1109/ISSRE.2015.7381826
+Anomaly detection in computer systems using compressed measurements.	Tingshan Huang,Nagarajan Kandasamy,Harish Sethu	10.1109/ISSRE.2015.7381794
+Contrasting exception handling code across languages: An experience report involving 50 open source projects.	Benjamin Jakobus,Eiji Adachi Barbosa,Alessandro F. Garcia 0001,Carlos José Pereira de Lucena	10.1109/ISSRE.2015.7381812
+Detecting inconsistencies in multi-platform mobile apps.	Mona Erfani Joorabchi,Mohamed Ali,Ali Mesbah 0001	10.1109/ISSRE.2015.7381838
+Exciting FPGA cryptographic Trojans using combinatorial testing.	Paris Kitsos,Dimitris E. Simos,Jose Torres-Jimenez,Artemios G. Voyiatzis	10.1109/ISSRE.2015.7381800
+Experience report: How do techniques, programs, and tests impact automated program repair?	Xianglong Kong,Lingming Zhang 0001,W. Eric Wong,Bixin Li	10.1109/ISSRE.2015.7381813
+Piecing together app behavior from multiple artifacts: A case study.	Emily Kowalczyk,Atif M. Memon,Myra B. Cohen	10.1109/ISSRE.2015.7381837
+Should fixing these failures be delegated to automated program repair?	Xuan-Bach Dinh Le,Tien-Duy B. Le,David Lo 0001	10.1109/ISSRE.2015.7381836
+Experience report: Can software testing education lead to more reliable code?	Otávio Augusto Lazzarini Lemos,Fabiano Cutigi Ferrari,Fábio Fagundes Silveira,Alessandro F. Garcia 0001	10.1109/ISSRE.2015.7381829
+Experience report: An application-specific checkpointing technique for minimizing checkpoint corruption.	Guanpeng Li,Karthik Pattabiraman,Chen-Yong Cher,Pradip Bose	10.1109/ISSRE.2015.7381808
+Experience report: Memory accesses for avionic applications and operating systems on a multi-core platform.	Andreas Löfwenmark,Simin Nadjm-Tehrani	10.1109/ISSRE.2015.7381809
+Mutation-based test-case prioritization in software evolution.	Yiling Lou,Dan Hao 0001,Lu Zhang 0023	10.1109/ISSRE.2015.7381798
+Enhancing privacy protection in fault replication systems.	João Matos,João Garcia 0001,Paolo Romano 0002	10.1109/ISSRE.2015.7381827
+SIG-Droid: Automated system input generation for Android applications.	Nariman Mirzaei,Hamid Bagheri,Riyadh Mahmood,Sam Malek	10.1109/ISSRE.2015.7381839
+Classifying faulty modules with an extension of the H-index.	Sandro Morasca	10.1109/ISSRE.2015.7381835
+Discovering model transformation pre-conditions using automatically generated test models.	Jean-Marie Mottu,Sagar Sen,Juan José Cadavid,Benoit Baudry	10.1109/ISSRE.2015.7381802
+Efficient elimination of false positives using static analysis.	Tukaram Muske,Uday P. Khedker	10.1109/ISSRE.2015.7381820
+An evidential reasoning approach for assessing confidence in safety evidence.	Sunil Nair,Neil Walkinshaw,Tim Kelly,Jose Luis de la Vara	10.1109/ISSRE.2015.7381846
+A similarity-based approach for test case prioritization using historical failure data.	Tanzeem Bin Noor,Hadi Hemmati	10.1109/ISSRE.2015.7381799
+Towards comprehensive software reliability evaluation in open source software.	Hiroyuki Okamura,Tadashi Dohi	10.1109/ISSRE.2015.7381806
+Experience report: How do structural dependencies influence change propagation? An empirical study.	Gustavo Ansaldi Oliva,Marco Aurélio Gerosa	10.1109/ISSRE.2015.7381818
+WAP: Cognitive aspects in unit testing: The hunting game and the hunter&apos;s perspective.	Marllos P. Prado,Eric Verbeek 0002,Margaret-Anne D. Storey,Auri M. R. Vincenzi	10.1109/ISSRE.2015.7381832
+Detecting latent cross-platform API violations.	Jeff Rasley,Eleni Gessiou,Tony Ohmann,Yuriy Brun,Shriram Krishnamurthi,Justin Cappos	10.1109/ISSRE.2015.7381841
+A safe generic adaptation mechanism for smart cars.	Alejandra Ruiz 0001,Garazi Juez,Philipp Schleiss,Gereon Weiss	10.1109/ISSRE.2015.7381810
+WAP: Digital dependability identities.	Daniel Schneider 0001,Mario Trapp,Yiannis Papadopoulos,Eric Armengaud,Marc Zeller,Kai Höfig	10.1109/ISSRE.2015.7381825
+Model generation to support model-based testing applied on the NASA DAT Web-application - An experience report.	Christoph Schulze 0001,Mikael Lindvall,Sigurthor Bjorgvinsson,Robert Wiegand	10.1109/ISSRE.2015.7381801
+Software reliability growth model based on Bohrbugs and Mandelbugs.	Martin L. Shooman	10.1109/ISSRE.2015.7381831
+Security slicing for auditing XML, XPath, and SQL injection vulnerabilities.	Julian Thomé,Lwin Khin Shar,Lionel C. Briand	10.1109/ISSRE.2015.7381847
+Using normalized compression distance to measure the evolutionary stability of software systems.	David Threm,Liguo Yu,Srini Ramaswamy,Sithu D. Sudarsan	10.1109/ISSRE.2015.7381805
+WAP: What activates a bug? A refinement of the Laprie terminology model.	Peter Tröger,Lena Feinbube,Matthias Werner 0001	10.1109/ISSRE.2015.7381804
+Experience report: Formal verification and testing in the development of embedded software.	Andreas Ulrich,Anjelika Votintseva	10.1109/ISSRE.2015.7381822
+Experience report: A field analysis of user-defined security configurations of Android devices.	Daniel Vecchiato,Eliane Martins	10.1109/ISSRE.2015.7381824
+Discovering specification violations in networked software systems.	Robert J. Walls,Yuriy Brun,Marc Liberatore,Brian Neil Levine	10.1109/ISSRE.2015.7381842
+UPMOA: An improved search algorithm to support user-preference multi-objective optimization.	Shuai Wang 0001,Shaukat Ali 0001,Tao Yue 0002,Marius Liaaen	10.1109/ISSRE.2015.7381833
+Fast reproducing web application errors.	Jie Wang 0035,Wensheng Dou,Chushu Gao,Jun Wei 0001	10.1109/ISSRE.2015.7381845
+Experience report: An industrial experience report on test outsourcing practices.	Xin Xia 0001,David Lo 0001,Pavneet Singh Kochhar,Zhenchang Xing,Xinyu Wang 0001,Shanping Li	10.1109/ISSRE.2015.7381830
+Experience report: A characteristic study on out of memory errors in distributed data-parallel applications.	Lijie Xu,Wensheng Dou,Feng Zhu,Chushu Gao,Jie Liu 0008,Hua Zhong 0007,Jun Wei 0001	10.1109/ISSRE.2015.7381844
+SpyAware: Investigating the privacy leakage signatures in app execution traces.	Hui Xu 0009,Yangfan Zhou,Cuiyun Gao,Yu Kang,Michael R. Lyu	10.1109/ISSRE.2015.7381828
+Efficient observability-based test generation by dynamic symbolic execution.	Dongjiang You,Sanjai Rayadurgam,Michael W. Whalen,Mats Per Erik Heimdahl,Gregory Gay 0002	10.1109/ISSRE.2015.7381816
+Boundary value analysis in automatic white-box test generation.	Zhiqiang Zhang 0007,Tianyong Wu,Jian Zhang 0001	10.1109/ISSRE.2015.7381817
+Conservative claims about the probability of perfection of software-based systems.	Xingyu Zhao 0001,Bev Littlewood,Andrey Povyakalo,David Wright 0001	10.1109/ISSRE.2015.7381807
+Event-based formalization of safety-critical operating system standards: An experience report on ARINC 653 using Event-B.	Yongwang Zhao,Zhibin Yang,David Sanán,Yang Liu 0003	10.1109/ISSRE.2015.7381821
+Experience report: How do bug characteristics differ across severity classes: A multi-platform study.	Bo Zhou 0002,Iulian Neamtiu,Rajiv Gupta 0001	10.1109/ISSRE.2015.7381843
+26th IEEE International Symposium on Software Reliability Engineering, ISSRE 2015, Gaithersbury, MD, USA, November 2-5, 2015		

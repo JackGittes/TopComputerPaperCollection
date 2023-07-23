@@ -1,0 +1,88 @@
+SERF: efficient scheduling for fast deep neural network serving via judicious parallelism.	Feng Yan 0001,Yuxiong He,Olatunji Ruwase,Evgenia Smirni	10.1109/SC.2016.25
+Scalemine: scalable parallel frequent subgraph mining in a single large graph.	Ehab Abdelhamid,Ibrahim Abdelaziz,Panos Kalnis,Zuhair Khayyat,Fuad T. Jamour	10.1109/SC.2016.60
+An efficient and scalable algorithmic method for generating large: scale random graphs.	Md. Maksudul Alam,Maleq Khan,Anil Vullikanti,Madhav V. Marathe	10.1109/SC.2016.31
+HARP: predictive transfer optimization based on historical analysis and real-time probing.	Engin Arslan,Kemal Guner,Tevfik Kosar	10.1109/SC.2016.24
+Performance analysis, design considerations, and applications of extreme-scale in situ infrastructures.	Utkarsh Ayachit,Andrew C. Bauer,Earl P. N. Duque,Greg Eisenhauer,Nicola J. Ferrier,Junmin Gu,Kenneth E. Jansen,Burlen Loring,Zarija Lukic,Suresh Menon,Dmitriy Morozov,Patrick O&apos;Leary,Reetesh Ranjan,Michel E. Rasquin,Christopher P. Stone,Venkatram Vishwanath,Gunther H. Weber,Brad Whitlock,Matthew Wolf,K. John Wu,E. Wes Bethel	10.1109/SC.2016.78
+A parallel arbitrary-order accurate AMR algorithm for the scalar advection-diffusion equation.	Arash Bakhtiari,Dhairya Malhotra,Amir Raoofy,Miriam Mehl,Hans-Joachim Bungartz,George Biros	10.1109/SC.2016.43
+Unprotected computing: a large-scale study of DRAM raw error rate on a supercomputer.	Leonardo Bautista-Gomez,Ferad Zyulkyarov,Osman S. Unsal,Simon McIntosh-Smith	10.1109/SC.2016.54
+Caliper: performance introspection for HPC software stacks.	David Böhme,Todd Gamblin,David Beckingsale,Peer-Timo Bremer,Alfredo Giménez,Matthew P. LeGendre,Olga Pearce,Martin Schulz 0001	10.1109/SC.2016.46
+Failure detection and propagation in HPC systems.	George Bosilca,Aurélien Bouteiller,Amina Guermouche,Thomas Hérault,Yves Robert,Pierre Sens 0001,Jack J. Dongarra	10.1109/SC.2016.26
+Increasing molecular dynamics simulation rates with an 8-fold increase in electrical power efficiency.	W. Michael Brown,Andrey Semin,Michael Hebenstreit,Sergey Khvostov,Karthik Raman,Steven J. Plimpton	10.1109/SC.2016.7
+Real-time synthesis of compression algorithms for scientific data.	Martin Burtscher,Hari Mukka,Annie Yang,Farbod Hesaaraki	10.1109/SC.2016.22
+GreenLA: green linear algebra software for GPU-accelerated heterogeneous computing.	Jieyang Chen,Li Tan,Panruo Wu,Dingwen Tao,Hongbo Li 0006,Xin Liang 0001,Sihuan Li,Rong Ge 0002,Laxmi N. Bhuyan,Zizhong Chen	10.1109/SC.2016.56
+A parallel algorithm for finding all pairs k-mismatch maximal common substrings.	Sriram P. Chockalingam,Sharma V. Thankachan,Srinivas Aluru	10.1109/SC.2016.66
+Accelerating lattice QCD multigrid on GPUs using fine-grained parallelization.	Michael A. Clark,Bálint Joó,Alexei Strelchenko,Michael Cheng,Arjun Singh Gambhir,Richard C. Brower	10.1109/SC.2016.67
+Reliable and efficient performance monitoring in linux.	Maria Dimakopoulou,Stéphane Eranian,Nectarios Koziris,Nicholas Bambos	10.1109/SC.2016.33
+Scheduling-aware routing for supercomputers.	Jens Domke,Torsten Hoefler	10.1109/SC.2016.12
+Granularity and the cost of error recovery in resilient AMR scientific applications.	Anshu Dubey,Hajime Fujita 0002,Daniel T. Graves,Andrew A. Chien,Devesh Tiwari	10.1109/SC.2016.41
+Scalable non-blocking preconditioned conjugate gradient methods.	Paul R. Eller,William Gropp	10.1109/SC.2016.17
+Modeling dilute solutions using first-principles molecular dynamics: computing more than a million atoms with over a million cores.	Jean-Luc Fattebert,Daniel Osei-Kuffuor,Erik W. Draeger,Tadashi Ogitsu,William D. Krauss	10.1109/SC.2016.88
+Refactoring and optimizing the community atmosphere model (CAM) on the sunway taihulight supercomputer.	Haohuan Fu,Junfeng Liao,Wei Xue,Lanning Wang,Dexun Chen,Long Gu,Jinxiu Xu 0001,Nan Ding 0006,Xinliang Wang,Conghui He,Shizhen Xu,Yishuang Liang,Jiarui Fang,Yuanchao Xu 0001,Weijie Zheng 0001,Jingheng Xu,Zhen Zheng,Wanjing Wei,Xu Ji,He Zhang,Bingwei Chen,Kaiwei Li,Xiaomeng Huang,Wenguang Chen,Guangwen Yang	10.1109/SC.2016.82
+MUSA: a multi-level simulation approach for next-generation HPC machines.	Thomas Grass,César Allande,Adrià Armejach,Alejandro Rico,Eduard Ayguadé,Jesús Labarta,Mateo Valero,Marc Casas,Miquel Moretó	10.1109/SC.2016.44
+dCUDA: hardware supported overlap of computation and communication.	Tobias Gysi,Jeremia Bär,Torsten Hoefler	10.1109/SC.2016.51
+High performance emulation of quantum circuits.	Thomas Häner,Damian S. Steiger,Mikhail Smelyanskiy,Matthias Troyer	10.1109/SC.2016.73
+LIBXSMM: accelerating small matrix multiplications by runtime code generation.	Alexander Heinecke,Greg Henry,Maxwell Hutchinson,Hans Pabst	10.1109/SC.2016.83
+MetaMorph: a library framework for interoperable kernels on multi- and many-core clusters.	Ahmed E. Helal,Paul Sathre,Wu-chun Feng	10.1109/SC.2016.10
+The vectorization of the tersoff multi-body potential: an exercise in performance portability.	Markus Höhnerbach,Ahmed E. Ismail,Paolo Bientinesi	10.1109/SC.2016.6
+DCA: a DRAM-cache-aware DRAM controller.	Cheng-Chieh Huang,Vijay Nagarajan,Arpit Joshi	10.1109/SC.2016.75
+Strassen&apos;s algorithm reloaded.	Jianyu Huang,Tyler M. Smith,Greg M. Henry,Robert A. van de Geijn	10.1109/SC.2016.58
+A machine learning framework for performance coverage analysis of proxy applications.	Tanzima Z. Islam,Jayaraman J. Thiagarajan,Abhinav Bhatele,Martin Schulz 0001,Todd Gamblin	10.1109/SC.2016.45
+Evaluating HPC networks via simulation of parallel workloads.	Nikhil Jain,Abhinav Bhatele,Sam White,Todd Gamblin,Laxmikant V. Kalé	10.1109/SC.2016.13
+Block iterative methods and recycling for improved scalability of linear solvers.	Pierre Jolivet,Pierre-Henri Tournier	10.1109/SC.2016.16
+Measuring and understanding throughput of network topologies.	Sangeetha Abdu Jyothi,Ankit Singla,Brighten Godfrey,Alexandra Kolla	10.1109/SC.2016.64
+PFEAST: a high performance sparse eigenvalue solver using distributed-memory linear solvers.	James Kestyn,Vasileios Kalantzis,Eric Polizzi,Yousef Saad	10.1109/SC.2016.15
+Designing scalable b-Matching algorithms on distributed memory multiprocessors by approximation.	Arif M. Khan,Alex Pothen,Md. Mostofa Ali Patwary,Mahantesh Halappanavar,Nadathur Rajagopalan Satish,Narayanan Sundaram,Pradeep Dubey	10.1109/SC.2016.65
+Translating OpenMP device constructs to OpenCL using unnecessary data transfer elimination.	Junghyun Kim,Yong-Jun Lee,Jung-Ho Park,Jaejin Lee	10.1109/SC.2016.50
+PIPES: a language and compiler for task-based programming on distributed-memory clusters.	Martin Kong,Louis-Noël Pouchet,P. Sadayappan,Vivek Sarkar	10.1109/SC.2016.38
+G-store: high-performance graph store for trillion-edge processing.	Pradeep Kumar,H. Howie Huang	10.1109/SC.2016.70
+Pinpointing scale-dependent integer overflow bugs in large-scale parallel applications.	Ignacio Laguna,Martin Schulz 0001	10.1109/SC.2016.18
+Performance modeling of in situ rendering.	Matthew Larsen,Cyrus Harrison,James Kress,David Pugmire,Jeremy S. Meredith,Hank Childs	10.1109/SC.2016.23
+Extended task queuing: active messages for heterogeneous systems.	Michael LeBeane,Brandon Potter,Abhisek Pan,Alexandru Dutu,Vinay Agarwala,Wonchan Lee,Deepak Majeti,Bibek Ghimire,Eric Van Tassell,Samuel Wasmundt,Brad Benton,Maurício Breternitz,Michael L. Chu,Mithuna Thottethodi,Lizy K. John,Steven K. Reinhardt	10.1109/SC.2016.79
+Enhancing infiniband with openflow-style SDN capability.	Jason Lee,Zhou Tong,Karthik Achalkar,Xin Yuan 0001,Michael Lang 0003	10.1109/SC.2016.35
+Characterizing parallel scientific applications on commodity clusters: an empirical study of a tapered fat-tree.	Edgar A. León,Ian Karlin,Abhinav Bhatele,Steven H. Langer,Chris Chambreau,Louis H. Howell,Trent D&apos;Hooge,Matthew L. Leininger	10.1109/SC.2016.77
+Improving application resilience to memory errors with lightweight compression.	Scott Levy,Kurt B. Ferreira,Patrick G. Bridges	10.1109/SC.2016.27
+Designing MPI library with on-demand paging (ODP) of infiniband: challenges and benefits.	Mingzhe Li,Khaled Hamidouche,Xiaoyi Lu,Hari Subramoni,Jie Zhang 0045,Dhabaleswar K. Panda 0001	10.1109/SC.2016.36
+Understanding error propagation in GPGPU applications.	Guanpeng Li,Karthik Pattabiraman,Chen-Yong Cher,Pradip Bose	10.1109/SC.2016.20
+Optimizing memory efficiency for deep convolutional neural networks on GPUs.	Chao Li 0004,Yi Yang 0018,Min Feng 0001,Srimat T. Chakradhar,Huiyang Zhou	10.1109/SC.2016.53
+Enabling efficient preemption for SIMT architectures with lightweight context switching.	Zhen Lin,Lars Nyland,Huiyang Zhou	10.1109/SC.2016.76
+Server-side log data analytics for I/O workload characterization and coordination on large shared storage systems.	Yang Liu 0129,Raghul Gunasekaran,Xiaosong Ma,Sudharshan S. Vazhkudai	10.1109/SC.2016.69
+Compiler-directed lightweight checkpointing for fine-grained guaranteed soft error recovery.	Qingrui Liu,Changhee Jung,Dongyoon Lee,Devesh Tiwari	10.1109/SC.2016.19
+DAOS and friends: a proposal for an exascale storage system.	Jay F. Lofstead,Ivo Jimenez,Carlos Maltzahn,Quincey Koziol,John Bent,Eric Barton	10.1109/SC.2016.49
+Optimal execution of co-analysis for large-scale molecular dynamics simulations.	Preeti Malakar,Venkatram Vishwanath,Christopher Knight 0001,Todd S. Munson,Michael E. Papka	10.1109/SC.2016.59
+Distributed-memory large deformation diffeomorphic 3D image registration.	Andreas Mang,Amir Gholami,George Biros	10.1109/SC.2016.71
+A PCIe congestion-aware performance model for densely populated accelerator servers.	Maxime Martinasso,Grzegorz Kwasniewski,Sadaf R. Alam,Thomas C. Schulthess,Torsten Hoefler	10.1109/SC.2016.62
+Simulation and performance analysis of the ECMWF tape library system.	Markus Mäsker,Lars Nagel 0001,Tim Süß,André Brinkmann,Lennart Sorth	10.1109/SC.2016.21
+Týr: blob storage meets built-in transactions.	Pierre Matri,Alexandru Costan,Gabriel Antoniu,Jesús Montes,María S. Pérez 0001	10.1109/SC.2016.48
+Merge-based parallel sparse matrix-vector multiplication.	Duane Merrill,Michael Garland	10.1109/SC.2016.57
+Understanding performance interference in next-generation HPC systems.	Oscar H. Mondragon,Patrick G. Bridges,Scott Levy,Kurt B. Ferreira,Patrick M. Widener	10.1109/SC.2016.32
+Efficient delaunay tessellation through K-D tree decomposition.	Dmitriy Morozov,Tom Peterka	10.1109/SC.2016.61
+Simulations of below-ground dynamics of fungi: 1.184 pflops attained by automated generation and autotuning of temporal blocking codes.	Takayuki Muranushi,Hideyuki Hotta,Junichiro Makino,Seiya Nishizawa,Hirofumi Tomita,Keigo Nitadori,Masaki Iwasawa,Natsuki Hosono,Yutaka Maruyama,Hikaru Inoue,Hisashi Yashiro,Yoshifumi Nakamura	10.1109/SC.2016.2
+Perilla: metadata-based optimizations of an asynchronous runtime for adaptive mesh refinement.	Tan Nguyen 0001,Didem Unat,Weiqun Zhang,Ann S. Almgren,Muhammed Nufail Farooqi,John Shalf	10.1109/SC.2016.80
+FlipBack: automatic targeted protection against silent data corruption.	Xiang Ni,Laxmikant V. Kalé	10.1109/SC.2016.28
+Enhanced MPSM3 for applications to quantum biological simulations.	A. Pozdneev,Valéry Weber,Teodoro Laino,Constantine Bekas,Alessandro Curioni	10.1109/SC.2016.8
+A highly effective global surface wave numerical simulation with ultra-high resolution.	Fangli Qiao,Wei Zhao,Xunqiang Yin,Xiaomeng Huang,Xin Liu,Qi Shu,Guansuo Wang,Zhenya Song,Xinfang Li,Haixing Liu,Guangwen Yang,Yeli Yuan	10.1109/SC.2016.4
+A domain-specific compiler for a parallel multiresolution adaptive numerical simulation environment.	Samyam Rajbhandari,Jinsung Kim,Sriram Krishnamoorthy,Louis-Noël Pouchet,Fabrice Rastello,Robert J. Harrison,P. Sadayappan	10.1109/SC.2016.39
+The mont-blanc prototype: an alternative approach for HPC systems.	Nikola Rajovic,Alejandro Rico,Filippo Mantovani,Daniel Ruiz 0003,Josep Oriol Vilarrubi,Constantino Gómez,Luna Backes,Diego Nieto,Harald Servat,Xavier Martorell,Jesús Labarta,Eduard Ayguadé,Chris Adeniyi-Jones,Said Derradji,Hervé Gloaguen,Piero Lanucara,Nico Sanna,Jean-François Méhaut,Kevin Pouget,Brice Videau,Eric Boyer,Momme Allalen,Axel Auweter,David Brayford,Daniele Tafani,Volker Weinberg,Dirk Brömmel,René Halver,Jan H. Meinke,Ramón Beivide,Mariano Benito,Enrique Vallejo 0001,Mateo Valero,Alex Ramírez	10.1109/SC.2016.37
+High-frequency nonlinear earthquake simulations on petascale heterogeneous supercomputers.	Daniel Roten,Yifeng Cui,Kim B. Olsen,Steven M. Day,Kyle Withers,William H. Savran,Peng Wang,Dawei Mu	10.1109/SC.2016.81
+Graph colouring as a challenge problem for dynamic graph processing on distributed systems.	Scott Sallinen,Keita Iwabuchi,Suraj Poudel,Maya B. Gokhale,Matei Ripeanu,Roger A. Pearce	10.1109/SC.2016.29
+Truenorth ecosystem for brain-inspired computing: scalable systems, software, and applications.	Jun Sawada,Filipp Akopyan,Andrew S. Cassidy,Brian Taba,Michael V. DeBole,Pallab Datta,Rodrigo Alvarez-Icaza,Arnon Amir,John V. Arthur,Alexander Andreopoulos,Rathinakumar Appuswamy,Heinz Baier,Davis Barch,David J. Berg,Carmelo di Nolfo,Steven K. Esser,Myron Flickner,Thomas A. Horvath,Bryan L. Jackson,Jeff Kusnitz,Scott Lekuch,Michael Mastro,Timothy Melano,Paul A. Merolla,Steven E. Millman,Tapan K. Nayak,Norm Pass,Hartmut E. Penner,William P. Risk,Kai Schleupen,Benjamin Shaw,Hayley Wu,Brian Giera,Adam T. Moody,T. Nathan Mundhenk,Brian Van Essen,Eric X. Wang,David P. Widemann,Qing Wu,William E. Murphy,Jamie K. Infantolino,James A. Ross,Dale R. Shires,Manuel M. Vindiola,Raju Namburu,Dharmendra S. Modha	10.1109/SC.2016.11
+Exploring the potentials of parallel garbage collection in SSDs for enterprise storage systems.	Narges Shahidi,Mohammad Arjomand,Myoungsoo Jung,Mahmut T. Kandemir,Chita R. Das,Anand Sivasubramaniam	10.1109/SC.2016.47
+Transient guarantees: maximizing the value of idle cloud capacity.	Supreeth Shastri,Amr Rizk,David E. Irwin 0001	10.1109/SC.2016.84
+An exploration of optimization algorithms for high performance tensor completion.	Shaden Smith,Jongsoo Park,George Karypis	10.1109/SC.2016.30
+Elastic multi-resource fairness: balancing fairness and efficiency in coupled CPU-GPU architectures.	Shanjiang Tang,Bingsheng He,Shuhao Zhang 0001,Zhaojie Niu	10.1109/SC.2016.74
+Extreme scale plasma turbulence simulations on top supercomputers worldwide.	William M. Tang,Bei Wang 0002,Stéphane Ethier,Grzegorz Kwasniewski,Torsten Hoefler,Khaled Z. Ibrahim,Kamesh Madduri,Samuel Williams 0001,Leonid Oliker,Carlos Rosales-Fernandez,Timothy J. Williams	10.1109/SC.2016.42
+Automating wavefront parallelization for sparse matrix computations.	Anand Venkat,Mahdi Soltan Mohammadi,Jongsoo Park,Hongbo Rong,Rajkishore Barik,Michelle Mills Strout,Mary W. Hall	10.1109/SC.2016.40
+Towards green aviation with python at petascale.	Peter E. Vincent,Freddie D. Witherden,Brian C. Vermeire,Jin Seok Park,Arvind Iyer	10.1109/SC.2016.1
+Daino: a high-level framework for parallel and efficient AMR on GPUs.	Mohamed Wahib,Naoya Maruyama,Takayuki Aoki	10.1109/SC.2016.52
+A data driven scheduling approach for power management on HPC systems.	Sean Wallace,Xu Yang 0009,Venkatram Vishwanath,William E. Allcock,Susan Coghlan,Michael E. Papka,Zhiling Lan	10.1109/SC.2016.55
+Multi-resource fair sharing for datacenter jobs with placement constraints.	Wei Wang 0030,Baochun Li,Ben Liang 0001,Jun Li 0017	10.1109/SC.2016.85
+An ephemeral burst-buffer file system for scientific applications.	Teng Wang,Kathryn Mohror,Adam Moody,Kento Sato,Weikuan Yu	10.1109/SC.2016.68
+Flexfly: enabling a reconfigurable dragonfly through silicon photonics.	Ke Wen,Payman Samadi,Sébastien Rumley,Christine P. Chen,Yiwen Shen 0002,Meisam Bahadori,Keren Bergman,Jeremiah J. Wilke	10.1109/SC.2016.14
+Development effort estimation in HPC.	Sandra Wienke,Julian Miller,Martin Schulz 0001,Matthias S. Müller	10.1109/SC.2016.9
+Watch out for the bully!: job interference study on dragonfly network.	Xu Yang 0009,John Jenkins,Misbah Mubarak,Robert B. Ross,Zhiling Lan	10.1109/SC.2016.63
+10M-core scalable fully-implicit solver for nonhydrostatic atmospheric dynamics.	Chao Yang 0002,Wei Xue,Haohuan Fu,Hongtao You,Xinliang Wang,Yulong Ao,Fangfang Liu,Lin Gan,Ping Xu,Lanning Wang,Guangwen Yang,Weimin Zheng	10.1109/SC.2016.5
+Extreme-scale phase field simulations of coarsening dynamics on the sunway taihulight supercomputer.	Jian Zhang 0070,Chunbao Zhou,Yangang Wang,Lili Ju,Qiang Du 0001,Xuebin Chi,Dongsheng Xu,Dexun Chen,Yong Liu,Zhao Liu	10.1109/SC.2016.3
+A multi-faceted approach to job placement for improved performance on extreme-scale systems.	Christopher Zimmer 0001,Saurabh Gupta 0002,Scott Atchley,Sudharshan S. Vazhkudai,Carl Albing	10.1109/SC.2016.86
+ZNNi: maximizing the inference throughput of 3D convolutional networks on CPUs and GPUs.	Aleksandar Zlateski,Kisuk Lee,H. Sebastian Seung	10.1109/SC.2016.72
+Evaluating and optimizing OpenCL kernels for high performance computing with FPGAs.	Hamid Reza Zohouri,Naoya Maruyama,Aaron Smith,Motohiko Matsuda,Satoshi Matsuoka	10.1109/SC.2016.34
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2016, Salt Lake City, UT, USA, November 13-18, 2016	John West 0001,Cherri M. Pancake	

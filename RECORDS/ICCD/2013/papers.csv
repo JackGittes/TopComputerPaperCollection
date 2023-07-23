@@ -1,0 +1,82 @@
+Watts-inside: A hardware-software cooperative approach for Multicore Power Debugging.	Jie Chen 0020,Fan Yao,Guru Venkataramani	10.1109/ICCD.2013.6657062
+Exploiting dynamic phase distance mapping for phase-based tuning of embedded systems.	Tosiron Adegbija,Ann Gordon-Ross	10.1109/ICCD.2013.6657066
+Performance simulator based on hardware resources constraints for ion trap quantum computer.	Muhammad Ahsan,Byung-Soo Choi,Jungsang Kim	10.1109/ICCD.2013.6657073
+Exploiting correlation in stochastic circuit design.	Armin Alaghi,John P. Hayes	10.1109/ICCD.2013.6657023
+Long term sustainability of differentially reliable systems in the dark silicon era.	Jason M. Allred,Sanghamitra Roy,Koushik Chakraborty	10.1109/ICCD.2013.6657027
+Increasing GPU throughput using kernel interleaved thread block scheduling.	Mihir Awatramani,Joseph Zambreno,Diane T. Rover	10.1109/ICCD.2013.6657093
+Speculative tag access for reduced energy dissipation in set-associative L1 data caches.	Alen Bardizbanyan,Magnus Själander,David B. Whalley,Per Larsson-Edefors	10.1109/ICCD.2013.6657057
+Exploring the energy efficiency of Multispeculative Adders.	Alberto A. Del Barrio,Román Hermida,Seda Ogrenci Memik	10.1109/ICCD.2013.6657058
+FreshCache: Statically and dynamically exploiting dataless ways.	Arkaprava Basu,Derek Hower,Mark D. Hill,Michael M. Swift	10.1109/ICCD.2013.6657055
+Characterizing the costs and benefits of hardware parallelism in accelerator cores.	Steven J. Battle,Mark Hempstead	10.1109/ICCD.2013.6657021
+Register allocation and VDD-gating algorithms for out-of-order architectures.	Steven J. Battle,Mark Hempstead	10.1109/ICCD.2013.6657032
+Energy-efficient Runtime Adaptive Scrubbing in fault-tolerant Network-on-Chips (NoCs) architectures.	Travis Boraten,Avinash Karanth Kodi	10.1109/ICCD.2013.6657052
+Simulation and architecture improvements of atomic operations on GPU scratchpad memory.	Gert-Jan van den Braak,Juan Gómez-Luna,Henk Corporaal,José María González-Linares,Nicolás Guil	10.1109/ICCD.2013.6657065
+Program interference in MLC NAND flash memory: Characterization, modeling, and mitigation.	Yu Cai,Onur Mutlu,Erich F. Haratsch,Ken Mai	10.1109/ICCD.2013.6657034
+Statistical analysis and modeling for error composition in approximate computation circuits.	Wei-Ting Jonas Chan,Andrew B. Kahng,Seokhyeong Kang,Rakesh Kumar 0002,John Sartori	10.1109/ICCD.2013.6657024
+Accelerator-rich CMPs: From concept to real hardware.	Yu-Ting Chen,Jason Cong,Mohammad Ali Ghodrat,Muhuan Huang,Chunyue Liu,Bingjun Xiao,Yi Zou	10.1109/ICCD.2013.6657039
+Free ECC: An efficient error protection for compressed last-level caches.	Long Chen,Yanan Cao,Zhao Zhang 0010	10.1109/ICCD.2013.6657054
+Scattered superpage: A case for bridging the gap between superpage and page coloring.	Licheng Chen,Yanan Wang,Zehan Cui,Yongbing Huang,Yungang Bao,Mingyu Chen 0001	10.1109/ICCD.2013.6657040
+A temperature-aware synthesis approach for simultaneous delay and leakage optimization.	Nathaniel A. Conos,Miodrag Potkonjak	10.1109/ICCD.2013.6657059
+Gate delay modeling for pre- and post-silicon timing related tasks for ultra-low power CMOS circuits.	Prasanjeet Das,Sandeep K. Gupta	10.1109/ICCD.2013.6657047
+Selecting critical implications with set-covering formulation for SAT-based Bounded Model Checking.	Mahmoud Elbayoumi,Michael S. Hsiao,Mustafa Y. ElNainay	10.1109/ICCD.2013.6657070
+FastLanes: An FPGA accelerated GPU microarchitecture simulator.	Kuan Fang,Yufei Ni,Jiayuan He 0005,Zonghui Li,Shuai Mu 0002,Yangdong Deng	10.1109/ICCD.2013.6657049
+Assessing the impact of hard faults in performance components of modern microprocessors.	Nikos Foutris,Dimitris Gizopoulos,John Kalamatianos,Vilas Sridharan	10.1109/ICCD.2013.6657044
+Quipu: High-performance simulation of quantum circuits using stabilizer frames.	Héctor J. García,Igor L. Markov	10.1109/ICCD.2013.6657072
+Equivalence checking of partial designs using dependency quantified Boolean formulae.	Karina Gitina,Sven Reimer,Matthias Sauer 0002,Ralf Wimmer 0001,Christoph Scholl 0001,Bernd Becker 0001	10.1109/ICCD.2013.6657071
+Functional Fmax test-time reduction using novel DFTs for circuit initialization.	Ujjwal Guin,Tapan J. Chakraborty,Mohammad Tehranipoor	10.1109/ICCD.2013.6657017
+DR-SNUCA: An energy-scalable dynamically partitioned cache.	Anshuman Gupta,Jack Sampson,Michael Bedford Taylor	10.1109/ICCD.2013.6657096
+A global router on GPU architecture.	Yiding Han,Koushik Chakraborty,Sanghamitra Roy	10.1109/ICCD.2013.6657028
+A private level-1 cache architecture to exploit the latency and capacity tradeoffs in multicores operating at near-threshold voltages.	Farrukh Hijaz,Qingchuan Shi,Omer Khan	10.1109/ICCD.2013.6657029
+Variation tolerance and error resilience in a low power wireless receiver.	Jan Hoogerbrugge	10.1109/ICCD.2013.6657063
+Compiler-based approach to reducing leakage energy of instruction scratch-pad memories.	Yijie Huangfu,Wei Zhang 0002	10.1109/ICCD.2013.6657077
+Power gating with block migration in chip-multiprocessor last-level caches.	David Kadjo,Hyungjun Kim,Paul Gratz,Jiang Hu,Raid Ayoub	10.1109/ICCD.2013.6657030
+Sneak path testing and fault modeling for multilevel memristor-based memories.	Sachhidh Kannan,Ramesh Karri,Ozgur Sinanoglu	10.1109/ICCD.2013.6657045
+Algorithm clustering for multi-algorithm processor design.	Madhushika M. E. Karunarathna,Yu-Chu Tian,Colin J. Fidge,Ross Hayward	10.1109/ICCD.2013.6657080
+Data compression for thermal mitigation in the Hybrid Memory Cube.	Mushfique Junayed Khurshid,Mikko H. Lipasti	10.1109/ICCD.2013.6657041
+Assessment of cloud-based health monitoring using Homomorphic Encryption.	Övünç Kocabas,Tolga Soyata,Jean-Philippe Couderc,Mehmet K. Aktas,Jean Xia,Michael C. Huang 0001	10.1109/ICCD.2013.6657078
+Power capping of CPU-GPU heterogeneous systems through coordinating DVFS and task mapping.	Toshiya Komoda,Shingo Hayashi,Takashi Nakada,Shinobu Miwa,Hiroshi Nakamura	10.1109/ICCD.2013.6657064
+Performance-controllable shared cache architecture for multi-core soft real-time systems.	Myoungjun Lee,Soontae Kim	10.1109/ICCD.2013.6657097
+Optimizing post-silicon conformance checking.	Li Lei,Kai Cong,Fei Xie	10.1109/ICCD.2013.6657092
+Integrating thermocouple sensors into 3D ICs.	Dawei Li,Ji-Hoon Kim,Seda Ogrenci Memik	10.1109/ICCD.2013.6657046
+Bayesian theory oriented Optimal Data-Provider Selection for CMP.	Guohong Li,Zhenyu Liu 0001,Sanchuan Guo,Chongmin Li,Dongsheng Wang 0002	10.1109/ICCD.2013.6657050
+Noise-based algorithms for functional equivalence and tautology checking.	Pey-Chang Kent Lin,Sunil P. Khatri	10.1109/ICCD.2013.6657048
+High accuracy approximate multiplier with error correction.	Chia-Hao Lin,Ing-Chao Lin	10.1109/ICCD.2013.6657022
+Chisel-Q: Designing quantum circuits with a scala embedded language.	Xiao Liu,John Kubiatowicz	10.1109/ICCD.2013.6657075
+Dynamic thread mapping for high-performance, power-efficient heterogeneous many-core systems.	Guangshuo Liu,Jinpyo Park,Diana Marculescu	10.1109/ICCD.2013.6657025
+Dynamic AC-scheduling for hardware cores with unknown and uncertain information.	Silvia Lovergine,Fabrizio Ferrandi	10.1109/ICCD.2013.6657086
+LightTx: A lightweight transactional design in flash-based SSDs to support flexible transactions.	Youyou Lu,Jiwu Shu,Jia Guo,Shuai Li,Onur Mutlu	10.1109/ICCD.2013.6657033
+A low-jitter phase-locked resonant clock generation and distribution scheme.	Ayan Mandal,Kalyana C. Bollapalli,Nikhil Jayakumar,Sunil P. Khatri,Rabi N. Mahapatra	10.1109/ICCD.2013.6657089
+Phoenix NoC: A distributed fault tolerant architecture.	César A. M. Marcon,Alexandre M. Amory,Thais Webber,Thomas Volpato,Leticia B. Poehls	10.1109/ICCD.2013.6657018
+FlexiWay: A cache energy saving technique using fine-grained cache reconfiguration.	Sparsh Mittal,Zhao Zhang 0010,Jeffrey S. Vetter	10.1109/ICCD.2013.6657031
+Voltage scaling on C-elements: A speed, power and energy efficiency analysis.	Matheus Trevisan Moreira,Ney Laert Vilar Calazans	10.1109/ICCD.2013.6657061
+Energy-aware synthesis of application specific MPSoCs.	Thannirmalai Somu Muthukaruppan,Haris Javaid,Tulika Mitra,Sri Parameswaran	10.1109/ICCD.2013.6657026
+SLIDER: Smart Late Injection DEflection Router for mesh NoCs.	Bhawna Nayak,John Jose,Madhu Mutyam	10.1109/ICCD.2013.6657068
+Low power multi-level-cell resistive memory design with incomplete data mapping.	Dimin Niu,Qiaosha Zou,Cong Xu,Yuan Xie 0001	10.1109/ICCD.2013.6657035
+Data placement in HPC architectures with heterogeneous off-chip memory.	Milan Pavlovic,Nikola Puzovic,Alex Ramírez	10.1109/ICCD.2013.6657042
+Memory-centric accelerator design for Convolutional Neural Networks.	Maurice Peemen,Arnaud A. A. Setio,Bart Mesman,Henk Corporaal	10.1109/ICCD.2013.6657019
+LPScan: An algorithm for supply scaling and switching activity minimization during test.	Seetal Potluri,Satya Trinadh Adireddy,Chidhambaranathan Rajamanikkam,Shankar Balachandran	10.1109/ICCD.2013.6657083
+Scalable trace signal selection using machine learning.	Kamran Rahmani,Prabhat Mishra 0001,Sandip Ray	10.1109/ICCD.2013.6657069
+Rationale for a 3D heterogeneous multi-core processor.	Eric Rotenberg,Brandon H. Dwiel,Elliott Forbes,Zhenqian Zhang,Randy Widialaksono,Rangeen Basu Roy Chowdhury,Nyunyi M. Tshibangu,Steve Lipa,W. Rhett Davis,Paul D. Franzon	10.1109/ICCD.2013.6657038
+On design vulnerability analysis and trust benchmarks development.	Hassan Salmani,Mohammad Tehranipoor,Ramesh Karri	10.1109/ICCD.2013.6657085
+Stochastic functions using sequential logic.	Naman Saraf,Kia Bazargan,David J. Lilja,Marc D. Riedel	10.1109/ICCD.2013.6657094
+Towards analyzing and improving robustness of software applications to intermittent and permanent faults in hardware.	Ankur Sharma,Joseph Sloan,Lucas Francisco Wanner,Salma Elmalaki 0001,Mani B. Srivastava,Puneet Gupta 0001	10.1109/ICCD.2013.6657076
+Towards efficient dynamic data placement in NoC-based multicores.	Qingchuan Shi,Farrukh Hijaz,Omer Khan	10.1109/ICCD.2013.6657067
+Design tradeoffs for simplicity and efficient verification in the Execution Migration Machine.	Keun Sup Shim,Mieszko Lis,Myong Hyon Cho,Ilia A. Lebedev,Srinivas Devadas	10.1109/ICCD.2013.6657037
+Analysis and minimization of short-circuit current in mesh clock network.	Seongbo Shim,Minyoung Mo,Sangmin Kim,Youngsoo Shin	10.1109/ICCD.2013.6657082
+On dynamic polymorphing of a superscalar core for improving energy efficiency.	Sudarshan Srinivasan,Rance Rodrigues,Arunachalam Annamalai,Israel Koren,Sandip Kundu	10.1109/ICCD.2013.6657091
+Low-current probabilistic writes for power-efficient STT-RAM caches.	Nikolaos Strikos,Vasileios Kontorinis,Xiangyu Dong,Houman Homayoun,Dean M. Tullsen	10.1109/ICCD.2013.6657095
+QuRE: The Quantum Resource Estimator toolbox.	Martin Suchara,John Kubiatowicz,Arvin I. Faruque,Frederic T. Chong,Ching-Yi Lai,Gerardo Paz	10.1109/ICCD.2013.6657074
+RECAP: Region-Aware Cache Partitioning.	Karthik T. Sundararajan,Timothy M. Jones 0001,Nigel P. Topham	10.1109/ICCD.2013.6657056
+Managing test coverage uncertainty due to thermal noise in nano-CMOS: A case-study on an SRAM array.	Vikram B. Suresh,Sandip Kundu	10.1109/ICCD.2013.6657043
+A TCAM generator for packet classification.	Infall Syafalni,Tsutomu Sasao	10.1109/ICCD.2013.6657060
+Resonant frequency divider design methodology for dynamic frequency scaling.	Ying Teng,Baris Taskin	10.1109/ICCD.2013.6657087
+Efficient floating-point representation for balanced codes for FPGA devices.	Julio Villalba,Javier Hormigo,Francisco Corbera,Mario A. González,Emilio L. Zapata	10.1109/ICCD.2013.6657053
+Dynamic bandwidth adaptation using recognition accuracy prediction through pre-classification for embedded vision systems.	Yang Xiao 0002,Chuanjun Zhang,Kevin Inck,Vijaykrishnan Narayanan	10.1109/ICCD.2013.6657020
+Semi-analytical current source modeling of near-threshold operating logic cells considering process variations.	Qing Xie 0001,Tiansong Cui,Yanzhi Wang,Shahin Nazarian,Massoud Pedram	10.1109/ICCD.2013.6657079
+Selected inversion for vectorless power grid verification by exploiting locality.	Jianlei Yang 0001,Yici Cai,Qiang Zhou 0001,Wei Zhao	10.1109/ICCD.2013.6657051
+Equivalence checking for compiler transformations in behavioral synthesis.	Zhenkun Yang,Kecheng Hao,Kai Cong,Sandip Ray,Fei Xie	10.1109/ICCD.2013.6657090
+Resource allocation algorithms for guaranteed service in application-specific NoCs.	Gongming Yang,Hao He,Jiang Hu	10.1109/ICCD.2013.6657088
+JOP-alarm: Detecting jump-oriented programming-based anomalies in applications.	Fan Yao,Jie Chen 0020,Guru Venkataramani	10.1109/ICCD.2013.6657084
+CG-Resync: Conversion-guided resynchronization for a SSD-based RAID array.	Letian Yi,Jiwu Shu,Jiaxin Ou,Weimin Zheng	10.1109/ICCD.2013.6657081
+Lazy Precharge: An overhead-free method to reduce precharge overhead for memory parallelism improvement of DRAM system.	Tao Zhang 0032,Cong Xu,Yuan Xie 0001,Guangyu Sun 0003	10.1109/ICCD.2013.6657036
+2013 IEEE 31st International Conference on Computer Design, ICCD 2013, Asheville, NC, USA, October 6-9, 2013		

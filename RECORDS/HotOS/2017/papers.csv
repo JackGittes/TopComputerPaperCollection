@@ -1,0 +1,30 @@
+Separating Translation from Protection in Address Spaces with Dynamic Remapping.	Reto Achermann,Chris I. Dalton,Paolo Faraboschi,Moritz Hoffmann 0001,Dejan S. Milojicic,Geoffrey Ndu,Alex Richardson,Timothy Roscoe,Adrian L. Shaw,Robert N. M. Watson	10.1145/3102980.3103000
+Hypercallbacks: Decoupling Policy Decisions and Execution.	Nadav Amit,Michael Wei,Cheng-Chun Tu	10.1145/3102980.3102987
+System Programming in Rust: Beyond Safety.	Abhiram Balasubramanian,Marek S. Baranowski,Anton Burtsev,Aurojit Panda,Zvonimir Rakamaric,Leonid Ryzhyk	10.1145/3102980.3103006
+It&apos;s Time to Think About an Operating System for Near Data Processing Architectures.	Antonio Barbalace,Anthony Iliopoulos,Holm Rauchfuss,Goetz Brasche	10.1145/3102980.3102990
+Hardware is the new Software.	Andrew Baumann	10.1145/3102980.3103002
+Quantum Operating Systems.	Henry Corrigan-Gibbs,David J. Wu 0001,Dan Boneh	10.1145/3102980.3102993
+Why Your Encrypted Database Is Not Secure.	Paul Grubbs,Thomas Ristenpart,Vitaly Shmatikov	10.1145/3102980.3103007
+From Crash Consistency to Transactions.	Yige Hu,Youngjin Kwon,Vijay Chidambaram,Emmett Witchel	10.1145/3102980.3102997
+Gray Failure: The Achilles&apos; Heel of Cloud-Scale Systems.	Peng Huang 0005,Chuanxiong Guo,Lidong Zhou,Jacob R. Lorch,Yingnong Dang,Murali Chintalapati,Randolph Yao	10.1145/3102980.3103005
+A Clairvoyant Approach to Evaluating Software (In)Security.	Bhushan Jain,Chia-che Tsai,Donald E. Porter	10.1145/3102980.3102991
+Consistency Oracles: Towards an Interactive and Flexible Consistency Model Specification.	Beom Heyn Kim,Sukwon Oh,David Lie	10.1145/3102980.3102994
+Will Serverless End the Dominance of Linux in the Cloud?	Ricardo Koller,Dan Williams	10.1145/3102980.3103008
+Scalability Bugs: When 100-Node Testing is Not Enough.	Tanakorn Leesatapornwongsa,Cesar A. Stuardo,Riza O. Suminto,Huan Ke,Jeffrey F. Lukman,Haryadi S. Gunawi	10.1145/3102980.3102985
+Towards Proving Optimistic Multicore Schedulers.	Baptiste Lepers,Willy Zwaenepoel,Jean-Pierre Lozi,Nicolas Palix,Redha Gouicem,Julien Sopena,Julia Lawall,Gilles Muller	10.1145/3102980.3102984
+Towards Automated Configuration of Systems with Non-Functional Constraints.	Linda Leuschner,Martin Küttler,Tobias Stumpf,Christel Baier,Hermann Härtig,Sascha Klüppelholz	10.1145/3102980.3102999
+Glimmers: Resolving the Privacy/Trust Quagmire.	David Lie,Petros Maniatis	10.1145/3102980.3102996
+Return of the Runtimes: Rethinking the Language Runtime System for the Cloud 3.0 Era.	Martin Maas 0001,Krste Asanovic,John Kubiatowicz	10.1145/3102980.3103003
+Thinking about Availability in Large Service Infrastructures.	Jeffrey C. Mogul,Rebecca Isaacs,Brent Welch	10.1145/3102980.3102983
+No!: Not Another Deep Learning Framework.	Linh Nguyen,Peifeng Yu,Mosharaf Chowdhury	10.1145/3102980.3102995
+Real-Time Machine Learning: The Missing Pieces.	Robert Nishihara,Philipp Moritz,Stephanie Wang,Alexey Tumanov,William Paul,Johann Schleier-Smith,Richard Liaw,Mehrdad Niknami,Michael I. Jordan,Ion Stoica	10.1145/3102980.3102998
+OS Support for Thread Migration and Distribution in the Fully Heterogeneous Datacenter.	Pierre Olivier,Sang-Hoon Kim,Binoy Ravindran	10.1145/3102980.3103009
+Performance clarity as a first-class design principle.	Kay Ousterhout,Christopher Canel,Max Wolffe,Sylvia Ratnasamy,Scott Shenker	10.1145/3102980.3102981
+Verification in the Age of Microservices.	Aurojit Panda,Mooly Sagiv,Scott Shenker	10.1145/3102980.3102986
+OmniX: an accelerator-centric OS for omni-programmable systems.	Mark Silberstein	10.1145/3102980.3102992
+Towards O(1) Memory.	Michael M. Swift	10.1145/3102980.3102982
+A Case Against Tiny Tasks in Iterative Analytics.	Ehsan Totoni,Subramanya R. Dulloor,Amitabha Roy 0002	10.1145/3102980.3103004
+Flash Drive Lifespan *is* a Problem.	Tao Zhang 0045,Aviad Zuck,Donald E. Porter,Dan Tsafrir	10.1145/3102980.3102988
+The Game of Twenty Questions: Do You Know Where to Log?	Xu Zhao,Kirk Rodrigues,Yu Luo,Michael Stumm,Ding Yuan 0004,Yuanyuan Zhou 0001	10.1145/3102980.3103001
+Preserving Hidden Data with an Ever-Changing Disk.	Aviad Zuck,Udi Shriki,Donald E. Porter,Dan Tsafrir	10.1145/3102980.3102989
+Proceedings of the 16th Workshop on Hot Topics in Operating Systems, HotOS 2017, Whistler, BC, Canada, May 8-10, 2017	Alexandra Fedorova,Andrew Warfield,Ivan Beschastnikh,Rachit Agarwal 0001	10.1145/3102980

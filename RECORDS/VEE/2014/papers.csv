@@ -1,0 +1,21 @@
+Tesseract: reconciling guest I/O and hypervisor swapping in a VM.	Kapil Arya,Yury Baskakov,Alex Garthwaite	10.1145/2576195.2576198
+Ginseng: market-driven memory allocation.	Orna Agmon Ben-Yehuda,Eyal Posener,Muli Ben-Yehuda,Assaf Schuster,Ahuva Mu&apos;alem	10.1145/2576195.2576197
+Efficient memory virtualization for Cross-ISA system mode emulation.	Chao-Rui Chang,Jan-Jan Wu,Wei-Chung Hsu,Pangfeng Liu,Pen-Chung Yew	10.1145/2576195.2576201
+CMD: classification-based memory deduplication through page access characteristics.	Licheng Chen,Zhipeng Wei,Zehan Cui,Mingyu Chen 0001,Haiyang Pan,Yungang Bao	10.1145/2576195.2576204
+Real-time deep virtual machine introspection and its applications.	Jennia Hizver,Tzi-cker Chiueh	10.1145/2576195.2576196
+String deduplication for Java-based middleware in virtualized environments.	Michihiro Horie,Kazunori Ogata,Kiyokuni Kawachiya,Tamiya Onodera	10.1145/2576195.2576210
+Experiences in the land of virtual abstractions.	Galen C. Hunt	10.1145/2576195.2576215
+Mortar: filling the gaps in data center memory.	Jinho Hwang,Ahsen J. Uppal,Timothy Wood 0001,H. Howie Huang	10.1145/2576195.2576203
+Composable multi-level debugging with Stackdb.	David Johnson 0004,Mike Hibler,Eric Eide	10.1145/2576195.2576212
+A fast abstract syntax tree interpreter for R.	Tomas Kalibera,Petr Maj,Floréal Morandat,Jan Vitek	10.1145/2576195.2576205
+Deoptimization for dynamic language JITs on typed, stack-based virtual machines.	Madhukar N. Kedlaya,Behnam Robatmili,Calin Cascaval,Ben Hardekopf	10.1145/2576195.2576209
+Virtual asymmetric multiprocessor for interactive performance of consolidated desktops.	Hwanju Kim,Sangwook Kim,Jinkyu Jeong,Joonwon Lee	10.1145/2576195.2576199
+Friendly barriers: efficient work-stealing with return barriers.	Vivek Kumar 0001,Stephen M. Blackburn,David Grove	10.1145/2576195.2576207
+A virtualized separation kernel for mixed criticality systems.	Ye Li 0001,Richard West,Eric S. Missimer	10.1145/2576195.2576206
+DBILL: an efficient and retargetable dynamic binary instrumentation framework using llvm backend.	Yi-Hong Lyu,Ding-Yong Hong,Tai-Yi Wu,Jan-Jan Wu,Wei-Chung Hsu,Pangfeng Liu,Pen-Chung Yew	10.1145/2576195.2576213
+MuscalietJS: rethinking layered dynamic web runtimes.	Behnam Robatmili,Calin Cascaval,Mehrdad Reshadi,Madhukar N. Kedlaya,Seth Fowler,Vrajesh Bhavsar,Michael Weber 0002,Ben Hardekopf	10.1145/2576195.2576211
+Shrinking the hypervisor one subsystem at a time: a userspace packet switch for virtual machines.	Julian Stecklina	10.1145/2576195.2576202
+The case for the three R&apos;s of systems research: repeatability, reproducibility and rigor.	Jan Vitek	10.1145/2576195.2576216
+A platform for secure static binary instrumentation.	Mingwei Zhang 0005,Rui Qiao 0002,Niranjan Hasabnis,R. Sekar 0001	10.1145/2576195.2576208
+COMMA: coordinating the migration of multi-tier applications.	Jie Zheng,Tze Sing Eugene Ng,Kunwadee Sripanidkulchai,Zhaolei Liu	10.1145/2576195.2576200
+10th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, VEE &apos;14, Salt Lake City, UT, USA, March 01 - 02, 2014	Martin Hirzel,Erez Petrank,Dan Tsafrir	10.1145/2576195

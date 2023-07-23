@@ -1,0 +1,25 @@
+Memory efficient sanitization of a deduplicated storage system.	Fabiano C. Botelho,Philip Shilane,Nitin Garg,Windsor Hsu	
+HARDFS: hardening HDFS with selective and lightweight versioning.	Thanh Do,Tyler Harter,Yingchao Liu,Haryadi S. Gunawi,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+To Zip or not to Zip: effective resource usage for real-time compression.	Danny Harnik,Ronen I. Kat,Oded Margalit,Dmitry Sotnikov,Avishay Traeger	
+Write policies for host-side flash caches.	Ricardo Koller,Leonardo Mármol,Raju Rangaswami,Swaminathan Sundararaman,Nisha Talagala,Ming Zhao 0002	
+Unioning of the buffer cache and journaling layers with non-volatile memory.	Eunji Lee,Hyokyung Bahn,Sam H. Noh	
+Horus: fine-grained encryption-based security for large-scale storage.	Yan Li 0006,Nakul Sanjay Dhotre,Yasuhiro Ohara,Thomas M. Kroeger,Ethan L. Miller,Darrell D. E. Long	
+Improving restore speed for backup systems that use inline chunk-based deduplication.	Mark Lillibridge,Kave Eshghi,Deepavali Bhagwat	
+Shroud: ensuring private access to large-scale data in the data center.	Jacob R. Lorch,Bryan Parno,James W. Mickens,Mariana Raykova 0001,Joshua Schiffman	
+A study of Linux file system evolution.	Lanyue Lu,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau,Shan Lu 0001	
+Extending the lifetime of flash-based storage through reducing write amplification from file systems.	Youyou Lu,Jiwu Shu,Weimin Zheng	
+Ffsck: the fast file system checker.	Ao Ma,Chris Dragga,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+File recipe compression in data deduplication systems.	Dirk Meister,André Brinkmann,Tim Süß	
+MixApart: decoupled analytics for shared storage systems.	Madalin Mihailescu,Gokul Soundararajan,Cristiana Amza	
+SD codes: erasure codes designed for how storage systems really fail.	James S. Plank,Mario Blaum,James L. Hafner	
+Screaming fast Galois field arithmetic using intel SIMD instructions.	James S. Plank,Kevin M. Greenan,Ethan L. Miller	
+Getting real: lessons in transitioning research simulations into hardware systems.	Mohit Saxena,Yiying Zhang 0005,Michael M. Swift,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Building workload-independent storage with VT-trees.	Pradeep Shetty,Richard P. Spillane,Ravikant Malpani,Binesh Andrews,Justin Seyster,Erez Zadok	
+Gecko: contention-oblivious disk arrays for cloud storage.	Ji-Yong Shin,Mahesh Balakrishnan 0001,Tudor Marian,Hakim Weatherspoon	
+Concurrent deletion in a distributed content-addressable storage system with global deduplication.	Przemyslaw Strzelczak,Elzbieta Adamczyk,Urszula Herman-Izycka,Jakub Sakowicz,Lukasz Slusarczyk,Jaroslaw Wrona,Cezary Dubnicki	
+Virtual machine workloads: the case for new benchmarks for NAS.	Vasily Tarasov,Dean Hildebrand,Geoff Kuenning,Erez Zadok	
+Active flash: towards energy-efficient, in-situ data analytics on extreme-scale machines.	Devesh Tiwari,Simona Boboila,Sudharshan S. Vazhkudai,Youngjae Kim 0001,Xiaosong Ma,Peter Desnoyers,Yan Solihin	
+Warming up storage-level caches with bonfire.	Yiying Zhang 0005,Gokul Soundararajan,Mark W. Storer,Lakshmi N. Bairavasundaram,Sethuraman Subbiah,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+LDPC-in-SSD: making advanced error correction codes work effectively in solid state drives.	Kai Zhao 0005,Wenzhe Zhao,Hongbin Sun 0001,Tong Zhang 0002,Xiaodong Zhang 0001,Nanning Zheng 0001	
+Understanding the robustness of SSDS under power fault.	Mai Zheng,Joseph Tucek,Feng Qin,Mark Lillibridge	
+Proceedings of the 11th USENIX conference on File and Storage Technologies, FAST 2013, San Jose, CA, USA, February 12-15, 2013	Keith A. Smith,Yuanyuan Zhou 0001	

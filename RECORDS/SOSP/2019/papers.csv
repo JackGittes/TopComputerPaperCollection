@@ -1,0 +1,39 @@
+File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution.	Abutalib Aghayev,Sage A. Weil,Michael Kuchnik,Mark Nelson 0002,Gregory R. Ganger,George Amvrosiadis	10.1145/3341301.3359656
+Aegean: replication beyond the client-server model.	Remzi Can Aksoy,Manos Kapritsos	10.1145/3341301.3359663
+Risk based planning of network changes in evolving data centers.	Omid Alipourfard,Jiaqi Gao,Jérémie Koenig,Chris Harshaw,Amin Vahdat,Minlan Yu	10.1145/3341301.3359664
+Notary: a device for secure transaction approval.	Anish Athalye,Adam Belay,M. Frans Kaashoek,Robert Tappan Morris,Nickolai Zeldovich	10.1145/3341301.3359661
+Verifying concurrent, crash-safe systems with Perennial.	Tej Chajed,Joseph Tassarotti,M. Frans Kaashoek,Nickolai Zeldovich	10.1145/3341301.3359632
+Taiji: managing global user traffic for large-scale internet services at the edge.	David Chou,Tianyin Xu,Kaushik Veeraraghavan,Andrew Newell,Sonia Margulis,Lin Xiao,Pol Mauri Ruiz,Justin Meza,Kiryong Ha,Shruti Padmanabha,Kevin Cole,Dmitri Perelman	10.1145/3341301.3359655
+Performance and protection in the ZoFS user-space NVM file system.	Mingkai Dong 0002,Heng Bu,Jifei Yi,Benchao Dong,Haibo Chen 0001	10.1145/3341301.3359637
+ShortCut: accelerating mostly-deterministic code regions.	Xianzheng Dou,Peter M. Chen,Jason Flinn	10.1145/3341301.3359659
+TASO: optimizing deep learning computation with automatic generation of graph substitutions.	Zhihao Jia,Oded Padon,James Thomas 0003,Todd Warszawski,Matei Zaharia,Alex Aiken	10.1145/3341301.3359630
+SplitFS: reducing software overhead in file systems for persistent memory.	Rohan Kadekodi,Se Kwon Lee,Sanidhya Kashyap,Taesoo Kim,Aasheesh Kolli,Vijay Chidambaram	10.1145/3341301.3359631
+Scalable and practical locking with shuffling.	Sanidhya Kashyap,Irina Calciu,Xiaohe Cheng,Changwoo Min,Taesoo Kim	10.1145/3341301.3359629
+Finding semantic bugs in file systems with an extensible fuzzing framework.	Seulbae Kim,Meng Xu 0001,Sanidhya Kashyap,Jungyeon Yoon,Wen Xu 0002,Taesoo Kim	10.1145/3341301.3359662
+Parity models: erasure-coded resilience for prediction serving systems.	Jack Kosaian,K. V. Rashmi,Shivaram Venkataraman	10.1145/3341301.3359654
+Yodel: strong metadata security for voice calls.	David Lazar,Yossi Gilad,Nickolai Zeldovich	10.1145/3341301.3359648
+Privacy accounting and quality control in the sage differentially private ML platform.	Mathias Lécuyer,Riley Spahn,Kiran Vodrahalli,Roxana Geambasu,Daniel Hsu 0001	10.1145/3341301.3359639
+Recipe: converting concurrent DRAM indexes to persistent-memory indexes.	Se Kwon Lee,Jayashree Mohan,Sanidhya Kashyap,Taesoo Kim,Vijay Chidambaram	10.1145/3341301.3359635
+KVell: the design and implementation of a fast persistent key-value store.	Baptiste Lepers,Oana Balmau,Karan Gupta,Willy Zwaenepoel	10.1145/3341301.3359628
+Efficient scalable thread-safety-violation detection: finding thousands of concurrency bugs during testing.	Guangpu Li,Shan Lu 0001,Madanlal Musuvathi,Suman Nath,Rohan Padhye	10.1145/3341301.3359638
+Teechain: a secure payment network with asynchronous blockchain access.	Joshua Lind,Oded Naor,Ittay Eyal,Florian Kelbert,Emin Gün Sirer,Peter R. Pietzuch	10.1145/3341301.3359627
+Fast and secure global payments with Stellar.	Marta Lokhava,Giuliano Losa,David Mazières,Graydon Hoare,Nicolas Barry,Eli Gafni,Jonathan Jove,Rafal Malinowsky,Jed McCaleb	10.1145/3341301.3359636
+CrashTuner: detecting crash-recovery bugs in cloud systems via meta-info analysis.	Jie Lu,Chen Liu,Lian Li 0002,Xiaobing Feng 0002,Feng Tan,Jun Yang,Liang You	10.1145/3341301.3359645
+I4: incremental inference of inductive invariants for verification of distributed protocols.	Haojun Ma,Aman Goel,Jean-Baptiste Jeannin,Manos Kapritsos,Baris Kasikci,Karem A. Sakallah	10.1145/3341301.3359651
+Snap: a microkernel approach to host networking.	Michael Marty,Marc de Kruijf,Jacob Adriaens,Christopher Alfeld,Sean Bauer,Carlo Contavalli,Michael Dalton,Nandita Dukkipati,William C. Evans,Steve D. Gribble,Nicholas Kidd,Roman Kononov,Gautam Kumar 0001,Carl Mauer,Emily Musick,Lena E. Olson,Erik Rubow,Michael Ryan,Kevin Springborn,Paul Turner,Valas Valancius,Xi Wang,Amin Vahdat	10.1145/3341301.3359657
+AutoMine: harmonizing high-level abstraction and high performance for graph mining.	Daniel Mawhirter,Bo Wu 0002	10.1145/3341301.3359633
+PipeDream: generalized pipeline parallelism for DNN training.	Deepak Narayanan,Aaron Harlap,Amar Phanishayee,Vivek Seshadri,Nikhil R. Devanur,Gregory R. Ganger,Phillip B. Gibbons,Matei Zaharia	10.1145/3341301.3359646
+Gerenuk: thin computation over big native data using speculative program transformation.	Christian Navasca,Cheng Cai,Khanh Nguyen 0001,Brian Demsky,Shan Lu 0001,Miryung Kim,Guoqing Harry Xu	10.1145/3341301.3359643
+Scaling symbolic evaluation for automated verification of systems code with Serval.	Luke Nelson,James Bornholt,Ronghui Gu,Andrew Baumann,Emina Torlak,Xi Wang 0005	10.1145/3341301.3359641
+Optimizing data-intensive computations in existing libraries with split annotations.	Shoumik Palkar,Matei Zaharia	10.1145/3341301.3359652
+A generic communication scheduler for distributed DNN training acceleration.	Yanghua Peng,Yibo Zhu,Yangrui Chen,Yixin Bao,Bairen Yi,Chang Lan,Chuan Wu 0001,Chuanxiong Guo	10.1145/3341301.3359642
+An analysis of performance evolution of Linux&apos;s core operations.	Xiang (Jenny) Ren,Kirk Rodrigues,Luyuan Chen,Camilo Vega,Michael Stumm,Ding Yuan 0004	10.1145/3341301.3359640
+Honeycrisp: large-scale differentially private aggregation without a trusted core.	Edo Roth,Daniel Noble,Brett Hemenway Falk,Andreas Haeberlen	10.1145/3341301.3359660
+Nexus: a GPU cluster engine for accelerating DNN-based video analysis.	Haichen Shen,Lequn Chen,Yuchen Jin,Liangyu Zhao,Bingyu Kong,Matthai Philipose,Arvind Krishnamurthy,Ravi Sundaram	10.1145/3341301.3359658
+Lineage stash: fault tolerance off the critical path.	Stephanie Wang,John Liagouris,Robert Nishihara,Philipp Moritz,Ujval Misra,Alexey Tumanov,Ion Stoica	10.1145/3341301.3359653
+Niijima: sound and automated computation consolidation for efficient multilingual data-parallel pipelines.	Guoqing Harry Xu,Margus Veanes,Michael Barnett 0001,Madan Musuvathi,Todd Mytkowicz,Ben Zorn 0001,Huan He,Haibo Lin	10.1145/3341301.3359649
+KnightKing: a fast distributed graph random walk engine.	Ke Yang,Mingxing Zhang,Kang Chen,Xiaosong Ma,Yang Bai,Yong Jiang 0001	10.1145/3341301.3359634
+Verifying software network functions with no verification expertise.	Arseniy Zaostrovnykh,Solal Pirelli,Rishabh R. Iyer,Matteo Rizzo,Luis Pedrosa,Katerina J. Argyraki,George Candea	10.1145/3341301.3359647
+The inflection point hypothesis: a principled debugging approach for locating the root cause of a failure.	Yongle Zhang,Kirk Rodrigues,Yu Luo,Michael Stumm,Ding Yuan 0004	10.1145/3341301.3359650
+Using concurrent relational logic with helpers for verifying the AtomFS file system.	Mo Zou,Haoran Ding,Dong Du 0003,Ming Fu,Ronghui Gu,Haibo Chen 0001	10.1145/3341301.3359644
+Proceedings of the 27th ACM Symposium on Operating Systems Principles, SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019.	Tim Brecht,Carey Williamson	

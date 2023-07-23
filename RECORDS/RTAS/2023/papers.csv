@@ -1,0 +1,34 @@
+Work-in-Progress: Deadline-Aware Named Data Networking for Time-Sensitive IoT Applications.	Afia Anjum,Sena Hounsinou,Habeeb Olufowobi	10.1109/RTAS58335.2023.00039
+ATLAS: Aging-Aware Task Replication for Multicore Safety-Critical Systems.	Mohsen Ansari,Sepideh Safari,Amir Yeganeh-Khaksar,Roozbeh Siyadatzadeh,Pourya Gohari-Nazari,Heba Khdr,Muhammad Shafique 0001,Jörg Henkel,Alireza Ejlali	10.1109/RTAS58335.2023.00025
+Compositional Mixed-Criticality Systems with Multiple Executions and Resource-Budgets Model.	Abdullah Al Arafat,Sudharsan Vaidhun,Liangkai Liu,Kecheng Yang 0001,Zhishan Guo	10.1109/RTAS58335.2023.00013
+Hardware Compute Partitioning on NVIDIA GPUs.	Joshua Bakita,James H. Anderson	10.1109/RTAS58335.2023.00012
+Cache Bank-Aware Denial-of-Service Attacks on Multicore ARM Processors.	Michael Garrett Bechtel,Heechul Yun	10.1109/RTAS58335.2023.00023
+On the QNX IPC: Assessing Predictability for Local and Distributed Real-Time Systems.	Matthias Becker 0004,Dakshina Dasari,Daniel Casini	10.1109/RTAS58335.2023.00030
+Precise Response Time Analysis for Multiple DAG Tasks with Intra-task Priority Assignment.	Nan Chen,Shuai Zhao 0004,Ian Gray,Alan Burns 0001,Siyuan Ji,Wanli Chang 0001	10.1109/RTAS58335.2023.00021
+Work in Progress: Response Time Analysis of Real-Time Quantum Computing Systems.	Albert M. K. Cheng	10.1109/RTAS58335.2023.00033
+G(IP)2 C: Temporally Isolated Multiprocessor Real-Time IPC with Server-to-Server Invocations.	Cédric Courtaud,Björn B. Brandenburg	10.1109/RTAS58335.2023.00029
+Work In Progress: A New Task Model for Real-Time DNNs over GPU.	Mourad Dridi,Yasmina Abdeddaïm,Chiara Daini	10.1109/RTAS58335.2023.00035
+MultiSSE: Static Syscall Elision and Specialization for Event-Triggered Multi-Core RTOS.	Gerion Entrup,Björn Fiedler,Daniel Lohmann	10.1109/RTAS58335.2023.00028
+Continuous-Emission Markov Models for Real-Time Applications: Bounding Deadline Miss Probabilities.	Anna Friebe,Filip Markovic,Alessandro Vittorio Papadopoulos,Thomas Nolte	10.1109/RTAS58335.2023.00009
+Minimizing Probabilistic End-to-end Latencies of Autonomous Driving Systems.	Taeho Han,Kanghee Kim	10.1109/RTAS58335.2023.00010
+Work in Progress: Schedulability Analysis of CAN and CAN FD Authentication.	Omolade Ikumapayi,Habeeb Olufowobi,Jeremy Daily,Tingting Hu,Ivan Cibrario Bertolotti,Gedare Bloom	10.1109/RTAS58335.2023.00038
+Work in progress: Towards a statistical worst-case energy consumption model.	Marwan Wehaiba el Khazen,Slim Ben-Amor,Kossivi Kougblenou,Adriana Gogonel,Liliana Cucu-Grosjean	10.1109/RTAS58335.2023.00034
+ROSGM: A Real-Time GPU Management Framework with Plug-In Policies for ROS 2.	Ruoxiang Li,Tao Hu,Xu Jiang 0004,Laiwen Li,Wenxuan Xing,Qingxu Deng,Nan Guan	10.1109/RTAS58335.2023.00015
+Scheduling Periodic Segmented Self-Suspending Tasks without Timing Anomalies.	Ching-Chi Lin,Mario Günzel,Junjie Shi,Tristan Taylan Seidl,Kuan-Hsun Chen,Jian-Jia Chen	10.1109/RTAS58335.2023.00020
+Shedding Light on Static Partitioning Hypervisors for Arm-based Mixed-Criticality Systems.	José Martins,Sandro Pinto 0001	10.1109/RTAS58335.2023.00011
+ISC-FLAT: On the Conflict Between Control Flow Attestation and Real-Time Operations.	Antonio Joia Neto,Ivan De Oliveira Nunes	10.1109/RTAS58335.2023.00018
+Work in Progress: Real-time Transformer Inference on Edge AI Accelerators.	Brendan Reidy,Mohammadreza Mohammadi,Mohammed E. Elbtity,Heath Smith,Ramtin Zand	10.1109/RTAS58335.2023.00036
+Work-in-Progress: Securing Safety-Critical Control Tasks with Attack-aware Multi-Rate Scheduling.	Arkaprava Sain,Suraj Singh,Sunandan Adhikary,Ipsita Koley,Soumyajit Dey	10.1109/RTAS58335.2023.00037
+Average Task Execution Time Minimization under (m, k) Soft Error Constraint.	Junjie Shi,Niklas Ueter,Jian-Jia Chen,Kuan-Hsun Chen	10.1109/RTAS58335.2023.00008
+Timing Analysis and Priority-driven Enhancements of ROS 2 Multi-threaded Executors.	Hoora Sobhani,Hyunjong Choi,Hyoseung Kim 0001	10.1109/RTAS58335.2023.00016
+Virtualized DDS Communication for Multi-Domain Systems: Architecture and Performance Evaluation of Design Alternatives.	Andrea Stevanato,Alessandro Biondi 0001,Alessandro Biasci,Bruno Morelli	10.1109/RTAS58335.2023.00032
+Real-Time Scheduling of Autonomous Driving System with Guaranteed Timing Correctness.	Jinghao Sun,Kailu Duan,Xisheng Li,Nan Guan,Zhishan Guo,Qingxu Deng,Guozhen Tan	10.1109/RTAS58335.2023.00022
+Schedulability Analysis of Non-preemptive Sporadic Gang Tasks on Hardware Accelerators.	Binqi Sun,Tomasz Kloda,Jiyang Chen,Cen Lu,Marco Caccamo	10.1109/RTAS58335.2023.00019
+Efficient and Accurate Handling of Periodic Flows in Time-Sensitive Networks.	Seyed Mohammadhossein Tabatabaee,Marc Boyer,Jean-Yves Le Boudec,Jörn Migge	10.1109/RTAS58335.2023.00031
+Real-Time Performance Analysis of Processing Systems on ROS 2 Executors.	Yue Tang 0001,Nan Guan,Xu Jiang 0004,Xiantong Luo,Wang Yi 0001	10.1109/RTAS58335.2023.00014
+A General and Scalable Method for Optimizing Real-Time Systems with Continuous Variables.	Sen Wang,Ryan K. Williams,Haibo Zeng 0001	10.1109/RTAS58335.2023.00017
+ZeroCost-LLC: Shared LLCs at No Cost to WCL.	Zhuanhao Wu,Anirudh M. Kaushik,Hiren D. Patel	10.1109/RTAS58335.2023.00027
+Demo: Simulation and Security Toolbox for Cyber-Physical Systems.	Lin Zhang,Mengyu Liu,Fanxin Kong	10.1109/RTAS58335.2023.00040
+Real-Time Data-Predictive Attack-Recovery for Complex Cyber-Physical Systems.	Lin Zhang,Kaustubh Sridhar,Mengyu Liu,Pengyuan Lu,Xin Chen,Fanxin Kong,Oleg Sokolsky,Insup Lee 0001	10.1109/RTAS58335.2023.00024
+MemPol: Policing Core Memory Bandwidth from Outside of the Cores.	Alexander Zuepke,Andrea Bastoni,Weifan Chen,Marco Caccamo,Renato Mancuso 0001	10.1109/RTAS58335.2023.00026
+29th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2023, San Antonio, TX, USA, May 9-12, 2023		10.1109/RTAS58335.2023

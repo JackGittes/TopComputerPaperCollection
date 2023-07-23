@@ -1,0 +1,73 @@
+An Overview of the International Microprocessor/ SoC Test, Security and Validation (MTV)Workshop.	Magdy Abadir,Sohrab Aftabjahani	10.1109/ITC44170.2019.9000128
+An Overview of the International Verification and Security Workshop (IVSW).	Magdy Abadir,Sohrab Aftabjahani	10.1109/ITC44170.2019.9000165
+Reliability Modeling and Mitigation for Embedded Memories.	Innocent Okwudili Agbo,Mottaqiallah Taouil,Said Hamdioui	10.1109/ITC44170.2019.9000175
+Memory FIT Rate Mitigation Technique for Automotive SoCs.	Gabriele Boschi,Donato Luongo,Duccio Lazzarotti,Hanna Shaheen,Hayk T. Grigoryan,Gurgen Harutyunyan,Samvel K. Shoukourian,Yervant Zorian	10.1109/ITC44170.2019.9000158
+Fault-Tolerant Neuromorphic Computing Systems.	Arjun Chaudhuri,Mengyun Liu,Krishnendu Chakrabarty	10.1109/ITC44170.2019.9000146
+Hardware Fault Tolerance for Binary RRAM Crossbars.	Arjun Chaudhuri,Bonan Yan,Yiran Chen 0001,Krishnendu Chakrabarty	10.1109/ITC44170.2019.9000179
+Built-in self-test and self-calibration for analog and mixed signal circuits.	Tao Chen 0006,Degang Chen 0001	10.1109/ITC44170.2019.9000120
+High Quality Test Methodology for Highly Reliable Devices.	Hao Chen 0053,Mincent Lee,Liang-Yen Chen,Min-Jer Wang	10.1109/ITC44170.2019.9000174
+Recycled Analog and Mixed Signal Chip Detection at Zero Cost Using LDO Degradation.	Sreeja Chowdhury,Fatemeh Ganji,Troy Bryant,Nima Maghari,Domenic Forte	10.1109/ITC44170.2019.9000118
+Overall Strategy for Online Clock System Checking Supporting Heterogeneous Integration.	Wei Chu,Shi-Yu Huang	10.1109/ITC44170.2019.9000116
+Simulation-based Equivalence Checking between IEEE 1687 ICL and RTL.	Aleksa Damljanovic,Artur Jutman,Michele Portolan,Ernesto Sánchez 0001,Giovanni Squillero,Anton Tsertov	10.1109/ITC44170.2019.9000181
+Applying Vstress and defect activation coverage to produce zero-defect mixed-signal automotive ICs.	Wim Dobbelaere,Frederik Colle,Anthony Coyette,Ronny Vanhooren,Nektar Xama,Jhon Gomez,Georges G. E. Gielen	10.1109/ITC44170.2019.9000123
+FPGA Bitstream Security: A Day in the Life.	Adam Duncan,Fahim Rahman,Andrew Lukefahr,Farimah Farahmandi,Mark M. Tehranipoor	10.1109/ITC44170.2019.9000145
+Characterization of Locked Combinational Circuits via ATPG.	Danielle Duvalsaint,Xiaoxiao Jin,Benjamin Niewenhuis,R. D. (Shawn) Blanton	10.1109/ITC44170.2019.9000130
+Towards Complete Fault Coverage by Test Point Insertion using Optimization-SAT Techniques.	Stephan Eggersglüß	10.1109/ITC44170.2019.9000152
+IEEE European Test Symposium (ETS).	Stephan Eggersglüß,Said Hamdioui,Artur Jutman,Maria K. Michael,Jaan Raik,Matteo Sonza Reorda,Mehdi Baradaran Tahoori,Elena Ioana Vatajelu	10.1109/ITC44170.2019.9000148
+IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR).	Szilárd Enyedi,Liviu Miclea	10.1109/ITC44170.2019.9000144
+SoC Security Verification using Property Checking.	Nusrat Farzana,Fahim Rahman,Mark M. Tehranipoor,Farimah Farahmandi	10.1109/ITC44170.2019.9000170
+Device-Aware Test: A New Test Approach Towards DPPB Level.	Moritz Fieback,Lizhou Wu,Guilherme Cardoso Medeiros,Hassen Aziza,Siddharth Rao,Erik Jan Marinissen,Mottaqiallah Taouil,Said Hamdioui	10.1109/ITC44170.2019.9000134
+A Decentralized Scheduler for On-line Self-test Routines in Multi-core Automotive System-on-Chips.	Andrea Floridia,Davide Piumatti,Annachiara Ruospo,Ernesto Sánchez 0001,Sergio de Luca,Rosario Martorana	10.1109/ITC44170.2019.9000129
+IEEE International Symposium on Hardware Oriented Security and Trust (HOST): Past, Present, and Future.	Domenic Forte,Swarup Bhunia,Ramesh Karri,Jim Plusquellic,Mark M. Tehranipoor	10.1109/ITC44170.2019.9000111
+Application of Cell-Aware Test on an Advanced 3nm CMOS Technology Library.	Zhan Gao,Santosh Malagi,Min-Chun Hu 0002,Joe Swenton,Rogier Baert,Jos Huisken,Bilal Chehab,Kees Goossens,Erik Jan Marinissen	10.1109/ITC44170.2019.9000164
+Testing of Neuromorphic Circuits: Structural vs Functional.	Anteneh Gebregiorgis,Mehdi Baradaran Tahoori	10.1109/ITC44170.2019.9000110
+Testing Computation-in-Memory Architectures Based on Emerging Memories.	Said Hamdioui,Moritz Fieback,Surya Nagarajan,Mottaqiallah Taouil	10.1109/ITC44170.2019.9000117
+Advanced Burn-In - An Optimized Product Stress and Test Flow for Automotive Microcontrollers.	Chen He	10.1109/ITC44170.2019.9000147
+Time-Slicing Soft Error Resilience in Microprocessors for Reliable and Energy-Efficient Execution.	Yi He 0010,Yanjing Li	10.1109/ITC44170.2019.9000180
+Variation-Aware Small Delay Fault Diagnosis on Compressed Test Responses.	Stefan Holst,Eric Schneider,Michael A. Kochte,Xiaoqing Wen,Hans-Joachim Wunderlich	10.1109/ITC44170.2019.9000143
+TestDNA: Novel Wafer Defect Signature for Diagnosis and Yield Learning.	Andrew Yi-Ann Huang,Katherine Shu-Min Li,Cheng-Yen Tsai,Ken Chau-Cheung Cheng,Sying-Jyan Wang,Xu-Hao Jiang,Leon Chou,Chen-Shiun Lee	10.1109/ITC44170.2019.9000166
+DARS: An EDA Framework for Reliability and Functional Safety Management of System-on-Chips.	Ahmed M. Y. Ibrahim,Hans G. Kerkhoff	10.1109/ITC44170.2019.9000112
+A Jitter Injection Module for Production Test of 52-Gbps PAM4 Signal Interfaces.	Kiyotaka Ichiyama,Takashi Kusaka,Masahiro Ishida	10.1109/ITC44170.2019.9000138
+Subtle Anomaly Detection of Microscopic Probes using Deep learning based Image Completion.	Kosuke Ikeda,Keith Schaub,Ira Leventhal,Yiorgos Makris,Constantinos Xanthopoulos,Deepika Neethirajan	10.1109/ITC44170.2019.9000126
+Asian Test Symposium - Past, Present and Future -.	Michiko Inoue,Xiaowei Li 0001,Cheng-Wen Wu	10.1109/ITC44170.2019.9000151
+Breaking Analog Locking Techniques via Satisfiability Modulo Theories.	Nithyashankari Gummidipoondi Jayasankaran,Adriana C. Sanabria-Borbon,Amr Abuellil,Edgar Sánchez-Sinencio,Jiang Hu,Jeyavijayan Rajendran	10.1109/ITC44170.2019.9000113
+Machine Learning-Based Automatic Generation of eFuse Configuration in NAND Flash Chip.	Jisuk Kim,Jinyub Lee,Sungjoo Yoo	10.1109/ITC44170.2019.9000162
+Virtual Memory Structures Facilitating Memory BIST Insertion In Complex SoCs.	Tal Kogan,Yehonatan Abotbol	10.1109/ITC44170.2019.9000153
+IEEE Std. P1687.1: Translator and Protocol.	Erik Larsson,Prathamesh Murali,Gani Kumisbek	10.1109/ITC44170.2019.9000135
+International Test Conference in Asia (ITC-Asia) - Bridging ITC and Test Community in Asia.	Kuen-Jong Lee,Shi-Yu Huang,Huawei Li,Tomoo Inoue,Yervant Zorian	10.1109/ITC44170.2019.9000177
+China Test Conference (CTC) - Extending the Global Test Forum to China.	Huawei Li 0001,Xiaowei Li 0001,Yinhe Han 0001	10.1109/ITC44170.2019.9000121
+Programmable Daisychaining of Microelectrodes for IP Protection in MEDA Biochips.	Tung-Che Liang,Krishnendu Chakrabarty,Ramesh Karri	10.1109/ITC44170.2019.9000167
+Improving Test Chip Design Efficiency via Machine Learning.	Zeye Liu 0001,Qicheng Huang,Chenlei Fang,R. D. (Shawn) Blanton	10.1109/ITC44170.2019.9000131
+Knowledge Transfer in Board-Level Functional Fault Identification using Domain Adaptation.	Mengyun Liu,Xin Li 0001,Krishnendu Chakrabarty,Xinli Gu	10.1109/ITC44170.2019.9000172
+Resiliency of automotive object detection networks on GPU architectures.	Atieh Lotfi,Saurabh Hukerikar,Keshav Balasubramanian,Paul Racunas,Nirmal R. Saxena,Richard Bramley,Yanxiang Huang	10.1109/ITC44170.2019.9000150
+Security Compliance Analysis of Reconfigurable Scan Networks.	Natalia Lylina,Ahmed Atteya,Pascal Raiola,Matthias Sauer 0002,Bernd Becker 0001,Hans-Joachim Wunderlich	10.1109/ITC44170.2019.9000114
+A Hybrid Space Compactor for Adaptive X-Handling.	Mohammad Urf Maaz,Alexander Sprenger,Sybille Hellebrand	10.1109/ITC44170.2019.9000159
+The Challenges of Implementing an MBIST Interface: A Practical Application.	Teresa McLaurin,Rob Knoth	10.1109/ITC44170.2019.9000157
+An Efficient Supervised Learning Method to Predict Power Supply Noise During At-speed Test.	Seyed Nima Mozaffari,Bonita Bhaskaran,Kaushik Narayanun,Ayub Abdollahian,Vinod Pagalone,Shantanu Sarangi,Jonathon E. Colburn	10.1109/ITC44170.2019.9000171
+Test Time and Area Optimized BrST Scheme for Automotive ICs.	Nilanjan Mukherjee 0001,Jerzy Tyszer,Daniel Tille,Mahendar Sapati,Yingdi Liu,Jeffrey Mayer,Sylwester Milewski,Elham K. Moghaddam,Janusz Rajski,Jedrzej Solecki	10.1109/ITC44170.2019.9000133
+Methodology of Generating Timing-Slack-Based Cell-Aware Tests.	Yu-Teng Nien,Kai-Chiang Wu,Dong-Zhen Lee,Ying-Yen Chen,Po-Lin Chen,Mason Chern,Jih-Nung Lee,Shu-Yi Kao,Mango Chia-Tso Chao	10.1109/ITC44170.2019.9000119
+Applications of Hierarchical Test.	Kelly Ockunzzi,Richard Grupp,Brion Keller,Mark Taylor,Sreekanth Pai,Greeshma Jayakumar	10.1109/ITC44170.2019.9000156
+A New Test Method for the Large Current Magnetic Sensors.	Toshiyuki Omuro,Shigeo Nakamura Surname,Takashi Kimura,Kiyokawa Omuro	10.1109/ITC44170.2019.9000142
+Characterization of Library Cells for Open-circuit Defect Exposure: A Systematic Methodology.	Sujay Pandey,Sanya Gupta,Madhu Sudhan L.,Suriya Natarajan,Arani Sinha,Abhijit Chatterjee	10.1109/ITC44170.2019.9000154
+Optimized Physical DFT Synthesis of Unified Compression and LBIST for Automotive Applications.	Christos Papameletis,Vivek Chickermane,Brian Foutz,Sarthak Singhal,Krishna Chakravadhanula	10.1109/ITC44170.2019.9000115
+Iterative Test Generation for Gate-Exhaustive Faults to Cover the Sites of Undetectable Target Faults.	Irith Pomeranz	10.1109/ITC44170.2019.9000124
+Compaction of a Functional Broadside Test Set through the Compaction of a Functional Test Sequence without Sequential Fault Simulation.	Irith Pomeranz	10.1109/ITC44170.2019.9000161
+VIPER: A Versatile and Intuitive Pattern GenERator for Early Design Space Exploration.	Gaurav Rajavendra Reddy,Mohammad-Mahdi Bidmeshki,Yiorgos Makris	10.1109/ITC44170.2019.9000169
+Effectively Using Machine Learning to Expedite System Level Test Failure Debug.	Luis D. Rojas,Kevin Hess,Christina Carter-Brown	10.1109/ITC44170.2019.9000163
+Efficiency Measurement Method for Fully Integrated Voltage Regulators used in 4th and 5th Generation Intel® Core™ Microprocessors.	Gerhard Schrom,Michael J. Hill,Sarath Makala,Ravi Sankar Vunnam,Arun Krishnamoorthy,Ryan Ferguson	10.1109/ITC44170.2019.9000125
+Deploying A Machine Learning Solution As A Surrogate.	Chuanhe Jay Shan,Ahmed Wahba,Li-C. Wang,Nik Sumikawa	10.1109/ITC44170.2019.9000109
+FAE: Autoencoder-Based Failure Binning of RTL Designs for Verification and Debugging.	Cheng-Hsien Shen,Aaron C.-W. Liang,Charles C.-H. Hsu,Charles H.-P. Wen	10.1109/ITC44170.2019.9000178
+Armenia: Communicating to World Community in Electronic Test and Design.	Samvel K. Shoukourian,Yuri Shoukourian,Vladimir Sahakyan	10.1109/ITC44170.2019.9000139
+An Adaptive Approach to Minimize System Level Tests Targeting Low Voltage DVFS Failures.	Adit D. Singh	10.1109/ITC44170.2019.9000173
+International Symposium on Design and Diagnostics of Electronic Circuits and Systems.	Zoran Stamenkovic,Alberto Bosio,György Cserey,Ondrej Novák,Witold A. Pleskacz,Lukás Sekanina,Andreas Steininger,Goran Stojanovic,Viera Stopjaková	10.1109/ITC44170.2019.9000137
+On Freedom from Interference in Mixed-Criticality Systems: A Causal Learning Approach.	Fei Su,Prashant Goteti,Min Zhang	10.1109/ITC44170.2019.9000160
+Efficient Analog Defect Simulation.	Stephen Sunter	10.1109/ITC44170.2019.9000141
+Is Backside the New Backdoor in Modern SoCs?: Invited Paper.	Nidish Vashistha,M. Tanjidur Rahman,Olivia P. Paradis,Navid Asadizanjani	10.1109/ITC44170.2019.9000127
+Multi-cell characterization: Developing robust cells and abstraction for Rapid Single Flux Quantum (RSFQ) Logic.	Fangzhou Wang,Sandeep K. Gupta	10.1109/ITC44170.2019.9000132
+Safety Design of a Convolutional Neural Network Accelerator with Error Localization and Correction.	Zheng Xu,Jacob Abraham	10.1109/ITC44170.2019.9000149
+A Framework for Design of Self-Repairing Digital Systems.	Jingchi Yang,David C. Keezer	10.1109/ITC44170.2019.9000155
+Fault Recovery in Micro-Electrode-Dot-Array Digital Microfluidic Biochips Using an IJTAG NetworkBehaviors.	Zhanwei Zhong,Krishnendu Chakrabarty	10.1109/ITC44170.2019.9000176
+Structural Test and Functional Test for Digital Acoustofluidic Biochips.	Zhanwei Zhong,Haodong Zhu,Peiran Zhang,Tony Jun Huang,Krishnendu Chakrabarty	10.1109/ITC44170.2019.9000140
+17th IEEE East-West Design and Test Symposium.	Yervant Zorian,Vladimir Hahanov,Svetlana Chumachenko,Eugenia Litvinova	10.1109/ITC44170.2019.9000168
+Machine Learning-Based DFT Recommendation System for ATPG QOR.	Apik Zorian,Basim Shanyour,Milir Vaseekar	10.1109/ITC44170.2019.9000136
+IEEE International Test Conference, ITC 2019, Washington, DC, USA, November 9-15, 2019		

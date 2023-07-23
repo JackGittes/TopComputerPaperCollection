@@ -1,0 +1,48 @@
+The ΛNTON 3 ASIC: a Fire-Breathing Monster for Molecular Dynamics Simulations.	Peter J. Adams,Brannon Batson,Alistair Bell,Jhanvi Bhatt,J. Adam Butts,Timothy Correia,Bruce Edwards,Peter Feldmann,Christopher H. Fenton,Anthony Forte,Joseph Gagliardo,Gennette Gill,Maria Gorlatova,Brian Greskamp,J. P. Grossman,Jeremy Hunt,Bryan L. Jackson,Mollie M. Kirk,Jeffrey Kuskin,Roy J. Mader,Richard McGowen,Adam McLaughlin,Mark A. Moraes,Mohamed Nasr,Lawrence J. Nociolo,Lief O&apos;Donnell,Andrew Parker,Jon L. Peticolas,Terry Quan,T. Carl Schwink,Keun Sup Shim,Naseer Siddique,Jochen Spengler,Michael Theobald,Brian Towles,William Vick,Stanley C. Wang,Michael E. Wazlowski,Madeleine J. Weingarten,John M. Williams,David E. Shaw	10.1109/HCS52781.2021.9567084
+Edge Inference Engine for Deep &amp; Random Sparse Neural Networks with 4-bit Cartesian-Product MAC Array and Pipelined Activation Aligner.	Kota Ando,Jaehoon Yu,Kazutoshi Hirose,Hiroki Nakahara,Kazushi Kawamura,Thiem Van Chu,Masato Motomura	10.1109/HCS52781.2021.9567328
+Morpheus II: A RISC-V Security Extension for Protecting Vulnerable Software and Hardware.	Todd M. Austin,Austin Harris 0001,Tarunesh Verma,Shijia Wei,Alex Kisil,Misiker Tadesse Aga,Valeria Bertacco,Baris Kasikci,Mohit Tiwari	10.1109/HCS52781.2021.9567000
+Skydio Autonomy Engine: Enabling The Next Generation Of Autonomous Flight.	Abraham Bachrach	10.1109/HCS52781.2021.9567400
+Sapphire Rapids.	Arijit Biswas	10.1109/HCS52781.2021.9566865
+XeHPC Ponte Vecchio.	David Blythe	10.1109/HCS52781.2021.9567038
+LightOn Optical Processing Unit : Scaling-up AI and HPC with a Non von Neumann co-processor.	Charles Brossollet,Alessandro Cappelli,Igor Carron,Charidimos Chaintoutis,Amélie Chatelain,Laurent Daudet,Sylvain Gigan,Daniel Hesslow,Florent Krzakala,Julien Launay,Safa Mokaadi,Fabien Moreau,Kilian Müller,Ruben Ohana,Gustave Pariente,Iacopo Poli,Giuseppe Luca Tommasone	10.1109/HCS52781.2021.9567166
+Intel&apos;s Hyperscale-Ready Infrastructure Processing Unit (IPU).	Brad Burres,Dan Daly,Mark Debbage,Eliel Louzoun,Christine Severns-Williams,Naru Sundar,Nadav Turbovich,Barry Wolford,Yadong Li	10.1109/HCS52781.2021.9567455
+Nvidia Data Center Processing Unit (DPU) Architecture.	Idan Burstein	10.1109/HCS52781.2021.9567066
+Qualcomm® Cloud Al 100 : 12TOPS/W Scalable, High Performance and Low Latency Deep Learning Inference Accelerator.	Karam Chatha	10.1109/HCS52781.2021.9567417
+Accelerating ML Recommendation with over a Thousand RISC-V/Tensor Processors on Esperanto&apos;s ET-SoC-1 Chip.	David R. Ditzel,Roger Espasa,Nivard Aymerich,Allen Baum,Tom Berg,Jim Burr,Eric Hao,Jayesh Iyer,Miquel Izquierdo,Shankar Jayaratnam,Darren Jones,Chris Klingner,Jin Kim,Stephen Lee,Marc Lupon,Grigorios Magklis,Bojan Maric,Rajib Nath,Mike Neilly,J. Duane Northcutt,Bill Orner,Jose Renau,Gerard Reves,Xavier Reves,Tom Riordan,Pedro Sanchez,Sridhar Samudrala,Guillem Sole,Raymond Tang,Tommy Thorn,Francisco Torres,Sebastia Tortella,Daniel Yau	10.1109/HCS52781.2021.9566904
+Next Generation &quot;Zen 3&quot; Core.	Mark Evers,Leslie Barnes,Mike Clark	10.1109/HCS52781.2021.9567108
+Xilinx Edge Processors.	Ross Freeman,James V. Barnett,Bernard V. Vonderschmitt	10.1109/HCS52781.2021.9567521
+Photonic co-processors in HPC: Using LightOn OPUs for Randomized Numerical Linear Algebra.	Daniel Hesslow,Alessandro Cappelli,Igor Carron,Laurent Daudet,Raphaël Lafargue,Kilian Müller,Ruben Ohana,Gustave Pariente,Iacopo Poli	10.1109/HCS52781.2021.9566948
+System-on-Chip Implementation of Trusted Execution Environment with Heterogeneous Architecture.	Trong-Thuc Hoang,Ckristian Duran,Ronaldo Serrano,Marco Sarmiento,Khai-Duy Nguyen,Akira Tsukamoto,Kuniyasu Suzaki,Cong-Kha Pham	10.1109/HCS52781.2021.9566862
+SOT-MRAM - Third generation MRAM memory opens new opportunities : Hot Chips Conference August 2021.	Barry Hoberman,Jean-Pierre Nozieres	10.1109/HCS52781.2021.9567072
+Real-time AI for Enterprise Workloads: the IBM Telum Processor.	Christian Jacobi	10.1109/HCS52781.2021.9567422
+Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond.	Jin Hyun Kim,Shinhaeng Kang,Sukhan Lee 0002,Hyeonsu Kim,Woongjae Song,Yuhwan Ro,Seungwon Lee,David Wang 0003,Hyunsung Shin,BengSeng Phuah,Jihyun Choi,Jinin So,YeonGon Cho,Joon-Ho Song,Jangseok Choi,Jeonghyeon Cho,Kyomin Sohn,Young-Soo Sohn,Kwang-Il Park,Nam Sung Kim	10.1109/HCS52781.2021.9567191
+PNNPU: A Fast and Efficient 3D Point Cloud-based Neural Network Processor with Block-based Point Processing for Regular DRAM Access.	Sangjin Kim,Juhyoung Lee,Dongseok Im,Hoi-Jun Yoo	10.1109/HCS52781.2021.9566846
+Graphcore.	Simon Knowles	10.1109/HCS52781.2021.9567075
+Architectural challenges: AI Chips, Decision Support and High Performance Computing.	Dimitri Kusnezov	10.1109/HCS52781.2021.9567605
+Video Coding Unit (VCU) : Hot Chips 2021.	Aki Kuusela,Clinton Wills Smullen IV	10.1109/HCS52781.2021.9567040
+High Performance Low Power Controller for Data Center SSDs.	Seungwon Lee,JuHyung Hong,Chulseung Lee,Sandeep Vallabhaneni,SoonGon Kim,Yong Jin Shin,Mijung Noh,Soon-jae Won,Soonbok Jang,Yong Ho Song	10.1109/HCS52781.2021.9567475
+An Energy-efficient Floating-Point DNN Processor using Heterogeneous Computing Architecture with Exponent-Computing-in-Memory.	Juhyoung Lee,Jihoon Kim,Wooyoung Jo,Sangyeob Kim,Sangjin Kim,Donghyeon Han,Jinsu Lee,Hoi-Jun Yoo	10.1109/HCS52781.2021.9566881
+Exynos 1080 High-performance, low-power CPU and GPU with AMIGO.	Taehee Lee,Dongkeun Kim,Joonseok Kim 0002	10.1109/HCS52781.2021.9567394
+OmniDRL: An Energy-Efficient Mobile Deep Reinforcement Learning Accelerators with Dual-mode Weight Compression and Direct Processing of Compressed Data.	Juhyoung Lee,Sangyeob Kim,Ji-Hoon Kim,Sangjin Kim,Wooyoung Jo,Donghyeon Han,Hoi-Jun Yoo	10.1109/HCS52781.2021.9567123
+Multi-Million Core, Multi-Wafer AI Cluster.	Sean Lie	10.1109/HCS52781.2021.9567153
+AI Compute Chip from Enflame.	Ryan Liu,Chuang Feng	10.1109/HCS52781.2021.9567224
+Quantum Computing with Atoms.	Christopher Monroe	10.1109/HCS52781.2021.9567420
+Dynamic Neural Accelerator for Reconfigurable &amp; Energy-efficient Neural Network Inference.	Nikolay Nez,Antonio N. Vilchez,Hamid R. Zohouri,Oleg Khavin,Sakyasingha Dasgupta	10.1109/HCS52781.2021.9566886
+A CORDIC-based Trigonometric Hardware Accelerator with Custom Instruction in 32-bit RISC-V System-on-Chip.	Khai-Duy Nguyen,Tuan-Kiet Dang,Trong-Thuc Hoang,Quynh Nguyen Quang Nhu,Cong-Kha Pham	10.1109/HCS52781.2021.9567158
+Industry&apos;s First 7.2 Gbps 512GB DDR5 Module.	Sung Joo Park,Jonghoon J. Kim,Kun Joo,Young-Ho Lee,Kyoungsun Kim,Young-Tae Kim,Woo-Jin Na,IkJoon Choi,Hye-Seung Yu,Wonyoung Kim,Ju-Yeon Jung,Jaejun Lee,Dohyung Kim,Young-Uk Chang,Gong-Heum Han,Hangi-Jung,Sunwon Kang,Jeonghyeon Cho,Hoyoung Song,Tae-Young Oh,Young-Soo Sohn,SangJoon Hwang,Jooyoung Lee	10.1109/HCS52781.2021.9567190
+Samsung Neural Processing Unit : An AI accelerator and SDK for flagship mobile AP.	Jun-Seok Park,Heonsoo Lee,Dongwoo Lee,Jewoo Moon,Suknam Kwon,Sanghyuck Ha,MinSeong Kim,Junghun Park,Jihoon Bang,Sukhwan Lim,Inyup Kang	10.1109/HCS52781.2021.9567119
+Arm Neoverse N2: Arm&apos;s 2nd generation high performance infrastructure CPUs and system IPs.	Andrea Pellegrini	10.1109/HCS52781.2021.9567483
+RDNA™ 2 Gaming Architecture.	Andrew Pomianowski	10.1109/HCS52781.2021.9567555
+SambaNova SN10 RDU: Accelerating Software 2.0 with Dataflow.	Raghu Prabhakar,Sumti Jairath	10.1109/HCS52781.2021.9567250
+EDGE Q 5G with an EDGE.	Sriram Rajagopal	10.1109/HCS52781.2021.9567324
+Alder Lake Architecture.	Efraim Rotem,Yuli Mandelblat,Vadim Basin,Eliezer Weissmann,Arik Gihon,Rajshree Chabukswar,Russ Fenger,Monica Gupta	10.1109/HCS52781.2021.9567097
+Mozart: Designing for Software Maturity and the Next Paradigm for Chip Architectures.	Karu Sankaralingam,Tony Nowatzki,Greg Wright,Poly Palamuttam,Jitu Khare,Vinay Gangadhar,Preyas Shah	10.1109/HCS52781.2021.9567306
+A Plug-and-Play Universal Photonic Processor for Quantum Information Processing.	Caterina Taballione	10.1109/HCS52781.2021.9566977
+New Value Creation by Nano-Tactile Sensor Chip Exceeding our Fingertip Discrimination Ability.	Hidekuni Takao,Kazuki Watatani,Kazutami Arimoto	10.1109/HCS52781.2021.9567179
+SM6: A 16nm System-on-Chip for Accurate and Noise-Robust Attention-Based NLP Applications : The 33rd Hot Chips Symposium - August 22-24, 2021.	Thierry Tambe,En-Yu Yang,Glenn G. Ko,Yuji Chai,Coleman Hooper,Marco Donato,Paul N. Whatmough,Alexander M. Rush,David Brooks 0001,Gu-Yeon Wei	10.1109/HCS52781.2021.9567180
+Heterogeneous computing to enable highest level of safety.	Ramanujan Venkatadri	10.1109/HCS52781.2021.9567602
+A Photonic Neural Network Using &lt; 1 Photon per Scalar Multiplication.	Tianyu Wang,Shi-Yuan Ma,Logan G. Wright,Tatsuhiro Onodera,Brian C. Richard,Peter L. McMahon	10.1109/HCS52781.2021.9567311
+Mojo Lens - AR Contact Lenses for Real People.	Mike Wiemer,Renaldi Winoto	10.1109/HCS52781.2021.9567321
+World Largest Mobile Image Sensor with All Directional Phase Detection Auto Focus Function.	Sukki Yoon,Jungbin Yun,Yun-Hwan Jung,Ilyun Jeong,Junghee Choi,Wooseok Choi,Jeongguk Lee,Hansoo Lee,Juhyun Ko	10.1109/HCS52781.2021.9567122
+ENIAD: A Reconfigurable Near-data Processing Architecture for Web-Scale AI-enriched Big Data Service.	Jialiang Zhang,JingJane Li	10.1109/HCS52781.2021.9567229
+IEEE Hot Chips 33 Symposium, HCS 2021, Palo Alto, CA, USA, August 22-24, 2021		10.1109/HCS52781.2021

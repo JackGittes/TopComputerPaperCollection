@@ -1,0 +1,55 @@
+Distributed computing building blocks for rational agents.	Yehuda Afek,Yehonatan Ginzberg,Shir Landau Feibish,Moshe Sulamy	10.1145/2611462.2611481
+Software-improved hardware lock elision.	Yehuda Afek,Amir Levy,Adam Morrison 0001	10.1145/2611462.2611482
+Making objects writable.	Zahra Aghazadeh,Wojciech M. Golab,Philipp Woelfel	10.1145/2611462.2611483
+Brief announcement: are lock-free concurrent algorithms practically wait-free?	Dan Alistarh,Keren Censor-Hillel,Nir Shavit	10.1145/2611462.2611502
+Balls-into-leaves: sub-logarithmic renaming in synchronous message-passing systems.	Dan Alistarh,Oksana Denysyuk,Luís E. T. Rodrigues,Nir Shavit	10.1145/2611462.2611499
+Concurrent updates with RCU: search tree as an example.	Maya Arbel,Hagit Attiya	10.1145/2611462.2611471
+Asynchronous MPC with a strict honest majority using non-equivocation.	Michael Backes 0001,Fabian Bendun,Ashish Choudhury,Aniket Kate	10.1145/2611462.2611490
+How to withstand mobile virus attacks, revisited.	Joshua Baron,Karim El Defrawy,Joshua Lampkins,Rafail Ostrovsky	10.1145/2611462.2611474
+Brief announcement: Super-fast t-ruling sets.	Tushar Bisht,Kishore Kothapalli,Sriram V. Pemmaraju	10.1145/2611462.2611512
+Beyond geometry: towards fully realistic wireless models.	Marijke H. L. Bodlaender,Magnús M. Halldórsson	10.1145/2611462.2611476
+Beyond set disjointness: the communication complexity of finding the intersection.	Joshua Brody,Amit Chakrabarti,Ranganath Kondapally,David P. Woodruff,Grigory Yaroslavtsev	10.1145/2611462.2611501
+Distributed connectivity decomposition.	Keren Censor-Hillel,Mohsen Ghaffari 0001,Fabian Kuhn	10.1145/2611462.2611491
+Efficient lock-free binary search trees.	Bapi Chatterjee,Nhan Nguyen Dang,Philippas Tsigas	10.1145/2611462.2611500
+Distributed algorithms for the Lovász local lemma and graph coloring.	Kai-Min Chung,Seth Pettie,Hsin-Hao Su	10.1145/2611462.2611465
+Estimation for monotone sampling: competitiveness and customization.	Edith Cohen	10.1145/2611462.2611485
+Brief announcement: game theoretical approach for energy-delay balancing in distributed duty-cycled MAC protocols of wireless networks.	Messaoud Doudou,José M. Barceló-Ordinas,Djamel Djenouri,Jorge García-Vidal,Nadjib Badache	10.1145/2611462.2611509
+On the power of the congested clique model.	Andrew Drucker,Fabian Kuhn,Rotem Oshman	10.1145/2611462.2611493
+Can quantum communication speed up distributed computation?	Michael Elkin,Hartmut Klauck,Danupon Nanongkai,Gopal Pandurangan	10.1145/2611462.2611488
+The amortized complexity of non-blocking binary search trees.	Faith Ellen,Panagiota Fatourou,Joanna Helga,Eric Ruppert	10.1145/2611462.2611486
+Anonymous networks: randomization = 2-hop coloring.	Yuval Emek,Christoph Pfister,Jochen Seidel,Roger Wattenhofer	10.1145/2611462.2611478
+Breathe before speaking: efficient information dissemination despite noisy, limited and anonymous communication.	Ofer Feinerman,Bernhard Haeupler,Amos Korman	10.1145/2611462.2611469
+A generalized asynchronous computability theorem.	Eli Gafni,Petr Kuznetsov,Ciprian Manolescu	10.1145/2611462.2611477
+Fast and unconditionally secure anonymous channel.	Juan A. Garay,Clinton Givens,Rafail Ostrovsky,Pavel Raykov	10.1145/2611462.2611494
+Multi-message broadcast with abstract MAC layers and unreliable links.	Mohsen Ghaffari 0001,Erez Kantor,Nancy A. Lynch,Calvin C. Newport	10.1145/2611462.2611492
+Linear-in-delta lower bounds in the LOCAL model.	Mika Göös,Juho Hirvonen,Jukka Suomela	10.1145/2611462.2611467
+A paradox of eventual linearizability in shared memory.	Rachid Guerraoui,Eric Ruppert	10.1145/2611462.2611484
+Optimal gossip with direct addressing.	Bernhard Haeupler,Dahlia Malkhi	10.1145/2611462.2611489
+Brief announcement: concurrency-aware linearizability.	Nir Hemed,Noam Rinetzky	10.1145/2611462.2611513
+Complexity tradeoffs for read and update operations.	Danny Hendler,Vitaly Khait	10.1145/2611462.2611472
+Brief announcement: local approximability of minimum dominating set on planar graphs.	Miikka Hilke,Christoph Lenzen 0001,Jukka Suomela	10.1145/2611462.2611504
+Brief announcement: a generic construction for nonblocking dual containers.	Joseph Izraelevitz,Michael L. Scott	10.1145/2611462.2611510
+On the impact of geometry on ad hoc communication in wireless networks.	Tomasz Jurdzinski,Dariusz R. Kowalski,Michal Rózanski,Grzegorz Stachowiak	10.1145/2611462.2611487
+Spanners and sparsifiers in dynamic streams.	Michael Kapralov,David P. Woodruff	10.1145/2611462.2611497
+Distributing the setup in universally composable multi-party computation.	Jonathan Katz,Aggelos Kiayias,Hong-Sheng Zhou,Vassilis Zikas	10.1145/2611462.2611480
+The future(s) of shared data structures.	Alex Kogan,Maurice Herlihy	10.1145/2611462.2611496
+An incomplete history of concurrency chapter 1. 1965-1977.	Leslie Lamport	10.1145/2611462.2611514
+Brief announcement: linial&apos;s lower bound made easy.	Juhana Laurinharju,Jukka Suomela	10.1145/2611462.2611505
+Trade-offs between selection complexity and performance when searching the plane without communication.	Christoph Lenzen 0001,Nancy A. Lynch,Calvin C. Newport,Tsvetomira Radeva	10.1145/2611462.2611463
+Improved distributed steiner forest construction.	Christoph Lenzen 0001,Boaz Patt-Shamir	10.1145/2611462.2611464
+Born and raised distributively: fully distributed non-interactive adaptively-secure threshold signatures with short shares.	Benoît Libert,Marc Joye,Moti Yung	10.1145/2611462.2611498
+Dynamic-sized nonblocking hash tables.	Yujie Liu,Kunlong Zhang,Michael F. Spear	10.1145/2611462.2611495
+Coding theory for scalable media delivery.	Michael George Luby	10.1145/2611462.2611515
+Brief announcement: towards security and privacy for outsourced data in the multi-party setting.	Matteo Maffei,Giulio Malavolta,Manuel Reinert,Dominique Schröder	10.1145/2611462.2611508
+Rational and resilient protocols.	Silvio Micali	10.1145/2611462.2611516
+Simple and efficient local codes for distributed stable network construction.	Othon Michail,Paul G. Spirakis	10.1145/2611462.2611466
+Time versus cost tradeoffs for deterministic rendezvous in networks.	Avery Miller,Andrzej Pelc	10.1145/2611462.2611473
+Signature-free asynchronous byzantine consensus with t 2&lt;n/3 and o(n2) messages.	Achour Mostéfaoui,Moumen Hamouma,Michel Raynal	10.1145/2611462.2611468
+Brief announcement: almost-tight approximation distributed algorithm for minimum cut.	Danupon Nanongkai	10.1145/2611462.2611511
+Consensus with an abstract MAC layer.	Calvin C. Newport	10.1145/2611462.2611479
+Brief announcement: distributed universality: contention-awareness; wait-freedom; object progress, and other properties.	Michel Raynal,Julien Stainer,Gadi Taubenfeld	10.1145/2611462.2611503
+Brief announcement: gracefully degrading consensus and k-set agreement under dynamic link failures.	Manfred Schwarz,Kyrill Winkler,Ulrich Schmid 0001,Martin Biely,Peter Robinson 0002	10.1145/2611462.2611506
+Rigorous system design.	Joseph Sifakis	10.1145/2611462.2611517
+Asynchronous convex hull consensus in the presence of crash faults.	Lewis Tseng,Nitin H. Vaidya	10.1145/2611462.2611470
+Near-optimal communication-time tradeoff in fault-tolerant computation of aggregate functions.	Yuda Zhao,Haifeng Yu,Binbin Chen 0001	10.1145/2611462.2611475
+ACM Symposium on Principles of Distributed Computing, PODC &apos;14, Paris, France, July 15-18, 2014	Magnús M. Halldórsson,Shlomi Dolev	

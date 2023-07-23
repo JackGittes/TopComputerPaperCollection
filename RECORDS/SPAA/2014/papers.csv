@@ -1,0 +1,45 @@
+Brief announcement: cache-oblivious scheduling of streaming pipelines.	Kunal Agrawal,Jeremy T. Fineman	10.1145/2612669.2612707
+Provably good scheduling for parallel programs that use data structures through implicit batching.	Kunal Agrawal,Jeremy T. Fineman,Kefu Lu,Brendan Sheridan,Jim Sukha,Robert Utterback	10.1145/2612669.2612688
+Ephemeral networks with random availability of links: diameter and connectivity.	Eleni C. Akrida,Leszek Gasieniec,George B. Mertzios,Paul G. Spirakis	10.1145/2612669.2612693
+A note on multiprocessor speed scaling with precedence constraints.	Evripidis Bampis,Dimitrios Letsios,Giorgio Lucarelli	10.1145/2612669.2612672
+Simple dynamics for plurality consensus.	Luca Becchetti,Andrea E. F. Clementi,Emanuele Natale,Francesco Pasquale,Riccardo Silvestri,Luca Trevisan	10.1145/2612669.2612677
+On computing maximal independent sets of hypergraphs in parallel.	Ioana Oriana Bercea,Navin Goyal,David G. Harris 0001,Aravind Srinivasan	10.1145/2612669.2612670
+Locality-based network creation games.	Davide Bilò,Luciano Gualà,Stefano Leucci 0001,Guido Proietti	10.1145/2612669.2612680
+Brief announcement: deadline-aware scheduling of big-data processing jobs.	Peter Bodík,Ishai Menache,Joseph Naor,Jonathan Yaniv	10.1145/2612669.2612702
+Scheduling shared continuous resources on many-cores.	André Brinkmann,Peter Kling,Friedhelm Meyer auf der Heide,Lars Nagel 0001,Sören Riechers,Tim Süß	10.1145/2612669.2612698
+The PCL theorem: transactions cannot be parallel, consistent and live.	Victor Bushkov,Dmytro Dziuma,Panagiota Fatourou,Rachid Guerraoui	10.1145/2612669.2612690
+Brief announcement: concurrent data structures for efficient streaming aggregation.	Daniel Cederman,Vincenzo Gulisano,Yiannis Nikolakopoulos,Marina Papatriantafilou,Philippas Tsigas	10.1145/2612669.2612701
+LP rounding and combinatorial algorithms for minimizing active and busy time.	Jessica Chang,Samir Khuller,Koyel Mukherjee	10.1145/2612669.2612689
+On the online fault-tolerant server consolidation problem.	Khuzaima Daudjee,Shahin Kamali,Alejandro López-Ortiz	10.1145/2612669.2612686
+Brief announcement: amoebot - a new model for programmable matter.	Zahra Derakhshandeh,Shlomi Dolev,Robert Gmyr,Andréa W. Richa,Christian Scheideler,Thim Strothmann	10.1145/2612669.2612712
+Adaptive integration of hardware and software lock elision techniques.	Dave Dice,Alex Kogan,Yossi Lev,Timothy Merrifield,Mark Moir	10.1145/2612669.2612696
+Brief announcement: persistent unfairness arising from cache residency imbalance.	Dave Dice,Virendra J. Marathe,Nir Shavit	10.1145/2612669.2612703
+On characterizing the data movement complexity of computational DAGs for parallel execution.	Venmugil Elango,Fabrice Rastello,Louis-Noël Pouchet,J. Ramanujam,P. Sadayappan	10.1145/2612669.2612694
+Scheduling selfish jobs on multidimensional parallel machines.	Leah Epstein,Elena Kleiman	10.1145/2612669.2612683
+(Near) optimal resource-competitive broadcast with jamming.	Seth Gilbert,Valerie King,Seth Pettie,Ely Porat,Jared Saia,Maxwell Young	10.1145/2612669.2612679
+Hierarchical graph partitioning.	Mohammad Taghi Hajiaghayi,Theodore Johnson,Mohammad Reza Khani,Barna Saha	10.1145/2612669.2612699
+Ordering heuristics for parallel graph coloring.	William Hasenplaugh,Tim Kaler,Tao B. Schardl,Charles E. Leiserson	10.1145/2612669.2612697
+Brief announcement: parallelization of asynchronous variational integrators forshared memory architectures.	Muhammad Amber Hassaan,Donald Nguyen,Keshav Pingali	10.1145/2612669.2612713
+Automatic complexity analysis of explicitly parallel programs.	Torsten Hoefler,Grzegorz Kwasniewski	10.1145/2612669.2612685
+Finding approximate partitions and splitters in external memory.	Xiaocheng Hu,Yufei Tao 0001,Yi Yang 0029,Shuigeng Zhou	10.1145/2612669.2612691
+Competitively scheduling tasks with intermediate parallelizability.	Sungjin Im,Benjamin Moseley,Kirk Pruhs,Eric Torng	10.1145/2612669.2612682
+Brief announcement: fast dual ring queues.	Joseph Izraelevitz,Michael L. Scott	10.1145/2612669.2612711
+Parallel peeling algorithms.	Jiayang Jiang,Michael Mitzenmacher,Justin Thaler	10.1145/2612669.2612674
+Executing dynamic data-graph computations deterministically using chromatic scheduling.	Tim Kaler,William Hasenplaugh,Tao B. Schardl,Charles E. Leiserson	10.1145/2612669.2612673
+Brief announcement: queue delegation locking.	David Klaftenegger,Konstantinos Sagonas,Kjell Winblad	10.1145/2612669.2612714
+Simple parallel and distributed algorithms for spectral graph sparsification.	Ioannis Koutis	10.1145/2612669.2612676
+A distributed perspective on graph connectivity and cuts.	Fabian Kuhn	10.1145/2612669.2612728
+Brief announcement: few buffers, many hot spots, and no tree saturation (with high probability).	Bradley C. Kuszmaul,William Kuszmaul	10.1145/2612669.2612708
+On dynamic bin packing for resource allocation in the cloud.	Yusen Li,Xueyan Tang,Wentong Cai 0001	10.1145/2612669.2612675
+A universal approach to data center network design.	Bruce M. Maggs	10.1145/2612669.2612729
+Balanced allocations and double hashing.	Michael Mitzenmacher	10.1145/2612669.2612684
+Brief announcement: faster 3-periodic merging networks.	Marek Piotrów	10.1145/2612669.2612700
+Phase-concurrent hash tables for determinism.	Julian Shun,Guy E. Blelloch	10.1145/2612669.2612687
+A simple and practical linear-work parallel algorithm for connectivity.	Julian Shun,Laxman Dhulipala,Guy E. Blelloch	10.1145/2612669.2612692
+Experimental analysis of space-bounded schedulers.	Harsha Vardhan Simhadri,Guy E. Blelloch,Jeremy T. Fineman,Phillip B. Gibbons,Aapo Kyrola	10.1145/2612669.2612678
+Tradeoffs between synchronization, communication, and computation in parallel linear algebra computations.	Edgar Solomonik,Erin C. Carson,Nicholas Knight,James Demmel	10.1145/2612669.2612671
+Brief annoucement: a distributed minimum cut approximation scheme.	Hsin-Hao Su	10.1145/2612669.2612706
+Parallel streaming frequency-based aggregates.	Kanat Tangwongsan,Srikanta Tirthapura,Kun-Lung Wu	10.1145/2612669.2612695
+Brief announcement: fairness-efficiency tradeoffs in tiered storage allocation.	Peter J. Varman,Hui Wang 0014	10.1145/2612669.2612709
+Transaction-friendly condition variables.	Chao Wang 0090,Yujie Liu,Michael F. Spear	10.1145/2612669.2612681
+26th ACM Symposium on Parallelism in Algorithms and Architectures, SPAA &apos;14, Prague, Czech Republic - June 23 - 25, 2014	Guy E. Blelloch,Peter Sanders 0001	10.1145/2612669

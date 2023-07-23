@@ -1,0 +1,61 @@
+Application-Aware Power Coordination on Power Bounded NUMA Multicore Systems.	Rong Ge 0002,Pengfei Zou,Xizhou Feng	10.1109/ICPP.2017.68
+WA-Dataspaces: Exploring the Data Staging Abstractions for Wide-Area Distributed Scientific Workflows.	Mehmet Fatih Aktas,Javier Diaz Montes,Ivan Rodero,Manish Parashar	10.1109/ICPP.2017.34
+Variable-Size Batched LU for Small Matrices and Its Integration into Block-Jacobi Preconditioning.	Hartwig Anzt,Jack J. Dongarra,Goran Flegar,Enrique S. Quintana-Ortí	10.1109/ICPP.2017.18
+A Machine Learning Approach for Efficient Parallel Simulation of Beam Dynamics on GPUs.	Kamesh Arumugam,Desh Ranjan,Mohammad Zubair,Balsa Terzic,Alexander N. Godunov,Tunazzina Islam	10.1109/ICPP.2017.55
+High-Performance Recommender System Training Using Co-Clustering on CPU/GPU Clusters.	Kubilay Atasu,Thomas P. Parnell,Celestine Dünner,Michail Vlachos,Haralampos Pozidis	10.1109/ICPP.2017.46
+High Performance Query Processing for Web Scale RDF Data using BSP Style Communication and Balanced Distribution.	Minho Bae,Junho Eum,Donghoon Kim,Sangyoon Oh 0001	10.1109/ICPP.2017.29
+Overlapping Data Transfers with Computation on GPU with Tiles.	Burak Bastem,Didem Unat,Weiqun Zhang,Ann S. Almgren,John Shalf	10.1109/ICPP.2017.26
+Exploiting GPUs for Fast Force-Directed Visualization of Large-Scale Networks.	Govert G. Brinkmann,Kristian F. D. Rietveld,Frank W. Takes	10.1109/ICPP.2017.47
+GLTO: On the Adequacy of Lightweight Thread Approaches for OpenMP Implementations.	Adrián Castelló 0001,Sangmin Seo,Rafael Mayo 0002,Pavan Balaji,Enrique S. Quintana-Ortí,Antonio J. Peña	10.1109/ICPP.2017.15
+A Pareto Framework for Data Analytics on Heterogeneous Systems: Implications for Green Energy Usage and Performance.	Aniket Chakrabarti,Srinivasan Parthasarathy 0001,Christopher Stewart	10.1109/ICPP.2017.62
+A Coflow-Based Co-Optimization Framework for High-Performance Data Analytics.	Long Cheng 0003,Ying Wang 0001,Yulong Pei,Dick H. J. Epema	10.1109/ICPP.2017.48
+Efficient and Scalable Multi-Source Streaming Broadcast on GPU Clusters for Deep Learning.	Ching-Hsiang Chu,Xiaoyi Lu,Ammar Ahmad Awan,Hari Subramoni,Jahanzeb Maqbool Hashmi,Bracy Elton,Dhabaleswar K. Panda 0001	10.1109/ICPP.2017.25
+An Efficient, Distributed Stochastic Gradient Descent Algorithm for Deep-Learning Applications.	Guojing Cong,Onkar Bhardwaj,Minwei Feng	10.1109/ICPP.2017.10
+Scalable Write Allocation in the WAFL File System.	Matthew Curtis-Maury,Ram Kesavan,Mrinal K. Bhattacharjee	10.1109/ICPP.2017.35
+A Parallel TSP-Based Algorithm for Balanced Graph Partitioning.	Harshvardhan Das,Subodh Kumar 0001	10.1109/ICPP.2017.65
+GCN: GPU-Based Cube CNN Framework for Hyperspectral Image Classification.	Han Dong,Tao Li,Jiabing Leng,Lingyan Kong,Gang Bai	10.1109/ICPP.2017.13
+Performance Analysis and Optimization of Sparse Matrix-Vector Multiplication on Modern Multi- and Many-Core Processors.	Athena Elafrou,Georgios I. Goumas,Nectarios Koziris	10.1109/ICPP.2017.38
+Resilience for Stencil Computations with Latent Errors.	Aiman Fang,Aurélien Cavelan,Yves Robert,Andrew A. Chien	10.1109/ICPP.2017.67
+A Scalable Hierarchical Semi-Separable Library for Heterogeneous Clusters.	Isuru Dilanka Fernando,Sanath Jayasena,Milinda Fernando,Hari Sundar	10.1109/ICPP.2017.60
+Efficient Data Sharing on Heterogeneous Systems.	Victor Garcia-Flores,Eduard Ayguadé,Antonio J. Peña	10.1109/ICPP.2017.21
+Nearly Balanced Work Partitioning for Heterogeneous Algorithms.	Mallipeddi Hardhik,Dip Sankar Banerjee,Kiran Raj Ramamoorthy,Kishore Kothapalli,Kannan Srinathan	10.1109/ICPP.2017.14
+Simple and Fast Parallel Algorithms for the Voronoi Map and the Euclidean Distance Map, with GPU Implementations.	Takumi Honda,Shinnosuke Yamamoto,Hiroaki Honda,Koji Nakano,Yasuaki Ito	10.1109/ICPP.2017.45
+A Dynamic Resource Controller for a Lambda Architecture.	MohammadReza HoseinyFarahabady,Javid Taheri,Zahir Tari,Albert Y. Zomaya	10.1109/ICPP.2017.42
+ES2: Aiming at an Optimal Virtual I/O Event Path.	Xiaokang Hu,Wang Zhang,Jian Li 0021,Ruhui Ma,Feng Wu,Haibing Guan	10.1109/ICPP.2017.23
+Towards Highly Efficient DGEMM on the Emerging SW26010 Many-Core Processor.	Lijuan Jiang,Chao Yang 0002,Yulong Ao,Wanwang Yin,Wenjing Ma,Qiao Sun,Fangfang Liu,Rongfen Lin,Peng Zhang	10.1109/ICPP.2017.51
+Parallel Construction of Simultaneous Deterministic Finite Automata on Shared-Memory Multicores.	Minyoung Jung,Jinwoo Park,Johann Blieberger,Bernd Burgstaller	10.1109/ICPP.2017.36
+Scheduling Independent Tasks in Parallel under Power Constraints.	Ayham Kassab,Jean-Marc Nicod,Laurent Philippe 0001,Veronika Rehn-Sonigo	10.1109/ICPP.2017.63
+Favorable Block First: A Comprehensive Cache Scheme to Accelerate Partial Stripe Recovery of Triple Disk Failure Tolerant Arrays.	Luyu Li,Houxiang Ji,Chentao Wu,Jie Li 0002,Minyi Guo	10.1109/ICPP.2017.31
+PDS: An I/O-Efficient Scaling Scheme for Parity Declustered Data Layout.	Zhipeng Li,Yinlong Xu,Yongkun Li 0001,Chengjin Tian,Youhui Bai	10.1109/ICPP.2017.49
+Autotuning GPU Kernels via Static and Predictive Analysis.	Robert V. Lim,Boyana Norris,Allen D. Malony	10.1109/ICPP.2017.61
+Optimizations of Two Compute-Bound Scientific Kernels on the SW26010 Many-Core Processor.	James Lin,Zhigeng Xu,Akira Nukada,Naoya Maruyama,Satoshi Matsuoka	10.1109/ICPP.2017.52
+E-Storm: Replication-Based State Management in Distributed Stream Processing Systems.	Xunyun Liu,Aaron Harwood,Shanika Karunasekera,Benjamin I. P. Rubinstein,Rajkumar Buyya	10.1109/ICPP.2017.66
+Locality-Aware Dynamic Task Graph Scheduling.	Jordyn Maglalang,Sriram Krishnamoorthy,Kunal Agrawal	10.1109/ICPP.2017.16
+High-Performance and Memory-Saving Sparse General Matrix-Matrix Multiplication for NVIDIA Pascal GPU.	Yusuke Nagasaka,Akira Nukada,Satoshi Matsuoka	10.1109/ICPP.2017.19
+HyPPI NoC: Bringing Hybrid Plasmonics to an Opto-Electronic Network-on-Chip.	Vikram K. Narayana,Shuai Sun,Armin Mehrabian,Volker J. Sorger,Tarek A. El-Ghazawi	10.1109/ICPP.2017.22
+Parallel Algorithm for Single-Source Earliest-Arrival Problem in Temporal Graphs.	Peng Ni,Masatoshi Hanai,Wen Jun Tan,Chen Wang,Wentong Cai 0001	10.1109/ICPP.2017.58
+Preparing HPC Applications for the Exascale Era: A Decoupling Strategy.	Ivy Bo Peng,Roberto Gioiosa,Gokcen Kestor,Erwin Laure,Stefano Markidis	10.1109/ICPP.2017.9
+Fading-Resistant Link Scheduling in Wireless Networks.	Chenxi Qiu,Haiying Shen	10.1109/ICPP.2017.40
+OptiMatch: Enabling an Optimal Match between Green Power and Various Workloads for Renewable-Energy Powered Storage Systems.	Xiaoyang Qu,Jiguang Wan,Fengguang Song,Xiaozhao Zhuang,Fei Wu 0005,Changsheng Xie	10.1109/ICPP.2017.30
+CELIA: Cost-Time Performance of Elastic Applications on Cloud.	Sunimal Rathnayake,Dumitrel Loghin,Yong Meng Teo	10.1109/ICPP.2017.43
+A Novel Minimum Time Parallel 2-D Discrete Wavelet Transform Algorithm for General Purpose Processors.	Eduardo Moscoso Rubino,Alberto Jose Alvares,Raúl Marín Prades,Pedro Sanz Valero	10.1109/ICPP.2017.64
+Parallel Space-Time Kernel Density Estimation.	Erik Saule,Dinesh Panchananam,Alexander Hohl,Wenwu Tang,Eric Delmelle	10.1109/ICPP.2017.57
+Parallel Reconstruction of Three Dimensional Magnetohydrodynamic Equilibria in Plasma Confinement Devices.	Sudip K. Seal,Mark R. Cianciosa,Steven P. Hirshman,Andreas Wingen,Robert S. Wilcox,Ezekial A. Unterberg	10.1109/ICPP.2017.37
+Constrained Tensor Factorization with Accelerated AO-ADMM.	Shaden Smith,Alec Beri,George Karypis	10.1109/ICPP.2017.20
+Multiple Pattern Matching for Network Security Applications: Acceleration through Vectorization.	Charalampos Stylianopoulos,Magnus Almgren,Olaf Landsiedel,Marina Papatriantafilou	10.1109/ICPP.2017.56
+Predicting Response Latency Percentiles for Cloud Object Storage Systems.	Yi Su,Dan Feng 0001,Yu Hua 0001,Zhan Shi 0001	10.1109/ICPP.2017.33
+Accelerating Graph Analytics by Utilising the Memory Locality of Graph Partitioning.	Jiawen Sun,Hans Vandierendonck,Dimitrios S. Nikolopoulos	10.1109/ICPP.2017.27
+Parallel Algorithms for the Computation of Cycles in Relative Neighborhood Graphs.	Hari Sundar,Parmeshwar Khurd	10.1109/ICPP.2017.28
+Greed Is Good: Parallel Algorithms for Bipartite-Graph Partial Coloring on Multicore Architectures.	Mustafa Kemal Tas,Kamer Kaya,Erik Saule	10.1109/ICPP.2017.59
+MPI-GDS: High Performance MPI Designs with GPUDirect-aSync for CPU-GPU Control Flow Decoupling.	Akshay Venkatesh,Khaled Hamidouche,Sreeram Potluri,Davide Rossetti,Ching-Hsiang Chu,Dhabaleswar K. Panda 0001	10.1109/ICPP.2017.24
+Boosting the Efficiency of HPCG and Graph500 with Near-Data Processing.	Erik Vermij,Leandro Fiorin,Christoph Hagleitner,Koen Bertels	10.1109/ICPP.2017.12
+Data Caching in Next Generation Mobile Cloud Services, Online vs. Off-Line.	Yang Wang 0006,Shuibing He,Xiaopeng Fan,Chengzhong Xu 0001,Joseph C. Culberson,Joseph Horton	10.1109/ICPP.2017.50
+Large-Scale Parallelization of Smoothed Particle Hydrodynamics Method on Heterogeneous Cluster.	Yingrui Wang,Leisheng Li,Rong Tian	10.1109/ICPP.2017.11
+Non-Sequential Striping for Distributed Storage Systems with Different Redundancy Schemes.	Yanwen Xie,Dan Feng 0001,Fang Wang 0001	10.1109/ICPP.2017.32
+Bitslice Vectors: A Software Approach to Customizable Data Precision on Processors with SIMD Extensions.	Shixiong Xu,David Gregg	10.1109/ICPP.2017.53
+Network Aware Multi-User Computation Partitioning in Mobile Edge Clouds.	Lei Yang 0024,Jiannong Cao 0001,Zhenyu Wang 0001,Weigang Wu	10.1109/ICPP.2017.39
+Order/Radix Problem: Towards Low End-to-End Latency Interconnection Networks.	Ryota Yasudo,Michihiro Koibuchi,Koji Nakano,Hiroki Matsutani,Hideharu Amano	10.1109/ICPP.2017.41
+Runtime Data Layout Scheduling for Machine Learning Dataset.	Yang You 0001,James Demmel	10.1109/ICPP.2017.54
+The Cloud as an OpenMP Offloading Device.	Hervé Yviquel,Guido Araujo	10.1109/ICPP.2017.44
+Practical Experience with Transactional Lock Elision.	Tingzhe Zhou,Pantea Zardoshti,Michael F. Spear	10.1109/ICPP.2017.17
+46th International Conference on Parallel Processing, ICPP 2017, Bristol, United Kingdom, August 14-17, 2017		

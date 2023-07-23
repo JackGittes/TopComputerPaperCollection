@@ -1,0 +1,29 @@
+Novel HPC techniques to batch execution of many variable size BLAS computations on GPUs.	Ahmad Abdelfattah,Azzam Haidar,Stanimire Tomov,Jack J. Dongarra	10.1145/3079079.3079103
+HiPA: history-based piecewise approximation for functions.	Aurangzeb,Rudolf Eigenmann	10.1145/3079079.3079107
+Revisiting phased transactional memory.	Joao P. L. de Carvalho,Guido Araujo,Alexandro Baldassin	10.1145/3079079.3079094
+Dynamic scheduling for efficient hierarchical sparse matrix operations on the GPU.	Andreas Derler,Rhaleb Zayer,Hans-Peter Seidel,Markus Steinberger	10.1145/3079079.3079085
+Automatic topology mapping of diverse large-scale parallel applications.	Juan J. Galvez,Nikhil Jain,Laxmikant V. Kalé	10.1145/3079079.3079104
+Way-combining directory: an adaptive and scalable low-cost coherence directory.	J. Rubén Titos Gil,Antonio Flores,Ricardo Fernández Pascual,Alberto Ros,Manuel E. Acacio	10.1145/3079079.3079096
+Optimizing recursive task parallel programs.	Suyash Gupta,Rahul Shrivastava,V. Krishna Nandivada	10.1145/3079079.3079102
+SPIRIT: a framework for creating distributed recursive tree applications.	Nikhil Hegde,Jianqiao Liu,Milind Kulkarni 0001	10.1145/3079079.3079095
+Fast segmented sort on GPUs.	Kaixi Hou,Weifeng Liu 0002,Hao Wang 0002,Wu-chun Feng	10.1145/3079079.3079105
+Efficient SIMD and MIMD parallelization of hash-based aggregation by conflict mitigation.	Peng Jiang 0004,Gagan Agrawal	10.1145/3079079.3079080
+Packet coalescing exploiting data redundancy in GPGPU architectures.	Kyung Hoon Kim,Rahul Boyapati,Jiayi Huang 0001,Yuho Jin,Ki Hwan Yum,Eun Jung Kim 0001	10.1145/3079079.3079088
+On improving performance of sparse matrix-matrix multiplication on GPUs.	Rakshith Kunchum,Ankur Chaudhry,Aravind Sukumaran-Rajam,Qingpeng Niu,Israt Nisa,P. Sadayappan	10.1145/3079079.3079106
+Hardware/software cooperative caching for hybrid DRAM/NVM memory architectures.	Haikun Liu,Yujie Chen,Xiaofei Liao,Hai Jin 0001,Bingsheng He,Long Zheng 0003,Rentong Guo	10.1145/3079079.3079089
+Demystifying automata processing: GPUs, FPGAs or Micron&apos;s AP?	Marziyeh Nourian,Xiang Wang,Xiaodong Yu,Wu-chun Feng,Michela Becchi	10.1145/3079079.3079100
+libPRISM: an intelligent adaptation of prefetch and SMT levels.	Cristobal Ortega,Miquel Moretó,Marc Casas,Ramon Bertran,Alper Buyuktosunoglu,Alexandre E. Eichenberger,Pradip Bose	10.1145/3079079.3079101
+Supporting automatic recovery in offloaded distributed programming models through MPI-3 techniques.	Antonio J. Peña,Vicenç Beltran 0001,Carsten Clauss,Thomas Moschny	10.1145/3079079.3079093
+Enabling scalability-sensitive speculative parallelization for FSM computations.	Junqiao Qiu,Zhijia Zhao 0001,Bo Wu 0002,Abhinav Vishnu,Shuaiwen Leon Song	10.1145/3079079.3079082
+Frequent subtree mining on the automata processor: challenges and opportunities.	Elaheh Sadredini,Reza Rahimi,Ke Wang 0011,Kevin Skadron	10.1145/3079079.3079084
+Simplification and runtime resolution of data dependence constraints for loop transformations.	Diogo Nunes Sampaio,Louis-Noël Pouchet,Fabrice Rastello	10.1145/3079079.3079098
+SSDUP: a traffic-aware ssd burst buffer for HPC systems.	Xuanhua Shi,Ming Li,Wei Liu 0004,Hai Jin 0001,Chen Yu 0003,Yong Chen 0001	10.1145/3079079.3079087
+Globally homogeneous, locally adaptive sparse matrix-vector multiplication on the GPU.	Markus Steinberger,Rhaleb Zayer,Hans-Peter Seidel	10.1145/3079079.3079086
+GraphGrind: addressing load imbalance of graph partitioning.	Jiawen Sun,Hans Vandierendonck,Dimitrios S. Nikolopoulos	10.1145/3079079.3079097
+HPAT: high performance analytics with scripting ease-of-use.	Ehsan Totoni,Todd A. Anderson 0001,Tatiana Shpeisman	10.1145/3079079.3079099
+Carpool: a bufferless on-chip network supporting adaptive multicast and hotspot alleviation.	Xi-Yue Xiang,Wentao Shi,Saugata Ghose,Lu Peng 0001,Onur Mutlu,Nian-Feng Tzeng	10.1145/3079079.3079090
+Design and implementation of bandwidth-aware memory placement and migration policies for heterogeneous memory systems.	Seongdae Yu,Seongbeom Park,Woongki Baek	10.1145/3079079.3079092
+A performance analysis framework for exploiting GPU microarchitectural capability.	Keren Zhou 0001,Guangming Tan,Xiuxia Zhang,Chaowei Wang,Ninghui Sun	10.1145/3079079.3079083
+Iteration-fusing conjugate gradient.	Sicong Zhuang,Marc Casas	10.1145/3079079.3079091
+Compile-time optimized and statically scheduled N-D convnet primitives for multi-core and many-core (Xeon Phi) CPUs.	Aleksandar Zlateski,H. Sebastian Seung	10.1145/3079079.3079081
+Proceedings of the International Conference on Supercomputing, ICS 2017, Chicago, IL, USA, June 14-16, 2017	William D. Gropp,Pete Beckman,Zhiyuan Li,Francisco J. Cazorla	10.1145/3079079

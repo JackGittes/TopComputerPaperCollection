@@ -1,0 +1,40 @@
+Sandslash: a two-level framework for efficient graph pattern mining.	Xuhao Chen 0001,Roshan Dathathri,Gurbinder Gill,Loc Hoang,Keshav Pingali	10.1145/3447818.3460359
+Tile size selection of affine programs for GPGPUs using polyhedral cross-compilation.	Khaled Abdelaal,Martin Kong	10.1145/3447818.3460369
+ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.	Mazen Al-Wadi,Aziz Mohaisen,Amro Awad	10.1145/3447818.3460377
+A performance portability framework for Python.	Nader Al Awar,Steven Zhu,George Biros,Milos Gligoric 0001	10.1145/3447818.3460376
+Task-graph scheduling extensions for efficient synchronization and communication.	Seonmyeong Bak,Oscar R. Hernandez,Mark Gates,Piotr Luszczek,Vivek Sarkar	10.1145/3447818.3461616
+PLANAR: a programmable accelerator for near-memory data rearrangement.	Adrián Barredo,Adrià Armejach,Jonathan C. Beard,Miquel Moretó	10.1145/3447818.3460368
+On the automatic parallelization of subscripted subscript patterns using array property analysis.	Akshay Bhosale,Rudolf Eigenmann	10.1145/3447818.3460424
+Performance portable back-projection algorithms on CPUs: agnostic data locality and vectorization optimizations.	Peng Chen,Mohamed Wahib,Xiao Wang 0004,Shin&apos;ichiro Takizawa,Takahiro Hirofuchi,Hirotaka Ogawa,Satoshi Matsuoka	10.1145/3447818.3460353
+Partitioning sparse deep neural networks for scalable training and inference.	Gunduz Vehbi Demirci,Hakan Ferhatosmanoglu	10.1145/3447818.3460372
+An optimized tensor completion library for multiple GPUs.	Ming Dun,Yunchun Li,Hailong Yang,Qingxiao Sun,Zhongzhi Luan,Depei Qian	10.1145/3447818.3460692
+Enabling energy-efficient DNN training on hybrid GPU-FPGA accelerators.	Xin He,Jiawen Liu,Zhen Xie,Hao Chen 0002,Guoyang Chen,Weifeng Zhang 0003,Dong Li 0001	10.1145/3447818.3460371
+ALTO: adaptive linearized storage of sparse tensors.	Ahmed E. Helal,Jan Laukemann,Fabio Checconi,Jesmin Jahan Tithi,Teresa M. Ranadive,Fabrizio Petrini,Jeewhan Choi	10.1145/3447818.3461703
+Distributed merge forest: a new fast and scalable approach for topological analysis at scale.	Xuan Huang,Pavol Klacansky,Steve Petruzza,Attila Gyulassy,Peer-Timo Bremer,Valerio Pascucci	10.1145/3447818.3460358
+Power and energy efficient routing for Mach-Zehnder interferometer based photonic switches.	Markos Kynigos,Jose Antonio Pascual,Javier Navaridas,John Goodacre,Mikel Luján	10.1145/3447818.3460363
+Athena: high-performance sparse tensor contraction sequence on heterogeneous memory.	Jiawen Liu,Dong Li 0001,Roberto Gioiosa,Jiajia Li 0001	10.1145/3447818.3460355
+μSteal: a theory-backed framework for preemptive work and resource stealing in mixed-criticality microservices.	Amirhossein Mirhosseini,Thomas F. Wenisch	10.1145/3447818.3463529
+A practical tile size selection model for affine loop nests.	Kumudha Narasimhan,Aravind Acharya,Abhinav Baid,Uday Bondhugula	10.1145/3447818.3462213
+Inter-loop optimization in RAJA using loop chains.	Brandon Neth,Thomas R. W. Scogland,Bronis R. de Supinski,Michelle Mills Strout	10.1145/3447818.3461665
+Accelerating DNNs inference with predictive layer fusion.	MohammadHossein Olyaiy,Christopher Ng,Mieszko Lis	10.1145/3447818.3460378
+Delay sensitivity-driven congestion mitigation for HPC systems.	Archit Patke,Saurabh Jha,Haoran Qiu,Jim M. Brandt,Ann C. Gentile,Joe Greenseid,Zbigniew Kalbarczyk,Ravishankar K. Iyer	10.1145/3447818.3460362
+A systematic approach to improving data locality across Fourier transforms and linear algebra operations.	Doru-Thom Popovici,Andrew Canning,Zhengji Zhao,Lin-Wang Wang,John Shalf	10.1145/3447818.3460354
+SumMerge: an efficient algorithm and implementation for weight repetition-aware DNN inference.	Rohan Baskar Prabhakar,Sachit Kuhar,Rohit Agrawal 0001,Christopher J. Hughes,Christopher W. Fletcher	10.1145/3447818.3460375
+FULL-W2V: fully exploiting data reuse for W2V on GPU-accelerated systems.	Thomas Randall,Tyler N. Allen,Rong Ge 0002	10.1145/3447818.3460373
+Optimizing large-scale plasma simulations on persistent memory-based heterogeneous memory with effective data placement across memory hierarchy.	Jie Ren 0015,Jiaolin Luo,Ivy Bo Peng,Kai Wu 0006,Dong Li 0001	10.1145/3447818.3460356
+Distributed-memory parallel algorithms for sparse times tall-skinny-dense matrix multiplication.	Oguz Selvitopi,Benjamin Brock,Israt Nisa,Alok Tripathy,Katherine A. Yelick,Aydin Buluç	10.1145/3447818.3461472
+DSGEN: concolic testing GPU implementations of concurrent dynamic data structures.	Xiaofan Sun,Rajiv Gupta 0001	10.1145/3447818.3460962
+ThundeRiNG: generating multiple independent random number sequences on FPGAs.	Hongshi Tan,Xinyu Chen,Yao Chen,Bingsheng He,Weng-Fai Wong	10.1145/3447818.3461664
+Does it matter?: OMPSanitizer: an impact analyzer of reported data races in OpenMP programs.	Wenwen Wang 0001,Pei-Hung Lin	10.1145/3447818.3460379
+MD-HM: memoization-based molecular dynamics simulations on big memory system.	Zhen Xie,Wenqian Dong,Jie Liu,Ivy Bo Peng,Yanbao Ma,Dong Li 0001	10.1145/3447818.3460365
+AUTO-PRUNE: automated DNN pruning and mapping for ReRAM-based accelerator.	Siling Yang,Weijian Chen 0002,Xuechen Zhang,Shuibing He,Yanlong Yin,Xian-He Sun	10.1145/3447818.3460366
+Topology-aware optimizations for multi-GPU ptychographic image reconstruction.	Xiaodong Yu,Tekin Bicer,Rajkumar Kettimuthu,Ian T. Foster	10.1145/3447818.3460380
+PSSM: achieving secure memory for GPUs with partitioned and sectored security metadata.	Shougang Yuan,Yan Solihin,Huiyang Zhou	10.1145/3447818.3460374
+Proxima: accelerating the integration of machine learning in atomistic simulations.	Yuliana Zamora,Logan T. Ward,Ganesh Sivaraman,Ian T. Foster,Henry Hoffmann	10.1145/3447818.3460370
+FT-BLAS: a high performance BLAS implementation with online fault tolerance.	Yujia Zhai,Elisabeth Giem,Quan Fan,Kai Zhao 0008,Jinyang Liu,Zizhong Chen	10.1145/3447818.3460364
+HyQuas: hybrid partitioner based quantum circuit simulation system on GPU.	Chen Zhang,Zeyu Song,Haojie Wang,Kaiyuan Rong,Jidong Zhai	10.1145/3447818.3460357
+ClickTrain: efficient and accurate end-to-end deep learning training via fine-grained architecture-preserving pruning.	Chengming Zhang 0006,Geng Yuan,Wei Niu,Jiannan Tian,Sian Jin,Donglin Zhuang,Zhe Jiang 0001,Yanzhi Wang,Bin Ren,Shuaiwen Leon Song,Dingwen Tao	10.1145/3447818.3459988
+NumaPerf: predictive NUMA profiling.	Xin Zhao,Jin Zhou,Hui Guan,Wei Wang 0054,Xu Liu 0001,Tongping Liu	10.1145/3447818.3460361
+Omegaflow: a high-performance dependency-based architecture.	Yaoyang Zhou,Zihao Yu,Chuanqi Zhang,Yinan Xu,Huizhe Wang,Sa Wang,Ninghui Sun,Yungang Bao	10.1145/3447818.3460367
+NPBench: a benchmarking suite for high-performance NumPy.	Alexandros Nikolaos Ziogas,Tal Ben-Nun,Timo Schneider,Torsten Hoefler	10.1145/3447818.3460360
+ICS &apos;21: 2021 International Conference on Supercomputing, Virtual Event, USA, June 14-17, 2021.	Huiyang Zhou,Jose Moreira,Frank Mueller 0001,Yoav Etsion	10.1145/3447818

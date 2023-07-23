@@ -1,0 +1,39 @@
+Correlating UI Contexts with Sensitive API Calls: Dynamic Semantic Extraction and Analysis.	Jie Liu 0020,Dongjie He,Diyu Wu,Jingling Xue	10.1109/ISSRE5003.2020.00031
+FSCS-SIMD: An efficient implementation of Fixed-Size-Candidate-Set adaptive random testing using SIMD instructions.	Muhammad Ashfaq,Rubing Huang,Michael Omari	10.1109/ISSRE5003.2020.00034
+QoS-aware Metamorphic Testing: An Elevation Case Study.	Jon Ayerdi,Sergio Segura,Aitor Arrieta,Goiuria Sagardui,Maite Arratibel	10.1109/ISSRE5003.2020.00019
+Fault Injection to Generate Failure Data for Failure Prediction: A Case Study.	João R. Campos,Ernesto Costa	10.1109/ISSRE5003.2020.00020
+Evaluation of RESTful frameworks under soft errors.	Frederico Cerveira,Rui André Oliveira,Raul Barbosa,Henrique Madeira	10.1109/ISSRE5003.2020.00042
+TensorFI: A Flexible Fault Injection Framework for TensorFlow Applications.	Zitao Chen,Niranjhana Narayanan,Bo Fang,Guanpeng Li,Karthik Pattabiraman,Nathan DeBardeleben	10.1109/ISSRE5003.2020.00047
+LogTransfer: Cross-System Log Anomaly Detection for Software Systems with Transfer Learning.	Rui Chen,Shenglin Zhang,Dongwen Li,Yuzhe Zhang,Fangrui Guo,Weibin Meng,Dan Pei,Yuzhi Zhang,Xu Chen,Yuqing Liu	10.1109/ISSRE5003.2020.00013
+Probabilistic Symbolic Analysis of Neural Networks.	Hayes Converse,Antonio Filieri,Divya Gopinath,Corina S. Pasareanu	10.1109/ISSRE5003.2020.00023
+Modelling Machine Learning Components for Mapping and Scheduling of AUTOSAR Runnables.	Milan Copic,Rainer Leupers,Gerd Ascheid	10.1109/ISSRE5003.2020.00021
+Dependability Evaluation of Middleware Technology for Large-scale Distributed Caching.	Domenico Cotroneo,Roberto Natella,Stefano Rosiello	10.1109/ISSRE5003.2020.00029
+On-board Diagnosis: A First Step from Detection to Prevention of Intrusions on Avionics Applications.	Aliénor Damien,Pierre-François Gimenez,Nathalie Feyt,Vincent Nicomette,Mohamed Kaâniche,Eric Alata	10.1109/ISSRE5003.2020.00041
+Fault Triggers in the TensorFlow Framework: An Experience Report.	Xiaoting Du,Guanping Xiao,Yulei Sui	10.1109/ISSRE5003.2020.00010
+An Empirical Evaluation of GDPR Compliance Violations in Android mHealth Apps.	Ming Fan 0002,Le Yu 0002,Sen Chen,Hao Zhou,Xiapu Luo,Shuyue Li,Yang Liu 0003,Jun Liu 0002,Ting Liu 0002	10.1109/ISSRE5003.2020.00032
+Deep Learning Based Valid Bug Reports Determination and Explanation.	Jianjun He,Ling Xu,Yuanrui Fan,Zhou Xu 0003,Meng Yan 0001,Yan Lei	10.1109/ISSRE5003.2020.00026
+Understanding Merge Conflicts and Resolutions in Git Rebases.	Tao Ji,Liqian Chen,Xin Yi,Xiaoguang Mao	10.1109/ISSRE5003.2020.00016
+Identifying and Prioritizing Chaos Experiments by Using Established Risk Analysis Techniques.	Dominik Kesim,André van Hoorn,Sebastian Frank 0001,Matthias Häussler	10.1109/ISSRE5003.2020.00030
+Understanding Reproducibility and Characteristics of Flaky Tests Through Test Reruns in Java Projects.	Wing Lam,Stefan Winter 0001,Angello Astorga,Victoria Stodden,Darko Marinov	10.1109/ISSRE5003.2020.00045
+An Empirical Study of Thresholds for Code Measures.	Luigi Lavazza,Sandro Morasca	10.1109/ISSRE5003.2020.00040
+SwissLog: Robust and Unified Deep Learning Based Log Anomaly Detection for Diverse Faults.	Xiaoyun Li,Pengfei Chen 0002,Linxiao Jing,Zilong He,Guangba Yu	10.1109/ISSRE5003.2020.00018
+AV-FUZZER: Finding Safety Violations in Autonomous Driving Systems.	Guanpeng Li,Yiran Li,Saurabh Jha,Timothy Tsai 0002,Michael B. Sullivan 0001,Siva Kumar Sastry Hari,Zbigniew Kalbarczyk,Ravishankar K. Iyer	10.1109/ISSRE5003.2020.00012
+An Exploratory Study of Bugs in Extended Reality Applications on the Web.	Shuqing Li,Yechang Wu,Yi Liu,Dinghua Wang,Ming Wen 0001,Yida Tao,Yulei Sui,Yepang Liu 0001	10.1109/ISSRE5003.2020.00025
+Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks.	Ping Liu,Haowen Xu,Qianyu Ouyang,Rui Jiao,Zhekang Chen,Shenglin Zhang,Jiahai Yang,Linlin Mo,Jice Zeng,Wenman Xue,Dan Pei	10.1109/ISSRE5003.2020.00014
+SACC - A property driven approach to expose undesired behaviors among system&apos;s components.	Kaushik Madala,Ke Ye Hang,Hyunsook Do,Bastian Tenbergen	10.1109/ISSRE5003.2020.00043
+Connecting Software Reliability Growth Models to Software Defect Tracking.	Maskura Nafreen,Melanie Luperon,Lance Fiondella,Vidhyashree Nagaraju,Ying Shi,Thierry Wandji	10.1109/ISSRE5003.2020.00022
+Model-Driven Fault Injection in Java Source Code.	Elder Rodrigues Jr.,Leonardo Montecchi,Andrea Ceccarelli	10.1109/ISSRE5003.2020.00046
+Locating the Clues of Declining Success Rate of Service Calls.	Guoping Rong,Hao Wang,Yong You,He Zhang 0001,Jialin Sun,Dong Shao,Yangchen Xu	10.1109/ISSRE5003.2020.00039
+On failures of RGB cameras and their effects in autonomous driving applications.	Francesco Secci,Andrea Ceccarelli	10.1109/ISSRE5003.2020.00011
+Designing Neural Networks Using Logical Specs.	Shikhar Singh,Marko Vasic,Sarfraz Khurshid	10.1109/ISSRE5003.2020.00024
+AFLTurbo: Speed up Path Discovery for Greybox Fuzzing.	Lei Sun,Xumei Li,Haipeng Qu,Xiaoshuai Zhang	10.1109/ISSRE5003.2020.00017
+Fault Localization for Declarative Models in Alloy.	Kaiyuan Wang,Allison Sullivan,Darko Marinov,Sarfraz Khurshid	10.1109/ISSRE5003.2020.00044
+Detecting Implementation Bugs in Graph Convolutional Network based Node Classifiers.	Yiwei Wang 0001,Wei Wang 0059,Yujun Cai,Bryan Hooi,Beng Chin Ooi	10.1109/ISSRE5003.2020.00037
+Exposing Android Event-Based Races by Selective Branch Instrumentation.	Diyu Wu,Dongjie He,Shiping Chen 0001,Jingling Xue	10.1109/ISSRE5003.2020.00033
+A Reactive Batching Strategy of Apache Kafka for Reliable Stream Processing in Real-time.	Han Wu 0001,Zhihao Shang,Guang Peng,Katinka Wolter	10.1109/ISSRE5003.2020.00028
+HINDBR: Heterogeneous Information Network Based Duplicate Bug Report Prediction.	Guanping Xiao,Xiaoting Du,Yulei Sui,Tao Yue	10.1109/ISSRE5003.2020.00027
+Cross-Project Aging-Related Bug Prediction Based on Joint Distribution Adaptation and Improved Subclass Discriminant Analysis.	Bin Xu,Dongdong Zhao 0001,Kai Jia,Junwei Zhou,Jing Tian,Jianwen Xiang	10.1109/ISSRE5003.2020.00038
+How Far Have We Come in Detecting Anomalies in Distributed Systems? An Empirical Study with a Statement-level Fault Injection Method.	Yong Yang,Yifan Wu,Karthik Pattabiraman,Long Wang 0003,Ying Li 0012	10.1109/ISSRE5003.2020.00015
+Investigating the Configurations of an Industrial Path Planner in Terms of Collision Avoidance.	Xiao-Yi Zhang 0005,Paolo Arcaini,Fuyuki Ishikawa,Kun Liu	10.1109/ISSRE5003.2020.00036
+Cost-Effective Testing of a Deep Learning Model through Input Reduction.	Jianyi Zhou,Feng Li,Jinhao Dong,Hongyu Zhang 0002,Dan Hao 0001	10.1109/ISSRE5003.2020.00035
+31st IEEE International Symposium on Software Reliability Engineering, ISSRE 2020, Coimbra, Portugal, October 12-15, 2020	Marco Vieira,Henrique Madeira,Nuno Antunes,Zheng Zheng 0001	

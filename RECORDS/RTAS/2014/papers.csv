@@ -1,0 +1,29 @@
+Trickle: Automated infeasible path detection using all minimal unsatisfiable subsets.	Bernard Blackham,Mark H. Liffiton,Gernot Heiser	10.1109/RTAS.2014.6926000
+Unifying DVFS and offlining in mobile multicores.	Aaron Carroll,Gernot Heiser	10.1109/RTAS.2014.6926010
+Scaling global scheduling with message passing.	Felipe Cerqueira,Manohar Vanga,Björn B. Brandenburg	10.1109/RTAS.2014.6926008
+SAFER SLOTH: Efficient, hardware-tailored memory protection.	Daniel Danner,Rainer Muller,Wolfgang Schröder-Preikschat,Wanja Hofer,Daniel Lohmann	10.1109/RTAS.2014.6925989
+Schedulability tests for tasks with Variable Rate-dependent Behaviour under fixed priority scheduling.	Robert I. Davis 0001,Timo Feld,Victor Pollex,Frank Slomka	10.1109/RTAS.2014.6925990
+Towards certifiable adaptive reservations for hypervisor-based virtualization.	Stefan Groesbrink,Luís Almeida 0001,Mário de Sousa,Stefan M. Petters	10.1109/RTAS.2014.6925987
+Real-time scheduling under fault bursts with multiple recovery strategy.	Mohammad A. Haque,Hakan Aydin,Dakai Zhu 0001	10.1109/RTAS.2014.6925991
+A network virtualization approach for performance isolation in controller area network (CAN).	Christian Herber,Andre Richter,Thomas Wild,Andreas Herkersdorf	10.1109/RTAS.2014.6926004
+The Multi-Resource Server for predictable execution on multi-core platforms.	Rafia Inam,Nesredin Mahmud,Moris Behnam,Thomas Nolte,Mikael Sjödin	10.1109/RTAS.2014.6925986
+AHRB: A high-performance time-composable AMBA AHB bus.	Javier Jalle,Jaume Abella 0001,Eduardo Quiñones,Luca Fossati,Marco Zulianello,Francisco J. Cazorla	10.1109/RTAS.2014.6926005
+MAESTRO: A time-driven embedded testbed Architecture with Event-driven Synchronization.	Sriram Karunagaran,Karuna P. Sahoo,Jayaraj Poroor,Masahiro Fujita	10.1109/RTAS.2014.6926006
+WCET-aware dynamic code management on scratchpads for Software-Managed Multicores.	Yooseong Kim,David Broman,Jian Cai 0001,Aviral Shrivastava	10.1109/RTAS.2014.6926001
+Bounding memory interference delay in COTS-based multi-core systems.	Hyoseung Kim 0001,Dionisio de Niz,Björn Andersson,Mark H. Klein,Onur Mutlu,Ragunathan Rajkumar	10.1109/RTAS.2014.6925998
+Slack-aware opportunistic monitoring for real-time systems.	Daniel Lo,Mohamed Ismail,Tao Chen 0045,G. Edward Suh	10.1109/RTAS.2014.6926003
+Precise shared cache analysis using optimal interference placement.	Kartik Nagar,Y. N. Srikant	10.1109/RTAS.2014.6925996
+Partitioned scheduling of multi-modal mixed-criticality real-time systems on multiprocessor platforms.	Dionisio de Niz,Linh T. X. Phan	10.1109/RTAS.2014.6925995
+The ROSACE case study: From Simulink specification to multi/many-core execution.	Claire Pagetti,David Saussié,Romain Gratia,Eric Noulard,Pierre Siron	10.1109/RTAS.2014.6926012
+Overhead-aware temporal partitioning on multicore processors.	Risat Mahmud Pathan,Per Stenström,Lars-Goran Green,Torbjorn Hult,Patrik Sandin	10.1109/RTAS.2014.6926007
+Selfish-LRU: Preemption-aware caching for predictability and performance.	Jan Reineke 0001,Sebastian Altmeyer,Daniel Grund,Sebastian Hahn 0001,Claire Maiza	10.1109/RTAS.2014.6925997
+Architecture-parametric timing analysis.	Jan Reineke 0001,Johannes Doerfert	10.1109/RTAS.2014.6926002
+Has energy surpassed timeliness? Scheduling energy-constrained mixed-criticality systems.	Marcus Völp,Marcus Hähnel,Adam Lackorzynski	10.1109/RTAS.2014.6926009
+FJOS: Practical, predictable, and efficient system support for fork/join parallelism.	Qi Wang,Gabriel Parmer	10.1109/RTAS.2014.6925988
+Hiding memory latency using fixed priority scheduling.	Saud Wasly,Rodolfo Pellizzoni	10.1109/RTAS.2014.6925992
+STCoS: Software-defined traffic control for smartphones.	Yoshikazu Watanabe,Shuichi Karino,Yoshinori Saida,Gen Morita,Takahiro Iihoshi	10.1109/RTAS.2014.6926011
+Message from the Program and Track Chairs.	Richard West,James H. Anderson,Samarjit Chakraborty	10.1109/RTAS.2014.6925983
+Relaxing the synchronous approach for mixed-criticality systems.	Eugene Yip,Matthew M. Y. Kuo,Partha S. Roop,David Broman	10.1109/RTAS.2014.6925993
+PALLOC: DRAM bank-aware memory allocator for performance isolation on multicore platforms.	Heechul Yun,Renato Mancuso 0001,Zheng Pei Wu,Rodolfo Pellizzoni	10.1109/RTAS.2014.6925999
+FlexPRET: A processor platform for mixed-criticality systems.	Michael Zimmer 0001,David Broman,Chris Shaver,Edward A. Lee	10.1109/RTAS.2014.6925994
+20th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2014, Berlin, Germany, April 15-17, 2014		

@@ -1,0 +1,51 @@
+A Synchronization-Free Algorithm for Parallel Sparse Triangular Solves.	Weifeng Liu 0002,Ang Li 0006,Jonathan D. Hogg,Iain S. Duff,Brian Vinter	10.1007/978-3-319-43659-3_45
+Exploiting Task-Parallelism in Message-Passing Sparse Linear System Solvers Using OmpSs.	José Ignacio Aliaga,Maria Barreda,Matthias Bollhöfer,Enrique S. Quintana-Ortí	10.1007/978-3-319-43659-3_46
+Gradual Stabilization Under \tau -Dynamics.	Karine Altisen,Stéphane Devismes,Anaïs Durand,Franck Petit	10.1007/978-3-319-43659-3_43
+ParallelME: A Parallel Mobile Engine to Explore Heterogeneity in Mobile Computing Architectures.	Guilherme Andrade,Wilson de Carvalho,Renato Utsch,Pedro Caldeira,Alberto Albuquerque,Fabricio Ferracioli,Leonardo Rocha 0001,Michael Frank 0008,Dorgival O. Guedes,Renato Ferreira 0001	10.1007/978-3-319-43659-3_33
+FPT Approximation Algorithm for Scheduling with Memory Constraints.	Eric Angel,Cédric Chevalier,Franck Ledoux,Sébastien Morais,Damien Regnault	10.1007/978-3-319-43659-3_15
+Addressing Materials Science Challenges Using GPU-accelerated POWER8 Nodes.	Paul F. Baumeister,Marcel Bornemann,Markus Bühler,Thorsten Hater,Benjamin Krill,Dirk Pleiter,Rudolf Zeller	10.1007/978-3-319-43659-3_6
+Cuboid Partitioning for Parallel Matrix Multiplication on Heterogeneous Platforms.	Olivier Beaumont,Lionel Eyraud-Dubois,Thomas Lambert	10.1007/978-3-319-43659-3_13
+Exploring Partial Replication to Improve Lightweight Silent Data Corruption Detection for HPC Applications.	Eduardo Berrocal,Leonardo Bautista-Gomez,Sheng Di,Zhiling Lan,Franck Cappello	10.1007/978-3-319-43659-3_31
+CBPQ: High Performance Lock-Free Priority Queue.	Anastasia Braginsky,Nachshon Cohen,Erez Petrank	10.1007/978-3-319-43659-3_34
+Code Bones: Fast and Flexible Code Generation for Dynamic and Speculative Polyhedral Optimization.	Juan Manuel Martinez Caamaño,Willy Wolff,Philippe Clauss	10.1007/978-3-319-43659-3_17
+Controlling and Assessing Correlations of Cost Matrices in Heterogeneous Scheduling.	Louis-Claude Canon,Pierre-Cyrille Héam,Laurent Philippe 0001	10.1007/978-3-319-43659-3_10
+The Impact of Voltage-Frequency Scaling for the Matrix-Vector Product on the IBM POWER8.	Sandra Catalán,A. Cristiano I. Malossi,Costas Bekas,Enrique S. Quintana-Ortí	10.1007/978-3-319-43659-3_8
+Redesigning Triangular Dense Matrix Computations on GPUs.	Ali Charara 0001,Hatem Ltaief,David E. Keyes	10.1007/978-3-319-43659-3_35
+Efficient Large Outer Joins over MapReduce.	Long Cheng 0003,Spyros Kotoulas	10.1007/978-3-319-43659-3_25
+An Efficient Cache-oblivious Parallel Viterbi Algorithm.	Rezaul Chowdhury,Pramod Ganapathi,Vivek Pradhan,Jesmin Jahan Tithi,Yunpeng Xiao	10.1007/978-3-319-43659-3_42
+A Sharing-Aware Memory Management Unit for Online Mapping in Multi-core Architectures.	Eduardo H. M. Cruz,Matthias Diener,Laércio Lima Pilla,Philippe O. A. Navaux	10.1007/978-3-319-43659-3_36
+Resampling with Feedback - A New Paradigm of Using Workload Data for Performance Evaluation.	Dror G. Feitelson	10.1007/978-3-319-43659-3_1
+Scheduling MapReduce Jobs Under Multi-round Precedences.	Dimitris Fotakis 0001,Ioannis Milis,Orestis Papadigenopoulos,Vasilis Vassalos,Georgios Zois	10.1007/978-3-319-43659-3_16
+Multicore vs Manycore: The Energy Cost of Concurrency.	Martin Groen,Vincent Gramoli	10.1007/978-3-319-43659-3_40
+Lightweight and Accurate Silent Data Corruption Detection in Ordinary Differential Equation Solvers.	Pierre-Louis Guhur,Hong Zhang 0006,Tom Peterka,Emil M. Constantinescu,Franck Cappello	10.1007/978-3-319-43659-3_47
+Effective Minimally-Invasive GPU Acceleration of Distributed Sparse Matrix Factorization.	Anshul Gupta,Natalia Gimelshein,Seid Koric,Steven C. Rennich	10.1007/978-3-319-43659-3_49
+Automatic OpenCL Task Adaptation for Heterogeneous Architectures.	Pierre Huchant,Marie Christine Counilh,Denis Barthou	10.1007/978-3-319-43659-3_50
+Automatic Verification of Self-consistent MPI Performance Guidelines.	Sascha Hunold,Alexandra Carpen-Amarie,Felix Donatus Lübbe,Jesper Larsson Träff	10.1007/978-3-319-43659-3_32
+Non-preemptive Scheduling with Setup Times: A PTAS.	Klaus Jansen,Felix Land	10.1007/978-3-319-43659-3_12
+Penalized Graph Partitioning for Static and Dynamic Load Balancing.	Tim Kiefer,Dirk Habich,Wolfgang Lehner	10.1007/978-3-319-43659-3_11
+Nasty-MPI: Debugging Synchronization Errors in MPI-3 One-Sided Applications.	Roger Kowalewski,Karl Fürlinger	10.1007/978-3-319-43659-3_4
+Synchronization Debugging of Hybrid Parallel Programs.	Olaf Krzikalla,Ralph Müller-Pfefferkorn,Wolfgang E. Nagel	10.1007/978-3-319-43659-3_3
+Performance Prediction and Ranking of SpMV Kernels on GPU Architectures.	Christoph Lehnert,Rudolf Berrendorf,Jan P. Ecker,Florian Mannuss	10.1007/978-3-319-43659-3_7
+Toward a General I/O Arbitration Framework for netCDF Based Big Data Processing.	Jianwei Liao,Balazs Gerofi,Guo-Yuan Lien,Seiya Nishizawa,Takemasa Miyoshi,Hirofumi Tomita,Yutaka Ishikawa	10.1007/978-3-319-43659-3_22
+Automatic Benchmark Profiling Through Advanced Trace Analysis.	Alexis Martin,Vania Marangozova-Martin	10.1007/978-3-319-43659-3_5
+High-Performance Matrix-Matrix Multiplications of Very Small Matrices.	Ian Masliah,Ahmad Abdelfattah,Azzam Haidar,Stanimire Tomov,Marc Baboulin,Joël Falcou,Jack J. Dongarra	10.1007/978-3-319-43659-3_48
+Design and Verification of Distributed Phasers.	Karthik Murthy,Sri Raj Paul,Kuldeep S. Meel,Tiago Cogumbreiro,John M. Mellor-Crummey	10.1007/978-3-319-43659-3_30
+Heating as a Cloud-Service, A Position Paper (Industrial Presentation).	Yanik Ngoko	10.1007/978-3-319-43659-3_29
+High Performance Parallel Summed-Area Table Kernels for Multi-core and Many-core Systems.	Angelos Papatriantafyllou,Dimitris Sacharidis	10.1007/978-3-319-43659-3_23
+HAP: A Heterogeneity-Conscious Runtime System for Adaptive Pipeline Parallelism.	Jinsu Park,Woongki Baek	10.1007/978-3-319-43659-3_38
+An Autonomic Parallel Strategy for the Projection of Ecological Niche Models in Heterogeneous Computational Environments.	Fernanda G. O. Passos,Vinod E. F. Rebello	10.1007/978-3-319-43659-3_27
+Piecewise Holistic Autotuning of Compiler and Runtime Parameters.	Mihail Popov,Chadi Akel,William Jalby,Pablo de Oliveira Castro	10.1007/978-3-319-43659-3_18
+Insights into the Fallback Path of Best-Effort Hardware Transactional Memory Systems.	Ricardo Quislant,Eladio Gutiérrez,Emilio L. Zapata,Oscar G. Plata	10.1007/978-3-319-43659-3_19
+HeSP: A Simulation Framework for Solving the Task Scheduling-Partitioning Problem on Heterogeneous Architectures.	Antón Rey,Francisco D. Igual,Manuel Prieto-Matías	10.1007/978-3-319-43659-3_14
+Scheduling DAGs Opportunistically: The Dream and the Reality Circa 2016.	Arnold L. Rosenberg	10.1007/978-3-319-43659-3_2
+Lightweight Multi-language Bindings for Apache Spark.	Luca Salucci,Daniele Bonetta,Walter Binder	10.1007/978-3-319-43659-3_21
+Towards Network-Aware Service Placement in Community Network Micro-Clouds.	Mennan Selimi,Davide Vega,Felix Freitag,Luís Veiga	10.1007/978-3-319-43659-3_28
+GraphIn: An Online High Performance Incremental Graph Processing Framework.	Dipanjan Sengupta,Narayanan Sundaram,Xia Zhu,Theodore L. Willke,Jeffrey S. Young 0001,Matthew Wolf,Karsten Schwan	10.1007/978-3-319-43659-3_24
+Work-Efficient Parallel Union-Find with Applications to Incremental Graph Connectivity.	Natcha Simsiri,Kanat Tangwongsan,Srikanta Tirthapura,Kun-Lung Wu	10.1007/978-3-319-43659-3_41
+Power Consumption Modeling and Prediction in a Hybrid CPU-GPU-MIC Supercomputer.	Alina Sîrbu,Özalp Babaoglu	10.1007/978-3-319-43659-3_9
+High Performance Polar Decomposition on Distributed Memory Systems.	Dalal Sukkari,Hatem Ltaief,David E. Keyes	10.1007/978-3-319-43659-3_44
+GreenBST: Energy-Efficient Concurrent Search Tree.	Ibrahim Umar,Otto J. Anshus,Phuong Hoai Ha	10.1007/978-3-319-43659-3_37
+Using Data Dependencies to Improve Task-Based Scheduling Strategies on NUMA Architectures.	Philippe Virouleau,François Broquedis,Thierry Gautier,Fabrice Rastello	10.1007/978-3-319-43659-3_39
+Portable SIMD Performance with OpenMP* 4.x Compiler Directives.	Florian Wende,Matthias Noack,Thomas Steinke 0001,Michael Klemm,Chris J. Newburn,Georg Zitzlsberger	10.1007/978-3-319-43659-3_20
+Slurm-V: Extending Slurm for Building Efficient HPC Cloud with SR-IOV and IVShmem.	Jie Zhang 0045,Xiaoyi Lu,Sourav Chakraborty 0003,Dhabaleswar K. Panda 0001	10.1007/978-3-319-43659-3_26
+Euro-Par 2016: Parallel Processing - 22nd International Conference on Parallel and Distributed Computing, Grenoble, France, August 24-26, 2016, Proceedings	Pierre-François Dutot,Denis Trystram	10.1007/978-3-319-43659-3

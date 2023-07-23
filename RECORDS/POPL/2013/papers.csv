@@ -1,0 +1,48 @@
+Copatterns: programming infinite structures by observations.	Andreas Abel 0001,Brigitte Pientka,David Thibodeau 0001,Anton Setzer	10.1145/2429069.2429075
+Principled parsing for indentation-sensitive languages: revisiting landin&apos;s offside rule.	Michael D. Adams 0001	10.1145/2429069.2429129
+Abstraction and invariance for algebraically indexed types.	Robert Atkey,Patricia Johann,Andrew Kennedy	10.1145/2429069.2429082
+Automatic detection of floating-point exceptions.	Earl T. Barr,Thanh Vo,Vu Le 0002,Zhendong Su 0001	10.1145/2429069.2429133
+Library abstraction for C/C++ concurrency.	Mark Batty,Mike Dodds,Alexey Gotsman	10.1145/2429069.2429099
+On the linear ranking problem for integer linear-constraint loops.	Amir M. Ben-Amram,Samir Genaim	10.1145/2429069.2429078
+Static and dynamic semantics of NoSQL languages.	Véronique Benzaken,Giuseppe Castagna,Kim Nguyen 0001,Jérôme Siméon	10.1145/2429069.2429083
+Cache and I/O efficent functional algorithms.	Guy E. Blelloch,Robert Harper 0001	10.1145/2429069.2429077
+Checking NFA equivalence with bisimulations up to congruence.	Filippo Bonchi,Damien Pous	10.1145/2429069.2429124
+Sigma*: symbolic learning of input-output specifications.	Matko Botincan,Domagoj Babic	10.1145/2429069.2429123
+The type discipline of behavioral separation.	Luís Caires,João Costa Seco	10.1145/2429069.2429103
+Deadlock-freedom-by-design: multiparty asynchronous global programming.	Marco Carbone,Fabrizio Montesi	10.1145/2429069.2429101
+Quantitative abstraction refinement.	Pavol Cerný,Thomas A. Henzinger,Arjun Radhakrishna	10.1145/2429069.2429085
+Abstract conflict driven learning.	Vijay Victor D&apos;Silva,Leopold Haller,Daniel Kroening	10.1145/2429069.2429087
+Meta-theory à la carte.	Benjamin Delaware,Bruno C. d. S. Oliveira,Tom Schrijvers	10.1145/2429069.2429094
+Plan B: a buffered memory model for Java.	Delphine Demange,Vincent Laporte,Lei Zhao,Suresh Jagannathan,David Pichardie,Jan Vitek	10.1145/2429069.2429110
+Views: compositional reasoning for concurrent programs.	Thomas Dinsdale-Young,Lars Birkedal,Philippa Gardner,Matthew J. Parkinson,Hongseok Yang	10.1145/2429069.2429104
+Inductive data flow graphs.	Azadeh Farzan,Zachary Kincaid,Andreas Podelski	10.1145/2429069.2429086
+Fully abstract compilation to JavaScript.	Cédric Fournet,Nikhil Swamy,Juan Chen 0002,Pierre-Évariste Dagand,Pierre-Yves Strub,Benjamin Livshits	10.1145/2429069.2429114
+Linear dependent types for differential privacy.	Marco Gaboardi,Andreas Haeberlen,Justin Hsu,Arjun Narayan,Benjamin C. Pierce	10.1145/2429069.2429113
+Engineering mathematics: the odd order theorem proof.	Georges Gonthier	10.1145/2429069.2429071
+The principles and practice of probabilistic programming.	Noah D. Goodman	10.1145/2429069.2429117
+A model-learner pattern for bayesian reasoning.	Andrew D. Gordon 0001,Mihhail Aizatulin,Johannes Borgström,Guillaume Claret,Thore Graepel,Aditya V. Nori,Sriram K. Rajamani,Claudio V. Russo	10.1145/2429069.2429119
+The Lambda Lambda-Bar calculus: a dual calculus for unconstrained strategies.	Alexis Goyet	10.1145/2429069.2429089
+Quantitative relaxation of concurrent data structures.	Thomas A. Henzinger,Christoph M. Kirsch,Hannes Payer,Ali Sezgin,Ana Sokolova	10.1145/2429069.2429109
+The ramifications of sharing in data structures.	Aquinas Hobor,Jules Villard	10.1145/2429069.2429131
+The power of parameterization in coinductive proof.	Chung-Kil Hur,Georg Neis,Derek Dreyer,Viktor Vafeiadis	10.1145/2429069.2429093
+High-level separation logic for low-level code.	Jonas Braband Jensen,Nick Benton,Andrew Kennedy	10.1145/2429069.2429105
+Synthesis of biological models from mutation experiments.	Ali Sinan Köksal,Yewen Pu,Saurabh Srivastava 0001,Rastislav Bodík,Jasmin Fisher,Nir Piterman	10.1145/2429069.2429125
+From principles to programming languages (and back).	Shriram Krishnamurthi	10.1145/2429069.2429097
+The geometry of types.	Ugo Dal Lago,Barbara Petit	10.1145/2429069.2429090
+Subjective auxiliary state for coarse-grained concurrency.	Ruy Ley-Wild,Aleksandar Nanevski	10.1145/2429069.2429134
+Towards fully automatic placement of security sanitizers and declassifiers.	Benjamin Livshits,Stephen Chong	10.1145/2429069.2429115
+Full abstraction for nominal Scott domains.	Steffen Lösch,Andrew M. Pitts	10.1145/2429069.2429073
+Advanced automata minimization.	Richard Mayr,Lorenzo Clemente	10.1145/2429069.2429079
+How languages can save distributed computing.	Andrew C. Myers	10.1145/2429069.2429107
+A theorem prover for Boolean BI.	Jonghyun Park,Jeongbong Seo,Sungwoo Park	10.1145/2429069.2429095
+Fault tolerance via idempotence.	Ganesan Ramalingam,Kapil Vaswani	10.1145/2429069.2429100
+Optimizing data structures in high-level programs: new directions for extensible compilers based on staging.	Tiark Rompf,Arvind K. Sujeeth,Nada Amin,Kevin J. Brown,Vojin Jovanovic,HyoukJoong Lee,Manohar Jonnalagedda,Kunle Olukotun,Martin Odersky	10.1145/2429069.2429128
+Universal properties of impure programming languages.	Sam Staton,Paul Blain Levy	10.1145/2429069.2429091
+Hyperstream processing systems: nonstandard modeling of continuous-time signals.	Kohei Suenaga,Hiroyoshi Sekine,Ichiro Hasuo	10.1145/2429069.2429120
+The sequential semantics of producer effect systems.	Ross Tate	10.1145/2429069.2429074
+Complete instantiation-based interpolation.	Nishant Totla,Thomas Wies	10.1145/2429069.2429132
+Logical relations for fine-grained concurrency.	Aaron Joseph Turon,Jacob Thamsborg,Amal Ahmed 0001,Lars Birkedal,Derek Dreyer	10.1145/2429069.2429111
+Automating relatively complete verification of higher-order functional programs.	Hiroshi Unno 0001,Tachio Terauchi,Naoki Kobayashi 0001	10.1145/2429069.2429081
+Sub-polyhedral scheduling using (unit-)two-variable-per-inequality polyhedra.	Ramakrishna Upadrasta,Albert Cohen 0001	10.1145/2429069.2429127
+HALO: haskell to logic through denotational semantics.	Dimitrios Vytiniotis,Simon L. Peyton Jones,Koen Claessen,Dan Rosén	10.1145/2429069.2429121
+The 40th Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL &apos;13, Rome, Italy - January 23 - 25, 2013	Roberto Giacobazzi,Radhia Cousot	10.1145/2429069

@@ -1,0 +1,25 @@
+(Big)data in a virtualized world: volume, velocity, and variety in cloud datacenters.	Robert Birke,Mathias Björkqvist,Lydia Y. Chen,Evgenia Smirni,Ton Engbersen	
+Parity logging with reserved space: towards efficient updates and recovery in erasure-coded clustered storage.	Jeremy C. W. Chan,Qian Ding,Patrick P. C. Lee,Helen H. W. Chan	
+Strata: scalable high-performance storage on virtualized non-volatile memory.	Brendan Cully,Jake Wires,Dutch T. Meyer,Kevin Jamieson 0002,Keir Fraser,Tim Deegan,Daniel Stodden,Geoffrey Lefebvre,Daniel Ferstay,Andrew Warfield	
+Checking the integrity of transactional mechanisms.	Daniel Fryer,Dai Qin,Jack Sun,Kah Wai Lee,Angela Demke Brown,Ashvin Goel	
+Analysis of HDFS under HBase: a facebook messages case study.	Tyler Harter,Dhruba Borthakur,Siying Dong,Amitanand S. Aiyer,Liyin Tang,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Lifetime improvement of NAND flash-based storage systems using dynamic program and erase scaling.	Jaeyong Jeong,Sangwook Shane Hahn,Sungjin Lee 0001,Jihong Kim 0001	
+Wear unleveling: improving NAND flash lifetime by balancing page endurance.	Xavier Jimenez,David Novo,Paolo Ienne	
+From research to practice: experiences engineering a production metadata database for a scale out file system.	Charles Johnson,Kimberly Keeton,Charles B. Morrey III,Craig A. N. Soules,Alistair C. Veitch,Stephen Bacon,Oskar Batuner,Marcelo Condotta,Hamilton Coutinho,Patrick J. Doyle,Rafael Eichelberger,Hugo Kiehl,Guilherme R. Magalhaes,James McEvoy,Padmanabhan Nagarajan,Patrick Osborne,Joaquim Souza,Andy Sparkes,Mike Spitzer,Sébastien Tandel,Lincoln Thomas,Sebastian Zangaro	
+MultiLanes: providing virtualized storage for OS-level virtualization on many cores.	Junbin Kang,Benlong Zhang,Tianyu Wo,Chunming Hu,Jinpeng Huai	
+Resolving journaling of journal anomaly in android I/O: multi-version B-tree with lazy split.	Wook-Hee Kim,Beomseok Nam,Dongil Park,Youjip Won	
+Evaluating phase change memory for enterprise storage systems: a study of caching and tiering approaches.	Hyojun Kim,Sangeetha Seshadri,Clement L. Dickey,Lawrence Chiu	
+On the energy overhead of mobile storage systems.	Jing Li 0021,Anirudh Badam,Ranveer Chandra,Steven Swanson,Bruce L. Worthington,Qi Zhang 0012	
+STAIR codes: a general family of erasure codes for tolerating device and sector failures in practical storage systems.	Mingqiang Li,Patrick P. C. Lee	
+Migratory compression: coarse-grained data reordering to improve compressibility.	Xing Lin,Guanlin Lu,Fred Douglis,Philip Shilane,Grant Wallace	
+Automatic identification of application I/O signatures from noisy server-side traces.	Yang Liu 0129,Raghul Gunasekaran,Xiaosong Ma,Sudharshan S. Vazhkudai	
+ReconFS: a reconstructable file system on flash storage.	Youyou Lu,Jiwu Shu,Wei Wang	
+Toward strong, usable access control for shared distributed data.	Michelle L. Mazurek,Yuan Liang,William Melicher,Manya Sleeper,Lujo Bauer,Gregory R. Ganger,Nitin Gupta 0001,Michael K. Reiter	
+CRAID: online RAID upgrades using dynamic hot data reorganization.	Alberto Miranda,Toni Cortes	
+Log-structured memory for DRAM-based storage.	Stephen M. Rumble,Ankita Kejriwal,John K. Ousterhout	
+Journaling of journal is (almost) free.	Kai Shen,Stan Park,Meng Zhu	
+DC express: shortest latency protocol for reading phase change memory over PCI express.	Dejan Vucinic,Qingbo Wang,Cyril Guyot,Robert Mateescu,Filip Blagojevic,Luiz Franca-Neto,Damien Le Moal,Trevor Bunker,Jian Xu 0012,Steven Swanson,Zvonimir Bandic	
+Balancing fairness and efficiency in tiered storage systems with bottleneck-aware allocation.	Hui Wang 0014,Peter J. Varman	
+SpringFS: bridging agility and performance in elastic distributed storage.	Lianghong Xu,James Cipar,Elie Krevat,Alexey Tumanov,Nitin Gupta 0001,Michael A. Kozuch,Gregory R. Ganger	
+ViewBox: integrating local file systems with cloud storage services.	Yupu Zhang,Chris Dragga,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Proceedings of the 12th USENIX conference on File and Storage Technologies, FAST 2014, Santa Clara, CA, USA, February 17-20, 2014	Bianca Schroeder,Eno Thereska	

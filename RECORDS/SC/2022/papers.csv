@@ -1,0 +1,88 @@
+Addressing Irregular Patterns of Matrix Computations on GPUs and Their Impact on Applications Powered by Sparse Direct Solvers.	Ahmad Abdelfattah,Pieter Ghysels,Wajih Boukaram,Stanimire Tomov,Xiaoye Sherry Li,Jack J. Dongarra	10.1109/SC41404.2022.00031
+DeepSpeed- Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale.	Reza Yazdani Aminabadi,Samyam Rajbhandari,Ammar Ahmad Awan,Cheng Li 0001,Du Li,Elton Zheng,Olatunji Ruwase,Shaden Smith,Minjia Zhang,Jeff Rasley,Yuxiong He	10.1109/SC41404.2022.00051
+Canary: Fault-Tolerant FaaS for Stateful Time-Sensitive Applications.	Moiz Arif,Kevin Assogba,M. Mustafa Rafique	10.1109/SC41404.2022.00046
+Scaling Correlated Fragment Molecular Orbital Calculations on Summit.	Giuseppe M. J. Barca,Calum Snowdon,Jorge L. Galvez Vallejo,Fazeleh Kazemian,Alistair P. Rendell,Mark S. Gordon	10.1109/SC41404.2022.00012
+P-Massive: A Real-Time Search Engine for a Multi-Terabyte Mass Spectrometry Database.	Narangerelt Batsoyol,Benjamin S. Pullman,Mingxun Wang 0001,Nuno Bandeira,Steven Swanson	10.1109/SC41404.2022.00014
+Symmetric Block-Cyclic Distribution: Fewer Communications Leads to Faster Dense Cholesky Factorization.	Olivier Beaumont,Philippe Duchon,Lionel Eyraud-Dubois,Julien Langou,Mathieu Vérité	10.1109/SC41404.2022.00034
+Productive Performance Engineering for Weather and Climate Modeling with Python.	Tal Ben-Nun,Linus Groner,Florian Deconinck,Tobias Wicky,Eddie Davis,Johann Dahm,Oliver Elbert,Rhea George,Jeremy McGibbon,Lukas Trümper,Elynn Wu,Oliver Fuhrer,Thomas C. Schulthess,Torsten Hoefler	10.1109/SC41404.2022.00078
+ProbGraph: High-Performance and High-Accuracy Graph Mining with Probabilistic Set Representations.	Maciej Besta,Cesare Miglioli,Paolo Sylos Labini,Jakub Tetek,Patrick Iff,Raghavendra Kanakagiri,Saleh Ashkboos,Kacper Janda,Michal Podstawski,Grzegorz Kwasniewski,Niels Gleinig,Flavio Vella,Onur Mutlu,Torsten Hoefler	10.1109/SC41404.2022.00048
+Out of Hypervisor (OoH): Efficient Dirty Page Tracking in Userspace Using Hardware Virtualization Features.	Stella Bitchebe,Alain Tchana	10.1109/SC41404.2022.00092
+TD-NUCA: Runtime Driven Management of NUCA Caches in Task Dataflow Programming Models.	Paul Caheny,Lluc Alvarez,Marc Casas,Miquel Moretó	10.1109/SC41404.2022.00085
+Reshaping Geostatistical Modeling and Prediction for Extreme-Scale Environmental Applications.	Qinglei Cao,Sameh Abdulah,Rabab Alomairy,Yu Pei,Pratik Nag,George Bosilca,Jack J. Dongarra,Marc G. Genton,David E. Keyes,Hatem Ltaief,Ying Sun 0002	10.1109/SC41404.2022.00007
+Scalable Irregular Parallelism with GPUs: Getting CPUs Out of the Way.	Yuxin Chen,Benjamin Brock,Serban D. Porumbescu,Aydin Buluç,Katherine A. Yelick,John D. Owens	10.1109/SC41404.2022.00055
+GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow.	Dan Chen,Chuangyi Gui,Yi Zhang,Hai Jin 0001,Long Zheng 0003,Yu Huang 0013,Xiaofei Liao	10.1109/SC41404.2022.00050
+Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations.	Chao Chen,Per-Gunnar Martinsson	10.1109/SC41404.2022.00089
+SeqDLM: A Sequencer-Based Distributed Lock Manager for Efficient Shared File Access in a Parallel File System.	Qi Chen,Shaonan Ma,Kang Chen,Teng Ma,Xin Liu,Dexun Chen,Yongwei Wu,Zuoning Chen	10.1109/SC41404.2022.00060
+Vectorizing Sparse Matrix Computations with Partially-Strided Codelets.	Kazem Cheshmi,Zachary Cetinic,Maryam Mehri Dehnavi	10.1109/SC41404.2022.00037
+Towards Scalable Resource Management for Supercomputers.	Yiqin Dai,Yong Dong,Kai Lu,Ruibo Wang,Wei Zhang,Juan Chen 0001,Mingtian Shao,Zheng Wang	10.1109/SC41404.2022.00029
+AlphaSparse: Generating High Performance SpMV Codes Directly from Sparse Matrices.	Zhen Du,Jiajia Li 0001,Yinshan Wang,Xueqi Li,Guangming Tan,Ninghui Sun	10.1109/SC41404.2022.00071
+Pushing the Frontier in the Design of Laser-Based Electron Accelerators with Groundbreaking Mesh-Refined Particle-In-Cell Simulations on Exascale-Class Supercomputers.	Luca Fedeli,Axel Huebl,France Boillod-Cerneux,Thomas Clark,Kevin Gott,Conrad Hillairet,Stephan Jaure,Adrien Leblanc,Rémi Lehe,Andrew Myers 0001,Christelle Piechurski,Mitsuhisa Sato,Neïl Zaïm,Weiqun Zhang,Jean-Luc Vay,Henri Vincenti	10.1109/SC41404.2022.00008
+Accelerating Elliptic Curve Digital Signature Algorithms on GPUs.	Zonghao Feng,Qipeng Xie,Qiong Luo 0001,Yujie Chen,Haoxuan Li,Huizhong Li,Qiang Yan 0001	10.1109/SC41404.2022.00032
+A GPU-Accelerated AMR Solver for Gravitational Wave Propagation.	Milinda Fernando,David Neilsen,Eric W. Hirschmann,Yosef Zlochower,Hari Sundar,Omar Ghattas,George Biros	10.1109/SC41404.2022.00080
+SFS: Smart OS Scheduling for Serverless Functions.	Yuqi Fu,Li Liu 0045,Haoliang Wang,Yue Cheng 0001,Songqing Chen	10.1109/SC41404.2022.00047
+QoS-Aware Irregular Collaborative Inference for Improving Throughput of DNN Services.	Kaihua Fu,Jiuchen Shi,Quan Chen 0002,Ningxin Zheng,Wei Zhang 0149,Deze Zeng,Minyi Guo	10.1109/SC41404.2022.00074
+Using Answer Set Programming for HPC Dependency Solving.	Todd Gamblin,Massimiliano Culpo,Gregory Becker,Sergei Shudler	10.1109/SC41404.2022.00040
+Building Blocks for Network-Accelerated Distributed File Systems.	Salvatore Di Girolamo,Daniele De Sensi,Konstantin Taranov,Milos Malesevic,Maciej Besta,Timo Schneider,Severin Kistler,Torsten Hoefler	10.1109/SC41404.2022.00015
+HGL: Accelerating Heterogeneous GNN Training with Holistic Representation and Optimization.	Yuntao Gui,Yidi Wu,Han Yang 0002,Tatiana Jin,Boyang Li 0016,Qihui Zhou,James Cheng,Fan Yu	10.1109/SC41404.2022.00077
+HammingMesh: A Network Topology for Large-Scale Deep Learning.	Torsten Hoefler,Tommaso Bonato,Daniele De Sensi,Salvatore Di Girolamo,Shigang Li 0002,Marco Heddes,Jon Belk,Deepak Goel,Miguel Castro 0001,Steve Scott	10.1109/SC41404.2022.00016
+2.5 Million-Atom Ab Initio Electronic-Structure Simulation of Complex Metallic Heterostructures with DGDFT.	Wei Hu,Hong An,Zhuoqiang Guo,Qingcai Jiang,Xinming Qin,Junshi Chen,Weile Jia,Chao Yang,Zhaolong Luo,Jielan Li,Wentiao Wu,Guangming Tan,Dongning Jia,Qinglin Lu,Fangfang Liu,Min Tian,Fang Li,Yeqi Huang,Liyi Wang,Sha Liu,Jinlong Yang	10.1109/SC41404.2022.00010
+CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication.	Hua Huang,Edmond Chow	10.1109/SC41404.2022.00033
+Mitigating Silent Data Corruptions in HPC Applications across Multiple Program Inputs.	Yafan Huang,Shengjian Guo,Sheng Di,Guanpeng Li,Franck Cappello	10.1109/SC41404.2022.00022
+Extreme Scale Earthquake Simulation with Uncertainty Quantification.	Tsuyoshi Ichimura,Kohei Fujita,Ryota Kusakabe,Kentaro Koyama,Sota Murakami,Yuma Kikuchi,Takane Hori,Muneo Hori,Hikaru Inoue,Takafumi Nose,Takahiro Kawashima,Maddegedara Lalith	10.1109/SC41404.2022.00009
+A Taxonomy of Error Sources in HPC I/O Machine Learning Models.	Mihailo Isakov,Mikaela Currier,Eliakin Del Rosario,Sandeep Madireddy,Prasanna Balaprakash,Philip H. Carns,Robert B. Ross,Glenn K. Lockwood,Michel A. Kinsy	10.1109/SC41404.2022.00021
+Scalable Distributed High-Order Stencil Computations.	Mathias Jacquelin,Mauricio Araya-Polo,Jie Meng	10.1109/SC41404.2022.00035
+vGraph: Memory-Efficient Multicore Graph Processing for Traversal-Centric Algorithms.	Menghan Jia,Yiming Zhang 0003,Xinbiao Gan,Dongsheng Li 0001,Erci Xu,Ruibo Wang,Kai Lu	10.1109/SC41404.2022.00068
+VSGM: View-Based GPU-Accelerated Subgraph Matching on Large Graphs.	Guanxian Jiang,Qihui Zhou,Tatiana Jin,Boyang Li 0016,Yunjian Zhao,Yichao Li,James Cheng	10.1109/SC41404.2022.00057
+Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5.	Sian Jin,Dingwen Tao,Houjun Tang,Sheng Di,Suren Byna,Zarija Lukic,Franck Cappello	10.1109/SC41404.2022.00066
+Study of Workload Interference with Intelligent Routing on Dragonfly.	Yao Kang,Xin Wang 0115,Zhiling Lan	10.1109/SC41404.2022.00025
+Exaflops Biomedical Knowledge Graph Analytics.	Ramakrishnan Kannan,Piyush Sao,Hao Lu,Jakub Kurzak,Gundolf Schenk,Yongmei Shi,Seung-Hwan Lim,Sharat Israni,Vijay Thakkar,Guojing Cong,Robert M. Patton,Sergio E. Baranzini,Richard W. Vuduc,Thomas E. Potok	10.1109/SC41404.2022.00011
+Blaze: Fast Graph Processing on Fast SSDs.	Juno Kim,Steven Swanson	10.1109/SC41404.2022.00049
+Finding Inputs that Trigger Floating-Point Exceptions in GPUs via Bayesian Optimization.	Ignacio Laguna,Ganesh Gopalakrishnan	10.1109/SC41404.2022.00038
+PolarFly: A Cost-Effective and Flexible Low-Diameter Topology.	Kartik Lakhotia,Maciej Besta,Laura Monroe,Kelly Isham,Patrick Iff,Torsten Hoefler,Fabrizio Petrini	10.1109/SC41404.2022.00017
+Parla: A Python Orchestration System for Heterogeneous Architectures.	Hochan Lee,William Ruys,Ian Henriksen,Arthur Peters,Yineng Yan,Sean Stephens,Bozhi You,Henrique Fingler,Martin Burtscher,Milos Gligoric 0001,Karl Schulz,Keshav Pingali,Christopher J. Rossbach,Mattan Erez,George Biros	10.1109/SC41404.2022.00056
+Predicting Reuse Interval for Optimized Web Caching: An LSTM-Based Machine Learning Approach.	Pengcheng Li,Yixin Guo,Yongbin Gu	10.1109/SC41404.2022.00091
+Graph Neural Networks Based Memory Inefficiency Detection Using Selective Sampling.	Pengcheng Li 0001,Yixin Guo,Yingwei Luo,Xiaolin Wang 0001,Zhenlin Wang,Xu Liu 0001	10.1109/SC41404.2022.00090
+Efficient Quantized Sparse Matrix Operations on Tensor Cores.	Shigang Li 0002,Kazuki Osawa,Torsten Hoefler	10.1109/SC41404.2022.00042
+From Correctable Memory Errors to Uncorrectable Memory Errors: What Error Bits Tell.	Cong Li,Yu Zhang,Jialei Wang,Hang Chen,Xian Liu,Tai Huang,Liang Peng,Shen Zhou,Lixin Wang,Shijian Ge	10.1109/SC41404.2022.00081
+Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets.	Jinyang Liu,Sheng Di,Kai Zhao 0008,Xin Liang 0001,Zizhong Chen,Franck Cappello	10.1109/SC41404.2022.00067
+LabStor: A Modular and Extensible Platform for Developing High-Performance, Customized I/O Stacks in Userspace.	Luke Logan,Jaime Cernuda Garcia,Jay F. Lofstead,Xian-He Sun,Anthony Kougkas	10.1109/SC41404.2022.00028
+Climbing the Summit and Pushing the Frontier of Mixed Precision Benchmarks at Extreme Scale.	Hao Lu,Michael A. Matheson,Vladyslav Oles,J. Austin Ellis,Wayne Joubert,Feiyi Wang	10.1109/SC41404.2022.00083
+Scalable Linear Time Dense Direct Solver for 3-D Problems without Trailing Sub-Matrix Dependencies.	Qianxiang Ma,Sameer Deshmukh,Rio Yokota	10.1109/SC41404.2022.00088
+GUFI: Fast, Secure File System Metadata Search for Both Privileged and Unprivileged Users.	Dominic Manno,Jason Lee,Prajwal Challa,Qing Zheng,David Bonnie,Gary Grider,Bradley W. Settlemyer	10.1109/SC41404.2022.00062
+Optimization of Full-Core Reactor Simulations on Summit.	Misun Min,Yu-Hsiang Lan,Paul F. Fischer,Elia Merzari,Stefan Kerkemeier,Malachi Phillips,Thilina Rathnayake,April Novak,Derek Gaston,Noel Chalmers,Tim Warburton	10.1109/SC41404.2022.00079
+Scalable Automatic Differentiation of Multiple Parallel Paradigms through Compiler Augmentation.	William S. Moses,Sri Hari Krishna Narayanan,Ludger Paehler,Valentin Churavy,Michel Schanen,Jan Hückelheim,Johannes Doerfert,Paul D. Hovland	10.1109/SC41404.2022.00065
+HyLo: A Hybrid Low-Rank Natural Gradient Descent Method.	Baorun Mu,Saeed Soori,Bugra Can,Mert Gürbüzbalaban,Maryam Mehri Dehnavi	10.1109/SC41404.2022.00052
+Memory Optimizations in an Array Language.	Philip Munksgaard,Troels Henriksen,Ponnuswamy Sadayappan,Cosmin E. Oancea	10.1109/SC41404.2022.00036
+Scalable Deep Learning-Based Microarchitecture Simulation on GPUs.	Santosh Pandey,Lingda Li,Thomas Flynn 0001,Adolfy Hoisie,Hang Liu 0001	10.1109/SC41404.2022.00084
+Approximate Computing Through the Lens of Uncertainty Quantification.	Konstantinos Parasyris,James Diffenderfer,Harshitha Menon,Ignacio Laguna,Jackson Vanover,Ryan Vogt,Daniel Osei-Kuffuor	10.1109/SC41404.2022.00072
+Charter: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility.	Tirthak Patel,Daniel Silver,Devesh Tiwari	10.1109/SC41404.2022.00020
+Positive-Phase Temperature Scaling for Quantum-Assisted Boltzmann Machine Training.	Jose P. Pinilla,Steven J. E. Wilton	10.1109/SC41404.2022.00073
+Using Unused: Non-Invasive Dynamic FaaS Infrastructure with HPC-Whisk.	Bartlomiej Przybylski,Maciej Pawlik,Pawel Zuk,Bartlomiej Lagosz,Maciej Malawski,Krzysztof Rzadca	10.1109/SC41404.2022.00045
+MetaWBC: POSIX-Compliant Metadata Write-Back Caching for Distributed File Systems.	Yingjin Qian,Wen Cheng,Lingfang Zeng,Marc-André Vef,Oleg Drokin,Andreas Dilger,Shuichi Ihara,Wusheng Zhang,Yang Wang 0006,André Brinkmann	10.1109/SC41404.2022.00061
+SERVIZ: A Shared In Situ Visualization Service.	Srinivasan Ramesh,Hank Childs,Allen D. Malony	10.1109/SC41404.2022.00026
+DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts.	Rohan Basu Roy,Tirthak Patel,Devesh Tiwari	10.1109/SC41404.2022.00027
+Boosting Performance Optimization with Interactive Data Movement Visualization.	Philipp Schaad,Tal Ben-Nun,Torsten Hoefler	10.1109/SC41404.2022.00069
+AD for an Array Language with Nested Parallelism.	Robert Schenck,Ola Rønning,Troels Henriksen,Cosmin E. Oancea	10.1109/SC41404.2022.00063
+Extreme-Scale Many-against-Many Protein Similarity Search.	Oguz Selvitopi,Saliya Ekanayake,Giulia Guidi,Muaaz G. Awan,Georgios A. Pavlopoulos,Ariful Azad,Nikos Kyrpides,Leonid Oliker,Katherine A. Yelick,Aydin Buluç	10.1109/SC41404.2022.00006
+Large-Scale Simulation of Quantum Computational Chemistry on a New Sunway Supercomputer.	Honghui Shang,Li Shen 0001,Yi Fan,Zhiqian Xu 0005,Chu Guo,Jie Liu,Wenhao Zhou,Huan Ma,Rongfen Lin,Yuling Yang,Fang Li,Zhuoya Wang,Yunquan Zhang,Zhenyu Li	10.1109/SC41404.2022.00019
+Not All GPUs Are Created Equal: Characterizing Variability in Large-Scale, Accelerator-Rich Systems.	Prasoon Sinha,Akhil Guliani,Rutwik Jain,Brandon Tran,Matthew D. Sinclair,Shivaram Venkataraman	10.1109/SC41404.2022.00070
+CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs.	Qingxiao Sun,Yi Liu 0013,Hailong Yang,Ruizhe Zhang 0012,Ming Dun,Mingzhen Li,Xiaoyan Liu,Wencong Xiao,Yong Li,Zhongzhi Luan,Depei Qian	10.1109/SC41404.2022.00044
+STRONGHOLD: Fast and Affordable Billion-Scale Deep Learning Model Training.	Xiaoyang Sun,Wei Wang 0225,Shenghao Qiu,Renyu Yang,Songfang Huang,Jie Xu 0007,Zheng Wang 0001	10.1109/SC41404.2022.00076
+Scaling Graph 500 SSSP to 140 Trillion Edges with over 40 Million Cores.	Yuanwei Wang,Huanqi Cao,Zixuan Ma,Wanwang Yin,Wenguang Chen	10.1109/SC41404.2022.00024
+Image Gradient Decomposition for Parallel and Memory-Efficient Ptychographic Reconstruction.	Xiao Wang,Aristeidis Tsaris,Debangshu Mukherjee,Mohamed Wahib,Peng Chen,Mark Oxley,Olga Ovchinnikova,Jacob D. Hinkle	10.1109/SC41404.2022.00013
+EL-Rec: Efficient Large-Scale Recommendation Model Training via Tensor-Train Embedding Table.	Zheng Wang,Yuke Wang,Boyuan Feng,Dheevatsa Mudigere,Bharath Muthiah,Yufei Ding	10.1109/SC41404.2022.00075
+LightSeq2: Accelerated Training for Transformer-Based Models on GPUs.	Xiaohui Wang,Yang Wei,Ying Xiong,Guyue Huang,Xian Qian,Yufei Ding,Mingxuan Wang,Lei Li 0005	10.1109/SC41404.2022.00043
+STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimizations.	Yihua Wei,Peng Jiang 0004	10.1109/SC41404.2022.00058
+Combining Hard and Soft Constraints in Quantum Constraint-Satisfaction Systems.	Ellis Wilson,Frank Mueller 0001,Scott Pakin	10.1109/SC41404.2022.00018
+W-Cycle SVD: A Multilevel Algorithm for Batched SVD on GPUs.	Junmin Xiao,Yunfei Pang,Qing Xue,Chaoyang Shui,Ke Meng,Hui Ma,Mingyi Li,Xiaoyang Zhang,Guangming Tan	10.1109/SC41404.2022.00087
+SpDISTAL: Compiling Distributed Sparse Tensor Computations.	Rohan Yadav,Alex Aiken,Fredrik Kjolstad	10.1109/SC41404.2022.00064
+WholeGraph: A Fast Graph Neural Network Training Framework with Multi-GPU Distributed Shared Memory Architecture.	Dongxu Yang,Junhong Liu,Jiaxing Qi,Junjie Lai	10.1109/SC41404.2022.00059
+SPATL: Salient Parameter Aggregation and Transfer Learning for Heterogeneous Federated Learning.	Sixing Yu,Phuong Nguyen,Waqwoya Abebe,Wei Qian,Ali Anwar 0001,Ali Jannesari	10.1109/SC41404.2022.00041
+Mapping Out the HPC Dependency Chaos.	Farid Zakaria,Thomas R. W. Scogland,Todd Gamblin,Carlos Maltzahn	10.1109/SC41404.2022.00039
+Lessons Learned on MPI+Threads Communication.	Rohit Zambre,Aparna Chandramowlishwaran	10.1109/SC41404.2022.00082
+Optimizing Random Access to Hierarchically-Compressed Data on GPU.	Feng Zhang 0007,Yihua Hu,Haipeng Ding,Zhiming Yao,Zhewei Wei,Xiao Zhang,Xiaoyong Du 0001	10.1109/SC41404.2022.00023
+ReSemble: Reinforced Ensemble Framework for Data Prefetching.	Pengmiao Zhang,Rajgopal Kannan,Ajitesh Srivastava,Anant V. Nori,Viktor K. Prasanna	10.1109/SC41404.2022.00086
+UniQ: A Unified Programming Model for Efficient Quantum Circuit Simulation.	Chen Zhang,Haojie Wang,Zixuan Ma,Lei Xie,Zeyu Song,Jidong Zhai	10.1109/SC41404.2022.00054
+AI for Quantum Mechanics: High Performance Quantum Many-Body Simulations via Deep Learning.	Xuncheng Zhao,Mingfan Li,Qian Xiao,Junshi Chen,Fei Wang,Li Shen,Meijia Zhao,Wenhao Wu,Hong An,Lixin He,Xiao Liang	10.1109/SC41404.2022.00053
+Deinsum: Practically I/O Optimal Multi-Linear Algebra.	Alexandros Nikolaos Ziogas,Grzegorz Kwasniewski,Tal Ben-Nun,Timo Schneider,Torsten Hoefler	10.1109/SC41404.2022.00030
+SC22: International Conference for High Performance Computing, Networking, Storage and Analysis, Dallas, TX, USA, November 13-18, 2022	Felix Wolf 0001,Sameer Shende,Candace Culhane,Sadaf R. Alam,Heike Jagode	10.1109/SC41404.2022

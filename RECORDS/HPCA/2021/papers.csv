@@ -1,0 +1,70 @@
+EXMA: A Genomics Accelerator for Exact-Matching.	Lei Jiang 0001,Farzaneh Zokaee	10.1109/HPCA51647.2021.00041
+GSSA: A Resource Allocation Scheme Customized for 3D NAND SSDs.	Chun-Yi Liu 0002,Yunju Lee,Wonil Choi,Myoungsoo Jung,Mahmut Taylan Kandemir,Chita R. Das	10.1109/HPCA51647.2021.00043
+SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning.	Hanrui Wang 0002,Zhekai Zhang,Song Han 0003	10.1109/HPCA51647.2021.00018
+Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures.	Hao Zheng 0005,Ke Wang 0030,Ahmed Louri	10.1109/HPCA51647.2021.00066
+DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing.	Yu Zhang 0027,Xiaofei Liao,Hai Jin 0001,Ligang He,Bingsheng He,Haikun Liu,Lin Gu 0002	10.1109/HPCA51647.2021.00039
+Understanding Training Efficiency of Deep Learning Recommendation Models at Scale.	Bilge Acun,Matthew Murphy,Xiaodong Wang 0020,Jade Nie,Carole-Jean Wu,Kim M. Hazelwood	10.1109/HPCA51647.2021.00072
+BRIM: Bistable Resistively-Coupled Ising Machine.	Richard Afoakwa,Yiqiao Zhang,Uday Kumar Reddy Vengalam,Zeljko Ignjatovic,Michael C. Huang 0001	10.1109/HPCA51647.2021.00068
+Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery.	Jaeguk Ahn,Cheolgyu Jin,Jiho Kim,Minsoo Rhu,Yunsi Fei,David R. Kaeli,John Kim	10.1109/HPCA51647.2021.00036
+ParaDox: Eliminating Voltage Margins via Heterogeneous Fault Tolerance.	Sam Ainsworth 0001,Lionel Zoubritzky,Alan Mycroft,Timothy M. Jones 0001	10.1109/HPCA51647.2021.00051
+Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems.	Mazen Al-Wadi,Vamsee Reddy Kommareddy,Clayton Hughes,Simon David Hammond,Amro Awad	10.1109/HPCA51647.2021.00022
+BBB: Simplifying Persistent Programming using Battery-Backed Buffers.	Mohammad A. Alshboul,Prakash Ramrakhyani,William Wang,James Tuck,Yan Solihin	10.1109/HPCA51647.2021.00019
+FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction.	Bahar Asgari,Ramyad Hadidi,Jiashen Cao,Da Eun Shim,Sung Kyu Lim,Hyesoon Kim	10.1109/HPCA51647.2021.00080
+P-OPT: Practical Optimal Cache Replacement for Graph Analytics.	Vignesh Balaji,Neal Clayton Crago,Aamer Jaleel,Brandon Lucia	10.1109/HPCA51647.2021.00062
+Automatic Microprocessor Performance Bug Detection.	Erick Carvajal Barboza,Sara Jacob,Mahesh Ketkar,Michael Kishinevsky,Paul Gratz,Jiang Hu	10.1109/HPCA51647.2021.00053
+CAPE: A Content-Addressable Processing Engine.	Helena Caminal,Kailin Yang,Srivatsa Srinivasa,Akshay Krishna Ramanathan,Khalid Al-Hawaj,Tianshu Wu,Vijaykrishnan Narayanan,Christopher Batten,José F. Martínez	10.1109/HPCA51647.2021.00054
+Streamline Ring ORAM Accesses through Spatial and Temporal Optimization.	Dingyuan Cao 0002,Mingzhe Zhang,Hang Lu,Xiaochun Ye,Dongrui Fan,Yuezhi Che,Rujia Wang	10.1109/HPCA51647.2021.00012
+Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework.	Sung-En Chang,Yanyu Li,Mengshu Sun,Runbin Shi,Hayden K. H. So,Xuehai Qian,Yanzhi Wang,Xue Lin	10.1109/HPCA51647.2021.00027
+Zero Directory Eviction Victim: Unbounded Coherence Directory and Core Cache Isolation.	Mainak Chaudhuri	10.1109/HPCA51647.2021.00032
+CARE: Coordinated Augmentation for Elastic Resilience on DRAM Errors in Data Centers.	Jian Chen,Xiaowei Jiang,Ying Zhang,Liyin Liu,Huifeng Xu,Qiang Liu	10.1109/HPCA51647.2021.00052
+Lazy Batching: An SLA-aware Batching System for Cloud Machine Learning Inference.	Yujeong Choi,Yunseong Kim,Minsoo Rhu	10.1109/HPCA51647.2021.00049
+TSOPER: Efficient Coherence-Based Strict Persistency.	Per Ekemark,Yuan Yao 0009,Alberto Ros,Konstantinos Sagonas,Stefanos Kaxiras	10.1109/HPCA51647.2021.00021
+Pitstop: Enabling a Virtual Network Free Network-on-Chip.	Hossein Farrokhbakht,Henry Kao,Kamran Hasan,Paul V. Gratz,Tushar Krishna,Joshua San Miguel,Natalie D. Enright Jerger	10.1109/HPCA51647.2021.00063
+Faster Schrödinger-style simulation of quantum circuits.	Aneeqa Fatima,Igor L. Markov	10.1109/HPCA51647.2021.00026
+An Analog Preconditioner for Solving Linear Systems.	Ben Feinberg,Ryan Wong 0001,T. Patrick Xiao,Christopher H. Bennett,Jacob N. Rohan,Erik G. Boman,Matthew J. Marinella,Sapan Agarwal,Engin Ipek	10.1109/HPCA51647.2021.00069
+WiDir: A Wireless-Enabled Directory Cache Coherence Protocol.	Antonio Franques,Apostolos Kokolis,Sergi Abadal,Vimuth Fernando,Sasa Misailovic,Josep Torrellas	10.1109/HPCA51647.2021.00034
+Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines Industry Track Paper.	Yiming Gan,Bo Yu,Boyuan Tian,Leimeng Xu,Wei Hu,Shaoshan Liu,Qiang Liu 0011,Yanjun Zhang,Jie Tang 0003,Yuhao Zhu 0001	10.1109/HPCA51647.2021.00074
+SynCron: Efficient Synchronization Support for Near-Data-Processing Architectures.	Christina Giannoula,Nandita Vijaykumar,Nikela Papadopoulou,Vasileios Karakostas,Ivan Fernandez,Juan Gómez-Luna,Lois Orosa 0001,Nectarios Koziris,Georgios I. Goumas,Onur Mutlu	10.1109/HPCA51647.2021.00031
+Chasing Carbon: The Elusive Environmental Footprint of Computing.	Udit Gupta,Young Geun Kim,Sylvia Lee,Jordan Tse,Hsien-Hsin S. Lee,Gu-Yeon Wei,David Brooks 0001,Carole-Jean Wu	10.1109/HPCA51647.2021.00076
+New Models for Understanding and Reasoning about Speculative Execution Attacks.	Zecheng He,Guangyuan Hu,Ruby B. Lee	10.1109/HPCA51647.2021.00014
+SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs.	Reza Hojabr,Ali Sedaghati,Amirali Sharifian,Ahmad Khonsari,Arrvindh Shriraman	10.1109/HPCA51647.2021.00017
+A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories.	Jianming Huang 0001,Yu Hua 0001	10.1109/HPCA51647.2021.00038
+Analyzing and Leveraging Decoupled L1 Caches in GPUs.	Mohamed Assem Ibrahim,Onur Kayiran,Yasuko Eckert,Gabriel H. Loh,Adwait Jog	10.1109/HPCA51647.2021.00047
+Revisiting HyperDimensional Learning for FPGA and Low-Power Architectures.	Mohsen Imani,Zhuowen Zou,Samuel Bosch,Sanjay Anantha Rao,Sahand Salamat,Venkatesh Kumar,Yeseong Kim,Tajana Rosing	10.1109/HPCA51647.2021.00028
+GradPIM: A Practical Processing-in-DRAM Architecture for Gradient Descent.	Heesu Kim,Hanmin Park,Taehyun Kim,Kwanheum Cho,Eojin Lee,Soojung Ryu,Hyuk-Jae Lee,Kiyoung Choi,Jinho Lee	10.1109/HPCA51647.2021.00030
+A Computational Stack for Cross-Domain Acceleration.	Sean Kinzer,Joon Kyung Kim,Soroush Ghodrati,Brahmendra Reddy Yatham,Alric Althoff,Divya Mahajan 0001,Sorin Lerner,Hadi Esmaeilzadeh	10.1109/HPCA51647.2021.00015
+DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems.	Vamsee Reddy Kommareddy,Clayton Hughes,Simon David Hammond,Amro Awad	10.1109/HPCA51647.2021.00046
+BoomGate: Deadlock Avoidance in Non-Minimal Routing for High-Radix Networks.	Gyuyoung Kwauk,Seungkwan Kang,Hans Kasan,Hyojun Son,John Kim	10.1109/HPCA51647.2021.00064
+Heterogeneous Dataflow Accelerators for Multi-DNN Workloads.	Hyoukjun Kwon,Liangzhen Lai,Michael Pellauer,Tushar Krishna,Yu-Hsin Chen,Vikas Chandra	10.1109/HPCA51647.2021.00016
+Tensor Casting: Co-Designing Algorithm-Architecture for Personalized Recommendation Training.	Youngeun Kwon,Yunjae Lee,Minsoo Rhu	10.1109/HPCA51647.2021.00029
+CSCNN: Algorithm-hardware Co-design for CNN Accelerators using Centrosymmetric Filters.	Jiajun Li,Ahmed Louri,Avinash Karanth,Razvan C. Bunescu	10.1109/HPCA51647.2021.00058
+GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks.	Jiajun Li,Ahmed Louri,Avinash Karanth,Razvan C. Bunescu	10.1109/HPCA51647.2021.00070
+Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper.	Heng Liao,Jiajin Tu,Jing Xia,Hu Liu,Xiping Zhou,Honghui Yuan,Yuxing Hu	10.1109/HPCA51647.2021.00071
+QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment.	Lei Liu 0037,Xinglei Dou	10.1109/HPCA51647.2021.00024
+Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion.	Ji Liu 0007,Huiyang Zhou	10.1109/HPCA51647.2021.00025
+Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together.	Chandrashis Mazumdar,Prachatos Mitra,Arkaprava Basu	10.1109/HPCA51647.2021.00050
+Common Counters: Compressed Encryption Counters for Secure GPU Memory.	Seonjin Na,Sunho Lee,Yeonjae Kim,Jongse Park,Jaehyuk Huh	10.1109/HPCA51647.2021.00011
+Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling.	Young H. Oh,Seonghak Kim,Yunho Jin,Sam Son,Jonghyun Bae,Jongsung Lee 0001,Yeonhong Park,Dong Uk Kim,Tae Jun Ham,Jae W. Lee	10.1109/HPCA51647.2021.00056
+VIA: A Smart Scratchpad for Vector Units with Application to Sparse Matrix Computations.	Julian Pavon,Iván Vargas Valdivieso,Adrián Barredo,Joan Marimon,Miquel Moretó,Francesc Moll,Osman S. Unsal,Mateo Valero,Adrián Cristal	10.1109/HPCA51647.2021.00081
+Memristive Data Ranking.	Ananth Krishna Prasad,Morteza Rezaalipour,Masoud Dehyadegari,Mahdi Nazm Bojnordi	10.1109/HPCA51647.2021.00045
+Improving GPU Multi-tenancy with Page Walk Stealing.	B. Pratheek,Neha Jawalkar,Arkaprava Basu	10.1109/HPCA51647.2021.00059
+Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference.	Brandon Reagen,Wooseok Choi,Yeongil Ko,Vincent T. Lee,Hsien-Hsin S. Lee,Gu-Yeon Wei,David Brooks 0001	10.1109/HPCA51647.2021.00013
+CHOPIN: Scalable Graphics Rendering in Multi-GPU Systems via Parallel Image Composition.	Xiaowei Ren,Mieszko Lis	10.1109/HPCA51647.2021.00065
+Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning.	Jie Ren 0015,Jiaolin Luo,Kai Wu 0006,Minjia Zhang,Hyeran Jeon,Dong Li 0001	10.1109/HPCA51647.2021.00057
+Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures.	Rohan Basu Roy,Tirthak Patel,Raj Kettimuthu,William E. Allcock,Paul Rich,Adam Scovel,Devesh Tiwari	10.1109/HPCA51647.2021.00078
+Designing a Cost-Effective Cache Replacement Policy using Machine Learning.	Subhash Sethumurugan,Jieming Yin,John Sartori	10.1109/HPCA51647.2021.00033
+Heat Behind the Meter: A Hidden Threat of Thermal Attacks in Edge Colocation Data Centers.	Zhihui Shao,Mohammad A. Islam 0001,Shaolei Ren	10.1109/HPCA51647.2021.00035
+Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design.	Nishil Talati,Kyle May,Armand Behroozi,Yichen Yang 0005,Kuba Kaszyk,Christos Vasiladiotis,Tarunesh Verma,Lu Li,Brandon Nguyen,Jiawen Sun,John Magnus Morton,Agreen Ahmadi,Todd M. Austin,Michael F. P. O&apos;Boyle,Scott A. Mahlke,Trevor N. Mudge,Ronald G. Dreslinski	10.1109/HPCA51647.2021.00061
+NeuroMeter: An Integrated Power, Area, and Timing Modeling Framework for Machine Learning Accelerators Industry Track Paper.	Tianqi Tang 0001,Sheng Li 0007,Lifeng Nai,Norman P. Jouppi,Yuan Xie 0001	10.1109/HPCA51647.2021.00075
+Ultra-Elastic CGRAs for Irregular Loop Specialization.	Christopher Torng,Peitian Pan,Yanghui Ou,Cheng Tan 0002,Christopher Batten	10.1109/HPCA51647.2021.00042
+Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator.	Oreste Villa,Daniel Lustig,Zi Yan,Evgeny Bolotin,Yaosheng Fu,Niladrish Chatterjee,Nan Jiang 0009,David W. Nellans	10.1109/HPCA51647.2021.00077
+Stream Floating: Enabling Proactive and Decentralized Cache Optimizations.	Zhengrong Wang,Jian Weng 0002,Jason Lowe-Power,Jayesh Gaur,Tony Nowatzki	10.1109/HPCA51647.2021.00060
+TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture.	Xin-Chuan Wu,Dripto M. Debroy,Yongshan Ding 0001,Jonathan M. Baker,Yuri Alexeev,Kenneth R. Brown,Frederic T. Chong	10.1109/HPCA51647.2021.00023
+SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator.	Xinfeng Xie,Zheng Liang,Peng Gu,Abanti Basak,Lei Deng 0003,Ling Liang,Xing Hu 0001,Yuan Xie 0001	10.1109/HPCA51647.2021.00055
+BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows.	Abdullah Giray Yaglikçi,Minesh Patel,Jeremie S. Kim,Roknoddin Azizi,Ataberk Olgun,Lois Orosa 0001,Hasan Hassan,Jisung Park 0001,Konstantinos Kanellopoulos,Taha Shahroodi,Saugata Ghose,Onur Mutlu	10.1109/HPCA51647.2021.00037
+FuseKNA: Fused Kernel Convolution based Accelerator for Deep Neural Networks.	Jianxun Yang,Zhao Zhang,Zhuangzhi Liu,Jing Zhou,Leibo Liu,Shaojun Wei,Shouyi Yin	10.1109/HPCA51647.2021.00079
+Hardware-Based Address-Centric Acceleration of Key-Value Store.	Chencheng Ye,Yuanchao Xu 0001,Xipeng Shen,Xiaofei Liao,Hai Jin 0001,Yan Solihin	10.1109/HPCA51647.2021.00067
+Deadline-Aware Offloading for High-Throughput Accelerators.	Tsung Tai Yeh,Matthew D. Sinclair,Bradford M. Beckmann,Timothy G. Rogers	10.1109/HPCA51647.2021.00048
+QEI: Query Acceleration Can be Generic and Efficient in the Cloud.	Yifan Yuan,Yipeng Wang 0002,Ren Wang 0001,Rangeen Basu Roy Chowdhury,Charlie Tai,Nam Sung Kim	10.1109/HPCA51647.2021.00040
+LIBRA: Clearing the Cloud Through Dynamic Memory Bandwidth Management.	Ying Zhang 0016,Jian Chen,Xiaowei Jiang,Qiang Liu,Ian M. Steiner,Andrew J. Herdrich,Kevin Shu,Ripan Das,Long Cui,Litrin Jiang	10.1109/HPCA51647.2021.00073
+IEEE International Symposium on High-Performance Computer Architecture, HPCA 2021, Seoul, South Korea, February 27 - March 3, 2021		10.1109/HPCA51647.2021

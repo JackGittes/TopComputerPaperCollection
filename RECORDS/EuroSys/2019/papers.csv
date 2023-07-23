@@ -1,0 +1,46 @@
+Grapple: A Graph System for Static Finite-State Property Checking of Large-Scale Systems Code.	Zhiqiang Zuo 0002,John Thorpe,Yifei Wang,Qiuhong Pan,Shenming Lu,Kai Wang 0029,Guoqing Harry Xu,Linzhang Wang,Xuandong Li	10.1145/3302424.3303972
+Keeping Master Green at Scale.	Sundaram Ananthanarayanan,Masoud Saeida Ardekani,Denis Haenikel,Balaji Varadarajan,Simon Soriano,Dhaval Patel,Ali-Reza Adl-Tabatabai	10.1145/3302424.3303970
+Serving Mobile Apps: A Slice at a Time.	Ketan Bhardwaj,Matt Saunders,Nikita Juneja,Ada Gavrilovska	10.1145/3302424.3303989
+ConfLLVM: A Compiler for Enforcing Data Confidentiality in Low-Level Code.	Ajay Brahmakshatriya,Piyus Kedia,Derrick Paul McKee,Deepak Garg 0001,Akash Lal,Aseem Rastogi,Hamed Nemati,Anmol Panda,Pratik Bhatu	10.1145/3302424.3303952
+Runtime Object Lifetime Profiler for Latency Sensitive Big Data Applications.	Rodrigo Bruno,Duarte Patrício,José Simão,Luís Veiga,Paulo Ferreira 0001	10.1145/3302424.3303988
+When eXtended Para - Virtualization (XPV) Meets NUMA.	Vo Quoc Bao Bui,Djob Mvondo,Boris Teabe,Kevin Jiokeng,Patrick Lavoisier Wapet,Alain Tchana,Gaël Thomas 0001,Daniel Hagimont,Gilles Muller,Noel De Palma	10.1145/3302424.3303960
+Scalable RDMA RPC on Reliable Connection with Efficient Resource Sharing.	Youmin Chen,Youyou Lu,Jiwu Shu	10.1145/3302424.3303968
+Compact NUMA-aware Locks.	Dave Dice,Alex Kogan	10.1145/3302424.3303984
+Make the Most out of Last Level Cache in Intel Processors.	Alireza Farshin,Amir Roozbeh,Gerald Q. Maguire Jr.,Dejan Kostic	10.1145/3302424.3303977
+Time Protection: The Missing OS Abstraction.	Qian Ge 0001,Yuval Yarom,Tom Chothia,Gernot Heiser	10.1145/3302424.3303976
+Per-Application Power Delivery.	Akhil Guliani,Michael M. Swift	10.1145/3302424.3303981
+AnDrone: Virtual Drone Computing in the Cloud.	Alexander Van&apos;t Hof,Jason Nieh	10.1145/3302424.3303969
+GRNN: Low-Latency and Scalable RNN Inference on GPUs.	Connor Holmes,Daniel Mawhirter,Yuxiong He,Feng Yan 0001,Bo Wu 0002	10.1145/3302424.3303949
+I Sent It: Where Does Slow Data Go to Wait?	Youngbin Im,Parisa Rahimzadeh,Brett Shouse,Shinik Park,Carlee Joe-Wong,Kyunghan Lee,Sangtae Ha	10.1145/3302424.3303961
+Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs.	Fuad T. Jamour,Ibrahim Abdelaziz,Yuanzhao Chen,Panos Kalnis	10.1145/3302424.3303962
+Hourglass: Leveraging Transient Resources for Time-Constrained Graph Processing in the Cloud.	Pedro Joaquim,Manuel Bravo,Luís E. T. Rodrigues,Miguel Matos	10.1145/3302424.3303964
+GrandSLAm: Guaranteeing SLAs for Jobs in Microservices Execution Frameworks.	Ram Srivatsa Kannan,Lavanya Subramanian,Ashwin Raju,Jeongseob Ahn,Jason Mars,Lingjia Tang	10.1145/3302424.3303958
+TAS: TCP Acceleration as an OS Service.	Antoine Kaufmann,Tim Stamler,Simon Peter 0001,Naveen Kr. Sharma,Arvind Krishnamurthy,Thomas E. Anderson	10.1145/3302424.3303985
+μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization.	Youngsok Kim,Joonsung Kim,Dongju Chae,Daehyun Kim,Jangwoo Kim	10.1145/3302424.3303950
+ShieldStore: Shielded In-memory Key-value Storage with SGX.	Taehoon Kim 0001,Joongun Park,Jaewook Woo,Seungheun Jeon,Jaehyuk Huh	10.1145/3302424.3303951
+Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks.	Soojeong Kim,Gyeong-In Yu,Hojin Park,Sungwoo Cho,Eunji Jeong,Hyeonmin Ha,Sanha Lee,Joo Seong Jeong,Byung-Gon Chun	10.1145/3302424.3303957
+Why Joanie Can Encrypt: Easy Email Encryption with Easy Key Management.	John S. Koh,Steven M. Bellovin,Jason Nieh	10.1145/3302424.3303980
+URSA: Hybrid Block Storage for Cloud-Scale Virtual Disks.	Huiba Li,Yiming Zhang 0003,Dongsheng Li 0001,Zhiming Zhang,Shengyun Liu,Peng Huang 0005,Zheng Qin 0002,Kai Chen 0005,Yongqiang Xiong	10.1145/3302424.3303967
+Efficient and Safe Network Updates with Suffix Causal Consistency.	Sheng Liu,Theophilus A. Benson,Michael K. Reiter	10.1145/3302424.3303965
+LockDoc: Trace-Based Analysis of Locking in the Linux Kernel.	Alexander Lochmann,Horst Schirmeier,Hendrik Borghorst,Olaf Spinczyk	10.1145/3302424.3303948
+FlyMC: Highly Scalable Testing of Complex Interleavings in Distributed Systems.	Jeffrey F. Lukman,Huan Ke,Cesar A. Stuardo,Riza O. Suminto,Daniar Heri Kurniawan,Dikaimin Simon,Satria Priambada,Chen Tian 0002,Feng Ye,Tanakorn Leesatapornwongsa,Aarti Gupta,Shan Lu 0001,Haryadi S. Gunawi	10.1145/3302424.3303986
+Efficient, Consistent Distributed Computation with Predictive Treaties.	Tom Magrino,Jed Liu,Nate Foster,Johannes Gehrke,Andrew C. Myers	10.1145/3302424.3303987
+GraphBolt: Dependency-Driven Synchronous Processing of Streaming Graphs.	Mugilan Mariappan,Keval Vora	10.1145/3302424.3303974
+SkyBridge: Fast and Secure Inter-Process Communication for Microkernels.	Zeyu Mi,Dingji Li,Zihan Yang,Xinran Wang,Haibo Chen 0001	10.1145/3302424.3303946
+Teaching Rigorous Distributed Systems With Efficient Model Checking.	Ellis Michael,Doug Woos,Thomas E. Anderson,Michael D. Ernst,Zachary Tatlock	10.1145/3302424.3303947
+Managing Tail Latency in Datacenter-Scale File Systems Under Production Constraints.	Pulkit A. Misra,María F. Borge,Iñigo Goiri,Alvin R. Lebeck,Willy Zwaenepoel,Ricardo Bianchini	10.1145/3302424.3303973
+Deferred Runtime Pipelining for contentious multicore software transactions.	Shuai Mu 0001,Sebastian Angel,Dennis E. Shasha	10.1145/3302424.3303966
+CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers.	Jinsu Park,Seongbeom Park,Woongki Baek	10.1145/3302424.3303963
+Multiverse: Compiler-Assisted Management of Dynamic Variability in Low-Level System Software.	Florian Rommel,Christian Dietrich 0001,Michael Rodin,Daniel Lohmann	10.1145/3302424.3303959
+A Lightweight Framework for Fine-Grained Lifecycle Control of Android Applications.	Yuru Shao,Ruowen Wang,Xun Chen,Ahmed M. Azab,Z. Morley Mao	10.1145/3302424.3303956
+Resource Deflation: A New Approach For Transient Resource Reclamation.	Prateek Sharma,Ahmed Ali-Eldin,Prashant J. Shenoy	10.1145/3302424.3303945
+The Case For In-Network Computing On Demand.	Yuta Tokusashi,Huynh Tu Dang,Fernando Pedone,Robert Soulé,Noa Zilberman	10.1145/3302424.3303979
+Conclave: secure multi-party computation on big data.	Nikolaj Volgushev,Malte Schwarzkopf,Ben Getchell,Mayank Varia,Andrei Lapets,Azer Bestavros	10.1145/3302424.3303982
+Supporting Very Large Models using Automatic Dataflow Graph Partitioning.	Minjie Wang,Chien-Chin Huang,Jinyang Li 0001	10.1145/3302424.3303953
+Replayable Execution Optimized for Page Sharing for a Managed Runtime Environment.	Kai-Ting Amy Wang,Rayson Ho,Peng Wu 0001	10.1145/3302424.3303978
+Project Almanac: A Time-Traveling Solid-State Drive.	Xiaohao Wang,Yifan Yuan,You Zhou,Chance C. Coats,Jian Huang 0006	10.1145/3302424.3303983
+Automating Dependence-Aware Parallelization of Machine Learning Training on Distributed Shared Memory.	Jinliang Wei,Garth A. Gibson,Phillip B. Gibbons,Eric P. Xing	10.1145/3302424.3303954
+Wormhole: A Fast Ordered Index for In-memory Data Management.	Xingbo Wu,Fan Ni,Song Jiang 0001	10.1145/3302424.3303955
+VStore: A Data Store for Analytics on Large Videos.	Tiantu Xu,Luis Materon Botelho,Felix Xiaozhu Lin	10.1145/3302424.3303971
+Fast Distributed Deep Learning over RDMA.	Jilong Xue,Youshan Miao,Cheng Chen,Ming Wu 0007,Lintao Zhang,Lidong Zhou	10.1145/3302424.3303975
+Proceedings of the Fourteenth EuroSys Conference 2019, Dresden, Germany, March 25-28, 2019	George Candea,Robbert van Renesse,Christof Fetzer	10.1145/3302424

@@ -1,0 +1,49 @@
+An ownership policy and deadlock detector for promises.	Caleb Voss 0001	10.1145/3437801.3441616
+Simplifying low-level GPU programming with GAS.	Da Yan 0002	10.1145/3437801.3441591
+GPTune: multitask learning for autotuning exascale applications.	Yang Liu 0179	10.1145/3437801.3441621
+Advanced synchronization techniques for task-based runtime systems.	David Álvarez 0006	10.1145/3437801.3441601
+Scaling implicit parallelism via dynamic control replication.	Michael Bauer 0001	10.1145/3437801.3441587
+Synthesizing optimal collective algorithms.	Zixian Cai	10.1145/3437801.3441620
+Corder: cache-aware reordering for optimizing graph analytics.	YuAng Chen	10.1145/3437801.3441606
+Extending MapReduce framework with locality keys.	Yifeng Chen	10.1145/3437801.3441607
+Extracting clean performance models from tainted programs.	Marcin Copik	10.1145/3437801.3441613
+OrcGC: automatic lock-free memory reclamation.	Andreia Correia	10.1145/3437801.3441596
+Verifying C11-style weak memory libraries.	Sadegh Dalvandi	10.1145/3437801.3441619
+FFT blitz: the tensor cores strike back.	Sultan Durrani	10.1145/3437801.3441623
+Asynchrony versus bulk-synchrony for a generalized N-body problem from genomics.	Marquita Ellis	10.1145/3437801.3441580
+DAPPLE: a pipelined data parallel approach for training large models.	Shiqing Fan	10.1145/3437801.3441593
+TurboTransformers: an efficient GPU serving system for transformer models.	Jiarui Fang	10.1145/3437801.3441578
+EGEMM-TC: accelerating scientific computing on tensor cores with extended precision.	Boyuan Feng	10.1145/3437801.3441599
+On group mutual exclusion for dynamic systems.	Shreyas Gokhale	10.1145/3437801.3441608
+Efficiently running SpMV on long vector architectures.	Constantino Gómez	10.1145/3437801.3441592
+Dynamic scaling for low-precision learning.	Ruobing Han	10.1145/3437801.3441624
+Understanding and bridging the gaps in current GNN performance optimizations.	Kezhao Huang	10.1145/3437801.3441585
+A novel memory-efficient deep learning training framework via error-bounded lossy compression.	Sian Jin	10.1145/3437801.3441597
+Compiler support for near data computing.	Mahmut Taylan Kandemir	10.1145/3437801.3441600
+A lock-free relaxed concurrent queue for fast work distribution.	Giorgos Kappes	10.1145/3437801.3441583
+On the parallel I/O optimality of linear algebra kernels: near-optimal LU factorization.	Grzegorz Kwasniewski	10.1145/3437801.3441590
+ShadowVM: accelerating data plane for data analytics with bare metal CPUs and GPUs.	Zhifang Li	10.1145/3437801.3441595
+Understanding a program&apos;s resiliency through error propagation.	Zhimin Li	10.1145/3437801.3441589
+Sparta: high-performance, element-wise sparse tensor contraction on heterogeneous memory.	Jiawen Liu	10.1145/3437801.3441581
+Modernizing parallel code with pattern analysis.	Roberto Castañeda Lozano	10.1145/3437801.3441603
+BiPart: a parallel and deterministic hypergraph partitioner.	Sepideh Maleki	10.1145/3437801.3441611
+Parallel binary code analysis.	Xiaozhu Meng	10.1145/3437801.3441604
+Bundled references: an abstraction for highly-concurrent linearizable range queries.	Jacob Nelson	10.1145/3437801.3441614
+Efficient algorithms for persistent transactional memory.	Pedro Ramalhete	10.1145/3437801.3441586
+ApproxTuner: a compiler and runtime system for adaptive approximations.	Hashim Sharif	10.1145/3437801.3446108
+Lightweight preemptive user-level threads.	Shumpei Shiina	10.1145/3437801.3441610
+In-situ workflow auto-tuning through combining component models.	Tong Shu	10.1145/3437801.3441615
+NBR: neutralization based reclamation.	Ajay Singh	10.1145/3437801.3441625
+Efficiently reclaiming memory in concurrent search data structures while bounding wasted memory.	Daniel Solomon	10.1145/3437801.3441582
+A more pragmatic implementation of the lock-free, ordered, linked list.	Jesper Larsson Träff	10.1145/3437801.3441579
+A fast work-efficient SSSP algorithm for GPUs.	Kai Wang	10.1145/3437801.3441605
+Reasoning about recursive tree traversals.	Yanjun Wang	10.1145/3437801.3441617
+Constant-time snapshots with applications to concurrent data structures.	Yuanhao Wei	10.1145/3437801.3441602
+Are dynamic memory managers on GPUs slow?: a survey and benchmarks.	Martin Winter	10.1145/3437801.3441612
+Exploring deep reuse in winograd CNN inference.	Ruofan Wu	10.1145/3437801.3441588
+DFOGraph: an I/O- and communication-efficient system for distributed fully-out-of-core graph processing.	Jiping Yu	10.1145/3437801.3441622
+Investigating the semantics of futures in transactional memory systems.	Jingna Zeng	10.1145/3437801.3441594
+An efficient uncertain graph processing framework for heterogeneous architectures.	Heng Zhang 0005	10.1145/3437801.3441584
+I/O lower bounds for auto-tuning of convolutions in CNNs.	Xiaoyang Zhang	10.1145/3437801.3441609
+Improving communication by optimizing on-node data movement with data layout.	Tuowen Zhao	10.1145/3437801.3441598
+PPoPP &apos;21: 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Virtual Event, Republic of Korea, February 27- March 3, 2021	Jaejin Lee	10.1145/3437801

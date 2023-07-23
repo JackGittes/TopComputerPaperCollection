@@ -1,0 +1,79 @@
+Energy-aware strategies for reliability-oriented real-time task allocation on heterogeneous platforms.	Li Han 0001,Yiqin Gao,Jing Liu 0012,Yves Robert,Frédéric Vivien	10.1145/3404397.3404419
+Graffix: Efficient Graph Processing with a Tinge of GPU-Specific Approximations.	Somesh Singh 0001,Rupesh Nasre	10.1145/3404397.3404406
+URSA: Precise Capacity Planning and Fair Scheduling based on Low-level Statistics for Public Clouds.	Wei Zhang 0149,Ningxin Zheng,Quan Chen 0002,Yong Yang,Zhuo Song,Tao Ma,Jingwen Leng,Minyi Guo	10.1145/3404397.3404451
+Reducing Latency in Multi-Tenant Data Centers via Cautious Congestion Watch.	Ahmed Mohamed Abdelmoniem,Hengky Susanto,Brahim Bensaou	10.1145/3404397.3404447
+Balancing Graph Processing Workloads Using Work Stealing on Heterogeneous CPU-FPGA Systems.	Matthew Agostini,Francis O&apos;Brien,Tarek S. Abdelrahman	10.1145/3404397.3404433
+GOSH: Embedding Big Graphs on Small Hardware.	Taha Atahan Akyildiz,Amro Alabsi Aljundi,Kamer Kaya	10.1145/3404397.3404456
+A GPU Register File using Static Data Compression.	Alexandra Angerd,Erik Sintorn,Per Stenström	10.1145/3404397.3404431
+OVERSEE: Outsourcing Verification to Enable Resource Sharing in Edge Environment.	Xiaoqing Cai,Jiuchen Shi,Rui Yuan,Chang Liu,Wenli Zheng,Quan Chen 0002,Chao Li 0009,Jingwen Leng,Minyi Guo	10.1145/3404397.3404409
+CARD: A Congestion-Aware Request Dispatching Scheme for Replicated Metadata Server Cluster.	Shangming Cai,Dongsheng Wang 0002,Zhanye Wang,Haixia Wang	10.1145/3404397.3404411
+Mass: Workload-Aware Storage Policy for OpenStack Swift.	Yu Chen,Wei Tong 0001,Dan Feng 0001,Zike Wang	10.1145/3404397.3404427
+Optimizing Flow Bandwidth Consumption with Traffic-diminishing Middlebox Placement.	Yang Chen 0023,Jie Wu 0001,Bo Ji 0001	10.1145/3404397.3404458
+ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs.	Zheng Chen,Feng Zhang 0007,Amelie Chi Zhou,Jidong Zhai,Chenyang Zhang,Xiaoyong Du 0001	10.1145/3404397.3404399
+OPS: Optimized Shuffle Management System for Apache Spark.	Yuchen Cheng,Chunghsuan Wu,Yanqiang Liu,Rui Ren,Hong Xu 0001,Bin Yang,Zhengwei Qi	10.1145/3404397.3404430
+ShadowTutor: Distributed Partial Distillation for Mobile Video DNN Inference.	Jae-Won Chung,Jae-Yun Kim,Soo-Mook Moon	10.1145/3404397.3404404
+SeRW: Adaptively Separating Read and Write upon SSDs of Hybrid Storage Server in Clouds.	Fan Deng,Qiang Cao 0001,Shucheng Wang,Shuyang Liu,Jie Yao,Yuanyuan Dong,Puyuan Yang	10.1145/3404397.3404437
+Scalable Coordination of Hierarchical Parallelism.	Vinay Devadas,Matthew Curtis-Maury	10.1145/3404397.3404398
+Federated Learning with Proximal Stochastic Variance Reduced Gradient Algorithms.	Canh T. Dinh,Nguyen Hoang Tran,Tuan Dung Nguyen,Wei Bao,Albert Y. Zomaya,Bing Bing Zhou	10.1145/3404397.3404457
+Robustness of the Young/Daly formula for stochastic iterative applications.	Yishu Du,Loris Marchal,Guillaume Pallez Aupy,Yves Robert	10.1145/3404397.3404418
+Improving Load Balance via Resource Exchange in Large-Scale Search Engines.	Kaiyue Duan,Yusen Li,Trent G. Marbach,Gang Wang 0001,Xiaoguang Liu 0001	10.1145/3404397.3404402
+XShot: Light-weight Link Failure Localization using Crossed Probing Cycles in SDN.	Hongyun Gao,Laiping Zhao,Huanbin Wang,Zhao Tian,Lihai Nie,Keqiu Li	10.1145/3404397.3404439
+FEEL: A Federated Edge Learning System for Efficient and Privacy-Preserving Mobile Healthcare.	Yeting Guo,Fang Liu 0002,Zhiping Cai,Li Chen 0019,Nong Xiao	10.1145/3404397.3404410
+Extremely Low-bit Convolution Optimization for Quantized Neural Network on Modern Computer Architectures.	Qingchang Han,Yongmin Hu,Fengwei Yu,Hailong Yang,Bing Liu,Peng Hu,Ruihao Gong,Yanfei Wang,Rui Wang 0014,Zhongzhi Luan,Depei Qian	10.1145/3404397.3404407
+DeepHop on Edge: Hop-by-hop Routing byDistributed Learning with Semantic Attention.	Bo He 0003,Jingyu Wang 0001,Qi Qi 0001,Haifeng Sun 0001,Zirui Zhuang,Cong Liu,Jianxin Liao	10.1145/3404397.3404425
+Automatic Identification and Precise Attribution of DRAM Bandwidth Contention.	Christian Helm,Kenjiro Taura	10.1145/3404397.3404422
+AMRT: Anti-ECN Marking to Improve Utilization of Receiver-driven Transmission in Data Center.	Jinbin Hu,Jiawei Huang 0001,Zhaoyi Li,Jianxin Wang 0001,Tian He 0001	10.1145/3404397.3404412
+Delta-DNN: Efficiently Compressing Deep Neural Networks via Exploiting Floats Similarity.	Zhenbo Hu,Xiangyu Zou,Wen Xia,Sian Jin,Dingwen Tao,Yang Liu 0039,Weizhe Zhang,Zheng Zhang 0006	10.1145/3404397.3404408
+An Efficient Wear-level Architecture using Self-adaptive Wear Leveling.	Jianming Huang 0001,Yu Hua 0001,Pengfei Zuo,Wen Zhou,Fangting Huang	10.1145/3404397.3404405
+Vector Forward Mode Automatic Differentiation on SIMD/SIMT architectures.	Jan Hückelheim,Michel Schanen,Sri Hari Krishna Narayanan,Paul D. Hovland	10.1145/3404397.3404470
+Rendering Server Allocation for MMORPG Players in Cloud Gaming.	Iryanto Jaya,Wentong Cai 0001,Yusen Li	10.1145/3404397.3404463
+PS: Periodic Strategy for the 40-100Gbps Energy Efficient Ethernet.	Wanchun Jiang,Kaiqin Liao,Yulong Yan,Jianxin Wang 0001	10.1145/3404397.3404446
+Safe, Fast Sharing of memcached as a Protected Library.	Chris Kjellqvist,Mohammad Hedayati,Michael L. Scott	10.1145/3404397.3404443
+Detailed Analysis and Optimization of CUDA K-means Algorithm.	Martin Krulis,Miroslav Kratochvíl	10.1145/3404397.3404426
+Developing a Loss Prediction-based Asynchronous Stochastic Gradient Descent Algorithm for Distributed Training of Deep Neural Networks.	Junyu Li,Ligang He,Shenyuan Ren,Rui Mao 0001	10.1145/3404397.3404432
+Impact of Memory DoS Attacks on Cloud Applications and Real-Time Detection Schemes.	Zhuozhao Li,Tanmoy Sen,Haiying Shen,Mooi Choo Chuah	10.1145/3404397.3404465
+Large-scale Simulations of Peridynamics on Sunway Taihulight Supercomputer.	Xinyuan Li,Huang Ye,Jian Zhang 0070	10.1145/3404397.3404421
+Reliability Augmentation of Requests with Service Function Chain Requirements in Mobile Edge-Cloud Networks.	Weifa Liang,Yu Ma 0001,Wenzheng Xu,Xiaohua Jia,Sid Chi-Kin Chau	10.1145/3404397.3404452
+Cooperative Game for Multiple Chargers with Dynamic Network Topology.	Chi Lin,Ziwei Yang 0004,Yu Sun,Jing Deng 0001,Lei Wang 0005,Guowei Wu	10.1145/3404397.3404469
+A Rack-Aware Pipeline Repair Scheme for Erasure-Coded Distributed Storage Systems.	Tong Liu,Shakeel Alibhai,Xubin He	10.1145/3404397.3404444
+Memory-Centric Communication Mechanism for Real-time Autonomous Navigation Applications.	Wei Liu 0143,Yifan Gong 0003,Hao Wu 0012,Jidong Zhai,Jiangming Jin	10.1145/3404397.3404459
+Deep Reinforcement Learning based Elasticity-compatible Heterogeneous Resource Management for Time-critical Computing.	Zixia Liu,Liqiang Wang,Gang Quan	10.1145/3404397.3404475
+Efficient Block Algorithms for Parallel Sparse Triangular Solve.	Zhengyang Lu,Yuyao Niu,Weifeng Liu 0002	10.1145/3404397.3404413
+Selective Coflow Completion for Time-sensitive Distributed Applications with Poco.	Shouxi Luo,Pingzhi Fan,Huanlai Xing,Hongfang Yu	10.1145/3404397.3404449
+Fast Spectral Graph Layout on Multicore Platforms.	Ashirbad Mishra,Shad Kirmani,Kamesh Madduri	10.1145/3404397.3404471
+Experiences on the characterization of parallel applications in embedded systems with Extrae/Paraver.	Adrian Munera,Sara Royuela,Germán Llort,Estanislao Mercadal,Franck Wartel,Eduardo Quiñones	10.1145/3404397.3404440
+Generating Robust Parallel Programs via Model Driven Prediction of Compiler Optimizations for Non-determinism.	Girish Mururu,Kaushik Ravichandran 0001,Ada Gavrilovska,Santosh Pande	10.1145/3404397.3404464
+Algorithm-Based Checkpoint-Recovery for the Conjugate Gradient Method.	Carlos Pachajoa,Christina Pacher,Markus Levonyak,Wilfried N. Gansterer	10.1145/3404397.3404438
+DNNARA: A Deep Neural Network Accelerator using Residue Arithmetic and Integrated Photonics.	Jiaxin Peng,Yousra Al-Kabani,Shuai Sun,Volker J. Sorger,Tarek A. El-Ghazawi	10.1145/3404397.3404467
+SPECcast: A Methodology for Fast Performance Evaluation with SPEC CPU 2017 Multiprogrammed Workloads.	Pablo Prieto,Pablo Abad Fidalgo,Jose Angel Herrero,José-Ángel Gregorio,Valentin Puente	10.1145/3404397.3404424
+First Time Miss : Low Overhead Mitigation for Shared Memory Cache Side Channels.	Kartik Ramkrishnan,Stephen McCamant,Pen-Chung Yew,Antonia Zhai	10.1145/3404397.3404434
+Optimizing Linearizable Bulk Operations on Data Structures.	Matthew Rodriguez,Michael F. Spear	10.1145/3404397.3404414
+Polo: Receiver-Driven Congestion Control for Low Latency over Commodity Network Fabric.	Chang Ruan,Jianxin Wang 0001,Wanchun Jiang,Tao Zhang 0019	10.1145/3404397.3404454
+Enabling performance portability of data-parallel OpenMP applications on asymmetric multicore processors.	Juan Carlos Saez,Fernando Castro,Manuel Prieto-Matías	10.1145/3404397.3404441
+The Art of CPU-Pinning: Evaluating and Improving the Performance of Virtualization and Containerization Platforms.	Davood Ghatreh Samani,Chavit Denninnart,Josef Bacik,Mohsen Amini Salehi	10.1145/3404397.3404442
+Toward Large-Scale Image Segmentation on Summit.	Sudip K. Seal,Seung-Hwan Lim,Dali Wang,Jacob D. Hinkle,Dalton D. Lunga,Aristeidis Tsaris	10.1145/3404397.3404468
+GraBi: Communication-Efficient and Workload-Balanced Partitioning for Bipartite Graphs.	Feng Sheng,Qiang Cao 0001,Hong Jiang 0001,Jie Yao	10.1145/3404397.3404453
+Towards High-Efficiency Data Centers via Job-Aware Network Scheduling.	Yang Shi,Mei Wen,Chunyuan Zhang	10.1145/3404397.3404474
+Revisiting Sparse Dynamic Programming for the 0/1 Knapsack Problem.	Tarequl Islam Sifat,Nirmal Prajapati,Sanjay V. Rajopadhye	10.1145/3404397.3404462
+HCAPP: Scalable Power Control for Heterogeneous 2.5D Integrated Systems.	Kramer Straube,Jason Lowe-Power,Christopher Nitta,Matthew K. Farrens,Venkatesh Akella	10.1145/3404397.3404448
+CapelliniSpTRSV: A Thread-Level Synchronization-Free Sparse Triangular Solve on GPUs.	Jiya Su,Feng Zhang 0007,Weifeng Liu 0002,Bingsheng He,Ruofan Wu,Xiaoyong Du 0001,Rujia Wang	10.1145/3404397.3404400
+E-LAS: Design and Analysis of Completion-Time Agnostic Scheduling for Distributed Deep Learning Cluster.	Abeda Sultana,Li Chen 0019,Fei Xu,Xu Yuan	10.1145/3404397.3404415
+Balancing Fairness and Efficiency for Cache Sharing in Semi-external Memory System.	Shanjiang Tang,Qifei Chai,Ce Yu,Yusen Li,Chao Sun	10.1145/3404397.3404450
+Prune the Unnecessary: Parallel Pull-Push Louvain Algorithms with Automatic Edge Pruning.	Jesmin Jahan Tithi,Andrzej Stasiak,Sriram Aananthakrishnan,Fabrizio Petrini	10.1145/3404397.3404455
+A Reinforcement Learning Based System for Minimizing Cloud Storage Service Cost.	Haoyu Wang 0003,Haiying Shen,Qi Liu,Kevin Zheng,Jie Xu 0004	10.1145/3404397.3404466
+An Adaptive Erasure-Coded Storage Scheme with an Efficient Code-Switching Algorithm.	Zizhong Wang,Haixia Wang,Airan Shao,Dongsheng Wang 0002	10.1145/3404397.3404420
+DIESEL: A Dataset-Based Distributed Storage and Caching System for Large-Scale Deep Learning Training.	Lipeng Wang,Songgao Ye,Baichen Yang,Youyou Lu,Hequan Zhang,Shengen Yan,Qiong Luo 0001	10.1145/3404397.3404472
+CCHL: Compression-Consolidation Hardware Logging for Efficient Failure-Atomic Persistent Memory Updates.	Xueliang Wei,Dan Feng 0001,Wei Tong 0001,Jingning Liu,Chengning Wang,Liuqing Ye	10.1145/3404397.3404461
+Parallel Shift-Invert Spectrum Slicing on Distributed Architectures with GPU Accelerators.	David B. Williams-Young,Chao Yang 0001	10.1145/3404397.3404416
+SWMapper: Scalable Read Mapper on SunWay TaihuLight.	Kai Xu,Xiaohui Duan,Xiangxu Meng,Xin Li,Bertil Schmidt,Weiguo Liu	10.1145/3404397.3404445
+Huffman Coding with Gap Arrays for GPU Acceleration.	Naoya Yamamoto,Koji Nakano,Yasuaki Ito,Daisuke Takafuji,Akihiko Kasagi,Tsuguchika Tabaru	10.1145/3404397.3404429
+Performance Portable Supernode-based Sparse Triangular Solver for Manycore Architectures.	Ichitaro Yamazaki,Sivasankaran Rajamanickam,Nathan D. Ellingwood	10.1145/3404397.3404428
+Dual-Way Gradient Sparsification for Asynchronous Distributed Deep Learning.	Zijie Yan,Danyang Xiao,Mengqiang Chen,Jieying Zhou,Weigang Wu	10.1145/3404397.3404401
+Adaptive Bulk Search: Solving Quadratic Unconstrained Binary Optimization Problems on Multiple GPUs.	Ryota Yasudo,Koji Nakano,Yasuaki Ito,Masaru Tatekawa,Ryota Katsuki,Takashi Yazane,Yoko Inaba	10.1145/3404397.3404423
+On Network Locality in MPI-Based HPC Applications.	Felix Zahn,Holger Fröning	10.1145/3404397.3404436
+SkyChain: A Deep Reinforcement Learning-Empowered Dynamic Blockchain Sharding System.	Jianting Zhang,Zicong Hong,Xiaoyu Qiu,Yufeng Zhan,Song Guo 0001,Wuhui Chen	10.1145/3404397.3404460
+Adaptive Distributed Convolutional Neural Network Inference at the Network Edge with ADCNN.	Sai Qian Zhang,Jieyu Lin,Qi Zhang 0008	10.1145/3404397.3404473
+An Online Learning-Based Task Offloading Framework for 5G Small Cell Networks.	Xueying Zhang,Ruiting Zhou,Zhi Zhou 0006,John C. S. Lui,Zongpeng Li	10.1145/3404397.3404417
+DQEMU: A Scalable Emulator with Retargetable DBT on Distributed Platforms.	Ziyi Zhao,Zhang Jiang,Ximing Liu,Xiaoli Gong,Wenwen Wang 0001,Pen-Chung Yew	10.1145/3404397.3404403
+Detecting Anomalous Computation with RNNs on GPU-Accelerated HPC Machines.	Pengfei Zou,Ang Li 0006,Kevin J. Barker,Rong Ge 0002	10.1145/3404397.3404435
+ICPP 2020: 49th International Conference on Parallel Processing, Edmonton, AB, Canada, August 17-20, 2020	José Nelson Amaral,Lizy Kurian John,Xipeng Shen	10.1145/3404397

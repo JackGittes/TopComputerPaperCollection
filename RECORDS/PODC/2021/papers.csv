@@ -1,0 +1,66 @@
+Brief Announcement: Linearizability: A Typo.	Gal Sela 0001,Maurice Herlihy,Erez Petrank	10.1145/3465084.3467944
+The Randomized Local Computation Complexity of the Lovász Local Lemma.	Sebastian Brandt 0002,Christoph Grunau,Václav Rozhon	10.1145/3465084.3467931
+Approximate Byzantine Fault-Tolerance in Distributed Optimization.	Shuo Liu 0011,Nirupam Gupta,Nitin H. Vaidya	10.1145/3465084.3467902
+Reaching Consensus for Asynchronous Distributed Key Generation.	Ittai Abraham,Philipp Jovanovic,Mary Maller,Sarah Meiklejohn,Gilad Stern,Alin Tomescu	10.1145/3465084.3467914
+Good-case Latency of Byzantine Broadcast: a Complete Categorization.	Ittai Abraham,Kartik Nayak,Ling Ren 0001,Zhuolun Xiang	10.1145/3465084.3467899
+Brief Announcement: Malicious Security Comes for Free in Consensus with Leaders.	Mark Abspoel,Thomas Attema,Matthieu Rambaud	10.1145/3465084.3467953
+2021 Principles of Distributed Computing Doctoral Dissertation Award.	Marcos K. Aguilera,Hagit Attiya,Christian Cachin,Alessandro Panconesi	10.1145/3465084.3468684
+Comparison Dynamics in Population Protocols.	Dan Alistarh,Martin Töpfer 0003,Przemyslaw Uznanski	10.1145/3465084.3467915
+On Implementing Stabilizing Leader Election with Weak Assumptions on Network Dynamics.	Karine Altisen,Stéphane Devismes,Anaïs Durand,Colette Johnen,Franck Petit	10.1145/3465084.3467917
+Byzantine Agreement and Leader Election: From Classical to the Modern.	John Augustine,Anisur Rahaman Molla,Gopal Pandurangan	10.1145/3465084.3467484
+Improved Distributed Lower Bounds for MIS and Bounded (Out-)Degree Dominating Sets in Trees.	Alkida Balliu,Sebastian Brandt 0002,Fabian Kuhn,Dennis Olivetti	10.1145/3465084.3467901
+Locally Checkable Problems in Rooted Trees.	Alkida Balliu,Sebastian Brandt 0002,Dennis Olivetti,Jan Studený,Jukka Suomela,Aleksandr Tereshchenko	10.1145/3465084.3467934
+An Efficient Adaptive Partial Snapshot Implementation.	Benyamin Bashari,Philipp Woelfel	10.1145/3465084.3467939
+Brief Announcement: Classifying Trusted Hardware via Unidirectional Communication.	Naama Ben-David,Kartik Nayak	10.1145/3465084.3467948
+Restorable Shortest Path Tiebreaking for Edge-Faulty Graphs.	Greg Bodwin,Merav Parter	10.1145/3465084.3467913
+Breaking the O(√ n)-Bit Barrier: Byzantine Agreement with Polylog Bits Per Party.	Elette Boyle,Ran Cohen,Aarushi Goel	10.1145/3465084.3467897
+Reductions and Extension-Based Proofs.	Kayman Brusse,Faith Ellen	10.1145/3465084.3467906
+Time-Optimal Self-Stabilizing Leader Election in Population Protocols.	Janna Burman,Ho-Lin Chen,Hsueh-Ping Chen,David Doty,Thomas Nowak,Eric E. Severson,Chuan Xu 0002	10.1145/3465084.3467898
+Brief Announcement: An Improved Distributed Approximate Single Source Shortest Paths Algorithm.	Nairen Cao,Jeremy T. Fineman,Katina Russell	10.1145/3465084.3467945
+2021 Edsger W. Dijkstra Prize in Distributed Computing.	Keren Censor-Hillel,Pierre Fraigniaud,Cyril Gavoille,Seth Gilbert,Andrzej Pelc,David Peleg	10.1145/3465084.3468683
+Brief Announcement: Brokering with Hashed Timelock Contracts is NP-Hard.	Eric Chan,Mohsen Lesani	10.1145/3465084.3467952
+Tight Lower Bound for the RMR Complexity of Recoverable Mutual Exclusion.	David Yu Cheng Chan,Philipp Woelfel	10.1145/3465084.3467938
+Brief Announcement: What&apos;s Live? Understanding Distributed Consensus.	Saksham Chand,Yanhong A. Liu	10.1145/3465084.3467947
+Strong-Diameter Network Decomposition.	Yi-Jun Chang,Mohsen Ghaffari 0001	10.1145/3465084.3467933
+Brief Announcement: A Randomness-efficient Massively Parallel Algorithm for Connectivity.	Moses Charikar,Weiyun Ma,Li-Yang Tan	10.1145/3465084.3467951
+Tight Trade-off in Contention Resolution without Collision Detection.	Haimin Chen,Yonggang Jiang,Chaodong Zheng	10.1145/3465084.3467920
+Interaction-Oriented Programming: An Application Semantics Approach for Engineering Decentralized Applications.	Amit K. Chopra,Samuel H. Christie V.,Munindar P. Singh	10.1145/3465084.3467486
+Search via Parallel Lévy Walks on Z2.	Andrea E. F. Clementi,Francesco D&apos;Amore 0001,George Giakkoupis,Emanuele Natale	10.1145/3465084.3467921
+Lower Bounds on the State Complexity of Population Protocols.	Philipp Czerner,Javier Esparza	10.1145/3465084.3467912
+Decision Power of Weak Asynchronous Models of Distributed Computing.	Philipp Czerner,Roland Guttenberg,Martin Helfrich,Javier Esparza	10.1145/3465084.3467918
+Improved Deterministic (Δ+1) Coloring in Low-Space MPC.	Artur Czumaj,Peter Davies,Merav Parter	10.1145/3465084.3467937
+Component Stability in Low-Space Massively Parallel Computation.	Artur Czumaj,Peter Davies,Merav Parter	10.1145/3465084.3467903
+Brief Announcement: Wake Up and Join Me! An Energy Efficient Algorithm for Maximal Matching in Radio Networks.	Varsha Dani,Aayush Gupta,Thomas P. Hayes,Seth Pettie	10.1145/3465084.3467950
+Constant-Round Spanners and Shortest Paths in Congested Clique and MPC.	Michal Dory,Orr Fischer,Seri Khoury,Dean Leitersdorf	10.1145/3465084.3467928
+Fault-Tolerant Labeling and Compact Routing Schemes.	Michal Dory,Merav Parter	10.1145/3465084.3467929
+Brief Announcement: A Time and Space Optimal Stable Population Protocol Solving Exact Majority.	David Doty,Mahsa Eftekhari,Leszek Gasieniec,Eric E. Severson,Grzegorz Stachowiak,Przemyslaw Uznanski	10.1145/3465084.3467942
+Efficient Deterministic Leader Election for Programmable Matter.	Fabien Dufoulon,Shay Kutten,William K. Moses Jr.	10.1145/3465084.3467900
+Differential Privacy in Distributed Environments: An Overview and Open Questions.	Cynthia Dwork	10.1145/3465084.3467482
+Ultra-Sparse Near-Additive Emulators.	Michael Elkin,Shaked Matar	10.1145/3465084.3467926
+A Thin Self-Stabilizing Asynchronous Unison Algorithm with Applications to Fault Tolerant Biological Networks.	Yuval Emek,Eyal Keren	10.1145/3465084.3467922
+A New Way to Achieve Round-Efficient Byzantine Agreement.	Matthias Fitzi,Chen-Da Liu-Zhang,Julian Loss	10.1145/3465084.3467907
+The Topology of Randomized Symmetry-Breaking Distributed Computing.	Pierre Fraigniaud,Ran Gelles,Zvi Lotker	10.1145/3465084.3467936
+Brief Announcement: Be Prepared When Network Goes Bad: An Asynchronous View-Change Protocol.	Rati Gelashvili,Lefteris Kokoris-Kogias,Alexander Spiegelman,Zhuolun Xiang	10.1145/3465084.3467941
+Low-Congestion Shortcuts for Graphs Excluding Dense Minors.	Mohsen Ghaffari 0001,Bernhard Haeupler	10.1145/3465084.3467935
+Contention Resolution with Predictions.	Seth Gilbert,Calvin Newport,Nitin H. Vaidya,Alex Weaver	10.1145/3465084.3467911
+Stochastic Coordination in Heterogeneous Load Balancing Systems.	Guy Goren,Shay Vargaftik,Yoram Moses	10.1145/3465084.3467923
+Time-Optimal Construction of Overlay Networks.	Thorsten Götte,Kristian Hinnenthal,Christian Scheideler,Julian Werthmann	10.1145/3465084.3467932
+Differential Privacy and Byzantine Resilience in SGD: Do They Add Up?	Rachid Guerraoui,Nirupam Gupta,Rafaël Pinot,Sébastien Rouault,John Stephan	10.1145/3465084.3467919
+On Register Linearizability and Termination.	Vassos Hadzilacos,Xing Hu 0009,Sam Toueg	10.1145/3465084.3467925
+On the Locality of Nash-Williams Forest Decomposition and Star-Forest Decomposition.	David G. Harris 0001,Hsin-Hao Su,Hoa T. Vu	10.1145/3465084.3467908
+Diversity, Fairness, and Sustainability in Population Protocols.	Nan Kang,Frederik Mallmann-Trenn,Nicolás Rivera	10.1145/3465084.3467940
+All You Need is DAG.	Idit Keidar,Eleftherios Kokoris-Kogias,Oded Naor,Alexander Spiegelman	10.1145/3465084.3467905
+Brief Announcement: Making Synchronous BFT Protocols Secure in the Presence of Mobile Sluggish Faults.	Justin Kim,Vandan Mehta,Kartik Nayak,Nibesh Shrestha	10.1145/3465084.3467954
+Elle: Finding Isolation Violations in Real-World Databases.	Kyle Kingsbury	10.1145/3465084.3467483
+Separating Bounded and Unbounded Asynchrony for Autonomous Robots: Point Convergence with Limited Visibility.	David G. Kirkpatrick,Irina Kostitsyna,Alfredo Navarra,Giuseppe Prencipe,Nicola Santoro	10.1145/3465084.3467910
+Low-Congestion Shortcuts in Constant Diameter Graphs.	Shimon Kogan,Merav Parter	10.1145/3465084.3467927
+Brief Announcement: On the Message Complexity of Fault-Tolerant Computation: Leader Election and Agreement.	Manish Kumar,Anisur Rahaman Molla	10.1145/3465084.3467949
+Revisiting Optimal Resilience of Fast Byzantine Consensus.	Petr Kuznetsov,Andrei Tonkikh,Yan X. Zhang	10.1145/3465084.3467924
+Brief Announcement: Variants of Approximate Agreement on Graphs and Simplicial Complexes.	Jérémy Ledent	10.1145/3465084.3467946
+Brief Announcement: Detectable Sequential Specifications for Recoverable Shared Objects.	Nan Li,Wojciech M. Golab	10.1145/3465084.3467943
+The Space Complexity of Scannable Binary Objects.	Sean Ovens	10.1145/3465084.3467916
+Can We Break Symmetry with o(m) Communication?	Shreyas Pai,Gopal Pandurangan,Sriram V. Pemmaraju,Peter Robinson 0002	10.1145/3465084.3467909
+Embedding a Deterministic BFT Protocol in a Block DAG.	Maria Anna Schett,George Danezis	10.1145/3465084.3467930
+Security and Privacy for Distributed Optimization &amp; Distributed Machine Learning.	Nitin H. Vaidya	10.1145/3465084.3467485
+Hedging Against Sore Loser Attacks in Cross-Chain Transactions.	Yingjie Xue,Maurice Herlihy	10.1145/3465084.3467904
+PODC &apos;21: ACM Symposium on Principles of Distributed Computing, Virtual Event, Italy, July 26-30, 2021	Avery Miller,Keren Censor-Hillel,Janne H. Korhonen	10.1145/3465084

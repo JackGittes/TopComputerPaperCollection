@@ -1,0 +1,43 @@
+Model transformation for end-user modelers with VMTL.	Vlad Acretoaie,Harald Störrle,Daniel Strüber 0001	
+Automated refactoring of ATL model transformations: a search-based approach.	Bader Alkhazi,Terry Ruas,Marouane Kessentini,Manuel Wimmer,William I. Grosky	
+Extracting domain models from natural-language requirements: approach and industrial evaluation.	Chetan Arora 0002,Mehrdad Sabetzadeh,Lionel C. Briand,Frank Zimmer	
+Towards the verification of industrial communication protocols through a simulation environment based on QEMU and systemC.	Calypso Barnes,Jean-Marie Cottin,François Verdier,Alain Pegatoquet	
+A generic framework for model-set selection for the unification of testing and learning MDE tasks.	Edouard Batot,Houari A. Sahraoui	
+Query-based access control for secure collaborative modeling using bidirectional transformations.	Gábor Bergmann,Csaba Debreceni,István Ráth,Dániel Varró	
+Handling index-out-of-bounds in safety-critical embedded C code using model-based development.	Gunter Blache	
+A requirement driven testing method for multi-disciplinary system design.	Martial Chabot,Laurence Pierre,Alexandre Nabais-Moreno	
+OCL2MSFOL: a mapping to many-sorted first-order logic for efficiently checking the satisfiability of OCL constraints.	Carolina Dania,Manuel Clavel	
+PrefetchML: a framework for prefetching and caching models.	Gwendal Daniel,Gerson Sunyé,Jordi Cabot	
+Supporting the model-driven development of real-time embedded systems with run-time monitoring and animation via highly customizable code generation.	Nondini Das,Suchita Ganesan,Leo Jweda,Mojtaba Bagherzadeh,Nicolas Hili,Juergen Dingel	
+Automatic detection of incomplete requirements via symbolic analysis.	Byron DeVries,Betty H. C. Cheng	
+Model-driven performance prediction of systems of systems.	Katrina Falkner,Claudia Szabo,Vanea Chiprianov	
+Multi-variability modeling and realization for software derivation in industrial automation management.	Miao Fang,Georg Leyh,Jörg Dörr,Christoph Elsner	
+Feature location in models through a genetic algorithm driven by information retrieval techniques.	Jaime Font,Lorena Arcega,Øystein Haugen,Carlos Cetina	
+A generic transformation algorithm to simplify the development of mapping models.	Matthias Freund,Annerose Braune	
+Integration of a graph-based model indexer in commercial modelling tools.	Antonio García-Domínguez,Konstantinos Barmpis,Dimitrios S. Kolovos,Marcos Aurélio Almeida da Silva,Antonin Abherve,Alessandra Bagnato	
+Using free modeling as an agile method for developing domain specific modeling languages.	Fahad Rafique Golra,Antoine Beugnard,Fabien Dagnat,Sylvain Guérin,Christophe Guychard	
+ThingML: a language and code generation framework for heterogeneous targets.	Nicolas Harrand,Franck Fleurey,Brice Morin,Knut Eilif Husa	
+Technical debt in MDE: a case study on GMF/EMF-based projects.	Xiao He,Paris Avgeriou,Peng Liang 0001,Zengyang Li	
+The quest for open source projects that use UML: mining GitHub.	Regina Hebig,Truong Ho-Quang,Michel R. V. Chaudron,Gregorio Robles,Miguel Angel Fernández	
+Descriptive vs prescriptive models in industry.	Rogardt Heldal,Patrizio Pelliccione,Ulf Eliasson,Jonn Lantz,Jesper Derehag,Jon Whittle 0001	
+Visual modeling of RESTful conversations with RESTalk.	Ana Ivanchikj,Cesare Pautasso,Silvia Schreier	
+The problems with eclipse modeling tools: a topic analysis of eclipse forums.	Nafiseh Kahani,Mojtaba Bagherzadeh,Juergen Dingel,James R. Cordy	
+Process mining using BPMN: relating event logs and process models.	Anna A. Kalenkova,Wil M. P. van der Aalst,Irina A. Lomazova,Vladimir A. Rubin	
+Metamodel specialization for graphical modeling language support.	Audris Kalnins,Janis Barzdins	
+Model-driven software engineering in the openETCS project: project experiences and lessons learned.	Stefan Karg,Alexander Raschke,Matthias Tichy,Grischa Liebel	
+A model management approach for assurance case reuse due to system evolution.	Sahar Kokaly,Rick Salay,Valentin Cassano,Tom Maibaum,Marsha Chechik	
+On the synthesis of protocol state machines from contracts.	Piotr Kosiuczenko	
+Unifying explanatory and constructive modeling: towards removing the gulf between ontologies and conceptual models.	Thomas Kühne 0001	
+A model-based approach for multi-device user interactions.	Christian Prehofer,Andreas Wagner,Yucheng Jin	
+Ground setting properties for an efficient translation of OCL in SMT-based model finding.	Nils Przigoda,Robert Wille,Rolf Drechsler	
+Towards a categorical approach for meta-modelling epistemic game theory.	Fazle Rabbi 0001,Yngve Lamo,Ingrid Chieh Yu	
+Incremental diagram layout for automated model migration.	Ulf Rüegg,Rajneesh Lakkundi,Ashwin Prasad,Anand Kodaganur,Christoph Daniel Schulze,Reinhard von Hanxleden	
+Automatic generation of detailed flight plans from high-level mission descriptions.	Davide Di Ruscio,Ivano Malavolta,Patrizio Pelliccione,Massimo Tivoli	
+Incremental backward change propagation of view models by logic solvers.	Oszkár Semeráth,Csaba Debreceni,Ákos Horváth 0001,Dániel Varró	
+Formalizing knowledge in multi-scale agent-based simulations.	Endre T. Somogyi,James P. Sluka,James A. Glazier	
+Towards the characterization of realistic models: evaluation of multidisciplinary graph metrics.	Gábor Szárnyas,Zsolt Kovári,Ágnes Salánki,Dániel Varró	
+Controlled experiment on the comprehension of runtime phenomena using models created at design time.	Michael Szvetits,Uwe Zdun	
+Modern C++ as a modeling language for automated driving and human-robot collaboration.	Daniel Tuchscherer,Alexander Weibert,Frank Tränkle	
+Partial loading of XMI models.	Ran Wei,Dimitrios S. Kolovos,Antonio García-Domínguez,Konstantinos Barmpis,Richard F. Paige	
+Towards mutation analysis for use cases.	Huihui Zhang,Tao Yue 0002,Shaukat Ali 0001,Chao Liu	
+Proceedings of the ACM/IEEE 19th International Conference on Model Driven Engineering Languages and Systems, Saint-Malo, France, October 2-7, 2016	Benoit Baudry,Benoît Combemale	10.1145/2976767

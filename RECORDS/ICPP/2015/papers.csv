@@ -1,0 +1,100 @@
+Resident Block-Structured Adaptive Mesh Refinement on Thousands of Graphics Processing Units.	David Beckingsale,Wayne P. Gaudin,Andrew Herdman,Stephen A. Jarvis	10.1109/ICPP.2015.15
+Optimal Cache Partition-Sharing.	Jacob Brock,Chencheng Ye,Chen Ding 0001,Yechen Li,Xiaolin Wang 0001,Yingwei Luo	10.1109/ICPP.2015.84
+Fine-Grained Loss Tomography in Dynamic Sensor Networks.	Chenhong Cao,Yi Gao 0001,Wei Dong 0001,Jiajun Bu	10.1109/ICPP.2015.87
+Assessing the Impact of Partial Verifications against Silent Data Corruptions.	Aurélien Cavelan,Saurabh K. Raina,Yves Robert,Hongyang Sun 0001	10.1109/ICPP.2015.53
+Social VoD: A Social Feature-Based P2P System.	Wei Chang,Jie Wu 0001	10.1109/ICPP.2015.66
+Profiling and Understanding Virtualization Overhead in Cloud.	Liuhua Chen,Shilkumar Patel,Haiying Shen,Zhongyi Zhou	10.1109/ICPP.2015.12
+Region-Based May-Happen-in-Parallel Analysis for C Programs.	Peng Di,Yulei Sui,Ding Ye,Jingling Xue	10.1109/ICPP.2015.98
+Open ACC Programs Examined: A Performance Analysis Approach.	Robert Dietrich,Guido Juckeland,Michael Wolfe	10.1109/ICPP.2015.40
+Optimizing Image Sharpening Algorithm on GPU.	Mengran Fan,Haipeng Jia,Yunquan Zhang,Xiaojing An,Ting Cao	10.1109/ICPP.2015.32
+LCIndex: A Local and Clustering Index on Distributed Ordered Tables for Flexible Multi-dimensional Range Queries.	Chen Feng,Xi Yang 0002,Fan Liang,Xian-He Sun,Zhiwei Xu	10.1109/ICPP.2015.81
+EC-FRM: An Erasure Coding Framework to Speed Up Reads for Erasure Coded Cloud Storage Systems.	Yingxun Fu,Jiwu Shu,Zhirong Shen	10.1109/ICPP.2015.57
+Joint Wireless Charging and Sensor Activity Management in Wireless Rechargeable Sensor Networks.	Yuan Gao,Cong Wang 0006,Yuanyuan Yang 0001	10.1109/ICPP.2015.88
+Sheriff: A Regional Pre-alert Management Scheme in Data Center Networks.	Xiaofeng Gao 0001,Wen Xu,Fan Wu 0006,Guihai Chen	10.1109/ICPP.2015.76
+Automatic Performance Tuning of Stencil Computations on GPUs.	Joseph D. Garvey,Tarek S. Abdelrahman	10.1109/ICPP.2015.39
+PDTL: Parallel and Distributed Triangle Listing for Massive Graphs.	Ilias Giechaskiel,George Panagopoulos,Eiko Yoneki	10.1109/ICPP.2015.46
+DiMP: Architectural Support for Direct Message Passing on Shared Memory Multi-cores.	J. Rubén Titos Gil,Oscar Palomar,Osman S. Unsal,Adrián Cristal	10.1109/ICPP.2015.22
+In-Place Data Sliding Algorithms for Many-Core Architectures.	Juan Gómez-Luna,Li-Wen Chang,I-Jui Sung,Wen-mei W. Hwu,Nicolás Guil	10.1109/ICPP.2015.30
+Optimal Node Selection for Data Regeneration in Heterogeneous Distributed Storage Systems.	Qingyuan Gong,Jiaqi Wang,Dongsheng Wei,Jin Wang 0009,Xin Wang 0002	10.1109/ICPP.2015.48
+Spatial Locality-Aware Cache Partitioning for Effective Cache Sharing.	Saurabh Gupta 0002,Huiyang Zhou	10.1109/ICPP.2015.24
+PCS: Predictive Component-Level Scheduling for Reducing Tail Latency in Cloud Online Services.	Rui Han 0001,Junwei Wang,Siguang Huang,Chenrong Shao,Shulin Zhan,Jianfeng Zhan,José Luis Vázquez-Poletti	10.1109/ICPP.2015.58
+A Heterogeneity-Aware Region-Level Data Layout for Hybrid Parallel File Systems.	Shuibing He,Xian-He Sun,Yang Wang 0006,Antonis Kougkas,Adnan Haider	10.1109/ICPP.2015.43
+Enhancing Garbage Collection Synchronization Using Explicit Bit Barriers.	Jochen Hollmann,J. Rubén Titos Gil,Per Stenström	10.1109/ICPP.2015.86
+CoRec: A Cooperative Reconstruction Pattern for Multiple Failures in Erasure-Coded Storage Clusters.	Jianzhong Huang 0001,Er-wei Dai,Changsheng Xie,Xiao Qin 0001	10.1109/ICPP.2015.56
+An Energy-Efficient Branch Prediction with Grouped Global History.	Mingkai Huang,Dan He,Xianhua Liu 0001,Mingxing Tan,Xu Cheng 0001	10.1109/ICPP.2015.23
+Accelerating I/O Performance of Big Data Analytics on HPC Clusters through RDMA-Based Key-Value Store.	Nusrat Sharmin Islam,Dipti Shankar,Xiaoyi Lu,Md. Wasi-ur-Rahman,Dhabaleswar K. Panda 0001	10.1109/ICPP.2015.79
+Green-CM: Energy Efficient Contention Management for Transactional Memory.	Shady Issa,Paolo Romano 0002,Mats Brorsson	10.1109/ICPP.2015.64
+Executing Large Scale Scientific Workflow Ensembles in Public Clouds.	Qingye Jiang,Young Choon Lee,Albert Y. Zomaya	10.1109/ICPP.2015.61
+Shorter On-Line Warmup for Sampled Simulation of Multi-threaded Applications.	Chuntao Jiang,Zhibin Yu 0001,Hai Jin 0001,Xiaofei Liao,Lieven Eeckhout,Yonggang Zeng,Cheng-Zhong Xu 0001	10.1109/ICPP.2015.44
+Software-Based Lightweight Multithreading to Overlap Memory-Access Latencies of Commodity Processors.	Cihang Jiang,Youhui Zhang,Weimin Zheng	10.1109/ICPP.2015.71
+Reflex-Tree: A Biologically Inspired Parallel Architecture for Future Smart Cities.	Jason Kane,Bo Tang 0011,Zhen Chen 0002,Jun Yan 0007,Tao Wei,Haibo He,Qing Yang 0001	10.1109/ICPP.2015.45
+Efficient Use of Hardware Transactional Memory for Parallel Mesh Generation.	Tetsu Kobayashi,Shigeyuki Sato,Hideya Iwasaki	10.1109/ICPP.2015.69
+GLAF: A Visual Programming and Auto-tuning Framework for Parallel Computing.	Konstantinos Krommydas,Ruchira Sasanka,Wu-chun Feng	10.1109/ICPP.2015.95
+GEM: A Framework for Developing Shared-Memory Parallel Genomic Applications on Memory Constrained Architectures.	Mücahid Kutlu,Gagan Agrawal	10.1109/ICPP.2015.92
+Joint Media Streaming Optimization of Energy and Rebuffering Time in Cellular Networks.	Zeqi Lai,Yong Cui 0001,Yayun Bao,Jiangchuan Liu,Yingchao Zhao 0001,Xiao Ma	10.1109/ICPP.2015.49
+Network Coding for Effective NDN Content Delivery: Models, Experiments, and Applications.	Kai Lei,Fangxing Zhu,Cheng Peng,Kuai Xu	10.1109/ICPP.2015.19
+Reducing Synchronization Cost in Distributed Multi-resource Allocation Problem.	Jonathan Lejeune,Luciana Arantes,Julien Sopena,Pierre Sens 0001	10.1109/ICPP.2015.63
+Automatic OpenCL Code Generation for Multi-device Heterogeneous Architectures.	Pei Li 0003,Elisabeth Brunet,François Trahay,Christian Parrot,Gaël Thomas 0001,Raymond Namyst	10.1109/ICPP.2015.105
+PPM: A Partitioned and Parallel Matrix Algorithm to Accelerate Encoding/Decoding Process of Asymmetric Parity Erasure Codes.	Shiyi Li,Qiang Cao 0001,Shenggang Wan,Wenhui Zhang 0005,Changsheng Xie,Xubin He,Pradeep Subedi	10.1109/ICPP.2015.55
+Towards Constant-Time Cardinality Estimation for Large-Scale RFID Systems.	Binbin Li,Yuan He,Wenyuan Liu	10.1109/ICPP.2015.90
+Do Twin Clouds Make Smoothness for Transoceanic Video Telephony?	Jian Li,Zhenhua Li 0001,Yao Liu 0001,Zhi-Li Zhang	10.1109/ICPP.2015.35
+Designing a Hybrid Scale-Up/Out Hadoop Architecture Based on Performance Measurements for High Application Performance.	Zhuozhao Li,Haiying Shen	10.1109/ICPP.2015.11
+Nested Parallelism on GPU: Exploring Parallelization Templates for Irregular Loops and Recursive Computations.	Da Li 0002,Hancheng Wu,Michela Becchi	10.1109/ICPP.2015.107
+Dual-centric Data Center Network Architectures.	Dawei Li 0002,Jie Wu 0001,Zhiyong Liu 0002,Fa Zhang 0001	10.1109/ICPP.2015.77
+Optimizing MapReduce Based on Locality of K-V Pairs and Overlap between Shuffle and Local Reduce.	Jianjiang Li,Jie Wu 0001,Xiaolei Yang,Shiqi Zhong	10.1109/ICPP.2015.103
+Towards Redundancy-Aware Data Utility Maximization in Crowdsourced Sensing with Smartphones.	Juan Li,Yanmin Zhu,Jiadi Yu,Qian Zhang 0001,Lionel M. Ni	10.1109/ICPP.2015.99
+Cloud Fog: Towards High Quality of Experience in Cloud Gaming.	Yuhua Lin,Haiying Shen	10.1109/ICPP.2015.59
+DISCS: A DIStributed Collaboration System for Inter-AS Spoofing Defense.	Bingyang Liu,Jun Bi	10.1109/ICPP.2015.25
+TAPS: Software Defined Task-Level Deadline-Aware Preemptive Flow Scheduling in Data Centers.	Lili Liu,Dan Li 0001,Jianping Wu	10.1109/ICPP.2015.75
+LPM: Concurrency-Driven Layered Performance Matching.	Yu-Hang Liu,Xian-He Sun	10.1109/ICPP.2015.97
+Scan without a Glance: Towards Content-Free Crowd-Sourced Mobile Video Retrieval System.	Cihang Liu,Lan Zhang 0002,Kebin Liu,Yunhao Liu 0001	10.1109/ICPP.2015.34
+Characterizing Multi-media Retrieval Applications.	Yunping Lu,Xin Wang,Weihua Zhang,Yi Li,Wenyun Zhao	10.1109/ICPP.2015.36
+Parallel (Probable) Lock-Free Hash Sieve: A Practical Sieving Algorithm for the SVP.	Artur Mariano,Christian H. Bischof,Thijs Laarhoven	10.1109/ICPP.2015.68
+Characterizing Loop-Level Communication Patterns in Shared Memory.	Arya Mazaheri,Ali Jannesari,Abdolreza Mirzaei,Felix Wolf 0001	10.1109/ICPP.2015.85
+Slowing Little Quickens More: Improving DCTCP for Massive Concurrent Flows.	Mao Miao,Peng Cheng 0005,Fengyuan Ren,Ran Shu 0001	10.1109/ICPP.2015.78
+Cache Coherence Protocol and Memory Performance of the Intel Haswell-EP Architecture.	Daniel Molka,Daniel Hackenberg,Robert Schöne,Wolfgang E. Nagel	10.1109/ICPP.2015.83
+LBM-IB: A Parallel Library to Solve 3D Fluid-Structure Interaction Problems on Manycore Systems.	Prateek Nagar,Fengguang Song,Luoding Zhu,Lan Lin	10.1109/ICPP.2015.14
+Generating Efficient Tensor Contractions for GPUs.	Thomas Nelson,Axel Rivera,Prasanna Balaprakash,Mary W. Hall,Paul D. Hovland,Elizabeth R. Jessup,Boyana Norris	10.1109/ICPP.2015.106
+A Penalty Aware Memory Allocation Scheme for Key-Value Cache.	Jianqiang Ou,Marc Patton,Michael Devon Moore,Yuehai Xu,Song Jiang 0001	10.1109/ICPP.2015.62
+A Testing Engine for High-Performance and Cost-Effective Workflow Execution in the Cloud.	Vivek K. Pallipuram,Trilce Estrada,Michela Taufer	10.1109/ICPP.2015.94
+Energy-Efficient and Delay-Constrained Broadcast in Time-Varying Energy-Demand Graphs.	Chenxi Qiu,Haiying Shen,Lei Yu 0002	10.1109/ICPP.2015.28
+Optimization of Resource Allocation and Energy Efficiency in Heterogeneous Cloud Data Centers.	Amer Qouneh,Ming Liu 0006,Tao Li 0006	10.1109/ICPP.2015.9
+Energy-Aware Cost-Effective Cooperative Mobile Streaming on Smartphones over Hybrid Wireless Networks.	Zhihao Qu,Baoliu Ye,Bin Tang,Sanglu Lu,Song Guo 0001	10.1109/ICPP.2015.33
+A Responsive Knapsack-Based Algorithm for Resource Provisioning and Scheduling of Scientific Workflows in Clouds.	Maria Alejandra Rodriguez,Rajkumar Buyya	10.1109/ICPP.2015.93
+GPGPU Benchmark Suites: How Well Do They Sample the Performance Spectrum?	Jee Ho Ryoo,Saddam Jamil Quirem,Michael LeBeane,Reena Panda,Shuang Song 0007,Lizy K. John	10.1109/ICPP.2015.41
+On Maximizing Reliability of Lifetime Constrained Data Aggregation Tree in Wireless Sensor Networks.	Mengfan Shan,Guihai Chen,Fan Wu 0006,Xiaobing Wu,Xiaofeng Gao 0001,Pan Wu,Haipeng Dai	10.1109/ICPP.2015.17
+Is Your Graph Algorithm Eligible for Nondeterministic Execution?	Zhiyuan Shao,Lin Hou,Yan Ai,Yu Zhang 0027,Hai Jin 0001	10.1109/ICPP.2015.52
+Matchmaking Applications and Partitioning Strategies for Efficient Execution on Heterogeneous Platforms.	Jie Shen 0003,Ana Lucia Varbanescu,Xavier Martorell,Henk J. Sips	10.1109/ICPP.2015.65
+Elastic and Efficient Virtual Network Provisioning for Cloud-Based Multi-tier Applications.	Meng Shen 0001,Ke Xu 0002,Fan Li 0001,Kun Yang 0001,Liehuang Zhu,Lei Guan	10.1109/ICPP.2015.102
+GPSA: A Graph Processing System with Actors.	Jianhua Sun 0002,Dongwei Zhou,Hao Chen 0002,Cheng Chang,Zhiwen Chen 0006,Wentao Li,Ligang He	10.1109/ICPP.2015.80
+Crowdsourcing Sensing Workloads of Heterogeneous Tasks: A Distributed Fairness-Aware Approach.	Wei Sun 0013,Yanmin Zhu,Lionel M. Ni,Bo Li 0001	10.1109/ICPP.2015.67
+Exploring Hardware Profile-Guided Green Datacenter Scheduling.	Weichao Tang,Yu Wang 0052,Haopeng Liu,Tao Zhang 0046,Chao Li 0009,Xiaoyao Liang	10.1109/ICPP.2015.10
+RepFD - Using Reputation Systems to Detect Failures in Large Dynamic Networks.	Maxime Pierre Andre Veron,Olivier Marin,Sébastien Monnet,Pierre Sens 0001	10.1109/ICPP.2015.18
+Design and Implementation of a Highly Efficient DGEMM for 64-Bit ARMv8 Multi-core Processors.	Feng Wang,Hao Jiang 0001,Ke Zuo,Xing Su,Jingling Xue,Canqun Yang	10.1109/ICPP.2015.29
+Using Per-Loop CPU Clock Modulation for Energy Efficiency in OpenMP Applications.	Wei Wang 0082,Allan Porterfield,John Cavazos,Sridutt Bhalachandra	10.1109/ICPP.2015.72
+A Buffer Management Strategy on Spray and Wait Routing Protocol in DTNs.	En Wang,Yongjian Yang,Jie Wu 0001,Wenbin Liu	10.1109/ICPP.2015.89
+DPX10: An Efficient X10 Framework for Dynamic Programming Applications.	Chen Wang 0004,Ce Yu,Jizhou Sun,Xiangfei Meng	10.1109/ICPP.2015.96
+Connecting the Dots: Reconstructing Network Behavior with Individual and Lossy Logs.	Jiliang Wang,Xiaolong Zheng 0002,XuFei Mao,Zhichao Cao 0001,Daibo Liu,Yunhao Liu 0001	10.1109/ICPP.2015.26
+Code 5-6: An Efficient MDS Array Coding Scheme to Accelerate Online RAID Level Migration.	Chentao Wu,Xubin He,Jie Li 0002,Minyi Guo	10.1109/ICPP.2015.54
+Fast FCoE: An Efficient and Scale-Up Multi-core Framework for FCoE-Based SAN Storage Systems.	Yunxiang Wu,Fang Wang 0001,Yu Hua 0001,Dan Feng 0001,Yuchong Hu,Jingning Liu,Wei Tong 0001	10.1109/ICPP.2015.42
+Evaluating Latency-Sensitive Applications: Performance Degradation in Datacenters with Restricted Power Budget.	Song Wu 0001,Chuxiong Yan,Haibao Chen,Hai Jin 0001,Wei Guo,Zhen Wang,Deqing Zou	10.1109/ICPP.2015.73
+Accelerating Spectral Calculation through Hybrid GPU-Based Computing.	Jian Xiao 0001,Xingyu Xu 0006,Ce Yu,Jiawan Zhang,Shuinai Zhang,Li Ji,Jizhou Sun	10.1109/ICPP.2015.13
+SCAN: A Smart Application Platform for Empowering Parallelizations of Big Genomic Data Analysis in Clouds.	Wei Xing,Wei Jie,Crispin J. Miller	10.1109/ICPP.2015.38
+SZTS: A Novel Big Data Transportation System Benchmark Suite.	Wen Xiong,Zhibin Yu 0001,Lieven Eeckhout,Zhengdong Bei,Fan Zhang 0019,Cheng-Zhong Xu 0001	10.1109/ICPP.2015.91
+Study on Partitioning Real-World Directed Graphs of Skewed Degree Distribution.	Jie Yan,Guangming Tan,Ninghui Sun	10.1109/ICPP.2015.37
+Good Work Deserves Good Pay: A Quality-Based Surplus Sharing Method for Participatory Sensing.	Shuo Yang 0001,Fan Wu 0006,Shaojie Tang,Xiaofeng Gao 0001,Bo Yang 0006,Guihai Chen	10.1109/ICPP.2015.47
+Bit Flipping Errors in High Performance Linpack at Exascale and Beyond.	Erlin Yao,Guangming Tan	10.1109/ICPP.2015.51
+REED: A Reliable Energy-Efficient RAID.	Shu Yin,Xuewu Li,Kenli Li 0001,Jianzhong Huang 0001,Xiaojun Ruan,Xiaomin Zhu 0001,Wei Cao,Xiao Qin 0001	10.1109/ICPP.2015.74
+Zebra: An East-West Control Framework for SDN Controllers.	Haisheng Yu 0001,Keqiu Li,Heng Qi,Wenxin Li 0001,Xiaoyi Tao	10.1109/ICPP.2015.70
+Pattern-Driven Hybrid Multi- and Many-Core Acceleration in the MPAS Shallow-Water Model.	Peng Zhang,Yulong Ao,Chao Yang 0002,Yiqung Liu 0005,Fangfang Liu,Changmao Wu,Haitao Zhao	10.1109/ICPP.2015.16
+PIC: Enable Large-Scale Privacy Preserving Content-Based Image Search on Cloud.	Lan Zhang 0002,Taeho Jung,Puchun Feng,Kebin Liu,Xiang-Yang Li 0001,Yunhao Liu 0001	10.1109/ICPP.2015.104
+PLP: Protecting Location Privacy Against Correlation-Analysis Attack in Crowdsensing.	Shanfeng Zhang,Qiang Ma 0007,Tong Zhu 0001,Kebin Liu,Lan Zhang 0002,Wenbo He,Yunhao Liu 0001	10.1109/ICPP.2015.20
+Privacy Preserving Market Schemes for Mobile Sensing.	Yuan Zhang 0004,Yunlong Mao,He Zhang,Sheng Zhong 0002	10.1109/ICPP.2015.100
+What Is Wrong with the Transmission? A Comprehensive Study on Message Passing Related Bugs.	Mingxing Zhang,Yongwei Wu,Kang Chen,Weimin Zheng	10.1109/ICPP.2015.50
+SLA-Based Resource Scheduling for Big Data Analytics as a Service in Cloud Computing Environments.	Yali Zhao,Rodrigo N. Calheiros,Graeme Gange,Kotagiri Ramamohanarao,Rajkumar Buyya	10.1109/ICPP.2015.60
+LMDD: Light-Weight Magnetic-Based Door Detection with Your Smartphone.	Yiyang Zhao,Chen Qian 0001,Liangyi Gong,Zhenhua Li 0001,Yunhao Liu 0001	10.1109/ICPP.2015.101
+MAMS: A Highly Reliable Policy for Metadata Service.	Jiang Zhou,Yong Chen 0001,Weiping Wang 0005,Dan Meng	10.1109/ICPP.2015.82
+Modelling and Developing Co-scheduling Strategies on Multicore Processors.	Huanzhou Zhu,Ligang He,Bo Gao 0001,Kenli Li 0001,Jianhua Sun 0002,Hao Chen 0002,Keqin Li 0001	10.1109/ICPP.2015.31
+MIFO: Multi-path Interdomain Forwarding.	Ming Zhu,Dan Li 0001,Ying Liu 0024,Dan Pei,K. K. Ramakrishnan,Lili Liu,Jianping Wu	10.1109/ICPP.2015.27
+Leveraging Error Compensation to Minimize Time Deviation in Parallel Multi-core Simulations.	Xiaodong Zhu,Junmin Wu,Tao Li	10.1109/ICPP.2015.21
+44th International Conference on Parallel Processing, ICPP 2015, Beijing, China, September 1-4, 2015		

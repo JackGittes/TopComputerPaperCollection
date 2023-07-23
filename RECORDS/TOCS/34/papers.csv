@@ -1,0 +1,12 @@
+The IX Operating System: Combining Low Latency, High Throughput, and Efficiency in a Protected Dataplane.	Adam Belay,George Prekas,Mia Primorac,Ana Klimovic,Samuel Grossman,Christos Kozyrakis,Edouard Bugnion	10.1145/2997641
+Computational Sprinting: Architecture, Dynamics, and Strategies.	Seyed Majid Zahedi,Songchun Fan,Matthew Faw,Elijah Cole,Benjamin C. Lee	10.1145/3014428
+Reliability Analysis of SSDs Under Power Fault.	Mai Zheng,Joseph Tucek,Feng Qin,Mark Lillibridge,Bill W. Zhao,Elizabeth S. Yang	10.1145/2992782
+Identifying Power-Efficient Multicore Cache Hierarchies via Reuse Distance Analysis.	Michael Badamo,Jeff Casarona,Minshu Zhao,Donald Yeung	10.1145/2851503
+Designing Future Warehouse-Scale Computers for Sirius, an End-to-End Voice and Vision Personal Assistant.	Johann Hauswald,Michael A. Laurenzano,Yunqi Zhang,Hailong Yang,Yiping Kang,Cheng Li,Austin Rovinski,Arjun Khurana,Ronald G. Dreslinski,Trevor N. Mudge,Vinicius Petrucci,Lingjia Tang,Jason Mars	10.1145/2870631
+L4 Microkernels: The Lessons from 20 Years of Research and Deployment.	Gernot Heiser,Kevin Elphinstone	10.1145/2893177
+BlueDBM: Distributed Flash Storage for Big Data Analytics.	Sang Woo Jun,Ming Liu,Sungjin Lee 0001,Jamey Hicks,John Ankcorn,Myron King,Shuotao Xu,Arvind	10.1145/2898996
+Full-Stack Architecting to Achieve a Billion-Requests-Per-Second Throughput on a Single Key-Value Store Server Platform.	Sheng Li 0007,Hyeontaek Lim,Victor W. Lee,Jung Ho Ahn,Anuj Kalia,Michael Kaminsky,David G. Andersen,Seongil O,Sukhan Lee 0002,Pradeep Dubey	10.1145/2897393
+Improving Resource Efficiency at Scale with Heracles.	David Lo 0003,Liqun Cheng,Rama Govindaraju,Parthasarathy Ranganathan,Christos Kozyrakis	10.1145/2882783
+EOLE: Combining Static and Dynamic Scheduling Through Value Prediction to Reduce Complexity and Increase Performance.	Arthur Perais,André Seznec	10.1145/2870632
+GPUnet: Networking Abstractions for GPU Programs.	Mark Silberstein,Sangman Kim,Seonggu Huh,Xinya Zhang,Yige Hu,Amir Wated,Emmett Witchel	10.1145/2963098
+A Virtualized Separation Kernel for Mixed-Criticality Systems.	Richard West,Ye Li 0001,Eric S. Missimer,Matthew Danish	10.1145/2935748

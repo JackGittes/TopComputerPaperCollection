@@ -1,0 +1,13 @@
+Assisting Static Compiler Vectorization with a Speculative Dynamic Vectorizer in an HW/SW Codesigned Environment.	Rakesh Kumar 0003,Alejandro Martínez,Antonio González 0001	
+Fast and Portable Locking for Multicore Architectures.	Jean-Pierre Lozi,Florian David,Gaël Thomas 0001,Julia Lawall,Gilles Muller	
+Arrakis: The Operating System Is the Control Plane.	Simon Peter 0001,Jialin Li 0001,Irene Zhang,Dan R. K. Ports,Doug Woos,Arvind Krishnamurthy,Thomas E. Anderson,Timothy Roscoe	10.1145/2812806
+Shielding Applications from an Untrusted Cloud with Haven.	Andrew Baumann,Marcus Peinado,Galen C. Hunt	10.1145/2799647
+Energy-Oriented Partial Desktop Virtual Machine Migration.	Nilton Bila,Eric J. Wright,Eyal de Lara,Kaustubh R. Joshi,H. Andrés Lagar-Cavilla,Eunbyung Park,Ashvin Goel,Matti A. Hiltunen,Mahadev Satyanarayanan	10.1145/2699683
+ISA Wars: Understanding the Relevance of ISA being RISC or CISC to Performance, Power, and Energy on Modern Architectures.	Emily R. Blem,Jaikrishnan Menon,Thiruvengadam Vijayaraghavan,Karthikeyan Sankaralingam	10.1145/2699682
+A Small-Footprint Accelerator for Large-Scale Neural Networks.	Tianshi Chen 0002,Shijin Zhang,Shaoli Liu,Zidong Du,Tao Luo,Yuan Gao,Junjie Liu,Dongsheng Wang 0002,Chengyong Wu,Ninghui Sun,Yunji Chen,Olivier Temam	10.1145/2701417
+Fireflies: A Secure and Scalable Membership and Gossip Service.	Håvard D. Johansen,Robbert van Renesse,Ymir Vigfusson,Dag Johansen	10.1145/2701418
+SKMD: Single Kernel on Multiple Devices for Transparent CPU-GPU Collaboration.	Janghaeng Lee,Mehrzad Samadi,Yongjun Park 0001,Scott A. Mahlke	10.1145/2798725
+K2: A Mobile Operating System for Heterogeneous Coherence Domains.	Felix Xiaozhu Lin,Zhen Wang 0006,Lin Zhong 0001	10.1145/2699676
+The RAMCloud Storage System.	John K. Ousterhout,Arjun Gopalan,Ashish Gupta,Ankita Kejriwal,Collin Lee,Behnam Montazeri,Diego Ongaro,Seo Jin Park,Henry Qin,Mendel Rosenblum,Stephen M. Rumble,Ryan Stutsman,Stephen Yang	10.1145/2806887
+Efficient Control and Communication Paradigms for Coarse-Grained Spatial Architectures.	Michael Pellauer,Angshuman Parashar,Michael Adler,Bushra Ahsan,Randy L. Allmon,Neal Clayton Crago,Kermin Fleming,Mohit Gambhir,Aamer Jaleel,Tushar Krishna,Daniel Lustig,Stephen Maresh,Vladimir Pavlov,Rachid Rayess,Antonia Zhai,Joel S. Emer	10.1145/2754930
+A Differential Approach to Undefined Behavior Detection.	Xi Wang 0005,Nickolai Zeldovich,M. Frans Kaashoek,Armando Solar-Lezama	10.1145/2699678

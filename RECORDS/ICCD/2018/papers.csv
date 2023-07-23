@@ -1,0 +1,86 @@
+LEA: A Lazy Eviction Algorithm for SSD Cache in Cloud Block Storage.	Ke Zhou 0001,Yu Zhang 0101,Ping Huang 0001,Hua Wang 0008,Yongguang Ji,Bin Cheng,Ying Liu	10.1109/ICCD.2018.00091
+OSPADA: One-Shot Programming Aware Data Allocation Policy to Improve 3D NAND Flash Read Performance.	Fei Wu 0005,Zuo Lu,You Zhou,Xubin He,Zhi-hu Tan,Changsheng Xie	10.1109/ICCD.2018.00018
+Characterizing 3D Charge Trap NAND Flash: Observations, Analyses and Applications.	Fei Wu 0005,Yue Zhu,Qin Xiong,Zhonghai Lu,You Zhou,Weizhen Kong,Changsheng Xie	10.1109/ICCD.2018.00064
+Dynamically Disabling Way-prediction to Reduce Instruction Replay.	Ricardo Alves 0001,Stefanos Kaxiras,David Black-Schaffer	10.1109/ICCD.2018.00029
+How Multi-Threshold Designs Can Protect Analog IPs.	Abdullah Ash-Saki,Swaroop Ghosh	10.1109/ICCD.2018.00075
+Optimization of Mutant Space for RTL Test Generation.	Kunal Bansal,Michael S. Hsiao	10.1109/ICCD.2018.00076
+R-Cache: A Highly Set-Associative In-Package Cache Using Memristive Arrays.	Payman Behnam,Arjun Pal Chowdhury,Mahdi Nazm Bojnordi	10.1109/ICCD.2018.00070
+RETUNES: Reliable and Energy-Efficient Network-on-Chip Architecture.	Padmaja Bhamidipati,Avinash Karanth	10.1109/ICCD.2018.00079
+A Plain-Text Incremental Compression (PIC) Technique with Fast Lookup Ability.	Kunal Bharathi,Harsh Kumar,Abbas A. Fairouz,Ahmad Al Kawam,Sunil P. Khatri	10.1109/ICCD.2018.00065
+Trading Off Temperature Guardbands via Adaptive Approximations.	Behzad Boroujerdian,Hussam Amrouch,Jörg Henkel,Andreas Gerstlauer	10.1109/ICCD.2018.00039
+DR DRAM: Accelerating Memory-Read-Intensive Applications.	Yuhai Cao,Chao Li 0009,Quan Chen 0002,Jingwen Leng,Minyi Guo,Jing Wang 0055,Weigong Zhang	10.1109/ICCD.2018.00053
+Hardware-Based Probabilistic Threat Detection and Estimation for Embedded Systems.	Nadir Amin Carreon,Sixing Lu,Roman Lysecky	10.1109/ICCD.2018.00084
+Array Tracking Prefetcher for Indirect Accesses.	Mustafa Cavus,Resit Sendag,Joshua J. Yi	10.1109/ICCD.2018.00028
+Analysis and Characterization of Ultra Low Power Branch Predictors.	Athanasios Chatzidimitriou,George Papadimitriou 0001,Dimitris Gizopoulos,Shrikanth Ganapathy,John Kalamatianos	10.1109/ICCD.2018.00030
+Parameterized Posit Arithmetic Hardware Generator.	Rohit Chaurasiya,John L. Gustafson,Rahul Shrestha,Jonathan Neudorfer,Sangeeth Nambiar,Kaustav Niyogi,Farhad Merchant,Rainer Leupers	10.1109/ICCD.2018.00057
+Towards Efficient Microarchitecture Design of Simultaneous Localization and Mapping in Augmented Reality Era.	Huixiang Chen 0001,Yuting Dai,Rui Xue,Kan Zhong,Tao Li 0006	10.1109/ICCD.2018.00066
+DEC-NoC: An Approximate Framework Based on Dynamic Error Control with Applications to Energy-Efficient NoCs.	Yuechen Chen,Md Farhadur Reza,Ahmed Louri	10.1109/ICCD.2018.00078
+Reverse Engineering of Split Manufactured Sequential Circuits Using Satisfiability Checking.	Suyuan Chen,Ranga Vemuri	10.1109/ICCD.2018.00085
+R-Accelerator: A Reconfigurable Accelerator with RRAM Based Logic Contraction and Resource Optimization for Application Specific Computing.	Zhengyu Chen 0002,Hai Zhou,Jie Gu 0001	10.1109/ICCD.2018.00034
+Heuristic Approximation of Early-Stage CNN Data Representation for Vision Intelligence Systems.	Jinhang Choi,Jack Sampson,Vijaykrishnan Narayanan	10.1109/ICCD.2018.00041
+Accelerating Synchronization in Graph Analytics Using Moving Compute to Data Model on Tilera TILE-Gx72.	Halit Dogan,Masab Ahmad,José A. Joao,Omer Khan	10.1109/ICCD.2018.00080
+Synchronization of Ring-Based Resonant Standing Wave Oscillators for 3D Clocking Applications.	Andrew J. Douglass,Sunil P. Khatri	10.1109/ICCD.2018.00055
+Lattice-Traversing Design Space Exploration for High Level Synthesis.	Lorenzo Ferretti,Giovanni Ansaloni,Laura Pozzi	10.1109/ICCD.2018.00040
+CART: Cache Access Reordering Tree for Efficient Cache and Memory Accesses in GPUs.	Yongbin Gu,Lizhong Chen	10.1109/ICCD.2018.00046
+SGXlinger: A New Side-Channel Attack Vector Based on Interrupt Latency Against Enclave Execution.	Wenjian He,Wei Zhang 0012,Sanjeev Das,Yang Liu 0003	10.1109/ICCD.2018.00025
+Power-Efficient ReRAM-Aware CNN Model Generation.	Maedeh Hemmat,Azadeh Davoodi	10.1109/ICCD.2018.00033
+Power Grab in Aggressively Provisioned Data Centers: What is the Risk and What Can Be Done About It.	Xiaofeng Hou,Luoyao Hao,Chao Li 0009,Quan Chen 0002,Wenli Zheng,Minyi Guo	10.1109/ICCD.2018.00015
+Forca: Fast and Atomic Remote Direct Access to Persistent Memory.	Haixin Huang,Kaixin Huang,Litong You,Linpeng Huang	10.1109/ICCD.2018.00045
+Pensieve: a Machine Learning Assisted SSD Layer for Extending the Lifetime.	Te I,Murtuza Lokhandwala,Yu-Ching Hu,Hung-Wei Tseng 0001	10.1109/ICCD.2018.00016
+Training Neural Networks with Low Precision Dynamic Fixed-Point.	Sujeong Jo,Hanmin Park,Gunhee Lee,Kiyoung Choi	10.1109/ICCD.2018.00067
+Using Machine Learning to Predict Path-Based Slack from Graph-Based Timing Analysis.	Andrew B. Kahng,Uday Mallappa,Lawrence K. Saul	10.1109/ICCD.2018.00096
+A Timing Side-Channel Attack on a Mobile GPU.	Elmira Karimi,Zhen Hang Jiang,Yunsi Fei,David R. Kaeli	10.1109/ICCD.2018.00020
+Analysis of Row Hammer Attack on STTRAM.	Mohammad Nasim Imtiaz Khan,Swaroop Ghosh	10.1109/ICCD.2018.00021
+Guiding RTL Test Generation Using Relevant Potential Invariants.	Tania Khanna,Michael Hsiao	10.1109/ICCD.2018.00073
+BLPP: Improving the Performance of GPGPUs with Heterogeneous Memory through Bandwidth- and Latency-Aware Page Placement.	Kyu Yeun Kim,Woongki Baek	10.1109/ICCD.2018.00061
+Solar-DRAM: Reducing DRAM Access Latency by Exploiting the Variation in Local Bitlines.	Jeremie S. Kim,Minesh Patel,Hasan Hassan,Onur Mutlu	10.1109/ICCD.2018.00051
+General IDS Acceleration for High-Speed Networks.	Jan Kucera 0004,Lukas Kekely,Adam Piecek,Jan Korenek	10.1109/ICCD.2018.00062
+Scalable and Efficient Virtual Memory Sharing in Heterogeneous SoCs with TLB Prefetching and MMU-Aware DMA Engine.	Andreas Kurth,Pirmin Vogel,Andrea Marongiu,Luca Benini	10.1109/ICCD.2018.00052
+Low-Overhead Microarchitectural Patching for Multicore Memory Subsystems.	Doowon Lee,Opeoluwa Matthews,Valeria Bertacco	10.1109/ICCD.2018.00014
+SYNCVIBE: Fast and Secure Device Pairing through Physical Vibration on Commodity Smartphones.	Kyuin Lee,Vijay Raghunathan,Anand Raghunathan,Younghyun Kim 0001	10.1109/ICCD.2018.00043
+Low Area-Delay Complexity Digit-Level Parallel-In Serial-Out Multiplier Over GF(2m) Based on Overlap-Free Karatsuba Algorithm.	Chiou-Yng Lee,Jiafeng Xie	10.1109/ICCD.2018.00037
+Path Prefetching: Accelerating Index Searches for In-Memory Databases.	Shuo Li 0007,Zhiguang Chen,Nong Xiao,Guangyu Sun 0003	10.1109/ICCD.2018.00049
+Eca-Router : On Achieving Endpoint Congestion Aware Switch Allocation in the On-Chip Network.	Cunlu Li,Dezun Dong,Xiangke Liao	10.1109/ICCD.2018.00081
+Selective Compression Scheme for Read Performance Improvement on Flash Devices.	Qiao Li 0001,Liang Shi,Riwei Pan,Cheng Ji,Xiaoqiang Li,Chun Jason Xue	10.1109/ICCD.2018.00017
+Back-End Layout Reflection for Test Chip Design.	Zeye Liu 0001,Ronald D. Blanton	10.1109/ICCD.2018.00074
+Composable Template Attacks Using Templates for Individual Architectural Components.	Bozhi Liu,Roman Lysecky,Janet Meiling Wang Roveda	10.1109/ICCD.2018.00012
+Minimizing Thermal Variation in Heterogeneous HPC Systems with FPGA Nodes.	Yingyi Luo,Xiaoyang Wang,Seda Ogrenci Memik,Gokhan Memik,Kazutomo Yoshii,Peter H. Beckman	10.1109/ICCD.2018.00086
+FPGA Virtualization in Cloud-Based Infrastructures Over Virtio.	Joel Mandebi Mbongue,Festus Hategekimana,Danielle Tchuinkou Kwadjo,Christophe Bobda	10.1109/ICCD.2018.00044
+Breeze: User-Level Access to Non-Volatile Main Memories for Legacy Software.	Amir Saman Memaripour,Steven Swanson	10.1109/ICCD.2018.00069
+Dynamic Computing in Memory (DCIM) in Resistive Crossbar Arrays.	Seyedhamidreza Motaman,Swaroop Ghosh	10.1109/ICCD.2018.00036
+SPF: Selective Pipeline Flush.	Vignyan Reddy Kothinti Naresh,Rami Sheikh,Arthur Perais,Harold W. Cain	10.1109/ICCD.2018.00032
+A Reliability Study on CNNs for Critical Embedded Systems.	Mohamed A. Neggaz,Ihsen Alouani,Pablo R. Lorenzo,Smaïl Niar	10.1109/ICCD.2018.00077
+Thermal-Aware 3D Symmetrical Buffered Clock Tree Synthesis.	Deok Keun Oh,Mu Jun Choi,Juho Kim	10.1109/ICCD.2018.00013
+Breaking the Oblivious-RAM Bandwidth Wall.	Hamza Omar,Syed Kamran Haider,Ling Ren 0001,Marten van Dijk,Omer Khan	10.1109/ICCD.2018.00026
+NVCool: When Non-Volatile Caches Meet Cold Boot Attacks.	Xiang Pan,Anys Bacha,Spencer Rudolph,Li Zhou,Yinqian Zhang,Radu Teodorescu	10.1109/ICCD.2018.00072
+Design and Evaluation of a PVT Variation-Resistant TRNG Circuit.	Bikash Poudel,Arslan Munir	10.1109/ICCD.2018.00083
+Optimizing Virtual Resource Management for Consolidated NUMA Systems.	Jianmin Qian,Jian Li 0021,Ruhui Ma,Haibing Guan	10.1109/ICCD.2018.00092
+Accurate Performance Bounds Calculation for Dynamic Voltage-Freq Islands in Best Effort NoCs.	Dara Rahmati,Sobhan Masoudi,Ahmad Khonsari,Reza Sabbaghi-Nadooshan	10.1109/ICCD.2018.00082
+PIM-TGAN: A Processing-in-Memory Accelerator for Ternary Generative Adversarial Networks.	Adnan Siraj Rakin,Shaahin Angizi,Zhezhi He,Deliang Fan	10.1109/ICCD.2018.00048
+ReadPRO: Read Prioritization Scheduling in ORAM for Efficient Obfuscation in Main Memories.	Joydeep Rakshit,Kartik Mohanram	10.1109/ICCD.2018.00024
+Scalable Multi-Queue Data Transfer Scheme for FPGA-Based Multi-Accelerators.	Siavash Rezaei,Kanghee Kim,Eli Bozorgzadeh	10.1109/ICCD.2018.00063
+OldSpot: A Pre-RTL Model for Fine-Grained Aging and Lifetime Optimization.	Alec Roelke,Xinfei Guo,Mircea Stan	10.1109/ICCD.2018.00031
+Puzzle Memory: Multifractional Partitioned Heterogeneous Memory Scheme.	Jee Ho Ryoo,Shuang Song 0007,Lizy K. John	10.1109/ICCD.2018.00054
+Rearranging Random Issue Queue with High IPC and Short Delay.	Shinji Sakai,Taishi Suenaga,Ryota Shioya,Hideki Ando	10.1109/ICCD.2018.00027
+BGIM: Bit-Grained Instant-on Memory Cell for Sleep Power Critical Mobile Applications.	Soheil Salehi,Ronald F. DeMara	10.1109/ICCD.2018.00058
+Fine-Grained Parallel Routing for FPGAs with Selective Expansion.	Minghua Shen,Nong Xiao	10.1109/ICCD.2018.00093
+Load Balance-Aware Multi-Core Parallel Routing for Large-Scale FPGAs.	Minghua Shen,Nong Xiao	10.1109/ICCD.2018.00095
+Automatic Mapping of the Sum-Product Network Inference Problem to FPGA-Based Accelerators.	Lukas Sommer,Julian Oppermann,Alejandro Molina 0001,Carsten Binnig,Kristian Kersting,Andreas Koch 0001	10.1109/ICCD.2018.00060
+Decentralized Collaborative Power Management through Multi-Device Knowledge Sharing.	Zhongyuan Tian,Haoran Li 0002,Rafael Kioji Vivas Maeda,Jun Feng 0008,Jiang Xu 0001	10.1109/ICCD.2018.00068
+3D Crosspoint Memory as a Parallel Architecture for Computing Network Reachability.	Alvaro Velasquez,Sumit Kumar Jha 0001	10.1109/ICCD.2018.00035
+Enabling Accurate Performance Isolation on Hybrid Storage Devices in Cloud Environment.	Chuanwen Wang,Diansen Sun,Yunpeng Chai,Fang Zhou	10.1109/ICCD.2018.00090
+Reducing Inter-Application Interferences in Integrated CPU-GPU Heterogeneous Architecture.	Hao Wen,Wei Zhang 0002	10.1109/ICCD.2018.00050
+Machine Learning on the Thermal Side-Channel: Analysis of Accelerator-Rich Architectures.	David Werner,Kyle Juretus,Ioannis Savidis,Mark Hempstead	10.1109/ICCD.2018.00022
+CheriRTOS: A Capability Model for Embedded Devices.	Hongyan Xia,Jonathan Woodruff,Hadrien Barral,Lawrence Esswood,Alexandre Joannou,Robert Kovacsics,David Chisnall,Michael Roe,Brooks Davis,Edward Napierala,John Baldwin,Khilan Gudka,Peter G. Neumann,Alexander Richardson,Simon W. Moore,Robert N. M. Watson	10.1109/ICCD.2018.00023
+OME: An Optimized Modeling Engine for Disk Failure Prediction in Heterogeneous Datacenter.	Yanwen Xie,Dan Feng 0001,Fang Wang 0001,Xinyan Zhang,Jizhong Han,Xuehai Tang	10.1109/ICCD.2018.00089
+Puppet: Energy Efficient Task Mapping For Storage-Less and Converter-Less Solar-Powered Non-Volatile Sensor Nodes.	Yue Xu,Hyung Gyu Lee,Xianzhang Chen,Bo Peng,Duo Liu,Liang Liang 0002	10.1109/ICCD.2018.00042
+Autonomous Temperature Management through Selective Control of Exact-Approximate Tiles.	Siyuan Xu,Benjamin Carrión Schäfer	10.1109/ICCD.2018.00059
+DEEP: Dedicated Energy-Efficient Approximation for Dynamically Reconfigurable Architectures.	Siyuan Xu,Benjamin Carrión Schäfer	10.1109/ICCD.2018.00094
+Cap: Exploiting Data Correlations to Improve the Performance and Endurance of SSD RAID.	Gaoxiang Xu,Zhipeng Tan,Dan Feng 0001,Yifeng Zhu,Xinyan Zhang,Jie Xu 0013	10.1109/ICCD.2018.00019
+A Highly Non-Volatile Memory Scalable and Efficient File System.	Fan Yang,Junbin Kang,Shuai Ma 0001,Jinpeng Huai	10.1109/ICCD.2018.00071
+Generalized Tree Architecture for Efficient Successive-Cancellation Polar Decoding.	Hye-Yeon Yoon,Tae-Hwan Kim	10.1109/ICCD.2018.00056
+Software and Hardware Techniques for Reducing the Impact of Quantization Errors in Memristor Crossbar Arrays.	Baogang Zhang,Rickard Ewetz	10.1109/ICCD.2018.00038
+A Compact AES Hardware Implementation Secure Against 1st-Order Side-Channel Attacks.	Qian Zhang 0042,Yongbin Zhou,Shuang Qiu 0004,Wei Cheng 0003,Jingdian Ming,Rui Zhang 0002	10.1109/ICCD.2018.00087
+ArchSampler: Architecture-Aware Memory Sampling Library for In-Memory Applications.	Jian Zhou,Jun Wang 0001	10.1109/ICCD.2018.00047
+PFCG: Improving the Restore Performance of Package Datasets in Deduplication Systems.	Chunxue Zuo,Fang Wang 0001,Ping Huang,Yuchong Hu,Dan Feng 0001,Yucheng Zhang	10.1109/ICCD.2018.00088
+36th IEEE International Conference on Computer Design, ICCD 2018, Orlando, FL, USA, October 7-10, 2018		

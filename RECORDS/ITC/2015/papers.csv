@@ -1,0 +1,49 @@
+Embedded deterministic test points for compact cell-aware tests.	Cesar Acero,Derek Feltham,Friedrich Hapke,Elham K. Moghaddam,Nilanjan Mukherjee 0001,Vidya Neerkundar,Marek Patyra,Janusz Rajski,Jerzy Tyszer,Justyna Zawada	10.1109/TEST.2015.7342383
+Brain-inspired computing.	Karim Arabi	10.1109/TEST.2015.7342374
+Secure design-for-debug for Systems-on-Chip.	Jerry Backer,David Hély,Ramesh Karri	10.1109/TEST.2015.7342418
+PiRA: IC authentication utilizing intrinsic variations in pin resistance.	Abhishek Basak,Fengchao Zhang,Swarup Bhunia	10.1109/TEST.2015.7342388
+Design reflection for optimal test-chip implementation.	R. D. (Shawn) Blanton,Benjamin Niewenhuis,Zeye (Dexter) Liu	10.1109/TEST.2015.7342379
+Can we ensure reliability in the era of heterogeneous integration?	William R. Bottoms	10.1109/TEST.2015.7342376
+Contactless pre-bond TSV fault diagnosis using duty-cycle detectors and ring oscillators.	Sergej Deutsch,Krishnendu Chakrabarty	10.1109/TEST.2015.7342389
+Test and debug solutions for 3D-stacked integrated circuits.	Sergej Deutsch,Krishnendu Chakrabarty	10.1109/TEST.2015.7342421
+A general testing method for digital microfluidic biochips under physical constraints.	Trung Anh Dinh,Shigeru Yamashita,Tsung-Yi Ho,Krishnendu Chakrabarty	10.1109/TEST.2015.7342403
+Stepped parity: A low-cost multiple bit upset detection technique.	Mojtaba Ebrahimi,Mehdi Baradaran Tahoori	10.1109/TEST.2015.7342410
+Hardware Trojans hidden in RTL don&apos;t cares - Automated insertion and prevention methodologies.	Nicole Fern,Shrikant Kulkarni,Kwang-Ting (Tim) Cheng	10.1109/TEST.2015.7342387
+Stochastic timing error rate estimation under process and temporal variations.	Shoichi Iizuka,Yutaka Masuda,Masanori Hashimoto,Takao Onoye	10.1109/TEST.2015.7342404
+An ATE system for testing 2.4-GHz RF digital communication devices with QAM signal interfaces.	Masahiro Ishida,Kiyotaka Ichiyama	10.1109/TEST.2015.7342394
+A self-compensating built-in self-test solution for RF phased array mismatch.	Jae Woong Jeong,Jennifer Kitchen,Sule Ozev	10.1109/TEST.2015.7342414
+On diagnosable and tunable 3D clock network design for lifetime reliability enhancement.	Li Jiang 0002,Pu Pang,Naifeng Jing,Sung Kyu Lim,Xiaoyao Liang,Qiang Xu 0001	10.1109/TEST.2015.7342405
+Yield and reliability enhancement for 3D ICs: Dissertation summary: IEEE TTTC E.J. McCluskey doctoral thesis award competition finalist.	Li Jiang 0002,Qiang Xu 0001	10.1109/TEST.2015.7342423
+Modeling the future of semiconductors (and test!).	Andrew B. Kahng	10.1109/TEST.2015.7342375
+Hardware in loop testing of an insulin pump.	Sriram Karunagaran,Karuna P. Sahoo,Masahiro Fujita	10.1109/TEST.2015.7342416
+Access time minimization in IEEE 1687 networks.	Rene Krenz-Baath,Farrokh Ghani Zadegan,Erik Larsson	10.1109/TEST.2015.7342408
+Efficient observation-point insertion for diagnosability enhancement in digital circuits.	Zipeng Li,Sandeep Kumar Goel,Frank Lee,Krishnendu Chakrabarty	10.1109/TEST.2015.7342380
+AdaTest: An efficient statistical test framework for test escape screening.	Fan Lin,Chun-Kai Hsu,Kwang-Ting Cheng	10.1109/TEST.2015.7342391
+On generating high quality tests based on cell functions.	Xijiang Lin,Sudhakar M. Reddy	10.1109/TEST.2015.7342382
+A structured approach to post-silicon validation and debug using symbolic quick error detection.	David Lin,Eshan Singh,Clark W. Barrett,Subhasish Mitra	10.1109/TEST.2015.7342397
+Concurrent hardware Trojan detection in wireless cryptographic ICs.	Yu Liu,Georgios Volanis,Ke Huang 0001,Yiorgos Makris	10.1109/TEST.2015.7342386
+Tolerance analysis of fixture fabrication, from drilling holes to pointing accuracy.	An-Jim Long,David Tsai 0003,Kent Lien,Steve Hsu	10.1109/TEST.2015.7342401
+A comparative study of one-shot statistical calibration methods for analog / RF ICs.	Yichuan Lu,Kiruba S. Subramani,He Huang,Nathan Kupp,Ke Huang 0001,Yiorgos Makris	10.1109/TEST.2015.7342415
+Automated testing of bare die-to-die stacks.	Erik Jan Marinissen,Bart De Wachter,Teng Wang,Jens Fiedler,Jorg Kiesewetter,Karsten Stoll	10.1109/TEST.2015.7342412
+Developing a modern platform for test engineering - Introducing the origen semiconductor developer&apos;s kit.	Stephen McGinty,Daniel Hadad,Chris Nappi,Brian Caquelin	10.1109/TEST.2015.7342393
+Electrical package defect testing for volume production.	Xue Ming,Koelz Johann,Lee Chow York,Lee Kwan Wee,Shi Zhi Min	10.1109/TEST.2015.7342400
+A deterministic BIST scheme based on EDT-compressed test patterns.	Grzegorz Mrugalski,Janusz Rajski,Lukasz Rybak 0001,Jedrzej Solecki,Jerzy Tyszer	10.1109/TEST.2015.7342398
+Cross-layer approaches for an aging-aware design of nanoscale microprocessors: Dissertation summary: IEEE TTTC E.J. McCluskey doctoral thesis award competition finalist.	Fabian Oboril,Mehdi Baradaran Tahoori	10.1109/TEST.2015.7342422
+Optimizing delay tests at the memory boundary.	Kelly A. Ockunzzi,Michael R. Ouellette,Kevin W. Gorman	10.1109/TEST.2015.7342411
+eRNA: Refining of reconstructed digital waveform.	Hideo Okawara	10.1109/TEST.2015.7342392
+A case study: Leverage IEEE 1687 based method to automate modeling, verification, and test access for embedded instruments in a server processor.	Tassanee Payakapan,Senwen Kan,Ken Pham,Kathy Yang,Jean-Francois Cote,Martin Keim,Jennifer Dworak	10.1109/TEST.2015.7342407
+Platform IO and system memory test using L3 cache based test (CBT) and parallel execution of CPGC Intel BIST engine.	Bruce Querbach,Tan Peter Yanyang,Lovelace Van,David Blankenbeckler,Rahul Khanna,Sudeep Puligundla,Patrick Chiang 0001	10.1109/TEST.2015.7342399
+A DLL-based test solution for through silicon via (TSV) in 3D-stacked ICs.	Rashid Rashidzadeh,Esrafil Jedari,Tareq Muhammad Supon,Vladimir Mashkovtsev	10.1109/TEST.2015.7342390
+Generalization of an outlier model into a &quot;global&quot; perspective.	Sebastian Siatkowski,Chia-Ling Chang,Li-C. Wang,Nikolas Sumikawa,LeRoy Winemberg,W. Robert Daasch	10.1109/TEST.2015.7342396
+Evaluation of low-cost mixed-signal test techniques for circuits with long simulation times.	Haralampos-G. D. Stratigopoulos,Manuel J. Barragán,Salvador Mir,Hervé Le Gall,Neha Bhargava,Ankur Bal	10.1109/TEST.2015.7342385
+Streaming fast access to ADCs and DACs for mixed-signal ATPG.	Stephen K. Sunter,Jean-Francois Cote,Jeff Rearick	10.1109/TEST.2015.7342395
+Information-theoretic and statistical methods of failure log selection for improved diagnosis.	Sarmad Tanwir,Sarvesh Prabhu,Michael S. Hsiao,Loganathan Lingappan	10.1109/TEST.2015.7342381
+How many probes is enough? A low cost method for probe card depopulation with low risk.	Kevin Tiernan,Snehamay Sinha,Lily Pang,Robert Williams,Ken Delling	10.1109/TEST.2015.7342413
+Monitoring the delay of long interconnects via distributed TDC.	Meng-Ting Tsai,Shi-Yu Huang,Kun-Han Tsai,Wu-Tung Cheng	10.1109/TEST.2015.7342406
+Extending residue-based fault tolerance to encrypted computation.	Nektarios Georgios Tsoutsos,Michail Maniatakos	10.1109/TEST.2015.7342419
+Test-access-mechanism optimization for multi-Vdd SoCs.	Fotios Vartziotis,Xrysovalantis Kavousianos,Panagiotis Georgiou,Krishnendu Chakrabarty	10.1109/TEST.2015.7342420
+Rapid prototyping and test before silicon of integrated pressure sensors.	Adrian I. Voinea,Stefan Kampfer	10.1109/TEST.2015.7342402
+A new method for measuring alias-free aperture jitter in an ADC output.	Takahiro J. Yamaguchi,Katsuhiko Degawa,Masayuki Kawabata,Masahiro Ishida,Koichiro Uekusa,Mani Soma	10.1109/TEST.2015.7342384
+Testing methods for quaternary content addressable memory using charge-sharing sensing scheme.	Hao-Yu Yang,Rei-Fu Huang,Chin-Lung Su,Kuan-Hong Lin,Hang-Kaung Shu,Chi-Wei Peng,Mango Chia-Tso Chao	10.1109/TEST.2015.7342409
+FASTrust: Feature analysis for third-party IP trust verification.	Song Yao,Xiaoming Chen 0003,Jie Zhang 0046,Qiaoyi Liu,Jia Wang,Qiang Xu 0001,Yu Wang 0002,Huazhong Yang	10.1109/TEST.2015.7342417
+2015 IEEE International Test Conference, ITC 2015, Anaheim, CA, USA, October 6-8, 2015		

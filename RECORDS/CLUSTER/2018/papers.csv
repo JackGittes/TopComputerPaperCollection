@@ -1,0 +1,77 @@
+A Methodology for Characterizing the Correspondence Between Real and Proxy Applications.	Omar Aaziz,Jeanine E. Cook,Jonathan Cook,Tanner Juedeman,David Richards,Courtenay Vaughan	10.1109/CLUSTER.2018.00037
+Modeling Expected Application Runtime for Characterizing and Assessing Job Performance.	Omar Aaziz,Jonathan Cook,Mohammed Tanash	10.1109/CLUSTER.2018.00070
+Parallel Approximation of the Maximum Likelihood Estimation for the Prediction of Large-Scale Geostatistics Simulations.	Sameh Abdulah,Hatem Ltaief,Ying Sun 0002,Marc G. Genton,David E. Keyes	10.1109/CLUSTER.2018.00089
+Large-Scale System Monitoring Experiences and Recommendations.	Ville Ahlgren,Stefan Andersson,Jim M. Brandt,Nicholas Cardo,Sudheer Chunduri,Jeremy Enos,Parks Fields,Ann C. Gentile,Richard Gerber 0002,Michael Gienger,Joe Greenseid,Annette Greiner,Bilel Hadri,Yun He,Dennis Hoppe,Urpo Kaila,Kaki Kelly,Mark Klein,Alex Kristiansen,Steve Leak,Mike Mason,Kevin T. Pedretti,Jean-Guillaume Piccinali,Jason Repik,Jim Rogers,Susanna Salminen,Mike Showerman,Cary Whitney,Jim Williams	10.1109/CLUSTER.2018.00069
+The Tofu Interconnect D.	Yuichiro Ajima,Takahiro Kawashima,Takayuki Okamoto,Naoyuki Shida,Kouichi Hirai,Toshiyuki Shimizu,Shinya Hiramoto,Yoshiro Ikeda,Takahide Yoshikawa,Kenji Uchida,Tomohiro Inoue	10.1109/CLUSTER.2018.00090
+A Failure Prediction-Based Adaptive Checkpointing Method with Less Reliance on Temperature Monitoring for HPC Applications.	Muhammad Alfian Amrizal,Pei Li,Mulya Agung,Ryusuke Egawa,Hiroyuki Takizawa	10.1109/CLUSTER.2018.00067
+Co-Scheduling HPC Workloads on Cache-Partitioned CMP Platforms.	Guillaume Aupy,Anne Benoit,Brice Goglin,Loic Pottier,Yves Robert	10.1109/CLUSTER.2018.00052
+SALaR: Scalable and Adaptive Designs for Large Message Reduction Collectives.	Mohammadreza Bayatpour,Jahanzeb Maqbool Hashmi,Sourav Chakraborty 0003,Hari Subramoni,Pouya Kousha,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2018.00014
+OpenACC vs the Native Programming on Sunway TaihuLight: A Case Study with GTC-P.	Linjin Cai,Yichao Wang 0001,William M. Tang,Bei Wang 0002,Stéphane Ethier,Zhao Liu,James Lin	10.1109/CLUSTER.2018.00021
+Lightweight Requirements Engineering for Exascale Co-design.	Alexandru Calotoiu,Alexander Graf,Torsten Hoefler,Daniel Lorenz 0001,Sebastian Rinke,Felix Wolf 0001	10.1109/CLUSTER.2018.00038
+Self-Consumption Optimization of Renewable Energy Production in Distributed Clouds.	Benjamin Camus,Anne Blavette,Fanny Dufossé,Anne-Cécile Orgerie	10.1109/CLUSTER.2018.00055
+Efficient Algorithms for the Summed Area Tables Primitive on GPUs.	Peng Chen,Mohamed Wahib,Shin&apos;ichiro Takizawa,Ryousei Takano,Satoshi Matsuoka	10.1109/CLUSTER.2018.00064
+Performing SVE Studies using the Arm Instruction Emulator.	Miguel Tairum Cruz	10.1109/CLUSTER.2018.00082
+UnSNAP: A Mini-App for Exploring the Performance of Deterministic Discrete Ordinates Transport on Unstructured Meshes.	Tom Deakin,Simon McIntosh-Smith,Justin Lovegrove,Richard P. Smedley-Stevenson,Andrew Hagues	10.1109/CLUSTER.2018.00076
+MiniApp for Density Matrix Renormalization Group Hamiltonian Application Kernel.	Wael R. Elwasif,Eduardo F. D&apos;Azevedo,Arghya Chatterjee 0001,Gonzalo Alvarez,Oscar R. Hernandez,Vivek Sarkar	10.1109/CLUSTER.2018.00075
+SciDP: Support HPC and Big Data Applications via Integrated Scientific Data Processing.	Kun Feng,Xian-He Sun,Xi Yang 0002,Shujia Zhou	10.1109/CLUSTER.2018.00023
+Optimizing Distributed Data-Intensive Workflows.	Ryan D. Friese,Nathan R. Tallent,Malachi Schram,Mahantesh Halappanavar,Kevin J. Barker	10.1109/CLUSTER.2018.00045
+CharmPy: A Python Parallel Programming Model.	Juan J. Galvez,Karthik Senthil,Laxmikant V. Kalé	10.1109/CLUSTER.2018.00059
+CRUM: Checkpoint-Restart Support for CUDA&apos;s Unified Memory.	Rohan Garg 0001,Apoorve Mohan,Michael B. Sullivan 0001,Gene Cooperman	10.1109/CLUSTER.2018.00047
+Performance Evaluation of Parallel Stripmap CS-SAR Imaging on NVLink-Connected GPUs.	Masato Gocho,Takehiro Hoshino	10.1109/CLUSTER.2018.00027
+PaSTRI: Error-Bounded Lossy Compression for Two-Electron Integrals in Quantum Chemistry.	Ali Murat Gok,Sheng Di,Yuri Alexeev,Dingwen Tao,Vladimir A. Mironov,Xin Liang 0001,Franck Cappello	10.1109/CLUSTER.2018.00013
+Towards a Mini-App for Smoothed Particle Hydrodynamics at Exascale.	Danilo Guerrera,Rubén M. Cabezón,Jean-Guillaume Piccinali,Aurélien Cavelan,Florina M. Ciorba,David Imbert,Lucio Mayer,Darren S. Reed	10.1109/CLUSTER.2018.00077
+PADS: Performance-Aware Dynamic Scheduling for Effective MapReduce Computation in Heterogeneous Clusters.	Prince Hamandawana,Ronnie Mativenga,Se Jin Kwon,Tae-Sun Chung	10.1109/CLUSTER.2018.00032
+Load-Balancing-Aware Parallel Algorithms of H-Matrices with Adaptive Cross Approximation for GPUs.	Tetsuya Hoshino,Akihiro Ida,Toshihiro Hanawa,Kengo Nakajima	10.1109/CLUSTER.2018.00016
+Hierarchical Clock Synchronization in MPI.	Sascha Hunold,Alexandra Carpen-Amarie	10.1109/CLUSTER.2018.00050
+Computing Exact Vertex Eccentricity on Massive-Scale Distributed Graphs.	Keita Iwabuchi,Geoffrey Sanders,Keith Henderson,Roger Pearce	10.1109/CLUSTER.2018.00043
+Cutting the Tail: Designing High Performance Message Brokers to Reduce Tail Latencies in Stream Processing.	M. Haseeb Javed,Xiaoyi Lu,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2018.00040
+Characterizing Supercomputer Traffic Networks Through Link-Level Analysis.	Saurabh Jha,Jim M. Brandt,Ann C. Gentile,Zbigniew Kalbarczyk,Ravishankar K. Iyer	10.1109/CLUSTER.2018.00072
+Janus: A Generic QoS Framework for Software-as-a-Service Applications.	Qingye Jiang,Young Choon Lee,Albert Y. Zomaya	10.1109/CLUSTER.2018.00018
+The AllScale Runtime Application Model.	Herbert Jordan,Thomas Heller,Philipp Gschwandtner,Peter Zangerl,Peter Thoman,Dietmar Fey,Thomas Fahringer	10.1109/CLUSTER.2018.00088
+Dynamic Control of CPU Usage in a Lambda Platform.	Young Ki Kim,M. Reza HoseinyFarahabady,Young Choon Lee,Albert Y. Zomaya,Raja Jurdak	10.1109/CLUSTER.2018.00041
+Harmonia: An Interference-Aware Dynamic I/O Scheduler for Shared Non-volatile Burst Buffers.	Anthony Kougkas,Hariharan Devarajan,Xian-He Sun,Jay F. Lofstead	10.1109/CLUSTER.2018.00046
+Whole Program Generation of Massively Parallel Shallow Water Equation Solvers.	Sebastian Kuckuk,Harald Köstler	10.1109/CLUSTER.2018.00020
+swCaffe: A Parallel Framework for Accelerating Deep Learning Applications on Sunway TaihuLight.	Liandeng Li,Jiarui Fang,Haohuan Fu,Jinlei Jiang,Wenlai Zhao,Conghui He,Xin You,Guangwen Yang	10.1109/CLUSTER.2018.00087
+An Efficient Transformation Scheme for Lossy Data Compression with Point-Wise Relative Error Bound.	Xin Liang 0001,Sheng Di,Dingwen Tao,Zizhong Chen,Franck Cappello	10.1109/CLUSTER.2018.00036
+Leveraging Dependency in Scheduling and Preemption for High Throughput in Data-Parallel Clusters.	Jinwei Liu,Haiying Shen,Ankur Sarker,Wingyan Chung	10.1109/CLUSTER.2018.00054
+Modeling I/O Performance Variability Using Conditional Variational Autoencoders.	Sandeep Madireddy,Prasanna Balaprakash,Philip H. Carns,Robert Latham,Robert B. Ross,Shane Snyder,Stefan M. Wild	10.1109/CLUSTER.2018.00022
+A Non-blocking Buddy System for Scalable Memory Allocation on Multi-core Machines.	Romolo Marotta,Mauro Ianni,Andrea Scarselli,Alessandro Pellegrini 0001,Francesco Quaglia	10.1109/CLUSTER.2018.00034
+EDDAPS: An Efficient Data Distribution Approach for PCM-Based SSD.	Ronnie Mativenga,Prince Hamandawana,Se Jin Kwon,Tae-Sun Chung	10.1109/CLUSTER.2018.00031
+SVE-Enabling Lattice QCD Codes.	Nils Meyer,Peter Georg,Dirk Pleiter,Stefan Solbrig,Tilo Wettig	10.1109/CLUSTER.2018.00079
+Energy Analysis and Optimization for Resilient Scalable Linear Systems.	Zheng Miao,Jon Calhoun 0001,Rong Ge 0002	10.1109/CLUSTER.2018.00015
+A Transparent Server-Managed Object Storage System for HPC.	Jingqing Mu,Jérome Soumagne,Houjun Tang,Suren Byna,Quincey Koziol,Richard Warren	10.1109/CLUSTER.2018.00063
+Relaxing Scalability Limits with Speculative Parallelism in Sequential Monte Carlo.	Balázs Németh,Tom Haber,Jori Liesenborgs,Wim Lamotte	10.1109/CLUSTER.2018.00065
+Stillwater Knowledge Processing Unit (KPUTM).	E. Theodore L. Omtzigt	10.1109/CLUSTER.2018.00083
+Accelerating Deep Learning Frameworks with Micro-Batches.	Yosuke Oyama,Tal Ben-Nun,Torsten Hoefler,Satoshi Matsuoka	10.1109/CLUSTER.2018.00058
+A Big Data Analytics Framework for HPC Log Data: Three Case Studies Using the Titan Supercomputer Log.	Byung H. Park,Yawei Hui,Swen Boehm,Rizwan A. Ashraf,Christopher Layton,Christian Engelmann	10.1109/CLUSTER.2018.00073
+A New Approach for Sparse Matrix Classification Based on Deep Learning Techniques.	Juan Carlos Pichel,Beatriz Pateiro-López	10.1109/CLUSTER.2018.00017
+Cost Modelling for Vectorization on ARM.	Angela Pohl,Biagio Cosenza,Ben H. H. Juurlink	10.1109/CLUSTER.2018.00084
+Predicting Performance Using Collaborative Filtering.	Shweta Salaria,Aleksandr Drozd,Artur Podobas,Satoshi Matsuoka	10.1109/CLUSTER.2018.00066
+Hybrid MPI+OpenMP Reactive Work Stealing in Distributed Memory in the PDE Framework sam(oa)2.	Philipp Samfass,Jannis Klinkenberg,Michael Bader	10.1109/CLUSTER.2018.00051
+Simulating SVE-Optimised Genomics Workloads on Gem5.	Javier Setoain,Alejandro Chacón,Filippo Spiga	10.1109/CLUSTER.2018.00081
+C2-HyTM : An Adaptive Hybrid Transactional Memory Scheme as Efficient Synchronization Mechanism for Multicore Parallel Processing.	Young-Sung Shin,Jin-Su Jang,Yeon-Woo Jang,Jae-Woo Chang	10.1109/CLUSTER.2018.00028
+Scalable Shared-Memory Parallelization of the Block Recursive Inversion Algorithm.	Maria Clara Silva,Iria C. S. Cosme,Idalmis M. Sardina,Samuel Xavier de Souza	10.1109/CLUSTER.2018.00029
+Optimizations of COAWST for a Large Simulation on the Earth Simulator.	Shivanshu Kumar Singh,Kota Sakakura,Sourav Saha,Raghunandan Mathur,Chirag Sharma,Koji Goto,Osamu Watanabe,Akihiro Musa	10.1109/CLUSTER.2018.00080
+Federating XDMoD to Monitor Affiliated Computing Resources.	Jeanette M. Sperhac,Benjamin D. Plessinger,Jeffrey T. Palmer,Rudra Chakraborty,Gregary Dean,Martins Innus,Ryan Rathsam,Nikolay Simakov,Joseph P. White,Thomas R. Furlani,Steven M. Gallo,Robert L. DeLeon,Matthew D. Jones,Cynthia D. Cornelius,Abani K. Patra	10.1109/CLUSTER.2018.00074
+Efficient Training of Convolutional Neural Nets on Large Distributed Systems.	Dheeraj Sreedhar,Vaibhav Saxena,Yogish Sabharwal,Ashish Verma,Sameer Kumar 0001	10.1109/CLUSTER.2018.00057
+Improving Power Efficiency Through Fine-Grain Performance Monitoring in HPC Clusters.	Mathieu Stoffel,Abdelhafid Mazouz	10.1109/CLUSTER.2018.00071
+And Now for Something Completely Different: Running Lisp on GPUs.	Tim Süß,Nils Döring,André Brinkmann,Lars Nagel 0001	10.1109/CLUSTER.2018.00060
+Applying Pwrake Workflow System and Gfarm File System to Telescope Data Processing.	Masahiro Tanaka,Osamu Tatebe,Hideyuki Kawashima	10.1109/CLUSTER.2018.00024
+Fixed-PSNR Lossy Compression for Scientific Data.	Dingwen Tao,Sheng Di,Xin Liang 0001,Zizhong Chen,Franck Cappello	10.1109/CLUSTER.2018.00048
+BookLeaf: An Unstructured Hydrodynamics Mini-Application.	David Truby,Steven A. Wright 0001,Robert Kevis,Satheesh Maheswaran,Andrew Herdman,Stephen A. Jarvis	10.1109/CLUSTER.2018.00078
+Elasticity in Graph Analytics? A Benchmarking Framework for Elastic Graph Processing.	Alexandru Uta,Sietse Au,Alexey Ilyushkin,Alexandru Iosup	10.1109/CLUSTER.2018.00056
+Exploring HPC and Big Data Convergence: A Graph Processing Study on Intel Knights Landing.	Alexandru Uta,Ana Lucia Varbanescu,Ahmed Musaafir,Chris Lemaire,Alexandru Iosup	10.1109/CLUSTER.2018.00019
+GekkoFS - A Temporary Distributed File System for HPC Applications.	Marc-Andre Vef,Nafiseh Moti,Tim Süß,Tommaso Tocci,Ramon Nou,Alberto Miranda,Toni Cortes,André Brinkmann	10.1109/CLUSTER.2018.00049
+UniviStor: Integrated Hierarchical and Distributed Storage for HPC.	Teng Wang,Suren Byna,Bin Dong 0002,Houjun Tang	10.1109/CLUSTER.2018.00025
+Neural Network Based Silent Error Detector.	Chen Wang 0004,Nikoli Dryden,Franck Cappello,Marc Snir	10.1109/CLUSTER.2018.00035
+IOMiner: Large-Scale Analytics Framework for Gaining Knowledge from I/O Logs.	Teng Wang,Shane Snyder,Glenn K. Lockwood,Philip H. Carns,Nicholas J. Wright,Suren Byna	10.1109/CLUSTER.2018.00062
+HIDStore: A Hierarchical Intermediate Data Storage System for Seismic Processing Application.	Yida Wang,Changhai Zhao,Zengbo Wang,Chao Liu,Chao Li,Haihua Yan,Jiamin Wen	10.1109/CLUSTER.2018.00026
+Challenges in Developing MPI Fault-Tolerant Fortran Applications.	Nathan T. Weeks,Glenn R. Luecke,Pieter Maris,James P. Vary	10.1109/CLUSTER.2018.00068
+PDFE: Flexible Parallel State Machine Replication for Cloud Computing.	Lihui Wu,Weigang Wu,Ning Huang,Zhiguang Chen	10.1109/CLUSTER.2018.00061
+A Heterogeneity-Aware Task Scheduler for Spark.	Luna Xu,Ali Raza Butt,Seung-Hwan Lim,Ramakrishnan Kannan	10.1109/CLUSTER.2018.00042
+Reducing Tail Latency of Interactive Multi-tier Workloads in the Cloud.	Kejiang Ye,Cheng-Zhong Xu 0001	10.1109/CLUSTER.2018.00033
+Next Stop &quot;NoOps&quot;: Enabling Cross-System Diagnostics Through Graph-Based Composition of Logs and Metrics.	Michal Zasadzinski,Marc Solé,Álvaro Brandón,Victor Muntés-Mulero,David Carrera 0001	10.1109/CLUSTER.2018.00039
+A Scalable Distributed Louvain Algorithm for Large-Scale Graph Community Detection.	Jianping Zeng 0003,Hongfeng Yu 0001	10.1109/CLUSTER.2018.00044
+Graph Partitioning Algorithm with LSH: Poster Extended Abstract.	Weidong Zhang,Mingyue Zhang	10.1109/CLUSTER.2018.00053
+Maximizing Throughput on Power-Bounded HPC Systems.	Pengfei Zou,Derek Rodriguez,Rong Ge 0002	10.1109/CLUSTER.2018.00030
+IEEE International Conference on Cluster Computing, CLUSTER 2018, Belfast, UK, September 10-13, 2018		

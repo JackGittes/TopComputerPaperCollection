@@ -1,0 +1,31 @@
+MANA for MPI: MPI-Agnostic Network-Agnostic Transparent Checkpointing.	Rohan Garg 0001,Gregory Price,Gene Cooperman	10.1145/3307681.3325962
+SpotWeb: Running Latency-sensitive Distributed Web Services on Transient Cloud Servers.	Ahmed Ali-Eldin,Jonathan Westin,Bin Wang,Prateek Sharma,Prashant J. Shenoy	10.1145/3307681.3325397
+Parsl: Pervasive Parallel Programming in Python.	Yadu N. Babuji,Anna Woodard,Zhuozhao Li,Daniel S. Katz,Ben Clifford,Rohan Kumar,Lukasz Lacinski,Ryan Chard,Justin M. Wozniak,Ian T. Foster,Michael Wilde,Kyle Chard	10.1145/3307681.3325400
+Combining Data Duplication and Graph Reordering to Accelerate Parallel Graph Processing.	Vignesh Balaji,Brandon Lucia	10.1145/3307681.3326609
+Multi-Level Analysis of Compiler-Induced Variability and Performance Tradeoffs.	Michael Bentley,Ian Briggs,Ganesh Gopalakrishnan,Dong H. Ahn,Ignacio Laguna,Gregory L. Lee,Holger E. Jones	10.1145/3307681.3325960
+Suffix Array Construction on Multi-GPU Systems.	Florian Büren,Daniel Jünger,Robin Kobus,Christian Hundt 0002,Bertil Schmidt	10.1145/3307681.3325961
+Session details: Hybrid Systems.	Andrew Chen	10.1145/3341784
+Kleio: A Hybrid Memory Page Scheduler with Machine Intelligence.	Thaleia Dimitra Doudali,Sergey Blagodurov,Abhinav Vishnu,Sudhanva Gurumurthi,Ada Gavrilovska	10.1145/3307681.3325398
+Better Late Than Never: An n-Variant Framework of Verification for Java Source Code on CPU x GPU Hybrid Platform.	Jun Duan,Kevin W. Hamlen,Benjamin Ferrell	10.1145/3307681.3326604
+Scheduling Beyond CPUs for HPC.	Yuping Fan,Zhiling Lan,Paul Rich,William E. Allcock,Michael E. Papka,Brian Austin,David Paul	10.1145/3307681.3325401
+Perspectives on High-Performance Computing in a Big Data World.	Geoffrey C. Fox	10.1145/3307681.3325410
+XBFS: eXploring Runtime Optimizations for Breadth-First Search on GPUs.	Anil Gaihre,Zhenlin Wu,Fan Yao,Hang Liu 0001	10.1145/3307681.3326606
+Paths to Fast Barrier Synchronization on the Node.	Conor Hetland,Georgios Tziantzioulis,Brian Suchy,Michael Leonard,Jin Han,John Albers,Nikos Hardavellas,Peter A. Dinda	10.1145/3307681.3325402
+Adaptive Resource Views for Containers.	Hang Huang,Jia Rao,Song Wu 0001,Hai Jin 0001,Kun Suo,Xiaofeng Wu	10.1145/3307681.3325403
+DeepSZ: A Novel Framework to Compress Deep Neural Networks by Using Error-Bounded Lossy Compression.	Sian Jin,Sheng Di,Xin Liang 0001,Jiannan Tian,Dingwen Tao,Franck Cappello	10.1145/3307681.3326608
+LABIOS: A Distributed Label-Based I/O System.	Anthony Kougkas,Hariharan Devarajan,Jay F. Lofstead,Xian-He Sun	10.1145/3307681.3325405
+GAugur: Quantifying Performance Interference of Colocated Games for Improving Resource Utilization in Cloud Gaming.	Yusen Li,Chuxu Shan,Ruobing Chen 0002,Xueyan Tang,Wentong Cai 0001,Shanjiang Tang,Xiaoguang Liu 0001,Gang Wang 0001,Xiaoli Gong,Ying Zhang 0015	10.1145/3307681.3325409
+Session details: Scalable Graph Processing.	Hang Liu	10.1145/3341785
+Session details: HPDC Achievement Award Talk.	Hang Liu	10.1145/3341786
+Session details: Cloud Systems.	Jay F. Lofstead	10.1145/3341788
+Making Root Cause Analysis Feasible for Large Code Bases: A Solution Approach for a Climate Model.	Daniel J. Milroy,Allison H. Baker,Dorit M. Hammerling,Youngsung Kim,Elizabeth R. Jessup,Thomas Hauser	10.1145/3307681.3325399
+HEXO: Offloading HPC Compute-Intensive Workloads on Low-Cost, Low-Power Embedded Systems.	Pierre Olivier,A. K. M. Fazla Mehrab,Stefan Lankes,Mohamed Lamine Karaoui,Robert Lyerly,Binoy Ravindran	10.1145/3307681.3325408
+PERQ: Fair and Efficient Power Management of Power-Constrained Large-Scale Computing Systems.	Tirthak Patel,Devesh Tiwari	10.1145/3307681.3326607
+Semantic-aware Workflow Construction and Analysis for Distributed Data Analytics Systems.	Aidi Pi,Wei Chen 0038,Shaoqi Wang,Xiaobo Zhou 0002	10.1145/3307681.3325404
+UMR-EC: A Unified and Multi-Rail Erasure Coding Library for High-Performance Distributed Storage Systems.	Haiyang Shi,Xiaoyi Lu,Dipti Shankar,Dhabaleswar K. Panda 0001	10.1145/3307681.3325406
+Session details: High Performance Distributed Systems (Best Paper Nominees).	Evgenia Smirni,Ali Raza Butt	10.1145/3341782
+Session details: Reliability and Variability.	Michela Taufer	10.1145/3341783
+CuLDA: Solving Large-scale LDA Problems on GPUs.	Xiaolong Xie,Yun Liang 0001,Xiuhong Li,Wei Tan 0001	10.1145/3307681.3325407
+Session details: Fairness and Performance.	Ji Xue	10.1145/3341787
+Preemptive Multi-Queue Fair Queuing.	Yong Zhao,Kun Suo,Xiaofeng Wu,Jia Rao,Song Wu 0001,Hai Jin 0001	10.1145/3307681.3326605
+Proceedings of the 28th International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2019, Phoenix, AZ, USA, June 22-29, 2019	Jon B. Weissman,Ali Raza Butt,Evgenia Smirni	10.1145/3307681

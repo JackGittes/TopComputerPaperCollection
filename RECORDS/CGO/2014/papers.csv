@@ -1,0 +1,30 @@
+Efficient Mapping of Irregular C++ Applications to Integrated GPUs.	Rajkishore Barik,Rashid Kaleem,Deepak Majeti,Brian T. Lewis,Tatiana Shpeisman,Chunling Hu,Yang Ni,Ali-Reza Adl-Tabatabai	
+Warm-Up Simulation Methodology for HW/SW Co-Designed Processors.	Aleksandar Brankovic,Kyriakos Stavrou,Enric Gibert,Antonio González 0001	
+Fine-grained Benchmark Subsetting for System Selection.	Pablo de Oliveira Castro,Yuriy Kashnikov,Chadi Akel,Mihail Popov,William Jalby	
+Call Paths for Pin Tools.	Milind Chabbi,Xu Liu 0001,John M. Mellor-Crummey	
+Estimating the Empirical Cost Function of Routines with Dynamic Workloads.	Emilio Coppa,Camil Demetrescu,Irene Finocchi,Romolo Marotta	
+Single Assignment Compiler, Single Assignment Architecture: Future Gated Single Assignment Form*; Static Single Assignment with Congruence Classes.	Shuhan Ding,John Earnest,Soner Önder	
+Hybrid Hexagonal/Classical Tiling for GPUs.	Tobias Grosser,Albert Cohen 0001,Justin Holewinski,P. Sadayappan,Sven Verdoolaege	
+Extending the PCRE Library with Static Backtracking Based Just-in-Time Compilation Support.	Zoltán Herczeg	
+Simplifying Scalable Graph Processing with a Domain-Specific Language.	Sungpack Hong,Semih Salihoglu,Jennifer Widom,Kunle Olukotun	
+Fix the code. Don&apos;t tweak the hardware: A new compiler approach to Voltage-Frequency scaling.	Alexandra Jimborean,Konstantinos Koukos,Vasileios Spiliopoulos,David Black-Schaffer,Stefanos Kaxiras	
+Adaptive Mapping and Parameter Selection Scheme to Improve Automatic Code Generation for GPUs.	Juan Carlos Juega,José Ignacio Gómez,Christian Tenllado,Francky Catthoor	
+Security Signature Inference for JavaScript-based Browser Addons.	Vineeth Kashyap,Ben Hardekopf	
+Dynamic and Adaptive Calling Context Encoding.	Jianjun Li,Zhenjiang Wang,Chenggang Wu 0002,Wei-Chung Hsu,Di Xu	
+Portable and Transparent Host-Device Communication Optimization for GPGPU Environments.	Christos Margiolas,Michael F. P. O&apos;Boyle	
+WatchdogLite: Hardware-Accelerated Compiler-Based Pointer Checking.	Santosh Nagarakatte,Milo M. K. Martin,Steve Zdancewic	
+Fluidic Kernels: Cooperative Execution of OpenCL Programs on Multiple Heterogeneous Devices.	Prasanna Pandit,R. Govindarajan	
+Just-In-Time Software Pipelining.	Hongbo Rong,Hyunchul Park,Youfeng Wu,Cheng Wang 0013	
+Static Reference Analysis for GUI Objects in Android Software.	Atanas Rountev,Dacong Yan	
+A Basic Linear Algebra Compiler.	Daniele G. Spampinato,Markus Püschel	
+Partial Escape Analysis and Scalar Replacement for Java.	Lukas Stadler,Thomas Würthinger,Hanspeter Mössenböck	
+Automated Algorithmic Error Resilience for Structured Grid Problems Based on Outlier Detection.	Amoghavarsha Suresh,John Sartori	
+Non-affine Extensions to Polyhedral Code Generation.	Anand Venkat,Manu Shantharam,Mary W. Hall,Michelle Mills Strout	
+DrDebug: Deterministic Replay based Cyclic Debugging with Dynamic Slicing.	Yan Wang,Harish Patil,Cristiano Pereira,Gregory Lueck,Rajiv Gupta 0001,Iulian Neamtiu	
+Optimizing R VM: Allocation Removal and Path Length Reduction via Interpreter-level Specialization.	Haichuan Wang,Peng Wu 0001,David A. Padua	
+Red Fox: An Execution Environment for Relational Query Processing on GPUs.	Haicheng Wu,Gregory F. Diamos,Tim Sheard,Molham Aref,Sean Baxter,Michael Garland,Sudhakar Yalamanchili	
+Software Transactional Memory for GPU Architectures.	Yunlong Xu,Rui Wang 0014,Nilanjan Goswami,Tao Li 0006,Lan Gao,Depei Qian	
+LeakChecker: Practical Static Memory Leak Detection for Managed Languages.	Dacong Yan,Guoqing Xu 0001,Shengqian Yang,Atanas Rountev	
+Accelerating Dynamic Detection of Uses of Undefined Values with Static Value-Flow Analysis.	Ding Ye,Yulei Sui,Jingling Xue	
+DeltaPath: Precise and Scalable Calling Context Encoding.	Qiang Zeng 0001,Junghwan Rhee,Hui Zhang 0002,Nipun Arora,Guofei Jiang,Peng Liu 0005	
+12th Annual IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2014, Orlando, FL, USA, February 15-19, 2014	David R. Kaeli,Tipp Moseley	

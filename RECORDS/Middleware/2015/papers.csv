@@ -1,0 +1,24 @@
+Consensus-Oriented Parallelization: How to Earn Your First Million.	Johannes Behl,Tobias Distler,Rüdiger Kapitza	10.1145/2814576.2814800
+GraPS: A Graph Publish/Subscribe Middleware.	César Cañas,Eduardo Pacheco,Bettina Kemme,Jörg Kienzle,Hans-Arno Jacobsen	10.1145/2814576.2814812
+Q-OPT: Self-tuning Quorum System for Strongly Consistent Software Defined Storage.	Maria Couceiro,Gayana Chandrasekara,Manuel Bravo,Matti A. Hiltunen,Paolo Romano 0002,Luís E. T. Rodrigues	10.1145/2814576.2814809
+Configuring Distributed Computations Using Response Surfaces.	Adem Efe Gencer,David Bindel,Emin Gün Sirer,Robbert van Renesse	10.1145/2814576.2814730
+Parallel Programming in Actor-Based Applications via OpenCL.	Paul Harvey 0002,Kristian Hentschel,Joseph S. Sventek	10.1145/2814576.2814732
+MERC: Match at Edge and Route intra-Cluster for Content-based Publish/Subscribe Systems.	Shuping Ji,Chunyang Ye,Jun Wei 0001,Hans-Arno Jacobsen	10.1145/2814576.2814801
+Scaling Out Link Prediction with SNAPLE: 1 Billion Edges and Beyond.	Anne-Marie Kermarrec,François Taïani,Juan Manuel Tirado	10.1145/2814576.2814810
+VeCycle: Recycling VM Checkpoints for Faster Migrations.	Thomas Knauth,Christof Fetzer	10.1145/2814576.2814731
+Improving Preemptive Scheduling with Application-Transparent Checkpointing in Shared Clusters.	Jack Li 0001,Calton Pu,Yuan Chen 0001,Vanish Talwar,Dejan S. Milojicic	10.1145/2814576.2814807
+Pannier: A Container-based Flash Cache for Compound Objects.	Cheng Li,Philip Shilane,Fred Douglis,Grant Wallace	10.1145/2814576.2814734
+EpTO: An Epidemic Total Order Algorithm for Large-Scale Distributed Systems.	Miguel Matos,Hugues Mercier,Pascal Felber,Rui Oliveira 0001,José Pereira 0001	10.1145/2814576.2814804
+Turtle Consensus: Moving Target Defense for Consensus.	Stavros Nikolaou,Robbert van Renesse	10.1145/2814576.2814811
+Managing the Energy-Delay Tradeoff in Mobile Applications with Tempus.	Nima Nikzad,Marjan Radi,Octav Chipara,William G. Griswold	10.1145/2814576.2814803
+Enabling Cost-Effective Flash based Caching with an Array of Commodity SSDs.	Yongseok Oh,Eunjae Lee,Choulseung Hyun,Jongmoo Choi,Donghee Lee 0001,Sam H. Noh	10.1145/2814576.2814814
+Efficient Key Updates through Subscription Re-encryption for Privacy-Preserving Publish/Subscribe.	Emanuel Onica,Pascal Felber,Hugues Mercier,Etienne Rivière	10.1145/2814576.2814805
+R-Storm: Resource-Aware Scheduling in Storm.	Boyang Peng,Mohammad Hosseini,Zhihao Hong,Reza Farivar 0002,Roy H. Campbell	10.1145/2814576.2814808
+Zero-Cost, Fine-Grained Power Monitoring of Datacenters Using Non-Intrusive Power Disaggregation.	Guoming Tang,Weixiang Jiang,Zhifeng Xu,Fangming Liu,Kui Wu 0001	10.1145/2814576.2814728
+UniDrive: Synergize Multiple Consumer Cloud Storage Services.	Haowen Tang,Fangming Liu,Guobin Shen,Yuchen Jin,Chuanxiong Guo	10.1145/2814576.2814729
+Asynchronous Complete Garbage Collection for Graph Data Stores.	Luís Veiga,Rodrigo Bruno,Paulo Ferreira 0001	10.1145/2814576.2814813
+Speculative Memory Checkpointing.	Dirk Vogt,Armando Miraglia,Georgios Portokalidis,Herbert Bos,Andy Tanenbaum,Cristiano Giuffrida	10.1145/2814576.2814802
+Quartz: A Lightweight Performance Emulator for Persistent Memory Software.	Haris Volos 0001,Guilherme Magalhaes,Ludmila Cherkasova,Jun Li 0008	10.1145/2814576.2814806
+vRead: Efficient Data Access for Hadoop in Virtualized Clouds.	Cong Xu,Brendan Saltaformaggio,Sahan Gamage,Ramana Rao Kompella,Dongyan Xu	10.1145/2814576.2814735
+Write Fast, Read in the Past: Causal Consistency for Client-Side Applications.	Marek Zawirski,Nuno M. Preguiça,Sérgio Duarte,Annette Bieniusa,Valter Balegas,Marc Shapiro 0001	10.1145/2814576.2814733
+Proceedings of the 16th Annual Middleware Conference, Vancouver, BC, Canada, December 07 - 11, 2015	Rodger Lea,Sathish Gopalakrishnan,Eli Tilevich,Amy L. Murphy,Michael Blackstock	

@@ -1,0 +1,17 @@
+Cross-ISA machine instrumentation using fast and scalable dynamic binary translation.	Emilio G. Cota,Luca P. Carloni	10.1145/3313808.3313811
+Tail latency in node.js: energy efficient turbo boosting for long latency requests in event-driven web services.	Wenzhi Cui,Daniel Richins,Yuhao Zhu 0001,Vijay Janapa Reddi	10.1145/3313808.3313823
+Fast and live hypervisor replacement.	Spoorti Doddamani,Piush K. Sinha,Hui Lu 0001,Tsu-Hsiang K. Cheng,Hardik H. Bagdi,Kartik Gopalan	10.1145/3313808.3313821
+Dynamic application reconfiguration on heterogeneous hardware.	Juan Fumero,Michail Papadimitriou,Foivos S. Zakkak,Maria Xekalaki,James Clarkson,Christos Kotselidis	10.1145/3313808.3313819
+Stochastic resource allocation.	Liran Funaro,Orna Agmon Ben-Yehuda,Assaf Schuster	10.1145/3313808.3313815
+Secure guest virtual machine support in apparition.	Ethan Johnson,Komail Dharsee,John Criswell	10.1145/3313808.3313809
+Mitigating JIT compilation latency in virtual execution environments.	Martin Kristien,Tom Spink,Harry Wagstaff,Björn Franke,Igor Böhm,Nigel P. Topham	10.1145/3313808.3313818
+ScissorGC: scalable and efficient compaction for Java full garbage collection.	Haoyu Li,Mingyu Wu 0001,Binyu Zang,Haibo Chen 0001	10.1145/3313808.3313820
+TEEv: virtualizing trusted execution environments on mobile platforms.	Wenhao Li,Yubin Xia,Long Lu,Haibo Chen 0001,Binyu Zang	10.1145/3313808.3313810
+ACRN: a big little hypervisor for IoT development.	Hao Li,Xuefei Xu,Jinkui Ren,Yaozu Dong	10.1145/3313808.3313816
+vCPU as a container: towards accurate CPU allocation for VMs.	Li Liu 0045,Haoliang Wang,An Wang 0002,Mengbai Xiao,Yue Cheng 0001,Songqing Chen	10.1145/3313808.3313814
+A binary-compatible unikernel.	Pierre Olivier,Daniel Chiba,Stefan Lankes,Changwoo Min,Binoy Ravindran	10.1145/3313808.3313817
+QuickCheck: using speculation to reduce the overhead of checks in NVM frameworks.	Thomas Shull,Jian Huang 0006,Josep Torrellas	10.1145/3313808.3313822
+The changing face of enterprise virtualization (keynote).	Josh Simons	10.1145/3313808.3322436
+vSocket: virtual socket interface for RDMA in public clouds.	Dongyang Wang,Binzhang Fu,Gang Lu,Kun Tan,Bei Hua	10.1145/3313808.3313813
+The janus triad: exploiting parallelism through dynamic binary modification.	Ruoyu Zhou,George Wort,Márton Erdos,Timothy M. Jones 0001	10.1145/3313808.3313812
+Proceedings of the 15th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, VEE 2019, Providence, RI, USA, April 14, 2019.	Jennifer B. Sartor,Mayur Naik,Christopher J. Rossbach	10.1145/3313808

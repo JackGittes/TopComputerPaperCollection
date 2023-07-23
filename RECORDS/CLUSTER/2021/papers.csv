@@ -1,0 +1,102 @@
+A Deep Learning-Based Particle-in-Cell Method for Plasma Simulations.	Xavier Aguilar,Stefano Markidis	10.1109/CLUSTER48925.2021.00103
+AMR-Net: Convolutional Neural Networks for Multi-resolution Steady Flow Prediction.	Yuuichi Asahi,Sora Hatayama,Takashi Shimokawabe,Naoyuki Onodera,Yuta Hasegawa,Yasuhiro Idomura	10.1109/CLUSTER48925.2021.00102
+Automatic Parallelisation of Sturctured Mesh Computations with SYCL.	Gábor Dániel Balogh,István Z. Reguly	10.1109/CLUSTER48925.2021.00083
+Cluster of emerging technology: evaluation of a production HPC system based on A64FX.	Fabio Banchelli,Kilian Peiro,Guillem Ramirez-Gargallo,Joan Vinyals,David Vicente,Marta Garcia-Gasulla,Filippo Mantovani	10.1109/CLUSTER48925.2021.00110
+A64FX performance: experience on Ookami.	Md Abdullah Shahneous Bari,Barbara M. Chapman,Anthony Curtis,Robert J. Harrison,Eva Siegmann,Nikolay A. Simakov,Matthew D. Jones	10.1109/CLUSTER48925.2021.00106
+O(1) Communication for Distributed SGD through Two-Level Gradient Averaging.	Subhadeep Bhattacharya,Weikuan Yu,Fahim Tahmid Chowdhury,Kathryn Mohror	10.1109/CLUSTER48925.2021.00054
+Accelerating advection for atmospheric modelling on Xilinx and Intel FPGAs.	Nick Brown 0002	10.1109/CLUSTER48925.2021.00113
+Optimisation of an FPGA Credit Default Swap engine by embracing dataflow techniques.	Nick Brown 0002,Mark Klaisoongnoen,Oliver Thomson Brown	10.1109/CLUSTER48925.2021.00114
+SAP-SGD: Accelerating Distributed Parallel Training with High Communication Efficiency on Heterogeneous Clusters.	Jing Cao,Zongwei Zhu,Xuehai Zhou	10.1109/CLUSTER48925.2021.00023
+CSWAP: A Self-Tuning Compression Framework for Accelerating Tensor Swapping in GPUs.	Ping Chen,Shuibing He,Xuechen Zhang,Shuaiben Chen,Peiyi Hong,Yanlong Yin,Xian-He Sun,Gang Chen 0001	10.1109/CLUSTER48925.2021.00019
+RPTCN: Resource Prediction for High-dynamic Workloads in Clouds based on Deep Learning.	Wenyan Chen,Chengzhi Lu,Kejiang Ye,Yang Wang 0006,Cheng-Zhong Xu 0001	10.1109/CLUSTER48925.2021.00038
+Halcyon: Unified HPC Center Operations.	Kevin D. Colby,Shawn Rice	10.1109/CLUSTER48925.2021.00081
+Explicit uncore frequency scaling for energy optimisation policies with EAR in Intel architectures.	Julita Corbalán,Oriol Vidal,Lluis Alonso,Jordi Aneas	10.1109/CLUSTER48925.2021.00089
+MONARCH: Hierarchical Storage Management for Deep Learning Frameworks.	Marco Dantas,Diogo Leitão,Cláudia Correia,Ricardo Macedo,Weijia Xu,João Paulo 0001	10.1109/CLUSTER48925.2021.00097
+Robustness Analysis of Loop-Free Floating-Point Programs via Symbolic Automatic Differentiation.	Arnab Das,Tanmay Tirpankar,Ganesh Gopalakrishnan,Sriram Krishnamoorthy	10.1109/CLUSTER48925.2021.00055
+Octo-Tiger&apos;s New Hydro Module and Performance Using HPX+CUDA on ORNL&apos;s Summit.	Patrick Diehl,Gregor Daiß,Dominic Marcello,Kevin A. Huck,Sagiv Shiber,Hartmut Kaiser,Juhan Frank,Geoffrey C. Clayton,Dirk Pflüger	10.1109/CLUSTER48925.2021.00059
+Modeling the Linux page cache for accurate simulation of data-intensive applications.	Hoang-Dung Do,Valérie Hayot-Sasson,Rafael Ferreira da Silva,Christopher Steele,Henri Casanova,Tristan Glatard	10.1109/CLUSTER48925.2021.00058
+A64FX - Your Compiler You Must Decide!	Jens Domke	10.1109/CLUSTER48925.2021.00109
+Thrifty Label Propagation: Fast Connected Components for Skewed-Degree Graphs.	Mohsen Koohi Esfahani,Peter Kilpatrick,Hans Vandierendonck	10.1109/CLUSTER48925.2021.00042
+Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights.	Bo Fang,Daoce Wang,Sian Jin,Quincey Koziol,Zhao Zhang 0007,Qiang Guan,Suren Byna,Sriram Krishnamoorthy,Dingwen Tao	10.1109/CLUSTER48925.2021.00048
+Understanding the Effects of DRAM Correctable Error Logging at Scale.	Kurt B. Ferreira,Scott Levy,Victor Kuhns,Nathan DeBardeleben,Sean Blanchard	10.1109/CLUSTER48925.2021.00060
+From Domain-Specific Languages to Memory-Optimized Accelerators for Fluid Dynamics.	Karl F. A. Friebel,Stephanie Soldavini,Gerald Hempel,Christian Pilato,Jerónimo Castrillón	10.1109/CLUSTER48925.2021.00112
+HBM2 Memory System for HPC Applications on an FPGA.	Norihisa Fujita,Ryohei Kobayashi,Yoshiki Yamaguchi,Taisuke Boku	10.1109/CLUSTER48925.2021.00116
+Optimizing Barrier Synchronization on ARMv8 Many-Core Architectures.	Wanrong Gao,Jianbin Fang,Chun Huang,Chuanfu Xu,Zheng Wang 0001	10.1109/CLUSTER48925.2021.00044
+HFlow: A Dynamic and Elastic Multi-Layered I/O Forwarder.	Jaime Cernuda Garcia,Hariharan Devarajan,Luke Logan,Keith Bateman,Neeraj Rajesh,Jie Ye,Anthony Kougkas,Xian-He Sun	10.1109/CLUSTER48925.2021.00064
+CASQ: Accelerate Distributed Deep Learning with Sketch-Based Gradient Quantization.	Keshi Ge,Yiming Zhang 0003,Yongquan Fu,Zhiquan Lai,Xiaoge Deng,Dongsheng Li 0001	10.1109/CLUSTER48925.2021.00074
+TIGRA: A Tightly Integrated Generic RISC-V Accelerator Interface.	Brad Green,Dillon Todd,Jon C. Calhoun,Melissa C. Smith	10.1109/CLUSTER48925.2021.00115
+READYS: A Reinforcement Learning Based Strategy for Heterogeneous Dynamic Scheduling.	Nathan Grinsztajn,Olivier Beaumont,Emmanuel Jeannot,Philippe Preux	10.1109/CLUSTER48925.2021.00031
+Two-Chains: High Performance Framework for Function Injection and Execution.	Megan Grodowitz,Luis E. Peña,Curtis Dunham,Dong Zhong,Pavel Shamis,Steve Poole 0001	10.1109/CLUSTER48925.2021.00049
+Lazy-WL: A Wear-aware Load Balanced Data Redistribution Method for Efficient SSD Array Scaling.	Hanchen Guo,Zhehan Lin,Yunfei Gu,Chentao Wu,Li Jiang 0002,Jie Li 0002,Guangtao Xue,Minyi Guo	10.1109/CLUSTER48925.2021.00030
+Sequences of Sparse Matrix-Vector Multiplication on Fugaku&apos;s A64FX processors.	Jérôme Gurhem,Maxence Vandromme,Miwako Tsuji,Serge G. Petiton,Mitsuhisa Sato	10.1109/CLUSTER48925.2021.00111
+Sequence-RTG: Efficient and Production-Ready Pattern Mining in System Log Messages.	Louise Harding,Fabien Wernli,Frédéric Suter	10.1109/CLUSTER48925.2021.00090
+Packet Forwarding Cache of Commodity Switches for Parallel Computers.	Shoichi Hirasawa,Hayato Yamaki,Michihiro Koibuchi	10.1109/CLUSTER48925.2021.00041
+An Execution Fingerprint Dictionary for HPC Application Recognition.	Thomas Jakobsche,Nicolas Lachiche,Aurélien Cavelan,Florina M. Ciorba	10.1109/CLUSTER48925.2021.00092
+Dynamic and Adaptive Monitoring and Analysis for Many-task Ensemble Computing.	Shantenu Jha,Allen D. Malony	10.1109/CLUSTER48925.2021.00095
+HPC AI500 V2.0: The Methodology, Tools, and Metrics for Benchmarking HPC AI Systems.	Zihan Jiang,Wanling Gao,Fei Tang,Lei Wang 0004,Xingwang Xiong,Chunjie Luo,Chuanxin Lan,Hongxiao Li,Jianfeng Zhan	10.1109/CLUSTER48925.2021.00022
+Incorporating Fault-Tolerance Awareness into System-Level Modeling and Simulation.	Trokon Johnson,Herman Lam	10.1109/CLUSTER48925.2021.00080
+Evaluation of SPEC CPU and SPEC OMP on the A64FX.	Yuetsu Kodama,Masaaki Kondo,Mitsuhisa Sato	10.1109/CLUSTER48925.2021.00088
+Backfilling HPC Jobs with a Multimodal-Aware Predictor.	Kenneth Lamar,Alexander V. Goponenko,Christina L. Peterson,Benjamin A. Allan,Jim M. Brandt,Damian Dechev	10.1109/CLUSTER48925.2021.00093
+NUMA-aware I/O System Call Steering.	Chan-Gyu Lee,Hyun-Wook Jin	10.1109/CLUSTER48925.2021.00077
+On-the-Fly, Robust Translation of MPI Libraries.	Edgar A. León,Marc Joos,Nathan Hanford,Adrien Cotte,Tony Delforge,François Diakhaté,Vincent Ducrot,Ian Karlin,Marc Pérache	10.1109/CLUSTER48925.2021.00026
+tcFFT: A Fast Half-Precision FFT Library for NVIDIA Tensor Cores.	Bin-Rui Li,Shenggan Cheng,James Lin	10.1109/CLUSTER48925.2021.00035
+The Challenge of Disproportionate Importance of Temporal Features in Predicting HPC Power Consumption.	Chengcheng Li,Ahmad Maroof Karimi,Woong Shin,Hairong Qi 0001,Feiyi Wang	10.1109/CLUSTER48925.2021.00094
+CVFCC: CV-Based Framework for Container Consolidation in Cloud Data Centers.	Yuting Li,Yun Xu,Xuehai Zhou	10.1109/CLUSTER48925.2021.00067
+Optimizing Distributed Load Balancing for Workloads with Time-Varying Imbalance.	Jonathan Lifflander,Nicole Lemaster Slattengren,Philippe P. Pébaÿ,Phil Miller,Francesco Rizzi,Matthew T. Bettencourt	10.1109/CLUSTER48925.2021.00039
+Exploring Autoencoder-based Error-bounded Compression for Scientific Data.	Jinyang Liu,Sheng Di,Kai Zhao 0008,Sian Jin,Dingwen Tao,Xin Liang 0001,Zizhong Chen,Franck Cappello	10.1109/CLUSTER48925.2021.00034
+HNGraph: Parallel Graph Processing in Hybrid Memory Based NUMA Systems.	Wei Liu 0004,Haikun Liu,Xiaofei Liao,Hai Jin 0001,Yu Zhang 0027	10.1109/CLUSTER48925.2021.00063
+Special function neural network (SFNN) models.	Yuzhen Liu,Oana Marin	10.1109/CLUSTER48925.2021.00101
+Accelerating DNN Architecture Search at Scale Using Selective Weight Transfer.	Hongyuan Liu 0002,Bogdan Nicolae,Sheng Di,Franck Cappello,Adwait Jog	10.1109/CLUSTER48925.2021.00051
+pMEMCPY: a simple, lightweight, and portable I/O library for storing data in persistent memory.	Luke Logan,Jay F. Lofstead,Scott Levy,Patrick M. Widener,Xian-He Sun,Anthony Kougkas	10.1109/CLUSTER48925.2021.00098
+SDIS: A PB-level seismic data index system with ML methods.	Shaoheng Luo,Lei Wang 0126,Yufeng Liu,Changhai Zhao,Xudong Zhang	10.1109/CLUSTER48925.2021.00072
+Thinking More about RDMA Memory Semantics.	Teng Ma,Kang Chen,Shaonan Ma,Zhuo Song,Yongwei Wu	10.1109/CLUSTER48925.2021.00033
+The Case for Storage Optimization Decoupling in Deep Learning Frameworks.	Ricardo Macedo,Cláudia Correia,Marco Dantas,Cláudia Brito,Weijia Xu,Yusuke Tanimura,Jason Haga,João Paulo 0001	10.1109/CLUSTER48925.2021.00096
+Distributed Computation of Persistent Homology from Partitioned Big Data.	Nicholas O. Malott,Rishi R. Verma,Rohit P. Singh,Philip A. Wilsey	10.1109/CLUSTER48925.2021.00050
+Virtual Log-Structured Storage for High-Performance Streaming.	Ovidiu-Cristian Marcu,Alexandru Costan,Bogdan Nicolae,Gabriel Antoniu	10.1109/CLUSTER48925.2021.00046
+Malleability Implementation in a MPI Iterative Method.	Iker Martín-Álvarez,José Ignacio Aliaga,María Isabel Castillo,Rafael Mayo 0002,Sergio Iserte	10.1109/CLUSTER48925.2021.00078
+MiniMod: A Modular Miniapplication Benchmarking Framework for HPC.	W. Pepper Marts,Matthew G. F. Dosanjh,Scott Levy,Whit Schonbein,Ryan E. Grant,Patrick G. Bridges	10.1109/CLUSTER48925.2021.00028
+A Generative Approach to Visualizing Satellite Data.	Saptashwa Mitra,Daniel Rammer,Shrideep Pallickara,Sangmi Lee Pallickara	10.1109/CLUSTER48925.2021.00079
+A memory bandwidth improvement with memory space partitioning for single-precision floating-point FFT on Stratix 10 FPGA.	Takaaki Miyajima,Kentaro Sano	10.1109/CLUSTER48925.2021.00117
+A Conceptual Framework for HPC Operational Data Analytics.	Alessio Netti,Woong Shin,Michael Ott 0001,Torsten Wilde,Natalie J. Bates	10.1109/CLUSTER48925.2021.00086
+Toward a Comprehensive Benchmark Suite for Evaluating GASPI in HPC Environments.	Sarah Neuwirth	10.1109/CLUSTER48925.2021.00082
+Parallel I/O Evaluation Techniques and Emerging HPC Workloads: A Perspective.	Sarah Neuwirth,Arnab Kumar Paul	10.1109/CLUSTER48925.2021.00100
+Daps: A Dynamic Asynchronous Progress Stealing Model for MPI Communication.	Kaiming Ouyang,Min Si,Atsushi Hori,Zizhong Chen,Pavan Balaji	10.1109/CLUSTER48925.2021.00027
+An Integrated Job Monitor, Analyzer and Predictor.	Ashish Pal,Preeti Malakar	10.1109/CLUSTER48925.2021.00091
+Distributed Work Stealing at Scale via Matchmaking.	Hrushit Parikh,Vinit Deodhar,Ada Gavrilovska,Santosh Pande	10.1109/CLUSTER48925.2021.00040
+Monitoring Large Scale Supercomputers: A Case Study with the Lassen Supercomputer.	Tapasya Patki,Adam Bertsch,Ian Karlin,Dong H. Ahn,Brian Van Essen,Barry Rountree,Bronis R. de Supinski,Nathan Besaw	10.1109/CLUSTER48925.2021.00057
+Load Balancing Policies for Nested Fork-Join.	Lukas Reitz	10.1109/CLUSTER48925.2021.00075
+Cooling the Data Center: Design of a Mechanical Controls Owner Project Requirements (OPR) Template.	Stefan A. Robila,David Grant,Chris DePrater,Vali Sorell,Terry L. Rodgers,David Martinez,Shlomo Novotny	10.1109/CLUSTER48925.2021.00085
+Understanding Soft Error Sensitivity of Deep Learning Models and Frameworks through Checkpoint Alteration.	Elvis Rojas,Diego Pérez,Jon C. Calhoun,Leonardo Bautista-Gomez,Terry R. Jones,Esteban Meneses	10.1109/CLUSTER48925.2021.00045
+Reproducible Performance Optimization of Complex Applications on the Edge-to-Cloud Continuum.	Daniel Rosendo,Alexandru Costan,Gabriel Antoniu,Matthieu Simonin,Jean-Christophe Lombardo,Alexis Joly,Patrick Valduriez	10.1109/CLUSTER48925.2021.00043
+Combining One-Sided Communications with Task-Based Programming Models.	Kevin Sala,Sandra Macià,Vicenç Beltran 0001	10.1109/CLUSTER48925.2021.00024
+Bellamy: Reusing Performance Models for Distributed Dataflow Jobs Across Contexts.	Dominik Scheinert,Lauritz Thamsen,Houkun Zhu,Jonathan Will,Alexander Acker,Thorsten Wittkopp,Odej Kao	10.1109/CLUSTER48925.2021.00052
+Streamlining distributed Deep Learning I/O with ad hoc file systems.	Frederic Schimmelpfennig,Marc-André Vef,Reza Salkhordeh,Alberto Miranda,Ramon Nou,André Brinkmann	10.1109/CLUSTER48925.2021.00062
+Energy Efficiency Aspects of the AMD Zen 2 Architecture.	Robert Schöne,Thomas Ilsche,Mario Bielert,Markus Velten,Markus Schmidl,Daniel Hackenberg	10.1109/CLUSTER48925.2021.00087
+FIRESTARTER 2: Dynamic Code Generation for Processor Stress Tests.	Robert Schöne,Markus Schmidl,Mario Bielert,Daniel Hackenberg	10.1109/CLUSTER48925.2021.00084
+A Dynamic Power Capping Library for HPC Applications.	Sahil Sharma,Zhiling Lan,Xingfu Wu,Valerie Taylor 0001	10.1109/CLUSTER48925.2021.00073
+Early Evaluation of Fugaku A64FX Architecture Using Climate Workloads.	Sarat Sreepathi,Mark Taylor	10.1109/CLUSTER48925.2021.00107
+RISE: Reducing I/O Contention in Staging-based Extreme-Scale In-situ Workflows.	Pradeep Subedi,Philip E. Davis,Manish Parashar	10.1109/CLUSTER48925.2021.00021
+csTuner: Scalable Auto-tuning Framework for Complex Stencil Computation on GPUs.	Qingxiao Sun,Yi Liu 0013,Hailong Yang,Zhonghui Jiang,Xiaoyan Liu,Ming Dun,Zhongzhi Luan,Depei Qian	10.1109/CLUSTER48925.2021.00037
+Tackling Cold Start of Serverless Applications by Efficient and Adaptive Container Runtime Reusing.	Kun Suo,Junggab Son,Dazhao Cheng,Wei Chen 0038,Sabur Baidya	10.1109/CLUSTER48925.2021.00018
+Higgs Boson Classification: Brain-inspired BCPNN Learning with StreamBrain.	Martin Svedin,Artur Podobas,Steven Wei Der Chien,Stefano Markidis	10.1109/CLUSTER48925.2021.00105
+A Roadmap to Robust Science for High-throughput Applications: The Developers&apos; Perspective.	Michela Taufer,Ewa Deelman,Rafael Ferreira da Silva,Trilce Estrada,Mary W. Hall,Miron Livny	10.1109/CLUSTER48925.2021.00068
+Optimizing Error-Bounded Lossy Compression for Scientific Data on GPUs.	Jiannan Tian,Sheng Di,Xiaodong Yu,Cody Rivera,Kai Zhao 0008,Sian Jin,Yunhe Feng,Xin Liang 0001,Dingwen Tao,Franck Cappello	10.1109/CLUSTER48925.2021.00047
+Pipelined Preconditioned s-step Conjugate Gradient Methods for Distributed Memory Systems.	Manasi Tiwari,Sathish Vadhiyar	10.1109/CLUSTER48925.2021.00061
+Performance Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp Suite.	Miwako Tsuji,Mitsuhisa Sato	10.1109/CLUSTER48925.2021.00108
+An FPGA-based storage control with load balancing.	Naoya Umezu,Yoshiki Yamaguchi,Taisuke Boku	10.1109/CLUSTER48925.2021.00118
+RELAR: A Reinforcement Learning Framework for Adaptive Routing in Network-on-Chips.	Changhong Wang,Dezun Dong,Zicong Wang,Xiaoyun Zhang,Zhenyu Zhao	10.1109/CLUSTER48925.2021.00069
+Exploring Node Connection Modes in Multi-Rail Fat-tree.	Yuyang Wang,Fei Lei,Dezun Dong	10.1109/CLUSTER48925.2021.00071
+Supporting Elastic Compaction of LSM-tree with a FaaS Cluster.	Xiaoliang Wang,Jianchuan Li,Peiquan Jin,Kuankuan Guo,Yuanjin Lin,Ming Zhao	10.1109/CLUSTER48925.2021.00070
+FineQuery: Fine-Grained Query Processing on CPU-GPU Integrated Architectures.	Dalin Wang,Feng Zhang 0007,Weitao Wan,Hourun Li,Xiaoyong Du 0001	10.1109/CLUSTER48925.2021.00020
+A Transfer Learning Scheme for Time Series Forecasting Using Facebook Prophet.	Menuka Warushavithana,Saptashwa Mitra,Mazdak Arabi,F. Jay Breidt,Sangmi Lee Pallickara,Shrideep Pallickara	10.1109/CLUSTER48925.2021.00076
+Reusability First: Toward FAIR Workflows.	Matthew Wolf,Jeremy Logan,Kshitij Mehta,Daniel A. Jacobson,Mikaela Cashman,Angelica M. Walker,Greg Eisenhauer,Patrick M. Widener,Ashley Cliff	10.1109/CLUSTER48925.2021.00053
+Accelerating GPU Message Communication for Autonomous Navigation Systems.	Hao Wu 0012,Jiangming Jin,Jidong Zhai,Yifan Gong 0003,Wei Liu 0143	10.1109/CLUSTER48925.2021.00029
+WIRE: Resource-efficient Scaling with Online Prediction for DAG-based Workflows.	Bing Xie,Qiang Cao 0005,Mayuresh Kunjir,Linli Wan,Jeffrey S. Chase,Anirban Mandal,Mats Rynge	10.1109/CLUSTER48925.2021.00025
+Building A Fast and Efficient LSM-tree Store by Integrating Local Storage with Cloud Storage.	Peng Xu,Nannan Zhao,Jiguang Wan,Wei Liu,Shuning Chen,Yuanhui Zhou,Hadeel Albahar,Hanyang Liu,Liu Tang,Changsheng Xie	10.1109/CLUSTER48925.2021.00032
+A Scalability Study of Data Exchange in HPC Multi-component Workflows.	Jie Yin,Atsushi Hori,Balazs Gerofi,Yutaka Ishikawa	10.1109/CLUSTER48925.2021.00099
+cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions.	Xiaodong Yu,Sheng Di,Ali Murat Gok,Dingwen Tao,Franck Cappello	10.1109/CLUSTER48925.2021.00065
+DPZ: Improving Lossy Compression Ratio with Information Retrieval on Scientific Data.	Jialing Zhang,Jiaxi Chen,Xiaoyan Zhuo,Aekyeung Moon,Seung Woo Son 0001	10.1109/CLUSTER48925.2021.00056
+2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.	Lizhi Zhang,Zhiquan Lai,Shengwei Li,Yu Tang,Feng Liu,Dongsheng Li 0001	10.1109/CLUSTER48925.2021.00036
+Hybrid workflow of Simulation and Deep Learning on HPC: A Case Study for Material Behavior Determination.	Li Zhong,Dennis Hoppe,Naweiluo Zhou,Oleksandr Shcherbakov	10.1109/CLUSTER48925.2021.00104
+Computational Storage to Increase the Analysis Capability of Tier-2 HEP Data Sites.	Chen Zou 0001,Andrew A. Chien,Robert W. Gardner,Ilija Vukotic	10.1109/CLUSTER48925.2021.00066
+IEEE International Conference on Cluster Computing, CLUSTER 2021, Portland, OR, USA, September 7-10, 2021		10.1109/CLUSTER48925.2021

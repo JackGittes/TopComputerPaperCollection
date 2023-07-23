@@ -1,0 +1,47 @@
+ESESC: A fast performance, power, and temperature multicore simulator.	Ehsan K. Ardestani,Gabriel Southern,Jason Doung,Elnaz Ebrahimi 0001,Jose Renau	10.1109/HOTCHIPS.2013.7478330
+Welcome from general chairs.	Krste Asanovic,Jan-Willem van de Waerdt	10.1109/HOTCHIPS.2013.7478282
+Dataflow architectures for 10Gbps line-rate key-value-stores.	Michaela Blott,Kees A. Vissers	10.1109/HOTCHIPS.2013.7478311
+AMD &quot;kabini&quot; APU SOC.	Dan Bouvier,Ben Bates,Walter Fry,Sreekanth Godey	10.1109/HOTCHIPS.2013.7478299
+HSA queueing.	Ian Bratt	10.1109/HOTCHIPS.2013.7478289
+The use and abuse of patents in the semiconductor industry.	Michael Brody	10.1109/HOTCHIPS.2013.7478316
+Power management challenges in wireless WAN SoCs.	Gunnar Bublitz,Ralph Hasholzner,Christian Drewes	10.1109/HOTCHIPS.2013.7478318
+Microprocessors for roots-of-trust.	Kristopher Carver	10.1109/HOTCHIPS.2013.7478322
+Exploring manycore multinode systems for irregular applications with FPGA prototyping.	Marco Ceriani,Simone Secchi,Antonino Tumeo,Oreste Villa,Gianluca Palermo	10.1109/HOTCHIPS.2013.7478329
+Qualcomm Hexagon DSP: An architecture optimized for mobile multimedia and communications.	Lucian Codrescu	10.1109/HOTCHIPS.2013.7478317
+The chip design game at the end of Moore&apos;s law.	Robert P. Colwell	10.1109/HOTCHIPS.2013.7478302
+Design challenges in building an advanced NAND flash array controller for 19/20 nm MLC.	Radoslav Danilak	10.1109/HOTCHIPS.2013.7478294
+Flash trends: Challenges and future.	John D. Davis,Laura Caulfield,Steven Swanson	10.1109/HOTCHIPS.2013.7478297
+Silicon Photonics Technology Platform for integration of optical IOs with ASICs.	Peter De Dobbelaere	10.1109/HOTCHIPS.2013.7478308
+&quot;Richland&quot; client APU.	Praveen Dongara,Lloyd Bircher,John Darilek	10.1109/HOTCHIPS.2013.7478306
+What a fast FPU means for algorithms: A story of vector elementary functions.	Marat Dukhan	10.1109/HOTCHIPS.2013.7478327
+Hotchips 2013: Clovertrail+ Smartphone SoC platform.	Mark Ewert,Prakash Iyer,Vandana Venkatesan	10.1109/HOTCHIPS.2013.7478301
+Flash adoption in the enterprise.	David Flynn	10.1109/HOTCHIPS.2013.7478298
+Welcome.	Michael J. Flynn,Donald K. Newell	10.1109/HOTCHIPS.2013.7478283
+HSA memory model.	Benedict R. Gaster	10.1109/HOTCHIPS.2013.7478288
+4th generation IntelTM Core processor, codenamed Haswell.	Per Hammarlund	10.1109/HOTCHIPS.2013.7478321
+Delivering the full potential of PCIe storage.	Amber Huffman	10.1109/HOTCHIPS.2013.7478293
+Automatic number plate recognition system on an ARM-DSP and FPGA heterogeneous SoC platforms.	Zoe Jeffrey,Xiaojun Zhai,Faycal Bensaali,Reza Sotudeh,Aladdin M. Ariyaeeinia	10.1109/HOTCHIPS.2013.7478331
+A 50% lower power ARM Cortex CPU using DDC technology with body bias.	David Kidd	10.1109/HOTCHIPS.2013.7478307
+An FPGA-based in-line accelerator for Memcached.	Maysam Lavasani,Hari Angepat,Derek Chiou	10.1109/HOTCHIPS.2013.7478313
+Measuring the gap between programmable and fixed-function accelerators: A case study on speech recognition.	Yunsup Lee,David Sheffield,Andrew Waterman,Michael J. Anderson,Kurt Keutzer,Krste Asanovic	10.1109/HOTCHIPS.2013.7478326
+Hardware-level thread migration in a 110-core shared-memory multiprocessor.	Mieszko Lis,Keun Sup Shim,Brandon Cho,Ilia A. Lebedev,Srinivas Devadas	10.1109/HOTCHIPS.2013.7478320
+In memoriam.	Yoshio Masubuchi,Alan Jay Smith	10.1109/HOTCHIPS.2013.7478284
+Second generation bandwidth Engine® IC breaks 4.5 billion accesses/sec.	Michael J. Miller	10.1109/HOTCHIPS.2013.7478314
+A scalable 3D heterogeneous multi-core processor with inductive-coupling thruchip interface.	Noriyuki Miura,Yusuke Koizumi,Eiichi Sasaki,Yasuhiro Take,Hiroki Matsutani,Tadahiro Kuroda,Hideharu Amano,Ryuichi Sakamoto,Mitaro Namiki,Kimiyoshi Usami,Masaaki Kondo,Hiroshi Nakamura	10.1109/HOTCHIPS.2013.7478328
+NAND technology.	Krishna Parat	10.1109/HOTCHIPS.2013.7478292
+Being in the moment with Google glass.	Babak A. Parviz	10.1109/HOTCHIPS.2013.7478305
+5th generation touchscreen controller for mobile phones and tablets.	Milton Ribeiro,John Carey	10.1109/HOTCHIPS.2013.7478319
+Heterogeneous system architecture overview.	Phil Rogers	10.1109/HOTCHIPS.2013.7478286
+Fast storage for big data - tutorial 2 implications of using flash devices in an enterprise storage server.	Kevin Rowett	10.1109/HOTCHIPS.2013.7478295
+HSAIL: Portable compiler IR for HSA.	Ben Sander	10.1109/HOTCHIPS.2013.7478287
+Main SoC and XBOX one kinect.	John Sell,Patrick O&apos;Connor	10.1109/HOTCHIPS.2013.7478300
+IBM zEC12 processor subsystem.	Robert J. Sonnelitter	10.1109/HOTCHIPS.2013.7478304
+NFP-6xxx - a 22nm high-performance network flow processor for 200Gb/s Software Defined Networking.	Gavin Stark,Sakir Sezer	10.1109/HOTCHIPS.2013.7478315
+Going to the wire: The next generation financial risk management platform.	Ari Studnitzer,Oskar Mencer	10.1109/HOTCHIPS.2013.7478312
+POWER8.	Jeff Stuecheli	10.1109/HOTCHIPS.2013.7478303
+Flash in an enterprise storage array - 10x performance for less than disk.	Neil Vachharajani	10.1109/HOTCHIPS.2013.7478296
+SPARC M6 Oracle&apos;s next generation processor for enterprise systems.	Ali Vahidsafa,Sutikshan Bhutani	10.1109/HOTCHIPS.2013.7478324
+The RISC-V instruction set.	Andrew Waterman,Yunsup Lee,Rimas Avizienis,Henry Cook,David A. Patterson 0001,Krste Asanovic	10.1109/HOTCHIPS.2013.7478332
+Bixby: The scalability and coherence directory ASIC in Oracle&apos;s highly scalable enterprise systems.	Thomas Wicki,Jurgen Schulz	10.1109/HOTCHIPS.2013.7478325
+SPARC64™ X+: Fujitsu&apos;s next generation processor for UNIX servers.	Toshio Yoshida	10.1109/HOTCHIPS.2013.7478323
+2013 IEEE Hot Chips 25 Symposium (HCS), Stanford University, CA, USA, August 25-27, 2013		

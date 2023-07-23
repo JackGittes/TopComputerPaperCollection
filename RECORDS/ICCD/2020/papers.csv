@@ -1,0 +1,103 @@
+A Fault-Tolerant and High-Speed Memory Controller Targeting 3D Flash Memory Cubes for Space Applications.	Anthony Agnesina,Da Eun Shim,James Yamaguchi,Christian Krutzik,John Carson,Dan Nakamura,Sung Kyu Lim	10.1109/ICCD50377.2020.00078
+Quantum-Proof Lightweight McEliece Cryptosystem Co-processor Design.	Rashmi S. Agrawal,Lake Bu,Michel A. Kinsy	10.1109/ICCD50377.2020.00029
+An Implementation of External Capacitor-less Low-DropOut Voltage Regulator in 45nm Technology with Output Voltage Ranging from 0.4V-1.2V.	Farid Uddin Ahmed,Zarin Tasnim Sandhie,Masud H. Chowdhury	10.1109/ICCD50377.2020.00082
+On-Chip Voltage and Temperature Digital Sensor for Security, Reliability, and Portability.	Md Toufiq Hasan Anik,Mohammad Ebrahimabadi,Hamed Pirsiavash,Jean-Luc Danger,Sylvain Guilley,Naghmeh Karimi	10.1109/ICCD50377.2020.00091
+MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture.	Bahar Asgari,Ramyad Hadidi,Hyesoon Kim	10.1109/ICCD50377.2020.00036
+Router Buffer Caching for Managing Shared Cache Blocks in Tiled Multi-Core Processors.	Joe Augustine,Kanakagiri Raghavendra,John Jose,Madhu Mutyam	10.1109/ICCD50377.2020.00050
+An Open-Source Scalable Thermal and Power Controller for HPC Processors.	Giovanni Bambini,Robert Balas,Christian Conficoni,Andrea Tilli,Luca Benini,Simone Benatti,Andrea Bartolini	10.1109/ICCD50377.2020.00067
+Thermal Aware Lifetime Reliability Optimization for Automotive Distributed Computing Applications.	Ajinkya S. Bankar,Shi Sha,Vivek Chaturvedi,Gang Quan	10.1109/ICCD50377.2020.00090
+More Space may be Cheaper: Multi-Dimensional Resource Allocation for NVM-based Cloud Cache.	Ning Bao,Yunpeng Chai,Yuxuan Zhang,Chuanwen Wang,Dafang Zhang	10.1109/ICCD50377.2020.00100
+Special Session: Noninvasive Sensor-Spoofing Attacks on Embedded and Cyber-Physical Systems.	Anomadarshi Barua,Mohammad Abdullah Al Faruque	10.1109/ICCD50377.2020.00024
+Scaled Population Subtraction for Approximate Computing.	Kunal Bharathi,Jiang Hu,Sunil P. Khatri	10.1109/ICCD50377.2020.00065
+Special Session: XTA: Open Source eXtensible, Scalable and Adaptable Tensor Architecture for AI Acceleration.	Ravikumar V. Chakaravarthy,Hua Jiang	10.1109/ICCD50377.2020.00026
+Z2-ZNCC: ZigZag Scanning based Zero-means Normalized Cross Correlation for Fast and Accurate Stereo Matching on Embedded GPU.	Qiong Chang,Aolong Zha,Weimin Wang 0007,Xin Liu 0020,Masaki Onishi,Tsutomu Maruyama	10.1109/ICCD50377.2020.00104
+An Empirical Study of Hybrid SSD with Optane and QLC Flash.	Hui Chen,Yina Lv,Changlong Li,Shouzhen Gu,Liang Shi	10.1109/ICCD50377.2020.00042
+Dynamic Heterogeneous Voltage Regulation for Systolic Array-Based DNN Accelerators.	Jianhao Chen,Joseph Riad,Edgar Sánchez-Sinencio,Peng Li 0001	10.1109/ICCD50377.2020.00088
+Chain-Based Fixed-Priority Scheduling of Loosely-Dependent Tasks.	Hyunjong Choi,Mohsen Karimi,Hyoseung Kim 0001	10.1109/ICCD50377.2020.00109
+BranchSpec: Information Leakage Attacks Exploiting Speculative Branch Instruction Executions.	Md Hafizul Islam Chowdhuryy,Hang Liu 0001,Fan Yao	10.1109/ICCD50377.2020.00095
+Duty-Cycle Correction For A Super-Wide Frequency Range from 10MHz to 1.2GHz.	Wei Chu,Wei-Hao Chen,Shi-Yu Huang	10.1109/ICCD50377.2020.00083
+Message from the General Chair ICCD 2020.	Maciej Ciesielski	10.1109/ICCD50377.2020.00005
+Reducing Off-Chip Miss Penalty by Exploiting Underutilised On-Chip Router Buffers.	Abhijit Das 0002,Abhishek Kumar,John Jose	10.1109/ICCD50377.2020.00049
+Special Session: Adiabatic Circuits for Energy-Efficient and Secure IoT Systems.	Krithika Dhananjay,Emre Salman	10.1109/ICCD50377.2020.00017
+DPCLS: Improving Partial Cache Line Sparing with Dynamics for Memory Error Prevention.	Xiaoming Du,Cong Li	10.1109/ICCD50377.2020.00045
+A Distributed In-Situ CNN Inference System for IoT Applications.	Jiangsu Du,Minghua Shen,Yunfei Du	10.1109/ICCD50377.2020.00055
+An Efficient Hardware Architecture for Finding Frequent Items in Data Streams.	Ali Ebrahim,Jalal Khlaifat	10.1109/ICCD50377.2020.00034
+Runtime Deep Model Multiplexing for Reduced Latency and Energy Consumption Inference.	Amir Erfan Eshratifar,Massoud Pedram	10.1109/ICCD50377.2020.00053
+Special Session: Physics- Informed Neural Networks for Securing Water Distribution Systems.	Solon Falas,Charalambos Konstantinou,Maria K. Michael	10.1109/ICCD50377.2020.00022
+Optimizing FPGA-Based CNN Accelerator Using Differentiable Neural Architecture Search.	Hongxiang Fan,Martin Ferianc,Shuanglong Liu,Zhiqiang Que,Xinyu Niu,Wayne Luk	10.1109/ICCD50377.2020.00085
+NATSA: A Near-Data Processing Accelerator for Time Series Analysis.	Ivan Fernandez,Ricardo Quislant,Eladio Gutiérrez,Oscar G. Plata,Christina Giannoula,Mohammed Alser,Juan Gómez-Luna,Onur Mutlu	10.1109/ICCD50377.2020.00035
+Special Session: Exploring the Ultimate Limits of Adiabatic Circuits.	Michael P. Frank,Robert W. Brocato,Thomas M. Conte,Alexander H. Hsia,Anirudh Jain,Nancy A. Missert,Karpur Shukla,Brian D. Tierney	10.1109/ICCD50377.2020.00018
+QuPAA: Exploiting Parallel and Adaptive Architecture to Scale up Quantum Computing.	Yingxun Fu,Yao Sun,Tao Li 0006	10.1109/ICCD50377.2020.00037
+ANSim: A Fast and Versatile Asynchronous Network-On-Chip Simulator.	Tom Glint,Jitesh Sah,Manu Awasthi,Joycee Mekie	10.1109/ICCD50377.2020.00107
+ASCHyRO: Automatic Fault Localization of SystemC HLS Designs Using a Hybrid Accurate Rank Ordering Technique.	Mehran Goli,Alireza Mahzoon,Rolf Drechsler	10.1109/ICCD50377.2020.00043
+ATT: A Fault-Tolerant ReRAM Accelerator for Attention-based Neural Networks.	Haoqiang Guo,Lu Peng 0001,Jian Zhang 0004,Qing Chen,Travis LeCompte	10.1109/ICCD50377.2020.00047
+Learn to Floorplan through Acquisition of Effective Local Search Heuristics.	Zhuolun He,Yuzhe Ma,Lu Zhang,Peiyu Liao,Ngai Wong,Bei Yu 0001,Martin D. F. Wong	10.1109/ICCD50377.2020.00061
+H2ORAM: Low Response Latency Optimized ORAM for Hybrid Memory Systems.	Wenpeng He,Fang Wang 0001,Dan Feng 0001	10.1109/ICCD50377.2020.00074
+Maximum Clique Based Method for Optimal Solution of Pattern Classification.	Xu He,Yipei Wang,Zhiyong Fu,Yao Wang 0002,Yang Guo 0003	10.1109/ICCD50377.2020.00058
+Adaptive Simulation with Virtual Prototypes for RISC-V: Switching Between Fast and Accurate at Runtime.	Vladimir Herdt,Daniel Große,Sören Tempel,Rolf Drechsler	10.1109/ICCD50377.2020.00059
+Improving the Latency-Area Tradeoffs for DRAM Design with Coarse-Grained Monolithic 3D (M3D) Integration.	Chao-Hsuan Huang,Ishan G. Thakkar	10.1109/ICCD50377.2020.00076
+ND-HMDs: Non-Differentiable Hardware Malware Detectors against Evasive Transient Execution Attacks.	Md. Shohidul Islam,Abraham Peedikayil Kuruvila,Kanad Basu,Khaled N. Khasawneh	10.1109/ICCD50377.2020.00096
+Re-Thinking Mixed-Criticality Architecture for Automotive Industry.	Zhe Jiang 0004,Shuai Zhao 0004,Pan Dong,Dawei Yang,Ran Wei,Nan Guan,Neil C. Audsley	10.1109/ICCD50377.2020.00092
+EM-GAN: Data-Driven Fast Stress Analysis for Multi-Segment Interconnects.	Wentian Jin,Sheriff Sadiqbatcha,Zeyu Sun 0001,Han Zhou,Sheldon X.-D. Tan	10.1109/ICCD50377.2020.00057
+Design of Shape-Changeable Chiplet-Based Computers Using an Inductively Coupled Wireless Bus Interface.	Junichiro Kadomoto,Hidetsugu Irie,Shuichi Sakai	10.1109/ICCD50377.2020.00103
+Improving the Efficiency of Power Management via Dynamic Interrupt Management.	Ki-Dong Kang,Hyungwon Park,Gyeongseo Park,Daehoon Kim	10.1109/ICCD50377.2020.00069
+Silicon vs. Organic Interposer: PPA and Reliability Tradeoffs in Heterogeneous 2.5D Chiplet Integration.	Jinwoo Kim,Venkata Chaitanya Krishna Chekuri,Nael Mizanur Rahman,Majid Ahadi Dolatsara,Hakki Mert Torun,Madhavan Swaminathan,Saibal Mukhopadhyay,Sung Kyu Lim	10.1109/ICCD50377.2020.00030
+ADAM: Adaptive Block Placement with Metadata Embedding for Hybrid Caches.	Beomjun Kim,Prashant J. Nair,Seokin Hong	10.1109/ICCD50377.2020.00077
+Transforming Natural Language Specifications to Logical Forms for Hardware Verification.	Rahul Krishnamurthy,Michael S. Hsiao	10.1109/ICCD50377.2020.00072
+A Study of Runtime Adaptive Prefetching for STTRAM L1 Caches.	Kyle Kuan,Tosiron Adegbija	10.1109/ICCD50377.2020.00051
+Reconfigurable Dataflow Optimization for Spatiotemporal Spiking Neural Computation on Systolic Array Accelerators.	Jeong-Jun Lee,Peng Li 0001	10.1109/ICCD50377.2020.00027
+Throughput-Oriented Spatio-Temporal Optimization in Approximate High-Level Synthesis.	Marcos T. Leipnitz,Gabriel L. Nazar	10.1109/ICCD50377.2020.00060
+Accelerated Verification of Parametric Protocols with Decision Trees.	Yongjian Li,Taifeng Cao,David N. Jansen,Jun Pang 0001,Xiaotao Wei	10.1109/ICCD50377.2020.00073
+Loop2Recursion: Compiler-Assisted Wear Leveling for Non-Volatile Memory.	Wei Li,Libing Wu,Mengting Yuan,Chun Jason Xue,Jingling Xue,Qingan Li	10.1109/ICCD50377.2020.00102
+APAC: An Accurate and Adaptive Prefetch Framework with Concurrent Memory Access Analysis.	Xiaoyang Lu,Rujia Wang,Xian-He Sun	10.1109/ICCD50377.2020.00048
+Improving the Performance of NVM Crash Consistency under Multicore.	Zhiyuan Lu,Jianhui Yue,Yifu Deng,Yifeng Zhu	10.1109/ICCD50377.2020.00099
+Stealthy-Shutdown: Practical Remote Power Attacks in Multi - Tenant FPGAs.	Yukui Luo,Cheng Gongye,Shaolei Ren,Yunsi Fei,Xiaolin Xu	10.1109/ICCD50377.2020.00097
+EdgeNAS: Discovering Efficient Neural Architectures for Edge Systems.	Xiangzhong Luo,Di Liu 0002,Hao Kong,Weichen Liu	10.1109/ICCD50377.2020.00056
+Unified-TP: A Unified TLB and Page Table Cache Structure for Efficient Address Translation.	Zhulin Ma,Yujuan Tan,Hong Jiang 0001,Zhichao Yan,Duo Liu,Xianzhang Chen,Qingfeng Zhuge,Edwin Hsing-Mean Sha,Chengliang Wang	10.1109/ICCD50377.2020.00052
+4-output Programmable Spin Wave Logic Gate.	Abdulqader Nael Mahmoud,Frederic Vanderveken,Christoph Adelmann,Florin Ciubotaru,Said Hamdioui,Sorin Cotofana	10.1109/ICCD50377.2020.00062
+Special Session: Quantum Error Correction in Near Term Systems.	Ritajit Majumdar,Susmita Sur-Kolay	10.1109/ICCD50377.2020.00015
+Multiple Permanent Faults Mitigation Through Bit-Shuffling for Network-an-Chip Architecture.	Romain Mercier,Cédric Killian,Angeliki Kritikakou,Youri Helen,Daniel Chillet	10.1109/ICCD50377.2020.00046
+ASIC Accelerator in 28 nm for the Post-Quantum Digital Signature Scheme XMSS.	Prashanth Mohan,Wen Wang 0007,Bernhard Jungk,Ruben Niederhagen,Jakub Szefer,Ken Mai	10.1109/ICCD50377.2020.00112
+Programmable Dictionary Code Compression for Instruction Stream Energy Efficiency.	Joonas Multanen,Kari Hepola,Pekka Jääskeläinen	10.1109/ICCD50377.2020.00066
+Hardware-based Fast Real-time Image Classification with Stochastic Computing.	Ponnanna Kelettira Muthappa,Florian Neugebauer,Ilia Polian,John P. Hayes	10.1109/ICCD50377.2020.00064
+Attacking Trivium at the Bitstream Level.	Kalle Ngo,Elena Dubrova,Michail Moraitis	10.1109/ICCD50377.2020.00110
+Special Session: An Adiabatic Logic Based Silicon Physical Unclonable Function.	Kohei Ogura,Yasuhiro Takahashi	10.1109/ICCD50377.2020.00020
+Hardware-Assisted Malware Detection using Explainable Machine Learning.	Zhixin Pan,Jennifer Sheldon,Prabhat Mishra 0001	10.1109/ICCD50377.2020.00113
+Near-Sensor Inference Architecture with Region Aware Processing.	Md Jubaer Hossain Pantho,Pankaj Bhowmik,Christophe Bobda	10.1109/ICCD50377.2020.00054
+Design- Time Optimization of Reconfigurable PV Architectures for Irregular Surfaces.	Sangyoung Park,Swaminathan Narayanaswamy,Samarjit Chakraborty	10.1109/ICCD50377.2020.00093
+PBCCF: Accelerated Deduplication by Prefetching Backup Content Correlated Fingerprints.	Yaobin Qin,Xianbo Zhang,David J. Lilja	10.1109/ICCD50377.2020.00038
+MEPNTC: A Standard-Cell Library Design Scheme Extending the Minimum-Energy-Point Operation of Near-$V_{th}$ Computing.	Anuradha Chathuranga Ranasinghe,Sabih H. Gerez	10.1109/ICCD50377.2020.00032
+On the Effects of Permanent Faults in QDI Circuits - A Quantitative Perspective.	Raghda El Shehaby,Andreas Steininger	10.1109/ICCD50377.2020.00080
+Bespoke Behavioral Processors.	Rohit Sreekumar,Prattay Chowdhury,Benjamin Carrión Schäfer	10.1109/ICCD50377.2020.00063
+OpenCGRA: An Open-Source Unified Framework for Modeling, Testing, and Evaluating CGRAs.	Cheng Tan 0002,Chenhao Xie 0001,Ang Li 0006,Kevin J. Barker,Antonino Tumeo	10.1109/ICCD50377.2020.00070
+Special Session: A Novel Low-Power and Energy-Efficient Adiabatic Logic-In-Memory Architecture Using CMOS/MTJ.	Himanshu Thapliyal,S. Dinesh Kumar	10.1109/ICCD50377.2020.00019
+Special Session: Quantum Carry Lookahead Adders for NISQ and Quantum Image Processing.	Himanshu Thapliyal,Edgard Muñoz-Coreas,Vladislav Khalus	10.1109/ICCD50377.2020.00014
+IPS-CiM: Enhancing Energy Efficiency of Intermittently-Powered Systems with Compute-in-Memory.	Sandeep Krishna Thirumala,Arnab Raha,Vijay Raghunathan,Sumeet Kumar Gupta	10.1109/ICCD50377.2020.00068
+A Novel Rounding Algorithm for a High Performance IEEE 754 Double-Precision Floating-Point Multiplier.	S. Ross Thompson,James E. Stine	10.1109/ICCD50377.2020.00081
+Special Session: Potentially Leaky Controller: Examining Cache Side-Channel Attacks in Programmable Logic Controllers.	Dimitrios Tychalas,Michail Maniatakos	10.1109/ICCD50377.2020.00021
+Special Session: Impact of Noise on Quantum Algorithms in Noisy Intermediate-Scale Quantum Systems.	Daniel Volya,Prabhat Mishra 0001	10.1109/ICCD50377.2020.00013
+A Configurable BNN ASIC using a Network of Programmable Threshold Logic Standard Cells.	Ankit Wagle,Sunil P. Khatri,Sarma B. K. Vrudhula	10.1109/ICCD50377.2020.00079
+Isle-Tree: A B+-Tree with Intra-Cache Line Sorted Leaves for Non-volatile Memory.	Chundong Wang 0001,Sudipta Chattopadhyay 0001	10.1109/ICCD50377.2020.00101
+pRnR: A Parallel Record-Replay Framework for Virtual Machines.	Wei Wang,Lei Cui 0003,Zhiyu Hao,Haiqiang Fei,Chonghua Wang,Yaqiong Peng	10.1109/ICCD50377.2020.00106
+Phased-Guard: Multi-Phase Machine Learning Framework for Detection and Identification of Zero-Day Microarchitectural Side-Channel Attacks.	Han Wang,Hossein Sayadi,Gaurav Kolhe,Avesta Sasan,Setareh Rafatirad,Houman Homayoun	10.1109/ICCD50377.2020.00111
+pacSCA: A Profiling-Assisted Correlation-based Side-Channel Attack on GPUs.	Xin Wang 0056,Wei Zhang 0002	10.1109/ICCD50377.2020.00094
+High Throughput CNN Inference and Training with In-Cache Computation.	Xiaowei Wang,Li Zhao,Pengcheng Li	10.1109/ICCD50377.2020.00084
+Special Session: Noise Characterization and Error Mitigation in Near-Term Quantum Computers.	Christopher J. Wood	10.1109/ICCD50377.2020.00016
+PerfDBT: Efficient Performance Regression Testing of Dynamic Binary Translation.	Jin Wu,Jian Dong,Ruili Fang,Wenwen Wang 0001,Decheng Zuo	10.1109/ICCD50377.2020.00071
+DualFS: A Coordinative Flash File System with Flash Block Dual-mode Switching.	Bing Wu 0001,Mengye Peng,Dan Feng 0001,Wei Tong 0001	10.1109/ICCD50377.2020.00028
+EaD: a Collision-free and High Performance Deduplication Scheme for Flash Storage Systems.	Suzhen Wu,Jindong Zhou,Weidong Zhu,Hong Jiang 0001,Zhijie Huang,Zhirong Shen,Bo Mao	10.1109/ICCD50377.2020.00039
+COSMA: An Efficient Concurrency-Oriented Space Management Scheme for In-memory File Systems.	Chunhua Xiao,Zipei Feng,Ting Wu 0012,Lin Zhang,Xiaoxiang Fu,Weichen Liu	10.1109/ICCD50377.2020.00040
+A Hybrid Computing Architecture for Fault-tolerant Deep Learning Accelerators.	Dawen Xu 0002,Cheng Chu,Qianlong Wang,Cheng Liu 0008,Ying Wang 0001,Lei Zhang 0008,Huaguo Liang,Kwang-Ting Cheng	10.1109/ICCD50377.2020.00087
+CMSA: Configurable Multi-directional Systolic Array for Convolutional Neural Networks.	Rui Xu,Sheng Ma,Yaohua Wang,Yang Guo 0003	10.1109/ICCD50377.2020.00089
+Optimizing Data Placement for Hybrid SPM with SRAM and Racetrack Memory.	Rui Xu,Edwin H.-M. Sha,Qingfeng Zhuge,Shouzhen Gu,Liang Shi	10.1109/ICCD50377.2020.00075
+Side-Channel Leakage Detection Based on Constant Parameter Channel Model.	Wei Yang,Hailong Zhang 0001,Yansong Gao,Anmin Fu,Songjie Wei	10.1109/ICCD50377.2020.00098
+WoLFRaM: Enhancing Wear-Leveling and Fault Tolerance in Resistive Memories using Programmable Address Decoders.	Leonid Yavits,Lois Orosa 0001,Suyash Mahar,João Dinis Ferreira,Mattan Erez,Ran Ginosar,Onur Mutlu	10.1109/ICCD50377.2020.00044
+Special Issue: Resilient Distributed Estimator with Information Consensus for CPS Security.	Feng Yu 0016,Yaodan Hu,Teng Zhang 0002,Yier Jin	10.1109/ICCD50377.2020.00023
+ALT: Optimizing Tensor Compilation in Deep Learning Compilers with Active Learning.	Xi Zeng,Tian Zhi,Zidong Du,Qi Guo 0001,Ninghui Sun,Yunji Chen	10.1109/ICCD50377.2020.00108
+FAGR: An Efficient File-aware Graph Recovery Scheme for Erasure Coded Cloud Storage Systems.	Heming Zeng,Chi Zhang,Chentao Wu,Gen Yang,Jie Li 0002,Guangtao Xue,Minyi Guo	10.1109/ICCD50377.2020.00033
+AetEC: Adaptive error-tolerant Erasure Coding Scheme Within SSDs.	Tianqi Zhan,Xianpeng Wang 0005,Dan Feng 0001,Wei Tong 0001	10.1109/ICCD50377.2020.00041
+Achieving Full Parallelism in LSTM via a Unified Accelerator Design.	Xinyi Zhang,Weiwen Jiang,Jingtong Hu	10.1109/ICCD50377.2020.00086
+Exploring Better Speculation and Data Locality in Sparse Matrix-Vector Multiplication on Intel Xeon.	Haoran Zhao,Tian Xia,Chenyang Li,Wenzhe Zhao,Nanning Zheng 0001,Pengju Ren	10.1109/ICCD50377.2020.00105
+Driving Scenario Perception-Aware Computing System Design in Autonomous Vehicles.	Hengyu Zhao,Yubo Zhang,Pingfan Meng,Hui Shi,Li Erran Li,Tiancheng Lou,Jishen Zhao	10.1109/ICCD50377.2020.00031
+Special Session: Harness the Power of DERs for Secure Communications in Electric Energy Systems.	Ioannis Zografopoulos,Juan Ospina,Charalambos Konstantinou	10.1109/ICCD50377.2020.00025
+38th IEEE International Conference on Computer Design, ICCD 2020, Hartford, CT, USA, October 18-21, 2020		10.1109/ICCD50377.2020

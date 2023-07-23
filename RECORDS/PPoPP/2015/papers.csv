@@ -1,0 +1,45 @@
+The lock-free k-LSM relaxed priority queue.	Martin Wimmer 0003	10.1145/2688500.2688547
+PLUTO+: near-complete modeling of affine transformations for parallelism and locality.	Aravind Acharya	10.1145/2688500.2688512
+SemCache++: semantics-aware caching for efficient multi-GPU offloading.	Nabeel AlSaber	10.1145/2688500.2688527
+The SprayList: a scalable relaxed priority queue.	Dan Alistarh	10.1145/2688500.2688523
+MPI+Threads: runtime contention and remedies.	Abdelhalim Amer	10.1145/2688500.2688522
+Predicate RCU: an RCU for scalable concurrent updates.	Maya Arbel	10.1145/2688500.2688518
+On optimizing machine learning workloads via kernel fusion.	Arash Ashari	10.1145/2688500.2688521
+Performance implications of dynamic memory allocators on transactional memory systems.	Alexandro Baldassin	10.1145/2688500.2688504
+A framework for practical parallel fast matrix multiplication.	Austin R. Benson	10.1145/2688500.2688513
+High performance locks for multi-level NUMA systems.	Milind Chabbi	10.1145/2688500.2688503
+Barrier elision for production parallel programs.	Milind Chabbi	10.1145/2688500.2688502
+A parallel algorithm for global states enumeration in concurrent systems.	Yen-Jung Chang	10.1145/2688500.2688520
+Tiles: a new language mechanism for heterogeneous parallelism.	Yifeng Chen	10.1145/2688500.2688555
+Dynamic deadlock verification for general barrier synchronisation.	Tiago Cogumbreiro	10.1145/2688500.2688519
+Section based program analysis to reduce overhead of detecting unsynchronized thread communication.	Madan Mohan Das	10.1145/2688500.2688552
+Automatic scalable atomicity via semantic locking.	Guy Golan-Gueta	10.1145/2688500.2688511
+More than you ever wanted to know about synchronization: synchrobench, measuring the impact of the synchronization on concurrent algorithms.	Vincent Gramoli	10.1145/2688500.2688501
+Towards batched linear solvers on accelerated hardware platforms.	Azzam Haidar	10.1145/2688500.2688534
+A hierarchical approach to reducing communication in parallel graph algorithms.	Harshvardhan	10.1145/2688500.2700994
+Combining phase identification and statistic modeling for automated parallel benchmark generation.	Ye Jin	10.1145/2688500.2688541
+An OpenACC-based unified programming model for multi-accelerator systems.	Jungwon Kim	10.1145/2688500.2688531
+A library for portable and composable data locality optimizations for NUMA systems.	Zoltan Majó	10.1145/2688500.2688509
+Fence placement for legacy data-race-free programs via synchronization read detection.	Andrew J. McPherson	10.1145/2688500.2688524
+A collection-oriented programming model for performance portability.	Saurav Muralidharan	10.1145/2688500.2688537
+Decoupled load balancing.	Olga Pearce	10.1145/2688500.2688539
+JAWS: a JavaScript framework for adaptive CPU-GPU work sharing.	Xianglan Piao	10.1145/2688500.2688525
+Are web applications ready for parallelism?	Cosmin Radoi	10.1145/2688500.2700995
+CASTLE: fast concurrent internal binary search tree using edge-based locking.	Arunmoezhi Ramachandran	10.1145/2688500.2688551
+Distributed memory code generation for mixed Irregular/Regular computations.	Mahesh Ravishankar	10.1145/2688500.2688515
+Static/Dynamic validation of MPI collective communications in multi-threaded context.	Emmanuelle Saillard	10.1145/2688500.2688548
+GStream: a graph streaming processing method for large-scale graphs on GPUs.	Hyunseok Seo	10.1145/2688500.2688526
+Optimization of asynchronous graph processing on GPU with hybrid coloring model.	Xuanhua Shi	10.1145/2688500.2688542
+Diagnosing the causes and severity of one-sided message contention.	Nathan R. Tallent	10.1145/2688500.2688516
+Cache-oblivious wavefront: improving parallelism of recursive dynamic programming algorithms without losing cache-efficiency.	Yuan Tang	10.1145/2688500.2688514
+Scalable and efficient implementation of 3d unstructured meshes computation: a case study on matrix assembly.	Loïc Thébault	10.1145/2688500.2688517
+The lazy happens-before relation: better partial-order reduction for systematic concurrency testing.	Paul Thomson	10.1145/2688500.2688533
+A programming model and runtime system for significance-aware energy-efficient computing.	Vassilis Vassiliadis	10.1145/2688500.2688546
+Gunrock: a high-performance graph processing library on the GPU.	Yangzihao Wang	10.1145/2688500.2688538
+Efficient and reasonable object-oriented concurrency.	Scott West	10.1145/2688500.2688545
+Software partitioning of hardware transactions.	Lingxiang Xiang	10.1145/2688500.2688506
+SYNC or ASYNC: time to fuse for distributed graph-parallel computation.	Chenning Xie	10.1145/2688500.2688508
+VirtCL: a framework for OpenCL device abstraction and management.	Yi-Ping You	10.1145/2688500.2688505
+NUMA-aware graph-structured analytics.	Kaiyuan Zhang 0005	10.1145/2688500.2688507
+Low-overhead software transactional memory with progress guarantees and strong semantics.	Minjia Zhang	10.1145/2688500.2688510
+Proceedings of the 20th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP 2015, San Francisco, CA, USA, February 7-11, 2015	Albert Cohen 0001	10.1145/2688500

@@ -1,0 +1,62 @@
+FPGAs in the Datacenters: the Case of Parallel Hybrid Super Scalar String Sample Sort (pHS5)(Abstract Only).	Mikhail Asiatici,Damian Maiorano,Paolo Ienne	10.1145/3174243.3174993
+FGC: A Tool-flow for Generating and Configuring Custom FPGAs(Abstract Only).	Oluseyi A. Ayorinde,He Qi,Benton H. Calhoun	10.1145/3174243.3174997
+Performance Comparison of Multiple Approaches of Status Register for Medium Density Memory Suitable for Implementation of a Lossless Compression Dictionary: (Abstract Only).	Matej Bartík,Sven Ubik,Pavel Kubalík,Tomás Benes	10.1145/3174243.3174976
+Configurable FPGA Packet Parser for Terabit Networks with Guaranteed Wire-Speed Throughput.	Jakub Cabal,Pavel Benácek,Lukas Kekely,Michal Kekely,Viktor Pus,Jan Korenek	10.1145/3174243.3174250
+FPGA-based LSTM Acceleration for Real-Time EEG Signal Processing: (Abstract Only).	Zhe Chen,Andrew Howe,Hugh T. Blair,Jason Cong	10.1145/3174243.3174969
+An Optimal Microarchitecture for Stencil Computation with Data Reuse and Fine-Grained Parallelism: (Abstract Only).	Yuze Chi,Peipei Zhou 0001,Jason Cong	10.1145/3174243.3174964
+A Full-System VM-HDL Co-Simulation Framework for Servers with PCIe-Connected FPGAs.	Shenghsun Cho,Mrunal Patel,Han Chen,Michael Ferdman,Peter A. Milder	10.1145/3174243.3174269
+Exploration of Low Numeric Precision Deep Learning Inference Using Intel® FPGAs: (Abstract Only).	Philip Colangelo,Nasibeh Nasiri,Eriko Nurvitadhi,Asit K. Mishra,Martin Margala,Kevin Nealis	10.1145/3174243.3174999
+K-Flow: A Programming and Scheduling Framework to Optimize Dataflow Execution on CPU-FPGA Platforms: (Abstract Only).	Jason Cong,Zhenman Fang,Yao Hu,Di Wu 0010	10.1145/3174243.3174968
+Understanding Performance Differences of FPGAs and GPUs: (Abtract Only).	Jason Cong,Zhenman Fang,Michael Lo,Hanrui Wang 0002,Jingxian Xu,Shaochong Zhang	10.1145/3174243.3174970
+A Scalable Approach to Exact Resource-Constrained Scheduling Based on a Joint SDC and SAT Formulation.	Steve Dai,Gai Liu,Zhiru Zhang	10.1145/3174243.3174268
+SIFT Keypoint Descriptor Matching Algorithm: A Fully Pipelined Accelerator on FPGA(Abstract Only).	Luka Daoud,Muhammad Kamran Latif,Nader Rafla 0001	10.1145/3174243.3174994
+Software/Hardware Co-design for Multichannel Scheduling in IEEE 802.11p MLME: (Abstract Only).	Nan Ding 0001,Wei Zhang 0199,Yanhua Ma,Zhenguo Gao	10.1145/3174243.3174971
+Software-Defined FPGA-Based Accelerator for Deep Convolutional Neural Networks: (Abstract Only).	Yankang Du,Qinrang Liu,Shuai Wei,Chen Gao	10.1145/3174243.3174983
+A HOG-based Real-time and Multi-scale Pedestrian Detector Demonstration System on FPGA.	Jan Dürre,Dario Paradzik,Holger Blume	10.1145/3174243.3174249
+Graph-Theoretically Optimal Memory Banking for Stencil-Based Computing Kernels.	Juan Escobedo,Mingjie Lin	10.1145/3174243.3174251
+Improving FPGA Performance with a S44 LUT Structure.	Wenyi Feng,Jonathan W. Greene,Alan Mishchenko	10.1145/3174243.3174272
+FPGA Fastfood - A High Speed Systolic Implementation of a Large Scale Online Kernel Method.	Sean Fox,David Boland,Philip Heng Wai Leong	10.1145/3174243.3174271
+DeltaRNN: A Power-efficient Recurrent Neural Network Accelerator.	Chang Gao,Daniel Neil,Enea Ceolini,Shih-Chii Liu,Tobi Delbrück	10.1145/3174243.3174261
+LEOSoC: An Open-Source Cross-Platform Embedded Linux Library for Managing Hardware Accelerators in Heterogeneous System-on-Chips(Abstract Only).	Andrea Guerrieri,Sahand Kashani-Akhavan,Mikhail Asiatici,Pasquale Lombardi,Bilel Belhadj,Paolo Ienne	10.1145/3174243.3175002
+ParaDRo: A Parallel Deterministic Router Based on Spatial Partitioning and Scheduling.	Chin Hau Hoo,Akash Kumar 0001	10.1145/3174243.3174246
+HexCell: a Hexagonal Cell for Evolvable Systolic Arrays on FPGAs: (Abstract Only).	Fady Hussein,Luka Daoud,Nader Rafla 0001	10.1145/3174243.3174988
+Architecture Exploration for HLS-Oriented FPGA Debug Overlays.	Al-Shahna Jamal,Jeffrey Goeders,Steven J. E. Wilton	10.1145/3174243.3174254
+Evaluation of OpenCL Performance-oriented Optimizations for Streaming Kernels on the FPGA: (Abstract Only).	Zheming Jin,Hal Finkel	10.1145/3174243.3174967
+Optimizations of Sequence Alignment on FPGA: A Case Study of Extended Sequence Alignment (Abstact Only).	Zheming Jin,Kazutomo Yoshii	10.1145/3174243.3174958
+Dynamically Scheduled High-level Synthesis.	Lana Josipovic,Radhika Ghosal,Paolo Ienne	10.1145/3174243.3174264
+FastTrack: Exploiting Fast FPGA Wiring for Implementing NoC Shortcuts (Abstract Only).	Nachiket Kapre,Tushar Krishna	10.1145/3174243.3174962
+Accelerating Graph Analytics by Co-Optimizing Storage and Access on an FPGA-HMC Platform.	Soroosh Khoram,Jialiang Zhang,Maxwell Strange,Jing Li 0073	10.1145/3174243.3174260
+Continuous Skyline Computation Accelerator with Parallelizing Dominance Relation Calculations: (Abstract Only).	Kenichi Koizumi,Kei Hiraki,Mary Inaba	10.1145/3174243.3174961
+High-Performance QR Decomposition for FPGAs.	Martin Langhammer,Bogdan Pasca 0001	10.1145/3174243.3174273
+A Low-Power Deconvolutional Accelerator for Convolutional Neural Network Based Segmentation on FPGA: Abstract Only.	Shuanglong Liu,Xinyu Niu,Wayne Luk	10.1145/3174243.3174991
+DATuner: An Extensible Distributed Autotuning Framework for FPGA Design and Design Automation: (Abstract Only).	Gai Liu,Ecenur Ustun,Shaojie Xiang,Chang Xu 0005,Guojie Luo,Zhiru Zhang	10.1145/3174243.3174978
+A Self-adaptation Method of Fitting Convolutional Neural Network into FPGA: Abstract Only).	Ning Mao,Zhihong Huang,Xing Wei,He Zhao,Xinkai Di,Le Yu,Haigang Yang	10.1145/3174243.3175003
+Routing Magic: Performing Computations Using Routing Networks and Voting Logic on Unary Encoded Data.	Soheil Mohajer,Zhiheng Wang 0002,Kia Bazargan	10.1145/3174243.3174267
+A Customizable Matrix Multiplication Framework for the Intel HARPv2 Xeon+FPGA Platform: A Deep Learning Case Study.	Duncan J. M. Moss,Krishnan Srivatsan,Eriko Nurvitadhi,Piotr Ratuszniak,Chris Johnson,Jaewoong Sim,Asit K. Mishra,Debbie Marr,Suchit Subhaschandra,Philip Heng Wai Leong	10.1145/3174243.3174258
+A Lightweight YOLOv2: A Binarized CNN with A Parallel Support Vector Regression for an FPGA.	Hiroki Nakahara,Haruyoshi Yonekawa,Tomoya Fujii,Shimpei Sato	10.1145/3174243.3174266
+ADAM: Automated Design Analysis and Merging for Speeding up FPGA Development.	Ho-Cheung Ng,Shuanglong Liu,Wayne Luk	10.1145/3174243.3174247
+In-Package Domain-Specific ASICs for Intel® Stratix® 10 FPGAs: A Case Study of Accelerating Deep Learning Using TensorTile ASIC(Abstract Only).	Eriko Nurvitadhi,Jeffrey J. Cook,Asit K. Mishra,Debbie Marr,Kevin Nealis,Philip Colangelo,Andrew C. Ling,Davor Capalija,Utku Aydonat,Sergey Y. Shumarayev,Aravind Dasu	10.1145/3174243.3174966
+High-Throughput Lossless Compression on Tightly Coupled CPU-FPGA Platforms: (Abstract Only).	Weikang Qiao,Jieqiong Du,Zhenman Fang,Libo Wang,Michael Lo,Mau-Chung Frank Chang,Jason Cong	10.1145/3174243.3174987
+CausaLearn: Automated Framework for Scalable Streaming-based Causal Bayesian Learning using FPGAs.	Bita Darvish Rouhani,Mohammad Ghasemzadeh 0002,Farinaz Koushanfar	10.1145/3174243.3174259
+Memory-Efficient Fast Fourier Transform on Streaming Data by Fusing Permutations.	François Serre,Markus Püschel	10.1145/3174243.3174263
+Towards a Uniform Template-based Architecture for Accelerating 2D and 3D CNNs on FPGA.	Junzhong Shen,You Huang,Zelong Wang,Yuran Qiao,Mei Wen,Chunyuan Zhang	10.1145/3174243.3174257
+Towards Serial-Equivalent Parallel Routing for FPGAs: (Abstract Only).	Minghua Shen,Wentai Zhang 0001,Nong Xiao,Guojie Luo	10.1145/3174243.3174974
+BoxPlacer: Force Directed-Based Timing-Driven Placement for Large-Scale FPGAs: (Abstract Only).	Minghua Shen,Jiaxi Zhang 0001,Nong Xiao,Guojie Luo	10.1145/3174243.3174977
+P4-Compatible High-Level Synthesis of Low Latency 100 Gb/s Streaming Packet Parsers in FPGAs.	Jeferson Santiago da Silva,François-Raymond Boyer,J. M. Pierre Langlois	10.1145/3174243.3174270
+A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks: (Abstract Only).	Haiyue Song,Xiang Song,Tianjian Li,Hao Dong,Naifeng Jing,Xiaoyao Liang,Li Jiang 0002	10.1145/3174243.3174965
+Scalable Window Generation for the Intel Broadwell+Arria 10 and High-Bandwidth FPGA Systems.	Greg Stitt,Abhay Gupta,Madison N. Emas,David Wilson 0004,Austin Baylis	10.1145/3174243.3174262
+Solving Satisfiability Problem on Quantum Annealer: A Lesson from FPGA CAD Tools: (Abstract Only).	Juexiao Su,Lei He 0001	10.1145/3174243.3174972
+Design of an MTJ-Based Nonvolatile LUT Circuit with a Data-Update Minimized Shift Operation for an Ultra-Low-Power FPGA: (Abstract Only).	Daisuke Suzuki,Takahiro Hanyu	10.1145/3174243.3174984
+C-LSTM: Enabling Efficient LSTM using Structured Compression Techniques on FPGAs.	Shuo Wang 0009,Zhe Li 0001,Caiwen Ding,Bo Yuan 0001,Qinru Qiu,Yanzhi Wang,Yun Liang 0001	10.1145/3174243.3174253
+Architecture and Circuit Design of an All-Spintronic FPGA.	Stephen M. Williams,Mingjie Lin	10.1145/3174243.3174256
+Domino: An Asynchronous and Energy-efficient Accelerator for Graph Processing: (Abstract Only).	Chongchong Xu,Chao Wang 0003,Yiwei Zhang 0001,Lei Gong,Xi Li 0003,Xuehai Zhou	10.1145/3174243.3174973
+Performance Comparison of Multiples and Target Detection with Imager-driven Processing Mode for Ultrafast-Imager: (Abstract Only).	Xiaoyu Yu,Dong Ye 0005	10.1145/3174243.3174990
+A Framework for Generating High Throughput CNN Implementations on FPGAs.	Hanqing Zeng,Ren Chen,Chi Zhang 0022,Viktor K. Prasanna	10.1145/3174243.3174265
+Liquid Silicon: A Data-Centric Reconfigurable Architecture Enabled by RRAM Technology.	Yue Zha,Jing Li 0073	10.1145/3174243.3174244
+Degree-aware Hybrid Graph Traversal on FPGA-HMC Platform.	Jialiang Zhang,Jing Li 0073	10.1145/3174243.3174245
+Mapping Large-Scale DNNs on Asymmetric FPGAs: (Abstract Only).	Wentai Zhang 0001,Jiaxi Zhang 0001,Minghua Shen,Nong Xiao,Guojie Luo	10.1145/3174243.3174982
+Automatic Optimising CNN with Depthwise Separable Convolution on FPGA: (Abstact Only).	Ruizhe Zhao,Xinyu Niu,Wayne Luk	10.1145/3174243.3174959
+Rosetta: A Realistic High-Level Synthesis Benchmark Suite for Software Programmable FPGAs.	Yuan Zhou,Udit Gupta,Steve Dai,Ritchie Zhao,Nitish Kumar Srivastava,Hanchen Jin,Joseph Featherston,Yi-Hsiang Lai,Gai Liu,Gustavo Angarita Velasquez,Wenping Wang,Zhiru Zhang	10.1145/3174243.3174255
+FASTCF: FPGA-based Accelerator for STochastic-Gradient-Descent-based Collaborative Filtering.	Shijie Zhou 0001,Rajgopal Kannan,Yu Min,Viktor K. Prasanna	10.1145/3174243.3174252
+Combined Spatial and Temporal Blocking for High-Performance Stencil Computation on FPGAs Using OpenCL.	Hamid Reza Zohouri,Artur Podobas,Satoshi Matsuoka	10.1145/3174243.3174248
+Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA 2018, Monterey, CA, USA, February 25-27, 2018	Jason Helge Anderson,Kia Bazargan	10.1145/3174243

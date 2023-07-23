@@ -1,0 +1,55 @@
+The Power of Migration in Online Machine Minimization.	Lin Chen 0009,Nicole Megow,Kevin Schewior	10.1145/2935764.2935786
+Scheduling Parallelizable Jobs Online to Minimize the Maximum Flow Time.	Kunal Agrawal,Jing Li 0025,Kefu Lu,Benjamin Moseley	10.1145/2935764.2935782
+Online Packet Scheduling for CIOQ and Buffered Crossbar Switches.	Kamal Al-Bawani,Matthias Englert,Matthias Westermann	10.1145/2935764.2935792
+The Family Holiday Gathering Problem or Fair and Periodic Scheduling of Independent Sets.	Amihood Amir,Oren Kapah,Tsvi Kopelowitz,Moni Naor,Ely Porat	10.1145/2935764.2935788
+Parallel Approaches to the String Matching Problem on the GPU.	Saman Ashkiani,Nina Amenta,John D. Owens	10.1145/2935764.2935800
+Fast and Robust Memory Reclamation for Concurrent Data Structures.	Oana Balmau,Rachid Guerraoui,Maurice Herlihy,Igor Zablotchi	10.1145/2935764.2935790
+Parallel Algorithms for Asymmetric Read-Write Costs.	Naama Ben-David,Guy E. Blelloch,Jeremy T. Fineman,Phillip B. Gibbons,Yan Gu 0001,Charles McGuffey,Julian Shun	10.1145/2935764.2935767
+Cache-Adaptive Analysis.	Michael A. Bender,Erik D. Demaine,Roozbeh Ebrahimi,Jeremy T. Fineman,Rob Johnson,Andrea Lincoln,Jayson Lynch,Samuel McCauley	10.1145/2935764.2935798
+Parallelism in Randomized Incremental Algorithms.	Guy E. Blelloch,Yan Gu 0001,Julian Shun,Yihan Sun 0001	10.1145/2935764.2935766
+Parallel Shortest Paths Using Radius Stepping.	Guy E. Blelloch,Yan Gu 0001,Yihan Sun 0001,Kanat Tangwongsan	10.1145/2935764.2935765
+Just Join for Parallel Ordered Sets.	Guy E. Blelloch,Daniel Ferizovic,Yihan Sun 0001	10.1145/2935764.2935768
+Encoding Short Ranges in TCAM Without Expansion: Efficient Algorithm and Applications.	Anat Bremler-Barr,Yotam Harchol,David Hay,Yacov Hel-Or	10.1145/2935764.2935769
+Investigating the Performance of Hardware Transactions on a Multi-Socket Machine.	Trevor Brown 0001,Alex Kogan,Yossi Lev,Victor Luchangco	10.1145/2935764.2935796
+Brief Announcement: Approximating the I/O Complexity of One-Shot Red-Blue Pebbling.	Timothy Carpenter,Fabrice Rastello,P. Sadayappan,Anastasios Sidiropoulos	10.1145/2935764.2935807
+Asymptotically Optimal Gathering on a Grid.	Andreas Cord-Landwehr,Matthias Fischer 0001,Daniel Jung 0001,Friedhelm Meyer auf der Heide	10.1145/2935764.2935789
+Concurrent Search Data Structures Can Be Blocking and Practically Wait-Free.	Tudor David,Rachid Guerraoui	10.1145/2935764.2935774
+Universal Shape Formation for Programmable Matter.	Zahra Derakhshandeh,Robert Gmyr,Andréa W. Richa,Christian Scheideler,Thim Strothmann	10.1145/2935764.2935784
+Parallel Equivalence Class Sorting: Algorithms, Lower Bounds, and Distribution-Based Analysis.	William E. Devanny,Michael T. Goodrich,Kristopher Jetviroj	10.1145/2935764.2935778
+Extending the Nested Parallel Model to the Nested Dataflow Model with Provably Efficient Schedulers.	David Dinh,Harsha Vardhan Simhadri,Yuan Tang	10.1145/2935764.2935797
+Churn- and DoS-resistant Overlay Networks Based on Network Reconfiguration.	Maximilian Drees,Robert Gmyr,Christian Scheideler	10.1145/2935764.2935783
+Brief Announcement: Applications of Uniform Sampling: Densest Subgraph and Beyond.	Hossein Esfandiari,MohammadTaghi Hajiaghayi,David P. Woodruff	10.1145/2935764.2935813
+Parallel Metric Tree Embedding based on an Algebraic View on Moore-Bellman-Ford.	Stephan Friedrichs,Christoph Lenzen 0001	10.1145/2935764.2935777
+Near-Optimal Distributed Algorithms for Fault-Tolerant Tree Structures.	Mohsen Ghaffari 0001,Merav Parter	10.1145/2935764.2935795
+Parallel Algorithms for Summing Floating-Point Numbers.	Michael T. Goodrich,Ahmed Eldawy	10.1145/2935764.2935779
+Brief Announcement: Benchmarking Concurrent Priority Queues.	Jakob Gruber,Jesper Larsson Träff,Martin Wimmer 0003	10.1145/2935764.2935803
+Brief Announcement: A Tight Distributed Algorithm for All Pairs Shortest Paths and Applications.	Qiang-Sheng Hua,Haoqiang Fan,Lixiang Qian,Ming Ai,Yangyang Li,Xuanhua Shi,Hai Jin 0001	10.1145/2935764.2935812
+Fair Online Scheduling for Selfish Jobs on Heterogeneous Machines.	Sungjin Im,Janardhan Kulkarni	10.1145/2935764.2935773
+General Profit Scheduling and the Power of Migration on Heterogeneous Machines.	Sungjin Im,Benjamin Moseley	10.1145/2935764.2935771
+Brief Announcement: A QPTAS for Non-preemptive Speed-scaling.	Sungjin Im,Maryam Shadloo	10.1145/2935764.2935824
+Brief Announcement: Preserving Happens-before in Persistent Memory.	Joseph Izraelevitz,Hammurabi Mendes,Michael L. Scott	10.1145/2935764.2935810
+On Computational Thinking, Inferential Thinking and Data Science.	Michael I. Jordan	10.1145/2935764.2935826
+Brief Announcement: Flexible Resource Allocation for Clouds and All-Optical Networks.	Dmitriy Katz,Baruch Schieber,Hadas Shachnai	10.1145/2935764.2935806
+Brief Announcement: Improved Approximation Algorithms for Scheduling Co-Flows.	Samir Khuller,Manish Purohit	10.1145/2935764.2935809
+Robust and Probabilistic Failure-Aware Placement.	Madhukar R. Korupolu,Rajmohan Rajaraman	10.1145/2935764.2935802
+Brief Announcement: Fast Concurrent Cuckoo Kick-Out Eviction Schemes for High-Density Tables.	William Kuszmaul	10.1145/2935764.2935814
+Randomized Approximate Nearest Neighbor Search with Limited Adaptivity.	Mingmou Liu,Xiaoyin Pan,Yitong Yin	10.1145/2935764.2935776
+Election vs. Selection: How Much Advice is Needed to Find the Largest Node in a Graph?	Avery Miller,Andrzej Pelc	10.1145/2935764.2935772
+Better Bounds for Coalescing-Branching Random Walks.	Michael Mitzenmacher,Rajmohan Rajaraman,Scott T. Roche	10.1145/2935764.2935791
+RUBIC: Online Parallelism Tuning for Co-located Transactional Memory Applications.	Amin Mohtasham,João Pedro Barreto 0002	10.1145/2935764.2935770
+Latency-Hiding Work Stealing: Scheduling Interacting Parallel Computations with Work Stealing.	Stefan K. Muller,Umut A. Acar	10.1145/2935764.2935793
+Fast Distributed Algorithms for Connectivity and MST in Large Graphs.	Gopal Pandurangan,Peter Robinson 0002,Michele Scquizzato	10.1145/2935764.2935785
+Clairvoyant Dynamic Bin Packing for Job Scheduling with Minimum Server Usage Time.	Runtian Ren,Xueyan Tang	10.1145/2935764.2935775
+Shuffles and Circuits: (On Lower Bounds for Modern Parallel Computation).	Tim Roughgarden,Sergei Vassilvitskii,Joshua R. Wang	10.1145/2935764.2935799
+Extending TM Primitives using Low Level Semantics.	Mohamed M. Saad,Roberto Palmieri,Ahmed Hassan,Binoy Ravindran	10.1145/2935764.2935794
+A Multicore Path to Connectomics-on-Demand.	Nir Shavit	10.1145/2935764.2935825
+Brief Announcement: Transactional Data Structure Libraries.	Alexander Spiegelman,Guy Golan-Gueta,Idit Keidar	10.1145/2935764.2935805
+Brief Announcement: Dynamic Determinacy Race Detection for Task Parallelism with Futures.	Rishi Surendran,Vivek Sarkar	10.1145/2935764.2935815
+Brief Announcement: Energy Optimization of Memory Intensive Parallel Workloads.	Chhaya Trehan,Hans Vandierendonck,Georgios Karakonstantis,Dimitrios S. Nikolopoulos	10.1145/2935764.2935811
+Provably Good and Practically Efficient Parallel Race Detection for Fork-Join Programs.	Robert Utterback,Kunal Agrawal,Jeremy T. Fineman,I-Ting Angelina Lee	10.1145/2935764.2935801
+Brief Announcement: MIC++: Accelerating Maximal Information Coefficient Calculation with GPUs and FPGAs.	Chao Wang 0003,Xi Li 0003,Aili Wang 0003,Xuehai Zhou	10.1145/2935764.2935804
+Brief Announcement: Relaxed Byzantine Vector Consensus.	Zhuolun Xiang,Nitin H. Vaidya	10.1145/2935764.2935808
+A Practical Solution to the Cactus Stack Problem.	Chaoran Yang,John M. Mellor-Crummey	10.1145/2935764.2935787
+The Cost of Unknown Diameter in Dynamic Networks.	Haifeng Yu,Yuda Zhao,Irvan Jahja	10.1145/2935764.2935781
+Lock-free Transactions without Rollbacks for Linked Data Structures.	Deli Zhang,Damian Dechev	10.1145/2935764.2935780
+Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and Architectures, SPAA 2016, Asilomar State Beach/Pacific Grove, CA, USA, July 11-13, 2016	Christian Scheideler,Seth Gilbert	10.1145/2935764

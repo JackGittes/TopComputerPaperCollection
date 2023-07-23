@@ -1,0 +1,102 @@
+Understanding asynchronous interactions in full-stack JavaScript.	Saba Alimadadi,Ali Mesbah 0001,Karthik Pattabiraman	10.1145/2884781.2884864
+Risk-driven revision of requirements models.	Dalal Alrajeh,Axel van Lamsweerde,Jeff Kramer,Alessandra Russo,Sebastián Uchitel	10.1145/2884781.2884838
+Probing for requirements knowledge to stimulate architectural thinking.	Preethu Rose Anish,Balaji Balasubramaniam,Abhishek Sainani,Jane Cleland-Huang,Maya Daneva,Roel J. Wieringa,Smita Ghaisas	10.1145/2884781.2884801
+StubDroid: automatic inference of precise data-flow summaries for the android framework.	Steven Arzt,Eric Bodden	10.1145/2884781.2884816
+Efficient large-scale trace checking using mapreduce.	Marcello M. Bersani,Domenico Bianculli,Carlo Ghezzi,Srdan Krstic,Pierluigi San Pietro	10.1145/2884781.2884832
+Behavioral log analysis with statistical guarantees.	Nimrod Busany,Shahar Maoz	10.1145/2884781.2884805
+Fixing deadlocks via lock pre-acquisitions.	Yan Cai 0001,Lingwei Cao	10.1145/2884781.2884819
+An empirical comparison of compiler testing techniques.	Junjie Chen 0003,Wenxiang Hu,Dan Hao 0001,Yingfei Xiong 0001,Hongyu Zhang 0002,Lu Zhang 0023,Bing Xie	10.1145/2884781.2884878
+PAC learning-based verification and model synthesis.	Yu-Fang Chen 0001,Chiao Hsieh,Ondrej Lengál,Tsung-Ju Lii,Ming-Hsien Tsai 0001,Bow-Yaw Wang,Farn Wang	10.1145/2884781.2884860
+Generating performance distributions via probabilistic symbolic execution.	Bihuan Chen 0001,Yang Liu 0003,Wei Le	10.1145/2884781.2884794
+CUSTODES: automatic spreadsheet cell clustering and smell detection using strong and weak features.	Shing-Chi Cheung,Wanjun Chen,Yepang Liu 0001,Chang Xu 0001	10.1145/2884781.2884796
+Guiding dynamic symbolic execution toward unverified program executions.	Maria Christakis,Peter Müller 0001,Valentin Wüstholz	10.1145/2884781.2884843
+Exploring language support for immutability.	Michael J. Coblenz,Joshua Sunshine,Jonathan Aldrich,Brad A. Myers,Sam Weber,Forrest Shull	10.1145/2884781.2884798
+RETracer: triaging crashes by reverse execution from partial memory dumps.	Weidong Cui,Marcus Peinado,Sang Kil Cha,Yanick Fratantonio,Vasileios P. Kemerlis	10.1145/2884781.2884844
+Program synthesis using natural language.	Aditya Desai,Sumit Gulwani,Vineet Hingorani,Nidhi Jain,Amey Karkare,Mark Marron,Sailesh R,Subhajit Roy 0001	10.1145/2884781.2884786
+Belief &amp; evidence in empirical software engineering.	Premkumar T. Devanbu,Thomas Zimmermann 0001,Christian Bird	10.1145/2884781.2884812
+Featured model-based mutation analysis.	Xavier Devroey,Gilles Perrouin,Mike Papadakis,Axel Legay,Pierre-Yves Schobbens,Patrick Heymans	10.1145/2884781.2884821
+Type-aware concolic testing of JavaScript programs.	Monika Dhok,Murali Krishna Ramanathan,Nishant Sinha 0001	10.1145/2884781.2884859
+Are &quot;non-functional&quot; requirements really non-functional?: an investigation of non-functional requirements in practice.	Jonas Eckhardt,Andreas Vogelsang,Daniel Méndez Fernández	10.1145/2884781.2884788
+Locking discipline inference and checking.	Michael D. Ernst,Alberto Lovato,Damiano Macedonio,Fausto Spoto,Javier Thaine	10.1145/2884781.2884882
+Crowdsourcing program preconditions via a classification game.	Daniel Fava,Daniel G. Shapiro,Joseph C. Osborn,Martin Schäf,E. James Whitehead Jr.	10.1145/2884781.2884865
+On the limits of mutation reduction strategies.	Rahul Gopinath,Mohammad Amin Alipour,Iftekhar Ahmed 0001,Carlos Jensen,Alex Groce	10.1145/2884781.2884787
+Work practices and challenges in pull-based development: the contributor&apos;s perspective.	Georgios Gousios,Margaret-Anne D. Storey,Alberto Bacchelli	10.1145/2884781.2884826
+BigDebug: debugging primitives for interactive big data processing in spark.	Muhammad Ali Gulzar,Matteo Interlandi,Seunghyun Yoo,Sai Deep Tetali,Tyson Condie,Todd D. Millstein,Miryung Kim	10.1145/2884781.2884813
+Energy profiles of Java collections classes.	Samir Hasan,Zachary King,Munawar Hafiz,Mohammed Sayagh,Bram Adams,Abram Hindle	10.1145/2884781.2884869
+Comparing white-box and black-box test prioritization.	Christopher Henard,Mike Papadakis,Mark Harman,Yue Jia 0001,Yves Le Traon	10.1145/2884781.2884791
+Scalable thread sharing analysis.	Jeff Huang 0001	10.1145/2884781.2884811
+Mining sandboxes.	Konrad Jamrozik,Philipp von Styp-Rekowsky,Andreas Zeller	10.1145/2884781.2884782
+Synthesizing framework models for symbolic execution.	Jinseong Jeon,Xiaokang Qiu,Jonathan Fetter-Degges,Jeffrey S. Foster,Armando Solar-Lezama	10.1145/2884781.2884856
+Missing data imputation based on low-rank recovery and semi-supervised regression for software effort estimation.	Xiao-Yuan Jing,Fumin Qi,Fei Wu 0004,Baowen Xu	10.1145/2884781.2884827
+The emerging role of data scientists on software development teams.	Miryung Kim,Thomas Zimmermann 0001,Robert DeLine,Andrew Begel	10.1145/2884781.2884783
+Improving refactoring speed by 10X.	Jongwook Kim,Don S. Batory,Danny Dig,Maider Azanza	10.1145/2884781.2884802
+Code review quality: how developers see it.	Oleksii Kononenko,Olga Baysal,Michael W. Godfrey	10.1145/2884781.2884840
+Automated energy optimization of HTTP requests for mobile applications.	Ding Li 0001,Yingjun Lyu,Jiaping Gui,William G. J. Halfond	10.1145/2884781.2884867
+AntMiner: mining more bugs by reducing noise interference.	Bin Liang 0002,Pan Bian,Yan Zhang,Wenchang Shi,Wei You,Yan Cai 0001	10.1145/2884781.2884870
+iDice: problem identification for emerging issues.	Qingwei Lin,Jian-Guang Lou,Hongyu Zhang 0002,Dongmei Zhang 0001	10.1145/2884781.2884795
+DoubleTake: fast and precise error detection via evidence-based dynamic analysis.	Tongping Liu,Charlie Curtsinger,Emery D. Berger	10.1145/2884781.2884784
+Nomen est omen: exploring and exploiting similarities between argument and parameter names.	Hui Liu 0003,Qiurong Liu,Cristian-Alexandru Staicu,Michael Pradel,Yue Luo	10.1145/2884781.2884841
+An analysis of the search spaces for generate and validate patch generation systems.	Fan Long,Martin C. Rinard	10.1145/2884781.2884872
+How does regression test prioritization perform in real-world software evolution?	Yafeng Lu,Yiling Lou,Shiyang Cheng 0002,Lingming Zhang 0001,Dan Hao 0001,Yangfan Zhou,Lu Zhang 0023	10.1145/2884781.2884874
+PRADA: prioritizing android devices for apps by mining large-scale usage data.	Xuan Lu,Xuanzhe Liu,Huoran Li,Tao Xie 0001,Qiaozhu Mei,Dan Hao 0001,Gang Huang 0001,Feng Feng 0001	10.1145/2884781.2884828
+Feedback-directed instrumentation for deployed JavaScript applications.	Magnus Madsen,Frank Tip,Esben Andreasen,Koushik Sen,Anders Møller	10.1145/2884781.2884846
+An empirical study of practitioners&apos; perspectives on green software engineering.	Irene Manotas,Christian Bird,Rui Zhang,David C. Shepherd,Ciera Jaspan,Caitlin Sadowski,Lori L. Pollock,James Clause	10.1145/2884781.2884810
+Automated test suite generation for time-continuous simulink models.	Reza Matinnejad,Shiva Nejati,Lionel C. Briand,Thomas Bruckmann	10.1145/2884781.2884797
+Angelix: scalable multiline program patch synthesis via symbolic analysis.	Sergey Mechtaev,Jooyong Yi,Abhik Roychoudhury	10.1145/2884781.2884807
+A comparison of 10 sampling algorithms for configurable systems.	Flávio Medeiros,Christian Kästner,Márcio Ribeiro 0001,Rohit Gheyi,Sven Apel	10.1145/2884781.2884793
+How does the degree of variability affect bug finding?	Jean Melo,Claus Brabrand,Andrzej Wasowski	10.1145/2884781.2884831
+Termination-checking for LLVM peephole optimizations.	David Menendez,Santosh Nagarakatte	10.1145/2884781.2884809
+Reducing combinatorics in GUI testing of android applications.	Nariman Mirzaei,Joshua Garcia,Hamid Bagheri,Alireza Sadeghi,Sam Malek	10.1145/2884781.2884853
+Decoupling level: a new metric for architectural maintenance complexity.	Ran Mo,Yuanfang Cai,Rick Kazman,Lu Xiao 0001,Qiong Feng	10.1145/2884781.2884825
+Using (bio)metrics to predict code quality online.	Sebastian C. Müller,Thomas Fritz 0001	10.1145/2884781.2884803
+Jumping through hoops: why do Java developers struggle with cryptography APIs?	Sarah Nadi,Stefan Krüger,Mira Mezini,Eric Bodden	10.1145/2884781.2884790
+Finding security bugs in web applications using a catalog of access control patterns.	Joseph P. Near,Daniel Jackson 0001	10.1145/2884781.2884836
+Learning API usages from bytecode: a statistical approach.	Tam The Nguyen,Hung Viet Pham,Phong Minh Vu,Tung Thanh Nguyen	10.1145/2884781.2884873
+Code anomalies flock together: exploring code anomaly agglomerations for locating design problems.	Willian Nalepa Oizumi,Alessandro F. Garcia 0001,Leonardo da Silva Sousa,Bruno Barbieri Pontes Cafeo,Yixue Zhao	10.1145/2884781.2884868
+Cross-supervised synthesis of web-crawlers.	Adi Omari,Sharon Shoham,Eran Yahav	10.1145/2884781.2884842
+Shadow of a doubt: testing for divergences between software versions.	Hristina Palikareva,Tomasz Kuchta,Cristian Cadar	10.1145/2884781.2884845
+The impact of test case summaries on bug fixing performance: an empirical investigation.	Sebastiano Panichella,Annibale Panichella,Moritz Beller,Andy Zaidman,Harald C. Gall	10.1145/2884781.2884847
+Too long; didn&apos;t watch!: extracting relevant fragments from software development video tutorials.	Luca Ponzanelli,Gabriele Bavota,Andrea Mocci,Massimiliano Di Penta,Rocco Oliveto,Mir Hasan,Barbara Russo,Sonia Haiduc,Michele Lanza	10.1145/2884781.2884824
+Quality experience: a grounded theory of successful agile projects without dedicated testers.	Lutz Prechelt,Holger Schmeisky,Franz Zieris	10.1145/2884781.2884789
+MobiPlay: a remote execution based record-and-replay tool for mobile applications.	Zhengrui Qin,Yutao Tang,Edmund Novak,Qun Li	10.1145/2884781.2884854
+SWIM: synthesizing what i mean: code search and idiomatic snippet synthesis.	Mukund Raghothaman,Yi Wei,Youssef Hamadi	10.1145/2884781.2884808
+Discovering &quot;unknown known&quot; security requirements.	Awais Rashid,Syed Asad Ali Naqvi,Rajiv Ramdhany,Matthew Edwards 0001,Ruzanna Chitchyan,Muhammad Ali Babar 0001	10.1145/2884781.2884785
+On the &quot;naturalness&quot; of buggy code.	Baishakhi Ray,Vincent J. Hellendoorn,Saheel Godhane,Zhaopeng Tu,Alberto Bacchelli,Premkumar T. Devanbu	10.1145/2884781.2884848
+Quantifying and mitigating turnover-induced knowledge loss: case studies of chrome and a project at avaya.	Peter C. Rigby,Yue Cai Zhu,Samuel M. Donadelli,Audris Mockus	10.1145/2884781.2884851
+On the techniques we create, the tools we build, and their misalignments: a study of KLEE.	Eric F. Rizzi,Sebastian G. Elbaum,Matthew B. Dwyer	10.1145/2884781.2884835
+Disseminating architectural knowledge on open-source projects: a case study of the book &quot;architecture of open-source applications&quot;.	Martin P. Robillard,Nenad Medvidovic	10.1145/2884781.2884792
+The challenges of staying together while moving fast: an exploratory study.	Julia Rubin,Martin C. Rinard	10.1145/2884781.2884871
+Automated partitioning of android applications for trusted execution environments.	Konstantin Rubinov,Lucia Rosculete,Tulika Mitra,Abhik Roychoudhury	10.1145/2884781.2884817
+Floating-point precision tuning using blame analysis.	Cindy Rubio-González,Cuong Nguyen 0001,Benjamin Mehne,Koushik Sen,James Demmel,William Kahan,Costin Iancu,Wim Lavrijsen,David H. Bailey,David Hough 0001	10.1145/2884781.2884850
+SourcererCC: scaling code clone detection to big-code.	Hitesh Sajnani,Vaibhav Saini,Jeffrey Svajlenko,Chanchal K. Roy,Cristina V. Lopes	10.1145/2884781.2884877
+Debugging for reactive programming.	Guido Salvaneschi,Mira Mezini	10.1145/2884781.2884815
+Building a theory of job rotation in software engineering from an instrumental case study.	Ronnie E. S. Santos,Fabio Q. B. da Silva,Cleyton V. C. de Magalhães,Cleviton V. F. Monteiro	10.1145/2884781.2884837
+Multi-objective software effort estimation.	Federica Sarro,Alessio Petrozziello,Mark Harman	10.1145/2884781.2884830
+Feature-model interfaces: the highway to compositional analyses of highly-configurable systems.	Reimar Schröter,Sebastian Krieter,Thomas Thüm,Fabian Benduhn,Gunter Saake	10.1145/2884781.2884823
+Performance issues and optimizations in JavaScript: an empirical study.	Marija Selakovic,Michael Pradel	10.1145/2884781.2884829
+Toward a framework for detecting privacy policy violations in android application code.	Rocky Slavin,Xiaoyin Wang,Mitra Bokaei Hosseini,James Hester,Ram Krishnan,Jaspreet Bhatia,Travis D. Breaux,Jianwei Niu 0001	10.1145/2884781.2884855
+The evolution of C programming practices: a study of the Unix operating system 1973-2015.	Diomidis Spinellis,Panos Louridas,Maria Kechagia	10.1145/2884781.2884799
+Overcoming open source project entry barriers with a portal for newcomers.	Igor Steinmacher,Tayana Uchôa Conte,Christoph Treude,Marco Aurélio Gerosa	10.1145/2884781.2884806
+Grounded theory in software engineering research: a critical review and guidelines.	Klaas-Jan Stol,Paul Ralph,Brian Fitzgerald 0001	10.1145/2884781.2884833
+Reliability of Run-Time Quality-of-Service evaluation using parametric model checking.	Guoxin Su,David S. Rosenblum,Giordano Tamburrelli	10.1145/2884781.2884814
+Understanding and fixing multiple language interoperability issues: the C/Fortran case.	Nawrin Sultana,Justin Middleton,Jeffrey Overbey,Munawar Hafiz	10.1145/2884781.2884858
+Finding and analyzing compiler warning defects.	Chengnian Sun,Vu Le 0002,Zhendong Su 0001	10.1145/2884781.2884879
+IntEQ: recognizing benign integer overflows via equivalence checking across multiple precisions.	Hao Sun,Xiangyu Zhang 0001,Yunhui Zheng,Qingkai Zeng 0002	10.1145/2884781.2884820
+Optimizing selection of competing services with probabilistic hierarchical refinement.	Tian Huat Tan,Manman Chen,Jun Sun 0001,Yang Liu 0003,Étienne André,Yinxing Xue,Jin Song Dong	10.1145/2884781.2884861
+Automated parameter optimization of classification techniques for defect prediction models.	Chakkrit Tantithamthavorn,Shane McIntosh,Ahmed E. Hassan,Kenichi Matsumoto	10.1145/2884781.2884857
+Coverage-driven test code generation for concurrent classes.	Valerio Terragni,Shing-Chi Cheung	10.1145/2884781.2884876
+Revisiting code ownership and its relationship with software quality in the scope of modern code review.	Patanamon Thongtanunam,Shane McIntosh,Ahmed E. Hassan,Hajimu Iida	10.1145/2884781.2884852
+Augmenting API documentation with insights from stack overflow.	Christoph Treude,Martin P. Robillard	10.1145/2884781.2884800
+An empirical study on the impact of C++ lambdas and programmer experience.	Phillip Merlin Uesbeck,Andreas Stefik,Stefan Hanenberg,Jan Pedersen 0001,Patrick Daleiden	10.1145/2884781.2884849
+The sky is not the limit: multitasking across GitHub projects.	Bogdan Vasilescu,Kelly Blincoe,Qi Xuan,Casey Casalnuovo,Daniela E. Damian,Premkumar T. Devanbu,Vladimir Filkov	10.1145/2884781.2884875
+Release planning of mobile apps based on user reviews.	Lorenzo Villarroel,Gabriele Bavota,Barbara Russo,Rocco Oliveto,Massimiliano Di Penta	10.1145/2884781.2884818
+A practical guide to select quality indicators for assessing pareto-based search algorithms in search-based software engineering.	Shuai Wang 0001,Shaukat Ali 0001,Tao Yue 0002,Yan Li 0077,Marius Liaaen	10.1145/2884781.2884880
+Automatically learning semantic features for defect prediction.	Song Wang 0009,Taiyue Liu,Lin Tan 0001	10.1145/2884781.2884804
+Identifying and quantifying architectural debt.	Lu Xiao 0001,Yuanfang Cai,Rick Kazman,Ran Mo,Qiong Feng	10.1145/2884781.2884822
+Revisit of automatic debugging via human focus-tracking analysis.	Xiaoyuan Xie,Zicong Liu,Shuo Song,Zhenyu Chen 0001,Jifeng Xuan,Baowen Xu	10.1145/2884781.2884834
+From word embeddings to document similarities for improved information retrieval in software engineering.	Xin Ye 0003,Hui Shen,Xiao Ma,Razvan C. Bunescu,Chang Liu 0028	10.1145/2884781.2884862
+Reference hijacking: patching, protecting and analyzing on unmodified and non-rooted android devices.	Wei You,Bin Liang 0002,Wenchang Shi,Shuyang Zhu,Peng Wang,Sikefu Xie,Xiangyu Zhang 0001	10.1145/2884781.2884863
+VDTest: an automated framework to support testing for virtual devices.	Tingting Yu,Xiao Qu,Myra B. Cohen	10.1145/2884781.2884866
+Automatic model generation from documentation for Java API functions.	Juan Zhai,Jianjun Huang 0001,Shiqing Ma,Xiangyu Zhang 0001,Lin Tan 0001,Jianhua Zhao,Feng Qin	10.1145/2884781.2884881
+Cross-project defect prediction using a connectivity-based unsupervised classifier.	Feng Zhang 0001,Quan Zheng 0001,Ying Zou 0001,Ahmed E. Hassan	10.1145/2884781.2884839
+Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016	Laura K. Dillon,Willem Visser,Laurie A. Williams	10.1145/2884781

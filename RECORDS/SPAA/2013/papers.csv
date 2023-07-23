@@ -1,0 +1,40 @@
+Recursive design of hardware priority queues.	Yehuda Afek,Anat Bremler-Barr,Liron Schiff	10.1145/2486159.2486194
+Parallel rotor walks on finite graphs and applications in discrete load balancing.	Hoda Akbari,Petra Berenbrink	10.1145/2486159.2486178
+Storage and search in dynamic peer-to-peer networks.	John Augustine,Anisur Rahaman Molla,Ehab Morsy,Gopal Pandurangan,Peter Robinson 0002,Eli Upfal	10.1145/2486159.2486170
+Cloud scheduling with setup cost.	Yossi Azar,Naama Ben-Aroya,Nikhil R. Devanur,Navendu Jain	10.1145/2486159.2486195
+Communication optimal parallel multiplication of sparse random matrices.	Grey Ballard,Aydin Buluç,James Demmel,Laura Grigori,Benjamin Lipshitz,Oded Schwartz,Sivan Toledo	10.1145/2486159.2486196
+Communication efficient gaussian elimination with partial pivoting using a shape morphing data layout.	Grey Ballard,James Demmel,Benjamin Lipshitz,Oded Schwartz,Sivan Toledo	10.1145/2486159.2486198
+Brief announcement: set it and forget it - approximating the set once strip cover problem.	Amotz Bar-Noy,Ben Baumer,Dror Rawitz	10.1145/2486159.2486162
+A constant factor approximation algorithm for the storage allocation problem: extended abstract.	Reuven Bar-Yehuda,Michael Beder,Dror Rawitz	10.1145/2486159.2486177
+Efficient scheduling to minimize calibrations.	Michael A. Bender,David P. Bunde,Vitus J. Leung,Samuel McCauley,Cynthia A. Phillips	10.1145/2486159.2486193
+Reallocation problems in scheduling.	Michael A. Bender,Martin Farach-Colton,Sándor P. Fekete,Jeremy T. Fineman,Seth Gilbert	10.1145/2486159.2486181
+Balls-into-bins with nearly optimal load distribution.	Petra Berenbrink,Kamyar Khodamoradi,Thomas Sauerwald,Alexandre Stauffer	10.1145/2486159.2486191
+Drop the anchor: lightweight memory management for non-blocking data structures.	Anastasia Braginsky,Alex Kogan,Erez Petrank	10.1145/2486159.2486184
+Nonclairvoyant sleep management and flow-time scheduling on multiple processors.	Sze-Hang Chan,Tak Wah Lam,Lap-Kei Lee,Jianqiao Zhu	10.1145/2486159.2486179
+Brief announcement: a game-theoretic model motivated by the darpa network challenge.	Rajesh Hemant Chitnis,MohammadTaghi Hajiaghayi,Jonathan Katz,Koyel Mukherjee	10.1145/2486159.2486160
+Optimal patrolling of fragmented boundaries.	Andrew Collins 0003,Jurek Czyzowicz,Leszek Gasieniec,Adrian Kosowski,Evangelos Kranakis,Danny Krizanc,Russell Martin,Oscar Morales-Ponce	10.1145/2486159.2486176
+Scalable statistics counters.	Dave Dice,Yossi Lev,Mark Moir	10.1145/2486159.2486182
+Brief announcement: between all and nothing - versatile aborts in hardware transactional memory.	Stephan Diestelhorst,Martin Nowack,Michael F. Spear,Christof Fetzer	10.1145/2486159.2486165
+HEX: scaling honeycombs is easier than scaling clock trees.	Danny Dolev,Matthias Függer,Christoph Lenzen 0001,Martin Perner,Ulrich Schmid 0001	10.1145/2486159.2486192
+Coalescing-branching random walks on graphs.	Chinmoy Dutta,Gopal Pandurangan,Rajmohan Rajaraman,Scott T. Roche	10.1145/2486159.2486197
+Brief announcement: truly parallel burrows-wheeler compression and decompression.	James Alexander Edwards,Uzi Vishkin	10.1145/2486159.2486164
+IRIS: a robust information system against insider dos-attacks.	Martina Eikel,Christian Scheideler	10.1145/2486159.2486186
+SybilCast: broadcast on the open airwaves (extended abstract).	Seth Lewis Gilbert,Chaodong Zheng	10.1145/2486159.2486172
+Brief announcement: locality in wireless scheduling.	Magnús M. Halldórsson	10.1145/2486159.2486167
+Brief announcement: universally truthful secondary spectrum auctions.	Martin Hoefer 0001,Thomas Kesselheim	10.1145/2486159.2486163
+Brief announcement: online batch scheduling for flow objectives.	Sungjin Im,Benjamin Moseley	10.1145/2486159.2486161
+Broadcasting in logarithmic time for ad hoc network nodes on a line using mimo.	Thomas Janson,Christian Schindelhauer	10.1145/2486159.2486190
+On dynamics in selfish network creation.	Bernd Kawald,Pascal Lenzner	10.1145/2486159.2486185
+Profitable scheduling on multiple speed-scalable processors.	Peter Kling,Peter Pietrzyk 0001	10.1145/2486159.2486183
+Expected sum and maximum of displacement of random sensors for coverage of a domain: extended abstract.	Evangelos Kranakis,Danny Krizanc,Oscar Morales-Ponce,Lata Narayanan,Jaroslav Opatrny,Sunil M. Shende	10.1145/2486159.2486171
+Fast greedy algorithms in mapreduce and streaming.	Ravi Kumar 0001,Benjamin Moseley,Sergei Vassilvitskii,Andrea Vattani	10.1145/2486159.2486168
+On-the-fly pipeline parallelism.	I-Ting Angelina Lee,Charles E. Leiserson,Tao B. Schardl,Jim Sukha,Zhunping Zhang	10.1145/2486159.2486174
+Efficient online scheduling for deadline-sensitive jobs: extended abstract.	Brendan Lucier,Ishai Menache,Joseph Naor,Jonathan Yaniv	10.1145/2486159.2486187
+Reduced hardware transactions: a new approach to hybrid transactional memory.	Alexander Matveev,Nir Shavit	10.1145/2486159.2486188
+Parallel graph decompositions using random shifts.	Gary L. Miller,Richard Peng,Shen Chen Xu	10.1145/2486159.2486180
+Work-efficient matrix inversion in polylogarithmic time.	Peter Sanders 0001,Jochen Speck,Raoul Steffen	10.1145/2486159.2486173
+Reducing contention through priority updates.	Julian Shun,Guy E. Blelloch,Jeremy T. Fineman,Phillip B. Gibbons	10.1145/2486159.2486189
+Brief announcement: towards a fully-articulated pessimistic distributed transactional memory.	Konrad Siek,Pawel T. Wojciechowski	10.1145/2486159.2486166
+Non-monetary fair scheduling: a cooperative game theory approach.	Piotr Skowron 0001,Krzysztof Rzadca	10.1145/2486159.2486169
+Locality-aware task management for unstructured parallelism: a quantitative limit study.	Richard M. Yoo,Christopher J. Hughes,Changkyu Kim,Yen-Kuang Chen,Christos Kozyrakis	10.1145/2486159.2486175
+25th ACM Symposium on Parallelism in Algorithms and Architectures, SPAA &apos;13, Montreal, QC, Canada - July 23 - 25, 2013	Guy E. Blelloch,Berthold Vöcking	10.1145/2486159

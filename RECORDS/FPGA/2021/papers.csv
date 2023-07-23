@@ -1,0 +1,51 @@
+MOCHA: Multinode Cost Optimization in Heterogeneous Clouds with Accelerators.	Peipei Zhou 0001,Jiayi Sheng,Cody Hao Yu,Peng Wei 0004,Jie Wang 0022,Di Wu 0010,Jason Cong	10.1145/3431920.3439304
+CoDeNet: Efficient Deployment of Input-Adaptive Object Detection on Embedded FPGAs.	Qijing Huang 0001,Dequan Wang,Zhen Dong,Yizhao Gao,Yaohui Cai,Tian Li,Bichen Wu,Kurt Keutzer,John Wawrzynek	10.1145/3431920.3439295
+AutoSA: A Polyhedral Compiler for High-Performance Systolic Arrays on FPGA.	Jie Wang 0022,Licheng Guo,Jason Cong	10.1145/3431920.3439292
+Tensor Slices to the Rescue: Supercharging ML Acceleration on FPGAs.	Aman Arora,Samidh Mehta,Vaughn Betz,Lizy K. John	10.1145/3431920.3439282
+ThunderGP: HLS-based Graph Processing Framework on FPGAs.	Xinyu Chen,Hongshi Tan,Yao Chen,Bingsheng He,Weng-Fai Wong,Deming Chen	10.1145/3431920.3439290
+Probabilistic Optimization for High-Level Synthesis.	Jianyi Cheng,John Wickerson,George A. Constantinides	10.1145/3431920.3439455
+Extending High-Level Synthesis for Task-Parallel Programs.	Yuze Chi,Licheng Guo,Young-kyu Choi,Jie Wang 0022,Jason Cong	10.1145/3431920.3439470
+HBM Connect: High-Performance HLS Interconnect for FPGA HBM.	Young-kyu Choi,Yuze Chi,Weikang Qiao,Nikola Samardzic,Jason Cong	10.1145/3431920.3439301
+A Framework for Customizable FPGA-based Image Registration Accelerators.	Davide Conficconi,Eleonora D&apos;Arnese,Emanuele Del Sozzo,Donatella Sciuto,Marco D. Santambrogio	10.1145/3431920.3439291
+Fuzzing High-Level Synthesis Tools.	Zewei Du,Yann Herklotz,Nadesh Ramanathan,John Wickerson	10.1145/3431920.3439466
+Triggered Scheduling: Efficient Detection of Dataflow Network Idleness on Heterogeneous Systems.	Mahyar Emami,Endri Bezati,Jörn W. Janneck,James R. Larus	10.1145/3431920.3439473
+Simulating and Evaluating a Quaternary Logic FPGA Based on Floating-gate Memories and Voltage Division.	Ayokunle Fadamiro,Pouyan Rezaie,Spencer K. Millican,Christopher Harris	10.1145/3431920.3439471
+LEAP: A Deep Learning based Aging-Aware Architecture Exploration Framework for FPGAs.	Behnam Ghavami,Seyed Milad Ebrahimi,Zhenman Fang,Lesley Shannon	10.1145/3431920.3439459
+Classifying Computations on Multi-Tenant FPGAs.	Mustafa S. Gobulukoglu,Colin Drewes,Bill Hunter,Dustin Richmond,Ryan Kastner	10.1145/3431920.3439475
+AutoBridge: Coupling Coarse-Grained Floorplanning and Pipelining for High-Frequency HLS Design on Multi-Die FPGAs.	Licheng Guo,Yuze Chi,Jie Wang 0022,Jason Lau,Weikang Qiao,Ecenur Ustun,Zhiru Zhang,Jason Cong	10.1145/3431920.3439289
+Scientific Applications of FPGAs at the LHC.	Philip Harris	10.1145/3431920.3437119
+PyLog: An Algorithm-Centric Python-Based FPGA Programming and Synthesis Flow.	Sitao Huang,Kun Wu,Hyunmin Jeong,Chengyue Wang,Deming Chen,Wen-Mei Hwu	10.1145/3431920.3439478
+Clockwork: Resource-Efficient Static Scheduling for Multi-Rate Image Processing Applications on FPGAs.	Dillon Huff,Steve Dai,Pat Hanrahan	10.1145/3431920.3439457
+APCNN: Explore Multi-Layer Cooperation for CNN Optimization and Acceleration on FPGA.	Beilei Jiang,Xianwei Cheng,Sihai Tang,Xu Ma 0005,Zhaochen Gu,Hui Zhao 0013,Song Fu	10.1145/3431920.3439461
+Resource Sharing in Dataflow Circuits.	Lana Josipovic,Axel Marmet,Andrea Guerrieri,Paolo Ienne	10.1145/3431920.3439472
+NPE: An FPGA-based Overlay Processor for Natural Language Processing.	Hamza Khan,Asma Khan,Zainab Khan,Lun Bin Huang,Kun Wang 0005,Lei He 0001	10.1145/3431920.3439477
+S2N2: A FPGA Accelerator for Streaming Spiking Neural Networks.	Alireza Khodamoradi,Kristof Denolf,Ryan Kastner	10.1145/3431920.3439283
+FABulous: An Embedded FPGA Framework.	Dirk Koch,Nguyen Dao,Bea Healy,Jing Yu 0014,Andrew Attwood	10.1145/3431920.3439302
+Stratix 10 NX Architecture and Applications.	Martin Langhammer,Eriko Nurvitadhi,Bogdan Pasca 0001,Sergey Gribok	10.1145/3431920.3439293
+Folded Integer Multiplication for FPGAs.	Martin Langhammer,Bogdan Pasca 0001	10.1145/3431920.3439299
+Efficient FPGA Modular Multiplication Implementation.	Martin Langhammer,Bogdan Pasca 0001	10.1145/3431920.3439306
+An FPGA-based 7-ENOB 600 MSample/s ADC without any External Components.	Lukas Leuenberger,Dorian Amiet,Tao Wei,Paul Zbinden	10.1145/3431920.3439287
+PRGA: An Open-Source FPGA Research and Prototyping Framework.	Ang Li,David Wentzlaff	10.1145/3431920.3439294
+ScalaBFS: A Scalable BFS Accelerator on FPGA-HBM Platform.	Chenhao Liu,Zhiyuan Shao,Kexin Li,Minkang Wu,Jiajie Chen,Ruoshi Li,Xiaofei Liao,Hai Jin 0001	10.1145/3431920.3439463
+Demystifying the Memory System of Modern Datacenter FPGAs for Software Programmers through Microbenchmarking.	Alec Lu,Zhenman Fang,Weihua Liu,Lesley Shannon	10.1145/3431920.3439284
+Design Principles for Packet Deparsers on FPGAs.	Thomas Luinaud,Jeferson Santiago da Silva,J. M. Pierre Langlois,Yvon Savaria	10.1145/3431920.3439303
+SWIFT: Small-World-based Structural Pruning to Accelerate DNN Inference on FPGA.	Yufei Ma 0002,Gokul Krishnan,Yu Cao 0001,Le Ye,Ru Huang	10.1145/3431920.3439465
+DYNAMAP: Dynamic Algorithm Mapping Framework for Low Latency CNN Inference.	Yuan Meng,Sanmukh R. Kuppannagari,Rajgopal Kannan,Viktor K. Prasanna	10.1145/3431920.3439286
+Interactive Debugging at IP Block Interfaces in FPGAs.	Marco Antonio Merlini,Isamu Poy,Paul Chow	10.1145/3431920.3439305
+Top-down Physical Design of Soft Embedded FPGA Fabrics.	Prashanth Mohan,Oguz Atli,Onur O. Kibar,V. Mohammed Zackriya,Larry T. Pileggi,Ken Mai	10.1145/3431920.3439297
+Reconfigurable Acceleration of Short Read Mapping with Biological Consideration.	Ho-Cheung Ng,Izaak Coleman,Shuanglong Liu,Wayne Luk	10.1145/3431920.3439280
+Global Is the New Local: FPGA Architecture at 5nm and Beyond.	Stefan Nikolic,Francky Catthoor,Zsolt Tokei,Paolo Ienne	10.1145/3431920.3439300
+NetCracker: A Peek into the Routing Architecture of Xilinx 7-Series FPGAs.	Morten B. Petersen,Stefan Nikolic,Mirjana Stojilovic	10.1145/3431920.3439285
+MLBlocks: FPGA Blocks for Machine Learning Applications.	Seyedramin Rasoulinezhad,David Boland,Philip H. W. Leong	10.1145/3431920.3439479
+NASCENT: Near-Storage Acceleration of Database Sort on SmartSSD.	Sahand Salamat,Armin Haj Aboutalebi,Behnam Khaleghi,Joo Hwan Lee,Yang-Seok Ki,Tajana Rosing	10.1145/3431920.3439298
+Exploring PGAS Communication for Heterogeneous Clusters with FPGAs.	Varun Sharma,Paul Chow	10.1145/3431920.3439469
+RIFL: A Reliable Link Layer Network Protocol for FPGA-to-FPGA Communication.	Qianfeng Clark Shen,Jun Zheng,Paul Chow	10.1145/3431920.3439467
+Modeling FPGA-Based Systems via Few-Shot Learning.	Gagandeep Singh 0002,Dionysios Diamantopoulos,Juan Gómez-Luna,Sander Stuijk,Onur Mutlu,Henk Corporaal	10.1145/3431920.3439460
+AutoDSE: Enabling Software Programmers Design Efficient FPGA Accelerators.	Atefeh Sohrabizadeh,Cody Hao Yu,Min Gao 0003,Jason Cong	10.1145/3431920.3439464
+GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing.	Qinggang Wang,Long Zheng 0003,Yu Huang 0013,Pengcheng Yao,Chuangyi Gui,Xiaofei Liao,Hai Jin 0001,Wenbin Jiang,Fubing Mao	10.1145/3431920.3439288
+Are We Alone? Searching for ET with FPGAs.	Dan Werthimer	10.1145/3431920.3437118
+3M-AI: A Multi-task and Multi-core Virtualization Framework for Multi-FPGA AI Systems in the Cloud.	Shulin Zeng,Guohao Dai,Hanbo Sun,Jun Liu,Hongren Zheng,Yusong Wu,Fan Zhang,Xinhao Yang,Yi Cai 0003,Yu Wang 0002,Huazhong Yang	10.1145/3431920.3439480
+A Framework for Optimizing GCN Inference on FPGA.	Bingyi Zhang,Rajgopal Kannan,Viktor K. Prasanna	10.1145/3431920.3439456
+FracBNN: Accurate and FPGA-Efficient Binary Neural Networks with Fractional Activations.	Yichi Zhang,Junhao Pan,Xinheng Liu,Hongzheng Chen,Deming Chen,Zhiru Zhang	10.1145/3431920.3439296
+Stealing Neural Network Structure through Remote FPGA Side-channel Analysis.	Yicheng Zhang,Rozhin Yasaei,Hao Chen,Zhou Li 0001,Mohammad Abdullah Al Faruque	10.1145/3431920.3439468
+FPGA &apos;21: The 2021 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, Virtual Event, USA, February 28 - March 2, 2021	Lesley Shannon,Michael Adler	10.1145/3431920

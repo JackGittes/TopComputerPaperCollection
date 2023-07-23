@@ -1,0 +1,35 @@
+Automatically Repairing Web Application Firewalls Based on Successful SQL Injection Attacks.	Dennis Appelt,Annibale Panichella,Lionel C. Briand	10.1109/ISSRE.2017.28
+Experience Report: Verifying MPI Java Programs Using Software Model Checking.	Muhammad Sohaib Ayub,Waqas ur Rehman,Junaid Haroon Siddiqui	10.1109/ISSRE.2017.15
+Experience Report: Log Mining Using Natural Language Processing and Application to Anomaly Detection.	Christophe Bertero,Matthieu Roy,Carla Sauvanaud,Gilles Trédan	10.1109/ISSRE.2017.43
+Formal Development of Policing Functions for Intelligent Systems.	Chris Bogdiukiewicz,Michael J. Butler,Thai Son Hoang,Martin Paxton,James Snook,Xanthippe Waldron,Toby Wilkinson	10.1109/ISSRE.2017.40
+Practical Evaluation of Static Analysis Tools for Cryptography: Benchmarking Method and Case Study.	Alexandre Melo Braga,Ricardo Dahab,Nuno Antunes,Nuno Laranjeiro,Marco Vieira	10.1109/ISSRE.2017.27
+Toward Rigorous Object-Code Coverage Criteria.	Taejoon Byun,Vaibhav Sharma 0001,Sanjai Rayadurgam,Stephen McCamant,Mats Per Erik Heimdahl	10.1109/ISSRE.2017.33
+Experience Report: On the Impact of Software Faults in the Privileged Virtual Machine.	Frederico Cerveira,Raul Barbosa,Henrique Madeira	10.1109/ISSRE.2017.39
+A Fault Correlation Approach to Detect Performance Anomalies in Virtual Network Function Chains.	Domenico Cotroneo,Roberto Natella,Stefano Rosiello	10.1109/ISSRE.2017.12
+Perman: Fine-Grained Permission Management for Android Applications.	Jiaojiao Fu,Yangfan Zhou,Huan Liu,Yu Kang,Xin Wang 0002	10.1109/ISSRE.2017.38
+An Exploratory Study of Field Failures.	Luca Gazzola,Leonardo Mariani,Fabrizio Pastore,Mauro Pezzè	10.1109/ISSRE.2017.10
+Experience Report: Log-Based Behavioral Differencing.	Maayan Goldstein,Danny Raz,Itai Segall	10.1109/ISSRE.2017.14
+Experience Report: Study of Vulnerabilities of Enterprise Operating Systems.	Anatoliy Gorbenko,Alexander B. Romanovsky,Olga Tarasyuk,Oleksandr Biloborodov	10.1109/ISSRE.2017.20
+Experience Report: Security Vulnerability Profiles of Mission Critical Software: Empirical Analysis of Security Related Bug Reports.	Katerina Goseva-Popstojanova,Jacob Tyo	10.1109/ISSRE.2017.42
+Which Packages Would be Affected by This Bug Report?	Qiao Huang,David Lo 0001,Xin Xia 0001,Qingye Wang,Shanping Li	10.1109/ISSRE.2017.24
+Chizpurfle: A Gray-Box Android Fuzzer for Vendor Service Customizations.	Antonio Ken Iannillo,Roberto Natella,Domenico Cotroneo,Cristina Nita-Rotaru	10.1109/ISSRE.2017.16
+Interactive Runtime Verification - When Interactive Debugging Meets Runtime Verification.	Raphaël Jakse,Yliès Falcone,Jean-François Méhaut,Kevin Pouget	10.1109/ISSRE.2017.19
+AQAT: The Architecture Quality Assurance Tool for Critical Embedded Systems.	Andreas Johnsen,Kristina Lundqvist,Kaj Hänninen,Paul Pettersson	10.1109/ISSRE.2017.32
+Experience Report: Evaluating Fault Detection Effectiveness and Resource Efficiency of the Architecture Quality Assurance Framework and Tool.	Andreas Johnsen,Kristina Lundqvist,Kaj Hänninen,Paul Pettersson,Martin Torelm	10.1109/ISSRE.2017.31
+On FSM-Based Testing: An Empirical Study: Complete Round-Trip Versus Transition Trees.	Hoda Khalil,Yvan Labiche	10.1109/ISSRE.2017.34
+Simultaneous Fault Models for the Generation of Efficient Error Detection Mechanisms.	Matthew Leeke	10.1109/ISSRE.2017.29
+Reflection Analysis for Java: Uncovering More Reflective Targets Precisely.	Jie Liu 0020,Yue Li 0006,Tian Tan 0001,Jingling Xue	10.1109/ISSRE.2017.36
+Learning Feature Representations from Change Dependency Graphs for Defect Prediction.	Pablo Loyola,Yutaka Matsuo	10.1109/ISSRE.2017.30
+WAP: SAT-Based Computation of Minimal Cut Sets.	Weilin Luo,Ou Wei	10.1109/ISSRE.2017.13
+A Stochastic Modeling Approach for an Efficient Dependability Evaluation of Large Systems with Non-anonymous Interconnected Components.	Giulio Masetti,Silvano Chiaradonna,Felicita Di Giandomenico	10.1109/ISSRE.2017.17
+Software Metrics as Indicators of Security Vulnerabilities.	Nadia Patricia Da Silva Medeiros,Naghmeh Ramezani Ivaki,Pedro Costa 0002,Marco Vieira	10.1109/ISSRE.2017.11
+Experience Report: How to Design Web-Based Competitions for Legal Proceedings: Lessons from a Court Case.	Aad P. A. van Moorsel,Matthew Forshaw,Francisco Rocha	10.1109/ISSRE.2017.41
+WAP: Does Reviewer Age Affect Code Review Performance?	Yukasa Murakami,Masateru Tsunoda,Hidetake Uwano	10.1109/ISSRE.2017.37
+A Generalized Bivariate Modeling Framework of Fault Detection and Correction Processes.	Hiroyuki Okamura,Tadashi Dohi	10.1109/ISSRE.2017.22
+Models of Reliability of Fault-Tolerant Software Under Cyber-Attacks.	Peter T. Popov	10.1109/ISSRE.2017.23
+Understanding the Impacts of Influencing Factors on Time to a DataRace Software Failure.	Kun Qiu,Zheng Zheng 0001,Kishor S. Trivedi,Bei-Bei Yin	10.1109/ISSRE.2017.26
+Experience Report: Fault Triggers in Linux Operating System: from Evolution Perspective.	Guanping Xiao,Zheng Zheng 0001,Beibei Yin,Kishor S. Trivedi,Xiaoting Du,Kai-Yuan Cai	10.1109/ISSRE.2017.21
+COCOON: Crowdsourced Testing Quality Maximization Under Context Coverage Constraint.	Miao Xie,Qing Wang 0001,Guowei Yang 0001,Mingshu Li 0001	10.1109/ISSRE.2017.25
+GEMS: An Extract Method Refactoring Recommender.	Sihan Xu,Aishwarya Sivaraman,Siau-Cheng Khoo,Jing Xu 0008	10.1109/ISSRE.2017.35
+Learning from Imbalanced Data for Predicting the Number of Software Defects.	Xiao Yu,Jin Liu 0016,Zijiang Yang 0006,Xiangyang Jia,Qi Ling,Sizhe Ye	10.1109/ISSRE.2017.18
+28th IEEE International Symposium on Software Reliability Engineering, ISSRE 2017, Toulouse, France, October 23-26, 2017		

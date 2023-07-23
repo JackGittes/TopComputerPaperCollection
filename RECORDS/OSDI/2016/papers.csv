@@ -1,0 +1,48 @@
+TensorFlow: A System for Large-Scale Machine Learning.	Martín Abadi,Paul Barham 0001,Jianmin Chen,Zhifeng Chen,Andy Davis,Jeffrey Dean,Matthieu Devin,Sanjay Ghemawat,Geoffrey Irving,Michael Isard,Manjunath Kudlur,Josh Levenberg,Rajat Monga,Sherry Moore,Derek Gordon Murray,Benoit Steiner,Paul A. Tucker,Vijay Vasudevan,Pete Warden,Martin Wicke,Yuan Yu,Xiaoqiang Zheng	
+Slicer: Auto-Sharding for Datacenter Applications.	Atul Adya,Daniel Myers,Jon Howell,Jeremy Elson,Colin Meek,Vishesh Khemani,Stefan Fulger,Pan Gu,Lakshminath Bhuvanagiri,Jason Hunter,Roberto Peon,Larry Kai,Alexander Shraer,Arif Merchant,Kfir Lev-Ari	
+Correlated Crash Vulnerabilities.	Ramnatthan Alagappan,Aishwarya Ganesan,Yuvraj Patel,Thanumalayan Sankaranarayana Pillai,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Unobservable Communication over Fully Untrusted Infrastructure.	Sebastian Angel,Srinath T. V. Setty	
+SCONE: Secure Linux Containers with Intel SGX.	Sergei Arnautov,Bohdan Trach,Franz Gregor,Thomas Knauth,André Martin,Christian Priebe,Joshua Lind,Divya Muthukumaran,Dan O&apos;Keeffe,Mark Stillwell,David Goltzsche,David M. Eyers,Rüdiger Kapitza,Peter R. Pietzuch,Christof Fetzer	
+DQBarge: Improving Data-Quality Tradeoffs in Large-Scale Internet Services.	Michael Chow,Kaushik Veeraraghavan,Michael J. Cafarella,Jason Flinn	
+To Waffinity and Beyond: A Scalable Architecture for Incremental Parallelization of File System Code.	Matthew Curtis-Maury,Vinay Devadas,Vania Fang,Aditya Kulkarni	
+Efficient Network Reachability Analysis Using a Succinct Control Plane Representation.	Seyed Kaveh Fayaz,Tushar Sharma,Ari Fogel,Ratul Mahajan,Todd D. Millstein,Vyas Sekar,George Varghese	
+Network Requirements for Resource Disaggregation.	Peter Xiang Gao,Akshay Narayan 0001,Sagar Karandikar,João Carreira,Sangjin Han,Rachit Agarwal 0001,Sylvia Ratnasamy,Scott Shenker	
+Firmament: Fast, Centralized Cluster Scheduling at Scale.	Ionel Gog,Malte Schwarzkopf,Adam Gleave,Robert N. M. Watson,Steven Hand 0001	
+Altruistic Scheduling in Multi-Resource Clusters.	Robert Grandl,Mosharaf Chowdhury,Aditya Akella,Ganesh Ananthanarayanan	
+GRAPHENE: Packing and Dependency-Aware Scheduling for Data-Parallel Clusters.	Robert Grandl,Srikanth Kandula,Sriram Rao,Aditya Akella,Janardhan Kulkarni	
+CertiKOS: An Extensible Architecture for Building Certified Concurrent OS Kernels.	Ronghui Gu,Zhong Shao,Hao Chen 0023,Xiongnan (Newman) Wu,Jieung Kim,Vilhelm Sjöberg,David Costanzo	
+Incremental Consistency Guarantees for Replicated Objects.	Rachid Guerraoui,Matej Pavlovic,Dragos-Adrian Seredinschi	
+Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data.	Tyler Hunt,Zhiting Zhu,Yuanzhong Xu,Simon Peter 0001,Emmett Witchel	
+Morpheus: Towards Automated SLOs for Enterprise Clusters.	Sangeetha Abdu Jyothi,Carlo Curino,Ishai Menache,Shravan Matthur Narayanamurthy,Alexey Tumanov,Jonathan Yaniv,Ruslan Mavlyutov,Iñigo Goiri,Subru Krishnan,Janardhan Kulkarni,Sriram Rao	
+Machine-Aware Atomic Broadcast Trees for Multicores.	Stefan Kaestle,Reto Achermann,Roni Haecki,Moritz Hoffmann 0001,Sabela Ramos,Timothy Roscoe	
+FaSST: Fast, Scalable and Simple Distributed Transactions with Two-Sided (RDMA) Datagram RPCs.	Anuj Kalia,Michael Kaminsky,David G. Andersen	
+Coordinated and Efficient Huge Page Management with Ingens.	Youngjin Kwon,Hangchen Yu,Simon Peter 0001,Christopher J. Rossbach,Emmett Witchel	
+Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata.	David Lazar,Nickolai Zeldovich	
+Just Say NO to Paxos Overhead: Replacing Consensus with Network Ordering.	Jialin Li 0001,Ellis Michael,Naveen Kr. Sharma,Adriana Szekeres,Dan R. K. Ports	
+Don&apos;t Get Caught in the Cold, Warm-up Your JVM: Understand and Eliminate JVM Warm-up Overhead in Data-Parallel Systems.	David Lion,Adrian Chiu,Hailong Sun 0001,Xin Zhuang,Nikola Grcevski,Ding Yuan 0004	
+Light-Weight Contexts: An OS Abstraction for Safety and Performance.	James Litton,Anjo Vahldiek-Oberwagner,Eslam Elnikety,Deepak Garg 0001,Bobby Bhattacharjee,Peter Druschel	
+XFT: Practical Fault Tolerance beyond Crashes.	Shengyun Liu,Paolo Viotti,Christian Cachin,Vivien Quéma,Marko Vukolic	
+The SNOW Theorem and Latency-Optimal Read-Only Transactions.	Haonan Lu,Christopher Hodsdon,Khiem Ngo,Shuai Mu 0001,Wyatt Lloyd	
+Consolidating Concurrency Control and Consensus for Commits under Conflicts.	Shuai Mu 0001,Lamont Nelson,Wyatt Lloyd,Jinyang Li 0001	
+Yak: A High-Performance Big-Data-Friendly Garbage Collector.	Khanh Nguyen 0001,Lu Fang,Guoqing Xu 0001,Brian Demsky,Shan Lu 0001,Sanazsadat Alamian,Onur Mutlu	
+NetBricks: Taking the V out of NFV.	Aurojit Panda,Sangjin Han,Keon Jang,Melvin Walls,Sylvia Ratnasamy,Scott Shenker	
+Big Data Analytics over Encrypted Datasets with Seabed.	Antonis Papadimitriou,Ranjita Bhagwan,Nishanth Chandran,Ramachandran Ramjee,Andreas Haeberlen,Harmeet Singh,Abhishek Modi,Saikrishna Badrinarayanan	
+REX: A Development Platform and Online Learning Approach for Runtime Emergent Software Systems.	Barry Porter,Matthew Grieves,Roberto Rodrigues Filho,David Leslie	
+JetStream: Cluster-Scale Parallelization of Information Flow Queries.	Andrew Quinn 0001,David Devecsery,Peter M. Chen,Jason Flinn	
+EC-Cache: Load-Balanced, Low-Latency Cluster Caching with Online Erasure Coding.	K. V. Rashmi,Mosharaf Chowdhury,Jack Kosaian,Ion Stoica,Kannan Ramchandran	
+EbbRT: A Framework for Building Per-Application Library Operating Systems.	Dan Schatzberg,James Cadden,Han Dong,Orran Krieger,Jonathan Appavoo	
+Realizing the Fault-Tolerance Promise of Cloud Storage Using Locks with Intent.	Srinath T. V. Setty,Chunzhi Su,Jacob R. Lorch,Lidong Zhou,Hao Chen 0030,Parveen Patel,Jinglei Ren	
+Fast and Concurrent RDF Queries with RDMA-Based Distributed Graph Exploration.	Jiaxin Shi,Youyang Yao,Rong Chen 0001,Haibo Chen 0001,Feifei Li 0001	
+Push-Button Verification of File Systems via Crash Refinement.	Helgi Sigurbjarnarson,James Bornholt,Emina Torlak,Xi Wang 0005	
+Simplifying Datacenter Network Debugging with PathDump.	Praveen Tammana,Rachit Agarwal 0001,Myungjin Lee	
+Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services.	Kaushik Veeraraghavan,Justin Meza,David Chou,Wonho Kim,Sonia Margulis,Scott Michelson,Rajesh Nishtala,Daniel Obenshain,Dmitri Perelman,Yee Jiun Song	
+CLARINET: WAN-Aware Optimization for Analytics Queries.	Raajay Viswanathan,Ganesh Ananthanarayanan,Aditya Akella	
+Shuffler: Fast and Deployable Continuous Code Re-Randomization.	David Williams-King,Graham Gobieski,Kent Williams-King,James P. Blake,Xinhao Yuan,Patrick Colp,Michelle Zheng,Vasileios P. Kemerlis,Junfeng Yang,William Aiello	
+Intermittent Computation without Hardware Support or Programmer Intervention.	Joel van der Woude,Matthew Hicks	
+Early Detection of Configuration Errors to Reduce Failure Damage.	Tianyin Xu,Xinxin Jin,Peng Huang 0005,Yuanyuan Zhou 0001,Shan Lu 0001,Long Jin,Shankar Pasupathy	
+Diamond: Automating Data Management and Storage for Wide-Area, Reactive Applications.	Irene Zhang,Niel Lebeck,Pedro Fonseca 0001,Brandon Holt,Raymond Cheng 0001,Ariadna Norberg,Arvind Krishnamurthy,Henry M. Levy	
+History-Based Harvesting of Spare Cycles and Storage in Large-Scale Datacenters.	Yunqi Zhang,George Prekas,Giovanni Matteo Fumarola,Marcus Fontoura,Iñigo Goiri,Ricardo Bianchini	
+Exploring the Hidden Dimension in Graph Processing.	Mingxing Zhang,Yongwei Wu,Kang Chen,Xuehai Qian,Xue Li,Weimin Zheng	
+Non-Intrusive Performance Profiling for Entire Software Stacks Based on the Flow Reconstruction Principle.	Xu Zhao,Kirk Rodrigues,Yu Luo,Ding Yuan 0004,Michael Stumm	
+Gemini: A Computation-Centric Distributed Graph Processing System.	Xiaowei Zhu,Wenguang Chen,Weimin Zheng,Xiaosong Ma	
+12th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2016, Savannah, GA, USA, November 2-4, 2016.	Kimberly Keeton,Timothy Roscoe	

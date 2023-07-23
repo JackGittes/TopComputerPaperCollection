@@ -1,0 +1,76 @@
+Logical abstractions for noisy variational Quantum algorithm simulation.	Yipeng Huang 0001,Steven Holtzen,Todd D. Millstein,Guy Van den Broeck,Margaret Martonosi	10.1145/3445814.3446750
+Reducing solid-state drive read latency by optimizing read-retry.	Jisung Park 0001,Myungsuk Kim,Myoungjun Chun,Lois Orosa 0001,Jihong Kim 0001,Onur Mutlu	10.1145/3445814.3446719
+Q-VR: system-level design for future mobile collaborative virtual reality.	Chenhao Xie 0001,Xie Li,Yang Hu 0001,Huwan Peng,Michael B. Taylor,Shuaiwen Leon Song	10.1145/3445814.3446715
+PMFuzz: test case generation for persistent memory programs.	Sihang Liu 0001,Suyash Mahar,Baishakhi Ray,Samira Manabi Khan	10.1145/3445814.3446691
+MERCI: efficient embedding reduction on commodity hardware via sub-query memoization.	Yejin Lee 0001,Seong Hoon Seo,Hyunji Choi,Hyoung Uk Sul,Soosung Kim 0001,Jae W. Lee,Tae Jun Ham	10.1145/3445814.3446717
+Gamma: leveraging Gustavson&apos;s algorithm to accelerate sparse matrix multiplication.	Guowei Zhang 0002,Nithya Attaluri,Joel S. Emer,Daniel Sánchez 0003	10.1145/3445814.3446702
+Sage: practical and scalable ML-driven performance debugging in microservices.	Yu Gan 0002,Mingyu Liang,Sundar Dev,David Lo 0003,Christina Delimitrou	10.1145/3445814.3446700
+Prolonging 3D NAND SSD lifetime via read latency relaxation.	Chun-Yi Liu 0002,Yunju Lee,Myoungsoo Jung,Mahmut Taylan Kandemir,Wonil Choi	10.1145/3445814.3446733
+Jamais vu: thwarting microarchitectural replay attacks.	Dimitrios Skarlatos 0002,Zirui Neil Zhao,Riccardo Paccagnella,Christopher W. Fletcher,Josep Torrellas	10.1145/3445814.3446716
+Statistical robustness of Markov chain Monte Carlo accelerators.	Xiangyu Zhang 0011,Ramin Bashizade,Yicheng Wang,Sayan Mukherjee 0001,Alvin R. Lebeck	10.1145/3445814.3446697
+Analytical characterization and design space exploration for optimization of CNNs.	Rui Li 0033,Yufan Xu,Aravind Sukumaran-Rajam,Atanas Rountev,P. Sadayappan	10.1145/3445814.3446759
+Kard: lightweight data race detection with per-thread memory protection.	Adil Ahmad,Sangho Lee 0001,Pedro Fonseca 0001,Byoungyoung Lee	10.1145/3445814.3446727
+BayesPerf: minimizing performance monitoring errors using Bayesian statistics.	Subho S. Banerjee,Saurabh Jha,Zbigniew Kalbarczyk,Ravishankar K. Iyer	10.1145/3445814.3446739
+Speculative interference attacks: breaking invisible speculation schemes.	Mohammad Behnia,Prateek Sahu,Riccardo Paccagnella,Jiyong Yu,Zirui Neil Zhao,Xiang Zou,Thomas Unterluggauer,Josep Torrellas,Carlos V. Rozas,Adam Morrison 0001,Frank McKeen,Fangfei Liu,Ron Gabor,Christopher W. Fletcher,Abhishek Basak,Alaa R. Alameldeen	10.1145/3445814.3446708
+Switches for HIRE: resource scheduling for data center in-network computing.	Marcel Blöcher,Lin Wang 0015,Patrick Eugster,Max Schmidt	10.1145/3445814.3446760
+Rethinking software runtimes for disaggregated memory.	Irina Calciu,M. Talha Imran,Ivan Puddu,Sanidhya Kashyap,Hasan Al Maruf,Onur Mutlu,Aasheesh Kolli	10.1145/3445814.3446713
+HerQules: securing programs via hardware-enforced message queues.	Daming D. Chen,Wen Shih Lim,Mohammad Bakhshalipour,Phillip B. Gibbons,James C. Hoe,Bryan Parno	10.1145/3445814.3446736
+VeGen: a vectorizer generator for SIMD and beyond.	Yishen Chen,Charith Mendis,Michael Carbin,Saman P. Amarasinghe	10.1145/3445814.3446692
+Fast, flexible, and comprehensive bug detection for persistent memory programs.	Bang Di,Jiawen Liu,Hao Chen 0002,Dong Li 0001	10.1145/3445814.3446744
+Orchestrated trios: compiling for efficient communication in Quantum programs with 3-Qubit gates.	Casey Duckering,Jonathan M. Baker,Andrew Litteken,Frederic T. Chong	10.1145/3445814.3446718
+PIBE: practical kernel control-flow hardening with profile-guided indirect branch elimination.	Victor Duta,Cristiano Giuffrida,Herbert Bos,Erik van der Kouwe	10.1145/3445814.3446740
+Computing with time: microarchitectural weird machines.	Dmitry Evtyushkin,Thomas Benjamin,Jesse Elwell,Jeffrey A. Eitel,Angelo Sapello,Abhrajit Ghosh	10.1145/3445814.3446729
+PacketMill: toward per-Core 100-Gbps networking.	Alireza Farshin,Tom Barbette,Amir Roozbeh,Gerald Q. Maguire Jr.,Dejan Kostic	10.1145/3445814.3446724
+FaasCache: keeping serverless computing alive with greedy-dual caching.	Alexander Fuerst,Prateek Sharma	10.1145/3445814.3446757
+Enclosure: language-based restriction of untrusted libraries.	Adrien Ghosn,Marios Kogias,Mathias Payer,James R. Larus,Edouard Bugnion	10.1145/3445814.3446728
+Jaaru: efficiently model checking persistent memory programs.	Hamed Gorjiara,Guoqing Harry Xu,Brian Demsky	10.1145/3445814.3446735
+Defensive approximation: securing CNNs using approximate computing.	Amira Guesmi,Ihsen Alouani,Khaled N. Khasawneh,Mouna Baklouti,Tarek Frikha,Mohamed Abid,Nael B. Abu-Ghazaleh	10.1145/3445814.3446747
+Quantifying the design-space tradeoffs in autonomous drones.	Ramyad Hadidi,Bahar Asgari,Sam Jijina,Adriana Amyette,Nima Shoghi,Hyesoon Kim	10.1145/3445814.3446721
+NOREBA: a compiler-informed non-speculative out-of-order commit processor.	Ali Hajiabadi,Andreas Diavastos,Trevor E. Carlson	10.1145/3445814.3446726
+SIMDRAM: a framework for bit-serial SIMD processing using DRAM.	Nastaran Hajinazar,Geraldo F. Oliveira,Sven Gregorio,João Dinis Ferreira,Nika Mansouri-Ghiasi,Minesh Patel,Mohammed Alser,Saugata Ghose,Juan Gómez-Luna,Onur Mutlu	10.1145/3445814.3446749
+Mind mappings: enabling efficient algorithm-accelerator mapping space search.	Kartik Hegde,Po-An Tsai,Sitao Huang,Vikas Chandra,Angshuman Parashar,Christopher W. Fletcher	10.1145/3445814.3446762
+Corundum: statically-enforced persistent memory safety.	Morteza Hoseinzadeh,Steven Swanson	10.1145/3445814.3446710
+LifeStream: a high-performance stream processing engine for periodic streams.	Anand Jayarajan,Kimberly Hau,Andrew Goodwin,Gennady Pekhimenko	10.1145/3445814.3446725
+PMEM-spec: persistent memory speculation (strict persistency can trump relaxed persistency).	Jungi Jeong,Changhee Jung	10.1145/3445814.3446698
+Nightcore: efficient and scalable serverless computing for latency-sensitive, interactive microservices.	Zhipeng Jia,Emmett Witchel	10.1145/3445814.3446701
+Probabilistic profiling of stateful data planes for adversarial testing.	Qiao Kang,Jiarong Xing,Yiming Qiu,Ang Chen 0001	10.1145/3445814.3446764
+KLOCs: kernel-level object contexts for heterogeneous memory systems.	Sudarsun Kannan,Yujie Ren,Abhishek Bhattacharjee	10.1145/3445814.3446745
+Language-parametric compiler validation with application to LLVM.	Theodoros Kasampalis,Daejun Park 0001,Zhengyao Lin,Vikram S. Adve,Grigore Rosu	10.1145/3445814.3446751
+Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power.	Venkatesh Kodukula,Alexander Shearer,Van Nguyen,Srinivas Lingutla,Yifei Liu,Robert LiKamWa	10.1145/3445814.3446737
+Compiler-driven FPGA virtualization with SYNERGY.	Joshua Landgraf,Tiffany Yang,Will Lin,Christopher J. Rossbach,Eric Schkufza	10.1145/3445814.3446755
+Dagger: efficient and fast RPCs in cloud microservices with near-memory reconfigurable NICs.	Nikita Lazarev,Shaojie Xiang,Neil Adit,Zhiru Zhang,Christina Delimitrou	10.1145/3445814.3446696
+NeuroEngine: a hardware-based event-driven simulation system for advanced brain-inspired computing.	Hunjun Lee,Chanmyeong Kim,Yujin Chung,Jangwoo Kim	10.1145/3445814.3446738
+SherLock: unsupervised synchronization-operation inference.	Guangpu Li,Dongjie Chen,Shan Lu 0001,Madanlal Musuvathi,Suman Nath	10.1145/3445814.3446754
+Automatically detecting and fixing concurrency bugs in go software systems.	Ziheng Liu,Shuofei Zhu,Boqin Qin,Hao Chen 0003,Linhai Song	10.1145/3445814.3446756
+Who&apos;s debugging the debuggers? exposing debug information bugs in optimized binaries.	Giuseppe Antonio Di Luna,Davide Italiano,Luca Massarelli,Sebastian Österlund,Cristiano Giuffrida,Leonardo Querzoni	10.1145/3445814.3446695
+C11Tester: a race detector for C/C++ atomics.	Weiyu Luo,Brian Demsky	10.1145/3445814.3446711
+PTEMagnet: fine-grained physical memory reservation for faster page walks in public clouds.	Artemiy Margaritov,Dmitrii Ustiugov,Amna Shahab,Boris Grot	10.1145/3445814.3446704
+Incremental CFG patching for binary rewriting.	Xiaozhu Meng,Weijie Liu 0004	10.1145/3445814.3446765
+Hippocrates: healing persistent memory bugs without doing any harm.	Ian Neal,Andrew Quinn 0001,Baris Kasikci	10.1145/3445814.3446694
+Robomorphic computing: a design methodology for domain-specific accelerators parameterized by robot morphology.	Sabrina M. Neuman,Brian Plancher,Thomas Bourgeat,Thierry Tambe,Srinivas Devadas,Vijay Janapa Reddi	10.1145/3445814.3446746
+A compiler infrastructure for accelerator generators.	Rachit Nigam,Samuel Thomas,Zhijing Li 0002,Adrian Sampson	10.1145/3445814.3446712
+VSync: push-button verification and optimization for synchronization primitives on weak memory models.	Jonas Oberhauser,Rafael Lourenco de Lima Chehab,Diogo Behrens,Ming Fu,Antonio Paolillo,Lilith Oberhauser,Koustubha Bhat,Yuzhong Wen,Haibo Chen 0001,Jaeho Kim,Viktor Vafeiadis	10.1145/3445814.3446748
+Fast local page-tables for virtualized NUMA servers with vMitosis.	Ashish Panwar,Reto Achermann,Arkaprava Basu,Abhishek Bhattacharjee,K. Gopinath,Jayneel Gandhi	10.1145/3445814.3446709
+BCD deduplication: effective memory compression using partial cache-line deduplication.	Sungbo Park,Ingab Kang,Yaebin Moon,Jung Ho Ahn,G. Edward Suh	10.1145/3445814.3446722
+Qraft: reverse your Quantum circuit and know the correct program output.	Tirthak Patel,Devesh Tiwari	10.1145/3445814.3446743
+Autonomous NIC offloads.	Boris Pismenny,Haggai Eran,Aviad Yehezkel,Liran Liss,Adam Morrison 0001,Dan Tsafrir	10.1145/3445814.3446732
+Effective simulation and debugging for a high-level hardware language using software compilers.	Clément Pit-Claudel,Thomas Bourgeat,Stella Lau,Arvind,Adam Chlipala	10.1145/3445814.3446720
+Scalable FSM parallelization via path fusion and higher-order speculation.	Junqiao Qiu,Xiaofan Sun,Amir Hossein Nodehi Sabet,Zhijia Zhao 0001	10.1145/3445814.3446705
+Warehouse-scale video acceleration: co-design and deployment in the wild.	Parthasarathy Ranganathan,Daniel Stodolsky,Jeff Calow,Jeremy Dorfman,Marisabel Guevara,Clinton Wills Smullen IV,Aki Kuusela,Raghu Balasubramanian,Sandeep Bhatia,Prakash Chauhan,Anna Cheung,In Suk Chong,Niranjani Dasharathi,Jia Feng,Brian Fosco,Samuel Foss,Ben Gelb,Sara J. Gwin,Yoshiaki Hase,Da-ke He,C. Richard Ho,Roy W. Huffman Jr.,Elisha Indupalli,Indira Jayaram,Poonacha Kongetira,Cho Mon Kyaw,Aaron Laursen,Yuan Li,Fong Lou,Kyle A. Lucke,J. P. Maaninen,Ramon Macias,Maire Mahony,David Alexander Munday,Srikanth Muroor,Narayana Penukonda,Eric Perkins-Argueta,Devin Persaud,Alex Ramírez,Ville-Mikko Rautio,Yolanda Ripley,Amir Salek,Sathish Sekar,Sergey N. Sokolov,Rob Springer,Don Stark,Mercedes Tan,Mark S. Wachsler,Andrew C. Walton,David A. Wickeraad,Alvin Wijaya,Hon Kwan Wu	10.1145/3445814.3446723
+Streamline: a fast, flushless cache covert-channel attack by enabling asynchronous collusion.	Gururaj Saileshwar,Christopher W. Fletcher,Moinuddin K. Qureshi	10.1145/3445814.3446742
+CubicleOS: a library OS with software componentisation for practical isolation.	Vasily A. Sartakov,Lluís Vilanova,Peter R. Pietzuch	10.1145/3445814.3446731
+A hierarchical neural model of data prefetching.	Zhan Shi,Akanksha Jain,Kevin Swersky,Milad Hashemi,Parthasarathy Ranganathan,Calvin Lin	10.1145/3445814.3446752
+CutQC: using small Quantum computers for large Quantum circuit evaluations.	Wei Tang,Teague Tomesh,Martin Suchara,Jeffrey Larson 0001,Margaret Martonosi	10.1145/3445814.3446758
+Neural architecture search as program transformation exploration.	Jack Turner,Elliot J. Crowley,Michael F. P. O&apos;Boyle	10.1145/3445814.3446753
+Benchmarking, analysis, and optimization of serverless function snapshots.	Dmitrii Ustiugov,Plamen Petrov 0003,Marios Kogias,Edouard Bugnion,Boris Grot	10.1145/3445814.3446714
+Vectorization for digital signal processors via equality saturation.	Alexa VanHattum,Rachit Nigam,Vincent T. Lee,James Bornholt,Adrian Sampson	10.1145/3445814.3446707
+DiAG: a dataflow-inspired architecture for general-purpose processors.	Dong Kai Wang,Nam Sung Kim	10.1145/3445814.3446703
+RecSSD: near data processing for solid state drive based recommendation inference.	Mark Wilkening,Udit Gupta,Samuel Hsia,Caroline Trippel,Carole-Jean Wu,David Brooks 0001,Gu-Yeon Wei	10.1145/3445814.3446763
+In-fat pointer: hardware-assisted tagged-pointer spatial memory safety defense with subobject granularity protection.	Shengjie Xu,Wei Huang 0027,David Lie	10.1145/3445814.3446761
+Clobber-NVM: log less, re-execute more.	Yi Xu,Joseph Izraelevitz,Steven Swanson	10.1145/3445814.3446730
+When application-specific ISA meets FPGAs: a multi-layer virtualization framework for heterogeneous cloud FPGAs.	Yue Zha,Jing Li 0073	10.1145/3445814.3446699
+Judging a type by its pointer: optimizing GPU virtual functions.	Mengchi Zhang,Ahmad Alawneh,Timothy G. Rogers	10.1145/3445814.3446734
+Time-optimal Qubit mapping.	Chi Zhang 0041,Ari B. Hayes,Longfei Qiu,Yuwei Jin,Yan-Hao Chen,Eddy Z. Zhang	10.1145/3445814.3446706
+Sinan: ML-based and QoS-aware resource management for cloud microservices.	Yanqi Zhang,Weizhe Hua,Zhuangzhuang Zhou,G. Edward Suh,Christina Delimitrou	10.1145/3445814.3446693
+Training for multi-resolution inference using reusable quantization terms.	Sai Qian Zhang,Bradley McDanel,H. T. Kung 0001,Xin Dong 0009	10.1145/3445814.3446741
+ASPLOS &apos;21: 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Virtual Event, USA, April 19-23, 2021	Tim Sherwood,Emery D. Berger,Christos Kozyrakis	10.1145/3445814

@@ -1,0 +1,15 @@
+LibrettOS: a dynamically adaptable multiserver-library OS.	Ruslan Nikolaev 0001,Mincheol Sung,Binoy Ravindran	10.1145/3381052.3381316
+Blending containers and virtual machines: a study of firecracker and gVisor.	Anjali,Tyler Caraza-Harter,Michael M. Swift	10.1145/3381052.3381315
+Edge computing: the case for heterogeneous-ISA container migration.	Antonio Barbalace,Mohamed Lamine Karaoui,Wei Wang,Tong Xing,Pierre Olivier,Binoy Ravindran	10.1145/3381052.3381321
+Optimising dynamic binary modification across 64-bit Arm microarchitectures.	Guillermo Callaghan,Cosmin Gorgovan,Mikel Luján	10.1145/3381052.3381322
+Directvisor: virtualization for bare-metal cloud.	Kevin Cheng,Spoorti Doddamani,Tzi-cker Chiueh,Yongheng Li,Kartik Gopalan	10.1145/3381052.3381317
+Instrew: leveraging LLVM for high performance dynamic binary instrumentation.	Alexis Engelke,Martin Schulz 0001	10.1145/3381052.3381319
+Lightweight kernel isolation with virtualization and VM functions.	Vikram Narayanan,Yongzhe Huang,Gang Tan,Trent Jaeger,Anton Burtsev	10.1145/3381052.3381328
+A robust and flexible operating system compatibility architecture.	Takaya Saeki,Yuichi Nishiwaki,Takahiro Shinagawa,Shinichi Honiden	10.1145/3381052.3381327
+TruffleWasm: a WebAssembly interpreter on GraalVM.	Salim S. Salim,Andy Nisbet,Mikel Luján	10.1145/3381052.3381325
+Intra-unikernel isolation with Intel memory protection keys.	Mincheol Sung,Pierre Olivier,Stefan Lankes,Binoy Ravindran	10.1145/3381052.3381326
+GCPersist: an efficient GC-assisted lazy persistency framework for resilient Java applications on NVM.	Mingyu Wu 0001,Haibo Chen 0001,Hao Zhu,Binyu Zang,Haibing Guan	10.1145/3381052.3381318
+Obtaining hard real-time performance and rich Linux features in a compounded real-time operating system by a partitioning hypervisor.	Chung-Fan Yang,Yasushi Shinjo	10.1145/3381052.3381323
+GiantVM: a type-II hypervisor implementing many-to-one virtualization.	Jin Zhang,Zhuocheng Ding,Yubin Chen,Xingguo Jia,Boshi Yu,Zhengwei Qi,Haibing Guan	10.1145/3381052.3381324
+Deconstructing the garbage-first collector.	Wenyu Zhao,Stephen M. Blackburn	10.1145/3381052.3381320
+VEE &apos;20: 16th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments, virtual event [Lausanne, Switzerland], March 17, 2020	Santosh Nagarakatte,Andrew Baumann,Baris Kasikci	10.1145/3381052

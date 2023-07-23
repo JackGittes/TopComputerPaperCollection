@@ -1,0 +1,200 @@
+Decomposing Software Verification into Off-the-Shelf Components: An Application to CEGAR.	Dirk Beyer 0001,Jan Haltermann,Thomas Lemberger 0002,Heike Wehrheim	10.1145/3510003.3510064
+Explanation-Guided Fairness Testing through Genetic Algorithm.	Ming Fan 0002,Wenying Wei,Wuxia Jin,Zijiang Yang 0006,Ting Liu 0002	10.1145/3510003.3510137
+Improving Machine Translation Systems via Isotopic Replacement.	Zeyu Sun 0004,Jie M. Zhang,Yingfei Xiong 0001,Mark Harman,Mike Papadakis,Lu Zhang 0023	10.1145/3510003.3510206
+Multilingual training for Software Engineering.	Toufique Ahmed,Premkumar T. Devanbu	10.1145/3510003.3510049
+Dynamic Update for Synthesized GR(1) Controllers.	Gal Amram,Shahar Maoz,Itai Segall,Matan Yossef	10.1145/3510003.3510054
+Nessie: Automatically Testing JavaScript APIs with Asynchronous Callbacks.	Ellen Arteca,Sebastian Harner,Michael Pradel,Frank Tip	10.1145/3510003.3510106
+Eflect: Porting Energy-Aware Applications to Shared Environments.	Timur Babakol,Anthony Canino,Yu David Liu	10.1145/3510003.3510145
+V-SZZ: Automatic Identification of Version Ranges Affected by CVE Vulnerabilities.	Lingfeng Bao,Xin Xia 0001,Ahmed E. Hassan,Xiaohu Yang 0001	10.1145/3510003.3510113
+A Scalable t-wise Coverage Estimator.	Eduard Baranov,Sourav Chakraborty 0001,Axel Legay,Kuldeep S. Meel,N. Variyam Vinodchandran	10.1145/3510003.3510218
+Exploiting Input Sanitization for Regex Denial of Service.	Efe Barlas,Xin Du,James C. Davis 0001	10.1145/3510003.3510047
+Towards Boosting Patch Execution On-the-Fly.	Samuel Benton,Yuntong Xie,Lan Lu,Mengshi Zhang,Xia Li,Lingming Zhang 0001	10.1145/3510003.3510117
+The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large.	Sumon Biswas,Mohammad Wardat,Hridesh Rajan	10.1145/3510003.3510057
+On the Reliability of Coverage-Based Fuzzer Benchmarking.	Marcel Böhme,László Szekeres,Jonathan Metzman	10.1145/3510003.3510230
+Less is More: Supporting Developers in Vulnerability Detection during Code Review.	Larissa Braz,Christian Aeberhard,Gül Çalikli,Alberto Bacchelli	10.1145/3510003.3511560
+Rotten Apples Spoil the Bunch: An Anatomy of Google Play Malware.	Michael Cao,Khaled Ahmed 0004,Julia Rubin	10.1145/3510003.3510161
+DeepFD: Automated Fault Diagnosis and Localization for Deep Learning Programs.	Jialun Cao,Meiziniu Li,Xiao Chen,Ming Wen 0001,Yongqiang Tian 0001,Bo Wu 0018,Shing-Chi Cheung	10.1145/3510003.3510099
+MVD: Memory-Related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks.	Sicong Cao,Xiaobing Sun 0001,Lili Bo,Rongxin Wu,Bin Li 0006,Chuanqi Tao	10.1145/3510003.3510219
+SYMTUNER: Maximizing the Power of Symbolic Execution by Adaptively Tuning External Parameters.	Sooyoung Cha,Myungho Lee,Seokhyun Lee,Hakjoo Oh	10.1145/3510003.3510185
+Cross-Domain Deep Code Search with Meta Learning.	Yitian Chai,Hongyu Zhang 0002,Beijun Shen,Xiaodong Gu 0002	10.1145/3510003.3510125
+Verification of ORM-based Controllers by Summary Inference.	Geetam Chawla,Navneet Aman,Raghavan Komondoor,Ashish Bokil,Nilesh Kharat	10.1145/3510003.3510148
+Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching.	Zhuangbin Chen,Jinyang Liu,Yuxin Su 0001,Hongyu Zhang 0002,Xiao Ling,Michael R. Lyu	10.1145/3510003.3510085
+VarCLR: Variable Semantic Representation Pre-training via Contrastive Learning.	Qibin Chen,Jeremy Lacomis,Edward J. Schwartz,Graham Neubig,Bogdan Vasilescu,Claire Le Goues	10.1145/3510003.3510162
+Towards Training Reproducible Deep Learning Models.	Boyuan Chen 0002,Mingzhi Wen,Yong Shi 0010,Dayi Lin,Gopi Krishnan Rajbahadur,Zhen Ming Jiang	10.1145/3510003.3510163
+Online Summarizing Alerts through Semantic and Behavior Information.	Jia Chen,Peng Wang 0027,Wei Wang 0009	10.1145/3510003.3510055
+Conflict-aware Inference of Python Compatible Runtime Environments with Domain Knowledge Graph.	Wei Cheng,Xiangrong Zhu,Wei Hu 0007	10.1145/3510003.3510078
+Fast Changeset-based Bug Localization with BERT.	Agnieszka Ciborowska,Kostadin Damevski	10.1145/3510003.3510042
+Garbage Collection Makes Rust Easier to Use: A Randomized Controlled Trial of the Bronze Garbage Collector.	Michael Coblenz,Michelle L. Mazurek,Michael Hicks 0001	10.1145/3510003.3510107
+FlakiMe: Laboratory-Controlled Test Flakiness Impact Assessment.	Maxime Cordy,Renaud Rwemalika,Adriano Franci,Mike Papadakis,Mark Harman	10.1145/3510003.3510194
+Message from the ICSE 2022 Program Chairs.	Daniela E. Damian,Andreas Zeller	
+Testing Time Limits in Screener Questions for Online Surveys with Programmers.	Anastasia Danilova,Stefan Horstmann,Matthew Smith 0001,Alena Naiakshina	10.1145/3510003.3510223
+Discovering Repetitive Code Changes in Python ML Systems.	Malinda Dilhara,Ameya Ketkar,Nikhith Sannidhi,Danny Dig	10.1145/3510003.3510225
+TOGA: A Neural Method for Test Oracle Generation.	Elizabeth Dinella,Gabriel Ryan,Todd Mytkowicz,Shuvendu K. Lahiri	10.1145/3510003.3510141
+SnR: Constraint-Based Type Inference for Incomplete Java Code Snippets.	Yiwen Dong 0002,Tianxiao Gu,Yongqiang Tian 0001,Chengnian Sun	10.1145/3510003.3510061
+FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation.	Jinhao Dong,Yiling Lou,Qihao Zhu,Zeyu Sun 0004,Zhilin Li,Wenjie Zhang,Dan Hao 0001	10.1145/3510003.3510069
+Windranger: A Directed Greybox Fuzzer driven by Deviation Basic Blocks.	Zhengjie Du,Yuekang Li,Yang Liu 0003,Bing Mao	10.1145/3510003.3510197
+Causality in Configurable Software Systems.	Clemens Dubslaff,Kallistos Weis,Christel Baier,Sven Apel	10.1145/3510003.3510200
+Message from the ICSE 2022 General Chair.	Matthew B. Dwyer	
+Quantifying Permissiveness of Access Control Policies.	William Eiers,Ganesh Sankaran,Albert Li,Emily O&apos;Mahony,Benjamin Prince,Tevfik Bultan	10.1145/3510003.3510233
+Hashing It Out: A Survey of Programmers&apos; Cannabis Usage, Perception, and Motivation.	Madeline Endres,Kevin Boehnke,Westley Weimer	10.1145/3510003.3510156
+Automated Handling of Anaphoric Ambiguity in Requirements: A Multi-solution Study.	Saad Ezzini,Sallam Abualhaija,Chetan Arora 0002,Mehrdad Sabetzadeh	10.1145/3510003.3510157
+&quot;This Is Damn Slick!&quot; Estimating the Impact of Tweets on Open Source Project Popularity and New Contributors.	Hongbo Fang,Hemank Lamba,James D. Herbsleb,Bogdan Vasilescu	10.1145/3510003.3510121
+Use of Test Doubles in Android Testing: An In-Depth Investigation.	Mattia Fazzini,Chase Choi,Juan Manuel Copia,Gabriel Lee,Yoshiki Kakehi,Alessandra Gorla,Alessandro Orso	10.1145/3510003.3510175
+GIFdroid: Automated Replay of Visual Bug Reports for Android Apps.	Sidong Feng,Chunyang Chen	10.1145/3510003.3510048
+Automated Detection of Password Leakage from Public GitHub Repositories.	Runhan Feng,Ziyang Yan,Shiyan Peng,Yuanyuan Zhang 0002	10.1145/3510003.3510150
+Diversity-Driven Automated Formal Verification.	Emily First,Yuriy Brun	10.1145/3510003.3510138
+Retrieving Data Constraint Implementations Using Fine-Grained Code Patterns.	Juan Manuel Florez,Jonathan Perry,Shiyi Wei,Andrian Marcus	10.1145/3510003.3510167
+Lessons from Eight Years of Operational Data from a Continuous Integration Service: An Exploratory Case Study of CircleCI.	Keheliya Gallaba,Maxime Lamothe,Shane McIntosh	10.1145/3510003.3510211
+Adaptive Test Selection for Deep Neural Networks.	Xinyu Gao,Yang Feng 0003,Yining Yin,Zixi Liu,Zhenyu Chen 0001,Baowen Xu	10.1145/3510003.3510232
+REFTY: Refinement Types for Valid Deep Learning Models.	Yanjie Gao,Zhengxian Li,Haoxiang Lin,Hongyu Zhang 0002,Ming Wu,Mao Yang	10.1145/3510003.3510077
+Fairneuron: Improving Deep Neural Network Fairness with Adversary Games on Selective Neurons.	Xuanqi Gao,Juan Zhai,Shiqing Ma,Chao Shen 0001,Yufei Chen 0001,Qian Wang 0002	10.1145/3510003.3510087
+Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts.	Péter Garamvölgyi,Yuxi Liu,Dong Zhou,Fan Long,Ming Wu 0007	10.1145/3510003.3510086
+Green AI: Do Deep Learning Frameworks Have Different Costs?	Stefanos Georgiou,Maria Kechagia,Tushar Sharma 0001,Federica Sarro,Ying Zou 0001	10.1145/3510003.3510221
+Inference and Test Generation Using Program Invariants in Chemical Reaction Networks.	Michael C. Gerten,Alexis L. Marsh,James I. Lathrop,Myra B. Cohen,Andrew S. Miner,Titus H. Klinge	10.1145/3510003.3510176
+PROPR: Property-Based Automatic Program Repair.	Matthías Páll Gissurarson,Leonhard Applis,Annibale Panichella,Arie van Deursen,David Sands 0001	10.1145/3510003.3510620
+Big Data = Big Insights? Operationalising Brooks&apos; Law in a Massive GitHub Data Set.	Christoph Gote,Pavlin Mavrodiev,Frank Schweitzer,Ingo Scholtes	10.1145/3510003.3510619
+GraphFuzz: Library API Fuzzing with Lifetime-aware Dataflow Graphs.	Harrison Green,Thanassis Avgerinos	10.1145/3510003.3510228
+What Makes Effective Leadership in Agile Software Development Teams?	Lucas Gren,Paul Ralph	10.1145/3510003.3510100
+Muffin: Testing Deep Learning Libraries via Neural Architecture Fuzzing.	Jiazhen Gu,Xuchuan Luo,Yangfan Zhou,Xin Wang 0002	10.1145/3510003.3510092
+Precise Divide-By-Zero Detection with Affirmative Evidence.	Yiyuan Guo,Jinguo Zhou,Peisen Yao,Qingkai Shi,Charles Zhang	10.1145/3510003.3510066
+Control Parameters Considered Harmful: Detecting Range Specification Bugs in Drone Configuration Modules via Learning-Guided Search.	Ruidong Han,Chao Yang,Siqi Ma,JiangFeng Ma,Cong Sun 0001,Juanru Li,Elisa Bertino	10.1145/3510003.3510084
+Demystifying the Dependency Challenge in Kernel Fuzzing.	Yu Hao 0006,Hang Zhang 0012,Guoren Li,Xingyun Du,Zhiyun Qian,Ardalan Amiri Sani	10.1145/3510003.3510126
+Efficient Online Testing for DNN-Enabled Systems using Surrogate-Assisted and Many-Objective Optimization.	Fitash Ul Haq,Donghwan Shin 0001,Lionel C. Briand	10.1145/3510003.3510188
+EREBA: Black-box Energy Testing of Adaptive Neural Networks.	Mirazul Haque,Yaswanth Yadlapalli,Wei Yang 0013,Cong Liu 0005	10.1145/3510003.3510088
+DeepSTL - From English Requirements to Signal Temporal Logic.	Jie He,Ezio Bartocci,Dejan Nickovic,Haris Isakovic,Radu Grosu	10.1145/3510003.3510171
+Multi-Intention-Aware Configuration Selection for Performance Tuning.	Haochen He,Zhouyang Jia,Shanshan Li 0001,Yue Yu 0001,Chenglong Zhou,Qing Liao 0001,Ji Wang 0001,Xiangke Liao	10.1145/3510003.3510094
+PerfSig: Extracting Performance Bug Signatures via Multi-modality Causal Analysis.	Jingzhu He,Yuhang Lin,Xiaohui Gu,Chin-Chia Michael Yeh,Zhongfang Zhuang	10.1145/3510003.3510110
+Large-scale Security Measurements on the Android Firmware Ecosystem.	Qinsheng Hou,Wenrui Diao,Yanhao Wang,Xiaofeng Liu,Song Liu,Lingyun Ying,Shanqing Guo,Yuanzhi Li,Meining Nie,Haixin Duan	10.1145/3510003.3510072
+If a Human Can See It, So Should Your System: Reliability Requirements for Machine Vision Components.	Boyue Caroline Hu,Lina Marsso,Krzysztof Czarnecki 0001,Rick Salay,Huakun Shen,Marsha Chechik	10.1145/3510003.3510109
+Practitioners&apos; Expectations on Automated Code Comment Generation.	Xing Hu 0008,Xin Xia 0001,David Lo 0001,Zhiyuan Wan,Qiuyuan Chen,Thomas Zimmermann 0001	10.1145/3510003.3510152
+ARCLIN: Automated API Mention Resolution for Unformatted Texts.	Yintong Huo,Yuxin Su 0001,Hongming Zhang,Michael R. Lyu	10.1145/3510003.3510158
+CodeFill: Multi-token Code Completion by Jointly learning from Structure and Naming Sequences.	Maliheh Izadi,Roberta Gismondi,Georgios Gousios	10.1145/3510003.3510172
+Jigsaw: Large Language Models meet Program Synthesis.	Naman Jain,Skanda Vaidyanath,Arun Shankar Iyer,Nagarajan Natarajan,Suresh Parthasarathy,Sriram K. Rajamani,Rahul Sharma 0001	10.1145/3510003.3510203
+Hiding Critical Program Components via Ambiguous Translation.	Chijung Jung,Doowon Kim,An Chen,Weihang Wang 0001,Yunhui Zheng,Kyu Hyung Lee,Yonghwi Kwon 0001	10.1145/3510003.3510139
+Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?	Hong Jin Kang,Khai Loong Aw,David Lo 0001	10.1145/3510003.3510214
+Prioritizing Mutants to Guide Mutation Testing.	Samuel J. Kaufman,Ryan Featherman,Justin Alvin,Bob Kurtz,Paul Ammann,René Just	10.1145/3510003.3510187
+Inferring and Applying Type Changes.	Ameya Ketkar,Oleg Smirnov,Nikolaos Tsantalis,Danny Dig,Timofey Bryksin	10.1145/3510003.3510115
+Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques.	Zanis Ali Khan,Donghwan Shin 0001,Domenico Bianculli,Lionel C. Briand	10.1145/3510003.3510101
+Learning to Reduce False Positives in Analytic Bug Detectors.	Anant Kharkar,Roshanak Zilouchian Moghaddam,Matthew Jin,Xiaoyu Liu,Xin Shi,Colin B. Clement,Neel Sundaresan	10.1145/3510003.3510153
+Learning Probabilistic Models for Static Analysis Alarms.	Hyunsu Kim,Mukund Raghothaman,Kihong Heo	10.1145/3510003.3510098
+DeepStability: A Study of Unstable Numerical Methods and Their Solutions in Deep Learning.	Eliska Kloberdanz,Kyle G. Kloberdanz,Wei Le	10.1145/3510003.3510095
+CONFETTI: Amplifying Concolic Guidance for Fuzzers.	James Kukucka,Luís Pina,Paul Ammann,Jonathan Bell 0001	10.1145/3510003.3510628
+Log-based Anomaly Detection with Deep Learning: How Far Are We?	Van-Hoang Le,Hongyu Zhang 0002	10.1145/3510003.3510155
+NPEX: Repairing Java Null Pointer Exceptions without Tests.	Junhee Lee,Seongjoon Hong,Hakjoo Oh	10.1145/3510003.3510186
+Push-Button Synthesis of Watch Companions for Android Apps.	Cong Li,Yanyan Jiang 0001,Chang Xu 0001	10.1145/3510003.3510056
+DEAR: A Novel Deep Learning-based Approach for Automated Program Repair.	Yi Li,Shaohua Wang 0002,Tien N. Nguyen	10.1145/3510003.3510177
+Repairing Order-Dependent Flaky Tests via Test Generation.	Chengpeng Li,Chenguang Zhu 0002,Wenxi Wang,August Shi	10.1145/3510003.3510173
+Unleashing the Power of Compiler Intermediate Representation to Enhance Neural Program Embeddings.	Zongjie Li,Pingchuan Ma 0004,Huaijin Wang,Shuai Wang 0011,Qiyi Tang 0003,Sen Nie,Shi Wu	10.1145/3510003.3510217
+RoPGen: Towards Robust Code Authorship Attribution via Automatic Coding Style Transformation.	Zhen Li,Qian (Guenevere) Chen,Chen Chen,Yayi Zou,Shouhuai Xu	10.1145/3510003.3510181
+Training Data Debugging for the Fairness of Machine Learning Software.	Yanhui Li,Linghan Meng,Lin Chen 0015,Li Yu 0008,Di Wu 0014,Yuming Zhou,Baowen Xu	10.1145/3510003.3510091
+$\mu AFL$: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware.	Wenqiang Li,Jiameng Shi,Fengjun Li,Jingqiang Lin,Wei Wang 0314,Le Guan	10.1145/3510003.3510208
+Nufix: Escape From NuGet Dependency Maze.	Zhenming Li,Ying Wang 0038,Zeqi Lin,Shing-Chi Cheung,Jian-Guang Lou	10.1145/3510003.3510118
+OJXPERF: Featherlight Object Replica Detection for Java Programs.	Bolun Li,Hao Xu,Qidong Zhao,Pengfei Su 0001,Milind Chabbi,Shuyin Jiao,Xu Liu 0001	10.1145/3510003.3510083
+Towards Practical Robustness Analysis for DNNs based on PAC-Model Learning.	Renjue Li,Pengfei Yang,Cheng-Chao Huang,Youcheng Sun,Bai Xue 0001,Lijun Zhang 0001	10.1145/3510003.3510143
+Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries.	Xinyu Liu,Qi Zhou 0010,Joy Arulraj,Alessandro Orso	10.1145/3510003.3510093
+Demystifying the Vulnerability Propagation and Its Evolution via Dependency Trees in the NPM Ecosystem.	Chengwei Liu,Sen Chen,Lingling Fan 0003,Bihuan Chen 0001,Yang Liu 0003,Xin Peng 0001	10.1145/3510003.3510142
+DeepState: Selecting Test Suites to Enhance the Robustness of Recurrent Neural Networks.	Zixi Liu,Yang Feng 0003,Yining Yin,Zhenyu Chen 0001	10.1145/3510003.3510231
+Generating and Visualizing Trace Link Explanations.	Yalin Liu,Jinfeng Lin,Oghenemaro Anuyah,Ronald A. Metoyer,Jane Cleland-Huang	10.1145/3510003.3510129
+Morest: Model-based RESTful API Testing with Execution Feedback.	Yi Liu,Yuekang Li,Gelei Deng,Yang Liu 0003,Ruiyuan Wan,Runchao Wu,Dandan Ji,Shiheng Xu,Minli Bao	10.1145/3510003.3510133
+Learning to Recommend Method Names with Global Context.	Fang Liu 0032,Ge Li 0001,Zhiyi Fu,Shuai Lu,Yiyang Hao,Zhi Jin	10.1145/3510003.3510154
+PUS: A Fast and Highly Efficient Solver for Inclusion-based Pointer Analysis.	Peiming Liu,Yanze Li,Bradley Swain,Jeff Huang 0001	10.1145/3510003.3510075
+PROMAL: Precise Window Transition Graphs for Android via Synergy of Program Analysis and Machine Learning.	Changlin Liu,Hanlin Wang,Tianming Liu,Diandian Gu,Yun Ma 0003,Haoyu Wang 0001,Xusheng Xiao	10.1145/3510003.3510037
+Social Science Theories in Software Engineering Research.	Tobias Lorey,Paul Ralph,Michael Felderer	10.1145/3510003.3510076
+Using Deep Learning to Generate Complete Log Statements.	Antonio Mastropaolo,Luca Pascarella,Gabriele Bavota	10.1145/3510003.3511561
+Imperative versus Declarative Collection Processing: An RCT on the Understandability of Traditional Loops versus the Stream API in Java.	Nils Mehlhorn,Stefan Hanenberg	10.1145/3510003.3519016
+Linear-time Temporal Logic guided Greybox Fuzzing.	Ruijie Meng,Zhen Dong,Jialin Li 0001,Ivan Beschastnikh,Abhik Roychoudhury	10.1145/3510003.3510082
+Improving Fault Localization and Program Repair with Deep Semantic Features and Transferred Knowledge.	Xiangxin Meng,Xu Wang 0007,Hongyu Zhang 0002,Hailong Sun 0001,Xudong Liu 0001	10.1145/3510003.3510147
+&quot;Did You Miss My Comment or What?&quot; Understanding Toxicity in Open Source Discussions.	Courtney Miller,Sophie Cohen,Daniel Klug,Bogdan Vasilescu,Christian Kästner	10.1145/3510003.3510111
+Type4Py: Practical Deep Similarity Learning-Based Type Inference for Python.	Amir M. Mir,Evaldas Latoskinas,Sebastian Proksch,Georgios Gousios	10.1145/3510003.3510124
+Fuzzing Class Specifications.	Facundo Molina,Marcelo d&apos;Amorim,Nazareno Aguirre	10.1145/3510003.3510120
+A Grounded Theory Based Approach to Characterize Software Attack Surfaces.	Sara Moshtari,Ahmet Okutan,Mehdi Mirakhorli	10.1145/3510003.3510210
+Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process.	Nadia Nahar,Shurui Zhou,Grace A. Lewis,Christian Kästner	10.1145/3510003.3510209
+Analyzing User Perspectives on Mobile App Privacy at Scale.	Preksha Nema,Pauline Anthonysamy,Nina Taft,Sai Teja Peddinti	10.1145/3510003.3510079
+BEDIVFUZZ: Integrating Behavioral Diversity into Generator-based Fuzzing.	Hoang Lam Nguyen,Lars Grunske	10.1145/3510003.3510182
+Manas: Mining Software Repositories to Assist AutoML.	Giang Nguyen,Md Johirul Islam,Rangeet Pan,Hridesh Rajan	10.1145/3510003.3510052
+SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations.	Changan Niu,Chuanyi Li,Vincent Ng 0001,Jidong Ge,Liguo Huang,Bin Luo 0003	10.1145/3510003.3510096
+Trust Enhancement Issues in Program Repair.	Yannic Noller,Ridwan Shariffdeen,Xiang Gao 0012,Abhik Roychoudhury	10.1145/3510003.3510040
+Towards language-independent Brown Build Detection.	Doriane Olewicki,Mathieu Nayrolles,Bram Adams	10.1145/3510003.3510122
+Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules.	Rangeet Pan,Hridesh Rajan	10.1145/3510003.3510051
+Nalin: learning from Runtime Behavior to Find Name-Value Inconsistencies in Jupyter Notebooks.	Jibesh Patra,Michael Pradel	10.1145/3510003.3510144
+SugarC: Scalable Desugaring of Real-World Preprocessor Usage into Pure C.	Zach Patterson,Zenong Zhang,Brent Pappas,Shiyi Wei,Paul Gazzillo	10.1145/3510003.3512763
+Static Inference Meets Deep learning: A Hybrid Type Inference Approach for Python.	Yun Peng,Cuiyun Gao,Zongjie Li,Bowei Gao,David Lo 0001,Qirun Zhang,Michael R. Lyu	10.1145/3510003.3510038
+On the Benefits and Limits of Incremental Build of Software Configurations: An Exploratory Study.	Georges Aaron Randrianaina,Xhevahire Tërnava,Djamel Eddine Khelladi,Mathieu Acher	10.1145/3510003.3510190
+The Extent of Orphan Vulnerabilities from Code Reuse in Open Source Software.	David Reid,Mahmoud Jahanshahi,Audris Mockus	10.1145/3510003.3510216
+Automated Patching for Unreproducible Builds.	Zhilei Ren,Shiwei Sun,Jifeng Xuan,Xiaochen Li,Zhide Zhou,He Jiang 0001	10.1145/3510003.3510102
+Modeling Review History for Reviewer Recommendation: A Hypergraph Approach.	Guoping Rong,Yifan Zhang,Lanxin Yang,Fuli Zhang,Hongyu Kuang,He Zhang 0001	10.1145/3510003.3510213
+An Exploratory Study of Productivity Perceptions in Software Teams.	Anastasia Ruvimova,Alexander Lill,Jan Gugler,Lauren C. Howe,Elaine Huang,Gail C. Murphy,Thomas Fritz 0001	10.1145/3510003.3510081
+PREACH: A Heuristic for Probabilistic Reachability to Identify Hard to Reach Statements.	Seemanta Saha,Mara Downing,Tegan Brennan,Tevfik Bultan	10.1145/3510003.3510227
+SAPIENTML: Synthesizing Machine Learning Pipelines by Learning from Human-Written Solutions.	Ripon K. Saha,Akira Ura,Sonal Mahajan,Chenguang Zhu 0002,Linyi Li,Yang Hu,Hiroaki Yoshida,Sarfraz Khurshid,Mukul R. Prasad	10.1145/3510003.3510226
+Difuzer: Uncovering Suspicious Hidden Sensitive Operations in Android Apps.	Jordan Samhi,Li Li 0029,Tegawendé F. Bissyandé,Jacques Klein	10.1145/3510003.3510135
+JuCify: A Step Towards Android Code Unification for Enhanced Static Analysis.	Jordan Samhi,Jun Gao 0001,Nadia Daoudi,Pierre Graux,Henri Hoyez,Xiaoyu Sun,Kevin Allix,Tegawendé F. Bissyandé,Jacques Klein	10.1145/3510003.3512766
+A Grounded Theory of Coordination in Remote-First and Hybrid Software Teams.	Ronnie Edson de Souza Santos,Paul Ralph	10.1145/3510003.3510105
+ExAIS: Executable AI Semantics.	Richard Schumi,Jun Sun 0001	10.1145/3510003.3510112
+Practical Automated Detection of Malicious npm Packages.	Adriana Sejfia,Max Schäfer	10.1145/3510003.3510104
+DeepAnalyze: Learning to Localize Crashes at Scale.	Manish Shetty,Chetan Bansal,Suman Nath,Sean Bowles,Henry Wang,Ozgur Arman,Siamak Ahari	10.1145/3510003.3512759
+BugListener: Identifying and Synthesizing Bug Reports from Collaborative Live Chats.	Lin Shi 0006,Fangwen Mu,Yumin Zhang,Ye Yang,Junjie Chen,Xiao Chen 0015,Hanzhi Jiang,Ziyou Jiang,Qing Wang 0001	10.1145/3510003.3510108
+On the Evaluation of Neural Code Summarization.	Ensheng Shi,Yanlin Wang 0001,Lun Du,Junjie Chen 0003,Shi Han,Hongyu Zhang 0002,Dongmei Zhang 0001,Hongbin Sun 0001	10.1145/3510003.3510060
+GitHub Sponsors: Exploring a New Way to Contribute to Open Source.	Naomichi Shimada,Tao Xiao,Hideaki Hata,Christoph Treude,Kenichi Matsumoto	10.1145/3510003.3510116
+Change Is the Only Constant: Dynamic Updates for Workflows.	Daniel Sokolowski,Pascal Weisenburger,Guido Salvaneschi	10.1145/3510003.3510065
+R2Z2: Detecting Rendering Regressions in Web Browsers through Differential Fuzz Testing.	Suhwan Song,Jaewon Hur,Sunwoo Kim,Philip Rogers,Byoungyoung Lee	10.1145/3510003.3510044
+Static Stack-Preserving Intra-Procedural Slicing of WebAssembly Binaries.	Quentin Stiévenart,David W. Binkley,Coen De Roover	10.1145/3510003.3510070
+Causality-Based Neural Network Repair.	Bing Sun,Jun Sun 0001,Long H. Pham,Tie Shi	10.1145/3510003.3510080
+Code Search based on Context-aware Code Translation.	Weisong Sun,Chunrong Fang,Yuchen Chen,Guanhong Tao,Tingxu Han,Quanjun Zhang	10.1145/3510003.3510140
+On the Importance of Building High-quality Training Datasets for Neural Code Search.	Zhensu Sun,Li Li 0008,Yan Liu,Xiaoning Du 0001,Li Li 0029	10.1145/3510003.3510160
+An Exploratory Study of Deep learning Supply Chain.	Xin Tan,Kai Gao,Minghui Zhou 0001,Li Zhang	10.1145/3510003.3510199
+AST-Trans: Code Summarization with Efficient Tree-Structured Attention.	Ze Tang,Xiaoyu Shen,Chuanyi Li,Jidong Ge,Liguo Huang,Zheling Zhu,Bin Luo 0003	10.1145/3510003.3510224
+AutoTransform: Automated Code Transformation to Support Modern Code Review Process.	Patanamon Thongtanunam,Chanathip Pornprasit,Chakkrit Tantithamthavorn	10.1145/3510003.3510067
+What Makes a Good Commit Message?	Yingchen Tian,Yuxia Zhang,Klaas-Jan Stol,Lin Jiang,Hui Liu 0003	10.1145/3510003.3510205
+Fairness-aware Configuration of Machine Learning Libraries.	Saeid Tizpaz-Niari,Ashish Kumar,Gang Tan,Ashutosh Trivedi 0001	10.1145/3510003.3510202
+Using Pre-Trained Models to Boost Code Review Automation.	Rosalia Tufano,Simone Masiero,Antonio Mastropaolo,Luca Pascarella,Denys Poshyvanyk,Gabriele Bavota	10.1145/3510003.3510621
+Using Reinforcement Learning for Load Testing of Video Games.	Rosalia Tufano,Simone Scalabrino,Luca Pascarella,Emad Aghajani,Rocco Oliveto,Gabriele Bavota	10.1145/3510003.3510625
+DrAsync: Identifying and Visualizing Anti-Patterns in Asynchronous JavaScript.	Alexi Turcotte,Michael D. Shah,Mark W. Aldrich,Frank Tip	10.1145/3510003.3510097
+Domain-Specific Analysis of Mobile App Reviews Using Keyword-Assisted Topic Models.	Miroslav Tushev,Fahimeh Ebrahimi,Anas Mahmoud	10.1145/3510003.3510201
+Striking a Balance: Pruning False-Positives from Static Call Graphs.	Akshay Utture,Shuyang Liu,Christian Gram Kalhauge,Jens Palsberg	10.1145/3510003.3510166
+Fast and Precise Application Code Analysis using a Partial Library.	Akshay Utture,Jens Palsberg	10.1145/3510003.3510046
+On Debugging the Performance of Configurable Software Systems: Developer Needs and Tailored Tool Support.	Miguel Velez,Pooyan Jamshidi,Norbert Siegmund,Sven Apel,Christian Kästner	10.1145/3510003.3510043
+Automated Testing of Software that Uses Machine Learning APIs.	Chengcheng Wan,Shicheng Liu,Sophie Xie,Yifan Liu,Henry Hoffmann,Michael Maire,Shan Lu 0001	10.1145/3510003.3510068
+What Do They Capture? - A Structural Analysis of Pre-Trained Language Models for Source Code.	Yao Wan 0001,Wei Zhao,Hongyu Zhang 0002,Yulei Sui,Guandong Xu,Hai Jin 0001	10.1145/3510003.3510050
+Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding.	Deze Wang,Zhouyang Jia,Shanshan Li 0001,Yue Yu 0001,Yun Xiong,Wei Dong 0006,Xiangke Liao	10.1145/3510003.3510062
+EAGLE: Creating Equivalent Graphs to Test Deep Learning Libraries.	Jiannan Wang,Thibaud Lutellier,Shangshu Qian,Hung Viet Pham,Lin Tan 0001	10.1145/3510003.3510165
+Where is Your App Frustrating Users?	Yawen Wang,Junjie Wang 0001,Hongyu Zhang,Xuran Ming,Lin Shi 0006,Qing Wang 0001	10.1145/3510003.3510189
+APER: Evolution-Aware Runtime Permission Misuse Detection for Android Apps.	Sinan Wang,Yibo Wang,Xian Zhan,Ying Wang 0038,Yepang Liu 0001,Xiapu Luo,Shing-Chi Cheung	10.1145/3510003.3510074
+Characterizing and Detecting Bugs in WeChat Mini-Programs.	Tao Wang 0030,Qingxin Xu,Xiaoning Chang,Wensheng Dou,Jiaxin Zhu,Jinhui Xie,Yuetang Deng,Jianbo Yang,Jiaheng Yang,Jun Wei 0001,Tao Huang 0001	10.1145/3510003.3510114
+DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs.	Mohammad Wardat,Breno Dantas Cruz,Wei Le,Hridesh Rajan	10.1145/3510003.3510071
+Free Lunch for Testing: Fuzzing Deep-Learning Libraries from Open Source.	Anjiang Wei,Yinlin Deng,Chenyuan Yang,Lingming Zhang 0001	10.1145/3510003.3510041
+CLEAR: Contrastive Learning for API Recommendation.	Moshi Wei,Nima Shiri Harzevili,Yuchao Huang,Junjie Wang 0001,Song Wang 0009	10.1145/3510003.3510159
+Preempting Flaky Tests via Non-Idempotent-Outcome Tests.	Anjiang Wei,Pu Yi,Zhengxi Li,Tao Xie 0001,Darko Marinov,Wing Lam	10.1145/3510003.3510170
+Controlled Concurrency Testing via Periodical Scheduling.	Cheng Wen,Mengda He,Bohao Wu,Zhiwu Xu 0001,Shengchao Qin	10.1145/3510003.3510178
+Bots for Pull Requests: The Good, the Bad, and the Promising.	Mairieli Santos Wessel,Ahmad Abdellatif,Igor Wiese,Tayana Conte,Emad Shihab,Marco Aurélio Gerosa,Igor Steinmacher	10.1145/3510003.3512765
+Repairing Brain-Computer Interfaces with Fault-Based Data Acquisition.	Cailin Winston,Caleb Winston,Chloe N. Winston,Claris Winston,Cleah Winston,Rajesh P. N. Rao,René Just	10.1145/3510003.3512764
+Semantic Image Fuzzing of AI Perception Systems.	Trey Woodlief,Sebastian G. Elbaum,Kevin Sullivan	10.1145/3510003.3510212
+FADATest: Fast and Adaptive Performance Regression Testing of Dynamic Binary Translation Systems.	Jin Wu,Jian Dong,Ruili Fang,Wen Zhang,Wenwen Wang 0001,Decheng Zuo	10.1145/3510003.3510169
+One Fuzzing Strategy to Rule Them All.	Mingyuan Wu,Ling Jiang,Jiahong Xiang,Yanwei Huang,Heming Cui,Lingming Zhang 0001,Yuqun Zhang	10.1145/3510003.3510174
+Evaluating and Improving Neural Program-Smoothing-based Fuzzing.	Mingyuan Wu,Ling Jiang,Jiahong Xiang,Yuqun Zhang,Guowei Yang 0001,Huixin Ma,Sen Nie,Shi Wu,Heming Cui,Lingming Zhang 0001	10.1145/3510003.3510089
+Combinatorial Testing of RESTful APIs.	Huayao Wu,Lixin Xu,Xintao Niu,Changhai Nie	10.1145/3510003.3510151
+VulCNN: An Image-inspired Scalable Vulnerability Detection System.	Yueming Wu,Deqing Zou,Shihan Dou,Wei Yang 0013,Duo Xu,Hai Jin 0001	10.1145/3510003.3510229
+What the Fork? Finding Hidden Code Clones in npm.	Elizabeth Wyss,Lorenzo De Carli,Drew Davidson	10.1145/3510003.3510168
+Search-based Diverse Sampling from Real-world Software Product Lines.	Yi Xiang,Han Huang 0002,Yuren Zhou,Sizhe Li,Chuan Luo,Qingwei Lin,Miqing Li,Xiaowei Yang	10.1145/3510003.3510053
+Recommending Good First Issues in GitHub OSS Projects.	Wenxin Xiao,Hao He,Weiwei Xu,Xin Tan,Jinhao Dong,Minghui Zhou 0001	10.1145/3510003.3510196
+A Universal Data Augmentation Approach for Fault Localization.	Huan Xie,Yan Lei,Meng Yan 0001,Yue Yu 0001,Xin Xia 0001,Xiaoguang Mao	10.1145/3510003.3510136
+Data-Driven Loop Bound Learning for Termination Analysis.	Rongchen Xu,Jianhui Chen,Fei He 0001	10.1145/3510003.3510220
+Demystifying Android Non-SDK APls: Measurement and Understanding.	Shishuai Yang,Rui Li,Jiongyi Chen,Wenrui Diao,Shanqing Guo	10.1145/3510003.3510045
+Natural Attack for Pre-trained Models of Code.	Zhou Yang 0003,Jieke Shi,Junda He,David Lo 0001	10.1145/3510003.3510146
+DescribeCtx: Context-Aware Description Synthesis for Sensitive Behaviors in Mobile Apps.	Shao Yang,Yuehan Wang,Yuan Yao 0001,Haoyu Wang 0001,Yanfang (Fanny) Ye,Xusheng Xiao	10.1145/3510003.3510058
+ModX: Binary Level Partially Imported Third-Party Library Detection via Program Modularization and Semantic Matching.	Can Yang,Zhengzi Xu,Hongxu Chen,Yang Liu 0003,Xiaorui Gong,Baoxu Liu	10.1145/3510003.3510627
+Knowledge-Based Environment Dependency Inference for Python Programs.	Hongjie Ye,Wei Chen 0018,Wensheng Dou,Guoquan Wu,Jun Wei 0001	10.1145/3510003.3510127
+Neural Program Repair with Execution-based Backpropagation.	He Ye,Matias Martinez,Martin Monperrus	10.1145/3510003.3510222
+Automated Assertion Generation via Information Retrieval and Its Integration with Deep learning.	Hao Yu,Yiling Lou,Ke Sun,Dezhi Ran,Tao Xie 0001,Dan Hao 0001,Ying Li,Ge Li 0001,Qianxiang Wang	10.1145/3510003.3510149
+Fault Localization via Efficient Probabilistic Modeling of Program Semantics.	Muhan Zeng,Yiqian Wu,Zhentao Ye,Yingfei Xiong 0001,Xin Zhang,Lu Zhang 0023	10.1145/3510003.3510073
+Buildsheriff: Change-Aware Test Failure Triage for Continuous Integration Builds.	Chen Zhang,Bihuan Chen 0001,Xin Peng 0001,Wenyun Zhao	10.1145/3510003.3510132
+DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning.	Chenxi Zhang,Xin Peng 0001,Chaofeng Sha,Ke Zhang,Zhenqing Fu,Xiya Wu,Qingwei Lin,Dongmei Zhang 0001	10.1145/3510003.3510180
+Default: Mutual Information-based Crash Triage for Massive Crashes.	Xing Zhang,Jiongyi Chen,Chao Feng,Ruilin Li,Wenrui Diao,Kehuan Zhang,Jing Lei 0001,Chaojing Tang	10.1145/3510003.3512760
+Towards Bidirectional Live Programming for Incomplete Programs.	Xing Zhang,Zhenjiang Hu	10.1145/3510003.3510195
+ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion.	Neng Zhang 0001,Chao Liu 0014,Xin Xia 0001,Christoph Treude,Ying Zou 0001,David Lo 0001,Zibin Zheng	10.1145/3510003.3510131
+ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing.	Ziqi Zhang,Yuanchun Li,Jindong Wang 0001,Bingyan Liu,Ding Li 0001,Yao Guo 0001,Xiangqun Chen,Yunxin Liu	10.1145/3510003.3510191
+Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States.	Kunpeng Zhang,Xi Xiao,Xiaogang Zhu,Ruoxi Sun,Minhui Xue,Sheng Wen	10.1145/3510003.3510063
+Towards Automatically Repairing Compatibility Issues in Published Android Apps.	Yanjie Zhao,Li Li 0029,Kui Liu 0001,John C. Grundy	10.1145/3510003.3510128
+History-Driven Test Program Synthesis for JVM Testing.	Yingquan Zhao,Zan Wang,Junjie Chen 0003,Mengdi Liu,Mingyuan Wu,Yuqun Zhang,Lingming Zhang 0001	10.1145/3510003.3510059
+NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification.	Haibin Zheng,Zhiqing Chen,Tianyu Du,Xuhong Zhang 0002,Yao Cheng,Shouling Ji,Jingyi Wang 0004,Yue Yu 0001,Jinyin Chen	10.1145/3510003.3510123
+Learning and Programming Challenges of Rust: A Mixed-Methods Study.	Shuofei Zhu,Ziyi Zhang,Boqin Qin,Aiping Xiong,Linhai Song	10.1145/3510003.3510164
+44th IEEE/ACM 44th International Conference on Software Engineering, ICSE 2022, Pittsburgh, PA, USA, May 25-27, 2022		10.1145/3510003

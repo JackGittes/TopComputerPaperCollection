@@ -1,0 +1,63 @@
+Accurate and Efficient Hyperbolic Tangent Activation Function on FPGA using the DCT Interpolation Filter (Abstract Only).	Ahmed M. Abdelsalam,J. M. Pierre Langlois,Farida Cheriet	
+Stochastic-Based Multi-stage Streaming Realization of a Deep Convolutional Neural Network (Abstract Only).	Mohammed Alawad,Mingjie Lin	
+An OpenCL™ Deep Learning Accelerator on Arria 10.	Utku Aydonat,Shane O&apos;Connell,Davor Capalija,Andrew C. Ling,Gordon R. Chiu	
+120-core microAptiv MIPS Overlay for the Terasic DE5-NET FPGA board.	Chethan Kumar H. B,Prashant Ravi,Gourav Modi,Nachiket Kapre	
+ASAP: Accelerated Short Read Alignment on Programmable Hardware (Abstract Only).	Subho S. Banerjee,Mohamed El-Hadedy 0001,Jong Bin Lim,Daniel Chen 0001,Zbigniew T. Kalbarczyk,Deming Chen,Ravishankar K. Iyer	
+Automatic Generation of Hardware Sandboxes for Trojan Mitigation in Systems on Chip (Abstract Only).	Christophe Bobda,Taylor J. L. Whitaker,Charles A. Kamhoua,Kevin A. Kwiat,Laurent Njilla	
+Cache Timing Attacks from The SoCFPGA Coherency Port (Abstract Only).	Sumanta Chaudhuri	
+CPU-FPGA Co-Optimization for Big Data Applications: A Case Study of In-Memory Samtool Sorting (Abstract Only).	Jason Cong,Zhenman Fang,Muhuan Huang,Libo Wang,Di Wu 0010	
+FPGAs in the Cloud.	George A. Constantinides	
+ForeGraph: Exploring Large-scale Graph Processing on Multi-FPGA Architecture.	Guohao Dai,Tianhao Huang,Yuze Chi,Ningyi Xu,Yu Wang 0002,Huazhong Yang	
+Dynamic Hazard Resolution for Pipelining Irregular Loops in High-Level Synthesis.	Steve Dai,Ritchie Zhao,Gai Liu,Shreesha Srinath,Udit Gupta,Christopher Batten,Zhiru Zhang	
+Thermal Flattening in 3D FPGAs Using Embedded Cooling (Abstract Only).	Girish Deshpande,Dinesh K. Bhatia	
+Secure Function Evaluation Using an FPGA Overlay Architecture.	Xin Fang 0001,Stratis Ioannidis,Miriam Leeser	
+Accelerating Financial Market Server through Hybrid List Design (Abstract Only).	Haohuan Fu,Conghui He,Huabin Ruan,Itay Greenspon,Wayne Luk,Yongkang Zheng,Junfeng Liao,Qing Zhang,Guangwen Yang	
+Quality-Time Tradeoffs in Component-Specific Mapping: How to Train Your Dynamically Reconfigurable Array of Gates with Outrageous Network-delays.	Hans Giesen,Raphael Rubin,Benjamin Gojman,André DeHon	
+A Machine Learning Framework for FPGA Placement (Abstract Only).	Gary William Grewal,Shawki Areibi,Matthew Westrik,Ziad Abuowaimer,Betty Zhao	
+ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA.	Song Han 0003,Junlong Kang,Huizi Mao,Yiming Hu,Xin Li,Yubin Li,Dongliang Xie,Hong Luo,Song Yao,Yu Wang 0002,Huazhong Yang,William (Bill) J. Dally	
+FPGA Acceleration for Computational Glass-Free Displays.	Zhuolun He,Guojie Luo	
+Hardware Acceleration of the Pair-HMM Algorithm for DNA Variant Calling.	Sitao Huang,Gowthami Jayashri Manikandan,Anand Ramachandran,Kyle Rupnow,Wen-mei W. Hwu,Deming Chen	
+NAND-NOR: A Compact, Fast, and Delay Balanced FPGA Logic Element.	Zhihong Huang,Xing Wei,Grace Zgheib,Wei Li,Yu Lin,Zhenghong Jiang,Kaihui Tu,Paolo Ienne,Haigang Yang	
+Towards Efficient Design Space Exploration of FPGA-based Accelerators for Streaming HPC Applications (Abstract Only).	Mostafa Koraei,Magnus Jahre,S. Omid Fatemi	
+A 7.663-TOPS 8.2-W Energy-efficient FPGA Accelerator for Binary Convolutional Neural Networks (Abstract Only).	Yixing Li,Zichuan Liu,Kai Xu 0007,Hao Yu 0001,Fengbo Ren	
+The Role of FPGAs in Deep Learning.	Andrew Ling,Jason Anderson	
+Scala Based FPGA Design Flow (Abstract Only).	Yanqiang Liu,Yao Li 0004,Weilun Xiong,Meng Lai,Cheng Chen,Zhengwei Qi,Haibing Guan	
+A Parallelized Iterative Improvement Approach to Area Optimization for LUT-Based Technology Mapping.	Gai Liu,Zhiru Zhang	
+An Energy-Efficient Design-Time Scheduler for FPGAs Leveraging Dynamic Frequency Scaling Emulation (Abstract Only).	Wei Ting Loke,Chin Yang Koay	
+RxRE: Throughput Optimization for High-Level Synthesis using Resource-Aware Regularity Extraction (Abstract Only).	Atieh Lotfi,Rajesh K. Gupta 0001	
+Joint Modulo Scheduling and Memory Partitioning with Multi-Bank Memory for High-Level Synthesis (Abstract Only).	Tianyi Lu,Shouyi Yin,Xianqing Yao,Zhicong Xie,Leibo Liu,Shaojun Wei	
+An FPGA Overlay Architecture for Cost Effective Regular Expression Search (Abstract Only).	Thomas Luinaud,Yvon Savaria,J. M. Pierre Langlois	
+Optimizing Loop Operation and Dataflow in FPGA Acceleration of Deep Convolutional Neural Networks.	Yufei Ma 0002,Yu Cao 0001,Sarma B. K. Vrudhula,Jae-sun Seo	
+FPGA-Accelerated Transactional Execution of Graph Workloads.	Xiaoyu Ma,Dan Zhang 0004,Derek Chiou	
+Dynamic Partitioning for Library based Placement on Heterogeneous FPGAs (Abstract Only).	Fubing Mao,Wei Zhang 0012,Bingsheng He,SiewKei Lam	
+A Batch Normalization Free Binarized Convolutional Deep Neural Network on an FPGA (Abstract Only).	Hiroki Nakahara,Haruyoshi Yonekawa,Hisashi Iwamoto,Masato Motomura	
+Can FPGAs Beat GPUs in Accelerating Next-Generation Deep Neural Networks?	Eriko Nurvitadhi,Ganesh Venkatesh,Jaewoong Sim,Debbie Marr,Randy Huang,Jason Ong Gee Hock,Yeong Tat Liew,Krishnan Srivatsan,Duncan J. M. Moss,Suchit Subhaschandra,Guy Boudoukh	
+FPGA-based Hardware Accelerator for Image Reconstruction in Magnetic Resonance Imaging (Abstract Only).	Emanuele Pezzotti,Alex Iacobucci,Gregory Nash,Umer I. Cheema,Paolo Vinella,Rashid Ansari	
+Hardware Synthesis of Weakly Consistent C Concurrency.	Nadesh Ramanathan,Shane T. Fleming,John Wickerson,George A. Constantinides	
+Synchronization Constraints for Interconnect Synthesis.	Alex Rodionov,Jonathan Rose	
+Packet Matching on FPGAs Using HMC Memory: Towards One Million Rules.	Daniel Rozhko,Geoffrey Elliott,Daniel Ly-Ma,Paul Chow,Hans-Arno Jacobsen	
+Precise Coincidence Detection on FPGAs: Three Case Studies (Abstract Only).	Ralf Salomon,Ralf Joost	
+Storage-Efficient Batching for Minimizing Bandwidth of Fully-Connected Neural Network Layers (Abstract Only).	Yongming Shen 0001,Michael Ferdman,Peter A. Milder	
+Corolla: GPU-Accelerated FPGA Routing Based on Subgraph Dynamic Expansion.	Minghua Shen,Guojie Luo	
+FPGA Implementation of Non-Uniform DFT for Accelerating Wireless Channel Simulations (Abstract Only).	Srinivas Siripurapu,Aman Gayasen,Padmini Gopalakrishnan,Nitin Chandrachoodan	
+OLAF&apos;17: Third International Workshop on Overlay Architectures for FPGAs.	Hayden Kwok-Hay So,John Wawrzynek	
+Accelerating Face Detection on Programmable SoC Using C-Based Synthesis.	Nitish Kumar Srivastava,Steve Dai,Rajit Manohar,Zhiru Zhang	
+Enabling Flexible Network FPGA Clusters in a Heterogeneous Cloud Data Center.	Naif Tarafdar,Thomas Lin,Eric Fukuda,Hadi Bannazadeh,Alberto Leon-Garcia,Paul Chow	
+FINN: A Framework for Fast, Scalable Binarized Neural Network Inference.	Yaman Umuroglu,Nicholas J. Fraser,Giulio Gambardella,Michaela Blott,Philip Heng Wai Leong,Magnus Jahre,Kees A. Vissers	
+fpgaConvNet: Automated Mapping of Convolutional Neural Networks on FPGAs (Abstract Only).	Stylianos I. Venieris,Christos-Savvas Bouganis	
+A Framework for Iterative Stencil Algorithm Synthesis on FPGAs from OpenCL Programming Model (Abstract Only).	Shuo Wang 0009,Yun Liang 0001	
+Energy Efficient Scientific Computing on FPGAs using OpenCL.	Dennis Weller,Fabian Oboril,Dimitar Lukarski,Jürgen Becker 0001,Mehdi Baradaran Tahoori	
+GRT 2.0: An FPGA-based SDR Platform for Cognitive Radio Networks (Abstract Only).	Haoyang Wu,Tao Wang 0004,Zhiwei Li,Boyan Ding,Xiaoguang Li,Tianfu Jiang,Jun Liu 0063,Songwu Lu	
+A Parallel Bandit-Based Approach for Autotuning FPGA Compilation.	Chang Xu 0005,Gai Liu,Ritchie Zhao,Stephen Yang,Guojie Luo,Zhiru Zhang	
+Automatic Construction of Program-Optimized FPGA Memory Networks.	Hsin-Jung Yang,Kermin Fleming,Felix Winterstein,Annie I. Chen,Michael Adler,Joel S. Emer	
+Don&apos;t Forget the Memory: Automatic Block RAM Modelling, Optimization, and Architecture Exploration.	Sadegh Yazdanshenas,Kosuke Tatsumura,Vaughn Betz	
+Measuring the Power-Constrained Performance and Energy Gap between FPGAs and Processors (Abstract Only).	Andy Gean Ye,Karthik Ganesan 0002	
+Learning Convolutional Neural Networks for Data-Flow Graph Mapping on Spatial Programmable Architectures (Abstract Only).	Shouyi Yin,Dajiang Liu,Lifeng Sun,Xinhan Lin,Leibo Liu,Shaojun Wei	
+A Mixed-Signal Data-Centric Reconfigurable Architecture enabled by RRAM Technology (Abstract Only).	Yue Zha,Jialiang Zhang,Zhiqiang Wei,Jing Li 0073	
+Boosting the Performance of FPGA-based Graph Processor using Hybrid Memory Cube: A Case for Breadth First Search.	Jialiang Zhang,Soroosh Khoram,Jing Li 0073	
+Improving the Performance of OpenCL-based FPGA Accelerator for Convolutional Neural Network.	Jialiang Zhang,Jing Li	
+Frequency Domain Acceleration of Convolutional Neural Networks on CPU-FPGA Shared Memory System.	Chi Zhang 0022,Viktor K. Prasanna	
+Using Vivado-HLS for Structural Design: a NoC Case Study (Abstract Only).	Zhipeng Zhao,James C. Hoe	
+Accelerating Binarized Convolutional Neural Networks with Software-Programmable FPGAs.	Ritchie Zhao,Weinan Song,Wentao Zhang,Tianwei Xing,Jeng-Hau Lin,Mani B. Srivastava,Rajesh Gupta 0001,Zhiru Zhang	
+A New Approach to Automatic Memory Banking using Trace-Based Address Mining.	Yuan Zhou,Khalid Musa Al-Hawaj,Zhiru Zhang	
+Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA 2017, Monterey, CA, USA, February 22-24, 2017	Jonathan W. Greene,Jason Helge Anderson	10.1145/3020078

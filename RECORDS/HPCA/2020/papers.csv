@@ -1,0 +1,55 @@
+Leaking Information Through Cache LRU States.	Wenjie Xiong 0001,Jakub Szefer	10.1109/HPCA47549.2020.00021
+Communication Lower Bound in Convolution Accelerators.	Xiaoming Chen 0003,Yinhe Han 0001,Yu Wang 0002	10.1109/HPCA47549.2020.00050
+DRAM-Less: Hardware Acceleration of Data Processing with New Memory.	Jie Zhang 0048,Gyuyoung Park,David Donofrio,John Shalf,Myoungsoo Jung	10.1109/HPCA47549.2020.00032
+ACR: Amnesic Checkpointing and Recovery.	Ismail Akturk,Ulya R. Karpuzcu	10.1109/HPCA47549.2020.00013
+Delay and Bypass: Ready and Criticality Aware Instruction Scheduling in Out-of-Order Processors.	Mehdi Alipour,Stefanos Kaxiras,David Black-Schaffer,Rakesh Kumar 0003	10.1109/HPCA47549.2020.00042
+ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator.	Bahar Asgari,Ramyad Hadidi,Tushar Krishna,Hyesoon Kim,Sudhakar Yalamanchili	10.1109/HPCA47549.2020.00029
+Improving Predication Efficiency through Compaction/Restoration of SIMD Instructions.	Adrián Barredo,Juan M. Cebrian,Miquel Moretó,Marc Casas,Mateo Valero	10.1109/HPCA47549.2020.00064
+Griffin: Hardware-Software Support for Efficient Page Migration in Multi-GPU Systems.	Trinayan Baruah,Yifan Sun 0002,Ali Tolga Dinçer,Saiful A. Mojumder,José L. Abellán,Yash Ukidave,Ajay Joshi,Norman Rubin,John Kim,David R. Kaeli	10.1109/HPCA47549.2020.00055
+Multi-Range Supported Oblivious RAM for Efficient Block Data Retrieval.	Yuezhi Che,Rujia Wang	10.1109/HPCA47549.2020.00038
+DWT: Decoupled Workload Tracing for Data Centers.	Jian Chen,Ying Zhang,Xiaowei Jiang,Li Zhao,Zheng Cao,Qiang Liu	10.1109/HPCA47549.2020.00061
+PREMA: A Predictive Multi-Task Scheduling Algorithm For Preemptible Neural Processing Units.	Yujeong Choi,Minsoo Rhu	10.1109/HPCA47549.2020.00027
+EFLOPS: Algorithm and System Co-Design for a High Performance Distributed Training Platform.	Jianbo Dong,Zheng Cao,Tao Zhang,Jianxi Ye,Shaochuang Wang,Fei Feng,Li Zhao,Xiaoyong Liu,Liuyihan Song,Liwei Peng,Yiqun Guo,Xiaowei Jiang,Lingbo Tang,Yin Du,Yingya Zhang,Pan Pan,Yuan Xie	10.1109/HPCA47549.2020.00056
+Domain-Specialized Cache Management for Graph Analytics.	Priyank Faldu,Jeff Diamond,Boris Grot	10.1109/HPCA47549.2020.00028
+The Architectural Implications of Facebook&apos;s DNN-Based Personalized Recommendation.	Udit Gupta,Carole-Jean Wu,Xiaodong Wang 0020,Maxim Naumov,Brandon Reagen,David Brooks 0001,Bradford Cottel,Kim M. Hazelwood,Mark Hempstead,Bill Jia,Hsien-Hsin S. Lee,Andrey Malevich,Dheevatsa Mudigere,Mikhail Smelyanskiy,Liang Xiong,Xuan Zhang 0001	10.1109/HPCA47549.2020.00047
+Techniques for Reducing the Connected-Standby Energy Consumption of Mobile Devices.	Jawad Haj-Yahya,Yanos Sazeides,Mohammed Alser,Efraim Rotem,Onur Mutlu	10.1109/HPCA47549.2020.00057
+A3: Accelerating Attention Mechanisms in Neural Networks with Approximation.	Tae Jun Ham,Sungjun Jung,Seonghak Kim,Young H. Oh,Yeonhong Park,Yoonho Song,Jung-Hun Park,Sanghee Lee,Kyoung Park,Jae W. Lee,Deog-Kyoon Jeong	10.1109/HPCA47549.2020.00035
+Deep Learning Acceleration with Neuron-to-Memory Transformation.	Mohsen Imani,Mohammad Samragh Razlighi,Yeseong Kim,Saransh Gupta,Farinaz Koushanfar,Tajana Rosing	10.1109/HPCA47549.2020.00011
+CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows.	Ipoom Jeong,Seihoon Park,Changmin Lee 0002,Won Woo Ro	10.1109/HPCA47549.2020.00039
+Baldur: A Power-Efficient and Scalable Network Using All-Optical Switches.	Mohammad Reza Jokar,Junyi Qiu,Frederic T. Chong,Lynford L. Goddard,John M. Dallesasse,Milton Feng,Yanjing Li	10.1109/HPCA47549.2020.00022
+BCoal: Bucketing-Based Memory Coalescing for Efficient and Secure GPUs.	Gurunath Kadam,Danfeng Zhang,Adwait Jog	10.1109/HPCA47549.2020.00053
+Charge-Aware DRAM Refresh Reduction with Value Transformation.	Seikwon Kim,Wonsang Kwak,Changdae Kim,Daehyeon Baek,Jaehyuk Huh	10.1109/HPCA47549.2020.00060
+FLOWER and FaME: A Low Overhead Bit-Level Fault-map and Fault-Tolerance Approach for Deeply Scaled Memories.	Donald Kline Jr.,Jiangwei Zhang,Rami G. Melhem,Alex K. Jones	10.1109/HPCA47549.2020.00037
+NVDIMM-C: A Byte-Addressable Non-Volatile Memory Module for Compatibility with Standard DDR Memory Interfaces.	Changmin Lee 0004,Wonjae Shin,Dae Jeong Kim,Yongjun Yu,Sung-Joon Kim,Taekyeong Ko,Deokho Seo,Jongmin Park,Kwanghee Lee,Seongho Choi 0002,Namhyung Kim,Vishak G,Arun George,Vishwas V,Donghun Lee 0001,Kang-Woo Choi,Changbin Song,Dohan Kim 0003,Insu Choi,Ilgyu Jung,Yong Ho Song,Jinman Han	10.1109/HPCA47549.2020.00048
+Asymmetric Resilience: Exploiting Task-Level Idempotency for Transient Error Recovery in Accelerator-Based Systems.	Jingwen Leng,Alper Buyuktosunoglu,Ramon Bertran,Pradip Bose,Quan Chen 0002,Minyi Guo,Vijay Janapa Reddi	10.1109/HPCA47549.2020.00014
+Fulcrum: A Simplified Control and Access Mechanism Toward Flexible and Practical In-Situ Accelerators.	Marzieh Lenjani,Patricia Gonzalez-Guerrero,Elaheh Sadredini,Shuangchen Li,Yuan Xie 0001,Ameen Akel,Sean Eilert,Mircea R. Stan,Kevin Skadron	10.1109/HPCA47549.2020.00052
+EquiNox: Equivalent NoC Injection Routers for Silicon Interposer-Based Throughput Processors.	Yunfan Li 0002,Lizhong Chen	10.1109/HPCA47549.2020.00043
+A Deep Reinforcement Learning Framework for Architectural Exploration: A Routerless NoC Case Study.	Ting-Ru Lin,Drew Penney,Massoud Pedram,Lizhong Chen	10.1109/HPCA47549.2020.00018
+Q-Zilla: A Scheduling Framework and Core Microarchitecture for Tail-Tolerant Microservices.	Amirhossein Mirhosseini,Brendan L. West,Geoffrey W. Blake,Thomas F. Wenisch	10.1109/HPCA47549.2020.00026
+Precise Runahead Execution.	Ajeya Naithani,Josué Feliu,Almutaz Adileh,Lieven Eeckhout	10.1109/HPCA47549.2020.00040
+Twig: Multi-Agent Task Management for Colocated Latency-Critical Cloud Services.	Rajiv Nishtala,Vinicius Petrucci,Paul M. Carpenter,Magnus Själander	10.1109/HPCA47549.2020.00023
+IRONHIDE: A Secure Multicore that Efficiently Mitigates Microarchitecture State Attacks for Interactive Applications.	Hamza Omar,Omer Khan	10.1109/HPCA47549.2020.00019
+DRAIN: Deadlock Removal for Arbitrary Irregular Networks.	Mayank Parasar,Hossein Farrokhbakht,Natalie D. Enright Jerger,Paul V. Gratz,Tushar Krishna,Joshua San Miguel	10.1109/HPCA47549.2020.00044
+CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers.	Tirthak Patel,Devesh Tiwari	10.1109/HPCA47549.2020.00025
+QuickNN: Memory and Performance Optimization of k-d Tree Based Nearest Neighbor Search for 3D Point Clouds.	Reid Pinkham,Shuqing Zeng,Zhengya Zhang	10.1109/HPCA47549.2020.00024
+SIGMA: A Sparse and Irregular GEMM Accelerator with Flexible Interconnects for DNN Training.	Eric Qin 0001,Ananda Samajdar,Hyoukjun Kwon,Vineet Nadella,Sudarshan Srinivasan,Dipankar Das 0002,Bharat Kaul,Tushar Krishna	10.1109/HPCA47549.2020.00015
+ResiRCA: A Resilient Energy Harvesting ReRAM Crossbar-Based Accelerator for Intelligent Embedded Processors.	Keni Qiu,Nicholas Jao,Mengying Zhao,Cyan Subhra Mishra,Gulsum Gudukbay,Sethu Jose,Jack Sampson,Mahmut Taylan Kandemir,Vijaykrishnan Narayanan	10.1109/HPCA47549.2020.00034
+HMG: Extending Cache Coherence Protocols Across Modern Hierarchical Multi-GPU Systems.	Xiaowei Ren,Daniel Lustig,Evgeny Bolotin,Aamer Jaleel,Oreste Villa,David W. Nellans	10.1109/HPCA47549.2020.00054
+Missing the Forest for the Trees: End-to-End AI Application Performance in Edge Data Centers.	Daniel Richins,Dharmisha Doshi,Matthew Blackmore,Aswathy Thulaseedharan Nair,Neha Pathapati,Ankit Patel,Brainard Daguman,Daniel Dobrijalowski,Ramesh Illikkal,Kevin Long,David Zimmerman,Vijay Janapa Reddi	10.1109/HPCA47549.2020.00049
+Impala: Algorithm/Architecture Co-Design for In-Memory Multi-Stride Pattern Matching.	Elaheh Sadredini,Reza Rahimi,Marzieh Lenjani,Mircea Stan,Kevin Skadron	10.1109/HPCA47549.2020.00017
+SnackNoC: Processing in the Communication Layer.	Karthik Sangaiah,Michael Lui,Ragh Kuttappa,Baris Taskin,Mark Hempstead	10.1109/HPCA47549.2020.00045
+EMSim: A Microarchitecture-Level Simulation Tool for Modeling Electromagnetic Side-Channel Signals.	Nader Sehatbakhsh,Baki Berkay Yilmaz,Alenka G. Zajic,Milos Prvulovic	10.1109/HPCA47549.2020.00016
+A New Side-Channel Vulnerability on Modern Computers by Exploiting Electromagnetic Emanations from the Power Management Unit.	Nader Sehatbakhsh,Baki Berkay Yilmaz,Alenka G. Zajic,Milos Prvulovic	10.1109/HPCA47549.2020.00020
+PIXEL: Photonic Neural Network Accelerator.	Kyle Shiflett,Dylan Wright,Avinash Karanth,Ahmed Louri	10.1109/HPCA47549.2020.00046
+AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators.	Linghao Song,Fan Chen 0001,Youwei Zhuo,Xuehai Qian,Hai Li 0001,Yiran Chen 0001	10.1109/HPCA47549.2020.00036
+Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computations.	Nitish Kumar Srivastava,Hanchen Jin,Shaden Smith,Hongbo Rong,David H. Albonesi,Zhiru Zhang	10.1109/HPCA47549.2020.00062
+Hybrid2: Combining Caching and Migration in Hybrid Memory Systems.	Evangelos Vasilakis,Vassilis Papaefstathiou,Pedro Trancoso,Ioannis Sourdis	10.1109/HPCA47549.2020.00059
+A Hybrid Systolic-Dataflow Architecture for Inductive Matrix Algorithms.	Jian Weng 0002,Sihao Liu,Zhengrong Wang,Vidushi Dadu,Tony Nowatzki	10.1109/HPCA47549.2020.00063
+ELP2IM: Efficient and Low Power Bitwise Operation Processing in DRAM.	Xin Xin,Youtao Zhang,Jun Yang 0002	10.1109/HPCA47549.2020.00033
+HyGCN: A GCN Accelerator with Hybrid Architecture.	Mingyu Yan,Lei Deng 0003,Xing Hu 0001,Ling Liang,Yujing Feng,Xiaochun Ye,Zhimin Zhang 0004,Dongrui Fan,Yuan Xie 0001	10.1109/HPCA47549.2020.00012
+Experiences with ML-Driven Design: A NoC Case Study.	Jieming Yin,Subhash Sethumurugan,Yasuko Eckert,Chintan Patel,Alan Smith,Eric Morton,Mark Oskin,Natalie D. Enright Jerger,Gabriel H. Loh	10.1109/HPCA47549.2020.00058
+SpArch: Efficient Architecture for Sparse Matrix Multiplication.	Zhekai Zhang,Hanrui Wang 0002,Song Han 0003,William J. Dally	10.1109/HPCA47549.2020.00030
+Enabling Highly Efficient Capsule Networks Processing Through A PIM-Based Architecture Design.	Xingyao Zhang,Shuaiwen Leon Song,Chenhao Xie 0001,Jing Wang 0055,Weigong Zhang,Xin Fu	10.1109/HPCA47549.2020.00051
+BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set.	Liang Zhu,Chao Chen 0022,Zihao Su,Weiguang Chen,Tao Li 0006,Zhibin Yu 0001	10.1109/HPCA47549.2020.00041
+Mitigating Voltage Drop in Resistive Memories by Dynamic RESET Voltage Regulation and Partition RESET.	Farzaneh Zokaee,Lei Jiang 0001	10.1109/HPCA47549.2020.00031
+IEEE International Symposium on High Performance Computer Architecture, HPCA 2020, San Diego, CA, USA, February 22-26, 2020		

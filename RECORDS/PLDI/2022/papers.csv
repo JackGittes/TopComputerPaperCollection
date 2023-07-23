@@ -1,0 +1,69 @@
+Semantic soundness for language interoperability.	Daniel Patterson 0001,Noble Mushtak,Andrew Wagner,Amal Ahmed 0001	10.1145/3519939.3523703
+PyLSE: a pulse-transfer level language for superconductor electronics.	Michael Christensen 0001,Georgios Tzimpragos,Harlan Kringen,Jennifer Volk,Timothy Sherwood,Ben Hardekopf	10.1145/3519939.3523438
+Kleene algebra modulo theories: a framework for concrete KATs.	Michael Greenberg 0002,Ryan Beckett,Eric Hayden Campbell	10.1145/3519939.3523722
+Finding the dwarf: recovering precise types from WebAssembly binaries.	Daniel Lehmann 0002,Michael Pradel	10.1145/3519939.3523449
+Progressive polynomial approximations for fast correctly rounded math libraries.	Mridul Aanjaneya,Jay P. Lim,Santosh Nagarakatte	10.1145/3519939.3523447
+Efficient approximations for cache-conscious data placement.	Ali Ahmadi,Majid Daliri,Amir Kafshdar Goharshady,Andreas Pavlogiannis	10.1145/3519939.3523436
+Autoscheduling for sparse tensor algebra with an asymptotic cost model.	Peter Ahrens,Fredrik Kjolstad,Saman P. Amarasinghe	10.1145/3519939.3523442
+Turning manual concurrent memory reclamation into automatic reference counting.	Daniel Anderson,Guy E. Blelloch,Yuanhao Wei	10.1145/3519939.3523730
+&quot;Synthesizing input grammars&quot;: a replication study.	Bachir Bendrissou,Rahul Gopinath,Andreas Zeller	10.1145/3519939.3523716
+Guaranteed bounds for posterior inference in universal probabilistic programming.	Raven Beutner,C.-H. Luke Ong,Fabian Zaiser	10.1145/3519939.3523721
+Choosing mathematical function implementations for speed and accuracy.	Ian Briggs,Pavel Panchekha	10.1145/3519939.3523452
+Abstract interpretation repair.	Roberto Bruni,Roberto Giacobazzi,Roberta Gori,Francesco Ranzato	10.1145/3519939.3523453
+A study of real-world data races in Golang.	Milind Chabbi,Murali Krishna Ramanathan	10.1145/3519939.3523720
+Finding typing compiler bugs.	Stefanos Chaliasos,Thodoris Sotiropoulos,Diomidis Spinellis,Arthur Gervais,Benjamin Livshits,Dimitris Mitropoulos	10.1145/3519939.3523427
+All you need is superword-level parallelism: systematic control-flow vectorization with SLP.	Yishen Chen,Charith Mendis,Saman P. Amarasinghe	10.1145/3519939.3523701
+Visualization question answering using introspective program synthesis.	Yanju Chen,Xifeng Yan,Yu Feng 0001	10.1145/3519939.3523709
+Sequential reasoning for optimizing compilers under weak memory concurrency.	Minki Cho,Sung-Hwan Lee 0001,Dongjae Lee,Chung-Kil Hur,Ori Lahav	10.1145/3519939.3523718
+Can reactive synthesis and syntax-guided synthesis be friends?	Wonhyuk Choi,Bernd Finkbeiner,Ruzica Piskac,Mark Santolucito	10.1145/3519939.3523429
+Modular information flow through ownership.	Will Crichton,Marco Patrignani,Maneesh Agrawala,Pat Hanrahan	10.1145/3519939.3523445
+Compass: strong and compositional library specifications in relaxed memory separation logic.	Hoang-Hai Dang,Jaehwang Jung,Jaemin Choi,Duc-Than Nguyen,William Mansky,Jeehoon Kang,Derek Dreyer	10.1145/3519939.3523451
+PaC-trees: supporting parallel and compressed purely-functional collections.	Laxman Dhulipala,Guy E. Blelloch,Yan Gu 0001,Yihan Sun 0001	10.1145/3519939.3523733
+Leapfrog: certified equivalence for protocol parsers.	Ryan Doenges,Tobias Kappé,John Sarracino,Nate Foster,Greg Morrisett	10.1145/3519939.3523715
+WebRobot: web robotic process automation using interactive programming-by-demonstration.	Rui Dong,Zhicheng Huang,Ian Iong Lam,Yan Chen 0033,Xinyu Wang	10.1145/3519939.3523711
+Sound sequentialization for concurrent program verification.	Azadeh Farzan,Dominik Klumpp,Andreas Podelski	10.1145/3519939.3523727
+Recursion synthesis with unrealizability witnesses.	Azadeh Farzan,Danya Lette,Victor Nicolet	10.1145/3519939.3523726
+IRDL: an IR definition language for SSA compilers.	Mathieu Fehr,Jeff Niu,River Riddle,Mehdi Amini,Zhendong Su 0001,Tobias Grosser	10.1145/3519939.3523700
+Deoptless: speculation with dispatched on-stack replacement and specialized continuations.	Olivier Flückiger,Jan Jecmen,Sebastián Krynski,Jan Vitek	10.1145/3519939.3523729
+Checking robustness to weak persistency models.	Hamed Gorjiara,Weiyu Luo,Alex Lee,Guoqing Harry Xu,Brian Demsky	10.1145/3519939.3523723
+Deep and shallow types for gradual languages.	Ben Greenman	10.1145/3519939.3523430
+P4BID: information flow control in p4.	Karuna Grewal,Loris D&apos;Antoni,Justin Hsu	10.1145/3519939.3523717
+Type-directed program synthesis for RESTful APIs.	Zheng Guo,David Cao,Davin Tjong,Jean Yang 0001,Cole Schlesinger,Nadia Polikarpova	10.1145/3519939.3523450
+ANOSY: approximated knowledge synthesis with refinement types for declassification.	Sankha Narayan Guria,Niki Vazou,Marco Guarnieri,James Parker	10.1145/3519939.3523725
+Adore: atomic distributed objects with certified reconfiguration.	Wolf Honoré,Ji-Yong Shin,Jieung Kim,Zhong Shao	10.1145/3519939.3523444
+Hamband: RDMA replicated data types.	Farzin Houshmand,Javad Saberlatibari,Mohsen Lesani	10.1145/3519939.3523426
+Exocompilation for productive programming of hardware accelerators.	Yuka Ikarashi,Gilbert Louis Bernstein,Alex Reinking,Hasan Genc,Jonathan Ragan-Kelley	10.1145/3519939.3523446
+CycleQ: an efficient basis for cyclic equational reasoning.	Eddie Jones,C.-H. Luke Ong,Steven J. Ramsay	10.1145/3519939.3523731
+RunTime-assisted convergence in replicated data types.	Gowtham Kaki,Prasanth Prahladan,Nicholas V. Lewchenko	10.1145/3519939.3523724
+Software-hardware codesign for efficient in-memory regular pattern matching.	Lingkun Kong,Qixuan Yu,Agnishom Chattopadhyay,Alexis Le Glaunec,Yi Huang,Konstantinos Mamouras,Kaiyuan Yang 0001	10.1145/3519939.3523456
+WARio: efficient code generation for intermittent computing.	Vito Kortbeek,Souradip Ghosh,Josiah D. Hester,Simone Campanoni,Przemyslaw Pawelczak	10.1145/3519939.3523454
+Mako: a low-pause, high-throughput evacuating collector for memory-disaggregated datacenters.	Haoran Ma,Shi Liu,Chenxi Wang,Yifan Qiao,Michael D. Bond,Stephen M. Blackburn,Miryung Kim,Guoqing Harry Xu	10.1145/3519939.3523441
+RustHornBelt: a semantic foundation for functional verification of Rust programs with unsafe code.	Yusuke Matsushita 0002,Xavier Denis,Jacques-Henri Jourdan,Derek Dreyer	10.1145/3519939.3523704
+A flexible type system for fearless concurrency.	Mae Milano,Joshua Turcotti,Andrew C. Myers	10.1145/3519939.3523443
+Warping cache simulation of polyhedral programs.	Canberk Morelli,Jan Reineke 0001	10.1145/3519939.3523714
+Diaframe: automated verification of fine-grained concurrent programs in Iris.	Ike Mulder,Robbert Krebbers,Herman Geuvers	10.1145/3519939.3523432
+Quickstrom: property-based acceptance testing with LTL specifications.	Liam O&apos;Connor,Oskar Wickström	10.1145/3519939.3523728
+Computing correctly with inductive relations.	Zoe Paraskevopoulou,Aaron Eline,Leonidas Lampropoulos	10.1145/3519939.3523707
+Landmarks and regions: a robust approach to data extraction.	Suresh Parthasarathy,Lincy Pattanaik,Anirudh Khatry,Arun Shankar Iyer,Arjun Radhakrishna,Sriram K. Rajamani,Mohammad Raza	10.1145/3519939.3523705
+Algebraic reasoning of Quantum programs via non-idempotent Kleene algebra.	Yuxiang Peng,Mingsheng Ying,Xiaodi Wu	10.1145/3519939.3523713
+Relational compilation for performance-critical applications: extensible proof-producing translation of functional models into low-level code.	Clément Pit-Claudel,Jade Philipoom,Dustin Jamner,Andres Erbsen,Adam Chlipala	10.1145/3519939.3523706
+Interpreter-guided differential JIT compiler unit testing.	Guillermo Polito,Stéphane Ducasse,Pablo Tesone	10.1145/3519939.3523457
+Lasagne: a static binary translator for weak memory model architectures.	Rodrigo C. O. Rocha,Dennis Sprokholt,Martin Fink 0003,Redha Gouicem,Tom Spink,Soham Chakraborty 0001,Pramod Bhatotia	10.1145/3519939.3523719
+Islaris: verification of machine code against authoritative ISA semantics.	Michael Sammler,Angus Hammond,Rodolphe Lepigre,Brian Campbell 0001,Jean Pichon-Pharabod,Derek Dreyer,Deepak Garg 0001,Peter Sewell	10.1145/3519939.3523434
+A typed continuation-passing translation for lexical effect handlers.	Philipp Schuster,Jonathan Immanuel Brachthäuser,Marius Müller 0003,Klaus Ostermann	10.1145/3519939.3523710
+Certified mergeable replicated data types.	Vimala Soundarapandian,Adharsh Kamath,Kartik Nagar,K. C. Sivaramakrishnan	10.1145/3519939.3523735
+Hardening attack surfaces with formally proven binary format parsers.	Nikhil Swamy,Tahina Ramananandro,Aseem Rastogi,Irina Spiridonova,Haobin Ni,Dmitry Malloy,Juan Vazquez,Michael Tang,Omar Cardona,Arti Gupta	10.1145/3519939.3523708
+FreeTensor: a free-form DSL with holistic optimizations for irregular tensor programs.	Shizhi Tang,Jidong Zhai,Haojie Wang,Lin Jiang,Liyan Zheng,Zhenhao Yuan,Chen Zhang	10.1145/3519939.3523448
+Giallar: push-button verification for the qiskit Quantum compiler.	Runzhou Tao,Yunong Shi,Jianan Yao,Xupeng Li,Ali Javadi-Abhari,Andrew W. Cross,Frederic T. Chong,Ronghui Gu	10.1145/3519939.3523431
+Formally verified lifting of C-compiled x86-64 binaries.	Freek Verbeek,Joshua A. Bockenek,Zhoulai Fu,Binoy Ravindran	10.1145/3519939.3523702
+Odin: on-demand instrumentation with on-the-fly recompilation.	Mingzhe Wang,Jie Liang,Chijin Zhou,Zhiyong Wu,Xinyi Xu,Yu Jiang 0001	10.1145/3519939.3523428
+Bind the gap: compiling real software to hardware FFT accelerators.	Jackson Woodruff,Jordi Armengol-Estapé,Sam Ainsworth 0001,Michael F. P. O&apos;Boyle	10.1145/3519939.3523439
+Quartz: superoptimization of Quantum circuits.	Mingkuan Xu,Zikun Li,Oded Padon,Sina Lin,Jessica Pointing,Auguste Hirth,Henry Ma,Jens Palsberg,Alex Aiken,Umut A. Acar,Zhihao Jia	10.1145/3519939.3523433
+DISTAL: the distributed tensor algebra compiler.	Rohan Yadav,Alex Aiken,Fredrik Kjolstad	10.1145/3519939.3523437
+PDL: a high-level hardware design language for pipelined processors.	Drew Zagieboylo,Charles Sherk,Gookwon Edward Suh,Andrew C. Myers	10.1145/3519939.3523455
+Verifying optimizations of concurrent programs in the promising semantics.	Junpeng Zha,Hongjin Liang 0001,Xinyu Feng 0001	10.1145/3519939.3523734
+Karp: a language for NP reductions.	Chenhao Zhang 0003,Jason D. Hartline,Christos Dimoulas	10.1145/3519939.3523732
+Low-latency, high-throughput garbage collection.	Wenyu Zhao,Stephen M. Blackburn,Kathryn S. McKinley	10.1145/3519939.3523440
+Synthesizing analytical SQL queries from computation demonstration.	Xiangyu Zhou,Rastislav Bodík,Alvin Cheung,Chenglong Wang	10.1145/3519939.3523712
+Differential cost analysis with simultaneous potentials and anti-potentials.	Dorde Zikelic,Bor-Yuh Evan Chang,Pauline Bolignano,Franco Raimondi	10.1145/3519939.3523435
+PLDI &apos;22: 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, San Diego, CA, USA, June 13 - 17, 2022	Ranjit Jhala,Isil Dillig	10.1145/3519939

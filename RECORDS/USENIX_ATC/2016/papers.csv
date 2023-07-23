@@ -1,0 +1,59 @@
+Blockstack: A Global Naming and Storage System Secured by Blockchains.	Muneeb Ali,Jude C. Nelson,Ryan Shea,Michael J. Freedman	
+FLICK: Developing and Running Application-Specific Network Services.	Abdul Alim,Richard G. Clegg,Luo Mai,Lukas Rupprecht,Eric Seckler,Paolo Costa,Peter R. Pietzuch,Alexander L. Wolf,Nik Sultana,Jon Crowcroft,Anil Madhavapeddy,Andrew W. Moore 0002,Richard Mortier,Masoud Koleini,Luis Oviedo,Matteo Migliavacca,Derek McAuley	
+Getting Back Up: Understanding How Enterprise Data Backups Fail.	George Amvrosiadis,Medha Bhadkamkar	
+Testing Error Handling Code in Device Drivers Using Characteristic Fault Injection.	Jia-Ju Bai,Yu-Ping Wang 0001,Jie Yin,Shi-Min Hu 0001	
+Horton Tables: Fast Hash Tables for In-Memory Data-Intensive Computing.	Alex D. Breslow,Dong Ping Zhang,Joseph L. Greathouse,Nuwan Jayasena,Dean M. Tullsen	
+Fast and Cautious: Leveraging Multi-path Diversity for Transport Loss Recovery in Data Centers.	Guo Chen 0001,Yuanwei Lu,Yuan Meng,Bojie Li,Kun Tan,Dan Pei,Peng Cheng 0005,Layong Luo,Yongqiang Xiong,Xiaoliang Wang 0001,Youjian Zhao	
+Using Crash Hoare Logic for Certifying the FSCQ File System.	Haogang Chen 0001,Daniel Ziegler 0002,Tej Chajed,Adam Chlipala,M. Frans Kaashoek,Nickolai Zeldovich	
+Erasing Belady&apos;s Limitations: In Search of Flash Cache Offline Optimality.	Yue Cheng 0001,Fred Douglis,Philip Shilane,Grant Wallace,Peter Desnoyers,Kai Li 0001	
+Hardware-Assisted On-Demand Hypervisor Activation for Efficient Security Critical Code Execution on Mobile Devices.	Yeongpil Cho,Jun-Bum Shin,Donghyun Kwon,MyungJoo Ham,Yuna Kim,Yunheung Paek	
+Apps with Hardware: Enabling Run-time Architectural Customization in Smart Phones.	Michael Coughlin,Ali Ismail,Eric Keller	
+COZ: Finding Code that Counts with Causal Profiling.	Charlie Curtsinger,Emery D. Berger	
+Unlocking Energy.	Babak Falsafi,Rachid Guerraoui,Javier Picorel,Vasileios Trigonakis	
+MEANTIME: Achieving Both Minimal Energy and Timeliness with Approximate Computing.	Anne Farrell,Henry Hoffmann	
+Ginseng: Market-Driven LLC Allocation.	Liran Funaro,Orna Agmon Ben-Yehuda,Assaf Schuster	
+Multicore Locks: The Case Is Not Closed Yet.	Hugo Guiroux,Renaud Lachaize,Vivien Quéma	
+An Industrial-Scale Software Defined Internet Exchange Point.	Arpit Gupta,Robert MacDavid,Rüdiger Birkner,Marco Canini,Nick Feamster,Jennifer Rexford,Laurent Vanbever	
+Kinetic Modeling of Data Eviction in Cache.	Xiameng Hu,Xiaolin Wang 0001,Lan Zhou,Yingwei Luo,Chen Ding 0001,Zhenlin Wang	
+An Evolutionary Study of Linux Memory Management for Fun and Profit.	Jian Huang 0006,Moinuddin K. Qureshi,Karsten Schwan	
+SoftFlow: A Middlebox Architecture for Open vSwitch.	Ethan J. Jackson,Melvin Walls,Aurojit Panda,Justin Pettit,Ben Pfaff,Jarno Rajahalme,Teemu Koponen,Scott Shenker	
+Unsafe Time Handling in Smartphones.	Abhilash Jindal,Y. Charlie Hu,Samuel P. Midkiff,Prahlad Joshi	
+Version Traveler: Fast and Memory-Efficient Version Switching in Graph Processing Systems.	Xiaoen Ju,Dan Williams,Hani Jamjoom,Kang G. Shin	
+Design Guidelines for High Performance RDMA Systems.	Anuj Kalia,Michael Kaminsky,David G. Andersen	
+Instant OS Updates via Userspace Checkpoint-and-Restart.	Sanidhya Kashyap,Changwoo Min,Byoungyoung Lee,Taesoo Kim,Pavel Emelyanov 0001	
+SLIK: Scalable Low-Latency Indexes for a Key-Value Store.	Ankita Kejriwal,Arjun Gopalan,Ashish Gupta,Zhihao Jia,Stephen Yang,John K. Ousterhout	
+Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions.	Bryce Kellogg,Vamsi Talla,Shyamnath Gollakota,Joshua R. Smith 0001	
+Subversive-C: Abusing and Protecting Dynamic Message Dispatch.	Julian Lettner,Benjamin Kollenda,Andrei Homescu,Per Larsen,Felix Schuster,Lucas Davi,Ahmad-Reza Sadeghi,Thorsten Holz,Michael Franz	
+Modular Composition of Coordination Services.	Kfir Lev-Ari,Edward Bortnikov,Idit Keidar,Alexander Shraer	
+Greening the Video Transcoding Service with Low-Cost Hardware Transcoders.	Peng Liu 0041,Jongwon Yoon,Lance Johnson,Suman Banerjee 0001	
+Pivot Tracing: Dynamic Causal Monitoring for Distributed Systems.	Jonathan Mace,Ryan Roelke,Rodrigo Fonseca	
+Environmental Conditions and Disk Reliability in Free-cooled Datacenters.	Ioannis Manousakis,Sriram Sankar,Gregg McKnight,Thu D. Nguyen,Ricardo Bianchini	
+Filo: Consolidated Consensus as a Cloud Service.	Parisa Jalili Marandi,Christos Gkantsidis,Flavio Junqueira,Dushyanth Narayanan	
+Understanding Manycore Scalability of File Systems.	Changwoo Min,Sanidhya Kashyap,Steffen Maass,Taesoo Kim	
+Balancing CPU and Network in the Cell Distributed B-Tree Store.	Christopher Mitchell,Kate Montgomery,Lamont Nelson,Siddhartha Sen 0001,Jinyang Li 0001	
+SplitJoin: A Scalable, Low-latency Stream Join Architecture with Adjustable Ordering Precision.	Mohammadreza Najafi,Mohammad Sadoghi,Hans-Arno Jacobsen	
+Callinicos: Robust Transactional Storage for Distributed Data Structures.	Ricardo Padilha,Enrique Fynn,Robert Soulé,Fernando Pedone	
+Tucana: Design and Implementation of a Fast and Efficient Scale-up Key-value Store.	Anastasios Papagiannis,Giorgos Saloustros,Pilar González-Férez,Angelos Bilas	
+PhyCloak: Obfuscating Sensing from Communication Signals.	Yue Qiao,Ouyang Zhang,Wenjie Zhou,Kannan Srinivasan 0001,Anish Arora	
+Under-Constrained Symbolic Execution: Correctness Checking for Real Code.	David A. Ramos,Dawson R. Engler	
+Samsara: Efficient Deterministic Replay in Multiprocessor Environments with Hardware Virtualization Extensions.	Shiru Ren,Le Tan,Chunqi Li,Zhen Xiao,Weijia Song	
+Satellite: Joint Analysis of CDNs and Network-Level Interference.	Will Scott,Thomas E. Anderson,Tadayoshi Kohno,Arvind Krishnamurthy	
+Beam: Ending Monolithic Applications for Connected Devices.	Chenguang Shen,Rayman Preet Singh,Amar Phanishayee,Aman Kansal,Ratul Mahajan	
+Cheap and Available State Machine Replication.	Rong Shi,Yang Wang 0009	
+Coherence Stalls or Latency Tolerance: Informed CPU Scheduling for Socket and Core Sharing.	Sharanyan Srikanthan,Sandhya Dwarkadas,Kai Shen	
+Replex: A Scalable, Highly Available Multi-Index Data Store.	Amy Tai,Michael Wei,Michael J. Freedman,Ittai Abraham,Dahlia Malkhi	
+All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS.	Mathy Vanhoef,Frank Piessens	
+Caching Doesn&apos;t Improve Mobile Web Performance (Much).	Jamshed Vesuna,Colin Scott,Michael Buettner,Michael Piatek,Arvind Krishnamurthy,Scott Shenker	
+Secure and Efficient Application Monitoring and Replication.	Stijn Volckaert,Bart Coppens 0001,Alexios Voulimeneas,Andrei Homescu,Per Larsen,Bjorn De Sutter,Michael Franz	
+Load the Edges You Need: A Generic I/O Optimization for Disk-based Graph Processing.	Keval Vora,Guoqing Xu 0001,Rajiv Gupta 0001	
+A General Persistent Code Caching Framework for Dynamic Binary Translation (DBT).	Wenwen Wang 0001,Pen-Chung Yew,Antonia Zhai,Stephen McCamant	
+Scalable In-Memory Transaction Processing with HTM.	Yingjun Wu,Kian-Lee Tan	
+FastCDC: a Fast and Efficient Content-Defined Chunking Approach for Data Deduplication.	Wen Xia,Yukun Zhou,Hong Jiang 0001,Dan Feng 0001,Yu Hua 0001,Yuchong Hu,Qing Liu 0007,Yucheng Zhang	
+Hyperprobe: Towards Virtual Machine Extrospection.	Jidong Xiao,Lei Lu,Hai Huang 0002,Haining Wang	
+gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space.	Mochi Xue,Kun Tian,Yaozu Dong,Jiacheng Ma,Jiajun Wang,Zhengwei Qi,Bingsheng He,Haibing Guan	
+Elfen Scheduling: Fine-Grain Principled Borrowing from Latency-Critical Workloads Using Simultaneous Multithreading.	Xi Yang 0021,Stephen M. Blackburn,Kathryn S. McKinley	
+StackMap: Low-Latency Networking with the OS Stack and Dedicated NICs.	Kenichi Yasukata,Michio Honda,Douglas Santry,Lars Eggert	
+Optimizing Every Operation in a Write-optimized File System.	Jun Yuan 0006,Yang Zhan 0001,William Jannen,Prashant Pandey 0001,Amogh Akshintala,Kanchan Chandnani,Pooja Deo,Zardosht Kasheff,Leif Walsh,Michael A. Bender,Martin Farach-Colton,Rob Johnson,Bradley C. Kuszmaul,Donald E. Porter	
+ParaFS: A Log-Structured File System to Exploit the Internal Parallelism of Flash Devices.	Jiacheng Zhang,Jiwu Shu,Youyou Lu	
+Energy Discounted Computing on Multicore Smartphones.	Meng Zhu,Kai Shen	
+2016 USENIX Annual Technical Conference, USENIX ATC 2016, Denver, CO, USA, June 22-24, 2016.	Ajay Gulati,Hakim Weatherspoon	

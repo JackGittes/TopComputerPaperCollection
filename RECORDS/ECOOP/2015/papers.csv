@@ -1,0 +1,36 @@
+Hybrid DOM-Sensitive Change Impact Analysis for JavaScript.	Saba Alimadadi,Ali Mesbah 0001,Karthik Pattabiraman	10.4230/LIPICS.ECOOP.2015.321
+Loop Tiling in the Presence of Exceptions.	Abhilash Bhandari,V. Krishna Nandivada	10.4230/LIPICS.ECOOP.2015.124
+Streams a la carte: Extensible Pipelines with Object Algebras.	Aggelos Biboudis,Nick Palladinos,George Fourtounis,Yannis Smaragdakis	10.4230/LIPICS.ECOOP.2015.591
+Modular Verification of Finite Blocking in Non-terminating Programs.	Pontus Boström,Peter Müller 0001	10.4230/LIPICS.ECOOP.2015.639
+Global Sequence Protocol: A Robust Abstraction for Replicated Shared State.	Sebastian Burckhardt,Daan Leijen,Jonathan Protzenko,Manuel Fähndrich	10.4230/LIPICS.ECOOP.2015.568
+Access-rights Analysis in the Presence of Subjects.	Paolina Centonze,Marco Pistoia,Omer Tripp	10.4230/LIPICS.ECOOP.2015.222
+Simple and Effective Type Check Removal through Lazy Basic Block Versioning.	Maxime Chevalier-Boisvert,Marc Feeley	10.4230/LIPICS.ECOOP.2015.101
+Programming in the Large for the Internet of Things (Invited Talk).	Jong-Deok Choi	10.4230/LIPICS.ECOOP.2015.2
+Variability Abstractions: Trading Precision for Speed in Family-Based Analyses.	Aleksandar S. Dimovski,Claus Brabrand,Andrzej Wasowski	10.4230/LIPICS.ECOOP.2015.247
+Defining Correctness Conditions for Concurrent Objects in Multicore Architectures.	Brijesh Dongol,John Derrick,Lindsay Groves,Graeme Smith 0001	10.4230/LIPICS.ECOOP.2015.470
+PerfBlower: Quickly Detecting Memory-Related Performance Problems via Amplification.	Lu Fang,Liang Dou,Guoqing Xu 0001	10.4230/LIPICS.ECOOP.2015.296
+Type Inference for Place-Oblivious Objects.	Riyaz Haque,Jens Palsberg	10.4230/LIPICS.ECOOP.2015.371
+Framework for Static Analysis of PHP Applications.	David Hauzar,Jan Kofron	10.4230/LIPICS.ECOOP.2015.689
+The Eureka Programming Model for Speculative Task Parallelism.	Shams Imam,Vivek Sarkar	10.4230/LIPICS.ECOOP.2015.421
+Modular Termination Verification.	Bart Jacobs 0002,Dragan Bosnacki,Ruurd Kuiper	10.4230/LIPICS.ECOOP.2015.664
+Brand Objects for Nominal Typing.	Timothy Jones 0002,Michael Homer,James Noble 0001	10.4230/LIPICS.ECOOP.2015.198
+Transparent Object Proxies in JavaScript.	Matthias Keil 0002,Sankha Narayan Guria,Andreas Schlegel,Manuel Geffken,Peter Thiemann 0001	10.4230/LIPICS.ECOOP.2015.149
+TreatJS: Higher-Order Contracts for JavaScripts.	Matthias Keil 0002,Peter Thiemann 0001	10.4230/LIPICS.ECOOP.2015.28
+Asynchronous Liquid Separation Types.	Johannes Kloos,Rupak Majumdar,Viktor Vafeiadis	10.4230/LIPICS.ECOOP.2015.396
+A Theory of Tagged Objects.	Joseph Lee,Jonathan Aldrich,Troy Shaw,Alex Potanin	10.4230/LIPICS.ECOOP.2015.174
+Intensional Effect Polymorphism.	Yuheng Long,Yu David Liu,Hridesh Rajan	10.4230/LIPICS.ECOOP.2015.346
+The Love/Hate Relationship with the C Preprocessor: An Interview Study.	Flávio Medeiros,Christian Kästner,Márcio Ribeiro 0001,Sarah Nadi,Rohit Gheyi	10.4230/LIPICS.ECOOP.2015.495
+Scalable and Precise Static Analysis of JavaScript Applications via Loop-Sensitivity.	Changhee Park,Sukyoung Ryu	10.4230/LIPICS.ECOOP.2015.735
+Cooking the Books: Formalizing JMM Implementation Recipes.	Gustavo Petri,Jan Vitek,Suresh Jagannathan	10.4230/LIPICS.ECOOP.2015.445
+The Good, the Bad, and the Ugly: An Empirical Study of Implicit Type Conversions in JavaScript.	Michael Pradel,Koushik Sen	10.4230/LIPICS.ECOOP.2015.519
+Concrete Types for TypeScript.	Gregor Richards,Francesco Zappa Nardelli,Jan Vitek	10.4230/LIPICS.ECOOP.2015.76
+Lightweight Support for Magic Wands in an Automatic Verifier.	Malte Schwerhoff,Alexander J. Summers	10.4230/LIPICS.ECOOP.2015.614
+A Pattern Calculus for Rule Languages: Expressiveness, Compilation, and Mechanization.	Avraham Shinnar,Jérôme Siméon,Martin Hirzel	10.4230/LIPICS.ECOOP.2015.542
+Optimization Coaching for JavaScript.	Vincent St-Amour,Shu-yu Guo	10.4230/LIPICS.ECOOP.2015.271
+Object-Oriented Programming without Inheritance (Invited Talk).	Bjarne Stroustrup	10.4230/LIPICS.ECOOP.2015.1
+Software Verification &quot;Across the Stack&quot; (Invited Talk).	Alexander J. Summers	10.4230/LIPICS.ECOOP.2015.3
+Towards Practical Gradual Typing.	Asumu Takikawa,Daniel Feltey,Earl Dean,Matthew Flatt,Robert Bruce Findler,Sam Tobin-Hochstadt,Matthias Felleisen	10.4230/LIPICS.ECOOP.2015.4
+Trust, but Verify: Two-Phase Typing for Dynamic Languages.	Panagiotis Vekris,Benjamin Cosman,Ranjit Jhala	10.4230/LIPICS.ECOOP.2015.52
+Adaptive Context-sensitive Analysis for JavaScript.	Shiyi Wei,Barbara G. Ryder	10.4230/LIPICS.ECOOP.2015.712
+Front Matter, Table of Contents, Preface, Artifacts, Conference Organization.		10.4230/LIPICS.ECOOP.2015.I
+29th European Conference on Object-Oriented Programming, ECOOP 2015, July 5-10, 2015, Prague, Czech Republic	John Tang Boyland	

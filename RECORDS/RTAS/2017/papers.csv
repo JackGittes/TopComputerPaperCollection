@@ -1,0 +1,41 @@
+SysWCET: Whole-System Response-Time Analysis for Fixed-Priority Real-Time Systems (Outstanding Paper).	Christian Dietrich 0001,Peter Wägemann,Peter Ulbrich,Daniel Lohmann	10.1109/RTAS.2017.37
+Work-In-Progress: Protecting Real-Time GPU Applications on Integrated CPU-GPU SoC Platforms.	Waqar Ali,Heechul Yun	10.1109/RTAS.2017.26
+Partitioning and Analysis of the Network-on-Chip on a COTS Many-Core Platform.	Matthias Becker 0004,Borislav Nikolic,Dakshina Dasari,Benny Akesson,Vincent Nélis,Moris Behnam,Thomas Nolte	10.1109/RTAS.2017.32
+Practical Task Allocation for Software Fault-Tolerance and Its Implementation in Embedded Automotive Systems.	Anand Bhat,Soheil Samii,Ragunathan Rajkumar	10.1109/RTAS.2017.33
+Building Real-Time Embedded Applications on QduinoMC: A Web-Connected 3D Printer Case Study (Outstanding Paper).	Zhuoqun Cheng,Richard West,Ying Ye	10.1109/RTAS.2017.39
+Pulsar: A Wireless Propagation-Aware Clock Synchronization Platform.	Adwait Dongare,Patrick Lazik,Niranjini Rajagopal,Anthony Rowe 0001	10.1109/RTAS.2017.9
+Demo Abstract: Tooling Support for Benchmarking Timing Analysis.	Christian Eichler,Peter Wägemann,Tobias Distler,Wolfgang Schröder-Preikschat	10.1109/RTAS.2017.20
+Probabilistic Real-Time Guarantees: There Is Life Beyond the i.i.d. Assumption (Outstanding Paper).	Bernardo Villalba Frias,Luigi Palopoli 0002,Luca Abeni,Daniele Fontanelli	10.1109/RTAS.2017.18
+Demo Abstract: A Cross-Device Testing and Reporting System for Large-Scale Real-Time Wireless Networks.	Tao Gong,Huayi Ji,Song Han 0002,Tianyu Zhang,Chuancai Gu,Xiaobo Sharon Hu,Mark Nixon	10.1109/RTAS.2017.21
+A Requests Bundling DRAM Controller for Mixed-Criticality Systems.	Danlu Guo,Rodolfo Pellizzoni	10.1109/RTAS.2017.12
+Synchronization Quality of IEEE 802.1AS in Large-Scale Industrial Automation Networks.	Marina Gutiérrez,Wilfried Steiner,Radu Dobrin,Sasikumar Punnekkat	10.1109/RTAS.2017.10
+Predictable Cache Coherence for Multi-core Real-Time Systems.	Mohamed Hassan 0002,Anirudh M. Kaushik,Hiren D. Patel	10.1109/RTAS.2017.13
+Demo Abstract: Bounding Deadline Misses for Weakly-Hard Real-Time Systems Designed in CAPELLA.	Rafik Henia,Lisa Roux,Nicolas Sordon,Zain Alabedin Haj Hammadeh,Rolf Ernst,Sophie Quinton	10.1109/RTAS.2017.22
+Periodic Task Mining in Embedded System Traces.	Oleg Iegorov,Reinier Torres,Sebastian Fischmeister	10.1109/RTAS.2017.5
+Work-in-Progress: Utilization Based Schedulability Analysis for Wireless Sensor-Actuator Networks.	Dali Ismail,Mahbubur Rahman 0001,Venkata P. Modekurthy,Abusayeed Saifullah	10.1109/RTAS.2017.27
+Parcus: Energy-Aware and Robust Parallelization of AUTOSAR Legacy Applications.	Sebastian Kehr,Eduardo Quiñones,Dominik Langen,Bert Böddeker,Günter Schäfer	10.1109/RTAS.2017.4
+Allowing Shared Libraries While Supporting Hardware Isolation in Multicore Real-Time Systems.	Namhoon Kim,Micaiah Chisholm,Nathan Otterness,James H. Anderson,F. Donelson Smith	10.1109/RTAS.2017.14
+QoS-Aware Flash Memory Controller.	Bryan Suk Kim,Sang Lyul Min	10.1109/RTAS.2017.36
+Valid Application of EVT in Timing Analysis by Randomising Execution Time Measurements.	George Lima 0001,Iain Bate	10.1109/RTAS.2017.17
+EPC Enacted: Integration in an Industrial Toolbox and Use against a Railway Application.	Enrico Mezzetti,Mikel Fernández,Alen Bardizbanyan,Irune Agirre,Jaume Abella 0001,Tullio Vardanega,Francisco J. Cazorla	10.1109/RTAS.2017.19
+Real-Time Fine Grained Occupancy Estimation Using Depth Sensors on ARM Embedded Platforms.	Sirajum Munir,Ripudaman Singh Arora,Craig Hesling,Juncheng Li 0001,Jonathan Francis,Charles Shelton,Christopher Martin 0004,Anthony Rowe 0001,Mario Berges	10.1109/RTAS.2017.8
+Offline Equivalence: A Non-preemptive Scheduling Technique for Resource-Constrained Embedded Real-Time Systems (Outstanding Paper).	Mitra Nasri,Björn B. Brandenburg	10.1109/RTAS.2017.34
+An Evaluation of the NVIDIA TX1 for Supporting Real-Time Computer-Vision Workloads.	Nathan Otterness,Ming Yang 0036,Sarah Rust,Eunbyung Park,James H. Anderson,F. Donelson Smith,Alexander C. Berg,Shige Wang	10.1109/RTAS.2017.3
+TimerShield: Protecting High-Priority Tasks from Low-Priority Timer Interference (Outstanding Paper).	Pratyush Patel,Manohar Vanga,Björn B. Brandenburg	10.1109/RTAS.2017.40
+Revising Measurement-Based Probabilistic Timing Analysis.	Luca Santinelli,Fabrice Guet,Jérôme Morio	10.1109/RTAS.2017.16
+Work-in-Progress: FPGA Implementation of Synchronous Serial Interface for Hardware in Loop Simulation.	S. Shriram,Raghavendra Barkur,Joshua Produkku,B. Shanthibhushan	10.1109/RTAS.2017.28
+A Reliable and Predictable Scratchpad-centric OS for Multi-core Embedded Systems.	Rohan Tabish,Renato Mancuso 0001,Saud Wasly,Sujit S. Phatak,Rodolfo Pellizzoni,Marco Caccamo	10.1109/RTAS.2017.1
+Work-in-Progress: Reducing Cache Conflicts via Interrupts and BUNDLE Scheduling.	Corey Tessler,Gedare Bloom,Nathan Fisher	10.1109/RTAS.2017.30
+Efficient Latency Guarantees for Mixed-Criticality Networks-on-Chip.	Sebastian Tobuschat,Rolf Ernst	10.1109/RTAS.2017.31
+Demo Abstract: Co-simulation Framework for Autonomous Driving Systems with MATLAB/Simulink.	Shota Tokunaga,Takuya Azumi	10.1109/RTAS.2017.23
+Timing-Anomaly Free Dynamic Scheduling of Task-Based Parallel Applications.	Petros Voudouris,Per Stenström,Risat Pathan	10.1109/RTAS.2017.2
+Benchmark Generation for Timing Analysis.	Peter Wägemann,Tobias Distler,Christian Eichler,Wolfgang Schröder-Preikschat	10.1109/RTAS.2017.6
+Work-in-Progress: Wireless Network Reconfiguration for Control Systems.	Wenchen Wang,Daniel Mossé,Jason G. Pickel,Daniel G. Cole	10.1109/RTAS.2017.25
+Work-in-Progress: Cross-Layer Real-Time Scheduling for Wireless Control System.	Wenchen Wang,Daniel Mossé,Jason G. Pickel,Daniel G. Cole	10.1109/RTAS.2017.24
+Work-in-Progress: Scheduling of Graph-Based End-to-End Tasks for Distributed Multi-criticality Systems.	Juanjuan Wang,Hongan Wang	10.1109/RTAS.2017.29
+vCAT: Dynamic Cache Management Using CAT Virtualization.	Meng Xu,Linh Thi Xuan Phan,Xuan Phan,Hyon-Young Choi,Insup Lee 0001	10.1109/RTAS.2017.15
+Making Android Run on Time.	Yin Yan,Karthik Dantu,Steven Y. Ko,Jan Vitek,Lukasz Ziarek	10.1109/RTAS.2017.38
+Distributed Dynamic Packet Scheduling for Handling Disturbances in Real-Time Wireless Networks.	Tianyu Zhang,Tao Gong,Chuancai Gu,Huayi Ji,Song Han 0002,Qingxu Deng,Xiaobo Sharon Hu	10.1109/RTAS.2017.11
+Scope-Aware Useful Cache Block Analysis for Data Cache Related Preemption Delay.	Wei Zhang 0173,Fan Gong,Lei Ju,Nan Guan,Zhiping Jia	10.1109/RTAS.2017.35
+A Case Study on Achieving Fair Data Age Distribution in Vehicular Communications.	Xinhai Zhang,Xinwu Song,Lei Feng 0002,Lei Chen,Martin Törngren	10.1109/RTAS.2017.7
+2017 IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2017, Pittsburg, PA, USA, April 18-21, 2017	Gabriel Parmer	

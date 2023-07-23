@@ -1,0 +1,72 @@
+Encoding Linear Constraints into SAT.	Ignasi Abío,Peter J. Stuckey	10.1007/978-3-319-10428-7_9
+Efficient Application of Max-SAT Resolution on Inconsistent Subsets.	André Abramé,Djamal Habet	10.1007/978-3-319-10428-7_10
+Worst-Case Scheduling of Software Tasks - A Constraint Optimization Model to Support Performance Testing.	Stefano Di Alesio,Shiva Nejati,Lionel C. Briand,Arnaud Gotlieb	10.1007/978-3-319-10428-7_58
+Sequential Time Splitting and Bounds Communication for a Portfolio of Optimization Solvers.	Roberto Amadini,Peter J. Stuckey	10.1007/978-3-319-10428-7_11
+Scoring-Based Neighborhood Dominance for the Subgraph Isomorphism Problem.	Gilles Audemard,Christophe Lecoutre,Mouny Samy Modeliar,Gilles Goncalves,Daniel Cosmin Porumbel	10.1007/978-3-319-10428-7_12
+Proactive Workload Dispatching on the EURORA Supercomputer.	Andrea Bartolini,Andrea Borghesi,Thomas Bridi,Michele Lombardi 0001,Michela Milano	10.1007/978-3-319-10428-7_55
+Linking Prefixes and Suffixes for Constraints Encoded Using Automata with Accumulators.	Nicolas Beldiceanu,Mats Carlsson,Pierre Flener,María Andreína Francisco Rodríguez,Justin Pearson	10.1007/978-3-319-10428-7_13
+Optimization Bounds from Binary Decision Diagrams - (Extended Abstract).	David Bergman,André A. Ciré,Willem Jan van Hoeve,John N. Hooker	10.1007/978-3-319-10428-7_64
+The Propagation Depth of Local Consistency.	Christoph Berkholz	10.1007/978-3-319-10428-7_14
+The Balance Constraint Family.	Christian Bessiere,Emmanuel Hebrard,George Katsirelos,Zeynep Kiziltan,Émilie Picard-Cantin,Claude-Guy Quimper,Toby Walsh	10.1007/978-3-319-10428-7_15
+Experimental Comparison of BTD and Intelligent Backtracking: Towards an Automatic Per-instance Algorithm Selector.	Loïc Blet,Samba Ndojh Ndiaye,Christine Solnon	10.1007/978-3-319-10428-7_16
+Reformulation Based MaxSAT Robustness - (Extended Abstract).	Miquel Bofill,Dídac Busquets,Mateu Villaret	10.1007/978-3-319-10428-7_65
+Scheduling B2B Meetings.	Miquel Bofill,Joan Espasa,Marc Garcia,Miquel Palahí,Josep Suy,Mateu Villaret	10.1007/978-3-319-10428-7_56
+Solving Intensional Weighted CSPs by Incremental Optimization with BDDs.	Miquel Bofill,Miquel Palahí,Josep Suy,Mateu Villaret	10.1007/978-3-319-10428-7_17
+On the Erdős Discrepancy Problem.	Ronan Le Bras 0001,Carla P. Gomes,Bart Selman	10.1007/978-3-319-10428-7_33
+On Backdoors to Tractable Constraint Languages.	Clément Carbonnel,Martin C. Cooper,Emmanuel Hebrard	10.1007/978-3-319-10428-7_18
+Probabilistic Constraints for Nonlinear Inverse Problems - (Extended Abstract).	Elsa Carvalho,Jorge Cruz 0001,Pedro Barahona	10.1007/978-3-319-10428-7_66
+Nested Constraint Programs.	Geoffrey Chu,Peter J. Stuckey	10.1007/978-3-319-10428-7_19
+Multivalued Decision Diagrams for Sequencing Problems - (Extended Abstract).	André A. Ciré,Willem-Jan van Hoeve	10.1007/978-3-319-10428-7_67
+Robustness and Stability in Constraint Programming under Dynamism and Uncertainty - (Extended Abstract).	Laura Climent,Richard J. Wallace,Miguel A. Salido,Federico Barber	10.1007/978-3-319-10428-7_68
+Beyond Consistency and Substitutability.	Martin C. Cooper	10.1007/978-3-319-10428-7_20
+Monotone Temporal Planning: Tractability, Extensions and Applications - (Extended Abstract).	Martin C. Cooper,Frederic Maris,Pierre Régnier	10.1007/978-3-319-10428-7_69
+On Broken Triangles.	Martin C. Cooper,Achref El Mouelhi,Cyril Terrioux,Bruno Zanuttini	10.1007/978-3-319-10428-7_5
+A New Characterization of Relevant Intervals for Energetic Reasoning.	Alban Derrien,Thierry Petit	10.1007/978-3-319-10428-7_22
+A Declarative Paradigm for Robust Cumulative Scheduling.	Alban Derrien,Thierry Petit,Stéphane Zampelli	10.1007/978-3-319-10428-7_23
+Improving DPOP with Branch Consistency for Solving Distributed Constraint Optimization Problems.	Ferdinando Fioretto,Tiep Le,William Yeoh 0001,Enrico Pontelli,Tran Cao Son	10.1007/978-3-319-10428-7_24
+Constraint-Based Lagrangian Relaxation.	Daniel Fontaine,Laurent D. Michel,Pascal Van Hentenryck	10.1007/978-3-319-10428-7_25
+A Modular Architecture for Hybrid Planning with Theories.	Maria Fox 0001	10.1007/978-3-319-10428-7_1
+Loop Untangling.	Kathryn Francis,Peter J. Stuckey	10.1007/978-3-319-10428-7_26
+Continuous Casting Scheduling with Constraint Programming.	Steven Gay,Pierre Schaus,Vivian De Smedt	10.1007/978-3-319-10428-7_59
+Discriminating Instance Generation for Automated Constraint Model Selection.	Ian P. Gent,Bilal Syed Hussain,Christopher Jefferson,Lars Kotthoff,Ian Miguel,Glenna F. Nightingale,Peter Nightingale	10.1007/978-3-319-10428-7_27
+Solving a Judge Assignment Problem Using Conjunctions of Global Cost Functions.	Simon de Givry,Jimmy Ho-Man Lee,Ka Lun Leung,Yu Wai Shum	10.1007/978-3-319-10428-7_57
+Aggregating CP-nets with Unfeasible Outcomes.	Umberto Grandi,Hang Luo 0001,Nicolas Maudet,Francesca Rossi	10.1007/978-3-319-10428-7_28
+Subexponential Time Complexity of CSP with Global Constraints.	Ronald de Haan,Iyad A. Kanj,Stefan Szeider	10.1007/978-3-319-10428-7_21
+Domain Views for Constraint Programming.	Pascal Van Hentenryck,Laurent D. Michel	10.1007/978-3-319-10428-7_51
+The StockingCost Constraint.	Vinasétan Ratheil Houndji,Pierre Schaus,Laurence A. Wolsey,Yves Deville	10.1007/978-3-319-10428-7_29
+Scalable Parallel Numerical CSP Solver.	Daisuke Ishii,Kazuki Yoshizoe,Toyotaro Suzumura	10.1007/978-3-319-10428-7_30
+Tree-Decompositions with Connected Clusters for Solving Constraint Networks.	Philippe Jégou,Cyril Terrioux	10.1007/978-3-319-10428-7_31
+CIP and MIQP Models for the Load Balancing Nurse-to-Patient Assignment Problem.	Wen-Yang Ku,Thiago Pinheiro,J. Christopher Beck	10.1007/978-3-319-10428-7_32
+Towards Practical Infinite Stream Constraint Programming: Applications and Implementation.	Jasper C. H. Lee,Jimmy H. M. Lee	10.1007/978-3-319-10428-7_34
+An Increasing-Nogoods Global Constraint for Symmetry Breaking During Search.	Jimmy H. M. Lee,Zichen Zhu	10.1007/978-3-319-10428-7_35
+Memory-Efficient Tree Size Prediction for Depth-First Search in Graphical Models.	Levi H. S. Lelis,Lars Otten,Rina Dechter	10.1007/978-3-319-10428-7_36
+Case Study: Constraint Programming in a System Level Synthesis Framework.	Shuo Li 0002,Ahmed Hemani	10.1007/978-3-319-10428-7_60
+Higher-Order Consistencies through GAC on Factor Variables.	Chavalit Likitvivatanavong,Wei Xia,Roland H. C. Yap	10.1007/978-3-319-10428-7_37
+Incremental QBF Solving.	Florian Lonsing,Uwe Egly	10.1007/978-3-319-10428-7_38
+Incremental Cardinality Constraints for MaxSAT.	Ruben Martins,Saurabh Joshi 0001,Vasco M. Manquinho,Inês Lynce	10.1007/978-3-319-10428-7_39
+Reducing the Branching in a Branch and Bound Algorithm for the Maximum Clique Problem.	Ciaran McCreesh,Patrick Prosser	10.1007/978-3-319-10428-7_40
+Core-Guided MaxSAT with Soft Cardinality Constraints.	António Morgado 0001,Carmine Dodaro,João Marques-Silva 0001	10.1007/978-3-319-10428-7_41
+Using CP in Automatic Test Generation for ABB Robotics&apos; Paint Control System.	Morten Mossige,Arnaud Gotlieb,Hein Meling	10.1007/978-3-319-10428-7_6
+A Complete Solver for Constraint Games.	Thi-Van-Anh Nguyen,Arnaud Lallouet	10.1007/978-3-319-10428-7_8
+The IntSat Method for Integer Linear Programming.	Robert Nieuwenhuis	10.1007/978-3-319-10428-7_42
+Automatically Improving Constraint Models in Savile Row through Associative-Commutative Common Subexpression Elimination.	Peter Nightingale,Özgür Akgün,Ian P. Gent,Christopher Jefferson,Ian Miguel	10.1007/978-3-319-10428-7_43
+Anytime AND/OR Depth-First Search for Combinatorial Optimization - (Extended Abstract).	Lars Otten,Rina Dechter	10.1007/978-3-319-10428-7_70
+On Compiling CNF into Decision-DNNF.	Umut Oztok,Adnan Darwiche	10.1007/978-3-319-10428-7_7
+Scheduling Agents Using Forecast Call Arrivals at Hydro-Québec&apos;s Call Centers.	Marie Pelleau,Louis-Martin Rousseau,Pierre L&apos;Ecuyer,Walid Zegal,Louis Delorme	10.1007/978-3-319-10428-7_61
+Improving GAC-4 for Table and MDD Constraints.	Guillaume Perez,Jean-Charles Régin	10.1007/978-3-319-10428-7_44
+Deployment of Mobile Wireless Sensor Networks for Crisis Management: A Constraint-Based Local Search Approach.	Cédric Pralet,Charles Lesire	10.1007/978-3-319-10428-7_62
+Teaching Constraint Programming.	Patrick Prosser	10.1007/978-3-319-10428-7_2
+Improvement of the Embarrassingly Parallel Search for Data Centers.	Jean-Charles Régin,Mohamed Rezgui,Arnaud Malapert	10.1007/978-3-319-10428-7_45
+Stochastic MiniZinc.	Andrea Rendl,Guido Tack,Peter J. Stuckey	10.1007/978-3-319-10428-7_46
+Decomposing Utility Functions in Bounded Max-Sum for Distributed Constraint Optimization.	Emma Rollon,Javier Larrosa	10.1007/978-3-319-10428-7_47
+One Problem, Two Structures, Six Solvers, and Ten Years of Personnel Scheduling.	Louis-Martin Rousseau	10.1007/978-3-319-10428-7_3
+Insights into Parallelism with Intensive Knowledge Sharing.	Ashish Sabharwal,Horst Samulowitz	10.1007/978-3-319-10428-7_48
+The Non-overlapping Constraint between Objects Described by Non-linear Inequalities.	Ignacio Salas,Gilles Chabert,Alexandre Goldsztejn	10.1007/978-3-319-10428-7_49
+Concurrent Constraint Programming Research Programmes - Redux.	Vijay A. Saraswat	10.1007/978-3-319-10428-7_4
+Improving Relational Consistency Algorithms Using Dynamic Relation Partitioning.	Anthony Schneider,Robert J. Woodward,Berthe Y. Choueiry,Christian Bessiere	10.1007/978-3-319-10428-7_50
+View-Based Propagator Derivation - (Extended Abstract).	Christian Schulte 0001,Guido Tack	10.1007/978-3-319-10428-7_71
+Air Traffic Controller Shift Scheduling by Reduction to CSP, SAT and SAT-Related Problems.	Mirko Stojadinovic	10.1007/978-3-319-10428-7_63
+Global Constraints in Distributed CSP: Concurrent GAC and Explanations in ABT.	Mohamed Wahbi,Kenneth N. Brown	10.1007/978-3-319-10428-7_52
+The Impact of Wireless Communication on Distributed Constraint Satisfaction.	Mohamed Wahbi,Kenneth N. Brown	10.1007/978-3-319-10428-7_53
+Adaptive Parameterized Consistency for Non-binary CSPs by Counting Supports.	Robert J. Woodward,Anthony Schneider,Berthe Y. Choueiry,Christian Bessiere	10.1007/978-3-319-10428-7_54
+Principles and Practice of Constraint Programming - 20th International Conference, CP 2014, Lyon, France, September 8-12, 2014. Proceedings	Barry O&apos;Sullivan	10.1007/978-3-319-10428-7

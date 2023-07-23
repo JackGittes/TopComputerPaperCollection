@@ -1,0 +1,243 @@
+Boa: a language and infrastructure for analyzing ultra-large-scale software repositories.	Robert Dyer 0001,Hoan Anh Nguyen,Hridesh Rajan,Tien N. Nguyen	10.1109/ICSE.2013.6606588
+Does bug prediction support human developers? findings from a google case study.	Chris Lewis 0002,Zhongpeng Lin,Caitlin Sadowski,Xiaoyan Zhu 0003,Rong Ou,E. James Whitehead Jr.	10.1109/ICSE.2013.6606583
+1st international workshop on release engineering (RELENG 2013).	Bram Adams,Christian Bird,Foutse Khomh,Kim Moir	10.1109/ICSE.2013.6606779
+Automated software architecture security risk analysis using formalized signatures.	Mohamed Almorsy,John Grundy 0001,Amani S. Ibrahim	10.1109/ICSE.2013.6606612
+Computational alignment of goals and scenarios for complex systems.	Dalal Alrajeh,Alessandra Russo,James Lockerbie,Neil A. M. Maiden,Alistair Mavin,Mark Novak	10.1109/ICSE.2013.6606690
+Strategies for product-line verification: case studies and experiments.	Sven Apel,Alexander von Rhein,Philipp Wendler,Armin Größlinger,Dirk Beyer 0001	10.1109/ICSE.2013.6606594
+Town hall discussion of SE 2004 revisions (panel).	Mark A. Ardis,David Budgen,Gregory W. Hislop,Jeff Offutt,Mark J. Sebern,Willem Visser	10.1109/ICSE.2013.6606663
+Energy aware self-adaptation in mobile systems.	Luca Ardito	10.1109/ICSE.2013.6606736
+5th international workshop on modeling in software engineering (MiSE 2013).	Joanne M. Atlee,Robert Baillargeon,Marsha Chechik,Robert B. France,Jeff Gray 0001,Richard F. Paige,Bernhard Rumpe	10.1109/ICSE.2013.6606772
+An approach for restructuring text content.	Lerina Aversano,Gerardo Canfora,Giuseppe De Ruvo,Maria Tortorella	10.1109/ICSE.2013.6606684
+2nd international workshop on the twin peaks of requirements and architecture (TwinPeaks 2013).	Paris Avgeriou,Janet E. Burge,Jane Cleland-Huang,Xavier Franch,Matthias Galster,Mehdi Mirakhorli,Roshanak Roshandel	10.1109/ICSE.2013.6606785
+Expectations, outcomes, and challenges of modern code review.	Alberto Bacchelli,Christian Bird	10.1109/ICSE.2013.6606617
+Bottom-up model-driven development.	Hamid Bagheri,Kevin J. Sullivan	10.1109/ICSE.2013.6606683
+Example-driven modeling: model = abstractions + examples.	Kacper Bak,Dina Zayan,Krzysztof Czarnecki 0001,Michal Antkiewicz,Zinovy Diskin,Andrzej Wasowski,Derek Rayside	10.1109/ICSE.2013.6606696
+Reducing human effort and improving quality in peer code reviews using automatic static analysis and reviewer recommendation.	Vipin Balachandran	10.1109/ICSE.2013.6606642
+A case for human-driven software development.	Emilie Balland,Charles Consel,Bernard N&apos;Kaoua,Hélène Sauzéon	10.1109/ICSE.2013.6606685
+3rd international workshop on developing tools as plug-ins (TOPI 2013).	Michael Barnett 0001,Martin Nordio,Judith Bishop,Karin Koogan Breitman,Diego Garbervetsky	10.1109/ICSE.2013.6606784
+Green streams for data-intensive software.	Thomas Bartenstein,Yu David Liu	10.1109/ICSE.2013.6606599
+An empirical study on the developers&apos; perception of software coupling.	Gabriele Bavota,Bogdan Dit,Rocco Oliveto,Massimiliano Di Penta,Denys Poshyvanyk,Andrea De Lucia	10.1109/ICSE.2013.6606615
+Informing development decisions: from data to information.	Olga Baysal	10.1109/ICSE.2013.6606729
+Situational awareness: personalizing issue tracking systems.	Olga Baysal,Reid Holmes,Michael W. Godfrey	10.1109/ICSE.2013.6606674
+2nd international workshop on user evaluations for software engineering researchers (USER 2013).	Andrew Begel,Caitlin Sadowski	10.1109/ICSE.2013.6606786
+Chronicler: lightweight recording to reproduce field failures.	Jonathan Bell 0001,Nikhil Sarda,Gail E. Kaiser	10.1109/ICSE.2013.6606582
+A study of enabling factors for rapid fielding: combined practices to balance speed and stability.	Stephany Bellomo,Robert L. Nord,Ipek Ozkaya	10.1109/ICSE.2013.6606648
+Unifying FSM-inference algorithms through declarative specification.	Ivan Beschastnikh,Yuriy Brun,Jenny Abrahamson,Michael D. Ernst,Arvind Krishnamurthy	10.1109/ICSE.2013.6606571
+Deciphering the story of software development through frequent pattern mining.	Nicolas Bettenburg,Andrew Begel	10.1109/ICSE.2013.6606677
+5th international workshop on principles of engineering service-oriented systems (PESOS 2013).	Domenico Bianculli,Patricia Lago,Grace A. Lewis,Hye-Young Paik	10.1109/ICSE.2013.6606776
+1st international workshop on data analysis patterns in software engineering (DAPSE 2013).	Christian Bird,Tim Menzies,Thomas Zimmermann 0001	10.1109/ICSE.2013.6606765
+Interaction-based test-suite minimization.	Dale Blue,Itai Segall,Rachel Tzoref-Brill,Aviad Zlotnick	10.1109/ICSE.2013.6606564
+Partition-based regression verification.	Marcel Böhme,Bruno C. d. S. Oliveira,Abhik Roychoudhury	10.1109/ICSE.2013.6606576
+PorchLight: a tag-based approach to bug triaging.	Gerald Bortis,André van der Hoek	10.1109/ICSE.2013.6606580
+Billions and billions of constraints: whitebox fuzz testing in production.	Ella Bounimova,Patrice Godefroid,David A. Molnar	10.1109/ICSE.2013.6606558
+Software metrics: pitfalls and best practices.	Eric Bouwers,Arie van Deursen,Joost Visser 0001	10.1109/ICSE.2013.6606755
+Evaluating usefulness of software metrics: an industrial experience report.	Eric Bouwers,Arie van Deursen,Joost Visser 0001	10.1109/ICSE.2013.6606641
+Robust reconfigurations of component assemblies.	Fabienne Boyer,Olivier Gruber,Damien Pous	10.1109/ICSE.2013.6606547
+Controller synthesis: from modelling to enactment.	Víctor A. Braberman,Nicolás D&apos;Ippolito,Nir Piterman,Daniel Sykes,Sebastián Uchitel	10.1109/ICSE.2013.6606714
+Fostering software quality assessment.	Martin Brandtner	10.1109/ICSE.2013.6606725
+Agility at scale: economic governance, measured improvement, and disciplined delivery.	Alan W. Brown,Scott Ambler,Walker Royce	10.1109/ICSE.2013.6606636
+JITTAC: a just-in-time tool for architectural consistency.	Jim Buckley,Sean Mooney,Jacek Rosik,Nour Ali	10.1109/ICSE.2013.6606700
+Studios in software engineering education: towards an evaluable model.	Christopher N. Bull,Jon Whittle 0001,Leon Cruickshank	10.1109/ICSE.2013.6606656
+1st international workshop on live programming (LIVE 2013).	Brian Burg,Adrian Kuhn,Chris Parnin	10.1109/ICSE.2013.6606771
+Supporting incremental programming with ghosts.	Oscar Callaú	10.1109/ICSE.2013.6606734
+YODA: young and newcomer developer assistant.	Gerardo Canfora,Massimiliano Di Penta,Stefano Giannantonio,Rocco Oliveto,Sebastiano Panichella	10.1109/ICSE.2013.6606710
+Analysis of user comments: an approach for software requirements evolution.	Laura V. Galvis Carreño,Kristina Winbladh	10.1109/ICSE.2013.6606604
+An ontology toolkit for problem domain concept location in program comprehension.	Nuno Ramos Carvalho	10.1109/ICSE.2013.6606731
+5th international workshop on software engineering for computational science and engineering (SE-CSE 2013).	Jeffrey C. Carver,Tom Epperly,Lorin Hochstein,Valerie Maxville,Dietmar Pfahl,Jonathan Sillito	10.1109/ICSE.2013.6606780
+Automatic recovery from runtime failures.	Antonio Carzaniga,Alessandra Gorla,Andrea Mattavelli,Nicolò Perino,Mauro Pezzè	10.1109/ICSE.2013.6606624
+An approach to documenting and evolving architectural design decisions.	Meiru Che	10.1109/ICSE.2013.6606720
+X-PERT: accurate identification of cross-browser issues in web applications.	Shauvik Roy Choudhary,Mukul R. Prasad,Alessandro Orso	10.1109/ICSE.2013.6606616
+From models to code and back: correct-by-construction code from UML and ALF.	Federico Ciccozzi	10.1109/ICSE.2013.6606744
+Program transformations to fix C integers.	Zack Coker,Munawar Hafiz	10.1109/ICSE.2013.6606625
+3rd international workshop on games and software engineering: engineering computer games to enable positive, progressive change (GAS 2013).	Kendra M. L. Cooper,Walt Scacchi,Alf Inge Wang	10.1109/ICSE.2013.6606767
+Beyond boolean product-line model checking: dealing with feature attributes and multi-features.	Maxime Cordy,Pierre-Yves Schobbens,Patrick Heymans,Axel Legay	10.1109/ICSE.2013.6606593
+A learning-based method for combining testing techniques.	Domenico Cotroneo,Roberto Pietrantuono,Stefano Russo 0001	10.1109/ICSE.2013.6606560
+4th international workshop on emerging trends in software metrics (WETSoM 2013).	Steve Counsell,Michele Marchesi,Ewan D. Tempero,Corrado Aaron Visaggio	10.1109/ICSE.2013.6606787
+Estimating software-intensive projects in the absence of historical data.	Aldo Dagnino	10.1109/ICSE.2013.6606643
+The role of domain knowledge and cross-functional communication in socio-technical coordination.	Daniela E. Damian,Remko Helms,Irwin Kwan,Sabrina Marczak,Benjamin Koelewijn	10.1109/ICSE.2013.6606590
+The connection between movie making and software development (keynote).	Tony DeRose	10.1109/ICSE.2013.6606632
+1st international workshop on assurance cases for software-intensive systems (ASSURE 2013).	Ewen Denney,Ganesh Pai,Ibrahim Habli,Tim Kelly,John C. Knight	10.1109/ICSE.2013.6606759
+Build your own model checker in one month.	Jin Song Dong,Jun Sun 0001,Yang Liu 0003	10.1109/ICSE.2013.6606751
+Coupling software architecture and human architecture for collaboration-aware system adaptation.	Christoph Dorn,Richard N. Taylor	10.1109/ICSE.2013.6606551
+Identifying failure inducing developer pairs within developer networks.	Jordan Ell	10.1109/ICSE.2013.6606748
+GuideArch: guiding the exploration of architectural solution space under uncertainty.	Naeem Esfahani,Sam Malek,Kaveh Razavi	10.1109/ICSE.2013.6606550
+3rd international workshop on collaborative teaching of globally distributed software development (CTGDSD 2013).	Stuart R. Faulk,Michal Young,Rafael Prikladnicki,David M. Weiss 0001,Lian Yu	10.1109/ICSE.2013.6606764
+Efficient construction of approximate call graphs for JavaScript IDE services.	Asger Feldthaus,Max Schäfer,Manu Sridharan,Julian Dolby,Frank Tip	10.1109/ICSE.2013.6606621
+Detecting inconsistencies in wrappers: a case study.	Henning Femmer,Dharmalingam Ganesan,Mikael Lindvall,David McComas	10.1109/ICSE.2013.6606652
+Not going to take this anymore: multi-objective overtime planning for software engineering projects.	Filomena Ferrucci,Mark Harman,Jian Ren 0004,Federica Sarro	10.1109/ICSE.2013.6606592
+Reliability analysis in symbolic pathfinder.	Antonio Filieri,Corina S. Pasareanu,Willem Visser	10.1109/ICSE.2013.6606608
+Scaling agile methods to regulated environments: an industry case study.	Brian Fitzgerald 0001,Klaas-Jan Stol,Ryan O&apos;Sullivan,Donal O&apos;Brien	10.1109/ICSE.2013.6606635
+Software requirement patterns.	Xavier Franch	10.1109/ICSE.2013.6606758
+1st international workshop on conducting empirical studies in industry (CESI 2013).	Xavier Franch,Nazim H. Madhavji,Bill Curtis,Larry Votta	10.1109/ICSE.2013.6606761
+LAMBDAFICATOR: from imperative to functional programming through automated refactoring.	Lyle Franklin,Alex Gyori,Jan Lahoda,Danny Dig	10.1109/ICSE.2013.6606699
+Technical debt: past, present, and future (panel).	Steven Fraser 0001,Judith Bishop,Barry W. Boehm,Pradeep Kathail,Philippe Kruchten,Ipek Ozkaya,Alexandra Szynkarski	10.1109/ICSE.2013.6606634
+Search-based genetic optimization for deployment and reconfiguration of software in the cloud.	Sören Frey,Florian Fittkau,Wilhelm Hasselbring	10.1109/ICSE.2013.6606597
+Obtaining ground-truth software architectures.	Joshua Garcia,Ivo Krka,Chris Mattmann,Nenad Medvidovic	10.1109/ICSE.2013.6606639
+Feedback-directed unit test generation for C/C++ using concolic execution.	Pranav Garg 0001,Franjo Ivancic,Gogul Balakrishnan,Naoto Maeda,Aarti Gupta	10.1109/ICSE.2013.6606559
+Semantic smells and errors in access control models: a case study in PHP.	François Gauthier,Ettore Merlo	10.1109/ICSE.2013.6606670
+Managing non-functional uncertainty via model-driven adaptivity.	Carlo Ghezzi,Leandro Sales Pinto,Paola Spoletini,Giordano Tamburrelli	10.1109/ICSE.2013.6606549
+JST: an automatic test generation tool for industrial Java applications with strings.	Indradeep Ghosh,Nastaran Shafiei,Guodong Li,Wei-Fan Chiang	10.1109/ICSE.2013.6606649
+Exploring the internal state of user interfaces by combining computer vision techniques with grammatical inference.	Paul Givens,Aleksandar Chakarov,Sriram Sankaranarayanan 0001,Tom Yeh	10.1109/ICSE.2013.6606669
+1st FME workshop on formal methods in software engineering (FormaliSE 2013).	Stefania Gnesi,Nico Plat	10.1109/ICSE.2013.6606766
+Inferring likely mappings between APIs.	Amruta Gokhale,Vinod Ganapathy,Yogesh Padmanaban	10.1109/ICSE.2013.6606554
+RERAN: timing- and touch-sensitive record and replay for Android.	Lorenzo Gomez,Iulian Neamtiu,Tanzirul Azim,Todd D. Millstein	10.1109/ICSE.2013.6606553
+Eliminative induction: a basis for arguing system confidence.	John B. Goodenough 0002,Charles B. Weinstock,Ari Z. Klein	10.1109/ICSE.2013.6606668
+2nd international workshop on software engineering challenges for the smart grid (SE4SG 2013).	Ian Gorton,Yan Liu 0001,Heiko Koziolek,Anne Koziolek,Mazeiar Salehie	10.1109/ICSE.2013.6606783
+Supporting maintenance tasks on transformational code generation environments.	Victor Guana	10.1109/ICSE.2013.6606719
+Normalizing source code vocabulary to support program comprehension and software quality.	Latifa Guerrouj	10.1109/ICSE.2013.6606723
+Automatic query reformulations for text retrieval in software engineering.	Sonia Haiduc,Gabriele Bavota,Andrian Marcus,Rocco Oliveto,Andrea De Lucia,Tim Menzies	10.1109/ICSE.2013.6606630
+Query quality prediction and reformulation for source code search: the refoqus tool.	Sonia Haiduc,Giuseppe De Rosa,Gabriele Bavota,Rocco Oliveto,Andrea De Lucia,Andrian Marcus	10.1109/ICSE.2013.6606704
+Estimating mobile application energy consumption using program analysis.	Shuai Hao,Ding Li 0001,William G. J. Halfond,Ramesh Govindan	10.1109/ICSE.2013.6606555
+MCT: a tool for commenting programs by multimedia comments.	Yiyang Hao,Ge Li 0001,Lili Mou,Lu Zhang 0023,Zhi Jin	10.1109/ICSE.2013.6606712
+1st international workshop on combining modelling and search-based software engineering (CMSBSE 2013).	Mark Harman,Richard F. Paige,James R. Williams	10.1109/ICSE.2013.6606763
+2nd international workshop on realizing artificial intelligence synergies in software engineering (RAISE 2013).	Rachel Harrison,Sol J. Greenspan,Tim Menzies,Marjan Mernik,Pedro Rangel Henriques,Daniela Carneiro da Cruz,Daniel Rodríguez 0001	10.1109/ICSE.2013.6606778
+Comparing multi-point stride coverage and dataflow coverage.	Mohammad Mahdi Hassan,James H. Andrews	10.1109/ICSE.2013.6606563
+Explicating symbolic execution (xSymExe): an evidence-based verification framework.	John Hatcliff,Robby,Patrice Chalin,Jason Belt	10.1109/ICSE.2013.6606568
+Hunting for smells in natural language tests.	Benedikt Hauptmann,Maximilian Junker,Sebastian Eder,Lars Heinemann,Rudolf Vaas,Peter Braun	10.1109/ICSE.2013.6606682
+Towards automated testing and fixing of re-engineered feature models.	Christopher Henard,Mike Papadakis,Gilles Perrouin,Jacques Klein,Yves Le Traon	10.1109/ICSE.2013.6606689
+Data clone detection and visualization in spreadsheets.	Felienne Hermans,Ben Sedee,Martin Pinzger 0001,Arie van Deursen	10.1109/ICSE.2013.6606575
+It&apos;s not a bug, it&apos;s a feature: how misclassification impacts bug prediction.	Kim Herzig,Sascha Just,Andreas Zeller	10.1109/ICSE.2013.6606585
+Efficient quality assurance of variability-intensive systems.	Patrick Heymans,Axel Legay,Maxime Cordy	10.1109/ICSE.2013.6606757
+Safe software updates via multi-version execution.	Petr Hosek 0001,Cristian Cadar	10.1109/ICSE.2013.6606607
+Automatic synthesis of modular connectors via composition of protocol mediation patterns.	Paola Inverardi,Massimo Tivoli	10.1109/ICSE.2013.6606546
+LASE: an example-based program transformation tool for locating and applying systematic edits.	John Jacobellis,Na Meng 0001,Miryung Kim	10.1109/ICSE.2013.6606707
+An evaluation of interactive test-driven labs with WebIDE in CS0.	David S. Janzen,John Clements,Michael Hilton	10.1109/ICSE.2013.6606659
+Reproducing and debugging field failures in house.	Wei Jin	10.1109/ICSE.2013.6606738
+Novice understanding of program analysis tool notifications.	Brittany Johnson	10.1109/ICSE.2013.6606735
+2nd SEMAT workshop on a general theory of software engineering (GTSE 2013).	Pontus Johnson,Ivar Jacobson,Michael Goedicke,Mira Kajko-Mattsson	10.1109/ICSE.2013.6606769
+Why don&apos;t software developers use static analysis tools to find bugs?	Brittany Johnson,Yoonki Song,Emerson R. Murphy-Hill,Robert W. Bowdidge	10.1109/ICSE.2013.6606613
+Increasing anomaly handling efficiency in large organizations using applied machine learning.	Leif Jonsson	10.1109/ICSE.2013.6606717
+4th international workshop on software engineering for sensor network applications (SESENA 2013).	Christine Julien 0001,Klaus Wehrle	10.1109/ICSE.2013.6606782
+Cassandra: proactive conflict minimization through optimized task scheduling.	Bakhtiar Khan Kasi,Anita Sarma	10.1109/ICSE.2013.6606619
+On identifying user complaints of iOS apps.	Hammad Khalid	10.1109/ICSE.2013.6606749
+Expositor: scriptable time-travel debugging with first-class traces.	Yit Phang Khoo,Jeffrey S. Foster,Michael Hicks 0001	10.1109/ICSE.2013.6606581
+Automatic patch generation learned from human-written patches.	Dongsun Kim 0001,Jaechang Nam,Jaewoo Song,Sunghun Kim 0001	10.1109/ICSE.2013.6606626
+Measuring the forensic-ability of audit logs for nonrepudiation.	Jason King	10.1109/ICSE.2013.6606732
+V: ISSUE: LIZER: exploring requirements clarification in online communication over time.	Eric Knauss,Daniela E. Damian	10.1109/ICSE.2013.6606709
+Distributed development considered harmful?	Ekrem Kocaguneli,Thomas Zimmermann 0001,Christian Bird,Nachiappan Nagappan,Tim Menzies	10.1109/ICSE.2013.6606637
+7th international workshop on software clones (IWSC 2013).	Rainer Koschke,Elmar Jürgens,Juergen Rilling	10.1109/ICSE.2013.6606770
+Studying the effect of co-change dispersion on software quality.	Ehsan Kouroshfar	10.1109/ICSE.2013.6606741
+4th international workshop on managing technical debt (MTD 2013).	Philippe Kruchten,Robert L. Nord,Ipek Ozkaya	10.1109/ICSE.2013.6606774
+On extracting unit tests from interactive live programming sessions.	Adrian Kuhn	10.1109/ICSE.2013.6606688
+Teaching software process modeling.	Marco Kuhrmann,Daniel Méndez Fernández,Jürgen Münch	10.1109/ICSE.2013.6606665
+Decision theoretic requirements prioritization: a two-step approach for sliding towards value realization.	Nupul Kukreja	10.1109/ICSE.2013.6606746
+Systematically selecting a software module during opportunistic reuse.	Naveen Kulkarni	10.1109/ICSE.2013.6606728
+5th international workshop on software engineering in health care (SEHC 2013).	Craig E. Kuziemsky,John Knight	10.1109/ICSE.2013.6606781
+2nd international workshop on green and sustainable software (GREENS 2013).	Patricia Lago,Niklaus Meyer,Maurizio Morisio,Hausi A. Müller,Giuseppe Scanniello	10.1109/ICSE.2013.6606768
+Segmented symbolic analysis.	Wei Le	10.1109/ICSE.2013.6606567
+Drag-and-drop refactoring: intuitive and efficient program transformation.	Yun Young Lee,Nicholas Chen,Ralph E. Johnson	10.1109/ICSE.2013.6606548
+Temporal code completion and navigation.	Yun Young Lee,Sam Harwell,Sarfraz Khurshid,Darko Marinov	10.1109/ICSE.2013.6606673
+NavClus: a graphical recommender for assisting code exploration.	Seonah Lee 0001,Sungwon Kang,Matt Staats	10.1109/ICSE.2013.6606706
+Developing verified programs with dafny.	K. Rustan M. Leino	10.1109/ICSE.2013.6606754
+CEL: modeling everywhere.	Remo Lemma,Michele Lanza,Fernando Olivero	10.1109/ICSE.2013.6606708
+Requirements modelling by synthesis of deontic input-output automata.	Emmanuel Letier,William Heaven	10.1109/ICSE.2013.6606605
+1st international workshop on the engineering of mobile-enabled systems (MOBS 2013).	Grace A. Lewis,Jeff Gray 0001,Henry Muccini,Nachiappan Nagappan,David S. Rosenblum,Emad Shihab	10.1109/ICSE.2013.6606773
+A characteristic study on failures of production distributed data-parallel programs.	Sihan Li,Hucheng Zhou,Haoxiang Lin,Tian Xiao,Haibo Lin,Wei Lin 0016,Tao Xie 0001	10.1109/ICSE.2013.6606646
+Understanding and simulating software evolution.	Zhongpeng Lin	10.1109/ICSE.2013.6606730
+Selecting checkpoints along the time line: a novel temporal checkpoint selection strategy for monitoring a batch of parallel business processes.	Xiao Liu 0004,Yun Yang 0001,Dahai Cao,Dong Yuan	10.1109/ICSE.2013.6606698
+Enabling a classroom design studio with a collaborative sketch design tool.	Dastyni Loksa,Nicolas Mangano,Thomas D. LaToza,André van der Hoek	10.1109/ICSE.2013.6606657
+Automatic detection of performance deviations in the load testing of large scale systems.	Haroon Malik,Hadi Hemmati,Ahmed E. Hassan	10.1109/ICSE.2013.6606651
+Pricing crowdsourcing-based software development tasks.	Ke Mao,Ye Yang,Mingshu Li 0001,Mark Harman	10.1109/ICSE.2013.6606679
+Counter play-out: executing unrealizable scenario-based specifications.	Shahar Maoz,Yaniv Sa&apos;ar	10.1109/ICSE.2013.6606570
+Detecting deadlock in programs with data-centric synchronization.	Daniel Marino,Christian Hammer 0001,Julian Dolby,Mandana Vaziri,Frank Tip,Jan Vitek	10.1109/ICSE.2013.6606578
+A hands-on Java PathFinder tutorial.	Peter C. Mehlitz,Neha Rungta,Willem Visser	10.1109/ICSE.2013.6606756
+Automated testing of GUI applications: models, tools, and controlling flakiness.	Atif M. Memon,Myra B. Cohen	10.1109/ICSE.2013.6606750
+Vulnerability of the day: concrete demonstrations for software engineering undergraduates.	Andrew Meneely,Samuel Lucidi	10.1109/ICSE.2013.6606667
+LASE: locating and applying systematic edits by learning from examples.	Na Meng 0001,Miryung Kim,Kathryn S. McKinley	10.1109/ICSE.2013.6606596
+Data science for software engineering.	Tim Menzies,Ekrem Kocaguneli,Fayola Peters,Burak Turhan,Leandro L. Minku	10.1109/ICSE.2013.6606752
+The design of bug fixes.	Emerson R. Murphy-Hill,Thomas Zimmermann 0001,Christian Bird,Nachiappan Nagappan	10.1109/ICSE.2013.6606579
+Integrating systematic exploration, analysis, and maintenance in software development.	Kivanç Muslu	10.1109/ICSE.2013.6606724
+A study of variability spaces in open source software.	Sarah Nadi	10.1109/ICSE.2013.6606715
+Transfer defect learning.	Jaechang Nam,Sinno Jialin Pan,Sunghun Kim 0001	10.1109/ICSE.2013.6606584
+Aluminum: principled scenario exploration through minimality.	Tim Nelson,Salman Saghafi,Daniel J. Dougherty,Kathi Fisler,Shriram Krishnamurthi	10.1109/ICSE.2013.6606569
+POPT: a problem-oriented programming and testing approach for novice students.	Vicente Lustosa Neto,Roberta Coelho,Larissa Leite,Dalton S. Guerrero,Andrea P. Mendonça	10.1109/ICSE.2013.6606660
+GROPG: a graphical on-phone debugger.	Tuan Anh Nguyen,Christoph Csallner,Nikolai Tillmann	10.1109/ICSE.2013.6606675
+DRC: a detection tool for dangling references in PHP-based web applications.	Hung Viet Nguyen,Hoan Anh Nguyen,Tung Thanh Nguyen,Tien N. Nguyen	10.1109/ICSE.2013.6606702
+SemFix: program repair via semantic analysis.	Hoang Duong Thien Nguyen,Dawei Qi,Abhik Roychoudhury,Satish Chandra 0001	10.1109/ICSE.2013.6606623
+Toddler: detecting performance problems via similar memory-access patterns.	Adrian Nistor,Linhai Song,Darko Marinov,Shan Lu 0001	10.1109/ICSE.2013.6606602
+Departures from optimality: understanding human analyst&apos;s information foraging in assisted requirements tracing.	Nan Niu,Anas Mahmoud,Zhangji Chen,Gary Bradshaw	10.1109/ICSE.2013.6606603
+Does scale really matter? ultra-large-scale systems seven years after the study (keynote).	Linda M. Northrop	10.1109/ICSE.2013.6606633
+Engineering adaptive privacy: on the role of privacy awareness requirements.	Inah Omoronyia,Luca Cavallaro,Mazeiar Salehie,Liliana Pasquale,Bashar Nuseibeh	10.1109/ICSE.2013.6606609
+Reasoning with qualitative preferences to develop optimal component-based systems.	Zachary J. Oster	10.1109/ICSE.2013.6606743
+Teaching students global software engineering skills using distributed scrum.	Maria Paasivaara,Casper Lassenius,Daniela E. Damian,Petteri Räty,Adrian Schröter	10.1109/ICSE.2013.6606664
+User involvement in software evolution practice: a case study.	Dennis Pagano,Bernd Brügge	10.1109/ICSE.2013.6606645
+How to effectively use topic models for software engineering tasks? an approach based on genetic algorithms.	Annibale Panichella,Bogdan Dit,Rocco Oliveto,Massimiliano Di Penta,Denys Poshyvanyk,Andrea De Lucia	10.1109/ICSE.2013.6606598
+Fault comprehension for concurrent programs.	Sangmin Park	10.1109/ICSE.2013.6606739
+RADAR: a tool for debugging regression problems in C/C++ software.	Fabrizio Pastore,Leonardo Mariani,Alberto Goffi	10.1109/ICSE.2013.6606711
+Automated reliability estimation over partial systematic explorations.	Esteban Pavese,Víctor A. Braberman,Sebastián Uchitel	10.1109/ICSE.2013.6606606
+A framework for self-healing software systems.	Nicolò Perino	10.1109/ICSE.2013.6606726
+UML in practice.	Marian Petre	10.1109/ICSE.2013.6606618
+Creating a shared understanding of testing culture on a social coding site.	Raphael Pham,Leif Singer,Olga Liskin,Fernando Marques Figueira Filho,Kurt Schneider	10.1109/ICSE.2013.6606557
+Building test suites in social coding sites by leveraging drive-by commits.	Raphael Pham,Leif Singer,Kurt Schneider	10.1109/ICSE.2013.6606680
+Industry involvement in ICT curriculum: a comparative survey.	Chris J. Pilgrim	10.1109/ICSE.2013.6606666
+TestEvol: a tool for analyzing test-suite evolution.	Leandro Sales Pinto,Saurabh Sinha,Alessandro Orso	10.1109/ICSE.2013.6606703
+What good are strong specifications?	Nadia Polikarpova,Carlo A. Furia,Yu Pei 0001,Yi Wei 0001,Bertrand Meyer 0001	10.1109/ICSE.2013.6606572
+1st international workshop on natural language analysis in software engineering (NaturaLiSE 2013).	Lori L. Pollock,David W. Binkley,Dawn J. Lawrie,Emily Hill 0001,Rocco Oliveto,Gabriele Bavota,Alberto Bacchelli	10.1109/ICSE.2013.6606775
+Seahawk: stack overflow in the IDE.	Luca Ponzanelli,Alberto Bacchelli,Michele Lanza	10.1109/ICSE.2013.6606701
+Dual ecological measures of focus in software development.	Daryl Posnett,Raissa M. D&apos;Souza,Premkumar T. Devanbu,Vladimir Filkov	10.1109/ICSE.2013.6606591
+Are your incoming aliases really necessary? counting the cost of object ownership.	Alex Potanin,Monique Damitio,James Noble 0001	10.1109/ICSE.2013.6606620
+Automatic testing of sequential and concurrent substitutability.	Michael Pradel,Thomas R. Gross	10.1109/ICSE.2013.6606574
+Is time-zone proximity an advantage for software development? the case of the brazilian IT industry.	Rafael Prikladnicki,Erran Carmel	10.1109/ICSE.2013.6606647
+6th international workshop on cooperative and human aspects of software engineering (CHASE 2013).	Rafael Prikladnicki,Rashina Hoda,Marcelo Cataldo,Helen Sharp,Yvonne Dittrich,Cleidson R. B. de Souza	10.1109/ICSE.2013.6606762
+On the relationships between domain-based coupling and code clones: an exploratory study.	Md. Saidur Rahman 0002,Amir Aryani,Chanchal K. Roy,Fabrizio Perin	10.1109/ICSE.2013.6606694
+How, and why, process metrics are better.	Foyzur Rahman,Premkumar T. Devanbu	10.1109/ICSE.2013.6606589
+Teaching developer skills in the first software engineering course.	Václav Rajlich	10.1109/ICSE.2013.6606661
+Why did this code change?	Sarah Rastkar,Gail C. Murphy	10.1109/ICSE.2013.6606676
+Discovering essential code elements in informal documentation.	Peter C. Rigby,Martin P. Robillard	10.1109/ICSE.2013.6606629
+Building high assurance secure applications using security patterns for capability-based platforms.	Paul Rimba	10.1109/ICSE.2013.6606727
+Analyzing the change-proneness of service-oriented systems from an industrial perspective.	Daniele Romano	10.1109/ICSE.2013.6606718
+4th international workshop on product LinE approaches in software engineering (PLEASE 2013).	Julia Rubin,Goetz Botterweck,Andreas Pleuss,David M. Weiss 0001	10.1109/ICSE.2013.6606777
+A framework for managing cloned product variants.	Julia Rubin,Marsha Chechik	10.1109/ICSE.2013.6606686
+Liberating pair programming research from the oppressive Driver/Observer regime.	Stephan Salinger,Franz Zieris,Lutz Prechelt	10.1109/ICSE.2013.6606678
+MIDAS: a design quality assessment method for industrial software.	Ganesh Samarthyam,Girish Suryanarayana,Tushar Sharma 0001,Shrinath Gupta	10.1109/ICSE.2013.6606640
+Are software patents bad? (keynote).	Pamela Samuelson	10.1109/ICSE.2013.6606631
+Toward a software product line for affective-driven self-adaptive systems.	Javier Gonzalez Sanchez	10.1109/ICSE.2013.6606722
+SNIPR: complementing code search with code retargeting capabilities.	Huascar Sanchez	10.1109/ICSE.2013.6606733
+Quantitative program slicing: separating statements by relevance.	Raúl A. Santelices,Yiji Zhang,Siyuan Jiang,Haipeng Cai,Ying-Jie Zhang	10.1109/ICSE.2013.6606695
+Authentic assessment in software engineering education based on PBL principles: a case study in the telecom market.	Simone C. dos Santos,Felipe Santana Furtado Soares	10.1109/ICSE.2013.6606655
+A roadmap for software maintainability measurement.	Juliana Saraiva	10.1109/ICSE.2013.6606742
+Reverb: recommending code-related web pages.	Nicholas Sawadsky,Gail C. Murphy,Rahul Jiresal	10.1109/ICSE.2013.6606627
+On the value of user preferences in search-based software engineering: a case study in software product lines.	Abdel Salam Sayyad,Tim Menzies,Hany H. Ammar	10.1109/ICSE.2013.6606595
+Dynamic injection of sketching features into GEF based diagram editors.	Andreas Scharf,Till Amma	10.1109/ICSE.2013.6606628
+Measuring architecture quality by structure plus history analysis.	Robert W. Schwanke,Lu Xiao 0001,Yuanfang Cai	10.1109/ICSE.2013.6606638
+Assisting developers of big data analytics applications when deploying on hadoop clouds.	Weiyi Shang,Zhen Ming Jiang,Hadi Hemmati,Bram Adams,Ahmed E. Hassan,Patrick Martin 0001	10.1109/ICSE.2013.6606586
+Mining SQL injection and cross site scripting vulnerabilities using hybrid program analysis.	Lwin Khin Shar,Hee Beng Kuan Tan,Lionel C. Briand	10.1109/ICSE.2013.6606610
+Changeset based developer communication to detect software failures.	Braden Simpson	10.1109/ICSE.2013.6606747
+Implementing database access control policy from unconstrained natural language text.	John Slankas	10.1109/ICSE.2013.6606716
+Supporting application development with structured queries in the cloud.	Michael Smit,Bradley Simmons,Mark Shtern,Marin Litoiu	10.1109/ICSE.2013.6606681
+Towards recognizing and rewarding efficient developer work patterns.	Will Snipes,Vinay Augustine,Anil R. Nair,Emerson R. Murphy-Hill	10.1109/ICSE.2013.6606697
+Sketching software in the wild.	David Socha,Josh Tenenberg	10.1109/ICSE.2013.6606687
+A proposal for the improvement of project&apos;s cost predictability using EVM and historical data of cost.	Adler Diniz de Souza	10.1109/ICSE.2013.6606740
+Formal specifications better than function points for code sizing.	Mark Staples,Rafal Kolanski,Gerwin Klein,Corey Lewis,June Andronick,Toby C. Murray,D. Ross Jeffery,Len Bass	10.1109/ICSE.2013.6606692
+Using mutation analysis for a model-clone detector comparison framework.	Matthew Stephan,Manar H. Alalfi,Andrew Stevenson,James R. Cordy	10.1109/ICSE.2013.6606693
+Understanding regression failures through test-passing and test-failing code changes.	Roykrong Sukkerd,Ivan Beschastnikh,Jochen Wuttke,Sai Zhang 0001,Yuriy Brun	10.1109/ICSE.2013.6606672
+Comparative causality: explaining the differences between executions.	William N. Sumner,Xiangyu Zhang 0001	10.1109/ICSE.2013.6606573
+Human performance regression testing.	Amanda Swearngin,Myra B. Cohen,Bonnie E. John,Rachel K. E. Bellamy	10.1109/ICSE.2013.6606561
+Learning revised models for planning in adaptive systems.	Daniel Sykes,Domenico Corapi,Jeff Magee,Jeff Kramer,Alessandra Russo,Katsumi Inoue	10.1109/ICSE.2013.6606552
+Service networks for development communities.	Damian A. Tamburri,Patricia Lago,Hans van Vliet	10.1109/ICSE.2013.6606691
+Dynamic synthesis of local time requirement for service composition.	Tian Huat Tan,Étienne André,Jun Sun 0001,Yang Liu 0003,Jin Song Dong,Manman Chen	10.1109/ICSE.2013.6606600
+Efficient and change-resilient test automation: an industrial case study.	Suresh Thummalapenta,Pranavadatta Devaki,Saurabh Sinha,Satish Chandra 0001,Sivagami Gnanasundaram,Deepa D. Nagaraj,Sampathkumar Sathishkumar	10.1109/ICSE.2013.6606650
+Guided test generation for web applications.	Suresh Thummalapenta,K. Vasanta Lakshmi,Saurabh Sinha,Nishant Sinha 0001,Satish Chandra 0001	10.1109/ICSE.2013.6606562
+Detecting spurious counterexamples efficiently in abstract model checking.	Cong Tian,Zhenhua Duan	10.1109/ICSE.2013.6606566
+Teaching and learning programming and software engineering via interactive gaming.	Nikolai Tillmann,Jonathan de Halleux,Tao Xie 0001,Sumit Gulwani,Judith Bishop	10.1109/ICSE.2013.6606662
+Mitigating the obsolescence of specification models of service-based systems.	Romina Torres	10.1109/ICSE.2013.6606745
+Broken sets in software repository evolution.	Jérôme Vouillon,Roberto Di Cosmo	10.1109/ICSE.2013.6606587
+Improving feature location practice with multi-faceted interactive exploration.	Jinshui Wang,Xin Peng 0001,Zhenchang Xing,Wenyun Zhao	10.1109/ICSE.2013.6606622
+Supporting swift reaction: automatically uncovering performance problems by systematic experiments.	Alexander Wert,Jens Happe,Lucia Happe	10.1109/ICSE.2013.6606601
+Observable modified Condition/Decision coverage.	Michael W. Whalen,Gregory Gay 0002,Dongjiang You,Mats Per Erik Heimdahl,Matt Staats	10.1109/ICSE.2013.6606556
+A large scale Linux-kernel based benchmark for feature location research.	Zhenchang Xing,Yinxing Xue,Stan Jarzabek	10.1109/ICSE.2013.6606705
+Exploring the impact of inter-smell relations on software maintainability: an empirical study.	Aiko Fallas Yamashita,Leon Moonen	10.1109/ICSE.2013.6606614
+Memoise: a tool for memoized symbolic execution.	Guowei Yang 0001,Sarfraz Khurshid,Corina S. Pasareanu	10.1109/ICSE.2013.6606713
+An observable and controllable testing framework for modern systems.	Tingting Yu	10.1109/ICSE.2013.6606721
+Categorizing bugs with social networks: a case study on four open source software communities.	Marcelo Serrano Zanetti,Ingo Scholtes,Claudio Juan Tessone,Frank Schweitzer	10.1109/ICSE.2013.6606653
+A framework to evaluate software engineering student contests: evaluation and integration with academic programs.	Amir Zeid	10.1109/ICSE.2013.6606658
+Practical semantic test simplification.	Sai Zhang 0001	10.1109/ICSE.2013.6606671
+ConfDiagnoser: an automated configuration error diagnosis tool for Java software.	Sai Zhang 0001	10.1109/ICSE.2013.6606737
+Automated diagnosis of software configuration errors.	Sai Zhang 0001,Michael D. Ernst	10.1109/ICSE.2013.6606577
+Predicting bug-fixing time: an empirical study of commercial software projects.	Hongyu Zhang 0002,Liang Gong,Steven Versteeg	10.1109/ICSE.2013.6606654
+Bridging the gap between the total and additional test-case prioritization strategies.	Lingming Zhang 0001,Dan Hao 0001,Lu Zhang 0023,Gregg Rothermel,Hong Mei 0001	10.1109/ICSE.2013.6606565
+Software analytics: achievements and challenges.	Dongmei Zhang 0001,Tao Xie 0001	10.1109/ICSE.2013.6606753
+Pathways to technology transfer and adoption: achievements and challenges (mini-tutorial).	Dongmei Zhang 0001,Tao Xie 0001	10.1109/ICSE.2013.6606644
+Path sensitive static analysis of web applications for remote code execution vulnerability detection.	Yunhui Zheng,Xiangyu Zhang 0001	10.1109/ICSE.2013.6606611
+8th international workshop on automation of software test (AST 2013).	Hong Zhu 0002,Henry Muccini,Zhenyu Chen 0001	10.1109/ICSE.2013.6606760
+35th International Conference on Software Engineering, ICSE &apos;13, San Francisco, CA, USA, May 18-26, 2013	David Notkin,Betty H. C. Cheng,Klaus Pohl	

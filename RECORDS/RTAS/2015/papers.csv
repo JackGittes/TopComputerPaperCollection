@@ -1,0 +1,32 @@
+Demo abstract: Multi-modal scheduling of radar-based cruise control system.	Masud Ahmed,Honglei Chen,Nathan Fisher	10.1109/RTAS.2015.7108459
+Analysis of real-time multi-modal FP-scheduled systems with non-preemptible regions.	Masud Ahmed,Pradeep M. Hettiarachchi,Nathan Fisher	10.1109/RTAS.2015.7108415
+An efficient configuration methodology for time-division multiplexed single resources.	Benny Akesson,Anna Minaeva,Premysl Sucha,Andrew Nelson 0001,Zdenek Hanzálek	10.1109/RTAS.2015.7108439
+Task placement and selection of data consistency mechanisms for real-time multicore applications.	Zaid Al-bayati,Youcheng Sun,Haibo Zeng 0001,Marco Di Natale,Qi Zhu 0002,Brett H. Meyer	10.1109/RTAS.2015.7108440
+Memory efficient global scheduling of real-time tasks.	Ahmed Alhammad,Saud Wasly,Rodolfo Pellizzoni	10.1109/RTAS.2015.7108452
+Jfair: a scheduling algorithm to stabilize control applications.	Amir Aminifar,Petru Eles,Zebo Peng	10.1109/RTAS.2015.7108417
+Demo abstract: Taming many heterogeneous cores.	Nils Asmussen,Marcus Völp,Benedikt Nöthen,Annett Ungethüm	10.1109/RTAS.2015.7108457
+Demo abstract: A multithreaded arduino system for embedded computing.	Zhuoqun Cheng,Ye Li 0001,Richard West	10.1109/RTAS.2015.7108460
+Demo abstract: An energy/utility demo - Energy-aware resource scheduling under utility considerations.	Marcus Hähnel,Hermann Härtig	10.1109/RTAS.2015.7108458
+Reverse-engineering embedded memory controllers through latency-based analysis.	Mohamed Hassan 0002,Anirudh M. Kaushik,Hiren D. Patel	10.1109/RTAS.2015.7108453
+A framework for scheduling DRAM memory accesses for multi-core mixed-time critical systems.	Mohamed Hassan 0002,Hiren D. Patel,Rodolfo Pellizzoni	10.1109/RTAS.2015.7108454
+dOSEK: the design and implementation of a dependability-oriented static embedded kernel.	Martin Hoffmann 0001,Florian Lukas,Christian Dietrich 0001,Daniel Lohmann	10.1109/RTAS.2015.7108449
+POET: a portable approach to minimizing energy under soft real-time constraints.	Connor Imes,David H. K. Kim,Martina Maggio,Henry Hoffmann	10.1109/RTAS.2015.7108419
+A feedback scheduling framework for component-based soft real-time systems.	Nima Moghaddami Khalilzad,Fanxin Kong,Xue Liu 0001,Moris Behnam,Thomas Nolte	10.1109/RTAS.2015.7108441
+Budgeted generalized rate monotonic analysis for the partitioned, yet globally scheduled uniprocessor model.	Jung-Eun Kim,Tarek F. Abdelzaher,Lui Sha	10.1109/RTAS.2015.7108445
+A predictable and command-level priority-based DRAM controller for mixed-criticality systems.	Hokeun Kim,David Broman,Edward A. Lee,Michael Zimmer 0001,Aviral Shrivastava,Junkwang Oh	10.1109/RTAS.2015.7108455
+When thermal control meets sensor noise: analysis of noise-induced temperature error.	Dohwan Kim,Kyung-Joon Park,Yongsoon Eun,Sang Hyuk Son,Chenyang Lu 0001	10.1109/RTAS.2015.7108421
+Multicore scheduling of parallel real-time tasks with multiple parallelization options.	Jihye Kwon,Kang-Wook Kim,Sangyoun Paik,Jihwa Lee,Chang-Gun Lee	10.1109/RTAS.2015.7108446
+Ultrasonic time synchronization and ranging on smartphones.	Patrick Lazik,Niranjini Rajagopal,Bruno Sinopoli,Anthony Rowe 0001	10.1109/RTAS.2015.7108422
+The Packing Server for real-time scheduling of MapReduce workflows.	Shen Li,Shaohan Hu,Tarek F. Abdelzaher	10.1109/RTAS.2015.7108416
+Prioritizing soft real-time network traffic in virtualized hosts based on Xen.	Chong Li,Sisu Xi,Chenyang Lu 0001,Christopher D. Gill,Roch Guérin	10.1109/RTAS.2015.7108436
+Providing task isolation via TLB coloring.	Shrinivas Anand Panchamukhi,Frank Mueller 0001	10.1109/RTAS.2015.7108391
+Unifying fixed- and dynamic-priority scheduling based on priority promotion and an improved ready queue management technique.	Risat Mahmud Pathan	10.1109/RTAS.2015.7108444
+A generalized model for preventing information leakage in hard real-time systems.	Rodolfo Pellizzoni,Neda Paryab,Man-Ki Yoon,Stanley Bak,Sibin Mohan,Rakesh Bobba	10.1109/RTAS.2015.7108450
+Mixed-criticality runtime mechanisms and evaluation on multicores.	Lukas Sigrist,Georgia Giannopoulou,Pengcheng Huang,Andres Gomez 0001,Lothar Thiele	10.1109/RTAS.2015.7108442
+C&apos;Mon: a predictable monitoring infrastructure for system-level latent fault detection and recovery.	Jiguo Song,Gabriel Parmer	10.1109/RTAS.2015.7108448
+SPeCK: a kernel for scalable predictability.	Qi Wang,Yuxin Ren,Matt Scaperoth,Gabriel Parmer	10.1109/RTAS.2015.7108434
+Top-down and bottom-up multi-level cache analysis for WCET estimation.	Zhenkai Zhang,Xenofon D. Koutsoukos	10.1109/RTAS.2015.7108413
+Optimizing deterministic garbage collection in NAND flash storage systems.	Qi Zhang,Xuandong Li,Linzhang Wang,Tian Zhang 0001,Yi Wang 0003,Zili Shao	10.1109/RTAS.2015.7108392
+GPES: a preemptive execution system for GPGPU computing.	Husheng Zhou,Guangmo Tong,Cong Liu 0005	10.1109/RTAS.2015.7108420
+AUTOBEST: a united AUTOSAR-OS and ARINC 653 kernel.	Alexander Zuepke,Marc Bommert,Daniel Lohmann	10.1109/RTAS.2015.7108435
+21st IEEE Real-Time and Embedded Technology and Applications Symposium, Seattle, WA, USA, April 13-16, 2015		

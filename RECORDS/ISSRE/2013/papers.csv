@@ -1,0 +1,48 @@
+Stress testing of task deadlines: A constraint programming approach.	Stefano Di Alesio,Shiva Nejati,Lionel C. Briand,Arnaud Gotlieb	10.1109/ISSRE.2013.6698915
+Fault localization in embedded software based on a single cyclic trace.	Azzeddine Amiar,Mickaël Delahaye,Yliès Falcone,Lydie du Bousquet	10.1109/ISSRE.2013.6698914
+Characterizing configuration problems in Java EE application servers: An empirical study with GlassFish and JBoss.	Fahad A. Arshad,Rebecca J. Krause,Saurabh Bagchi	10.1109/ISSRE.2013.6698919
+A fusion approach for classifying duplicate problem reports.	Sean Banerjee,Zahid A. Syed,Jordan Helmick,Bojan Cukic	10.1109/ISSRE.2013.6698920
+A structured and model-based hazard analysis and risk assessment method for automotive systems.	Kristian Beckers,Maritta Heisel,Thomas Frese,Denis Hatebur	10.1109/ISSRE.2013.6698923
+Combining testing and proof to gain high assurance in software: A case study.	Peter G. Bishop,Robin E. Bloomfield,Lukasz Cyra	10.1109/ISSRE.2013.6698924
+Got issues? Who cares about it? A large scale investigation of issue trackers from GitHub.	Tegawendé F. Bissyandé,David Lo 0001,Lingxiao Jiang,Laurent Réveillère,Jacques Klein,Yves Le Traon	10.1109/ISSRE.2013.6698918
+Keynote speaker 1: The economics of systems and software reliability.	Barry W. Boehm,Gerard J. Holzmann	10.1109/ISSRE.2013.6698876
+Towards fast OS rejuvenation: An experimental evaluation of fast OS reboot techniques.	Antonio Bovenzi,Javier Alonso,Hiroshi Yamada,Stefano Russo 0001,Kishor S. Trivedi	10.1109/ISSRE.2013.6698905
+Quantifying the influence of failure repair/mitigation costs on service-based systems.	Vittorio Cortellessa,Raffaela Mirandola,Fabrizio Marinelli 0001,Pasqualina Potena	10.1109/ISSRE.2013.6698908
+Fault triggers in open-source software: An experience report.	Domenico Cotroneo,Michael Grottke,Roberto Natella,Roberto Pietrantuono,Kishor S. Trivedi	10.1109/ISSRE.2013.6698917
+Model-driven synthesis of monitoring infrastructure for reliable adaptive multi-agent systems.	Benedikt Eberhardinger,Jan-Philipp Steghöfer,Florian Nafz,Wolfgang Reif	10.1109/ISSRE.2013.6698901
+Request success rate of multipathing I/O with a paired storage controller.	Gangadhar Enagandula,Varsha Apte,Bipul Raj	10.1109/ISSRE.2013.6698906
+Sinfer: Inferring information flow lattices for checking self-stabilization.	Yong Hun Eom,Brian Demsky	10.1109/ISSRE.2013.6698925
+Feedback-directed exploration of web applications to derive test models.	Amin Milani Fard,Ali Mesbah 0001	10.1109/ISSRE.2013.6698880
+Finding test data with specific properties via metaheuristic search.	Robert Feldt,Simon M. Poulding	10.1109/ISSRE.2013.6698888
+Improving search-based test suite generation with dynamic symbolic execution.	Juan Pablo Galeotti,Gordon Fraser 0001,Andrea Arcuri	10.1109/ISSRE.2013.6698889
+A study of the relationship between antivirus regressions and label changes.	Ilir Gashi,Bertrand Sobesto,Stephen Mason,Vladimir Stankovic 0002,Michel Cukier	10.1109/ISSRE.2013.6698897
+Fault localization based on failure-inducing combinations.	Laleh Shikh Gholamhossein Ghandehari,Yu Lei 0001,David Chenho Kung,Raghu Kacker,D. Richard Kuhn	10.1109/ISSRE.2013.6698916
+An empirical study of the effect of learning styles on the faults found during the software requirements inspection.	Anurag Goswami,Gursimran S. Walia	10.1109/ISSRE.2013.6698886
+Help, help, i&apos;m being suppressed! The significance of suppressors in software testing.	Alex Groce,Chaoqiang Zhang,Mohammad Amin Alipour,Eric Eide,Yang Chen 0024,John Regehr	10.1109/ISSRE.2013.6698892
+Predicting defects using change genealogies.	Kim Herzig,Sascha Just,Andreas Rau 0001,Andreas Zeller	10.1109/ISSRE.2013.6698911
+Quantifying software test process and product reliability simultaneously.	Shinya Ikemoto,Tadashi Dohi,Hiroyuki Okamura	10.1109/ISSRE.2013.6698910
+Nonparametric bootstrapping interval estimations for software release planning with reliability objective.	Shinji Inoue,Shigeru Yamada	10.1109/ISSRE.2013.6698907
+An experience report for software quality evaluation in highly iterative development methodology using traditional metrics.	Kumi Jinzenji,Takashi Hoshino,Laurie A. Williams,Kenji Takahashi	10.1109/ISSRE.2013.6698884
+Using machine learning techniques to detect metamorphic relations for programs without test oracles.	Upulee Kanewala,James M. Bieman	10.1109/ISSRE.2013.6698899
+Design of distribution automation networks using survivability modeling and power flow equations.	Anne Koziolek,Alberto Avritzer,Sindhu Suresh,Daniel Sadoc Menasché,Kishor S. Trivedi,Lucia Happe	10.1109/ISSRE.2013.6698903
+Is bytecode instrumentation as good as source code instrumentation: An empirical study with industrial tools (Experience Report).	Nan Li 0008,Xin Meng,Jeff Offutt,Lin Deng	10.1109/ISSRE.2013.6698891
+Composing hierarchical stochastic model from SysML for system availability analysis.	Fumio Machida,Jianwen Xiang,Kumiko Tadano,Yoshiharu Maeno	10.1109/ISSRE.2013.6698904
+A pattern-based approach for GUI modeling and testing.	Rodrigo M. L. M. Moreira,Ana C. R. Paiva,Atif Memon	10.1109/ISSRE.2013.6698881
+A host-based anomaly detection approach by representing system calls as states of kernel modules.	Syed Shariyar Murtaza,Wael Khreich,Abdelwahab Hamou-Lhadj,Mario Couture	10.1109/ISSRE.2013.6698896
+Filtering noise in mixed-purpose fixing commits to improve defect prediction and localization.	Hoan Anh Nguyen,Anh Tuan Nguyen 0001,Tien N. Nguyen	10.1109/ISSRE.2013.6698913
+Automatic skeleton generation for data-aware service choreographies.	Huu Nghia Nguyen,Pascal Poizat,Fatiha Zaïdi	10.1109/ISSRE.2013.6698885
+SRATS: Software reliability assessment tool on spreadsheet (Experience report).	Hiroyuki Okamura,Tadashi Dohi	10.1109/ISSRE.2013.6698909
+Constructing subtle higher order mutants for Java and AspectJ programs.	Elmahdi Omar,Sudipto Ghosh,L. Darrell Whitley	10.1109/ISSRE.2013.6698887
+Evaluating long-term predictive power of standard reliability growth models on automotive systems.	Rakesh Rana,Miroslaw Staron,Christian Berger 0001,Jörgen Hansson,Martin Nilsson 0002,Fredrik Törner	10.1109/ISSRE.2013.6698922
+Keep it moving: Proactive workload management for reducing SLA violations in large scale SaaS clouds.	Arpan Roy,Rajeshwari Ganesan,Santonu Sarkar	10.1109/ISSRE.2013.6698895
+Static analysis versus penetration testing: A controlled experiment.	Riccardo Scandariato,James Walden,Wouter Joosen	10.1109/ISSRE.2013.6698898
+Model-based testing of NASA&apos;s OSAL API - An experience report.	Christoph Schulze 0001,Dharmalingam Ganesan,Mikael Lindvall,Dave Mcf Omas,Alan Cudmore	10.1109/ISSRE.2013.6698883
+Predicting risk of pre-release code changes with Checkinmentor.	Alexander Tarvo,Nachiappan Nagappan,Thomas Zimmermann 0001	10.1109/ISSRE.2013.6698912
+Search-based data-flow test generation.	Mattia Vivanti,Andre Mis,Alessandra Gorla,Gordon Fraser 0001	10.1109/ISSRE.2013.6698890
+Relevant inputs analysis and its applications.	Yan Wang,Rajiv Gupta 0001,Iulian Neamtiu	10.1109/ISSRE.2013.6698926
+Analysis of local re-execution in mobile offloading system.	Qiushi Wang,Marti Griera Jorba,Joan Martinez Ripoll,Katinka Wolter	10.1109/ISSRE.2013.6698902
+Experience report: Assessing the reliability of an industrial avionics software: Results, insights and recommendations.	Ji Wu 0003,Shaukat Ali 0001,Tao Yue 0002,Jie Tian	10.1109/ISSRE.2013.6698921
+Permlyzer: Analyzing permission usage in Android applications.	Wei Xu,Fangfang Zhang 0005,Sencun Zhu	10.1109/ISSRE.2013.6698893
+Systematic testing for resource leaks in Android applications.	Dacong Yan,Shengqian Yang,Atanas Rountev	10.1109/ISSRE.2013.6698894
+An empirical comparison of the fault-detection capabilities of internal oracles.	Tingting Yu,Witawas Srisa-an,Gregg Rothermel	10.1109/ISSRE.2013.6698900
+IEEE 24th International Symposium on Software Reliability Engineering, ISSRE 2013, Pasadena, CA, USA, November 4-7, 2013		

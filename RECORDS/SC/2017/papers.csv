@@ -1,0 +1,65 @@
+Massively parallel 3D image reconstruction.	Xiao Wang 0004,Amit Sabne,Putt Sakdhnagool,Sherman J. Kisner,Charles A. Bouman,Samuel P. Midkiff	10.1145/3126908.3126911
+Leveraging near data processing for high-performance checkpoint/restart.	Abhinav Agrawal 0003,Gabriel H. Loh,James Tuck	10.1145/3126908.3126918
+Topology-aware GPU scheduling for learning workloads in cloud environments.	Marcelo Amaral,Jordà Polo,David Carrera 0001,Seetharami R. Seelam,Malgorzata Steinder	10.1145/3126908.3126933
+Scalable reduction collectives with data partitioning-based multi-leader design.	Mohammadreza Bayatpour,Sourav Chakraborty 0003,Hari Subramoni,Xiaoyi Lu,Dhabaleswar K. Panda 0001	10.1145/3126908.3126954
+Obtaining dynamic scheduling policies with simulation and machine learning.	Danilo Carastan-Santos,Raphael Y. de Camargo	10.1145/3126908.3126955
+Low communication FMM-accelerated FFT on GPUs.	Cris Cecka	10.1145/3126908.3126919
+Sympiler: transforming sparse matrix codes by decoupling symbolic analysis.	Kazem Cheshmi,Shoaib Kamil 0001,Michelle Mills Strout,Maryam Mehri Dehnavi	10.1145/3126908.3126936
+Run-to-run variability on Xeon Phi based cray XC systems.	Sudheer Chunduri,Kevin Harms,Scott Parker,Vitali A. Morozov,Samuel Oshin,Naveen Cherukuri,Kalyan Kumaran	10.1145/3126908.3126926
+A comparative study of SDN and adaptive routing on dragonfly networks.	Peyman Faizian,Md Atiqul Mollah,Zhou Tong,Xin Yuan 0001,Michael Lang 0003	10.1145/3126908.3126959
+Galactos: computing the anisotropic 3-point correlation function for 2 billion galaxies.	Brian Friesen,Md. Mostofa Ali Patwary,Brian Austin,Nadathur Satish,Zachary Slepian,Narayanan Sundaram,Deborah Bard,Daniel J. Eisenstein,Jack Deslippe,Pradeep Dubey,Prabhat	10.1145/3126908.3126927
+18.9-Pflops nonlinear earthquake simulation on Sunway TaihuLight: enabling depiction of 18-Hz and 8-meter scenarios.	Haohuan Fu,Conghui He,Bingwei Chen,Zekun Yin,Zhenguo Zhang,Wenqiang Zhang,Tingjian Zhang,Wei Xue,Weiguo Liu,Wanwang Yin,Guangwen Yang,Xiaofei Chen	10.1145/3126908.3126910
+Redesigning CAM-SE for peta-scale climate modeling performance and ultra-high resolution on Sunway TaihuLight.	Haohuan Fu,Junfeng Liao,Nan Ding 0006,Xiaohui Duan,Lin Gan,Yishuang Liang,Xinliang Wang,Jinzhe Yang,Yan Zheng,Weiguo Liu,Lanning Wang,Guangwen Yang	10.1145/3126908.3126909
+REFINE: realistic fault injection via compiler-based instrumentation for accuracy, portability and speed.	Giorgis Georgakoudis,Ignacio Laguna,Dimitrios S. Nikolopoulos,Martin Schulz 0001	10.1145/3126908.3126972
+A framework for scalable biophysics-based image analysis.	Amir Gholami,Andreas Mang,Klaudius Scheufele,Christos Davatzikos,Miriam Mehl,George Biros	10.1145/3126908.3126930
+ScrubJay: deriving knowledge from the disarray of HPC performance data.	Alfredo Giménez,Todd Gamblin,Abhinav Bhatele,Chad Wood,Kathleen Shoga,Aniruddha Marathe,Peer-Timo Bremer,Bernd Hamann,Martin Schulz 0001	10.1145/3126908.3126935
+Egeria: a framework for automatic synthesis of HPC advising tools through multi-layered natural language processing.	Hui Guan,Xipeng Shen,Hamid Krim	10.1145/3126908.3126961
+Failures in large scale systems: long-term measurement, analysis, and implications.	Saurabh Gupta 0002,Tirthak Patel,Christian Engelmann,Devesh Tiwari	10.1145/3126908.3126937
+0.5 petabyte simulation of a 45-qubit quantum circuit.	Thomas Häner,Damian S. Steiger	10.1145/3126908.3126947
+sPIN: high-performance streaming processing in the network.	Torsten Hoefler,Salvatore Di Girolamo,Konstantin Taranov,Ryan E. Grant,Ron Brightwell	10.1145/3126908.3126970
+Efficient and scalable calculation of complex band structure using Sakurai-Sugiura method.	Shigeru Iwase,Yasunori Futamura,Akira Imakura,Tetsuya Sakurai,Tomoya Ono	10.1145/3126908.3126942
+Predicting the performance impact of different fat-tree configurations.	Nikhil Jain,Abhinav Bhatele,Louis H. Howell,David Böhme,Ian Karlin,Edgar A. León,Misbah Mubarak,Noah Wolfe,Todd Gamblin,Matthew L. Leininger	10.1145/3126908.3126967
+Understanding object-level memory access patterns across the spectrum.	Xu Ji,Chao Wang 0056,Nosayba El-Sayed,Xiaosong Ma,Youngjae Kim 0001,Sudharshan S. Vazhkudai,Wei Xue,Daniel Sánchez 0003	10.1145/3126908.3126917
+Designing vector-friendly compact BLAS and LAPACK kernels.	Kyungjoo Kim,Timothy B. Costa,Mehmet Deveci,Andrew M. Bradley,Simon D. Hammond,Murat Efe Guney,Sarah Knepper,Shane Story,Sivasankaran Rajamanickam	10.1145/3126908.3126941
+Toward standardized near-data processing with unrestricted data placement for GPUs.	Gwangsun Kim,Niladrish Chatterjee,Mike O&apos;Connor,Kevin Hsieh	10.1145/3126908.3126965
+PapyrusKV: a high-performance parallel key-value store for distributed NVM architectures.	Jungwon Kim,Seyong Lee,Jeffrey S. Vetter	10.1145/3126908.3126943
+Deep learning at 15PF: supervised and semi-supervised classification for scientific data.	Thorsten Kurth,Jian Zhang 0049,Nadathur Satish,Evan Racah,Ioannis Mitliagkas,Md. Mostofa Ali Patwary,Tareq M. Malas,Narayanan Sundaram,Wahid Bhimji,Mikhail Smorkalov,Jack Deslippe,Mikhail Shiryaev,Srinivas Sridharan 0002,Prabhat,Pradeep Dubey	10.1145/3126908.3126916
+GPU triggered networking for intra-kernel communications.	Michael LeBeane,Khaled Hamidouche,Brad Benton,Maurício Breternitz,Steven K. Reinhardt,Lizy K. John	10.1145/3126908.3126950
+CAPES: unsupervised storage performance tuning using neural network-based deep reinforcement learning.	Yan Li 0006,Kenneth Chang,Oceane Bel,Ethan L. Miller,Darrell D. E. Long	10.1145/3126908.3126951
+Parastack: efficient hang detection for MPI programs at large scale.	Hongbo Li 0006,Zizhong Chen,Rajiv Gupta 0001	10.1145/3126908.3126938
+Understanding error propagation in deep learning neural network (DNN) accelerators and applications.	Guanpeng Li,Siva Kumar Sastry Hari,Michael B. Sullivan 0001,Timothy Tsai 0002,Karthik Pattabiraman,Joel S. Emer,Stephen W. Keckler	10.1145/3126908.3126964
+Exploring and analyzing the real impact of modern on-package memory on HPC scientific kernels.	Ang Li 0006,Weifeng Liu 0002,Mads Ruben Burgdorff Kristensen,Brian Vinter,Hao Wang 0002,Kaixi Hou,Andres Marquez,Shuaiwen Leon Song	10.1145/3126908.3126931
+LocoFS: a loosely-coupled metadata service for distributed file systems.	Siyang Li,Youyou Lu,Jiwu Shu,Yang Hu 0001,Tao Li 0006	10.1145/3126908.3126928
+Correcting soft errors online in fast fourier transform.	Xin Liang 0001,Jieyang Chen,Dingwen Tao,Sihuan Li,Panruo Wu,Hongbo Li 0006,Kaiming Ouyang,Yuanlai Liu,Fengguang Song,Zizhong Chen	10.1145/3126908.3126915
+DataRaceBench: a benchmark suite for systematic evaluation of data race detection tools.	Chunhua Liao,Pei-Hung Lin,Joshua Asplund,Markus Schordan,Ian Karlin	10.1145/3126908.3126958
+Scientific user behavior and data-sharing trends in a petascale file system.	Seung-Hwan Lim,Hyogi Sim,Raghul Gunasekaran,Sudharshan S. Vazhkudai	10.1145/3126908.3126924
+Performance modeling under resource constraints using deep transfer learning.	Aniruddha Marathe,Rushil Anirudh,Nikhil Jain,Abhinav Bhatele,Jayaraman J. Thiagarajan,Bhavya Kailkhura,Jae-Seung Yeom,Barry Rountree,Todd Gamblin	10.1145/3126908.3126969
+Embracing a new era of highly efficient and productive quantum Monte Carlo simulations.	Amrita Mathuriya,Ye Luo,Raymond C. Clay III,Anouar Benali,Luke Shulenburger,Jeongnim Kim	10.1145/3126908.3126952
+An efficient MPI/openMP parallelization of the Hartree-Fock method for the second generation of Intel® Xeon Phi™ processor.	Vladimir A. Mironov,Yuri Alexeev,Kristopher Keipert,Michael D&apos;Mello,Alexander A. Moskovsky,Mark S. Gordon	10.1145/3126908.3126956
+Large-scale adaptive mesh simulations through non-volatile byte-addressable memory.	Bao Nguyen,Hua Tan,Xuechen Zhang	10.1145/3126908.3126944
+Experimental and analytical study of Xeon Phi reliability.	Daniel Oliveira 0002,Laércio Lima Pilla,Nathan DeBardeleben,Sean Blanchard,Heather Quinn,Israel Koren,Philippe O. A. Navaux,Paolo Rech	10.1145/3126908.3126960
+Gravel: fine-grain GPU-initiated network messages.	Marc S. Orr,Shuai Che,Bradford M. Beckmann,Mark Oskin,Steven K. Reinhardt,David A. Wood 0001	10.1145/3126908.3126914
+Charliecloud: unprivileged containers for user-defined software stacks in HPC.	Reid Priedhorsky,Tim Randles	10.1145/3126908.3126925
+Securing HPC: development of a low cost, open source multi-factor authentication infrastructure.	W. Cyrus Proctor,Patrick Storm,Matthew R. Hanlon,Nathaniel Mendoza	10.1145/3126908.3126957
+A configurable rule based classful token bucket filter network request scheduler for the lustre file system.	Yingjin Qian,Xi Li,Shuichi Ihara,Lingfang Zeng,Jürgen Kaiser,Tim Süß,André Brinkmann	10.1145/3126908.3126932
+Why is MPI so slow?: analyzing the fundamental limits in implementing MPI-3.1.	Ken Raffenetti,Abdelhalim Amer,Lena Oden,Charles Archer,Wesley Bland,Hajime Fujita 0002,Yanfei Guo,Tomislav Janjusic,Dmitry Durnov,Michael Blocksome,Min Si,Sangmin Seo,Akhil Langer,Gengbin Zheng,Masamichi Takagi,Paul K. Coffman,Jithin Jose,Sayantan Sur,Alexander Sannikov,Sergey Oblomov,Michael Chuvelev,Masayuki Hatanaka,Xin Zhao,Paul F. Fischer,Thilina Rathnayake,Matthew Otten,Misun Min,Pavan Balaji	10.1145/3126908.3126963
+Tagit: an integrated indexing and search service for file systems.	Hyogi Sim,Youngjae Kim 0001,Sudharshan S. Vazhkudai,Geoffroy R. Vallée,Seung-Hwan Lim,Ali Raza Butt	10.1145/3126908.3126929
+Control replication: compiling implicit parallelism to efficient SPMD with logical regions.	Elliott Slaughter,Wonchan Lee,Sean Treichler,Wen Zhang,Michael Bauer 0001,Galen M. Shipman,Patrick S. McCormick,Alex Aiken	10.1145/3126908.3126949
+Scaling betweenness centrality using communication-efficient sparse matrix multiplication.	Edgar Solomonik,Maciej Besta,Flavio Vella,Torsten Hoefler	10.1145/3126908.3126971
+Towards fine-grained dynamic tuning of HPC applications on modern multi-core architectures.	Mohammed Sourouri,Espen Birger Raknes,Nico Reissmann,Johannes Langguth,Daniel Hackenberg,Robert Schöne,Per Gunnar Kjeldsberg	10.1145/3126908.3126945
+Representative paths analysis.	Nathan R. Tallent,Darren J. Kerbyson,Adolfy Hoisie	10.1145/3126908.3126962
+Melissa: large scale in transit sensitivity analysis avoiding intermediate files.	Théophile Terraz,Alejandro Ribés,Yvan Fournier,Bertrand Iooss,Bruno Raffin	10.1145/3126908.3126922
+Input-aware auto-tuning of compute-bound HPC kernels.	Philippe Tillet,David D. Cox	10.1145/3126908.3126939
+Extreme scale multi-physics simulations of the tsunamigenic 2004 sumatra megathrust earthquake.	Carsten Uphoff,Sebastian Rettenberger,Michael Bader,Elizabeth H. Madden,Thomas Ulrich,Stephanie Wollherr,Alice-Agnes Gabriel	10.1145/3126908.3126948
+Optimizing geometric multigrid method computation using a DSL approach.	Vinay Vasista,Kumudha Narasimhan,Siddharth Bhat,Uday Bondhugula	10.1145/3126908.3126968
+GUIDE: a scalable information directory service to collect, federate, and analyze logs for operational insights into a leadership HPC facility.	Sudharshan S. Vazhkudai,Ross G. Miller,Devesh Tiwari,Christopher Zimmer 0001,Feiyi Wang,Sarp Oral,Raghul Gunasekaran,Deryl Steinert	10.1145/3126908.3126946
+Transactional NVM cache with high performance and crash consistency.	Qingsong Wei,Chundong Wang 0001,Cheng Chen 0008,Yechao Yang,Jun Yang 0022,Mingdi Xue	10.1145/3126908.3126940
+Distributed southwell: an iterative method with low communication costs.	Jordi Wolfson-Pou,Edmond Chow	10.1145/3126908.3126966
+Probabilistic guarantees of execution duration for Amazon spot instances.	Rich Wolski,John Brevik,Ryan Chard,Kyle Chard	10.1145/3126908.3126953
+Optimizing the query performance of block index through data analysis and I/O modeling.	Tzu-Hsien Wu,Jerry Chi-Yuan Chou,Shyng Hao,Bin Dong 0002,Scott Klasky,Kesheng Wu	10.1145/3126908.3126934
+Unimem: runtime data managementon non-volatile memory-based heterogeneous main memory.	Kai Wu 0006,Yingchao Huang,Dong Li 0001	10.1145/3126908.3126923
+Scaling deep learning on GPU and knights landing clusters.	Yang You 0001,Aydin Buluç,James Demmel	10.1145/3126908.3126912
+Geometry-oblivious FMM for compressing dense SPD matrices.	Chenhan D. Yu,James Levitt,Severin Reiz,George Biros	10.1145/3126908.3126921
+Tessellating stencils.	Liang Yuan,Yunquan Zhang,Peng Guo,Shan Huang	10.1145/3126908.3126920
+Efficient process mapping in geo-distributed cloud data centers.	Amelie Chi Zhou,Yifan Gong 0003,Bingsheng He,Jidong Zhai	10.1145/3126908.3126913
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2017, Denver, CO, USA, November 12 - 17, 2017	Bernd Mohr,Padma Raghavan	10.1145/3126908

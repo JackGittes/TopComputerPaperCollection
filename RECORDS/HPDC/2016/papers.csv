@@ -1,0 +1,32 @@
+MOS: Workload-aware Elasticity for Cloud Object Stores.	Ali Anwar 0001,Yue Cheng 0001,Aayush Gupta,Ali Raza Butt	10.1145/2907294.2907304
+Parallel Execution Profiles.	Zachary Benavides,Rajiv Gupta 0001,Xiangyu Zhang 0001	10.1145/2907294.2907311
+Scaling Spark on HPC Systems.	Nicholas Chaimov,Allen D. Malony,Shane Canon,Costin Iancu,Khaled Z. Ibrahim,Jay Srinivasan	10.1145/2907294.2907310
+DD-Graph: A Highly Cost-Effective Distributed Disk-based Graph-Processing Framework.	Yongli Cheng,Fang Wang 0001,Hong Jiang 0001,Yu Hua 0001,Dan Feng 0001,XiuNeng Wang	10.1145/2907294.2907299
+NVL-C: Static Analysis Techniques for Efficient, Correct Programming of Non-Volatile Main Memory Systems.	Joel E. Denny,Seyong Lee,Jeffrey S. Vetter	10.1145/2907294.2907303
+Routing on the Dependency Graph: A New Approach to Deadlock-Free High-Performance Routing.	Jens Domke,Torsten Hoefler,Satoshi Matsuoka	10.1145/2907294.2907313
+SDS-Sort: Scalable Dynamic Skew-aware Parallel Sorting.	Bin Dong 0002,Surendra Byna,Kesheng Wu	10.1145/2907294.2907300
+With Extreme Scale Computing the Rules Have Changed.	Jack J. Dongarra	10.1145/2907294.2926972
+Implications of Heterogeneous Memories in Next Generation Server Systems.	Ada Gavrilovska	10.1145/2907294.2911993
+SWAT: A Programmable, In-Memory, Distributed, High-Performance Computing Platform.	Max Grossman,Vivek Sarkar	10.1145/2907294.2907307
+Automatic Hybridization of Runtime Systems.	Kyle C. Hale,Conor Hetland,Peter A. Dinda	10.1145/2907294.2907309
+Scalable I/O-Aware Job Scheduling for Burst Buffer Enabled HPC Clusters.	Stephen Herbein,Dong H. Ahn,Don Lipari,Thomas R. W. Scogland,Marc Stearman,Mark Grondona,Jim Garlick,Becky Springmeyer,Michela Taufer	10.1145/2907294.2907316
+Evaluation of Pattern Matching Workloads in Graph Analysis Systems.	Seokyong Hong,Sangkeun Lee 0001,Seung-Hwan Lim,Sreenivas R. Sukumar,Ranga Raju Vatsavai	10.1145/2907294.2907305
+Improving GPU Performance Through Resource Sharing.	Vishwesh Jatala,Jayvant Anantpur,Amey Karkare	10.1145/2907294.2907298
+Self-configuring Software-defined Overlay Bypass for Seamless Inter- and Intra-cloud Virtual Networking.	Kyuho Jeong,Renato J. O. Figueiredo	10.1145/2907294.2907318
+IMPACC: A Tightly Integrated MPI+OpenACC Framework Exploiting Shared Memory Parallelism.	Jungwon Kim,Seyong Lee,Jeffrey S. Vetter	10.1145/2907294.2907302
+Network-Managed Virtual Global Address Space for Message-driven Runtimes.	Abhishek Kulkarni,Luke Dalessandro,Ezra Kissel,Andrew Lumsdaine,Thomas L. Sterling,D. Martin Swany	10.1145/2907294.2907320
+Efficient Processing of Large Graphs via Input Reduction.	Amlan Kusum,Keval Vora,Rajiv Gupta 0001,Iulian Neamtiu	10.1145/2907294.2907312
+BAShuffler: Maximizing Network Bandwidth Utilization in the Shuffle of YARN.	Feng Liang,Francis C. M. Lau 0001	10.1145/2907294.2907296
+Master of Puppets: Cooperative Multitasking for In Situ Processing.	Dmitriy Morozov,Zarija Lukic	10.1145/2907294.2907301
+Wiera: Towards Flexible Multi-Tiered Geo-Distributed Cloud Storage Instances.	Kwangsung Oh,Abhishek Chandra,Jon B. Weissman	10.1145/2907294.2907322
+SMT-Aware Instantaneous Footprint Optimization.	Probir Roy,Xu Liu 0001,Shuaiwen Leon Song	10.1145/2907294.2907308
+Consecutive Job Submission Behavior at Mira Supercomputer.	Stephan Schlagkamp,Rafael Ferreira da Silva,William E. Allcock,Ewa Deelman,Uwe Schwiegelshohn	10.1145/2907294.2907314
+High-Performance Distributed RMA Locks.	Patrick Schmid,Maciej Besta,Torsten Hoefler	10.1145/2907294.2907323
+Faster and Cheaper: Parallelizing Large-Scale Matrix Factorization on GPUs.	Wei Tan 0001,Liangliang Cao,Liana L. Fong	10.1145/2907294.2907297
+New-Sum: A Novel Online ABFT Scheme For General Iterative Methods.	Dingwen Tao,Shuaiwen Leon Song,Sriram Krishnamoorthy,Panruo Wu,Xin Liang 0001,Eddy Z. Zhang,Darren J. Kerbyson,Zizhong Chen	10.1145/2907294.2907306
+Preparing for Supercomputing&apos;s Sixth Wave.	Jeffrey S. Vetter	10.1145/2907294.2911994
+GPU-Aware Non-contiguous Data Movement In Open MPI.	Wei Wu 0016,George Bosilca,Rolf Vandevaart,Sylvain Jeaugey,Jack J. Dongarra	10.1145/2907294.2907317
+Towards Practical Algorithm Based Fault Tolerance in Dense Linear Algebra.	Panruo Wu,Qiang Guan,Nathan DeBardeleben,Sean Blanchard,Dingwen Tao,Xin Liang 0001,Jieyang Chen,Zizhong Chen	10.1145/2907294.2907315
+Algorithm-Directed Data Placement in Explicitly Managed Non-Volatile Memory.	Panruo Wu,Dong Li 0001,Zizhong Chen,Jeffrey S. Vetter,Sparsh Mittal	10.1145/2907294.2907321
+IBIS: Interposed Big-data I/O Scheduler.	Yiqi Xu,Ming Zhao 0002	10.1145/2907294.2907319
+Proceedings of the 25th ACM International Symposium on High-Performance Parallel and Distributed Computing, HPDC 2016, Kyoto, Japan, May 31 - June 04, 2016	Hiroshi Nakashima,Kenjiro Taura,Jack Lange	10.1145/2907294

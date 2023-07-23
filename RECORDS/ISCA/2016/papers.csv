@@ -1,0 +1,58 @@
+Future Vector Microprocessor Extensions for Data Aggregations.	Timothy Hayes 0001,Oscar Palomar,Osman S. Unsal,Adrián Cristal,Mateo Valero	10.1109/ISCA.2016.44
+Production-Run Software Failure Diagnosis via Adaptive Communication Tracking.	Mohammad Mejbah Ul Alam,Abdullah Muzahid	10.1109/ISCA.2016.39
+Cnvlutin: Ineffectual-Neuron-Free Deep Neural Network Computing.	Jorge Albericio,Patrick Judd,Tayler H. Hetherington,Tor M. Aamodt,Natalie D. Enright Jerger,Andreas Moshovos	10.1109/ISCA.2016.11
+Boosting Access Parallelism to PCM-Based Main Memory.	Mohammad Arjomand,Mahmut T. Kandemir,Anand Sivasubramaniam,Chita R. Das	10.1109/ISCA.2016.66
+Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.	Yu-Hsin Chen,Joel S. Emer,Vivienne Sze	10.1109/ISCA.2016.40
+LAP: Loop-Block Aware Inclusion Properties for Energy-Efficient Asymmetric Last Level Caches.	Hsiang-Yun Cheng,Jishen Zhao,Jack Sampson,Mary Jane Irwin,Aamer Jaleel,Yu Lu,Yuan Xie 0001	10.1109/ISCA.2016.19
+Exploiting Dynamic Timing Slack for Energy Efficiency in Ultra-Low-Power Embedded Systems.	Hari Cherupalli,Rakesh Kumar 0002,John Sartori	10.1109/ISCA.2016.64
+PRIME: A Novel Processing-in-Memory Architecture for Neural Network Computation in ReRAM-Based Main Memory.	Ping Chi,Shuangchen Li,Cong Xu,Tao Zhang 0032,Jishen Zhao,Yongpan Liu,Yu Wang 0002,Yuan Xie 0001	10.1109/ISCA.2016.13
+ARM Virtualization: Performance and Architectural Implications.	Christoffer Dall,Shih-Wei Li,Jin Tack Lim,Jason Nieh,Georgios Koloventzos	10.1109/ISCA.2016.35
+Rescuing Uncorrectable Fault Patterns in On-Chip Memories through Error Pattern Transformation.	Henry Duwe,Xun Jian 0002,Daniel Petrisko,Rakesh Kumar 0002	10.1109/ISCA.2016.61
+Agile Paging: Exceeding the Best of Nested and Shadow Paging.	Jayneel Gandhi,Mark D. Hill,Michael M. Swift	10.1109/ISCA.2016.67
+DRAF: A Low-Power DRAM-Based Reconfigurable Acceleration Fabric.	Mingyu Gao 0001,Christina Delimitrou,Dimin Niu,Krishna T. Malladi,Hongzhong Zheng,Bob Brennan,Christos Kozyrakis	10.1109/ISCA.2016.51
+Base-Victim Compression: An Opportunistic Cache Compression Architecture.	Jayesh Gaur,Alaa R. Alameldeen,Sreenivas Subramoney	10.1109/ISCA.2016.36
+Biscuit: A Framework for Near-Data Processing of Big Data Workloads.	Boncheol Gu,Andre S. Yoon,Duck-Ho Bae,Insoon Jo,Jinyoung Lee,Jonghyun Yoon,Jeong-Uk Kang,Moonsang Kwon,Chanho Yoon,Sangyeun Cho,Jaeheon Jeong,Duckhyun Chang	10.1109/ISCA.2016.23
+EIE: Efficient Inference Engine on Compressed Deep Neural Network.	Song Han 0003,Xingyu Liu,Huizi Mao,Jing Pu,Ardavan Pedram,Mark A. Horowitz,William J. Dally	10.1109/ISCA.2016.30
+Accelerating Dependent Cache Misses with an Enhanced Memory Controller.	Milad Hashemi,Khubaib,Eiman Ebrahimi,Onur Mutlu,Yale N. Patt	10.1109/ISCA.2016.46
+Transparent Offloading and Mapping (TOM): Enabling Programmer-Transparent Near-Data Processing in GPU Systems.	Kevin Hsieh,Eiman Ebrahimi,Gwangsun Kim,Niladrish Chatterjee,Mike O&apos;Connor,Nandita Vijaykumar,Onur Mutlu,Stephen W. Keckler	10.1109/ISCA.2016.27
+Evaluation of an Analog Accelerator for Linear Algebra.	Yipeng Huang 0001,Ning Guo,Mingoo Seok,Yannis P. Tsividis,Simha Sethumadhavan	10.1109/ISCA.2016.56
+Decoupling Loads for Nano-Instruction Set Computers.	Ziqiang Huang,Andrew D. Hilton,Benjamin C. Lee	10.1109/ISCA.2016.43
+Back to the Future: Leveraging Belady&apos;s Algorithm for Improved Cache Replacement.	Akanksha Jain,Calvin Lin	10.1109/ISCA.2016.17
+RelaxFault Memory Repair.	Dong-Wan Kim,Mattan Erez	10.1109/ISCA.2016.62
+Strober: Fast and Accurate Sample-Based Energy Simulation for Arbitrary RTL.	Donggyu Kim,Adam M. Izraelevitz,Christopher Celio,Hokeun Kim,Brian Zimmer,Yunsup Lee,Jonathan Bachrach,Krste Asanovic	10.1109/ISCA.2016.21
+Short-Circuit Dispatch: Accelerating Virtual Machine Interpreters on Embedded Processors.	Channoh Kim,Sungmin Kim,Hyeon-Gyu Cho,Doo-Young Kim,Jaehyeok Kim,Young H. Oh,Hakbeom Jang,Jae W. Lee	10.1109/ISCA.2016.34
+Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.	Duckhwan Kim 0001,Jaeha Kung,Sek M. Chai,Sudhakar Yalamanchili,Saibal Mukhopadhyay	10.1109/ISCA.2016.41
+Bit-Plane Compression: Transforming Data for Better Compression in Many-Core Architectures.	Jungrae Kim,Michael B. Sullivan 0001,Esha Choukse,Mattan Erez	10.1109/ISCA.2016.37
+All-Inclusive ECC: Thorough End-to-End Protection for Reliable Computer Memory.	Jungrae Kim,Michael B. Sullivan 0001,Sangkug Lym,Mattan Erez	10.1109/ISCA.2016.60
+Automatic Generation of Efficient Accelerators for Reconfigurable Hardware.	David Koeplinger,Raghu Prabhakar,Yaqi Zhang 0001,Christina Delimitrou,Christos Kozyrakis,Kunle Olukotun	10.1109/ISCA.2016.20
+PowerChop: Identifying and Managing Non-critical Units in Hybrid Processor Architectures.	Michael A. Laurenzano,Yunqi Zhang,Jiang Chen,Lingjia Tang,Jason Mars	10.1109/ISCA.2016.22
+RedEye: Analog ConvNet Image Sensor Architecture for Continuous Mobile Vision.	Robert LiKamWa,Yunhui Hou,Yuan Gao,Mia Polansky,Lin Zhong 0001	10.1109/ISCA.2016.31
+Power Attack Defense: Securing Battery-Backed Data Centers.	Chao Li 0009,Zhenhua Wang 0007,Xiaofeng Hou,Haopeng Chen,Xiaoyao Liang,Minyi Guo	10.1109/ISCA.2016.50
+Cambricon: An Instruction Set Architecture for Neural Networks.	Shaoli Liu,Zidong Du,Jinhua Tao,Dong Han,Tao Luo,Yuan Xie 0001,Yunji Chen,Tianshi Chen 0002	10.1109/ISCA.2016.42
+ASIC Clouds: Specializing the Datacenter.	Ikuo Magaki,Moein Khazraee,Luis Vega Gutierrez,Michael Bedford Taylor	10.1109/ISCA.2016.25
+Towards Statistical Guarantees in Controlling Quality Tradeoffs for Approximate Acceleration.	Divya Mahajan 0001,Amir Yazdanbakhsh,Jongse Park,Bradley Thwaites,Hadi Esmaeilzadeh	10.1109/ISCA.2016.16
+The Anytime Automaton.	Joshua San Miguel,Natalie D. Enright Jerger	10.1109/ISCA.2016.54
+XED: Exposing On-Die Error Detection Information for Strong Memory Reliability.	Prashant J. Nair,Vilas Sridharan,Moinuddin K. Qureshi	10.1109/ISCA.2016.38
+APRES: Improving Cache Efficiency by Exploiting Load Characteristics on GPUs.	Yunho Oh,Keunsoo Kim,Myung Kuk Yoon,Jong Hyun Park,Yongjun Park 0001,Won Woo Ro,Murali Annavaram	10.1109/ISCA.2016.26
+Energy Efficient Architecture for Graph Analytics Accelerators.	Muhammet Mustafa Ozdal,Serif Yesil,Taemin Kim,Andrey Ayupov,John Greth,Steven M. Burns,Özcan Özturk 0001	10.1109/ISCA.2016.24
+Efficient Synonym Filtering and Scalable Delayed Translation for Hybrid Virtual Caching.	Chang Hyun Park 0001,Taekyung Heo,Jaehyuk Huh	10.1109/ISCA.2016.18
+Using Multiple Input, Multiple Output Formal Control to Maximize Resource Efficiency in Architectures.	Raghavendra Pradyumna Pothukuchi,Amin Ansari,Petros G. Voulgaris,Josep Torrellas	10.1109/ISCA.2016.63
+Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.	Brandon Reagen,Paul N. Whatmough,Robert Adolf,Saketh Rama,Hyunkwang Lee,Sae Kyu Lee,José Miguel Hernández-Lobato,Gu-Yeon Wei,David M. Brooks	10.1109/ISCA.2016.32
+Energy Efficient Data Encoding in DRAM Channels Exploiting Data Value Similarity.	Hoseok Seol,Wongyu Shin,Jaemin Jang,Jungwhan Choi,Jinwoong Suh,Lee-Sup Kim	10.1109/ISCA.2016.68
+ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.	Ali Shafiee,Anirban Nag,Naveen Muralimanohar,Rajeev Balasubramonian,John Paul Strachan,Miao Hu,R. Stanley Williams,Vivek Srikumar	10.1109/ISCA.2016.12
+ActivePointers: A Case for Software Address Translation on GPUs.	Sagi Shahar,Shai Bergman,Mark Silberstein	10.1109/ISCA.2016.58
+Efficiently Scaling Out-of-Order Cores for Simultaneous Multithreading.	Faissal M. Sleiman,Thomas F. Wenisch	10.1109/ISCA.2016.45
+Asymmetry-Aware Work-Stealing Runtimes.	Christopher Torng,Moyang Wang,Christopher Batten	10.1109/ISCA.2016.14
+Morpheus: Creating Application Objects Efficiently for Heterogeneous Computing.	Hung-Wei Tseng 0001,Qianchen Zhao,Yuxiao Zhou 0004,Mark Gahagan,Steven Swanson	10.1109/ISCA.2016.15
+LaPerm: Locality Aware Scheduler for Dynamic Parallelism on GPUs.	Jin Wang 0010,Norm Rubin,Albert Sidelnik,Sudhakar Yalamanchili	10.1109/ISCA.2016.57
+Accelerating Markov Random Field Inference Using Molecular Optical Gibbs Sampling Units.	Siyang Wang 0001,Xiangyu Zhang 0011,Yuxuan Li,Ramin Bashizade,Song Yang,Chris Dwyer,Alvin R. Lebeck	10.1109/ISCA.2016.55
+Peak Efficiency Aware Scheduling for Highly Energy Proportional Servers.	Daniel Wong 0001	10.1109/ISCA.2016.49
+Dynamo: Facebook&apos;s Data Center-Wide Power Management System.	Qiang Wu,Qingyuan Deng,Lakshmi Ganesh,Chang-Hong Hsu,Yun Jin,Sanjeev Kumar,Bin Li,Justin Meza,Yee Jiun Song	10.1109/ISCA.2016.48
+Warped-Slicer: Efficient Intra-SM Slicing through Dynamic Resource Partitioning for GPU Multiprogramming.	Qiumin Xu,Hyeran Jeon,Keunsoo Kim,Won Woo Ro,Murali Annavaram	10.1109/ISCA.2016.29
+Opportunistic Competition Overhead Reduction for Expediting Critical Section in NoC Based CMPs.	Yuan Yao 0009,Zhonghai Lu	10.1109/ISCA.2016.33
+Virtual Thread: Maximizing Thread-Level Parallelism beyond GPU Scheduling Limit.	Myung Kuk Yoon,Keunsoo Kim,Sangpil Lee,Won Woo Ro,Murali Annavaram	10.1109/ISCA.2016.59
+Treadmill: Attributing the Source of Tail Latency through Precise Load Testing and Statistical Inference.	Yunqi Zhang,David Meisner,Jason Mars,Lingjia Tang	10.1109/ISCA.2016.47
+Mellow Writes: Extending Lifetime in Resistive Memories through Selective Slow Write Backs.	Lunkai Zhang,Brian Neely,Diana Franklin,Dmitri B. Strukov,Yuan Xie 0001,Frederic T. Chong	10.1109/ISCA.2016.52
+CASH: Supporting IaaS Customers with a Sub-core Configurable Architecture.	Yanqi Zhou,Henry Hoffmann,David Wentzlaff	10.1109/ISCA.2016.65
+MITTS: Memory Inter-arrival Time Traffic Shaping.	Yanqi Zhou,David Wentzlaff	10.1109/ISCA.2016.53
+43rd ACM/IEEE Annual International Symposium on Computer Architecture, ISCA 2016, Seoul, South Korea, June 18-22, 2016		

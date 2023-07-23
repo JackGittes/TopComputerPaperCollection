@@ -1,0 +1,54 @@
+Conditionally correct superoptimization.	Rahul Sharma 0001,Eric Schkufza,Berkeley R. Churchill,Alex Aiken	10.1145/2814270.2814278
+Fast, multicore-scalable, low-fragmentation memory allocation through large virtual memory and global data structures.	Martin Aigner 0003,Christoph M. Kirsch,Michael Lippautz,Ana Sokolova	10.1145/2814270.2814294
+Approximate computation with outlier detection in Topaz.	Sara Achour,Martin C. Rinard	10.1145/2814270.2814314
+Runtime pointer disambiguation.	Péricles Alves,Fabian Gruber,Johannes Doerfert,Alexandros Lamprineas,Tobias Grosser,Fabrice Rastello,Fernando Magno Quintão Pereira	10.1145/2814270.2814285
+Interactively verifying absence of explicit information flows in Android apps.	Osbert Bastani,Saswat Anand,Alex Aiken	10.1145/2814270.2814274
+Declarative fence insertion.	John Bender,Mohsen Lesani,Jens Palsberg	10.1145/2814270.2814318
+Scalable race detection for Android applications.	Pavol Bielik,Veselin Raychev,Martin T. Vechev	10.1145/2814270.2814303
+Valor: efficient, software-only region conflict exceptions.	Swarnendu Biswas,Minjia Zhang,Michael D. Bond,Brandon Lucia	10.1145/2814270.2814292
+Selective control-flow abstraction via jumping.	Sam Blackshear,Bor-Yuh Evan Chang,Manu Sridharan	10.1145/2814270.2814293
+Probability type inference for flexible approximate programming.	Brett Boston,Adrian Sampson,Dan Grossman,Luis Ceze	10.1145/2814270.2814301
+Disjointness domains for fine-grained aliasing.	Stephan Brandauer,Dave Clarke 0001,Tobias Wrigstad	10.1145/2814270.2814280
+ShamDroid: gracefully degrading functionality in the presence of limited resource access.	Lucas Brutschy,Pietro Ferrara 0001,Omer Tripp,Marco Pistoia	10.1145/2814270.2814296
+Automatic memory reclamation for lock-free data structures.	Nachshon Cohen,Erez Petrank	10.1145/2814270.2814298
+The chemical approach to typestate-oriented programming.	Silvia Crafa,Luca Padovani	10.1145/2814270.2814287
+Galois transformers and modular abstract interpreters: reusable metatheory for program analysis.	David Darais,Matthew Might,David Van Horn	10.1145/2814270.2814308
+SATCheck: SAT-directed stateless model checking for SC and TSO.	Brian Demsky,Patrick Lam 0001	10.1145/2814270.2814297
+Giga-scale exhaustive points-to analysis for Java in under a minute.	Jens Dietrich 0001,Nicholas Hollingum,Bernhard Scholz	10.1145/2814270.2814307
+A co-contextual formulation of type rules and its application to incremental type checking.	Sebastian Erdweg,Oliver Bracevac,Edlira Kuci,Matthias Krebs,Mira Mezini	10.1145/2814270.2814277
+A sound and optimal incremental build system with dynamic dependencies.	Sebastian Erdweg,Moritz Lichter,Manuel Weiel	10.1145/2814270.2814316
+Checks and balances: constraint solving without surprises in object-constraint programming languages.	Tim Felgentreff,Todd D. Millstein,Alan Borning,Robert Hirschfeld	10.1145/2814270.2814311
+EXPLORER : query- and demand-driven exploration of interprocedural control flow properties.	Yu Feng 0001,Xinyu Wang 0006,Isil Dillig,Calvin Lin	10.1145/2814270.2814284
+Automated backward error analysis for numerical code.	Zhoulai Fu,Zhaojun Bai,Zhendong Su 0001	10.1145/2814270.2814317
+Synthesizing Java expressions from free-form queries.	Tihomir Gvero,Viktor Kuncak	10.1145/2814270.2814295
+Detecting redundant CSS rules in HTML5 applications: a tree rewriting approach.	Matthew Hague,Anthony Widjaja Lin,C.-H. Luke Ong	10.1145/2814270.2814288
+Incremental computation with names.	Matthew A. Hammer,Jana Dunfield,Kyle Headley,Nicholas Labich,Jeffrey S. Foster,Michael W. Hicks,David Van Horn	10.1145/2814270.2814305
+Synthesis of layout engines from relational constraints.	Thibaud Hottelier,Rastislav Bodík	10.1145/2814270.2814291
+Versatile yet lightweight record-and-replay for Android.	Yongjian Hu,Tanzirul Azim,Iulian Neamtiu	10.1145/2814270.2814320
+Cross-layer memory management for managed language applications.	Michael R. Jantz,Forrest J. Robinson,Prasad A. Kulkarni,Kshitij A. Doshi	10.1145/2814270.2814322
+Stateless model checking of event-driven applications.	Casper Svenning Jensen,Anders Møller,Veselin Raychev,Dimitar K. Dimitrov 0002,Martin T. Vechev	10.1145/2814270.2814282
+Programming with enumerable sets of structures.	Ivan Kuraj,Viktor Kuncak,Daniel Jackson 0001	10.1145/2814270.2814323
+Finding deep compiler bugs via guided stochastic program mutation.	Vu Le 0002,Chengnian Sun,Zhendong Su 0001	10.1145/2814270.2814319
+RAIVE: runtime assessment of floating-point instability by vectorization.	Wen-Chuan Lee,Tao Bao,Yunhui Zheng,Xiangyu Zhang 0001,Keval Vora,Rajiv Gupta 0001	10.1145/2814270.2814299
+How scale affects structure in Java programs.	Cristina V. Lopes,Joel Ossher	10.1145/2814270.2814300
+Protocol-based verification of message-passing parallel programs.	Hugo A. López 0001,Eduardo R. B. Marques,Francisco Martins,Nicholas Ng,César Santos,Vasco Thudichum Vasconcelos,Nobuko Yoshida	10.1145/2814270.2814302
+Automating grammar comparison.	Ravichandhran Madhavan,Mikaël Mayer,Sumit Gulwani,Viktor Kuncak	10.1145/2814270.2814304
+Static analysis of event-driven Node.js JavaScript applications.	Magnus Madsen,Frank Tip,Ondrej Lhoták	10.1145/2814270.2814272
+Tracing vs. partial evaluation: comparing meta-compilation approaches for self-optimizing interpreters.	Stefan Marr,Stéphane Ducasse	10.1145/2814270.2814275
+Use at your own risk: the Java unsafe API in the wild.	Luis Mastrangelo,Luca Ponzanelli,Andrea Mocci,Michele Lanza,Matthias Hauswirth,Nathaniel Nystrom	10.1145/2814270.2814313
+Reasoning about the POSIX file system: local update and global pathnames.	Gian Ntzik,Philippa Gardner	10.1145/2814270.2814306
+Learning a strategy for adapting a program analysis via bayesian optimisation.	Hakjoo Oh,Hongseok Yang,Kwangkeun Yi	10.1145/2814270.2814309
+AutoMO: automatic inference of memory order parameters for C/C++11.	Peizhao Ou,Brian Demsky	10.1145/2814270.2814286
+FlashMeta: a framework for inductive program synthesis.	Oleksandr Polozov,Sumit Gulwani	10.1145/2814270.2814310
+Partial evaluation of machine code.	Venkatesh Srinivasan,Thomas W. Reps	10.1145/2814270.2814321
+Optimizing hash-array mapped tries for fast and lean immutable JVM collections.	Michael J. Steindorfer,Jurgen J. Vinju	10.1145/2814270.2814312
+Performance problems you can fix: a dynamic analysis of memoization opportunities.	Luca Della Toffola,Michael Pradel,Thomas R. Gross	10.1145/2814270.2814290
+Customizable gradual polymorphic effects for Scala.	Matías Toro,Éric Tanter	10.1145/2814270.2814315
+Effectively mapping linguistic abstractions for message-passing concurrency to threads on the Java virtual machine.	Ganesha Upadhyaya,Hridesh Rajan	10.1145/2814270.2814289
+Automating ad hoc data representation transformations.	Vlad Ureche,Aggelos Biboudis,Yannis Smaragdakis,Martin Odersky	10.1145/2814270.2814271
+Using C language extensions for developing embedded software: a case study.	Markus Voelter,Arie van Deursen,Bernd Kolb,Stephan Eberle	10.1145/2814270.2814276
+Vectorization of apply to reduce interpretation overhead of R.	Haichuan Wang,David A. Padua,Peng Wu 0001	10.1145/2814270.2814273
+Remote-scope promotion: clarified, rectified, and verified.	John Wickerson,Mark Batty,Bradford M. Beckmann,Alastair F. Donaldson	10.1145/2814270.2814283
+Scrap your boilerplate with object algebras.	Haoyuan Zhang,Zewei Chu,Bruno C. d. S. Oliveira,Tijs van der Storm	10.1145/2814270.2814279
+Accurate profiling in the presence of dynamic compilation.	Yudi Zheng,Lubomír Bulej,Walter Binder	10.1145/2814270.2814281
+Proceedings of the 2015 ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2015, part of SPLASH 2015, Pittsburgh, PA, USA, October 25-30, 2015	Jonathan Aldrich,Patrick Eugster	10.1145/2814270

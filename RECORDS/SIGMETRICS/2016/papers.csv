@@ -1,0 +1,55 @@
+QoE Analysis of a Large-Scale Live Video Streaming Event.	Adnan Ahmed,M. Zubair Shafiq,Amir R. Khakpour	10.1145/2896377.2901504
+Inference in OSNs via Lightweight Partial Crawls.	Konstantin Avrachenkov,Bruno F. Ribeiro,Jithin Kazuthuveettil Sreedharan	10.1145/2896377.2901477
+Collaborative Filtering with Low Regret.	Guy Bresler,Devavrat Shah,Luis Filipe Voloch	10.1145/2896377.2901469
+Reverse Ranking by Graph Structure: Model and Scalable Algorithms.	Eliav Buchnik,Edith Cohen	10.1145/2896377.2901458
+Analyzing the Power Consumption of the Mobile Page Load.	Yi Cao,Javad Nejati,Pavan Maguluri,Aruna Balasubramanian,Anshul Gandhi	10.1145/2896377.2901491
+Understanding Latency Variation in Modern DRAM Chips: Experimental Characterization, Analysis, and Optimization.	Kevin K. Chang,Abhijith Kashyap,Hasan Hassan,Saugata Ghose,Kevin Hsieh,Donghyuk Lee,Tianshi Li,Gennady Pekhimenko,Samira Manabi Khan,Onur Mutlu	10.1145/2896377.2901453
+Using Predictions in Online Optimization: Looking Forward with an Eye on the Past.	Niangjun Chen,Joshua Comden,Zhenhua Liu 0002,Anshul Gandhi,Adam Wierman	10.1145/2896377.2901464
+Multipath Streaming: Fundamental Limits and Efficient Algorithms.	Richard Combes,Habib Sidi,Salah-Eddine Elayoubi	10.1145/2896377.2901485
+Improved Achievability and Converse Bounds for Erdos-Renyi Graph Matching.	Daniel Cullina,Negar Kiyavash	10.1145/2896377.2901460
+Noisy Bloom Filters for Multi-Set Membership Testing.	Haipeng Dai,Yuankun Zhong,Alex X. Liu,Wei Wang 0002,Meng Li 0010	10.1145/2896377.2901451
+Rumor Source Obfuscation on Irregular Trees.	Giulia Fanti,Peter Kairouz,Sewoong Oh,Kannan Ramchandran,Pramod Viswanath	10.1145/2896377.2901471
+Optimizing TTL Caches under Heavy-Tailed Demands.	Andrés Ferragut,Ismael Rodríguez,Fernando Paganini	10.1145/2896377.2901459
+Social Clicks: What and Who Gets Read on Twitter?	Maksym Gabielkov,Arthi Ramachandran,Augustin Chaintreau,Arnaud Legout	10.1145/2896377.2901462
+Delay, Memory, and Messaging Tradeoffs in Distributed Service Systems.	David Gamarnik,John N. Tsitsiklis,Martin Zubeldia	10.1145/2896377.2901478
+The Power of d Choices for Redundancy.	Kristen Gardner,Samuel Zbarsky,Mor Harchol-Balter,Alan Scheller-Wolf	10.1145/2896377.2901497
+Generalized Threshold-Based Epidemics in Random Graphs: The Power of Extreme Values.	Michele Garetto,Emilio Leonardi,Giovanni Luca Torrisi	10.1145/2896377.2901455
+Spatial Multi-LRU Caching for Wireless Networks with Coverage Overlaps.	Anastasios Giovanidis,Apostolos Avranas	10.1145/2896377.2901483
+A Better Model for Task Assignment in Server Farms: How Replication can Help.	Mor Harchol-Balter	10.1145/2896377.2901900
+Explicit Back-off Rates for Achieving Target Throughputs in CSMA/CA Networks.	Benny Van Houdt	10.1145/2896377.2901482
+Adaptive Caching Networks with Optimality Guarantees.	Stratis Ioannidis,Edmund Yeh	10.1145/2896377.2901467
+Breathing Mankind Thoughts.	Philippe Jacquet	10.1145/2896377.2901899
+On the Duration and Intensity of Competitions in Nonlinear Pólya Urn Processes with Fitness.	Bo Jiang 0003,Daniel R. Figueiredo 0001,Bruno F. Ribeiro,Don Towsley	10.1145/2896377.2901475
+Exploiting Core Criticality for Enhanced GPU Performance.	Adwait Jog,Onur Kayiran,Ashutosh Pattnaik,Mahmut T. Kandemir,Onur Mutlu,Ravishankar R. Iyer 0001,Chita R. Das	10.1145/2896377.2901468
+Asymptotics of Insensitive Load Balancing and Blocking Phases.	Matthieu Jonckheere,Balakrishna J. Prabhu	10.1145/2896377.2901454
+Instability in Distributed Mobility Management: Revisiting Configuration Management in 3G/4G Mobile Networks.	Yuanjie Li,Haotian Deng,Jiayao Li,Chunyi Peng 0001,Songwu Lu	10.1145/2896377.2901457
+Achieving Low-Delay and Fast-Convergence in Stochastic Network Optimization: A Nesterovian Approach.	Jia Liu 0002	10.1145/2896377.2901474
+Shoot for the Moon and You Will Never Miss: Characterizing and Detecting Aimbots in Online Games.	Daiping Liu,Xing Gao 0001,Mingwei Zhang 0005,Haining Wang	10.1145/2896377.2901503
+CAR: A Compression-Aware Refresh Approach to Improve Memory Performance and Energy Efficiency.	Wenjie Liu 0002,Ping Huang 0001,Kun Tang,Ke Zhou 0001,Xubin He	10.1145/2896377.2901498
+Freestyle Dancing: Randomized Algorithms for Dynamic Storage Load-Balancing.	Liang Liu 0013,Yating Wang,Lance Fortnow,Jin Li 0001,Jun (Jim) Xu	10.1145/2896377.2901481
+Transiently Secure Network Updates.	Arne Ludwig,Szymon Dudycz,Matthias Rost,Stefan Schmid 0001	10.1145/2896377.2901476
+Optimal Heavy-Traffic Queue Length Scaling in an Incompletely Saturated Switch.	Siva Theja Maguluri,Sai Kiran Burle,R. Srikant 0001	10.1145/2896377.2901466
+Majority Rule Based Opinion Dynamics with Biased and Stubborn Agents.	Arpan Mukhopadhyay,Ravi R. Mazumdar,Rahul Roy	10.1145/2896377.2901488
+Reducing Latency Through Page-aware Management of Web Objects by Content Delivery Networks.	Shankaranarayanan Puzhavakath Narayanan,Yun Seong Nam,Ashiwan Sivakumar,Balakrishnan Chandrasekaran 0002,Bruce M. Maggs,Sanjay G. Rao	10.1145/2896377.2901472
+SSD Failures in Datacenters: What, When and Why?	Iyswarya Narayanan,Di Wang 0003,Myeongjae Jeon,Bikash Sharma,Laura Caulfield,Anand Sivasubramaniam,Ben Cutler,Jie Liu 0001,Badriddine M. Khessib,Kushagra Vaid	10.1145/2896377.2901489
+A Service System with Randomly Behaving On-demand Agents.	Lam M. Nguyen,Alexander L. Stolyar	10.1145/2896377.2901484
+An Analysis of Load Imbalance in Scale-out Data Serving.	Stanko Novakovic,Alexandros Daglis,Edouard Bugnion,Babak Falsafi,Boris Grot	10.1145/2896377.2901501
+Contrasting Effects of Replication in Parallel Systems: From Overload to Underload and Back.	Felix Poloczek,Florin Ciucu	10.1145/2896377.2901499
+Automated Test Location Selection For Cellular Network Upgrades.	Mubashir Adnan Qureshi,Ajay Mahimkar,Lili Qiu,Zihui Ge,Sarat C. Puthenpura,Nabeel Mir,Sanjeev Ahuja	10.1145/2896377.2901505
+Mean Field Equilibria of Pricing Games in Internet Marketplaces.	Vamseedhar Reddyvari Raja,Vinod Ramaswamy,Srinivas Shakkottai,Vijay G. Subramanian	10.1145/2896377.2901495
+Searching For A Single Community in a Graph.	Avik Ray,Sujay Sanghavi,Sanjay Shakkottai	10.1145/2896377.2901494
+Joint Data Purchasing and Data Placement in a Geo-Distributed Data Market.	Xiaoqi Ren,Palma London,Juba Ziani,Adam Wierman	10.1145/2896377.2901486
+Modeling SMR Drive Performance.	Mansour Shafaei,Mohammad Hossein Hajkazemi,Peter Desnoyers,Abutalib Aghayev	10.1145/2896377.2901496
+Unsupervised Clustering Under Temporal Feature Volatility in Network Stack Fingerprinting.	Zain Shamsi,Dmitri Loguinov	10.1145/2896377.2901449
+Network Calculus Analysis of a Feedback System with Random Service.	Alireza Shekaramiz,Jörg Liebeherr,Almut Burchard	10.1145/2896377.2901487
+Costly Circuits, Submodular Schedules and Approximate Carathéodory Theorems.	Shaileshh Bojja Venkatakrishnan,Mohammad Alizadeh,Pramod Viswanath	10.1145/2896377.2901479
+Towards Multi-Resource Fair Allocation with Placement Constraints.	Wei Wang 0030,Baochun Li,Ben Liang 0001,Jun Li 0017	10.1145/2896377.2901493
+Time-Based Bandwidth Allocation for Heterogeneous Storage.	Hui Wang 0014,Peter J. Varman	10.1145/2896377.2901492
+The Value of Privacy: Strategic Data Subjects, Incentive Mechanisms and Fundamental Limits.	Weina Wang,Lei Ying,Junshan Zhang	10.1145/2896377.2901461
+Trading Discount for Reputation?: On the Design and Analysis of E-Commerce Discount Mechanisms.	Hong Xie 0004,Richard T. B. Ma,John C. S. Lui	10.1145/2896377.2901500
+Safe Randomized Load-Balanced Switching by Diffusing Extra Loads.	Sen Yang 0001,Bill Lin 0001,Jun Xu 0014	10.1145/2896377.2901480
+Hash, Don&apos;t Cache (the Page Table).	Idan Yaniv,Dan Tsafrir	10.1145/2896377.2901456
+On the Approximation Error of Mean-Field Models.	Lei Ying	10.1145/2896377.2901463
+A Necessary and Sufficient Condition for Throughput Scalability of Fork and Join Networks with Blocking.	Yun Zeng,Augustin Chaintreau,Don Towsley,Cathy H. Xia	10.1145/2896377.2901470
+On the Viability of a Cloud Virtual Service Provider.	Liang Zheng 0002,Carlee Joe-Wong,Christopher G. Brinton,Chee-Wei Tan 0001,Sangtae Ha,Mung Chiang	10.1145/2896377.2901452
+Proceedings of the 2016 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Science, Antibes Juan-Les-Pins, France, June 14-18, 2016	Sara Alouf,Alain Jean-Marie,Nidhi Hegde 0001,Alexandre Proutière	10.1145/2896377

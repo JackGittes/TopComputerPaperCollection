@@ -1,0 +1,312 @@
+An overview of next-generation architectures for machine learning: Roadmap, opportunities and challenges in the IoT era.	Muhammad Shafique 0001,Theocharis Theocharides,Christos-Savvas Bouganis,Muhammad Abdullah Hanif,Faiq Khalid,Rehan Hafiz,Semeen Rehman	10.23919/DATE.2018.8342120
+Mapping of local and global synapses on spiking neuromorphic hardware.	Anup Das 0001,Yuefeng Wu,Khanh Huynh,Francesco Dell&apos;Anna,Francky Catthoor,Siebren Schaafsma	10.23919/DATE.2018.8342201
+A wearable long-term single-lead ECG processor for early detection of cardiac arrhythmia.	Syed Muhammad Abubakar,Wala Saadeh,Muhammad Awais Bin Altaf	10.23919/DATE.2018.8342148
+Cloud-assisted control of ground vehicles using adaptive computation offloading techniques.	Arun Adiththan,S. Ramesh,Soheil Samii	10.23919/DATE.2018.8342076
+HPXA: A highly parallel XML parser.	Isaar Ahmad,Sanjog Patil,Smruti R. Sarangi	10.23919/DATE.2018.8342012
+Investigating power outage effects on reliability of solid-state drives.	Saba Ahmadian,Farhad Taheri,Mehrshad Lotfi,Maryam Karimi,Hossein Asadi 0001	10.23919/DATE.2018.8342004
+Directed test generation using concolic testing on RTL models.	Alif Ahmed,Farimah Farahmandi,Prabhat Mishra 0001	10.23919/DATE.2018.8342260
+PX-CGRA: Polymorphic approximate coarse-grained reconfigurable architecture.	Omid Akbari,Mehdi Kamal,Ali Afzali-Kusha,Massoud Pedram,Muhammad Shafique 0001	10.23919/DATE.2018.8342045
+HTF-MPR: A heterogeneous TensorFlow mapper targeting performance using genetic algorithms and gradient boosting regressors.	Ahmad Albaqsami,Maryam S. Hosseini,Nader Bagherzadeh	10.23919/DATE.2018.8342031
+Optimization of the PLL configuration in a PLL-based TRNG design.	Elie Noumon Allini,Oto Petura,Viktor Fischer,Florent Bernard	10.23919/DATE.2018.8342209
+Improvements to boolean resynthesis.	Luca Gaetano Amarù,Mathias Soeken,Patrick Vuillod,Jiong Luo,Alan Mishchenko,Janet Olson,Robert K. Brayton,Giovanni De Micheli	10.23919/DATE.2018.8342108
+Multi-precision convolutional neural networks on heterogeneous hardware.	Sam Amiri,Mohammad Hosseinabady,Simon McIntosh-Smith,José L. Núñez-Yáñez	10.23919/DATE.2018.8342046
+Large scale, high density integration of all spin logic.	Qi An,Sébastien Le Beux,Ian O&apos;Connor,Jacques-Olivier Klein	10.23919/DATE.2018.8341992
+Overview of the state of the art in embedded machine learning.	Liliana Andrade,Adrien Prost-Boucle,Frédéric Pétrot	10.23919/DATE.2018.8342164
+EVT-based worst case delay estimation under process variation.	Charalampos Antoniadis,Dimitrios Garyfallou,Nestor E. Evmorfopoulos,Georgios I. Stamoulis	10.23919/DATE.2018.8342220
+A reconfigurable scan network based IC identification for embedded devices.	Omid Aramoon,Xi Chen,Gang Qu 0001	10.23919/DATE.2018.8342056
+Device attestation: Past, present, and future.	Orlando Arias,Fahim Rahman,Mark M. Tehranipoor,Yier Jin	10.23919/DATE.2018.8342055
+Mixed-criticality scheduling with memory bandwidth regulation.	Muhammad Ali Awan,Pedro F. Souto,Konstantinos Bletsas,Benny Akesson,Eduardo Tovar	10.23919/DATE.2018.8342211
+Ising-PUF: A machine learning attack resistant PUF featuring lattice like arrangement of Arbiter-PUFs.	Hiromitsu Awano,Takashi Sato	10.23919/DATE.2018.8342239
+uSFI: Ultra-lightweight software fault isolation for IoT-class devices.	Zelalem Birhanu Aweke,Todd M. Austin	10.23919/DATE.2018.8342161
+Øzone: Efficient execution with zero timing leakage for modern microarchitectures.	Zelalem Birhanu Aweke,Todd M. Austin	10.23919/DATE.2018.8342179
+Binary Ring-LWE hardware with power side-channel countermeasures.	Aydin Aysu,Michael Orshansky,Mohit Tiwari	10.23919/DATE.2018.8342207
+ORIENT: Organized interleaved ECCs for new STT-MRAM caches.	Zahra Azad,Hamed Farbeh,Amir Mahdi Hosseini Monazzah	10.23919/DATE.2018.8342194
+Computing with ferroelectric FETs: Devices, models, systems, and applications.	Ahmedullah Aziz,Evelyn T. Breyer,An Chen,Xiaoming Chen 0003,Suman Datta,Sumeet Kumar Gupta,Michael Hoffmann 0008,Xiaobo Sharon Hu,Adrian M. Ionescu,Matthew Jerry,Thomas Mikolajick,Halid Mulaosmanovic,Kai Ni 0004,Michael T. Niemier,Ian O&apos;Connor,Atanu Saha,Stefan Slesazeck,Sandeep Krishna Thirumala,Xunzhao Yin	10.23919/DATE.2018.8342213
+Confident leakage assessment - A side-channel evaluation framework based on confidence intervals.	Florian Bache,Christina Plump,Tim Güneysu	10.23919/DATE.2018.8342178
+Trident: A comprehensive timing error resilient technique against choke points at NTC.	Aatreyi Bal,Sanghamitra Roy,Koushik Chakraborty	10.23919/DATE.2018.8342035
+LASER: A hardware/software approach to accelerate complicated loops on CGRAs.	Mahesh Balasubramanian 0001,Shail Dave,Aviral Shrivastava,Reiley Jeyapaul	10.23919/DATE.2018.8342170
+High-level synthesis of software-customizable floating-point cores.	Samridhi Bansal,Hsuan Hsiao,Tomasz S. Czajkowski,Jason Helge Anderson	10.23919/DATE.2018.8341976
+Airavat: Improving energy efficiency of heterogeneous applications.	Trinayan Baruah,Yifan Sun 0002,Shi Dong,David R. Kaeli,Norm Rubin	10.23919/DATE.2018.8342104
+Design and integration of hierarchical-placement multi-level caches for real-time systems.	Pedro Benedicte,Carles Hernández 0001,Jaume Abella 0001,Francisco J. Cazorla	10.23919/DATE.2018.8342052
+Advancing source-level timing simulation using loop acceleration.	Joscha Benz,Christoph Gerum,Oliver Bringmann 0001	10.23919/DATE.2018.8342230
+Technology-aware logic synthesis for ReRAM based in-memory computing.	Debjyoti Bhattacharjee,Luca G. Amarù,Anupam Chattopadhyay	10.23919/DATE.2018.8342237
+Storage-aware sample preparation using flow-based microfluidic Labs-on-Chip.	Sukanta Bhattacharjee,Robert Wille,Juinn-Dar Huang,Bhargab B. Bhattacharya	10.23919/DATE.2018.8342231
+dReDBox: Materializing a full-stack rack-scale system prototype of a next-generation disaggregated datacenter.	Maciej Bielski,Ilias Syrigos,Kostas Katrinis,Dimitris Syrivelis,Andrea Reale,Dimitris Theodoropoulos,Nikolaos Alachiotis 0001,Dionisis N. Pnevmatikatos,E. H. Pap,George Zervas,Vaibhawa Mishra,Arsalan Saljoghei,Alvise Rigo,Jose Fernando Zazo,Sergio López-Buedo,Martí Torrents,Ferad Zyulkyarov,Michael Enrico,Óscar González de Dios	10.23919/DATE.2018.8342174
+Designing reliable processor cores in ultimate CMOS and beyond: A double sampling solution.	Thierry Bonnoit,Fraidy Bouesse,Nacer-Eddine Zergainoh,Michael Nicolaidis	10.23919/DATE.2018.8342137
+Approximate quaternary addition with the fast carry chains of FPGAs.	Sina Boroumand,Hadi Parandeh-Afshar,Philip Brisk	10.23919/DATE.2018.8342073
+SCADPA: Side-channel assisted differential-plaintext attack on bit permutation based ciphers.	Jakub Breier,Dirmanto Jap,Shivam Bhasin	10.23919/DATE.2018.8342180
+OHEX: OS-aware hybridization techniques for accelerating MPSoC full-system simulation.	Robert Lajos Bücs,Maximilian Fricke,Rainer Leupers,Gerd Ascheid,Stephan Tobies,Andreas Hoffmann 0002	10.23919/DATE.2018.8342020
+Optimal metastability-containing sorting networks.	Johannes Bund,Christoph Lenzen 0001,Moti Medina	10.23919/DATE.2018.8342063
+Characterization of possibly detected faults by accurately computing their detection probability.	Jan Burchard,Dominik Erb,Bernd Becker 0001	10.23919/DATE.2018.8342040
+PNeuro: A scalable energy-efficient programmable hardware accelerator for neural networks.	Alexandre Carbon,Jean-Marc Philippe,Olivier Bichler,Renaud Schmit,Benoît Tain,David Briand,Nicolas Ventroux,Michel Paindavoine,Olivier Brousse	10.23919/DATE.2018.8342165
+ERASMUS: Efficient remote attestation via self-measurement for unattended settings.	Xavier Carpent,Gene Tsudik,Norrathep Rattanavipanon	10.23919/DATE.2018.8342195
+Compiler-driven error analysis for designing approximate accelerators.	Jorge Castro-Godínez,Sven Esser,Muhammad Shafique 0001,Santiago Pagani,Jörg Henkel	10.23919/DATE.2018.8342163
+Optimizing power-accuracy trade-off in approximate adders.	D. Celia,Vinita Vasudevan,Nitin Chandrachoodan	10.23919/DATE.2018.8342248
+Cache-aware task scheduling for maximizing control performance.	Wanli Chang 0001,Debayan Roy,Xiaobo Sharon Hu,Samarjit Chakraborty	10.23919/DATE.2018.8342098
+Trustworthy proofs for sensor data using FPGA based physically unclonable functions.	Urbi Chatterjee,Durga Prasad Sahoo,Debdeep Mukhopadhyay,Rajat Subhra Chakraborty	10.23919/DATE.2018.8342252
+Performance based tuning of an inductive integrated voltage regulator driving a digital core against process and passive variations.	Venakata Chaitanya Krishna Chekuri,Monodeep Kar,Arvind Singh,Saibal Mukhopadhyay	10.23919/DATE.2018.8342037
+Exploiting approximate computing for deep learning acceleration.	Chia-Yu Chen,Jungwook Choi,Kailash Gopalakrishnan,Viji Srinivasan,Swagath Venkataramani	10.23919/DATE.2018.8342119
+moDNN: Memory optimal DNN training on GPUs.	Xiaoming Chen 0003,Danny Z. Chen,Xiaobo Sharon Hu	10.23919/DATE.2018.8341972
+Efficient wear leveling for inodes of file systems on persistent memories.	Xianzhang Chen,Edwin Hsing-Mean Sha,Yuansong Zeng,Chaoshu Yang,Weiwen Jiang,Qingfeng Zhuge	10.23919/DATE.2018.8342257
+Design and optimization of FeFET-based crossbars for binary convolution neural networks.	Xiaoming Chen 0003,Xunzhao Yin,Michael T. Niemier,Xiaobo Sharon Hu	10.23919/DATE.2018.8342199
+Neural networks for safety-critical applications - Challenges, experiments and perspectives.	Chih-Hong Cheng,Frederik Diehl,Gereon Hinz,Yassine Hamza,Georg Nührenberg,Markus Rickert 0001,Harald Ruess,Michael Truong-Le	10.23919/DATE.2018.8342158
+An efficient NBTI-aware wake-up strategy for power-gated designs.	Kun-Wei Chiu,Yu-Guang Chen,Ing-Chao Lin	10.23919/DATE.2018.8342136
+End-to-end latency analysis of cause-effect chains in an engine management system.	Junchul Choi,Donghyun Kang,Soonhoi Ha	10.23919/DATE.2018.8342196
+A soft-error resilient route computation unit for 3D Networks-on-Chips.	Alexandre Coelho,Amir Charif,Nacer-Eddine Zergainoh,Juan A. Fraire,Raoul Velazco	10.23919/DATE.2018.8342224
+An automated configurable Trojan insertion framework for dynamic trust benchmarks.	Jonathan Cruz 0001,Yuanwen Huang,Prabhat Mishra 0001,Swarup Bhunia	10.23919/DATE.2018.8342270
+ShadowGC: Cooperative garbage collection with multi-level buffer for performance improvement in NAND flash-based SSDs.	Jinhua Cui 0001,Youtao Zhang,Jianhang Huang,Weiguo Wu,Jun Yang 0002	10.23919/DATE.2018.8342206
+A Boolean model for delay fault testing of emerging digital technologies based on ambipolar devices.	Marcello Dalpasso,Davide Bertozzi,Michele Favalli	10.23919/DATE.2018.8342024
+Symbolic assertion mining for security validation.	Alessandro Danese,Valeria Bertacco,Graziano Pravadelli	10.23919/DATE.2018.8342262
+URECA: Unified register file for CGRAs.	Shail Dave,Mahesh Balasubramanian 0001,Aviral Shrivastava	10.23919/DATE.2018.8342172
+SAT-based redundancy removal.	Krishanu Debnath,Rajeev Murgai,Mayank Jain,Janet Olson	10.23919/DATE.2018.8342028
+Online analysis of debug trace data for embedded systems.	Normann Decker,Boris Dreyer,Philip Gottschling,Christian Hochberger,Alexander Lange,Martin Leucker,Torben Scheffel,Simon Wegener,Alexander Weiss	10.23919/DATE.2018.8342124
+A co-design methodology for scalable quantum processors and their classical electronic interface.	Jeroen P. G. van Dijk,Andrei Vladimirescu,Masoud Babaie,Edoardo Charbon,Fabio Sebastiano	10.23919/DATE.2018.8342072
+A circuit-design-driven tool with a hybrid automation approach for SAR ADCs in IoT.	Ming Ding 0003,Guibin Chen,Pieter Harpe,Benjamin Busze,Yao-Hong Liu,Christian Bachmann,Kathleen Philips,Arthur H. M. van Roermund	10.23919/DATE.2018.8342094
+Gain scheduled control for nonlinear power management in CMPs.	Bryan Donyanavard,Amir M. Rahmani,Tiago Mück,Kasra Moazemmi,Nikil D. Dutt	10.23919/DATE.2018.8342141
+HME: A lightweight emulator for hybrid memory.	Zhuohui Duan,Haikun Liu,Xiaofei Liao,Hai Jin 0001	10.23919/DATE.2018.8342227
+A fast and effective lookahead and fractional search based scheduling algorithm for high-level synthesis.	Shantanu Dutt,Ouwen Shi	10.23919/DATE.2018.8341975
+VerC3: A library for explicit state synthesis of concurrent systems.	Marco Elver,Christopher J. Banks,Paul B. Jackson,Vijay Nagarajan	10.23919/DATE.2018.8342228
+Leveraging thermally-aware chiplet organization in 2.5D systems to reclaim dark silicon.	Furkan Eris,Ajay Joshi,Andrew B. Kahng,Yenai Ma,Saiful A. Mojumder,Tiansheng Zhang	10.23919/DATE.2018.8342238
+Symbolic quick error detection using symbolic initial state for pre-silicon verification.	Mohammad Rahmani Fadiheh,Joakim Urdahl,Srinivasa Shashank Nuthakki,Subhasish Mitra,Clark W. Barrett,Dominik Stoffel,Wolfgang Kunz	10.23919/DATE.2018.8341979
+Automatic generation of hardware checkers from formal micro-architectural specifications.	Alexander Fedotov,Julien Schmaltz	10.23919/DATE.2018.8342265
+A parameterized timing-aware flip-flop merging algorithm for clock power reduction.	Chaochao Feng,Daheng Yue,Zhenyu Zhao,Zhuofan Liao	10.23919/DATE.2018.8342131
+Cell-based update algorithm for occupancy grid maps and hybrid map for ADAS on embedded GPUs.	Jörg Fickenscher,Jens Schlumberger,Frank Hannig,Jürgen Teich,Mohamed Essayed Bouzouraa	10.23919/DATE.2018.8342050
+A novel fault tolerant cache architecture based on orthogonal latin squares theory.	Filippos Filippou,Georgios Keramidas,Michail Mavropoulos,Dimitris Nikolos	10.23919/DATE.2018.8342236
+A high-speed design methodology for inductive coupling links in 3D-ICs.	Benjamin J. Fletcher,Shidhartha Das,Terrence S. T. Mak	10.23919/DATE.2018.8342059
+Low-power 3D integration using inductive coupling links for neurotechnology applications.	Benjamin J. Fletcher,Shidhartha Das,Chi-Sang Poon,Terrence S. T. Mak	10.23919/DATE.2018.8342200
+HePREM: Enabling predictable GPU execution on heterogeneous SoC.	Björn Forsberg,Luca Benini,Andrea Marongiu	10.23919/DATE.2018.8342066
+Approximate hardware generation using symbolic computer algebra employing grobner basis.	Saman Fröhlich,Daniel Große,Rolf Drechsler	10.23919/DATE.2018.8342133
+A faithful binary circuit model with adversarial noise.	Matthias Függer,Jürgen Maier 0002,Robert Najvirt,Thomas Nowak,Ulrich Schmid 0001	10.23919/DATE.2018.8342219
+Understanding turn models for adaptive routing: The modular approach.	Edoardo Fusella,Alessandro Cilardo	10.23919/DATE.2018.8342245
+SOCRATES - A seamless online compiler and system runtime autotuning framework for energy-aware applications.	Davide Gadioli,Ricardo Nobre,Pedro Pinto,Emanuele Vitali,Amir H. Ashouri,Gianluca Palermo,João M. P. Cardoso,Cristina Silvano	10.23919/DATE.2018.8342183
+Three years of low-power image recognition challenge: Introduction to special session.	Kent Gauen,Ryan Dailey,Yung-Hsiang Lu,Eunbyung Park,Wei Liu 0015,Alexander C. Berg,Yiran Chen 0001	10.23919/DATE.2018.8342099
+Spintronic normally-off heterogeneous system-on-chip design.	Anteneh Gebregiorgis,Rajendra Bishnoi,Mehdi Baradaran Tahoori	10.23919/DATE.2018.8341989
+SMARTag: Error Correction in Cache Tag Array by Exploiting Address Locality.	Seyedeh Golsana Ghaemi,Iman Ahmadpour,Mehdi Ardebili,Hamed Farbeh	10.23919/DATE.2018.8467758
+Design and validation of fault-tolerant embedded controllers.	Saurav Kumar Ghosh,Soumyajit Dey,Dip Goswami,Daniel Mueller-Gritschneder,Samarjit Chakraborty	10.23919/DATE.2018.8342212
+Efficient verification of multi-property designs (The benefit of wrong assumptions).	Eugene Goldberg,Matthias Güdemann,Daniel Kroening,Rajdeep Mukherjee	10.23919/DATE.2018.8341977
+Quasar, a high-level programming language and development environment for designing smart vision systems on embedded platforms.	Bart Goossens,Hiêp Quang Luong,Jan Aelterman,Wilfried Philips	10.23919/DATE.2018.8342216
+Parallel code generation of synchronous programs for a many-core architecture.	Amaury Graillat,Matthieu Moy,Pascal Raymond,Benoît Dupont de Dinechin	10.23919/DATE.2018.8342182
+Towards inter-vendor compatibility of true random number generators for FPGAs.	Milos Grujic,Bohan Yang 0001,Vladimir Rozic,Ingrid Verbauwhede	10.23919/DATE.2018.8342256
+Non-intrusive testing technique for detection of Trojans in asynchronous circuits.	Leonel Acunha Guimaraes,Thiago Ferreira de Paiva Leite,Rodrigo Possamai Bastos,Laurent Fesquet	10.23919/DATE.2018.8342255
+ATPG power guards: On limiting the test power below threshold.	Rohini Gulve,Virendra Singh	10.23919/DATE.2018.8342025
+DFPC: A dynamic frequent pattern compression scheme in NVM-based main memory.	Yuncheng Guo,Yu Hua 0001,Pengfei Zuo	10.23919/DATE.2018.8342274
+Gradient importance sampling: An efficient statistical extraction methodology of high-sigma SRAM dynamic characteristics.	Thomas Haine,Johan Segers,Denis Flandre,David Bol	10.23919/DATE.2018.8342002
+Error resilience analysis for systematically employing approximate computing in convolutional neural networks.	Muhammad Abdullah Hanif,Rehan Hafiz,Muhammad Shafique 0001	10.23919/DATE.2018.8342139
+A design-space exploration for allocating security tasks in multicore real-time systems.	Monowar Hasan,Sibin Mohan,Rodolfo Pellizzoni,Rakesh B. Bobba	10.23919/DATE.2018.8342007
+Approximate computing for biometrie security systems: A case study on iris scanning.	Soheil Hashemi,Hokchhay Tann,Francesco Buttafuoco,Sherief Reda	10.23919/DATE.2018.8342029
+Testbench qualification for SystemC-AMS timed data flow models.	Muhammad Hassan 0002,Daniel Große,Hoang M. Le,Thilo Vörtler,Karsten Einwich,Rolf Drechsler	10.23919/DATE.2018.8342125
+Architecture and optimization of associative memories used for the implementation of logic functions based on nanoelectronic 1S1R cells.	Arne Heittmann,Tobias G. Noll	10.23919/DATE.2018.8342250
+Towards fully automated TLM-to-RTL property refinement.	Vladimir Herdt,Hoang M. Le,Daniel Große,Rolf Drechsler	10.23919/DATE.2018.8342253
+Characterizing display QoS based on frame dropping for power management of interactive applications on smartphones.	Kuan-Ting Ho,Chung-Ta King,Bhaskar Das,Yung-Ju Chang	10.23919/DATE.2018.8342129
+NN compactor: Minimizing memory and logic resources for small neural networks.	Seongmin Hong,Inho Lee,Yongjun Park 0001	10.23919/DATE.2018.8342074
+Sensei: An area-reduction advisor for FPGA high-level synthesis.	Hsuan Hsiao,Jason Helge Anderson	10.23919/DATE.2018.8341974
+HyVE: Hybrid vertex-edge memory hierarchy for energy-efficient graph processing.	Tianhao Huang,Guohao Dai,Yu Wang 0002,Huazhong Yang	10.23919/DATE.2018.8342150
+Specification decomposition for synthesis from libraries of LTL Assume/Guarantee contracts.	Antonio Iannopollo,Stavros Tripakis,Alberto L. Sangiovanni-Vincentelli	10.23919/DATE.2018.8342266
+Reconfigurable implementation of GF(2m) bit-parallel multipliers.	José Luis Imaña	10.23919/DATE.2018.8342134
+GenPIM: Generalized processing in-memory to accelerate data intensive applications.	Mohsen Imani,Saransh Gupta,Tajana Rosing	10.23919/DATE.2018.8342186
+Buffer-aware bounds to multi-point progressive blocking in priority-preemptive NoCs.	Leandro Soares Indrusiak,Alan Burns 0001,Borislav Nikolic	10.23919/DATE.2018.8342006
+Online efficient bio-medical video transcoding on MPSoCs through content-aware workload allocation.	Arman Iranfar,Ali Pahlevan,Marina Zapater,Martin Zagar,Mario Kovac,David Atienza	10.23919/DATE.2018.8342146
+TTW: A Time-Triggered Wireless design for CPS.	Romain Jacob,Licong Zhang,Marco Zimmerling,Jan Beutel,Samarjit Chakraborty,Lothar Thiele	10.23919/DATE.2018.8342127
+Computing-in-memory with spintronics.	Shubham Jain,Sachin S. Sapatnekar,Jianping Wang 0006,Kaushik Roy 0001,Anand Raghunathan	10.23919/DATE.2018.8342277
+Universal number posit arithmetic generator on FPGA.	Manish Kumar Jaiswal,Hayden Kwok-Hay So	10.23919/DATE.2018.8342187
+ReCom: An efficient resistive accelerator for compressed deep neural networks.	Houxiang Ji,Linghao Song,Li Jiang 0002,Hai Helen Li,Yiran Chen 0001	10.23919/DATE.2018.8342009
+Adaptive approximation in arithmetic circuits: A low-power unsigned divider design.	Honglan Jiang,Leibo Liu,Fabrizio Lombardi,Jie Han 0001	10.23919/DATE.2018.8342233
+Energy-efficient neural networks using approximate computation reuse.	Xun Jiao,Vahideh Akhlaghi,Yu Jiang 0001,Rajesh K. Gupta 0001	10.23919/DATE.2018.8342202
+High performance collective communication-aware 3D Network-on-Chip architectures.	Biresh Kumar Joardar,Karthi Duraisamy,Partha Pratim Pande	10.23919/DATE.2018.8342223
+Magnetic skyrmions for future potential memory and logic applications: Alternative information carriers.	Wang Kang,Xing Chen,Daoqian Zhu,Sai Li,Yangqi Huang,Youguang Zhang,Weisheng Zhao	10.23919/DATE.2018.8341990
+Joint optimization of speed, accuracy, and energy for embedded image recognition systems.	Duseok Kang,Donghyun Kang,Jintaek Kang,Sungjoo Yoo,Soonhoi Ha	10.23919/DATE.2018.8342102
+An energy-efficient and error-resilient server ecosystem exceeding conservative scaling limits.	Georgios Karakonstantis,Konstantinos Tovletoglou,Lev Mukhanov,Hans Vandierendonck,Dimitrios S. Nikolopoulos,Peter Lawthers,Panos K. Koutsovasilis,Manolis Maroudas,Christos D. Antonopoulos,Christos Kalogirou,Nikolaos Bellas,Spyros Lalis,Srikumar Venugopal,Arnau Prat-Pérez,Alejandro Lampropulos,Marios Kleanthous,Andreas Diavastos,Zacharias Hadjilambrou,Panagiota Nikolaou,Yiannakis Sazeides,Pedro Trancoso,George Papadimitriou 0001,Manolis Kaliorakis,Athanasios Chatzidimitriou,Dimitris Gizopoulos,Shidhartha Das	10.23919/DATE.2018.8342175
+DFARPA: Differential fault attack resistant physical design automation.	Mustafa Khairallah,Rajat Sadhukhan,Radhamanjari Samanta,Jakub Breier,Shivam Bhasin,Rajat Subhra Chakraborty,Anupam Chattopadhyay,Debdeep Mukhopadhyay	10.23919/DATE.2018.8342190
+Fast chip-package-PCB coanalysis methodology for power integrity of multi-domain high-speed memory: A case study.	Seungwon Kim,Ki Jin Han,Youngmin Kim,Seokhyeong Kang	10.23919/DATE.2018.8342132
+MATIC: Learning around errors for efficient low-voltage neural network accelerators.	Sung Kim,Patrick Howe,Thierry Moreau,Armin Alaghi,Luis Ceze,Visvesh Sathe 0001	10.23919/DATE.2018.8341970
+StreamFTL: Stream-level address translation scheme for memory constrained flash storage.	Hyukjoong Kim,Kyuhwa Han,Dongkun Shin	10.23919/DATE.2018.8342083
+Bayesian theory based switching probability calculation method of critical timing path for on-chip timing slack monitoring.	Byung-Su Kim,Joon-Sung Yang	10.23919/DATE.2018.8342036
+SPA: Simple pool architecture for application resource allocation in many-core systems.	Jayasimha Sai Koduri,Iraklis Anagnostopoulos	10.23919/DATE.2018.8342225
+Main memory organization trade-offs with DRAM and STT-MRAM options based on gem5-NVMain simulation frameworks.	Manu Komalan,Oh Hyung Rock,Matthias Hartmann,Sushil Sakhare,Christian Tenllado,José Ignacio Gómez,Gouri Sankar Kar,Arnaud Furnémont,Francky Catthoor,Sophiane Senni,David Novo,Abdoulaye Gamatié,Lionel Torres	10.23919/DATE.2018.8341987
+PHYLAX: Snapshot-based profiling of real-time embedded devices via JTAG interface.	Charalambos Konstantinou,Eduardo Chielle,Michail Maniatakos	10.23919/DATE.2018.8342128
+Smart instruction codes for in-memory computing architectures compatible with standard SRAM interfaces.	Maha Kooli,Henri-Pierre Charles,Clément Touzet,Bastien Giraud,Jean-Philippe Noel	10.23919/DATE.2018.8342276
+Degradation analysis of high performance 14nm FinFET SRAM.	Daniel Kraak,Innocent Agbo,Mottaqiallah Taouil,Said Hamdioui,Pieter Weckx,Stefan Cosemans,Francky Catthoor	10.23919/DATE.2018.8342003
+Improving the error behavior of DRAM by exploiting its Z-channel property.	Kira Kraft,Chirag Sudarshan,Deepak M. Mathew,Christian Weis,Norbert Wehn,Matthias Jung 0001	10.23919/DATE.2018.8342249
+LARS: Logically adaptable retention time STT-RAM cache for embedded systems.	Kyle Kuan,Tosiron Adegbija	10.23919/DATE.2018.8342053
+On the reuse of timing resilient architecture for testing path delay faults in critical paths.	Felipe A. Kuentzer,Leonardo Rezende Juracy,Alexandre M. Amory	10.23919/DATE.2018.8342039
+Improving circuit size upper bounds using SAT-solvers.	Alexander S. Kulikov	10.23919/DATE.2018.8342026
+Heterogeneous PCM array architecture for reliability, performance and lifetime enhancement.	Taehyun Kwon,Muhammad Imran 0010,Jung Min You,Joon-Sung Yang	10.23919/DATE.2018.8342272
+DroNet: Efficient convolutional neural network detector for real-time UAV applications.	Christos Kyrkou,George Plastiras,Theocharis Theocharides,Stylianos I. Venieris,Christos-Savvas Bouganis	10.23919/DATE.2018.8342149
+Pump-aware flow routing algorithm for programmable microfluidic devices.	Guan-Ru Lai,Chun-Yu Lin,Tsung-Yi Ho	10.23919/DATE.2018.8342232
+Efficient synthesis of approximate threshold logic circuits with an error rate guarantee.	Yung-An Lai,Chia-Chun Lin,Chia-Cheng Wu,Yung-Chih Chen,Chun-Yao Wang	10.23919/DATE.2018.8342111
+Non-intrusive program tracing of non-preemptive multitasking systems using power consumption.	Kamal Lamichhane,Carlos Moreno 0002,Sebastian Fischmeister	10.23919/DATE.2018.8342184
+Improving fast charging efficiency of reconfigurable battery packs.	Alexander Lamprecht,Swaminathan Narayanaswamy,Sebastian Steinhorst	10.23919/DATE.2018.8342075
+Resilience evaluation via symbolic fault injection on intermediate code.	Hoang M. Le,Vladimir Herdt,Daniel Große,Rolf Drechsler	10.23919/DATE.2018.8342123
+Correlation manipulating circuits for stochastic computing.	Vincent T. Lee,Armin Alaghi,Luis Ceze	10.23919/DATE.2018.8342234
+Logic optimization with considering boolean relations.	Tung-Yuan Lee,Chia-Cheng Wu,Chia-Chun Lin,Yung-Chih Chen,Chun-Yao Wang	10.23919/DATE.2018.8342109
+Using polyhedral techniques to tighten WCET estimates of optimized code: A case study with array contraction.	Thomas Lefeuvre,Imen Fassi,Christoph Cullmann,Gernot Gebhard,Emin-Koray Kasnakli,Isabelle Puaut,Steven Derrien	10.23919/DATE.2018.8342142
+Embedded randomness and data dependencies design paradigm: Advantages and challenges.	Itamar Levi,Yehuda Rudin,Alexander Fish,Osnat Keren	10.23919/DATE.2018.8342042
+Feedback control of real-time EtherCAT networks for reliability enhancement in CPS.	Liying Li,Peijin Cong,Kun Cao 0001,Junlong Zhou,Tongquan Wei,Mingsong Chen,Xiaobo Sharon Hu	10.23919/DATE.2018.8342097
+Set variation-aware shared LLC management for CPU-GPU heterogeneous architecture.	Zhaoying Li,Lei Ju,Hongjun Dai,Xin Li,Mengying Zhao,Zhiping Jia	10.23919/DATE.2018.8341983
+A time-multiplexed FPGA overlay with linear interconnect.	Xiangwei Li,Abhishek Kumar Jain,Douglas L. Maskell,Suhaib A. Fahmy	10.23919/DATE.2018.8342171
+Block convolution: Towards memory-efficient inference of large-scale CNNs on FPGA.	Gang Li 0015,Fanrong Li,Tianli Zhao,Jian Cheng 0001	10.23919/DATE.2018.8342188
+ReRAM-based accelerator for deep learning.	Bing Li 0017,Linghao Song,Fan Chen 0001,Xuehai Qian,Yiran Chen 0001,Hai Helen Li	10.23919/DATE.2018.8342118
+CCR: A concise convolution rule for sparse neural network accelerators.	Jiajun Li,Guihai Yan,Wenyan Lu,Shuhao Jiang,Shijun Gong,Jingya Wu,Xiaowei Li 0001	10.23919/DATE.2018.8342001
+SmartShuttle: Optimizing off-chip memory accesses for deep learning accelerators.	Jiajun Li,Guihai Yan,Wenyan Lu,Shuhao Jiang,Shijun Gong,Jingya Wu,Xiaowei Li 0001	10.23919/DATE.2018.8342033
+Verification of tree-based hierarchical read-copy update in the Linux kernel.	Lihao Liang,Paul E. McKenney,Daniel Kroening,Tom Melham	10.23919/DATE.2018.8341980
+General floorplanning methodology for 3D ICs with an arbitrary bonding style.	Jai-Ming Lin,Chien-Yu Huang	10.23919/DATE.2018.8342197
+Co-synthesis of floorplanning and powerplanning in 3D ICs for multiple supply voltage designs.	Jai-Ming Lin,Chien-Yu Huang,Jhih-Ying Yang	10.23919/DATE.2018.8342221
+FFT-based deep learning deployment in embedded systems.	Sheng Lin 0001,Ning Liu 0007,Mahdi Nazemi,Hongjia Li,Caiwen Ding,Yanzhi Wang,Massoud Pedram	10.23919/DATE.2018.8342166
+Accelerate analytical placement with GPU: A generic approach.	Chun-Xun Lin,Martin D. F. Wong	10.23919/DATE.2018.8342222
+Rescuing memristor-based computing with non-linear resistance levels.	Jilan Lin,Lixue Xia,Zhenhua Zhu,Hanbo Sun,Yi Cai 0003,Hui Gao,Ming Cheng,Xiaoming Chen 0003,Yu Wang 0002,Huazhong Yang	10.23919/DATE.2018.8342044
+An energy-efficient stochastic computational deep belief network.	Yidong Liu,Yanzhi Wang,Fabrizio Lombardi,Jie Han 0001	10.23919/DATE.2018.8342191
+Accelerating biophysical neural network simulation with region of interest based approximation.	Yun Long,Xueyuan She,Saibal Mukhopadhyay	10.23919/DATE.2018.8341996
+Improving the efficiency of thermal covert channels in multi-/many-core systems.	Zijun Long,Xiaohang Wang 0001,Yingtao Jiang,Guofeng Cui,Li Zhang,Terrence S. T. Mak	10.23919/DATE.2018.8342241
+Automatic integration of cycle-accurate descriptions with continuous-time models for cyber-physical virtual platforms.	Michele Lora,Stefano Centomo,Davide Quaglia,Franco Fummi	10.23919/DATE.2018.8342095
+Optimal DC/AC data bus inversion coding.	Jan Lucas,Sohan Lal,Ben H. H. Juurlink	10.23919/DATE.2018.8342169
+Improving reliability for real-time systems through dynamic recovery.	Yue Ma 0001,Thidapat Chantem,Robert P. Dick,Xiaobo Sharon Hu	10.23919/DATE.2018.8342062
+Stability-aware integrated routing and scheduling for control applications in Ethernet networks.	Rouhollah Mahfouzi,Amir Aminifar,Soheil Samii,Ahmed Rezine,Petru Eles,Zebo Peng	10.23919/DATE.2018.8342096
+The transprecision computing paradigm: Concept, design, and applications.	A. Cristiano I. Malossi,Michael Schaffner,Anca Molnos,Luca Gammaitoni,Giuseppe Tagliavini,Andrew P. J. Emerson,Andrés Tomás,Dimitrios S. Nikolopoulos,Eric Flamand,Norbert Wehn	10.23919/DATE.2018.8342176
+An analysis on retention error behavior and power consumption of recent DDR4 DRAMs.	Deepak M. Mathew,Martin Schultheis,Carl Christian Rheinländer,Chirag Sudarshan,Christian Weis,Norbert Wehn,Matthias Jung 0001	10.23919/DATE.2018.8342023
+Ultra-low energy circuit building blocks for security technologies.	Sanu Mathew,Sudhir Satpathy,Vikram B. Suresh,Ram Krishnamurthy 0001	10.23919/DATE.2018.8342041
+IoT security assessment through the interfaces P-SCAN test bench platform.	Thomas Maurin,Laurent-Frederic Ducreux,George Caraiman,Philippe Sissoko	10.23919/DATE.2018.8342159
+An algebra for modeling continuous time systems.	José Edil G. de Medeiros,George Ungureanu,Ingo Sander	10.23919/DATE.2018.8342126
+Availability enhancement and analysis for mixed-criticality systems on multi-core.	Roberto Medina 0001,Etienne Borde,Laurent Pautet	10.23919/DATE.2018.8342210
+A SystemC-based Simulator for design space exploration of smart wireless systems.	Gabriele Miorandi,Francesco Stefanni,Federico Fraccaroli,Davide Quaglia	10.23919/DATE.2018.8342093
+Cost-efficient design for modeling attacks resistant PUFs.	Mohd Syafiq Mispan,Haibo Su,Mark Zwolinski,Basel Halak	10.23919/DATE.2018.8342054
+Pre-assembly testing of interconnects in embedded multi-die interconnect bridge (EMIB) dies.	Sudipta Mondal,Krishnendu Chakrabarty	10.23919/DATE.2018.8342038
+Fault-tolerant valve-based microfluidic routing fabric for droplet barcoding in single-cell analysis.	Yasamin Moradi,Mohamed Ibrahim 0002,Krishnendu Chakrabarty,Ulf Schlichtmann	10.23919/DATE.2018.8342247
+Novel application of spintronics in computing, sensing, storage and cybersecurity.	Seyedhamidreza Motaman,Mohammad Nasim Imtiaz Khan,Swaroop Ghosh	10.23919/DATE.2018.8341991
+ETISS-ML: A multi-level instruction set simulator with RTL-level fault injection support for the evaluation of cross-layer resiliency techniques.	Daniel Mueller-Gritschneder,Martin Dittrich,Josef Weinzierl,Eric Cheng,Subhasish Mitra,Ulf Schlichtmann	10.23919/DATE.2018.8342081
+The CAMEL approach to stacked sensor smart cameras.	Saibal Mukhopadhyay,Marilyn Wolf,Mohammed Faisal Amir,Evan Gebhardt,Jong Hwan Ko,Jaeha Kung,Burhan Ahmad Musassar	10.23919/DATE.2018.8342214
+Multi-bit non-volatile spintronic flip-flop.	Christopher Münch,Rajendra Bishnoi,Mehdi Baradaran Tahoori	10.23919/DATE.2018.8342203
+QoR-aware power capping for approximate big data processing.	Seyed Morteza Nabavinejad,Xin Zhan,Reza Azimi,Maziar Goudarzi,Sherief Reda	10.23919/DATE.2018.8342013
+Parametric failure modeling and yield analysis for STT-MRAM.	Sarath Mohanachandran Nair,Rajendra Bishnoi,Mehdi Baradaran Tahoori	10.23919/DATE.2018.8342016
+Theoretical and practical aspects of verification of quantum computers.	Yehuda Naveh,Elham Kashefi,James R. Wootton,Koen Bertels	10.23919/DATE.2018.8342103
+Rapid in-memory matrix multiplication using associative processor.	Mohamed Ayoub Neggaz,Hasan Erdem Yantir,Smaïl Niar,Ahmed M. Eltawil,Fadi J. Kurdahi	10.23919/DATE.2018.8342152
+ICNN: An iterative implementation of convolutional neural networks to enable energy and computational complexity aware dynamic approximation.	Katayoun Neshatpour,Farnaz Behnia,Houman Homayoun,Avesta Sasan	10.23919/DATE.2018.8342068
+Exact multi-objective design space exploration using ASPmT.	Kai Neubauer,Philipp Wanko,Torsten Schaub,Christian Haubelt	10.23919/DATE.2018.8342014
+Design and analysis of semaphore precedence constraints: A model-based approach for deterministic communications.	Thanh-Dat Nguyen 0001,Yassine Ouhammou,Emmanuel Grolleau,Julien Forget,Claire Pagetti,Pascal Richard	10.23919/DATE.2018.8342008
+Power optimization through peripheral circuit reusing integrated with loop tiling for RRAM crossbar-based CNN.	Yuanhui Ni,Weiwen Chen,Wenjuan Cui,Yuanchun Zhou,Keni Qiu	10.23919/DATE.2018.8342193
+Improved synthesis of Clifford+T quantum functionality.	Philipp Niemann 0001,Robert Wille,Rolf Drechsler	10.23919/DATE.2018.8342078
+CHASE: Contract-based requirement engineering for cyber-physical system design.	Pierluigi Nuzzo 0002,Michele Lora,Yishai A. Feldman,Alberto L. Sangiovanni-Vincentelli	10.23919/DATE.2018.8342122
+All-digital embedded meters for on-line power estimation.	Daniele Jahier Pagliari,Valentino Peluso,Yukai Chen,Andrea Calimera,Enrico Macii,Massimo Poncino	10.23919/DATE.2018.8342105
+Energy proportionality in near-threshold computing servers and cloud data centers: Consolidating or Not?	Ali Pahlevan,Yasir Mahmood Qureshi,Marina Zapater,Andrea Bartolini,Davide Rossi,Luca Benini,David Atienza	10.23919/DATE.2018.8341994
+Low-cost high-accuracy variation characterization for nanoscale IC technologies via novel learning-based techniques.	Zhijian Pan,Miao Li,Jian Yao,Hong Lu 0012,Zuochang Ye,Yanfeng Li,Yan Wang 0023	10.23919/DATE.2018.8342115
+CAMP: Accurate modeling of core and memory locality for proxy generation of big-data applications.	Reena Panda,Xinnian Zheng,Andreas Gerstlauer,Lizy Kurian John	10.23919/DATE.2018.8342032
+In-growth test for monolithic 3D integrated SRAM.	Pu Pang,Yixun Zhang,Tianjian Li,Sung Kyu Lim,Quan Chen 0002,Xiaoyao Liang,Li Jiang 0002	10.23919/DATE.2018.8342071
+Design optimization of photovoltaic arrays on curved surfaces.	Sangyoung Park,Samarjit Chakraborty	10.23919/DATE.2018.8342107
+Structure optimizations of neuromorphic computing architectures for deep neural network.	Heechun Park,Taewhan Kim	10.23919/DATE.2018.8342000
+Maximizing system performance by balancing computation loads in LSTM accelerators.	Junki Park,Jaeha Kung,Wooseok Yi,Jae-Joon Kim	10.23919/DATE.2018.8341971
+Accurate prediction of smartphones&apos; skin temperature by considering exothermic components.	Jihoon Park,Seokjun Lee,Hojung Cha	10.23919/DATE.2018.8342251
+Task scheduling for many-cores with S-NUCA caches.	Anuj Pathania,Jörg Henkel	10.23919/DATE.2018.8342069
+Advancing hardware security using polymorphic and stochastic spin-hall effect devices.	Satwik Patnaik,Nikhil Rangarajan,Johann Knechtel,Ozgur Sinanoglu,Shaloo Rakheja	10.23919/DATE.2018.8341986
+Enhanced analog and RF IC sizing methodology using PCA and NSGA-II optimization kernel.	Tiago Pessoa,Nuno Lourenço 0003,Ricardo Martins 0003,Ricardo Povoa,Nuno Horta	10.23919/DATE.2018.8342092
+WALL: A writeback-aware LLC management for PCM-based main memory systems.	Bahareh Pourshirazi,Majed Valad Beigi,Zhichun Zhu,Gokhan Memik	10.23919/DATE.2018.8342051
+DeMAS: An efficient design methodology for building approximate adders for FPGA-based systems.	Bharath Srinivas Prabakaran,Semeen Rehman,Muhammad Abdullah Hanif,Salim Ullah,Ghazal Mazaheri,Akash Kumar 0001,Muhammad Shafique 0001	10.23919/DATE.2018.8342140
+Inference of quantized neural networks on heterogeneous all-programmable devices.	Thomas B. Preußer,Giulio Gambardella,Nicholas J. Fraser,Michaela Blott	10.23919/DATE.2018.8342121
+Evaluating the impact of execution parameters on program vulnerability in GPU applications.	Fritz G. Previlon,Charu Kalra,David R. Kaeli,Paolo Rech	10.23919/DATE.2018.8342117
+SOH-aware active cell balancing strategy for high power battery packs.	Alma Pröbstl,Sangyoung Park,Swaminathan Narayanaswamy,Sebastian Steinhorst,Samarjit Chakraborty	10.23919/DATE.2018.8342048
+Throughput optimization and resource allocation on GPUs under multi-application execution.	Srinivasa Reddy Punyala,Theodoros Marinakis,Arash Komaee,Iraklis Anagnostopoulos	10.23919/DATE.2018.8341982
+Topology-aware virtual resource management for heterogeneous multicore systems.	Jianmin Qian,Jian Li 0021,Ruhui Ma	10.23919/DATE.2018.8341999
+A peripheral circuit reuse structure integrated with a retimed data flow for low power RRAM crossbar-based CNN.	Keni Qiu,Weiwen Chen,Yuanchao Xu 0002,Lixue Xia,Yu Wang 0002,Zili Shao	10.23919/DATE.2018.8342168
+Technology mapping flow for emerging reconfigurable silicon nanowire transistors.	Shubham Rai,Michael Raitza,Akash Kumar 0001	10.23919/DATE.2018.8342110
+A physical synthesis flow for early technology evaluation of silicon nanowire based reconfigurable FETs.	Shubham Rai,Ansh Rupani,Dennis Walter,Michael Raitza,Andre Heinzig,Tim Baldauf,Jens Trommer,Christian Mayr 0001,Walter M. Weber,Akash Kumar 0001	10.23919/DATE.2018.8342080
+HiMap: A hierarchical mapping approach for enhancing lifetime reliability of dark silicon manycore systems.	Vijeta Rathore,Vivek Chaturvedi,Amit Kumar Singh 0002,Thambipillai Srikanthan,R. Rohith,Siew-Kei Lam,Muhammad Shafique 0001	10.23919/DATE.2018.8342153
+Online concurrent workload classification for multi-core energy management.	Basireddy Karunakar Reddy,Geoff V. Merrett,Bashir M. Al-Hashimi,Amit Kumar Singh 0002	10.23919/DATE.2018.8342084
+A WCET-aware parallel programming model for predictability enhanced multi-core architectures.	Simon Reder,Leonard Masing,Harald Bucher,Timon D. ter Braak,Timo Stripf,Jürgen Becker 0001	10.23919/DATE.2018.8342145
+Earthquake - A NoC-based optimized differential cache-collision attack for MPSoCs.	Cezar Reinbrecht,Bruno Forlin,Andreas Zankl,Johanna Sepúlveda	10.23919/DATE.2018.8342090
+Workload-aware harmonic partitioned scheduling for probabilistic real-time systems.	Jiankang Ren,Ran Bi,Xiaoyan Su,Qian Liu 0001,Guowei Wu,Guozhen Tan	10.23919/DATE.2018.8342005
+Towards high-performance polarity-controllable FETs with 2D materials.	Giovanni V. Resta,Jorge Romero Gonzalez,Yashwanth Balaji,Tarun Agarwal,Dennis Lin,Francky Catthoor,Iuliana P. Radu,Giovanni De Micheli,Pierre-Emmanuel Gaillardon	10.23919/DATE.2018.8342088
+Cyclic locking and memristor-based obfuscation against CycSAT and inside foundry attacks.	Amin Rezaei 0001,Yuanqi Shen,Shuyu Kong,Jie Gu 0001,Hai Zhou	10.23919/DATE.2018.8341984
+Improving and extending the algebraic approach for verifying gate-level multipliers.	Daniela Ritirc,Armin Biere,Manuel Kauers	10.23919/DATE.2018.8342263
+Supporting runtime reconfigurable VLIWs cores through dynamic binary translation.	Simon Rokicki,Erven Rohou,Steven Derrien	10.23919/DATE.2018.8342160
+Converging safety and high-performance domains: Integrating OpenMP into Ada.	Sara Royuela,Luís Miguel Pinho,Eduardo Quiñones	10.23919/DATE.2018.8342162
+Design methodologies for enabling self-awareness in autonomous systems.	Armin Sadighi,Bryan Donyanavard,Thawra Kadeed,Kasra Moazzemi,Tiago Mück,Ahmed Nassar,Amir M. Rahmani,Thomas Wild,Nikil D. Dutt,Rolf Ernst,Andreas Herkersdorf,Fadi J. Kurdahi	10.23919/DATE.2018.8342259
+Highly efficient and accurate seizure prediction on constrained IoT devices.	Farzad Samie,Sebastian Paul,Lars Bauer,Jörg Henkel	10.23919/DATE.2018.8342147
+Energy-performance design exploration of a low-power microprogrammed deep-learning accelerator.	Giulia Santoro,Mario R. Casu,Valentino Peluso,Andrea Calimera,Massimo Alioto	10.23919/DATE.2018.8342185
+Processing in 3D memories to speed up operations on complex data structures.	Paulo C. Santos 0001,Geraldo F. Oliveira,João Paulo C. de Lima,Marco A. Z. Alves,Luigi Carro,Antonio C. S. Beck	10.23919/DATE.2018.8342135
+Quater-imaginary base for complex number arithmetic circuits.	Souradip Sarkar,Manil Dev Gomony	10.23919/DATE.2018.8342246
+A cross-layer adaptive approach for performance and power optimization in STT-MRAM.	Nour Sayed,Rajendra Bishnoi,Fabian Oboril,Mehdi Baradaran Tahoori	10.23919/DATE.2018.8342114
+Circuit carving: A methodology for the design of approximate hardware.	Ilaria Scarabottolo,Giovanni Ansaloni,Laura Pozzi	10.23919/DATE.2018.8342067
+On-line RF built-in self-test using noise injection and transmitter signal modulation by phase shifter.	Jan Schat	10.23919/DATE.2018.8342157
+An inside job: Remote power analysis attacks on FPGAs.	Falk Schellenberg,Dennis R. E. Gnad,Amir Moradi 0001,Mehdi Baradaran Tahoori	10.23919/DATE.2018.8342177
+High speed ASIC implementations of leakage-resilient cryptography.	Robert Schilling,Thomas Unterluggauer,Stefan Mangard,Frank K. Gürkaynak,Michael Muehlberghuber,Luca Benini	10.23919/DATE.2018.8342208
+Securing conditional branches in the presence of fault attacks.	Robert Schilling,Mario Werner,Stefan Mangard	10.23919/DATE.2018.8342268
+Port call path sensitive conflict analysis for instance-aware parallel SystemC simulation.	Tim Schmidt,Zhongqi Cheng,Rainer Dömer	10.23919/DATE.2018.8342034
+One-way shared memory.	Martin Schoeberl	10.23919/DATE.2018.8342017
+Design of a time-predictable multicore processor: The T-CREST project.	Martin Schoeberl	10.23919/DATE.2018.8342138
+Accurate neuron resilience prediction for a flexible reliability management in neural network accelerators.	Christoph Schorn,Andre Guntoro,Gerd Ascheid	10.23919/DATE.2018.8342151
+Combining PDR and reverse PDR for hardware model checking.	Tobias Seufert,Christoph Scholl 0001	10.23919/DATE.2018.8341978
+A placement algorithm for superconducting logic circuits based on cell grouping and super-cell placement.	Soheil Nazar Shahsavani,Alireza Shafaei,Massoud Pedram	10.23919/DATE.2018.8342242
+Accurate margin calculation for single flux quantum logic cells.	Soheil Nazar Shahsavani,Bo Zhang 0098,Massoud Pedram	10.23919/DATE.2018.8342061
+Compact modeling of carbon nanotube thin film transistors for flexible circuit design.	Leilai Shao,Tsung-Ching Huang,Ting Lei,Zhenan Bao,Raymond G. Beausoleil,Kwang-Ting Cheng	10.23919/DATE.2018.8342058
+SAT-based bit-flipping attack on logic encryptions.	Yuanqi Shen,Amin Rezaei 0001,Hai Zhou	10.23919/DATE.2018.8342086
+Program error rate-based wear leveling for NAND flash memory.	Xin Shi,Fei Wu 0005,Shunzhuo Wang,Changsheng Xie,Zhonghai Lu	10.23919/DATE.2018.8342205
+Exploiting on-chip power management for side-channel security.	Arvind Singh,Monodeep Kar,Sanu Mathew,Anand Rajan,Vivek De,Saibal Mukhopadhyay	10.23919/DATE.2018.8342043
+NBTI aged cell rejuvenation with back biasing and resulting critical path reordering for digital circuits in 28nm FDSOI.	Ajith Sivadasan,Riddhi Jitendrakumar Shah,Vincent Huard,Florian Cacho,Lorena Anghel	10.23919/DATE.2018.8342154
+Abax: 2D/3D legaliser supporting look-ahead legalisation and blockage strategies.	Nikolaos Sketopoulos,Christos P. Sotiriou,Stavros Simoglou	10.23919/DATE.2018.8342243
+EXPERT: Effective and flexible error protection by redundant multithreading.	Hwisoo So,Moslem Didehban,Yohan Ko,Aviral Shrivastava,Kyoungwoo Lee	10.23919/DATE.2018.8342065
+Programming quantum computers using design automation.	Mathias Soeken,Thomas Häner,Martin Roetteler	10.23919/DATE.2018.8341993
+Practical exact synthesis.	Mathias Soeken,Winston Haaswijk,Eleonora Testa,Alan Mishchenko,Luca Gaetano Amarù,Robert K. Brayton,Giovanni De Micheli	10.23919/DATE.2018.8342027
+Reconfigurable asynchronous pipelines: From formal models to silicon.	Danil Sokolov,Alessandro de Gennaro,Andrey Mokhov	10.23919/DATE.2018.8342264
+Row-buffer hit harvesting in orchestrated last-level cache and DRAM scheduling for heterogeneous multicore systems.	Yang Song 0006,Olivier Alavoine,Bill Lin 0001	10.23919/DATE.2018.8342112
+AMS verification methodology regarding supply modulation in RF SoCs induced by digital standard cells.	Fabian Speicher,Jonas Meier,Soheil Aghaie,Ralf Wunderlich,Stefan Heinen	10.23919/DATE.2018.8342087
+HyperPower: Power- and memory-constrained hyper-parameter optimization for neural networks.	Dimitrios Stamoulis,Ermao Cai,Da-Cheng Juan,Diana Marculescu	10.23919/DATE.2018.8341973
+A fast and resource efficient FPGA implementation of secret sharing for storage applications.	Jakob Stangl,Thomas Lorünser,Sai Manoj Pudukotai Dinakarrao	10.23919/DATE.2018.8342091
+ACCLIB: Accelerators as libraries.	Jacob R. Stevens,Yue Du,Vivek Kozhikkott,Anand Raghunathan	10.23919/DATE.2018.8342011
+XNOR-RRAM: A scalable and parallel resistive synaptic architecture for binary neural networks.	Xiaoyu Sun,Shihui Yin,Xiaochen Peng,Rui Liu 0005,Jae-sun Seo,Shimeng Yu	10.23919/DATE.2018.8342235
+ADAM: Architecture for write disturbance mitigation in scaled phase change memory.	Shivam Swami,Kartik Mohanram	10.23919/DATE.2018.8342204
+A transprecision floating-point platform for ultra-low power computing.	Giuseppe Tagliavini,Stefan Mach,Davide Rossi,Andrea Marongiu,Luca Benini	10.23919/DATE.2018.8342167
+Using multifunctional standardized stack as universal spintronic technology for IoT.	Mehdi Baradaran Tahoori,Sarath Mohanachandran Nair,Rajendra Bishnoi,Sophiane Senni,Jad Mohdad,Frédérick Mailly,Lionel Torres,Pascal Benoit,Abdoulaye Gamatié,Pascal Nouet,Frederic Ouattara,Gilles Sassatelli,Kotb Jabeur,Pierre Vanhauwaert,A. Atitoaie,I. Firastrau,Gregory di Pendina,Guillaume Prenat	10.23919/DATE.2018.8342143
+Practical challenges in delivering the promises of real processing-in-memory machines.	Nishil Talati,Ameer Haj Ali,Rotem Ben Hur,Nimrod Wald,Ronny Ronen,Pierre-Emmanuel Gaillardon,Shahar Kvatinsky	10.23919/DATE.2018.8342275
+HVSM: Hardware-variability aware streaming processors&apos; management policy in GPUs.	Jingweijia Tan,Kaige Yan	10.23919/DATE.2018.8341981
+AdAM: Adaptive approximation management for the non-volatile memory hierarchies.	Mohammad Taghi Teimoori,Muhammad Abdullah Hanif,Alireza Ejlali,Muhammad Shafique 0001	10.23919/DATE.2018.8342113
+Lookup table allocation for approximate computing with memory under quality constraints.	Ye Tian 0010,Qian Zhang 0020,Ting Wang 0008,Qiang Xu 0001	10.23919/DATE.2018.8341995
+HIPE: HMC instruction predication extension applied on database processing.	Diego G. Tomé,Paulo C. Santos 0001,Luigi Carro,Eduardo C. de Almeida,Marco A. Z. Alves	10.23919/DATE.2018.8342015
+Precise evaluation of the fault sensitivity of OoO superscalar processors.	Rafael Billig Tonetto,Gabriel L. Nazar,Antonio Carlos Schneider Beck	10.23919/DATE.2018.8342082
+Digitalization in automotive and industrial systems.	Matthias Traub,Hans-Jörg Vögel,Eric Sax,Thilo Streichert,Jérôme Härri	10.23919/DATE.2018.8342198
+Concurrent focal-plane generation of compressed samples from time-encoded pixel values.	Marco Trevisi,H. C. Bandala,Jorge Fernández-Berni,Ricardo Carmona-Galán,Ángel Rodríguez-Vázquez	10.23919/DATE.2018.8342217
+Logic synthesis and defect tolerance for memristive crossbar arrays.	Onur Tunali,Mustafa Altun	10.23919/DATE.2018.8342047
+Progress on carbon nanotube BEOL interconnects.	B. Uhlig,J. Liang,Jaehyun Lee,Raphael Ramos,A. Dhavamani,N. Nagy,J. Dijon,H. Okuno,D. Kalita,Vihar P. Georgiev,A. Asenov,Salvatore M. Amoroso,Liping Wang,Campbell Millar,F. Konemann,Bernd Gotsmann,G. Goncalves,B. Chen,R. R. Pandey,R. Chen,Aida Todri-Sanial	10.23919/DATE.2018.8342144
+Bridging discrete and continuous time models with atoms.	George Ungureanu,José Edil G. de Medeiros,Ingo Sander	10.23919/DATE.2018.8342019
+FusionCache: Using LLC tags for DRAM cache.	Evangelos Vasilakis,Vassilis Papaefstathiou,Pedro Trancoso,Ioannis Sourdis	10.23919/DATE.2018.8342077
+Exploring non-volatile main memory architectures for handheld devices.	Sneha N. Ved,Manu Awasthi	10.23919/DATE.2018.8342258
+Energy-secure swarm power management.	Augusto Vega,Alper Buyuktosunoglu,Pradip Bose	10.23919/DATE.2018.8342279
+Suspect set prediction in RTL bug hunting.	Neil Veira,Zissis Poulos,Andreas G. Veneris	10.23919/DATE.2018.8342261
+In-memory computing using paths-based logic and heterogeneous components.	Alvaro Velasquez,Sumit Kumar Jha 0001	10.23919/DATE.2018.8342254
+Dynamic skewed tree for fast memory integrity verification.	Saru Vig,Guiyuan Jiang,Siew-Kei Lam	10.23919/DATE.2018.8342089
+GIS-based optimal photovoltaic panel floorplanning for residential installations.	Sara Vinco,Lorenzo Bottaccioli,Edoardo Patti,Andrea Acquaviva,Enrico Macii,Massimo Poncino	10.23919/DATE.2018.8342049
+An exact method for design exploration of quantum-dot cellular automata.	Marcel Walter,Robert Wille,Daniel Große,Frank Sill Torres,Rolf Drechsler	10.23919/DATE.2018.8342060
+Mitigation of NBTI induced performance degradation in on-chip digital LDOs.	Longfei Wang,S. Karen Khatamifard,Ulya R. Karpuzcu,Selçuk Köse	10.23919/DATE.2018.8342116
+Efficient helper data reduction in SRAM PUFs via lossy compression.	Ye Wang 0014,Michael Orshansky	10.23919/DATE.2018.8342240
+A retrospective evaluation of energy-efficient object detection solutions on embedded devices.	Ying Wang 0001,Zhenyu Quan,Jiajun Li,Yinhe Han 0001,Huawei Li 0001,Xiaowei Li 0001	10.23919/DATE.2018.8342101
+A case study for using dynamic partitioning based solution in volume diagnosis.	Tao Wang,Zhangchun Shi,Junlin Huang,Huaxing Tang,Wu Yang,Junna Zhong	10.23919/DATE.2018.8342156
+Energy-efficient channel alignment of DWDM silicon photonic transceivers.	Yuyang Wang 0003,M. Ashkan Seyedi,Rui Wu,Jared Hulme,Marco Fiorentino,Raymond G. Beausoleil,Kwang-Ting Cheng	10.23919/DATE.2018.8342079
+LESAR: A dynamic line-end spacing aware detailed router.	Ying-Chi Wei,Radhamanjari Samanta,Yih-Lang Li	10.23919/DATE.2018.8342244
+Contactless finger and face capturing on a secure handheld embedded device.	Axel Weissenfeld,Bernhard Strobl,Franz Daubner	10.23919/DATE.2018.8342218
+Early detection of system-level anomalous behaviour using hardware performance counters.	Lai Leng Woo,Mark Zwolinski,Basel Halak	10.23919/DATE.2018.8342057
+A design tool for high performance image processing on multicore platforms.	Jiahao Wu 0001,Timothy Blattner,Walid Keyrouz,Shuvra S. Bhattacharyya	10.23919/DATE.2018.8342215
+A highly efficient full-system virtual prototype based on virtualization-assisted approach.	Hsin-I Wu,Chi-Kang Chen,Tsung-Ying Lu,Ren-Song Tsay	10.23919/DATE.2018.8342021
+KVSSD: Close integration of LSM trees and flash translation layer for write-efficient KV store.	Sung-Ming Wu,Kai-Hsiang Lin,Li-Pin Chang	10.23919/DATE.2018.8342070
+Flash read disturb management using adaptive cell bit-density with in-place reprogramming.	Tai-Chou Wu,Yu-ping Ma,Li-Pin Chang	10.23919/DATE.2018.8342030
+MAUI: Making aging useful, intentionally.	Kai-Chiang Wu,Tien-Hung Tseng,Shou-Chun Li	10.23919/DATE.2018.8342064
+Prometheus: Processing-in-memory heterogeneous architecture design from a multi-layer network theoretic strategy.	Yao Xiao,Shahin Nazarian,Paul Bogdan	10.23919/DATE.2018.8342229
+AIM: Fast and energy-efficient AES in-memory implementation for emerging non-volatile main memory.	Mimi Xie,Shuangchen Li,Alvin Oliver Glova,Jingtong Hu,Yuangang Wang,Yuan Xie 0001	10.23919/DATE.2018.8342085
+Extending the lifetime of NVMs with compression.	Jie Xu 0013,Dan Feng 0001,Yu Hua 0001,Wei Tong 0001,Jingning Liu,Chunyan Li	10.23919/DATE.2018.8342271
+An efficient PCM-based main memory system via exploiting fine-grained dirtiness of cachelines.	Jie Xu 0013,Dan Feng 0001,Yu Hua 0001,Wei Tong 0001,Jingning Liu,Chunyan Li,Zheng Li 0005	10.23919/DATE.2018.8342273
+An efficient resource-optimized learning prefetcher for solid state drives.	Rui Xu,Xi Jin 0002,Linfeng Tao,Shuaizhi Guo,Zikun Xiang,Teng Tian	10.23919/DATE.2018.8342018
+Exploring the opportunity of implementing neuromorphic computing systems with spintronic devices.	Bonan Yan,Fan Chen 0001,Yaojun Zhang,Chang Song 0001,Hai Li 0001,Yiran Chen 0001	10.23919/DATE.2018.8341988
+Prediction-based fast thermoelectric generator reconfiguration for energy harvesting from vehicle radiators.	Hanchen Yang,Feiyang Kang,Caiwen Ding,Ji Li 0006,Jaemin Kim,Donkyu Baek,Shahin Nazarian,Xue Lin,Paul Bogdan,Naehyuck Chang	10.23919/DATE.2018.8342130
+RSON: An inter/intra-chip silicon photonic network for rack-scale computing systems.	Peng Yang 0003,Zhengbin Pang,Zhifei Wang,Zhehui Wang,Min Xie,Xuanqi Chen,Luan H. K. Duong,Jiang Xu 0001	10.23919/DATE.2018.8342226
+Real-time object detection towards high power efficiency.	Jincheng Yu,Kaiyuan Guo,Yiming Hu,Xuefei Ning,Jiantao Qiu,Huizi Mao,Song Yao,Tianqi Tang 0001,Boxun Li,Yu Wang 0002,Huazhong Yang	10.23919/DATE.2018.8342100
+Memristive devices for computation-in-memory.	Jintao Yu,Hoang Anh Du Nguyen,Lei Xie 0005,Mottaqiallah Taouil,Said Hamdioui	10.23919/DATE.2018.8342278
+Towards provably-secure performance locking.	Monir Zaman,Abhrajit Sengupta,Danqing Liu,Ozgur Sinanoglu,Yiorgos Makris,Jeyavijayan (JV) Rajendran	10.23919/DATE.2018.8342269
+Industrial evaluation of transition fault testing for cost effective offline adaptive voltage scaling.	Mahroo Zandrahimi,Philippe Debaud,Armand Castillejo,Zaid Al-Ars	10.23919/DATE.2018.8342022
+An industrial case study of low cost adaptive voltage scaling using delay test patterns.	Mahroo Zandrahimi,Philippe Debaud,Armand Castillejo,Zaid Al-Ars	10.23919/DATE.2018.8342155
+Examining the consequences of high-level synthesis optimizations on power side-channel.	Lu Zhang,Wei Hu 0008,Armaiti Ardeshiricham,Yu Tai,Jeremy Blackstone,Dejun Mu,Ryan Kastner	10.23919/DATE.2018.8342189
+TimingCamouflage: Improving circuit security against counterfeiting by unconventional timing.	Grace Li Zhang,Bing Li 0005,Bei Yu 0001,David Z. Pan,Ulf Schlichtmann	10.23919/DATE.2018.8341985
+DS-DSE: Domain-specific design space exploration for streaming applications.	Jinghan Zhang,Hamed Tabkhi,Gunar Schirner	10.23919/DATE.2018.8341997
+Optimizing the data placement and transformation for multi-bank CGRA computing system.	Zhongyuan Zhao 0004,Yantao Liu,Weiguang Sheng,Tushar Krishna,Qin Wang 0009,Zhigang Mao	10.23919/DATE.2018.8342173
+Hardware-assisted rootkit detection via on-line statistical fingerprinting of process execution.	Liwei Zhou,Yiorgos Makris	10.23919/DATE.2018.8342267
+Variation-aware task allocation and scheduling for improving reliability of real-time MPSoCs.	Junlong Zhou,Tongquan Wei,Mingsong Chen,Xiaobo Sharon Hu,Yue Ma 0001,Gongxuan Zhang,Jianming Yan	10.23919/DATE.2018.8341998
+SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity.	Jingyang Zhu,Jingbo Jiang,Xizi Chen,Chi-Ying Tsui	10.23919/DATE.2018.8342010
+PowerProbe: Run-time power modeling through automatic RTL instrumentation.	Davide Zoni,Luca Cremona,William Fornaciari	10.23919/DATE.2018.8342106
+Efficient mapping of quantum circuits to the IBM QX architectures.	Alwin Zulehner,Alexandru Paler,Robert Wille	10.23919/DATE.2018.8342181
+Pushing the number of qubits below the &quot;minimum&quot;: Realizing compact boolean components for quantum logic.	Alwin Zulehner,Robert Wille	10.23919/DATE.2018.8342192
+2018 Design, Automation &amp; Test in Europe Conference &amp; Exhibition, DATE 2018, Dresden, Germany, March 19-23, 2018	Jan Madsen,Ayse K. Coskun	

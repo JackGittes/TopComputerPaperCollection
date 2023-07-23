@@ -1,0 +1,65 @@
+A Parametric Approach for Smaller and Better Encodings of Cardinality Constraints.	Ignasi Abío,Robert Nieuwenhuis,Albert Oliveras,Enric Rodríguez-Carbonell	10.1007/978-3-642-40627-0_9
+To Encode or to Propagate? The Best Choice for Each Constraint in SAT.	Ignasi Abío,Robert Nieuwenhuis,Albert Oliveras,Enric Rodríguez-Carbonell,Peter J. Stuckey	10.1007/978-3-642-40627-0_10
+Automated Symmetry Breaking and Model Selection in Conjure.	Ozgur Akgun,Alan M. Frisch,Ian P. Gent,Bilal Syed Hussain,Christopher Jefferson,Lars Kotthoff,Ian Miguel,Peter Nightingale	10.1007/978-3-642-40627-0_11
+Improving WPM2 for (Weighted) Partial MaxSAT.	Carlos Ansótegui,Maria Luisa Bonet,Joel Gabàs,Jordi Levy	10.1007/978-3-642-40627-0_12
+MinSAT versus MaxSAT for Optimization Problems.	Josep Argelich,Chu Min Li,Felip Manyà,Zhu Zhu	10.1007/978-3-642-40627-0_13
+Adaptive Parameterized Consistency.	Amine Balafrej,Christian Bessiere,Remi Coletta,El-Houssine Bouyakhf	10.1007/978-3-642-40627-0_14
+Describing and Generating Solutions for the EDF Unit Commitment Problem with the ModelSeeker.	Nicolas Beldiceanu,Georgiana Ifrim,Arnaud Lenoir,Helmut Simonis	10.1007/978-3-642-40627-0_54
+Global Inverse Consistency for Interactive Constraint Satisfaction.	Christian Bessiere,Hélène Fargier,Christophe Lecoutre	10.1007/978-3-642-40627-0_15
+Counting Spanning Trees to Guide Search in Constrained Spanning Tree Problems.	Simon Brockbank,Gilles Pesant,Louis-Martin Rousseau	10.1007/978-3-642-40627-0_16
+Solving the Agricultural Land Allocation Problem by Constraint-Based Local Search.	Quoc Trung Bui,Quang-Dung Pham,Yves Deville	10.1007/978-3-642-40627-0_55
+On the Reduction of the CSP Dichotomy Conjecture to Digraphs.	Jakub Bulin,Dejan Delic,Marcel Jackson,Todd Niven	10.1007/978-3-642-40627-0_17
+Bin Packing with Linear Usage Costs - An Application to Energy Management in Data Centres.	Hadrien Cambazard,Deepak Mehta 0001,Barry O&apos;Sullivan,Helmut Simonis	10.1007/978-3-642-40627-0_7
+A Scalable Approximate Model Counter.	Supratik Chakraborty,Kuldeep S. Meel,Moshe Y. Vardi	10.1007/978-3-642-40627-0_18
+Dominance Driven Search.	Geoffrey Chu,Peter J. Stuckey	10.1007/978-3-642-40627-0_19
+Tractable Combinations of Global Constraints.	David A. Cohen,Peter G. Jeavons,Evgenij Thorstensen,Stanislav Zivný	10.1007/978-3-642-40627-0_20
+Postponing Optimization to Speed Up MAXSAT Solving.	Jessica Davies,Fahiem Bacchus	10.1007/978-3-642-40627-0_21
+Solving Weighted CSPs by Successive Relaxations.	Erin Delisle,Fahiem Bacchus	10.1007/978-3-642-40627-0_23
+Constraint-Based Program Reasoning with Heaps and Separation.	Gregory J. Duck,Joxan Jaffar,Nicolas C. H. Koh	10.1007/978-3-642-40627-0_24
+Filtering AtMostNValue with Difference Constraints: Application to the Shift Minimisation Personnel Task Scheduling Problem.	Jean-Guillaume Fages,Tanguy Lapègue	10.1007/978-3-642-40627-0_8
+Model Combinators for Hybrid Optimization.	Daniel Fontaine,Laurent Michel,Pascal Van Hentenryck	10.1007/978-3-642-40627-0_25
+Modelling Destructive Assignments.	Kathryn Francis,Jorge A. Navas,Peter J. Stuckey	10.1007/978-3-642-40627-0_26
+An Improved Search Algorithm for Min-Perturbation.	Alex Fukunaga	10.1007/978-3-642-40627-0_27
+Explaining Propagators for Edge-Valued Decision Diagrams.	Graeme Gange,Peter J. Stuckey,Pascal Van Hentenryck	10.1007/978-3-642-40627-0_28
+Constraint-Based Approaches for Balancing Bike Sharing Systems.	Luca Di Gaspero,Andrea Rendl,Tommaso Urli	10.1007/978-3-642-40627-0_56
+Primal and Dual Encoding from Applications into Quantified Boolean Formulas.	Allen Van Gelder	10.1007/978-3-642-40627-0_51
+Dead-End Elimination for Weighted CSP.	Simon de Givry,Steven D. Prestwich,Barry O&apos;Sullivan	10.1007/978-3-642-40627-0_22
+Constraint Based Computation of Periodic Orbits of Chaotic Dynamical Systems.	Alexandre Goldsztejn,Laurent Granvilliers,Christophe Jermann	10.1007/978-3-642-40627-0_57
+A Simple and Effective Decomposition for the Multidimensional Binpacking Constraint.	Stefano Gualandi,Michele Lombardi 0001	10.1007/978-3-642-40627-0_29
+Maintaining Soft Arc Consistencies in BnB-ADOPT + during Search.	Patricia Gutierrez,Jimmy Ho-Man Lee,Ka Man Lei,Terrence W. K. Mak,Pedro Meseguer	10.1007/978-3-642-40627-0_30
+Empirical Study of the Behavior of Conflict Analysis in CDCL Solvers.	Djamal Habet,Donia Toumi	10.1007/978-3-642-40627-0_50
+Solving String Constraints: The Case for Constraint Programming.	Jun He 0001,Pierre Flener,Justin Pearson,Weiming Zhang 0003	10.1007/978-3-642-40627-0_31
+Decide Different!	Pascal Van Hentenryck	10.1007/978-3-642-40627-0_4
+The Objective-CP Optimization System.	Pascal Van Hentenryck,Laurent Michel	10.1007/978-3-642-40627-0_5
+Blowing Holes in Various Aspects of Computational Problems, with Applications to Constraint Satisfaction.	Peter Jonsson,Victor Lagerkvist,Gustav Nordh	10.1007/978-3-642-40627-0_32
+Solving QBF with Free Variables.	William Klieber,Mikolás Janota,João Marques-Silva 0001,Edmund M. Clarke	10.1007/978-3-642-40627-0_33
+Laser Cutting Path Planning Using CP.	Mikael Z. Lagerkvist,Martin Nordkvist,Magnus Rattfeldt	10.1007/978-3-642-40627-0_58
+Globalizing Constraint Models.	Kevin Leo,Christopher Mears,Guido Tack,Maria Garcia de la Banda	10.1007/978-3-642-40627-0_34
+A New Propagator for Two-Layer Neural Networks in Empirical Model Learning.	Michele Lombardi 0001,Stefano Gualandi	10.1007/978-3-642-40627-0_35
+Bandit-Based Search for Constraint Programming.	Manuel Loth,Michèle Sebag,Youssef Hamadi,Marc Schoenauer	10.1007/978-3-642-40627-0_36
+Focused Random Walk with Configuration Checking and Break Minimum for Satisfiability.	Chuan Luo,Shaowei Cai 0001,Wei Wu 0042,Kaile Su	10.1007/978-3-642-40627-0_37
+Atom Mapping with Constraint Programming.	Martin Mann,Feras Nahar,Heinz Ekker,Rolf Backofen,Peter F. Stadler,Christoph Flamm	10.1007/978-3-642-40627-0_59
+Multi-Objective Constraint Optimization with Tradeoffs.	Radu Marinescu 0002,Abdul Razak,Nic Wilson	10.1007/978-3-642-40627-0_38
+Optimization for Policy Making: The Cornerstone for an Integrated Approach.	Michela Milano	10.1007/978-3-642-40627-0_1
+Multidimensional Bin Packing Revisited.	Michael D. Moffitt	10.1007/978-3-642-40627-0_39
+Parallel Discrepancy-Based Search.	Thierry Moisan,Jonathan Gaudreault,Claude-Guy Quimper	10.1007/978-3-642-40627-0_6
+A Parametric Propagator for Discretely Convex Pairs of Sum Constraints.	Jean-Noël Monette,Nicolas Beldiceanu,Pierre Flener,Justin Pearson	10.1007/978-3-642-40627-0_40
+Breaking Symmetry with Different Orderings.	Nina Narodytska,Toby Walsh	10.1007/978-3-642-40627-0_41
+Beyond Feasibility: CP Usage in Constrained-Random Functional Hardware Verification.	Reuven Naveh,Amit Metodi	10.1007/978-3-642-40627-0_60
+Stochastic Local Search Based Channel Assignment in Wireless Mesh Networks.	M. A. Hakim Newton,Duc Nghia Pham,Wee Lum Tan,Marius Portmann,Abdul Sattar 0001	10.1007/978-3-642-40627-0_61
+Time-Table Extended-Edge-Finding for the Cumulative Constraint.	Pierre Ouellet,Claude-Guy Quimper	10.1007/978-3-642-40627-0_42
+Revisiting the Cardinality Reasoning for BinPacking Constraint.	François Pelsser,Pierre Schaus,Jean-Charles Régin	10.1007/978-3-642-40627-0_43
+Value Interchangeability in Scenario Generation.	Steven D. Prestwich,Marco Laumanns,Ban Kawas	10.1007/978-3-642-40627-0_44
+Embarrassingly Parallel Search.	Jean-Charles Régin,Mohamed Rezgui,Arnaud Malapert	10.1007/978-3-642-40627-0_45
+Answer Set Programming: Boolean Constraint Solving for Knowledge Representation and Reasoning.	Torsten Schaub	10.1007/978-3-642-40627-0_2
+Multi-Objective Large Neighborhood Search.	Pierre Schaus,Renaud Hartert	10.1007/978-3-642-40627-0_46
+Scheduling Optional Tasks with Explanation.	Andreas Schutt,Thibaut Feydy,Peter J. Stuckey	10.1007/978-3-642-40627-0_47
+Residential Demand Response under Uncertainty.	Paul Scott 0002,Sylvie Thiébaux,Menkes van den Briel,Pascal Van Hentenryck	10.1007/978-3-642-40627-0_48
+Those Who Cannot Remember the Past Are Condemned to Repeat It.	Peter J. Stuckey	10.1007/978-3-642-40627-0_3
+Lifting Structural Tractability to CSP with Global Constraints.	Evgenij Thorstensen	10.1007/978-3-642-40627-0_49
+Automatic Generation and Delivery of Multiple-Choice Math Quizzes.	Ana Paula Tomás,José Paulo Leal	10.1007/978-3-642-40627-0_62
+Constrained Wine Blending.	Philippe Vismara,Remi Coletta,Gilles Trombettoni	10.1007/978-3-642-40627-0_63
+Asynchronous Forward Bounding Revisited.	Mohamed Wahbi,Redouane Ezzahir,Christian Bessiere	10.1007/978-3-642-40627-0_52
+Optimizing STR Algorithms with Tuple Compression.	Wei Xia,Roland H. C. Yap	10.1007/978-3-642-40627-0_53
+The Berth Allocation and Quay Crane Assignment Problem Using a CP Approach.	Stéphane Zampelli,Yannis Vergados,Rowan Van Schaeren,Wout Dullaert,Birger Raa	10.1007/978-3-642-40627-0_64
+Principles and Practice of Constraint Programming - 19th International Conference, CP 2013, Uppsala, Sweden, September 16-20, 2013. Proceedings	Christian Schulte 0001	10.1007/978-3-642-40627-0

@@ -1,0 +1,48 @@
+Identifying Trends in Enterprise Data Protection Systems.	George Amvrosiadis,Medha Bhadkamkar	
+Tiered Replication: A Cost-effective Alternative to Full Cluster Geo-replication.	Asaf Cidon,Robert Escriva,Sachin Katti,Mendel Rosenblum,Emin Gün Sirer	
+Systematically Exploring the Behavior of Control Programs.	Jason Croft,Ratul Mahajan,Matthew Caesar 0001,Madan Musuvathi	
+Hawk: Hybrid Datacenter Scheduling.	Pamela Delgado,Florin Dinu,Anne-Marie Kermarrec,Willy Zwaenepoel	
+Slipstream: Automatic Interprocess Communication Optimization.	Will Dietz,Joshua Cranmer,Nathan Dautenhahn,Vikram S. Adve	
+Log2: A Cost-Aware Logging Mechanism for Performance Diagnosis.	Rui Ding 0001,Hucheng Zhou,Jian-Guang Lou,Hongyu Zhang 0002,Qingwei Lin,Qiang Fu,Dongmei Zhang 0001,Tao Xie 0001	
+Boosting GPU Virtualization Performance with Hybrid Shadow Page Tables.	Yaozu Dong,Mochi Xue,Xiao Zheng,Jiajun Wang,Zhengwei Qi,Haibing Guan	
+Rubik: Unlocking the Power of Locality and End-point Flexibility in Cloud Scale Load Balancing.	Rohan Gandhi,Y. Charlie Hu,Cheng-Kok Koh,Hongqiang Harry Liu,Ming Zhang 0005	
+Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems.	Andrey Goder,Alexey Spiridonov,Yin Wang	
+NightWatch: Integrating Lightweight and Transparent Cache Pollution Control into Dynamic Memory Allocation Systems.	Rentong Guo,Xiaofei Liao,Hai Jin 0001,Jianhui Yue,Guang Tan	
+LPD: Low Power Display Mechanism for Mobile and Wearable Devices.	MyungJoo Ham,Inki Dae,Chanwoo Choi	
+MetaSync: File Synchronization Across Multiple Untrusted Storage Services.	Seungyeop Han,Haichen Shen,Taesoo Kim,Arvind Krishnamurthy,Thomas E. Anderson,David Wetherall	
+Callisto-RTS: Fine-Grain Parallel Loops.	Tim Harris 0001,Stefan Kaestle	
+LAMA: Optimized Locality-aware Memory Allocation for Key-value Cache.	Xiameng Hu,Xiaolin Wang 0001,Yechen Li,Lan Zhou,Yingwei Luo,Chen Ding 0001,Song Jiang 0001,Zhenlin Wang	
+WearDrive: Fast and Energy-Efficient Storage for Wearables.	Jian Huang 0006,Anirudh Badam,Ranveer Chandra,Edmund B. Nightingale	
+Spartan: A Distributed Array Framework with Smart Tiling.	Chien-Chin Huang,Qi Chen 0009,Zhaoguo Wang,Russell Power,Jorge Ortiz 0001,Jinyang Li 0001,Zhen Xiao	
+Shoal: Smart Allocation and Replication of Memory For Parallel Programs.	Stefan Kaestle,Reto Achermann,Timothy Roscoe,Tim Harris 0001	
+SpanFS: A Scalable File System on Fast Storage Devices.	Junbin Kang,Benlong Zhang,Tianyu Wo,Weiren Yu,Lian Du,Shuai Ma 0001,Jinpeng Huai	
+Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters.	Konstantinos Karanasos,Sriram Rao,Carlo Curino,Chris Douglas,Kishore Chaliparambil,Giovanni Matteo Fumarola,Solom Heddaya,Raghu Ramakrishnan,Sarvesh Sakalanaga	
+Request-Oriented Durable Write Caching for Application Performance.	Sangwook Kim,Hwanju Kim,Sang-Hoon Kim,Joonwon Lee,Jinkyu Jeong	
+FloSIS: A Highly Scalable Network Flow Capture System for Fast Retrieval and Storage Efficiency.	Jihyung Lee,Sungryoul Lee,Junghee Lee,Yung Yi,KyoungSoo Park	
+WALDIO: Eliminating the Filesystem Journaling in Resolving the Journaling of Journal Anomaly.	Wongun Lee,Keonwoo Lee,Hankeun Son,Wook-Hee Kim,Beomseok Nam,Youjip Won	
+Accurate Latency-based Congestion Feedback for Datacenters.	Changhyun Lee,Chunjong Park,Keon Jang,Sue B. Moon,Dongsu Han	
+Thread and Memory Placement on NUMA Systems: Asymmetry Matters.	Baptiste Lepers,Vivien Quéma,Alexandra Fedorova	
+Pyro: A Spatial-Temporal Big-Data Storage System.	Shen Li,Shaohan Hu,Raghu K. Ganti,Mudhakar Srivatsa,Tarek F. Abdelzaher	
+CDStore: Toward Reliable, Secure, and Cost-Efficient Cloud Storage via Convergent Dispersal.	Mingqiang Li,Chuan Qin 0009,Patrick P. C. Lee	
+Fence: Protecting Device Availability With Uniform Resource Control.	Tao Li,Albert Rafetseder,Rodrigo Fonseca,Justin Cappos	
+NVMKV: A Scalable, Lightweight, FTL-aware Key-Value Store.	Leonardo Mármol,Swaminathan Sundararaman,Nisha Talagala,Raju Rangaswami	
+Selectively Taming Background Android Apps to Improve Battery Lifetime.	Marcelo Martins,Justin Cappos,Rodrigo Fonseca	
+Lightweight Application-Level Crash Consistency on Transactional Flash Storage.	Changwoo Min,Woon-Hak Kang,Taesoo Kim,Sang-Won Lee 0001,Young Ik Eom	
+U-root: A Go-based, Firmware Embeddable Root File System with On-demand Compilation.	Ronald G. Minnich,Andrey Mirtchovski	
+Latency-Tolerant Software Distributed Shared Memory.	Jacob Nelson,Brandon Holt,Brandon Myers,Preston Briggs,Luis Ceze,Simon Kahan,Mark Oskin	
+Mahimahi: Accurate Record-and-Replay for HTTP.	Ravi Netravali,Anirudh Sivaraman,Somak Das,Ameesh Goyal,Keith Winstein,James Mickens,Hari Balakrishnan	
+Establishing a Base of Trust with Performance Counters for Enterprise Workloads.	Andrzej Nowak,Ahmad Yasin,Avi Mendelson,Willy Zwaenepoel	
+Bolt: Faster Reconfiguration in Operating Systems.	Sankaralingam Panneerselvam,Michael M. Swift,Nam Sung Kim	
+Utilizing the IOMMU Scalably.	Omer Peleg,Adam Morrison 0001,Benjamin Serebrin,Dan Tsafrir	
+Memory-Centric Data Storage for Mobile Systems.	Jinglei Ren,Chieh-Jan Mike Liang,Yongwei Wu,Thomas Moscibroda	
+Lamassu: Storage-Efficient Host-Side Encryption.	Peter Shah,Won So	
+Surviving Peripheral Failures in Embedded Systems.	Rebecca Smith,Scott Rixner	
+Data Sharing or Resource Contention: Toward Performance Transparency on Multicore Systems.	Sharanyan Srikanthan,Sandhya Dwarkadas,Kai Shen	
+Experience with Rules-Based Programming for Distributed, Concurrent, Fault-Tolerant Code.	Ryan Stutsman,Collin Lee,John K. Ousterhout	
+Secure Deduplication of General Computations.	Yang Tang,Junfeng Yang	
+SecPod: a Framework for Virtualization-based Security Systems.	Xiaoguang Wang 0003,Yue Chen,Zhi Wang 0004,Yong Qi,Yajin Zhou	
+Between Mutual Trust and Mutual Distrust: Practical Fine-grained Privilege Separation in Multithreaded Applications.	Jun Wang,Xi Xiong,Peng Liu 0005	
+GraphQ: Graph Query Processing with Abstraction Refinement - Scalable and Programmable Analytics over Very Large Graphs on a Single PC.	Kai Wang 0029,Guoqing Xu 0001,Zhendong Su 0001,Yu David Liu	
+LSM-trie: An LSM-tree-based Ultra-Large Key-Value Store for Small Data Items.	Xingbo Wu,Yuehai Xu,Zili Shao,Song Jiang 0001	
+GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning.	Xiaowei Zhu,Wentao Han,Wenguang Chen	
+2015 USENIX Annual Technical Conference, USENIX ATC &apos;15, July 8-10, Santa Clara, CA, USA	Shan Lu 0001,Erik Riedel	

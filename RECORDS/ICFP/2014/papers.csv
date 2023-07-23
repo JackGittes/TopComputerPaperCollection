@@ -1,0 +1,32 @@
+Type-based parametric analysis of program families.	Sheng Chen 0008,Martin Erwig	10.1145/2628136.2628155
+Distilling abstract machines.	Beniamino Accattoli,Pablo Barenbaum,Damiano Mazza	10.1145/2628136.2628154
+Homotopical patch theory.	Carlo Angiuli,Edward Morehouse,Daniel R. Licata,Robert Harper 0001	10.1145/2628136.2628158
+Practical and effective higher-order optimizations.	Lars Bergstrom,Matthew Fluet,Matthew Le,John H. Reppy,Nora Sandler	10.1145/2628136.2628153
+Safe zero-cost coercions for Haskell.	Joachim Breitner,Richard A. Eisenberg,Simon L. Peyton Jones,Stephanie Weirich	10.1145/2628136.2628141
+Functional programming for dynamic and large data with self-adjusting computation.	Yan Chen 0001,Umut A. Acar,Kanat Tangwongsan	10.1145/2628136.2628150
+Pattern matching without K.	Jesper Cockx,Dominique Devriese,Frank Piessens	10.1145/2628136.2628139
+Compositional semantics for composable continuations: from abortive to delimited control.	Paul Downen,Zena M. Ariola	10.1145/2628136.2628147
+Behavioral software contracts.	Robert Bruce Findler	10.1145/2628136.2632855
+Using formal methods to enable more secure vehicles: DARPA&apos;s HACMS program.	Kathleen Fisher	10.1145/2628136.2628165
+Krivine nets: a semantic foundation for distributed execution.	Olle Fredriksson,Dan R. Ghica	10.1145/2628136.2628152
+Folding domain-specific languages: deep and shallow embeddings (functional Pearl).	Jeremy Gibbons,Nicolas Wu	10.1145/2628136.2628138
+Maximal sharing in the Lambda calculus with letrec.	Clemens Grabmayer,Jan Rochel	10.1145/2628136.2628148
+Worker/wrapper/makes it/faster.	Jennifer Hackett,Graham Hutton	10.1145/2628136.2628142
+Building embedded systems with embedded DSLs.	Patrick C. Hickey,Lee Pike,Trevor Elliott,James Bielman,John Launchbury	10.1145/2628136.2628146
+A relational framework for higher-order shape analysis.	Gowtham Kaki,Suresh Jagannathan	10.1145/2628136.2628159
+There is no fork: an abstraction for efficient, concurrent, and concise data access.	Simon Marlow,Louis Brandy,Jonathan Coens,Jon Purdy	10.1145/2628136.2628144
+How to keep your neighbours in order.	Conor Thomas McBride	10.1145/2628136.2628163
+Lem: reusable engineering of real-world semantics.	Dominic P. Mulligan,Scott Owens,Kathryn E. Gray,Tom Ridge,Peter Sewell	10.1145/2628136.2628143
+Soft contract verification.	Phuc C. Nguyen,Sam Tobin-Hochstadt,David Van Horn	10.1145/2628136.2628156
+SML# in industry: a practical ERP system development.	Atsushi Ohori,Katsuhiro Ueno,Kazunori Hoshi,Shinji Nozaki,Takashi Sato,Tasuku Makabe,Yuki Ito	10.1145/2628136.2628164
+Coeffects: a calculus of context-dependent computation.	Tomas Petricek 0001,Dominic A. Orchard,Alan Mycroft	10.1145/2628136.2628160
+Hindley-milner elaboration in applicative style: functional pearl.	François Pottier	10.1145/2628136.2628145
+On teaching *how to design programs*: observations from a newcomer.	Norman Ramsey	10.1145/2628136.2628137
+Concurrent NetCore: from policies to pipelines.	Cole Schlesinger,Michael Greenberg 0002,David Walker	10.1145/2628136.2628157
+SeLINQ: tracking information across application-database boundaries.	Daniel Schoepe,Daniel Hedin,Andrei Sabelfeld	10.1145/2628136.2628151
+A theory of gradual effect systems.	Felipe Bañados Schwerter,Ronald Garcia,Éric Tanter	10.1145/2628136.2628149
+Romeo: a system for more flexible binding-safe programming.	Paul Stansifer,Mitchell Wand	10.1145/2628136.2628162
+Refinement types for Haskell.	Niki Vazou,Eric L. Seidel,Ranjit Jhala,Dimitrios Vytiniotis,Simon L. Peyton Jones	10.1145/2628136.2628161
+Depending on types.	Stephanie Weirich	10.1145/2628136.2631168
+Settable and non-interfering signal functions for FRP: how a first-order switch is more than enough.	Daniel Winograd-Cort,Paul Hudak	10.1145/2628136.2628140
+Proceedings of the 19th ACM SIGPLAN international conference on Functional programming, Gothenburg, Sweden, September 1-3, 2014	Johan Jeuring,Manuel M. T. Chakravarty	10.1145/2628136

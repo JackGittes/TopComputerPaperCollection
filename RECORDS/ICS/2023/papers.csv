@@ -1,0 +1,41 @@
+SPARTA: Spatial Acceleration for Efficient and Scalable Horizontal Diffusion Weather Stencil Computation.	Gagandeep Singh 0002,Alireza Khodamoradi,Kristof Denolf,Jack Lo,Juan Gómez-Luna,Joseph Melber,Andra Bisca,Henk Corporaal,Onur Mutlu	10.1145/3577193.3593719
+HEAT: A Highly Efficient and Affordable Training System for Collaborative Filtering Based Recommendation on CPUs.	Chengming Zhang 0006,Shaden Smith,Baixi Sun,Jiannan Tian,Jonathan Soifer,Xiaodong Yu,Shuaiwen Leon Song,Yuxiong He,Dingwen Tao	10.1145/3577193.3593717
+Parallel Software for Million-scale Exact Kernel Regression.	Yu Chen 0036,Lucca Skon,James R. McCombs,Zhenming Liu,Andreas Stathopoulos	10.1145/3577193.3593737
+Use Only What You Need: Judicious Parallelism For File Transfers in High Performance Networks.	Md. Arifuzzaman,Engin Arslan	10.1145/3577193.3593722
+OpenFFT: An Adaptive Tuning Framework for 3D FFT on ARM Multicore CPUs.	Tun Chen,Haipeng Jia,Yunquan Zhang,Kun Li,Zhihao Li,Xiang Zhao,Jianyu Yao,Chendi Li	10.1145/3577193.3593735
+BitGNN: Unleashing the Performance Potential of Binary Graph Neural Networks on GPUs.	Jou-An Chen,Hsin-Hsuan Sung,Xipeng Shen,Sutanay Choudhury,Ang Li 0006	10.1145/3577193.3593725
+Seizing the Bandwidth Scaling of On-Package Interconnect in a Post-Moore&apos;s Law World.	Grigory Chirkov,David Wentzlaff	10.1145/3577193.3593702
+Enabling Reconfigurable HPC through MPI-based Inter-FPGA Communication.	Nicholas Contini,Bharath Ramesh 0005,Kaushik Kandadi Suresh,Tu Tran,Benjamin Michalowicz,Mustafa Abduljabbar,Hari Subramoni,Dhabaleswar K. Panda 0001	10.1145/3577193.3593720
+FMI: Fast and Cheap Message Passing for Serverless Functions.	Marcin Copik,Roman Böhringer,Alexandru Calotoiu,Torsten Hoefler	10.1145/3577193.3593718
+Distributed-Memory Parallel JointNMF.	Srinivas Eswar,Benjamin Cobb,Koby Hayashi,Ramakrishnan Kannan,Grey Ballard,Richard W. Vuduc,Haesun Park	10.1145/3577193.3593733
+GRAP: Group-level Resource Allocation Policy for Reconfigurable Dragonfly Network in HPC.	Guangnan Feng,Dezun Dong,Shizhen Zhao,Yutong Lu	10.1145/3577193.3593732
+FT-topo: Architecture-Driven Folded-Triangle Partitioning for Communication-efficient Graph Processing.	Xinbiao Gan,Guang Wu,Ruigeng Zeng,Jiaqi Si,Ji Liu 0003,Daxiang Dong,Chunye Gong,Cong Liu,Tiejun Li	10.1145/3577193.3593729
+Software-Hardware Co-design of Heterogeneous SmartNIC System for Recommendation Models Inference and Training.	Anqi Guo,Yuchen Hao,Chunshu Wu,Pouya Haghi,Zhenyu Pan,Min Si,Dingwen Tao,Ang Li 0006,Martin C. Herbordt,Tong Geng	10.1145/3577193.3593724
+FLASH: FPGA-Accelerated Smart Switches with GCN Case Study.	Pouya Haghi,William Krska,Cheng Tan 0002,Tong Geng,Po-Hao Chen,Connor Greenwood,Anqi Guo,Thomas Hines,Chunshu Wu,Ang Li 0006,Anthony Skjellum,Martin C. Herbordt	10.1145/3577193.3593739
+Multi-GPU Communication Schemes for Iterative Solvers: When CPUs are Not in Charge.	Ismayil Ismayilov,Javid Baydamirli,Dogan Sagbili,Mohamed Wahib,Didem Unat	10.1145/3577193.3593713
+BiRFIA: Selective Binary Rewriting for Function Interception on ARM.	Kelun Lei,Xin You,Hailong Yang,Zhongzhi Luan,Depei Qian	10.1145/3577193.3593701
+Using Additive Modifications in LU Factorization Instead of Pivoting.	Neil Lindquist,Piotr Luszczek,Jack J. Dongarra	10.1145/3577193.3593731
+FAZ: A flexible auto-tuned modular error-bounded compression framework for scientific data.	Jinyang Liu,Sheng Di,Kai Zhao 0008,Xin Liang 0001,Zizhong Chen,Franck Cappello	10.1145/3577193.3593721
+DStore: A Lightweight Scalable Learning Model Repository with Fine-Grain Tensor-Level Access.	Meghana Madhyastha,Robert Underwood,Randal C. Burns,Bogdan Nicolae	10.1145/3577193.3593730
+RT-kNNS Unbound: Using RT Cores to Accelerate Unrestricted Neighbor Search.	Vani Nagarajan,Durga Mandarapu,Milind Kulkarni 0001	10.1145/3577193.3593738
+Wafer-Scale Fast Fourier Transforms.	Marcelo Orenes-Vera,Ilya Sharapov,Robert Schreiber,Mathias Jacquelin,Philippe Vandermersch,Sharan Chetlur	10.1145/3577193.3593708
+PAC: Preference-Aware Co-location Scheduling on Heterogeneous NUMA Architectures To Improve Resource Utilization.	Pu Pang,Yaoxuan Li,Bo Liu,Quan Chen 0002,Zhou Yu 0003,Zhibin Yu 0001,Deze Zeng,Jingwen Leng,Jieru Zhao,Minyi Guo	10.1145/3577193.3593709
+Scalable algorithms for compact spanners on real world graphs.	Maulein Pathak,Yogish Sabharwal,Neelima Gupta	10.1145/3577193.3593727
+Accelerating BWA-MEM Read Mapping on GPUs.	Minh Pham,Yicheng Tu,Xiaoyi Lv	10.1145/3577193.3593703
+Transfer-learning-based Autotuning using Gaussian Copula.	Thomas Randall,Jaehoon Koo,Brice Videau,Michael Kruse,Xingfu Wu,Paul D. Hovland,Mary W. Hall,Rong Ge 0002,Prasanna Balaprakash	10.1145/3577193.3593712
+Lightweight Huffman Coding for Efficient GPU Compression.	Milan Shah,Xiaodong Yu,Sheng Di,Michela Becchi,Franck Cappello	10.1145/3577193.3593736
+A Hybrid Tensor-Expert-Data Parallelism Approach to Optimize Mixture-of-Experts Training.	Siddharth Singh,Olatunji Ruwase,Ammar Ahmad Awan,Samyam Rajbhandari,Yuxiong He,Abhinav Bhatele	10.1145/3577193.3593704
+Scalable parallelization for the solution of phonon Boltzmann Transport Equation.	Han D. Tran,Siddharth Saurav,P. Sadayappan,Sandip Mazumder,Hari Sundar	10.1145/3577193.3593723
+Performance Embeddings: A Similarity-Based Transfer Tuning Approach to Performance Optimization.	Lukas Trümper,Tal Ben-Nun,Philipp Schaad,Alexandru Calotoiu,Torsten Hoefler	10.1145/3577193.3593714
+Roar: A Router Microarchitecture for In-network Allreduce.	Ruiqi Wang,Dezun Dong,Fei Lei,Junchao Ma,Ke Wu,Kai Lu	10.1145/3577193.3593711
+CMLCompiler: A Unified Compiler for Classical Machine Learning.	Xu Wen,Wanling Gao,Anzheng Li,Lei Wang 0004,Zihan Jiang,Jianfeng Zhan	10.1145/3577193.3593710
+Anatomy of High-Performance GEMM with Online Fault Tolerance on GPUs.	Shixun Wu,Yujia Zhai,Jinyang Liu,Jiajun Huang,Zizhe Jian,Bryan M. Wong,Zizhong Chen	10.1145/3577193.3593715
+FLORIA: A Fast and Featherlight Approach for Predicting Cache Performance.	Jun Xiao 0009,Yaocheng Xiang,Xiaolin Wang 0001,Yingwei Luo,Andy D. Pimentel,Zhenlin Wang	10.1145/3577193.3593740
+Towards a Unified Implementation of GEMM in BLIS.	RuQing G. Xu,Field G. Van Zee,Robert A. van de Geijn	10.1145/3577193.3593707
+Fast All-Pairs Shortest Paths Algorithm in Large Sparse Graph.	Shaofeng Yang,Xiandong Liu,Yunting Wang,Xin He,Guangming Tan	10.1145/3577193.3593728
+Optimizing Multi-grid Computation and Parallelization on Multi-cores.	Xiaojian Yang,Shengguo Li,Fan Yuan,Dezun Dong,Chun Huang,Zheng Wang 0001	10.1145/3577193.3593726
+GPULZ: Optimizing LZSS Lossless Compression for Multi-byte Data on Modern GPUs.	Boyuan Zhang,Jiannan Tian,Sheng Di,Xiaodong Yu,Martin Swany,Dingwen Tao,Franck Cappello	10.1145/3577193.3593706
+PERKS: a Locality-Optimized Execution Model for Iterative Memory-bound GPU Applications.	Lingqi Zhang,Mohamed Wahib,Peng Chen,Jintao Meng,Xiao Wang 0004,Toshio Endo,Satoshi Matsuoka	10.1145/3577193.3593705
+Revisiting Temporal Blocking Stencil Optimizations.	Lingqi Zhang,Mohamed Wahib,Peng Chen,Jintao Meng,Xiao Wang 0004,Toshio Endo,Satoshi Matsuoka	10.1145/3577193.3593716
+DyVer: Dynamic Version Handling for Array Databases.	Amelie Chi Zhou,Zhoubin Ke,Jianming Lao	10.1145/3577193.3593734
+Proceedings of the 37th International Conference on Supercomputing, ICS 2023, Orlando, FL, USA, June 21-23, 2023	Kyle A. Gallivan,Efstratios Gallopoulos,Dimitrios S. Nikolopoulos,Ramón Beivide	10.1145/3577193

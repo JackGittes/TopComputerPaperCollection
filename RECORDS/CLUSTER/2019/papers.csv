@@ -1,0 +1,59 @@
+Quantifying the Impact of Memory Errors in Deep Learning.	Zhao Zhang 0007,Lei Huang 0019,Ruizhu Huang,Weijia Xu,Daniel S. Katz	10.1109/CLUSTER.2019.8890989
+Proxy or Imposter? A Method and Case Study to Determine the Answer.	Omar Aaziz,Jeanine E. Cook,Courtenay Vaughan,David Richards	10.1109/CLUSTER.2019.8891049
+Propagation and Decay of Injected One-Off Delays on Clusters: A Case Study.	Ayesha Afzal,Georg Hager,Gerhard Wellein	10.1109/CLUSTER.2019.8890995
+Asynchronous Task-Based Execution of the Reverse Time Migration for the Oil and Gas Industry.	Amani AlOnazi,Hatem Ltaief,David E. Keyes,Issam Said,Samuel Thibault	10.1109/CLUSTER.2019.8891054
+On the Benefits of Anticipating Load Imbalance for Performance Optimization of Parallel Applications.	Anthony Boulmier,Franck Raynaud,Nabil Abdennadher,Bastien Chopard	10.1109/CLUSTER.2019.8890998
+Standardized Environment for Monitoring Heterogeneous Architectures.	Connor Brown,Benjamin Schwaller,Nathan Gauntt,Benjamin A. Allan,Kevin Davis	10.1109/CLUSTER.2019.8890997
+Algorithm-Based Fault Tolerance for Parallel Stencil Computations.	Aurélien Cavelan,Florina M. Ciorba	10.1109/CLUSTER.2019.8891034
+Fast and Faithful Performance Prediction of MPI Applications: the HPL Case Study.	Tom Cornebize,Arnaud Legrand,Franz C. Heinrich	10.1109/CLUSTER.2019.8891011
+ClusterCockpit - A web application for job-specific performance monitoring.	Jan Eitzinger,Thomas Gruber,Ayesha Afzal,Thomas Zeiser,Gerhard Wellein	10.1109/CLUSTER.2019.8891017
+Scheduling independent stochastic tasks on heterogeneous cloud platforms.	Yiqin Gao,Louis-Claude Canon,Yves Robert,Frédéric Vivien	10.1109/CLUSTER.2019.8891048
+Scalable, High-Order Continuity Across Block Boundaries of Functional Approximations Computed in Parallel.	Iulian R. Grindeanu,Tom Peterka,Vijay S. Mahadevan,Youssef S. G. Nashed	10.1109/CLUSTER.2019.8891018
+Improving Access to HDFS using NVMeoF.	Daegyu Han,Beomseok Nam	10.1109/CLUSTER.2019.8890996
+A Quantitative Study of Deep Learning Training on Heterogeneous Supercomputers.	Jingoo Han,Luna Xu,M. Mustafa Rafique,Ali Raza Butt,Seung-Hwan Lim	10.1109/CLUSTER.2019.8890993
+Efficient Distributed Graph Analytics using Triply Compressed Sparse Format.	Mohammad Hasanzadeh-Mofrad,Rami G. Melhem,Muhammad Yousuf Ahmad,Mohammad Hammoud	10.1109/CLUSTER.2019.8891008
+Workflows for Performance Predictable and Reproducible HPC Applications.	Keira Haskins,Quincy Wofford,Patrick G. Bridges	10.1109/CLUSTER.2019.8891043
+Multi-physics simulations of particle tracking in arterial geometries with a scalable moving window algorithm.	Gregory Herschlag,John Gounley,Sayan Roychowdhury,Erik W. Draeger,Amanda Randles	10.1109/CLUSTER.2019.8891041
+MPI Sessions: Evaluation of an Implementation in Open MPI.	Nathan T. Hjelm,Howard Pritchard,Samuel K. Gutiérrez,Daniel J. Holmes,Ralph Castain,Anthony Skjellum	10.1109/CLUSTER.2019.8891002
+DP_Greedy: A Two-Phase Caching Algorithm for Mobile Cloud Services.	Dong Huang,Xiaopeng Fan,Yang Wang 0006,Shuibing He,Cheng-Zhong Xu 0001	10.1109/CLUSTER.2019.8891031
+Automatic Power Saving Method by Energy Aware Job Scheduler.	Hiroaki Imade,Takahiro Kagami,Tomohiro Otawa,Kouichi Hirai,Yoshio Sakaguchi,Naoyuki Fujita	10.1109/CLUSTER.2019.8891010
+Parallelizing Training of Deep Generative Models on Massive Scientific Datasets.	Sam Ade Jacobs,Jim Gaffney,Tom Benson,Peter B. Robinson,J. Luc Peterson,Brian K. Spears,Brian Van Essen,David Hysom,Jae-Seung Yeom,Tim Moon,Rushil Anirudh,Jayaraman J. Thiagarajan,Shusen Liu,Peer-Timo Bremer	10.1109/CLUSTER.2019.8891012
+Performance Characterization of DNN Training using TensorFlow and PyTorch on Modern Clusters.	Arpan Jain,Ammar Ahmad Awan,Quentin Anthony,Hari Subramoni,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2019.8891042
+Accelerating Hyperdimensional Classifier on Multiple GPUs.	Zheming Jin,Hal Finkel	10.1109/CLUSTER.2019.8891039
+Training Google Neural Machine Translation on an Intel CPU Cluster.	Dhiraj D. Kalamkar,Kunal Banerjee 0001,Sudarshan Srinivasan,Srinivas Sridharan 0002,Evangelos Georganas,Mikhail E. Smorkalov,Cong Xu,Alexander Heinecke	10.1109/CLUSTER.2019.8891019
+MBECN: Enabling ECN with Micro-burst Traffic in Multi-queue Data Center.	Kexi Kang,Jinghui Zhang,Jiahui Jin,Dian Shen,Junzhou Luo,Wenxin Li,Zhiang Wu 0001	10.1109/CLUSTER.2019.8890999
+Diagnostic Analysis: Directional Relation Graph.	Sandy Kaur,Eun Kyung Lee	10.1109/CLUSTER.2019.8891032
+Evaluating Burst Buffer Placement in HPC Systems.	Harsh Khetawat,Christopher Zimmer 0001,Frank Mueller 0001,Scott Atchley,Sudharshan S. Vazhkudai,Misbah Mubarak	10.1109/CLUSTER.2019.8891051
+Rapidly Measuring Loop Footprints.	Ozgur O. Kilic,Nathan R. Tallent,Ryan D. Friese	10.1109/CLUSTER.2019.8891025
+Engineering a Distributed Histogram Sort.	Roger Kowalewski,Pascal Jungblut,Karl Fürlinger	10.1109/CLUSTER.2019.8891005
+RE-Store: Reliable and Efficient KV-Store with Erasure Coding and Replication.	Yuzhe Li,Jiang Zhou,Weiping Wang 0005,Yong Chen 0001	10.1109/CLUSTER.2019.8891013
+Improving Performance of Data Dumping with Lossy Compression for Scientific Simulation.	Xin Liang 0001,Sheng Di,Dingwen Tao,Sihuan Li,Bogdan Nicolae,Zizhong Chen,Franck Cappello	10.1109/CLUSTER.2019.8891037
+X-RDMA: Effective RDMA Middleware in Large-scale Production Environments.	Teng Ma,Tao Ma,Zhuo Song,Jingxuan Li,Huaixin Chang,Kang Chen,Hai Jiang 0003,Yongwei Wu	10.1109/CLUSTER.2019.8891004
+mSMS: PGAS Runtime with Efficient Thread-based Communication for Global-view Programming.	Hiroko Midorikawa,Kenji Kitagawa,Yugo Sakaguchi	10.1109/CLUSTER.2019.8891009
+Fast and Scalable Implementations of Influence Maximization Algorithms.	Marco Minutoli,Mahantesh Halappanavar,Ananth Kalyanaraman,Arun V. Sathanur,Ryan Mcclure,Jason E. McDermott	10.1109/CLUSTER.2019.8890991
+NORNS: Extending Slurm to Support Data-Driven Workflows through Asynchronous Data Staging.	Alberto Miranda,Adrian Jackson,Tommaso Tocci,Iakovos Panourgias,Ramon Nou	10.1109/CLUSTER.2019.8891014
+STASH : Fast Hierarchical Aggregation Queries for Effective Visual Spatiotemporal Explorations.	Saptashwa Mitra,Paahuni Khandelwal,Shrideep Pallickara,Sangmi Lee Pallickara	10.1109/CLUSTER.2019.8891029
+An Empirical Study of Cryptographic Libraries for MPI Communications.	Abu Naser,Mohsen Gavahi,Cong Wu,Viet Tung Hoang,Zhi Wang 0004,Xin Yuan 0001	10.1109/CLUSTER.2019.8891033
+Give MPI Threading a Fair Chance: A Study of Multithreaded MPI Designs.	Thananon Patinyasakdikul,David Eberius,George Bosilca,Nathan T. Hjelm	10.1109/CLUSTER.2019.8891015
+FSMonitor: Scalable File System Monitoring for Arbitrary Storage Systems.	Arnab Kumar Paul,Ryan Chard,Kyle Chard,Steven Tuecke,Ali Raza Butt,Ian T. Foster	10.1109/CLUSTER.2019.8891045
+HarpGBDT: Optimizing Gradient Boosting Decision Tree for Parallel Efficiency.	Bo Peng,Judy Qiu,Langshi Chen,Jiayu Li,Miao Jiang,Selahattin Akkas,Egor Smirnov,Ruslan Israfilov,Sergey Khekhnev,Andrey Nikolaev	10.1109/CLUSTER.2019.8890990
+Building Reliable High-Performance Storage Systems: An Empirical and Analytical Study.	Zhi Qiao 0001,Song Fu,Hsing-Bung Chen,Bradley W. Settlemyer	10.1109/CLUSTER.2019.8891006
+Cost-efficiency of Large-scale Electronic Structure Simulations with Intel Xeon Phi Processors.	Hoon Ryu,Seungmin Lee	10.1109/CLUSTER.2019.8891046
+μDBSCAN: An Exact Scalable DBSCAN Algorithm for Big Data Exploiting Spatial Locality.	Aditya Sarma,Poonam Goyal,Sonal Kumari,Anand Wani,Jagat Sesh Challa,Saiyedul Islam,Navneet Goyal	10.1109/CLUSTER.2019.8891020
+Mitigating Inter-Job Interference via Process-Level Quality-of-Service.	Lee Savoie,David K. Lowenthal,Bronis R. de Supinski,Kathryn Mohror,Nikhil Jain	10.1109/CLUSTER.2019.8891007
+Leveraging Machine Learning for Anticipatory Data Delivery in Extreme Scale In-situ Workflows.	Pradeep Subedi,Philip E. Davis,Manish Parashar	10.1109/CLUSTER.2019.8891003
+Leveraging Task-Based Polar Decomposition Using PARSEC on Massively Parallel Systems.	Dalal Sukkari,Hatem Ltaief,David E. Keyes,Mathieu Faverge	10.1109/CLUSTER.2019.8891024
+SMQoS: Improving Utilization and Energy Efficiency with QoS Awareness on GPUs.	Qingxiao Sun,Yi Liu 0013,Hailong Yang,Zhongzhi Luan,Depei Qian	10.1109/CLUSTER.2019.8891047
+DiffTrace: Efficient Whole-Program Trace Analysis and Diffing for Debugging.	Saeed Taheri,Ian Briggs,Martin Burtscher,Ganesh Gopalakrishnan	10.1109/CLUSTER.2019.8891027
+Kube-Knots: Resource Harvesting through Dynamic Container Orchestration in GPU-based Datacenters.	Prashanth Thinakaran,Jashwant Raj Gunasekaran,Bikash Sharma,Mahmut Taylan Kandemir,Chita R. Das	10.1109/CLUSTER.2019.8891040
+Improving Resource Utilization in Data Centers using an LSTM-based Prediction Model.	Kundjanasith Thonglek,Kohei Ichikawa,Keichi Takahashi,Hajimu Iida,Chawanat Nakasan	10.1109/CLUSTER.2019.8891022
+Analyzing the Impact of Lossy Compressor Variability on Checkpointing Scientific Simulations.	Pavlo Triantafyllides,Tasmia Reza,Jon C. Calhoun	10.1109/CLUSTER.2019.8891052
+Design Exploration of Multi-FPGAs for Accelerating Deep Learning.	Teng Wang,Lei Gong,Chao Wang 0003,Xuehai Zhou,Huaping Chen 0001	10.1109/CLUSTER.2019.8891044
+Learning from Five-year Resource-Utilization Data of Titan System.	Feiyi Wang,Sarp Oral,Satyabrata Sen,Neena Imam	10.1109/CLUSTER.2019.8891001
+LogGOPSC: A Parallel Computation Model Extending Network Contention into LogGOPS.	Baicheng Yan,Yi Zhou,Limin Xiao,Jiantong Huo,Zhaokai Wang	10.1109/CLUSTER.2019.8891035
+FluentPS: A Parameter Server Design with Low-frequency Synchronization for Distributed Deep Learning.	Xin Yao,Xueyu Wu,Cho-Li Wang	10.1109/CLUSTER.2019.8891038
+Harmony: An Approach for Geo-distributed Processing of Big-Data Applications.	Han Zhang,Lavanya Ramapantulu,Yong Meng Teo	10.1109/CLUSTER.2019.8891053
+Large-Scale Analysis of the Docker Hub Dataset.	Nannan Zhao,Vasily Tarasov,Hadeel Albahar,Ali Anwar 0001,Lukas Rupprecht,Dimitrios Skourtis,Amit S. Warke,Mohamed Mohamed 0001,Ali Raza Butt	10.1109/CLUSTER.2019.8891000
+Compact Filters for Fast Online Data Partitioning.	Qing Zheng,Charles D. Cranor,Ankush Jain,Gregory R. Ganger,Garth A. Gibson,George Amvrosiadis,Bradley W. Settlemyer,Gary Grider	10.1109/CLUSTER.2019.8890992
+Efficient User-Level Storage Disaggregation for Deep Learning.	Yue Zhu 0002,Weikuan Yu,Bing Jiao,Kathryn Mohror,Adam Moody,Fahim Chowdhury	10.1109/CLUSTER.2019.8891023
+2019 IEEE International Conference on Cluster Computing, CLUSTER 2019, Albuquerque, NM, USA, September 23-26, 2019		

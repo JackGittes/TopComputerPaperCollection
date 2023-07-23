@@ -1,0 +1,67 @@
+Hybrid approach for data-flow analysis of MPI programs.	Sriram Aananthakrishnan,Greg Bronevetsky,Ganesh Gopalakrishnan	10.1145/2464996.2467286
+SemCache: semantics-aware caching for efficient GPU offloading.	Nabeel AlSaber,Milind Kulkarni 0001	10.1145/2464996.2465021
+Improving communication in PGAS environments: static and dynamic coalescing in UPC.	Michail Alvanos,Montse Farreras,Ettore Tiotto,José Nelson Amaral,Xavier Martorell	10.1145/2464996.2465006
+Improving performance of all-to-all communication through loop scheduling in PGAS environments.	Michail Alvanos,Gabriel Tanase,Montse Farreras,Ettore Tiotto,José Nelson Amaral,Xavier Martorell	10.1145/2464996.2467277
+CUPL: a compile-time uncoalesced memory access pattern locator for CUDA.	Madhur Amilkanthwar,Shankar Balachandran	10.1145/2464996.2467288
+TEAPOT: a toolset for evaluating performance, power and image quality on mobile graphics systems.	José-María Arnau,Joan-Manuel Parcerisa,Polychronis Xekalakis	10.1145/2464996.2464999
+Improving numerical accuracy for non-negative matrix multiplication on GPUs using recursive algorithms.	Matthew Badin,Paolo D&apos;Alberto,Lubomir Bic,Michael B. Dillencourt,Alexandru Nicolau	10.1145/2464996.2465010
+Business meets supercomputing: keynote talk.	Bob Blainey	10.1145/2464996.2465446
+Implementing OmpSs support for regions of data in architectures with multiple address spaces.	Javier Bueno,Xavier Martorell,Rosa M. Badia,Eduard Ayguadé,Jesús Labarta	10.1145/2464996.2465017
+Imbalance optimization in scientific workflows.	Weiwei Chen 0002,Ewa Deelman,Rizos Sakellariou	10.1145/2464996.2467270
+Active disk meets flash: a case for intelligent SSDs.	Sangyeun Cho,Chanik Park,Hyunok Oh,Sungchan Kim,Youngmin Yi,Gregory R. Ganger	10.1145/2464996.2465003
+FASTER run-time reconfiguration management.	Catalin Bogdan Ciobanu,Dionisios N. Pnevmatikatos,Kyprianos D. Papadimitriou,Georgi Nedeltchev Gaydadjiev	10.1145/2464996.2467283
+MAD7: a memory architecture simulator targeted at design space exploration.	Hadrien A. Clarke,Antoine Trouvé,Kazuaki J. Murakami	10.1145/2464996.2467272
+A decomposition method with minimal communication volume for parallelization of multi-dimensional FFTs.	Truong Vinh Truong Duy,Taisuke Ozaki	10.1145/2464996.2467276
+A massively parallel domain decomposition method for large-scale DFT electronic structure calculations.	Truong Vinh Truong Duy,Taisuke Ozaki	10.1145/2464996.2467273
+Expressing graph algorithms using generalized active messages.	Nicholas Gerard Edmonds,Jeremiah Willcock,Andrew Lumsdaine	10.1145/2464996.2465441
+Conservative row activation to improve memory power efficiency.	Kun Fang 0005,Zhichun Zhu	10.1145/2464996.2465002
+High quality real-time image-to-mesh conversion for finite element simulations.	Panagiotis A. Foteinos,Nikos Chrisochoides	10.1145/2464996.2465439
+Multi-layered unstructured mesh generation.	Panagiotis A. Foteinos,Daming Feng,Andrey N. Chernikov,Nikos Chrisochoides	10.1145/2464996.2467281
+Massively parallel loading.	Wolfgang Frings,Dong H. Ahn,Matthew P. LeGendre,Todd Gamblin,Bronis R. de Supinski,Felix Wolf 0001	10.1145/2464996.2465020
+LibWater: heterogeneous distributed computing made easy.	Ivan Grasso,Simone Pellegrini,Biagio Cosenza,Thomas Fahringer	10.1145/2464996.2465008
+Toward a scalable multi-GPU eigensolver via compute-intensive kernels and efficient communication.	Azzam Haidar,Mark Gates,Stanimire Tomov,Jack J. Dongarra	10.1145/2464996.2465438
+MIC-RO: enabling efficient remote offload on heterogeneous many integrated core (MIC) clusters with InfiniBand.	Khaled Hamidouche,Sreeram Potluri,Hari Subramoni,Krishna Chaitanya Kandalla,Dhabaleswar K. Panda 0001	10.1145/2464996.2465445
+A stencil compiler for short-vector SIMD architectures.	Thomas Henretty,Richard Veras,Franz Franchetti,Louis-Noël Pouchet,J. Ramanujam,P. Sadayappan	10.1145/2464996.2467268
+Network-on-chip for a partially reconfigurable FPGA system.	Justin A. Hogan,Raymond J. Weber,Brock J. LaMeres,Todd Kaiser	10.1145/2464996.2467285
+Efficient scheduling of recursive control flow on GPUs.	Xin Huo,Sriram Krishnamoorthy,Gagan Agrawal	10.1145/2464996.2479870
+Exploiting data parallelism in the yConvex hypergraph algorithm for image representation using GPGPUs.	Saurabh Jha,Tejaswi Agarwal,B. Rajesh Kanna	10.1145/2464996.2467269
+The ARMv8 simulator.	Tao Jiang 0010,Lele Zhang,Rui Hou 0001,Yi Zhang 0037,Qianlong Zhang,Lin Chai,Jing Han 0011,Wuxiong Zhang,Cong Wang,Lixin Zhang 0002	10.1145/2464996.2467287
+Tuning the continual flow pipeline architecture.	Komal Jothi,Haitham Akkary	10.1145/2464996.2465011
+Memorage: emerging persistent RAM based malleable main memory and storage architecture.	Ju-Young Jung,Sangyeun Cho	10.1145/2464996.2465005
+Design of a large-scale storage-class RRAM system.	Myoungsoo Jung,John Shalf,Mahmut T. Kandemir	10.1145/2464996.2465004
+Imogen: a parallel 3D fluid and MHD code for GPUs.	Erik Keever,James N. Imamura	10.1145/2464996.2467275
+An automatic input-sensitive approach for heterogeneous task partitioning.	Klaus Kofler,Ivan Grasso,Biagio Cosenza,Thomas Fahringer	10.1145/2464996.2465007
+Quantifying performance bottleneck cost through differential analysis.	Souad Koliai,Zakaria Bendifallah,Mathieu Tribalat,Cédric Valensi,Jean-Thomas Acquaviva,William Jalby	10.1145/2464996.2465440
+Towards more efficient execution: a decoupled access-execute approach.	Konstantinos Koukos,David Black-Schaffer,Vasileios Spiliopoulos,Stefanos Kaxiras	10.1145/2464996.2465012
+Automatically adapting programs for mixed-precision floating-point computation.	Michael O. Lam,Jeffrey K. Hollingsworth,Bronis R. de Supinski,Matthew P. LeGendre	10.1145/2464996.2465018
+SMIO: I/O similarity aware virtual machine management invirtual desktop environments.	Min Li,Sushil Mantri,Pin Zhou,Ali Raza Butt	10.1145/2464996.2467274
+Address-aware fences.	Changhui Lin,Vijay Nagarajan,Rajiv Gupta 0001	10.1145/2464996.2465015
+Exploiting domain knowledge to optimize parallel computational mechanics codes.	Chenyang Liu,Muhammad Hasan Jamal,Milind Kulkarni 0001,Arun Prakash,Vijay S. Pai	10.1145/2464996.2464998
+A new approach for performance analysis of openMP programs.	Xu Liu 0001,John M. Mellor-Crummey,Michael W. Fagan	10.1145/2464996.2465433
+Efficient sparse matrix-vector multiplication on x86-based many-core processors.	Xing Liu,Mikhail Smelyanskiy,Edmond Chow,Pradeep Dubey	10.1145/2464996.2465013
+Diagnosis and optimization of application prefetching performance.	Gabriel Marin,Collin McCurdy,Jeffrey S. Vetter	10.1145/2464996.2465014
+Inspector/executor load balancing algorithms for block-sparse tensor contractions.	David Ozog,Sameer Shende,Allen D. Malony,Jeff R. Hammond,James Dinan,Pavan Balaji	10.1145/2464996.2467282
+Prefetching and cache management using task lifetimes.	Vassilis Papaefstathiou,Manolis Katevenis,Dimitrios S. Nikolopoulos,Dionisios N. Pnevmatikatos	10.1145/2464996.2465443
+Scaling data race detection for partitioned global address space programs.	Chang-Seo Park,Koushik Sen,Costin Iancu	10.1145/2464996.2465000
+Exploring hardware overprovisioning in power-constrained, high performance computing.	Tapasya Patki,David K. Lowenthal,Barry Rountree,Martin Schulz 0001,Bronis R. de Supinski	10.1145/2464996.2465009
+Improving performance of openSHMEM reference library by portable PE mapping technique.	Swaroop Pophale,Tony Curtis,Barbara M. Chapman	10.1145/2464996.2467279
+CMP off-chip bandwidth scheduling guided by instruction criticality.	Pablo Prieto,Valentin Puente,José-Ángel Gregorio	10.1145/2464996.2465019
+Bandwidth-optimal all-to-all exchanges in fat tree networks.	Bogdan Prisacari,Germán Rodríguez,Cyriel Minkenberg,Torsten Hoefler	10.1145/2464996.2465434
+The power 775 architecture at scale.	Ramakrishnan Rajamony,Mark W. Stephenson,William Evan Speight	10.1145/2464996.2465435
+Scaling large-data computations on multi-GPU accelerators.	Amit Sabne,Putt Sakdhnagool,Rudolf Eigenmann	10.1145/2464996.2465023
+Using platform-independent data locality analysis to predict cache performance on abstract hardware platforms.	Sonish Shrestha	10.1145/2464996.2467271
+The role of computer designers in reverse-engineering the brain.	James E. Smith 0001	10.1145/2464996.2464997
+Towards shared memory consistency models for GPUs.	Tyler Sorensen 0001,Ganesh Gopalakrishnan,Vinod Grover	10.1145/2464996.2467280
+Holistic run-time parallelism management for time and energy efficiency.	Srinath Sridharan,Gagan Gupta,Gurindar S. Sohi	10.1145/2464996.2465016
+Abstractions to separate concerns in semi-regular grids.	Andrew Stone,Michelle Mills Strout	10.1145/2464996.2467267
+HykSort: a new variant of hypercube quicksort on distributed memory architectures.	Hari Sundar,Dhairya Malhotra,George Biros	10.1145/2464996.2465442
+Function, latency, bandwidth, power: towards a better computer.	Steven L. Teig	10.1145/2464996.2465447
+Evaluating on-die interconnects for a 4 TB/s router.	Keith D. Underwood,Eric Borch,John Sizer,Timothy Stremcha,Michael Strom	10.1145/2464996.2465437
+Exploiting reuse information to reduce refresh energy in on-chip eDRAM caches.	Alejandro Valero,Julio Sahuquillo,Salvador Petit,José Duato	10.1145/2464996.2467278
+G-Charm: an adaptive runtime system for message-driven parallel applications on hybrid systems.	R. Vasudevan,Sathish S. Vadhiyar,Laxmikant V. Kalé	10.1145/2464996.2465444
+Bubble coloring: avoiding routing- and protocol-induced deadlocks with minimal virtual channel requirement.	Ruisheng Wang,Lizhong Chen,Timothy Mark Pinkston	10.1145/2464996.2465436
+V-OpenCL: a method to use remote GPGPU.	Cong Wang,Tao Jiang 0010,Rui Hou 0001	10.1145/2464996.2467289
+Power efficiency in a partially reconfigurable multiprocessor system.	Raymond J. Weber,Justin A. Hogan,Brock J. LaMeres,Todd Kaiser	10.1145/2464996.2467284
+Elastic and scalable tracing and accurate replay of non-deterministic events.	Xing Wu 0004,Frank Mueller 0001	10.1145/2464996.2465001
+Exploiting uniform vector instructions for GPGPU performance, energy efficiency, and opportunistic reliability enhancement.	Ping Xiang,Yi Yang 0018,Mike Mantor,Norm Rubin,Lisa R. Hsu,Huiyang Zhou	10.1145/2464996.2465022
+International Conference on Supercomputing, ICS&apos;13, Eugene, OR, USA - June 10 - 14, 2013	Allen D. Malony,Mario Nemirovsky,Samuel P. Midkiff	

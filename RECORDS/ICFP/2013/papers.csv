@@ -1,0 +1,43 @@
+Wellfounded recursion with copatterns: a unified approach to termination and productivity.	Andreas Abel 0001,Brigitte Pientka	10.1145/2500365.2500591
+Productive coprogramming with guarded recursion.	Robert Atkey,Conor McBride	10.1145/2500365.2500597
+Using circular programs for higher-order syntax: functional pearl.	Emil Axelsson,Koen Claessen	10.1145/2500365.2500614
+Weak optimality, and the meaning of sharing.	Thibaut Balabonski	10.1145/2500365.2500606
+Efficient divide-and-conquer parsing of practical context-free languages.	Jean-Philippe Bernardy,Koen Claessen	10.1145/2500365.2500576
+Type-theory in color.	Jean-Philippe Bernardy,Guilhem Moulin	10.1145/2500365.2500577
+Programming and reasoning with algebraic effects and dependent types.	Edwin C. Brady	10.1145/2500365.2500581
+C-SHORe: a collapsible approach to higher-order verification.	Christopher H. Broadbent,Arnaud Carayol,Matthew Hague,Olivier Serre	10.1145/2500365.2500589
+A practical theory of language-integrated query.	James Cheney,Sam Lindley,Philip Wadler	10.1145/2500365.2500586
+The bedrock structured programming system: combining generative metaprogramming and hoare logic in an extensible program verifier.	Adam Chlipala	10.1145/2500365.2500592
+Modular monadic meta-theory.	Benjamin Delaware,Steven Keuchel,Tom Schrijvers,Bruno C. d. S. Oliveira	10.1145/2500365.2500587
+Hoare-style reasoning with (algebraic) continuations.	Germán Andrés Delbianco,Aleksandar Nanevski	10.1145/2500365.2500593
+Typed syntactic meta-programming.	Dominique Devriese,Frank Piessens	10.1145/2500365.2500575
+Fun with semirings: a functional pearl on the abuse of linear algebra.	Stephen Dolan	10.1145/2500365.2500613
+Complete and easy bidirectional typechecking for higher-rank polymorphism.	Jana Dunfield,Neelakantan R. Krishnaswami	10.1145/2500365.2500582
+Calculating threesomes, with blame.	Ronald Garcia	10.1145/2500365.2500603
+Structural recursion for querying ordered graphs.	Soichiro Hidaka,Kazuyuki Asada,Zhenjiang Hu,Hiroyuki Kato,Keisuke Nakano 0001	10.1145/2500365.2500608
+Unifying structured recursion schemes.	Ralf Hinze,Nicolas Wu,Jeremy Gibbons	10.1145/2500365.2500578
+Testing noninterference, quickly.	Catalin Hritcu,John Hughes 0001,Benjamin C. Pierce,Antal Spector-Zabusky,Dimitrios Vytiniotis,Arthur Azevedo de Amorim,Leonidas Lampropoulos	10.1145/2500365.2500574
+Functional reactive programming with liveness guarantees.	Alan Jeffrey	10.1145/2500365.2500584
+Optimizing abstract abstract machines.	J. Ian Johnson,Nicholas Labich,Matthew Might,David Van Horn	10.1145/2500365.2500604
+Computer science as a school subject.	Simon L. Peyton Jones	10.1145/2500365.2500609
+Handlers in action.	Ohad Kammar,Sam Lindley,Nicolas Oury	10.1145/2500365.2500590
+A nanopass framework for commercial compiler development.	Andrew W. Keep,R. Kent Dybvig	10.1145/2500365.2500618
+Higher-order functional reactive programming without spacetime leaks.	Neelakantan R. Krishnaswami	10.1145/2500365.2500588
+Modular and automated type-soundness verification for language extensions.	Florian Lorenzen,Sebastian Erdweg	10.1145/2500365.2500596
+Exploiting vector instructions with generalized stream fusio.	Geoffrey Mainland,Roman Leshchinskiy,Simon L. Peyton Jones	10.1145/2500365.2500601
+Functional geometry and the Traité de Lutherie: functional pearl.	Harry G. Mairson	10.1145/2500365.2500617
+Optimising purely functional GPU programs.	Trevor L. McDonell,Manuel M. T. Chakravarty,Gabriele Keller,Ben Lippmeier	10.1145/2500365.2500595
+A short cut to parallelization theorems.	Akimasa Morihata	10.1145/2500365.2500580
+Interactive programming with dependent types.	Ulf Norell	10.1145/2500365.2500610
+Experience report: functional programming of mHealth applications.	Chris Petersen,Matthias Görges,Dustin T. Dunsmuir,John Mark Ansermino,Guy Albert Dumont	10.1145/2500365.2500615
+Automatic SIMD vectorization for Haskell.	Leaf Petersen,Dominic A. Orchard,Neal Glew	10.1145/2500365.2500605
+Programming with permissions in Mezzo.	François Pottier,Jonathan Protzenko	10.1145/2500365.2500598
+Correctness of an STM Haskell implementation.	Manfred Schmidt-Schauß,David Sabel	10.1145/2500365.2500585
+The constrained-monad problem.	Neil Sculthorpe,Jan Bracker,George Giorgidze,Andy Gill	10.1145/2500365.2500602
+Experience report: applying random testing to a base type environment.	Vincent St-Amour,Neil Toronto	10.1145/2500365.2500616
+Simple and compositional reification of monadic embedded languages.	Josef Svenningsson,Bo Joel Svensson	10.1145/2500365.2500611
+Verified decision procedures for MSO on words based on derivatives of regular expressions.	Dmitriy Traytel,Tobias Nipkow	10.1145/2500365.2500612
+Unifying refinement and hoare-style reasoning in a logic for higher-order concurrency.	Aaron Turon,Derek Dreyer,Lars Birkedal	10.1145/2500365.2500600
+System FC with explicit kind equality.	Stephanie Weirich,Justin Hsu,Richard A. Eisenberg	10.1145/2500365.2500599
+Mtac: a monad for typed tactic programming in Coq.	Beta Ziliani,Derek Dreyer,Neelakantan R. Krishnaswami,Aleksandar Nanevski,Viktor Vafeiadis	10.1145/2500365.2500579
+ACM SIGPLAN International Conference on Functional Programming, ICFP&apos;13, Boston, MA, USA - September 25 - 27, 2013	Greg Morrisett,Tarmo Uustalu	10.1145/2500365

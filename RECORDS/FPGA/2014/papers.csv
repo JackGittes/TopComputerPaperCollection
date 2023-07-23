@@ -1,0 +1,70 @@
+Modular multi-ported SRAM-based memories.	Ameer Abdelhadi,Guy G. F. Lemieux	10.1145/2554688.2554773
+Towards high performance GHASH for pipelined AES-GCM using FPGAs (abstract only).	Karim M. Abdellatif,Roselyne Chotin-Avot,Zied Marrakchi,Habib Mehrez,Qingshan Tang	10.1145/2554688.2554709
+FPGA LUT design for wide-band dynamic voltage and frequency scaled operation (abstract only).	Monther Abusultan,Sunil P. Khatri	10.1145/2554688.2554708
+Producing high-quality real-time HDR video system with FPGA (abstract only).	Tao Ai,Mir Adnan Ali,J. Gregory Steffan,Kalin Ovtcharov,Sarmad Zulfiqar,Steve Mann	10.1145/2554688.2554738
+Energy-efficient multiplier-less discrete convolver through probabilistic domain transformation.	Mohammed Alawad,Yu Bai 0004,Ronald F. DeMara,Mingjie Lin	10.1145/2554688.2554769
+Non-adaptive sparse recovery and fault evasion using disjunct design configurations (abstract only).	Ahmad Alzahrani 0001,Ronald F. DeMara	10.1145/2554688.2554758
+A power-efficient adaptive heapsort for fpga-based image coding application (abstract only).	Yuhui Bai,Syed Zahid Ahmed,Bertrand Granado	10.1145/2554688.2554746
+1K manycore FPGA shared memory architecture for SOC (abstract only).	Yosi Ben-Asher,Jacob Gendel,Gadi Haber,Oren Segal,Yousef Shajrawi	10.1145/2554688.2554699
+Hardware acceleration of database operations.	Jared Casper,Kunle Olukotun	10.1145/2554688.2554787
+Combining computation and communication optimizations in system synthesis for streaming applications.	Jason Cong,Muhuan Huang,Peng Zhang 0007	10.1145/2554688.2554771
+Wordwidth, instructions, looping, and virtualization: the role of sharing in absolute energy minimization.	André DeHon	10.1145/2554688.2554781
+A scalable sparse matrix-vector multiplication kernel for energy-efficient sparse-blas on FPGAs.	Richard Dorrance,Fengbo Ren,Dejan Markovic	10.1145/2554688.2554785
+Pushing the performance boundary of linear projection designs through device specific optimisations (abstract only).	Rui Policarpo Duarte,Christos-Savvas Bouganis	10.1145/2554688.2554717
+Rent&apos;s rule based FPGA packing for routability optimization.	Wenyi Feng,Jonathan W. Greene,Kristofer Vorwerk,Val Pevzner,Arun Kundu	10.1145/2554688.2554763
+OmpSs@Zynq all-programmable SoC ecosystem.	Antonio Filgueras,Eduard Gil,Daniel Jiménez-González,Carlos Álvarez 0001,Xavier Martorell,Jan Langer,Juanjo Noguera,Kees A. Vissers	10.1145/2554688.2554777
+A new basic logic structure for data-path computation (abstract only).	Pierre-Emmanuel Gaillardon,Luca Gaetano Amarù,Giovanni De Micheli	10.1145/2554688.2554701
+A methodology for identifying and placing heterogeneous cluster groups based on placement proximity data (abstract only).	Farnaz Gharibian,Lesley Shannon,Peter Jamieson	10.1145/2554688.2554726
+EPEE: an efficient PCIe communication library with easy-host-integration property for FPGA accelerators (abstract only).	Jian Gong,Jiahua Chen,Haoyang Wu,Fan Ye 0003,Songwu Lu,Jason Cong,Tao Wang 0004	10.1145/2554688.2554723
+MORP: makespan optimization for processors with an embedded reconfigurable fabric.	Artjom Grudnitsky,Lars Bauer,Jörg Henkel	10.1145/2554688.2554782
+Accelerating parameter estimation for multivariate self-exciting point processes.	Ce Guo,Wayne Luk	10.1145/2554688.2554765
+Exploring duty cycle distortions along signal paths in FPGAs (abstract only).	Matthias Hinkfoth,Ralf Joost,Ralf Salomon	10.1145/2554688.2554737
+Optimizing effective interconnect capacitance for FPGA power reduction.	Safeen Huda,Jason Helge Anderson,Hirotaka Tamura	10.1145/2554688.2554788
+APMC: advanced pattern based memory controller (abstract only).	Tassadaq Hussain,Oscar Palomar,Osman S. Unsal,Adrián Cristal,Eduard Ayguadé,Mateo Valero,Santhosh Kumar Rethinagiri	10.1145/2554688.2554732
+A power side-channel-based digital to analog converterfor Xilinx FPGAs.	Brad L. Hutchings,Joshua S. Monson,Danny Savory,Jared Keeley	10.1145/2554688.2554770
+Memory block based scan-BIST architecture for application-dependent FPGA testing.	Keita Ito,Tomokazu Yoneda,Yuta Yamato,Kazumi Hatayama,Michiko Inoue	10.1145/2554688.2554764
+Scalable multi-access flash store for big data analytics.	Sang Woo Jun,Ming Liu,Kermin Elliott Fleming,Arvind	10.1145/2554688.2554789
+A configurable mapreduce accelerator for multi-core FPGAs (abstract only).	Christoforos Kachris,Georgios Ch. Sirakoulis,Dimitrios Soudris	10.1145/2554688.2554700
+A scalable routability-driven analytical placer with global router integration for FPGAs (abstract only).	Ka-Chun Lam,Wai-Chung Tang,Evangeline F. Y. Young	10.1145/2554688.2554711
+xDEFENSE: an extended DEFENSE for mitigating next generation intrusions (abstract only).	James Lamberti,Devu Manikantan Shila,Vivek Venugopal	10.1145/2554688.2554714
+Using high-level synthesis and formal analysis to predict and preempt attacks on industrial control systems.	Lee W. Lerner,Zane R. Franklin,William T. Baumann,Cameron D. Patterson	10.1145/2554688.2554759
+Dynamic voltage &amp; frequency scaling with online slack measurement.	Joshua M. Levine,Edward A. Stott,Peter Y. K. Cheung	10.1145/2554688.2554784
+Transformations for throughput optimization in high-level synthesis (abstract only).	Peng Li 0031,Louis-Noël Pouchet,Deming Chen,Jason Cong	10.1145/2554688.2554772
+Novel FPGA clock network with low latency and skew (abstract only).	Lei Li,Jian Wang 0036,Jinmei Lai	10.1145/2554688.2554722
+Hierarchical library-based power estimator for versatile FPGAs (abstract only).	Hao Liang 0003,Yi-Chung Chen,Wei Zhang 0012,Hai Li 0001	10.1145/2554688.2554693
+Towards interconnect-adaptive packing for FPGAs.	Jason Luu,Jonathan Rose,Jason Helge Anderson	10.1145/2554688.2554783
+On energy efficiency and amdahl&apos;s law in FPGA based chip heterogeneous multiprocessor systems (abstract only).	Sen Ma,David Andrews 0001	10.1145/2554688.2554719
+BMP: a fast B*-tree based modular placer for FPGAs (abstract only).	Fubing Mao,Yi-Chung Chen,Wei Zhang 0012,Hai Li 0001	10.1145/2554688.2554755
+Pipelining FPPGA-based defect detction in FPDs (abstract only).	Lin Meng,Keisuke Matsuyama,Naoto Nojiri,Tomonori Izumi,Katsuhiro Yamazaki	10.1145/2554688.2554729
+Quantifying the cost and benefit of latency insensitive communication on FPGAs.	Kevin E. Murray,Vaughn Betz	10.1145/2554688.2554786
+Improving the security and the scalability of the AES algorithm (abstract only).	Alessandro Antonio Nacci,Vincenzo Rana,Marco D. Santambrogio,Donatella Sciuto	10.1145/2554688.2554735
+Methodology to generate multi-dimensional systolic arrays for FPGAs using openCL (abstract only).	Nick Ni	10.1145/2554688.2554750
+Cad and routing architecture for interposer-based multi-FPGA systems.	André Hahn Pereira,Vaughn Betz	10.1145/2554688.2554776
+Application specific processor with high level synthesized instructions (abstract only).	Viktor Pus,Pavel Benácek	10.1145/2554688.2554754
+Using DSP blocks to compute CRC hash in FPGA (abstract only).	Viktor Pus,Lukas Kekely,Tomás Závodník	10.1145/2554688.2554689
+Power estimation tool for system on programmable chip based platforms (abstract only).	Santhosh Kumar Rethinagiri,Oscar Palomar,Adrián Cristal,Osman S. Unsal	10.1145/2554688.2554718
+A soft error vulnerability analysis framework for Xilinx FPGAs.	Aitzan Sari,Dimitris Agiakatsikas,Mihalis Psarakis	10.1145/2554688.2554767
+An automatic netlist and floorplanning approach to improve the MTTR of scrubbing techniques (abstract only).	Bernhard Schmidt,Daniel Ziener,Jürgen Teich	10.1145/2554688.2554730
+Soft vector processors with streaming pipelines.	Aaron Severance,Joe Edwards,Hossein Omidian,Guy Lemieux	10.1145/2554688.2554774
+Design, implementation and security analysis of hardware trojan threats in FPGA (abstract only).	Devu Manikantan Shila,Vivek Venugopal	10.1145/2554688.2554713
+Asynchronous physical unclonable function using FPGA-based self-timed ring oscillator (abstract only).	Roshan Silwal,Mohammed Y. Niamat	10.1145/2554688.2554745
+FPGA-based biophysically-meaningful modeling of olivocerebellar neurons.	Georgios Smaragdos,Sebastián Isaza,Martijn F. van Eijk,Ioannis Sourdis,Christos Strydis	10.1145/2554688.2554790
+Accelerating frequent item counting with FPGA.	Yuliang Sun,Zilong Wang,Sitao Huang,Lanjun Wang,Yu Wang 0002,Rong Luo,Huazhong Yang	10.1145/2554688.2554766
+Future inter-FPGA communication architecture for multi-FPGA based prototyping (abstract only).	Qingshan Tang,Matthieu Tuna,Habib Mehrez	10.1145/2554688.2554747
+MPack: global memory optimization for stream applications in high-level synthesis.	Jasmina Vasiljevic,Paul Chow	10.1145/2554688.2554761
+Redefining the role of FPGAs in the next generation avionic systems (abstract only).	Venkatasubramanian Viswanathan,Rabie Ben Atitallah,Jean-Luc Dekeyser,Benjamin Nakache,Maurice Nakache	10.1145/2554688.2554744
+Theory and algorithm for generalized memory partitioning in high-level synthesis.	Yuxin Wang,Peng Li 0031,Jason Cong	10.1145/2554688.2554780
+Co-processing with dynamic reconfiguration on heterogeneous MPSoC: practices and design tradeoffs (abstract only).	Chao Wang 0003,Xi Li 0003,Xuehai Zhou,Yunji Chen,Koen Bertels	10.1145/2554688.2554695
+Big data genome sequencing on Zynq based clusters (abstract only).	Chao Wang 0003,Xi Li 0003,Xuehai Zhou,Yunji Chen,Ray C. C. Cheung	10.1145/2554688.2554694
+Control signal aware slice-level window based legalization method for FPGA placement (abstract only).	Yu Wang 0136,Donghoon Yeo,Muhammad Sohail 0003,Hyunchul Shin	10.1145/2554688.2554727
+Implementing FPGA-based energy-efficient dense optical flow computation with high portability in C (abstract only).	Zhibin Wang,Wenmin Yang,Jin Yu,Zhilei Chai	10.1145/2554688.2554733
+Square-rich fixed point polynomial evaluation on FPGAs.	Simin Xu,Suhaib A. Fahmy,Ian Vince McLoughlin	10.1145/2554688.2554779
+A FPGA prototype design emphasis on low power technique.	Hanyang Xu,Jian Wang 0036,Meilai Jin	10.1145/2554688.2554762
+Optimally mitigating BTI-induced FPGA device aging with discriminative voltage scaling (abstract only).	Yu Bai 0004,Mohammed Alawad,Mingjie Lin	10.1145/2554688.2554752
+Revisiting and-inverter cones.	Grace Zgheib,Liqun Yang,Zhihong Huang,David Novo,Hadi Parandeh-Afshar,Haigang Yang,Paolo Ienne	10.1145/2554688.2554791
+Coordinating routing resources for hex pips test in island-style FPGAs (abstract only).	Fan Zhang,Lei Chen 0010,Wenyao Xu,Yuanfu Zhao,Zhiping Wen 0001	10.1145/2554688.2554740
+On hybrid memory allocation for FPGA behavioral synthesis (abstract only).	Qian Zhang 0020,Chenfei Ma,Qiang Xu 0001	10.1145/2554688.2554697
+Accelerating massive short reads mapping for next generation sequencing (abstract only).	Chunming Zhang,Wen Tang,Guangming Tan	10.1145/2554688.2554707
+Fast and effective placement and routing directed high-level synthesis for FPGAs.	Hongbin Zheng,Swathi T. Gurumani,Kyle Rupnow,Deming Chen	10.1145/2554688.2554775
+Binary stochastic implementation of digital logic.	Yanzi Zhu,Peiran Suo,Kia Bazargan	10.1145/2554688.2554778
+The 2014 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA &apos;14, Monterey, CA, USA - February 26 - 28, 2014	Vaughn Betz,George A. Constantinides	10.1145/2554688

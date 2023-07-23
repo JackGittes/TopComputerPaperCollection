@@ -1,0 +1,81 @@
+A Case for Multi-Programming Quantum Computers.	Poulami Das 0005,Swamit S. Tannu,Prashant J. Nair,Moinuddin K. Qureshi	10.1145/3352460.3358287
+FIDR: A Scalable Storage System for Fine-Grain Inline Data Reduction with Efficient Memory Handling.	Mohammadamin Ajdari,Wonsik Lee,Pyeongsu Park,Joonsung Kim,Jangwoo Kim	10.1145/3352460.3358303
+ZCOMP: Reducing DNN Cross-Layer Memory Footprint Using Vector Extensions.	Berkin Akin,Zeshan A. Chishti,Alaa R. Alameldeen	10.1145/3352460.3358305
+NetDIMM: Low-Latency Near-Memory Network Interface Architecture.	Mohammad Alian,Nam Sung Kim	10.1145/3352460.3358278
+SWQUE: A Mode Switching Issue Queue with Priority-Correcting Circular Queue.	Hideki Ando	10.1145/3352460.3358293
+FlexLearn: Fast and Highly Efficient Brain Simulations Using Flexible On-Chip Learning.	Eunjin Baek,Hunjun Lee,Youngsok Kim,Jangwoo Kim	10.1145/3352460.3358268
+DSPatch: Dual Spatial Pattern Prefetcher.	Rahul Bera,Anant V. Nori,Onur Mutlu,Sreenivas Subramoney	10.1145/3352460.3358325
+MI6: Secure Enclaves in a Speculative Out-of-Order Processor.	Thomas Bourgeat,Ilia A. Lebedev,Andrew Wright,Sizhuo Zhang,Arvind,Srinivas Devadas	10.1145/3352460.3358310
+Towards Efficient NVDIMM-based Heterogeneous Storage Hierarchy Management for Big Data Workloads.	Renhai Chen,Zili Shao,Duo Liu,Zhiyong Feng 0002,Tao Li 0006	10.1145/3352460.3358266
+CoSpec: Compiler Directed Speculative Intermittent Computation.	Jongouk Choi,Qingrui Liu,Changhee Jung	10.1145/3352460.3358279
+CASCADE: Connecting RRAMs to Extend Analog Dataflow In An End-To-End In-Memory Processing Paradigm.	Teyuh Chou,Wei Tang 0010,Jacob Botimer,Zhengya Zhang	10.1145/3352460.3358328
+Towards General Purpose Acceleration by Exploiting Common Data-Dependence Forms.	Vidushi Dadu,Jian Weng 0002,Sihao Liu,Tony Nowatzki	10.1145/3352460.3358276
+SOSA: Self-Optimizing Learning with Self-Adaptive Control for Hierarchical System-on-Chip Management.	Bryan Donyanavard,Tiago Mück,Amir M. Rahmani,Nikil D. Dutt,Armin Sadighi,Florian Maurer 0003,Andreas Herkersdorf	10.1145/3352460.3358312
+ASV: Accelerated Stereo Vision System.	Yu Feng 0007,Paul N. Whatmough,Yuhao Zhu 0001	10.1145/3352460.3358253
+ComputeDRAM: In-Memory Compute Using Off-the-Shelf DRAMs.	Fei Gao 0016,Georgios Tziantzioulis,David Wentzlaff	10.1145/3352460.3358260
+Constructing Large, Durable and Fast SSD System via Reprogramming 3D TLC Flash Memory.	Congming Gao,Min Ye,Qiao Li 0001,Chun Jason Xue,Youtao Zhang,Liang Shi,Jun Yang 0002	10.1145/3352460.3358323
+MANIC: A Vector-Dataflow Architecture for Ultra-Low-Power Embedded Systems.	Graham Gobieski,Amolak Nagi,Nathan Serafin,Mehmet Meric Isgenc,Nathan Beckmann,Brandon Lucia	10.1145/3352460.3358277
+Partial Compilation of Variational Algorithms for Noisy Intermediate-Scale Quantum Machines.	Pranav Gokhale,Yongshan Ding 0001,Thomas Propson,Christopher Winkler,Nelson Leung,Yunong Shi,David I. Schuster,Henry Hoffmann,Frederic T. Chong	10.1145/3352460.3358313
+SparTen: A Sparse Tensor Accelerator for Convolutional Neural Networks.	Ashish Gondimalla,Noah Chesnut,Mithuna Thottethodi,T. N. Vijaykumar	10.1145/3352460.3358291
+EMI Architectural Model and Core Hopping.	Daphne I. Gorman,Rafael Trapani Possignolo,Jose Renau	10.1145/3352460.3358289
+Wire-Aware Architecture and Dataflow for CNN Accelerators.	Sumanth Gudaparthi,Surya Narayanan,Rajeev Balasubramonian,Edouard Giacomin,Hari Kambalasubramanyam,Pierre-Emmanuel Gaillardon	10.1145/3352460.3358316
+Distributed Logless Atomic Durability with Persistent Memory.	Siddharth Gupta 0003,Alexandros Daglis,Babak Falsafi	10.1145/3352460.3358321
+Cyclone: Detecting Contention-Based Cache Information Leaks Through Cyclic Interference.	Austin Harris 0001,Shijia Wei,Prateek Sahu,Pranav Kumar,Todd M. Austin,Mohit Tiwari	10.1145/3352460.3358273
+ExTensor: An Accelerator for Sparse Tensor Algebra.	Kartik Hegde,Hadi Asghari Moghaddam,Michael Pellauer,Neal Clayton Crago,Aamer Jaleel,Edgar Solomonik,Joel S. Emer,Christopher W. Fletcher	10.1145/3352460.3358275
+Touché: Towards Ideal and Efficient Cache Compression By Mitigating Tag Area Overheads.	Seokin Hong,Bülent Abali,Alper Buyuktosunoglu,Michael B. Healy,Prashant J. Nair	10.1145/3352460.3358281
+Dynamic Multi-Resolution Data Storage.	Yu-Ching Hu,Murtuza Taher Lokhandwala,Te I,Hung-Wei Tseng 0001	10.1145/3352460.3358282
+Boosting the Performance of CNN Accelerators with Dynamic Fine-Grained Channel Gating.	Weizhe Hua,Yuan Zhou,Christopher De Sa,Zhiru Zhang,G. Edward Suh	10.1145/3352460.3358283
+eCNN: A Block-Based and Highly-Parallel CNN Accelerator for Edge Inference.	Chao-Tsung Huang,Yu-Chun Ding,Huan-Ching Wang,Chi-Wen Weng,Kai-Ping Lin,Li-Wei Wang 0013,Li-De Chen	10.1145/3352460.3358263
+DynaSprint: Microarchitectural Sprints with Dynamic Utility and Thermal Management.	Ziqiang Huang,José A. Joao,Alejandro Rico,Andrew D. Hilton,Benjamin C. Lee	10.1145/3352460.3358301
+MEDAL: Scalable DIMM based Near Data Processing Accelerator for DNA Seeding Algorithm.	Wenqin Huangfu,Xueqi Li,Shuangchen Li,Xing Hu 0001,Peng Gu,Yuan Xie 0001	10.1145/3352460.3358329
+Charon: Specialized Near-Memory Processing Architecture for Clearing Dead Objects in Memory.	Jaeyoung Jang,Jun Heo 0001,Yejin Lee 0001,Jaeyeon Won,Seonghak Kim,Sungjun Jung,Hakbeom Jang,Tae Jun Ham,Jae W. Lee	10.1145/3352460.3358297
+SMASH: Co-designing Software Compression and Hardware-Accelerated Indexing for Efficient Sparse Matrix Operations.	Konstantinos Kanellopoulos,Nandita Vijaykumar,Christina Giannoula,Roknoddin Azizi,Skanda Koppula,Nika Mansouri-Ghiasi,Taha Shahroodi,Juan Gómez-Luna,Onur Mutlu	10.1145/3352460.3358286
+Simmani: Runtime Power Modeling for Arbitrary RTL with Automatic Signal Selection.	Donggyu Kim,Jerry Zhao,Jonathan Bachrach,Krste Asanovic	10.1145/3352460.3358322
+EDEN: Enabling Energy-Efficient, High-Performance Deep Neural Network Inference Using Approximate DRAM.	Skanda Koppula,Lois Orosa 0001,Abdullah Giray Yaglikçi,Roknoddin Azizi,Taha Shahroodi,Konstantinos Kanellopoulos,Onur Mutlu	10.1145/3352460.3358280
+Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach.	Hyoukjun Kwon,Prasanth Chatarasi,Michael Pellauer,Angshuman Parashar,Vivek Sarkar,Tushar Krishna	10.1145/3352460.3358252
+TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning.	Youngeun Kwon,Yunjae Lee,Minsoo Rhu	10.1145/3352460.3358284
+ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.	Alberto Delmas Lascorz,Sayeh Sharify,Isak Edo Vivancos,Dylan Malone Stuart,Omar Mohamed Awad,Patrick Judd,Mostafa Mahmoud,Milos Nikolic 0002,Kevin Siu,Zissis Poulos,Andreas Moshovos	10.1145/3352460.3358295
+FPGA-Accelerated Optimistic Concurrency Control for Transactional Memory.	Zhaoshi Li,Leibo Liu,Yangdong Deng,Jiawei Wang,Zhiwei Liu,Shouyi Yin,Shaojun Wei	10.1145/3352460.3358270
+Binary Star: Coordinated Reliability in Heterogeneous Memory Systems for High Performance and Scalability.	Xiao Liu 0033,David Roberts,Rachata Ausavarungnirun,Onur Mutlu,Jishen Zhao	10.1145/3352460.3358262
+DeepStore: In-Storage Acceleration for Intelligent Queries.	Vikram Sharma Mailthody,Zaid Qureshi,Weixin Liang,Ziyan Feng,Simon Garcia De Gonzalo,Youjie Li,Hubertus Franke,Jinjun Xiong,Jian Huang 0006,Wen-Mei Hwu	10.1145/3352460.3358320
+Prefetched Address Translation.	Artemiy Margaritov,Dmitrii Ustiugov,Edouard Bugnion,Boris Grot	10.1145/3352460.3358294
+Adding Tightly-Integrated Task Scheduling Acceleration to a RISC-V Multi-core Processor.	Lucas Morais,Vitor Silva,Alfredo Goldman,Carlos Álvarez 0001,Jaume Bosch,Michael Frank 0008,Guido Araujo	10.1145/3352460.3358271
+PHI: Architectural Support for Synchronization- and Bandwidth-Efficient Commutative Scatter Updates.	Anurag Mukkara,Nathan Beckmann,Daniel Sánchez 0003	10.1145/3352460.3358254
+GenCache: Leveraging In-Cache Operators for Efficient Sequence Alignment.	Anirban Nag,C. N. Ramachandra,Rajeev Balasubramonian,Ryan Stutsman,Edouard Giacomin,Hari Kambalasubramanyam,Pierre-Emmanuel Gaillardon	10.1145/3352460.3358308
+SSP: Eliminating Redundant Writes in Failure-Atomic NVRAMs via Shadow Sub-Paging.	Yuanjiang Ni,Jishen Zhao,Heiner Litz,Daniel Bittman,Ethan L. Miller	10.1145/3352460.3358326
+Directed Statistical Warming through Time Traveling.	Nikos Nikoleris,Lieven Eeckhout,Erik Hagersten,Trevor E. Carlson	10.1145/3352460.3358264
+Quantifying Memory Underutilization in HPC Systems and Using it to Improve Performance via Architecture Support.	Gagandeep Panwar,Da Zhang 0004,Yihan Pang,Mai Dahshan,Nathan DeBardeleben,Binoy Ravindran,Xun Jian 0002	10.1145/3352460.3358267
+SWAP: Synchronized Weaving of Adjacent Packets for Network Deadlock Resolution.	Mayank Parasar,Natalie D. Enright Jerger,Paul V. Gratz,Joshua San Miguel,Tushar Krishna	10.1145/3352460.3358255
+MaxNVM: Maximizing DNN Storage Density and Inference Efficiency with Sparse Encoding and Error Mitigation.	Lillian Pentecost,Marco Donato,Brandon Reagen,Udit Gupta,Siming Ma,Gu-Yeon Wei,David Brooks 0001	10.1145/3352460.3358258
+Tangram: Integrated Control of Heterogeneous Computers.	Raghavendra Pradyumna Pothukuchi,Joseph L. Greathouse,Karthik Rao,Christopher Erb,Leonardo Piga,Petros G. Voulgaris,Josep Torrellas	10.1145/3352460.3358285
+Efficient SpMV Operation for Large and Highly Sparse Matrices using Scalable Multi-way Merge Parallelization.	Fazle Sadi,Joe Sweeney,Tze Meng Low,James C. Hoe,Larry T. Pileggi,Franz Franchetti	10.1145/3352460.3358330
+eAP: A Scalable and Efficient In-Memory Accelerator for Automata Processing.	Elaheh Sadredini,Reza Rahimi,Vaibhav Verma,Mircea Stan,Kevin Skadron	10.1145/3352460.3358324
+CleanupSpec: An &quot;Undo&quot; Approach to Safe Speculation.	Gururaj Saileshwar,Moinuddin K. Qureshi	10.1145/3352460.3358314
+Practical Byte-Granular Memory Blacklisting using Califorms.	Hiroshi Sasaki 0001,Miguel A. Arroyo,M. Tarek Ibn Ziad,Koustubha Bhat,Kanad Sinha,Simha Sethumadhavan	10.1145/3352460.3358299
+EMMA: Hardware/Software Attestation Framework for Embedded Systems Using Electromagnetic Signals.	Nader Sehatbakhsh,Alireza Nazari,Haider Adnan Khan,Alenka G. Zajic,Milos Prvulovic	10.1145/3352460.3358261
+Architectural Implications of Function-as-a-Service Computing.	Mohammad Shahrad,Jonathan Balkind,David Wentzlaff	10.1145/3352460.3358296
+Simba: Scaling Deep-Learning Inference with Multi-Chip-Module-Based Architecture.	Yakun Sophia Shao,Jason Clemons,Rangharajan Venkatesan,Brian Zimmer,Matthew Fojtik,Nan Jiang 0009,Ben Keller,Alicia Klinefelter,Nathaniel Ross Pinckney,Priyanka Raina,Stephen G. Tell,Yanqing Zhang 0002,William J. Dally,Joel S. Emer,C. Thomas Gray,Brucek Khailany,Stephen W. Keckler	10.1145/3352460.3358302
+μIR -An intermediate representation for transforming and optimizing the microarchitecture of application accelerators.	Amirali Sharifian,Reza Hojabr,Navid Rahimi,Sihao Liu,Apala Guha,Tony Nowatzki,Arrvindh Shriraman	10.1145/3352460.3358292
+Applying Deep Learning to the Cache Replacement Problem.	Zhan Shi,Xiangru Huang,Akanksha Jain,Calvin Lin	10.1145/3352460.3358319
+Exploiting Process Similarity of 3D Flash Memory for High Performance SSDs.	Youngseop Shim,Myungsuk Kim,Myoungjun Chun,Jisung Park 0001,Yoona Kim,Jihong Kim 0001	10.1145/3352460.3358311
+Neuron-Level Fuzzy Memoization in RNNs.	Franyell Silfa,Gem Dot,José-María Arnau,Antonio González 0001	10.1145/3352460.3358309
+Towards the adoption of Local Branch Predictors in Modern Out-of-Order Superscalar Processors.	Niranjan Soundararajan,Saurabh Gupta,Ragavendra Natarajan,Jared Stark,Rahul Pal,Franck Sala,Lihu Rappoport,Adi Yoaz,Sreenivas Subramoney	10.1145/3352460.3358315
+Manna: An Accelerator for Memory-Augmented Neural Networks.	Jacob R. Stevens,Ashish Ranjan 0001,Dipankar Das 0002,Bharat Kaul,Anand Raghunathan	10.1145/3352460.3358304
+Ensemble of Diverse Mappings: Improving Reliability of Quantum Computers by Orchestrating Dissimilar Mistakes.	Swamit S. Tannu,Moinuddin K. Qureshi	10.1145/3352460.3358257
+Mitigating Measurement Errors in Quantum Computers by Exploiting State-Dependent Bias.	Swamit S. Tannu,Moinuddin K. Qureshi	10.1145/3352460.3358265
+LATCH: A Locality-Aware Taint CHecker.	Daniel Townley,Khaled N. Khasawneh,Dmitry Ponomarev 0001,Nael B. Abu-Ghazaleh,Lei Yu 0001	10.1145/3352460.3358327
+NVBit: A Dynamic Binary Instrumentation Framework for NVIDIA GPUs.	Oreste Villa,Mark Stephenson,David W. Nellans,Stephen W. Keckler	10.1145/3352460.3358307
+NDA: Preventing Speculative Execution Attacks at Their Source.	Ofir Weisse,Ian Neal,Kevin Loughlin,Thomas F. Wenisch,Baris Kasikci	10.1145/3352460.3358306
+Temporal Prefetching Without the Off-Chip Metadata.	Hao Wu,Krishnendra Nathella,Joseph Pusdesris,Dam Sunwoo,Akanksha Jain,Calvin Lin	10.1145/3352460.3358300
+CHERIvoke: Characterising Pointer Revocation using CHERI Capabilities for Temporal Memory Safety.	Hongyan Xia,Jonathan Woodruff,Sam Ainsworth 0001,Nathaniel Wesley Filardo,Michael Roe,Alexander Richardson,Peter Rugg,Peter G. Neumann,Simon W. Moore,Robert N. M. Watson,Timothy M. Jones 0001	10.1145/3352460.3358288
+Tigris: Architecture and Algorithms for 3D Perception in Point Clouds.	Tiancheng Xu,Boyuan Tian,Yuhao Zhu 0001	10.1145/3352460.3358259
+InvisiSpec: Making Speculative Execution Invisible in the Cache Hierarchy (Corrigendum).	Mengjia Yan 0001,Jiho Choi,Dimitrios Skarlatos 0002,Adam Morrison 0001,Christopher W. Fletcher,Josep Torrellas	10.1145/3352460.3361129
+Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach.	Mingyu Yan,Xing Hu 0001,Shuangchen Li,Abanti Basak,Han Li,Xin Ma,Itir Akgun,Yujing Feng,Peng Gu,Lei Deng 0003,Xiaochun Ye,Zhimin Zhang 0004,Dongrui Fan,Yuan Xie 0001	10.1145/3352460.3358318
+Speculative Taint Tracking (STT): A Comprehensive Protection for Speculatively Accessed Data.	Jiyong Yu,Mengjia Yan 0001,Artem Khyzha,Adam Morrison 0001,Josep Torrellas,Christopher W. Fletcher	10.1145/3352460.3358274
+Leveraging Caches to Accelerate Hash Tables and Memoization.	Guowei Zhang 0002,Daniel Sánchez 0003	10.1145/3352460.3358272
+Distilling the Essence of Raw Video to Reduce Memory Usage and Energy at Edge Devices.	Haibo Zhang 0005,Shulin Zhao 0001,Ashutosh Pattnaik,Mahmut T. Kandemir,Anand Sivasubramaniam,Chita R. Das	10.1145/3352460.3358298
+PUSh: Data Race Detection Based on Hardware-Supported Prevention of Unintended Sharing.	Diyu Zhou,Yuval Tamir	10.1145/3352460.3358317
+Sparse Tensor Core: Algorithm and Hardware Co-Design for Vector-wise Sparse Neural Networks on Modern GPUs.	Maohua Zhu,Tao Zhang 0032,Zhenyu Gu,Yuan Xie 0001	10.1145/3352460.3358269
+GraphQ: Scalable PIM-Based Graph Processing.	Youwei Zhuo,Chao Wang 0051,Mingxing Zhang,Rui Wang 0014,Dimin Niu,Yanzhi Wang,Xuehai Qian	10.1145/3352460.3358256
+SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads.	Pengfei Zuo,Yu Hua 0001,Yuan Xie 0001	10.1145/3352460.3358290
+Proceedings of the 52nd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2019, Columbus, OH, USA, October 12-16, 2019.		

@@ -1,0 +1,24 @@
+Multiparty Session Types for Safe Runtime Adaptation in an Actor Language.	Paul Harvey 0002,Simon Fowler 0001,Ornela Dardha,Simon J. Gay	10.4230/LIPICS.ECOOP.2021.10
+Scope States: Guarding Safety of Name Resolution in Parallel Type Checkers.	Hendrik van Antwerpen,Eelco Visser	10.4230/LIPICS.ECOOP.2021.1
+Enabling Additional Parallelism in Asynchronous JavaScript Applications.	Ellen Arteca,Frank Tip,Max Schäfer	10.4230/LIPICS.ECOOP.2021.7
+Covariant Conversions (CoCo): A Design Pattern for Type-Safe Modular Software Evolution in Object-Oriented Systems.	Jan Bessai,George T. Heineman,Boris Düdder	10.4230/LIPICS.ECOOP.2021.4
+Dealing with Variability in API Misuse Specification.	Rodrigo Bonifácio,Stefan Krüger,Krishna Narasimhan,Eric Bodden,Mira Mezini	10.4230/LIPICS.ECOOP.2021.19
+Idris 2: Quantitative Type Theory in Practice.	Edwin C. Brady	10.4230/LIPICS.ECOOP.2021.9
+On the Monitorability of Session Types, in Theory and Practice.	Christian Bartolo Burlò,Adrian Francalanza,Alceste Scalas	10.4230/LIPICS.ECOOP.2021.20
+ALPACAS: A Language for Parametric Assessment of Critical Architecture Safety.	Maxime Buyse,Rémi Delmas,Youssef Hamadi	10.4230/LIPICS.ECOOP.2021.5
+Lifted Static Analysis of Dynamic Program Families by Abstract Interpretation.	Aleksandar S. Dimovski,Sven Apel	10.4230/LIPICS.ECOOP.2021.14
+Gradual Program Analysis for Null Pointers.	Sam Estep,Jenna Wise,Jonathan Aldrich,Éric Tanter,Johannes Bader 0001,Joshua Sunshine	10.4230/LIPICS.ECOOP.2021.3
+Multiparty Languages: The Choreographic and Multitier Cases (Pearl).	Saverio Giallorenzo,Fabrizio Montesi,Marco Peressotti,David Richter,Guido Salvaneschi,Pascal Weisenburger	10.4230/LIPICS.ECOOP.2021.22
+Do Bugs Propagate? An Empirical Analysis of Temporal Correlations Among Software Bugs.	Xiaodong Gu 0002,Yo-Sub Han,Sunghun Kim 0001,Hongyu Zhang 0002	10.4230/LIPICS.ECOOP.2021.11
+Differential Privacy for Coverage Analysis of Software Traces.	Yu Hao,Sufian Latif,Hailong Zhang 0006,Raef Bassily,Atanas Rountev	10.4230/LIPICS.ECOOP.2021.8
+Accelerating Object-Sensitive Pointer Analysis by Exploiting Object Containment and Reachability.	Dongjie He,Jingbo Lu,Yaoqing Gao,Jingling Xue	10.4230/LIPICS.ECOOP.2021.16
+Signal Classes: A Mechanism for Building Synchronous and Persistent Signal Networks.	Tetsuo Kamina,Tomoyuki Aotani,Hidehiko Masuhara	10.4230/LIPICS.ECOOP.2021.17
+CodeDJ: Reproducible Queries over Large-Scale Software Repositories.	Petr Maj,Konrad Siek,Alexander Kovalenko,Jan Vitek	10.4230/LIPICS.ECOOP.2021.6
+Linear Promises: Towards Safer Concurrent Programming.	Ohad Rau,Caleb Voss 0001,Vivek Sarkar	10.4230/LIPICS.ECOOP.2021.13
+Lossless, Persisted Summarization of Static Callgraph, Points-To and Data-Flow Analysis.	Philipp Dominik Schubert,Ben Hermann 0001,Eric Bodden	10.4230/LIPICS.ECOOP.2021.2
+λ-Based Object-Oriented Programming (Pearl).	Marco Servetto,Elena Zucca	10.4230/LIPICS.ECOOP.2021.21
+Refinements of Futures Past: Higher-Order Specification with Implicit Refinement Types.	Anish Tondwalkar,Matthew Kolosick,Ranjit Jhala	10.4230/LIPICS.ECOOP.2021.18
+Front Matter, Table of Contents, Preface, Conference Organization.		10.4230/LIPICS.ECOOP.2021.0
+Type-Directed Operational Semantics for Gradual Typing.	Wenjia Ye,Bruno C. d. S. Oliveira,Xuejing Huang	10.4230/LIPICS.ECOOP.2021.12
+Best-Effort Lazy Evaluation for Python Software Built on APIs.	Guoqiang Zhang,Xipeng Shen	10.4230/LIPICS.ECOOP.2021.15
+35th European Conference on Object-Oriented Programming, ECOOP 2021, July 11-17, 2021, Aarhus, Denmark (Virtual Conference).	Anders Møller,Manu Sridharan	

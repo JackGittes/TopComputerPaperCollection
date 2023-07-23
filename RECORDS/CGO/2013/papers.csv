@@ -1,0 +1,34 @@
+Runtime dependence computation and execution of loops on heterogeneous systems.	Jayvant Anantpur,R. Govindarajan	10.1109/CGO.2013.6494992
+Schnauzer: scalable profiling for likely security bug sites.	William Arthur,Biruk Mammo,Ricardo Rodríguez Jorge,Todd M. Austin,Valeria Bertacco	10.1109/CGO.2013.6494998
+Defensive loop tiling for shared cache.	Bin Bao,Chen Ding 0001	10.1109/CGO.2013.6495008
+Improving data access efficiency by using a tagless access buffer (TAB).	Alen Bardizbanyan,Peter Gavin,David B. Whalley,Magnus Själander,Per Larsson-Edefors,Sally A. McKee,Per Stenström	10.1109/CGO.2013.6495003
+Practical lock/unlock pairing for concurrent programs.	Hyoun Kyu Cho,Terence Kelly,Yin Wang 0001,Stéphane Lafortune,Hongwei Liao,Scott A. Mahlke	10.1109/CGO.2013.6494990
+Instant profiling: Instrumentation sampling for profiling datacenter applications.	Hyoun Kyu Cho,Tipp Moseley,Richard E. Hank,Derek Bruening,Scott A. Mahlke	10.1109/CGO.2013.6494982
+Pertinent path profiling: Tracking interactions among relevant statements.	Ramshankar Chouhan,Subhajit Roy 0001,Surender Baswana	10.1109/CGO.2013.6494983
+Just-in-time value specialization.	Igor Rafael de Assis Costa,Péricles Rafael Oliveira Alves,Henrique Nazaré Santos,Fernando Magno Quintão Pereira	10.1109/CGO.2013.6495006
+Locality-aware mapping and scheduling for multicores.	Wei Ding 0008,Yuanrui Zhang,Mahmut T. Kandemir,Jithendra Srinivas,Praveen Yedlapalli	10.1109/CGO.2013.6495009
+A polynomial spilling heuristic: Layered allocation.	Boubacar Diouf,Albert Cohen 0001,Fabrice Rastello	10.1109/CGO.2013.6495005
+Hydra: Automatic algorithm exploration from linear algebra equations.	Alexandre Duchateau,David A. Padua,Denis Barthou	10.1109/CGO.2013.6494999
+Bandwidth Bandit: Quantitative characterization of memory contention.	David Eklov,Nikos Nikoleris,David Black-Schaffer,Erik Hagersten	10.1109/CGO.2013.6494987
+Smart, adaptive mapping of parallelism in the presence of external workload.	Murali Krishna Emani,Zheng Wang 0001,Michael F. P. O&apos;Boyle	10.1109/CGO.2013.6495010
+Experiences in designing a robust and scalable interpreter profiling framework.	Ian Gartley,Marius Pirvu,Vijay Sundaresan,Nikola Grcevski	10.1109/CGO.2013.6494981
+Portable mapping of data parallel programs to OpenCL for heterogeneous systems.	Dominik Grewe,Zheng Wang 0001,Michael F. P. O&apos;Boyle	10.1109/CGO.2013.6494993
+Profile-guided automated software diversity.	Andrei Homescu,Steven Neisius,Per Larsen,Stefan Brunthaler,Michael Franz	10.1109/CGO.2013.6494997
+Automatically exploiting cross-invocation parallelism using runtime information.	Jialu Huang,Thomas B. Jablin,Stephen R. Beard,Nick P. Johnson,David I. August	10.1109/CGO.2013.6495001
+Skadu: Efficient vector shadow memories for poly-scopic program analysis.	Donghwan Jeon,Saturnino Garcia,Michael Bedford Taylor	10.1109/CGO.2013.6494985
+Idempotent code generation: Implementation, analysis, and evaluation.	Marc de Kruijf,Karthikeyan Sankaralingam	10.1109/CGO.2013.6495002
+Automatic construction of inlining heuristics using machine learning.	Sameer Kulkarni,John Cavazos,Christian Wimmer,Doug Simon	10.1109/CGO.2013.6495004
+Performance upper bound analysis and optimization of SGEMM on Fermi and Kepler GPUs.	Junjie Lai,André Seznec	10.1109/CGO.2013.6494986
+Convergence and scalarization for data-parallel architectures.	Yunsup Lee,Ronny Krashinsky,Vinod Grover,Stephen W. Keckler,Krste Asanovic	10.1109/CGO.2013.6494995
+Effective fault localization based on minimum debugging frontier set.	Feng Li,Wei Huo,Congming Chen,Lujie Zhong,Xiaobing Feng 0002,Zhiyuan Li 0001	10.1109/CGO.2013.6494988
+JSWhiz: Static analysis for JavaScript memory leaks.	Jacques A. Pienaar,Robert Hundt	10.1109/CGO.2013.6495007
+SIMD parallelization of applications that traverse irregular data structures.	Bin Ren,Gagan Agrawal,James R. Larus,Todd Mytkowicz,Tomi Poutanen,Wolfram Schulte	10.1109/CGO.2013.6494989
+A fast and low-overhead technique to secure programs against integer overflows.	Raphael Ernani Rodrigues,Victor Hugo Sperle Campos,Fernando Magno Quintão Pereira	10.1109/CGO.2013.6494996
+On the platform specificity of STM instrumentation mechanisms.	Wenjia Ruan,Yujie Liu,Chao Wang 0090,Michael F. Spear	10.1109/CGO.2013.6495000
+Query-directed adaptive heap cloning for optimizing compilers.	Yulei Sui,Yue Li 0006,Jingling Xue	10.1109/CGO.2013.6494978
+Lightweight fault detection in parallelized programs.	Li Tan,Min Feng 0001,Rajiv Gupta 0001	10.1109/CGO.2013.6494979
+Acceldroid: Co-designed acceleration of Android bytecode.	Cheng Wang 0013,Youfeng Wu,Marcelo Cintra	10.1109/CGO.2013.6494980
+Vlock: Lock virtualization mechanism for exploiting fine-grained parallelism in graph traversal algorithms.	Jie Yan,Guangming Tan,Xiuxia Zhang,Erlin Yao,Ninghui Sun	10.1109/CGO.2013.6494991
+Hidp: A hierarchical data parallel language.	Yongpeng Zhang,Frank Mueller 0001	10.1109/CGO.2013.6494994
+Profmig: A framework for flexible migration of program profiles across software versions.	Mingzhou Zhou,Bo Wu 0002,Yufei Ding,Xipeng Shen	10.1109/CGO.2013.6494984
+Proceedings of the 2013 IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2013, Shenzhen, China, February 23-27, 2013		

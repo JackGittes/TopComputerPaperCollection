@@ -1,0 +1,136 @@
+Push Me Pull You: Integrating Opposing Data Transport Modes for Efficient HPC Application Monitoring.	Omar Aaziz,Jonathan Cook,Hadi Sharifi	10.1109/CLUSTER.2015.118
+Highly Scalable Parallel Search-Tree Algorithms: The Virtual Topology Approach.	Faisal N. Abu-Khzam,Amer E. Mouawad,Karim A. Jahed	10.1109/CLUSTER.2015.91
+Toward Rapid Understanding of Production HPC Applications and Systems.	Anthony M. Agelastos,Benjamin A. Allan,Jim M. Brandt,Ann C. Gentile,Sophia Lefantzi,Steve Monk,Jeff Ogden,Mahesh Rajan,Joel Stevenson	10.1109/CLUSTER.2015.71
+Automatic Command Queue Scheduling for Task-Parallel Workloads in OpenCL.	Ashwin Mandayam Aji,Antonio J. Peña,Pavan Balaji,Wu-chun Feng	10.1109/CLUSTER.2015.15
+On the Application Task Granularity and the Interplay with the Scheduling Overhead in Many-Core Shared Memory Systems.	Dana Akhmetova,Gokcen Kestor,Roberto Gioiosa,Stefano Markidis,Erwin Laure	10.1109/CLUSTER.2015.65
+VEF Traces: A Framework for Modelling MPI Traffic in Interconnection Network Simulators.	Francisco J. Andujar,Juan A. Villar,José L. Sánchez 0002,Francisco J. Alfaro,Jesús Escudero-Sahuquillo	10.1109/CLUSTER.2015.141
+HRDBMS: A NewSQL Database for Analytics.	Jason Arnold,Boris Glavic,Ioan Raicu	10.1109/CLUSTER.2015.92
+Distributed-Memory Algorithms for Maximal Cardinality Matching Using Matrix Algebra.	Ariful Azad,Aydin Buluç	10.1109/CLUSTER.2015.62
+Detecting and Correcting Data Corruption in Stencil Applications through Multivariate Interpolation.	Leonardo Arturo Bautista-Gomez,Franck Cappello	10.1109/CLUSTER.2015.108
+Dynamic Model-Driven Parallel I/O Performance Tuning.	Babak Behzad,Surendra Byna,Stefan M. Wild,Prabhat,Marc Snir	10.1109/CLUSTER.2015.37
+Programmer-Guided Reliability for Extreme-Scale Applications.	David E. Bernholdt,Wael R. Elwasif,Christos Kartsaklis,Seyong Lee,Tiffany M. Mintz	10.1109/CLUSTER.2015.105
+Mini-App Driven Optimisation of Inertial Confinement Fusion Codes.	Robert F. Bird,Patrick Gillies,Michael R. Bareford,J. A. Herdman,Stephen A. Jarvis	10.1109/CLUSTER.2015.132
+Introducing and Exploiting Hierarchical Structural Information.	Daniel Rubio Bonilla,Colin W. Glass,Jan Kuper,Robert de Groote	10.1109/CLUSTER.2015.133
+New Systems, New Behaviors, New Patterns: Monitoring Insights from System Standup.	Jim M. Brandt,Ann C. Gentile,Cindy Martin,Jason Repik,Narate Taerat	10.1109/CLUSTER.2015.116
+Multipath Load Balancing for M × N Communication Patterns on the Blue Gene/Q Supercomputer Interconnection Network.	Huy Bui,Robert L. Jacob,Preeti Malakar,Venkatram Vishwanath,Andrew E. Johnson 0001,Michael E. Papka,Jason Leigh	10.1109/CLUSTER.2015.140
+Understanding the Propagation of Error Due to a Silent Data Corruption in a Sparse Matrix Vector Multiply.	Jon Calhoun 0001,Marc Snir,Luke N. Olson,María Jesús Garzarán	10.1109/CLUSTER.2015.101
+Pairwise Sequence Alignment with Gaps with GPU.	Thomas C. Carroll,Jude-Thaddeus Ojiaku,Prudence W. H. Wong	10.1109/CLUSTER.2015.109
+On the Need for Reproducible Numerical Accuracy through Intelligent Runtime Selection of Reduction Algorithms at the Extreme Scale.	Dylan Chapp,Travis Johnston,Michela Taufer	10.1109/CLUSTER.2015.34
+A TSQR Based Krylov Basis Computation Method on Hybrid GPU Cluster.	Langshi Chen,Serge G. Petiton	10.1109/CLUSTER.2015.25
+Toward Auto-tuned Krylov Basis Computation for Different Sparse Matrix Formats and Interconnects on GPU Clusters.	Langshi Chen,Serge Petition	10.1109/CLUSTER.2015.153
+Balancing Thread-Level and Task-Level Parallelism for Data-Intensive Workloads on Clusters and Clouds.	Olivia Choudhury,Dinesh Rajan,Nicholas L. Hazekamp,Sandra Gesing,Douglas Thain,Scott J. Emrich	10.1109/CLUSTER.2015.60
+Modeling a Large Data-Acquisition Network in a Simulation Framework.	Tommaso Colombo,Holger Fröning,Pedro Javier García,Wainer Vandelli	10.1109/CLUSTER.2015.137
+GraphTrek: Asynchronous Graph Traversal for Property Graph-Based Metadata Management.	Dong Dai 0001,Philip H. Carns,Robert B. Ross,John Jenkins,Kyle Blauer,Yong Chen 0001	10.1109/CLUSTER.2015.48
+PaRSEC in Practice: Optimizing a Legacy Chemistry Application through Distributed Task-Based Execution.	Anthony Danalis,Heike Jagode,George Bosilca,Jack J. Dongarra	10.1109/CLUSTER.2015.50
+Evolution of Monitoring over the Lifetime of a High Performance Computing Cluster.	Adam DeConinck,Kathleen Kelly	10.1109/CLUSTER.2015.123
+Expressing Parallelism on Many-Core for Deterministic Discrete Ordinates Transport.	Tom Deakin,Simon McIntosh-Smith,Wayne P. Gaudin	10.1109/CLUSTER.2015.127
+Re-evaluating Network Onload vs. Offload for the Many-Core Era.	Matthew G. F. Dosanjh,Ryan E. Grant,Patrick G. Bridges,Ron Brightwell	10.1109/CLUSTER.2015.55
+BPS: A Balanced Partial Stripe Write Scheme to Improve the Write Performance of RAID-6.	Congjin Du,Chentao Wu,Jie Li 0002,Minyi Guo,Xubin He	10.1109/CLUSTER.2015.39
+Flexible Error Recovery Using Versions in Global View Resilience.	Nan Dun,Hajime Fujita 0002,Aiman Fang,Yan Liu,Andrew A. Chien,Pavan Balaji,Kamil Iskra,Wesley Bland,Andrew R. Siegel	10.1109/CLUSTER.2015.88
+Network Quality of Service in Docker Containers.	Ayush Dusia,Yang Yang,Michela Taufer	10.1109/CLUSTER.2015.96
+Extending LDMS to Enable Performance Monitoring in Multi-core Applications.	Steven D. Feldman,Deli Zhang,Damian Dechev,James Brandt	10.1109/CLUSTER.2015.125
+Fast Fault Injection and Sensitivity Analysis for Collective Communications.	Kun Feng,Manjunath Gorentla Venkata,Dong Li,Xian-He Sun	10.1109/CLUSTER.2015.31
+IOSIG+: On the Role of I/O Tracing and Analysis for Hadoop Systems.	Bo Feng,Xi Yang 0002,Kun Feng,Yanlong Yin,Xian-He Sun	10.1109/CLUSTER.2015.17
+Performance Evaluation of Unstructured Mesh Physics on Advanced Architectures.	Charles R. Ferenbaugh	10.1109/CLUSTER.2015.126
+XCBC and XNIT - Tools for Cluster Implementation and Management in Research and Training.	Jeremy Fischer,Eric Coulter,Richard Knepper,Charles Peck,Craig A. Stewart	10.1109/CLUSTER.2015.143
+Machines Tuning Machines: Configuring Distributed Stream Processors with Bayesian Optimization.	Lorenz Fischer,Shen Gao,Abraham Bernstein	10.1109/CLUSTER.2015.13
+Throughput Unfairness in Dragonfly Networks under Realistic Traffic Patterns.	Pablo Fuentes 0001,Enrique Vallejo 0001,Cristobal Camarero,Ramón Beivide,Mateo Valero	10.1109/CLUSTER.2015.136
+Empirical Comparison of Three Versioning Architectures.	Hajime Fujita 0002,Kamil Iskra,Pavan Balaji,Andrew A. Chien	10.1109/CLUSTER.2015.69
+An Approach to Selecting Thread + Process Mixes for Hybrid MPI + OpenMP Applications.	Hormozd Gahvari,Martin Schulz 0001,Ulrike Meier Yang	10.1109/CLUSTER.2015.64
+Mutated Near Optimal Vertex Cover Algorithm (NOVCA) Visualization on a Tile Display.	Sanjaya Gajurel,Roger Bielefeld	10.1109/CLUSTER.2015.95
+Ensuring Data Durability with Increasingly Interdependent Content.	Veronica Estrada Galiñanes,Pascal Felber	10.1109/CLUSTER.2015.33
+Analysis of XDMoD/SUPReMM Data Using Machine Learning Techniques.	Steven M. Gallo,Joseph P. White,Robert L. DeLeon,Thomas R. Furlani,Helen Ngo,Abani K. Patra,Matthew D. Jones,Jeffrey T. Palmer,Nikolay Simakov,Jeanette M. Sperhac,Martins Innus,Thomas Yearke,Ryan Rathsam	10.1109/CLUSTER.2015.114
+Exploring the Suitability of Remote GPGPU Virtualization for the OpenACC Programming Model Using rCUDA.	Adrián Castelló 0001,Antonio J. Peña,Rafael Mayo 0002,Pavan Balaji,Enrique S. Quintana-Ortí	10.1109/CLUSTER.2015.23
+Scalable Relativistic High-Resolution Shock-Capturing for Heterogeneous Computing.	Forrest Wolfgang Glines,Matthew Anderson,David Neilsen	10.1109/CLUSTER.2015.110
+A LogP Extension for Modeling Tree Aggregation Networks.	Taylor L. Groves,Samuel K. Gutierrez,Dorian C. Arnold	10.1109/CLUSTER.2015.117
+The Performance Implication of Task Size for Applications on the HPX Runtime System.	Patricia Grubel,Hartmut Kaiser,Jeanine E. Cook,Adrian Serio	10.1109/CLUSTER.2015.119
+Towards Building Resilient Scientific Applications: Resilience Analysis on the Impact of Soft Error and Transient Error Tolerance with the CLAMR Hydrodynamics Mini-App.	Qiang Guan,Nathan DeBardeleben,Brian Atkinson,Robert W. Robey,William M. Jones	10.1109/CLUSTER.2015.35
+Exploiting GPUDirect RDMA in Designing High Performance OpenSHMEM for NVIDIA GPU Clusters.	Khaled Hamidouche,Akshay Venkatesh,Ammar Ahmad Awan,Hari Subramoni,Ching-Hsiang Chu,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2015.21
+Evaluation of FFT for GPU Cluster Using Tightly Coupled Accelerators Architecture.	Toshihiro Hanawa,Hisafumi Fujii,Norihisa Fujita,Tetsuya Odajima,Kazuya Matsumoto,Taisuke Boku	10.1109/CLUSTER.2015.113
+Improving Strong-Scaling on GPU Cluster Based on Tightly Coupled Accelerators Architecture.	Toshihiro Hanawa,Hisafumi Fujii,Norihisa Fujita,Tetsuya Odajima,Kazuya Matsumoto,Yuetsu Kodama,Taisuke Boku	10.1109/CLUSTER.2015.154
+Comparing Global Link Arrangements for Dragonfly Networks.	Emily M. Hastings,David Rincon-Cruz,Marc Spehlmann,Sofia Meyers,Anda Xu,David P. Bunde,Vitus J. Leung	10.1109/CLUSTER.2015.57
+Design a Hash-Based Control Mechanism in vSwitch for Software-Defined Networking Environment.	Shih-Wen Hsu,Tseng-Yi Chen,Yung-Chun Chang,Shuo-Han Chen,Han-Chieh Chao,Tsen-Yeh Lin,Wei-Kuan Shih	10.1109/CLUSTER.2015.81
+SideWalk: A Facility of Lightweight Out-of-Band Communications for Augmenting Distributed Data Processing Flows.	Yin Huai,Yuan Yuan 0014,Rubao Lee,Xiaodong Zhang 0001	10.1109/CLUSTER.2015.43
+Exploiting Spatial Information in Datasets to Enable Fault Tolerant Sparse Matrix Solvers.	Rob Hunt,Simon McIntosh-Smith	10.1109/CLUSTER.2015.102
+Collective I/O Tuning Using Analytical and Machine Learning Models.	Florin Isaila,Prasanna Balaprakash,Stefan M. Wild,Dries Kimpe,Robert Latham,Robert B. Ross,Paul D. Hovland	10.1109/CLUSTER.2015.29
+Evaluation of Parallel Communication Models in Nekbone, a Nek5000 Mini-Application.	Ilya Ivanov,Jing Gong,Dana Akhmetova,Ivy Bo Peng,Stefano Markidis,Erwin Laure,Rui Machado,Mirko Rahn,Valeria Bartsch,Alistair Hart,Paul F. Fischer	10.1109/CLUSTER.2015.131
+Practical Resource Monitoring for Robust High Throughput Computing.	Gideon Juve,Benjamín Tovar,Rafael Ferreira da Silva,Dariusz Król 0002,Douglas Thain,Ewa Deelman,William E. Allcock,Miron Livny	10.1109/CLUSTER.2015.115
+A Team-Based Methodology of Memory Hierarchy-Aware Runtime Support in Coarray Fortran.	Dounia Khaldi,Deepak Eachempati,Shiyao Ge,Pierre Jouvelot,Barbara M. Chapman	10.1109/CLUSTER.2015.67
+Energy-Aware Job Management Approaches for Workflow in Cloud.	Mustafa Ibrahim Khaleel,Michelle M. Zhu	10.1109/CLUSTER.2015.85
+Stay Alive, Don&apos;t Give Up: DUE and SDC Reduction with Memory Repair.	Dong-Wan Kim,Mattan Erez	10.1109/CLUSTER.2015.107
+Optimizing Caching DSM for Distributed Software Speculation.	Sai Charan Koduru,Keval Vora,Rajiv Gupta 0001	10.1109/CLUSTER.2015.68
+CMT-bone: A Mini-App for Compressible Multiphase Turbulence Simulation Software.	Nalini Kumar,Mrugesh Sringarpure,Tania Banerjee,Jason Hackl,S. Balachandar 0001,Herman Lam,Alan D. George,Sanjay Ranka	10.1109/CLUSTER.2015.134
+RE-PAGE: Domain-Specific REplication and PArallel Processing of GEnomic Data.	Mücahid Kutlu,Gagan Agrawal	10.1109/CLUSTER.2015.54
+Peer Comparison of XSEDE and NCAR Publication Data.	Gregor von Laszewski,Fugang Wang,Geoffrey Charles Fox,David L. Hart,Thomas R. Furlani,Robert L. DeLeon,Steven M. Gallo	10.1109/CLUSTER.2015.98
+Building Bridges from the Campus to XSEDE.	Liming Lee,Ian T. Foster,Steven Tuecke	10.1109/CLUSTER.2015.144
+Optimizing Explicit Hydrodynamics for Power, Energy, and Performance.	Edgar A. León,Ian Karlin,Ryan E. Grant	10.1109/CLUSTER.2015.12
+Efficient Distributed Data Clustering on Spark.	Jia Li,Dongsheng Li 0001,Yiming Zhang 0003	10.1109/CLUSTER.2015.84
+GRAPH/Z: A Key-Value Store Based Scalable Graph Processing System.	Tonglin Li,Chaoqi Ma,Jiabao Li,Xiaobing Zhou,Ke Wang 0012,Dongfang Zhao 0001,Iman Sadooghi,Ioan Raicu	10.1109/CLUSTER.2015.90
+High Performance MPI Datatype Support with User-Mode Memory Registration: Challenges, Designs, and Benefits.	Mingzhe Li,Hari Subramoni,Khaled Hamidouche,Xiaoyi Lu,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2015.41
+Evaluating R-Based Big Data Analytic Frameworks.	Mei Liang,Cesar Trejo,Lavanya Muthu,Linh Bao Ngo,André Luckow,Amy W. Apon	10.1109/CLUSTER.2015.86
+A Practical Approach for Handling Soft Errors in Iterative Applications.	Jiaqi Liu,Mehmet Can Kurt,Gagan Agrawal	10.1109/CLUSTER.2015.32
+Detecting Thread-Safety Violations in Hybrid OpenMP/MPI Programs.	Hongyi Ma,Liqiang Wang,Krishanthan Krishnamoorthy	10.1109/CLUSTER.2015.70
+An FPGA-Based Accelerator for Neighborhood-Based Collaborative Filtering Recommendation Algorithms.	Xiang Ma,Chao Wang 0003,Qi Yu,Xi Li 0003,Xuehai Zhou	10.1109/CLUSTER.2015.79
+A Workload-Aware Energy Model for Virtual Machine Migration.	Vincenzo De Maio,Gabor Kecskemeti,Radu Prodan	10.1109/CLUSTER.2015.47
+Fault-Tolerant Protocol for Hybrid Task-Parallel Message-Passing Applications.	Tatiana V. Martsinkevich,Omer Subasi,Osman S. Unsal,Franck Cappello,Jesús Labarta	10.1109/CLUSTER.2015.104
+A Two-Tiered Approach to I/O Quality of Service in Docker Containers.	Sean McDaniel,Stephen Herbein,Michela Taufer	10.1109/CLUSTER.2015.77
+Developing MiniApps on Modern Platforms Using Multiple Programming Models.	O. E. Bronson Messer,Eduardo F. D&apos;Azevedo,Judith C. Hill,Wayne Joubert,S. Laosooksathit,Arnold N. Tharrington	10.1109/CLUSTER.2015.130
+Fast Calculation of Max-Min Fair Rates for Multi-commodity Flows in Fat-Tree Networks.	Md Atiqul Mollah,Xin Yuan 0001,Scott Pakin,Michael Lang 0003	10.1109/CLUSTER.2015.56
+Dynamic CPU Resource Allocation in Containerized Cloud Environments.	José Monsalve Diaz,Aaron Myles Landwehr,Michela Taufer	10.1109/CLUSTER.2015.99
+Monitoring High Performance Computing Systems for the End User.	Christopher Lee Moore,Prabhu Singh Khalsa,Todd Alan Yilk,Michael Mason	10.1109/CLUSTER.2015.124
+High-Performance, Distributed Dictionary Encoding of RDF Datasets.	Alessandro Morari,Jesse Weaver,Oreste Villa,David J. Haglin,Antonino Tumeo,Vito Giovanni Castellana,John Feo	10.1109/CLUSTER.2015.44
+OpenSHMEM as a Portable Communication Layer for PGAS Models: A Case Study with Coarray Fortran.	Naveen Namashivayam,Deepak Eachempati,Dounia Khaldi,Barbara M. Chapman	10.1109/CLUSTER.2015.66
+LU Factorization: Towards Hiding Communication Overheads with a Lookahead-Free Algorithm.	Tan Nguyen 0001,Scott B. Baden	10.1109/CLUSTER.2015.61
+Evaluating the Support of MTC Applications on Intel Xeon Phi Many-Core Accelerators.	Poornima Nookala,Serapheim Dimitropoulos,Karl Stough,Ioan Raicu	10.1109/CLUSTER.2015.87
+ObsCon: Integrated Monitoring and Control for Parallel, Real-Time Applications.	Alan Nussbaum,Shwetha Mathangi Chandra Choodamani,Karsten Schwan	10.1109/CLUSTER.2015.72
+Hybrid Communication with TCA and InfiniBand on a Parallel Programming Language XcalableACC for GPU Clusters.	Tetsuya Odajima,Taisuke Boku,Toshihiro Hanawa,Hitoshi Murai,Masahiro Nakao,Akihiro Tabuchi,Mitsuhisa Sato	10.1109/CLUSTER.2015.112
+A Machine-Learning Approach for Communication Prediction of Large-Scale Applications.	Nikela Papadopoulou,Georgios I. Goumas,Nectarios Koziris	10.1109/CLUSTER.2015.27
+The Cost of Synchronizing Imbalanced Processes in Message Passing Systems.	Ivy Bo Peng,Stefano Markidis,Erwin Laure	10.1109/CLUSTER.2015.63
+VecMeter: Measuring Vectorization on the Xeon Phi.	Joshua Peraza,Ananta Tiwari,William A. Ward Jr.,Roy L. Campbell,Laura Carrington	10.1109/CLUSTER.2015.73
+Towards Multi-site Metadata Management for Geographically Distributed Cloud Workflows.	Luis Pineda-Morales,Alexandru Costan,Gabriel Antoniu	10.1109/CLUSTER.2015.49
+WattProf: A Flexible Platform for Fine-Grained HPC Power Profiling.	Mohammad J. Rashti,Gerald Sabin,David Vansickle,Boyana Norris	10.1109/CLUSTER.2015.121
+A Performance Comparison of CUDA Remote GPU Virtualization Frameworks.	Carlos Reaño,Federico Silla	10.1109/CLUSTER.2015.76
+InfiniBand Verbs Optimizations for Remote GPU Virtualization.	Carlos Reaño,Federico Silla	10.1109/CLUSTER.2015.139
+Design and Development of Domain Specific Active Libraries with Proxy Applications.	István Zoltan Reguly,Gihan R. Mudalige,Michael B. Giles	10.1109/CLUSTER.2015.128
+Optimizing I/O for Petascale Seismic Simulations on Unstructured Meshes.	Sebastian Rettenberger,Michael Bader	10.1109/CLUSTER.2015.51
+DINO: Divergent Node Cloning for Sustained Redundancy in HPC.	Arash Rezaei,Frank Mueller 0001	10.1109/CLUSTER.2015.36
+Partial Differential Equations Preconditioner Resilient to Soft and Hard Faults.	Francesco Rizzi,Karla Morris,Khachik Sargsyan,Paul Mycek,Cosmin Safta,Olivier P. Le Maître,Omar M. Knio,Bert J. Debusschere	10.1109/CLUSTER.2015.103
+Performance-to-Power Ratio Aware Virtual Machine (VM) Allocation in Energy-Efficient Clouds.	Xiaojun Ruan,Haiquan Chen	10.1109/CLUSTER.2015.46
+Development of MapReduce and MPI Programs for Motif Search.	Mejdl S. Safran,Saad Al-qahtani,Michelle Zhu,Dunren Che	10.1109/CLUSTER.2015.82
+GO-Docker: A Batch Scheduling System with Docker Containers.	Olivier Sallou,Cyril Monjeaud	10.1109/CLUSTER.2015.89
+PLB-HeC: A Profile-Based Load-Balancing Algorithm for Heterogeneous CPU-GPU Clusters.	Luis Sant&apos;Ana,Daniel Cordeiro,Raphael Y. de Camargo	10.1109/CLUSTER.2015.24
+RDMA-Based Direct Transfer of File Data to Remote Page Cache.	Shin Sasaki,Kazushi Takahashi,Yoshihiro Oyama,Osamu Tatebe	10.1109/CLUSTER.2015.40
+Building a Fault Tolerant Application Using the GASPI Communication Layer.	Faisal Shahzad,Moritz Kreutzer,Thomas Zeiser,Rui Machado,Andreas Pieper,Georg Hager,Gerhard Wellein	10.1109/CLUSTER.2015.106
+Real Time Visualization of Monitoring Data for Large Scale HPC Systems.	Michael T. Showerman	10.1109/CLUSTER.2015.122
+Distributed Modular Monitoring (DiMMon) Approach to Supercomputer Monitoring.	Konstantin S. Stefanov,Vladimir V. Voevodin	10.1109/CLUSTER.2015.83
+A Case Study of Optimizing Big Data Analytical Stacks Using Structured Data Shuffling.	Dixin Tang,Taoying Liu,Rubao Lee,Hong Liu 0018,Wei Li 0008	10.1109/CLUSTER.2015.19
+Towards the InfiniBand SR-IOV vSwitch Architecture.	Evangelos Tasoulas,Ernst Gunnar Gran,Bjørn Dag Johnsen,Kyrre M. Begnum,Tor Skeie	10.1109/CLUSTER.2015.58
+Performance of the NVIDIA Jetson TK1 in HPC.	Yash Ukidave,David R. Kaeli,Umesh Gupta,Kurt Keville	10.1109/CLUSTER.2015.147
+LBM-HPC - An Open-Source Tool for Fluid Simulations. Case Study: Unified Parallel C (UPC-PGAS).	Pedro Valero-Lara,Johan Jansson	10.1109/CLUSTER.2015.52
+On the Execution of Computationally Intensive CPU-Based Libraries on Remote Accelerators for Increasing Performance: Early Experience with the OpenBLAS and FFTW Libraries.	Santiago Mislata Valero,Federico Silla	10.1109/CLUSTER.2015.111
+Enabling Tractable Exploration of the Performance of Adaptive Mesh Refinement.	Courtenay T. Vaughan,Richard F. Barrett	10.1109/CLUSTER.2015.129
+Fault-Tolerant Routing for Exascale Supercomputer: The BXI Routing Architecture.	Pierre Vignéras,Jean-Noël Quintin	10.1109/CLUSTER.2015.135
+Large Scale Frequent Pattern Mining Using MPI One-Sided Model.	Abhinav Vishnu,Khushbu Agarwal	10.1109/CLUSTER.2015.30
+Fast and Accurate Support Vector Machines on Large Scale Systems.	Abhinav Vishnu,Jeyanthi Narasimhan,Lawrence Holder,Darren J. Kerbyson,Adolfy Hoisie	10.1109/CLUSTER.2015.26
+Comparison of Vendor Supplied Environmental Data Collection Mechanisms.	Sean Wallace,Venkatram Vishwanath,Susan Coghlan,Zhiling Lan,Michael E. Papka	10.1109/CLUSTER.2015.120
+Overcoming Hadoop Scaling Limitations through Distributed Task Execution.	Ke Wang 0012,Ning Liu 0008,Iman Sadooghi,Xi Yang 0002,Xiaobing Zhou,Tonglin Li,Michael Lang 0003,Xian-He Sun,Ioan Raicu	10.1109/CLUSTER.2015.42
+TRIO: Burst Buffer Based I/O Orchestration.	Teng Wang 0001,Sarp Oral,Michael Pritchard,Bin Wang 0019,Weikuan Yu	10.1109/CLUSTER.2015.38
+Minimizing Data Transmission Latency by Bipartite Graph in MapReduce.	Jie Wei,Shangguang Wang,Lingyan Zhang,Ao Zhou 0001,Qibo Sun,Ruisheng Shi,Fangchun Yang	10.1109/CLUSTER.2015.93
+Scaling Data Intensive Physics Applications to 10k Cores on Non-dedicated Clusters with Lobster.	Anna Woodard,Matthias Wolf 0003,Charles Mueller,Nil Valls,Ben Tovar,Patrick Donnelly,Peter Ivie,Kenyi Hurtado Anampa,Paul R. Brenner,Douglas Thain,Kevin Lannon,Michael D. Hildreth	10.1109/CLUSTER.2015.53
+Toward Interlanguage Parallel Scripting for Distributed-Memory Scientific Computing.	Justin M. Wozniak,Timothy G. Armstrong,Ketan C. Maheshwari,Daniel S. Katz,Michael Wilde,Ian T. Foster	10.1109/CLUSTER.2015.74
+A Cache Management Scheme for Hiding Garbage Collection Latency in Flash-Based Solid State Drives.	Wei Xie,Yong Chen 0001	10.1109/CLUSTER.2015.75
+An SSD-HDD Integrated Storage Architecture for Write-Once-Read-Once Applications on Clusters.	Cailiang Xu,Wei Wang 0079,Deng Zhou,Tao Xie 0004	10.1109/CLUSTER.2015.20
+MPC: A Massively Parallel Compression Algorithm for Scientific Data.	Annie Yang,Hari Mukka,Farbod Hesaaraki,Martin Burtscher	10.1109/CLUSTER.2015.59
+Pallas: An Application-Driven Task and Network Simulation Framework.	Yuming Ye,Ziyang Li,Dongsheng Li 0001,Yiming Zhang 0003,Feng Liu,Yuxing Peng 0001	10.1109/CLUSTER.2015.97
+Efficient Queuing Schemes for HoL-Blocking Reduction in Dragonfly Topologies with Minimal-Path Routing.	Pedro Yébenes,Jesús Escudero-Sahuquillo,Pedro Javier García,Francisco J. Quiles 0001	10.1109/CLUSTER.2015.138
+Taming Non-local Stragglers Using Efficient Prefetching in MapReduce.	Ze Yu,Min Li 0012,Xin Yang 0006,Han Zhao 0001,Xiaolin Li 0001	10.1109/CLUSTER.2015.16
+Accelerating Laue Depth Reconstruction Algorithm with CUDA.	Ke Yue,Nicholas Schwarz,Jonathan Z. Tischler	10.1109/CLUSTER.2015.78
+SlimUpdate: Minimal Routing Update for Performance-Based Reconfigurations in Fat-Trees.	Feroz Zahid,Ernst Gunnar Gran,Bartosz Bogdanski,Bjørn Dag Johnsen,Tor Skeie	10.1109/CLUSTER.2015.142
+Workload-Aware Resource Reservation for Multi-tenant NoSQL.	Jiaan Zeng,Beth Plale	10.1109/CLUSTER.2015.14
+Towards Building a Lightweight Key-Value Store on Parallel File System.	Jiaan Zeng,Beth Plale	10.1109/CLUSTER.2015.100
+Parallel Modularity-Based Community Detection on Large-Scale Graphs.	Jianping Zeng 0003,Hongfeng Yu 0001	10.1109/CLUSTER.2015.11
+Exploring Memory Hierarchy to Improve Scientific Data Read Performance.	Wenzhao Zhang,Houjun Tang,Xiaocheng Zou,Steve Harenberg,Qing Liu 0002,Scott Klasky,Nagiza F. Samatova	10.1109/CLUSTER.2015.18
+Can Cloud Service Get His Family? A Step Towards Service Family Detecting.	Xinkui Zhao,Jianwei Yin,Chen Zhi,Pengxiang Lin,Zuoning Chen	10.1109/CLUSTER.2015.80
+monBench: A Database Performance Benchmark for Cloud Monitoring System.	Xinkui Zhao,Jianwei Yin,Chen Zhi,Pengxiang Lin,Shichun Feng,Hao Wu,Zuoning Chen	10.1109/CLUSTER.2015.94
+I/O-Aware Batch Scheduling for Petascale Computing Systems.	Zhou Zhou,Xu Yang 0009,Dongfang Zhao 0001,Paul Rich,Wei Tang 0001,Jia Wang,Zhiling Lan	10.1109/CLUSTER.2015.45
+2015 IEEE International Conference on Cluster Computing, CLUSTER 2015, Chicago, IL, USA, September 8-11, 2015		

@@ -1,0 +1,31 @@
+Fast Training of Deep Learning Models over Multiple GPUs.	Xiaodong Yi 0001,Ziyue Luo,Chen Meng,Mengdi Wang,Guoping Long,Chuan Wu 0001,Jun Yang,Wei Lin 0016	10.1145/3423211.3425675
+Practical Active Revocation.	Stefan Contiu,Laurent Réveillère,Etienne Rivière	10.1145/3423211.3425667
+FLeet: Online Federated Learning via Staleness Awareness and Performance Prediction.	Georgios Damaskinos,Rachid Guerraoui,Anne-Marie Kermarrec,Vlad Nitu,Rhicheek Patra,François Taïani	10.1145/3423211.3425685
+Xanadu: Mitigating cascading cold starts in serverless function chain deployments.	Nilanjan Daw,Umesh Bellur,Purushottam Kulkarni	10.1145/3423211.3425690
+Poseidon: Safe, Fast and Scalable Persistent Memory Allocator.	Anthony Demeri,Wook-Hee Kim,Madhava Krishnan Ramanathan,Jaeho Kim,Mohannad Ismail,Changwoo Min	10.1145/3423211.3425671
+Resilient Cloud-based Replication with Low Latency.	Michael Eischer,Tobias Distler	10.1145/3423211.3425689
+Sledge: a Serverless-first, Light-weight Wasm Runtime for the Edge.	Phani Kishore Gadepalli,Sean McBride,Gregor Peach,Ludmila Cherkasova,Gabriel Parmer	10.1145/3423211.3425680
+FeGAN: Scaling Distributed GANs.	Rachid Guerraoui,Arsany Guirguis,Anne-Marie Kermarrec,Erwan Le Merrer	10.1145/3423211.3425688
+Fifer: Tackling Resource Underutilization in the Serverless Era.	Jashwant Raj Gunasekaran,Prashanth Thinakaran,Nachiappan Chidambaram Nachiappan,Mahmut Taylan Kandemir,Chita R. Das	10.1145/3423211.3425683
+SplitServe: Efficiently Splitting Apache Spark Jobs Across FaaS and IaaS.	Aman Jain,Ata F. Baarzi,George Kesidis,Bhuvan Urgaonkar,Nader Alfares,Mahmut T. Kandemir	10.1145/3423211.3425695
+WASP: Wide-area Adaptive Stream Processing.	Albert Jonathan,Abhishek Chandra,Jon B. Weissman	10.1145/3423211.3425668
+BoLT: Barrier-optimized LSM-Tree.	Dongui Kim,Chanyeol Park,Sang-Won Lee 0001,Beomseok Nam	10.1145/3423211.3425676
+TEEMon: A continuous performance monitoring framework for TEEs.	Robert Krahn,Donald Dragoti,Franz Gregor,Do Le Quoc,Valerio Schiavoni,Pascal Felber,Clenimar Souza,Andrey Brito,Christof Fetzer	10.1145/3423211.3425677
+PASTRAMI: Privacy-preserving, Auditable, Scalable &amp; Trustworthy Auctions for Multiple Items.	Michal Król,Alberto Sonnino,Argyrios G. Tasiopoulos,Ioannis Psaras,Etienne Rivière	10.1145/3423211.3425669
+Consistent and Secure Network Updates Made Practical.	James Lembke,Srivatsan Ravi,Pierre-Louis Roman,Patrick Eugster	10.1145/3423211.3425694
+Improving the Restore Performance via Physical-Locality Middleware for Backup Systems.	Pengfei Li,Yu Hua 0001,Qin Cao,Mingxuan Zhang	10.1145/3423211.3425691
+Cost-Effective Data Feeds to Blockchains via Workload-Adaptive Data Replication.	Kai Li 0017,Yuzhe Richard Tang,Jiaqi Chen,Zhehu Yuan,Cheng Xu 0004,Jianliang Xu	10.1145/3423211.3425696
+Regaining Lost Seconds: Efficient Page Preloading for SGX Enclaves.	Ximing Liu,Wenwen Wang 0001,Lizhi Wang,Xiaoli Gong,Ziyi Zhao,Pen-Chung Yew	10.1145/3423211.3425673
+An OpenMP Runtime for Transparent Work Sharing Across Cache-Incoherent Heterogeneous Nodes.	Robert Lyerly,Changwoo Min,Christopher J. Rossbach,Binoy Ravindran	10.1145/3423211.3425679
+A practical approach for updating an integrity-enforced operating system.	Wojciech Ozga,Do Le Quoc,Christof Fetzer	10.1145/3423211.3425674
+secureTF: A Secure TensorFlow Framework.	Do Le Quoc,Franz Gregor,Sergei Arnautov,Roland Kunkel,Pramod Bhatotia,Christof Fetzer	10.1145/3423211.3425687
+PipeTune: Pipeline Parallelism of Hyper and System Parameters Tuning for Deep Learning Clusters.	Isabelly Rocha,Nathaniel Morris,Lydia Y. Chen,Pascal Felber,Robert Birke,Valerio Schiavoni	10.1145/3423211.3425692
+On Delivery Guarantees in Distributed Content-Based Publish/Subscribe Systems.	Pooya Salehi,Kaiwen Zhang 0001,Hans-Arno Jacobsen	10.1145/3423211.3426400
+Prebaking Functions to Warm the Serverless Cold Start.	Paulo Silva,Daniel Fireman,Thiago Emmanuel Pereira	10.1145/3423211.3425682
+MATCH: A Decentralized Middleware for Fair Matchmaking In Peer-to-Peer Markets.	Martijn de Vos,Georgy Ishmaev,Johan Pouwelse	10.1145/3423211.3425678
+SR3: Customizable Recovery for Stateful Stream Processing Systems.	Hailu Xu,Pinchao Liu,Susana Cruz-Diaz,Dilma Da Silva,Liting Hu	10.1145/3423211.3425681
+Coral-Pie: A Geo-Distributed Edge-compute Solution for Space-Time Vehicle Tracking.	Zhuangdi Xu,Harshil S. Shah,Umakishore Ramachandran	10.1145/3423211.3425686
+Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters.	Donglin Yang,Wei Rang,Dazhao Cheng	10.1145/3423211.3425693
+JellyFish: A Fast Skip List with MVCC.	Jeseong Yeon,Leeju Kim,Youil Han,Hyeon Gyu Lee,Eunji Lee,Bryan S. Kim	10.1145/3423211.3425672
+DoubleFaceAD: A New Datastore Driver Architecture to Optimize Fanout Query Performance.	Shungeng Zhang,Qingyang Wang 0001,Yasuhiko Kanemasa,Jianshu Liu,Calton Pu	10.1145/3423211.3425684
+Middleware &apos;20: 21st International Middleware Conference, Delft, The Netherlands, December 7-11, 2020	Dilma Da Silva,Rüdiger Kapitza	10.1145/3423211

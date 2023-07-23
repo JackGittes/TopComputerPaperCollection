@@ -1,0 +1,32 @@
+Resilient decentralized Android application repackaging detection using logic bombs.	Qiang Zeng 0001,Lannan Luo,Zhiyun Qian,Xiaojiang Du,Zhoujun Li 0001	10.1145/3168820
+Scalable concurrency debugging with distributed graph processing.	Long Zheng 0003,Xiaofei Liao,Hai Jin 0001,Jieshan Zhao,Qinggang Wang	10.1145/3168817
+Optimal DNN primitive selection with partitioned boolean quadratic programming.	Andrew Anderson 0001,David Gregg	10.1145/3168805
+Automating efficient variable-grained resiliency for low-power IoT systems.	Sara S. Baghsorkhi,Christos Margiolas	10.1145/3168816
+AutoPA: automatically generating active driver from original passive driver code.	Jia-Ju Bai,Yu-Ping Wang 0001,Shi-Min Hu 0001	10.1145/3168809
+The generalized matrix chain algorithm.	Henrik Barthels,Marcin Copik,Paolo Bientinesi	10.1145/3168804
+SGXElide: enabling enclave code secrecy via self-modification.	Erick Bauman,Huibo Wang,Mingwei Zhang 0005,Zhiqiang Lin	10.1145/3168833
+Synthesizing an instruction selection rule library from semantic specifications.	Sebastian Buchwald,Andreas Fried,Sebastian Hack	10.1145/3168821
+Register allocation for Intel processor graphics.	Wei-Yu Chen,Guei-Yuan Lueh,Pratik Ashar,Kaiyu Chen,Buqi Cheng	10.1145/3168806
+CollectionSwitch: a framework for efficient and dynamic collection selection.	Diego Costa 0001,Artur Andrzejak 0001	10.1145/3168825
+A compiler for cyber-physical digital microfluidic biochips.	Christopher Curtis,Daniel T. Grissom,Philip Brisk	10.1145/3168826
+Transforming loop chains via macro dataflow graphs.	Eddie C. Davis,Michelle Mills Strout,Catherine Olschanowsky	10.1145/3168832
+Biological computation (keynote).	Sara-Jane Dunn	10.1145/3179541.3179542
+nAdroid: statically detecting ordering violations in Android applications.	Xinwei Fu,Dongyoon Lee,Changhee Jung	10.1145/3168829
+High performance stencil code generation with lift.	Bastian Hagedorn,Larisa Stoltzfus,Michel Steuwer,Sergei Gorlatch,Christophe Dubach	10.1145/3168824
+Conflict-free vectorization of associative irregular applications with recent SIMD architectural advances.	Peng Jiang 0004,Gagan Agrawal	10.1145/3168827
+DeLICM: scalar dependence removal at zero memory cost.	Michael Kruse,Tobias Grosser	10.1145/3168815
+Dominance-based duplication simulation (DBDS): code duplication to enable compiler optimizations.	David Leopoldseder,Lukas Stadler,Thomas Würthinger,Josef Eisl,Doug Simon,Hanspeter Mössenböck	10.1145/3168811
+Local memory-aware kernel perforation.	Daniel Maier,Biagio Cosenza,Ben H. H. Juurlink	10.1145/3168814
+Look-ahead SLP: auto-vectorization in the presence of commutative operations.	Vasileios Porpodas,Rodrigo C. O. Rocha,Luís F. W. Góes	10.1145/3168807
+Analyzing and optimizing task granularity on the JVM.	Andrea Rosà,Eduardo Rosales 0001,Walter Binder	10.1145/3168828
+Lightweight detection of cache conflicts.	Probir Roy,Shuaiwen Leon Song,Sriram Krishnamoorthy,Xu Liu 0001	10.1145/3168819
+CUDAAdvisor: LLVM-based runtime profiling for modern GPUs.	Du Shen,Shuaiwen Leon Song,Ang Li 0006,Xu Liu 0001	10.1145/3168831
+Loop transformations leveraging hardware prefetching.	Savvas Sioutas,Sander Stuijk,Henk Corporaal,Twan Basten,Lou J. Somers	10.1145/3168823
+Qubit allocation.	Marcos Yukio Siraichi,Vinícius Fernandes dos Santos,Caroline Collange,Fernando Magno Quintão Pereira	10.1145/3168822
+Program generation for small-scale linear algebra applications.	Daniele G. Spampinato,Diego Fabregat-Traver,Paolo Bientinesi,Markus Püschel	10.1145/3168812
+SIMD intrinsics on managed language runtimes.	Alen Stojanov,Ivaylo Toskov,Tiark Rompf,Markus Püschel	10.1145/3168810
+Synthesizing programs that expose performance bottlenecks.	Luca Della Toffola,Michael Pradel,Thomas R. Gross	10.1145/3168830
+CVR: efficient vectorization of SpMV on x86 processors.	Biwei Xie,Jianfeng Zhan,Xu Liu 0001,Wanling Gao,Zhen Jia 0001,Xiwen He,Lixin Zhang 0002	10.1145/3168818
+Poker: permutation-based SIMD execution of intensive tree search by path encoding.	Feng Zhang 0026,Jingling Xue	10.1145/3168808
+May-happen-in-parallel analysis with static vector clocks.	Qing Zhou,Lian Li 0002,Lei Wang 0004,Jingling Xue,Xiaobing Feng 0002	10.1145/3168813
+Proceedings of the 2018 International Symposium on Code Generation and Optimization, CGO 2018, Vösendorf / Vienna, Austria, February 24-28, 2018	Jens Knoop,Markus Schordan,Teresa Johnson,Michael F. P. O&apos;Boyle	10.1145/3179541

@@ -1,0 +1,58 @@
+WiSync: An Architecture for Fast Synchronization through On-Chip Wireless Communication.	Sergi Abadal,Albert Cabellos-Aparicio,Eduard Alarcón,Josep Torrellas	10.1145/2872362.2872396
+CoGENT: Verifying High-Assurance File System Implementations.	Sidney Amani,Alex Hixon,Zilin Chen,Christine Rizkallah,Peter Chubb,Liam O&apos;Connor,Joel Beeren,Yutaka Nagashima,Japheth Lim,Thomas Sewell,Joseph Tuong,Gabriele Keller,Toby C. Murray,Gerwin Klein,Gernot Heiser	10.1145/2872362.2872404
+RAPID Programming of Pattern-Recognition Processors.	Kevin Angstadt,Westley Weimer,Kevin Skadron	10.1145/2872362.2872393
+M3: A Hardware/Operating-System Co-Design to Tame Heterogeneous Manycores.	Nils Asmussen,Marcus Völp,Benedikt Nöthen,Hermann Härtig,Gerhard P. Fettweis	10.1145/2872362.2872371
+Silent Shredder: Zero-Cost Shredding for Secure Non-Volatile Main Memory Controllers.	Amro Awad,Pratyusa K. Manadhata,Stuart Haber,Yan Solihin,William G. Horne	10.1145/2872362.2872377
+ANVIL: Software-Based Protection Against Next-Generation Rowhammer Attacks.	Zelalem Birhanu Aweke,Salessawi Ferede Yitbarek,Rui Qiao 0002,Reetuparna Das,Matthew Hicks,Yossi Oren,Todd M. Austin	10.1145/2872362.2872390
+OpenPiton: An Open Source Manycore Research Framework.	Jonathan Balkind,Michael McKeown,Yaosheng Fu,Tri Minh Nguyen 0003,Yanqi Zhou,Alexey Lavrov,Mohammad Shahrad,Adi Fuchs,Samuel Payne,Xiaohua Liang,Matthew Matl,David Wentzlaff	10.1145/2872362.2872414
+Specifying and Checking File System Crash-Consistency Models.	James Bornholt,Antoine Kaufmann,Jialin Li 0001,Arvind Krishnamurthy,Emina Torlak,Xi Wang 0005	10.1145/2872362.2872406
+A DNA-Based Archival Storage System.	James Bornholt,Randolph Lopez,Douglas M. Carmean,Luis Ceze,Georg Seelig,Karin Strauss	10.1145/2872362.2872397
+How to Build Static Checking Systems Using Orders of Magnitude Less Code.	Fraser Brown,Andres Nötzli,Dawson R. Engler	10.1145/2872362.2872364
+DySel: Lightweight Dynamic Selection for Kernel-based Data-parallel Programming Model.	Li-Wen Chang,Hee-Seok Kim,Wen-mei W. Hwu	10.1145/2872362.2872373
+Baymax: QoS Awareness and Increased Utilization for Non-Preemptive Accelerators in Warehouse Scale Computers.	Quan Chen 0002,Hailong Yang,Jason Mars,Lingjia Tang	10.1145/2872362.2872368
+An Energy-interference-free Hardware-Software Debugger for Intermittent Energy-harvesting Systems.	Alexei Colin,Graham Harvey,Brandon Lucia,Alanson P. Sample	10.1145/2872362.2872409
+HCloud: Resource-Efficient Provisioning in Shared Cloud Systems.	Christina Delimitrou,Christos Kozyrakis	10.1145/2872362.2872365
+ProteusTM: Abstraction Meets Performance in Transactional Memory.	Diego Didona,Nuno Diegues,Anne-Marie Kermarrec,Rachid Guerraoui,Ricardo Neves,Paolo Romano 0002	10.1145/2872362.2872385
+The Computational Sprinting Game.	Songchun Fan,Seyed Majid Zahedi,Benjamin C. Lee	10.1145/2872362.2872383
+CASPAR: Breaking Serialization in Lock-Free Multicore Synchronization.	Tanmay Gangwani,Adam Morrison 0001,Josep Torrellas	10.1145/2872362.2872400
+High-Density Image Storage Using Approximate Memory Cells.	Qing Guo,Karin Strauss,Luis Ceze,Henrique S. Malvar	10.1145/2872362.2872413
+SpaceJMP: Programming with Multiple Virtual Address Spaces.	Izzat El Hajj,Alexander Merritt,Gerd Zellweger,Dejan S. Milojicic,Reto Achermann,Paolo Faraboschi,Wen-mei W. Hwu,Timothy Roscoe,Karsten Schwan	10.1145/2872362.2872366
+Interference Management for Distributed Parallel Applications in Consolidated Clusters.	Jaeung Han,Seungheun Jeon,Young-ri Choi,Jaehyuk Huh	10.1145/2872362.2872388
+Lifting Assembly to Intermediate Representation: A Novel Approach Leveraging Compilers.	Niranjan Hasabnis,R. Sekar 0001	10.1145/2872362.2872380
+Failure-Atomic Persistent Memory Updates via JUSTDO Logging.	Joseph Izraelevitz,Terence Kelly,Aasheesh Kolli	10.1145/2872362.2872410
+TPC: Target-Driven Parallelism Combining Prediction and Correction to Reduce Tail Latency in Interactive Services.	Myeongjae Jeon,Yuxiong He,Hwanju Kim,Sameh Elnikety,Scott Rixner,Alan L. Cox	10.1145/2872362.2872370
+High Performance Packet Processing with FlexNIC.	Antoine Kaufmann,Simon Peter 0001,Naveen Kr. Sharma,Thomas E. Anderson,Arvind Krishnamurthy	10.1145/2872362.2872367
+NVWAL: Exploiting NVRAM in Write-Ahead Logging.	Wook-Hee Kim,Jinwoong Kim,Woongki Baek,Beomseok Nam,Youjip Won	10.1145/2872362.2872392
+High-Performance Transactions for Persistent Memories.	Aasheesh Kolli,Steven Pelley,Ali G. Saidi,Peter M. Chen,Thomas F. Wenisch	10.1145/2872362.2872381
+Paravirtual Remote I/O.	Yossi Kuperman,Eyal Moscovici,Joel Nider,Razya Ladelsky,Abel Gordon,Dan Tsafrir	10.1145/2872362.2872378
+Sego: Pervasive Trusted Metadata for Efficiently Verified Untrusted System Services.	Youngjin Kwon,Alan M. Dunn,Michael Z. Lee,Owen S. Hofmann,Yuanzhong Xu,Emmett Witchel	10.1145/2872362.2872372
+LDX: Causality Inference by Lightweight Dual Execution.	Yonghwi Kwon 0001,Dohyeong Kim,William N. Sumner,Kyungtae Kim,Brendan Saltaformaggio,Xiangyu Zhang 0001,Dongyan Xu	10.1145/2872362.2872395
+TaxDC: A Taxonomy of Non-Deterministic Concurrency Bugs in Datacenter Distributed Systems.	Tanakorn Leesatapornwongsa,Jeffrey F. Lukman,Shan Lu 0001,Haryadi S. Gunawi	10.1145/2872362.2872374
+Sidewinder: An Energy Efficient and Developer Friendly Heterogeneous Architecture for Continuous Mobile Sensing.	Daniyal Liaqat,Silviu Jingoi,Eyal de Lara,Ashvin Goel,Wilson To,Kevin Lee,Italo De Moraes Garcia,Manuel Saldaña	10.1145/2872362.2872398
+Scalable Kernel TCP Design and Implementation for Short-Lived Connections.	Xiaofeng Lin,Yu Chen 0004,Xiaodong Li,Junjie Mao,Jiaquan He,Wei Xu,Yuanchun Shi	10.1145/2872362.2872391
+memif: Towards Programming Heterogeneous Memory Asynchronously.	Felix Xiaozhu Lin,Xu Liu 0001	10.1145/2872362.2872401
+COATCheck: Verifying Memory Ordering at the Hardware-OS Interface.	Daniel Lustig,Geet Sethi,Margaret Martonosi,Abhishek Bhattacharjee	10.1145/2872362.2872399
+Taurus: A Holistic Language Runtime System for Coordinating Distributed Managed-Language Applications.	Martin Maas 0001,Krste Asanovic,Tim Harris 0001,John Kubiatowicz	10.1145/2872362.2872386
+RID: Finding Reference Count Bugs with Inconsistent Path Pair Checking.	Junjie Mao,Yu Chen 0004,Qixue Xiao,Yuanchun Shi	10.1145/2872362.2872389
+True IOMMU Protection from DMA Attacks: When Copy is Faster than Zero Copy.	Alex Markuze,Adam Morrison 0001,Dan Tsafrir	10.1145/2872362.2872379
+Programming Uncertain &lt;T&gt;jhings.	Kathryn S. McKinley	10.1145/2872362.2872416
+Whirlpool: Improving Dynamic Cache Management with Static Data Classification.	Anurag Mukkara,Nathan Beckmann,Daniel Sánchez 0003	10.1145/2872362.2872363
+Architecture-Adaptive Code Variant Tuning.	Saurav Muralidharan,Amit Roy,Mary W. Hall,Michael Garland,Piyush Rai	10.1145/2872362.2872411
+Analyzing Behavior Specialized Acceleration.	Tony Nowatzki,Karthikeyan Sankaralingam	10.1145/2872362.2872412
+AxGames: Towards Crowdsourcing Quality Target Determination in Approximate Computing.	Jongse Park,Emmanuel Amaro,Divya Mahajan 0001,Bradley Thwaites,Hadi Esmaeilzadeh	10.1145/2872362.2872376
+Scaling up Superoptimization.	Phitchaya Mangpo Phothilimthana,Aditya Thakur 0001,Rastislav Bodík,Dinakar Dhurjati	10.1145/2872362.2872387
+Generating Configurable Hardware from Parallel Patterns.	Raghu Prabhakar,David Koeplinger,Kevin J. Brown,HyoukJoong Lee,Christopher De Sa,Christos Kozyrakis,Kunle Olukotun	10.1145/2872362.2872415
+Prudent Memory Reclamation in Procrastination-Based Synchronization.	Aravinda Prasad,K. Gopinath	10.1145/2872362.2872405
+CSR: Core Surprise Removal in Commodity Operating Systems.	Noam Shalev,Eran Harpaz,Hagar Porat,Idit Keidar,Yaron Weinsberg	10.1145/2872362.2872369
+Proactive Control of Approximate Programs.	Xin Sui,Andrew Lenharth,Donald S. Fussell,Keshav Pingali	10.1145/2872362.2872402
+Synopsis of the ASPLOS &apos;16 Wild and Crazy Ideas (WACI) Invited-Speakers Session.	Dan Tsafrir	10.1145/2872362.2876512
+HIPStR: Heterogeneous-ISA Program State Relocation.	Ashish Venkat,Sriskanda Shamasunder,Hovav Shacham,Dean M. Tullsen	10.1145/2872362.2872408
+ReBudget: Trading Off Efficiency vs. Fairness in Market-Based Multicore Resource Allocation via Runtime Budget Reassignment.	Xiaodong Wang,José F. Martínez	10.1145/2872362.2872382
+Brain Inspired Computing.	R. Stanley Williams	10.1145/2872362.2872417
+Programmer Productivity in a World of Mushy Interfaces: Challenges of the Post-ISA Reality.	Emmett Witchel	10.1145/2872362.2876511
+PIFT: Predictive Information-Flow Tracking.	Man-Ki Yoon,Negin Salajegheh,Yin Chen 0002,Mihai Christodorescu	10.1145/2872362.2872403
+CloudSeer: Workflow Monitoring of Cloud Infrastructures via Interleaved Logs.	Xiao Yu,Pallavi Joshi,Jianwu Xu,Guoliang Jin,Hui Zhang 0002,Guofei Jiang	10.1145/2872362.2872407
+Maximizing Performance Under a Power Cap: A Comparison of Hardware, Software, and Hybrid Techniques.	Huazhe Zhang,Henry Hoffmann	10.1145/2872362.2872375
+TxRace: Efficient Data Race Detection Using Commodity Hardware Transactional Memory.	Tong Zhang,Dongyoon Lee,Changhee Jung	10.1145/2872362.2872384
+Dirigent: Enforcing QoS for Latency-Critical Tasks on Shared Multicore Systems.	Haishan Zhu,Mattan Erez	10.1145/2872362.2872394
+Proceedings of the Twenty-First International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2016, Atlanta, GA, USA, April 2-6, 2016	Tom Conte 0001,Yuanyuan Zhou	10.1145/2872362

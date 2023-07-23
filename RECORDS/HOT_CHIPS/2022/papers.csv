@@ -1,0 +1,42 @@
+A Massive-Scale Brain Activity Decoding Chip.	Ameer Abdelhadi,Eugene Sha,Andreas Moshovos	10.1109/HCS55958.2022.9895603
+The Groq Software-defined Scale-out Tensor Streaming Multiprocessor : From chips-to-systems architectural overview.	Dennis Abts,John Kim,Garrin Kimmell,Matthew Boyd,Kris Kang,Sahil Parmar,Andrew C. Ling,Andrew Bitar,Ibrahim Ahmed 0007,Jonathan Ross	10.1109/HCS55958.2022.9895630
+Untether Ai : Boqueria.	Robert Beachler,Martin Snelgrove	10.1109/HCS55958.2022.9895618
+HALO: A Flexible and Low Power Processing Fabric for Brain-Computer Interfaces.	Abhishek Bhattacharjee,Rajit Manohar	10.1109/HCS55958.2022.9895612
+DOJO: Super-Compute System Scaling for ML Training.	Bill Chang,Rajiv Kurian,Doug Williams,Eric Quinnell	10.1109/HCS55958.2022.9895625
+Nvidia Hopper GPU: Scaling Performance.	Jack Choquette	10.1109/HCS55958.2022.9895592
+From High-Level Frameworks to custom Silicon with SODA.	Serena Curzel,Nicolas Bohm Agostini,Reece Neff,Ankur Limaye,Jeff Jun Zhang,Vinay Amatya,Marco Minutoli,Vito Giovanni Castellana,Joseph B. Manzano,David Brooks 0001,Gu-Yeon Wei,Fabrizio Ferrandi,Antonino Tumeo	10.1109/HCS55958.2022.9895593
+AMD 400G Adaptive SmartNIC SoC: Technology preview.	Jaideep Dastidar,David Riddoch,Jason Moore,Steve Pope,Jim Wesselkamper	10.1109/HCS55958.2022.9895577
+NVIDIA ORIN System-On-Chip.	Michael Ditty	10.1109/HCS55958.2022.9895609
+Nvidia Grace.	Jonathon Evans	10.1109/HCS55958.2022.9895599
+Amber: Coarse-Grained Reconfigurable Array-Based SoC for Dense Linear Algebra Acceleration.	Kathleen Feng,Alex Carsello,Taeyoung Kong,Kalhan Koul,Qiaoyi Liu,Jackson Melchert,Gedeon Nyengele,Maxwell Strange,Keyi Zhang,Ankita Nayak,Jeff Setter,James Thomas 0003,Kavya Sreedhar,Po-Han Chen,Nikhil Bhagdikar,Zachary Myers,Brandon D&apos;Agostino,Pranil Joshi,Stephen Richardson,Rick Bahr,Christopher Torng,Mark Horowitz,Priyanka Raina	10.1109/HCS55958.2022.9895616
+Semiconductors Run the World : Hot Chips 2022.	Pat Gelsinger	10.1109/HCS55958.2022.9895614
+AMD Ryzen™ 6000 Series for Mobile : Technology Overview.	Jim Gibney	10.1109/HCS55958.2022.9895632
+Meteor Lake and Arrow Lake Intel Next-Gen 3D Client Architecture Platform with Foveros.	Wilfred Gomes,Slade Morgan,Boyd Phelps,Tim Wilson,Erik Hallnor	10.1109/HCS55958.2022.9895532
+Arm Morello Evaluation Platform -Validating CHERI-based Security in a High-performance System.	Richard Grisenthwaite	10.1109/HCS55958.2022.9895591
+HNPU-V2: A 46.6 FPS DNN Training Processor for Real-World Environmental Adaptation based Robust Object Detection on Mobile Devices.	Donghyeon Han,Dongseok Im,Gwangtae Park,Youngwoo Kim,Seokchan Song,Juhyoung Lee,Hoi-Jun Yoo	10.1109/HCS55958.2022.9895624
+DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation.	Seongmin Hong,Seungjae Moon,Junsoo Kim,Sungjae Lee,Minsub Kim,Dongsoo Lee,Joo-Young Kim 0001	10.1109/HCS55958.2022.9895626
+壁仞™ BR100 GPGPU: Accelerating Datacenter Scale AI Computing.	Mike Hong,Lingjie Xu	10.1109/HCS55958.2022.9895604
+A 13.7μJ/prediction 88% Accuracy CIFAR-10 Single-Chip Wired-logic Processor in 16-nm FPGA using Non-Linear Neural Network.	Yao-Chung Hsu,Atsutake Kosuge,Rei Sumikawa,Kota Shiba,Mototsugu Hamada,Tadahiro Kuroda	10.1109/HCS55958.2022.9895600
+DSPU: A 281.6mW Real-Time Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3D Perception System-on-Chip.	Dongseok Im,Gwangtae Park,Zhiyong Li,Junha Ryu,Sanghoon Kang,Donghyeon Han,Jinsu Lee,Wonhoon Park,Hankyul Kwon,Hoi-Jun Yoo	10.1109/HCS55958.2022.9895605
+The Nvlink-Network Switch: Nvidia&apos;s Switch Chip for High Communication-Bandwidth Superpods.	Alexander Ishii,Ryan Wells	10.1109/HCS55958.2022.9895480
+Vision Perception Unit: Next-Generation Smart CMOS Image Sensor.	Wenqi Ji,Yuxing Han,Jiangtao Wen,Yubin Hu 0001,Futang Wang,Yuze He,Xi Li,Jun Zhang	10.1109/HCS55958.2022.9895628
+Intel&apos;s Ponte Vecchio GPU : Architecture, Systems &amp; Software.	Hong Jiang	10.1109/HCS55958.2022.9895631
+Trinity: End-to-End In-Database Near-Data Machine Learning Acceleration Platform for Advanced Data Analytics.	Ji-Hoon Kim,Seunghee Han,Kwanghyun Park 0001,Soo-Young Ji,Joo-Young Kim 0001	10.1109/HCS55958.2022.9895601
+Neuro-CIM: A 310.4 TOPS/W Neuromorphic Computing-in-Memory Processor with Low WL/BL activity and Digital-Analog Mixed-mode Neuron Firing.	Sangyeob Kim,Sangjin Kim,Soyeon Um,Soyeon Kim,Kwantae Kim,Hoi-Jun Yoo	10.1109/HCS55958.2022.9895498
+LightTrader : World&apos;s first AI-enabled High-Frequency Trading Solution with 16 TFLOPS / 64 TOPS Deep Learning Inference Accelerators.	Hyunsung Kim,Sungyeob Yoo,Jaewan Bae,Kyeongryeol Bong,Yoonho Boo,Karim Charfi,Hyo-Eun Kim,Hyun Suk Kim,Jinseok Kim,Byungjae Lee,Jaehwan Lee,Myeongbo Shim,Sungho Shin,Jeong Seok Woo,Joo-Young Kim 0001,Sunghyun Park,Jinwook Oh	10.1109/HCS55958.2022.9895619
+Large-scale Graph Neural Network Services through Computational SSD and In-Storage Processing Architectures.	Miryeong Kwon,Donghyun Gouk,Sangwon Lee,Myoungsoo Jung	10.1109/HCS55958.2022.9895623
+System Architecture and Software Stack for GDDR6-AiM.	Yongkee Kwon,Kornijcuk Vladimir,Nahsung Kim,Woojae Shin,Jongsoon Won,Minkyu Lee,Hyunha Joo,Haerang Choi,Guhyun Kim,Byeongju An,Jeongbin Kim 0001,Jaewook Lee,Ilkon Kim,Jaehan Park,Chanwook Park,Yosub Song,Byeongsu Yang,Hyungdeok Lee,Seho Kim,Daehan Kwon,Seong Ju Lee,Kyuyoung Kim,Sanghoon Oh,Joonhong Park,Gimoon Hong,Dongyoon Ka,Kyudong Hwang,Jeongje Park,Kyeong Pil Kang,Jungyeon Kim,Junyeol Jeon,Myeongjun Lee,Minyoung Shin,Minhwan Shin,Jaekyung Cha,Changson Jung,Kijoon Chang,Chunseok Jeong,Euicheol Lim,Il Park 0001,Junhyun Chun	10.1109/HCS55958.2022.9895629
+An Efficient High-quality FHD Super-resolution Mobile Accelerator SoC with Hybrid-precision and Energy-efficient Cache.	Zhiyong Li,Sangjin Kim,Dongseok Im,Donghyeon Han,Hoi-Jun Yoo	10.1109/HCS55958.2022.9895611
+Cerebras Architecture Deep Dive: First Look Inside the HW/SW Co-Design for Deep Learning : Cerebras Systems.	Sean Lie	10.1109/HCS55958.2022.9895479
+Kraken: A Direct Event/Frame-Based Multi-sensor Fusion SoC for Ultra-Efficient Visual Processing in Nano-UAVs.	Alfio Di Mauro,Moritz Scherer,Davide Rossi,Luca Benini	10.1109/HCS55958.2022.9895621
+Built for the Edge: The Next-Generation Intel® Xeon D 2700 &amp; 1700 processors.	Praveen Mosur	10.1109/HCS55958.2022.9895613
+Scaling of Memory Performance and Capacity with CXL Memory Expander.	S. J. Park,H. Kim,K.-S. Kim,J. So,J. Ahn,W.-J. Lee,D. Kim,Y.-J. Kim,J. Seok,J.-G. Lee,H.-Y. Ryu,C. Y. Lee,J. Prout,K.-C. Ryoo,S.-J. Han,M.-K. Kook,J. S. Choi,J. Gim,Y. S. Ki,S. Ryu,C. Park,D.-G. Lee,J. Cho,H. Song,J. Y. Lee	10.1109/HCS55958.2022.9895633
+Enabling Scalable Application-Specific Optical Engines (ASOE) by Monolithic Integration of Photonics and Electronics.	Christoph Schulien	10.1109/HCS55958.2022.9895620
+A 7-nm FinFET 1.2-TB/s/mm2 3D-Stacked SRAM with an Inductive Coupling Interface Using Over-SRAM Coils and Manchester-Encoded Synchronous Transceivers.	Kota Shiba,Mitsuji Okada,Atsutake Kosuge,Mototsugu Hamada,Tadahiro Kuroda	10.1109/HCS55958.2022.9895622
+Heterogenous Integration Enables FPGA Based Hardware Acceleration for RF Applications.	Sergey Y. Shumarayev,Allen Chan,Tim Hoang,Robert Keller	10.1109/HCS55958.2022.9895615
+AMD Instinct™ MI200 Series Accelerator and Node Architectures.	Alan Smith,Norman James	10.1109/HCS55958.2022.9895477
+DOJO: The Microarchitecture of Tesla&apos;s Exa-Scale Computer.	Emil Talpes,Douglas Williams,Debjit Das Sarma	10.1109/HCS55958.2022.9895534
+VTA-NIC: Deep Learning Inference Serving in Network Interface Cards.	Kenji Tanaka,Yuki Arikawa,Kazutaka Morita,Tsuyoshi Ito,Takashi Uchida,Natsuko Saito,Shinya Kaji,Takeshi Sakamoto	10.1109/HCS55958.2022.9895617
+Accelerating Graphic Rendering on Programmable RISC-V GPUs.	Blaise Tine,Varun Saxena,Santosh Srivatsan,Joshua R. Simpson,Fadi Alzammar,Liam Paul Cooper,Sam Jijina,Swetha Rajagoplan,Tejaswini Anand Kumar,Jeffrey Young 0001,Hyesoon Kim	10.1109/HCS55958.2022.9895607
+Dimensity 9000 - A Flagship Smartphone SoC.	Mediatek Ericbill Wang,Arm Stefan Rosinger,Saurabh Pradhan	10.1109/HCS55958.2022.9895489
+2022 IEEE Hot Chips 34 Symposium, HCS 2022, Cupertino, CA, USA, August 21-23, 2022		10.1109/HCS55958.2022

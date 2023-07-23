@@ -1,0 +1,47 @@
+Skeap &amp; Seap: Scalable Distributed Priority Queues for Constant and Arbitrary Priorities.	Michael Feldmann 0001,Christian Scheideler	10.1145/3323165.3323193
+Parallel Batch-Dynamic Graph Connectivity.	Umut A. Acar,Daniel Anderson,Guy E. Blelloch,Laxman Dhulipala	10.1145/3323165.3323196
+Efficiency Guarantees for Parallel Incremental Algorithms under Relaxed Schedulers.	Dan Alistarh,Giorgi Nadiradze,Nikita Koval	10.1145/3323165.3323201
+Blockchain Abstract Data Type.	Emmanuelle Anceaume,Antonella Del Pozzo,Romaric Ludinard,Maria Potop-Butucaru,Sara Tucci Piergiovanni	10.1145/3323165.3323183
+Distributed Computation in Node-Capacitated Networks.	John Augustine,Mohsen Ghaffari 0001,Robert Gmyr,Kristian Hinnenthal,Christian Scheideler,Fabian Kuhn,Jason Li 0006	10.1145/3323165.3323195
+The Price of Clustering in Bin-Packing with Applications to Bin-Packingwith Delays.	Yossi Azar,Yuval Emek,Rob van Stee,Danny Vainstein	10.1145/3323165.3323180
+Writeback-Aware Caching (Brief Announcement).	Nathan Beckmann,Phillip B. Gibbons,Bernhard Haeupler,Charles McGuffey	10.1145/3323165.3323169
+Massively Parallel Computation via Remote Memory Access.	Soheil Behnezhad,Laxman Dhulipala,Hossein Esfandiari,Jakub Lacki,Vahab S. Mirrokni,Warren Schudy	10.1145/3323165.3323208
+Multiversion Concurrency with Bounded Delay and Precise Garbage Collection.	Naama Ben-David,Guy E. Blelloch,Yihan Sun 0001,Yuanhao Wei	10.1145/3323165.3323185
+Delay-Free Concurrency on Faulty Persistent Memory.	Naama Ben-David,Guy E. Blelloch,Michal Friedman 0001,Yuanhao Wei	10.1145/3323165.3323187
+Small Refinements to the DAM Can Have Big Consequences for Data-Structure Design.	Michael A. Bender,Alex Conway,Martin Farach-Colton,William Jannen,Yizheng Jiao,Rob Johnson,Eric Knorr,Sara McAllister,Nirjhar Mukherjee,Prashant Pandey 0001,Donald E. Porter,Jun Yuan 0006,Yang Zhan 0001	10.1145/3323165.3323210
+Faster Matrix Multiplication via Sparse Decomposition.	Gal Beniamini,Oded Schwartz	10.1145/3323165.3323188
+Geometric Network Creation Games.	Davide Bilò,Tobias Friedrich 0001,Pascal Lenzner,Anna Melnichenko	10.1145/3323165.3323199
+Improved MPC Algorithms for Edit Distance and Ulam Distance.	Mahdi Boroujeni,Saeed Seddighin	10.1145/3323165.3323205
+Approximation of Scheduling with Calibrations on Multiple Machines (Brief Announcement).	Lin Chen 0009,Minming Li,Guohui Lin,Kai Wang 0018	10.1145/3323165.3323173
+Fast and Resource Competitive Broadcast in Multi-channel Radio Networks.	Haimin Chen,Chaodong Zheng	10.1145/3323165.3323186
+Energy Efficient Adversarial Routing in Shared Channels.	Bogdan S. Chlebus,Elijah Hradovich,Tomasz Jurdzinski,Marek Klonowski,Dariusz R. Kowalski	10.1145/3323165.3323190
+Concurrent Data Structures with Near-Data-Processing: an Architecture-Aware Implementation.	Jiwon Choe,Amy Huang,Tali Moreshet,Maurice Herlihy,R. Iris Bahar	10.1145/3323165.3323191
+Near Optimal Coflow Scheduling in Networks.	Mosharaf Chowdhury,Samir Khuller,Manish Purohit,Sheng Yang 0005,Jie You	10.1145/3323165.3323179
+Data Races and the Discrete Resource-time Tradeoff Problem with Resource Reuse over Paths.	Rathish Das,Shih-Yu Tsai,Sharmila Duppala,Jayson Lynch,Esther M. Arkin,Rezaul Chowdhury,Joseph S. B. Mitchell,Steven Skiena	10.1145/3323165.3323209
+Near-Linear Approximation Algorithms for Scheduling Problems with Batch Setup Times.	Max A. Deppert,Klaus Jansen	10.1145/3323165.3323200
+Distributed Transactional Systems Cannot Be Fast.	Diego Didona,Panagiota Fatourou,Rachid Guerraoui,Jingjing Wang 0007,Willy Zwaenepoel	10.1145/3323165.3323189
+Linear-Size Hopsets with Small Hopbound, and Constant-Hopbound Hopsets in RNC.	Michael Elkin,Ofer Neiman	10.1145/3323165.3323177
+Constant-Length Labeling Schemes for Deterministic Radio Broadcast.	Faith Ellen,Barun Gorain,Avery Miller,Andrzej Pelc	10.1145/3323165.3323194
+Scalable Diversity Maximization via Small-size Composable Core-sets (Brief Announcement).	Alessandro Epasto,Vahab S. Mirrokni,Morteza Zadimoghaddam	10.1145/3323165.3323172
+NC Algorithms for Computing a Perfect Matching, the Number of Perfect Matchings, and a Maximum Flow in One-Crossing-Minor-Free Graphs.	David Eppstein,Vijay V. Vazirani	10.1145/3323165.3323206
+Asymptotically Optimal Filters.	Guy Even	10.1145/3323165.3323211
+Persistent Non-Blocking Binary Search Trees Supporting Wait-Free Range Queries.	Panagiota Fatourou,Elias Papavasileiou,Eric Ruppert	10.1145/3323165.3323197
+Almost Logarithmic-Time Space Optimal Leader Election in Population Protocols.	Leszek Gasieniec,Grzegorz Stachowiak,Przemyslaw Uznanski	10.1145/3323165.3323178
+An EPTAS for Machine Scheduling with Bag-Constraints.	Kilian Grage,Klaus Jansen,Kim-Manuel Klein	10.1145/3323165.3323192
+Histogram Sort with Sampling.	Vipul Harsh,Laxmikant V. Kalé,Edgar Solomonik	10.1145/3323165.3323184
+Fast Distributed Algorithms for LP-Type Problems of Bounded Dimension (Brief Announcement).	Kristian Hinnenthal,Christian Scheideler,Martijn Struijs	10.1145/3323165.3323174
+Dynamic Algorithms for the Massively Parallel Computation Model.	Giuseppe F. Italiano,Silvio Lattanzi,Vahab S. Mirrokni,Nikos Parotsidis	10.1145/3323165.3323202
+Best-of-Three Voting on Dense Graphs.	Nan Kang,Nicolás Rivera	10.1145/3323165.3323207
+The Arvy Distributed Directory Protocol.	Pankaj Khanchandani,Roger Wattenhofer	10.1145/3323165.3323181
+Parallel Balanced Allocations: The Heavily Loaded Case.	Christoph Lenzen 0001,Merav Parter,Eylon Yogev	10.1145/3323165.3323203
+A Memory Optimized Architecture for Multi-Field Packet Classification (Brief Announcement).	Chenglong Li,Tao Li 0008,Junnan Li 0002,Hui Yang,Baosheng Wang	10.1145/3323165.3323171
+Theoretically-Efficient and Practical Parallel In-Place Radix Sorting.	Omar Obeya,Endrias Kahssay,Edward Fan,Julian Shun	10.1145/3323165.3323198
+Using Time to Break Symmetry: Universal Deterministic Anonymous Rendezvous.	Andrzej Pelc,Ram Narayan Yadav	10.1145/3323165.3323182
+Ultra-Fast Asynchronous Randomized Rumor Spreading (Brief Announcement).	Ali Pourmiri,Fahimeh Ramezani	10.1145/3323165.3323167
+The Dispersion Time of Random Walks on Finite Graphs.	Nicolás Rivera,Thomas Sauerwald,Alexandre Stauffer,John Sylvester 0001	10.1145/3323165.3323204
+Reduced I/O Latency with Futures (Brief Announcement).	Kyle Singer,Kunal Agrawal,I-Ting Angelina Lee	10.1145/3323165.3323175
+Eccentricities via Parallel Set Cover (Brief Announcement).	Tal Wagner	10.1145/3323165.3323168
+Persistent Atomics for Implementing Durable Lock-Free Data Structures for Non-Volatile Memory (Brief Announcement).	William Wang,Stephan Diestelhorst	10.1145/3323165.3323166
+A Parallel Algorithm for Subgraph Isomorphism (Brief Announcement).	Rohan Yadav,Umut A. Acar	10.1145/3323165.3323170
+Optimizing Persistent Transactions (Brief Announcement).	Tingzhe Zhou,Pantea Zardoshti,Michael F. Spear	10.1145/3323165.3323176
+The 31st ACM on Symposium on Parallelism in Algorithms and Architectures, SPAA 2019, Phoenix, AZ, USA, June 22-24, 2019.	Christian Scheideler,Petra Berenbrink	10.1145/3323165

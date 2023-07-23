@@ -1,0 +1,63 @@
+A Template for Implementing Fast Lock-free Trees Using HTM.	Trevor Brown 0001	10.1145/3087801.3087834
+Brief Announcement: Object Oriented Consensus.	Yehuda Afek,James Aspnes,Edo Cohen,Danny Vainstein	10.1145/3087801.3087867
+The Power of Choice in Priority Scheduling.	Dan Alistarh,Justin Kopinsky,Jerry Li 0001,Giorgi Nadiradze	10.1145/3087801.3087810
+Clocked Population Protocols.	James Aspnes	10.1145/3087801.3087836
+Brief Announcement: Certified Multiplicative Weights Update: Verified Learning Without Regret.	Alexander Bagnall,Samuel Merten,Gordon Stewart 0001	10.1145/3087801.3087852
+Distributed Approximation of Maximum Independent Set and Maximum Matching.	Reuven Bar-Yehuda,Keren Censor-Hillel,Mohsen Ghaffari 0001,Gregory Schwartzman	10.1145/3087801.3087806
+Deterministic Distributed (Delta + o(Delta))-Edge-Coloring, and Vertex-Coloring of Graphs with Bounded Diversity.	Leonid Barenboim,Michael Elkin,Tzalik Maimon	10.1145/3087801.3087812
+Analyzing Contention and Backoff in Asynchronous Shared Memory.	Naama Ben-David,Guy E. Blelloch	10.1145/3087801.3087828
+Brief Announcement: Hierarchical Consensus.	Benjamin Bengfort,Pete Keleher	10.1145/3087801.3087853
+Ignore or Comply?: On Breaking Symmetry in Consensus.	Petra Berenbrink,Andrea E. F. Clementi,Robert Elsässer,Peter Kling,Frederik Mallmann-Trenn,Emanuele Natale	10.1145/3087801.3087817
+Brief Announcement: Population Protocols for Leader Election and Exact Majority with O(log2 n) States and O(log2 n) Convergence Time.	Andreas Bilke,Colin Cooper,Robert Elsässer,Tomasz Radzik	10.1145/3087801.3087858
+Brief Announcement: Byzantine-Tolerant Machine Learning.	Peva Blanchard,El Mahdi El Mhamdi,Rachid Guerraoui,Julien Stainer	10.1145/3087801.3087861
+Some Sequential Algorithms are Almost Always Parallel.	Guy E. Blelloch	10.1145/3087801.3087871
+Towards Efficient Verification of Population Protocols.	Michael Blondin,Javier Esparza,Stefan Jaax,Philipp J. Meyer	10.1145/3087801.3087816
+LCL Problems on Grids.	Sebastian Brandt 0002,Juho Hirvonen,Janne H. Korhonen,Tuomo Lempiäinen,Patric R. J. Östergård,Christopher Purcell,Joel Rybicki,Jukka Suomela,Przemyslaw Uznanski	10.1145/3087801.3087833
+Greedy Routing and the Algorithmic Small-World Phenomenon.	Karl Bringmann,Ralph Keusch,Johannes Lengler,Yannic Maus,Anisur Rahaman Molla	10.1145/3087801.3087829
+A Distributed Learning Dynamics in Social Groups.	L. Elisa Celis,Peter M. Krafft,Nisheeth K. Vishnoi	10.1145/3087801.3087820
+Brief Announcement: Distributed Approximation for Tree Augmentation.	Keren Censor-Hillel,Michal Dory	10.1145/3087801.3087842
+Broadcasting in Noisy Radio Networks.	Keren Censor-Hillel,Bernhard Haeupler,D. Ellis Hershkowitz,Goran Zuzic	10.1145/3087801.3087808
+Life Beyond Set Agreement.	David Yu Cheng Chan,Vassos Hadzilacos,Sam Toueg	10.1145/3087801.3087822
+Brief Announcement: A Probabilistic Performance Model and Tuning Framework for Eventually Consistent Distributed Storage Systems.	Shankha Chatterjee,Wojciech M. Golab	10.1145/3087801.3087850
+Space Complexity of Fault-Tolerant Register Emulations.	Gregory V. Chockler,Alexander Spiegelman	10.1145/3087801.3087824
+Seeing is Believing: A Client-Centric Specification of Database Isolation.	Natacha Crooks,Youer Pu,Lorenzo Alvisi,Allen Clement	10.1145/3087801.3087802
+Exploiting Spontaneous Transmissions for Broadcasting and Leader Election in Radio Networks.	Artur Czumaj,Peter Davies	10.1145/3087801.3087825
+On Using Time Without Clocks via Zigzag Causality.	Asa Dan,Rajit Manohar,Yoram Moses	10.1145/3087801.3087839
+Brief Announcement: Proust: A Design Space for Highly-Concurrent Transactional Data Structures.	Thomas D. Dickerson,Paul Gazzillo,Maurice Herlihy,Eric Koskinen	10.1145/3087801.3087866
+Adding Concurrency to Smart Contracts.	Thomas D. Dickerson,Paul Gazzillo,Maurice Herlihy,Eric Koskinen	10.1145/3087801.3087835
+Brief Announcement: Secure Self-Stabilizing Computation.	Shlomi Dolev,Karim Eldefrawy,Juan A. Garay,Muni Venkateswarlu Kumaramangalam,Rafail Ostrovsky,Moti Yung	10.1145/3087801.3087864
+Stateless Computation.	Danny Dolev,Michael Erdmann,Neil Lutz,Michael Schapira,Adva Zair	10.1145/3087801.3087854
+A Simple Deterministic Distributed MST Algorithm, with Near-Optimal Time and Message Complexities.	Michael Elkin	10.1145/3087801.3087823
+Brief Announcement: Rapid Asynchronous Plurality Consensus.	Robert Elsässer,Tom Friedetzky,Dominik Kaaser,Frederik Mallmann-Trenn,Horst Trinker	10.1145/3087801.3087860
+What Can be Sampled Locally?	Weiming Feng 0001,Yuxin Sun,Yitong Yin	10.1145/3087801.3087815
+On the Multiparty Communication Complexity of Testing Triangle-Freeness.	Orr Fischer,Shay Gershtein,Rotem Oshman	10.1145/3087801.3087821
+Optimal Distance Labeling Schemes for Trees.	Ofer Freedman,Pawel Gawrychowski,Patrick K. Nicholson,Oren Weimann	10.1145/3087801.3087804
+Verifiable Outsourced Computation: A Survey.	Rosario Gennaro	10.1145/3087801.3087872
+Distributed MIS via All-to-All Communication.	Mohsen Ghaffari 0001	10.1145/3087801.3087830
+Distributed MST and Routing in Almost Mixing Time.	Mohsen Ghaffari 0001,Fabian Kuhn,Hsin-Hao Su	10.1145/3087801.3087827
+Randomized Abortable Mutual Exclusion with Constant Amortized RMR Complexity on the CC Model.	George Giakkoupis,Philipp Woelfel	10.1145/3087801.3087837
+Communication Primitives in Cognitive Radio Networks.	Seth Gilbert,Fabian Kuhn,Chaodong Zheng	10.1145/3087801.3087805
+Symmetry Breaking with Noisy Processes.	Seth Gilbert,Calvin C. Newport	10.1145/3087801.3087814
+Brief Announcement: Gossiping with Latencies.	Seth Gilbert,Peter Robinson 0002,Suman Sourav	10.1145/3087801.3087846
+Recoverable Mutual Exclusion in Sub-logarithmic Time.	Wojciech M. Golab,Danny Hendler	10.1145/3087801.3087819
+Brief Announcement: Leader Election in SINR Model with Arbitrary Power Control.	Magnús M. Halldórsson,Stephan Holzer,Evangelia Anna Markatou	10.1145/3087801.3087851
+Blockchains and the Future of Distributed Computing.	Maurice Herlihy	10.1145/3087801.3087873
+Brief Announcement: Efficient Self-Stabilizing 1-Maximal Matching Algorithm for Arbitrary Networks.	Michiko Inoue,Fukuhito Ooshita,Sébastien Tixeuil	10.1145/3087801.3087840
+Triangle Finding and Listing in CONGEST Networks.	Taisuke Izumi,François Le Gall	10.1145/3087801.3087811
+Brief Announcement: How Large is your Graph?	Varun Kanade,Frederik Mallmann-Trenn,Victor Verdugo	10.1145/3087801.3087855
+Brief Announcement: Fast Shared Counting using (O(n)) Compare-and-Swap Registers.	Pankaj Khanchandani,Roger Wattenhofer	10.1145/3087801.3087841
+Transactional Lock Elision Meets Combining.	Alex Kogan,Yossi Lev	10.1145/3087801.3087838
+A Layered Architecture for Erasure-Coded Consistent Distributed Storage.	Kishori M. Konwar,N. Prakash 0001,Nancy A. Lynch,Muriel Médard	10.1145/3087801.3087832
+Effectiveness of Delaying Timestamp Computation.	Sandeep S. Kulkarni,Nitin H. Vaidya	10.1145/3087801.3087818
+Brief Announcement: Fence Insertion for Straight-line Programs is in P.	Mohsen Lesani	10.1145/3087801.3087849
+Asynchronous Shared Channel.	Gianluca De Marco,Grzegorz Stachowiak	10.1145/3087801.3087831
+Brief Announcement: Optimal Address-Oblivious Epidemic Dissemination.	Hugues Mercier,Laurent Hayez,Miguel Matos	10.1145/3087801.3087862
+Gossip in a Smartphone Peer-to-Peer Network.	Calvin C. Newport	10.1145/3087801.3087813
+Self-organized Segregation on the Grid.	Hamed Omidvar,Massimo Franceschetti	10.1145/3087801.3087826
+Brief Announcement: Symmetry Breaking in the CONGEST Model: Time- and Message-Efficient Algorithms for Ruling Sets.	Shreyas Pai,Gopal Pandurangan,Sriram V. Pemmaraju,Talal Riaz,Peter Robinson 0002	10.1145/3087801.3087865
+FruitChains: A Fair Blockchain.	Rafael Pass,Elaine Shi	10.1145/3087801.3087809
+The Space Requirement of Local Forwarding on Acyclic Networks.	Boaz Patt-Shamir,Will Rosenbaum	10.1145/3087801.3087803
+Brief Announcement: Readers of Wait-Free Unbounded Registers Must Write.	Eric Ruppert	10.1145/3087801.3087859
+Coordination Without Prior Agreement.	Gadi Taubenfeld	10.1145/3087801.3087807
+Brief Announcement: Statement Voting and Liquid Democracy.	Bingsheng Zhang,Hong-Sheng Zhou	10.1145/3087801.3087868
+Proceedings of the ACM Symposium on Principles of Distributed Computing, PODC 2017, Washington, DC, USA, July 25-27, 2017	Elad Michael Schiller,Alexander A. Schwarzmann	10.1145/3087801

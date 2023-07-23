@@ -1,0 +1,62 @@
+DCS: a fast and scalable device-centric server architecture.	Jaehyung Ahn,Dongup Kwon,Youngsok Kim,Mohammadamin Ajdari,Jaewon Lee,Jangwoo Kim	10.1145/2830772.2830794
+Cross-architecture performance prediction (XAPP) using CPU code to predict GPU performance.	Newsha Ardalani,Clint Lestourgeon,Karthikeyan Sankaralingam,Xiaojin Zhu 0001	10.1145/2830772.2830780
+HyComp: a hybrid cache compression method for selection of data-type-specific compression methods.	Angelos Arelakis,Fredrik Dahlgren,Per Stenström	10.1145/2830772.2830823
+Locking down insecure indirection with hardware-based control-data isolation.	William Arthur,Sahil Madeka,Reetuparna Das,Todd M. Austin	10.1145/2830772.2830801
+Self-contained, accurate precomputation prefetching.	Islam Atta,Xin Tong 0005,Vijayalakshmi Srinivasan,Ioana Baldini,Andreas Moshovos	10.1145/2830772.2830816
+Authenticache: harnessing cache ECC for system authentication.	Anys Bacha,Radu Teodorescu	10.1145/2830772.2830814
+Execution time prediction for energy-efficient hardware accelerators.	Tao Chen 0045,Alexander Rucker,G. Edward Suh	10.1145/2830772.2830798
+Free launch: optimizing GPU dynamic kernel launches through thread reuse.	Guoyang Chen,Xipeng Shen	10.1145/2830772.2830818
+Neuromorphic accelerators: a comparison between neuroscience and machine-learning approaches.	Zidong Du,Daniel D. Ben-Dayan Rubin,Yunji Chen,Liqiang He,Tianshi Chen 0002,Lei Zhang 0008,Chengyong Wu,Olivier Temam	10.1145/2830772.2830789
+Fast support for unstructured data processing: the unified automata processor.	Yuanwei Fang,Tung Thanh Hoang,Michela Becchi,Andrew A. Chien	10.1145/2830772.2830809
+Coherence domain restriction on large scale systems.	Yaosheng Fu,Tri Minh Nguyen 0003,David Wentzlaff	10.1145/2830772.2830832
+CLEAN-ECC: high reliability ECC for adaptive granularity memory system.	Seong-Lyong Gong,Minsoo Rhu,Jungrae Kim,Jinsuk Chung,Mattan Erez	10.1145/2830772.2830799
+An integrated concurrency and core-ISA architectural envelope definition, and test oracle, for IBM POWER multiprocessors.	Kathryn E. Gray,Gabriel Kerneis,Dominic P. Mulligan,Christopher Pulte,Susmit Sarkar,Peter Sewell	10.1145/2830772.2830775
+Enabling portable energy efficiency with memory accelerated library.	Qi Guo 0001,Tze Meng Low,Nikolaos Alachiotis 0001,Berkin Akin,Larry T. Pileggi,James C. Hoe,Franz Franchetti	10.1145/2830772.2830788
+DeSC: decoupled supply-compute communication management for heterogeneous architectures.	Tae Jun Ham,Juan L. Aragón,Margaret Martonosi	10.1145/2830772.2830800
+Filtered runahead execution with a runahead buffer.	Milad Hashemi,Yale N. Patt	10.1145/2830772.2830812
+A scalable architecture for ordered parallelism.	Mark C. Jeffrey,Suvinay Subramanian,Cong Yan,Joel S. Emer,Daniel Sánchez 0003	10.1145/2830772.2830777
+GPU register file virtualization.	Hyeran Jeon,Gokul Subramanian Ravi,Nam Sung Kim,Murali Annavaram	10.1145/2830772.2830784
+Efficient persist barriers for multicores.	Arpit Joshi,Vijay Nagarajan,Marcelo Cintra,Stratis Viglas	10.1145/2830772.2830805
+Enabling interposer-based disintegration of multi-core processors.	Ajaykumar Kannan,Natalie D. Enright Jerger,Gabriel H. Loh	10.1145/2830772.2830808
+Rubik: fast analytical power management for latency-critical systems.	Harshad Kasture,Davide B. Bartolini,Nathan Beckmann,Daniel Sánchez 0003	10.1145/2830772.2830797
+Confluence: unified instruction supply for scale-out servers.	Cansu Kaynak,Boris Grot,Babak Falsafi	10.1145/2830772.2830785
+Efficient warp execution in presence of divergence with collaborative context collection.	Farzad Khorasani,Rajiv Gupta 0001,Laxmi N. Bhuyan	10.1145/2830772.2830796
+vCache: architectural support for transparent and isolated virtual LLCs in virtualized environments.	Daehoon Kim,Hwanju Kim,Nam Sung Kim,Jaehyuk Huh	10.1145/2830772.2830825
+WarpPool: sharing requests with inter-warp coalescing for throughput processors.	John Kloosterman,Jonathan Beaumont,Mick Wollman,Ankit Sethia,Ronald G. Dreslinski,Trevor N. Mudge,Scott A. Mahlke	10.1145/2830772.2830830
+Architecture-aware automatic computation offload for native applications.	Gwangmu Lee,Hyunjoon Park,Seonyeong Heo,Kyung-Ah Chang,Hyogun Lee,Hanjun Kim 0001	10.1145/2830772.2830833
+Safe limits on voltage reduction efficiency in GPUs: a direct measurement approach.	Jingwen Leng,Alper Buyuktosunoglu,Ramon Bertran,Pradip Bose,Vijay Janapa Reddi	10.1145/2830772.2830811
+SAWS: synchronization aware GPGPU warp scheduling for multiple independent warp schedulers.	Jiwei Liu,Jun Yang 0002,Rami G. Melhem	10.1145/2830772.2830822
+Prediction-guided performance-energy trade-off for interactive applications.	Daniel Lo,Taejoon Song,G. Edward Suh	10.1145/2830772.2830776
+Improving DRAM latency with dynamic asymmetric subarray.	Shih-Lien Lu,Ying-Chen Lin,Chia-Lin Yang	10.1145/2830772.2830827
+Ultra-low power render-based collision detection for CPU/GPU systems.	Enrique de Lucas,Pedro Marcuello,Joan-Manuel Parcerisa,Antonio González 0001	10.1145/2830772.2830783
+CCICheck: using µhb graphs to verify the coherence-consistency interface.	Yatin A. Manerkar,Daniel Lustig,Michael Pellauer,Margaret Martonosi	10.1145/2830772.2830782
+Bungee jumps: accelerating indirect branches through HW/SW co-design.	Daniel S. McFarlin,Craig B. Zilles	10.1145/2830772.2830781
+Doppelgänger: a cache for approximate computing.	Joshua San Miguel,Jorge Albericio,Andreas Moshovos,Natalie D. Enright Jerger	10.1145/2830772.2830790
+The CRISP performance model for dynamic voltage and frequency scaling in a GPGPU.	Rajib Nath,Dean M. Tullsen	10.1145/2830772.2830826
+MORC: a manycore-oriented compressed cache.	Tri Minh Nguyen 0003,David Wentzlaff	10.1145/2830772.2830828
+Modeling the implications of DRAM failures and protection techniques on datacenter TCO.	Panagiota Nikolaou,Yiannakis Sazeides,Lorena Ndreu,Marios Kleanthous	10.1145/2830772.2830804
+Border control: sandboxing accelerators.	Lena E. Olson,Jason Power,Mark D. Hill,David A. Wood 0001	10.1145/2830772.2830819
+DynaMOS: dynamic schedule migration for heterogeneous cores.	Shruti Padmanabha,Andrew Lukefahr,Reetuparna Das,Scott A. Mahlke	10.1145/2830772.2830791
+Large pages and lightweight memory management in virtualized environments: can you have it both ways?	Binh Pham 0003,Ján Veselý,Gabriel H. Loh,Abhishek Bhattacharjee	10.1145/2830772.2830773
+A fast and accurate analytical technique to compute the AVF of sequential bits in a processor.	Steven Raasch,Arijit Biswas,Jon Stephan,Paul Racunas,Joel S. Emer	10.1145/2830772.2830829
+ThyNVM: enabling software-transparent crash consistency in persistent memory systems.	Jinglei Ren,Jishen Zhao,Samira Manabi Khan,Jongmoo Choi,Yongwei Wu,Onur Mutlu	10.1145/2830772.2830802
+Long term parking (LTP): criticality-aware resource allocation in OOO processors.	Andreas Sembrant,Trevor E. Carlson,Erik Hagersten,David Black-Schaffer,Arthur Perais,André Seznec,Pierre Michaud	10.1145/2830772.2830815
+Gather-scatter DRAM: in-DRAM address translation to improve the spatial locality of non-unit strided accesses.	Vivek Seshadri,Thomas Mullins,Amirali Boroumand,Onur Mutlu,Phillip B. Gibbons,Michael A. Kozuch,Todd C. Mowry	10.1145/2830772.2830820
+The inner most loop iteration counter: a new dimension in branch history.	André Seznec,Joshua San Miguel,Jorge Albericio	10.1145/2830772.2830831
+Avoiding information leakage in the memory controller with fixed service policies.	Ali Shafiee,Akhila Gundu,Manjunath Shevgoor,Rajeev Balasubramonian,Mohit Tiwari	10.1145/2830772.2830795
+Efficiently prefetching complex address patterns.	Manjunath Shevgoor,Sahil Koladiya,Rajeev Balasubramonian,Chris Wilkerson,Seth H. Pugsley,Zeshan Chishti	10.1145/2830772.2830793
+Efficient GPU synchronization without scopes: saying no to complex consistency models.	Matthew D. Sinclair,Johnathan Alsop,Sarita V. Adve	10.1145/2830772.2830821
+Efficiently enforcing strong memory ordering in GPUs.	Abhayendra Singh,Shaizeen Aga,Satish Narayanasamy	10.1145/2830772.2830778
+More is less: improving the energy efficiency of data movement via opportunistic use of sparse codes.	Yanwei Song,Engin Ipek	10.1145/2830772.2830806
+The application slowdown model: quantifying and controlling the impact of inter-application interference at shared caches and main memory.	Lavanya Subramanian,Vivek Seshadri,Arnab Ghosh,Samira Manabi Khan,Onur Mutlu	10.1145/2830772.2830803
+TimeTrader: exploiting latency tail to save datacenter energy for online search.	Balajee Vamanan,Hamza Bin Sohail,Jahangir Hasan,T. N. Vijaykumar	10.1145/2830772.2830779
+Control flow coalescing on a hybrid dataflow/von Neumann GPGPU.	Dani Voitsechov,Yoav Etsion	10.1145/2830772.2830817
+Enabling coordinated register allocation and thread-level parallelism optimization for GPUs.	Xiaolong Xie,Yun Liang 0001,Xiuhong Li,Yudong Wu,Guangyu Sun 0003,Tao Wang 0004,Dongrui Fan	10.1145/2830772.2830813
+Characterizing, modeling, and improving the QoE of mobile devices with low battery level.	Kaige Yan,Xingyao Zhang,Xin Fu	10.1145/2830772.2830786
+Neural acceleration for GPU throughput processors.	Amir Yazdanbakhsh,Jongse Park,Hardik Sharma,Pejman Lotfi-Kamran,Hadi Esmaeilzadeh	10.1145/2830772.2830810
+IMP: indirect memory prefetcher.	Xiangyao Yu,Christopher J. Hughes,Nadathur Satish,Srinivas Devadas	10.1145/2830772.2830807
+Exploiting commutativity to reduce the cost of updates to shared data in cache-coherent systems.	Guowei Zhang 0002,Webb Horn,Daniel Sánchez 0003	10.1145/2830772.2830774
+Fork path: improving efficiency of ORAM by removing redundant memory accesses.	Xian Zhang 0001,Guangyu Sun 0003,Chao Zhang 0007,Weiqi Zhang,Yun Liang 0001,Tao Wang 0004,Yiran Chen 0001,Jia Di	10.1145/2830772.2830787
+Microarchitectural implications of event-driven server-side web applications.	Yuhao Zhu 0001,Daniel Richins,Matthew Halpern,Vijay Janapa Reddi	10.1145/2830772.2830792
+Adaptive guardband scheduling to improve system-level efficiency of the POWER7+.	Yazhou Zu,Charles R. Lefurgy,Jingwen Leng,Matthew Halpern,Michael S. Floyd,Vijay Janapa Reddi	10.1145/2830772.2830824
+Proceedings of the 48th International Symposium on Microarchitecture, MICRO 2015, Waikiki, HI, USA, December 5-9, 2015	Milos Prvulovic	10.1145/2830772

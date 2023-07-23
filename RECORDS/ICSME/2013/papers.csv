@@ -1,0 +1,93 @@
+Reverse Engineering Web Sales Configurators.	Ebrahim Khalil Abbasi	10.1109/ICSM.2013.101
+How We Design Interfaces, and How to Assess It.	Hani Abdeen,Houari A. Sahraoui,Osama Shata	10.1109/ICSM.2013.19
+Improving Feature Location by Enhancing Source Code with Stereotypes.	Nouh Alhindawi,Natalia Dragan,Michael L. Collard,Jonathan I. Maletic	10.1109/ICSM.2013.41
+An Accurate Stack Memory Abstraction and Symbolic Analysis Framework for Executables.	Kapil Anand,Khaled Elwazeer,Aparna Kotha,Matthew Smithson,Rajeev Barua,Angelos D. Keromytis	10.1109/ICSM.2013.20
+E-Xplore: Enterprise API Explorer.	Allahbaksh M. Asadullah,Basavaraju M.,Nikita Jain 0001	10.1109/ICSM.2013.87
+LHDiff: A Language-Independent Hybrid Approach for Tracking Source Code Lines.	Muhammad Asaduzzaman,Chanchal K. Roy,Kevin A. Schneider,Massimiliano Di Penta	10.1109/ICSM.2013.34
+LHDiff: Tracking Source Code Lines to Support Software Maintenance Activities.	Muhammad Asaduzzaman,Chanchal K. Roy,Kevin A. Schneider,Massimiliano Di Penta	10.1109/ICSM.2013.78
+An Empirical Investigation on Documentation Usage Patterns in Maintenance Tasks.	Gabriele Bavota,Gerardo Canfora,Massimiliano Di Penta,Rocco Oliveto,Sebastiano Panichella	10.1109/ICSM.2013.32
+The Evolution of Project Inter-dependencies in a Software Ecosystem: The Case of Apache.	Gabriele Bavota,Gerardo Canfora,Massimiliano Di Penta,Rocco Oliveto,Sebastiano Panichella	10.1109/ICSM.2013.39
+On the Personality Traits of StackOverflow Users.	Blerina Bazelli,Abram Hindle,Eleni Stroulia	10.1109/ICSM.2013.72
+An Empirical Study of Clone Removals.	Saman Bazrafshan,Rainer Koschke	10.1109/ICSM.2013.16
+Analysis of Multi-dimensional Code Couplings.	Fabian Beck 0001	10.1109/ICSM.2013.96
+Task-Driven Software Summarization.	Dave W. Binkley,Dawn J. Lawrie,Emily Hill 0001,Janet E. Burge,Ian G. Harris,Regina Hebig,Oliver Keszöcze,Karl Reed,John Slankas	10.1109/ICSM.2013.65
+TRINITY: An IDE for the Matrix.	Jeroen van den Bos,Tijs van der Storm	10.1109/ICSM.2013.86
+ExSchema: Discovering and Maintaining Schemas from Polyglot Persistence Applications.	Juan Carlos Castrejón,Genoveva Vargas-Solar,Christine Collet,Rafael Lozano	10.1109/ICSM.2013.81
+srcML: An Infrastructure for the Exploration, Analysis, and Manipulation of Source Code: A Tool Demonstration.	Michael L. Collard,Michael John Decker,Jonathan I. Maletic	10.1109/ICSM.2013.85
+An Empirical Illustration to Validate a FLOSS Development Model Using S-Shaped Curves.	Ana Erika Camargo Cruz,Hajimu Iida,Norbert Preining	10.1109/ICSM.2013.74
+Enhancing Software Traceability by Automatically Expanding Corpora with Relevant Documentation.	Tathagata Dasgupta,Mark Grechanik,Evan Moritz,Bogdan Dit,Denys Poshyvanyk	10.1109/ICSM.2013.43
+Supporting and Accelerating Reproducible Research in Software Maintenance Using TraceLab Component Library.	Bogdan Dit,Evan Moritz,Mario Linares Vásquez,Denys Poshyvanyk	10.1109/ICSM.2013.44
+A Study on Developers&apos; Perceptions about Exception Handling Bugs.	Felipe Ebert,Fernando Castor	10.1109/ICSM.2013.69
+WSDARWIN: A Decision-Support Tool for Web-Service Evolution.	Marios Fokaefs,Eleni Stroulia	10.1109/ICSM.2013.68
+Investigating the Impact of Code Smells on System&apos;s Quality: An Empirical Study on Systems of Different Application Domains.	Francesca Arcelli Fontana,Vincenzo Ferme,Alessandro Marino,Bartosz Walter,Pawel Martenka	10.1109/ICSM.2013.37
+Code Smell Detection: Towards a Machine Learning-Based Approach.	Francesca Arcelli Fontana,Marco Zanoni,Alessandro Marino,Mika Mäntylä	10.1109/ICSM.2013.56
+Determining &quot;Grim Reaper&quot; Policies to Prevent Languishing Bugs.	Patrick Francis,Laurie A. Williams	10.1109/ICSM.2013.66
+Social Activities Rival Patch Submission for Prediction of Developer Initiation in OSS Projects.	Mohammad Gharehyazie,Daryl Posnett,Vladimir Filkov	10.1109/ICSM.2013.45
+Understanding Schema Evolution as a Basis for Database Reengineering.	Maxime Gobert 0001,Jerome Maes,Anthony Cleve,Jens H. Weber	10.1109/ICSM.2013.75
+How Multiple Developers Affect the Evolution of Code Clones.	Jan Harder	10.1109/ICSM.2013.14
+Revealing the Effect of Coding Practices on Software Maintainability.	Péter Hegedüs	10.1109/ICSM.2013.99
+Which Feature Location Technique is Better?	Emily Hill 0001,Alberto Bacchelli,Dave W. Binkley,Bogdan Dit,Dawn J. Lawrie,Rocco Oliveto	10.1109/ICSM.2013.59
+Differentiating Roles of Program Elements in Action-Oriented Concerns.	Emily Hill 0001,David C. Shepherd,Lori L. Pollock,K. Vijay-Shanker	10.1109/ICSM.2013.51
+A Visualization Tool for Reverse-Engineering of Complex Component Applications.	Lukas Holy,Jaroslav Snajberk,Premek Brada,Kamil Jezek	10.1109/ICSM.2013.82
+Content Categorization of API Discussions.	Daqing Hou,Lingfeng Mo	10.1109/ICSM.2013.17
+Automatic Means of Identifying Evolutionary Events in Software Development.	Siim Karus	10.1109/ICSM.2013.60
+eCITY: A Tool to Track Software Structural Changes Using an Evolving City.	Taimur Khan,Henning Barthel,Achim Ebert,Peter Liggesmeyer	10.1109/ICSM.2013.80
+Exploring the Limits of Domain Model Recovery.	Paul Klint,Davy Landman,Jurgen J. Vinju	10.1109/ICSM.2013.23
+Refactoring Clones: An Optimization Problem.	Giri Panamoottil Krishnan,Nikolaos Tsantalis	10.1109/ICSM.2013.47
+Automated S/W Reengineering for Fault-Tolerant and Energy-Efficient Distributed Execution.	Young-Woo Kwon 0001	10.1109/ICSM.2013.100
+Reducing the Energy Consumption of Mobile Applications Behind the Scenes.	Young-Woo Kwon 0001,Eli Tilevich	10.1109/ICSM.2013.28
+Combining Static and Dynamic Analyses to Reverse-Engineer Scenario Diagrams.	Yvan Labiche,Bojana Kolbah,Hossein Mehrfard	10.1109/ICSM.2013.24
+Mining Telecom System Logs to Facilitate Debugging Tasks.	Alf Larsson,Abdelwahab Hamou-Lhadj	10.1109/ICSM.2013.90
+Will Fault Localization Work for These Failures? An Automated Approach to Predict Effectiveness of Fault Localization Tools.	Tien-Duy B. Le,David Lo 0001	10.1109/ICSM.2013.42
+Theory and Practice, Do They Match? A Case with Spectrum-Based Fault Localization.	Tien-Duy B. Le,Ferdian Thung,David Lo 0001	10.1109/ICSM.2013.52
+Multi-abstraction Concern Localization.	Tien-Duy B. Le,Shaowei Wang 0002,David Lo 0001	10.1109/ICSM.2013.48
+A Pilot Experiment to Quantify the Effect of Documentation Accuracy on Maintenance Tasks.	Maurizio Leotta,Filippo Ricca,Giuliano Antoniol,Vahid Garousi,Junji Zhi,Günther Ruhe	10.1109/ICSM.2013.64
+Identification of Refused Bequest Code Smells.	Elvis Ligu,Alexander Chatzigeorgiou,Theodoros Chaikalis,Nikolaos Ygeionomakis	10.1109/ICSM.2013.55
+Multi-objective Optimal Test Suite Computation for Software Product Line Pairwise Testing.	Roberto E. Lopez-Herrejon,Francisco Chicano,Javier Ferrer,Alexander Egyed,Enrique Alba 0001	10.1109/ICSM.2013.58
+On Rapid Releases and Software Testing.	Mika Mäntylä,Foutse Khomh,Bram Adams,Emelie Engström,Kai Petersen	10.1109/ICSM.2013.13
+Test Case Prioritization for Continuous Regression Testing: An Industrial Case Study.	Dusica Marijan,Arnaud Gotlieb,Sagar Sen	10.1109/ICSM.2013.91
+Automatically Extracting Instances of Code Change Patterns with AST Analysis.	Matias Martinez,Laurence Duchien,Martin Monperrus	10.1109/ICSM.2013.54
+An Empirical Study of API Stability and Adoption in the Android Ecosystem.	Tyler McDonnell,Baishakhi Ray,Miryung Kim	10.1109/ICSM.2013.18
+Mining Software Repositories for Accurate Authorship.	Xiaozhu Meng,Barton P. Miller,William R. Williams,Andrew R. Bernat	10.1109/ICSM.2013.36
+Towards Understanding Large-Scale Adaptive Changes from Version Histories.	Omar Meqdadi,Nouh Alhindawi,Michael L. Collard,Jonathan I. Maletic	10.1109/ICSM.2013.61
+Assuming Software Maintenance of a Large, Embedded Legacy System from the Original Developer.	William L. Miller,Lawrence B. Compton,Bruce L. Woodmansee	10.1109/ICSM.2013.94
+SAMOA - A Visual Software Analytics Platform for Mobile Applications.	Roberto Minelli,Michele Lanza	10.1109/ICSM.2013.76
+On the Relationship between the Vocabulary of Bug Reports and Source Code.	Laura Moreno,Wathsala Bandara,Sonia Haiduc,Andrian Marcus	10.1109/ICSM.2013.70
+Stakeholders&apos; Information Needs for Artifacts and Their Dependencies in a Real World Context.	Sebastian C. Muller,Thomas Fritz 0001	10.1109/ICSM.2013.40
+Output-Oriented Refactoring in PHP-Based Dynamic Web Applications.	Hoan Anh Nguyen,Hung Viet Nguyen,Tung Thanh Nguyen,Tien N. Nguyen	10.1109/ICSM.2013.26
+Database-Aware Fault Localization for Dynamic Web Applications.	Hung Viet Nguyen,Hoan Anh Nguyen,Tung Thanh Nguyen,Tien N. Nguyen	10.1109/ICSM.2013.71
+Variations on Using Propagation Cost to Measure Architecture Modifiability Properties.	Robert L. Nord,Ipek Ozkaya,Raghvinder S. Sangwan,Julien Delange,Marco A. Gonzalez,Philippe Kruchten	10.1109/ICSM.2013.57
+SourceMiner Evolution: A Tool for Supporting Feature Evolution Comprehension.	Renato Lima Novais,Camila Nunes,Alessandro Garcia 0001,Manoel G. Mendonça	10.1109/ICSM.2013.83
+An Analysis of Machine Learning Algorithms for Condensing Reverse Engineered Class Diagrams.	Mohd Hafeez Osman,Michel R. V. Chaudron,Peter van der Putten	10.1109/ICSM.2013.25
+Can Refactoring Cyclic Dependent Components Reduce Defect-Proneness?	Tosin Daniel Oyetoyan,Daniela S. Cruzes,Reidar Conradi	10.1109/ICSM.2013.62
+Refactoring Planning for Design Smell Correction: Summary, Opportunities and Lessons Learned.	Javier Perez	10.1109/ICSM.2013.98
+Architecture Compliance Checking of Semantically Rich Modular Architectures: A Comparative Study of Tool Support.	Leo Pruijt,Christian Köppe,Sjaak Brinkkemper	10.1109/ICSM.2013.33
+Efficient Automated Program Repair through Fault-Recorded Testing Prioritization.	Yuhua Qi,Xiaoguang Mao,Yan Lei	10.1109/ICSM.2013.29
+Mining Logical Clones in Software: Revealing High-Level Business and Programming Rules.	Wenyi Qian,Xin Peng 0001,Zhenchang Xing,Stan Jarzabek,Wenyun Zhao	10.1109/ICSM.2013.15
+Which Practices Are Suitable for an Academic Software Project?	Václav Rajlich,Jing Hua 0001	10.1109/ICSM.2013.67
+Towards Identification of Software Improvements and Specification Updates by Comparing Monitored and Specified End-User Behavior.	Tobias Roehm,Bernd Bruegge,Tom-Michael Hesse,Barbara Paech	10.1109/ICSM.2013.73
+CONQUER: A Tool for NL-Based Query Refinement and Contextualizing Code Search Results.	Manuel Roldan-Vega,Greg Mallet,Emily Hill 0001,Jerry Alan Fails	10.1109/ICSM.2013.84
+Towards a Weighted Voting System for Q&amp;A Sites.	Daniele Romano,Martin Pinzger 0001	10.1109/ICSM.2013.49
+Towards a Scalable Cloud Platform for Search-Based Probabilistic Testing.	Louis M. Rose,Simon M. Poulding,Robert Feldt,Richard F. Paige	10.1109/ICSM.2013.77
+gCad: A Near-Miss Clone Genealogy Extractor to Support Clone Evolution Analysis.	Ripon K. Saha,Chanchal K. Roy,Kevin A. Schneider	10.1109/ICSM.2013.79
+Dealing with Faults in Source Code: Abbreviated vs. Full-Word Identifier Names.	Giuseppe Scanniello,Michele Risi	10.1109/ICSM.2013.30
+A Fuzzy Expert System for Cost-Effective Regression Testing Strategies.	Amanda Schwartz,Hyunsook Do	10.1109/ICSM.2013.11
+Browserbite: Accurate Cross-Browser Testing via Machine Learning over Image Features.	Nataliia Semenenko,Marlon Dumas,Tonis Saar	10.1109/ICSM.2013.88
+On the Automation of Dependency-Breaking Refactorings in Java.	Syed Muhammad Ali Shah,Jens Dietrich 0001,Catherine McCartin	10.1109/ICSM.2013.27
+The Adventure of Developing a Software Application on a Pre-release Platform: Features and Learned Lessons.	Clauirton de Siebra,Angélica A. Mascaro,Fabio Q. B. da Silva,André L. M. Santos	10.1109/ICSM.2013.95
+An Initial Investigation into Change-Based Reconstruction of Floss-Refactorings.	Quinten David Soetens,Javier Pérez,Serge Demeyer	10.1109/ICSM.2013.53
+Improving Statistical Approach for Memory Leak Detection Using Machine Learning.	Vladimir Sor,Plumbr Ou,Tarvo Treier,Satish Narayana Srirama	10.1109/ICSM.2013.92
+Interactive Exploration of Collaborative Software-Development Data.	Eleni Stroulia,Isaac Matichuk,Fabio Rocha,Ken Bauer	10.1109/ICSM.2013.102
+Leveraging Performance Counters and Execution Logs to Diagnose Memory-Related Performance Issues.	Mark D. Syer,Zhen Ming Jiang,Meiyappan Nagappan,Ahmed E. Hassan,Mohamed N. Nasser,Parminder Flora	10.1109/ICSM.2013.22
+Predicting Bugs Using Antipatterns.	Seyyed Ehsan Salamati Taba,Foutse Khomh,Ying Zou 0001,Ahmed E. Hassan,Meiyappan Nagappan	10.1109/ICSM.2013.38
+DRONE: Predicting Priority of Reported Bugs by Multi-factor Analysis.	Yuan Tian 0008,David Lo 0001,Chengnian Sun	10.1109/ICSM.2013.31
+Identifying Process Improvement Targets in Test Processes: A Case Study.	Tanja Toroi,Anu Raninen,Lauri Väätäinen	10.1109/ICSM.2013.12
+Latent Co-development Analysis Based Semantic Search for Large Code Repositories.	Rahul Venkataramani,Allahbaksh M. Asadullah,Vasudev D. Bhat,Basavaraju Muddu	10.1109/ICSM.2013.50
+Mining Software Profile across Multiple Repositories for Hierarchical Categorization.	Tao Wang 0006,Huaimin Wang,Gang Yin,Charles X. Ling,Xiang Li 0012,Peng Zou	10.1109/ICSM.2013.35
+Large-Scale Automated Refactoring Using ClangMR.	Hyrum K. Wright,Daniel Jasper,Manuel Klimek,Chandler Carruth,Zhanyong Wan	10.1109/ICSM.2013.93
+An Automation-Assisted Empirical Study on Lock Usage for Concurrent Programs.	Rui Xin,Zhengwei Qi,Shiqiu Huang,Chengcheng Xiang,Yudi Zheng,Yin Wang,Haibing Guan	10.1109/ICSM.2013.21
+How Good Are Code Smells for Evaluating Software Maintainability? Results from a Comparative Case Study.	Aiko Yamashita	10.1109/ICSM.2013.97
+Towards a Taxonomy of Programming-Related Difficulties during Maintenance.	Aiko Fallas Yamashita,Leon Moonen	10.1109/ICSM.2013.63
+Automated Classification of Static Code Analysis Alerts: A Case Study.	Ulas Yuksel,Hasan Sözer	10.1109/ICSM.2013.89
+How Does Context Affect the Distribution of Software Maintainability Metrics?	Feng Zhang 0001,Audris Mockus,Ying Zou 0001,Foutse Khomh,Ahmed E. Hassan	10.1109/ICSM.2013.46
+2013 IEEE International Conference on Software Maintenance, Eindhoven, The Netherlands, September 22-28, 2013		

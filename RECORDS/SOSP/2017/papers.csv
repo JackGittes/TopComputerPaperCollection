@@ -1,0 +1,40 @@
+Low-Latency Analytics on Colossal Data Streams with SummaryStore.	Nitin Agrawal 0001,Ashish Vulimiri	10.1145/3132747.3132758
+Scaling a file system to many cores using an operation log.	Srivatsa S. Bhat,Rasha Eqbal,Austin T. Clements,M. Frans Kaashoek,Nickolai Zeldovich	10.1145/3132747.3132779
+Prochlo: Strong Privacy for Analytics in the Crowd.	Andrea Bittau,Úlfar Erlingsson,Petros Maniatis,Ilya Mironov,Ananth Raghunathan,David Lie,Mitch Rudominer,Ushasree Kode,Julien Tinnés,Bernhard Seefeld	10.1145/3132747.3132769
+Verifying a high-performance crash-safe file system using a tree specification.	Haogang Chen 0001,Tej Chajed,Alex Konradi,Stephanie Wang,Atalay Mert Ileri,Adam Chlipala,M. Frans Kaashoek,Nickolai Zeldovich	10.1145/3132747.3132776
+Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms.	Eli Cortez,Anand Bonde,Alexandre Muzio,Mark Russinovich,Marcus Fontoura,Ricardo Bianchini	10.1145/3132747.3132772
+Komodo: Using verification to disentangle secure-enclave hardware from software.	Andrew Ferraiuolo,Andrew Baumann,Chris Hawblitzel,Bryan Parno	10.1145/3132747.3132782
+Automatically Repairing Network Control Planes Using an Abstract Representation.	Aaron Gember-Jacobson,Aditya Akella,Ratul Mahajan,Hongqiang Harry Liu	10.1145/3132747.3132753
+Algorand: Scaling Byzantine Agreements for Cryptocurrencies.	Yossi Gilad,Rotem Hemo,Silvio Micali,Georgios Vlachos,Nickolai Zeldovich	10.1145/3132747.3132757
+MittOS: Supporting Millisecond Tail Tolerance with Fast Rejecting SLO-Aware OS Interface.	Mingzhe Hao,Huaicheng Li,Michael Hao Tong,Chrisma Pakha,Riza O. Suminto,Cesar A. Stuardo,Andrew A. Chien,Haryadi S. Gunawi	10.1145/3132747.3132774
+SVE: Distributed Video Processing at Facebook Scale.	Qi Huang,Petchean Ang,Peter Knowles,Tomasz Nykiel,Iaroslav Tverdokhlib,Amit Yajurvedi,Paul Dapolito IV,Xifan Yan,Maxim Bykov,Chuen Liang,Mohit Talwar,Abhishek Mathur,Sachin Kulkarni,Matthew Burke 0001,Wyatt Lloyd	10.1145/3132747.3132775
+NetCache: Balancing Key-Value Stores with Fast In-Network Caching.	Xin Jin 0008,Xiaozhou Li,Haoyu Zhang,Robert Soulé,Jeongkeun Lee,Nate Foster,Changhoon Kim,Ion Stoica	10.1145/3132747.3132764
+Canopy: An End-to-End Performance Tracing And Analysis System.	Jonathan Kaldor,Jonathan Mace,Michal Bejda,Edison Gao,Wiktor Kuropatwa,Joe O&apos;Neill,Kian Win Ong,Bill Schaller,Pingjia Shan,Brendan Viscomi,Vinod Venkataraman,Kaushik Veeraraghavan,Yee Jiun Song	10.1145/3132747.3132749
+Lazy Diagnosis of In-Production Concurrency Bugs.	Baris Kasikci,Weidong Cui,Xinyang Ge,Ben Niu	10.1145/3132747.3132767
+Rocksteady: Fast Migration for Low-latency In-memory Storage.	Chinmay Kulkarni 0002,Aniraj Kesavan,Tian Zhang,Robert Ricci,Ryan Stutsman	10.1145/3132747.3132784
+Atom: Horizontally Scaling Strong Anonymity.	Albert Kwon,Henry Corrigan-Gibbs,Srinivas Devadas,Bryan Ford	10.1145/3132747.3132755
+Strata: A Cross Media File System.	Youngjin Kwon,Henrique Fingler,Tyler Hunt,Simon Peter 0001,Emmett Witchel,Thomas E. Anderson	10.1145/3132747.3132770
+Multiprogramming a 64kB Computer Safely and Efficiently.	Amit Levy,Bradford Campbell,Branden Ghena,Daniel B. Giffin,Pat Pannuto,Prabal Dutta,Philip Alexander Levis	10.1145/3132747.3132786
+Eris: Coordination-Free Consistent Transactions Using In-Network Concurrency Control.	Jialin Li 0001,Ellis Michael,Dan R. K. Ports	10.1145/3132747.3132751
+KV-Direct: High-Performance In-Memory Key-Value Store with Programmable NIC.	Bojie Li,Zhenyuan Ruan,Wencong Xiao,Yuanwei Lu,Yongqiang Xiong,Andrew Putnam,Enhong Chen,Lintao Zhang	10.1145/3132747.3132756
+NEVE: Nested Virtualization Extensions for ARM.	Jin Tack Lim,Christoffer Dall,Shih-Wei Li,Jason Nieh,Marc Zyngier	10.1145/3132747.3132754
+CrystalNet: Faithfully Emulating Large Production Networks.	Hongqiang Harry Liu,Yibo Zhu,Jitu Padhye,Jiaxin Cao,Sri Tallapragada,Nuno P. Lopes,Andrey Rybalchenko,Guohan Lu,Lihua Yuan	10.1145/3132747.3132759
+My VM is Lighter (and Safer) than your Container.	Filipe Manco,Costin Lupu,Florian Schmidt 0002,Jose Mendes,Simon Kuenzer,Sumit Sati,Kenichi Yasukata,Costin Raiciu,Felipe Huici	10.1145/3132747.3132763
+Hyperkernel: Push-Button Verification of an OS Kernel.	Luke Nelson,Helgi Sigurbjarnarson,Kaiyuan Zhang 0001,Dylan Johnson,James Bornholt,Emina Torlak,Xi Wang 0005	10.1145/3132747.3132748
+Secure Page Fusion with VUsion: https: //www.vusec.net/projects/VUsion.	Marco Oliverio,Kaveh Razavi,Herbert Bos,Cristiano Giuffrida	10.1145/3132747.3132781
+Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks.	Kay Ousterhout,Christopher Canel,Sylvia Ratnasamy,Scott Shenker	10.1145/3132747.3132766
+DeepXplore: Automated Whitebox Testing of Deep Learning Systems.	Kexin Pei,Yinzhi Cao,Junfeng Yang,Suman Jana	10.1145/3132747.3132785
+ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks.	George Prekas,Marios Kogias,Edouard Bugnion	10.1145/3132747.3132780
+PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees.	Pandian Raju,Rohan Kadekodi,Vijay Chidambaram,Ittai Abraham	10.1145/3132747.3132765
+ffwd: delegation is (much) faster than you think.	Sepideh Roghanchi,Jakob Eriksson,Nilanjana Basu	10.1145/3132747.3132771
+Optimizing Big-Data Queries Using Program Synthesis.	Matthias Schlaipfer,Kaushik Rajan,Akash Lal,Malavika Samak	10.1145/3132747.3132773
+WatchIT: Who Watches Your IT Guy?	Noam Shalev,Idit Keidar,Yaron Weinsberg,Yosef Moatti,Elad Ben-Yehuda	10.1145/3132747.3132752
+The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web.	Cheng Tan 0005,Lingfan Yu,Joshua B. Leners,Michael Walfish	10.1145/3132747.3132760
+LITE Kernel RDMA Support for Datacenter Applications.	Shin-Yeh Tsai,Yiying Zhang 0005	10.1145/3132747.3132762
+Stadium: A Distributed Metadata-Private Messaging System.	Nirvan Tyagi,Yossi Gilad,Derek Leung,Matei Zaharia,Nickolai Zeldovich	10.1145/3132747.3132783
+Drizzle: Fast and Adaptable Stream Processing at Scale.	Shivaram Venkataraman,Aurojit Panda,Kay Ousterhout,Michael Armbrust,Ali Ghodsi 0002,Michael J. Franklin,Benjamin Recht,Ion Stoica	10.1145/3132747.3132750
+NOVA-Fortis: A Fault-Tolerant Non-Volatile Main Memory File System.	Jian Xu 0012,Lu Zhang,Amir Saman Memaripour,Akshatha Gangadharaiah,Amit Borase,Tamires Brito Da Silva,Steven Swanson,Andy Rudoff	10.1145/3132747.3132761
+Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data.	Yunhao Zhang,Rong Chen 0001,Haibo Chen 0001	10.1145/3132747.3132777
+Pensieve: Non-Intrusive Failure Reproduction for Distributed Systems using the Event Chaining Approach.	Yongle Zhang,Serguei Makarov,Xiang Ren 0003,David Lion,Ding Yuan 0004	10.1145/3132747.3132768
+Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold.	Xu Zhao,Kirk Rodrigues,Yu Luo,Michael Stumm,Ding Yuan 0004,Yuanyuan Zhou 0001	10.1145/3132747.3132778
+Proceedings of the 26th Symposium on Operating Systems Principles, Shanghai, China, October 28-31, 2017		

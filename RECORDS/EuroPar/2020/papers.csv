@@ -1,0 +1,40 @@
+Using Dynamic Broadcasts to Improve Task-Based Runtime Performances.	Alexandre Denis 0001,Emmanuel Jeannot,Philippe Swartvagher,Samuel Thibault	10.1007/978-3-030-57675-2_28
+A Prediction Framework for Fast Sparse Triangular Solves.	Najeeb Ahmad,Buse Yilmaz,Didem Unat	10.1007/978-3-030-57675-2_33
+A Learning-Based Approach for Evaluating the Capacity of Data Processing Pipelines.	Maha Alsayasneh,Noel De Palma	10.1007/978-3-030-57675-2_4
+Maximizing I/O Bandwidth for Reverse Time Migration on Heterogeneous Large-Scale Systems.	Tariq Alturkestani,Hatem Ltaief,David E. Keyes	10.1007/978-3-030-57675-2_17
+NV-PhTM: An Efficient Phase-Based Transactional System for Non-volatile Memory.	Alexandro Baldassin,Rafael Murari,João P. L. de Carvalho,Guido Araujo,Daniel Castro 0004,João Barreto 0001,Paolo Romano 0002	10.1007/978-3-030-57675-2_30
+OmpMemOpt: Optimized Memory Movement for Heterogeneous Computing.	Prithayan Barua,Jisheng Zhao,Vivek Sarkar	10.1007/978-3-030-57675-2_13
+Approximation Algorithm for Estimating Distances in Distributed Virtual Environments.	Olivier Beaumont,Tobias Castanet,Nicolas Hanusse,Corentin Travers	10.1007/978-3-030-57675-2_23
+Optimal GPU-CPU Offloading Strategies for Deep Neural Network Training.	Olivier Beaumont,Lionel Eyraud-Dubois,Alena Shilova	10.1007/978-3-030-57675-2_10
+A Makespan Lower Bound for the Tiled Cholesky Factorization Based on ALAP Schedule.	Olivier Beaumont,Julien Langou,Willy Quach,Alena Shilova	10.1007/978-3-030-57675-2_9
+Modelling Standard and Randomized Slimmed Folded Clos Networks.	Cristóbal Camarero,Javier Corral,Carmen Martínez,Ramón Beivide	10.1007/978-3-030-57675-2_12
+Heterogeneous CPU+iGPU Processing for Efficient Epistasis Detection.	Rafael Campos,Diogo Marques 0003,Sergio Santander-Jiménez,Leonel Sousa,Aleksandar Ilic	10.1007/978-3-030-57675-2_38
+A Toolchain to Verify the Parallelization of OmpSs-2 Applications.	Simone Economo,Sara Royuela,Eduard Ayguadé,Vicenç Beltran 0001	10.1007/978-3-030-57675-2_2
+Managing Failures in Task-Based Parallel Workflows in Distributed Computing Environments.	Jorge Ejarque,Marta Bertran,Javier Álvarez Cid-Fuentes,Javier Conejero,Rosa M. Badia	10.1007/978-3-030-57675-2_26
+Accelerating Overlapping Community Detection: Performance Tuning a Stochastic Gradient Markov Chain Monte Carlo Algorithm.	Ismail El-Helw,Rutger F. H. Hofman,Henri E. Bal	10.1007/978-3-030-57675-2_32
+LCP-Aware Parallel String Sorting.	Jonas Ellert,Johannes Fischer 0001,Nodari Sitchinava	10.1007/978-3-030-57675-2_21
+TorqueDB: Distributed Querying of Time-Series Data from Edge-local Storage.	Dhruv Garg,Prathik Shirolkar,Anshu Shukla,Yogesh Simmhan	10.1007/978-3-030-57675-2_18
+Multiprecision Block-Jacobi for Iterative Triangular Solves.	Fritz Göbel,Hartwig Anzt,Terry Cojean,Goran Flegar,Enrique S. Quintana-Ortí	10.1007/978-3-030-57675-2_34
+Improving Mapping for Sparse Direct Solvers - A Trade-Off Between Data Locality and Load Balancing.	Changjiang Gou,Ali Al Zoobi,Anne Benoit,Mathieu Faverge,Loris Marchal,Grégoire Pichon,Pierre Ramet	10.1007/978-3-030-57675-2_11
+Accelerating Nested Data Parallelism: Preserving Regularity.	Lars B. van den Haak,Trevor L. McDonell,Gabriele K. Keller,Ivo Gabe de Wolff	10.1007/978-3-030-57675-2_27
+On the Power of Randomization in Distributed Algorithms in Dynamic Networks with Adaptive Adversaries.	Irvan Jahja,Haifeng Yu,Ruomu Hou	10.1007/978-3-030-57675-2_24
+A Comparison of the Scalability of OpenMP Implementations.	Tim Jammer,Christian Iwainsky,Christian H. Bischof	10.1007/978-3-030-57675-2_6
+3D Coded SUMMA: Communication-Efficient and Robust Parallel Matrix Multiplication.	Haewon Jeong,Yaoqing Yang,Vipul Gupta,Christian Engelmann,Tze Meng Low,Viveck R. Cadambe,Kannan Ramchandran,Pulkit Grover	10.1007/978-3-030-57675-2_25
+SYCL-Bench: A Versatile Cross-Platform Benchmark Suite for Heterogeneous Computing.	Sohan Lal,Aksel Alpay,Philip Salzmann,Biagio Cosenza,Alexander Hirsch,Nicolai Stawinoga,Peter Thoman,Thomas Fahringer,Vincent Heuveline	10.1007/978-3-030-57675-2_39
+Distributed Fine-Grained Traffic Speed Prediction for Large-Scale Transportation Networks Based on Automatic LSTM Customization and Sharing.	Ming-Chang Lee,Jia-Chun Lin,Ernst Gunnar Gran	10.1007/978-3-030-57675-2_15
+Mobile RAM and Shape Formation by Programmable Particles.	Giuseppe Antonio Di Luna,Paola Flocchini,Nicola Santoro,Giovanni Viglietta,Yukiko Yamauchi	10.1007/978-3-030-57675-2_22
+Parallel Scheduling of Data-Intensive Tasks.	Xiao Meng,Lukasz Golab	10.1007/978-3-030-57675-2_8
+A Compression-Based Design for Higher Throughput in a Lock-Free Hash Map.	Pedro Moreno,Miguel Areias 0001,Ricardo Rocha 0001	10.1007/978-3-030-57675-2_29
+Skipping Non-essential Instructions Makes Data-Dependence Profiling Faster.	Nicolas Morew,Mohammad Norouzi Arab,Ali Jannesari,Felix Wolf 0001	10.1007/978-3-030-57675-2_1
+Enhancing Resource Management Through Prediction-Based Policies.	Antoni C. Navarro,Arthur Francisco Lorenzon,Eduard Ayguadé,Vicenç Beltran 0001	10.1007/978-3-030-57675-2_31
+Evaluating the Effectiveness of a Vector-Length-Agnostic Instruction Set.	Andrei Poenaru,Simon McIntosh-Smith	10.1007/978-3-030-57675-2_7
+Towards a Model to Estimate the Reliability of Large-Scale Hybrid Supercomputers.	Elvis Rojas,Esteban Meneses,Terry R. Jones,Don Maxwell	10.1007/978-3-030-57675-2_3
+Parallel Finite Cell Method with Adaptive Geometric Multigrid.	Seyed Saberi,Andreas Vogel 0001,Günther Meschke	10.1007/978-3-030-57675-2_36
+Data-Centric Distributed Computing on Networks of Mobile Devices.	Pedro Sanches,João A. Silva,António Teófilo,Hervé Paulino	10.1007/978-3-030-57675-2_19
+cuDTW++: Ultra-Fast Dynamic Time Warping on CUDA-Enabled GPUs.	Bertil Schmidt,Christian Hundt 0002	10.1007/978-3-030-57675-2_37
+Efficient Ephemeris Models for Spacecraft Trajectory Simulations on GPUs.	Fabian Schrammel,Florian Renk,Arya Mazaheri,Felix Wolf 0001	10.1007/978-3-030-57675-2_35
+WPSP: A Multi-correlated Weighted Policy for VM Selection and Migration for Cloud Computing.	Sergi Vila,Josep L. Lérida,Fernando Cores,Fernando Guirado,Fábio L. Verdi	10.1007/978-3-030-57675-2_20
+Accelerating Deep Learning Inference with Cross-Layer Data Reuse on GPUs.	Xueying Wang,Guangli Li,Xiao Dong,Jiansong Li,Lei Liu 0030,Xiaobing Feng 0002	10.1007/978-3-030-57675-2_14
+Optimizing FFT-Based Convolution on ARMv8 Multi-core CPUs.	Qinglin Wang,Dongsheng Li 0001,Xiandong Huang,Siqi Shen,Songzhu Mei,Jie Liu 0002	10.1007/978-3-030-57675-2_16
+Operation-Aware Power Capping.	Bo Wang,Julian Miller,Christian Terboven,Matthias S. Müller	10.1007/978-3-030-57675-2_5
+Euro-Par 2020: Parallel Processing - 26th International Conference on Parallel and Distributed Computing, Warsaw, Poland, August 24-28, 2020, Proceedings	Maciej Malawski,Krzysztof Rzadca	10.1007/978-3-030-57675-2

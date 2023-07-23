@@ -1,0 +1,50 @@
+Nearly Work-Efficient Parallel DFS in Undirected Graphs.	Mohsen Ghaffari 0001,Christoph Grunau,Jiahao Qu	10.1145/3558481.3591094
+Parallel Longest Increasing Subsequence and van Emde Boas Trees.	Yan Gu 0001,Ziyang Men,Zheqi Shen,Yihan Sun 0001,Zijin Wan	10.1145/3558481.3591069
+High-Performance and Flexible Parallel Algorithms for Semisort and Related Problems.	Xiaojun Dong 0001,Yunshu Wu,Zhongqi Wang,Laxman Dhulipala,Yan Gu 0001,Yihan Sun 0001	10.1145/3558481.3591071
+Fast Dynamic Programming in Trees in the MPC Model.	Chetan Gupta 0002,Rustam Latypov,Yannic Maus,Shreyas Pai,Simo Särkkä,Jan Studený,Jukka Suomela,Jara Uitto,Hossein Vahidi 0001	10.1145/3558481.3591098
+Transactional Composition of Nonblocking Data Structures.	Wentao Cai 0002,Haosen Wen,Michael L. Scott	10.1145/3558481.3591079
+Brief Announcement: Is the Problem-Based Benchmark Suite Fearless with Rust?	Javad Abdi,Guowei Zhang 0002,Mark C. Jeffrey	10.1145/3558481.3591313
+Massively Parallel Tree Embeddings for High Dimensional Spaces.	AmirMohsen Ahanchi,Alexandr Andoni,MohammadTaghi Hajiaghayi,Marina Knittel,Peilin Zhong	10.1145/3558481.3591096
+Quadratic Speedups in Parallel Sampling from Determinantal Distributions.	Nima Anari,Callum Burgess,Kevin Tian,Thuy-Duong Vuong	10.1145/3558481.3591104
+An Associativity Threshold Phenomenon in Set-Associative Caches.	Michael A. Bender,Rathish Das,Martin Farach-Colton,Guido Tagliavini	10.1145/3558481.3591084
+Increment - and - Freeze: Every Cache, Everywhere, All of the Time.	Michael A. Bender,Daniel DeLayo,Bradley C. Kuszmaul,William Kuszmaul,Evan West	10.1145/3558481.3591085
+Are Parallel Algorithms Ready for Prime Time?	Guy E. Blelloch	10.1145/3558481.3591068
+Nearly Optimal Parallel Algorithms for Longest Increasing Subsequence.	Nairen Cao,Shang-En Huang,Hsin-Hao Su	10.1145/3558481.3591078
+On Parallel k-Center Clustering.	Sam Coy,Artur Czumaj,Gopinath Mishra	10.1145/3558481.3591075
+Efficient Synchronization-Light Work Stealing.	Rafael Custódio,Hervé Paulino,Guilherme Rito	10.1145/3558481.3591099
+Parallel Memory-Independent Communication Bounds for SYRK.	Hussam Al Daas,Grey Ballard,Laura Grigori,Suraj Kumar,Kathryn Rouse	10.1145/3558481.3591072
+A Tight Characterization of Fast Failover Routing: Resiliency to Two Link Failures is Possible.	Wenkai Dai,Klaus-Tycho Foerster,Stefan Schmid 0001	10.1145/3558481.3591080
+Brief Announcement: On Solving Recoverable Mutual Exclusion Under System-Wide Failures.	Sahil Dhoked,Wojciech Golab,Neeraj Mittal	10.1145/3558481.3591317
+Quancurrent: A Concurrent Quantiles Sketch.	Shaked Elias-Zada,Arik Rinberg,Idit Keidar	10.1145/3558481.3591074
+Brief Announcement: Streaming Balanced Clustering.	Hossein Esfandiari,Vahab Mirrokni,Peilin Zhong	10.1145/3558481.3591318
+Brief Announcement: A Parallel Architecture for Dynamic Approximate Membership.	Guy Even,Gabriel Marques Domingues,Parham Toutian	10.1145/3558481.3591312
+Provably-Efficient and Internally-Deterministic Parallel Union-Find.	Alexander Fedorov,Diba Hashemi,Giorgi Nadiradze,Dan Alistarh	10.1145/3558481.3591082
+Deterministic Massively Parallel Symmetry Breaking for Sparse Graphs.	Manuela Fischer,Jeff Giliberti,Christoph Grunau	10.1145/3558481.3591081
+Coloring Fast with Broadcasts.	Maxime Flin,Mohsen Ghaffari 0001,Magnús M. Halldórsson,Fabian Kuhn,Alexandre Nolin	10.1145/3558481.3591095
+Brief Announcement: List Defective Colorings: Distributed Algorithms and Applications.	Marc Fuchs,Fabian Kuhn	10.1145/3558481.3591319
+Multidimensional Approximate Agreement with Asynchronous Fallback.	Diana Ghinea,Chen-Da Liu-Zhang,Roger Wattenhofer	10.1145/3558481.3591105
+Brief Announcement: Regular and Dyck Languages in MPC.	Jacob Gilbert,MohammadTaghi Hajiaghayi	10.1145/3558481.3591316
+Location-Sensitive String Problems in MPC.	Jacob Gilbert,MohammadTaghi Hajiaghayi,Hamed Saleh,Saeed Seddighin	10.1145/3558481.3591090
+Optimal Parallel Sorting with Comparison Errors.	Michael T. Goodrich,Riko Jacob	10.1145/3558481.3591093
+Almost Optimal Massively Parallel Algorithms for k-Center Clustering and Diversity Maximization.	Alireza Haqi,Hamid Zarrabi-Zadeh	10.1145/3558481.3591077
+Constant RMR System-wide Failure Resilient Durable Locks with Dynamic Joining.	Prasad Jayanti,Siddhartha Jayanti,Anup Joshi	10.1145/3558481.3591100
+Applying Hazard Pointers to More Concurrent Data Structures.	Jaehwang Jung,Janggun Lee,Jeonghyeon Kim,Jeehoon Kang	10.1145/3558481.3591102
+PIM-trie: A Skew-resistant Trie for Processing-in-Memory.	Hongbo Kang,Yiwei Zhao,Guy E. Blelloch,Laxman Dhulipala,Yan Gu 0001,Charles McGuffey,Phillip B. Gibbons	10.1145/3558481.3591070
+The Connection Machine CM-5, Moore&apos;s Law, and the Future of Computational Performance.	Bradley C. Kuszmaul,Charles E. Leiserson	10.1145/3558481.3591321
+In-network Allreduce with Multiple Spanning Trees on PolarFly.	Kartik Lakhotia,Kelly Isham,Laura Monroe,Maciej Besta,Torsten Hoefler,Fabrizio Petrini	10.1145/3558481.3591073
+Adaptive Massively Parallel Connectivity in Optimal Space.	Rustam Latypov,Jakub Lacki,Yannic Maus,Jara Uitto	10.1145/3558481.3591103
+Balanced Allocations in Batches: The Tower of Two Choices.	Dimitrios Los,Thomas Sauerwald	10.1145/3558481.3591088
+Brief Announcement: Accelerate CNN Inference with Zoning Graph at Dynamic Granularity.	Ruilong Ma,Xiang Yang,Qi Qi 0001,Jingyu Wang,Zirui Zhuang,Jing Wang,Xin Wang	10.1145/3558481.3591311
+Multiplying 2 × 2 Sub-Blocks Using 4 Multiplications.	Yoav Moran,Oded Schwartz	10.1145/3558481.3591083
+Releasing Memory with Optimistic Access: A Hybrid Approach to Memory Reclamation and Allocation in Lock-Free Programs.	Pedro Moreno,Ricardo Rocha 0001	10.1145/3558481.3591089
+Brief Announcement: Dynamic Vector Bin Packing for Online Resource Allocation in the Cloud.	Aniket Murhekar,David Arbour,Tung Mai,Anup B. Rao	10.1145/3558481.3591314
+Brief Announcement: Optimized GPU-accelerated Feature Extraction for ORB-SLAM Systems.	Filippo Muzzini,Nicola Capodieci,Roberto Cavicchioli,Benjamin Rouxel	10.1145/3558481.3591310
+Partitioning Hypergraphs is Hard: Models, Inapproximability, and Applications.	Pál András Papp,Georg Anegg,Albert-Jan Nicholas Yzelman	10.1145/3558481.3591087
+Polylog-Competitive Algorithms for Dynamic Balanced Graph Partitioning for Ring Demands.	Harald Räcke,Stefan Schmid 0001,Ruslan Zabrodin	10.1145/3558481.3591097
+A Simple and Efficient Parallel Laplacian Solver.	Sushant Sachdeva,Yibin Zhao	10.1145/3558481.3591101
+Brief Announcement: Communication Optimal Sparse LU Factorization for Planar Matrices.	Piyush Sao,Xiaoye Sherry Li	10.1145/3558481.3591315
+Protecting Locks Against Unbalanced Unlock().	Vivek Shahare,Milind Chabbi,Nikhil Hegde	10.1145/3558481.3591091
+An Efficient Scheduler for Task-Parallel Interactive Applications.	Kyle Singer,Kunal Agrawal,I-Ting Angelina Lee	10.1145/3558481.3591092
+Distributed Multi-writer Multi-reader Atomic Register with Optimistically Fast Read and Write.	Lewis Tseng,Neo Zhou,Cole Dumas,Tigran Bantikyan,Roberto Palmieri	10.1145/3558481.3591086
+Optimal Round and Sample-Size Complexity for Partitioning in Parallel Sorting.	Wentao Yang,Vipul Harsh,Edgar Solomonik	10.1145/3558481.3591076
+Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures, SPAA 2023, Orlando, FL, USA, June 17-19, 2023	Kunal Agrawal,Julian Shun	10.1145/3558481

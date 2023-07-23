@@ -1,0 +1,28 @@
+BTrDB: Optimizing Storage System Design for Timeseries Processing.	Michael P. Andersen,David E. Culler	
+CloudCache: On-demand Flash Cache Management for Cloud Computing.	Dulcardo Arteaga,Jorge Cabrera 0002,Jing Xu 0012,Swaminathan Sundararaman,Ming Zhao 0002	
+Mitigating Sync Amplification for Copy-on-write Virtual Disk.	Qingshu Chen,Liang Liang,Yubin Xia,Haibo Chen 0001	
+OrderMergeDedup: Efficient, Failure-Consistent Deduplication on Flash.	Zhuan Chen,Kai Shen	
+Uncovering Bugs in Distributed Storage Systems during Testing (Not in Production!).	Pantazis Deligiannis,Matt McCutchen,Paul Thomson,Shuo Chen 0001,Alastair F. Donaldson,John Erickson,Cheng Huang,Akash Lal,Rashmi Mudduluru,Shaz Qadeer,Wolfram Schulte	
+The Tail at Store: A Revelation from Millions of Hours of Disk and SSD Deployments.	Mingzhe Hao,Gokul Soundararajan,Deepak R. Kenchammana-Hosekote,Andrew A. Chien,Haryadi S. Gunawi	
+Estimating Unseen Deduplication - from Theory to Practice.	Danny Harnik,Ety Khaitzin,Dmitry Sotnikov	
+Slacker: Fast Distribution with Lazy Docker Containers.	Tyler Harter,Brandon Salmon,Rose Liu,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+PCAP: Performance-aware Power Capping for the Disk Drive in the Cloud.	Mohammed G. Khatib,Zvonimir Bandic	
+Application-Managed Flash.	Sungjin Lee 0001,Ming Liu,Sang Woo Jun,Shuotao Xu,Jihong Kim 0001,Arvind	
+Flamingo: Enabling Evolvable HDD-based Near-Line Storage.	Sergey Legtchenko,Xiaozhou Li,Antony I. T. Rowstron,Austin Donnelly,Richard Black	
+CacheDedup: In-line Deduplication for Flash Caching.	Wenji Li,Gregory Jean-Baptise,Juan Riveros,Giri Narasimhan,Tony Zhang,Ming Zhao 0002	
+Access Characteristic Guided Read and Write Cost Regulation for Performance Improvement on Flash Memory.	Qiao Li 0001,Liang Shi,Chun Jason Xue,Kaijie Wu 0001,Cheng Ji,Qingfeng Zhuge,Edwin Hsing-Mean Sha	
+Towards Accurate and Fast Evaluation of Multi-Stage Log-structured Designs.	Hyeontaek Lim,David G. Andersen,Michael Kaminsky	
+WiscKey: Separating Keys from Values in SSD-conscious Storage.	Lanyue Lu,Thanumalayan Sankaranarayana Pillai,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Using Hints to Improve Inline Block-layer Deduplication.	Sonam Mandal,Geoff Kuenning,Dongju Ok,Varun Shastry,Philip Shilane,Sun Zhen,Vasily Tarasov,Erez Zadok	
+Environmental Conditions and Disk Reliability in Free-cooled Datacenters.	Ioannis Manousakis,Sriram Sankar,Gregg McKnight,Thu D. Nguyen,Ricardo Bianchini	
+The Devil Is in the Details: Implementing Flash Page Reuse with WOM Codes.	Fabio Margaglia,Gala Yadgar,Eitan Yaakobi,Yue Li 0001,Assaf Schuster,André Brinkmann	
+Opening the Chrysalis: On the Real Repair Performance of MSR Codes.	Lluis Pamies-Juarez,Filip Blagojevic,Robert Mateescu,Cyril Guyot,Eyal En Gad,Zvonimir Bandic	
+Flash Reliability in Production: The Expected and the Unexpected.	Bianca Schroeder,Raghav Lagisetty,Arif Merchant	
+Isotope: Transactional Isolation for Block Storage.	Ji-Yong Shin,Mahesh Balakrishnan 0001,Tudor Marian,Hakim Weatherspoon	
+sRoute: Treating the Storage Stack Like a Network.	Ioan A. Stefanovici,Bianca Schroeder,Greg O&apos;Shea,Eno Thereska	
+NOVA: A Log-structured File System for Hybrid Volatile/Non-volatile Main Memories.	Jian Xu 0012,Steven Swanson	
+Optimizing Every Operation in a Write-optimized File System.	Jun Yuan 0006,Yang Zhan 0001,William Jannen,Prashant Pandey 0001,Amogh Akshintala,Kanchan Chandnani,Pooja Deo,Zardosht Kasheff,Leif Walsh,Michael A. Bender,Martin Farach-Colton,Rob Johnson,Bradley C. Kuszmaul,Donald E. Porter	
+The Composite-file File System: Decoupling the One-to-One Mapping of Files and Metadata for Better Performance.	Shuanglong Zhang,Helen Catanese,An-I Andy Wang	
+Efficient and Available In-memory KV-Store with Hybrid Erasure Coding and Replication.	Heng Zhang,Mingkai Dong 0002,Haibo Chen 0001	
+Reducing Solid-State Storage Device Write Stress through Opportunistic In-place Delta Compression.	Xuebin Zhang,Jiangpeng Li,Hao Wang 0042,Kai Zhao 0005,Tong Zhang 0002	
+14th USENIX Conference on File and Storage Technologies, FAST 2016, Santa Clara, CA, USA, February 22-25, 2016.	Angela Demke Brown,Florentina I. Popovici	

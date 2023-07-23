@@ -1,0 +1,108 @@
+Tolerating more hard errors in MLC PCMs using compression.	Majid Jalili 0001,Hamid Sarbazi-Azad	10.1109/ICCD.2016.7753294
+DLL: A dynamic latency-aware load-balancing strategy in 2.5D NoC architecture.	Chen Li 0015,Sheng Ma,Lu Wang 0019,Zicong Wang,Xia Zhao 0004,Yang Guo 0003	10.1109/ICCD.2016.7753352
+Implementing low power digital circuits using flash devices.	Monther Abusultan,Sunil P. Khatri	10.1109/ICCD.2016.7753268
+Exploring static and dynamic flash-based FPGA design topologies.	Monther Abusultan,Sunil P. Khatri	10.1109/ICCD.2016.7753317
+Efficient processor allocation in a reconfigurable CMP architecture for dark silicon era.	Fatemeh Aghaaliakbari,Mohaddeseh Hoveida,Mohammad Arjomand,Majid Jalili 0001,Hamid Sarbazi-Azad	10.1109/ICCD.2016.7753298
+A single-inductor-cascaded-stage topology for high conversion ratio boost regulator.	Khondker Zakir Ahmed,Saibal Mukhopadhyay	10.1109/ICCD.2016.7753331
+Scalable memory fabric for silicon interposer-based multi-core systems.	Itir Akgun,Jia Zhan,Yuangang Wang,Yuan Xie 0001	10.1109/ICCD.2016.7753258
+×86 computer architecture simulators: A comparative study.	Ayaz Akram,Lina Sawalha	10.1109/ICCD.2016.7753351
+Chain-based pseudorandom tests for pre-silicon verification of CMP memory systems.	Gabriel A. G. Andrade,Marleson Graf,Luiz C. V. dos Santos	10.1109/ICCD.2016.7753340
+MASkIt: Soft error rate estimation for combinational circuits.	Martí Anglada,Ramon Canal,Juan L. Aragón,Antonio González 0001	10.1109/ICCD.2016.7753348
+Strategies for optimal operating point selection in timing speculative processors.	Omid Assare,Rajesh K. Gupta 0001	10.1109/ICCD.2016.7753344
+A 64 kb differential single-port 12T SRAM design with a bit-interleaving scheme for low-voltage operation in 32 nm SOI CMOS.	Samira Ataei,James E. Stine,Matthew R. Guthaus	10.1109/ICCD.2016.7753333
+Dynamic single and Dual Rail spin transfer torque look up tables with enhanced robustness under CMOS and MTJ process variations.	Aliyar Attaran,Hassan Salmani,Houman Homayoun,Hamid Mahmoodi	10.1109/ICCD.2016.7753300
+Efficient mode changes in multi-mode systems.	Akramul Azim,Sebastian Fischmeister	10.1109/ICCD.2016.7753345
+Algorithms for CPU and DRAM DVFS under inefficiency constraints.	Rizwana Begum,Mark Hempstead,Guru Prasad Srinivasa,Geoffrey Challen	10.1109/ICCD.2016.7753276
+TESLA: Using microfluidics to thermally stabilize 3D stacked STT-RAM caches.	Majed Valad Beigi,Gokhan Memik	10.1109/ICCD.2016.7753299
+Hardware-based attacks to compromise the cryptographic security of an election system.	Mohammad-Mahdi Bidmeshki,Gaurav Rajavendra Reddy,Liwei Zhou,Jeyavijayan Rajendran,Yiorgos Makris	10.1109/ICCD.2016.7753274
+Concurrent Migration of Multiple Pages in software-managed hybrid main memory.	Santiago Bock,Bruce R. Childers,Rami G. Melhem,Daniel Mossé	10.1109/ICCD.2016.7753318
+BEOL stack-aware routability prediction from placement using data mining techniques.	Wei-Ting Jonas Chan,Yang Du 0001,Andrew B. Kahng,Siddhartha Nath,Kambiz Samadi	10.1109/ICCD.2016.7753259
+Speculative path power estimation using trace-driven simulations during high-level design phase.	Saumya Chandra,Ramkumar Jayaseelan,Ravi Bhargava	10.1109/ICCD.2016.7753350
+Extending On-chip Interconnects for rack-level remote resource access.	Yisong Chang,Ke Zhang 0017,Sally A. McKee,Lixin Zhang 0002,Mingyu Chen 0001,Liqiang Ren,Zhiwei Xu 0002	10.1109/ICCD.2016.7753261
+Enabling technologies for memory compression: Metadata, mapping, and prediction.	Arjun Deb,Paolo Faraboschi,Ali Shafiee,Naveen Muralimanohar,Rajeev Balasubramonian,Robert Schreiber	10.1109/ICCD.2016.7753256
+Dynamic converter reconfiguration for near-threshold non-volatile processors using in-door energy harvesting.	Caiwen Ding,Hongjia Li,Jingtong Hu,Yongpan Liu,Yanzhi Wang	10.1109/ICCD.2016.7753292
+Luminescent solar concentrator-based photovoltaic reconfiguration for hybrid and plug-in electric vehicles.	Caiwen Ding,Hongjia Li,Weiwei Zheng,Yanzhi Wang,Naehyuck Chang,Xue Lin	10.1109/ICCD.2016.7753291
+A novel hardware hash unit design for modern microprocessors.	Abbas A. Fairouz,Monther Abusultan,Sunil P. Khatri	10.1109/ICCD.2016.7753316
+CyHOP: A generic framework for real-time power-performance optimization in networked wearable motion sensors.	Ramin Fallahzadeh,Hassan Ghasemzadeh 0001	10.1109/ICCD.2016.7753320
+A statistical critical path monitor in 14nm CMOS.	Bruce M. Fleischer,Christos Vezyrtzis,Karthik Balakrishnan,Keith A. Jenkins	10.1109/ICCD.2016.7753334
+Fast register consolidation and migration for heterogeneous multi-core processors.	Elliott Forbes,Eric Rotenberg	10.1109/ICCD.2016.7753254
+AIBA: An Automated Intra-cycle Behavioral Analysis for SystemC-based design exploration.	Mehran Goli,Jannis Stoppe,Rolf Drechsler	10.1109/ICCD.2016.7753303
+Data-Pattern enabled Self-Recovery multimedia storage system for near-threshold computing.	Na Gong,Jonathon Edstrom,Dongliang Chen,Jinhui Wang	10.1109/ICCD.2016.7753332
+A strong arbiter PUF using resistive RAM within 1T-1R memory architecture.	Rekha Govindaraj,Swaroop Ghosh	10.1109/ICCD.2016.7753272
+Guided lightweight Software test qualification for IP integration using Virtual Prototypes.	Daniel Große,Hoang M. Le,Muhammad Hassan 0002,Rolf Drechsler	10.1109/ICCD.2016.7753347
+Thermal-aware 3D design for side-channel information leakage.	Peng Gu,Dylan C. Stow,Russell Barnes,Eren Kursun,Yuan Xie 0001	10.1109/ICCD.2016.7753336
+CNN-MERP: An FPGA-based memory-efficient reconfigurable processor for forward and backward propagation of convolutional neural networks.	Xushen Han,Dajiang Zhou,Shihao Wang,Shinji Kimura	10.1109/ICCD.2016.7753296
+nOS: A nano-sized distributed operating system for many-core embedded systems.	Simon J. Hollis,Edward Ma,Radu Marculescu	10.1109/ICCD.2016.7753278
+Adaptive and flexible key-value stores through soft data partitioning.	Byungchul Hong,Yongkee Kwon,Jung Ho Ahn,John Kim	10.1109/ICCD.2016.7753293
+Accelerating pointer chasing in 3D-stacked memory: Challenges, mechanisms, evaluation.	Kevin Hsieh,Samira Manabi Khan,Nandita Vijaykumar,Kevin K. Chang,Amirali Boroumand,Saugata Ghose,Onur Mutlu	10.1109/ICCD.2016.7753257
+A new coding scheme for fault tolerant 4-phase delay-insensitive codes.	Florian Huemer,Jakob Lechner,Andreas Steininger	10.1109/ICCD.2016.7753311
+Tuning Stencil codes in OpenCL for FPGAs.	Qi Jia,Huiyang Zhou	10.1109/ICCD.2016.7753287
+BDR: A Balanced Data Redistribution scheme to accelerate the scaling process of XOR-based Triple Disk Failure Tolerant arrays.	Yanbing Jiang,Chentao Wu,Jie Li 0002,Minyi Guo	10.1109/ICCD.2016.7753263
+WILD: A workload-based learning model to predict dynamic delay of functional units.	Xun Jiao,Yu Jiang 0001,Abbas Rahimi,Rajesh K. Gupta 0001	10.1109/ICCD.2016.7753279
+Scalable memory architecture for soft-core processors.	Tiago T. Jost,Gabriel L. Nazar,Luigi Carro	10.1109/ICCD.2016.7753312
+FPGA Trust Zone: Incorporating trust and reliability into FPGA designs.	Vinayaka Jyothi,Manasa Thoonoli,Richard Stern,Ramesh Karri	10.1109/ICCD.2016.7753346
+Novel approximate synthesis flow for energy-efficient FIR filter.	Yesung Kang,Jaewoo Kim,Seokhyeong Kang	10.1109/ICCD.2016.7753266
+What does ultra low power requirements mean for side-channel secure cryptography?	Monodeep Kar,Arvind Singh,Anand Rajan,Vivek De,Saibal Mukhopadhyay	10.1109/ICCD.2016.7753359
+VARIUS-TC: A modular architecture-level model of parametric variation for thin-channel switches.	S. Karen Khatamifard,Michael Resch 0002,Nam Sung Kim,Ulya R. Karpuzcu	10.1109/ICCD.2016.7753353
+IACM: Integrated adaptive cache management for high-performance and energy-efficient GPGPU computing.	Kyu Yeun Kim,Jinsu Park,Woongki Baek	10.1109/ICCD.2016.7753308
+A novel simulation based approach for trace signal selection in silicon debug.	Prabanjan Komari,Ranga Vemuri	10.1109/ICCD.2016.7753280
+Design automation of multiple-demand mixture preparation using a K-array rotary mixer on digital microfluidic biochips.	Satendra Kumar,Ankur Gupta 0002,Sudip Roy 0001,Bhargab B. Bhattacharya	10.1109/ICCD.2016.7753290
+Dynamic prefetcher reconfiguration for diverse memory architectures.	Junghoon Lee,Taehoon Kim 0001,Jaehyuk Huh	10.1109/ICCD.2016.7753270
+CloudSocket: Smart grid platform for datacenters.	Seil Lee,Hanjoo Kim,Seongsik Park,Sei Joon Kim,Hyeokjun Choe,Chang-Sung Jeong,Sungroh Yoon	10.1109/ICCD.2016.7753322
+Ctrl-C: Instruction-Aware Control Loop Based Adaptive Cache Bypassing for GPUs.	Shin-Ying Lee,Carole-Jean Wu	10.1109/ICCD.2016.7753271
+CCAS: Contention and congestion aware switch allocation for network-on-chips.	Cunlu Li,Dezun Dong,Xiangke Liao,Fei Lei,Ji Wu 0006	10.1109/ICCD.2016.7753324
+A novel approach to parameterized verification of cache coherence protocols.	Yongjian Li,Kaiqiang Duan,Yi Lv,Jun Pang 0001,Shaowei Cai 0001	10.1109/ICCD.2016.7753341
+CNFET-based high throughput register file architecture.	Tianjian Li,Li Jiang 0002,Naifeng Jing,Nam Sung Kim,Xiaoyao Liang	10.1109/ICCD.2016.7753354
+DSCNN: Hardware-oriented optimization for Stochastic Computing based Deep Convolutional Neural Networks.	Zhe Li 0001,Ao Ren,Ji Li 0006,Qinru Qiu,Yanzhi Wang,Bo Yuan 0001	10.1109/ICCD.2016.7753357
+A readback based general debugging framework for soft-core processors.	Changgong Li,Alexander Schwarz,Christian Hochberger	10.1109/ICCD.2016.7753342
+Power-aware virtual machine mapping in the data-center-on-a-chip paradigm.	Xue Lin,Yuankun Xue,Paul Bogdan,Yanzhi Wang,Siddharth Garg,Massoud Pedram	10.1109/ICCD.2016.7753286
+SRAM stability analysis for different cache configurations due to Bias Temperature Instability and Hot Carrier Injection.	Taizhi Liu,Chang-Chih Chen,Jiadong Wu,Linda S. Milor	10.1109/ICCD.2016.7753284
+Hippogriff: Efficiently moving data in heterogeneous computing systems.	Yang Liu 0044,Hung-Wei Tseng 0001,Mark Gahagan,Jing Li 0021,Yanqin Jin,Steven Swanson	10.1109/ICCD.2016.7753307
+SPMario: Scale up MapReduce with I/O-Oriented Scheduling for the GPU.	Yang Liu 0044,Hung-Wei Tseng 0001,Steven Swanson	10.1109/ICCD.2016.7753309
+Machine learning classifiers using stochastic logic.	Yin Liu 0002,Hariharasudhan Venkataraman,Zisheng Zhang,Keshab K. Parhi	10.1109/ICCD.2016.7753315
+Memos: A full hierarchy hybrid memory management framework.	Lei Liu 0030,Hao Yang,Yong Li,Mengyao Xie,Lian Li,Chenggang Wu 0002	10.1109/ICCD.2016.7753305
+Voting system design pitfalls: Vulnerability analysis and exploitation of a model platform.	Kelvin Ly,Orlando Arias,Jacob Wurm,Khoa Hoang,Kaveh Shamsi,Yier Jin	10.1109/ICCD.2016.7753273
+Quantifying the difference in resource demand among classic and modern NoC workloads.	Amirhossein Mirhosseini,Mohammad Sadrosadati,Maryam Zare,Hamid Sarbazi-Azad	10.1109/ICCD.2016.7753314
+Hardware thread reordering to boost OpenCL throughput on FPGAs.	Amir Momeni,Hamed Tabkhi,Gunar Schirner,David R. Kaeli	10.1109/ICCD.2016.7753288
+Stochastic neuromorphic learning machines for weakly labeled data.	Emre Neftci	10.1109/ICCD.2016.7753355
+How logic masking can improve path delay analysis for Hardware Trojan detection.	Arash Nejat,David Hély,Vincent Beroulle	10.1109/ICCD.2016.7753319
+&quot;Stubborn&quot; strategy to mitigate remaining cache misses.	Hayato Nomura,Hiroyuki Katchi,Hidetsugu Irie,Shuichi Sakai	10.1109/ICCD.2016.7753310
+Wireless Network-on-Chip analysis of propagation technique for on-chip communication.	Vasil Pano,Isikcan Yilmaz,Yuqiao Liu 0001,Baris Taskin,Kapil R. Dandekar	10.1109/ICCD.2016.7753313
+Energy aware routing of multi-level Network-on-Chip traffic.	Vasil Pano,Isikcan Yilmaz,Ankit More,Baris Taskin	10.1109/ICCD.2016.7753330
+Unveiling difficult bugs in address translation caching arrays for effective post-silicon validation.	George Papadimitriou 0001,Dimitris Gizopoulos,Athanasios Chatzidimitriou,Tom Kolan,Anatoly Koyfman,Ronny Morad,Vitali Sokhin	10.1109/ICCD.2016.7753339
+Shuffling across rounds: A lightweight strategy to counter side-channel attacks.	Sikhar Patranabis,Debapriya Basu Roy,Praveen Kumar Vadnala,Debdeep Mukhopadhyay,Santosh Ghosh	10.1109/ICCD.2016.7753323
+Towards a timing attack aware high-level synthesis of integrated circuits.	Steffen Peter,Tony Givargis	10.1109/ICCD.2016.7753326
+Frame-based and thread-based power management for mobile games on HMP platforms.	Nadja Peters,Dominik Fuss,Sangyoung Park,Samarjit Chakraborty	10.1109/ICCD.2016.7753277
+Exploiting cache coherence for effective on-the-fly data tracing in multicores.	Mounika Ponugoti,Aleksandar Milenkovic	10.1109/ICCD.2016.7753295
+Fluid Pipelines: Elastic circuitry meets Out-of-Order execution.	Rafael Trapani Possignolo,Elnaz Ebrahimi 0001,Haven Blake Skinner,Jose Renau	10.1109/ICCD.2016.7753285
+Refresh-aware loop scheduling for high performance low power volatile STT-RAM.	Keni Qiu,Junpeng Luo,Zhiyao Gong,Weigong Zhang,Jing Wang 0055,Yuanchao Xu 0002,Tao Li 0006,Chun Jason Xue	10.1109/ICCD.2016.7753282
+An adaptive Non-Uniform Loop Tiling for DMA-based bulk data transfers on many-core processor.	Keni Qiu,Yuanhui Ni,Weigong Zhang,Jing Wang 0055,Xiaoqiang Wu,Chun Jason Xue,Tao Li 0006	10.1109/ICCD.2016.7753255
+SRAM memory margin probability failure estimation using Gaussian Process regression.	Manish Rana,Ramon Canal,Jie Han 0001,Bruce F. Cockburn	10.1109/ICCD.2016.7753325
+CHARM: A checkpoint-based resource management framework for reliable multicore computing in the dark silicon era.	Venkata Yaswanth Raparti,Nishit Ashok Kapadia,Sudeep Pasricha	10.1109/ICCD.2016.7753281
+The power play: Security-energy trade-offs in the IoT regime.	Sandip Ray,Tamzidul Hoque,Abhishek Basak,Swarup Bhunia	10.1109/ICCD.2016.7753360
+Ultra-low energy security circuits for IoT applications.	Sudhir Satpathy,Sanu Mathew,Vikram B. Suresh,Ram Krishnamurthy 0001	10.1109/ICCD.2016.7753358
+BADGR: A practical GHR implementation for TAGE branch predictors.	David J. Schlais,Mikko H. Lipasti	10.1109/ICCD.2016.7753338
+Data placement across the cache hierarchy: Minimizing data movement with reuse-aware placement.	Andreas Sembrant,Erik Hagersten,David Black-Schaffer	10.1109/ICCD.2016.7753269
+Pull-off buffer: Borrowing cache space to avoid deadlock for fault-tolerant NoC routing.	Airan Shao,Dongsheng Wang 0002,Haixia Wang	10.1109/ICCD.2016.7753328
+Error behaviors testing with temperature and magnetism dependency for MRAM.	Xin Shi,Fei Wu 0005,Xidong Guan,Changsheng Xie	10.1109/ICCD.2016.7753302
+Relinquishment coherence for enhancing directory efficiency in chip multiprocessors.	Wei Shu,Nian-Feng Tzeng	10.1109/ICCD.2016.7753306
+Design techniques of eNVM-enabled neuromorphic computing systems.	Chang Song 0001,Beiye Liu,Chenchen Liu,Hai Li 0001,Yiran Chen 0001	10.1109/ICCD.2016.7753356
+Improving performance per Watt of non-monotonic Multicore Processors via bottleneck-based online program phase classification.	Sudarshan Srinivasan,Israel Koren,Sandip Kundu	10.1109/ICCD.2016.7753337
+MFAP: Fair Allocation between fully backlogged and non-fully backlogged applications.	Yan Sui,Chun Yang,Dong Tong 0001,Xianhua Liu 0001,Xu Cheng 0001	10.1109/ICCD.2016.7753343
+Understanding and alleviating intra-die and intra-DIMM parameter variation in the memory system.	Meysam Taassori,Ali Shafiee,Rajeev Balasubramonian	10.1109/ICCD.2016.7753283
+Energy-aware scheduling of conditional task graphs with deadlines on MPSoCs.	Umair Ullah Tariq,Hui Wu 0001	10.1109/ICCD.2016.7753289
+Isolation-based decorrelation of stochastic circuits.	Pai-Shun Ting,John P. Hayes	10.1109/ICCD.2016.7753265
+Cryptographic vote-stealing attacks against a partially homomorphic e-voting architecture.	Nektarios Georgios Tsoutsos,Michail Maniatakos	10.1109/ICCD.2016.7753275
+Generating efficient and high-quality pseudo-random behavior on Automata Processors.	Jack Wadden,Nathan Brunelle,Ke Wang 0011,Mohamed El-Hadedy 0001,Gabriel Robins,Mircea Stan,Kevin Skadron	10.1109/ICCD.2016.7753349
+Lumos+: Rapid, pre-RTL design space exploration on accelerator-rich heterogeneous architectures with reconfigurable logic.	Liang Wang 0055,Kevin Skadron	10.1109/ICCD.2016.7753297
+Parallelizing Latent Semantic Indexing using an FPGA-based architecture.	Xinying Wang,Joseph Zambreno	10.1109/ICCD.2016.7753321
+Using Provenance to boost the Metadata Prefetching in distributed storage systems.	Guojin Wu,Yuhui Deng,Xiao Qin 0001	10.1109/ICCD.2016.7753264
+A model for Application Slowdown Estimation in on-chip networks and its use for improving system fairness and performance.	Xi-Yue Xiang,Saugata Ghose,Onur Mutlu,Nian-Feng Tzeng	10.1109/ICCD.2016.7753327
+HS-BAS: A hybrid storage system based on band awareness of Shingled Write Disk.	Wenjian Xiao,Huanqing Dong,Liuying Ma,Zhenjun Liu,Qiang Zhang	10.1109/ICCD.2016.7753262
+A fast, fully verifiable, and hardware predictable ASIC design methodology.	Ping-Lin Yang,Malgorzata Marek-Sadowska	10.1109/ICCD.2016.7753304
+Process variations-aware resistive associative processor design.	Hasan Erdem Yantir,Mohammed E. Fouda,Ahmed M. Eltawil,Fadi J. Kurdahi	10.1109/ICCD.2016.7753260
+A heterogeneous low-cost and low-latency Ring-Chain network for GPGPUs.	Xia Zhao 0004,Sheng Ma,Chen Li 0015,Lieven Eeckhout,Zhiying Wang 0003	10.1109/ICCD.2016.7753329
+Synthesis design strategies for energy-efficient microprocessors.	Ching Zhou,Yu-Shiang Lin,Pong-Fei Lu,Bruce M. Fleischer,David J. Frank,Leland Chang	10.1109/ICCD.2016.7753267
+ONAC: Optimal number of active cores detector for energy efficient GPU computing.	Xian Zhu,Mihir Awatramani,Diane T. Rover,Joseph Zambreno	10.1109/ICCD.2016.7753335
+DOART: A low-power and low-latency Network-on-Chip.	Wen Zong,Qiang Xu 0001	10.1109/ICCD.2016.7753301
+34th IEEE International Conference on Computer Design, ICCD 2016, Scottsdale, AZ, USA, October 2-5, 2016		

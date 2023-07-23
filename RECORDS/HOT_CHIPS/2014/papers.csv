@@ -1,0 +1,44 @@
+Ultra-low power design approaches for IoT.	Massimo Alioto	10.1109/HOTCHIPS.2014.7478801
+Goldstrike 1: Cointerra&apos;s first generation crypto-currency processor for bitcoin mining machines.	Javed Barkatullah,Timo Hanke,Ravi Iyengar,Ricky Lewelling,Jim O&apos;Connor	10.1109/HOTCHIPS.2014.7478824
+Hot Chips 2014 Nvidia&apos;s denver processor.	Darrell Boggs,Gary Brown,Bill Rozas,Nathan Tuck,K. S. Venkatraman	10.1109/HOTCHIPS.2014.7478811
+Applying AMD&apos;s Kaveri APU for heterogeneous computing.	Dan Bouvier,Ben Sander	10.1109/HOTCHIPS.2014.7478810
+Intel C2000 atom microserver power efficient processing for the data center.	Bradley Burres,Johan van de Groenendaal,Jonathan Robinson,Ian M. Steiner	10.1109/HOTCHIPS.2014.7478830
+High-level synthesis of memory bound and irregular parallel applications with Bambu.	Vito Giovanni Castellana,Antonino Tumeo,Fabrizio Ferrandi	10.1109/HOTCHIPS.2014.7478841
+The internet of everything.	Rob Chandhok	10.1109/HOTCHIPS.2014.7478826
+Mobile hardware security.	Vikas Chandra,Rob Aitken	10.1109/HOTCHIPS.2014.7478796
+SCORPIO: 36-core shared memory processor demonstrating snoopy coherence on a mesh interconnect.	Chia-Hsin Owen Chen,Sunghyun Park 0002,Suvinay Subramanian,Tushar Krishna,Bhavya K. Daya,Woo-Cheol Kwon,Brett Wilkerson,John Arends,Anantha P. Chandrakasan,Li-Shiuan Peh	10.1109/HOTCHIPS.2014.7478827
+NVIDIA&apos;S Tegra K1 system-on-chip.	Michael Ditty,John Montrym,Craig M. Wittenbrink	10.1109/HOTCHIPS.2014.7478809
+Secure systems design.	Leendert van Doorn	10.1109/HOTCHIPS.2014.7478797
+Mitigating exploits, rootkits and advanced persistent threats.	David Durham	10.1109/HOTCHIPS.2014.7478798
+ARM next-generation IP supporting Avago high-end networking.	Mike Filippo,David Sonnier	10.1109/HOTCHIPS.2014.7478816
+OpenPOWER: Reengineering a server ecosystem for large-scale data centers.	Michael Gschwind	10.1109/HOTCHIPS.2014.7478829
+Have your cake in parallel and eat it sequentially too! Semantically sequential, parallel execution of multiprocessor programs.	Gagan Gupta	10.1109/HOTCHIPS.2014.7478839
+CMOS biochips for point-of-care molecular diagnostics.	Arjang Hassibi	10.1109/HOTCHIPS.2014.7478814
+Low power fixed-latency DSP accelerator with autonomous minimum energy tracking (AMET).	Chung-Hsun Huang,Wei-Jen Chen,Keng-Jui Chang,Yi-Hsuan Ting,Keng-Chang Hsu,Yu-Fu Pan,Chao-Chun Chen,Yuan-Hua Chu,Tay-Jyi Lin,Jinn-Shyan Wang	10.1109/HOTCHIPS.2014.7478837
+A perpetuum mobile 32bit CPU on 65nm SOTB CMOS technology with reverse-body-bias assisted sleep mode.	Shiro Kamohara,Nobuyuki Sugii,Koichiro Ishibashi,Kimiyoshi Usami,Hideharu Amano,Kazutoshi Kobayashi,Cong-Kha Pham	10.1109/HOTCHIPS.2014.7478838
+HBM: Memory solution for bandwidth-hungry processors.	Joonyoung Kim,Younsu Kim	10.1109/HOTCHIPS.2014.7478812
+University research in hardware security.	Ruby B. Lee	10.1109/HOTCHIPS.2014.7478799
+Security basics.	Ruby B. Lee	10.1109/HOTCHIPS.2014.7478795
+HotChips security tutorial.	Ruby B. Lee,Vikas Chandra,Leendert van Doorn,David Durham	10.1109/HOTCHIPS.2014.7478794
+Memory processing units.	Jaikrishnan Menon,Lorenzo De Carli,Vijayraghavan Thiruvengadam,Karthikeyan Sankaralingam,Cristian Estan	10.1109/HOTCHIPS.2014.7478840
+Performance characteristics of the POWER8 processor.	Alex E. Mericas	10.1109/HOTCHIPS.2014.7478831
+Myriad 2: Eye of the computational vision storm.	David Moloney,Brendan Barry,Richard Richmond,Fergal Connor,Cormac Brick,David Donohoe	10.1109/HOTCHIPS.2014.7478823
+SX-ACE processor: NEC&apos;s brand-new vector processor.	Shintaro Momose	10.1109/HOTCHIPS.2014.7478805
+Power constraints: From sensors to servers.	Mike Muller	10.1109/HOTCHIPS.2014.7478808
+Welcome program chairs.	Samuel Naffziger,Guri Sohi	10.1109/HOTCHIPS.2014.7478804
+SDA: Software-defined accelerator for large-scale DNN systems.	Jian Ouyang,Shiding Lin,Wei Qi,Yong Wang,Bo Yu,Song Jiang 0001	10.1109/HOTCHIPS.2014.7478821
+Ivybridge server architecture: A converged server.	Irma Esmer Papazian,Sailesh Kottapalli	10.1109/HOTCHIPS.2014.7478833
+RayChip®: Real-time ray-tracing chip for embedded applications.	Woo-Chan Park,Hee-Jin Shin,Byoungok Lee,Hyung-Min Yoon,Tack-Don Han	10.1109/HOTCHIPS.2014.7478825
+M7: Next generation SPARC.	Stephen Phillips	10.1109/HOTCHIPS.2014.7478832
+Hardware-accelerated text analytics.	Raphael Polig,Kubilay Atasu,Christoph Hagleitner,Laura Chiticariu,Frederick Reiss 0001,Huaiyu Zhu 0001,H. Peter Hofstee	10.1109/HOTCHIPS.2014.7478822
+Powering the internet of things.	Yogesh K. Ramadass	10.1109/HOTCHIPS.2014.7478800
+AppliedMicro X-Gene2.	Gaurav Singh,Greg Favor,Alfred Yeung	10.1109/HOTCHIPS.2014.7478817
+Next generation SPARC processor cache hierarchy.	Ram Sivaramakrishnan,Sumti Jairath	10.1109/HOTCHIPS.2014.7478828
+Connecting the internet of everything.	Mike Stauffer	10.1109/HOTCHIPS.2014.7478802
+Level-3 BLAS on myriad multi-core media-processor SoC.	Tomasz Szydzik,Marius Farcas,Valeriu Ohan,David Moloney	10.1109/HOTCHIPS.2014.7478835
+Precision refinement for media-processor SoCs: fp32 -&gt; fp64 on myriad.	Tomasz Szydzik,David Moloney	10.1109/HOTCHIPS.2014.7478834
+Design of a high-density SoC FPGA at 20nm.	Brad Vest,Sean Atsatt,Mike Hutton	10.1109/HOTCHIPS.2014.7478818
+SPARC64™ XIfx: Fujitsu&apos;s next generation processor for HPC.	Toshio Yoshida	10.1109/HOTCHIPS.2014.7478806
+Bridge chip composing a PCIe switch over ethernet to make a seamless disaggregated computer in data-center scale.	Takashi Yoshikawa,Jun Suzuki,Yoichi Hidaka,Junichi Higuchi,Shinji Abe	10.1109/HOTCHIPS.2014.7478836
+High capacity and high performance 20nm FPGAs.	Steve Young,Dinesh Gaitonde	10.1109/HOTCHIPS.2014.7478820
+2014 IEEE Hot Chips 26 Symposium (HCS), Cupertino, CA, USA, August 10-12, 2014		

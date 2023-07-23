@@ -1,0 +1,68 @@
+Deterministic Objects: Life Beyond Consensus.	Yehuda Afek,Faith Ellen,Eli Gafni	10.1145/2933057.2933116
+Brief Announcement: The Small World of Curious Beings.	Soroush Alamdari	10.1145/2933057.2933067
+Reliable Communication over Highly Connected Noisy Networks.	Noga Alon,Mark Braverman,Klim Efremenko,Ran Gelles,Bernhard Haeupler	10.1145/2933057.2933085
+A Local Constant Factor MDS Approximation for Bounded Genus Graphs.	Saeed Akhoondian Amiri,Stefan Schmid 0001,Sebastian Siebertz	10.1145/2933057.2933084
+Specification and Complexity of Collaborative Text Editing.	Hagit Attiya,Sebastian Burckhardt,Alexey Gotsman,Adam Morrison 0001,Hongseok Yang,Marek Zawirski	10.1145/2933057.2933090
+A Distributed (2+ε)-Approximation for Vertex Cover in O(logδ/ε log log δ) Rounds.	Reuven Bar-Yehuda,Keren Censor-Hillel,Gregory Schwartzman	10.1145/2933057.2933086
+Brief Announcement: Space-Time Tradeoffs for Distributed Verification.	Mor Baruch,Rafail Ostrovsky,Will Rosenbaum	10.1145/2933057.2933071
+Brief Announcement: A Key-Value Map for Massive Real-Time Analytics.	Dmitry Basin,Edward Bortnikov,Anastasia Braginsky,Guy Golan-Gueta,Eshcar Hillel,Idit Keidar,Moshe Sulamy	10.1145/2933057.2933061
+Self-stabilizing Balls &amp; Bins in Batches: The Power of Leaky Bins [Extended Abstract].	Petra Berenbrink,Tom Friedetzky,Peter Kling,Frederik Mallmann-Trenn,Lars Nagel 0001,Christopher Wastell	10.1145/2933057.2933092
+How Proofs are Prepared at Camelot: Extended Abstract.	Andreas Björklund,Petteri Kaski	10.1145/2933057.2933101
+Brief Announcement: Self-stabilizing Clock Synchronization with 3-bit Messages.	Lucas Boczkowski,Amos Korman,Emanuele Natale	10.1145/2933057.2933075
+Brief Announcement: Local Independent Set Approximation.	Marijke H. L. Bodlaender,Magnús M. Halldórsson,Christian Konrad 0001,Fabian Kuhn	10.1145/2933057.2933068
+Optimal Mobile Byzantine Fault Tolerant Distributed Storage: Extended Abstract.	Silvia Bonomi,Antonella Del Pozzo,Maria Potop-Butucaru,Sébastien Tixeuil	10.1145/2933057.2933100
+Brief Announcement: Probabilistic Asynchronous Arbitrary Pattern Formation.	Quentin Bramas,Sébastien Tixeuil	10.1145/2933057.2933074
+Information-Theoretic Lower Bounds on the Storage Cost of Shared Memory Emulation.	Viveck R. Cadambe,Zhiying Wang 0001,Nancy A. Lynch	10.1145/2933057.2933118
+A Markov Chain Algorithm for Compression in Self-Organizing Particle Systems.	Sarah Cannon,Joshua J. Daymude,Dana Randall,Andréa W. Richa	10.1145/2933057.2933107
+Brief Announcement: Asynchronous Coordination with Constraints and Preferences.	Armando Castañeda,Pierre Fraigniaud,Eli Gafni,Sergio Rajsbaum,Matthieu Roy	10.1145/2933057.2933081
+Unbeatable Set Consensus via Topological and Combinatorial Reasoning.	Armando Castañeda,Yannai A. Gonczarowski,Yoram Moses	10.1145/2933057.2933120
+Optimal Dynamic Distributed MIS.	Keren Censor-Hillel,Elad Haramaty,Zohar S. Karnin	10.1145/2933057.2933083
+Analysing Snapshot Isolation.	Andrea Cerone,Alexey Gotsman	10.1145/2933057.2933096
+An Algorithm for Replicated Objects with Efficient Reads.	Tushar Deepak Chandra,Vassos Hadzilacos,Sam Toueg	10.1145/2933057.2933111
+Brief Announcement: An Exponential Separation Between Randomized and Deterministic Complexity in the LOCAL Model.	Yi-Jun Chang,Tsvi Kopelowitz,Seth Pettie	10.1145/2933057.2933079
+New Opportunities for PODC?: Massive, Volatile, but Highly Predictable Resources.	Andrew A. Chien	10.1145/2933057.2933122
+The Coalescing-Branching Random Walk on Expanders and the Dual Epidemic Process.	Colin Cooper,Tomasz Radzik,Nicolas Rivera	10.1145/2933057.2933119
+Brief Announcement: Active Information Spread in Networks.	Gennaro Cordasco,Luisa Gargano,Adele A. Rescigno,Ugo Vaccaro	10.1145/2933057.2933069
+Brief Announcement: Certified Universal Gathering in R2 for Oblivious Mobile Robots.	Pierre Courtieu,Lionel Rieg,Sébastien Tixeuil,Xavier Urbain	10.1145/2933057.2933070
+Brief Announcement: Optimal Leader Election in Multi-Hop Radio Networks.	Artur Czumaj,Peter Davies	10.1145/2933057.2933076
+Search on a Line with Faulty Robots.	Jurek Czyzowicz,Evangelos Kranakis,Danny Krizanc,Lata Narayanan,Jaroslav Opatrny	10.1145/2933057.2933102
+Are Shared Objects Composable under an Oblivious Adversary?	Oksana Denysyuk,Philipp Woelfel	10.1145/2933057.2933115
+Brief Announcement: Proactive Secret Sharing with a Dishonest Majority.	Shlomi Dolev,Karim Eldefrawy,Joshua Lampkins,Rafail Ostrovsky,Moti Yung	10.1145/2933057.2933059
+Distributed Strong Diameter Network Decomposition: Extended Abstract.	Michael Elkin,Ofer Neiman	10.1145/2933057.2933094
+On Efficient Distributed Construction of Near Optimal Routing Schemes: Extended Abstract.	Michael Elkin,Ofer Neiman	10.1145/2933057.2933098
+Concurrent Data Structures.	Faith Ellen,Trevor Brown 0001	10.1145/2933057.2933123
+A Complexity-Based Hierarchy for Multiprocessor Synchronization: [Extended Abstract].	Faith Ellen,Rati Gelashvili,Nir Shavit,Leqi Zhu	10.1145/2933057.2933113
+The Greedy Spanner is Existentially Optimal.	Arnold Filtser,Shay Solomon	10.1145/2933057.2933114
+Contention Resolution on a Fading Channel.	Jeremy T. Fineman,Seth Gilbert,Fabian Kuhn,Calvin C. Newport	10.1145/2933057.2933091
+Contention Resolution on Multiple Channels with Collision Detection.	Jeremy T. Fineman,Calvin Newport,Tonghe Wang	10.1145/2933057.2933110
+Noisy Rumor Spreading and Plurality Consensus.	Pierre Fraigniaud,Emanuele Natale	10.1145/2933057.2933089
+Broadcast Extensions with Optimal Communication and Round Complexity.	Chaya Ganesh,Arpita Patra	10.1145/2933057.2933082
+Brief Announcement: Sublinear-Space Distance Labeling Using Hubs.	Pawel Gawrychowski,Adrian Kosowski,Przemyslaw Uznanski	10.1145/2933057.2933077
+Distributed Algorithms for Planar Networks I: Planar Embedding.	Mohsen Ghaffari 0001,Bernhard Haeupler	10.1145/2933057.2933109
+MST in Log-Star Rounds of Congested Clique.	Mohsen Ghaffari 0001,Merav Parter	10.1145/2933057.2933103
+A Polylogarithmic Gossip Algorithm for Plurality Consensus.	Mohsen Ghaffari 0001,Merav Parter	10.1145/2933057.2933097
+How Asynchrony Affects Rumor Spreading Time.	George Giakkoupis,Yasamin Nazari,Philipp Woelfel	10.1145/2933057.2933117
+How Emerging Memory Technologies Will Have You Rethinking Algorithm Design.	Phillip B. Gibbons	10.1145/2933057.2933124
+Recoverable Mutual Exclusion: [Extended Abstract].	Wojciech M. Golab,Aditya Ramaraju	10.1145/2933057.2933087
+Brief Announcement: Oh-RAM! One and a Half Round Read/Write Atomic Memory.	Theophanis Hadjistasi,Nicolas C. Nicolaou,Alexander A. Schwarzmann	10.1145/2933057.2933073
+Low-Congestion Shortcuts without Embedding.	Bernhard Haeupler,Taisuke Izumi,Goran Zuzic	10.1145/2933057.2933112
+A Faster Distributed Radio Broadcast Primitive: Extended Abstract.	Bernhard Haeupler,David Wajc	10.1145/2933057.2933121
+Brief Announcement: Data Dissemination in Unified Dynamic Wireless Networks.	Magnús M. Halldórsson,Tigran Tonoyan,Yuexuan Wang,Dongxiao Yu	10.1145/2933057.2933065
+Rational Consensus: Extended Abstract.	Joseph Y. Halpern,Xavier Vilaça	10.1145/2933057.2933088
+On the Complexity of Reader-Writer Locks: Extended Abstract.	Danny Hendler	10.1145/2933057.2933099
+A Randomized Concurrent Algorithm for Disjoint Set Union.	Siddhartha V. Jayanti,Robert E. Tarjan	10.1145/2933057.2933108
+Brief Announcement: A Family of Leaderless Generalized-Consensus Algorithms.	Giuliano Losa,Sebastiano Peluso,Binoy Ravindran	10.1145/2933057.2933072
+Brief Announcement: Deterministic Graph Connectivity in the Broadcast Congested Clique.	Pedro Montealegre 0001,Ioan Todinca	10.1145/2933057.2933066
+Two-Bit Messages are Sufficient to Implement Atomic Read/Write Registers in Crash-prone Systems.	Achour Mostéfaoui,Michel Raynal	10.1145/2933057.2933095
+Ant-Inspired Density Estimation via Random Walks: Extended Abstract.	Cameron Musco,Hsin-Hao Su,Nancy A. Lynch	10.1145/2933057.2933106
+Brief Announcement: Reliable Message Transmission under Partial Knowledge and General Adversaries.	Aris Pagourtzis,Giorgos Panagiotakos,Dimitris Sakavalas	10.1145/2933057.2933080
+Brief Announcement: Using Read-k Inequalities to Analyze a Distributed MIS Algorithm.	Sriram V. Pemmaraju,Talal Riaz	10.1145/2933057.2933062
+Brief Announcement: Labeling Schemes for Power-Law Graphs.	Casper Petersen,Noy Rotbart,Jakob Grue Simonsen,Christian Wulff-Nilsen	10.1145/2933057.2933060
+Brief Announcement: Multi-Broadcasting under the SINR Model.	Sai Praneeth Reddy,Shailesh Vaya	10.1145/2933057.2933064
+Uniform Deployment of Mobile Agents in Asynchronous Rings.	Masahiro Shibata,Toshiya Mega,Fukuhito Ooshita,Hirotsugu Kakugawa,Toshimitsu Masuzawa	10.1145/2933057.2933093
+Space Bounds for Reliable Storage: Fundamental Limits of Coding.	Alexander Spiegelman,Yuval Cassuto,Gregory V. Chockler,Idit Keidar	10.1145/2933057.2933104
+Fault-Tolerant Multi-Agent Optimization: Optimal Iterative Distributed Algorithms.	Lili Su,Nitin H. Vaidya	10.1145/2933057.2933105
+Brief Announcement: Computing in the Presence of Weak Crash Failures.	Gadi Taubenfeld	10.1145/2933057.2933058
+Brief Announcement: Pattern Formation Problem for Synchronous Mobile Robots in the Three Dimensional Euclidean Space.	Yukiko Yamauchi,Taichi Uehara,Masafumi Yamashita	10.1145/2933057.2933063
+Brief Announcement: A Tight Space Bound for Consensus.	Leqi Zhu	10.1145/2933057.2933078
+Proceedings of the 2016 ACM Symposium on Principles of Distributed Computing, PODC 2016, Chicago, IL, USA, July 25-28, 2016	George Giakkoupis	10.1145/2933057

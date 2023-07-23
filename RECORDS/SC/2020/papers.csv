@@ -1,0 +1,102 @@
+Term quantization: furthering quantization at run time.	Hsiang-Tsung Kung 0001,Bradley McDanel,Sai Qian Zhang	10.1109/SC41405.2020.00100
+Accelerating sparse DNN models without hardware-support via tile-wise sparsity.	Cong Guo 0003,Bo Yang Hsueh,Jingwen Leng,Yuxian Qiu,Yue Guan,Zehuan Wang,Xiaoying Jia 0001,Xipeng Li,Minyi Guo,Yuhao Zhu 0001	10.1109/SC41405.2020.00020
+pLiner: isolating lines of floating-point code for compiler-induced variability.	Hui Guo 0007,Ignacio Laguna,Cindy Rubio-González	10.1109/SC41405.2020.00053
+Batch: machine learning inference serving on serverless platforms with adaptive batching.	Ahsan Ali,Riccardo Pinciroli,Feng Yan 0001,Evgenia Smirni	10.1109/SC41405.2020.00073
+Waiting game: optimally provisioning fixed resources for cloud-enabled schedulers.	Pradeep Ambati,Noman Bashir,David E. Irwin 0001,Prashant J. Shenoy	10.1109/SC41405.2020.00071
+GPU-trident: efficient modeling of error propagation in GPU programs.	Abdul Rehman Anwer,Guanpeng Li,Karthik Pattabiraman,Michael B. Sullivan 0001,Timothy Tsai 0002,Siva Kumar Sastry Hari	10.1109/SC41405.2020.00092
+Scaling the hartree-fock matrix build on summit.	Giuseppe M. J. Barca,David L. Poole,Jorge L. Galvez Vallejo,Melisa Alkan,Colleen Bertoni,Alistair P. Rendell,Mark S. Gordon	10.1109/SC41405.2020.00085
+Accelerating large-scale excited-state GW calculations on leadership HPC systems.	Mauro Del Ben,Charlene Yang,Zhenglu Li,Felipe H. da Jornada,Steven G. Louie,Jack Deslippe	10.1109/SC41405.2020.00008
+A performance-portable nonhydrostatic atmospheric dycore for the energy exascale earth system model running at cloud-resolving resolutions.	Luca Bertagna,Oksana Guba,Mark A. Taylor,James G. Foucar,Jeff Larkin,Andrew M. Bradley,Sivasankaran Rajamanickam,Andrew G. Salinger	10.1109/SC41405.2020.00096
+High-performance parallel graph coloring with strong guarantees on work, depth, and quality.	Maciej Besta,Armon Carigiet,Kacper Janda,Zur Vonarburg-Shmaria,Lukas Gianinazzi,Torsten Hoefler	10.1109/SC41405.2020.00103
+FatPaths: routing in supercomputers and data centers when shortest paths fall short.	Maciej Besta,Marcel Schneider,Marek Konieczny,Karolina Cynk,Erik Henriksson,Salvatore Di Girolamo,Ankit Singla,Torsten Hoefler	10.1109/SC41405.2020.00031
+Cost-aware prediction of uncorrected DRAM errors in the field.	Isaac Boixaderas,Darko Zivanovic,Sergi Moré,Javier Bartolome,David Vicente,Marc Casas,Paul M. Carpenter,Petar Radojkovic,Eduard Ayguadé	10.1109/SC41405.2020.00065
+Tuning floating-point precision using dynamic program information and temporal locality.	Hugo Brunie,Costin Iancu,Khaled Z. Ibrahim,Philip Brisk,Brandon Cook 0001	10.1109/SC41405.2020.00054
+Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems.	Malte Brunn,Naveen Himthani,George Biros,Miriam Mehl,Andreas Mang	10.1109/SC41405.2020.00042
+Alita: comprehensive performance isolation through bias resource management for public clouds.	Quan Chen 0002,Shuai Xue,Shang Zhao 0003,Shanpei Chen,Yihao Wu,Yu Xu,Zhuo Song,Tao Ma,Yong Yang,Minyi Guo	10.1109/SC41405.2020.00036
+Scalable yet rigorous floating-point error analysis.	Arnab Das,Ian Briggs,Ganesh Gopalakrishnan,Sriram Krishnamoorthy,Pavel Panchekha	10.1109/SC41405.2020.00055
+Smart-PGSim: using neural network to accelerate AC-OPF power grid simulation.	Wenqian Dong,Zhen Xie,Gokcen Kestor,Dong Li 0001	10.1109/SC41405.2020.00067
+Cell-list based molecular dynamics on many-core processors: a case study on sunway TaihuLight supercomputer.	Xiaohui Duan,Ping Gao 0005,Meng Zhang,Tingjian Zhang,Hongsong Meng,Yuxuan Li,Bertil Schmidt,Haohuan Fu,Lin Gan,Wei Xue,Weiguo Liu,Guangwen Yang	10.1109/SC41405.2020.00026
+Distributed-memory parallel symmetric nonnegative matrix factorization.	Srinivas Eswar,Koby Hayashi,Grey Ballard,Ramakrishnan Kannan,Richard W. Vuduc,Haesun Park	10.1109/SC41405.2020.00078
+Newton-ADMM: a distributed GPU-accelerated optimizer for multiclass classification problems.	Chih-Hao Fang,Sudhir B. Kylasa,Fred Roosta,Michael W. Mahoney,Ananth Grama	10.1109/SC41405.2020.00061
+Sparse GPU kernels for deep learning.	Trevor Gale,Matei Zaharia,Cliff Young,Erich Elsen	10.1109/SC41405.2020.00021
+A hierarchical and load-aware design for large message neighborhood collectives.	S. Mahdieh Ghazimirsaeed,Qinghua Zhou,Amit Ruhela,Mohammadreza Bayatpour	10.1109/SC41405.2020.00038
+Compiler-based timing for extremely fine-grain preemptive parallelism.	Souradip Ghosh,Michael Cuevas,Simone Campanoni,Peter A. Dinda	10.1109/SC41405.2020.00057
+SegAlign: a scalable GPU-based whole genome aligner.	Sneha D. Goenka,Yatish Turakhia,Benedict Paten,Mark Horowitz	10.1109/SC41405.2020.00043
+Foresight: analysis that matters for data reduction.	Pascal Grosset,Christopher M. Biwer,Jesus Pulido,Arvind T. Mohan,Ayan Biswas,John Patchett,Terece L. Turton,David H. Rogers 0001,Daniel Livescu,James P. Ahrens	10.1109/SC41405.2020.00087
+Alias-free, matrix-free, and quadrature-free discontinuous galerkin algorithms for (plasma) kinetic equations.	Ammar Hakim,James Juno	10.1109/SC41405.2020.00077
+Rocket: efficient and scalable all-pairs computations on heterogeneous platforms.	Stijn Heldens,Pieter Hijma,Ben van Werkhoven,Jason Maassen,Henri E. Bal,Rob van Nieuwpoort	10.1109/SC41405.2020.00105
+Compiling generalized histograms for GPU.	Troels Henriksen,Sune Hellfritzsch,Ponnuswamy Sadayappan,Cosmin E. Oancea	10.1109/SC41405.2020.00101
+Petascale XCT: 3D image reconstruction with hierarchical communications on multi-GPU nodes.	Mert Hidayetoglu,Tekin Bicer,Simon Garcia De Gonzalo,Bin Ren,Vincent De Andrade,Doga Gürsoy,Raj Kettimuthu,Ian T. Foster,Wen-mei W. Hwu	10.1109/SC41405.2020.00041
+ANT-man: towards agile power management in the microservice era.	Xiaofeng Hou,Chao Li 0009,Jiacheng Liu 0001,Lu Zhang 0049,Yang Hu 0001,Minyi Guo	10.1109/SC41405.2020.00082
+FeatGraph: a flexible and efficient backend for graph neural network systems.	Yuwei Hu,Zihao Ye 0001,Minjie Wang,Jiali Yu,Da Zheng,Mu Li 0003,Zheng Zhang 0001,Zhiru Zhang,Yida Wang	10.1109/SC41405.2020.00075
+GE-SpMM: general-purpose sparse matrix-matrix multiplication on GPUs for graph neural networks.	Guyue Huang,Guohao Dai,Yu Wang 0002,Huazhong Yang	10.1109/SC41405.2020.00076
+Acceleration of fusion plasma turbulence simulations using the mixed-precision communication-avoiding krylov method.	Yasuhiro Idomura,Takuya Ina,Yussuf Ali,Toshiyuki Imamura	10.1109/SC41405.2020.00097
+HPC I/O throughput bottleneck analysis with explainable local models.	Mihailo Isakov,Eliakin Del Rosario,Sandeep Madireddy,Prasanna Balaprakash,Philip H. Carns,Robert B. Ross,Michel A. Kinsy	10.1109/SC41405.2020.00037
+GEMS: GPU-enabled memory-aware model-parallelism system for distributed DNN training.	Arpan Jain,Ammar Ahmad Awan,Asmaa M. Aljuhani,Jahanzeb Maqbool Hashmi,Quentin G. Anthony,Hari Subramoni,Dhabaleswar K. Panda 0001,Raghu Machiraju,Anil Parwani	10.1109/SC41405.2020.00049
+CRAC: checkpoint-restart architecture for CUDA with streams and UVM.	Twinkle Jain,Gene Cooperman	10.1109/SC41405.2020.00081
+Runtime-guided ECC protection using online estimation of memory vulnerability.	Luc Jaulmes,Miquel Moretó,Mateo Valero,Mattan Erez,Marc Casas	10.1109/SC41405.2020.00080
+BiQGEMM: matrix multiplication with lookup table for binary-coding-based quantized DNNs.	Yongkweon Jeon,Baeseong Park,Se Jung Kwon,Byeongwook Kim,Jeongin Yun,Dongsoo Lee	10.1109/SC41405.2020.00099
+Live forensics for HPC systems: a case study on distributed storage systems.	Saurabh Jha,Shengkun Cui,Subho S. Banerjee,Tianyin Xu,Jeremy Enos,Mike Showerman,Zbigniew T. Kalbarczyk,Ravishankar K. Iyer	10.1109/SC41405.2020.00069
+Pushing the limit of molecular dynamics with ab initio accuracy to 100 million atoms with machine learning.	Weile Jia,Han Wang 0006,Mohan Chen,Denghui Lu,Lin Lin 0001,Roberto Car,Weinan E,Linfeng Zhang	10.1109/SC41405.2020.00009
+MeshfreeFlowNet: a physics-constrained deep continuous space-time super-resolution framework.	Chiyu &quot;Max&quot; Jiang,Soheil Esmaeilzadeh,Kamyar Azizzadenesheli,Karthik Kashinath,Mustafa Mustafa,Hamdi A. Tchelepi,Philip Marcus,Prabhat,Anima Anandkumar	10.1109/SC41405.2020.00013
+ScalAna: automating scaling loss detection with graph analysis.	Yuyang Jin,Haojie Wang,Teng Yu,Xiongchao Tang,Torsten Hoefler,Xu Liu 0001,Jidong Zhai	10.1109/SC41405.2020.00032
+Optimizing deep learning recommender systems training on CPU cluster architectures.	Dhiraj D. Kalamkar,Evangelos Georganas,Sudarshan Srinivasan,Jianping Chen,Mikhail Shiryaev,Alexander Heinecke	10.1109/SC41405.2020.00047
+Improving all-to-many personalized communication in two-phase I/O.	Qiao Kang,Robert B. Ross,Robert Latham,Sunwoo Lee,Ankit Agrawal 0001,Alok N. Choudhary,Wei-keng Liao	10.1109/SC41405.2020.00014
+Scalable knowledge graph analytics at 136 petaflop/s.	Ramakrishnan Kannan,Piyush Sao,Hao Lu,Drahomira Herrmannova,Vijay Thakkar,Robert M. Patton,Richard W. Vuduc,Thomas E. Potok	10.1109/SC41405.2020.00010
+Toward realization of numerical towing-tank tests by wall-resolved large eddy simulation based on 32 billion grid finite-element computation.	Chisachi Kato,Yoshinobu Yamade,Katsuhiro Nagano,Kiyoshi Kumahata,Kazuo Minami,Tatsuo Nishikawa	10.1109/SC41405.2020.00007
+Preparing nuclear astrophysics for exascale.	Max P. Katz,Ann S. Almgren,Maria Barrios Sazo,Kiran Eiden,Kevin Gott,Alice Harpole,Jean M. Sexton,Donald E. Willcox,Weiqun Zhang,Michael Zingale	10.1109/SC41405.2020.00095
+Scalable heterogeneous execution of a coupled-cluster model with perturbative triples.	Jinsung Kim,Ajay Panyala,Bo Peng,Karol Kowalski,P. Sadayappan,Sriram Krishnamoorthy	10.1109/SC41405.2020.00083
+Efficient tiled sparse matrix multiplication through matrix signatures.	Süreyya Emre Kurt,Aravind Sukumaran-Rajam,Fabrice Rastello,P. Sadayappan	10.1109/SC41405.2020.00091
+CCAMP: an integrated translation and optimization framework for OpenACC and OpenMP.	Jacob Lambert 0002,Seyong Lee,Jeffrey S. Vetter,Allen D. Malony	10.1109/SC41405.2020.00102
+A submatrix-based method for approximate matrix function evaluation in the quantum chemistry code CP2K.	Michael Lass,Robert Schade,Thomas D. Kühne,Christian Plessl	10.1109/SC41405.2020.00084
+TOSS-2020: a commodity software stack for HPC.	Edgar A. León,Trent D&apos;Hooge,Nathan Hanford,Ian Karlin,Ramesh Pankajakshan,Jim Foraker,Chris Chambreau,Matthew L. Leininger	10.1109/SC41405.2020.00044
+Distributed-memory DMRG via sparse and dense parallel tensor contractions.	Ryan Levy,Edgar Solomonik,Bryan K. Clark	10.1109/SC41405.2020.00028
+RDMP-KV: designing remote direct memory persistence based key-value stores with PMEM.	Tianxi Li,Dipti Shankar,Shashank Gugnani,Xiaoyi Lu	10.1109/SC41405.2020.00056
+Density matrix quantum circuit simulation via the BSP machine on modern GPU clusters.	Ang Li 0006,Omer Subasi,Xiu Yang,Sriram Krishnamoorthy	10.1109/SC41405.2020.00017
+Architecture and performance studies of 3D-Hyper-FleX-LION for reconfigurable all-to-all HPC networks.	Gengchen Liu,Roberto Proietti,Marjan Fariborz,Pouya Fotouhi,Xian Xiao,S. J. Ben Yoo	10.1109/SC41405.2020.00030
+fBLAS: streaming linear algebra on FPGA.	Tiziano De Matteis,Johannes de Fine Licht,Torsten Hoefler	10.1109/SC41405.2020.00063
+Recurrent neural network architecture search for geophysical emulation.	Romit Maulik,Romain Egele,Bethany Lusch,Prasanna Balaprakash	10.1109/SC41405.2020.00012
+Preempt: scalable epidemic interventions using submodular optimization on multi-GPU systems.	Marco Minutoli,Prathyush Sambaturu,Mahantesh Halappanavar,Antonino Tumeo,Ananth Kalyanaraman,Anil Vullikanti	10.1109/SC41405.2020.00059
+GPU lifetimes on titan supercomputer: survival analysis and reliability.	George Ostrouchov,Don Maxwell,Rizwan A. Ashraf,Christian Engelmann,Mallikarjun Shankar,James H. Rogers	10.1109/SC41405.2020.00045
+CAB-MPI: exploring interprocess work-stealing towards balanced MPI communication.	Kaiming Ouyang,Min Si,Atsushi Hori,Zizhong Chen,Pavan Balaji	10.1109/SC41405.2020.00040
+C-SAW: a framework for graph sampling and random walk on GPUs.	Santosh Pandey,Lingda Li,Adolfy Hoisie,Xiaoye S. Li,Hang Liu 0001	10.1109/SC41405.2020.00060
+Efficient 2D tensor network simulation of quantum systems.	Yuchen Pang,Tianyi Hao 0003,Annika Dugad,Yiqing Zhou,Edgar Solomonik	10.1109/SC41405.2020.00018
+Job characteristics on large-scale systems: long-term analysis, quantification, and implications.	Tirthak Patel,Zhengchun Liu,Raj Kettimuthu,Paul Rich,William E. Allcock,Devesh Tiwari	10.1109/SC41405.2020.00088
+Experimental evaluation of NISQ quantum computers: error measurement, characterization, and implications.	Tirthak Patel,Abhay Potharaju,Baolin Li,Rohan Basu Roy,Devesh Tiwari	10.1109/SC41405.2020.00050
+Veritas: accurately estimating the correct output on noisy intermediate-scale quantum computers.	Tirthak Patel,Devesh Tiwari	10.1109/SC41405.2020.00019
+Convolutional neural network training with distributed K-FAC.	J. Gregory Pauloski,Zhao Zhang 0007,Lei Huang 0019,Weijia Xu,Ian T. Foster	10.1109/SC41405.2020.00098
+Chronicles of astra: challenges and lessons from the first petascale arm supercomputer.	Kevin T. Pedretti,Andrew J. Younge,Simon D. Hammond,James H. Laros III,Matthew L. Curry,Michael J. Aguilar,Robert J. Hoekstra,Ron Brightwell	10.1109/SC41405.2020.00052
+Taming I/O variation on QoS-less HPC storage: what can applications do?	Zhenbo Qiao,Qing Liu 0002,Norbert Podhorszki,Scott Klasky,Jieyang Chen	10.1109/SC41405.2020.00015
+ZeRO: memory optimizations toward training trillion parameter models.	Samyam Rajbhandari,Jeff Rasley,Olatunji Ruwase,Yuxiong He	10.1109/SC41405.2020.00024
+Fast stencil-code computation on a wafer-scale processor.	Kamil Rocki,Dirk Van Essendelft,Ilya Sharapov,Robert Schreiber,Michael Morrison,Vladimir Kibardin,Andrey Portnoy,Jean-Francois Dietiker,Madhava Syamlal,Michael James 0002	10.1109/SC41405.2020.00062
+Co-design for A64FX manycore processor and &quot;Fugaku&quot;.	Mitsuhisa Sato,Yutaka Ishikawa,Hirofumi Tomita,Yuetsu Kodama,Tetsuya Odajima,Miwako Tsuji,Hisashi Yashiro,Masaki Aoki,Naoyuki Shida,Ikuo Miyoshi,Kouichi Hirai,Atsushi Furuya,Akira Asato,Kuniki Morita,Toshiyuki Shimizu	10.1109/SC41405.2020.00051
+Distributed many-to-many protein sequence alignment using sparse matrices.	Oguz Selvitopi,Saliya Ekanayake,Giulia Guidi,Georgios A. Pavlopoulos,Ariful Azad,Aydin Buluç	10.1109/SC41405.2020.00079
+An in-depth analysis of the slingshot interconnect.	Daniele De Sensi,Salvatore Di Girolamo,Kim H. McMahon,Duncan Roweth,Torsten Hoefler	10.1109/SC41405.2020.00039
+INEC: fast and coherent in-network erasure coding.	Haiyang Shi,Xiaoyi Lu	10.1109/SC41405.2020.00070
+GraphPi: high performance graph pattern matching through effective redundancy elimination.	Tianhui Shi,Mingshu Zhai,Yi Xu,Jidong Zhai	10.1109/SC41405.2020.00104
+Task bench: a parameterized benchmark for evaluating parallel runtime performance.	Elliott Slaughter,Wei Wu 0016,Yuankun Fu,Legend Brandenburg,Nicolai Garcia,Wilhem Kautz,Emily Marx,Kaleb S. Morris,Qinglei Cao,George Bosilca,Seema Mirchandaney,Wonchan Lee,Sean Treichler,Patrick S. McCormick,Alex Aiken	10.1109/SC41405.2020.00066
+A parallel framework for constraint-based bayesian network learning via markov blanket discovery.	Ankit Srivastava,Sriram P. Chockalingam,Srinivas Aluru	10.1109/SC41405.2020.00011
+Evaluation of a minimally synchronous algorithm for 2: 1 octree balance.	Hansol Suh,Tobin Isaac	10.1109/SC41405.2020.00027
+SpTFS: sparse tensor format selection for MTTKRP via deep learning.	Qingxiao Sun,Yi Liu 0013,Ming Dun,Hailong Yang,Zhongzhi Luan,Lin Gan,Guangwen Yang,Depei Qian	10.1109/SC41405.2020.00022
+OMPRacer: a scalable and precise static race detector for OpenMP programs.	Bradley Swain,Yanze Li,Peiming Liu,Ignacio Laguna,Giorgis Georgakoudis,Jeff Huang 0001	10.1109/SC41405.2020.00058
+Massive parallelization for finding shortest lattice vectors based on ubiquity generator framework.	Nariaki Tateiwa,Yuji Shinano,Satoshi Nakamura 0004,Akihiro Yoshida,Shizuo Kaji,Masaya Yasuda,Katsuki Fujisawa	10.1109/SC41405.2020.00064
+TAGO: rethinking routing design in high performance reconfigurable networks.	Min Yee Teh,Yu-Han Hung,George Michelogiannakis,Shijia Yan,Madeleine Glick,John Shalf,Keren Bergman	10.1109/SC41405.2020.00029
+Herring: rethinking the parameter server at scale for the cloud.	Indu Thangakrishnan,Derya Cavdar,Can Karakus,Piyush Ghai,Yauheni Selivonchyk,Cory Pruce	10.1109/SC41405.2020.00048
+Iris: allocation banking and identity and access management for the exascale era.	Gabor Torok,Mark R. Day,Rebecca Hartman-Baker,Cory Snavely	10.1109/SC41405.2020.00046
+Reducing communication in graph neural network training.	Alok Tripathy,Katherine A. Yelick,Aydin Buluç	10.1109/SC41405.2020.00074
+Scaling distributed deep learning workloads beyond the memory capacity with KARMA.	Mohamed Wahib,Haoyu Zhang,Truong Thao Nguyen,Aleksandr Drozd,Jens Domke,Lingqi Zhang 0001,Ryousei Takano,Satoshi Matsuoka	10.1109/SC41405.2020.00023
+Pencil: a pipelined algorithm for distributed stencils.	Hengjie Wang,Aparna Chandramowlishwaran	10.1109/SC41405.2020.00089
+An efficient and non-intrusive GPU scheduling framework for deep learning training systems.	Shaoqi Wang,Oscar J. Gonzalez,Xiaobo Zhou 0002,Thomas Williams,Brian D. Friedman,Martin Havemann,Thomas Y. C. Woo	10.1109/SC41405.2020.00094
+Processing full-scale square kilometre array data on the summit supercomputer.	Ruonan Wang,Rodrigo Tobar,Markus Dolensky,Tao An,Andreas Wicenec,Chen Wu,Fred Dulwich,Norbert Podhorszki,Valentine Anantharaj,Eric Suchyta,Bao-qiang Lao,Scott Klasky	10.1109/SC41405.2020.00006
+Metis: learning to schedule long-running applications in shared container clusters at scale.	Luping Wang,Qizhen Weng,Wei Wang 0030,Chen Chen 0067,Bo Li 0001	10.1109/SC41405.2020.00072
+Kraken: memory-efficient continual learning for large-scale real-time recommendations.	Minhui Xie,Kai Ren,Youyou Lu,Guangxu Yang,Qingxing Xu,Bihai Wu,Jiazhen Lin,Hongbo Ao,Wanhong Xu,Jiwu Shu	10.1109/SC41405.2020.00025
+MoHA: a composable system for efficient in-situ analytics on heterogeneous HPC systems.	Haoyuan Xing,Gagan Agrawal,Rajiv Ramnath	10.1109/SC41405.2020.00086
+A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations.	Hisashi Yashiro,Koji Terasaki,Yuta Kawai,Shuhei Kudo,Takemasa Miyoshi,Toshiyuki Imamura,Kazuo Minami,Hikaru Inoue,Tatsuo Nishiki,Takayuki Saji,Masaki Satoh,Hirofumi Tomita	10.1109/SC41405.2020.00005
+SEFEE: lightweight storage error forecasting in large-scale enterprise storage systems.	Amirhessam Yazdi,Xing Lin,Lei Yang 0004,Feng Yan 0001	10.1109/SC41405.2020.00068
+Speeding up SpMV for power-law graph analytics by enhancing locality &amp; vectorization.	Serif Yesil,Azin Heidarshenas,Adam Morrison 0001,Josep Torrellas	10.1109/SC41405.2020.00090
+ZeroSpy: exploring software inefficiency with redundant zeros.	Xin You,Hailong Yang,Zhongzhi Luan,Depei Qian,Xu Liu 0001	10.1109/SC41405.2020.00033
+RLScheduler: an automated HPC batch job scheduler using reinforcement learning.	Di Zhang,Dong Dai 0001,Youbiao He,Forrest Sheng Bao,Bing Xie	10.1109/SC41405.2020.00035
+BORA: a bag optimizer for robotic analysis.	Jian Zhang,Tao Xie 0004,Yuzhuo Jing,Yanjie Song,Guanzhou Hu,Si Chen,Shu Yin	10.1109/SC41405.2020.00016
+DrCCTProf: a fine-grained call path profiler for ARM-based clusters.	Qidong Zhao,Xu Liu 0001,Milind Chabbi	10.1109/SC41405.2020.00034
+GVProf: a value profiler for GPU-based clusters.	Keren Zhou 0001,Yueming Hao,John M. Mellor-Crummey,Xiaozhu Meng,Xu Liu 0001	10.1109/SC41405.2020.00093
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2020, Virtual Event / Atlanta, Georgia, USA, November 9-19, 2020	Christine Cuicchi,Irene Qualters,William T. Kramer	10.1109/SC41405.2020

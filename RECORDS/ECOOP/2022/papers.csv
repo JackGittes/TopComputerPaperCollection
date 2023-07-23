@@ -1,0 +1,37 @@
+Functional Programming for Distributed Systems with XC.	Giorgio Audrito,Roberto Casadei,Ferruccio Damiani,Guido Salvaneschi,Mirko Viroli	10.4230/LIPICS.ECOOP.2022.20
+Verified Compilation and Optimization of Floating-Point Programs in CakeML.	Heiko Becker,Robert Rabe,Eva Darulova,Magnus O. Myreen,Zachary Tatlock,Ramana Kumar,Yong Kiam Tan,Anthony C. J. Fox	10.4230/LIPICS.ECOOP.2022.1
+Automatic Root Cause Quantification for Missing Edges in JavaScript Call Graphs.	Madhurima Chakraborty,Renzo Olivares,Manu Sridharan,Behnaz Hassanshahi	10.4230/LIPICS.ECOOP.2022.3
+Ferrite: A Judgmental Embedding of Session Types in Rust.	Ruofei Chen,Stephanie Balzer,Bernardo Toninho	10.4230/LIPICS.ECOOP.2022.22
+Fair Termination of Multiparty Sessions.	Luca Ciccone,Francesco Dagnino,Luca Padovani	10.4230/LIPICS.ECOOP.2022.26
+API Generation for Multiparty Session Types, Revisited and Revised Using Scala 3.	Guillermina Cledou,Luc Edixhoven,Sung-Shik Jongmans,José Proença	10.4230/LIPICS.ECOOP.2022.27
+Direct Foundations for Compositional Programming.	Andong Fan,Xuejing Huang,Han Xu 0004,Yaozhu Sun,Bruno C. d. S. Oliveira	10.4230/LIPICS.ECOOP.2022.18
+Experience: Model-Based, Feedback-Driven, Greybox Web Fuzzing with BackREST.	François Gauthier,Behnaz Hassanshahi,Benjamin Selwyn-Smith,Trong Nhan Mai,Max Schlüter,Micah Williams	10.4230/LIPICS.ECOOP.2022.29
+Design-By-Contract for Flexible Multiparty Session Protocols.	Lorenzo Gheri,Ivan Lanese,Neil Sayers,Emilio Tuosto,Nobuko Yoshida	10.4230/LIPICS.ECOOP.2022.8
+REST: Integrating Term Rewriting with Program Verification.	Zachary Grannan,Niki Vazou,Eva Darulova,Alexander J. Summers	10.4230/LIPICS.ECOOP.2022.13
+Qilin: A New Framework For Supporting Fine-Grained Context-Sensitivity in Java Pointer Analysis.	Dongjie He,Jingbo Lu,Jingling Xue	10.4230/LIPICS.ECOOP.2022.30
+Maniposynth: Bimodal Tangible Functional Programming.	Brian Hempel,Ravi Chugh	10.4230/LIPICS.ECOOP.2022.16
+Low-Level Bi-Abduction.	Lukás Holík,Petr Peringer,Adam Rogalewicz,Veronika Soková,Tomás Vojnar,Florian Zuleger	10.4230/LIPICS.ECOOP.2022.19
+A Self-Dual Distillation of Session Types.	Jules Jacobs	10.4230/LIPICS.ECOOP.2022.23
+Accumulation Analysis.	Martin Kellogg,Narges Shadab,Manu Sridharan,Michael D. Ernst	10.4230/LIPICS.ECOOP.2022.10
+Stay Safe Under Panic: Affine Rust Programming with Multiparty Session Types.	Nicolas Lagaillardie,Rumyana Neykova,Nobuko Yoshida	10.4230/LIPICS.ECOOP.2022.4
+PEDroid: Automatically Extracting Patches from Android App Updates.	Hehao Li,Yizhuo Wang,Yiwei Zhang,Juanru Li,Dawu Gu	10.4230/LIPICS.ECOOP.2022.21
+Compiling Volatile Correctly in Java.	Shuyang Liu,John Bender,Jens Palsberg	10.4230/LIPICS.ECOOP.2022.6
+Vincent: Green Hot Methods in the JVM (Extended Abstract).	Kenan Liu,Khaled Mahmoud,Joonhwan Yoo,Yu David Liu	10.4230/LIPICS.ECOOP.2022.32
+NWGraph: A Library of Generic Graph Algorithms and Data Structures in C++20.	Andrew Lumsdaine,Luke D&apos;Alessandro,Kevin Deweese,Jesun Firoz,Tony Liu 0001,Scott McMillan,John Phillip Ratzloff,Marcin Zalewski	10.4230/LIPICS.ECOOP.2022.31
+Concolic Execution for WebAssembly.	Filipe Marques,José Fragoso Santos,Nuno Santos 0001,Pedro Adão	10.4230/LIPICS.ECOOP.2022.11
+How to Take the Inverse of a Type.	Daniel Marshall 0001,Dominic Orchard	10.4230/LIPICS.ECOOP.2022.5
+Static Analysis for AWS Best Practices in Python Code.	Rajdeep Mukherjee,Omer Tripp,Ben Liblit,Michael Wilson	10.4230/LIPICS.ECOOP.2022.14
+Slicing of Probabilistic Programs Based on Specifications (Extended Abstract).	Marcelo Navarro,Federico Olmedo	10.4230/LIPICS.ECOOP.2022.34
+Functional Programming with Datalog.	André Pacak,Sebastian Erdweg	10.4230/LIPICS.ECOOP.2022.7
+Union Types with Disjoint Switches.	Baber Rehman,Xuejing Huang,Ningning Xie,Bruno C. d. S. Oliveira	10.4230/LIPICS.ECOOP.2022.25
+Prisma: A Tierless Language for Enforcing Contract-Client Protocols in Decentralized Applications (Extended Abstract).	David Richter,David Kretzler,Pascal Weisenburger,Guido Salvaneschi,Sebastian Faust,Mira Mezini	10.4230/LIPICS.ECOOP.2022.35
+Defining Corecursive Functions in Coq Using Approximations.	Vlad Rusu,David Nowak	10.4230/LIPICS.ECOOP.2022.12
+Synchron - An API and Runtime for Embedded Systems.	Abhiroop Sarkar,Bo Joel Svensson,Mary Sheeran	10.4230/LIPICS.ECOOP.2022.17
+A Deterministic Memory Allocator for Dynamic Symbolic Execution.	Daniel Schemmel,Julian Büning,Frank Busse,Martin Nowack,Cristian Cadar	10.4230/LIPICS.ECOOP.2022.9
+JavaScript Sealed Classes.	Manuel Serrano	10.4230/LIPICS.ECOOP.2022.24
+Hinted Dictionaries: Efficient Functional Ordered Sets and Maps (Extended Abstract).	Amir Shaikhha,Mahdi Ghorbani,Hesam Shahrokhi	10.4230/LIPICS.ECOOP.2022.33
+Global Type Inference for Featherweight Generic Java.	Andreas Stadelmeier,Martin Plümicke,Peter Thiemann 0001	10.4230/LIPICS.ECOOP.2022.28
+Front Matter, Table of Contents, Preface, Conference Organization.		10.4230/LIPICS.ECOOP.2022.0
+What If We Don&apos;t Pop the Stack? The Return of 2nd-Class Values.	Anxhelo Xhebraj,Oliver Bracevac,Guannan Wei 0001,Tiark Rompf	10.4230/LIPICS.ECOOP.2022.15
+Elementary Type Inference.	Jinxu Zhao,Bruno C. d. S. Oliveira	10.4230/LIPICS.ECOOP.2022.2
+36th European Conference on Object-Oriented Programming, ECOOP 2022, June 6-10, 2022, Berlin, Germany.	Karim Ali 0001,Jan Vitek	

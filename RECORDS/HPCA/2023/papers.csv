@@ -1,0 +1,95 @@
+Plutus: Bandwidth-Efficient Memory Security for GPUs.	Rahaf Abdullah,Huiyang Zhou,Amro Awad	10.1109/HPCA56546.2023.10071100
+FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption.	Rashmi Agrawal,Leo de Castro,Guowei Yang,Chiraag Juvekar,Rabia Tugce Yazicigil,Anantha P. Chandrakasan,Vinod Vaikuntanathan,Ajay Joshi	10.1109/HPCA56546.2023.10070953
+EVE: Ephemeral Vector Engines.	Khalid Al-Hawaj,Tuan Ta,Nick Cebry,Shady Agwa,Olalekan Afuye,Eric Hall,Courtney Golden,Alyssa B. Apsel,Christopher Batten	10.1109/HPCA56546.2023.10071074
+A Storage-Effective BTB Organization for Servers.	Truls Asheim,Boris Grot,Rakesh Kumar 0003	10.1109/HPCA56546.2023.10070938
+Mitigating GPU Core Partitioning Performance Effects.	Aaron Barnes,Fangjia Shen,Timothy G. Rogers	10.1109/HPCA56546.2023.10070957
+A Systematic Study of DDR4 DRAM Faults in the Field.	Majed Valad Beigi,Yi Cao,Sudhanva Gurumurthi,Charles Recchia,Andrew Walton,Vilas Sridharan	10.1109/HPCA56546.2023.10071066
+Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches.	Anirban Chakraborty,Sarani Bhattacharya,Sayandeep Saha,Debdeep Mukhopadhyay	10.1109/HPCA56546.2023.10071041
+iCache: An Importance-Sampling-Informed Cache for Accelerating I/O-Bound DNN Model Training.	Weijian Chen 0002,Shuibing He,Yaowen Xu,Xuechen Zhang,Siling Yang,Shuang Hu,Xian-He Sun,Gang Chen 0001	10.1109/HPCA56546.2023.10070964
+A Pulse Generation Framework with Augmented Program-aware Basis Gates and Criticality Analysis.	Yan-Hao Chen,Yuwei Jin,Fei Hua,Ari B. Hayes,Ang Li 0006,Yunong Shi,Eddy Z. Zhang	10.1109/HPCA56546.2023.10070990
+BM-Store: A Transparent and High-performance Local Storage Architecture for Bare-metal Clouds Enabling Large-scale Deployment.	Yiquan Chen,Jiexiong Xu,Chengkun Wei,Yijing Wang,Xin Yuan,Yangming Zhang,Xulin Yu,Yi Chen,Zeke Wang,Shuibing He,Wenzhi Chen	10.1109/HPCA56546.2023.10071029
+ParallelNN: A Parallel Octree-based Nearest Neighbor Search Accelerator for 3D Point Clouds.	Faquan Chen,Rendong Ying,Jianwei Xue,Fei Wen,Peilin Liu	10.1109/HPCA56546.2023.10070940
+KRISP: Enabling Kernel-wise RIght-sizing for Spatial Partitioned GPU Inference Servers.	Marcus Chow,Ali Jahanshahi,Daniel Wong 0001	10.1109/HPCA56546.2023.10071121
+D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives.	Md Hafizul Islam Chowdhuryy,Myoungsoo Jung,Fan Yao,Amro Awad	10.1109/HPCA56546.2023.10070924
+CEGMA: Coordinated Elastic Graph Matching Acceleration for Graph Matching Networks.	Yue Dai,Youtao Zhang,Xulong Tang	10.1109/HPCA56546.2023.10070956
+The Imitation Game: Leveraging CopyCats for Robust Native Gate Selection in NISQ Programs.	Poulami Das 0005,Eric Kessler,Yunong Shi	10.1109/HPCA56546.2023.10071025
+ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention.	Jyotikrishna Dass,Shang Wu,Huihong Shi,Chaojian Li,Zhifan Ye,Zhongfeng Wang 0001,Yingyan Lin	10.1109/HPCA56546.2023.10071081
+HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers.	Peiyan Dong,Mengshu Sun,Alec Lu,Yanyue Xie,Kenneth Liu,Zhenglun Kong,Xin Meng,Zhengang Li,Xue Lin,Zhenman Fang,Yanzhi Wang	10.1109/HPCA56546.2023.10071047
+Multi-Granularity Shadow Paging with NVM Write Optimization for Crash-Consistent Memory-Mapped I/O.	Hongchao Du,Qiao Li 0001,Riwei Pan,Tei-Wei Kuo,Chun Jason Xue	10.1109/HPCA56546.2023.10071009
+ESD: An ECC-assisted and Selective Deduplication for Encrypted Non-Volatile Main Memory.	Chunfeng Du,Suzhen Wu,Jiapeng Wu,Bo Mao,Shengzhe Wang	10.1109/HPCA56546.2023.10071011
+Compression-Aware and Performance-Efficient Insertion Policies for Long-Lasting Hybrid LLCs.	Carlos Escuin,Asif Ali Khan,Pablo Ibáñez,Teresa Monreal,Jerónimo Castrillón,Víctor Viñals	10.1109/HPCA56546.2023.10070968
+TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU.	Shengyu Fan,Zhiwei Wang,Weizhi Xu 0001,Rui Hou 0001,Dan Meng,Mingzhe Zhang	10.1109/HPCA56546.2023.10071017
+Efficient Distributed Secure Memory with Migratable Merkle Tree.	Erhu Feng,Dong Du 0003,Yubin Xia,Haibo Chen 0001	10.1109/HPCA56546.2023.10071130
+A Scalable Methodology for Designing Efficient Interconnection Network of Chiplets.	Yinxiao Feng,Dong Xiang,Kaisheng Ma	10.1109/HPCA56546.2023.10070981
+SecPB: Architectures for Secure Non-Volatile Memory with Battery-Backed Persist Buffers.	Alexander Freij,Huiyang Zhou,Yan Solihin	10.1109/HPCA56546.2023.10071082
+AstriFlash A Flash-Based System for Online Services.	Siddharth Gupta 0003,Yunho Oh,Lei Yan,Mark Sutherland,Abhishek Bhattacharjee,Babak Falsafi,Peter Hsu	10.1109/HPCA56546.2023.10070955
+Thoth: Bridging the Gap Between Persistently Secure Memories and Memory Interfaces of Emerging NVMs.	Xijing Han,James Tuck,Amro Awad	10.1109/HPCA56546.2023.10070991
+Market Mechanism-Based User-in-the-Loop Scalable Power Oversubscription for HPC Systems.	Md Rajib Hossen,Kishwar Ahmed,Mohammad A. Islam 0001	10.1109/HPCA56546.2023.10071006
+Root Crash Consistency of SGX-style Integrity Trees in Secure Non-Volatile Memory Systems.	Jianming Huang 0001,Yu Hua 0001	10.1109/HPCA56546.2023.10071003
+GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks.	Ranggi Hwang,Minhoo Kang,Jiwon Lee,Dongyun Kam,Youngjoo Lee,Minsoo Rhu	10.1109/HPCA56546.2023.10070983
+Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation.	Dongseok Im,Gwangtae Park,Zhiyong Li,Junha Ryu,Hoi-Jun Yoo	10.1109/HPCA56546.2023.10071031
+Safety Hints for HTM Capacity Abort Mitigation.	Anirudh Jain,Divya Kiran Kadiyala,Alexandros Daglis	10.1109/HPCA56546.2023.10071113
+MERCURY: Accelerating DNN Training By Exploiting Input Similarity.	Vahid Janfaza,Kevin Weston,Moein Razavi,Shantanu Mandal,Farabi Mahmud,Alex Hilty,Abdullah Muzahid	10.1109/HPCA56546.2023.10071051
+VEGETA: Vertically-Integrated Extensions for Sparse/Dense GEMM Tile Acceleration on CPUs.	Geonhwa Jeong,Sana Damani,Abhimanyu Rajeshkumar Bambhaniya,Eric Qin 0001,Christopher J. Hughes,Sreenivas Subramoney,Hyesoon Kim,Tushar Krishna	10.1109/HPCA56546.2023.10071058
+VVQ: Virtualizing Virtual Channel for Cost-Efficient Protocol Deadlock Avoidance.	Hans Kasan,John Kim	10.1109/HPCA56546.2023.10071059
+MoCA: Memory-Centric, Adaptive Execution for Multi-Tenant Deep Neural Networks.	Seah Kim,Hasan Genc,Vadim Vadimovich Nikiforov,Krste Asanovic,Borivoje Nikolic,Yakun Sophia Shao	10.1109/HPCA56546.2023.10071035
+OptimStore: In-Storage Optimization of Large Scale DNNs with On-Die Processing.	Junkyum Kim,Myeonggu Kang,Yunki Han,Yanggon Kim,Lee-Sup Kim	10.1109/HPCA56546.2023.10071024
+NOMAD: Enabling Non-blocking OS-managed DRAM Cache via Tag-Data Decoupling.	Youngin Kim 0003,Hyeonjin Kim,William J. Song	10.1109/HPCA56546.2023.10071016
+INCA: Input-stationary Dataflow at Outside-the-box Thinking about Deep Learning Accelerators.	Bokyung Kim,Shiyu Li,Hai Li 0001	10.1109/HPCA56546.2023.10070992
+SnakeByte: A TLB Design with Adaptive and Recursive Page Merging in GPUs.	Jiwon Lee,Ju Min Lee,Yunho Oh,William J. Song,Won Woo Ro	10.1109/HPCA56546.2023.10071063
+Baryon: Efficient Hybrid Memory Management with Compression and Sub-Blocking.	Yiwei Li,Mingyu Gao 0001	10.1109/HPCA56546.2023.10071115
+NvWa: Enhancing Sequence Alignment Accelerator Throughput via Hardware Scheduling.	Yewen Li,Xueqi Li,Ruihao Gao,Wanqi Liu,Guangming Tan	10.1109/HPCA56546.2023.10070978
+HoPP: Hardware-Software Co-Designed Page Prefetching for Disaggregated Memory.	Haifeng Li,Ke Liu 0004,Ting Liang,Zuojun Li,Tianyue Lu,Hui Yuan,Yinben Xia,Yungang Bao,Mingyu Chen 0001,Yizhou Shan	10.1109/HPCA56546.2023.10070986
+Duet: Creating Harmony between Processors and Embedded FPGAs.	Ang Li,August Ning,David Wentzlaff	10.1109/HPCA56546.2023.10070989
+Trans-FW: Short Circuiting Page Table Walk in Multi-GPU Systems via Remote Forwarding.	Bingyao Li,Jieming Yin,Anup Holey,Youtao Zhang,Jun Yang 0002,Xulong Tang	10.1109/HPCA56546.2023.10071054
+PhotoFourier: A Photonic Joint Transform Correlator-Based Neural Network Accelerator.	Shurui Li,Hangbo Yang,Chee Wei Wong,Volker J. Sorger,Puneet Gupta 0001	10.1109/HPCA56546.2023.10070931
+Tensor Movement Orchestration in Multi-GPU Training Systems.	Shao-Fu Lin,Yi-Jung Chen,Hsiang-Yun Cheng,Chia-Lin Yang	10.1109/HPCA56546.2023.10071043
+Ah-Q: Quantifying and Handling the Interference within a Datacenter from a System Perspective.	Yuhang Liu 0001,Xin Deng,Jiapeng Zhou,Mingyu Chen 0001,Yungang Bao	10.1109/HPCA56546.2023.10071128
+CARE: A Concurrency-Aware Enhanced Lightweight Cache Management Framework.	Xiaoyang Lu,Rujia Wang,Xian-He Sun	10.1109/HPCA56546.2023.10071125
+AutoCAT: Reinforcement Learning for Automated Exploration of Cache-Timing Attacks.	Mulong Luo,Wenjie Xiong 0001,Geunbae Lee,Yueying Li,Xiaomeng Yang,Amy Zhang,Yuandong Tian,Hsien-Hsin S. Lee,G. Edward Suh	10.1109/HPCA56546.2023.10070947
+MGC: Multiple-Gray-Code for 3D NAND Flash based High-Density SSDs.	Yina Lv,Liang Shi,Qiao Li 0001,Congming Gao,Yunpeng Song,Longfei Luo,Youtao Zhang	10.1109/HPCA56546.2023.10070946
+Adrias: Interference-Aware Memory Orchestration for Disaggregated Cloud Infrastructures.	Dimosthenis Masouros,Christian Pinto,Michele Gazzetti,Sotirios Xydis,Dimitrios Soudris	10.1109/HPCA56546.2023.10070939
+Co-Designed Architectures for Modular Superconducting Quantum Computers.	Evan McKinney,Mingkang Xia,Chao Zhou,Pinlei Lu,Michael Hatridge,Alex K. Jones	10.1109/HPCA56546.2023.10071036
+Speculative Register Reclamation.	Sanyam Mehta	10.1109/HPCA56546.2023.10071122
+DeFiNES: Enabling Fast Exploration of the Depth-first Scheduling Space for DNN Accelerators through Analytical Modeling.	Linyan Mei,Koen Goetschalckx,Arne Symons,Marian Verhelst	10.1109/HPCA56546.2023.10071098
+FinePack: Transparently Improving the Efficiency of Fine-Grained Transfers in Multi-GPU Systems.	Harini Muthukrishnan,Daniel Lustig,Oreste Villa,Thomas F. Wenisch,David W. Nellans	10.1109/HPCA56546.2023.10070949
+Phloem: Automatic Acceleration of Irregular Applications with Fine-Grain Pipeline Parallelism.	Quan M. Nguyen,Daniel Sánchez 0003	10.1109/HPCA56546.2023.10071026
+Dalorex: A Data-Local Program Execution and Architecture for Memory-bound Applications.	Marcelo Orenes-Vera,Esin Tureci,David Wentzlaff,Margaret Martonosi	10.1109/HPCA56546.2023.10071089
+AVGI: Microarchitecture-Driven, Fast and Accurate Vulnerability Assessment.	George Papadimitriou 0001,Dimitris Gizopoulos	10.1109/HPCA56546.2023.10071105
+VAQUERO: A Scratchpad-based Vector Accelerator for Query Processing.	Julián Pavón,Iván Vargas Valdivieso,Joan Marimon,Roger Figueras,Francesc Moll,Osman S. Unsal,Mateo Valero,Adrián Cristal	10.1109/HPCA56546.2023.10070958
+CHOPPER: A Compiler Infrastructure for Programmable Bit-serial SIMD Processing Using Memory in DRAM.	Xiangjun Peng,Yaohua Wang,Ming-Chang Yang	10.1109/HPCA56546.2023.10071070
+On Consistency for Bulk-Bitwise Processing-in-Memory.	Ben Perach,Ronny Ronen,Shahar Kvatinsky	10.1109/HPCA56546.2023.10071007
+AB-ORAM: Constructing Adjustable Buckets for Space Reduction in Ring ORAM.	Mehrnoosh Raoufi,Jun Yang 0002,Xulong Tang,Youtao Zhang	10.1109/HPCA56546.2023.10071064
+Mix-GEMM: An efficient HW-SW Architecture for Mixed-Precision Quantized Deep Neural Networks Inference on Edge Devices.	Enrico Reggiani,Alessandro Pappalardo,Max Doblas,Miquel Moretó,Mauro Olivieri,Osman Sabri Unsal,Adrián Cristal	10.1109/HPCA56546.2023.10071076
+Leveraging Domain Information for the Efficient Automated Design of Deep Learning Accelerators.	Chirag Sakhuja,Zhan Shi,Calvin Lin	10.1109/HPCA56546.2023.10071095
+Logical/Physical Topology-Aware Collective Communication in Deep Learning Training.	Jo Sanghoon,Hyojun Son,John Kim	10.1109/HPCA56546.2023.10071117
+FlowGNN: A Dataflow Architecture for Real-Time Workload-Agnostic Graph Neural Network Inference.	Rishov Sarkar,Stefan Abi-Karam,Yuqi He,Lakshmi Sathidevi,Cong Hao	10.1109/HPCA56546.2023.10071015
+Turbo: SmartNIC-enabled Dynamic Load Balancing of µs-scale RPCs.	Hamed Seyedroudbari,Srikar Vanavasam,Alexandros Daglis	10.1109/HPCA56546.2023.10071135
+HIRAC: A Hierarchical Accelerator with Sorting-based Packing for SpGEMMs in DNN Applications.	Hesam Shabani,Abhishek Singh,Bishoy Youhana,Xiaochen Guo	10.1109/HPCA56546.2023.10070977
+Securator: A Fast and Secure Neural Processing Unit.	Nivedita Shrivastava,Smruti Ranjan Sarangi	10.1109/HPCA56546.2023.10071091
+Memory-Efficient Hashed Page Tables.	Jovan Stojkovic,Namrata Mantri,Dimitrios Skarlatos 0002,Tianyin Xu,Josep Torrellas	10.1109/HPCA56546.2023.10071061
+SpecFaaS: Accelerating Serverless Applications with Speculative Function Execution.	Jovan Stojkovic,Tianyin Xu,Hubertus Franke,Josep Torrellas	10.1109/HPCA56546.2023.10071120
+HyQSAT: A Hybrid Approach for 3-SAT Problems by Integrating Quantum Annealer with CDCL.	Siwei Tan,Mingqian Yu,Andre Python,Yongheng Shang,Tingting Li,Liqiang Lu,Jianwei Yin	10.1109/HPCA56546.2023.10071022
+ACIC: Admission-Controlled Instruction Cache.	Yunjin Wang,Chia-Hao Chang,Anand Sivasubramaniam,Niranjan Soundararajan	10.1109/HPCA56546.2023.10071033
+CTA: Hardware-Software Co-design for Compressed Token Attention Mechanism.	Haoran Wang,Haobo Xu,Ying Wang 0001,Yinhe Han 0001	10.1109/HPCA56546.2023.10070997
+Post0-VR: Enabling Universal Realistic Rendering for Modern VR via Exploiting Architectural Similarity and Data Sharing.	Yu Wen,Chenhao Xie 0001,Shuaiwen Leon Song,Xin Fu	10.1109/HPCA56546.2023.10071097
+SHADOW: Preventing Row Hammer in DRAM with Intra-Subarray Row Shuffling.	Minbok Wi,Jaehyun Park 0006,Seoyoung Ko,Michael Jaemin Kim,Nam Sung Kim,Eojin Lee,Jung Ho Ahn	10.1109/HPCA56546.2023.10070966
+Scalable and Secure Row-Swap: Efficient and Safe Row Hammer Mitigation in Memory Systems.	Jeonghyun Woo,Gururaj Saileshwar,Prashant J. Nair	10.1109/HPCA56546.2023.10070999
+Efficient Supernet Training Using Path Parallelism.	Ying Xu,Long Cheng 0003,Xuyi Cai,Xiaohan Ma,Weiwei Chen,Lei Zhang,Ying Wang 0001	10.1109/HPCA56546.2023.10071099
+ISOSceles: Accelerating Sparse CNNs through Inter-Layer Pipelining.	Yifan Yang,Joel S. Emer,Daniel Sánchez 0003	10.1109/HPCA56546.2023.10071080
+Poseidon: Practical Homomorphic Encryption Accelerator.	Yinghao Yang,Huaizhi Zhang,Shengyu Fan,Hang Lu,Mingzhe Zhang,Xiaowei Li 0001	10.1109/HPCA56546.2023.10070984
+High Performance and Power Efficient Accelerator for Cloud Inference.	Jianguo Yao,Hao Zhou,Yalin Zhang,Ying Li,Chuang Feng,Shi Chen,Jiaoyan Chen,Yongdong Wang,Qiaojuan Hu	10.1109/HPCA56546.2023.10070941
+Reconciling Selective Logging and Hardware Persistent Memory Transaction.	Chencheng Ye,Yuanchao Xu 0001,Xipeng Shen,Yan Sha,Xiaofei Liao,Hai Jin 0001,Yan Solihin	10.1109/HPCA56546.2023.10071088
+LightTrader: A Standalone High-Frequency Trading System with Deep Learning Inference Accelerators and Proactive Scheduler.	Sungyeob Yoo,Hyunsung Kim,Jinseok Kim,Sunghyun Park,Joo-Young Kim 0001,Jinwook Oh	10.1109/HPCA56546.2023.10070930
+SGCN: Exploiting Compressed-Sparse Features in Deep Graph Convolutional Network Accelerators.	Mingi Yoo,Jaeyong Song,Jounghoo Lee,Namhyung Kim,Youngsok Kim,Jinho Lee	10.1109/HPCA56546.2023.10071102
+ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design.	Haoran You,Zhanyi Sun,Huihong Shi,Zhongzhi Yu,Yang Zhao 0013,Yongan Zhang,Chaojian Li,Baopu Li,Yingyan Lin	10.1109/HPCA56546.2023.10071027
+Know Your Enemy To Save Cloud Energy: Energy-Performance Characterization of Machine Learning Serving.	Junyeol Yu,Jongseok Kim,Euiseong Seo	10.1109/HPCA56546.2023.10070943
+Rambda: RDMA-driven Acceleration Framework for Memory-intensive µs-scale Datacenter Applications.	Yifan Yuan,Jinghan Huang,Yan Sun,Tianchen Wang,Jacob Nelson,Dan R. K. Ports,Yipeng Wang 0002,Ren Wang 0001,Charlie Tai,Nam Sung Kim	10.1109/HPCA56546.2023.10071127
+Silo: Speculative Hardware Logging for Atomic Durability in Persistent Memory.	Ming Zhang,Yu Hua 0001	10.1109/HPCA56546.2023.10071034
+Realizing Extreme Endurance Through Fault-aware Wear Leveling and Improved Tolerance.	Jiangwei Zhang,Chong Wang,Zhenhua Zhu,Donald Kline,Alex K. Jones,Huazhong Yang,Yu Wang 0002	10.1109/HPCA56546.2023.10071093
+Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.	Size Zheng 0001,Siyuan Chen,Peidi Song,Renze Chen,Xiuhong Li,Shengen Yan,Dahua Lin,Jingwen Leng,Yun Liang 0001	10.1109/HPCA56546.2023.10071018
+DIMM-Link: Enabling Efficient Inter-DIMM Communication for Near-Memory Processing.	Zhe Zhou,Cong Li,Fan Yang,Guangyu Sun 0003	10.1109/HPCA56546.2023.10071005
+MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism.	Quan Zhou,Haiquan Wang,Xiaoyan Yu,Cheng Li 0001,Youhui Bai,Feng Yan 0001,Yinlong Xu	10.1109/HPCA56546.2023.10071077
+eNODE: Energy-Efficient and Low-Latency Edge Inference and Training of Neural ODEs.	Junkang Zhu,Yaoyu Tao,Zhengya Zhang	10.1109/HPCA56546.2023.10070935
+FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference.	Yilan Zhu,Xinyao Wang,Lei Ju,Shanqing Guo	10.1109/HPCA56546.2023.10071133
+IEEE International Symposium on High-Performance Computer Architecture, HPCA 2023, Montreal, QC, Canada, February 25 - March 1, 2023		10.1109/HPCA56546.2023

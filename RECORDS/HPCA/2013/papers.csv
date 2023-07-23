@@ -1,0 +1,56 @@
+Warped register file: A power efficient register file for GPGPUs.	Mohammad Abdel-Majeed,Murali Annavaram	10.1109/HPCA.2013.6522337
+Scaling towards kilo-core processors with asymmetric high-radix topologies.	Nilmini Abeyratne,Reetuparna Das,Qingkun Li,Korey Sewell,Bharan Giridhar,Ronald G. Dreslinski,David T. Blaauw,Trevor N. Mudge	10.1109/HPCA.2013.6522344
+A group-commit mechanism for ROB-based processors implementing the X86 ISA.	Furat Afram,Hui Zeng,Kanad Ghose	10.1109/HPCA.2013.6522306
+Refrint: Intelligent refresh to minimize power in on-chip multiprocessor cache hierarchies.	Aditya Agrawal,Prabhat Jain,Amin Ansari,Josep Torrellas	10.1109/HPCA.2013.6522336
+Illusionist: Transforming lightweight cores into aggressive cores on demand.	Amin Ansari,Shuguang Feng,Shantanu Gupta,Josep Torrellas,Scott A. Mahlke	10.1109/HPCA.2013.6522339
+ESESC: A fast multicore simulator using Time-Based Sampling.	Ehsan K. Ardestani,Jose Renau	10.1109/HPCA.2013.6522340
+ECM: Effective Capacity Maximizer for high-performance compressed caching.	Seungcheol Baek,Hyung Gyu Lee,Chrysostomos Nicopoulos,Junghee Lee,Jongman Kim	10.1109/HPCA.2013.6522313
+High-speed formal verification of heterogeneous coherence hierarchies.	Jesse G. Beu,Jason A. Poovey,Eric R. Hein,Thomas M. Conte	10.1109/HPCA.2013.6522350
+Power struggles: Revisiting the RISC vs. CISC debate on contemporary ARM and x86 architectures.	Emily R. Blem,Jaikrishnan Menon,Karthikeyan Sankaralingam	10.1109/HPCA.2013.6522302
+Two level bulk preload branch prediction.	James Bonanno,Adam Collura,Daniel Lipetz,Ulrich Mayer,Brian R. Prasky,Anthony Saporito	10.1109/HPCA.2013.6522308
+Runnemede: An architecture for Ubiquitous High-Performance Computing.	Nicholas P. Carter,Aditya Agrawal,Shekhar Borkar,Romain Cledat,Howard David,Dave Dunning,Joshua B. Fryman,Ivan Ganev,Roger A. Golliver,Rob C. Knauerhase,Richard Lethin,Benoît Meister,Asit K. Mishra,Wilfred R. Pinfold,Justin Teller,Josep Torrellas,Nicolas Vasilache,Ganesh Venkatesh,Jianping Xu	10.1109/HPCA.2013.6522319
+TS-Router: On maximizing the Quality-of-Allocation in the On-Chip Network.	Yuan-Ying Chang,Yoshi Shih-Chieh Huang,Matthew Poremba,Vijaykrishnan Narayanan,Yuan Xie 0001,Chung-Ta King	10.1109/HPCA.2013.6522335
+Technology comparison for large last-level caches (L3Cs): Low-leakage SRAM, low write-energy STT-RAM, and refresh-optimized eDRAM.	Mu-Tien Chang,Paul Rosenfeld,Shih-Lien Lu,Bruce L. Jacob	10.1109/HPCA.2013.6522314
+Worm-Bubble Flow Control.	Lizhong Chen,Timothy Mark Pinkston	10.1109/HPCA.2013.6522333
+Hybrid latency tolerance for robust energy-efficiency on 1000-core data parallel processors.	Neal Clayton Crago,Omid Azizi,Steven S. Lumetta,Sanjay J. Patel	10.1109/HPCA.2013.6522327
+Application-to-core mapping policies to reduce memory system interference in multi-core systems.	Reetuparna Das,Rachata Ausavarungnirun,Onur Mutlu,Akhilesh Kumar,Mani Azimi	10.1109/HPCA.2013.6522311
+Store-Load-Branch (SLB) predictor: A compiler assisted branch prediction for data dependent branches.	Muhammad Umar Farooq 0003,Khubaib,Lizy K. John	10.1109/HPCA.2013.6522307
+Power-efficient computing for compute-intensive GPGPU applications.	Syed Zohaib Gilani,Nam Sung Kim,Michael J. Schulte	10.1109/HPCA.2013.6522330
+Power-performance co-optimization of throughput core architecture using resistive memory.	Nilanjan Goswami,Bingyi Cao,Tao Li 0006	10.1109/HPCA.2013.6522331
+Navigating heterogeneous processors with market mechanisms.	Marisabel Guevara,Benjamin Lubin,Benjamin C. Lee	10.1109/HPCA.2013.6522310
+Disintegrated control for energy-efficient and heterogeneous memory systems.	Tae Jun Ham,Bharath K. Chelepalli,Neng Xue,Benjamin C. Lee	10.1109/HPCA.2013.6522338
+Cost effective data center servers.	Rui Hou 0001,Tao Jiang 0010,Liuhang Zhang,Pengfei Qi,Jianbo Dong,Haibin Wang,Xiongli Gu,Shujie Zhang	10.1109/HPCA.2013.6522317
+Coset coding to extend the lifetime of memory.	Adam N. Jacobvitz,A. Robert Calderbank,Daniel J. Sorin	10.1109/HPCA.2013.6522321
+Adaptive Reliability Chipkill Correct (ARCC).	Xun Jian 0002,Rakesh Kumar 0002	10.1109/HPCA.2013.6522325
+EnergySmart: Toward energy-efficient manycores for Near-Threshold Computing.	Ulya R. Karpuzcu,Abhishek A. Sinkar,Nam Sung Kim,Josep Torrellas	10.1109/HPCA.2013.6522348
+SCRAP: Architecture for signature-based protection from Code Reuse Attacks.	Mehmet Kayaalp 0001,Timothy Schmitt,Junaid Nomani,Dmitry Ponomarev 0001,Nael B. Abu-Ghazaleh	10.1109/HPCA.2013.6522324
+Improving multi-core performance using mixed-cell cache architecture.	Samira Manabi Khan,Alaa R. Alameldeen,Chris Wilkerson,Jaydeep Kulkarni,Daniel A. Jiménez	10.1109/HPCA.2013.6522312
+Layout-conscious random topologies for HPC off-chip interconnects.	Michihiro Koibuchi,Ikki Fujiwara,Hiroki Matsutani,Henri Casanova	10.1109/HPCA.2013.6522343
+Breaking the on-chip latency barrier using SMART.	Tushar Krishna,Chia-Hsin Owen Chen,Woo-Cheol Kwon,Li-Shiuan Peh	10.1109/HPCA.2013.6522334
+Skinflint DRAM system: Minimizing DRAM chip writes for low power.	Yebin Lee,Soontae Kim,Seokin Hong,Jongmin Lee 0002	10.1109/HPCA.2013.6522304
+Tiered-latency DRAM: A low latency and low cost DRAM architecture.	Donghyuk Lee,Yoongu Kim,Vivek Seshadri,Jamie Liu,Lavanya Subramanian,Onur Mutlu	10.1109/HPCA.2013.6522354
+Enabling distributed generation powered sustainable high-performance data center.	Chao Li 0009,Ruijin Zhou,Tao Li 0006	10.1109/HPCA.2013.6522305
+Exploring high-performance and energy proportional interface for phase change memory systems.	Zhongqi Li,Ruijin Zhou,Tao Li 0006	10.1109/HPCA.2013.6522320
+Reducing GPU offload latency via fine-grained CPU-GPU synchronization.	Daniel Lustig,Margaret Martonosi	10.1109/HPCA.2013.6522332
+Macho: A failure model-oriented adaptive cache architecture to enable near-threshold voltage scaling.	Tayyeb Mahmood,Soontae Kim,Seokin Hong	10.1109/HPCA.2013.6522347
+A case for Refresh Pausing in DRAM memory systems.	Prashant J. Nair,Chia-Chen Chou,Moinuddin K. Qureshi	10.1109/HPCA.2013.6522355
+Bridging the semantic gap: Emulating biological neuronal behaviors with simple digital neurons.	Andrew Nere,Atif Hashmi,Mikko H. Lipasti,Giulio Tononi	10.1109/HPCA.2013.6522342
+Rainbow: Efficient memory dependence recording with high replay parallelism for relaxed memory model.	Xuehai Qian,He Huang,Benjamín Sahelices,Depei Qian	10.1109/HPCA.2013.6522349
+Optimizing virtual machine scheduling in NUMA multicore systems.	Jia Rao,Kun Wang,Xiaobo Zhou 0002,Cheng-Zhong Xu 0001	10.1109/HPCA.2013.6522328
+The dual-path execution model for efficient GPU control flow.	Minsoo Rhu,Mattan Erez	10.1109/HPCA.2013.6522352
+How to implement effective prediction and forwarding for fusable dynamic multicore architectures.	Behnam Robatmili,Dong Li,Hadi Esmaeilzadeh,Madhu Saravana Sibi Govindan,Aaron Smith,Andrew Putnam,Doug Burger,Stephen W. Keckler	10.1109/HPCA.2013.6522341
+Energy-efficient interconnect via Router Parking.	Ahmad Samih,Ren Wang 0001,Anil Krishna,Christian Maciocco,Tsung-Yuan Charlie Tai,Yan Solihin	10.1109/HPCA.2013.6522345
+Sonic Millip3De: A massively parallel 3D-stacked accelerator for 3D ultrasound.	Richard Sampson,Ming Yang 0004,Siyuan Wei,Chaitali Chakrabarti,Thomas F. Wenisch	10.1109/HPCA.2013.6522329
+Modeling performance variation due to cache sharing.	Andreas Sandberg,Andreas Sembrant,Erik Hagersten,David Black-Schaffer	10.1109/HPCA.2013.6522315
+Cache coherence for GPU architectures.	Inderpreet Singh,Arrvindh Shriraman,Wilson W. L. Fung,Mike O&apos;Connor,Tor M. Aamodt	10.1109/HPCA.2013.6522351
+MISE: Providing performance predictability and improving fairness in shared main memory systems.	Lavanya Subramanian,Vivek Seshadri,Yoongu Kim,Ben Jaiyen,Onur Mutlu	10.1109/HPCA.2013.6522356
+A novel system architecture for web scale applications using lightweight CPUs and virtualized I/O.	Kshitij Sudan,Saisanthosh Balakrishnan,Sean Lie,Min Xu,Dhiraj Mallick,Gary Lauterbach,Rajeev Balasubramonian	10.1109/HPCA.2013.6522316
+Optimizing Google&apos;s warehouse scale computers: The NUMA experience.	Lingjia Tang,Jason Mars,Xiao Zhang,Robert Hagmann,Robert Hundt,Eric Tune	10.1109/HPCA.2013.6522318
+A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments.	Yaohua Wang,Shuming Chen,Jianghua Wan,Jiayuan Meng,Kai Zhang 0023,Wei Liu 0013,Xi Ning	10.1109/HPCA.2013.6522353
+i2WAP: Improving non-volatile cache lifetime by reducing inter- and intra-set write variations.	Jue Wang,Xiangyu Dong,Yuan Xie 0001,Norman P. Jouppi	10.1109/HPCA.2013.6522322
+Architecture support for guest-transparent VM protection from untrusted hypervisor and physical attacks.	Yubin Xia,Yutao Liu,Haibo Chen 0001	10.1109/HPCA.2013.6522323
+Accelerating write by exploiting PCM asymmetries.	Jianhui Yue,Yifeng Zhu	10.1109/HPCA.2013.6522326
+RECAP: A region-based cure for the common cold (cache).	Jason Zebchuk,Harold W. Cain,Xin Tong 0005,Vijayalakshmi Srinivasan,Andreas Moshovos	10.1109/HPCA.2013.6522309
+In-network traffic regulation for Transactional Memory.	Lihang Zhao,Woojin Choi,Lizhong Chen,Jeffrey T. Draper	10.1109/HPCA.2013.6522346
+High-performance and energy-efficient mobile web browsing on big/little systems.	Yuhao Zhu 0001,Vijay Janapa Reddi	10.1109/HPCA.2013.6522303
+19th IEEE International Symposium on High Performance Computer Architecture, HPCA 2013, Shenzhen, China, February 23-27, 2013		

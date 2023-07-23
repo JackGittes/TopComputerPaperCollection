@@ -1,0 +1,45 @@
+Automating the Choice of Consistency Levels in Replicated Systems.	Cheng Li 0001,João Leitão 0001,Allen Clement,Nuno M. Preguiça,Rodrigo Rodrigues 0001,Viktor Vafeiadis	
+Scalable Read-mostly Synchronization Using Passive Reader-Writer Locks.	Ran Liu 0003,Heng Zhang,Haibo Chen 0001	
+ShuffleWatcher: Shuffle-aware Scheduling in Multi-tenant MapReduce Clusters.	Faraz Ahmad,Srimat T. Chakradhar,Anand Raghunathan,T. N. Vijaykumar	
+Medusa: Managing Concurrency and Communication in Embedded Systems.	Thomas W. Barr,Scott Rixner	
+SCFS: A Shared Cloud-backed File System.	Alysson Neves Bessani,Ricardo Mendes,Tiago Oliveira 0008,Nuno Ferreira Neves,Miguel Correia 0001,Marcelo Pasin,Paulo Veríssimo	
+Sirius: Distributing and Coordinating Application Reference Data.	Michael Bevilacqua-Linn,Maulan Byron,Peter Cline,Jon Moore,Steve Muir	
+Exploiting Bounded Staleness to Speed Up Big Data Analytics.	Henggang Cui,James Cipar,Qirong Ho,Jin Kyu Kim,Seunghak Lee,Abhimanu Kumar,Jinliang Wei,Wei Dai 0003,Gregory R. Ganger,Phillip B. Gibbons,Garth A. Gibson,Eric P. Xing	
+Gleaner: Mitigating the Blocked-Waiter Wakeup Problem for Virtualized Multicore Applications.	Xiaoning Ding,Phillip B. Gibbons,Michael A. Kozuch,Jianchen Shan	
+Making State Explicit for Imperative Big Data Processing.	Raul Castro Fernandez,Matteo Migliavacca,Evangelia Kalyvianaki,Peter R. Pietzuch	
+Accelerating Restore and Garbage Collection in Deduplication-based Backup Systems via Exploiting Historical Information.	Min Fu 0002,Dan Feng 0001,Yu Hua 0001,Xubin He,Zuoning Chen,Wen Xia,Fangting Huang,Qing Liu 0007	
+HYPERSHELL: A Practical Hypervisor Layer Guest OS Shell for Automated In-VM Management.	Yangchun Fu,Junyuan Zeng,Zhiqiang Lin	
+Large Pages May Be Harmful on NUMA Systems.	Fabien Gaud,Baptiste Lepers,Jeremie Decouchant,Justin R. Funston,Alexandra Fedorova,Vivien Quéma	
+Missive: Fast Application Launch From an Untrusted Buffer Cache.	Jon Howell,Jeremy Elson,Bryan Parno,John R. Douceur	
+ELF: Efficient Lightweight Fast Stream Processing at Scale.	Liting Hu,Karsten Schwan,Hrishikesh Amur,Xin Chen	
+FlexECC: Partially Relaxing ECC of MLC SSD for Better Cache Performance.	Ping Huang 0001,Pradeep Subedi,Xubin He,Shuang He,Ke Zhou 0001	
+Pythia: Diagnosing Performance Problems in Wide Area Providers.	Partha Kanuparthy,Constantine Dovrolis	
+Efficient Tracing of Cold Code via Bias-Free Sampling.	Baris Kasikci,Thomas Ball,George Candea,John Erickson,Madanlal Musuvathi	
+OSv - Optimizing the Operating System for Virtual Machines.	Avi Kivity,Dor Laor,Glauber Costa,Pekka Enberg,Nadav Har&apos;El,Don Marti,Vlad Zolotarov	
+Yat: A Validation Framework for Persistent Memory Software.	Philip Lantz,Dulloor Subramanya Rao,Sanjay Kumar,Rajesh Sankaran,Jeff Jackson	
+Panopticon: Reaping the Benefits of Incremental SDN Deployment in Enterprise Networks.	Dan Levin,Marco Canini,Stefan Schmid 0001,Fabian Schaffert,Anja Feldmann	
+MiniBox: A Two-Way Sandbox for x86 Native Code.	Yanlin Li,Jonathan M. McCune,James Newsome,Adrian Perrig,Brandon Baker,Will Drewry	
+Nitro: A Capacity-Optimized SSD Cache for Primary Storage.	Cheng Li,Philip Shilane,Fred Douglis,Hyong Shim,Stephen Smaldone,Grant Wallace	
+XvMotion: Unified Virtual Machine Migration over Long Distance.	Ali José Mashtizadeh,Min Cai,Gabriel Tarasuk-Levin,Ricardo Koller,Tal Garfinkel,Sreekanth Setty	
+vCacheShare: Automated Server Flash Cache Space Management in a Virtualization Environment.	Fei Meng,Li Zhou,Xiaosong Ma,Sandeep Uttamchandani,Deng Liu	
+Gestalt: Fast, Unified Fault Localization for Networked Systems.	Radhika Niranjan Mysore,Ratul Mahajan,Amin Vahdat,George Varghese	
+Insight: In-situ Online Service Failure Path Inference in Production Computing Infrastructures.	Hiep Nguyen,Daniel Joseph Dean,Kamal Kc,Xiaohui Gu	
+In Search of an Understandable Consensus Algorithm.	Diego Ongaro,John K. Ousterhout	
+Reliable Writeback for Client-side Flash Caches.	Dai Qin,Angela Demke Brown,Ashvin Goel	
+HACK: Hierarchical ACKs for Efficient Wireless Medium Utilization.	Lynne Salameh,Astrit Zhushi,Mark Handley,Kyle Jamieson,Brad Karp	
+Violet: A Storage Stack for IOPS/Capacity Bifurcated Storage Environments.	Douglas Santry,Kaladhar Voruganti	
+Programmatic Orchestration of WiFi Networks.	Julius Schulz-Zander,P. Lalith Suresh,Nadi Sarrar,Anja Feldmann,Thomas Hühn,Ruben Merz	
+A Modular and Efficient Past State System for Berkeley DB.	Ross Shaull,Liuba Shrira,Barbara Liskov	
+OS I/O Path Optimizations for Flash Solid-state Drives.	Woong Shin,Qichen Chen,Myoungwon Oh,Hyeonsang Eom,Heon Y. Yeom	
+Flash on Rails: Consistent Flash Performance through Redundancy.	Dimitris Skourtis,Dimitris Achlioptas,Noah Watkins,Carlos Maltzahn,Scott A. Brandt	
+Implementing a Leading Loads Performance Predictor on Commodity Processors.	Bo Su,Joseph L. Greathouse,Junli Gu,Michael Boyer,Li Shen 0007,Zhiying Wang 0003	
+BISmark: A Testbed for Deploying Measurements and Applications in Broadband Access Networks.	Srikanth Sundaresan,Sam Burnett,Nick Feamster,Walter de Donato	
+GPUvm: Why Not Virtualizing GPUs at the Hypervisor?	Yusuke Suzuki,Shinpei Kato,Hiroshi Yamada,Kenji Kono	
+Static Analysis of Variability in System Software: The 90, 000 #ifdefs Issue.	Reinhard Tartler,Christian Dietrich 0001,Julio Sincero,Wolfgang Schröder-Preikschat,Daniel Lohmann	
+A Full GPU Virtualization Solution with Mediated Pass-Through.	Kun Tian,Yaozu Dong,David Cowperthwaite	
+GASPP: A GPU-Accelerated Stateful Packet Processing Framework.	Giorgos Vasiliadis,Lazaros Koromilas,Michalis Polychronakis,Sotiris Ioannidis	
+The TURBO Diaries: Application-controlled Frequency Scaling Explained.	Jons-Tobias Wamhoff,Stephan Diestelhorst,Christof Fetzer,Patrick Marlier,Pascal Felber,Dave Dice	
+I/O Speculation for the Microsecond Era.	Michael Yung Chung Wei,Matias Bjørling,Philippe Bonnet,Steven Swanson	
+Application-Defined Decentralized Access Control.	Yuanzhong Xu,Alan M. Dunn,Owen S. Hofmann,Michael Z. Lee,Syed Akbar Mehdi,Emmett Witchel	
+HaPPy: Hyperthread-aware Power Profiling Dynamically.	Yan Zhai,Xiao Zhang,Stéphane Eranian,Lingjia Tang,Jason Mars	
+2014 USENIX Annual Technical Conference, USENIX ATC &apos;14, Philadelphia, PA, USA, June 19-20, 2014.	Garth Gibson,Nickolai Zeldovich	

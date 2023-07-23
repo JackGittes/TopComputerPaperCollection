@@ -1,0 +1,62 @@
+Cache Privacy in Named-Data Networking.	Gergely Ács,Mauro Conti,Paolo Gasti,Cesar Ghali,Gene Tsudik	10.1109/ICDCS.2013.12
+Diagnosing Data Center Behavior Flow by Flow.	Ahsan Arefin,Vishal K. Singh,Guofei Jiang,Yueping Zhang,Cristian Lumezanu	10.1109/ICDCS.2013.18
+Safety of Deferred Update in Transactional Memory.	Hagit Attiya,Sandeep Hans,Petr Kuznetsov,Srivatsan Ravi	10.1109/ICDCS.2013.57
+RBFT: Redundant Byzantine Fault Tolerance.	Pierre-Louis Aublin,Sonia Ben Mokhtar,Vivien Quéma	10.1109/ICDCS.2013.53
+Content-Based Scheduling of Virtual Machines (VMs) in the Cloud.	Sobir Bazarbayev,Matti A. Hiltunen,Kaustubh R. Joshi,William H. Sanders,Richard D. Schlichting	10.1109/ICDCS.2013.15
+Optimistic Atomic Multicast.	Carlos Eduardo Benevides Bezerra,Fernando Pedone,Benoît Garbinato,Cláudio F. R. Geyer	10.1109/ICDCS.2013.46
+Gathering of Mobile Robots Tolerating Multiple Crash Faults.	Zohir Bouzid,Shantanu Das 0001,Sébastien Tixeuil	10.1109/ICDCS.2013.27
+Parallel Consensus is Harder than Set Agreement in Message Passing.	Zohir Bouzid,Corentin Travers	10.1109/ICDCS.2013.72
+Ease the Queue Oscillation: Analysis and Enhancement of DCTCP.	Wen Chen,Peng Cheng 0005,Fengyuan Ren,Ran Shu 0001,Chuang Lin 0001	10.1109/ICDCS.2013.22
+No Hot Spot Non-blocking Skip List.	Tyler Crain,Vincent Gramoli,Michel Raynal	10.1109/ICDCS.2013.42
+Ring Exploration by Oblivious Agents with Local Vision.	Ajoy Kumar Datta,Anissa Lamani,Lawrence L. Larmore,Franck Petit	10.1109/ICDCS.2013.55
+A Scalable Conflict-Free Replicated Set Data Type.	Andrei Deftu,Jan Griebsch	10.1109/ICDCS.2013.10
+SmartDPSS: Cost-Minimizing Multi-source Power Supply for Datacenters with Arbitrary Demand.	Wei Deng,Fangming Liu,Hai Jin 0001,Chuan Wu 0001	10.1109/ICDCS.2013.59
+Order-Preserving Renaming in Synchronous Systems with Byzantine Faults.	Oksana Denysyuk,Luís E. T. Rodrigues	10.1109/ICDCS.2013.47
+Harnessing Mobile Multiple Access Efficiency with Location Input.	Wan Du,Mo Li 0001	10.1109/ICDCS.2013.29
+Least Cost Rumor Blocking in Social Networks.	Lidan Fan,Zaixin Lu,Weili Wu 0001,Bhavani Thuraisingham,Huan Ma,Yuanjun Bi	10.1109/ICDCS.2013.34
+Signal-Aware Green Wireless Relay Network Design.	Chenfei Gao,Jian Tang 0008,Xiang Sheng,Weiyi Zhang,Chonggang Wang	10.1109/ICDCS.2013.58
+On the k-Atomicity-Verification Problem.	Wojciech M. Golab,Jeremy Hurwitz,Xiaozhou Li 0001	10.1109/ICDCS.2013.45
+Mobility-Assisted Energy-Aware User Contact Detection in Mobile Social Networks.	Wenjie Hu,Guohong Cao,Srikanth V. Krishnamurthy,Prasant Mohapatra	10.1109/ICDCS.2013.40
+Efficient Geo-distributed Data Processing with Rout.	Chamikara Jayalath,Patrick Eugster	10.1109/ICDCS.2013.23
+ImageElves: Rapid and Reliable System Updates in the Cloud.	Deepak Jeswani,Akshat Verma,Praveen Jayachandran,Kamal Bhattacharya	10.1109/ICDCS.2013.33
+Hybrid Replication: State-Machine-Based and Deferred-Update Replication Schemes Combined.	Tadeusz Kobus,Maciej Kokocinski,Pawel T. Wojciechowski	10.1109/ICDCS.2013.30
+pVOCL: Power-Aware Dynamic Placement and Migration in Virtualized GPU Environments.	Palden Lama,Yan Li 0005,Ashwin M. Aji,Pavan Balaji,James Dinan,Shucai Xiao,Yunquan Zhang,Wu-chun Feng,Rajeev Thakur,Xiaobo Zhou 0002	10.1109/ICDCS.2013.51
+Proteus: Power Proportional Memory Cache Cluster in Data Centers.	Shen Li,Shiguang Wang,Fan Yang,Shaohan Hu,Fatemeh Saremi,Tarek F. Abdelzaher	10.1109/ICDCS.2013.50
+Coordinating In-Network Caching in Content-Centric Networks: Model and Analysis.	Yanhua Li,Haiyong Xie 0001,Yonggang Wen 0001,Zhi-Li Zhang	10.1109/ICDCS.2013.71
+Mindicators: A Scalable Approach to Quiescence.	Yujie Liu,Victor Luchangco,Michael F. Spear	10.1109/ICDCS.2013.39
+Location Privacy Preserving Dynamic Spectrum Auction in Cognitive Radio Network.	Sheng Liu,Haojin Zhu,Rong Du,Cailian Chen,Xinping Guan	10.1109/ICDCS.2013.35
+Efficient Identification of Additive Link Metrics via Network Tomography.	Liang Ma 0002,Ting He 0001,Kin K. Leung,Don Towsley,Ananthram Swami	10.1109/ICDCS.2013.24
+Volley: Violation Likelihood Based State Monitoring for Datacenters.	Shicong Meng,Arun Iyengar,Isabelle Rouvellou,Ling Liu 0001	10.1109/ICDCS.2013.61
+RAC: A Freerider-Resilient, Scalable, Anonymous Communication Protocol.	Sonia Ben Mokhtar,Gautier Berthou 0002,Amadou Diarra,Vivien Quéma,Ali Shoker	10.1109/ICDCS.2013.52
+FChain: Toward Black-Box Online Fault Localization for Cloud Systems.	Hiep Nguyen,Zhiming Shen,Yongmin Tan,Xiaohui Gu	10.1109/ICDCS.2013.26
+Towards an Efficient Online Causal-Event-Pattern-Matching Framework.	Sukanta Pramanik,David Taylor,Bernard Wong 0001	10.1109/ICDCS.2013.66
+A Formal Framework for Network Security Design Synthesis.	Mohammad Ashiqur Rahman,Ehab Al-Shaer	10.1109/ICDCS.2013.70
+Achieving High-Throughput State Machine Replication in Multi-core Systems.	Nuno Santos,André Schiper	10.1109/ICDCS.2013.11
+Peer Pressure: Exerting Malicious Influence on Routers at a Distance.	Max Schuchard,Christopher Thompson 0002,Nicholas Hopper,Yongdae Kim	10.1109/ICDCS.2013.48
+Non-blocking Patricia Tries with Replace Operations.	Niloufar Shafiei	10.1109/ICDCS.2013.43
+HybridMR: A Hierarchical MapReduce Scheduler for Hybrid Data Centers.	Bikash Sharma,Timothy Wood 0001,Chita R. Das	10.1109/ICDCS.2013.31
+Identifying and Addressing Protocol Manipulation Attacks in &quot;Secure&quot; BGP.	Yang Song,Arun Venkataramani,Lixin Gao 0001	10.1109/ICDCS.2013.32
+Ripple: Improved Architecture and Programming Model for Bulk Synchronous Parallel Style of Analytics.	Mike Spreitzer,Malgorzata Steinder,Ian Whalley	10.1109/ICDCS.2013.67
+MoLoc: On Distinguishing Fingerprint Twins.	Wei Sun,Junliang Liu,Chenshu Wu,Zheng Yang 0002,Xinglin Zhang,Yunhao Liu 0001	10.1109/ICDCS.2013.41
+Zigzag: Local-Information-Based Self-Optimizing Routing in Virtual Grid Networks.	Shusuke Takatsu,Fukuhito Ooshita,Hirotsugu Kakugawa,Toshimitsu Masuzawa	10.1109/ICDCS.2013.63
+Longer Is Better: Exploiting Path Diversity in Data Center Networks.	Fung Po Tso 0001,Gregg Hamilton,Rene Weber,Colin Perkins,Dimitrios P. Pezaros	10.1109/ICDCS.2013.36
+Recursive Fact-Finding: A Streaming Approach to Truth Estimation in Crowdsourcing Applications.	Dong Wang 0002,Tarek F. Abdelzaher,Lance M. Kaplan,Charu C. Aggarwal	10.1109/ICDCS.2013.54
+Storing Shared Data on the Cloud via Security-Mediator.	Boyang Wang,Sherman S. M. Chow,Ming Li 0003,Hui Li 0006	10.1109/ICDCS.2013.60
+Detecting Transient Bottlenecks in n-Tier Applications through Fine-Grained Analysis.	Qingyang Wang 0001,Yasuhiko Kanemasa,Jack Li 0001,Deepal Jayasinghe,Toshihiro Shimizu,Masazumi Matsubara,Motoyuki Kawaba,Calton Pu	10.1109/ICDCS.2013.17
+Datacenters as Controllable Load Resources in the Electricity Market.	Rui Wang,Nagarajan Kandasamy,Chika Nwankpa,David R. Kaeli	10.1109/ICDCS.2013.16
+Dynamic Cloud Resource Reservation via Cloud Brokerage.	Wei Wang 0030,Di Niu,Baochun Li,Ben Liang 0001	10.1109/ICDCS.2013.20
+Present or Future: Optimal Pricing for Spot Instances.	Peijian Wang,Yong Qi,Dou Hui,Lei Rao,Xue Liu 0001	10.1109/ICDCS.2013.68
+Characterizing Information Diffusion in Online Social Networks with Linear Diffusive Model.	Feng Wang 0002,Haiyan Wang 0001,Kuai Xu,Jianhong Wu,Xiaohua Jia	10.1109/ICDCS.2013.14
+Pilot: Passive Device-Free Indoor Localization Using Channel State Information.	Jiang Xiao,Kaishun Wu,Youwen Yi,Lu Wang 0002,Lionel M. Ni	10.1109/ICDCS.2013.49
+Dynamic Energy Estimation of Query Plans in Database Systems.	Zichen Xu 0001,Yi-Cheng Tu,Xiaorui Wang	10.1109/ICDCS.2013.21
+AUTOVAC: Automatically Extracting System Resource Constraints and Generating Vaccines for Malware Immunization.	Zhaoyan Xu,Jialong Zhang,Guofei Gu,Zhiqiang Lin	10.1109/ICDCS.2013.69
+Watchmen: Scalable Cheat-Resistant Support for Distributed Multi-player Online Games.	Amir Yahyavi,Kévin Huguenin,Julien Gascon-Samson,Jörg Kienzle,Bettina Kemme	10.1109/ICDCS.2013.62
+S3: Characterizing Sociality for User-Friendly Steady Load Balancing in Enterprise WLANs.	Chaoqun Yue,Guangtao Xue,Hongzi Zhu,Jiadi Yu,Minglu Li 0001	10.1109/ICDCS.2013.56
+Maximizing the Spread of Positive Influence in Online Social Networks.	Huiyuan Zhang,Thang N. Dinh,My T. Thai	10.1109/ICDCS.2013.37
+Message in a Sealed Bottle: Privacy Preserving Friending in Social Networks.	Lan Zhang 0002,Xiang-Yang Li 0001,Yunhao Liu 0001	10.1109/ICDCS.2013.38
+Distributed Ranked Data Dissemination in Social Networks.	Kaiwen Zhang 0001,Mohammad Sadoghi,Vinod Muthusamy,Hans-Arno Jacobsen	10.1109/ICDCS.2013.19
+Harmony: Dynamic Heterogeneity-Aware Resource Provisioning in the Cloud.	Qi Zhang 0008,Mohamed Faten Zhani,Raouf Boutaba,Joseph L. Hellerstein	10.1109/ICDCS.2013.28
+Energy-Aware Web Browsing in 3G Based Smartphones.	Bo Zhao 0009,Qiang Zheng,Guohong Cao,Sateesh Addepalli	10.1109/ICDCS.2013.25
+On Server Provisioning for Distributed Interactive Applications.	Hanying Zheng 0001,Xueyan Tang	10.1109/ICDCS.2013.44
+Cache Topology Aware Mapping of Stream Processing Applications onto CMPs.	Fang Zheng,Chitra Venkatramani,Rohit Wagle,Karsten Schwan	10.1109/ICDCS.2013.13
+IEEE 33rd International Conference on Distributed Computing Systems, ICDCS 2013, 8-11 July, 2013, Philadelphia, Pennsylvania, USA		

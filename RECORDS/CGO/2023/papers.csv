@@ -1,0 +1,22 @@
+Fast Polynomial Evaluation for Correctly Rounded Elementary Functions using the RLIBM Approach.	Mridul Aanjaneya,Santosh Nagarakatte	10.1145/3579990.3580022
+Looplets: A Language for Structured Coiteration.	Willow Ahrens,Daniel Donenfeld,Fredrik Kjolstad,Saman P. Amarasinghe	10.1145/3579990.3580020
+Bridging Control-Centric and Data-Centric Optimization.	Tal Ben-Nun,Berke Ates,Alexandru Calotoiu,Torsten Hoefler	10.1145/3579990.3580018
+D2X: An eXtensible conteXtual Debugger for Modern DSLs.	Ajay Brahmakshatriya,Saman P. Amarasinghe	10.1145/3579990.3580014
+A Game-Based Framework to Compare Program Classifiers and Evaders.	Thaís Damásio,Michael Canesche,Vinícius Pacheco,Marcus Botacin,Anderson Faustino da Silva,Fernando Magno Quintão Pereira	10.1145/3579990.3580012
+Program State Element Characterization.	Enrico Armenio Deiana,Brian Suchy,Michael Wilkins,Brian Homerding,Tommy McMichen,Katarzyna Dunajewski,Peter A. Dinda,Nikos Hardavellas,Simone Campanoni	10.1145/3579990.3580011
+Code Generation for In-Place Stencils.	Mohamed Essadki,Bertrand Michel,Bruno Maugars,Oleksandr Zinenko,Nicolas Vasilache,Albert Cohen 0001	10.1145/3579990.3580006
+Pin or Fuse? Exploiting Scratchpad Memory to Reduce Off-Chip Data Transfer in DNN Accelerators.	Hyuk-Jin Jeong,JiHwan Yeo,Cheongyo Bahk,JongHyun Park	10.1145/3579990.3580017
+Accelerating Deep Neural Networks on Mobile Multicore NPUs.	Hanwoong Jung,Hexiang Ji,Alexey Pushchin,Maxim Ostapenko,Wenlong Niu,Ilya Palachev,Yutian Qu,Pavel Fedin,Yuri Gribov,Heewoo Nam,Dongguen Lim,Hyunjun Kim,Joonho Song,Seungwon Lee,Hwansoo Han	10.1145/3579990.3580015
+Parsimony: Enabling SIMD/Vector Programming in Standard Compiler Flows.	Vijay Kandiah,Daniel Lustig,Oreste Villa,David W. Nellans,Nikos Hardavellas	10.1145/3579990.3580019
+DJXPerf: Identifying Memory Inefficiencies via Object-Centric Profiling for Java.	Bolun Li,Pengfei Su 0001,Milind Chabbi,Shuyin Jiao,Xu Liu 0001	10.1145/3579990.3580010
+Compiling Functions onto Digital Microfluidics.	Tyson Loveless,Philip Brisk	10.1145/3579990.3580023
+Flexer: Out-of-Order Scheduling for Multi-NPUs.	Hyemi Min,Jungyoon Kwon,Bernhard Egger	10.1145/3579990.3580025
+Code Synthesis for Sparse Tensor Format Conversion and Optimization.	Tobi Popoola,Tuowen Zhao,Aaron St. George,Kalyan Bhetwal,Michelle Mills Strout,Mary W. Hall,Catherine Olschanowsky	10.1145/3579990.3580021
+To Pack or Not to Pack: A Generalized Packing Analysis and Transformation.	Caio Salvador Rohwedder,Nathan Henderson,João P. L. de Carvalho,Yufei Chen,José Nelson Amaral	10.1145/3579990.3580024
+Fine-Tuning Data Structures for Query Processing.	Amir Shaikhha,Marios Kelepeshis,Mahdi Ghorbani	10.1145/3579990.3580016
+PIMFlow: Compiler and Runtime Support for CNN Models on Processing-in-Memory DRAM.	Yongwon Shin,Juseong Park,Sungjun Cho,Hyojin Sung	10.1145/3579990.3580009
+Lifting Code Generation of Cardiac Physiology Simulation to Novel Compiler Technology.	Arun Thangamani,Tiago Trevisan Jost,Vincent Loechner,Stéphane Genaud,Bérenger Bramas	10.1145/3579990.3580008
+WARDen: Specializing Cache Coherence for High-Level Parallel Languages.	Michael Wilkins,Sam Westrick,Vijay Kandiah,Alex Bernat,Brian Suchy,Enrico Armenio Deiana,Simone Campanoni,Umut A. Acar,Peter A. Dinda,Nikos Hardavellas	10.1145/3579990.3580013
+PyTorch 2.0: The Journey to Bringing Compiler Technologies to the Core of PyTorch (Keynote).	Peng Wu	10.1145/3579990.3583093
+Khaos: The Impact of Inter-procedural Code Obfuscation on Binary Diffing Techniques.	Peihua Zhang,Chenggang Wu 0002,Mingfan Peng,Kai Zeng,Ding Yu,Yuanming Lai,Yan Kang,Wei Wang,Zhe Wang	10.1145/3579990.3580007
+Proceedings of the 21st ACM/IEEE International Symposium on Code Generation and Optimization, CGO 2023, Montréal, QC, Canada, 25 February 2023- 1 March 2023	Christophe Dubach,Derek Bruening,Ben Hardekopf	10.1145/3579990

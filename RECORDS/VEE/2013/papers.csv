@@ -1,0 +1,19 @@
+Towards verifiable resource accounting for outsourced computation.	Chen Chen 0013,Petros Maniatis,Adrian Perrig,Amit Vasudevan,Vyas Sekar	10.1145/2451512.2451546
+Introspection-based memory de-duplication and migration.	Jui-Hao Chiang,Han-Lin Li,Tzi-cker Chiueh	10.1145/2451512.2451525
+VMScatter: migrate virtual machines to many hosts.	Lei Cui 0003,Jianxin Li 0002,Bo Li 0005,Jinpeng Huai,Chunming Hu,Tianyu Wo,Hussain Al-Aqrabi,Lu Liu 0001	10.1145/2451512.2451528
+A lightweight VMM on many core for high performance computing.	Yue-hua Dai,Yong Qi,Jianbao Ren,Yi Shi,Xiaoguang Wang 0003,Xuan Yu	10.1145/2451512.2451535
+EXTERIOR: using a dual-VM based external shell for guest-OS introspection, configuration, and recovery.	Yangchun Fu,Zhiqiang Lin	10.1145/2451512.2451534
+Improving dynamic binary optimization through early-exit guided code region formation.	Chun-Chen Hsu,Pangfeng Liu,Jan-Jan Wu,Pen-Chung Yew,Ding-Yong Hong,Wei-Chung Hsu,Chien-Min Wang	10.1145/2451512.2451519
+Performance potential of optimization phase selection during dynamic JIT compilation.	Michael R. Jantz,Prasad A. Kulkarni	10.1145/2451512.2451539
+A framework for application guidance in virtual memory systems.	Michael R. Jantz,Carl Strickland,Karthik Kumar,Martin Dimitrov,Kshitij A. Doshi	10.1145/2451512.2451543
+SPIRE: improving dynamic binary translation through SPC-indexed indirect branch redirecting.	Ning Jia,Chun Yang,Jing Wang,Dong Tong 0001,Keyi Wang	10.1145/2451512.2451516
+Efficient live migration of virtual machines using shared storage.	Changyeon Jo,Erik Gustafsson,Jeongseok Son,Bernhard Egger	10.1145/2451512.2451524
+Superblock compilation and other optimization techniques for a Java-based DPT machine emulator.	Marco Kaufmann,Rainer G. Spallek	10.1145/2451512.2451521
+Limits of region-based dynamic binary parallelization.	Tobias J. K. Edler von Koch,Björn Franke	10.1145/2451512.2451518
+A modular approach to on-stack replacement in LLVM.	Nurudeen Lameed,Laurie J. Hendren	10.1145/2451512.2451541
+Preemptable ticket spinlocks: improving consolidated performance in the cloud.	Jiannan Ouyang,John R. Lange	10.1145/2451512.2451549
+Parallelizing live migration of virtual machines.	Xiang Song,Jicheng Shi,Ran Liu 0003,Jian Yang,Haibo Chen 0001	10.1145/2451512.2451531
+Traveling forward in time to newer operating systems using ShadowReboot.	Hiroshi Yamada,Kenji Kono	10.1145/2451512.2451536
+Leveraging phase change memory to achieve efficient virtual machine execution.	Ruijin Zhou,Tao Li 0006	10.1145/2451512.2451547
+Optimizing virtual machine live storage migration in heterogeneous storage environment.	Ruijin Zhou,Fang Liu,Chao Li 0009,Tao Li 0006	10.1145/2451512.2451529
+ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (co-located with ASPLOS 2013), VEE &apos;13, Houston, TX, USA, March 16-17, 2013	Steve Muir,Gernot Heiser,Stephen M. Blackburn	10.1145/2451512

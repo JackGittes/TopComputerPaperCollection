@@ -1,0 +1,71 @@
+Microsecond Consensus for Microsecond Applications.	Marcos K. Aguilera,Naama Ben-David,Rachid Guerraoui,Virendra J. Marathe,Athanasios Xygkis,Igor Zablotchi	
+Toward a Generic Fault Tolerance Technique for Partial Network Partitioning.	Mohammed Alfatafta,Basil Alkhatib,Ahmed Alquraan,Samer Al-Kiswany	
+Providing SLOs for Resource-Harvesting VMs in Cloud Platforms.	Pradeep Ambati,Iñigo Goiri,Felipe Vieira Frujeri,Alper Gun,Ke Wang,Brian Dolan,Brian Corell,Sekhar Pasupuleti,Thomas Moscibroda,Sameh Elnikety,Marcus Fontoura,Ricardo Bianchini	
+Assise: Performance and Availability via Client-local NVM in a Distributed File System.	Thomas E. Anderson,Marco Canini,Jongyul Kim,Dejan Kostic,Youngjin Kwon,Simon Peter 0001,Waleed Reda,Henry N. Schuh,Emmett Witchel	
+PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications.	Zhihao Bai,Zhen Zhang,Yibo Zhu,Xin Jin 0008	
+Virtual Consensus in Delos.	Mahesh Balakrishnan 0001,Jason Flinn,Chen Shen,Mihir Dharamshi,Ahmed Jafri,Xiao Shi,Santosh Ghosh,Hazem Hassan,Aaryaman Sagar,Rhed Shi,Jingming Liu,Filip Gruszczynski,Xianan Zhang,Huy Hoang,Ahmed Yossef,Francois Richard,Yee Jiun Song	
+Efficiently Mitigating Transient Execution Attacks using the Unmapped Speculation Contract.	Jonathan Behrens,Anton Cao,Cel Skeggs,Adam Belay,M. Frans Kaashoek,Nickolai Zeldovich	
+The CacheLib Caching Engine: Design and Experiences at Scale.	Benjamin Berg,Daniel S. Berger,Sara McAllister,Isaac Grosof,Sathya Gunasekar,Jimmy Lu,Michael Uhlar,Jim Carrig,Nathan Beckmann,Mor Harchol-Balter,Gregory R. Ganger	
+Theseus: an Experiment in Operating System Structure and State Management.	Kevin Boos,Namitha Liyanage,Ramla Ijaz,Lin Zhong 0001	
+hXDP: Efficient Software Packet Processing on FPGA NICs.	Marco Spaziani Brunella,Giacomo Belocchi,Marco Bonola,Salvatore Pontarelli,Giuseppe Siracusano,Giuseppe Bianchi 0001,Aniello Cammarano,Alessandro Palumbo,Luca Petrucci,Roberto Bifulco	
+Determinizing Crash Behavior with a Verified Snapshot-Consistent Flash Translation Layer.	Yun-Sheng Chang,Yao Hsiao,Tzu-Chi Lin,Che-Wei Tsao,Chun-Feng Wu,Yuan-Hao Chang 0001,Hsiang-Shang Ko,Yu-Fang Chen 0001	
+Overload Control for µs-scale RPCs with Breakwater.	Inho Cho,Ahmed Saeed 0001,Joshua Fried,Seo Jin Park,Mohammad Alizadeh,Adam Belay	
+Unearthing inter-job dependencies for better cluster scheduling.	Andrew Chung,Subru Krishnan,Konstantinos Karanasos,Carlo Curino,Gregory R. Ganger	
+From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees.	Yifan Dai,Yien Xu,Aishwarya Ganesan,Ramnatthan Alagappan,Brian Kroth,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+SafetyPin: Encrypted Backups with Human-Memorable Secrets.	Emma Dauterman,Henry Corrigan-Gibbs,David Mazières	
+DORY: An Encrypted Search System with Distributed Trust.	Emma Dauterman,Eric Feng,Ellen Luo,Raluca Ada Popa,Ion Stoica	
+Caladan: Mitigating Interference at Microsecond Timescales.	Joshua Fried,Zhenyuan Ruan,Amy Ousterhout,Adam Belay	
+Serving DNNs like Clockwork: Performance Predictability from the Bottom Up.	Arpan Gujarati,Reza Karimi,Safya Alzayat,Wei Hao,Antoine Kaufmann,Ymir Vigfusson,Jonathan Mace	
+Protean: VM Allocation Service at Scale.	Ori Hadary,Luke Marshall,Ishai Menache,Abhisek Pan,Esaias E. Greeff,David Dion,Star Dorminey,Shailesh Joshi,Yang Chen,Mark Russinovich,Thomas Moscibroda	
+Storage Systems are Distributed Systems (So Verify Them That Way!).	Travis Hance,Andrea Lattuada,Chris Hawblitzel,Jon Howell,Rob Johnson,Bryan Parno	
+LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network.	Mingzhe Hao,Levent Toksoz,Nanqinqin Li,Edward Edberg Halim,Henry Hoffmann,Haryadi S. Gunawi	
+Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution.	Yigong Hu,Gongqi Huang,Peng Huang 0005	
+A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters.	Yimin Jiang,Yibo Zhu,Chang Lan,Bairen Yi,Yong Cui 0001,Chuanxiong Guo	
+PACEMAKER: Avoiding HeART attacks in storage clusters with disk-adaptive redundancy.	Saurabh Kadekodi,Francisco Maturana,Suhas Jayaram Subramanya,Juncheng Yang,K. V. Rashmi,Gregory R. Ganger	
+Do OS abstractions make sense on FPGAs?	Dario Korolija,Timothy Roscoe,Gustavo Alonso	
+FVM: FPGA-assisted Virtual Device Emulation for Fast, Scalable, and Flexible Storage Virtualization.	Dongup Kwon,Junehyuk Boo,Dongryeong Kim,Jangwoo Kim	
+Kvell+: Snapshot Isolation without Snapshots.	Baptiste Lepers,Oana Balmau,Karan Gupta,Willy Zwaenepoel	
+Predictive and Adaptive Failure Mitigation to Avert Production Cloud VM Interruptions.	Sebastien Levy,Randolph Yao,Youjiang Wu,Yingnong Dang,Peng Huang 0005,Zheng Mu,Pu Zhao 0004,Tarun Ramani,Naga K. Govindaraju,Xukun Li,Qingwei Lin,Gil Lapid Shafriri,Murali Chintalapati	
+Sundial: Fault-tolerant Clock Synchronization for Datacenters.	Yuliang Li,Gautam Kumar 0001,Hema Hariharan,Hassan M. G. Wassel,Peter Hochschild,Dave Platt,Simon L. Sabato,Minlan Yu,Nandita Dukkipati,Prashant Chandra,Amin Vahdat	
+Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories.	Jialin Li 0001,Jacob Nelson,Ellis Michael,Xin Jin 0008,Dan R. K. Ports	
+Thunderbolt: Throughput-Optimized, Quality-of-Service-Aware Power Capping at Scale.	Shaohong Li,Xi Wang,Xiao Zhang,Vasileios Kontorinis,Sreekumar Kodakara,David Lo 0003,Parthasarathy Ranganathan	
+Write Dependency Disentanglement with HORAE.	Xiaojian Liao,Youyou Lu,Erci Xu,Jiwu Shu	
+PANIC: A High-Performance Programmable NIC for Multi-tenant Networks.	Jiaxin Lin,Kiran Patel,Brent E. Stephens,Anirudh Sivaraman,Aditya Akella	
+Performance-Optimal Read-Only Transactions.	Haonan Lu,Siddhartha Sen 0001,Wyatt Lloyd	
+Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks.	Lingxiao Ma,Zhiqiang Xie,Zhi Yang 0001,Jilong Xue,Youshan Miao,Wei Cui,Wenxiang Hu,Fan Yang 0024,Lintao Zhang,Lidong Zhou	
+KungFu: Making Training in Distributed Machine Learning Adaptive.	Luo Mai,Guo Li,Marcel Wagenländer,Konstantinos Fertakis,Andrei-Octavian Brabete,Peter R. Pietzuch	
+A Tensor Compiler for Unified Machine Learning Prediction Serving.	Supun Nakandala,Karla Saur,Gyeong-In Yu,Konstantinos Karanasos,Carlo Curino,Markus Weimer,Matteo Interlandi	
+RedLeaf: Isolation and Communication in a Safe Operating System.	Vikram Narayanan,Tianjiao Huang,David Detweiler,Dan Appel,Zhaofeng Li 0004,Gerd Zellweger,Anton Burtsev	
+Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads.	Deepak Narayanan,Keshav Santhanam,Fiodar Kazhamiaka,Amar Phanishayee,Matei Zaharia	
+AGAMOTTO: How Persistent is your Persistent Memory Application?	Ian Neal,Ben Reeves,Ben Stoler,Andrew Quinn 0001,Youngjin Kwon,Simon Peter 0001,Baris Kasikci	
+Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel.	Luke Nelson,Jacob Van Geffen,Emina Torlak,Xi Wang 0005	
+Tolerating Slowdowns in Replicated State Machines using Copilots.	Khiem Ngo,Siddhartha Sen 0001,Wyatt Lloyd	
+A Simpler and Faster NIC Driver Model for Network Functions.	Solal Pirelli,George Candea	
+FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices.	Haoran Qiu,Subho S. Banerjee,Saurabh Jha,Zbigniew T. Kalbarczyk,Ravishankar K. Iyer	
+CrossFS: A Cross-layered Direct-Access File System.	Yujie Ren,Changwoo Min,Sudarsun Kannan	
+Testing Database Engines via Pivoted Query Synthesis.	Manuel Rigger,Zhendong Su 0001	
+From Global to Local Quiescence: Wait-Free Code Patching of Multi-Threaded Processes.	Florian Rommel,Christian Dietrich 0001,Daniel Friesel,Marcel Köppen,Christoph Borchert,Michael Müller 0009,Olaf Spinczyk,Daniel Lohmann	
+Orchard: Differentially Private Analytics at Scale.	Edo Roth,Hengchu Zhang,Andreas Haeberlen,Benjamin C. Pierce	
+AIFM: High-Performance, Application-Integrated Far Memory.	Zhenyuan Ruan,Malte Schwarzkopf,Marcos K. Aguilera,Adam Belay	
+Gauntlet: Finding Bugs in Compilers for Programmable Packet Processing.	Fabian Ruffy,Tao Wang,Anirudh Sivaraman	
+Generalized Sub-Query Fusion for Eliminating Redundant I/O from Big-Data Queries.	Partho Sarthi,Kaushik Rajan,Akash Lal,Abhishek Modi,Prakhar Jain,Mo Liu 0003,Ashit Gosalia,Saurabh Kalikar	
+Blockene: A High-throughput Blockchain Over Mobile Devices.	Sambhav Satija,Apurv Mehra,Sudheesh Singanamalla,Karan Grover,Muthian Sivathanu,Nishanth Chandran,Divya Gupta 0001,Satya Lokam	
+FlightTracker: Consistency across Read-Optimized Online Stores at Facebook.	Xiao Shi,Scott Pruett,Kevin Doherty,Jinyu Han,Dmitri Petrov,Jim Carrig,John Hugg,Nathan Bronson	
+Testing Configuration Changes in Context to Prevent Production Failures.	Xudong Sun 0013,Runxiang Cheng,Jianyan Chen,Elaine Ang,Owolabi Legunsen,Tianyin Xu	
+Building Scalable and Flexible Cluster Managers Using Declarative Programming.	Lalith Suresh,João Loff,Faria Kalim,Sangeetha Abdu Jyothi,Nina Narodytska,Leonid Ryzhyk,Sahan Gamage,Brian Oki,Pranshu Jain,Michael Gasch	
+Cobra: Making Transactional Key-Value Stores Verifiably Serializable.	Cheng Tan 0005,Changgeng Zhao,Shuai Mu 0001,Michael Walfish	
+Twine: A Unified Cluster Management System for Shared Infrastructure.	Chunqiang Tang,Kenny Yu,Kaushik Veeraraghavan,Jonathan Kaldor,Scott Michelson,Thawan Kooburat,Aravind Anbudurai,Matthew Clark,Kabir Gogia,Long Cheng,Ben Christensen,Alex Gartrell,Maxim Khutornenko,Sachin Kulkarni,Marcin Pawlowski 0003,Tuomas Pelkonen,Andre Rodrigues,Rounak Tibrewal,Vaishnavi Venkatesan,Peter Zhang	
+Semeru: A Memory-Disaggregated Managed Runtime.	Chenxi Wang,Haoran Ma,Shi Liu,Yuanqi Li,Zhenyuan Ruan,Khanh Nguyen 0001,Michael D. Bond,Ravi Netravali,Miryung Kim,Guoqing Harry Xu	
+Fast RDMA-based Ordered Key-Value Store using Remote Learned Cache.	Xingda Wei,Rong Chen 0001,Haibo Chen 0001	
+AntMan: Dynamic Scaling on GPU Clusters for Deep Learning.	Wencong Xiao,Shiru Ren,Yong Li,Yang Zhang,Pengyang Hou,Zhi Li,Yihui Feng,Wei Lin 0016,Yangqing Jia	
+A large scale analysis of hundreds of in-memory cache clusters at Twitter.	Juncheng Yang,Yao Yue,K. V. Rashmi	
+Aragog: Scalable Runtime Verification of Shardable Networked Systems.	Nofel Yaseen,Behnaz Arzani,Ryan Beckett,Selim Ciraci,Vincent Liu 0001	
+Fault-tolerant and transactional stateful serverless workflows.	Haoran Zhang,Adney Cardoza,Peter Baile Chen,Sebastian Angel,Vincent Liu 0001	
+Retiarii: A Deep Learning Exploratory-Training Framework.	Quanlu Zhang,Zhenhua Han,Fan Yang 0024,Yuge Zhang,Zhe Liu,Mao Yang,Lidong Zhou	
+Byzantine Ordered Consensus without Byzantine Oligarchy.	Yunhao Zhang,Srinath T. V. Setty,Qi Chen,Lidong Zhou,Lorenzo Alvisi	
+Persistent State Machines for Recoverable In-memory Storage Systems with NVRam.	Wen Zhang,Scott Shenker,Irene Zhang	
+HiveD: Sharing a GPU Cluster for Deep Learning with Guarantees.	Hanyu Zhao,Zhenhua Han,Zhi Yang 0001,Quanlu Zhang,Fan Yang 0024,Lidong Zhou,Mao Yang,Francis C. M. Lau 0001,Yuqi Wang,Yifan Xiong 0001,Bin Wang	
+Achieving 100Gbps Intrusion Prevention on a Single Server.	Zhipeng Zhao,Hugo Sadok,Nirav Atre,James C. Hoe,Vyas Sekar,Justine Sherry	
+Ansor: Generating High-Performance Tensor Programs for Deep Learning.	Lianmin Zheng,Chengfan Jia,Minmin Sun,Zhao Wu,Cody Hao Yu,Ameer Haj-Ali,Yida Wang,Jun Yang,Danyang Zhuo,Koushik Sen,Joseph E. Gonzalez,Ion Stoica	
+RackSched: A Microsecond-Scale Scheduler for Rack-Scale Computers.	Hang Zhu,Kostis Kaffes,Zixu Chen,Zhenming Liu,Christos Kozyrakis,Ion Stoica,Xin Jin 0008	
+14th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2020, Virtual Event, November 4-6, 2020.		

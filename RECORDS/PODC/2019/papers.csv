@@ -1,0 +1,79 @@
+Hyaline: Fast and Transparent Lock-Free Memory Reclamation.	Ruslan Nikolaev 0001,Binoy Ravindran	10.1145/3293611.3331575
+Communication Complexity of Byzantine Agreement, Revisited.	Ittai Abraham,T.-H. Hubert Chan,Danny Dolev,Kartik Nayak,Rafael Pass,Ling Ren 0001,Elaine Shi	10.1145/3293611.3331629
+Implementing Mediators with Asynchronous Cheap Talk.	Ittai Abraham,Danny Dolev,Ivan Geffner,Joseph Y. Halpern	10.1145/3293611.3331623
+Asymptotically Optimal Validated Asynchronous Byzantine Agreement.	Ittai Abraham,Dahlia Malkhi,Alexander Spiegelman	10.1145/3293611.3331612
+Multiparty Interactive Communication with Private Channels.	Abhinav Aggarwal,Varsha Dani,Thomas P. Hayes,Jared Saia	10.1145/3293611.3331571
+On Site Fidelity and the Price of Ignorance in Swarm Robotic Central Place Foraging Algorithms.	Abhinav Aggarwal,G. Matthew Fricke,Diksha Gupta,Melanie E. Moses	10.1145/3293611.3331572
+Bootstrapping Public Blockchains Without a Trusted Setup.	Abhinav Aggarwal,Mahnush Movahedi,Jared Saia,Mahdi Zamani	10.1145/3293611.3331570
+Optimal Memory-Anonymous Symmetric Deadlock-Free Mutual Exclusion.	Zahra Aghazadeh,Damien Imbs,Michel Raynal,Gadi Taubenfeld,Philipp Woelfel	10.1145/3293611.3331594
+The Impact of RDMA on Agreement.	Marcos K. Aguilera,Naama Ben-David,Rachid Guerraoui,Virendra J. Marathe,Igor Zablotchi	10.1145/3293611.3331601
+2019 Edsger W. Dijkstra Prize in Distributed Computing.	Lorenzo Alvisi,Shlomi Dolev,Faith Ellen,Idit Keidar,Fabian Kuhn,Jukka Suomela	10.1145/3293611.3341564
+Massively Parallel Algorithms for Finding Well-Connected Components in Sparse Graphs.	Sepehr Assadi,Xiaorui Sun,Omri Weinstein	10.1145/3293611.3331596
+Hardness of Distributed Optimization.	Nir Bachrach,Keren Censor-Hillel,Michal Dory,Yuval Efron,Dean Leitersdorf,Ami Paz	10.1145/3293611.3331597
+The Distributed Complexity of Locally Checkable Problems on Paths is Decidable.	Alkida Balliu,Sebastian Brandt 0002,Yi-Jun Chang,Dennis Olivetti,Mikaël Rabie,Jukka Suomela	10.1145/3293611.3331606
+Hardness of Minimal Symmetry Breaking in Distributed Computing.	Alkida Balliu,Juho Hirvonen,Dennis Olivetti,Jukka Suomela	10.1145/3293611.3331605
+On the Complexity of Distributed Splitting Problems.	Philipp Bamberger,Mohsen Ghaffari 0001,Fabian Kuhn,Yannic Maus,Jara Uitto	10.1145/3293611.3331630
+Massively Parallel Computation of Matching and MIS in Sparse Graphs.	Soheil Behnezhad,Sebastian Brandt 0002,Mahsa Derakhshan,Manuela Fischer,MohammadTaghi Hajiaghayi,Richard M. Karp,Jara Uitto	10.1145/3293611.3331609
+Optimal Distributed Covering Algorithms.	Ran Ben-Basat,Guy Even,Ken-ichi Kawarabayashi,Gregory Schwartzman	10.1145/3293611.3331577
+On Counting the Population Size.	Petra Berenbrink,Dominik Kaaser,Tomasz Radzik	10.1145/3293611.3331631
+Message Reduction in the LOCAL Model is a Free Lunch.	Shimon Bitton,Yuval Emek,Taisuke Izumi,Shay Kutten	10.1145/3293611.3331582
+A Trivial Yet Optimal Solution to Vertex Fault Tolerant Spanners.	Greg Bodwin,Shyamal Patel	10.1145/3293611.3331588
+An Automatic Speedup Theorem for Distributed Problems.	Sebastian Brandt 0002	10.1145/3293611.3331611
+A Sharp Threshold Phenomenon for the Distributed Complexity of the Lovász Local Lemma.	Sebastian Brandt 0002,Yannic Maus,Jara Uitto	10.1145/3293611.3331636
+Reconfigurable Atomic Transaction Commit.	Manuel Bravo,Alexey Gotsman	10.1145/3293611.3331590
+Byzantine Fault Tolerant State Machine Replication in Any Programming Language.	Ethan Buchman	10.1145/3293611.3338023
+Fault Tolerant Gradient Clock Synchronization.	Johannes Bund,Christoph Lenzen 0001,Will Rosenbaum	10.1145/3293611.3331637
+Fast Approximate Shortest Paths in the Congested Clique.	Keren Censor-Hillel,Michal Dory,Janne H. Korhonen,Dean Leitersdorf	10.1145/3293611.3331633
+Tutorial: Specifying, Implementing, and Verifying Algorithms for Persistent Memory.	Diego Cepeda,Sakib Chowdhury,Wojciech M. Golab	10.1145/3293611.3338025
+The Complexity of (Δ+1) Coloring in Congested Clique, Massively Parallel Computation, and Centralized Local Computation.	Yi-Jun Chang,Manuela Fischer,Mohsen Ghaffari 0001,Jara Uitto,Yufan Zheng	10.1145/3293611.3331607
+Improved Distributed Expander Decomposition and Nearly Optimal Triangle Enumeration.	Yi-Jun Chang,Thatchaphol Saranurak	10.1145/3293611.3331618
+How Fast Reads Affect Multi-Valued Register Simulations.	Soma Chaudhuri,Reginald Frank,Jennifer L. Welch	10.1145/3293611.3331580
+Self-Stabilizing Leader Election.	Hsueh-Ping Chen,Ho-Lin Chen	10.1145/3293611.3331616
+Broadcast Congested Clique: Planted Cliques and Pseudorandom Generators.	Lijie Chen 0001,Ofer Grossman	10.1145/3293611.3331599
+Symmetry Breaking in the Plane: Rendezvous by Robots with Unknown Attributes.	Jurek Czyzowicz,Leszek Gasieniec,Ryan Killick,Evangelos Kranakis	10.1145/3293611.3331608
+Deterministic Distributed Dominating Set Approximation in the CONGEST Model.	Janosch Deurer,Fabian Kuhn,Yannic Maus	10.1145/3293611.3331626
+Distributed Minimum Degree Spanning Trees.	Michael Dinitz,Magnús M. Halldórsson,Taisuke Izumi,Calvin Newport	10.1145/3293611.3331604
+Improved Distributed Approximations for Minimum-Weight Two-Edge-Connected Spanning Subgraph.	Michal Dory,Mohsen Ghaffari 0001	10.1145/3293611.3331617
+Efficient Size Estimation and Impossibility of Termination in Uniform Dense Population Protocols.	David Doty,Mahsa Eftekhari	10.1145/3293611.3331627
+Near-Additive Spanners In Low Polynomial Deterministic CONGEST Time.	Michael Elkin,Shaked Matar	10.1145/3293611.3331635
+Central Control over Distributed Asynchronous Systems: A Tutorial on Software-Defined Networks and Consistent Network Updates.	Klaus-Tycho Foerster	10.1145/3293611.3338024
+Does Preprocessing Help under Congestion?	Klaus-Tycho Foerster,Janne H. Korhonen,Joel Rybicki,Stefan Schmid 0001	10.1145/3293611.3331581
+Weighted Matchings via Unweighted Augmentations.	Buddhima Gamlath,Sagar Kale,Slobodan Mitrovic,Ola Svensson	10.1145/3293611.3331603
+Efficient Multiparty Interactive Coding for Insertions, Deletions, and Substitutions.	Ran Gelles,Yael Tauman Kalai,Govind Ramnarayan	10.1145/3293611.3331621
+Self-Stabilizing Snapshot Objects for Asynchronous Failure-Prone Networked Systems.	Chryssis Georgiou,Oskar Lundström,Elad Michael Schiller	10.1145/3293611.3331584
+On the Use of Randomness in Local Distributed Graph Algorithms.	Mohsen Ghaffari 0001,Fabian Kuhn	10.1145/3293611.3331610
+How to Spread a Rumor: Call Your Neighbors or Take a Walk?	George Giakkoupis,Frederik Mallmann-Trenn,Hayk Saribekyan	10.1145/3293611.3331622
+The Recoverable Consensus Hierarchy.	Wojciech M. Golab	10.1145/3293611.3331574
+The Consensus Number of a Cryptocurrency.	Rachid Guerraoui,Petr Kuznetsov,Matteo Monti,Matej Pavlovic,Dragos-Adrian Seredinschi	10.1145/3293611.3331589
+Plain SINR is Enough!	Magnús M. Halldórsson,Tigran Tonoyan	10.1145/3293611.3331602
+On Termination of a Flooding Process.	Walter Hussak,Amitabh Trehan	10.1145/3293611.3331586
+Quantum Distributed Algorithm for the All-Pairs Shortest Path Problem in the CONGEST-CLIQUE Model.	Taisuke Izumi,François Le Gall	10.1145/3293611.3331628
+Constant Amortized RMR Abortable Mutex for CC and DSM.	Prasad Jayanti,Siddhartha Jayanti	10.1145/3293611.3331592
+A Recoverable Mutex Algorithm with Sub-logarithmic RMR on Both CC and DSM.	Prasad Jayanti,Siddhartha V. Jayanti,Anup Joshi	10.1145/3293611.3331634
+2019 Principles of Distributed Computing Doctoral Dissertation Award.	Prasad Jayanti,Nancy A. Lynch,Boaz Patt-Shamir,Ulrich Schmid 0001	10.1145/3293611.3341565
+Randomized Concurrent Set Union and Generalized Wake-Up.	Siddhartha V. Jayanti,Robert E. Tarjan,Enric Boix-Adserà	10.1145/3293611.3331593
+Exact Byzantine Consensus on Undirected Graphs under Local Broadcast Model.	Muhammad Samir Khan,Syed Shalan Naqvi,Nitin H. Vaidya	10.1145/3293611.3331619
+On Mixing Eventual and Strong Consistency: Bayou Revisited.	Maciej Kokocinski,Tadeusz Kobus,Pawel T. Wojciechowski	10.1145/3293611.3331583
+Vorpal: Vector Clock Ordering For Large Persistent Memory Systems.	Kunal Korgaonkar,Joseph Izraelevitz,Jishen Zhao,Steven Swanson	10.1145/3293611.3331598
+Hardness of Exact Distance Queries in Sparse Graphs Through Hub Labeling.	Adrian Kosowski,Przemyslaw Uznanski,Laurent Viennot	10.1145/3293611.3331625
+Coded State Machine - Scaling State Machine Execution under Byzantine Faults.	Songze Li,Saeid Sahraei,Mingchao Yu,Salman Avestimehr,Sreeram Kannan,Pramod Viswanath	10.1145/3293611.3331573
+From Classical to Blockchain Consensus: What Are the Exact Algorithms?	Yanhong A. Liu,Scott D. Stoller	10.1145/3293611.3338022
+P-SLOCAL-Completeness of Maximum Independent Set Approximation.	Yannic Maus	10.1145/3293611.3331578
+Can Distributed Uniformity Testing Be Local?	Uri Meir,Dor Minzer,Rotem Oshman	10.1145/3293611.3331613
+With Great Speed Come Small Buffers: Space-Bandwidth Tradeoffs for Routing.	Avery Miller,Boaz Patt-Shamir,Will Rosenbaum	10.1145/3293611.3331614
+Topological Characterization of Consensus under General Message Adversaries.	Thomas Nowak,Ulrich Schmid 0001,Kyrill Winkler	10.1145/3293611.3331624
+Strongly Linearizable Implementations of Snapshots and Other Types.	Sean Ovens,Philipp Woelfel	10.1145/3293611.3331632
+Connectivity Lower Bounds in Broadcast Congested Clique.	Shreyas Pai,Sriram V. Pemmaraju	10.1145/3293611.3331569
+Secure Distributed Computing Made (Nearly) Optimal.	Merav Parter,Eylon Yogev	10.1145/3293611.3331620
+Fast Concurrent Data Sketches.	Arik Rinberg,Alexander Spiegelman,Edward Bortnikov,Eshcar Hillel,Idit Keidar,Hadar Serviansky	10.1145/3293611.3331567
+Local Computation Algorithms.	Ronitt Rubinfeld	10.1145/3293611.3331587
+Engineering Distributed Systems that We Can Trust (and Also Run).	Ilya Sergey	10.1145/3293611.3338839
+Composable Computation in Discrete Chemical Reaction Networks.	Eric E. Severson,David Haley,David Doty	10.1145/3293611.3331615
+Linearizable State Machine Replication of State-Based CRDTs without Logs.	Jan Skrzypczak,Florian Schintke,Thorsten Schütt	10.1145/3293611.3331568
+Logarithmic Expected-Time Leader Election in Population Protocol Model.	Yuichi Sudo,Fukuhito Ooshita,Taisuke Izumi,Hirotsugu Kakugawa,Toshimitsu Masuzawa	10.1145/3293611.3331585
+Layering Data Structures over Skip Graphs for Increased NUMA Locality.	Samuel Thomas,Hammurabi Mendes	10.1145/3293611.3331576
+On the Parallels between Paxos and Raft, and how to Port Optimizations.	Zhaoguo Wang,Changgeng Zhao,Shuai Mu 0001,Haibo Chen 0001,Jinyang Li 0001	10.1145/3293611.3331595
+Towards a Theory of Randomized Shared Memory Algorithms.	Philipp Woelfel	10.1145/3293611.3338838
+Partially Replicated Causally Consistent Shared Memory: Lower Bounds and An Algorithm.	Zhuolun Xiang,Nitin H. Vaidya	10.1145/3293611.3331600
+HotStuff: BFT Consensus with Linearity and Responsiveness.	Maofan Yin,Dahlia Malkhi,Michael K. Reiter,Guy Golan-Gueta,Ittai Abraham	10.1145/3293611.3331591
+Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing, PODC 2019, Toronto, ON, Canada, July 29 - August 2, 2019.	Peter Robinson 0002,Faith Ellen	

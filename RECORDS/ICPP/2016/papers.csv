@@ -1,0 +1,73 @@
+Locality-Aware Laplacian Mesh Smoothing.	Guillaume Aupy,JeongHyung Park,Padma Raghavan	10.1109/ICPP.2016.74
+Improving Data Transfer Throughput with Direct Search Optimization.	Prasanna Balaprakash,Vitali A. Morozov,Rajkumar Kettimuthu,Kalyan Kumaran,Ian T. Foster	10.1109/ICPP.2016.36
+Ensemble Toolkit: Scalable and Flexible Execution of Ensembles of Tasks.	Vivekanandan Balasubramanian,Antons Treikalis,Ole Weidner,Shantenu Jha	10.1109/ICPP.2016.59
+Sparse Matrix Format Selection with Multiclass SVM for SpMV on GPU.	Akrem Benatia,Weixing Ji,Yizhuo Wang,Feng Shi	10.1109/ICPP.2016.64
+Resilient Application Co-scheduling with Processor Redistribution.	Anne Benoit,Loic Pottier,Yves Robert	10.1109/ICPP.2016.21
+Declarative Tuning for Locality in Parallel Programs.	Sanjay Chatterjee,Nick Vrvilo,Zoran Budimlic,Kathleen Knobe,Vivek Sarkar	10.1109/ICPP.2016.58
+Help-Optimal and Language-Portable Lock-Free Concurrent Data Structures.	Bapi Chatterjee,Ivan Walulya,Philippas Tsigas	10.1109/ICPP.2016.48
+EchoLoc: Accurate Device-Free Hand Localization Using COTS Devices.	Huijie Chen,Fan Li 0001,Yu Wang 0003	10.1109/ICPP.2016.45
+GFlink: An In-Memory Computing Architecture on Heterogeneous CPU-GPU Clusters for Big Data.	Cen Chen,Kenli Li 0001,Aijia Ouyang,Zhuo Tang,Keqin Li 0001	10.1109/ICPP.2016.69
+MobiSensing: Exploiting Human Mobility for Multi-application Mobile Data Sensing with Low User Intervention.	Kang Chen,Haiying Shen	10.1109/ICPP.2016.63
+A Scalability Comparison Study of Data Management Approaches for Smart Metering Systems.	Houssem Chihoub,Christine Collet	10.1109/ICPP.2016.61
+Piccolo: A Fast and Efficient Rollback System for Virtual Machine Clusters.	Lei Cui 0003,Zhiyu Hao,Chonghua Wang,Haiqiang Fei,Zhenquan Ding	10.1109/ICPP.2016.17
+On the Impact of Widening Vector Registers on Sequence Alignment.	Jeffrey Daily,Ananth Kalyanaraman,Sriram Krishnamoorthy,Bin Ren	10.1109/ICPP.2016.65
+MPI Overlap: Benchmark and Analysis.	Alexandre Denis 0001,François Trahay	10.1109/ICPP.2016.37
+Think Global, Act Local: A Buffer Cache Design for Global Ordering and Parallel Processing in the WAFL File System.	Peter R. Denz,Matthew Curtis-Maury,Vinay Devadas	10.1109/ICPP.2016.51
+Efficient Virtual Network Embedding for Variable Size Virtual Machines in Fat-Tree Data Centers.	Jun Duan,Yuanyuan Yang 0001	10.1109/ICPP.2016.8
+PCAF: Scalable, High Precision k-NN Search Using Principal Component Analysis Based Filtering.	Huan Feng,David M. Eyers,Steven Mills,Yongwei Wu,Zhiyi Huang 0001	10.1109/ICPP.2016.79
+Optimal Collision/Conflict-Free Distance-2 Coloring in Wireless Synchronous Broadcast/Receive Tree Networks.	Davide Frey,Hicham Lakhlef,Michel Raynal	10.1109/ICPP.2016.47
+Optimal Multi-taxi Dispatch for Mobile Taxi-Hailing Systems.	Guoju Gao,Mingjun Xiao,Zhenhua Zhao	10.1109/ICPP.2016.41
+The Case for Cross-Component Power Coordination on Power Bounded Systems.	Rong Ge 0002,Xizhou Feng,Yangyang He,Pengfei Zou	10.1109/ICPP.2016.66
+One-Sided Interface for Matrix Operations Using MPI-3 RMA: A Case Study with Elemental.	Sayan Ghosh,Jeff R. Hammond,Antonio J. Peña,Pavan Balaji,Assefaw Hadish Gebremedhin,Barbara M. Chapman	10.1109/ICPP.2016.28
+An Unbounded Nonblocking Double-Ended Queue.	Matthew Graichen,Joseph Izraelevitz,Michael L. Scott	10.1109/ICPP.2016.32
+AccuracyTrader: Accuracy-Aware Approximate Processing for Low Tail Latency and High Result Accuracy in Cloud Online Services.	Rui Han 0001,Siguang Huang,Fei Tang,Fu-Gui Chang,Jianfeng Zhan	10.1109/ICPP.2016.39
+Criticality-Aware Partitioning for Multicore Mixed-Criticality Systems.	Jian-Jun Han,Xin Tao,Dakai Zhu 0001,Hakan Aydin	10.1109/ICPP.2016.33
+Exploiting Real-Time Traffic Light Scheduling with Taxi Traces.	Zongjian He,Daqiang Zhang,Jiannong Cao 0001,Xuefeng Liu 0001,Xiaopeng Fan,Cheng-Zhong Xu 0001	10.1109/ICPP.2016.43
+Run-Time Performance Estimation and Fairness-Oriented Scheduling Policy for Concurrent GPGPU Applications.	Qingda Hu,Jiwu Shu,Jie Fan 0004,Youyou Lu	10.1109/ICPP.2016.14
+ROP: Alleviating Refresh Overheads via Reviving the Memory System in Frozen Cycles.	Ping Huang 0001,Wenjie Liu 0002,Kun Tang,Xubin He,Ke Zhou 0001	10.1109/ICPP.2016.26
+Partial Flattening: A Compilation Technique for Irregular Nested Parallelism on GPGPUs.	Ming-Hsiang Huang,Wuu Yang	10.1109/ICPP.2016.70
+High Performance Parallel Algorithms for the Tucker Decomposition of Sparse Tensors.	Oguz Kaya,Bora Uçar	10.1109/ICPP.2016.19
+A Parallel Hill-Climbing Refinement Algorithm for Graph Partitioning.	Dominique LaSalle,George Karypis	10.1109/ICPP.2016.34
+Improving RAID Performance Using an Endurable SSD Cache.	Chu Li,Dan Feng 0001,Yu Hua 0001,Fang Wang 0001	10.1109/ICPP.2016.52
+Tetris Write: Exploring More Write Parallelism Considering PCM Asymmetries.	Zheng Li 0005,Fang Wang 0001,Dan Feng 0001,Yu Hua 0001,Wei Tong 0001,Jingning Liu,Xiang Liu	10.1109/ICPP.2016.25
+RRect: A Novel Server-centric Data Center Network with High Availability.	Zhenhua Li 0002,Yuanyuan Yang 0001	10.1109/ICPP.2016.12
+Performance Analysis of GPU-Based Convolutional Neural Networks.	Xiaqing Li,Guangyan Zhang,H. Howie Huang,Zhufan Wang,Weimin Zheng	10.1109/ICPP.2016.15
+Making In-Memory Frequent Pattern Mining Durable and Energy Efficient.	Yi Lin,Po-Chun Huang,Duo Liu,Xiao Zhu,Liang Liang 0002	10.1109/ICPP.2016.13
+Fast RFID Polling Protocols.	Jia Liu 0008,Bin Xiao 0001,Xuan Liu 0001,Lijun Chen 0006	10.1109/ICPP.2016.42
+Parallel k-Means++ for Multiple Shared-Memory Architectures.	Patrick Mackey,Robert R. Lewis	10.1109/ICPP.2016.18
+Efficient Parallel Algorithms for k-Center Clustering.	Jessica McClintock,Anthony Wirth	10.1109/ICPP.2016.22
+SWAP-Assembler 2: Optimization of De Novo Genome Assembler at Extreme Scale.	Jintao Meng,Sangmin Seo,Pavan Balaji,Yanjie Wei,Bingqiang Wang,Shengzhong Feng	10.1109/ICPP.2016.29
+Randomly Optimized Grid Graph for Low-Latency Interconnection Networks.	Koji Nakano,Daisuke Takafuji,Satoshi Fujita,Hiroki Matsutani,Ikki Fujiwara,Michihiro Koibuchi	10.1109/ICPP.2016.46
+Parallel Tree Traversal for Nearest Neighbor Query on the GPU.	Moohyeon Nam,Jinwoong Kim,Beomseok Nam	10.1109/ICPP.2016.20
+Parallel Two-Dimensional Unstructured Anisotropic Delaunay Mesh Generation of Complex Domains for Aerospace Applications.	Juliette Pardue,Andrey N. Chernikov	10.1109/ICPP.2016.76
+RCHC: A Holistic Runtime System for Concurrent Heterogeneous Computing.	Jinsu Park,Woongki Baek	10.1109/ICPP.2016.31
+Performance Boosting Opportunities under Communication Imbalance in Power-Constrained HPC Clusters.	Leonardo Piga,Indrani Paul,Wei Huang 0004	10.1109/ICPP.2016.11
+Efficient 2-Body Statistics Computation on GPUs: Parallelization &amp; Beyond.	Napath Pitaksirianan,Zhila Nouri 0001,Yi-Cheng Tu	10.1109/ICPP.2016.50
+Scalable Hierarchical Polyhedral Compilation.	Benoît Pradelle,Benoît Meister,Muthu Manikandan Baskaran,Athanasios Konstantinidis 0001,Thomas Henretty,Richard Lethin	10.1109/ICPP.2016.56
+A Comparison of Accelerator Architectures for Radio-Astronomical Signal-Processing Algorithms.	John W. Romein	10.1109/ICPP.2016.62
+Programming Techniques for the Automata Processor.	Indranil Roy,Ankit Srivastava,Srinivas Aluru	10.1109/ICPP.2016.30
+An Efficient Wireless Power Transfer System to Balance the State of Charge of Electric Vehicles.	Ankur Sarker,Chenxi Qiu,Haiying Shen,Andrea Gil,Joachim Taiber,Mashrur Chowdhury,Jim Martin 0001,Mac Devine,Andrew J. Rindos	10.1109/ICPP.2016.44
+PARVMEC: An Efficient, Scalable Implementation of the Variational Moments Equilibrium Code.	Sudip K. Seal,Steven P. Hirshman,Andreas Wingen,Robert S. Wilcox,Mark R. Cianciosa,Ezekial A. Unterberg	10.1109/ICPP.2016.77
+Performance Maximization via Frequency Oscillation on Temperature Constrained Multi-core Processors.	Shi Sha,Wujie Wen,Ming Fan 0001,Shaolei Ren,Gang Quan	10.1109/ICPP.2016.67
+AppBag: Application-Aware Bandwidth Allocation for Virtual Machines in Cloud Environment.	Dian Shen,Junzhou Luo,Fang Dong 0001,Junxue Zhang 0001	10.1109/ICPP.2016.10
+Fault Tolerant Support Vector Machines.	Sameh Shohdy,Abhinav Vishnu,Gagan Agrawal	10.1109/ICPP.2016.75
+Massively-Parallel Lossless Data Decompression.	Evangelia A. Sitaridi,René Müller 0001,Tim Kaldewey,Guy M. Lohman,Kenneth A. Ross	10.1109/ICPP.2016.35
+Proxy-Guided Load Balancing of Graph Processing Workloads on Heterogeneous Clusters.	Shuang Song 0007,Meng Li,Xinnian Zheng,Michael LeBeane,Jee Ho Ryoo,Reena Panda,Andreas Gerstlauer,Lizy K. John	10.1109/ICPP.2016.16
+CoARC: Co-operative, Aggressive Recovery and Caching for Failures in Erasure Coded Hadoop.	Pradeep Subedi,Ping Huang 0001,Tong Liu,Joseph Moore,Stan Skelton,Xubin He	10.1109/ICPP.2016.40
+In Situ Storage Layout Optimization for AMR Spatio-temporal Read Accesses.	Houjun Tang,Suren Byna,Steve Harenberg,Wenzhao Zhang,Xiaocheng Zou,Daniel F. Martin,Bin Dong 0002,Dharshi Devendran,Kesheng Wu,David Trebotich,Scott Klasky,Nagiza F. Samatova	10.1109/ICPP.2016.53
+Managing I/O Interference in a Shared Burst Buffer System.	Sagar Thapaliya,Purushotham V. Bangalore,Jay F. Lofstead,Kathryn Mohror,Adam Moody	10.1109/ICPP.2016.54
+Optimizing GPU Register Usage: Extensions to OpenACC and Compiler Optimizations.	Xiaonan Tian,Dounia Khaldi,Deepak Eachempati,Rengan Xu,Barbara M. Chapman	10.1109/ICPP.2016.72
+RepEx: A Flexible Framework for Scalable Replica Exchange Molecular Dynamics Simulations.	Antons Treikalis,André Merzky,Haoyuan Chen,Tai-Sung Lee,Darrin M. York,Shantenu Jha	10.1109/ICPP.2016.78
+Understanding the Architectural Characteristics of EDA Algorithms.	Xin Wang,Xiaofeng Ji,Yunping Lu,Yi Li,Weijia Zhou,Weihua Zhang,Wenyun Zhao	10.1109/ICPP.2016.23
+Exploring Variation-Aware Fault-Tolerant Cache under Near-Threshold Computing.	Jing Wang 0055,Yanjun Liu 0005,Weigong Zhang,Kezhong Lu,Keni Qiu,Xin Fu,Tao Li 0006	10.1109/ICPP.2016.24
+Guaranteed Bang for the Buck: Modeling VDI Applications with Guaranteed Quality of Service.	Hao Wen,David Hung-Chang Du,Milan Shetti,Doug Voigt,Shanshan Li 0001	10.1109/ICPP.2016.55
+DC-Top-k: A Novel Top-k Selecting Algorithm and Its Parallelization.	Zhengyuan Xue,Ruixuan Li 0001,Heng Zhang,Xiwu Gu,Zhiyong Xu 0003	10.1109/ICPP.2016.49
+HppCnn: A High-Performance, Portable Deep-Learning Library for GPGPUs.	Yi Yang 0018,Min Feng 0001,Srimat T. Chakradhar	10.1109/ICPP.2016.73
+Thread Similarity Matrix: Visualizing Branch Divergence in GPGPU Programs.	Zhibin Yu 0001,Lieven Eeckhout,Cheng-Zhong Xu 0001	10.1109/ICPP.2016.27
+The Future(s) of Transactional Memory.	Jingna Zeng,João Pedro Barreto 0002,Seif Haridi,Luís E. T. Rodrigues,Paolo Romano 0002	10.1109/ICPP.2016.57
+RegTT: Accelerating Tree Traversals on GPUs by Exploiting Regularities.	Feng Zhang 0026,Peng Di,Hao Zhou 0009,Xiangke Liao,Jingling Xue	10.1109/ICPP.2016.71
+RMD: A Resemblance and Mergence Based Approach for High Performance Deduplication.	Panfeng Zhang,Ping Huang 0001,Xubin He,Hua Wang 0008,Lingyu Yan,Ke Zhou 0001	10.1109/ICPP.2016.68
+High Performance MPI Library for Container-Based HPC Cloud on InfiniBand Clusters.	Jie Zhang 0045,Xiaoyi Lu,Dhabaleswar K. Panda 0001	10.1109/ICPP.2016.38
+TECH: A Thermal-Aware and Cost Efficient Mechanism for Colocation Demand Response.	Ziqi Zhao,Fan Wu 0006,Shaolei Ren,Xiaofeng Gao 0001,Guihai Chen,Yong Cui 0001	10.1109/ICPP.2016.60
+MIC: An Efficient Anonymous Communication System in Data Center Networks.	Tingwei Zhu,Dan Feng 0001,Yu Hua 0001,Fang Wang 0001,Qingyu Shi,Jiahao Liu	10.1109/ICPP.2016.9
+45th International Conference on Parallel Processing, ICPP 2016, Philadelphia, PA, USA, August 16-19, 2016		

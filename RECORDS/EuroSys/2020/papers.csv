@@ -1,0 +1,44 @@
+Balancing storage efficiency and data confidentiality with tunable encrypted deduplication.	Jingwei Li 0001,Zuoru Yang,Yanjing Ren,Patrick P. C. Lee,Xiaosong Zhang 0001	10.1145/3342195.3387531
+BinRec: dynamic binary lifting and recompilation.	Anil Altinay,Joseph Nash,Taddeus Kroes,Prabhu Rajasekaran,Dixin Zhou,Adrian Dabrowski,David Gens,Yeoul Na,Stijn Volckaert,Cristiano Giuffrida,Herbert Bos,Michael Franz	10.1145/3342195.3387550
+Can far memory improve job throughput?	Emmanuel Amaro,Christopher Branner-Augmon,Zhihong Luo,Amy Ousterhout,Marcos K. Aguilera,Aurojit Panda,Sylvia Ratnasamy,Scott Shenker	10.1145/3342195.3387522
+Don&apos;t shoot down TLB shootdowns!	Nadav Amit,Amy Tai,Michael Wei	10.1145/3342195.3387518
+SEUSS: skip redundant paths to make serverless fast.	James Cadden,Thomas Unger,Yara Awad,Han Dong,Orran Krieger,Jonathan Appavoo	10.1145/3342195.3392698
+Balancing efficiency and fairness in heterogeneous GPU clusters for deep learning.	Shubham Chaudhary 0004,Ramachandran Ramjee,Muthian Sivathanu,Nipun Kwatra,Srinidhi Viswanatha	10.1145/3342195.3387555
+Persistent memory and the rise of universal constructions.	Andreia Correia,Pascal Felber,Pedro Ramalhete	10.1145/3342195.3387515
+Oblivious coopetitive analytics using hardware enclaves.	Ankur Dave,Chester Leung,Raluca Ada Popa,Joseph E. Gonzalez,Ion Stoica	10.1145/3342195.3387552
+State-machine replication for planet-scale systems.	Vitor Enes,Carlos Baquero,Tuanir França Rezende,Alexey Gotsman,Matthieu Perrin,Pierre Sutra	10.1145/3342195.3387543
+EvenDB: optimizing key-value storage for spatial locality.	Eran Gilad,Edward Bortnikov,Anastasia Braginsky,Yonatan Gottesman,Eshcar Hillel,Idit Keidar,Nurit Moscovici,Rana Shahout	10.1145/3342195.3387523
+Experiences of landing machine learning onto market-scale mobile malware detection.	Liangyi Gong,Zhenhua Li 0001,Feng Qian 0001,Zifan Zhang,Qi Alfred Chen,Zhiyun Qian,Hao Lin 0005,Yunhao Liu 0001	10.1145/3342195.3387530
+Kollaps: decentralized and dynamic topology emulation.	Paulo Gouveia,João Neves,Carlos Segarra,Luca Liechti,Shady Issa,Valerio Schiavoni,Miguel Matos	10.1145/3342195.3387540
+Peregrine: a pattern-aware graph mining system.	Kasra Jamshidi,Rakesh Mahadasa,Keval Vora	10.1145/3342195.3387548
+Improving resource utilization by timely fine-grained scheduling.	Tatiana Jin,Zhenkun Cai,Boyang Li 0016,Chengguang Zheng,Guanxian Jiang,James Cheng	10.1145/3342195.3387551
+Scalable range locks for scalable address spaces and beyond.	Alex Kogan,Dave Dice,Shady Issa	10.1145/3342195.3387533
+HovercRaft: achieving scalability and fault-tolerance for microsecond-scale datacenter services.	Marios Kogias,Edouard Bugnion	10.1145/3342195.3387545
+A Linux in unikernel clothing.	Hsuan-Chi Kuo,Dan Williams,Ricardo Koller,Sibin Mohan	10.1145/3342195.3387526
+AlloX: compute allocation in hybrid clusters.	Tan N. Le,Xiao Sun 0004,Mosharaf Chowdhury,Zhenhua Liu 0002	10.1145/3342195.3387547
+Keystone: an open framework for architecting trusted execution environments.	Dayeol Lee,David Kohlbrenner,Shweta Shinde,Krste Asanovic,Dawn Song	10.1145/3342195.3387532
+Provable multicore schedulers with Ipanema: application to work conservation.	Baptiste Lepers,Redha Gouicem,Damien Carver,Jean-Pierre Lozi,Nicolas Palix,Maria-Virginia Aponte,Willy Zwaenepoel,Julien Sopena,Julia Lawall,Gilles Muller	10.1145/3342195.3387544
+Statically inferring performance properties of software configurations.	Chi Li,Shu Wang,Henry Hoffmann,Shan Lu 0001	10.1145/3342195.3387520
+Mousse: a system for selective symbolic execution of programs with untamed environments.	Yingtong Liu,Hsin-Wei Hung,Ardalan Amiri Sani	10.1145/3342195.3387556
+Accelerating winograd convolutions using symbolic computation and meta-programming.	Arya Mazaheri,Tim Beringer,Matthew W. Moskewicz,Felix Wolf 0001,Ali Jannesari	10.1145/3342195.3387549
+Design of a symbolically executable embedded hypervisor.	Jan Nordholz	10.1145/3342195.3387516
+AniFilter: parallel and failure-atomic cuckoo filter for non-volatile memories.	Hyungjun Oh,Bongki Cho,Changdae Kim,Heejin Park,Jiwon Seo 0002	10.1145/3342195.3387528
+Autarky: closing controlled channels with self-paging enclaves.	Meni Orenbach,Andrew Baumann,Mark Silberstein	10.1145/3342195.3387541
+An HTM-based update-side synchronization for RCU on NUMA systems.	Seongjae Park,Paul E. McKenney,Laurent Dufour,Heon Y. Yeom	10.1145/3342195.3387527
+Avoiding scheduler subversion using scheduler-cooperative locks.	Yuvraj Patel,Leon Yang,Leo Prasath Arulraj,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau,Michael M. Swift	10.1145/3342195.3387521
+Env2Vec: accelerating VNF testing with deep learning.	Guangyuan Piao,Patrick K. Nicholson,Diego Lugones	10.1145/3342195.3387525
+Analyzing system performance with probabilistic performance annotations.	Daniele Rogora,Antonio Carzaniga,Amer Diwan,Matthias Hauswirth,Robert Soulé	10.1145/3342195.3387554
+RAIDP: replication with intra-disk parity.	Eitan Rosenfeld,Aviad Zuck,Nadav Amit,Michael Factor,Dan Tsafrir	10.1145/3342195.3387546
+Autopilot: workload autoscaling at Google.	Krzysztof Rzadca,Pawel Findeisen,Jacek Swiderski,Przemyslaw Zych,Przemyslaw Broniek,Jarek Kusmierek,Pawel Nowak,Beata Strack,Piotr Witusowski,Steven Hand 0001,John Wilkes	10.1145/3342195.3387524
+Subway: minimizing data transfer during out-of-GPU-memory graph processing.	Amir Hossein Nodehi Sabet,Zhijia Zhao 0001,Rajiv Gupta 0001	10.1145/3342195.3387537
+PLASMA: programmable elasticity for stateful cloud computing applications.	Bo Sang,Pierre-Louis Roman,Patrick Eugster,Hui Lu,Srivatsan Ravi,Gustavo Petri	10.1145/3342195.3387553
+Accessible near-storage computing with FPGAs.	Robert Schmid,Max Plauth,Lukas Wenzel,Felix Eberhardt,Andreas Polze	10.1145/3342195.3387557
+StRoM: smart remote memory.	David Sidler,Zeke Wang,Monica Chiosa,Amit Kulkarni 0002,Gustavo Alonso	10.1145/3342195.3387519
+A fault-tolerance shim for serverless computing.	Vikram Sreekanti,Chenggang Wu 0001,Saurav Chhatrapati,Joseph E. Gonzalez,Joseph M. Hellerstein,Jose M. Faleiro	10.1145/3342195.3387535
+Delegation sketch: a parallel design with support for fast and accurate concurrent operations.	Charalampos Stylianopoulos,Ivan Walulya,Magnus Almgren,Olaf Landsiedel,Marina Papatriantafilou	10.1145/3342195.3387542
+Meerkat: multicore-scalable replicated transactions following the zero-coordination principle.	Adriana Szekeres,Michael J. Whittaker,Jialin Li 0001,Naveen Kr. Sharma,Arvind Krishnamurthy,Dan R. K. Ports,Irene Zhang	10.1145/3342195.3387529
+Borg: the next generation.	Muhammad Tirmazi,Adam Barker,Nan Deng,Md E. Haque,Zhijing Gene Qin,Steven Hand 0001,Mor Harchol-Balter,John Wilkes	10.1145/3342195.3387517
+CSI: inferring mobile ABR video adaptation behavior under HTTPS and QUIC.	Shichang Xu,Subhabrata Sen,Z. Morley Mao	10.1145/3342195.3387558
+MPTEE: bringing flexible and efficient memory protection to Intel SGX.	Wenjia Zhao,Kangjie Lu,Yong Qi,Saiyu Qi	10.1145/3342195.3387536
+Rhythm: component-distinguishable workload deployment in datacenters.	Laiping Zhao,Yanan Yang,Kaixuan Zhang,Xiaobo Zhou 0003,Tie Qiu 0001,Keqiu Li,Yungang Bao	10.1145/3342195.3387534
+EuroSys &apos;20: Fifteenth EuroSys Conference 2020, Heraklion, Greece, April 27-30, 2020	Angelos Bilas,Kostas Magoutis,Evangelos P. Markatos,Dejan Kostic,Margo I. Seltzer	10.1145/3342195

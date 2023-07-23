@@ -1,0 +1,29 @@
+Evolving Ext4 for Shingled Disks.	Abutalib Aghayev,Theodore Y. Ts&apos;o,Garth Gibson,Peter Desnoyers	
+LightNVM: The Linux Open-Channel SSD Subsystem.	Matias Bjørling,Javier Gonzalez,Philippe Bonnet	
+Omid, Reloaded: Scalable and Highly-Available Transaction Processing.	Edward Bortnikov,Eshcar Hillel,Idit Keidar,Ivan Kelly,Matthieu Morel,Sameer Paranjpye,Francisco Perez-Sorrosal,Ohad Shacham	
+On the Performance Variation in Modern Storage Stacks.	Zhen Cao,Vasily Tarasov,Hari Prasath Raman,Dean Hildebrand,Erez Zadok	
+vNFS: Maximizing NFS Performance with Compounds and Vectorized I/O.	Ming Chen 0013,Dean Hildebrand,Henry Nelson,Jasmit Saluja,Ashok Sankar Harihara Subramony,Erez Zadok	
+File Systems Fated for Senescence? Nonsense, Says Science!	Alexander Conway,Ainesh Bakshi,Yizheng Jiao,William Jannen,Yang Zhan 0001,Jun Yuan 0006,Michael A. Bender,Rob Johnson,Bradley C. Kuszmaul,Donald E. Porter,Martin Farach-Colton	
+Knockoff: Cheap Versions in the Cloud.	Xianzheng Dou,Peter M. Chen,Jason Flinn	
+The Logic of Physical Garbage Collection in Deduplicating Storage.	Fred Douglis,Abhinav Duggal,Philip Shilane,Tony Wong,Shiqin Yan,Fabiano C. Botelho	
+Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions.	Aishwarya Ganesan,Ramnatthan Alagappan,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+On the Accuracy and Scalability of Intensive I/O Workload Replay.	Alireza Haghdoost,Weiping He,Jerry Fredin,David H. C. Du	
+SMaRT: An Approach to Shingled Magnetic Recording Translation.	Weiping He,David H. C. Du	
+FlashBlox: Achieving Both Performance Isolation and Uniform Lifetime for Virtualized SSDs.	Jian Huang 0006,Anirudh Badam,Laura Caulfield,Suman Nath,Sudipta Sengupta,Bikash Sharma,Moinuddin K. Qureshi	
+Memory-Driven Computing.	Kimberly Keeton	
+Algorithms and Data Structures for Efficient Free Space Reclamation in WAFL.	Ram Kesavan,Rohit Singh,Travis Grusecki,Yuvraj Patel	
+Enlightening the I/O Path: A Holistic Approach for Application Performance.	Sangwook Kim,Hwanju Kim,Joonwon Lee,Jinkyu Jeong	
+SHRD: Improving Spatial Locality in Flash Storage Accesses by Sequentializing in Host and Randomizing in Device.	Hyukjoong Kim,Dongkun Shin,Yunho Jeong,Kyung Ho Kim	
+High Performance Metadata Integrity Protection in the WAFL Copy-on-Write File System.	Harendra Kumar,Yuvraj Patel,Ram Kesavan,Sumith Makam	
+Chronix: Long Term Storage and Retrieval Technology for Anomaly Detection in Operational Data.	Florian Lautenschlager 0001,Michael Philippsen,Andreas Kumlehn,Josef Adersberger	
+WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems.	Se Kwon Lee,K. Hyun Lim,Hyunsub Song,Beomseok Nam,Sam H. Noh	
+Facilitating Magnetic Recording Technology Scaling for Data Center Hard Disk Drives through Filesystem-Level Transparent Local Erasure Coding.	Yin Li,Hao Wang 0042,Xuebin Zhang,Ning Zheng,Shafa Dahandeh,Tong Zhang 0002	
+Graphene: Fine-Grained IO Management for Graph Computing.	Hang Liu 0001,H. Howie Huang	
+HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases.	Salman Niazi,Mahmoud Ismail,Seif Haridi,Jim Dowling,Steffen Grohsschmiedt,Mikael Ronström	
+Application Crash Consistency and Performance with CCFS.	Thanumalayan Sankaranarayana Pillai,Ramnatthan Alagappan,Lanyue Lu,Vijay Chidambaram,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+DIDACache: A Deep Integration of Device and Application for Flash Based Key-Value Caching.	Zhaoyan Shen,Feng Chen 0005,Yichen Jia,Zili Shao	
+Crystal: Software-Defined Storage for Multi-Tenant Object Stores.	Raúl Gracia Tinedo,Josep Sampé,Edgar Zamora-Gómez,Marc Sánchez Artigas,Pedro García López,Yosef Moatti,Eran Rom	
+To FUSE or Not to FUSE: Performance of User-Space File Systems.	Bharath Kumar Reddy Vangoor,Vasily Tarasov,Erez Zadok	
+Mirador: An Active Control Plane for Datacenter Storage.	Jake Wires,Andrew Warfield	
+Tiny-Tail Flash: Near-Perfect Elimination of Garbage Collection Tail Latencies in NAND SSDs.	Shiqin Yan,Huaicheng Li,Mingzhe Hao,Michael Hao Tong,Swaminathan Sundararaman,Andrew A. Chien,Haryadi S. Gunawi	
+15th USENIX Conference on File and Storage Technologies, FAST 2017, Santa Clara, CA, USA, February 27 - March 2, 2017	Geoff Kuenning,Carl A. Waldspurger	

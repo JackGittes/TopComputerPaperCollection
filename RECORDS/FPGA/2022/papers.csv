@@ -1,0 +1,39 @@
+Efficient FPGA-based ECDSA Verification Engine For Permissioned Blockchains.	Rashmi Agrawal,Ji Yang,Haris Javaid	10.1145/3490422.3502333
+MathRAMs: Configurable Fused Compute-Memory Blocks for FPGAs.	Aman Arora,Aatman Borda,Tanmay Anand,Bagus Hanindhito,Lizy K. John	10.1145/3490422.3502336
+MAQO: A Scalable Many-Core Annealer for Quadratic Optimization on a Stratix 10 FPGA.	Mohammad Bagherbeik,Wentao Xu,Seyed Farzad Mousavi,Kouichi Kanda,Hirotaka Tamura,Ali Sheikholeslami	10.1145/3490422.3502328
+Synthesized Garbage Collection for FPGA Accelerators.	Martha Barker,Stephen A. Edwards,Martha A. Kim	10.1145/3490422.3502341
+Finding and Finessing Static Islands in Dynamically Scheduled Circuits.	Jianyi Cheng,John Wickerson,George A. Constantinides	10.1145/3490422.3502362
+Accelerating SSSP for Power-Law Graphs.	Yuze Chi,Licheng Guo,Jason Cong	10.1145/3490422.3502358
+How to Shrink My FPGAs - Optimizing Tile Interfaces and the Configuration Logic in FABulous FPGA Fabrics.	King Lok Chung,Nguyen Dao,Jing Yu 0014,Dirk Koch	10.1145/3490422.3502371
+Yosys+Odin-II: The Odin-II Partial Mapper with Yosys Coarse-grained Netlists in VTR.	Seyed Alireza Damghani,Kenneth B. Kent	10.1145/3490422.3502344
+High-Performance Sparse Linear Algebra on HBM-Equipped FPGAs Using HLS: A Case Study on SpMV.	Yixiao Du,Yuwei Hu,Zhongchun Zhou,Zhiru Zhang	10.1145/3490422.3502368
+REMOT: A Hardware-Software Architecture for Attention-Guided Multi-Object Tracking with Dynamic Vision Sensors on FPGAs.	Yizhao Gao,Song Wang,Hayden Kwok-Hay So	10.1145/3490422.3502365
+FPGA Accelerators for Robust Visual SLAM on Humanoid Robots.	Maria Rafaela Gkeka,Alexandros Patras,Nikolaos Tavoularis,Stylianos Piperakis,Emmanouil Hourdakis,Panos E. Trahanias,Christos D. Antonopoulos,Spyros Lalis,Nikolaos Bellas	10.1145/3490422.3502331
+N3H-Core: Neuron-designed Neural Network Accelerator via FPGA-based Heterogeneous Computing Cores.	Yu Gong,Zhihan Xu,Zhezhi He,Weifeng Zhang 0003,Xiaobing Tu,Xiaoyao Liang,Li Jiang 0002	10.1145/3490422.3502367
+Accelerating Constraint-Based Causal Discovery by Shifting Speed Bottleneck.	Ce Guo,Wayne Luk	10.1145/3490422.3502363
+RapidStream: Parallel Physical Implementation of FPGA HLS Designs.	Licheng Guo,Pongstorn Maidee,Yun Zhou,Chris Lavin,Jie Wang 0022,Yuze Chi,Weikang Qiao,Alireza Kaviani,Zhiru Zhang,Jason Cong	10.1145/3490422.3502361
+A High Throughput Multi-bit-width 3D Systolic Accelerator for NAS Optimized Deep Neural Networks on FPGA.	Mingqiang Huang,Yucen Liu,Quan Cheng,Shuxin Yang,Kai Li,Junyi Luo,Zhengke Yang,Qiufeng Li,Hao Yu 0001,Changhai Man	10.1145/3490422.3502343
+An FPGA-based RNN-T Inference Accelerator with PIM-HBM.	Shinhaeng Kang,Sukhan Lee 0002,Byeongho Kim,Hweesoo Kim,Kyomin Sohn,Nam Sung Kim,Eojin Lee	10.1145/3490422.3502355
+Co-Design for Energy Efficient and Fast Genomic Search: Interleaved Bloom Filter on FPGA.	Marius Knaust,Enrico Seiler,Knut Reinert,Thomas Steinke 0001	10.1145/3490422.3502366
+HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform.	Yi-Chien Lin,Bingyi Zhang,Viktor K. Prasanna	10.1145/3490422.3502359
+Hardware Acceleration of Nonparametric Belief Propagation for Efficient Robot Manipulation.	Yanqi Liu,Anthony Opipari,Théo Guérin,Ruth Iris Bahar	10.1145/3490422.3502329
+An Integrity Checking Framework for AXI Protocol in Multi-tenant FPGA.	Yukui Luo,Yuheng Zhang,Shijin Duan,Xiaolin Xu	10.1145/3490422.3502338
+FPGA-based Trainable Autoencoder for Communication Systems.	Jonas Ney,Sebastian Dörner,Matthias Herrmann,Mohammad Hassani Sadi,Jannis Clausius,Stephan ten Brink,Norbert Wehn	10.1145/3490422.3502337
+Multi-input Serial Adders for FPGA-like Computational Fabric.	Herman Schmit,Matthew Denton	10.1145/3490422.3502352
+HMT: A Hardware-Centric Hybrid Bonsai Merkle Tree Algorithm for High-Performance Authentication.	Rakin Muhammad Shadab,Yu Zou,Sanjay Gandham,Amro Awad,Mingjie Lin	10.1145/3490422.3502345
+The Virtuous Cycles of Determinism: Programming Groq&apos;s Tensor Streaming Processor.	Satnam Singh	10.1145/3490422.3510453
+Automated Accelerator Optimization Aided by Graph Neural Networks.	Atefeh Sohrabizadeh,Yunsheng Bai,Yizhou Sun,Jason Cong	10.1145/3490422.3502330
+SPA-GCN: Efficient and Flexible GCN Accelerator with Application for Graph Similarity Computation.	Atefeh Sohrabizadeh,Yuze Chi,Jason Cong	10.1145/3490422.3502332
+Sextans: A Streaming Accelerator for General-Purpose Sparse-Matrix Dense-Matrix Multiplication.	Linghao Song,Yuze Chi,Atefeh Sohrabizadeh,Young-kyu Choi,Jason Lau,Jason Cong	10.1145/3490422.3502357
+FILM-QNN: Efficient FPGA Acceleration of Deep Neural Networks with Intra-Layer, Mixed-Precision Quantization.	Mengshu Sun,Zhengang Li,Alec Lu,Yanyu Li,Sung-En Chang,Xiaolong Ma,Xue Lin,Zhenman Fang	10.1145/3490422.3502364
+Logic Scaling Options for the Next 10 Years: From FinFet to CFET, from Dual Damascene to Semi Damascene.	Zsolt Tokei	10.1145/3490422.3510452
+Logic Shrinkage: Learned FPGA Netlist Sparsity for Efficient Neural Network Inference.	Erwei Wang,James J. Davis 0001,Georgios-Ilias Stavrou,Peter Y. K. Cheung,George A. Constantinides,Mohamed S. Abdelfattah	10.1145/3490422.3502360
+HeteroFlow: An Accelerator Programming Model with Decoupled Data Placement for Software-Defined FPGAs.	Shaojie Xiang,Yi-Hsiang Lai,Yuan Zhou,Hongzheng Chen,Niansong Zhang,Debjit Pal,Zhiru Zhang	10.1145/3490422.3502369
+Towards Agile DNN Accelerator Design Using Incremental Synthesis on FPGAs.	Qingcheng Xiao,Yun Liang 0001	10.1145/3490422.3502351
+HiPR: Fast, Incremental Custom Partial Reconfiguration for HLS Developers.	Yuanlong Xiao,André DeHon	10.1145/3490422.3502335
+Ultra Low-Complexity Implementation of Binary Ring-LWE based Post-Quantum Cryptography on FPGA Platform.	Jiafeng Xie,Pengzhou He,Tianyou Bao	10.1145/3490422.3502342
+Highly Scalable Runtime Countermeasure Against Microprobing Attacks on Die-to-Die Interconnections in System-in-Package.	Zhenyu Xu,Thomas Mauldin,Qing Yang 0001,Tao Wei	10.1145/3490422.3502334
+End-to-End Acceleration of Homomorphic Encrypted CNN Inference on FPGAs.	Tian Ye,Rajgopal Kannan,Viktor K. Prasanna	10.1145/3490422.3502346
+Revisiting PathFinder Routing Algorithm.	Yue Zha,Jing Li 0073	10.1145/3490422.3502356
+DecGNN: A Framework for Mapping Decoupled GNN Models onto CPU-FPGA Heterogeneous Platform.	Bingyi Zhang,Hanqing Zeng,Viktor K. Prasanna	10.1145/3490422.3502326
+FPGA &apos;22: The 2022 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, Virtual Event, USA, 27 February 2022 - 1 March 2022	Michael Adler,Paolo Ienne	10.1145/3490422

@@ -1,0 +1,49 @@
+A design and verification methodology for secure isolated regions.	Rohit Sinha 0001,Manuel Costa,Akash Lal,Nuno P. Lopes,Sriram K. Rajamani,Sanjit A. Seshia,Kapil Vaswani	10.1145/2908080.2908113
+On the complexity and performance of parsing with derivatives.	Michael D. Adams 0001,Celeste Hollenbeck,Matthew Might	10.1145/2908080.2908128
+Configuration synthesis for programmable analog devices with Arco.	Sara Achour,Rahul Sarpeshkar,Martin C. Rinard	10.1145/2908080.2908116
+FlexVec: auto-vectorization for irregular loops.	Sara S. Baghsorkhi,Nalini Vasudevan,Youfeng Wu	10.1145/2908080.2908111
+Temporal NetKAT.	Ryan Beckett,Michael Greenberg 0002,David Walker	10.1145/2908080.2908108
+Living on the edge: rapid-toggling probes with cross-modification on x86.	Buddhika Chamith,Bo Joel Svensson,Luke Dalessandro,Ryan R. Newton	10.1145/2908080.2908084
+Coverage-directed differential testing of JVM implementations.	Yuting Chen,Ting Su 0001,Chengnian Sun,Zhendong Su 0001,Jianjun Zhao 0001	10.1145/2908080.2908095
+Toward compositional verification of interruptible OS kernels and device drivers.	Hao Chen 0023,Xiongnan (Newman) Wu,Zhong Shao,Joshua Lockerman,Ronghui Gu	10.1145/2908080.2908101
+Programmatic and direct manipulation, together at last.	Ravi Chugh,Brian Hempel,Mitchell Spradlin,Jacob Albers	10.1145/2908080.2908103
+End-to-end verification of information-flow security for C and assembly programs.	David Costanzo,Zhong Shao,Ronghui Gu	10.1145/2908080.2908100
+Statistical similarity of binaries.	Yaniv David,Nimrod Partush,Eran Yahav	10.1145/2908080.2908126
+Idle time garbage collection scheduling.	Ulan Degenbaev,Jochen Eisinger,Manfred Ernst,Ross McIlroy,Hannes Payer	10.1145/2908080.2908106
+Remix: online detection and repair of cache contention for the JVM.	Ariel Eizenberg,Shiliang Hu,Gilles Pokam,Joseph Devietti	10.1145/2908080.2908090
+SDNRacer: concurrency analysis for software-defined networks.	Ahmed El-Hassany,Jeremie Miserez,Pavol Bielik,Laurent Vanbever,Martin T. Vechev	10.1145/2908080.2908124
+Lightweight computation tree tracing for lazy functional languages.	Maarten Faddegon,Olaf Chitil	10.1145/2908080.2908104
+Cardinalities and universal quantifiers for verifying parameterized systems.	Klaus von Gleissenthall,Nikolaj S. Bjørner,Andrey Rybalchenko	10.1145/2908080.2908129
+Stratified synthesis: automatically learning the x86-64 instruction set.	Stefan Heule,Eric Schkufza,Rahul Sharma 0001,Alex Aiken	10.1145/2908080.2908121
+Effective padding of multidimensional arrays to avoid cache conflict misses.	Changwan Hong,Wenlei Bao,Albert Cohen 0001,Sriram Krishnamoorthy,Louis-Noël Pouchet,Fabrice Rastello,J. Ramanujam,P. Sadayappan	10.1145/2908080.2908123
+Assessing the limits of program-specific garbage collection performance.	Nicholas Jacek,Meng-Chieh Chiu,Benjamin M. Marlin,Eliot Moss	10.1145/2908080.2908120
+Verified lifting of stencil computations.	Shoaib Kamil 0001,Alvin Cheung,Shachar Itzhaky,Armando Solar-Lezama	10.1145/2908080.2908117
+Occurrence typing modulo theories.	Andrew M. Kent,David Kempe 0002,Sam Tobin-Hochstadt	10.1145/2908080.2908091
+A distributed OpenCL framework using redundant computation and data replication.	Junghyun Kim,Gangwon Jo,Jaehoon Jung,Jungwon Kim,Jaejin Lee	10.1145/2908080.2908094
+Input responsiveness: using canary inputs to dynamically steer approximation.	Michael A. Laurenzano,Parker Hill,Mehrzad Samadi,Scott A. Mahlke,Jason Mars,Lingjia Tang	10.1145/2908080.2908087
+Verifying bit-manipulations of floating-point.	Wonyeol Lee 0001,Rahul Sharma 0001,Alex Aiken	10.1145/2908080.2908107
+Fast synthesis of fast collections.	Calvin Loncaric,Emina Torlak,Michael D. Ernst	10.1145/2908080.2908122
+From Datalog to flix: a declarative language for fixed points on lattices.	Magnus Madsen,Ming-Ho Yee,Ondrej Lhoták	10.1145/2908080.2908096
+Higher-order and tuple-based massively-parallel prefix sums.	Sepideh Maleki,Annie Yang,Martin Burtscher	10.1145/2908080.2908089
+Event-driven network programming.	Jedidiah McClurg,Hossein Hojjat,Nate Foster,Pavol Cerný	10.1145/2908080.2908097
+Into the depths of C: elaborating the de facto standards.	Kayvan Memarian,Justus Matthiesen,James Lingard,Kyndylan Nienhuis,David Chisnall,Robert N. M. Watson,Peter Sewell	10.1145/2908080.2908081
+Verified peephole optimizations for CompCert.	Eric Mullen,Daryl Zuniga,Zachary Tatlock,Dan Grossman	10.1145/2908080.2908109
+Polymorphic type inference for machine code.	Matthew Noonan,Alexey Loginov,David Cok	10.1145/2908080.2908119
+Data-driven precondition inference with learned features.	Saswat Padhi,Rahul Sharma 0001,Todd D. Millstein	10.1145/2908080.2908099
+Ivy: safety verification by interactive generalization.	Oded Padon,Kenneth L. McMillan,Aurojit Panda,Mooly Sagiv,Sharon Shoham	10.1145/2908080.2908118
+Types from data: making structured data first-class citizens in F#.	Tomas Petricek 0001,Gustavo Guerra,Don Syme	10.1145/2908080.2908115
+Program synthesis from polymorphic refinement types.	Nadia Polikarpova,Ivan Kuraj,Armando Solar-Lezama	10.1145/2908080.2908093
+Just-in-time static type checking for dynamic languages.	Brianna M. Ren,Jeffrey S. Foster	10.1145/2908080.2908127
+Rehearsal: a configuration verification tool for puppet.	Rian Shambaugh,Aaron Weiss,Arjun Guha	10.1145/2908080.2908083
+MapReduce program synthesis.	Calvin Smith,Aws Albarghouthi	10.1145/2908080.2908102
+Exposing errors related to weak memory in GPU applications.	Tyler Sorensen 0001,Alastair F. Donaldson	10.1145/2908080.2908114
+Cartesian hoare logic for verifying k-safety properties.	Marcelo Sousa,Isil Dillig	10.1145/2908080.2908092
+Transactional data structure libraries.	Alexander Spiegelman,Guy Golan-Gueta,Idit Keidar	10.1145/2908080.2908112
+Latte: a language, compiler, and runtime for elegant and efficient deep neural networks.	Leonard Truong,Rajkishore Barik,Ehsan Totoni,Hai Liu 0012,Chick Markley,Armando Fox,Tatiana Shpeisman	10.1145/2908080.2908105
+Refinement types for TypeScript.	Panagiotis Vekris,Benjamin Cosman,Ranjit Jhala	10.1145/2908080.2908110
+Synthesizing transformations on hierarchically structured data.	Navid Yaghmazadeh,Christian Klinger,Isil Dillig,Swarat Chaudhuri	10.1145/2908080.2908088
+Precise, dynamic information flow for database-backed applications.	Jean Yang 0001,Travis Hance,Thomas H. Austin,Armando Solar-Lezama,Cormac Flanagan,Stephen Chong	10.1145/2908080.2908098
+Accepting blame for safe tunneled exceptions.	Yizhou Zhang,Guido Salvaneschi,Quinn Beightol,Barbara Liskov,Andrew C. Myers	10.1145/2908080.2908086
+Automatically learning shape specifications.	He Zhu 0001,Gustavo Petri,Suresh Jagannathan	10.1145/2908080.2908125
+GreenWeb: language extensions for energy-efficient mobile web computing.	Yuhao Zhu 0001,Vijay Janapa Reddi	10.1145/2908080.2908082
+Proceedings of the 37th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2016, Santa Barbara, CA, USA, June 13-17, 2016	Chandra Krintz,Emery D. Berger	10.1145/2908080

@@ -1,0 +1,95 @@
+HoloAR: On-the-fly Optimization of 3D Holographic Processing for Augmented Reality.	Shulin Zhao 0001,Haibo Zhang 0005,Cyan Subhra Mishra,Sandeepa Bhuyan,Ziyu Ying 0001,Mahmut Taylan Kandemir,Anand Sivasubramaniam,Chita R. Das	10.1145/3466752.3480056
+PCCS: Processor-Centric Contention-aware Slowdown Model for Heterogeneous System-on-Chips.	Yuanchao Xu 0001,Mehmet Esat Belviranli,Xipeng Shen,Jeffrey S. Vetter	10.1145/3466752.3480101
+Characterizing and Mitigating Soft Errors in GPU DRAM.	Michael B. Sullivan 0001,Nirmal R. Saxena,Mike O&apos;Connor,Donghyuk Lee,Paul Racunas,Saurabh Hukerikar,Timothy Tsai 0002,Siva Kumar Sastry Hari,Stephen W. Keckler	10.1145/3466752.3480111
+A Deeper Look into RowHammer&apos;s Sensitivities: Experimental Analysis of Real DRAM Chipsand Implications on Future Attacks and Defenses.	Lois Orosa 0001,Abdullah Giray Yaglikçi,Haocong Luo,Ataberk Olgun,Jisung Park 0001,Hasan Hassan,Minesh Patel,Jeremie S. Kim,Onur Mutlu	10.1145/3466752.3480069
+ADAPT: Mitigating Idling Errors in Qubits via Adaptive Dynamical Decoupling.	Poulami Das 0005,Swamit S. Tannu,Siddharth Dangwal,Moinuddin K. Qureshi	10.1145/3466752.3480059
+JigSaw: Boosting Fidelity of NISQ Programs via Measurement Subsetting.	Poulami Das 0005,Swamit S. Tannu,Moinuddin K. Qureshi	10.1145/3466752.3480044
+Ohm-GPU: Integrating New Optical Network and Heterogeneous Memory into GPU Multi-Processors.	Jie Zhang 0048,Myoungsoo Jung	10.1145/3466752.3480107
+Noema: Hardware-Efficient Template Matching for Neural Population Pattern Detection.	Ameer M. S. Abdelhadi,Eugene Sha,Ciaran Bannon,Hendrik Steenland,Andreas Moshovos	10.1145/3466752.3480121
+Network-on-Chip Microarchitecture-based Covert Channel in GPUs.	Jaeguk Ahn,Jiho Kim,Hans Kasan,Zhixian Jin,Leila Delshadtehrani,WonJun Song,Ajay Joshi,John Kim	10.1145/3466752.3480093
+GhostMinion: A Strictness-Ordered Cache System for Spectre Mitigation.	Sam Ainsworth 0001	10.1145/3466752.3480074
+FPRaker: A Processing Element For Accelerating Neural Network Training.	Omar Mohamed Awad,Mostafa Mahmoud,Isak Edo,Ali Hadi Zadeh,Ciaran Bannon,Anand Jayarajan,Gennady Pekhimenko,Andreas Moshovos	10.1145/3466752.3480106
+Principal Kernel Analysis: A Tractable Methodology to Simulate Scaled GPU Workloads.	Cesar Avalos Baddouh,Mahmoud Khairy,Roland N. Green,Mathias Payer,Timothy G. Rogers	10.1145/3466752.3480100
+Fat Loads: Exploiting Locality Amongst Contemporaneous Load Operations to Optimize Cache Accesses.	Vanshika Baoni,Adarsh Mittal,Gurindar S. Sohi	10.1145/3466752.3480104
+Improving Streaming Graph Processing Performance using Input Knowledge.	Abanti Basak,Zheng Qu,Jilan Lin,Alaa R. Alameldeen,Zeshan Chishti,Yufei Ding,Yuan Xie 0001	10.1145/3466752.3480096
+Software-Defined Vector Processing on Manycore Fabrics.	Philip Bedoukian,Neil Adit,Edwin Peguero,Adrian Sampson	10.1145/3466752.3480099
+Pythia: A Customizable Hardware Prefetching Framework Using Online Reinforcement Learning.	Rahul Bera,Konstantinos Kanellopoulos,Anant Nori,Taha Shahroodi,Sreenivas Subramoney,Onur Mutlu	10.1145/3466752.3480114
+SISA: Set-Centric Instruction Set Architecture for Graph Mining on Processing-in-Memory Systems.	Maciej Besta,Raghavendra Kanakagiri,Grzegorz Kwasniewski,Rachata Ausavarungnirun,Jakub Beránek,Konstantinos Kanellopoulos,Kacper Janda,Zur Vonarburg-Shmaria,Lukas Gianinazzi,Ioana Stefan,Juan Gómez-Luna,Jakub Golinowski,Marcin Copik,Lukas Kapp-Schwoerer,Salvatore Di Girolamo,Nils Blach,Marek Konieczny,Onur Mutlu,Torsten Hoefler	10.1145/3466752.3480133
+Validation of Side-Channel Models via Observation Refinement.	Pablo Buiras,Hamed Nemati,Andreas Lindner,Roberto Guanciale	10.1145/3466752.3480130
+Speculative Privacy Tracking (SPT): Leaking Information From Speculative Execution Without Compromising Privacy.	Rutvik Choudhary,Jiyong Yu,Christopher W. Fletcher,Adam Morrison 0001	10.1145/3466752.3480068
+LADDER: Architecting Content and Location-aware Writes for Crossbar Resistive Memories.	Md Hafizul Islam Chowdhuryy,Muhammad Rashedul Haq Rashed,Amro Awad,Rickard Ewetz,Fan Yao	10.1145/3466752.3480054
+Criticality Driven Fetch.	Aniket Deshmukh,Yale N. Patt	10.1145/3466752.3480115
+Equinox: Training (for Free) on a Custom Inference Accelerator.	Mario Drumond,Louis Coulon,Arash Pourhabibi Zarandi,Ahmet Caner Yüzügüler,Babak Falsafi,Martin Jaggi	10.1145/3466752.3480057
+SquiggleFilter: An Accelerator for Portable Virus Detection.	Timothy Dunn,Harisankar Sadasivan,Jack Wadden,Kush Goliya,Kuan-Yu Chen,David T. Blaauw,Reetuparna Das,Satish Narayanasamy	10.1145/3466752.3480117
+Enabling Branch-Mispredict Level Parallelism by Selectively Flushing Instructions.	Stijn Eyerman,Wim Heirman,Sam Van den Steen,Ibrahim Hur	10.1145/3466752.3480045
+ITSLF: Inter-Thread Store-to-Load Forwardingin Simultaneous Multithreading.	Josué Feliu,Alberto Ros,Manuel E. Acacio,Stefanos Kaxiras	10.1145/3466752.3480086
+Bonsai Merkle Forests: Efficiently Achieving Crash Consistency in Secure Persistent Memory.	Alexander Freij,Huiyang Zhou,Yan Solihin	10.1145/3466752.3480067
+2-in-1 Accelerator: Enabling Random Precision Switch for Winning Both Adversarial Robustness and Efficiency.	Yonggan Fu,Yang Zhao 0013,Qixuan Yu,Chaojian Li,Yingyan Lin	10.1145/3466752.3480082
+ParaBit: Processing Parallel Bitwise Operations in NAND Flash Memory based SSDs.	Congming Gao,Xin Xin,Youyou Lu,Youtao Zhang,Jun Yang 0002,Jiwu Shu	10.1145/3466752.3480078
+I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization.	Tong Geng,Chunshu Wu,Yongan Zhang,Cheng Tan 0002,Chenhao Xie 0001,Haoran You,Martin C. Herbordt,Yingyan Lin,Ang Li 0006	10.1145/3466752.3480113
+Efficient, Distributed, and Non-Speculative Multi-Address Atomic Operations.	Eduardo José Gómez-Hernández,Juan M. Cebrian,J. Rubén Titos Gil,Stefanos Kaxiras,Alberto Ros	10.1145/3466752.3480073
+TIP: Time-Proportional Instruction Profiling.	Björn Gottschall,Lieven Eeckhout,Magnus Jahre	10.1145/3466752.3480058
+RecPipe: Co-designing Models and Hardware to Jointly Optimize Recommendation Quality and Performance.	Udit Gupta,Samuel Hsia,Jeff Zhang 0001,Mark Wilkening,Javin Pombra,Hsien-Hsin Sean Lee,Gu-Yeon Wei,Carole-Jean Wu,David Brooks 0001	10.1145/3466752.3480127
+BurstLink: Techniques for Energy-Efficient Video Display for Conventional and Virtual Reality Systems.	Jawad Haj-Yahya,Jisung Park 0001,Rahul Bera,Juan Gómez-Luna,Efraim Rotem,Taha Shahroodi,Jeremie S. Kim,Onur Mutlu	10.1145/3466752.3480085
+Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory.	Xijing Han,James Tuck,Amro Awad	10.1145/3466752.3480118
+DarKnight: An Accelerated Framework for Privacy and Integrity Preserving Deep Learning Using Trusted Hardware.	Hanieh Hashemi,Yongqin Wang,Murali Annavaram	10.1145/3466752.3480112
+Uncovering In-DRAM RowHammer Protection Mechanisms: A New Methodology, Custom RowHammer Patterns, and Implications.	Hasan Hassan,Yahya Can Tugrul,Jeremie S. Kim,Victor van der Veen,Kaveh Razavi,Onur Mutlu	10.1145/3466752.3480110
+Synthesizing Formal Models of Hardware from RTL for Efficient Verification of Memory Model Implementations.	Yao Hsiao,Dominic P. Mulligan,Nikos Nikoleris,Gustavo Petri,Caroline Trippel	10.1145/3466752.3480087
+AutoBraid: A Framework for Enabling Efficient Surface Code Communication in Quantum Computing.	Fei Hua,Yan-Hao Chen,Yuwei Jin,Chi Zhang 0041,Ari B. Hayes,Youtao Zhang,Eddy Z. Zhang	10.1145/3466752.3480072
+Effective Processor Verification with Logic Fuzzer Enhanced Co-simulation.	Nursultan Kabylkas,Tommy Thorn,Shreesha Srinath,Polychronis Xekalakis,Jose Renau	10.1145/3466752.3480092
+AccelWattch: A Power Modeling Framework for Modern GPUs.	Vijay Kandiah,Scott Peverelle,Mahmoud Khairy,Junrui Pan,Amogh Manjunath,Timothy G. Rogers,Tor M. Aamodt,Nikos Hardavellas	10.1145/3466752.3480063
+: Near-Storage Accelerator for High-Performance Log Analytics.	Seongyoung Kang,Jiyoung An,Jinpyo Kim,Sang-Woo Jun	10.1145/3466752.3480108
+NMAP: Power Management Based on Network Packet Processing Mode Transition for Latency-Critical Workloads.	Ki-Dong Kang,Gyeongseo Park,Hyosang Kim,Mohammad Alian,Nam Sung Kim,Daehoon Kim	10.1145/3466752.3480098
+IceClave: A Trusted Execution Environment for In-Storage Computing.	Luyi Kang,Yuqi Xue,Weiwei Jia 0001,Xiaohao Wang,Jongryool Kim,Changhwan Youn,Myeong Joon Kang,Hyung Jin Lim,Bruce L. Jacob,Jian Huang 0006	10.1145/3466752.3480109
+A Hardware Accelerator for Protocol Buffers.	Sagar Karandikar,Chris Leary,Chris Kennelly,Jerry Zhao,Dinesh Parimi,Borivoje Nikolic,Krste Asanovic,Parthasarathy Ranganathan	10.1145/3466752.3480051
+Twig: Profile-Guided BTB Prefetching for Data Center Applications.	Tanvir Ahmed Khan,Nathan Brown,Akshitha Sriraman,Niranjan K. Soundararajan,Rakesh Kumar 0003,Joseph Devietti,Sreenivas Subramoney,Gilles A. Pokam,Heiner Litz,Baris Kasikci	10.1145/3466752.3480124
+UC-Check: Characterizing Micro-operation Caches in x86 Processors and Implications in Security and Performance.	Joonsung Kim,Hamin Jang,Hunjun Lee,Seungho Lee,Jangwoo Kim	10.1145/3466752.3480079
+AutoFL: Enabling Heterogeneity-Aware Energy Efficient Federated Learning.	Young Geun Kim,Carole-Jean Wu	10.1145/3466752.3480129
+Distributed Data Persistency.	Apostolos Kokolis,Antonis Psistakis,Benjamin Reidys,Jian Huang 0006,Josep Torrellas	10.1145/3466752.3480060
+Increasing GPU Translation Reach by Leveraging Under-Utilized On-Chip Resources.	Jagadish B. Kotra,Michael LeBeane,Mahmut T. Kandemir,Gabriel H. Loh	10.1145/3466752.3480105
+Post-Fabrication Microarchitecture.	Chanchal Kumar,Anirudh Seshadri,Aayush Chaudhary,Shubham Bhawalkar,Rohit Singh,Eric Rotenberg	10.1145/3466752.3480119
+Cryptographic Capability Computing.	Michael LeMay,Joydeep Rakshit,Sergej Deutsch,David M. Durham,Santosh Ghosh,Anant Nori,Jayesh Gaur,Andrew Weiler,Salmin Sultana,Karanvir Grewal,Sreenivas Subramoney	10.1145/3466752.3480076
+GreenDIMM: OS-assisted DRAM Power Management for DRAM with a Sub-array Granularity Power-Down State.	Seunghak Lee,Ki-Dong Kang,Hwanjun Lee,Hyungwon Park,Young Hoon Son,Nam Sung Kim,Daehoon Kim	10.1145/3466752.3480089
+ESCALATE: Boosting the Efficiency of Sparse CNN Accelerator with Kernel Decomposition.	Shiyu Li,Edward Hanson,Xuehai Qian,Hai (Helen) Li,Yiran Chen 0001	10.1145/3466752.3480043
+Improving Address Translation in Multi-GPUs via Sharing and Spilling aware TLB Design.	Bingyao Li,Jieming Yin,Youtao Zhang,Xulong Tang	10.1145/3466752.3480083
+PointAcc: Efficient Point Cloud Accelerator.	Yujun Lin 0001,Zhekai Zhang,Haotian Tang,Hanrui Wang 0002,Song Han 0003	10.1145/3466752.3480084
+NDS: N-Dimensional Storage.	Yu-Chia Liu,Hung-Wei Tseng 0001	10.1145/3466752.3480122
+Intersection Prediction for Accelerated GPU Ray Tracing.	Lufei Liu,Wesley Chang,Francois Demoullin,Yuan-Hsi Chou,Mohammadreza Saed,David Pankratz,Tyler Nowicki,Tor M. Aamodt	10.1145/3466752.3480097
+ENMC: Extreme Near-Memory Classification via Approximate Screening.	Liu Liu 0017,Jilan Lin,Zheng Qu,Yufei Ding,Yuan Xie 0001	10.1145/3466752.3480090
+Archytas: A Framework for Synthesizing and Dynamically Optimizing Accelerators for Robotic Localization.	Weizhuang Liu,Bo Yu,Yiming Gan,Qiang Liu 0011,Jie Tang 0003,Shaoshan Liu,Yuhao Zhu 0001	10.1145/3466752.3480077
+Distilling Bit-level Sparsity Parallelism for General Purpose Deep Learning Acceleration.	Hang Lu,Liang Chang,Chenglong Li,Zixuan Zhu,Shengjian Lu,Yanhuan Liu,Mingzhe Zhang	10.1145/3466752.3480123
+Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture.	Liqiang Lu,Yicheng Jin,Hangrui Bi,Zizhang Luo,Peng Li 0031,Tao Wang 0004,Yun Liang 0001	10.1145/3466752.3480125
+GPS: A Global Publish-Subscribe Model for Multi-GPU Memory Management.	Harini Muthukrishnan,Daniel Lustig,David W. Nellans,Thomas F. Wenisch	10.1145/3466752.3480088
+OrderLight: Lightweight Memory-Ordering Primitive for Efficient Fine-Grained PIM Computations.	Anirban Nag,Rajeev Balasubramonian	10.1145/3466752.3480103
+Fifer: Practical Acceleration of Irregular Applications on Reconfigurable Architectures.	Quan M. Nguyen,Daniel Sánchez 0003	10.1145/3466752.3480048
+SparseAdapt: Runtime Control for Sparse Linear Algebra on a Reconfigurable Accelerator.	Subhankar Pal,Aporva Amarnath,Siying Feng,Michael F. P. O&apos;Boyle,Ronald G. Dreslinski,Christophe Dubach	10.1145/3466752.3480134
+TRiM: Enhancing Processor-Memory Interfaces with Scalable Tensor Reduction in Memory.	Jaehyun Park 0006,Byeongho Kim,Sungmin Yun,Eojin Lee,Minsoo Rhu,Jung Ho Ahn	10.1145/3466752.3480080
+HARP: Practically and Effectively Identifying Uncorrectable Errors in Memory Chips That Use On-Die Error-Correcting Codes.	Minesh Patel,Geraldo F. Oliveira,Onur Mutlu	10.1145/3466752.3480061
+Leveraging Targeted Value Prediction to Unlock New Hardware Strength Reduction Potential.	Arthur Perais	10.1145/3466752.3480050
+Branch Runahead: An Alternative to Branch Prediction for Impossible to Predict Branches.	Stephen Pruett,Yale N. Patt	10.1145/3466752.3480053
+JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator.	Shafiur Rahman,Mahbod Afarin,Nael B. Abu-Ghazaleh,Rajiv Gupta 0001	10.1145/3466752.3480126
+Trident: Harnessing Architectural Resources for All Page Sizes in x86 Processors.	Venkat Sri Sai Ram,Ashish Panwar,Arkaprava Basu	10.1145/3466752.3480062
+Capstan: A Vector RDA for Sparsity.	Alexander Rucker,Matthew Vilim,Tian Zhao 0001,Yaqi Zhang 0001,Raghu Prabhakar,Kunle Olukotun	10.1145/3466752.3480047
+Sunder: Enabling Low-Overhead and Scalable Near-Data Pattern Matching Acceleration.	Elaheh Sadredini,Reza Rahimi,Mohsen Imani,Kevin Skadron	10.1145/3466752.3480934
+F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption.	Nikola Samardzic,Axel Feldmann,Aleksandar Krastev,Srinivas Devadas,Ronald G. Dreslinski,Christopher Peikert,Daniel Sánchez 0003	10.1145/3466752.3480070
+PDede: Partitioned, Deduplicated, Delta Branch Target Buffer.	Niranjan K. Soundararajan,Peter Braun 0005,Tanvir Ahmed Khan,Baris Kasikci,Heiner Litz,Sreenivas Subramoney	10.1145/3466752.3480046
+EdgeBERT: Sentence-Level Energy Optimizations for Latency-Aware Multi-Task NLP Inference.	Thierry Tambe,Coleman Hooper,Lillian Pentecost,Tianyu Jia,En-Yu Yang,Marco Donato,Victor Sanh,Paul N. Whatmough,Alexander M. Rush,David Brooks 0001,Gu-Yeon Wei	10.1145/3466752.3480095
+HiMA: A Fast and Scalable History-based Memory Access Engine for Differentiable Neural Computer.	Yaoyu Tao,Zhengya Zhang	10.1145/3466752.3480052
+Vortex: Extending the RISC-V ISA for GPGPU and 3D-Graphics.	Blaise Tine,Krishna Praveen Yalamarthy,Fares Elsabbagh,Hyesoon Kim	10.1145/3466752.3480128
+NOVIA: A Framework for Discovering Non-Conventional Inline Accelerators.	David Trilla,John-David Wellman,Alper Buyuktosunoglu,Pradip Bose	10.1145/3466752.3480094
+RACER: Bit-Pipelined Processing Using Resistive Memory.	Minh S. Q. Truong,Eric Chen,Deanyone Su,Liting Shen,Alexander Glass,L. Richard Carley,James A. Bain,Saugata Ghose	10.1145/3466752.3480071
+The Laplace Microarchitecture for Tracking Data Uncertainty and Its Implementation in a RISC-V Processor.	Vasileios Tsoutsouras,Orestis Kaparounakis,Bilgesu Arif Bilgin,Chatura Samarakoon,James Timothy Meech,Jan Heck,Phillip Stanley-Marbell	10.1145/3466752.3480131
+Morrigan: A Composite Instruction TLB Prefetcher.	Georgios Vavouliotis,Lluc Alvarez,Boris Grot,Daniel A. Jiménez,Marc Casas	10.1145/3466752.3480049
+COSPlay: Leveraging Task-Level Parallelism for High-Throughput Synchronous Persistence.	Marina Vemmou,Alexandros Daglis	10.1145/3466752.3480075
+Shift-BNN: Highly-Efficient Probabilistic Bayesian Neural Network Training via Memory-Friendly Pattern Retrieving.	Qiyu Wan,Haojun Xia,Xingyao Zhang,Lening Wang,Shuaiwen Leon Song,Xin Fu	10.1145/3466752.3480120
+APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.	Zhiyao Xie,Xiaoqing Xu,Matt Walker,Joshua Knebel,Kumaraguru Palaniswamy,Nicolas Hebert,Jiang Hu,Huanrui Yang,Yiran Chen 0001,Shidhartha Das	10.1145/3466752.3480064
+SAM: Accelerating Strided Memory Accesses.	Xin Xin,Yanan Guo,Youtao Zhang,Jun Yang 0002	10.1145/3466752.3480091
+Cerebros: Evading the RPC Tax in Datacenters.	Arash Pourhabibi Zarandi,Mark Sutherland,Alexandros Daglis,Babak Falsafi	10.1145/3466752.3480055
+ReplayCache: Enabling Volatile Cachesfor Energy Harvesting Systems.	Jianping Zeng 0001,Jongouk Choi,Xinwei Fu,Ajay Paddayuru Shreepathi,Dongyoon Lee,Changwoo Min,Changhee Jung	10.1145/3466752.3480102
+Turnpike: Lightweight Soft Error Resilience for In-Order Cores.	Jianping Zeng 0001,Hongjune Kim,Jaejin Lee,Changhee Jung	10.1145/3466752.3480042
+Exploiting Different Levels of Parallelism in the Quantum Control Microarchitecture for Superconducting Qubits.	Mengyu Zhang,Lei Xie,Zhenxing Zhang,Qiaonian Yu,Guanglei Xi,Hualiang Zhang,Fuming Liu,Yarui Zheng,Yicong Zheng,Shengyu Zhang 0002	10.1145/3466752.3480116
+Point-X: A Spatial-Locality-Aware Architecture for Energy-Efficient Graph-Based Point-Cloud Deep Learning.	Jie-Fang Zhang,Zhengya Zhang	10.1145/3466752.3480081
+SMART: A Heterogeneous Scratchpad Memory Architecture for Superconductor SFQ-based Systolic CNN Accelerators.	Farzaneh Zokaee,Lei Jiang 0001	10.1145/3466752.3480041
+Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories.	Kazi Abu Zubair,Sudhanva Gurumurthi,Vilas Sridharan,Amro Awad	10.1145/3466752.3480066
+Cohmeleon: Learning-Based Orchestration of Accelerator Coherence in Heterogeneous SoCs.	Joseph Zuckerman,Davide Giri,Jihye Kwon,Paolo Mantovani,Luca P. Carloni	10.1145/3466752.3480065
+MICRO &apos;21: 54th Annual IEEE/ACM International Symposium on Microarchitecture, Virtual Event, Greece, October 18-22, 2021		10.1145/3466752

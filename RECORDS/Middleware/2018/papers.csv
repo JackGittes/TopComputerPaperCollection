@@ -1,0 +1,23 @@
+FireDeX: a Prioritized IoT Data Exchange Middleware for Emergency Response.	Kyle E. Benson,Georgios Bouloukakis,Casey Grant,Valérie Issarny,Sharad Mehrotra,Ioannis D. Moscholios,Nalini Venkatasubramanian	10.1145/3274808.3274830
+SPADE: Tuning scale-out OLTP on modern RDMA clusters.	Georgios Chatzopoulos,Aleksandar Dragojevic,Rachid Guerraoui	10.1145/3274808.3274815
+PreDict: Predictive Dictionary Maintenance for Message Compression in Publish/Subscribe.	Christoph Doblander,Arash Khatayee,Hans-Arno Jacobsen	10.1145/3274808.3274822
+Adaptive Software Cache Management.	Gil Einziger,Ohad Eytan,Roy Friedman,Ben Manes	10.1145/3274808.3274816
+Adaptive Execution of Continuous and Data-intensive Workflows with Machine Learning.	Sérgio Esteves,Helena Galhardas,Luís Veiga	10.1145/3274808.3274827
+Gemini: A Distributed Crash Recovery Protocol for Persistent Caches.	Shahram Ghandeharizadeh,Haoyu Huang	10.1145/3274808.3274819
+Olympian: Scheduling GPU Usage in a Deep Neural Network Model Serving System.	Yitao Hu,Swati Rallapalli,Bongjun Ko,Ramesh Govindan	10.1145/3274808.3274813
+Speculative Read Write Locks.	Shady Issa,Paolo Romano 0002,Tiago Lopes	10.1145/3274808.3274825
+Omni: An Application Framework for Seamless Device-to-Device Interaction in the Wild.	Tomasz Kalbarczyk,Christine Julien 0001	10.1145/3274808.3274821
+All-Spark: Using Simulation Tests Directly in Production Environments to Detect System Bottlenecks in Large-Scale Systems.	Jialiang Lin 0002,Jun Zhang,Yu Ding,Liping Zhang,Yin Han	10.1145/3274808.3274809
+RockFS: Cloud-backed File System Resilience to Client-Side Attacks.	David R. Matos,Miguel L. Pardal,Georg Carle,Miguel Correia 0001	10.1145/3274808.3274817
+SpinStreams: a Static Optimization Tool for Data Stream Processing Applications.	Gabriele Mencagli,Patrizio Dazzi,Nicolò Tonci	10.1145/3274808.3274814
+Size Matters: Improving the Performance of Small Files in Hadoop.	Salman Niazi,Mikael Ronström,Seif Haridi,Jim Dowling	10.1145/3274808.3274811
+GeneaLog: Fine-Grained Data Streaming Provenance at the Edge.	Dimitris Palyvos-Giannas,Vincenzo Gulisano,Marina Papatriantafilou	10.1145/3274808.3274826
+QueCC: A Queue-oriented, Control-free Concurrency Architecture.	Thamir M. Qadah,Mohammad Sadoghi	10.1145/3274808.3274810
+CRIMES: Using Evidence to Secure the Cloud.	Sundaresan Rajasekaran,Harpreet Singh Chawla,Zhen Ni,Neel Shah,Emery D. Berger,Timothy Wood 0001	10.1145/3274808.3274812
+EActors: Fast and flexible trusted computing using SGX.	Vasily A. Sartakov,Stefan Brenner,Sonia Ben Mokhtar,Sara Bouchenak,Gaël Thomas 0001,Rüdiger Kapitza	10.1145/3274808.3274823
+Distributed transactional reads: the strong, the quick, the fresh &amp; the impossible.	Alejandro Z. Tomsic,Manuel Bravo,Marc Shapiro 0001	10.1145/3274808.3274818
+Aggressive Synchronization with Partial Processing for Iterative ML Jobs on Clusters.	Shaoqi Wang,Wei Chen 0038,Aidi Pi,Xiaobo Zhou 0002	10.1145/3274808.3274828
+sgx-perf: A Performance Analysis Tool for Intel SGX Enclaves.	Nico Weichbrodt,Pierre-Louis Aublin,Rüdiger Kapitza	10.1145/3274808.3274824
+Pythia: Improving Datacenter Utilization via Precise Contention Prediction for Multiple Co-located Workloads.	Ran Xu,Subrata Mitra,Jason Rahman,Peter Bai,Bowen Zhou,Greg Bronevetsky,Saurabh Bagchi	10.1145/3274808.3274820
+SpecRPC: A General Framework for Performing Speculative Remote Procedure Calls.	Xinan Yan,Arturo Pie Joa,Bernard Wong 0001,Benjamin Cassell,Tyler Szepesi,Malek Naouach,Disney Yan Lam	10.1145/3274808.3274829
+Proceedings of the 19th International Middleware Conference, Middleware 2018, Rennes, France, December 10-14, 2018	Paulo Ferreira 0001,Liuba Shrira	

@@ -1,0 +1,37 @@
+Auctioning Cluster Resources.	Lee-or Alon,Orna Agmon Ben-Yehuda,Sigal Oren	10.1145/3502181.3533713
+HiPS2022: The 2nd Workshop on High Performance Serverless Computing.	Yadu N. Babuji,Kyle Chard,Ian T. Foster,Zhuozhao Li	10.1145/3502181.3535104
+Access Patterns and Performance Behaviors of Multi-layer Supercomputer I/O Subsystems under Production Load.	Jean Luca Bez,Ahmad Maroof Karimi,Arnab Kumar Paul,Bing Xie,Suren Byna,Philip H. Carns,Sarp Oral,Feiyi Wang,Jesse Hanley	10.1145/3502181.3531461
+A Reflection on Methodologies, Algorithms and Software for HPDC.	Franck Cappello	10.1145/3502181.3535462
+Hare: Exploiting Inter-job and Intra-job Parallelism of Distributed Machine Learning on Heterogeneous GPUs.	Fahao Chen,Peng Li 0017,Celimuge Wu,Song Guo 0001	10.1145/3502181.3531462
+Efficient Design Space Exploration for Sparse Mixed Precision Neural Architectures.	Krishna Teja Chitty-Venkata,Murali Emani,Venkatram Vishwanath,Arun K. Somani	10.1145/3502181.3531463
+Composing Pipeline Parallelism using Control Taskflow Graph.	Cheng-Hsiang Chiu,Tsung-Wei Huang	10.1145/3502181.3533714
+SciStream: Architecture and Toolkit for Data Streaming between Federated Science Instruments.	Joaquín Chung,Wojciech Zacherek,A. J. Wisniewski,Zhengchun Liu,Tekin Bicer,Rajkumar Kettimuthu,Ian T. Foster	10.1145/3502181.3531475
+FlexScience&apos;22: 12th Workshop on AI and Scientific Computing at Scale using Flexible Computing Infrastructures.	Alexandru Costan,Bogdan Nicolae,Kento Sato	10.1145/3502181.3535102
+FPVM: Towards a Floating Point Virtual Machine.	Peter A. Dinda,Nick Wanninger,Jiacheng Ma,Alex Bernat,Charles Bernat,Souradip Ghosh,Christopher Kraemer,Yehya Elmasry	10.1145/3502181.3531469
+Optimizing the Bruck Algorithm for Non-uniform All-to-all Communication.	Ke Fan,Thomas Gilray,Valerio Pascucci,Xuan Huang,Kristopher K. Micinski,Sidharth Kumar	10.1145/3502181.3531468
+Understanding Memory Failures on a Petascale Arm System.	Kurt B. Ferreira,Scott Levy,Joshua Hemmert,Kevin T. Pedretti	10.1145/3502181.3531465
+FRAME 2022: The 2nd Workshop on Flexible Resource and Application Management on the Edge.	Luca Ferrucci,Massimo Coppola,Hanna Kavalionak,Ioannis Kontopoulos	10.1145/3502181.3535103
+TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU.	Qiang Fu,Yuede Ji,H. Howie Huang	10.1145/3502181.3531467
+Locality-aware Load-Balancing For Serverless Clusters.	Alexander Fuerst,Prateek Sharma	10.1145/3502181.3531459
+Lifting and Dropping VMs to Dynamically Transition Between Time- and Space-sharing for Large-Scale HPC Systems.	Nicholas Gordon,John R. Lange	10.1145/3502181.3531471
+Heterogeneous Systems Resilience: From Research to Industry Standards.	Sudhanva Gurumurthi	10.1145/3502181.3531456
+PROV-IO: An I/O-Centric Provenance Framework for Scientific Data on HPC Systems.	Runzhou Han,Suren Byna,Houjun Tang,Bin Dong 0002,Mai Zheng	10.1145/3502181.3531477
+Practical Efficient Microservice Autoscaling with QoS Assurance.	Md Rajib Hossen,Mohammad A. Islam 0001,Kishwar Ahmed	10.1145/3502181.3531460
+Capri: Compiler and Architecture Support for Whole-System Persistence.	Jungi Jeong,Jianping Zeng 0001,Changhee Jung	10.1145/3502181.3531474
+NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud.	Arjun Kashyap,Xiaoyi Lu	10.1145/3502181.3531476
+SNTA&apos;22: The 5th Workshop on Systems and Network Telemetry and Analytics.	Jinoh Kim,Massimo Cafaro,Jerry Chou 0001,Alex Sim	10.1145/3502181.3535108
+Communication-aware Sparse Patterns for the Factorized Approximate Inverse Preconditioner.	Sergi Laut,Marc Casas,Ricard Borrell	10.1145/3502181.3531472
+PERMAVOST &apos;22: Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn Strategy.	Radita Liem,Ana Veroneze Solorzano,Connor Scully-Allison	10.1145/3502181.3535107
+P-RECS&apos;22: 5th International Workshop on Practical Reproducible Evaluation of Systems.	Jay F. Lofstead,Carlos Maltzahn,Ivo Jimenez	10.1145/3502181.3535106
+NSDF-Cloud: Enabling Ad-Hoc Compute Clusters Across Academic and Commercial Clouds.	Jakob Lüttgau,Paula Olaya,Naweiluo Zhou,Giorgio Scorzelli,Valerio Pascucci,Michela Taufer	10.1145/3502181.3533710
+Decentralization of Two Phase Locking based Protocols.	Tatsuhiro Nakamori,Jun Nemoto,Takashi Hoshino,Hideyuki Kawashima	10.1145/3502181.3533711
+EMOSS &apos;22: Workshop on Emerging Open Storage Systems and Solutions for Data Intensive Computing.	Sai Narasimhamurthy,Glenn K. Lockwood	10.1145/3502181.3535105
+NSDF-FUSE: A Testbed for Studying Object Storage via FUSE File Systems.	Paula Olaya,Jakob Lüttgau,Naweiluo Zhou,Jay F. Lofstead,Giorgio Scorzelli,Valerio Pascucci,Michela Taufer	10.1145/3502181.3533709
+Data-Management for Extreme Science: Experiences in Translational Computer Science Research.	Manish Parashar	10.1145/3502181.3537771
+DAOS: Data Access-aware Operating System.	SeongJae Park,Madhuparna Bhowmik,Alexandru Uta	10.1145/3502181.3531466
+Machine Learning Assisted HPC Workload Trace Generation for Leadership Scale Storage Systems.	Arnab K. Paul,Jong Youl Choi,Ahmad Maroof Karimi,Feiyi Wang	10.1145/3502181.3531457
+Holmes: SMT Interference Diagnosis and CPU Scheduling for Job Co-location.	Aidi Pi,Xiaobo Zhou 0002,Chengzhong Xu 0001	10.1145/3502181.3531464
+TAC: Optimizing Error-Bounded Lossy Compression for Three-Dimensional Adaptive Mesh Refinement Simulations.	Daoce Wang,Jesus Pulido,Pascal Grosset,Sian Jin,Jiannan Tian,James P. Ahrens,Dingwen Tao	10.1145/3502181.3531458
+Ultrafast Error-bounded Lossy Compression for Scientific Datasets.	Xiaodong Yu,Sheng Di,Kai Zhao 0008,Jiannan Tian,Dingwen Tao,Xin Liang 0001,Franck Cappello	10.1145/3502181.3531473
+SchedInspector: A Batch Job Scheduling Inspector Using Reinforcement Learning.	Di Zhang,Dong Dai 0001,Bing Xie	10.1145/3502181.3531470
+HPDC &apos;22: The 31st International Symposium on High-Performance Parallel and Distributed Computing, Minneapolis, MN, USA, 27 June 2022 - 1 July 2022	Jon B. Weissman,Abhishek Chandra,Ada Gavrilovska,Devesh Tiwari	10.1145/3502181

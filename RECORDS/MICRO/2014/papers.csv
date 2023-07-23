@@ -1,0 +1,54 @@
+CC-Hunter: Uncovering Covert Timing Channels on Shared Processor Hardware.	Jie Chen 0020,Guru Venkataramani	10.1109/MICRO.2014.42
+Micro-Sliced Virtual Processors to Hide the Effect of Discontinuous CPU Availability for Consolidated Systems.	Jeongseob Ahn,Chang Hyun Park 0001,Jaehyuk Huh	10.1109/MICRO.2014.49
+Continuous, Low Overhead, Run-Time Validation of Program Executions.	Erdem Aktas,Furat Afram,Kanad Ghose	10.1109/MICRO.2014.18
+Wormhole: Wisely Predicting Multidimensional Branches.	Jorge Albericio,Joshua San Miguel,Natalie D. Enright Jerger,Andreas Moshovos	10.1109/MICRO.2014.40
+Using ECC Feedback to Guide Voltage Speculation in Low-Voltage Processors.	Anys Bacha,Radu Teodorescu	10.1109/MICRO.2014.54
+Voltage Noise in Multi-Core Processors: Empirical Characterization and Optimization Opportunities.	Ramon Bertran,Alper Buyuktosunoglu,Pradip Bose,Timothy J. Slegel,Gerard Salem,Sean M. Carey,Richard F. Rizzolo,Thomas Strach	10.1109/MICRO.2014.12
+A Practical Methodology for Measuring the Side-Channel Signal Available to the Attacker for Instruction-Level Events.	Robert Locke Callan,Alenka G. Zajic,Milos Prvulovic	10.1109/MICRO.2014.39
+Adaptive Cache Management for Energy-Efficient GPU Computing.	Xuhao Chen 0001,Li-Wen Chang,Christopher I. Rodrigues,Jie Lv,Zhiying Wang 0003,Wen-mei W. Hwu	10.1109/MICRO.2014.11
+DaDianNao: A Machine-Learning Supercomputer.	Yunji Chen,Tao Luo,Shaoli Liu,Shijin Zhang,Liqiang He,Jia Wang,Ling Li 0001,Tianshi Chen 0002,Zhiwei Xu 0002,Ninghui Sun,Olivier Temam	10.1109/MICRO.2014.58
+PORPLE: An Extensible Optimizer for Portable Data Placement on GPU.	Guoyang Chen,Bo Wu 0002,Dong Li 0001,Xipeng Shen	10.1109/MICRO.2014.20
+CAMEO: A Two-Level Memory Organization with Capacity of Main Memory and Flexibility of Hardware-Managed Cache.	Chia-Chen Chou,Aamer Jaleel,Moinuddin K. Qureshi	10.1109/MICRO.2014.63
+Arbitrary Modulus Indexing.	Jeffrey R. Diamond,Donald S. Fussell,Stephen W. Keckler	10.1109/MICRO.2014.13
+Compiler Support for Optimizing Memory Bank-Level Parallelism.	Wei Ding 0008,Diana R. Guttman,Mahmut T. Kandemir	10.1109/MICRO.2014.34
+Iso-X: A Flexible Architecture for Hardware-Managed Isolated Execution.	Dmitry Evtyushkin,Jesse Elwell,Meltem Ozsoy,Dmitry V. Ponomarev,Nael B. Abu-Ghazaleh,Ryan Riley	10.1109/MICRO.2014.25
+Loop-Aware Memory Prefetching Using Code Block Working Sets.	Adi Fuchs,Shie Mannor,Uri C. Weiser,Yoav Etsion	10.1109/MICRO.2014.27
+Efficient Memory Virtualization: Reducing Dimensionality of Nested Page Walks.	Jayneel Gandhi,Arkaprava Basu,Mark D. Hill,Michael M. Swift	10.1109/MICRO.2014.37
+Enabling Realistic Fine-Grain Voltage Scaling with Reconfigurable Power Distribution Networks.	Waclaw Godycki,Christopher Torng,Ivan Bukreyev,Alyssa B. Apsel,Christopher Batten	10.1109/MICRO.2014.52
+Bias-Free Branch Predictor.	Dibakar Gope,Mikko H. Lipasti	10.1109/MICRO.2014.32
+Bi-Modal DRAM Cache: Improving Hit Rate, Hit Latency and Bandwidth.	Nagendra Dwarakanath Gulur,Mahesh Mehendale,R. Manikantan,R. Govindarajan	10.1109/MICRO.2014.36
+GPUMech: GPU Performance Modeling Technique Based on Interval Analysis.	Jen-Cheng Huang,Joo Hwan Lee,Hyesoon Kim,Hsien-Hsin S. Lee	10.1109/MICRO.2014.59
+Hi-Rise: A High-Radix Switch for 3D Integration with Single-Cycle Arbitration.	Supreet Jeloka,Reetuparna Das,Ronald G. Dreslinski,Trevor N. Mudge,David T. Blaauw	10.1109/MICRO.2014.45
+NoC Architectures for Silicon Interposer Systems: Why Pay for more Wires when you Can Get them (from your interposer) for Free?	Natalie D. Enright Jerger,Ajaykumar Kannan,Zimo Li,Gabriel H. Loh	10.1109/MICRO.2014.61
+Unison Cache: A Scalable and Effective Die-Stacked DRAM Cache.	Djordje Jevdjic,Gabriel H. Loh,Cansu Kaynak,Babak Falsafi	10.1109/MICRO.2014.51
+B-Fetch: Branch Prediction Directed Prefetching for Chip-Multiprocessors.	David Kadjo,Jinchun Kim,Prabal Sharma,Reena Panda,Paul Gratz,Daniel A. Jiménez	10.1109/MICRO.2014.29
+Managing GPU Concurrency in Heterogeneous Architectures.	Onur Kayiran,Nachiappan Chidambaram Nachiappan,Adwait Jog,Rachata Ausavarungnirun,Mahmut T. Kandemir,Gabriel H. Loh,Onur Mutlu,Chita R. Das	10.1109/MICRO.2014.62
+Harnessing Soft Computations for Low-Budget Fault Tolerance.	Daya Shanker Khudia,Scott A. Mahlke	10.1109/MICRO.2014.33
+Accelerating Irregular Algorithms on GPGPUs Using Fine-Grain Hardware Worklists.	Ji Yun Kim,Christopher Batten	10.1109/MICRO.2014.24
+Multi-GPU System Design with Memory Networks.	Gwangsun Kim,Minseok Lee,Jiyun Jeong,John Kim	10.1109/MICRO.2014.55
+Protean Code: Achieving Near-Free Online Code Transformations for Warehouse Scale Computers.	Michael A. Laurenzano,Yunqi Zhang,Lingjia Tang,Jason Mars	10.1109/MICRO.2014.21
+Locality-Aware Mapping of Nested Parallel Patterns on GPUs.	HyoukJoong Lee,Kevin J. Brown,Arvind K. Sujeeth,Tiark Rompf,Kunle Olukotun	10.1109/MICRO.2014.23
+Exploring the Design Space of SPMD Divergence Management on Data-Parallel Architectures.	Yunsup Lee,Vinod Grover,Ronny Krashinsky,Mark Stephenson,Stephen W. Keckler,Krste Asanovic	10.1109/MICRO.2014.48
+RpStacks: Fast and Accurate Processor Design Space Exploration Using Representative Stall-Event Stacks.	Jaewon Lee,Hanhwi Jang,Jangwoo Kim	10.1109/MICRO.2014.26
+Random Fill Cache Architecture.	Fangfei Liu,Ruby B. Lee	10.1109/MICRO.2014.28
+PyMTL: A Unified Framework for Vertically Integrated Computer Architecture Research.	Derek Lockhart,Gary Zibrat,Christopher Batten	10.1109/MICRO.2014.50
+Pipe Check: Specifying and Verifying Microarchitectural Enforcement of Memory Consistency Models.	Daniel Lustig,Michael Pellauer,Margaret Martonosi	10.1109/MICRO.2014.38
+Execution Drafting: Energy Efficiency through Computation Deduplication.	Michael McKeown,Jonathan Balkind,David Wentzlaff	10.1109/MICRO.2014.43
+Load Value Approximation.	Joshua San Miguel,Mario Badr,Natalie D. Enright Jerger	10.1109/MICRO.2014.22
+Citadel: Efficiently Protecting Stacked Memory from Large Granularity Failures.	Prashant J. Nair,David A. Roberts,Moinuddin K. Qureshi	10.1109/MICRO.2014.57
+Skewed Compressed Caches.	Somayeh Sardashti,André Seznec,David A. Wood 0001	10.1109/MICRO.2014.41
+Equalizer: Dynamic Tuning of GPU Resources for Efficient Execution.	Ankit Sethia,Scott A. Mahlke	10.1109/MICRO.2014.16
+A Front-End Execution Architecture for High Energy Efficiency.	Ryota Shioya,Masahiro Goshima,Hideki Ando	10.1109/MICRO.2014.35
+Transparent Hardware Management of Stacked DRAM as Part of Memory.	Jaewoong Sim,Alaa R. Alameldeen,Zeshan Chishti,Chris Wilkerson,Hyesoon Kim	10.1109/MICRO.2014.56
+COMP: Compiler Optimizations for Manycore Processors.	Linhai Song,Min Feng 0001,Nishkam Ravi,Yi Yang 0018,Srimat T. Chakradhar	10.1109/MICRO.2014.30
+Architectural Specialization for Inter-Iteration Loop Dependence Patterns.	Shreesha Srinath,Berkin Ilbeyi,Mingxing Tan,Gai Liu,Zhiru Zhang,Christopher Batten	10.1109/MICRO.2014.31
+PPEP: Online Performance, Power, and Energy Prediction Framework and DVFS Space Exploration.	Bo Su,Junli Gu,Li Shen 0007,Wei Huang 0004,Joseph L. Greathouse,Zhiying Wang 0003	10.1109/MICRO.2014.17
+BuMP: Bulk Memory Access Prediction and Streaming.	Stavros Volos,Javier Picorel,Babak Falsafi,Boris Grot	10.1109/MICRO.2014.44
+Futility Scaling: High-Associativity Cache Partitioning.	Ruisheng Wang,Lizhong Chen	10.1109/MICRO.2014.46
+Calculating Architectural Vulnerability Factors for Spatial Multi-Bit Transient Faults.	Mark Wilkening,Vilas Sridharan,Si Li,Fritz Previlon,Sudhanva Gurumurthi,David R. Kaeli	10.1109/MICRO.2014.15
+Dodec: Random-Link, Low-Radix On-Chip Networks.	Haofan Yang 0001,Jyoti Tripathi,Natalie D. Enright Jerger,Dan Gibson	10.1109/MICRO.2014.19
+Short-Circuiting Memory Traffic in Handheld Platforms.	Praveen Yedlapalli,Nachiappan Chidambaram Nachiappan,Niranjan Soundararajan,Anand Sivasubramaniam,Mahmut T. Kandemir,Chita R. Das	10.1109/MICRO.2014.60
+Specializing Compiler Optimizations through Programmable Composition for Dense Matrix Computations.	Qing Yi,Qian Wang,Huimin Cui	10.1109/MICRO.2014.14
+SMiTe: Precise QoS Prediction on Real-System SMT Processors to Improve Utilization in Warehouse Scale Computers.	Yunqi Zhang,Michael A. Laurenzano,Jason Mars,Lingjia Tang	10.1109/MICRO.2014.53
+FIRM: Fair and High-Performance Memory Control for Persistent Memory Systems.	Jishen Zhao,Onur Mutlu,Yuan Xie 0001	10.1109/MICRO.2014.47
+47th Annual IEEE/ACM International Symposium on Microarchitecture, MICRO 2014, Cambridge, United Kingdom, December 13-17, 2014		

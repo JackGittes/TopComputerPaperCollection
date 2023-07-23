@@ -1,0 +1,39 @@
+POSIX abstractions in modern operating systems: the old, the new, and the missing.	Vaggelis Atlidakis,Jeremy Andrus,Roxana Geambasu,Dimitris Mitropoulos,Jason Nieh	10.1145/2901318.2901350
+On the capacity of thermal covert channels in multicores.	Davide B. Bartolini,Philipp Miedl,Lothar Thiele	10.1145/2901318.2901322
+Sinter: low-bandwidth remote access for the visually-impaired.	Syed Masum Billah,Donald E. Porter,I. V. Ramakrishnan	10.1145/2901318.2901335
+Fast and general distributed transactions using RDMA and HTM.	Yanzhe Chen,Xingda Wei,Jiaxin Shi,Rong Chen 0001,Haibo Chen 0001	10.1145/2901318.2901349
+vScale: automatic and efficient processor scaling for SMP virtual machines.	Luwei Cheng,Jia Rao,Francis C. M. Lau 0001	10.1145/2901318.2901321
+GeePS: scalable deep learning on distributed GPUs with a GPU-specialized parameter server.	Henggang Cui,Hao Zhang 0025,Gregory R. Ganger,Phillip B. Gibbons,Eric P. Xing	10.1145/2901318.2901323
+Shared address translation revisited.	Xiaowan Dong,Sandhya Dwarkadas,Alan L. Cox	10.1145/2901318.2901327
+Data tiering in heterogeneous memory systems.	Subramanya Dulloor,Amitabha Roy 0002,Zheguang Zhao,Narayanan Sundaram,Nadathur Satish,Rajesh Sankaran,Jeff Jackson,Karsten Schwan	10.1145/2901318.2901344
+Hardware read-write lock elision.	Pascal Felber,Shady Issa,Alexander Matveev,Paolo Romano 0002	10.1145/2901318.2901346
+Yoda: a highly available layer-7 load balancer.	Rohan Gandhi,Y. Charlie Hu,Ming Zhang 0005	10.1145/2901318.2901352
+Juggler: a practical reordering resilient network stack for datacenters.	Yilong Geng,Vimalkumar Jeyakumar,Abdul Kabbani,Mohammad Alizadeh	10.1145/2901318.2901334
+Type-aware transactions for faster concurrent code.	Nathaniel Herman,Jeevana Priya Inala,Yihe Huang,Lillian Tsai,Eddie Kohler,Barbara Liskov,Liuba Shrira	10.1145/2901318.2901348
+NChecker: saving mobile app developers from network disruptions.	Xinxin Jin,Peng Huang 0005,Tianyin Xu,Yuanyuan Zhou 0001	10.1145/2901318.2901353
+pVM: persistent virtual memory for efficient capacity scaling and object storage.	Sudarsun Kannan,Ada Gavrilovska,Karsten Schwan	10.1145/2901318.2901325
+STRADS: a distributed framework for scheduled model parallel machine learning.	Jin Kyu Kim,Qirong Ho,Seunghak Lee,Xun Zheng,Wei Dai 0003,Garth A. Gibson,Eric P. Xing	10.1145/2901318.2901331
+Flash storage disaggregation.	Ana Klimovic,Christos Kozyrakis,Eno Thereska,Binu John,Sanjeev Kumar	10.1145/2901318.2901337
+Hold &apos;em or fold &apos;em?: aggregation queries under performance variations.	Gautam Kumar 0001,Ganesh Ananthanarayanan,Sylvia Ratnasamy,Ion Stoica	10.1145/2901318.2901351
+HAFT: hardware-assisted fault tolerance.	Dmitrii Kuvaiskii,Rasha Faqeh,Pramod Bhatotia,Pascal Felber,Christof Fetzer	10.1145/2901318.2901339
+Exploiting variability for energy optimization of parallel programs.	Wim Lavrijsen,Costin Iancu,Wibe de Jong,Xin Chen,Karsten Schwan	10.1145/2901318.2901329
+PSLO: enforcing the Xth percentile latency and throughput SLOs for consolidated VM storage.	Ning Li 0010,Hong Jiang 0001,Dan Feng 0001,Zhan Shi 0001	10.1145/2901318.2901330
+BB: booting booster for consumer electronics with modern OS.	Geunsik Lim,MyungJoo Ham	10.1145/2901318.2901320
+The Linux scheduler: a decade of wasted cores.	Jean-Pierre Lozi,Baptiste Lepers,Justin R. Funston,Fabien Gaud,Vivien Quéma,Alexandra Fedorova	10.1145/2901318.2901326
+Partial-parallel-repair (PPR): a distributed technique for repairing erasure coded storage.	Subrata Mitra,Rajesh Krishna Panta,Moo-Ryong Ra,Saurabh Bagchi	10.1145/2901318.2901328
+Optimizing distributed actor systems for dynamic interactive services.	Andrew Newell,Gabriel Kliot,Ishai Menache,Aditya Gopalan,Soramichi Akiyama,Mark Silberstein	10.1145/2901318.2901343
+A high performance file system for non-volatile main memory.	Jiaxin Ou,Jiwu Shu,Youyou Lu	10.1145/2901318.2901324
+Efficient queue management for cluster scheduling.	Jeff Rasley,Konstantinos Karanasos,Srikanth Kandula,Rodrigo Fonseca,Milan Vojnovic,Sriram Rao	10.1145/2901318.2901354
+Flint: batch-interactive data-intensive processing on transient servers.	Prateek Sharma,Tian Guo 0001,Xin He,David E. Irwin 0001,Prashant J. Shenoy	10.1145/2901318.2901319
+Crayon: saving power through shape and color approximation on next-generation displays.	Phillip Stanley-Marbell,Virginia Estellers,Martin C. Rinard	10.1145/2901318.2901347
+Application-specific quantum for multi-core platform scheduler.	Boris Teabe,Alain Tchana,Daniel Hagimont	10.1145/2901318.2901340
+A study of modern Linux API usage and compatibility: what to support when you&apos;re supporting.	Chia-che Tsai,Bhushan Jain,Nafees Ahmed Abdul,Donald E. Porter	10.1145/2901318.2901341
+TetriSched: global rescheduling with adaptive plan-ahead in dynamic heterogeneous clusters.	Alexey Tumanov,Timothy Zhu,Jun Woo Park,Michael A. Kozuch,Mor Harchol-Balter,Gregory R. Ganger	10.1145/2901318.2901355
+Practical condition synchronization for transactional memory.	Chao Wang 0090,Michael F. Spear	10.1145/2901318.2901342
+Parallel sections: scaling system-level data-structures.	Qi Wang,Timothy Stamler,Gabriel Parmer	10.1145/2901318.2901356
+Increasing large-scale data center capacity by statistical power control.	Guosai Wang,Shuhao Wang,Bing Luo,Weisong Shi,Yinghang Zhu,Wenjun Yang,Dianming Hu,Longbo Huang,Xin Jin 0008,Wei Xu	10.1145/2901318.2901338
+zExpander: a key-value cache with both high performance and fewer misses.	Xingbo Wu,Li Zhang 0002,Yandong Wang,Yufei Ren,Michel Hack,Song Jiang 0001	10.1145/2901318.2901332
+Picocenter: supporting long-lived, mostly-idle applications in cloud environments.	Liang Zhang 0022,James Litton,Frank Cangialosi,Theophilus Benson,Dave Levin,Alan Mislove	10.1145/2901318.2901345
+TFC: token flow control in data center networks.	Jiao Zhang 0002,Fengyuan Ren,Ran Shu 0001,Peng Cheng 0005	10.1145/2901318.2901336
+Oasis: energy proportionality with hybrid server consolidation.	Junji Zhi,Nilton Bila,Eyal de Lara	10.1145/2901318.2901333
+Proceedings of the Eleventh European Conference on Computer Systems, EuroSys 2016, London, United Kingdom, April 18-21, 2016	Cristian Cadar,Peter R. Pietzuch,Kimberly Keeton,Rodrigo Rodrigues 0001	

@@ -1,0 +1,31 @@
+RT-Gang: Real-Time Gang Scheduling Framework for Safety-Critical Systems.	Waqar Ali,Heechul Yun	10.1109/RTAS.2019.00020
+Denial-of-Service Attacks on Shared Cache in Multicore: Analysis and Prevention.	Michael Garrett Bechtel,Heechul Yun	10.1109/RTAS.2019.00037
+A Novel Side-Channel in Real-Time Schedulers.	Chien-Ying Chen,Sibin Mohan,Rodolfo Pellizzoni,Rakesh B. Bobba,Negar Kiyavash	10.1109/RTAS.2019.00016
+Achieving Stagnation-Free Intermittent Computation with Boundary-Free Adaptive Execution.	Jongouk Choi,Hyunwoo Joe,Yongjoo Kim,Changhee Jung	10.1109/RTAS.2019.00035
+Job-Class-Level Fixed Priority Scheduling of Weakly-Hard Real-Time Systems.	Hyunjong Choi,Hyoseung Kim 0001,Qi Zhu 0002	10.1109/RTAS.2019.00028
+CertiCAN: A Tool for the Coq Certification of CAN Analysis Results.	Pascal Fradet,Xiaojie Guo 0003,Jean-François Monin,Sophie Quinton	10.1109/RTAS.2019.00023
+Chaos: a System for Criticality-Aware, Multi-Core Coordination.	Phani Kishore Gadepalli,Gregor Peach,Gabriel Parmer,Joseph Espy,Zach Day	10.1109/RTAS.2019.00015
+Energy-Efficient Real-Time Scheduling of DAGs on Clustered Multi-Core Platforms.	Zhishan Guo,Ashikahmed Bhuiyan,Di Liu 0002,Aamir Khan,Abusayeed Saifullah,Nan Guan	10.1109/RTAS.2019.00021
+Thermal-Aware Servers for Real-Time Tasks on Multi-Core GPU-Integrated Embedded Systems.	Seyedmehdi Hosseinimotlagh,Hyoseung Kim 0001	10.1109/RTAS.2019.00029
+Fractional GPUs: Software-Based Compute and Memory Bandwidth Reservation for GPUs.	Saksham Jain,Iljoo Baek,Shige Wang,Ragunathan Rajkumar	10.1109/RTAS.2019.00011
+Doorpler: A Radar-Based System for Real-Time, Low Power Zone Occupancy Sensing.	Avinash Kalyanaraman,Elahe Soltanaghaei,Kamin Whitehouse	10.1109/RTAS.2019.00012
+Deterministic Memory Hierarchy and Virtualization for Modern Multi-Core Embedded Systems.	Tomasz Kloda,Marco Solieri,Renato Mancuso 0001,Nicola Capodieci,Paolo Valente,Marko Bertogna	10.1109/RTAS.2019.00009
+Improving a Compositional Timing Analysis Framework for Weakly-Hard Real-Time Systems.	Leonie Köhler,Rolf Ernst	10.1109/RTAS.2019.00027
+Characterizing Dominant Program Behavior Using the Execution-Time Variance of the Call Structure.	Tushar Kumar,Kangqi Ni,Santosh Pande	10.1109/RTAS.2019.00018
+Fault-Resilient Real-Time Communication Using Software-Defined Networking.	Kilho Lee,Minsu Kim,Hayeon Kim,Hoon Sung Chwa,Jinkyu Lee 0001,Insik Shin	10.1109/RTAS.2019.00025
+DistributedHART: A Distributed Real-Time Scheduling System for WirelessHART Networks.	Venkata Prashant Modekurthy,Abusayeed Saifullah,Sanjay Madria	10.1109/RTAS.2019.00026
+On the Pitfalls and Vulnerabilities of Schedule Randomization Against Schedule-Based Attacks.	Mitra Nasri,Thidapat Chantem,Gedare Bloom,Ryan M. Gerdes	10.1109/RTAS.2019.00017
+Accurate ILP-Based Contention Modeling on Statically Scheduled Multicore Systems.	Xavier Palomo,Enrico Mezzetti,Jaume Abella 0001,Reinder J. Bril,Francisco J. Cazorla	10.1109/RTAS.2019.00010
+Optimal Priority Assignment for Scheduling Mixed CAN and CAN-FD Frames.	Taeju Park,Kang G. Shin	10.1109/RTAS.2019.00024
+Virtualization on TrustZone-Enabled Microcontrollers? Voilà!	Sandro Pinto 0001,Hugo Araújo,Daniel Oliveira 0003,José Martins,Adriano Tavares	10.1109/RTAS.2019.00032
+RTNF: Predictable Latency for Network Function Virtualization.	Saeed Saeedabedi,Neeraj Gandhi,Henri Maxime Demoulin,Yang Wu,Linh Thi Xuan Phan	10.1109/RTAS.2019.00038
+Self-Aware Scheduling for Mixed-Criticality Component-Based Systems.	Johannes Schlatow,Mischa Möstl,Rolf Ernst	10.1109/RTAS.2019.00030
+Proving Real-Time Capability of Generic Operating Systems by System-Aware Timing Analysis.	Simon Schuster,Peter Wägemann,Peter Ulbrich,Wolfgang Schröder-Preikschat	10.1109/RTAS.2019.00034
+Multiprocessor Synchronization of Periodic Real-Time Tasks Using Dependency Graphs.	Junjie Shi,Niklas Ueter,Georg von der Brüggen,Jian-Jia Chen	10.1109/RTAS.2019.00031
+Calculating Response-Time Bounds for OpenMP Task Systems with Conditional Branches.	Jinghao Sun,Nan Guan,Jingchang Sun,Yaoyao Chi	10.1109/RTAS.2019.00022
+Bundled Scheduling of Parallel Real-Time Tasks.	Saud Wasly,Rodolfo Pellizzoni	10.1109/RTAS.2019.00019
+Holistic Resource Allocation for Multicore Real-Time Systems.	Meng Xu,Linh Thi Xuan Phan,Hyon-Young Choi,Yuhan Lin,Haoran Li,Chenyang Lu 0001,Insup Lee 0001	10.1109/RTAS.2019.00036
+Re-Thinking CNN Frameworks for Time-Sensitive Autonomous-Driving Applications: Addressing an Industrial Challenge.	Ming Yang 0036,Shige Wang,Joshua Bakita,Thanh Vu,F. Donelson Smith,James H. Anderson,Jan-Michael Frahm	10.1109/RTAS.2019.00033
+PIFA: An Intelligent Phase Identification and Frequency Adjustment Framework for Time-Sensitive Mobile Computing.	Xia Zhang 0001,Xusheng Xiao,Liang He 0002,Yun Ma 0002,Yangyang Huang,Xuanzhe Liu,Wenyao Xu,Cong Liu 0005	10.1109/RTAS.2019.00013
+Deterministic Futexes: Addressing WCET and Bounded Interference Concerns.	Alexander Zuepke,Robert Kaiser	10.1109/RTAS.2019.00014
+25th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2019, Montreal, QC, Canada, April 16-18, 2019	Björn B. Brandenburg	

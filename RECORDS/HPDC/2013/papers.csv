@@ -1,0 +1,32 @@
+On the efficacy of GPU-integrated MPI for scientific applications.	Ashwin M. Aji,Lokendra S. Panwar,Feng Ji,Milind Chabbi,Karthik Murthy,Pavan Balaji,Keith R. Bisset,James Dinan,Wu-chun Feng,John M. Mellor-Crummey,Xiaosong Ma,Rajeev Thakur	
+ElastMan: autonomic elasticity manager for cloud-based key-value stores.	Ahmad Al-Shishtawy,Vladimir Vlassov	
+A framework for auto-tuning HDF5 applications.	Babak Behzad,Joey Huchette,Huong Vu Thanh Luu,Ruth A. Aydt,Surendra Byna,Yushu Yao,Quincey Koziol,Prabhat	
+Interference and locality-aware task scheduling for MapReduce applications in virtual clusters.	Xiangping Bu,Jia Rao,Cheng-Zhong Xu 0001	
+COSMIC: middleware for high performance and reliable multiprocessing on xeon phi coprocessors.	Srihari Cadambi,Giuseppe Coviello,Cheng-Hong Li,Rajat Phull,Kunal Rao,Murugan Sankaradass,Srimat T. Chakradhar	
+Building and scaling virtual clusters with residual resources from interactive clouds.	R. Benjamin Clay,Zhiming Shen,Xiaosong Ma	
+CamCubeOS: a key-based network stack for 3D torus cluster topologies.	Paolo Costa,Austin Donnelly,Greg O&apos;Shea,Antony I. T. Rowstron	
+Virtual TCP offload: optimizing ethernet overlay performance on advanced interconnects.	Zheng Cui,Patrick G. Bridges,John R. Lange,Peter A. Dinda	
+Correcting soft errors online in LU factorization.	Teresa Davies,Zizhong Chen	
+Scalanytics: a declarative multi-core platform for scalable composable traffic analytics.	Harjot Gill,Dong Lin,Xianglong Han,Cam Nguyen,Tanveer Gill,Boon Thau Loo	
+I/O acceleration with pattern detection.	Jun He,John Bent,Aaron Torres,Gary Grider,Garth A. Gibson,Carlos Maltzahn,Xian-He Sun	
+Load balancing in large-scale epidemiological simulations.	Tariq Kamal,Keith R. Bisset,Ali Raza Butt,Youngyun Chungbaek,Madhav V. Marathe	
+SCDA: SLA-aware cloud datacenter architecture for efficient content storage and retrieval.	Debessay Fesehaye Kassa,Klara Nahrstedt	
+Scalable in situ scientific data encoding for analytical query processing.	Sriram Lakshminarasimhan,David A. Boyuka II,Saurabh V. Pendse,Xiaocheng Zou,John Jenkins,Venkatram Vishwanath,Michael E. Papka,Nagiza F. Samatova	
+NUMA-aware shared-memory collective communication for MPI.	Shigang Li 0002,Torsten Hoefler,Marc Snir	
+ACIC: automatic cloud I/O configurator for parallel applications.	Mingliang Liu,Ye Jin,Jidong Zhai,Yan Zhai,Qianqian Shi,Xiaosong Ma,Wenguang Chen	
+A comparative study of high-performance computing on the cloud.	Aniruddha Marathe,Rachel Harris,David K. Lowenthal,Bronis R. de Supinski,Barry Rountree,Martin Schulz 0001,Xin Yuan 0001	
+AI-Ckpt: leveraging memory access patterns for adaptive asynchronous incremental checkpointing.	Bogdan Nicolae,Franck Cappello	
+A 1 PB/s file system to checkpoint three million MPI tasks.	Raghunath Rajachandrasekar,Adam Moody,Kathryn Mohror,Dhabaleswar K. Panda 0001	
+Modeling communication in cache-coherent SMP systems: a case-study with Xeon Phi.	Sabela Ramos,Torsten Hoefler	
+A preemption-based runtime to efficiently schedule multi-process applications on heterogeneous clusters with GPUs.	Kittisak Sajjapongse,Xiang Wang,Michela Becchi	
+Anton: a special-purpose machine that achieves a hundred-fold speedup in biomolecular simulations.	David E. Shaw	
+Taming massive distributed datasets: data sampling using bitmap indices.	Yu Su 0011,Gagan Agrawal,Jonathan Woodring,Kary L. Myers,Joanne Wendelberger,James P. Ahrens	
+kMemvisor: flexible system wide memory mirroring in virtual environments.	Bin Wang,Zhengwei Qi,Haibing Guan,Haoliang Dong,Wei Sun,Yaozu Dong	
+IBIS: interposed big-data I/O scheduler.	Yiqi Xu,Adrian Suarez,Ming Zhao 0002	
+Efficient analytics on ordered datasets using MapReduce.	Jiangtao Yin,Yong Liao,Mario Baldi,Lixin Gao 0001,Antonio Nucci	
+VGRIS: virtualized GPU resource isolation and scheduling in cloud gaming.	Miao Yu,Chao Zhang,Zhengwei Qi,Jianguo Yao,Yin Wang,Haibing Guan	
+MTC envelope: defining the capability of large scale computers in the context of parallel scripting applications.	Zhao Zhang 0007,Daniel S. Katz,Michael Wilde,Justin M. Wozniak,Ian T. Foster	
+Orthrus: a framework for implementing high-performance collective I/O in the multicore clusters.	Xuechen Zhang,Jianqiang Ou,Kei Davis,Song Jiang 0001	
+WuKong: automatically detecting and localizing bugs that manifest at large system scales.	Bowen Zhou,Jonathan Too,Milind Kulkarni 0001,Saurabh Bagchi	
+Supporting parallel soft real-time applications in virtualized environment.	Like Zhou,Song Wu 0001,Huahua Sun,Hai Jin 0001,Xuanhua Shi	
+The 22nd International Symposium on High-Performance Parallel and Distributed Computing, HPDC&apos;13, New York, NY, USA - June 17 - 21, 2013	Manish Parashar,Jon B. Weissman,Dick H. J. Epema,Renato J. O. Figueiredo	

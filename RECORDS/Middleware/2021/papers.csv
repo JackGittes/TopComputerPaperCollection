@@ -1,0 +1,30 @@
+Experience Paper: Towards enhancing cost efficiency in serverless machine learning training.	Marc Sánchez Artigas,Pablo Gimeno Sarroca	10.1145/3464298.3494884
+Implicit model specialization through dag-based decentralized federated learning.	Jossekin Beilharz,Bjarne Pfitzner,Robert Schmid,Paul Geppert,Bert Arnrich,Andreas Polze	10.1145/3464298.3493403
+Gossip consensus.	Daniel Cason,Nenad Milosevic,Zarko Milosevic 0001,Fernando Pedone	10.1145/3464298.3493395
+SeBS: a serverless benchmark suite for function-as-a-service computing.	Marcin Copik,Grzegorz Kwasniewski,Maciej Besta,Michal Podstawski,Torsten Hoefler	10.1145/3464298.3476133
+Magic-Pipe: self-optimizing video analytics pipelines.	Giuseppe Coviello,Yi Yang 0018,Kunal Rao,Srimat T. Chakradhar	10.1145/3464298.3484504
+SHARC: improving adaptive replacement cache with shadow recency cache management.	Xiaoming Du,Cong Li	10.1145/3464298.3493389
+Sizeless: predicting the optimal size of serverless functions.	Simon Eismann,Long Bui,Johannes Grohmann,Cristina L. Abad,Nikolas Herbst,Samuel Kounev	10.1145/3464298.3493398
+CAT: content-aware tracing and analysis for distributed systems.	Tânia Esteves,Francisco Neves,Rui Oliveira 0001,João Paulo 0001	10.1145/3464298.3493396
+Towards optimal placement and scheduling of DNN operations with Pesto.	Ubaid Ullah Hafeez,Xiao Sun 0004,Anshul Gandhi,Zhenhua Liu 0002	10.1145/3464298.3476132
+Xar-trek: run-time execution migration among FPGAs and heterogeneous-ISA CPUs.	Edson Horta,Ho-Ren Chuang,Naarayanan Rao VSathish,Cesar Philippidis,Antonio Barbalace,Pierre Olivier,Binoy Ravindran	10.1145/3464298.3493388
+Experience Paper: Danaus: isolation and efficiency of container I/O at the client side of network storage.	Giorgos Kappes,Stergios V. Anastasiadis	10.1145/3464298.3493390
+Privacy preserving event based transaction system in a decentralized environment.	Rabimba Karanjai,Lei Xu 0012,Zhimin Gao,Lin Chen 0009,Mudabbir Kaleem,Weidong Shi	10.1145/3464298.3493401
+FW-KV: improving read guarantees in PSI.	Masoomeh Javidi Kishi,Roberto Palmieri	10.1145/3464298.3476131
+RamCast: RDMA-based atomic multicast.	Long Hoang Le,Mojtaba Eslahi-Kelorazi,Paulo R. Coelho,Fernando Pedone	10.1145/3464298.3493393
+FaaSTCC: efficient transactional causal consistency for serverless computing.	Taras Lykhenko,Rafael Soares,Luís Rodrigues 0001	10.1145/3464298.3493392
+Precursor: a fast, client-centric and trusted key-value store using RDMA and Intel SGX.	Ines Messadi,Shivananda Neumann,Nico Weichbrodt,Lennart Almstedt,Mohammad Mahhouk,Rüdiger Kapitza	10.1145/3464298.3476129
+Snarl: entangled merkle trees for improved file availability and storage utilization.	Racin Nygaard,Vero Estrada-Galiñanes,Hein Meling	10.1145/3464298.3493397
+Lachesis: a middleware for customizing OS scheduling of stream processing queries.	Dimitris Palyvos-Giannas,Gabriele Mencagli,Marina Papatriantafilou,Vincenzo Gulisano	10.1145/3464298.3493407
+Memory at your service: fast memory allocation for latency-critical services.	Aidi Pi,Junxian Zhao,Shaoqi Wang,Xiaobo Zhou 0002	10.1145/3464298.3493394
+A fresh look at the architecture and performance of contemporary isolation platforms.	Vincent van Rijn,Jan S. Rellermeyer	10.1145/3464298.3493404
+PProx: efficient privacy for recommendation-as-a-service.	Guillaume Rosinosky,Simon Da Silva,Sonia Ben Mokhtar,Daniel Négru,Laurent Réveillère,Etienne Rivière	10.1145/3464298.3476130
+YASMIN: a real-time middleware for COTS heterogeneous platforms.	Benjamin Rouxel,Sebastian Altmeyer,Clemens Grelck	10.1145/3464298.3493402
+Lognroll: discovering accurate log templates by iterative filtering.	Byungchul Tak,Wook-Shin Han	10.1145/3464298.3493400
+Highly-available and consistent group collaboration at the edge with colony.	Ilyas Toumlilt,Pierre Sutra,Marc Shapiro 0001	10.1145/3464298.3493405
+sgx-dl: dynamic loading and hot-patching for secure applications: experience paper.	Nico Weichbrodt,Joshua Heinemann,Lennart Almstedt,Pierre-Louis Aublin,Rüdiger Kapitza	10.1145/3464298.3476134
+Let&apos;s wait awhile: how temporal workload shifting can reduce carbon emissions in the cloud.	Philipp Wiesner,Ilja Behnke,Dominik Scheinert,Kain Kordian Gontarska,Lauritz Thamsen	10.1145/3464298.3493399
+SwitchFlow: preemptive multitasking for deep learning.	Xiaofeng Wu,Jia Rao,Wei Chen 0038,Hang Huang,Chris H. Q. Ding,Heng Huang	10.1145/3464298.3493391
+Montsalvat: Intel SGX shielding for GraalVM native images.	Peterson Yuhala,Jämes Ménétrey,Pascal Felber,Valerio Schiavoni,Alain Tchana,Gaël Thomas 0001,Hugo Guiroux,Jean-Pierre Lozi	10.1145/3464298.3493406
+Prosecutor: an efficient BFT consensus algorithm with behavior-aware penalization against Byzantine attacks.	Gengrui Zhang,Hans-Arno Jacobsen	10.1145/3464298.3484503
+Middleware &apos;21: 22nd International Middleware Conference, Québec City, Canada, December 6 - 10, 2021	Kaiwen Zhang 0001,Abdelouahed Gherbi,Nalini Venkatasubramanian,Luís Veiga	10.1145/3464298

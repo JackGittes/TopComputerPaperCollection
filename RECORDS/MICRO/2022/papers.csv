@@ -1,0 +1,84 @@
+Pushing Point Cloud Compression to the Edge.	Ziyu Ying 0001,Shulin Zhao 0001,Sandeepa Bhuyan,Cyan Subhra Mishra,Mahmut T. Kandemir,Chita R. Das	10.1109/MICRO56248.2022.00031
+Flash-Cosmos: In-Flash Bulk Bitwise Operations Using Inherent Computation Capability of NAND Flash Memory.	Jisung Park 0001,Roknoddin Azizi,Geraldo F. Oliveira,Mohammad Sadrosadati,Rakesh Nadig,David Novo,Juan Gómez-Luna,Myungsuk Kim,Onur Mutlu	10.1109/MICRO56248.2022.00069
+Realizing Emotional Interactions to Learn User Experience and Guide Energy Optimization for Mobile Architectures.	Xueliang Li 0002,Zhuobin Shi,Junyang Chen,Yepang Liu 0001	10.1109/MICRO56248.2022.00064
+ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization.	Cong Guo 0003,Chen Zhang 0001,Jingwen Leng,Zihan Liu,Fan Yang 0024,Yunxin Liu,Minyi Guo,Yuhao Zhu 0001	10.1109/MICRO56248.2022.00095
+FracDRAM: Fractional Values in Off-the-Shelf DRAM.	Fei Gao 0016,Georgios Tziantzioulis,David Wentzlaff	10.1109/MICRO56248.2022.00066
+EVAX: Towards a Practical, Pro-active &amp; Adaptive Architecture for High Performance &amp; Security.	Samira Mirbagher Ajorpaz,Daniel Moghimi,Jeffrey Neal Collins,Gilles Pokam,Nael B. Abu-Ghazaleh,Dean M. Tullsen	10.1109/MICRO56248.2022.00085
+IDIO: Network-Driven, Inbound Network Data Orchestration on Server Processors.	Mohammad Alian,Siddharth Agarwal,Jongmin Shin,Neel Patel,Yifan Yuan,Daehoon Kim,Ren Wang 0001,Nam Sung Kim	10.1109/MICRO56248.2022.00042
+DaxVM: Stressing the Limits of Memory as a File Interface.	Chloe Alverti,Vasileios Karakostas,Nikhita Kunati,Georgios I. Goumas,Michael M. Swift	10.1109/MICRO56248.2022.00037
+Going Further With Winograd Convolutions: Tap-Wise Quantization for Efficient Inference on 4x4 Tiles.	Renzo Andri,Beatrice Bussolino,Antonio Cipolletta,Lukas Cavigelli,Zhe Wang 0023	10.1109/MICRO56248.2022.00048
+AgilePkgC: An Agile System Idle State Architecture for Energy Proportional Datacenter Servers.	Georgia Antoniou,Haris Volos 0001,Davide B. Bartolini,Tom Rollet,Yiannakis Sazeides,Jawad Haj-Yahya	10.1109/MICRO56248.2022.00065
+An architecture interface and offload model for low-overhead, near-data, distributed accelerators.	Saambhavi Baskaran,Mahmut Taylan Kandemir,Jack Sampson	10.1109/MICRO56248.2022.00083
+Hermes: Accelerating Long-Latency Load Requests via Perceptron-Based Off-Chip Load Prediction.	Rahul Bera,Konstantinos Kanellopoulos,Shankar Balachandran,David Novo,Ataberk Olgun,Mohammad Sadrosadati,Onur Mutlu	10.1109/MICRO56248.2022.00015
+DeepBurning-SEG: Generating DNN Accelerators of Segment-Grained Pipeline Architecture.	Xuyi Cai,Ying Wang 0001,Xiaohan Ma,Yinhe Han 0001,Lei Zhang 0008	10.1109/MICRO56248.2022.00094
+ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines.	Xinyu Chen,Yao Chen,Feng Cheng,Hongshi Tan,Bingsheng He,Weng-Fai Wong	10.1109/MICRO56248.2022.00092
+Morpheus: Extending the Last Level Cache Capacity in GPU Systems Using Idle GPU Core Resources.	Sina Darabi,Mohammad Sadrosadati,Negar Akbarzadeh,Joël Lindegger,Mohammad Hosseini,Jisung Park 0001,Juan Gómez-Luna,Onur Mutlu,Hamid Sarbazi-Azad	10.1109/MICRO56248.2022.00029
+Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design.	Hongxiang Fan,Thomas Chau 0001,Stylianos I. Venieris,Royson Lee,Alexandros Kouris,Wayne Luk,Nicholas D. Lane,Mohamed S. Abdelfattah	10.1109/MICRO56248.2022.00050
+pLUTo: Enabling Massively Parallel Computation in DRAM via Lookup Tables.	João Dinis Ferreira,Gabriel Falcão 0001,Juan Gómez-Luna,Mohammed Alser,Lois Orosa 0001,Mohammad Sadrosadati,Jeremie S. Kim,Geraldo F. Oliveira,Taha Shahroodi,Anant Nori,Onur Mutlu	10.1109/MICRO56248.2022.00067
+Multi-Layer In-Memory Processing.	Daichi Fujiki,Alireza Khadem,Scott A. Mahlke,Reetuparna Das	10.1109/MICRO56248.2022.00068
+A programmable, energy-minimal dataflow compiler and architecture.	Graham Gobieski,Souradip Ghosh,Marijn Heule,Todd C. Mowry,Tony Nowatzki,Nathan Beckmann,Brandon Lucia	10.1109/MICRO56248.2022.00046
+ROG: A High Performance and Robust Distributed Training System for Robotic IoT.	Xiuxian Guan,Zekai Sun,Shengliang Deng,Xusheng Chen,Shixiong Zhao,Zongyuan Zhang,Tianyang Duan,Yuexuan Wang,Chenshu Wu,Yong Cui 0001,Libo Zhang 0001,Yanjun Wu,Rui Wang 0007,Heming Cui	10.1109/MICRO56248.2022.00032
+Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity.	Yanan Guo,Xin Xin,Youtao Zhang,Jun Yang 0002	10.1109/MICRO56248.2022.00053
+AgileWatts: An Energy-Efficient CPU Core Idle-State Architecture for Latency-Sensitive Server Applications.	Jawad Haj-Yahya,Haris Volos 0001,Davide B. Bartolini,Georgia Antoniou,Jeremie S. Kim,Zhe Wang 0023,Kleovoulos Kalaitzidis,Tom Rollet,Zhirui Chen,Ye Geng,Onur Mutlu,Yiannakis Sazeides	10.1109/MICRO56248.2022.00063
+Horus: Persistent Security for Extended Persistence-Domain Memory Systems.	Xijing Han,James Tuck,Amro Awad	10.1109/MICRO56248.2022.00087
+Cambricon-P: A Bitflow Architecture for Arbitrary Precision Computing.	Yifan Hao,Yongwei Zhao,Chenxiao Liu,Zidong Du,Shuyao Cheng,Xiaqing Li,Xing Hu 0001,Qi Guo 0001,Zhiwei Xu 0002,Tianshi Chen 0002	10.1109/MICRO56248.2022.00016
+DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation.	Seongmin Hong,Seungjae Moon,Junsoo Kim,Sungjae Lee,Minsub Kim,Dongsoo Lee,Joo-Young Kim 0001	10.1109/MICRO56248.2022.00051
+ICE: An Intelligent Cognition Engine with 3D NAND-based In-Memory Computing for Vector Similarity Search Acceleration.	Han-Wen Hu,Wei-Chen Wang,Yuan-Hao Chang 0001,Yung-Chun Lee,Bo-Rong Lin,Huai-Mu Wang,Yen-Po Lin,Yu-Ming Huang,Chong-Ying Lee,Tzu-Hsiang Su,Chih-Chang Hsieh,Chia-Ming Hu,Yi-Ting Lai,Chung Kuang Chen,Han-Sung Chen,Hsiang-Pang Li,Tei-Wei Kuo,Meng-Fan Chang,Keh-Chung Wang,Chun-Hsiung Hung,Chih-Yuan Lu	10.1109/MICRO56248.2022.00058
+BEACON: Scalable Near-Data-Processing Accelerators for Genome Analysis near Memory Pool with the CXL Support.	Wenqin Huangfu,Krishna T. Malladi,Andrew Chang,Yuan Xie 0001	10.1109/MICRO56248.2022.00057
+Reconstructing Out-of-Order Issue Queue.	Ipoom Jeong,Jiwon Lee,Myung Kuk Yoon,Won Woo Ro	10.1109/MICRO56248.2022.00023
+CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environment.	Jianyu Jiang,Ji Qi,Tianxiang Shen,Xusheng Chen,Shixiong Zhao,Sen Wang,Li Chen,Gong Zhang,Xiapu Luo,Heming Cui	10.1109/MICRO56248.2022.00019
+Merging Similar Patterns for Hardware Prefetching.	Shizhi Jiang,Qiusong Yang,Yiwei Ci	10.1109/MICRO56248.2022.00071
+DTexL: Decoupled Raster Pipeline for Texture Locality.	Diya Joseph,Juan L. Aragón,Joan-Manuel Parcerisa,Antonio González 0001	10.1109/MICRO56248.2022.00028
+SIMR: Single Instruction Multiple Request Processing for Energy-Efficient Data Center Microservices.	Mahmoud Khairy,Ahmad Alawneh,Aaron Barnes,Timothy G. Rogers	10.1109/MICRO56248.2022.00040
+Whisper: Profile-Guided Branch Misprediction Elimination for Data Center Applications.	Tanvir Ahmed Khan,Muhammed Ugur,Krishnendra Nathella,Dam Sunwoo,Heiner Litz,Daniel A. Jiménez,Baris Kasikci	10.1109/MICRO56248.2022.00017
+Networked SSD: Flash Memory Interconnection Network for High-Bandwidth SSD.	Jiho Kim,Seokwon Kang,Yongjun Park 0001,John Kim	10.1109/MICRO56248.2022.00038
+ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.	Jongmin Kim 0007,Gwangho Lee,Sangpyo Kim,Gina Sohn,Minsoo Rhu,John Kim,Jung Ho Ahn	10.1109/MICRO56248.2022.00086
+Automatic Domain-Specific SoC Design for Autonomous Unmanned Aerial Vehicles.	Srivatsan Krishnan,Zishen Wan,Kshitij Bhardwaj,Paul N. Whatmough,Aleksandra Faust,Sabrina M. Neuman,Gu-Yeon Wei,David Brooks 0001,Vijay Janapa Reddi	10.1109/MICRO56248.2022.00033
+Datamime: Generating Representative Benchmarks by Automatically Synthesizing Datasets.	Hyun Ryong Lee,Daniel Sánchez 0003	10.1109/MICRO56248.2022.00082
+3D-FPIM: An Extreme Energy-Efficient DNN Acceleration System Using 3D NAND Flash-Based In-Situ PIM Unit.	Hunjun Lee,Minseop Kim,Dongmoon Min,Joonsung Kim,Jongwon Back,Honam Yoo,Jong-Ho Lee 0002,Jangwoo Kim	10.1109/MICRO56248.2022.00093
+Ristretto: An Atomized Processing Architecture for Sparsity-Condensed Stream Flow in CNN.	Gang Li 0015,Weixiang Xu,Zhuoran Song,Naifeng Jing,Jian Cheng 0001,Xiaoyao Liang	10.1109/MICRO56248.2022.00097
+Let Each Quantum Bit Choose Its Basis Gates.	Sophia Fuhui Lin,Sara Sussman,Casey Duckering,Pranav S. Mundada,Jonathan M. Baker,Rohan S. Kumar,Andrew A. Houck,Frederic T. Chong	10.1109/MICRO56248.2022.00075
+OverGen: Improving FPGA Usability through Domain-specific Overlay Generation.	Sihao Liu,Jian Weng 0002,Dylan Kupsh,Atefeh Sohrabizadeh,Zhengrong Wang,Licheng Guo,Jiuyang Liu,Maxim Zhulin,Rishabh Mani,Lucheng Zhang,Jason Cong,Tony Nowatzki	10.1109/MICRO56248.2022.00018
+Revisiting Residue Codes for Modern Memories.	Evgeny Manzhosov,Adam Hastings,Meghna Pancholi,Ryan Piersma,Mohamed Tarek Ibn Ziad,Simha Sethumadhavan	10.1109/MICRO56248.2022.00020
+GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping.	Haiyu Mao,Mohammed Alser,Mohammad Sadrosadati,Can Firtina,Akanksha Baranwal,Damla Senol Cali,Aditya Manglik,Nour Almadhoun Alserr,Onur Mutlu	10.1109/MICRO56248.2022.00056
+COMPAQT: Compressed Waveform Memory Architecture for Scalable Qubit Control.	Satvik Maurya,Swamit S. Tannu	10.1109/MICRO56248.2022.00076
+SwiftDir: Secure Cache Coherence without Overprotection.	Chenlu Miao,Kai Bu,Mengming Li,Shaowu Mao,Jianwei Jia	10.1109/MICRO56248.2022.00052
+Qubit Mapping and Routing via MaxSAT.	Abtin Molavi,Amanda Xu,Martin Diges,Lauren Pick,Swamit S. Tannu,Aws Albarghouthi	10.1109/MICRO56248.2022.00077
+Speculative Code Compaction: Eliminating Dead Code via Speculative Microcode Transformations.	Logan Moody,Wei Qi,Abdolrasoul Sharifi,Layne Berry,Joey Rudek,Jayesh Gaur,Jeff Parkhurst,Sreenivas Subramoney,Kevin Skadron,Ashish Venkat	10.1109/MICRO56248.2022.00024
+Berti: an Accurate Local-Delta Data Prefetcher.	Agustín Navarro-Torres,Biswabandan Panda,Jesús Alastruey-Benedé,Pablo Ibáñez,Víctor Viñals Yúfera,Alberto Ros	10.1109/MICRO56248.2022.00072
+GCD2: A Globally Optimizing Compiler for Mapping DNNs to Mobile DSPs.	Wei Niu,Jiexiong Guan,Xipeng Shen,Yanzhi Wang,Gagan Agrawal,Bin Ren	10.1109/MICRO56248.2022.00044
+CORUSCANT: Fast Efficient Processing-in-Racetrack Memories.	Sébastien Ollivier,Stephen Longofono,Prayash Dutta,Jingtong Hu,Sanjukta Bhanja,Alex K. Jones	10.1109/MICRO56248.2022.00060
+Translation-optimized Memory Compression for Capacity.	Gagandeep Panwar,Muhammad Laghari,David Bears,Yuqing Liu,Chandler Jearls,Esha Choukse,Kirk W. Cameron,Ali Raza Butt,Xun Jian 0002	10.1109/MICRO56248.2022.00073
+DiVa: An Accelerator for Differentially Private Machine Learning.	Beomsik Park,Ranggi Hwang,Dongho Yoon,Yoonhyuk Choi,Minsoo Rhu	10.1109/MICRO56248.2022.00084
+Treebeard: An Optimizing Compiler for Decision Tree Based ML Inference.	Ashwin Prasad,Sampath Rajendra,Kaushik Rajan,R. Govindarajan,Uday Bondhugula	10.1109/MICRO56248.2022.00043
+Designing Virtual Memory System of MCM GPUs.	B. Pratheek,Neha Jawalkar,Arkaprava Basu	10.1109/MICRO56248.2022.00036
+PageORAM: An Efficient DRAM Page Aware ORAM Strategy.	Rachit Rajat,Yongqin Wang,Murali Annavaram	10.1109/MICRO56248.2022.00021
+An Architectural Charge Management Interface for Energy-Harvesting Systems.	Emily Ruppel,Milijana Surbatovich,Harsh Desai,Kiwan Maeng,Brandon Lucia	10.1109/MICRO56248.2022.00034
+Vulkan-Sim: A GPU Architecture Simulator for Ray Tracing.	Mohammadreza Saed,Yuan-Hsi Chou,Lufei Liu,Tyler Nowicki,Tor M. Aamodt	10.1109/MICRO56248.2022.00027
+AQUA: Scalable Rowhammer Mitigation by Quarantining Aggressor Rows at Runtime.	Anish Saxena,Gururaj Saileshwar,Prashant J. Nair,Moinuddin K. Qureshi	10.1109/MICRO56248.2022.00022
+IDLD: Instantaneous Detection of Leakage and Duplication of Identifiers used for Register Renaming.	Yiannakis Sazeides,Alex Gerber,Ron Gabor,Arkady Bramnik,George Papadimitriou 0001,Dimitris Gizopoulos,Chrysostomos Nicopoulos,Giorgos Dimitrakopoulos,Karyofyllis Patsidis	10.1109/MICRO56248.2022.00061
+DPU-v2: Energy-efficient execution of irregular directed acyclic graphs.	Nimish Shah,Wannes Meert,Marian Verhelst	10.1109/MICRO56248.2022.00090
+Exploring Instruction Fusion Opportunities in General Purpose Processors.	Sawan Singh,Arthur Perais,Alexandra Jimborean,Alberto Ros	10.1109/MICRO56248.2022.00026
+Skipper: Enabling efficient SNN training through activation-checkpointing and time-skipping.	Sonali Singh,Anup Sarma,Sen Lu,Abhronil Sengupta,Mahmut T. Kandemir,Emre Neftci,Vijaykrishnan Narayanan,Chita R. Das	10.1109/MICRO56248.2022.00047
+Scaling Superconducting Quantum Computers with Chiplet Architectures.	Kaitlin N. Smith,Gokul Subramanian Ravi,Jonathan M. Baker,Frederic T. Chong	10.1109/MICRO56248.2022.00078
+RemembERR: Leveraging Microprocessor Errata for Design Testing and Validation.	Flavien Solt,Patrick Jattke,Kaveh Razavi	10.1109/MICRO56248.2022.00081
+Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays.	Yasunari Suzuki,Takanori Sugiyama,Tomochika Arai,Wang Liao,Koji Inoue,Teruo Tanimoto	10.1109/MICRO56248.2022.00079
+big.VLITTLE: On-Demand Data-Parallel Acceleration for Mobile Systems on Chip.	Tuan Ta,Khalid Al-Hawaj,Nick Cebry,Yanghui Ou,Eric Hall,Courtney Golden,Christopher Batten	10.1109/MICRO56248.2022.00025
+Mint: An Accelerator For Mining Temporal Motifs.	Nishil Talati,Haojie Ye,Sanketh Vedula,Kuan-Yu Chen,Yuhan Chen,Daniel Liu,Yichao Yuan,David T. Blaauw,Alex M. Bronstein,Trevor N. Mudge,Ronald G. Dreslinski	10.1109/MICRO56248.2022.00089
+HARMONY: Heterogeneity-Aware Hierarchical Management for Federated Learning System.	Chunlin Tian,Li Li 0064,Zhan Shi,Jun Wang,Cheng-Zhong Xu 0001	10.1109/MICRO56248.2022.00049
+Page Size Aware Cache Prefetching.	Georgios Vavouliotis,Gino Chacon,Lluc Alvarez,Paul V. Gratz,Daniel A. Jiménez,Marc Casas	10.1109/MICRO56248.2022.00070
+Patching up Network Data Leaks with Sweeper.	Marina Vemmou,Albert Cho,Alexandros Daglis	10.1109/MICRO56248.2022.00041
+A Data-Centric Accelerator for High-Performance Hypergraph Processing.	Qinggang Wang,Long Zheng 0003,Ao Hu,Yu Huang 0013,Pengcheng Yao,Chuangyi Gui,Xiaofei Liao,Hai Jin 0001,Jingling Xue	10.1109/MICRO56248.2022.00088
+XPGraph: XPline-Friendly Persistent Memory Graph Stores for Large-Scale Evolving Graphs.	Rui Wang,Shuibing He,Weixu Zong,Yongkun Li 0001,Yinlong Xu	10.1109/MICRO56248.2022.00091
+Eager Memory Cryptography in Caches.	Xin Wang,Jagadish B. Kotra,Xun Jian 0002	10.1109/MICRO56248.2022.00054
+Self-Reinforcing Memoization for Cryptography Calculations in Secure Memory Systems.	Xin Wang,Daulet Talapkaliyev,Matthew Hicks,Xun Jian 0002	10.1109/MICRO56248.2022.00055
+Sparseloop: An Analytical Approach To Sparse Tensor Accelerator Modeling.	Yannan Nellie Wu,Po-An Tsai,Angshuman Parashar,Vivienne Sze,Joel S. Emer	10.1109/MICRO56248.2022.00096
+AutoComm: A Framework for Enabling Efficient Communication in Distributed Quantum Programs.	Anbang Wu,Hezi Zhang,Gushu Li,Alireza Shabani,Yuan Xie 0001,Yufei Ding	10.1109/MICRO56248.2022.00074
+Towards Developing High Performance RISC-V Processors Using Agile Methodology.	Yinan Xu,Zihao Yu,Dan Tang,Guokai Chen,Lu Chen,Lingrui Gou,Yue Jin,Qianruo Li,Xin Li,Zuojun Li,Jiawei Lin,Tong Liu,Zhigang Liu,Jiazhan Tan,Huaqiang Wang,Huizhe Wang,Kaifan Wang,Chuanqi Zhang,Fawang Zhang,Linjuan Zhang,Zifei Zhang,Yangyang Zhao,Yaoyang Zhou,Yike Zhou,Jiangrui Zou,Ye Cai,Dandan Huan,Zusong Li,Jiye Zhao,Zihao Chen,Wei He,Qiyuan Quan,Xingwu Liu,Sa Wang,Kan Shi,Ninghui Sun,Yungang Bao	10.1109/MICRO56248.2022.00080
+HiRA: Hidden Row Activation for Reducing Refresh Latency of Off-the-Shelf DRAM Chips.	Abdullah Giray Yaglikçi,Ataberk Olgun,Minesh Patel,Haocong Luo,Hasan Hassan,Lois Orosa 0001,Oguz Ergin,Onur Mutlu	10.1109/MICRO56248.2022.00062
+Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation.	Amir Yazdanbakhsh,Ashkan Moradifirouzabadi,Zheng Li,Mingu Kang	10.1109/MICRO56248.2022.00059
+Featherweight Soft Error Resilience for GPUs.	Yida Zhang,Changhee Jung	10.1109/MICRO56248.2022.00030
+OCOLOS: Online COde Layout OptimizationS.	Yuxuan Zhang,Tanvir Ahmed Khan,Gilles Pokam,Baris Kasikci,Heiner Litz,Joseph Devietti	10.1109/MICRO56248.2022.00045
+ALTOCUMULUS: Scalable Scheduling for Nanosecond-Scale Remote Procedure Calls.	Jiechen Zhao 0002,Iris Uwizeyimana,Karthik Ganesan 0002,Mark C. Jeffrey,Natalie Enright Jerger	10.1109/MICRO56248.2022.00039
+ASSASIN: Architecture Support for Stream Computing to Accelerate Computational Storage.	Chen Zou 0001,Andrew A. Chien	10.1109/MICRO56248.2022.00035
+55th IEEE/ACM International Symposium on Microarchitecture, MICRO 2022, Chicago, IL, USA, October 1-5, 2022		10.1109/MICRO56248.2022

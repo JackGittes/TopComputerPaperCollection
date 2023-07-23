@@ -1,0 +1,69 @@
+Semantically enhanced software traceability using deep learning techniques.	Jin Guo 0004,Jinghui Cheng,Jane Cleland-Huang	10.1109/ICSE.2017.9
+Analysis and testing of notifications in Android wear applications.	Hailong Zhang 0006,Atanas Rountev	10.1109/ICSE.2017.39
+Automatic text input generation for mobile testing.	Peng Liu 0010,Xiangyu Zhang 0001,Marco Pistoia,Yunhui Zheng,Manoel Marques,Lingfei Zeng	10.1109/ICSE.2017.65
+Repairing event race errors by controlling nondeterminism.	Christoffer Quist Adamsen,Anders Møller,Rezwana Karim,Manu Sridharan,Frank Tip,Koushik Sen	10.1109/ICSE.2017.34
+Heuristically matching solution spaces of arithmetic formulas to efficiently reuse solutions.	Andrea Aquino,Giovanni Denaro,Mauro Pezzè	10.1109/ICSE.2017.46
+Do developers read compiler error messages?	Titus Barik,Justin Smith 0001,Kevin Lubick,Elisabeth Holmes,Jing Feng 0004,Emerson R. Murphy-Hill,Chris Parnin	10.1109/ICSE.2017.59
+PEoPL: projectional editing of product lines.	Benjamin Behringer,Jochen Palz,Thorsten Berger	10.1109/ICSE.2017.58
+Adaptive coverage and operational profile-based testing for reliability improvement.	Antonia Bertolino,Breno Miranda,Roberto Pietrantuono,Stefano Russo 0001	10.1109/ICSE.2017.56
+Symbolic model extraction for web application verification.	Ivan Bocic,Tevfik Bultan	10.1109/ICSE.2017.72
+RADAR: a lightweight tool for requirements and architecture decision analysis.	Saheed A. Busari,Emmanuel Letier	10.1109/ICSE.2017.57
+An empirical study on mutation, statement and branch coverage fault revelation that avoids the unreliable clean program assumption.	Thierry Titcheu Chekam,Mike Papadakis,Yves Le Traon,Mark Harman	10.1109/ICSE.2017.61
+Learning to prioritize test programs for compiler testing.	Junjie Chen 0003,Yanwei Bai,Dan Hao 0001,Yingfei Xiong 0001,Hongyu Zhang 0002,Bing Xie	10.1109/ICSE.2017.70
+Characterizing and detecting anti-patterns in the logging code.	Boyuan Chen 0002,Zhen Ming (Jack) Jiang	10.1109/ICSE.2017.15
+Unsupervised software-specific morphological forms inference from informal discussions.	Chunyang Chen,Zhenchang Xing,Ximing Wang	10.1109/ICSE.2017.48
+Efficient detection of thread safety violations via coverage-guided generation of concurrent tests.	Ankit Choudhary,Shan Lu 0001,Michael Pradel	10.1109/ICSE.2017.32
+A general framework for dynamic stub injection.	Maria Christakis,Patrick Emmisberger,Patrice Godefroid,Peter Müller 0001	10.1109/ICSE.2017.60
+Glacier: transitive class immutability for Java.	Michael J. Coblenz,Whitney Nelson,Jonathan Aldrich,Brad A. Myers,Joshua Sunshine	10.1109/ICSE.2017.52
+The evolution of continuous experimentation in software product development: from data to a data-driven organization at scale.	Aleksander Fabijan,Pavel A. Dmitriev,Helena Holmström Olsson,Jan Bosch	10.1109/ICSE.2017.76
+UML diagram refinement (focusing on class- and use case diagrams).	David Faitelson,Shmuel S. Tyszberowicz	10.1109/ICSE.2017.73
+From diversity by numbers to diversity as process: supporting inclusiveness in software development teams with brainstorming.	Anna Filippova,Erik H. Trainer,James D. Herbsleb	10.1109/ICSE.2017.22
+Decoding the representation of code in the brain: an fMRI study of code review and expertise.	Benjamin Floyd,Tyler Santander,Westley Weimer	10.1109/ICSE.2017.24
+To type or not to type: quantifying detectable bugs in JavaScript.	Zheng Gao,Christian Bird,Earl T. Barr	10.1109/ICSE.2017.75
+Can latent topics in source code predict missing architectural tactics?	Raghuram Gopalakrishnan,Palak Sharma,Mehdi Mirakhorli,Matthias Galster	10.1109/ICSE.2017.10
+ZenIDS: introspective intrusion detection for PHP applications.	Byron Hawkins,Brian Demsky	10.1109/ICSE.2017.29
+Machine-learning-guided selectively unsound static analysis.	Kihong Heo,Hakjoo Oh,Kwangkeun Yi	10.1109/ICSE.2017.54
+Becoming agile: a grounded theory of agile transitions in practice.	Rashina Hoda,James Noble 0001	10.1109/ICSE.2017.21
+What causes my test alarm?: automatic cause analysis for test alarms in system and integration testing.	He Jiang 0001,Xiaochen Li,Zijiang Yang 0006,Jifeng Xuan	10.1109/ICSE.2017.71
+An unsupervised approach for discovering relevant tutorial fragments for APIs.	He Jiang 0001,Jingxuan Zhang,Zhilei Ren,Tao Zhang 0001	10.1109/ICSE.2017.12
+Classifying developers into core and peripheral: an empirical study on count and network metrics.	Mitchell Joblin,Sven Apel,Claus Hunsen,Wolfgang Mauerer	10.1109/ICSE.2017.23
+How good is a security policy against real breaches?: a HIPAA case study.	Özgür Kafali,Jasmine Jones,Megan Petruso,Laurie A. Williams,Munindar P. Singh	10.1109/ICSE.2017.55
+Automated refactoring of legacy Java software to default methods.	Raffi Khatchadourian,Hidehiko Masuhara	10.1109/ICSE.2017.16
+Challenges for static analysis of Java reflection: literature review and empirical study.	Davy Landman,Alexander Serebrenik,Jurgen J. Vinju	10.1109/ICSE.2017.53
+A SEALANT for inter-app security holes in android.	Youn Kyu Lee,Jae Young Bang,Gholamreza Safi,Arman Shahbazian,Yixue Zhao,Nenad Medvidovic	10.1109/ICSE.2017.36
+Understanding the impressions, motivations, and barriers of one time code contributors to FLOSS projects: a survey.	Amanda Lee,Jeffrey C. Carver,Amiangshu Bosu	10.1109/ICSE.2017.25
+LibD: scalable and precise third-party library detection in android markets.	Menghao Li,Wei Wang,Pei Wang 0007,Shuai Wang 0011,Dinghao Wu,Jian Liu 0008,Rui Xue 0001,Wei Huo	10.1109/ICSE.2017.38
+Feedback-based debugging.	Yun Lin 0001,Jun Sun 0001,Yinxing Xue,Yang Liu 0003,Jin Song Dong	10.1109/ICSE.2017.43
+Stochastic optimization of program obfuscation.	Han Liu 0010,Chengnian Sun,Zhendong Su 0001,Yu Jiang 0001,Ming Gu 0001,Jiaguang Sun 0001	10.1109/ICSE.2017.28
+How do developers fix cross-project correlated bugs?: a case study on the GitHub scientific python ecosystem.	Wanwangying Ma,Lin Chen 0015,Xiangyu Zhang 0001,Yuming Zhou,Baowen Xu	10.1109/ICSE.2017.42
+Exploring API embedding for API usages and applications.	Trong Duc Nguyen,Anh Tuan Nguyen 0001,Hung Dang Phan,Tien N. Nguyen	10.1109/ICSE.2017.47
+Travioli: a dynamic analysis for detecting data-structure traversals.	Rohan Padhye,Koushik Sen	10.1109/ICSE.2017.50
+Recommending and localizing change requests for mobile apps based on user reviews.	Fabio Palomba,Pasquale Salza,Adelina Ciurumelea,Sebastiano Panichella,Harald C. Gall,Filomena Ferrucci,Andrea De Lucia	10.1109/ICSE.2017.18
+Evaluating and improving fault localization.	Spencer Pearson,José Campos,René Just,Gordon Fraser 0001,Rui Abreu 0001,Michael D. Ernst,Deric Pang,Benjamin Keller	10.1109/ICSE.2017.62
+A test-suite diagnosability metric for spectrum-based fault localization approaches.	Alexandre Perez,Rui Abreu 0001,Arie van Deursen	10.1109/ICSE.2017.66
+Supporting software developers with a holistic recommender system.	Luca Ponzanelli,Simone Scalabrino,Gabriele Bavota,Andrea Mocci,Rocco Oliveto,Massimiliano Di Penta,Michele Lanza	10.1109/ICSE.2017.17
+Making malory behave maliciously: targeted fuzzing of android execution environments.	Siegfried Rasthofer,Steven Arzt,Stefan Triller,Michael Pradel	10.1109/ICSE.2017.35
+Detecting user story information in developer-client conversations to generate extractive summaries.	Paige Rodeghero,Siyuan Jiang,Ameer Armaly,Collin McMillan	10.1109/ICSE.2017.13
+Code defenders: crowdsourcing effective tests and subtle mutants with a mutation testing game.	José Miguel Rojas,Thomas D. White,Benjamin S. Clegg,Gordon Fraser 0001	10.1109/ICSE.2017.68
+Learning syntactic program transformations from examples.	Reudismam Rolim,Gustavo Soares,Loris D&apos;Antoni,Oleksandr Polozov,Sumit Gulwani,Rohit Gheyi,Ryo Suzuki,Björn Hartmann	10.1109/ICSE.2017.44
+On cross-stack configuration errors.	Mohammed Sayagh,Noureddine Kerzazi,Bram Adams	10.1109/ICSE.2017.31
+Software development waste.	Todd Sedano,Paul Ralph,Cécile Péraire	10.1109/ICSE.2017.20
+Fuzzy fine-grained code-history analysis.	Francisco Servant,James A. Jones	10.1109/ICSE.2017.74
+Optimizing test placement for module-level regression testing.	August Shi,Suresh Thummalapenta,Shuvendu K. Lahiri,Nikolaj S. Bjørner,Jacek Czerwonka	10.1109/ICSE.2017.69
+A guided genetic algorithm for automated crash reproduction.	Mozhan Soltani,Annibale Panichella,Arie van Deursen	10.1109/ICSE.2017.27
+Performance diagnosis for inefficient loops.	Linhai Song,Shan Lu 0001	10.1109/ICSE.2017.41
+Balancing soundness and efficiency for practical testing of configurable systems.	Sabrina Souto,Marcelo d&apos;Amorim,Rohit Gheyi	10.1109/ICSE.2017.64
+ProEva: runtime proactive performance evaluation based on continuous-time markov chains.	Guoxin Su,Taolue Chen,Yuan Feng 0001,David S. Rosenblum	10.1109/ICSE.2017.51
+Search-driven string constraint solving for vulnerability detection.	Julian Thomé,Lwin Khin Shar,Domenico Bianculli,Lionel C. Briand	10.1109/ICSE.2017.26
+Clone refactoring with lambda expressions.	Nikolaos Tsantalis,Davood Mazinanian,Shahriar Rostami	10.1109/ICSE.2017.14
+An efficient, robust, and scalable approach for analyzing interacting android apps.	Yutaka Tsutano,Shakthi Bachala,Witawas Srisa-an,Gregg Rothermel,Jackson Dinh	10.1109/ICSE.2017.37
+Syntactic and semantic differencing for combinatorial models of test designs.	Rachel Tzoref-Brill,Shahar Maoz	10.1109/ICSE.2017.63
+Machine learning-based detection of open source license exceptions.	Christopher Vendome,Mario Linares Vásquez,Gabriele Bavota,Massimiliano Di Penta,Daniel M. Germán,Denys Poshyvanyk	10.1109/ICSE.2017.19
+Statically checking web API requests in JavaScript.	Erik Wittern,Annie T. T. Ying,Yunhui Zheng,Julian Dolby,Jim Alain Laredo	10.1109/ICSE.2017.30
+Precise condition synthesis for program repair.	Yingfei Xiong 0001,Jie Wang,Runfa Yan,Jiachen Zhang,Shi Han,Gang Huang 0001,Lu Zhang 0023	10.1109/ICSE.2017.45
+SPAIN: security patch analysis for binaries towards understanding the pain and pills.	Zhengzi Xu,Bihuan Chen 0001,Mahinthan Chandramohan,Yang Liu 0003,Fu Song	10.1109/ICSE.2017.49
+Adaptive unpacking of Android apps.	Lei Xue 0001,Xiapu Luo,Le Yu 0002,Shuai Wang 0012,Dinghao Wu	10.1109/ICSE.2017.40
+Automated transplantation and differential testing for clones.	Tianyi Zhang 0001,Miryung Kim	10.1109/ICSE.2017.67
+RClassify: classifying race conditions in web applications via deterministic replay.	Lu Zhang 0035,Chao Wang 0001	10.1109/ICSE.2017.33
+Analyzing APIs documentation and code to detect directive defects.	Yu Zhou 0010,Ruihang Gu,Taolue Chen,Zhiqiu Huang,Sebastiano Panichella,Harald C. Gall	10.1109/ICSE.2017.11
+Proceedings of the 39th International Conference on Software Engineering, ICSE 2017, Buenos Aires, Argentina, May 20-28, 2017	Sebastián Uchitel,Alessandro Orso,Martin P. Robillard	

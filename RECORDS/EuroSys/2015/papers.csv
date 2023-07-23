@@ -1,0 +1,33 @@
+Putting consistency back into eventual consistency.	Valter Balegas,Sérgio Duarte,Carla Ferreira 0001,Rodrigo Rodrigues 0001,Nuno M. Preguiça,Mahsa Najafzadeh,Marc Shapiro 0001	10.1145/2741948.2741972
+Popcorn: bridging the programmability gap in heterogeneous-ISA platforms.	Antonio Barbalace,Marina Sadini,Saif Ansary,Christopher Jelesnianski,Akshay Ravichandran,Cagil Kendir,Alastair Murray,Binoy Ravindran	10.1145/2741948.2741962
+PowerLyra: differentiated graph computation and partitioning on skewed graphs.	Rong Chen 0001,Jiaxin Shi,Yanzhe Chen,Haibo Chen 0001	10.1145/2741948.2741970
+An in-memory object caching framework with adaptive load balancing.	Yue Cheng 0001,Aayush Gupta,Ali Raza Butt	10.1145/2741948.2741967
+CYRUS: towards client-defined cloud storage.	Jae Yoon Chung,Carlee Joe-Wong,Sangtae Ha,James Won-Ki Hong,Mung Chiang	10.1145/2741948.2741951
+Process-level power estimation in VM-based systems.	Maxime Colmant,Mascha Kurpicz,Pascal Felber,Loïc Huertas,Romain Rouvoy,Anita Sobe	10.1145/2741948.2741971
+Extensible distributed coordination.	Tobias Distler,Christopher Bahn,Alysson Neves Bessani,Frank Fischer 0004,Flavio Junqueira	10.1145/2741948.2741954
+Musketeer: all for one, one for all in data processing systems.	Ionel Gog,Malte Schwarzkopf,Natacha Crooks,Matthew P. Grosvenor,Allen Clement,Steven Hand 0001	10.1145/2741948.2741968
+Scaling concurrent log-structured data stores.	Guy Golan-Gueta,Edward Bortnikov,Eshcar Hillel,Idit Keidar	10.1145/2741948.2741973
+Hare: a file system for non-cache-coherent multicores.	Charles Gruenwald III,Filippo Sironi,M. Frans Kaashoek,Nickolai Zeldovich	10.1145/2741948.2741959
+Flux: multi-surface computing in Android.	Alexander Van&apos;t Hof,Hani Jamjoom,Jason Nieh,Dan Williams	10.1145/2741948.2741955
+Application-assisted live migration of virtual machines with Java applications.	Kai-Yuan Hou,Kang G. Shin,Jan-Lung Sung	10.1145/2741948.2741950
+ConfValley: a systematic configuration validation framework for cloud services.	Peng Huang 0005,William J. Bolosky,Abhishek Singh,Yuanyuan Zhou 0001	10.1145/2741948.2741963
+Deriving and comparing deduplication techniques using a model-based classification.	Jürgen Kaiser,André Brinkmann,Tim Süß,Dirk Meister	10.1145/2741948.2741952
+NBA (network balancing act): a high-performance packet processing framework for heterogeneous processors.	Joongi Kim,Keon Jang,Keunhong Lee,Sangwook Ma,Junhyun Shim,Sue B. Moon	10.1145/2741948.2741969
+Taming uncertainty in distributed systems with help from the network.	Joshua B. Leners,Trinabh Gupta,Marcos K. Aguilera,Michael Walfish	10.1145/2741948.2741976
+GD-Wheel: a cost-aware replacement policy for key-value stores.	Conglong Li,Alan L. Cox	10.1145/2741948.2741956
+MALT: distributed data-parallelism for existing ML applications.	Hao Li 0022,Asim Kadav,Erik Kruus,Cristian Ungureanu	10.1145/2741948.2741965
+High-performance determinism with total store order consistency.	Timothy Merrifield,Joseph Devietti,Jakob Eriksson	10.1145/2741948.2741960
+Verifiable differential privacy.	Arjun Narayan,Ariel Feldman,Antonis Papadimitriou,Andreas Haeberlen	10.1145/2741948.2741978
+Simba: tunable end-to-end data consistency for mobile apps.	Dorian Jean Perkins,Nitin Agrawal 0001,Akshat Aranya,Curtis Yu,Younghwan Go,Harsha V. Madhyastha,Cristian Ungureanu	10.1145/2741948.2741974
+Visigoth fault tolerance.	Daniel Porto,João Leitão 0001,Cheng Li 0001,Allen Clement,Aniket Kate,Flavio Paiva Junqueira,Rodrigo Rodrigues 0001	10.1145/2741948.2741979
+SpotCheck: designing a derivative IaaS cloud on the spot market.	Prateek Sharma,Stephen Lee,Tian Guo 0001,David E. Irwin 0001,Prashant J. Shenoy	10.1145/2741948.2741953
+In-Net: in-network processing for the masses.	Radu Stoenescu,Vladimir Andrei Olteanu,Matei Popovici,Mohamed Ahmed 0001,João Martins,Roberto Bifulco,Filipe Manco,Felipe Huici,Georgios Smaragdakis,Mark Handley,Costin Raiciu	10.1145/2741948.2741961
+Guardat: enforcing data policies at the storage layer.	Anjo Vahldiek-Oberwagner,Eslam Elnikety,Aastha Mehta,Deepak Garg 0001,Peter Druschel,Rodrigo Rodrigues 0001,Johannes Gehrke,Ansley Post	10.1145/2741948.2741958
+Large-scale cluster management at Google with Borg.	Abhishek Verma,Luis Pedrosa,Madhukar Korupolu,David Oppenheimer,Eric Tune,John Wilkes	10.1145/2741948.2741964
+Synapse: a microservices architecture for heterogeneous-database web applications.	Nicolas Viennot,Mathias Lécuyer,Jonathan Bell 0001,Roxana Geambasu,Jason Nieh	10.1145/2741948.2741975
+TinMan: eliminating confidential mobile data exposure with security oriented offloading.	Yubin Xia,Yutao Liu,Cheng Tan 0005,Mingyang Ma,Haibing Guan,Binyu Zang,Haibo Chen 0001	10.1145/2741948.2741977
+Maxoid: transparently confining mobile applications with custom views of state.	Yuanzhong Xu,Emmett Witchel	10.1145/2741948.2741966
+μPnP: plug and play peripherals for the internet of things.	Fan Yang 0051,Nelson Matthys,Rafael Bachiller,Sam Michiels,Wouter Joosen,Danny Hughes 0001	10.1145/2741948.2741980
+Guaranteeing deadlines for inter-datacenter transfers.	Hong Zhang 0025,Kai Chen 0005,Wei Bai 0001,Dongsu Han,Chen Tian 0001,Hao Wang 0022,Haibing Guan,Ming Zhang	10.1145/2741948.2741957
+An efficient page-level FTL to optimize address translation in flash memory.	You Zhou,Fei Wu 0005,Ping Huang 0001,Xubin He,Changsheng Xie,Jian Zhou 0004	10.1145/2741948.2741949
+Proceedings of the Tenth European Conference on Computer Systems, EuroSys 2015, Bordeaux, France, April 21-24, 2015	Laurent Réveillère,Tim Harris 0001,Maurice Herlihy	

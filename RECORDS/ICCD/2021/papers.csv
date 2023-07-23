@@ -1,0 +1,88 @@
+Energy-Efficient MAC Units for Fused Posit Arithmetic.	Raul Murillo 0001,David Mallasén,Alberto A. Del Barrio,Guillermo Botella	10.1109/ICCD53106.2021.00032
+Compiling and Optimizing Real-world Programs for STRAIGHT ISA.	Toru Koizumi 0001,Shu Sugita,Ryota Shioya,Junichiro Kadomoto,Hidetsugu Irie,Shuichi Sakai	10.1109/ICCD53106.2021.00070
+Universal Neural Network Acceleration via Real-Time Loop Blocking.	Jiaqi Zhang 0002,Xiangru Chen,Sandip Ray	10.1109/ICCD53106.2021.00053
+DynPaC: Coarse-Grained, Dynamic, and Partially Reconfigurable Array for Streaming Applications.	Cheng Tan 0002,Tong Geng,Chenhao Xie 0001,Nicolas Bohm Agostini,Jiajia Li 0001,Ang Li 0006,Kevin J. Barker,Antonino Tumeo	10.1109/ICCD53106.2021.00018
+Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks.	Han Zhao 0005,Weihao Cui,Quan Chen 0002,Jieru Zhao,Jingwen Leng,Minyi Guo	10.1109/ICCD53106.2021.00054
+Special Session: When Dataflows Converge: Reconfigurable and Approximate Computing for Emerging Neural Networks.	Di Wu 0016,Joshua San Miguel	10.1109/ICCD53106.2021.00014
+Efficient Methods for SoC Trust Validation Using Information Flow Verification.	Khitam M. Alatoun,Shanmukha Murali Achyutha,Ranga Vemuri	10.1109/ICCD53106.2021.00098
+Empirical Guide to Use of Persistent Memory for Large-Scale In-Memory Graph Analysis.	Hanyeoreum Bae,Miryeong Kwon,Donghyun Gouk,Sanghyun Han,Sungjoon Koh,Changrim Lee,Dongchul Park,Myoungsoo Jung	10.1109/ICCD53106.2021.00057
+Efficient Table-Based Polynomial on FPGA.	Marco Barbone,Bas W. Kwaadgras,Uwe Oelfke,Wayne Luk,Georgi Gaydadjiev	10.1109/ICCD53106.2021.00066
+HosNa: A DPC++ Benchmark Suite for Heterogeneous Architectures.	Najmeh Nazari Bavarsad,Hosein Mohammadi Makrani,Hossein Sayadi,Lawrence Landis,Setareh Rafatirad,Houman Homayoun	10.1109/ICCD53106.2021.00084
+GVSoC: A Highly Configurable, Fast and Accurate Full-Platform Simulator for RISC-V based IoT Processors.	Nazareno Bruschi,Germain Haugou,Giuseppe Tagliavini,Francesco Conti 0001,Luca Benini,Davide Rossi	10.1109/ICCD53106.2021.00071
+Conciliating Speed and Efficiency on Cache Compressors.	Daniel Rodrigues Carvalho,André Seznec	10.1109/ICCD53106.2021.00075
+MetaTableLite: An Efficient Metadata Management Scheme for Tagged-Pointer-Based Spatial Safety.	Dongwei Chen,Dong Tong 0001,Chun Yang,Xu Cheng 0001	10.1109/ICCD53106.2021.00042
+An Efficient Non-Profiled Side-Channel Attack on the CRYSTALS-Dilithium Post-Quantum Signature.	Zhaohui Chen,Emre Karabulut,Aydin Aysu,Yuan Ma,Jiwu Jing	10.1109/ICCD53106.2021.00094
+Block-LSM: An Ether-aware Block-ordered LSM-tree based Key-Value Storage Engine.	Zehao Chen,Bingzhe Li,Xiaojun Cai,Zhiping Jia,Zhaoyan Shen,Yi Wang 0003,Zili Shao	10.1109/ICCD53106.2021.00017
+Reconfigurable Array for Analog Applications.	Ziyi Chen,Ioannis Savidis	10.1109/ICCD53106.2021.00064
+CoRe-ECO: Concurrent Refinement of Detailed Place-and-Route for an Efficient ECO Automation.	Chung-Kuan Cheng,Andrew B. Kahng,Ilgweon Kang,Minsoo Kim,Daeyeal Lee,Bill Lin 0001,Dongwon Park,Mingyu Woo	10.1109/ICCD53106.2021.00065
+Legion: Tailoring Grouped Neural Execution Considering Heterogeneity on Multiple Edge Devices.	Kyunghwan Choi,Seongju Lee,Beom Woo Kang,Yongjun Park 0001	10.1109/ICCD53106.2021.00067
+Special Session: ADAPT: ANN-ControlleD System-Level Runtime Adaptable APproximate CompuTing.	Prattay Chowdhury,Benjamin Carrión Schäfer	10.1109/ICCD53106.2021.00012
+The Accuracy and Efficiency of Posit Arithmetic.	Stefan Dan Ciocirlan,Dumitrel Loghin,Lavanya Ramapantulu,Nicolae Tapus,Yong Meng Teo	10.1109/ICCD53106.2021.00024
+Flexible Instruction Set Architecture for Programmable Look-up Table based Processing-in-Memory.	Mark Connolly,Purab Ranjan Sutradhar,Mark Indovina,Amlan Ganguly	10.1109/ICCD53106.2021.00022
+Accurate and Fast Performance Modeling of Processors with Decoupled Front-end.	Yuya Degawa,Toru Koizumi 0001,Tomoki Nakamura,Ryota Shioya,Junichiro Kadomoto,Hidetsugu Irie,Shuichi Sakai	10.1109/ICCD53106.2021.00025
+Fault-Aware Prediction-Guided Page Offlining for Uncorrectable Memory Error Prevention.	Xiaoming Du,Cong Li,Shen Zhou,Xian Liu,Xiaohan Xu,Tianjiao Wang,Shijian Ge	10.1109/ICCD53106.2021.00077
+Chopin: Composing Cost-Effective Custom Chips with Algorithmic Chiplets.	Pete Ehrett,Todd M. Austin,Valeria Bertacco	10.1109/ICCD53106.2021.00069
+MasterMind: Many-Accelerator SoC Architecture for Real-Time Brain-Computer Interfaces.	Guy Eichler,Luca Piccolboni,Davide Giri,Luca P. Carloni	10.1109/ICCD53106.2021.00027
+A Comprehensive Exploration of the Parallel Prefix Adder Tree Space.	Teodor-Dumitru Ene,James E. Stine	10.1109/ICCD53106.2021.00030
+Special Session: How much quality is enough quality? A case for acceptability in approximate designs.	Isaías B. Felzmann,João Fabrício Filho,Juliane Regina de Oliveira,Lucas Wanner 0001	10.1109/ICCD53106.2021.00013
+PRL: Standardizing Performance Monitoring Library for High-Integrity Real-Time Systems.	Jeremy Giesen,Enrico Mezzetti,Jaume Abella 0001,Francisco J. Cazorla	10.1109/ICCD53106.2021.00061
+HyperData: A Data Transfer Accelerator for Software Data Planes Based on Targeted Prefetching.	Hossein Golestani,Thomas F. Wenisch	10.1109/ICCD53106.2021.00059
+Accelerating Sub-Block Erase in 3D NAND Flash Memory.	Hongbin Gong,Zhirong Shen,Jiwu Shu	10.1109/ICCD53106.2021.00045
+Dynamic File Cache Optimization for Hybrid SSDs with High-Density and Low-Cost Flash Memory.	Ben Gu,Longfei Luo,Yina Lv,Changlong Li,Liang Shi	10.1109/ICCD53106.2021.00036
+ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks.	Yanan Guo,Liang Liu,Yueqiang Cheng,Youtao Zhang,Jun Yang 0002	10.1109/ICCD53106.2021.00090
+Run-time Configurable Approximate Multiplier using Significance-Driven Logic Compression.	Ibrahim Haddadi,Issa Qiqieh,Rishad A. Shafik,Fei Xia,Mohammed A. Noaman Al-Hayanni,Alex Yakovlev	10.1109/ICCD53106.2021.00029
+Stochastic-HD: Leveraging Stochastic Computing on Hyper-Dimensional Computing.	Yilun Hao,Saransh Gupta,Justin Morris,Behnam Khaleghi,Baris Aksanli,Tajana Rosing	10.1109/ICCD53106.2021.00058
+ReSpar: Reordering Algorithm for ReRAM-based Sparse Matrix-Vector Multiplication Accelerator.	Yi-Jou Hsiao,Chin-Fu Nien,Hsiang-Yun Cheng	10.1109/ICCD53106.2021.00050
+Smart-DNN: Efficiently Reducing the Memory Requirements of Running Deep Neural Networks on Resource-constrained Platforms.	Zhenbo Hu,Xiangyu Zou,Wen Xia,Yuhong Zhao,Weizhe Zhang,Donglei Wu	10.1109/ICCD53106.2021.00087
+Resonance-Based Power-Efficient Pulse Generator Design with Corresponding Distribution Network.	Ke Jia,Liang Yang,Jian Wang,Bin Lin,Hao Wang,Ruikai Shi	10.1109/ICCD53106.2021.00063
+Optimal Transistor Placement Combined with Global In-cell Routing in Standard Cell Layout Synthesis.	Kyeongrok Jo,Taewhan Kim	10.1109/ICCD53106.2021.00085
+HammerFilter: Robust Protection and Low Hardware Overhead Method for RowHammer.	Kwangrae Kim,Jeonghyun Woo,Junsu Kim,Ki-Seok Chung	10.1109/ICCD53106.2021.00043
+Comprehensive Failure Analysis against Soft Errors from Hardware and Software Perspectives.	Yohan Ko,Hwisoo So,Jinhyo Jung,Kyoungwoo Lee,Aviral Shrivastava	10.1109/ICCD53106.2021.00041
+POMI: Polling-Based Memory Interface for Hybrid Memory System.	Trung Le,Zhao Zhang 0008,Zhichun Zhu	10.1109/ICCD53106.2021.00076
+NIST-Lite: Randomness Testing of RNGs on an Energy-Constrained Platform.	Cheng-Yen Lee,Kunal Bharathi,Joellen Lansford,Sunil P. Khatri	10.1109/ICCD53106.2021.00019
+Fast and Low-Cost Mitigation of ReRAM Variability for Deep Learning Applications.	Sugil Lee,Mohammed E. Fouda,Jongeun Lee,Ahmed M. Eltawil,Fadi J. Kurdahi	10.1109/ICCD53106.2021.00051
+EFM: Elastic Flash Management to Enhance Performance of Hybrid Flash Memory.	Bingzhe Li,Bo Yuan 0001,David Hung-Chang Du	10.1109/ICCD53106.2021.00035
+Improved GPU Implementations of the Pair-HMM Forward Algorithm for DNA Sequence Alignment.	Enliang Li,Subho S. Banerjee,Sitao Huang,Ravishankar K. Iyer,Deming Chen	10.1109/ICCD53106.2021.00055
+NRHI: A Concurrent Non-Rehashing Hash Index for Persistent Memory.	Xinyu Li,Huimin Cui,Lei Liu	10.1109/ICCD53106.2021.00033
+WAS-Deletion: Workload-Aware Secure Deletion Scheme for Solid-State Drives.	Bingzhe Li,David H. C. Du	10.1109/ICCD53106.2021.00047
+HASDH: A Hotspot-Aware and Scalable Dynamic Hashing for Hybrid DRAM-NVM Memory.	Zhengtao Li,Zhipeng Tan,Jianxi Chen	10.1109/ICCD53106.2021.00034
+AGQFL: Communication-efficient Federated Learning via Automatic Gradient Quantization in Edge Heterogeneous Systems.	Zirui Lian,Jing Cao,Yanru Zuo,Weihong Liu,Zongwei Zhu	10.1109/ICCD53106.2021.00089
+Consistent RDMA-Friendly Hashing on Remote Persistent Memory.	Xinxin Liu,Yu Hua 0001,Rong Bai	10.1109/ICCD53106.2021.00037
+Write-Optimized and Consistent RDMA-based Non-Volatile Main Memory Systems.	Xinxin Liu,Yu Hua 0001,Xuan Li,Qifan Liu	10.1109/ICCD53106.2021.00048
+WiNN: Wireless Interconnect based Neural Network Accelerator.	Siqin Liu,Sushanth Karmunchi,Avinash Karanth,Soumyasanta Laha,Savas Kaya	10.1109/ICCD53106.2021.00052
+Erasure-Coded Multi-Block Updates Based on Hybrid Writes and Common XORs First.	Yujun Liu,Bing Wei,Jigang Wu,Limin Xiao	10.1109/ICCD53106.2021.00079
+SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network.	Fangxin Liu,Wenbo Zhao,Zhezhi He,Zongwu Wang,Yilong Zhao,Tao Yang,Jingnai Feng,Xiaoyao Liang,Li Jiang 0002	10.1109/ICCD53106.2021.00072
+Premier: A Concurrency-Aware Pseudo-Partitioning Framework for Shared Last-Level Cache.	Xiaoyang Lu,Rujia Wang,Xian-He Sun	10.1109/ICCD53106.2021.00068
+Intelligent Prediction of Flash Lifetime via Online Domain Adaptation.	Ruixiang Ma,Fei Wu 0005,Changsheng Xie	10.1109/ICCD53106.2021.00081
+WidePipe: High-Throughput Deep Learning Inference System on a Cluster of Neural Processing Units.	Lixian Ma,En Shao,Yueyuan Zhou,Guangming Tan	10.1109/ICCD53106.2021.00091
+APT: Efficient Side-Channel Analysis Framework against Inner Product Masking Scheme.	Jingdian Ming,Wei Cheng 0003,Yongbin Zhou,Huizhong Li	10.1109/ICCD53106.2021.00093
+AdaptBit-HD: Adaptive Model Bitwidth for Hyperdimensional Computing.	Justin Morris,Si Thu Kaung Set,Gadi Rosen,Mohsen Imani,Baris Aksanli,Tajana Rosing	10.1109/ICCD53106.2021.00026
+Stochastic Iterative Approximation: Software/hardware techniques for adjusting aggressiveness of approximation.	Tomoki Nakamura,Kazutaka Tomida,Shouta Kouno,Hidetsugu Irie,Shuichi Sakai	10.1109/ICCD53106.2021.00023
+T-TSP: Transient-Temperature Based Safe Power Budgeting in Multi-/Many-Core Processors.	Sobhan Niknam,Anuj Pathania,Andy D. Pimentel	10.1109/ICCD53106.2021.00083
+Improving the Heavy Re-encryption Overhead of Split Counter Mode Encryption for NVM.	Qi Pei,Seunghee Shin	10.1109/ICCD53106.2021.00073
+Special Session: Approximate TinyML Systems: Full System Approximations for Extreme Energy-Efficiency in Intelligent Edge Devices.	Arnab Raha,Soumendu Kumar Ghosh,Debabrata Mohapatra,Deepak A. Mathaikutty,Raymond Sung,Cormac Brick,Vijay Raghunathan	10.1109/ICCD53106.2021.00015
+Low-Cost Sequential Logic Circuit Design Considering Single Event Double-Node Upsets and Single Event Transients.	Ramin Rajaei,Michael T. Niemier,Xiaobo Sharon Hu	10.1109/ICCD53106.2021.00038
+Novel Ultra-Low-Voltage Flip-Flops: Near-Vth Modeling and VLSI Integration.	Anuradha Chathuranga Ranasinghe,Sabih H. Gerez	10.1109/ICCD53106.2021.00021
+Rectification of Integer Arithmetic Circuits using Computer Algebra Techniques.	Vikas Rao,Haden Ondricek,Priyank Kalla,Florian Enescu	10.1109/ICCD53106.2021.00039
+QFlow: Quantitative Information Flow for Security-Aware Hardware Design in Verilog.	Lennart M. Reimann,Luca Hanel,Dominik Sisejkovic,Farhad Merchant,Rainer Leupers	10.1109/ICCD53106.2021.00097
+Security Analysis of State-of-the-art Scan Obfuscation Technique.	Yogendra Sao,Sk Subidh Ali	10.1109/ICCD53106.2021.00096
+Understanding and Optimizing Hybrid SSD with High-Density and Low-Cost Flash Memory.	Liang Shi,Longfei Luo,Yina Lv,Shicheng Li,Changlong Li,Edwin Hsing-Mean Sha	10.1109/ICCD53106.2021.00046
+CIDAN: Computing in DRAM with Artificial Neurons.	Gian Singh,Ankit Wagle,Sarma B. K. Vrudhula,Sunil P. Khatri	10.1109/ICCD53106.2021.00062
+An Ultra-efficient Look-up Table based Programmable Processing in Memory Architecture for Data Encryption.	Purab Ranjan Sutradhar,Kanad Basu,Sai Manoj Pudukotai Dinakarrao,Amlan Ganguly	10.1109/ICCD53106.2021.00049
+UH-JLS: A Parallel Ultra-High Throughput JPEG-LS Encoding Architecture for Lossless Image Compression.	Xuan Wang,Lei Gong,Chao Wang 0003,Xi Li 0003,Xuehai Zhou	10.1109/ICCD53106.2021.00060
+Discreet-PARA: Rowhammer Defense with Low Cost and High Efficiency.	Yicheng Wang,Yang Liu 0114,Peiyun Wu,Zhao Zhang 0010	10.1109/ICCD53106.2021.00074
+Functional Locking through Omission: From HLS to Obfuscated Design.	Zi Wang 0006,Shayan Omais Mohammed,Yiorgos Makris,Benjamin Carrión Schäfer	10.1109/ICCD53106.2021.00095
+Differential Testing of x86 Instruction Decoders with Instruction Operand Inferring Algorithm.	Guang Wang,Ziyuan Zhu,Shuan Li,Xu Cheng 0001,Dan Meng	10.1109/ICCD53106.2021.00040
+SimiEncode: A Similarity-based Encoding Scheme to Improve Performance and Lifetime of Non-Volatile Main Memory.	Suzhen Wu,Jiapeng Wu,Zhirong Shen,Zhihao Zhang,Zuocheng Wang,Bo Mao	10.1109/ICCD53106.2021.00044
+CROP: FPGA Implementation of High-Performance Polynomial Multiplication in Saber KEM based on Novel Cyclic-Row Oriented Processing Strategy.	Jiafeng Xie,Pengzhou He,Chiou-Yng Lee	10.1109/ICCD53106.2021.00031
+An Efficient Hybrid Parallel Compression Approximate Multiplier.	Shangshang Yao,Liang Zhang,Qiong Wang,Li Shen 0007	10.1109/ICCD53106.2021.00028
+Exploiting Online Locality and Reduction Parallelism for Sampled Dense Matrix Multiplication on GPUs.	Zhongming Yu,Guohao Dai,Guyue Huang,Yu Wang 0002,Huazhong Yang	10.1109/ICCD53106.2021.00092
+CHARM: Collaborative Host and Accelerator Resource Management for GPU Datacenters.	Wei Zhang 0149,Kaihua Fu,Ningxin Zheng,Quan Chen 0002,Chao Li 0009,Wenli Zheng,Minyi Guo	10.1109/ICCD53106.2021.00056
+A High-performance Post-deduplication Delta Compression Scheme for Packed Datasets.	Yucheng Zhang,Hong Jiang 0001,Mengtian Shi,Chunzhi Wang,Nan Jiang,Xinyun Wu	10.1109/ICCD53106.2021.00078
+QD-Compressor: a Quantization-based Delta Compression Framework for Deep Neural Networks.	Shuyu Zhang,Donglei Wu,Haoyu Jin,Xiangyu Zou,Wen Xia,Xiaojia Huang	10.1109/ICCD53106.2021.00088
+RDP3: Rapid Domain Platform Performance Prediction for Design Space Exploration.	Jinghan Zhang,Mehrshad Zandigohar,Gunar Schirner	10.1109/ICCD53106.2021.00086
+Flipping Bits to Share Crossbars in ReRAM-Based DNN Accelerator.	Lei Zhao,Youtao Zhang,Jun Yang 0002	10.1109/ICCD53106.2021.00016
+Model Synthesis for Communication Traces of System Designs.	Hao Zheng 0001,Md Rubel Ahmed,Parijat Mukherjee,Mahesh C. Ketkar,Jin Yang 0006	10.1109/ICCD53106.2021.00082
+Seer-SSD: Bridging Semantic Gap between Log-Structured File Systems and SSDs to Reduce SSD Write Amplification.	You Zhou,Ke Wang,Fei Wu 0005,Changsheng Xie,Hao Lv	10.1109/ICCD53106.2021.00020
+PSACS: Highly-Parallel Shuffle Accelerator on Computational Storage.	Chen Zou 0001,Hui Zhang 0033,Andrew A. Chien,Yang-Seok Ki	10.1109/ICCD53106.2021.00080
+39th IEEE International Conference on Computer Design, ICCD 2021, Storrs, CT, USA, October 24-27, 2021		10.1109/ICCD53106.2021

@@ -1,0 +1,60 @@
+TimingSAT: Decamouflaging Timing-based Logic Obfuscation.	Meng Li 0004,Kaveh Shamsi,Yier Jin,David Z. Pan	10.1109/TEST.2018.8624671
+Hypercompression of Test Patterns.	Yu Huang 0005,Sylwester Milewski,Janusz Rajski,Jerzy Tyszer,Chen Wang 0014	10.1109/TEST.2018.8624868
+Scalable Hardware Trojan Activation by Interleaving Concrete Simulation and Symbolic Execution.	Alif Ahmed,Farimah Farahmandi,Yousef Iskander,Prabhat Mishra 0001	10.1109/TEST.2018.8624854
+On the use of Bayesian Networks for Resource-Efficient Self-Calibration of Analog/RF ICs.	Martin Andraud,Laura Isabel Galindez Olascoaga,Yichuan Lu,Yiorgos Makris,Marian Verhelst	10.1109/TEST.2018.8624893
+Optimizing the Use of Simulations for Commissioning with Systems Engineering Principles and Objective Analysis.	Trevor Ault	10.1109/TEST.2018.8624713
+A New Technique to Generate Test Sequences for Reconfigurable Scan Networks.	Riccardo Cantoro,Aleksa Damljanovic,Matteo Sonza Reorda,Giovanni Squillero	10.1109/TEST.2018.8624742
+Case Study and Advanced Functional Safety Solution for Automotive SoCs.	M. Casarsa,Gurgen Harutyunyan	10.1109/TEST.2018.8624740
+Fast and accurate linearity test for DACs with various architectures using segmented models.	Shravan K. Chaganti,Abalhassan Sheikh,Sumit Dubey,Frank Ankapong,Nitin Agarwal,Degang Chen 0001	10.1109/TEST.2018.8624753
+Analysis of Process Variations, Defects, and Design-Induced Coupling in Memristors.	Arjun Chaudhuri,Krishnendu Chakrabarty	10.1109/TEST.2018.8624819
+Improving Diagnosis Resolution and Performance at High Compression Ratios.	Sameer Chillarige,Atul Chhabra,Anil Malik,Bharath Nandakumar,Joe Swenton,Krishna Chakravadhanula	10.1109/TEST.2018.8624829
+A PVT-Resilient No-Touch DFT Methodology for Prebond TSV Testing.	Sourav Das,Fei Su,Sreejit Chakravarty	10.1109/TEST.2018.8624691
+Polynomial Chaos modeling for jitter estimation in high-speed links.	Majid Ahadi Dolatsara,Huan Yu,Jose Ale Hejase,Wiren Dale Becker,Madhavan Swaminathan	10.1109/TEST.2018.8624875
+Pre-silicon Formal Verification of JTAG Instruction Opcodes for Security.	Nicole Fern,Kwang-Ting (Tim) Cheng	10.1109/TEST.2018.8624739
+Testing Resistive Memories: Where are We and What is Missing?	Moritz Fieback,Mottaqiallah Taouil,Said Hamdioui	10.1109/TEST.2018.8624895
+Safe AI for CPS (Invited Paper).	Nathan Fulton,André Platzer	10.1109/TEST.2018.8624774
+Advanced ECC-Based FIT Rate Mitigation Technique for Automotive SoCs.	Hayk T. Grigoryan,Samvel K. Shoukourian,Gurgen Harutyunyan,Yervant Zorian,Costas Argyrides	10.1109/TEST.2018.8624837
+An Effective Methodology for Automated Diagnosis of Functional Pattern Failures to Support Silicon Debug.	Pallav Gupta	10.1109/TEST.2018.8624881
+Total Critical Area Based Testing.	Friedrich Hapke,Peter C. Maxwell	10.1109/TEST.2018.8624825
+An Effective Intra-Cell Diagnosis Flow for Industrial SRAMs.	Tien-Phu Ho,Eric Faehn,Arnaud Virazel,Alberto Bosio,Patrick Girard 0001	10.1109/TEST.2018.8624799
+Hardware IP Trust Validation: Learn (the Untrustworthy), and Verify.	Tamzidul Hoque,Jonathan Cruz 0001,Prabuddha Chakraborty,Swarup Bhunia	10.1109/TEST.2018.8624727
+Variation-Aware Hardware Trojan Detection through Power Side-channel.	Fakir Sharif Hossain,Michihiro Shintani,Michiko Inoue,Alex Orailoglu	10.1109/TEST.2018.8624866
+DPPM Reduction Methods and New Defect Oriented Test Methods Applied to Advanced FinFET Technologies.	Will Howell,Friedrich Hapke,Edward Brazil,Srikanth Venkataraman,R. Datta,Andreas Glowatz,Wilfried Redemund,J. Schmerberg,Anja Fast,Janusz Rajski	10.1109/TEST.2018.8624906
+Improving Diagnosis Efficiency via Machine Learning.	Qicheng Huang,Chenlei Fang,Soumya Mittal,R. D. Shawn Blanton	10.1109/TEST.2018.8624884
+Online Scan Diagnosis : A Novel Approach to Volume Diagnosis.	I-De Huang,Pallav Gupta,Loganathan Lingappan,Vijay Gangaram	10.1109/TEST.2018.8624686
+A Stressed Eye Testing Module for Production Test of 30-Gbps NRZ Signal Interfaces.	Kiyotaka Ichiyama,Takashi Kusaka,Masahiro Ishida	10.1109/TEST.2018.8624841
+Self-Learning Health-Status Analysis for a Core Router System.	Shi Jin 0001,Zhaobo Zhang,Krishnendu Chakrabarty,Xinli Gu	10.1109/TEST.2018.8624712
+IJTAG Integrity Checking with Chained Hashing.	Senwen Kan,Jennifer Dworak	10.1109/TEST.2018.8624777
+Hardware Dithering: A Run-Time Method for Trojan Neutralization in Wireless Cryptographic ICs.	Christiana Kapatsori,Yu Liu,Angelos Antonopoulos 0002,Yiorgos Makris	10.1109/TEST.2018.8624705
+On-Chip Toggle Generators to Provide Realistic Conditions during Test of Digital 2D-SoCs and 3D-SICs.	Leonidas Katselas,Alkis A. Hatzopoulos,Hailong Jiao,Christos Papameletis,Erik Jan Marinissen	10.1109/TEST.2018.8624803
+Test of Supply Noise for Emerging Non-Volatile Memory.	Mohammad Nasim Imtiaz Khan,Swaroop Ghosh	10.1109/TEST.2018.8624896
+Advanced Uniformed Test Approach For Automotive SoCs.	Tal Kogan,Yehonatan Abotbol,Gabriele Boschi,Gurgen Harutyunyan,N. Martirosyan,Yervant Zorian	10.1109/TEST.2018.8624810
+Generating Compact Test Patterns for DC and AC Faults Using One ATPG Run.	Yi-Cheng Kung,Kuen-Jong Lee,Sudhakar M. Reddy	10.1109/TEST.2018.8624678
+Design Automation for Intelligent Automotive Systems.	Shuyue Lan,Chao Huang 0015,Zhilu Wang,Hengyi Liang,Wenhao Su,Qi Zhu 0002	10.1109/TEST.2018.8624723
+Influence-Directed Explanations for Deep Convolutional Networks.	Klas Leino,Shayak Sen,Anupam Datta,Matt Fredrikson,Linyi Li	10.1109/TEST.2018.8624792
+Machine Learning for Yield Learning and Optimization.	Yibo Lin,Mohamed Baker Alawieh,Wei Ye 0008,David Z. Pan	10.1109/TEST.2018.8624733
+Deterministic Stellar BIST for In-System Automotive Test.	Yingdi Liu,Nilanjan Mukherjee 0001,Janusz Rajski,Sudhakar M. Reddy,Jerzy Tyszer	10.1109/TEST.2018.8624872
+Fine-Grained Adaptive Testing Based on Quality Prediction.	Mengyun Liu,Renjian Pan,Fangming Ye,Xin Li 0001,Krishnendu Chakrabarty,Xinli Gu	10.1109/TEST.2018.8624891
+Fault Tolerance for RRAM-Based Matrix Operations.	Mengyun Liu,Lixue Xia,Yu Wang 0002,Krishnendu Chakrabarty	10.1109/TEST.2018.8624687
+Production Tests Coverage Analysis in the Simulation Environment.	Niveditha Manjunath,Dieter Haerle,Stephen Sabanal,Herbert Eichinger,Hermann Tauber,Andreas Machne,Christian Manthey,Mikko Vaananen,Radu Grosu,Dejan Nickovic	10.1109/TEST.2018.8624870
+Solutions to Multiple Probing Challenges for Test Access to Multi-Die Stacked Integrated Circuits.	Erik Jan Marinissen,Ferenc Fodor,Arnita Podpod,Michele Stucchi,Yu-Rong Jian,Cheng-Wen Wu	10.1109/TEST.2018.8624731
+Improving Power, Performance and Area with Test: A Case Study.	Teresa L. McLaurin,Ignatius P. Lawrence	10.1109/TEST.2018.8624752
+Defect injection, Fault Modeling and Test Algorithm Generation Methodology for STT-MRAM.	Sarath Mohanachandran Nair,Rajendra Bishnoi,Mehdi Baradaran Tahoori,Grigor Tshagharyan,Hayk T. Grigoryan,Gurgen Harutyunyan,Yervant Zorian	10.1109/TEST.2018.8624725
+Concept Recognition in Production Yield Data Analytics.	Matthew Nero,Chuanhe Jay Shan,Li-C. Wang,Nik Sumikawa	10.1109/TEST.2018.8624714
+On Close-to-Functional Test Sequences.	Irith Pomeranz	10.1109/TEST.2018.8624703
+On New Class of Test Points and Their Applications.	Janusz Rajski,Jerzy Tyszer,Justyna Zawada	10.1109/TEST.2018.8624900
+Transmitter and Receiver Equalizers Optimization Methodologies for High-Speed Links in Industrial Computer Platforms Post-Silicon Validation.	Francisco E. Rangel-Patino,José Ernesto Rayas-Sánchez,Nagib Hakim	10.1109/TEST.2018.8624794
+Detection of Low Power Trojans in Standard Cell Designs using Built-in Current Sensors.	Basim Shanyour,Spyros Tragoudas	10.1109/TEST.2018.8624715
+Test methodology for PCHB/PCFB Asynchronous Circuits.	Ting-Yu Shen,Chia-Cheng Pai,Tsai-Chieh Chen,James Chien-Mo Li,Samuel Pan	10.1109/TEST.2018.8624757
+Artificial Neural Network Based Test Escape Screening Using Generative Model.	Michihiro Shintani,Michiko Inoue,Yoshiyuki Nakamura	10.1109/TEST.2018.8624821
+EMFORCED: EM-based Fingerprinting Framework for Counterfeit Detection with Demonstration on Remarked and Cloned ICs.	Andrew Stern,Ulbert Botero,Bicky Shakya,Hao-Ting Shen,Domenic Forte,Mark M. Tehranipoor	10.1109/TEST.2018.8624679
+Improving Analog Functional Safety Using Data-Driven Anomaly Detection.	Fei Su,Prashant Goteti	10.1109/TEST.2018.8624716
+Modeling and Testing of Aging Faults in FinFET Memories for Automotive Applications.	Grigor Tshagharyan,Gurgen Harutyunyan,Yervant Zorian,Anteneh Gebregiorgis,Mohammad Saber Golanbari,Rajendra Bishnoi,Mehdi Baradaran Tahoori	10.1109/TEST.2018.8624890
+An Autonomous System View To Apply Machine Learning.	Li-C. Wang	10.1109/TEST.2018.8624844
+Lightweight Timing Channel Protection for Shared DRAM Controller.	Ying Wang 0001,Wen Li,Huawei Li 0001,Xiaowei Li 0001	10.1109/TEST.2018.8624848
+XLBIST: X-Tolerant Logic BIST.	Peter Wohl,John A. Waicukauski,Gregory A. Maston,Jonathon E. Colburn	10.1109/TEST.2018.8624738
+Electrical Modeling of STT-MRAM Defects.	Lizhou Wu,Mottaqiallah Taouil,Siddharth Rao,Erik Jan Marinissen,Said Hamdioui	10.1109/TEST.2018.8624749
+Towards Provably Secure Logic Locking for Hardening Hardware Security Dissertation Summary: IEEE TTTC E.J. McCluskey Doctoral Thesis Award Competition.	Muhammad Yasin,Ozgur Sinanoglu	10.1109/TEST.2018.8624809
+Built-In Self-Diagnosis and Fault-Tolerant Daisy-Chain Design in MEDA Biochips.	Ling Zhang,Zipeng Li,Krishnendu Chakrabarty	10.1109/TEST.2018.8624847
+Access-Time Minimization in the IEEE 1687 Network Using Broadcast and Hardware Parallelism.	Zhanwei Zhong,Guoliang Li 0004,Qinfu Yang,Krishnendu Chakrabarty	10.1109/TEST.2018.8624850
+IEEE International Test Conference, ITC 2018, Phoenix, AZ, USA, October 29 - Nov. 1, 2018		

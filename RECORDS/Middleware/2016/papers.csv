@@ -1,0 +1,22 @@
+Dynamic Load Balancing for Ordered Data-Parallel Regions in Distributed Streaming Systems.	Scott Schneider 0001,Joel L. Wolf,Kirsten Hildrum,Rohit Khandekar,Kun-Lung Wu	
+Locking Made Easy.	Jelena Antic,Georgios Chatzopoulos,Rachid Guerraoui,Vasileios Trigonakis	
+AdaptCache: Adaptive Data Partitioning and Migration for Distributed Object Caches.	Omar Asad,Bettina Kemme	
+SecureKeeper: Confidential ZooKeeper using Intel SGX.	Stefan Brenner,Colin Wulf,David Goltzsche,Nico Weichbrodt,Matthias Lorenz,Christof Fetzer,Peter R. Pietzuch,Rüdiger Kapitza	
+ALMA: GC-assisted JVM Live Migration for Java Server Applications.	Rodrigo Bruno,Paulo Ferreira 0001	
+Locality-Aware Routing in Stateful Streaming Applications.	Matthieu Caneill,Ahmed El-Rheddane,Vincent Leroy 0001,Noël De Palma	
+Atum: Scalable Group Communication Using Volatile Groups.	Rachid Guerraoui,Anne-Marie Kermarrec,Matej Pavlovic,Dragos-Adrian Seredinschi	
+Orion: A Framework for GPU Occupancy Tuning.	Ari B. Hayes,Lingda Li,Daniel G. Chavarría-Miranda,Shuaiwen Leon Song,Eddy Z. Zhang	
+Dos and Don&apos;ts in Mobile Phone Sensing Middleware: Learning from a Large-Scale Experiment.	Valérie Issarny,Vivien Mallet,Kinh Nguyen,Pierre-Guillaume Raverdy,Fadwa Rebhi,Raphael Ventura	
+Geo-Distribution of Flexible Business Processes over Publish/Subscribe Paradigm.	Martin Jergler,Mohammad Sadoghi,Hans-Arno Jacobsen	
+NetAlytics: Cloud-Scale Application Performance Monitoring with SDN and NFV.	Guyue Liu,Michael Trotter,Yuxin Ren,Timothy Wood 0001	
+BrowserFlow: Imprecise Data Flow Tracking to Prevent Accidental Data Disclosure.	Ioannis Papagiannis,Pijika Watcharapichat,Divya Muthukumaran,Peter R. Pietzuch	
+Secure Content-Based Routing Using Intel Software Guard Extensions.	Rafael Pires,Marcelo Pasin,Pascal Felber,Christof Fetzer	
+Unifying HDFS and GPFS: Enabling Analytics on Software-Defined Storage.	Ramya Raghavendra,Pranita Dewan,Mudhakar Srivatsa	
+Online Scheduling for Shuffle Grouping in Distributed Stream Processing Systems.	Nicolo Rivetti,Emmanuelle Anceaume,Yann Busnel,Leonardo Querzoni,Bruno Sericola	
+Programming Scalable Cloud Services with AEON.	Bo Sang,Gustavo Petri,Masoud Saeida Ardekani,Srivatsan Ravi,Patrick Eugster	
+Bifrost: Supporting Continuous Deployment with Automated Enactment of Multi-Phase Live Testing Strategies.	Gerald Schermann,Dominik Schöni,Philipp Leitner 0001,Harald C. Gall	
+Containers and Virtual Machines at Scale: A Comparative Study.	Prateek Sharma,Lucas Chaufournier,Prashant J. Shenoy,Y. C. Tay	
+Big ideas paper: Policy-driven middleware for a legally-compliant Internet of Things.	Jatinder Singh,Thomas F. J.-M. Pasquier,Jean Bacon,Julia E. Powles,Raluca Diaconu,David M. Eyers	
+Mitigating performance unpredictability in the IaaS using the Kyoto principle.	Alain Tchana,Vo Quoc Bao Bui,Boris Teabe,Vlad Nitu,Daniel Hagimont	
+SDNFV: Flexible and Dynamic Software Defined Control of an Application- and Flow-Aware Data Plane.	Wei Zhang 0052,Guyue Liu,Ali Mohammadkhan,Jinho Hwang,K. K. Ramakrishnan,Timothy Wood 0001	
+Proceedings of the 17th International Middleware Conference, Trento, Italy, December 12 - 16, 2016		10.1145/2988336
