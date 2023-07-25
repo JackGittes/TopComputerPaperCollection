@@ -124,15 +124,15 @@ def download(root_dir: str, priority_list=None):
                 all_failed = res[0] + failed
             else:
                 all_failed = failed
-            if len(failed) == 0:
+            if len(all_failed) == 0:
                 continue
-            if len(failed) == len(doi[0]):
+            if len(all_failed) == (len(res[0]) + len(res[1])):
                 with open(os.path.join(year_vol_dir, "status.log"), "w") as fp:
                     fp.write("None")
             nofile = os.path.join(pdf_path, "nofile.txt")
             with open(nofile, "w") as fp:
                 for idx, failed_name in enumerate(all_failed):
-                    fp.write(failed_name + ("\n" if idx == len(failed_name) - 1
+                    fp.write(failed_name + ("\n" if idx != len(all_failed) - 1
                              else ''))
 
 
