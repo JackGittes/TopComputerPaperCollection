@@ -1,0 +1,90 @@
+Forbidden-set distance labels for graphs of bounded doubling dimension.	Ittai Abraham,Shiri Chechik,Cyril Gavoille,David Peleg	10.1145/1835698.1835743
+Brief announcement: view transactions: transactional model with relaxed consistency checks.	Yehuda Afek,Adam Morrison 0001,Moran Tzafrir	10.1145/1835698.1835711
+Bayesian ignorance.	Noga Alon,Yuval Emek,Michal Feldman,Moshe Tennenholtz	10.1145/1835698.1835785
+Brief announcement: decentralized construction of multicast trees embedded into P2P overlay networks based on virtual geometric coordinates.	Mugurel Ionut Andreica,Andrei Dragus,Ana-Delia Sambotin,Nicolae Tapus	10.1145/1835698.1835766
+A modular approach to shared-memory consensus, with applications to the probabilistic-write model.	James Aspnes	10.1145/1835698.1835802
+The inherent complexity of transactional memory and what to do about it.	Hagit Attiya	10.1145/1835698.1835699
+Brief announcement: single-version permissive STM.	Hagit Attiya,Eshcar Hillel	10.1145/1835698.1835712
+Brief announcement: anonymity and trust in distributed systems.	Michael Backes 0001,Stefan Lorenz,Matteo Maffei,Kim Pecina	10.1145/1835698.1835753
+Brief announcement: asynchronous bounded expected delay networks.	Rena Bakhshi,Jörg Endrullis,Wan J. Fokkink,Jun Pang 0001	10.1145/1835698.1835787
+Finding mobile data under delay constraints with searching costs.	Amotz Bar-Noy,Panagiotis Cheilaris,Yi Feng 0002,Asaf Levin	10.1145/1835698.1835774
+Deterministic distributed vertex coloring in polylogarithmic time.	Leonid Barenboim,Michael Elkin	10.1145/1835698.1835797
+Brief announcement: sources of instability in data center multicast.	Dmitry Basin,Ken Birman,Idit Keidar,Ymir Vigfusson	10.1145/1835698.1835732
+On utilizing speed in networks of mobile agents.	Joffroy Beauquier,Janna Burman,Julien Clément 0002,Shay Kutten	10.1145/1835698.1835775
+On the theoretical gap between synchronous and asynchronous MPC protocols.	Zuzana Beerliová-Trubíniová,Martin Hirt,Jesper Buus Nielsen	10.1145/1835698.1835746
+Brief announcement: a framework for building self-stabilizing overlay networks.	Andrew Berns,Sukumar Ghosh,Sriram V. Pemmaraju	10.1145/1835698.1835790
+Group mutual exclusion in O(log n) RMR.	Vibhor Bhatt,Chien-Chung Huang	10.1145/1835698.1835708
+Constant RMR solutions to reader writer synchronization.	Vibhor Bhatt,Prasad Jayanti	10.1145/1835698.1835803
+Brief announcement: actions in the twilight - concurrent irrevocable transactions and inconsistency repair.	Annette Bieniusa,Arie Middelkoop,Peter Thiemann 0001	10.1145/1835698.1835714
+A certain freedom: thoughts on the CAP theorem.	Eric A. Brewer	10.1145/1835698.1835701
+Transactional predication: high-performance concurrent sets and maps for STM.	Nathan Grasso Bronson,Jared Casper,Hassan Chafi,Kunle Olukotun	10.1145/1835698.1835703
+Fast flooding over Manhattan.	Andrea E. F. Clementi,Angelo Monti,Riccardo Silvestri	10.1145/1835698.1835784
+Brief announcement: an efficient failure detector for omission environments.	Roberto Cortiñas,Iratxe Soraluze Arriola,Alberto Lafuente,Mikel Larrea	10.1145/1835698.1835720
+How to meet when you forget: log-space rendezvous in arbitrary graphs.	Jurek Czyzowicz,Adrian Kosowski,Andrzej Pelc	10.1145/1835698.1835801
+The k-bakery: local-spin k-exclusion using non-atomic reads and writes.	Robert Danek	10.1145/1835698.1835707
+On the computational power of oblivious robots: forming a series of geometric patterns.	Shantanu Das 0001,Paola Flocchini,Nicola Santoro,Masafumi Yamashita	10.1145/1835698.1835761
+Brief announcement: leader election vs pattern formation.	Yoann Dieudonné,Franck Petit,Vincent Villain	10.1145/1835698.1835793
+Brief announcement: swarming secrets.	Shlomi Dolev,Juan A. Garay,Niv Gilboa,Vladimir Kolesnikov	10.1145/1835698.1835750
+Non-blocking binary search trees.	Faith Ellen,Panagiota Fatourou,Eric Ruppert,Franck van Breugel	10.1145/1835698.1835736
+Discrete load balancing is (almost) as easy as continuous load balancing.	Robert Elsässer,Thomas Sauerwald	10.1145/1835698.1835780
+Online set packing and competitive scheduling of multi-part tasks.	Yuval Emek,Magnús M. Halldórsson,Yishay Mansour,Boaz Patt-Shamir,Jaikumar Radhakrishnan,Dror Rawitz	10.1145/1835698.1835800
+Efficient threshold detection in a distributed environment: extended abstract.	Yuval Emek,Amos Korman	10.1145/1835698.1835742
+Distributed data classification in sensor networks.	Ittay Eyal,Idit Keidar,Raphael Rom	10.1145/1835698.1835738
+Brief announcement: distributed almost stable marriage.	Patrik Floréen,Petteri Kaski,Valentin Polishchuk,Jukka Suomela	10.1145/1835698.1835765
+Distributed computational complexities: are you volvo-addicted or nascar-obsessed?	Pierre Fraigniaud	10.1145/1835698.1835700
+Brief announcement: deterministic dominating set construction in networks with bounded degree.	Roy Friedman,Alex Kogan	10.1145/1835698.1835767
+Brief announcement: on L-resilience, hitting sets, and colorless tasks.	Eli Gafni,Petr Kuznetsov	10.1145/1835698.1835719
+Meeting the deadline: on the complexity of fault-tolerant continuous gossip.	Chryssis Georgiou,Seth Gilbert,Dariusz R. Kowalski	10.1145/1835698.1835759
+Brief announcement: locally-accessible implementations for distributed shared memory multiprocessors.	Wojciech M. Golab	10.1145/1835698.1835788
+Locating a target with an agent guided by unreliable local advice: how to beat the random walk when you have a clock?	Nicolas Hanusse,David Ilcinkas,Adrian Kosowski,Nicolas Nisse	10.1145/1835698.1835781
+Adaptive randomized mutual exclusion in sub-logarithmic expected time.	Danny Hendler,Philipp Woelfel	10.1145/1835698.1835737
+The topology of shared-memory adversaries.	Maurice Herlihy,Sergio Rajsbaum	10.1145/1835698.1835724
+Partial information spreading with application to distributed maximum coverage.	Keren Censor-Hillel,Hadas Shachnai	10.1145/1835698.1835739
+Brief announcement: self-monitoring in dynamic wireless networks.	Stephan Holzer,Yvonne-Anne Pignolet,Jasmin Smula,Roger Wattenhofer	10.1145/1835698.1835734
+Brief announcement: routing with obstacle avoidance mechanism with constant approximation ratio.	Florian Huc,Aubin Jarry,Pierre Leone,José D. P. Rolim	10.1145/1835698.1835727
+The multiplicative power of consensus numbers.	Damien Imbs,Michel Raynal	10.1145/1835698.1835705
+On asymmetric progress conditions.	Damien Imbs,Michel Raynal,Gadi Taubenfeld	10.1145/1835698.1835709
+Brief announcement: pan and scan.	Matthew P. Johnson 0001,Amotz Bar-Noy	10.1145/1835698.1835729
+Brief announcement: distributed contention resolution in wireless networks.	Thomas Kesselheim,Berthold Vöcking	10.1145/1835698.1835731
+Breaking the O(n2) bit barrier: scalable byzantine agreement with an adaptive adversary.	Valerie King,Jared Saia	10.1145/1835698.1835798
+Brief announcement: the price of anarchy for distributed network formation in an adversary model.	Lasse Kliemann	10.1145/1835698.1835749
+Brief announcement: k-shot distributed broadcasting in radio networks.	Paraschos Koutris,Aris Pagourtzis	10.1145/1835698.1835717
+Brief announcement: the accuracy of tree-based counting in dynamic networks.	Supriya Krishnamurthy,John Ardelius,Erik Aurell,Mads Dam,Rolf Stadler,Fetahi Zebenigus Wuhib	10.1145/1835698.1835770
+Optimal gradient clock synchronization in dynamic networks.	Fabian Kuhn,Christoph Lenzen 0001,Thomas Locher,Rotem Oshman	10.1145/1835698.1835799
+Broadcasting in unreliable radio networks.	Fabian Kuhn,Nancy A. Lynch,Calvin C. Newport,Rotem Oshman,Andréa W. Richa	10.1145/1835698.1835779
+Brief announcement: distributed trust management and revocation.	Dmitriy Kuptsov,Andrei V. Gurtov,Oscar García Morchon,Klaus Wehrle	10.1145/1835698.1835751
+Brief announcement: exponential speed-up of local algorithms using non-local communication.	Christoph Lenzen 0001,Roger Wattenhofer	10.1145/1835698.1835772
+Brief announcement: capacity of byzantine agreement with finite link capacity - complete characterization of four-node networks.	Guanfeng Liang,Nitin H. Vaidya	10.1145/1835698.1835789
+Brief announcement: NUMA-aware transactional memory.	Kai Lu,Ruibo Wang,Xicheng Lu	10.1145/1835698.1835713
+Hybrid-secure MPC: trading information-theoretic robustness for computational privacy.	Christoph Lucas,Dominik Raub,Ueli M. Maurer	10.1145/1835698.1835747
+Brief announcement: superpeer formation amidst churn and rewiring.	Bivas Mitra,Sujoy Ghose,Niloy Ganguly	10.1145/1835698.1835733
+Brief announcement: secret sharing based on the social behaviors of players.	Mehrdad Nojoumian,Douglas R. Stinson	10.1145/1835698.1835754
+Verifying linearizability with hindsight.	Peter W. O&apos;Hearn,Noam Rinetzky,Martin T. Vechev,Eran Yahav,Greta Yorsh	10.1145/1835698.1835722
+Rapid randomized pruning for fast greedy distributed algorithms.	Saurav Pandit,Sriram V. Pemmaraju	10.1145/1835698.1835777
+Brief announcement: perfectly secure message transmissiontolerating mobile mixed adversary with reduced phase complexity.	Arpita Patra,Ashish Choudhury,C. Pandu Rangan	10.1145/1835698.1835757
+Brief announcement: communication efficient asynchronous byzantine agreement.	Arpita Patra,C. Pandu Rangan	10.1145/1835698.1835756
+On maintaining multiple versions in STM.	Dmitri Perelman,Rui Fan 0004,Idit Keidar	10.1145/1835698.1835704
+Brief announcement: towards robust medium access in multi-hop networks.	Andréa W. Richa,Jin Zhang 0007,Christian Scheideler,Stefan Schmid 0001	10.1145/1835698.1835726
+Brief announcement: revisiting the power-law degree distribution for social graph analysis.	Alessandra Sala,Haitao Zheng 0001,Ben Y. Zhao,Sabrina Gaito,Gian Paolo Rossi 0001	10.1145/1835698.1835791
+Efficient distributed random walks with applications.	Atish Das Sarma,Danupon Nanongkai,Gopal Pandurangan,Prasad Tetali	10.1145/1835698.1835745
+Expansion and the cover time of parallel random walks.	Thomas Sauerwald	10.1145/1835698.1835776
+A new technique for distributed symmetry breaking.	Johannes Schneider 0002,Roger Wattenhofer	10.1145/1835698.1835760
+Brief announcement: tree decomposition for faster concurrent data structures.	Johannes Schneider 0002,Roger Wattenhofer	10.1145/1835698.1835768
+Brief announcement: efficient graph algorithms without synchronization.	Johannes Schneider 0002,Roger Wattenhofer	10.1145/1835698.1835769
+Eventually linearizable shared objects.	Marco Serafini,Dan Dobre,Matthias Majuntke,Péter Bokor,Neeraj Suri	10.1145/1835698.1835723
+Brief announcement: collusion free protocol for rational secret sharing.	Amjed Shareef	10.1145/1835698.1835792
+Brief announcement: ART--sub-logarithmic decentralized range query processing with probabilistic guarantees.	Spyros Sioutas,George Papaloukopoulos,Evangelos Sakkopoulos,Kostas Tsichlas,Yannis Manolopoulos,Peter Triantafillou	10.1145/1835698.1835728
+Brief announcement: network traffic can optimize consolidation during transformation to virtualization.	Kewei Sun,Ying Li 0012,Jing Luo	10.1145/1835698.1835764
+Distributed algorithms for edge dominating sets.	Jukka Suomela	10.1145/1835698.1835783
+Adaptive system anomaly prediction for large-scale hosting infrastructures.	Yongmin Tan,Xiaohui Gu,Haixun Wang	10.1145/1835698.1835741
+Brief announcement: adaptive content placement for peer-to-peer video-on-demand systems.	Bo Tan 0002,Laurent Massoulié	10.1145/1835698.1835771
+Brief announcement: improving social-network-based sybil-resilient node admission control.	Dinh Nguyen Tran,Jinyang Li 0001,Lakshminarayanan Subramanian,Sherman S. M. Chow	10.1145/1835698.1835755
+Brief announcement: on the quest of optimal service ordering in decentralized queries.	Efthymia Tsamoura,Anastasios Gounaris,Yannis Manolopoulos	10.1145/1835698.1835763
+Brief announcement: realizing secure multiparty computation on incomplete networks.	Shailesh Vaya	10.1145/1835698.1835752
+Brief announcement: a shared disk on distributed storage.	Stefan Vijzelaar,Herbert Bos,Wan J. Fokkink	10.1145/1835698.1835718
+Brief announcement: modelling MapReduce for optimal execution in the cloud.	Alexander Wieder,Pramod Bhatotia,Ansley Post,Rodrigo Rodrigues 0001	10.1145/1835698.1835795
+Brief announcement: monotonic stabilization.	Yukiko Yamauchi,Sébastien Tixeuil	10.1145/1835698.1835794
+Brief announcement: complexity and solution of the send-receive correlation problem.	Benito van der Zander,Egon Wanke,Wolfgang Kiess,Björn Scheuermann 0001	10.1145/1835698.1835730
+Brief announcement: on enhancing concurrency in distributed transactional memory.	Bo Zhang 0016,Binoy Ravindran	10.1145/1835698.1835715
+Brief announcement: queuing or priority queuing? on the design of cache-coherence protocols for distributed transactional memory.	Bo Zhang 0016,Binoy Ravindran	10.1145/1835698.1835716
+Proceedings of the 29th Annual ACM Symposium on Principles of Distributed Computing, PODC 2010, Zurich, Switzerland, July 25-28, 2010	Andréa W. Richa,Rachid Guerraoui	

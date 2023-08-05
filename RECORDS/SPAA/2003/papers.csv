@@ -1,0 +1,48 @@
+A proportionate fair scheduling rule with good worst-case performance.	Micah Adler,Petra Berenbrink,Tom Friedetzky,Leslie Ann Goldberg,Paul W. Goldberg,Mike Paterson	10.1145/777412.777430
+Optimal sharing of bags of tasks in heterogeneous clusters.	Micah Adler,Ying Gong,Arnold L. Rosenberg	10.1145/777412.777414
+The load rebalancing problem.	Gagan Aggarwal,Rajeev Motwani 0001,An Zhu	10.1145/777412.777460
+Integrated prefetching and caching in single and parallel disk systems.	Susanne Albers,Markus Büttner	10.1145/777412.777431
+Designing overlay multicast networks for streaming.	Konstantin Andreev,Bruce M. Maggs,Adam Meyerson,Ramesh K. Sitaraman	10.1145/777412.777437
+I/O-efficient topological sorting of planar DAGs.	Lars Arge,Laura Toma,Norbert Zeh	10.1145/777412.777427
+Compact routing with name independence.	Marta Arias,Lenore Cowen,Kofi A. Laing,Rajmohan Rajaraman,Orjeta Taka	10.1145/777412.777442
+Improved approximation algorithms for the freeze-tag problem.	Esther M. Arkin,Michael A. Bender,Dongdong Ge	10.1145/777412.777465
+Minimizing total flow time and total completion time with immediate dispatching.	Nir Avrahami,Yossi Azar	10.1145/777412.777415
+Combining online algorithms for rejection and acceptance.	Yossi Azar,Avrim Blum,Yishay Mansour	10.1145/777412.777438
+A near optimal scheduler for switch-memory-switch routers.	Adnan Aziz,Amit Prakash,Vijaya Ramachandran	10.1145/777412.777472
+Short length menger&apos;s theorem and reliable optical routing.	Amitabha Bagchi,Amitabh Chaudhary,Petr Kolman	10.1145/777412.777453
+Bicriteria approximation algorithms for scheduling problems with communications.	Evripidis Bampis,Alexander V. Kononov	10.1145/777412.777456
+Online oblivious routing.	Nikhil Bansal 0001,Avrim Blum,Shuchi Chawla 0001,Adam Meyerson	10.1145/777412.777420
+Off-line and on-line guaranteed start-up delay for media-on-demand with stream merging.	Amotz Bar-Noy,Justin Goshi,Richard E. Ladner	10.1145/777412.777439
+Can we elect if we cannot compare?	Lali Barrière,Paola Flocchini,Pierre Fraigniaud,Nicola Santoro	10.1145/777412.777469
+Efficient galois field arithmetic on SIMD architectures.	Raghav Bhaskar,Pradeep K. Dubey,Vijay Kumar,Atri Rudra	10.1145/777412.777458
+A practical algorithm for constructing oblivious routing schemes.	Marcin Bienkowski,Miroslaw Korzeniowski,Harald Räcke	10.1145/777412.777418
+Toward a decidable notion of sequential consistency.	Jesse D. Bingham,Anne Condon,Alan J. Hu	10.1145/777412.777467
+Analysis of link reversal routing algorithms for mobile ad hoc networks.	Costas Busch,Srikanth Surapaneni,Srikanta Tirthapura	10.1145/777412.777446
+High throughput, parallelized 128-bit AES encryption in a resource-limited FPGA.	Christopher Caltagirone,Kasi Anantha	10.1145/777412.777450
+The complexity of verifying memory coherence.	Jason F. Cantin,Mikko H. Lipasti,James E. Smith 0001	10.1145/777412.777457
+Relaxing the problem-size bound for out-of-core columnsort.	Geeta Chaudhry,Elizabeth A. Hamon,Thomas H. Cormen	10.1145/777412.777455
+The effect of communication costs in solid-state quantum computing architectures.	Dean Copsey,Mark Oskin,Tzvetan S. Metodi,Frederic T. Chong,Isaac L. Chuang,John Kubiatowicz	10.1145/777412.777424
+Asynchronous parallel disk sorting.	Roman Dementiev,Peter Sanders 0001	10.1145/777412.777435
+TCP is competitive against a limited adversary.	Jeff Edmonds,Suprakash Datta,Patrick W. Dymond	10.1145/777412.777440
+Load balancing of unit size tokens and expansion properties of graphs.	Robert Elsässer,Burkhard Monien	10.1145/777412.777461
+Tree based MPLS routing.	Anupam Gupta 0001,Amit Kumar 0001,Mikkel Thorup	10.1145/777412.777443
+Randomized permutations in a coarse grained parallel environment.	Jens Gustedt	10.1145/777412.777454
+Cycle stealing under immediate dispatch task assignment.	Mor Harchol-Balter,Cuihong Li,Takayuki Osogami,Alan Scheller-Wolf,Mark S. Squillante	10.1145/777412.777462
+A polynomial-time tree decomposition to minimize congestion.	Chris Harrelson,Kirsten Hildrum,Satish Rao	10.1145/777412.777419
+On local algorithms for topology control and routing in ad hoc networks.	Lujun Jia,Rajmohan Rajaraman,Christian Scheideler	10.1145/777412.777447
+Buffer overflows of merging streams.	Alexander Kesselman,Yishay Mansour,Zvi Lotker,Boaz Patt-Shamir	10.1145/777412.777452
+Scheduling policies for CIOQ switches.	Alexander Kesselman,Adi Rosén	10.1145/777412.777473
+Information gathering in adversarial systems: lines and cycles.	Kishore Kothapalli,Christian Scheideler	10.1145/777412.777471
+Performance comparison of MPI and three openMP programming styles on shared memory multiprocessors.	Géraud Krawezik	10.1145/777412.777433
+Online deadline scheduling: multiple machines and randomization.	Jae-Ha Lee	10.1145/777412.777416
+Quantifying instruction criticality for shared memory multiprocessors.	Tong Li 0003,Alvin R. Lebeck,Daniel J. Sorin	10.1145/777412.777434
+MST construction in O(log log n) communication rounds.	Zvi Lotker,Elan Pavlov,Boaz Patt-Shamir,David Peleg	10.1145/777412.777428
+Nonblocking k-compare-single-swap.	Victor Luchangco,Mark Moir,Nir Shavit	10.1145/777412.777468
+VLSI layout of trees into grids of minimum width.	Akira Matsubayashi	10.1145/777412.777425
+Novel architectures for P2P applications: the continuous-discrete approach.	Moni Naor,Udi Wieder	10.1145/777412.777421
+Polynomial time algorithms for network information flow.	Peter Sanders 0001,Sebastian Egner,Ludo M. G. M. Tolhuizen	10.1145/777412.777464
+Worst case mobility in ad hoc networks.	Christian Schindelhauer,Tamás Lukovszki,Stefan Rührup,Klaus Volbert	10.1145/777412.777448
+MAPO: using a committee of algorithm-experts for parallel optimization of costly functions.	Christine A. Shoemaker,Rommel G. Regis	10.1145/777412.777451
+Throughput-centric routing algorithm design.	Brian Towles,William J. Dally,Stephen P. Boyd	10.1145/777412.777444
+Optimal fault-tolerant linear arrays.	Toshinori Yamada,Shuichi Ueno	10.1145/777412.777423
+SPAA 2003: Proceedings of the Fifteenth Annual ACM Symposium on Parallelism in Algorithms and Architectures, June 7-9, 2003, San Diego, California, USA (part of FCRC 2003)	Arnold L. Rosenberg,Friedhelm Meyer auf der Heide	10.1145/777412

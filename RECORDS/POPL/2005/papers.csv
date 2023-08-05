@@ -1,0 +1,32 @@
+Synthesis of interface specifications for Java classes.	Rajeev Alur,Pavol Cerný,P. Madhusudan,Wonhong Nam	10.1145/1040305.1040314
+Polymorphic bytecode: compositional compilation for Java-like languages.	Davide Ancona,Ferruccio Damiani,Sophia Drossopoulou,Elena Zucca	10.1145/1040305.1040308
+Permission accounting in separation logic.	Richard Bornat,Cristiano Calcagno,Peter W. O&apos;Hearn,Matthew J. Parkinson	10.1145/1040305.1040327
+Connecting effects and uniqueness with adoption.	John Tang Boyland,William Retert	10.1145/1040305.1040329
+Theoretical foundations for compensations in flow composition languages.	Roberto Bruni,Hernán C. Melgratti,Ugo Montanari	10.1145/1040305.1040323
+Context logic and tree update.	Cristiano Calcagno,Philippa Gardner,Uri Zarfaty	10.1145/1040305.1040328
+Associated types with class.	Manuel M. T. Chakravarty,Gabriele Keller,Simon L. Peyton Jones,Simon Marlow	10.1145/1040305.1040306
+A simple typed intermediate language for object-oriented languages.	Juan Chen,David Tarditi	10.1145/1040305.1040309
+Environmental acquisition revisited.	Richard Cobbe,Matthias Felleisen	10.1145/1040305.1040307
+Transactors: a programming model for maintaining globally consistent distributed state in unreliable environments.	John Field,Carlos A. Varela	10.1145/1040305.1040322
+Dynamic partial-order reduction for model checking software.	Cormac Flanagan,Patrice Godefroid	10.1145/1040305.1040315
+Combinators for bi-directional tree transformations: a linguistic approach to the view update problem.	J. Nathan Foster,Michael B. Greenwald,Jonathan T. Moore,Benjamin C. Pierce,Alan Schmitt	10.1145/1040305.1040325
+Communicating quantum processes.	Simon J. Gay,Rajagopal Nagarajan	10.1145/1040305.1040318
+Slot games: a quantitative model of computation.	Dan R. Ghica	10.1145/1040305.1040313
+A syntactic approach to eta equality in type theory.	Healfdene Goguen	10.1145/1040305.1040312
+A framework for numeric analysis of array operations.	Denis Gopan,Thomas W. Reps,Shmuel Sagiv	10.1145/1040305.1040333
+Proof-guided underapproximation-widening for multi-process systems.	Orna Grumberg,Flavio Lerda,Ofer Strichman,Michael Theobald	10.1145/1040305.1040316
+Precise interprocedural analysis using random interpretation.	Sumit Gulwani,George C. Necula	10.1145/1040305.1040332
+Region-based shape analysis with tracked locations.	Brian Hackett,Radu Rugina	10.1145/1040305.1040331
+Parametric polymorphism for XML.	Haruo Hosoya,Alain Frisch,Giuseppe Castagna	10.1145/1040305.1040310
+Automated soundness proofs for dataflow analyses and transformations via local rules.	Sorin Lerner,Todd D. Millstein,Erika Rice,Craig Chambers	10.1145/1040305.1040335
+Downgrading policies and relaxed noninterference.	Peng Li,Steve Zdancewic	10.1145/1040305.1040319
+The Java memory model.	Jeremy Manson,William W. Pugh,Sarita V. Adve	10.1145/1040305.1040336
+From sequential programs to multi-tier applications by program transformation.	Matthias Neubauer,Peter Thiemann 0001	10.1145/1040305.1040324
+A probabilistic language based upon sampling functions.	Sungwoo Park,Frank Pfenning,Sebastian Thrun	10.1145/1040305.1040320
+Separation logic and abstraction.	Matthew J. Parkinson,Gavin M. Bierman	10.1145/1040305.1040326
+Transition predicate abstraction and fair termination.	Andreas Podelski,Andrey Rybalchenko	10.1145/1040305.1040317
+A semantics for procedure local heaps and its abstractions.	Noam Rinetzky,Jörg Bauer 0001,Thomas W. Reps,Shmuel Sagiv,Reinhard Wilhelm	10.1145/1040305.1040330
+Mutatis mutandis: safe and predictable dynamic software updating.	Gareth Paul Stoyle,Michael W. Hicks,Gavin M. Bierman,Peter Sewell,Iulian Neamtiu	10.1145/1040305.1040321
+A bisimulation for type abstraction and recursion.	Eijiro Sumii,Benjamin C. Pierce	10.1145/1040305.1040311
+Scalable error detection using boolean satisfiability.	Yichen Xie,Alexander Aiken	10.1145/1040305.1040334
+Proceedings of the 32nd ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2005, Long Beach, California, USA, January 12-14, 2005	Jens Palsberg,Martín Abadi	10.1145/1040305

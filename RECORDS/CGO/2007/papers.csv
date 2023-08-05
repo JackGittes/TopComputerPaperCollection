@@ -1,0 +1,30 @@
+Heterogeneous Clustered VLIW Microarchitectures.	Alex Aletà,Josep M. Codina,Antonio González 0001,David R. Kaeli	10.1109/CGO.2007.15
+Loop Optimization using Hierarchical Compilation and Kernel Decomposition.	Denis Barthou,Sébastien Donadio,Patrick Carribault,Alexandre Duchateau,William Jalby	10.1109/CGO.2007.22
+A Dimension Abstraction Approach to Vectorization in Matlab.	Neil Birkbeck,Jonathan Levesque,José Nelson Amaral	10.1109/CGO.2007.1
+On the Complexity of Register Coalescing.	Florent Bouchez,Alain Darte,Fabrice Rastello	10.1109/CGO.2007.26
+GPU Computing: Programming a Massively Parallel Processor.	Ian Buck	10.1109/CGO.2007.13
+Rapidly Selecting Good Compiler Optimizations using Performance Counters.	John Cavazos,Grigori Fursin,Felix V. Agakov,Edwin V. Bonilla,Michael F. P. O&apos;Boyle,Olivier Temam	10.1109/CGO.2007.32
+Virtual Cluster Scheduling Through the Scheduling Graph.	Josep M. Codina,F. Jesús Sánchez,Antonio González 0001	10.1109/CGO.2007.39
+Pipelined Execution of Critical Sections Using Software-Controlled Caching in Network Processors.	Jinquan Dai,Long Li,Bo Huang 0002	10.1109/CGO.2007.30
+Understanding Tradeoffs in Software Transactional Memory.	David Dice,Nir Shavit	10.1109/CGO.2007.38
+Graph-Based Procedural Abstraction.	A. Dreweke,Marc Wörlein,Ingrid Fischer,Dominic Schell,Thorsten Meinl,Michael Philippsen	10.1109/CGO.2007.14
+Parallel Programming Environment: A Key to Translating Tera-Scale Platforms into a Big Success.	Jesse Fang	10.1109/CGO.2007.28
+Compilation Techniques for Real-Time Java Programs.	Mike Fulton,Mark G. Stoodley	10.1109/CGO.2007.5
+Isla Vista Heap Sizing: Using Feedback to Avoid Paging.	Chris Grzegorczyk,Sunil Soman,Chandra Krintz,Richard Wolski	10.1109/CGO.2007.20
+Code Compaction of an Operating System Kernel.	Haifeng He,John Trimble,Somu Perianayagam,Saumya K. Debray,Gregory R. Andrews	10.1109/CGO.2007.3
+Evaluating Indirect Branch Handling Mechanisms in Software Dynamic Translation Systems.	Jason Hiser,Daniel W. Williams,Wei Hu,Jack W. Davidson,Jason Mars,Bruce R. Childers	10.1109/CGO.2007.10
+Exploiting Narrow Accelerators with Data-Centric Subgraph Mapping.	Amir Hormati,Nathan Clark,Scott A. Mahlke	10.1109/CGO.2007.11
+Profile-assisted Compiler Support for Dynamic Predication in Diverge-Merge Processors.	Hyesoon Kim,José A. Joao,Onur Mutlu,Yale N. Patt	10.1109/CGO.2007.31
+Run-Time Support for Optimizations Based on Escape Analysis.	Thomas Kotzmann,Hanspeter Mössenböck	10.1109/CGO.2007.34
+Evaluating Heuristic Optimization Phase Order Search Algorithms.	Prasad A. Kulkarni,David B. Whalley,Gary S. Tyson	10.1109/CGO.2007.9
+Shadow Profiling: Hiding Instrumentation Costs with Parallelism.	Tipp Moseley,Alex Shye,Vijay Janapa Reddi,Dirk Grunwald,Ramesh Peri	10.1109/CGO.2007.35
+Compiler-Directed Variable Latency Aware SPM Management to CopeWith Timing Problems.	Ozcan Ozturk 0001,Guilin Chen,Mahmut T. Kandemir,Mustafa Karaköy	10.1109/CGO.2007.6
+Iterative Optimization in the Polyhedral Model: Part I, One-Dimensional Time.	Louis-Noël Pouchet,Cédric Bastoul,Albert Cohen 0001,Nicolas Vasilache	10.1109/CGO.2007.21
+Structure Layout Optimization for Multithreaded Programs.	Easwaran Raman,Robert Hundt,Sandya Mannarswamy	10.1109/CGO.2007.36
+Persistent Code Caching: Exploiting Code Reuse Across Executions and Applications.	Vijay Janapa Reddi,Dan Connors,Robert Cohn,Michael D. Smith 0001	10.1109/CGO.2007.29
+Microarchitecture Sensitive Empirical Models for Compiler Optimizations.	Kapil Vaswani,Matthew J. Thazhuthaveetil,Y. N. Srikant,P. J. Joseph	10.1109/CGO.2007.25
+SuperPin: Parallelizing Dynamic Instrumentation for Real-Time Performance.	Steven Wallace,Kim M. Hazelwood	10.1109/CGO.2007.37
+Code Generation and Optimization for Transactional Memory Constructs in an Unmanaged Language.	Cheng Wang 0013,Wei-Yu Chen,Youfeng Wu,Bratin Saha,Ali-Reza Adl-Tabatabai	10.1109/CGO.2007.4
+Compiler-Managed Software-based Redundant Multi-Threading for Transient Fault Detection.	Cheng Wang 0013,Ho-Seop Kim,Youfeng Wu,Victor Ying	10.1109/CGO.2007.7
+Ubiquitous Memory Introspection.	Qin Zhao,Rodric M. Rabbah,Saman P. Amarasinghe,Larry Rudolph,Weng-Fai Wong	10.1109/CGO.2007.12
+Fifth International Symposium on Code Generation and Optimization (CGO 2007), 11-14 March 2007, San Jose, California, USA		

@@ -1,0 +1,119 @@
+Adaptive Graph Computations with a Connection Machine.	A. Aggarwal,W. T. Ma,G. V. H. Sandri,S. Sarkar	10.1109/IPPS.1992.223078
+Routing BPS Permutations in VLSI.	Hussein M. Alnuweiri	10.1109/IPPS.1992.223061
+Associative Parallel Lexing.	Chandra R. Asthagiri,Jerry L. Potter	10.1109/IPPS.1992.223001
+A Conceptual Framework for Implementing Neural Networks on Massively Parallel Machines.	Magali E. Azema-Barac	10.1109/IPPS.1992.222973
+Parallel Implementation of the Auction Algorithm on the Intel Hypercube.	Nader Bagherzadeh,Kent Hawk	10.1109/IPPS.1992.223005
+Profiling Based Task Migration.	Jeff Baxter,Janak H. Patel	10.1109/IPPS.1992.223048
+The Impact of Task-Length Parameters on the Performance of the Random Load-Balancing Algorithm.	Yosi Ben-Asher,Aviad Cohen 0001,Assaf Schuster,Jop F. Sibeyn	10.1109/IPPS.1992.223067
+The Bus-Usage Method for the Analysis of Reconfiguring Networks Algorithms.	Yosi Ben-Asher,Assaf Schuster	10.1109/IPPS.1992.223056
+Distributed Consensus in Semi-Synchronous Systems.	Piotr Berman,Anupam A. Bharali	10.1109/IPPS.1992.222994
+Supporting Matrix Operations in Vector Architectures.	Hua Bi,Wolfgang K. Giloi	10.1109/IPPS.1992.223043
+Solving Linear Recurrences with Loop Raking.	Guy E. Blelloch,Siddhartha Chatterjee,Marco Zagha	10.1109/IPPS.1992.223009
+Fault-Tolerant Multiprocessor System Routing Using Incomplete Diagnostic Information.	Douglas M. Blough,Shahriar Najand	10.1109/IPPS.1992.223013
+Performance Analysis of Two Address Space Allocation Schemes for an Optically Interconnected Distributed Shared-Memory System.	Kalyani Bogineni,Patrick W. Dowd	10.1109/IPPS.1992.222967
+Preventing Recursion Deadlock in Concurrent Object-Oriented Systems.	Eric A. Brewer,Carl A. Waldspurger	10.1109/IPPS.1992.222987
+Implementation of Parallel Processors with Wafer Scale Integration.	Thomas K. Callaway,Earl E. Swartzlander Jr.	10.1109/IPPS.1992.223034
+A Near-Optimal Parallel Algorithm for Edge-Coloring Outerplanar Graphs.	Yuval Caspi,Eliezer Dekel	10.1109/IPPS.1992.223035
+Automatic Parallelization of Programs with Tools of Trace Theory.	Christophe Cérin	10.1109/IPPS.1992.223016
+Scheduling Conditions for Concttrrent Real-Time Readers and Writers.	Min-Ih Chen,Ching-Chih Han,Kwei-Jay Lin	10.1109/IPPS.1992.223053
+VLSI Implementation of a 256 x 256 Crossbar Interconnection Network.	Kyusun Choi,William S. Adams	10.1109/IPPS.1992.223031
+Comparisons and Analysis of Massively Parallel SIMD Architectures for Parallel Logic Simulation.	Eunmi Choi,Moon-Jung Chung,Yunmo Chung	10.1109/IPPS.1992.222986
+Evaluation of Connected Component Labeling Algorithms on Shared and Distributed Memory Multiprocessors.	Alok N. Choudhary,Rajeev Thakur	10.1109/IPPS.1992.223019
+Scalable Parallel Arc Consistency Algorithms for Shared-Memory Computers.	James M. Conrad,Dharma P. Agrawal,Dennis R. Bahler	10.1109/IPPS.1992.223039
+The Möbus Cubes: Improved Cubelike Networks for Parallel Computation.	Paul Cull,Shawn M. Larson	10.1109/IPPS.1992.222997
+A New Parallel Algorithm for Breadth-First Search on Interval Graphs.	Sajal K. Das 0001,Calvin Ching-Yuen Chen	10.1109/IPPS.1992.223055
+An Optimal Parallel Algorithm for Arithmetic Expression Parsing.	Weian Deng,S. Sitharama Iyengar	10.1109/IPPS.1992.223044
+Efficient Process Migration in the EMPS Multiprocessor System.	Gerardus Johannes Wichardus van Dijk,M. J. van Gils	10.1109/IPPS.1992.223071
+Multipath E-Cube Algorithms (MECA) for Adaptive Wormhole Routing and Broadcasting in itk-ary itn-Cubes.	Jeffrey T. Draper,Joydeep Ghosh	10.1109/IPPS.1992.223011
+Cluster-M Parallel Programming Model.	Mary Mehrnoosh Eshaghian	10.1109/IPPS.1992.223002
+CCHIME: A Cache Coherent Hybrid Interconnected Memory Extension.	Matthew K. Farrens,Arvin Park,Allison Woodruff	10.1109/IPPS.1992.222965
+Bussed Interconnection Networks from Trees.	Charles M. Fiduccia	10.1109/IPPS.1992.223015
+The Seamless Approach to Reconciling Communication and Locality in Distributed-Memory Parallel Systems.	Samuel A. Fineberg,Thomas L. Casavant,Brent H. Pease	10.1109/IPPS.1992.223072
+Two-State Self-Stabilizing Algorithms.	Mitchell Flatebo,Ajoy Kumar Datta	10.1109/IPPS.1992.223047
+Visualization of a Simple Routing Scheme for Meshes.	Nelson Ge,John K. Antonio,Sharada V. Vitalpur	10.1109/IPPS.1992.222998
+Using a Functional Language id Graph Reduction to Program Multiprocessor Machines, or Functional Control of Imperative Programs.	Lal George,Gary Lindstrom	10.1109/IPPS.1992.223017
+A Parallel Approach to Hybrid Range Image Segmentation.	Nicholas Giolmas,Daniel W. Watson,David M. Chelberg,Howard Jay Siegel	10.1109/IPPS.1992.223024
+Optimal Deterministic Task Distribution in Multiprocessors.	Israel Gottlieb	10.1109/IPPS.1992.223050
+Adaptive Deadlock-Free Worrnhole Routing in Hypercubes.	Luis Gravano,Gustavo D. Pifarré,Gustavo Denicolay,Jorge L. C. Sanz	10.1109/IPPS.1992.222975
+Compile-Time Estimation of Communication Costs on Multicomputers.	Manish Gupta,Prithviraj Banerjee	10.1109/IPPS.1992.222982
+Generalized Compressed Tree Machines.	Ajay Gupta 0001,Hong Wang	10.1109/IPPS.1992.223065
+Optimal Allocation of Shared Data over Distributed Memory Hierarchies.	Emile Haddad	10.1109/IPPS.1992.222974
+VLSI Architectures for Recursive and Multiple-Window Order Statistic Filtering.	M. Reza Hakami,Peter J. Warter,Charles G. Boncelet Jr.,David Nassimi	10.1109/IPPS.1992.223030
+Determining Maximum itk-Width Connectivity on Meshes.	Susanne E. Hambrusch,Frank K. H. A. Dehne	10.1109/IPPS.1992.223040
+Scalable Reader-Writer Locks for Parallel Systems.	Wilson C. Hsieh,William E. Weihl	10.1109/IPPS.1992.222989
+The Impact of Wiring Constraints on Hierarchical Network Performance.	William Tsun-Yuk Hsu,Pen-Chung Yew	10.1109/IPPS.1992.222964
+Quadtree Building Algorithms on an SIMD Hypercube.	Oscar H. Ibarra,Myung Hee Kim	10.1109/IPPS.1992.223077
+An Optimal Sorting Algorithm on Reconfigurable Mesh.	Ju-wook Jang,Viktor K. Prasanna	10.1109/IPPS.1992.223059
+Some Architectural and Compilation Issues in the Design of Hierarchical Shared-Memory Multiprocessors.	D. N. Jayasimha,Jeff D. Martens	10.1109/IPPS.1992.222966
+A Functional Execution Model for a Non-Dataflow Tagged Token Architecture.	Glenn Jennings	10.1109/IPPS.1992.222978
+Serial and Parallel Algorithms for the Medial Axis Transform.	Jing-Fu Jenq,Sartaj Sahni	10.1109/IPPS.1992.223025
+Histogramming on a Reconfigurable Mesh Computer.	Jing-Fu Jenq,Sartaj Sahni	10.1109/IPPS.1992.223008
+An Optimal Parallel Algorithm for Finding the Smallest Enclosing Rectangle on a Mesh-Connected Computer.	Chang-Sung Jeong,Jung-Ju Choi	10.1109/IPPS.1992.223058
+Hybrid Loop Interchange: Optimization for Parallel Programs.	Guohua Jin,Fujie Chen	10.1109/IPPS.1992.222984
+A Distributed Data-Balanced Dictionary Based on the B-Link Tree.	Theodore Johnson,Adrian Colbrook	10.1109/IPPS.1992.223026
+Optimal Algorithms for the Vertex Updating Problem of a Minimum Spanning Tree.	Donald B. Johnson 0001,Panagiotis Takis Metaxas	10.1109/IPPS.1992.223028
+The Interplay between Granularity, Performance, and Availability in a Replicated Linda Tuple Space.	Srikanth Kambhatla,Jonathan Walpole	10.1109/IPPS.1992.222976
+Multiprocessor Scheduling of Periodic Tasks in a Hard Real-Time Environment.	Ashok Khemka,R. K. Shyamasundar	10.1109/IPPS.1992.223068
+Matching Algorithms and Architecture in Hierarchical Shared-Memory Multiprocessor (HMS) Systems.	Ashfaq A. Khokhar,Michel Dubois 0001	10.1109/IPPS.1992.222968
+A Model of Objects and Communication for Massively Parallel Programming.	Michael F. Kilian	10.1109/IPPS.1992.223021
+Performability Studies of Hypercube Architectures.	Samir M. Koriem,Lalit M. Patnaik	10.1109/IPPS.1992.222979
+A Systolic Algorithm and Architecture for Galois Field Arithmetic.	Mario Kovac,N. Ranganathan,M. Varanasi	10.1109/IPPS.1992.223032
+The Combining Dag: A Technique for Parallel DataMow Analysis.	Robert Kramer,Rajiv Gupta 0001,Mary Lou Soffa	10.1109/IPPS.1992.222990
+Multipacket Selection on Mesh-Connected Processor Arrays.	Danny Krizanc,Lata Narayanan	10.1109/IPPS.1992.222999
+A Library Environment for Distributed-Memory Multiprocessors.	M. Kishore Kumar,P. Sreenivasa Kumar,A. Basu	10.1109/IPPS.1992.222980
+A Structuring Technique for Compute-Aggregate-Broadcast Algorithms on Distributed Memory Computers.	Andrew W. Kwan,Lubomir Bic	10.1109/IPPS.1992.223079
+A More Efficient Message-Optimal Algorithm for Distributed Termination Detection.	Ten-Hwang Lai,Yu-Chee Tseng,Xuefeng Dong	10.1109/IPPS.1992.222991
+A Fast Parallel Scheduler for Resource Requests Implemented Using Optical Devices.	T. V. Lakshman,A. Bagchi,K. Rastani	10.1109/IPPS.1992.223052
+An Improved Multiple-Path Deadlock-Free Routing Algorithm in Binary Hypercubes.	Qiang Li	10.1109/IPPS.1992.223000
+Modeling and Control of Distributed Asynchronous Computations.	Longsong Lin,John K. Antonio	10.1109/IPPS.1992.222995
+Distributed Algorithms for Shortest-Path Deadlock-Free Routing and Broadcasting in a Class of Interconnection Topologies.	Jen-Shiuh Liu,Wen-Jing Hsu	10.1109/IPPS.1992.222963
+The Odd-Even Expansion Storage Scheme and Its Implementation Issues.	Zhiyong Liu,Jia-Huai You,Xiaobo Li 0001	10.1109/IPPS.1992.222969
+Load Balancing for Distributed Branch and Bound Algorithms.	Reinhard Lüling,Burkhard Monien	10.1109/IPPS.1992.222970
+A Hierarchical Directory Scheme for Large-Scale Cache-Coherent Multipmcessors.	Yeong-Chang Maa,Dhiraj K. Pradhan,Dominique Thiébaut	10.1109/IPPS.1992.223074
+IDPS: A Massively Parallel Heuristic Search Algorithm.	Ambuj Mahanti,Charles J. Daniels	10.1109/IPPS.1992.223042
+Vector Hartley Transform Employing Multiprocessors.	Rabi N. Mahapatra,Akhilesh Kumar	10.1109/IPPS.1992.223038
+Properties and Performance of the Hierarchical Hypercube.	Qutaibah M. Malluhi,Magdy A. Bayoumi	10.1109/IPPS.1992.223073
+A Superior Class of Networks for Reconfigurable Meshes.	Richard Mazzaferri,Heiko Schröder	10.1109/IPPS.1992.223006
+Processor Assignment in Heterogeneous Parallel Architectures.	Daniel A. Menascé,Stella C. S. Porto,Satish K. Tripathi	10.1109/IPPS.1992.223049
+Banyan Heap Machine.	Mohammad Reza Meybodi	10.1109/IPPS.1992.223041
+A Software Tool for Cellular Mapping of Discrete Unitary Transforms.	George Miel,Evangelos A. Yfantis	10.1109/IPPS.1992.223029
+Prototyping N-Body Simulation in Proteus.	Peter Mills,Lars S. Nyland,Jan F. Prins,John H. Reif	10.1109/IPPS.1992.222981
+Efficient Parallel Shortest Path Algorithms for K-Chordal Graphs.	Pinaki Mitra	10.1109/IPPS.1992.223066
+Dominant Representations: A Paradigm for Mapping Parallel Computations.	Ajay Mohindra,Sudhakar Yalamanchili	10.1109/IPPS.1992.223070
+Nearly Logarithmic Time Parallel Algorithms for the Class of \pm2b ASCEND Computations on a SIMD Hypercube.	David Nassimi	10.1109/IPPS.1992.223060
+Exploiting Concurrency among Tasks in Partitionable Parallel Processing Systems.	Wayne G. Nation,Anthony A. Maciejewski,Howard Jay Siegel	10.1109/IPPS.1992.223076
+Aroma: Language Support for Distributed Objects.	Hiroshi Nishikawa,Peter Steenkiste	10.1109/IPPS.1992.222983
+Hierarchically Organized Petri Net State Space for Reachability and Deadlock Analysis.	Masato Notomi,Tadao Murata	10.1109/IPPS.1992.222996
+Fast Computer Vision Algorithms for Reconfigurable Meshes.	Stephan Olariu,James L. Schwing,Jingyuan Zhang	10.1109/IPPS.1992.223036
+The Vesicular Dataflow Model.	Roman Podraza,Dariusz Turlej,Krzysztof Piorun	10.1109/IPPS.1992.222977
+Parallel Heap: Improved and Simplified.	Sushil K. Prasad,Narsingh Deo	10.1109/IPPS.1992.223004
+An Efficient Convex Hull Computation on the Reconfigurable Mesh.	Dionisios I. Reisis	10.1109/IPPS.1992.223057
+A Scheme for State Change in a Distributed Environment Using Weighted Throw Counting.	Kazuaki Rokusawa,Nobuyuki Ichiyoshi	10.1109/IPPS.1992.222992
+Parallel Coprocessor for Kohonen&apos;s Self-Organizing Neural Network.	Jukka Saarinen,Martti Lindroos,Jouni Tomberg,Kimmo Kaski	10.1109/IPPS.1992.222971
+A Paradigm for Distributed Deadlock Avoidance in Multicomputer Networks.	J. P. Samantarai	10.1109/IPPS.1992.222993
+A Parallel Algorithm for Recognizing the Shuffle of Two Strings.	Ahmed Saoudi,Maurice Nivat,C. Pandu Rangan,Ravi Sundaram,G. D. S. Ramkumar	10.1109/IPPS.1992.223062
+Efficient Parallel Algorithms for Selection and Searching on Sorted Matrices.	R. Sarnath,Xin He	10.1109/IPPS.1992.223063
+Building Families of Object-Based Multiprocessor Kernels.	Karsten Schwan,Ahmed Gheith,Hongyi Zhou	10.1109/IPPS.1992.223018
+Optimal Aspect Ratio and Number of Separable Row/Column Buses for Mesh-Connected Parallel Computers.	Mauricio J. Serrano,Behrooz Parhami	10.1109/IPPS.1992.223023
+Memory Requirements to Balance Thus Asymptotically Full-Speedup FFT Computation on Processor Arrays.	Jiann-Cherng Shieh	10.1109/IPPS.1992.223045
+A Computational Model for Message Passing.	Anand Sivasubramaniam,Umakishore Ramachandran,H. Venkateswaran	10.1109/IPPS.1992.223020
+A Latency-Hiding Scheme for Multiprocessors with Buffered Multistage Networks.	Per Stenström	10.1109/IPPS.1992.223075
+The Effects of Communication Overhead on the Speedup of Parallel 3-D Finite Element Applications.	Valerie E. Taylor,Bahram Nour-Omid,David G. Messerschmitt	10.1109/IPPS.1992.222972
+Analyzing Performance of Sequencing Mechanisms for Simple Layered Task Systems.	Athar B. Tayyab,Jon G. Kuhl	10.1109/IPPS.1992.223051
+Asymmetrical Multiconnection Three-Stage Clos Networks.	Anujan Varma,Suresh Chalasani	10.1109/IPPS.1992.223010
+Assignment of ADT Modules to Processors.	Lonnie R. Welch	10.1109/IPPS.1992.223069
+Exploiting SIMD Computers for General Purpose Computation.	Philip A. Wilsey,Debra A. Hensgen	10.1109/IPPS.1992.222985
+Space-Optimal Linear Processor Allocation for Systolic Arrays Synthesis.	Yiwan Wong,Jean-Marc Delosme	10.1109/IPPS.1992.223033
+Language Constructs for Structured Parallel Programming.	Zhiwei Xu,Kai Hwang 0001	10.1109/IPPS.1992.223003
+Design and Analysis of Fault-Detecting and Fault-Locating Schedules for Computation DAGs.	Shalini Yajnik,Niraj K. Jha	10.1109/IPPS.1992.223022
+Formal Derivation of an Efficient Parallel 2-D Gauss-Siedel Method.	J. Allan Yang,Young-il Choo	10.1109/IPPS.1992.223046
+Analytical Modeling of a Parallel Branch-and-Bound Algorithm on MIN-Based Multiprocessors.	Myung K. Yang,Chita R. Das	10.1109/IPPS.1992.223037
+Embedding and Reconfiguration of Binary Trees in Faulty Hypercubes.	Pei-Ji Yang,Cauligi S. Raghavendra	10.1109/IPPS.1992.223080
+Conflict-Free Scheduling of Nested Loop Algorithms on Lower Dimensional Processor Arrays.	Zhenhui Yang,Weijia Shang,José A. B. Fortes	10.1109/IPPS.1992.223054
+Hash Table in Massively Parallel Systems.	I-Ling Yen,Farokh B. Bastani	10.1109/IPPS.1992.222988
+On-Line Communication on Circuit-Switched Fixed Routing Meshes.	Abdou Youssef	10.1109/IPPS.1992.223014
+Permutation Routing in Restricted Access Networks.	Abdou Youssef,Brian D. Alleyne,Isaac D. Scherson	10.1109/IPPS.1992.223012
+Parallel Heap Operations on EREW PRAM: Summary of Results.	Weixiong Zhang,Richard E. Korf	10.1109/IPPS.1992.223027
+Parallel Implementation of Divide-and-Conquer Algorithms on Binary de Bruijn Networks.	Xiaoxiong Zhong,Sanjay V. Rajopadhye,Virginia Mary Lo	10.1109/IPPS.1992.223064
+Householder Transformation for the Regularized Least Square Problem on iPSX/860.	Jianping Zhu	10.1109/IPPS.1992.223007
+Proceedings of the 6th International Parallel Processing Symposium, Beverly Hills, CA, USA, March 1992	Viktor K. Prasanna,Larry H. Canter	

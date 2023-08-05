@@ -1,0 +1,25 @@
+Fast liveness checking for ssa-form programs.	Benoit Boissinot,Sebastian Hack,Daniel Grund,Benoît Dupont de Dinechin,Fabrice Rastello	10.1145/1356058.1356064
+Prefetching irregular references for software cache on cell.	Tong Chen 0001,Tao Zhang,Zehra Sura,Marc González Tallada	10.1145/1356058.1356079
+Modulo scheduling for highly customized datapaths to increase hardware reusability.	Kevin Fan,Hyunchul Park 0001,Manjunath Kudlur,Scott A. Mahlke	10.1145/1356058.1356075
+Parallelism by design: data analysis with sawzall.	Robert Griesemer	10.1145/1356058.1356089
+Phase-based adaptive recompilation in a JVM.	Dayong Gu,Clark Verbrugge	10.1145/1356058.1356062
+Compiling for vector-thread architectures.	Mark Hampton,Krste Asanovic	10.1145/1356058.1356085
+Cole: compiler optimization level exploration.	Kenneth Hoste,Lieven Eeckhout	10.1145/1356058.1356080
+Prediction and trace compression of data access addresses through nested loop recognition.	Alain Ketterlin,Philippe Clauss	10.1145/1356058.1356071
+Near-optimal instruction selection on dags.	David Ryan Koes,Seth Copen Goldstein	10.1145/1356058.1356065
+Branch-on-random.	Edward Lee,Craig B. Zilles	10.1145/1356058.1356070
+Fault-safe code motion for type-safe languages.	Brian R. Murphy,Vijay Menon 0002,Florian T. Schneider,Tatiana Shpeisman,Ali-Reza Adl-Tabatabai	10.1145/1356058.1356078
+Parallel-stage decoupled software pipelining.	Easwaran Raman,Guilherme Ottoni,Arun Raman,Matthew J. Bridges,David I. August	10.1145/1356058.1356074
+Spice: speculative parallel iteration chunk execution.	Easwaran Raman,Neil Vachharajani,Ram Rangan,David I. August	10.1145/1356058.1356082
+Issues and challenges in compiling for graphics processors.	Norm Rubin	10.1145/1356058.1356088
+Program optimization space pruning for a multithreaded gpu.	Shane Ryoo,Christopher I. Rodrigues,Sam S. Stone,Sara S. Baghsorkhi,Sain-Zee Ueng,John A. Stratton,Wen-mei W. Hwu	10.1145/1356058.1356084
+Accurate critical path prediction via random trace construction.	Pierre Salverda,Charles Tucker,Craig B. Zilles	10.1145/1356058.1356068
+Code optimization of parallel programs: evolutionary vs. revolutionary approaches.	Vivek Sarkar	10.1145/1356058.1356087
+Efficient fine-grained binary instrumentationwith applications to taint-tracking.	Prateek Saxena,R. Sekar 0001,Varun Puranik	10.1145/1356058.1356069
+Removing redundancy via exception check motion.	Vijay Sundaresan,Mark G. Stoodley,Pramod Ramarao	10.1145/1356058.1356077
+Comprehensive path-sensitive data-flow analysis.	Aditya V. Thakur,R. Govindarajan	10.1145/1356058.1356066
+Automatic array inlining in java virtual machines.	Christian Wimmer,Hanspeter Mössenböck	10.1145/1356058.1356061
+Latency-tolerant software pipelining in a production compiler.	Sebastian Winkel,Rakesh Krishnaiyer,Robyn Sampson	10.1145/1356058.1356073
+Pipa: pipelined profiling and analysis on multi-core systems.	Qin Zhao,Ioana Cutcutache,Weng-Fai Wong	10.1145/1356058.1356083
+Perfdiff: a framework for performance difference analysis in a virtual machine environment.	Xiaotong Zhuang,Suhyun Kim,Mauricio J. Serrano,Jong-Deok Choi	10.1145/1356058.1356060
+Sixth International Symposium on Code Generation and Optimization (CGO 2008), April 5-9, 2008, Boston, MA, USA	Mary Lou Soffa,Evelyn Duesterwald	

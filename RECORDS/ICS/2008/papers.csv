@@ -1,0 +1,41 @@
+Challenges on the road to exascale computing.	Tilak Agerwala	10.1145/1375527.1375529
+Advanced collective communication in aspen.	Qasim Ali 0001,Vijay S. Pai,Samuel P. Midkiff	10.1145/1375527.1375543
+A regression-based approach to scalability prediction.	Bradley J. Barnes,Barry Rountree,David K. Lowenthal,Jaxk Reeves,Bronis R. de Supinski,Martin Schulz 0001	10.1145/1375527.1375580
+A compiler framework for optimization of affine loop nests for gpgpus.	Muthu Manikandan Baskaran,Uday Bondhugula,Sriram Krishnamoorthy,J. Ramanujam,Atanas Rountev,P. Sadayappan	10.1145/1375527.1375562
+Analysis of dynamic power management on multi-core processors.	William Lloyd Bircher,Lizy K. John	10.1145/1375527.1375575
+Soft error vulnerability of iterative linear algebra methods.	Greg Bronevetsky,Bronis R. de Supinski	10.1145/1375527.1375552
+The shared-thread multiprocessor.	Jeffery A. Brown,Dean M. Tullsen	10.1145/1375527.1375541
+Data mining on the cell broadband engine.	Gregory Buehrer,Srinivasan Parthasarathy 0001,Matthew Goyder	10.1145/1375527.1375534
+Automatic analysis of speedup of MPI applications.	Marc Casas,Rosa M. Badia,Jesús Labarta	10.1145/1375527.1375578
+Orchestrating data transfer for the cell/B.E. processor.	Tong Chen,Haibo Lin,Tao Zhang	10.1145/1375527.1375570
+Three-dimensional delaunay refinement for multi-core processors.	Andrey N. Chernikov,Nikos Chrisochoides	10.1145/1375527.1375560
+Autonomous learning for efficient resource utilization of dynamic VM migration.	Hyung Won Choi,Hukeun Kwak,Andrew Sohn,Kyusik Chung	10.1145/1375527.1375556
+Fast scan algorithms on graphics processors.	Yuri Dotsenko,Naga K. Govindaraju,Peter-Pike J. Sloan,Charles Boyd,John Manferdelli	10.1145/1375527.1375559
+CUBA: an architecture for efficient CPU/co-processor data communication.	Isaac Gelado,John H. Kelm,Shane Ryoo,Steven S. Lumetta,Nacho Navarro,Wen-mei W. Hwu	10.1145/1375527.1375571
+Many-core GPU computing with NVIDIA CUDA.	Mark J. Harris	10.1145/1375527.1375528
+Biomedical image analysis on a cooperative cluster of GPUs and multicores.	Timothy D. R. Hartley,Ümit V. Çatalyürek,Antonio Ruiz,Francisco D. Igual,Rafael Mayo 0002,Manuel Ujaldon	10.1145/1375527.1375533
+Performance portable optimizations for loops containing communication operations.	Costin Iancu,Wei Chen 0011,Katherine A. Yelick	10.1145/1375527.1375567
+Implementing Wilson-Dirac operator on the cell broadband engine.	Khaled Z. Ibrahim,François Bodin	10.1145/1375527.1375532
+Petaflop/s, seriously.	David E. Keyes	10.1145/1375527.1375530
+Rotating register allocation with multiple rotating branches.	Suhyun Kim,Soo-Mook Moon	10.1145/1375527.1375563
+Can software reliability outperform hardware reliability on high performance interconnects?: a case study with MPI over infiniband.	Matthew J. Koop,Rahul Kumar,Dhabaleswar K. Panda 0001	10.1145/1375527.1375551
+The deep computing messaging framework: generalized scalable message passing on the blue gene/P supercomputer.	Sameer Kumar 0001,Gábor Dózsa,Gheorghe Almási 0001,Philip Heidelberger,Dong Chen 0005,Mark Giampapa,Michael Blocksome,Ahmad Faraj,Jeff Parker,Joe Ratterman,Brian E. Smith,Charles Archer	10.1145/1375527.1375544
+Adaptive runtime tuning of parallel sparse matrix-vector multiplication on distributed memory systems.	Seyong Lee,Rudolf Eigenmann	10.1145/1375527.1375558
+Analyzing memory access intensity in parallel programs on multicore.	Lixia Liu,Zhiyuan Li 0001,Ahmed H. Sameh	10.1145/1375527.1375579
+An approach for adaptive DRAM temperature and power management.	Song Liu,Seda Ogrenci Memik,Yu Zhang,Gokhan Memik	10.1145/1375527.1375540
+Exploiting idle register classes for fast spill destination.	Fang Lu,Lei Wang 0004,Xiaobing Feng 0002,Zhiyuan Li 0001,Zhaoqing Zhang	10.1145/1375527.1375574
+Focused prefetching: performance oriented prefetching based on commit stalls.	R. Manikantan,R. Govindarajan	10.1145/1375527.1375576
+Optimizing irregular shared-memory applications for clusters.	Seung-Jai Min,Rudolf Eigenmann	10.1145/1375527.1375566
+Timely offloading of result-data in HPC centers.	Henry M. Monti,Ali Raza Butt,Sudharshan S. Vazhkudai	10.1145/1375527.1375548
+Preserving time in large-scale communication traces.	Prasun Ratn,Frank Mueller 0001,Bronis R. de Supinski,Martin Schulz 0001	10.1145/1375527.1375537
+Phasers: a unified deadlock-free construct for collective and point-to-point synchronization.	Jun Shirako,David M. Peixotto,Vivek Sarkar,William N. Scherer III	10.1145/1375527.1375568
+Evaluating the effect of replacing CNK with linux on the compute-nodes of blue gene/l.	Edi Shmueli,George Almási 0001,José R. Brunheroto,José G. Castaños,Gábor Dózsa,Sameer Kumar 0001,Derek Lieber	10.1145/1375527.1375554
+Automatic SIMD vectorization of chains of recurrences.	Yixin Shou,Robert A. van Engelen	10.1145/1375527.1375564
+Efficient computation of sum-products on GPUs through software-managed cache.	Mark Silberstein,Assaf Schuster,Dan Geiger,Anjul Patney,John D. Owens	10.1145/1375527.1375572
+Power-aware dynamic placement of HPC applications.	Akshat Verma,Puneet Ahuja,Anindya Neogi	10.1145/1375527.1375555
+A freespace crossbar for multi-core processors.	Michel N. Victor,Aris K. Silzars,Edward S. Davidson	10.1145/1375527.1375539
+Accurate memory signatures and synthetic address traces for HPC applications.	Jonathan Weinberg,Allan Snavely	10.1145/1375527.1375536
+A projection-based optimization framework for abstractions with application to the unstructured mesh domain.	Brian S. White,Sally A. McKee,Daniel J. Quinlan	10.1145/1375527.1375545
+CprFS: a user-level file system to support consistent file states for checkpoint and restart.	Ruini Xue,Wenguang Chen,Weimin Zheng	10.1145/1375527.1375547
+Shifted declustering: a placement-ideal layout scheme for multi-way replication storage architecture.	Huijun Zhu,Peng Gu,Jun Wang 0001	10.1145/1375527.1375549
+Proceedings of the 22nd Annual International Conference on Supercomputing, ICS 2008, Island of Kos, Greece, June 7-12, 2008	Pin Zhou	10.1145/1375527

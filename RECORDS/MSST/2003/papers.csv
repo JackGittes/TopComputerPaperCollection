@@ -1,0 +1,37 @@
+A Performance Analysis of the iSCSI Protocol.	Stephen Aiken,Dirk Grunwald,Andrew R. Pleszkun,Jesse Willek	10.1109/MASS.2003.1194849
+NSM: A Distributed Storage Architecture for Data-Intensive Applications.	Zeyad Ali,Qutaibah M. Malluhi	10.1109/MASS.2003.1194842
+A Centralized Data Access Model for Grid Computing.	Phil Andrews,Tom Sherwin,Bryan Banister	10.1109/MASS.2003.1194864
+Towards an Object Stor.	Alain Azagury,Vladimir Dreizin,Michael Factor,Ealan Henis,Dalit Naor,Noam Rinetzky,Ohad Rodeh,Julian Satran,Ami Tavory,Lena Yerushalmi	10.1109/MASS.2003.1194853
+The Fermilab Data Storage Infrastructure.	Jon Bakken,Eileen Berman,Chih-Hao Huang,Alexander Moibenko,Donald Petravick,Michael Zalokar	10.1109/MASS.2003.1194845
+Views, Objects, and Persistence for Accessing a High Volume Global Data Set.	Richard T. Baldwi	10.1109/MASS.2003.1194840
+Efficient Metadata Management in Large Distributed Storage Systems.	Scott A. Brandt,Ethan L. Miller,Darrell D. E. Long,Lan Xue	10.1109/MASS.2003.1194865
+A Scalable Architecture for Clustered Network Attached Storage.	Jonathan D. Bright,John A. Chandy	10.1109/MASS.2003.1194857
+Software-Based Erasure Codes for Scalable Distributed Storage.	Joseph A. Cooley,Jeremy L. Mineweaser,Leslie D. Servi,Eushiuan T. Tsung	10.1109/MASS.2003.1194852
+Archive Management: The Missing Component.	Howard J. Diamond,John J. Bates,David M. Clark,Robert L. Mairs	10.1109/MASS.2003.1194834
+High Bandwidth Scientific Data Management Using Storage Area Networking: Lessons Learned at the Starfire Optical Range.	Terry S. Duncan,Michael S. Sichler	10.1109/MASS.2003.1194846
+Storage Devices, Local File System and Crossbar Network File System Characteristics, and 1 Terabyte File IO Benchmark on the &quot;Numerical Simulator III&quot; .	Naoyuki Fujita,Hirofumi Ookawa	10.1109/MASS.2003.1194839
+Design and Implementation of a Block Storage Multi-Protocol Converter.	Irina Gerasimov,Alexey Zhuravlev,Mikhail Pershin,Dennis V. Gerasimov	10.1109/MASS.2003.1194855
+NCDC the &quot;One Stop Shop&quot; for All WSR-88D Level II Data Service.	Stephen A. Del Greco	10.1109/MASS.2003.1194847
+A Case for the Global Access to Large Distributed Data Sets Using Data Webs Employing Photonic Data Services.	Robert L. Grossman,Yunhong Gu,David Hanley,Xinwei Hong,Jorge Levera,Marco Mazzucco,Dave Lillethun,Joe Mambretti,Jeremy Weinberger	10.1109/MASS.2003.1194837
+Design and Implementation of a Storage Repository Using Commonality Factoring.	Jim Hamilton,Eric W. Olsen	10.1109/MASS.2003.1194854
+Media Stability and Life Expectancies of Magnetic Tape for Use with IBM 3590 and Digital Linear Tape Systems.	J. S. Judge,R. G. Schmidt,Ron D. Weiss,Glen P. Miller	10.1109/MASS.2003.1194844
+NAS Switch: A Novel CIFS Server Virtualization.	Wataru Katsurashima,Satoshi Yamakawa,Takashi Torii,Jun Ishikawa,Yoshihide Kikuchi,Kouji Yamaguti,Kazuaki Fujii,Toshihiro Nakashima	10.1109/MASS.2003.1194841
+Implementing and Evaluating Jukebox Schedulers Using JukeTools.	Maria Eva Lijding,Sape J. Mullender,Pierre G. Jansen	10.1109/MASS.2003.1194843
+An Overview of a Large-Scale Data Migration.	Magnus Lübeck,Dirk Geppert,Krzysztof Nienartowicz,Marcin Nowak,Andrea Valassi	10.1109/MASS.2003.1194835
+SPIRAL: A Client-Transparent Third-Party Transfer Scheme for Network Attached Disks.	Xiaonan Ma,A. L. Narasimha Reddy	10.1109/MASS.2003.1194862
+Building Cost-Effective Remote Data Storage Capabilities for NASA&apos;s EOSDI.	Steve Marley,Mike Moore,Bruce Clark	10.1109/MASS.2003.1194833
+Design and Implementation of Multiple Addresses Parallel Transmission Architecture for Storage Area Network.	Bin Meng,Patrick B. T. Khoo,T. C. Chong	10.1109/MASS.2003.1194838
+Design of the iSCSI Protocol.	Kalman Z. Meth,Julian Satran	10.1109/MASS.2003.1194848
+Peabody: The Time Travelling Disk.	Charles B. Morrey III,Dirk Grunwald	10.1109/MASS.2003.1194861
+Effective Management of Hierarchical Storage Using Two Levels of Data Clustering.	Ratko Orlandic	10.1109/MASS.2003.1194863
+Accurate Modeling of Cache Replacement Policies in a Data Grid.	Ekow J. Otoo,Arie Shoshani	10.1109/MASS.2003.1194831
+Data Grids, Collections, and Grid Bricks.	Arcot Rajasekar,Michael Wan,Reagan W. Moore,George Kremenek,Tom Guptil	10.1109/MASS.2003.1194830
+zFS - A Scalable Distributed File System Using Object Disks.	Ohad Rodeh,Avi Teperman	10.1109/MASS.2003.1194858
+Considerations and Performance Evaluations of Shared Storage Area Networks at NASA Goddard Space Flight Center.	Hoot Thompson,Curt Tilmes,Robert Cavey,Bill Fink,Paul Lang,Ben Kobler	10.1109/MASS.2003.1194850
+A Simple Mass Storage System for the SRB Data Grid.	Michael Wan,Arcot Rajasekar,Reagan W. Moore,Phil Andrews	10.1109/MASS.2003.1194832
+IP SAN - From iSCSI to IP-Addressable Ethernet Disks.	Peter Wang,Robert E. Gilligan,Henry Green,Jeff Raubitschek	10.1109/MASS.2003.1194856
+Using Multiple Predictors to Improve the Accuracy of File Access Predictions.	Gary A. S. Whittle,Jehan-François Pâris,Ahmed Amer,Darrell D. E. Long,Randal C. Burns	10.1109/MASS.2003.1194860
+Reliability Mechanisms for Very Large Storage Systems.	Qin Xin 0005,Ethan L. Miller,Thomas J. E. Schwarz,Darrell D. E. Long,Scott A. Brandt,Witold Litwin	10.1109/MASS.2003.1194851
+Concept and Evaluation of X-NAS: A Highly Scalable NAS System.	Yoshiko Yasuda,Shinichi Kawamoto,Atsushi Ebata,Jun Okitsu,Tatsuo Higuchi 0002	10.1109/MASS.2003.1194859
+Towards Optimal I/O Scheduling for MEMS-Based Storag.	Hailing Yu,Divyakant Agrawal,Amr El Abbadi	10.1109/MASS.2003.1194836
+20th IEEE/11th NASA Goddard Conference on Mass Storage Systems and Technologies, MSS 2003, San Diego, California, USA, April 7-10, 2003		

@@ -1,0 +1,82 @@
+Reconstructing approximate tree metrics.	Ittai Abraham,Mahesh Balakrishnan 0001,Fabian Kuhn,Dahlia Malkhi,Venugopalan Ramasubramanian,Kunal Talwar	10.1145/1281100.1281110
+Abortable and query-abortable objects and their efficient implementation.	Marcos Kawazoe Aguilera,Svend Frølund,Vassos Hadzilacos,Stephanie Lorraine Horn,Sam Toueg	10.1145/1281100.1281107
+Remote storage with byzantine servers.	Marcos Kawazoe Aguilera,Ram Swaminathan	10.1145/1281100.1281148
+Bounded wait-free implementation of optimally resilient byzantine storage without (unproven) cryptographic assumptions.	Amitanand S. Aiyer,Lorenzo Alvisi,Rida A. Bazzi	10.1145/1281100.1281147
+The complexity of updating multi-writer snapshot objects.	Hagit Attiya,Faith Ellen,Panagiota Fatourou	10.1145/1281100.1281151
+The power of DCAS: highly-concurrent software transactional memory.	Hagit Attiya,Eshcar Hillel	10.1145/1281100.1281163
+Greedy distributed optimization of multi-commodity flows.	Baruch Awerbuch,Rohit Khandekar	10.1145/1281100.1281140
+Distributed network monitoring and multicommodity flows: a primal-dual approach.	Baruch Awerbuch,Rohit Khandekar	10.1145/1281100.1281141
+Minimizing the total cost of network measurements in a distributed manner: a primal-dual approach.	Baruch Awerbuch,Rohit Khandekar	10.1145/1281100.1281170
+On cost sharing mechanisms in the network design game.	Baruch Awerbuch,Rohit Khandekar	10.1145/1281100.1281175
+Asynchronous recommendation systems.	Baruch Awerbuch,Aviv Nisgav,Boaz Patt-Shamir	10.1145/1281100.1281176
+A denial-of-service resistant DHT.	Baruch Awerbuch,Christian Scheideler	10.1145/1281100.1281178
+Solvability of geocasting in mobile ad-hoc networks.	Roberto Baldoni,Kleoni Ioannidou,Alessia Milani	10.1145/1281100.1281186
+Self-stabilizing counting in mobile sensor networks.	Joffroy Beauquier,Julien Clément 0002,Stéphane Messika,Laurent Rosaz,Brigitte Rozoy	10.1145/1281100.1281191
+Tolerating corrupted communication.	Martin Biely,Josef Widder,Bernadette Charron-Bost,Antoine Gaillard,Martin Hutle,André Schiper	10.1145/1281100.1281136
+An algorithm composition scheme preserving monotonicity.	Davide Bilò,Luca Forlizzi,Luciano Gualà,Guido Proietti	10.1145/1281100.1281173
+Bringing order to BGP: decreasing time and message complexity.	Anat Bremler-Barr,Nir Chen,Jussi Kangasharju,Osnat Mokryn,Yuval Shavitt	10.1145/1281100.1281177
+Trinity: distributed defense against transient spam-bots.	Alex Brodsky,Dmitry Brodsky	10.1145/1281100.1281182
+Improved sparse covers for graphs excluding a fixed minor.	Costas Busch,Ryan LaFortune,Srikanta Tirthapura	10.1145/1281100.1281112
+Efficient fork-linearizable access to untrusted shared memory.	Christian Cachin,Abhi Shelat,Alexander Shraer	10.1145/1281100.1281121
+Multicoordinated Paxos.	Lásaro J. Camargos,Rodrigo Schmidt,Fernando Pedone	10.1145/1281100.1281150
+Countering web spam with credibility-based link analysis.	James Caverlee,Ling Liu 0001	10.1145/1281100.1281124
+Sharpness, a tight condition for throughput scalability.	Augustin Chaintreau	10.1145/1281100.1281165
+Paxos made live: an engineering perspective.	Tushar Deepak Chandra,Robert Griesemer,Joshua Redstone	10.1145/1281100.1281103
+Space adaptation: privacy-preserving multiparty collaborative mining with geometric perturbation.	Keke Chen,Ling Liu 0001	10.1145/1281100.1281154
+Partition approach to failure detectors for k-set agreement.	Wei Chen 0013,Jialin Zhang 0001,Yu Chen,Xuezheng Liu	10.1145/1281100.1281145
+Constructing scalable overlays for pub-sub with many topics.	Gregory V. Chockler,Roie Melamed,Yoav Tock,Roman Vitenberg	10.1145/1281100.1281118
+Theory of BAR games.	Allen Clement,Jeff Napper,Harry C. Li,Jean-Philippe Martin,Lorenzo Alvisi,Michael Dahlin	10.1145/1281100.1281172
+Communication in dynamic radio networks.	Andrea E. F. Clementi,Francesco Pasquale,Angelo Monti,Riccardo Silvestri	10.1145/1281100.1281131
+Summarizing data using bottom-k sketches.	Edith Cohen,Haim Kaplan	10.1145/1281100.1281133
+Time-decaying sketches for sensor data aggregation.	Graham Cormode,Srikanta Tirthapura,Bojian Xu	10.1145/1281100.1281132
+Failure detectors are schedulers.	Alejandro Cornejo,Sergio Rajsbaum,Michel Raynal,Corentin Travers	10.1145/1281100.1281146
+The price of anarchy in network creation games.	Erik D. Demaine,MohammadTaghi Hajiaghayi,Hamid Mahini,Morteza Zadimoghaddam	10.1145/1281100.1281142
+SuperTrust: a secure and efficient framework for handling trust in super-peer networks.	Tassos Dimitriou,Ghassan Karame,Ioannis T. Christou	10.1145/1281100.1281180
+Compact routing with slack.	Michael Dinitz	10.1145/1281100.1281114
+Game authority for robust andscalable distributed selfish-computer systems.	Shlomi Dolev,Elad Michael Schiller,Paul G. Spirakis,Philippas Tsigas	10.1145/1281100.1281171
+Practical private computation of vector addition-based functions.	Yitao Duan,John F. Canny	10.1145/1281100.1281155
+Non-searchability of random scale-free graphs.	Philippe Duchon,Nicole Eggemann,Nicolas Hanusse	10.1145/1281100.1281183
+A near-optimal distributed fully dynamic algorithm for maintaining sparse spanners.	Michael Elkin	10.1145/1281100.1281128
+SNZI: scalable NonZero indicators.	Faith Ellen,Yossi Lev,Victor Luchangco,Mark Moir	10.1145/1281100.1281106
+Broadcasting in udg radio networks with unknown topology.	Yuval Emek,Leszek Gasieniec,Erez Kantor,Andrzej Pelc,David Peleg,Chang Su 0008	10.1145/1281100.1281130
+Time-optimal, space-efficient single-scanner snapshots &amp; multi-scanner snapshots using CAS.	Panagiota Fatourou,Nikolaos D. Kallimanis	10.1145/1281100.1281108
+From an intermittent rotating star to a leader.	Antonio Fernández 0001,Michel Raynal	10.1145/1281100.1281152
+On local representation of distances in trees.	Cyril Gavoille,Arnaud Labourel	10.1145/1281100.1281169
+A formal treatment of an abstract channel implementation using java sockets and TCP.	Chryssis Georgiou,Peter M. Musial,Alexander A. Shvartsman,Elaine L. Sonderegger	10.1145/1281100.1281159
+A randomized distributed algorithm for the maximal independent set problem in growth-bounded graphs.	Beat Gfeller,Elias Vicari	10.1145/1281100.1281111
+On the complexity of greedy routing in ring-based peer-to-peer networks.	George Giakkoupis,Vassos Hadzilacos	10.1145/1281100.1281117
+Constant-RMR implementations of CAS and other synchronization primitives using read and write operations.	Wojciech M. Golab,Vassos Hadzilacos,Danny Hendler,Philipp Woelfel	10.1145/1281100.1281105
+An incentive-compatible multi-armed bandit mechanism.	Rica Gonen,Elan Pavlov	10.1145/1281100.1281174
+On the weakest failure detector ever.	Rachid Guerraoui,Maurice Herlihy,Petr Kouznetsov,Nancy A. Lynch,Calvin C. Newport	10.1145/1281100.1281135
+Refined quorum systems.	Rachid Guerraoui,Marko Vukolic	10.1145/1281100.1281120
+d-clock: distributed QoS in heterogeneous resource environments.	Ajay Gulati,Arif Merchant,Peter J. Varman	10.1145/1281100.1281157
+Verifying distributed erasure-coded data.	James Hendricks,Gregory R. Ganger,Michael K. Reiter	10.1145/1281100.1281122
+Compact routing with slack in low doubling dimension.	Goran Konjevod,Andréa W. Richa,Donglin Xia,Hai Yu 0005	10.1145/1281100.1281113
+Controller and estimator for dynamic networks.	Amos Korman,Shay Kutten	10.1145/1281100.1281127
+Distributed broadcasting and mapping protocols in directed anonymous networks.	Michael Langberg,Moshe Schwartz 0001,Jehoshua Bruck	10.1145/1281100.1281184
+The Akamai approach to achieving performance and reliability on the internet.	Tom Leighton	10.1145/1281100.1281102
+Network formation games with local coalitions.	Stefano Leonardi 0001,Piotr Sankowski	10.1145/1281100.1281143
+An analysis of intention preservation in group editors.	Du Li,Rui Li 0018	10.1145/1281100.1281166
+Distributed algorithms for dynamic coverage in sensor networks.	Lan Lin,Hyunyoung Lee	10.1145/1281100.1281189
+Distributed approximate matching.	Zvi Lotker,Boaz Patt-Shamir,Adi Rosén	10.1145/1281100.1281126
+Measuring robustness of superpeer topologies.	Bivas Mitra,Fernando Peruani,Sujoy Ghose,Niloy Ganguly	10.1145/1281100.1281179
+Towards the minimal synchrony for byzantine consensus.	Achour Mostéfaoui,Gilles Trédan	10.1145/1281100.1281149
+Configurations: a model for distributed data storage.	Bob Mungamuru,Hector Garcia-Molina,Christopher Olston	10.1145/1281100.1281158
+Geographic gossip on geometric random graphs via affine combinations.	Hariharan Narayanan	10.1145/1281100.1281187
+Constant phase efficient protocols for secure message transmission in directed networks.	Arpita Patra,Ashish Choudhary,Chandrasekaran Pandu Rangan	10.1145/1281100.1281153
+The coBFIT toolkit.	HariGovind V. Ramasamy,Mouna Seri,William H. Sanders	10.1145/1281100.1281167
+From causal to z-linearizable transactional memory.	Torvald Riegel,Christof Fetzer,Heiko Sturzrehm,Pascal Felber	10.1145/1281100.1281162
+Optimal atomic broadcast and multicast algorithms for wide area networks.	Nicolas Schiper,Fernando Pedone	10.1145/1281100.1281185
+Transactions and privatization in Delaunay triangulation.	Michael L. Scott,Michael F. Spear,Luke Dalessandro,Virendra J. Marathe	10.1145/1281100.1281160
+Integrated resource allocation in heterogeneous SAN data centers.	Aameek Singh,Madhukar R. Korupolu,Bhuvan Bamba	10.1145/1281100.1281156
+Towards fast decentralized construction of locality-aware overlay networks.	Aleksandrs Slivkins	10.1145/1281100.1281116
+Privatization techniques for software transactional memory.	Michael F. Spear,Virendra J. Marathe,Luke Dalessandro,Michael L. Scott	10.1145/1281100.1281161
+Practical summation via gossip.	Wesley W. Terpstra,Christof Leng,Alejandro P. Buchmann	10.1145/1281100.1281188
+Transactional memory for a modern microprocessor.	Marc Tremblay	10.1145/1281100.1281101
+Truth in advertising: lightweight verification of route integrity.	Edmund L. Wong,Praveen Balasubramanian,Lorenzo Alvisi,Mohamed G. Gouda,Vitaly Shmatikov	10.1145/1281100.1281123
+DoS-resilient secure aggregation queries in sensor networks.	Haifeng Yu	10.1145/1281100.1281190
+Optimal inter-object correlation when replicating for availability.	Haifeng Yu,Phillip B. Gibbons	10.1145/1281100.1281137
+Toward an optimal social network defense against Sybil attacks.	Haifeng Yu,Phillip B. Gibbons,Michael Kaminsky	10.1145/1281100.1281181
+Object replication degree customization for high availability.	Ming Zhong,Kai Shen,Joel I. Seiferas	10.1145/1281100.1281164
+Graceful degradation via versions: specifications and implementations.	Lidong Zhou,Vijayan Prabhakaran,Venugopalan Ramasubramanian,Roy Levin,Chandramohan A. Thekkath	10.1145/1281100.1281138
+Proceedings of the Twenty-Sixth Annual ACM Symposium on Principles of Distributed Computing, PODC 2007, Portland, Oregon, USA, August 12-15, 2007	Indranil Gupta,Roger Wattenhofer	

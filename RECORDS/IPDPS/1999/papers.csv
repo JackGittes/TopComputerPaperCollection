@@ -1,0 +1,115 @@
+Hiding Communication Latency in Reconfigurable Message-Passing Environments.	Ahmad Afsahi,Nikitas J. Dimopoulos	10.1109/IPPS.1999.760434
+Parallel Biological Sequence Comparison Using Prefix Computations.	Srinivas Aluru,Natsuhiko Futamura,Kishan Mehrotra	10.1109/IPPS.1999.760546
+Cascaded Execution: Speeding Up Unparallelized Execution on Shared-Memory Multiprocessors.	Ruth E. Anderson,Thu D. Nguyen,John Zahorjan	10.1109/IPPS.1999.760554
+Performance Evaluation of the ServerNet R SAN under Self-Similar Traffic.	Dimiter R. Avresky,Vladimir Shurbanov,Robert W. Horst,Pankaj Mehra	10.1109/IPPS.1999.760449
+BRISK: A Portable and Flexible Distributed Instrumentation System.	Aleksandar M. Bakic,Matt W. Mutka,Diane T. Rover	10.1109/IPPS.1999.760505
+Sparse Matrix Block-Cyclic Redistribution.	Gerardo Bandera,Emilio L. Zapata	10.1109/IPPS.1999.760500
+Implementing Efficient MPI on LAPI for IBM RS/6000 SP Systems: Experiences and Performance Evaluation.	Mohammad Banikazemi,Rama Govindaraju,Robert Blackmore,Dhabaleswar K. Panda 0001	10.1109/IPPS.1999.760457
+Mechanisms for Just-in-Time Allocation of Resources to Adaptive Parallel Programs.	Arash Baratloo,Ayal Itzkovitz,Zvi M. Kedem,Yuanyuan Zhao	10.1109/IPPS.1999.760524
+Large Scale Simulation of Parallel Molecular Dynamics.	Pierre-Eric Bernard,Thierry Gautier,Denis Trystram	10.1109/IPPS.1999.760544
+Parallel Load Balancing for Problems with Good Bisectors.	Stefan Bischof 0001,Ralf Ebner 0001,Thomas Erlebach	10.1109/IPPS.1999.760528
+Portable Parallel Programming for the Dynamic Load Balancing of Unstructured Grid Applications.	Rupak Biswas,Leonid Oliker,Sajal K. Das 0001,Daniel J. Harvey	10.1109/IPPS.1999.760497
+The Paderborn University BSP (PUB) Library - Design, Implementation and Performance.	Olaf Bonorden,Ben H. H. Juurlink,Ingo von Otte,Ingo Rieping	10.1109/IPPS.1999.760442
+EDD Algorithm Performance Guarantee for Periodic Hard-Real-Time Scheduling in Distributed Systems.	Maurizio A. Bonuccelli,M. Claudia Clò	10.1109/IPPS.1999.760548
+Coarse Grained Parallel Maximum Matching In Convex Bipartite Graphs.	Prosenjit Bose,Albert Chan,Frank K. H. A. Dehne,Markus Latzel	10.1109/IPPS.1999.760446
+Implementation of a Virtual Time Synchronizer for Distributed Databases.	Azzedine Boukerche,Sajal K. Das 0001,Ajoy Kumar Datta,Timothy E. LeMaster	10.1109/IPPS.1999.760557
+A Parallel Algorithm for Singular Value Decomposition as Applied to Failure Tolerant Manipulators.	Tracy D. Braun,Anthony A. Maciejewski,Howard Jay Siegel	10.1109/IPPS.1999.760498
+Visualization and Performance Prediction of Multithreaded Solaris Programs by Tracing Kernel Threads.	Magnus Broberg,Lars Lundberg,Håkan Grahn	10.1109/IPPS.1999.760508
+The Characterization of Data-Accumulating Algorithms.	Stefan D. Bruda,Selim G. Akl	10.1109/IPPS.1999.760426
+Rate of Change Load Balancing in Distributed and Parallel Systems.	Luís Miguel Campos,Isaac D. Scherson	10.1109/IPPS.1999.760552
+IP Validation for FPGAs using Hardware Object TechnologyTM.	Steve Casselman,John Schewel,Christophe Beaumont	10.1109/IPPS.1999.760542
+A Novel Compilation Framework for Supporting Semi-Regular Distributions in Hybrid Applications.	Dhruva R. Chakrabarti,Prithviraj Banerjee	10.1109/IPPS.1999.760538
+Infrastructure for Building Parallel Database Systems for Multi-Dimensional Data.	Chialin Chang,Renato Ferreira 0001,Alan Sussman,Joel H. Saltz	10.1109/IPPS.1999.760536
+Exploiting Application Tunability for Efficient, Predictable Parallel Resource Management.	Fangzhe Chang,Vijay Karamcheti,Zvi M. Kedem	10.1109/IPPS.1999.760560
+A Flexible Clustering and Scheduling Scheme for Efficient Parallel Computation.	S. Chingchit,Mohan Kumar,Laxmi N. Bhuyan	10.1109/IPPS.1999.760523
+Segment Directory Enhancing the Limited Directory Cache Coherence Schemes.	Jong Hyuk Choi,Kyu Ho Park	10.1109/IPPS.1999.760473
+A Parallel Phoneme Recognition Algorithm Based on Continuous Hidden Markov Model.	Sang-Hwa Chung,Min-Uk Park,Hyung-Soon Kim	10.1109/IPPS.1999.760516
+The Computational Co-op: Gathering Clusters into a Metacomputer.	Walfredo Cirne,Keith Marzullo	10.1109/IPPS.1999.760453
+Linear Aggressive Prefetching: A Way to Increase the Performance of Cooperative Caches.	Toni Cortes,Jesús Labarta	10.1109/IPPS.1999.760433
+COWL: Copy-On-Write for Logic Programs.	Vítor Santos Costa	10.1109/IPPS.1999.760555
+An Optimal Disk Allocation Strategy for Partial Match Queries on Non-Uniform Cartesian Product Files.	Sajal K. Das 0001,Maria Cristina Pinotti	10.1109/IPPS.1999.760531
+Constant-Time Algorithm for Medial Axis Transform on the Reconfigurable Mesh.	Amitava Datta	10.1109/IPPS.1999.760512
+Reducing I/O Complexity by Simulating Coarse Grained Parallel Algorithms.	Frank K. H. A. Dehne,David A. Hutchinson,Anil Maheshwari,Wolfgang Dittrich	10.1109/IPPS.1999.760428
+Lower Bounds on the Loading of Degree-2 Multiple Bus Networks for Binary-Tree Algorithms.	Hettihe P. Dharmasena,Ramachandran Vaidyanathan	10.1109/IPPS.1999.760429
+Improving Collective I/O Performance Using Threads.	Phillip M. Dickens,Rajeev Thakur	10.1109/IPPS.1999.760432
+Ubiquitous Message Passing Interface Implementation in Java: jmpi.	Kivanc Dincer	10.1109/IPPS.1999.760461
+A Capabilities Based Communication Model for High-Performance Distributed Applications: The Open HPC++ Approach.	Shridhar Diwan,Dennis Gannon	10.1109/IPPS.1999.760443
+Exploiting Global Structure for Performance on Clusters.	Stephen R. Donaldson,Jonathan M. D. Hill,David B. Skillicorn	10.1109/IPPS.1999.760455
+The Impact of Memory Hierarchies on Cluster Computing.	Xing Du,Xiaodong Zhang 0001	10.1109/IPPS.1999.760435
+A Comparison of Router Architectures for Virtual Cut-Through and Wormhole Switching in a NOWEnvironment.	José Duato,Antonio Robles,Federico Silla,Ramón Beivide	10.1109/IPPS.1999.760469
+Cashmere-VLM: Remote Memory Paging for Software Distributed Shared Memory.	Sandhya Dwarkadas,Robert Stets,Nikos Hardavellas,Leonidas I. Kontothanassis,Rishiyur S. Nikhil	10.1109/IPPS.1999.760451
+A Systolic Algorithm to Process Compressed Binary Images.	Fikret Erçal,Mark Allen,Hao Feng 0001	10.1109/IPPS.1999.760520
+An Object-Oriented Environment for Sparse Parallel Computation on Adaptive Grids.	Salvatore Filippone,Michele Colajanni,Dario Pascucci	10.1109/IPPS.1999.760502
+Sparse Hypercube: A Minimal k-Line Broadcast Graph.	Satoshi Fujita,Arthur M. Farley	10.1109/IPPS.1999.760494
+Design and Implementation of a Scalable Parallel System for Multidimensional Analysis and OLAP.	Sanjay Goil,Alok N. Choudhary	10.1109/IPPS.1999.760535
+Optimization Rules for Programming with Collective Operations.	Sergei Gorlatch,Christoph Wedler,Christian Lengauer	10.1109/IPPS.1999.760522
+Experimental Evaluation of QSM, a Simple Shared-Memory Model.	Brian Grayson,Michael Dahlin,Vijaya Ramachandran	10.1109/IPPS.1999.760447
+Randomized Initialization Protocols for Packet Radio Networks.	Tatsuya Hayashi,Koji Nakano,Stephan Olariu	10.1109/IPPS.1999.760530
+A New Approach to Parallel Dynamic Partitioning for Adaptive Unstructured Meshes.	Gerd Heber,Guang R. Gao,Rupak Biswas	10.1109/IPPS.1999.760501
+Prefix Computations on Symmetric Multiprocessors.	David R. Helman,Joseph F. JáJá	10.1109/IPPS.1999.760427
+OpenMP for Networks of SMPs.	Y. Charlie Hu,Honghui Lu,Alan L. Cox,Willy Zwaenepoel	10.1109/IPPS.1999.760492
+Reducing System Overheads in Home-based Software DSMs.	Weiwu Hu,Weisong Shi,Zhimin Tang	10.1109/IPPS.1999.760454
+All-to-All Broadcast on Switch-Based Clusters of Workstations.	Matthew G. Jacunski,P. Sadayappan,Dhabaleswar K. Panda 0001	10.1109/IPPS.1999.760495
+A Communication Latency Hiding Parallelization of a Traffic Flow Simulation.	Charles Michael Johnston,Anthony T. Chronopoulos	10.1109/IPPS.1999.760550
+PARADIGM (version 2.0): A New HPF Compilation System.	Pramod G. Joisha,Prithviraj Banerjee	10.1109/IPPS.1999.760540
+A Robust Adaptive Metric for Deadline Assignment in Heterogeneous Distributed Real-Time Systems.	Jan Jonsson	10.1109/IPPS.1999.760549
+A Graph Based Framework to Detect Optimal Memory Layouts for Improving Data Locality.	Mahmut T. Kandemir,Alok N. Choudhary,J. Ramanujam,Prithviraj Banerjee	10.1109/IPPS.1999.760558
+Fault-Tolerant Routing Algorithms for Hypercube Networks.	Keiichi Kaneko,Hideo Ito	10.1109/IPPS.1999.760464
+Load Adaptive Algorithms and Implementations for the 2D Discrete Wavelet Transform on Fine-Grain Multithreaded Architectures.	Ashfaq A. Khokhar,Gerd Heber,Parimala Thulasiraman,Guang R. Gao	10.1109/IPPS.1999.760517
+Shuffle Memory System.	Kichul Kim	10.1109/IPPS.1999.760475
+A Network Status Predictor to Support Dynamic Scheduling in Network-Based Computing Systems.	JunSeong Kim,David J. Lilja	10.1109/IPPS.1999.760503
+Oblivious Deadlock-Free Routing in a Faulty Hypercube.	Jin Suk Kim,Eric Lehman,Frank Thomson Leighton	10.1109/IPPS.1999.760493
+Fully-Scalable Fault-Tolerant Simulations for BSP and CGM.	Sung-Ryul Kim,Kunsoo Park	10.1109/IPPS.1999.760445
+Lazy Logging and Prefetch-Based Crash Recovery in Software Distributed Shared Memory Systems.	Angkul Kongmunvattana,Nian-Feng Tzeng	10.1109/IPPS.1999.760507
+Dynamic Interval Routing on Asynchronous Rings.	Danny Krizanc,Flaminia L. Luccio,Rajeev Raman	10.1109/IPPS.1999.760466
+Performance Evaluation of an Infrastructure for Worldwide Parallel Computing.	Thomas T. Kwan,Daniel A. Reed	10.1109/IPPS.1999.760504
+A Consistent History Link Connectivity Protocol.	Paul S. LeMahieu,Jehoshua Bruck	10.1109/IPPS.1999.760448
+Parallel Matrix Multiplication on a Linear Array with a Reconfigurable Pipelined Bus System.	Keqin Li,Victor Y. Pan	10.1109/IPPS.1999.760431
+Average-Case Analysis of Isospeed Scalability of Parallel Computations on Multiprocessors.	Keqin Li 0001,Xian-He Sun	10.1109/IPPS.1999.760444
+Multi-Threaded Design and Implementation of Parallel Pipelined STAP on Parallel Computers with SMP Nodes.	Wei-keng Liao,Alok N. Choudhary,Donald D. Weiner,Pramod K. Varshney	10.1109/IPPS.1999.760515
+An Efficient VLSI Architecture Parallel Prefix Counting With Domino Logic.	Rong Lin,Koji Nakano,Stephan Olariu,Albert Y. Zomaya	10.1109/IPPS.1999.760476
+VBMAR: Virtual Network Load Balanced Minimal Adaptive Routing.	Xicheng Liu,Timothy J. Li,Wen Gao 0006	10.1109/IPPS.1999.760496
+P-EDR: An Algorithm for Parallel Implementation of Parzen Density Estimation from Uncertain Observations.	Pedro E. López-de-Teruel,José M. García 0001,Manuel E. Acacio,Óscar Cánovas Reverte	10.1109/IPPS.1999.760533
+Run-Time Selection of Block Size in Pipelined Parallel Programs.	David K. Lowenthal,Michael James	10.1109/IPPS.1999.760439
+Mapping Media Streams onto a Network of Servers.	Reinhard Lüling	10.1109/IPPS.1999.760519
+Parallel Algorithms for 3D Reconstruction of Asymmetric Objects from Electron Micrographs.	Robert E. Lynch,Dan C. Marinescu,Hong Lin,Timothy S. Baker	10.1109/IPPS.1999.760543
+A New Memory-Saving Technique to Map System of Affine Recurrence Equations (SARE) onto Distributed Memory Systems.	Alessandro Marongiu,Paolo Palazzari	10.1109/IPPS.1999.760537
+Application of Parallel Processors to Real-Time Sensor Array Processing.	David R. Martinez	10.1109/IPPS.1999.760518
+Parallel Program Archetypes.	Berna L. Massingill,K. Mani Chandy	10.1109/IPPS.1999.760490
+Using Channels for Multimedia Communication.	David May 0001,Henk L. Muller	10.1109/IPPS.1999.760441
+A Parallel Adaptive version of the Block-based Gauss-Jordan Algorithm.	Nordine Melab,El-Ghazali Talbi,Serge G. Petiton	10.1109/IPPS.1999.760499
+Automatic Array Alignment in Parallel Matlab Scripts.	Igor Z. Milosavljevic,Marwan A. Jabri	10.1109/IPPS.1999.760489
+Low-Latency Message Passing on Workstation Clusters using SCRAMNet.	Vijay Moorthy,Matthew G. Jacunski,Manoj Pillai,Peter P. Ware,Dhabaleswar K. Panda 0001,Thomas W. Page Jr.,P. Sadayappan,V. Nagarajan,Johns Daniel	10.1109/IPPS.1999.760450
+A Time-Optimal Solution for the Path Cover Problem on Cographs.	Koji Nakano,Stephan Olariu,Albert Y. Zomaya	10.1109/IPPS.1999.760430
+Hyperplane Partitioning: An Approach to Global Data Partitioning for Distributed Memory Machines.	S. R. Prakash,Y. N. Srikant	10.1109/IPPS.1999.760559
+Marshaling/Demarshaling as a Compilation/Interpretation Process.	Christian Queinnec	10.1109/IPPS.1999.760541
+LLB: A Fast and Effective Scheduling Algorithm for Distributed-Memory Systems.	Andrei Radulescu,Arjan J. C. van Gemund,Hai-Xiang Lin	10.1109/IPPS.1999.760527
+A Parallel Algorithm for Bound-Smoothing.	Kumar Rajan,Narsingh Deo	10.1109/IPPS.1999.760545
+An Efficient Dynamic Load Balancing using the Dimension Exchange Method for Balancing of Quantized Loads on Hypercube Multiprocessors.	Hwakyung Rim,Ju-wook Jang,Sung-Chun Kim	10.1109/IPPS.1999.760553
+Delivering On Standards, Balancing Portability and Performance.	John Robinson	10.1109/IPPS.1999.760509
+Guidelines for Data-Parallel Cycle-Stealing in Networks of Workstations, II: On Maximizing Guaranteed Output.	Arnold L. Rosenberg	10.1109/IPPS.1999.760526
+Large Scale Simulation of Particulate Flows.	Ahmed H. Sameh,Vivek Sarin	10.1109/IPPS.1999.760547
+PM-PVM: A Portable Multithreaded PVM.	Claudio M. P. Santos,Júlio Salek Aude	10.1109/IPPS.1999.760459
+Efficient Parallel Algorithms for Selection and Multiselection on Mesh-Connected Computers.	Hong Shen 0001	10.1109/IPPS.1999.760511
+Better Deterministic Routing on Meshes.	Jop F. Sibeyn	10.1109/IPPS.1999.760510
+The Performance of Coordinated and Independent Checkpointing.	Luís Moura Silva,João Gabriel Silva	10.1109/IPPS.1999.760487
+Dynamic Grain-Size Adaptation on Object Oriented Parallel Programming The SCOOPP Approach.	João Luís Sobral,Alberto José Proença	10.1109/IPPS.1999.760556
+Dynamically Scheduling the Trace Produced During Program Execution into VLIW Instructions.	Alberto Ferreira de Souza,Peter Rounce	10.1109/IPPS.1999.760471
+Parallel Out-of-Core Divide-and-Conquer Techniques with Application to Classification Trees.	Mahesh K. Sreenivas,Khaled Alsabti,Sanjay Ranka	10.1109/IPPS.1999.760532
+On-Demand Multicast Routing Scheme and its Algorithms.	Te-Chou Su,Jia-Shung Wang	10.1109/IPPS.1999.760462
+A Fast Multithreaded Out-of-Core Visualization Technique.	Peter Sulatycke,Kanad Ghose	10.1109/IPPS.1999.760534
+A Factorial Performance Evaluation for Hierarchical Memory Systems.	Xian-He Sun,Dongmei He,Kirk W. Cameron,Yong Luo	10.1109/IPPS.1999.760436
+Supporting Priorities and Improving Utilization of the IBM SP Scheduler Using Slack-Based Backfilling.	David Talby,Dror G. Feitelson	10.1109/IPPS.1999.760525
+tmPVM - Task Migratable PVM.	C. P. Tan,Weng-Fai Wong,Chung-Kwong Yuen	10.1109/IPPS.1999.760460
+Relaxing Causal Constraints in PDES.	Narayanan V. Thondugulam,Dhananjai Madhava Rao,Radharamanan Radhakrishnan,Philip A. Wilsey	10.1109/IPPS.1999.760551
+Optimally Scaling Permutation Routing on Reconfigurable Linear Arrays with Optical Buses.	Jerry L. Trahan,Anu G. Bourgeois,Ramachandran Vaidyanathan,Yi Pan 0001	10.1109/IPPS.1999.760468
+A Performance Model of Speculative Prefetching in Distributed Information Systems.	Nor Jaidi Tuah,Mohan Kumar,Svetha Venkatesh	10.1109/IPPS.1999.760437
+Optimizations for Language-Directed Computational Steering.	Jeffrey S. Vetter,Karsten Schwan	10.1109/IPPS.1999.760521
+Reducing Parallel Overheads Through Dynamic Serialization.	Michael Voss,Rudolf Eigenmann	10.1109/IPPS.1999.760440
+Distributed, Scalable, Dependable Real-Time Systems: Middleware Services and Applications.	Lonnie R. Welch,Binoy Ravindran,Paul V. Werme,Michael W. Masters,Behrooz A. Shirazi,Prashant A. Shirolkar,Robert D. Harrison,D. Wayne Mills,Tuy Do,Judy Lafratta,Shafqat Anwar,Steve Sharp,Terry Sergeant,George Bilowus,Mark Swick,Jim Hoppel,Joseph M. Caruso	10.1109/IPPS.1999.760491
+Asynchronous Group Mutual Exclusion in Ring Networks.	Kuen-Pin Wu,Yuh-Jzer Joung	10.1109/IPPS.1999.760529
+2.5n-Step Sorting on n*n Meshes in the Presence of o(sqrt(n)) Worst-Case Faults.	Chi-Hsiang Yeh,Behrooz Parhami,Hua Lee,Emmanouel A. Varvarigos	10.1109/IPPS.1999.760513
+The Recursive Grid Layout Scheme for VLSI Layout of Hierarchical Networks.	Chi-Hsiang Yeh,Behrooz Parhami,Emmanouel A. Varvarigos	10.1109/IPPS.1999.760514
+Compiler Analysis to Support Compiled Communication for HPF-Like Programs.	Xin Yuan 0001,Rajiv Gupta 0001,Rami G. Melhem	10.1109/IPPS.1999.760539
+An Efficient Logging Algorithm for Incremental Replay of Message.	Franco Zambonelli	10.1109/IPPS.1999.760506
+13th International Parallel Processing Symposium / 10th Symposium on Parallel and Distributed Processing (IPPS / SPDP &apos;99), 12-16 April 1999, San Juan, Puerto Rico, Proceedings		

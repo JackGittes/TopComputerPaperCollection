@@ -1,0 +1,119 @@
+Characterize Predicted vs Actual IR Drop in a Chip Using Scan Clocks.	Zahi S. Abuhamdeh,Philip Pears,Jeff Remmers,Alfred L. Crouch,Bob Hannagan	10.1109/TEST.2006.297656
+The Design and Validation of IP for DFM/DFY Assurance.	Robert C. Aitken	10.1109/TEST.2006.297742
+Alternate Test of RF Front Ends with IP Constraints: Frequency Domain Test Generation and Validation.	Selim Sermet Akbay,Jose L. Torres,Julie M. Rumer,Abhijit Chatterjee,Joel Amtsfield	10.1109/TEST.2006.297706
+DRAM-Specific Space of Memory Tests.	Zaid Al-Ars,Said Hamdioui,Ad J. van de Goor,Georgi Gaydadjiev,Jörg E. Vollrath	10.1109/TEST.2006.297701
+The Economics of Implementing Scan Compression to Reduce Test Data Volume and Test Application Time.	Chris Allsup	10.1109/TEST.2006.297739
+Seamless Integration of SER in Rewiring-Based Design Space Exploration.	Sobeeh Almukhaizim,Yiorgos Makris,Yu-Shen Yang,Andreas G. Veneris	10.1109/TEST.2006.297682
+Improving Precision Using Mixed-level Fault Diagnosis.	M. Enamul Amyeen,Debashis Nayak,Srikanth Venkataraman	10.1109/TEST.2006.297661
+A Predictable Robust Fully Programmable Analog Gaussian Noise Source for Mixed-Signal/Digital ATE.	Sadok Aouini,Gordon W. Roberts	10.1109/TEST.2006.297677
+Embedded Memory Diagnosis: An Industrial Workflow.	Davide Appello,Vincenzo Tancorre,Paolo Bernardi,Michelangelo Grosso,Maurizio Rebaudengo,Matteo Sonza Reorda	10.1109/TEST.2006.297672
+Test Data Compression of 100x for Scan-Based BIST.	Masayuki Arai,Satoshi Fukumoto,Kazuhiko Iwasaki,Tatsuru Matsuo,Takahisa Hiraide,Hideaki Konishi,Michiaki Emori,Takashi Aikyo	10.1109/TEST.2006.297664
+Defect-Oriented and Time-Constrained Wafer-Level Test-Length Selection for Core-Based Digital SoCs.	Sudarshan Bahukudumbi,Krishnendu Chakrabarty	10.1109/TEST.2006.297646
+Cache Resident Functional Microprocessor Testing: Avoiding High Speed IO Issues.	Ismet Bayraktaroglu,Jim Hunt,Daniel Watkins	10.1109/TEST.2006.297675
+Diagnostic Test Generation for Arbitrary Faults.	Naresh K. Bhatti,Ronald D. Blanton	10.1109/TEST.2006.297647
+Fault Coverage Estimation for Non-Random Functional Input Sequences.	Soumitra Bose,Vishwani D. Agrawal	10.1109/TEST.2006.297648
+Characteristic States and Cooperative Game Based Search for Efficient Sequential ATPG and Design Validation.	Xiaoding Chen,Michael S. Hsiao	10.1109/TEST.2006.297666
+An Enhanced EDAC Methodology for Low Power PSRAM.	Po-Yuan Chen,Yi-Ting Yeh,Chao-Hsun Chen,Jen-Chieh Yeh,Cheng-Wen Wu,Jeng-Shen Lee,Yu-Chang Lin	10.1109/TEST.2006.297689
+Signature Based Diagnosis for Logic BIST.	Wu-Tung Cheng,Manish Sharma,Thomas Rinderknecht,Liyang Lai,Chris Hill	10.1109/TEST.2006.297720
+OCI: Open Compression Interface.	Bruce Cory,Rohit Kapur,Mick Tegethoff,Mark Kassab,Brion L. Keller,Kee Sup Kim,Dwayne Burek,Steven F. Oakland,Benoit Nadeau-Dostie	10.1109/TEST.2006.297746
+Behavioral Test Economics.	Scott Davidson,Anthony P. Ambler,Helen Davidson	10.1109/TEST.2006.297651
+Integrated RF-CMOS Transceivers challenge RF Test.	Frank Demmerle	10.1109/TEST.2006.297704
+A Logic Diagnosis Methodology for Improved Localization and Extraction of Accurate Defect Behavior.	Rao Desineni,Osei Poku,Ronald D. Blanton	10.1109/TEST.2006.297627
+Implementation of Solder-bead Probing in High Volume Manufacturing.	Madhavan Doraiswamy,James J. Grealish	10.1109/TEST.2006.297710
+Technique to Detect RF Interface and Contact Issues During Production Testing.	Martin Dresler	10.1109/TEST.2006.297703
+Using Limited Dependence Sequential Expansion for Decompressing Test Vectors.	Avijit Dutta,Nur A. Touba	10.1109/TEST.2006.297662
+Optimizing the Cost of Test at Intel Using per Device Data.	Robert Edmondson,Gregory Iovino,Richard Kacprowicz	10.1109/TEST.2006.297649
+IEEE P1581 - Getting More Board Test Out of Boundary Scan.	Heiko Ehrenberg	10.1109/TEST.2006.297707
+Combining Internal Probing with Artificial Neural Networks for Optimal RFIC Testing.	Sofiane Ellouz,Patrice Gamand,Christophe Kelma,Bertrand Vandewiele,Bruno Allard	10.1109/TEST.2006.297705
+A Robust, Self-Tuning CMOS Circuit for Built-in Go/No-Go Testing of Synthesizer Phase Noise.	Erdem Serkan Erdogan,Sule Ozev	10.1109/TEST.2006.297696
+An Accelerated Jitter Tolerance Test Technique on Ate for 1.5GB/S and 3GB/S Serial-ATA.	Yongquan Fan,Yi Cai,Liming Fang,Anant Verma,William Burchanowski,Zeljko Zilic,Sandeep Kumar	10.1109/TEST.2006.297721
+Cost Effective Outliers Screening with Moving Limits and Correlation Testing for Analogue ICs.	Liquan Fang,Mohammed Lemnawar,Yizi Xing	10.1109/TEST.2006.297691
+Classifying Bad Chips and Ordering Test Sets.	François-Fabien Ferhani,Edward J. McCluskey	10.1109/TEST.2006.297736
+Dependable Network-on-Chip Router Able to Simultaneously Tolerate Soft Errors and Crosstalk.	Arthur Pereira Frantz,Fernanda Lima Kastensmidt,Luigi Carro,Érika F. Cota	10.1109/TEST.2006.297635
+A Novel and Practical Control Scheme for Inter-Clock At-Speed Testing.	Hiroshi Furukawa,Xiaoqing Wen,Laung-Terng Wang,Boryau Sheu,Zhigang Jiang,Shianling Wu	10.1109/TEST.2006.297641
+Data Analysis Techniques for CMOS Technology Characterization and Product Impact Assessment.	Anne Gattiker,Manjul Bhushan,Mark B. Ketchen	10.1109/TEST.2006.297743
+Automatic generation of instruction sequences targeting hard-to-detect structural faults in a processor.	Sankar Gurumurthy,Shobha Vasudevan,Jacob A. Abraham	10.1109/TEST.2006.297676
+Massively Parallel Validation of High-Speed Serial Interfaces using Compact Instrument Modules.	Mohamed Hafed,Daniel Watkins,Clarence Tam,Bardia Pishdad	10.1109/TEST.2006.297722
+Recognition of Sensitized Longest Paths in Transition Delay Test.	Shuji Hamada,Toshiyuki Maeda,Atsuo Takatori,Yasuyuki Noduyama,Yasuo Sato	10.1109/TEST.2006.297622
+The Power of Exhaustive Bridge Diagnosis using IDDQ Speed, Confidence, and Resolution.	Doug Heaberlin	10.1109/TEST.2006.297692
+Bit Error Rate Estimation for Improving Jitter Testing of High-Speed Serial Links.	Dongwoo Hong,Kwang-Ting Cheng	10.1109/TEST.2006.297723
+Pattern Pruner: Automatic Pattern Size Reduction Method that Uses Computational Intelligence-Based Testing.	Eric Liau Chee Hong,Manfred Menke,Thomas Janik,Doris Schmitt-Landsiedel	10.1109/TEST.2006.297653
+Diagnosis with Limited Failure Information.	Yu Huang 0005,Wu-Tung Cheng,Nagesh Tamarapalli,Janusz Rajski,Randy Klingenberg,Will Hsu,Yuan-Shih Chen	10.1109/TEST.2006.297660
+A Real-Time Delta-Time-to-Voltage Converter for Clock Jitter Measurement.	Kiyotaka Ichiyama,Masahiro Ishida,Takahiro J. Yamaguchi,Mani Soma	10.1109/TEST.2006.297712
+At-Speed Structural Test For High-Performance ASICs.	Vikram Iyengar,Toshihiko Yokota,Kazuhiro Yamada,Theo Anemikos,Bob Bassett,Mike Degregorio,Rudy Farmer,Gary Grise,Mark Johnson,Dave Milton,Mark Taylor 0001,Frank Woytowich	10.1109/TEST.2006.297686
+Linearity Test of Analog-to-Digital Converters Using Kalman Filtering.	Le Jin,Degang Chen 0001,Randall L. Geiger	10.1109/TEST.2006.297679
+Testing of Precision DACs Using Low-Resolution ADCs with Dithering.	Le Jin,Hosam Haggag,Randall L. Geiger,Degang Chen 0001	10.1109/TEST.2006.297628
+Structural Testing of High-Speed Serial Buses: A Case Study Analysis.	Eric Johnson	10.1109/TEST.2006.297737
+SiP-TAP: JTAG for SiP.	Frans G. M. de Jong,Alex S. Biewenga	10.1109/TEST.2006.297633
+A Framework of High-quality Transition Fault ATPG for Scan Circuits.	Seiji Kajihara,Shohei Morishima,Akane Takuma,Xiaoqing Wen,Toshiyuki Maeda,Shuji Hamada,Yasuo Sato	10.1109/TEST.2006.297683
+DIBPro: Automatic Diagnostic Program Generation Tool.	Venkat Kalyanaraman,Bruce C. Kim,Pramodchandran N. Variyam,Sasikumar Cherubal	10.1109/TEST.2006.297655
+Jump Simulation: A Technique for Fast and Precise Scan Chain Fault Diagnosis.	Yu-Long Kao,Wei-Shun Chuang,James Chien-Mo Li	10.1109/TEST.2006.297659
+A Rapid Yield Learning Flow Based on Production Integrated Layout-Aware Diagnosis.	Martin Keim,Nagesh Tamarapalli,Huaxing Tang,Manish Sharma,Janusz Rajski,Chris Schuermyer,Brady Benware	10.1109/TEST.2006.297715
+Embedded Memory Field Returns - Trials and Tribulations.	Jitendra Khare,Amit B. Shah,Ashok Raman,Girish Rayas	10.1109/TEST.2006.297673
+Selective and Accurate Fail Data Capture in Compression Environment for Volume Diagnostics.	Ajay Khoche,Domenico Chindamo,Michael Braun,Martin Fischer 0002	10.1109/TEST.2006.297718
+Exact At-speed Delay Fault Grading in Sequential Circuits.	Mahilchi Milir Vaseekar Kumar,Spyros Tragoudas,Sreejit Chakravarty,Rathish Jayabharathi	10.1109/TEST.2006.297685
+A Novel Ganged DAC Solution for Multi-Site Testing.	Joseph Kwan,Qing Zhao	10.1109/TEST.2006.297629
+Efficient Latch and Clock Structures for System-on-Chip Test Flexibility.	David E. Lackey	10.1109/TEST.2006.297657
+An Efficient Pruning Method to Guide the Search of Precision Tests in Statistical Timing Space.	Leonard Lee,Li-C. Wang	10.1109/TEST.2006.297684
+Issues on Test Optimization with Known Good Dies and Known Defective Dies - A Statistical Perspective.	Benjamin N. Lee,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2006.297640
+Reusable, Low-cost, and Flexible Multidrop System JTAG Architecture.	Hung-chi Lihn	10.1109/TEST.2006.297621
+A Unified Approach to Test Generation and Test Data Volume Reduction.	Yung-Chieh Lin,Kwang-Ting Cheng	10.1109/TEST.2006.297644
+Testable Design for Adaptive Linear Equalizer in High-Speed Serial Links.	Mitchell Lin,Kwang-Ting Cheng	10.1109/TEST.2006.297698
+A Multilayer Data Copy Scheme for Low Cost Test with Controlled Scan-In Power for Multiple Scan Chain Designs.	Shih Ping Lin 0001,Chung-Len Lee 0001,Jwu E. Chen,Ji-Jan Chen,Kun-Lun Luo,Wen Ching Wu	10.1109/TEST.2006.297663
+Periodic Jitter Amplitude Calibration with Walking Strobe.	Lucy Liu,Eddie Lew	10.1109/TEST.2006.297714
+Multi-Gigahertz Testing of Wafer-Level Packaged Devices.	A. M. Majid,David C. Keezer,Jayasanker Jayabalan,Mihai Rotaru	10.1109/TEST.2006.297669
+The Design, Implementation and Analysis of Test Experiments.	Peter C. Maxwell	10.1109/TEST.2006.297735
+The Challenge of Testing the ARM CORTEX-A8TM Microprocessor Core.	Teresa L. McLaurin	10.1109/TEST.2006.297638
+Timing Defect Diagnosis in Presence of Crosstalk for Nanometer Technology.	Vishal J. Mehta,Malgorzata Marek-Sadowska,Kun-Han Tsai,Janusz Rajski	10.1109/TEST.2006.297626
+Combinational Logic Soft Error Correction.	Subhasish Mitra,Ming Zhang 0017,Saad Waqas,Norbert Seifert,Balkaran S. Gill,Kee Sup Kim	10.1109/TEST.2006.297681
+Improved Match-Line Test and Repair Methodology Including Power-Supply Noise Testing for Content-Addressable Memories.	Rahul Nadkarni,Igor Arsovski,Reid Wistort,Valerie Chickanosky	10.1109/TEST.2006.297700
+The Role of ATPG Fault Diagnostics in Driving Physical Analysis.	Roger Nicholson,Cathy Kardach,Bruce Cory	10.1109/TEST.2006.297740
+Fully automated semiconductor operating condition testing.	Thomas Nirmaier,Wolfgang Spirkl,Eric Liau Chee Hong	10.1109/TEST.2006.297717
+Modeling and Testing Process Variation in Nanometer CMOS.	Mehrdad Nourani,Arun Radhakrishnan	10.1109/TEST.2006.297716
+HDL Program Slicing to Reduce Bounded Model Checking Search Overhead.	Jen-Chieh Ou,Daniel G. Saab,Jacob A. Abraham	10.1109/TEST.2006.297665
+A Functional Coverage Metric for Estimating the Gate-Level Fault Coverage of Functional Tests.	Sungchul Park,Li Chen,Praveen Parvathala,Srinivas Patil,Irith Pomeranz	10.1109/TEST.2006.297674
+Signature Analyzer Design for Yield Learning Support.	Nishant Patil,Subhasish Mitra,Steven S. Lumetta	10.1109/TEST.2006.297719
+Fault Modeling and Detection for Drowsy SRAM Caches.	Wei Pei,Wen-Ben Jone,Yiming Hu	10.1109/TEST.2006.297699
+Test Structure and Testing of the Microsoft XBOX 360TM Processor High Speed Front Side Bus.	Tung Pham,Brian Koehler,Daniel Young,Louis Bushard	10.1109/TEST.2006.297639
+Fault Detection by Output Response Comparison of Identical Circuits Using Half-Frequency Compatible Sequences.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/TEST.2006.297658
+IEEE P1687: Toward Standardized Access of Embedded Instrumentation.	Ken Posse,Al Crouch,Jeff Rearick,Bill Eklow,Mike Laisne,Ben Bennetts,Jason Doege,Mike Ricchetti,Jean-Francois Cote	10.1109/TEST.2006.297744
+Comparison of Delay Tests on Silicon.	Wangqi Qiu,D. M. H. Walker,Neil Simpson,Divya Reddy,Anthony Moore	10.1109/TEST.2006.297624
+What is DFM &amp; DFY and Why Should I Care ?	Rajesh Raina	10.1109/TEST.2006.297741
+X-Press Compactor for 1000x Reduction of Test Data.	Janusz Rajski,Jerzy Tyszer,Grzegorz Mrugalski,Wu-Tung Cheng,Nilanjan Mukherjee 0001,Mark Kassab	10.1109/TEST.2006.297643
+A Survey of Test Problems and Solutions.	Jeff Rearick	10.1109/TEST.2006.297738
+A Case Study of Using IEEE P1687 (IJTAG) for High-Speed Serial I/O Characterization and Testing.	Jeff Rearick,Aaron Volz	10.1109/TEST.2006.297620
+Lead Free Through Hole Technology (THT) and Contact Repeatability in In-Circuit Test.	Rosa D. Reinosa	10.1109/TEST.2006.297709
+On-line Boundary-Scan Testing in Service of Extended Products.	Ilka Reis,Peter Collins,Marc van Houcke	10.1109/TEST.2006.297745
+Preferred Fill: A Scalable Method to Reduce Capture Power for Scan Based Designs.	Santiago Remersaro,Xijiang Lin,Zhuo Zhang 0008,Sudhakar M. Reddy,Irith Pomeranz,Janusz Rajski	10.1109/TEST.2006.297694
+Debug of the CELL Processor: Moving the Lab into Silicon.	Mack W. Riley,Nathan Chelstrom,Mike Genden,Shoji Sawamura	10.1109/TEST.2006.297671
+Fully-Digital Time-To-Digital Converter for ATE with Autonomous Calibration.	Jochen Rivoir	10.1109/TEST.2006.297713
+Very-Low Voltage (VLV) and VLV Ratio (VLVR) Testing for Quality, Reliability, and Outlier Detection.	Jeffrey L. Roehr	10.1109/TEST.2006.297690
+Cycle-Accurate Test Power Modeling and its Application to SoC Test Scheduling.	Soheil Samii,Erik Larsson,Krishnendu Chakrabarty,Zebo Peng	10.1109/TEST.2006.297693
+Estimating Error Rate during Self-Test via One&apos;s Counting.	Shideh Shahidi,Sandeep K. Gupta	10.1109/TEST.2006.297636
+Built-in Fault Diagnosis for Tunable Analog Systems Using an Ensemble Method.	Hongjoong Shin,Joonsung Park,Jacob A. Abraham	10.1109/TEST.2006.297678
+High-Voltage and High-Power PLL Diagnostics using Advanced Cooling and Emission Images.	Franco Stellari,Peilin Song,Tim Diemoz,Alan J. Weger,Tami Vogel,Steve Wilson,John Pennings,Richard F. Rizzolo	10.1109/TEST.2006.297625
+Testing MRAM for Write Disturbance Fault.	Chin-Lung Su,Chih-Wea Tsai,Cheng-Wen Wu,Chien-Chung Hung,Young-Shying Chen,Ming-Jer Kao	10.1109/TEST.2006.297702
+Structural Tests for Jitter Tolerance in SerDes Receivers.	Stephen K. Sunter,Aubin Roy	10.1109/TEST.2006.297726
+Analog Boundary-Scan Description Language (ABSDL) for Mixed-Signal Board Test.	Bambang Suparjo,Adam W. Ley,Adam Cron,Heiko Ehrenberg	10.1109/TEST.2006.297708
+A Study of Implication Based Pseudo Functional Testing.	Manan Syal,Kameshwar Chandrasekar,Vishnu C. Vimjam,Michael S. Hsiao,Yi-Shing Chang,Sreejit Chakravarty	10.1109/TEST.2006.297667
+Test Compression for FPGAs.	Mehdi Baradaran Tahoori,Subhasish Mitra	10.1109/TEST.2006.297645
+Testing of UltraSPARC T1 Microprocessor and its Challenges.	P. J. Tan,Tung Le,Keng-Hian Ng,Prasad Mantri,James Westfall	10.1109/TEST.2006.297637
+Improving Transition Fault Test Pattern Quality through At-Speed Diagnosis.	Nandu Tendolkar,Dawit Belete,Bill Schwarz,Bob Podnar,Akshay Gupta,Steve Karako,Wu-Tung Cheng,Alex Babin,Kun-Han Tsai,Nagesh Tamarapalli,Greg Aldrich	10.1109/TEST.2006.297623
+Prospects for Wafer-Level Testing of Gigascale Chips with Electrical and Optical I/O Interconnects.	Hiren D. Thacker,James D. Meindl	10.1109/TEST.2006.297668
+On-chip Test and Repair of Memories for Static and Dynamic Faults.	Sanjay K. Thakur,Rubin A. Parekhji,Arun N. Chandorkar	10.1109/TEST.2006.297687
+Test Economics - What can a Board/System Test Engineer do to Influence Supply Operation Metrics.	Sylvain Tourangeau,Bill Eklow	10.1109/TEST.2006.297650
+A Reconfigurable Built-In Self-Repair Scheme for Multiple Repairable RAMs in SOCs.	Tsu-Wei Tseng,Jin-Fu Li,Chih-Chiang Hsu,Alex Pao,Kevin Chiu,Eliot Chen	10.1109/TEST.2006.297688
+Novel Architecture for On-Chip AC Characterization of I/Os.	N. Vijayaraghavan,Balwant Singh,Saurabh Singh,Vishal Srivastava	10.1109/TEST.2006.297697
+Design for Board and System Level Structural Test and Diagnosis.	Toai Vo,Zhiyuan Wang,Ted Eaton,Pradipta Ghosh,Huai Li,Young Lee,Weili Wang,Hong Shin Jun,Rong Fang,Dan Singletary,Xinli Gu	10.1109/TEST.2006.297631
+Test Software Generation Productivity and Code Quality Improvement by applying Software Engineering Techniques.	Stefan Vock,Markus Schmid 0003,Hans Martin von Staudt	10.1109/TEST.2006.297652
+Power Supply Noise in Delay Testing.	Jing Wang 0006,D. M. H. Walker,Ananta K. Majhi,Bram Kruseman,Guido Gronthoud,Luis Elvira Villagra,Paul van de Wiel,Stefan Eichenberger	10.1109/TEST.2006.297642
+A High Speed Reduced Pin Count JTAG Interface.	Lee Whetsel	10.1109/TEST.2006.297619
+Perfect data reconstruction algorithm of time interleaved ADCs.	Fang Xu	10.1109/TEST.2006.297630
+A Study of Per-Pin Timing Jitter Scope.	Takahiro J. Yamaguchi,Satoshi Iwamoto,Masahiro Ishida,Mani Soma	10.1109/TEST.2006.297654
+Multi Strobe Circuit for 2.133GHz Memory Test System.	Kazuhiro Yamamoto,Masakatsu Suda,Toshiyuki Okayasu,Hirokatsu Niijima,Koichi Tanaka	10.1109/TEST.2006.297711
+Interconnect Delay Fault Test on Boards and SoCs with Multiple Clock Domains.	Hyunbean Yi,Jaehoon Song,Sungju Park	10.1109/TEST.2006.297632
+Self-Checking and Self-Diagnosing 32-bit Microprocessor Multiplier.	Mahmut Yilmaz,Derek Hower,Sule Ozev,Daniel J. Sorin	10.1109/TEST.2006.297634
+ISI Injection Filter Designs Using PIN and Varactor Diodes for SerDes Testing on ATE.	Fengming Zhang,Warren Necoechea	10.1109/TEST.2006.297670
+Evaluating and Improving Transient Error Tolerance of CMOS Digital VLSI Circuits.	Chong Zhao,Sujit Dey	10.1109/TEST.2006.297680
+BIST Power Reduction Using Scan-Chain Disable in the Cell Processor.	Christian G. Zoellin,Hans-Joachim Wunderlich,Nicolas Mäding,Jens Leenstra	10.1109/TEST.2006.297695
+2006 IEEE International Test Conference, ITC 2006, Santa Clara, CA, USA, October 22-27, 2006	Scott Davidson,Anne Gattiker	

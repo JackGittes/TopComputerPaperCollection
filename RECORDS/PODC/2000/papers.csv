@@ -1,0 +1,49 @@
+Bounds on the shared memory requirements for long-lived adaptive objects (extended abstract).	Yehuda Afek,Pazi Boxer,Dan Touitou	10.1145/343477.343523
+Long-lived and adaptive atomic snapshot and immediate snapshot (extended abstract).	Yehuda Afek,Gideon Stupp,Dan Touitou	10.1145/343477.343521
+Efficient atomic broadcast using deterministic merge.	Marcos Kawazoe Aguilera,Robert E. Strom	10.1145/343477.343620
+Resettable vector clocks.	Anish Arora,Sandeep S. Kulkarni,Murat Demirbas	10.1145/343477.343628
+Fast deterministic consensus in a noisy environment.	James Aspnes	10.1145/343477.343631
+Adaptive and efficient mutual exclusion (extended abstract).	Hagit Attiya,Vita Bortnikov	10.1145/343477.343525
+Clock synchronization with faults and recoveries (extended abstract).	Boaz Barak,Shai Halevi,Amir Herzberg,Dalit Naor	10.1145/343477.343534
+1/k phase stamping for continuous shared data (extended abstract).	Sumeer Bhola,Mustaque Ahamad	10.1145/343477.343543
+Towards robust distributed systems (abstract).	Eric A. Brewer	10.1145/343477.343502
+Random oracles in constantipole: practical asynchronous Byzantine agreement using cryptography (extended abstract).	Christian Cachin,Klaus Kursawe,Victor Shoup	10.1145/343477.343531
+Achieving scalability and expressiveness in an Internet-scale event notification service.	Antonio Carzaniga,David S. Rosenblum,Alexander L. Wolf	10.1145/343477.343622
+Self-stabilization - beyond the token ring circulation (brief announcement).	Augusto Ciuffoletti	10.1145/343477.362068
+Compact roundtrip routing in directed networks (extended abstract).	Lenore Cowen,Christopher G. Wagner	10.1145/343477.343516
+Stability of long-lived consensus (extended abstract).	Shlomi Dolev,Sergio Rajsbaum	10.1145/343477.343633
+On the interconnection of causal memory systems.	Antonio Fernández 0001,Ernesto Jiménez,Vicent Cholvi	10.1145/343477.343540
+Interval routing schemes allow broadcasting with linear message-complexity (extended abstract).	Pierre Fraigniaud,Cyril Gavoille,Bernard Mans	10.1145/343477.343503
+Assigning labels in unknown anonymous networks (extended abstract).	Pierre Fraigniaud,Andrzej Pelc,David Peleg,Stephane Perennes	10.1145/343477.343527
+X-ability: a theory of replication.	Svend Frølund,Rachid Guerraoui	10.1145/343477.343623
+The wakeup problem in synchronous broadcast systems (extended abstract).	Leszek Gasieniec,Andrzej Pelc,David Peleg	10.1145/343477.343529
+Time and message-efficient S-based consensus (brief announcement).	Fabíola Greve,Michel Hurfin,Raimundo A. Macêdo,Michel Raynal	10.1145/343477.362067
+Indulgent algorithms (preliminary version).	Rachid Guerraoui	10.1145/343477.343630
+Sparse communication networks and efficient routing in the plane (extended abstract).	Yehuda Hassin,David Peleg	10.1145/343477.343514
+How computer architecture trends may affect future distributed systems: from infiniBand clusters to inter-processor speculation (abstract).	Mark D. Hill	10.1145/343477.343501
+Compact routing with stretch factor of less than three (brief announcement).	Kazuo Iwama,Akinori Kawachi	10.1145/343477.362158
+Stable and fault-tolerant object allocation.	Gregory F. Johnson,Ambuj K. Singh	10.1145/343477.343627
+Toward a theory of maximally concurrent programs (shortened version).	Rajeev Joshi,Jayadev Misra	10.1145/343477.343634
+Average probe complexity of non-dominated coteries (brief announcement).	Tiko Kameda,Feng Xiao,Malika Mahoui-Guerni	10.1145/343477.362168
+Memory consistency and process coordination for SPARC v8 multiprocessors (brief announcement).	Jalal Kawash,Lisa Higham	10.1145/343477.362115
+Deterministic distributed resource discovery (brief announcement).	Shay Kutten,David Peleg	10.1145/343477.362152
+Distributed algorithms in TLA (abstract).	Leslie Lamport	10.1145/343477.343497
+Optimal implementation of the weakest failure detector for solving consensus (brief announcement).	Mikel Larrea,Antonio Fernández 0001,Sergio Arévalo	10.1145/343477.362113
+Specification, implementation and application of randomized regular registers (brief announcement).	Hyunyoung Lee,Jennifer L. Welch	10.1145/343477.362159
+Fast protocol transition in a distributed environment (brief announcement).	Xiaoming Liu 0003,Robbert van Renesse	10.1145/343477.362170
+Average-case analysis of greedy packet scheduling (extended astract).	Zvi Lotker,Boaz Patt-Shamir	10.1145/343477.343512
+Efficient generation of all regular non-dominated coteries.	Kazuhisa Makino,Tiko Kameda	10.1145/343477.343629
+Distributed cooperation in the absence of communication (brief announcement).	Grzegorz Malewicz,Alexander Russell,Alexander A. Shvartsman	10.1145/343477.362162
+Optimal smoothing schedules for real-time streams (extended abstract).	Yishay Mansour,Boaz Patt-Shamir,Ofer Lapid	10.1145/343477.343511
+Debugging distributed programs using controlled re-execution.	Neeraj Mittal,Vijay K. Garg	10.1145/343477.343624
+Laziness pays! using lazy synchronization mechanisms to improve non-blocking constructions.	Mark Moir	10.1145/343477.343520
+k-set agreement with limited accuracy failure detectors.	Achour Mostéfaoui,Michel Raynal	10.1145/343477.343536
+Garbage collection of timestamped data in Stampede.	Rishiyur S. Nikhil,Umakishore Ramachandran	10.1145/343477.343539
+A middleware overview: goals, research issues, and coded examples (abstract).	Michael Ogg	10.1145/343477.343498
+Data communications vs. distributed computing (abstract).	Craig Partridge	10.1145/343477.343499
+Self-stabilizing token circulation on asynchronous uniform unidirectional rings.	Laurent Rosaz	10.1145/343477.343626
+p2 - a generic proxy platform for wireless access and mobility in CORBA.	Rainer Ruggaber,Jochen Seitz 0001,Michael Knapp	10.1145/343477.343615
+High performance adaptive middleware for CORBA-based systems.	E-Kai Shen,Shikharesh Majumdar,Istabrak Abdul-Fatah	10.1145/343477.343619
+A verification technique for self-stabilizing algorithms based on Ljapunov&apos;s &quot;Second Method&quot; (brief announcement).	Oliver E. Theel	10.1145/343477.362066
+Distributed reconfigurtion of metamorphic robot chains.	Jennifer E. Walter,Jennifer L. Welch,Nancy M. Amato	10.1145/343477.343542
+Proceedings of the Nineteenth Annual ACM Symposium on Principles of Distributed Computing, July 16-19, 2000, Portland, Oregon, USA.	Gil Neiger	

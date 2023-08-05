@@ -1,0 +1,42 @@
+Name independent routing for growth bounded networks.	Ittai Abraham,Dahlia Malkhi	10.1145/1073970.1073978
+Admission control to minimize rejections and online set cover with repetitions.	Noga Alon,Yossi Azar,Shai Gutner	10.1145/1073970.1074010
+Randomized queue management for DiffServ.	Nir Andelman	10.1145/1073970.1073972
+Value-maximizing deadline scheduling and its application to animation rendering.	Eric Anderson 0003,Dirk Beyer 0002,Kamalika Chaudhuri,Terence Kelly,Norman Salazar,Cipriano A. Santos,Ram Swaminathan,Robert Endre Tarjan,Janet L. Wiener,Yunhong Zhou	10.1145/1073970.1074019
+Fast construction of overlay networks.	Dana Angluin,James Aspnes,Jiang Chen,Yinghua Wu,Yitong Yin	10.1145/1073970.1073991
+The expansion and mixing time of skip graphs with applications.	James Aspnes,Udi Wieder	10.1145/1073970.1073989
+Randomization does not reduce the average delay in parallel packet switches.	Hagit Attiya,David Hay	10.1145/1073970.1073973
+Collaborate with strangers to find own preferences.	Baruch Awerbuch,Yossi Azar,Zvi Lotker,Boaz Patt-Shamir,Mark R. Tuttle	10.1145/1073970.1074014
+Windows scheduling of arbitrary length jobs on parallel machines.	Amotz Bar-Noy,Richard E. Ladner,Tami Tamir,Tammy VanDeGrift	10.1145/1073970.1073980
+Concurrent cache-oblivious b-trees.	Michael A. Bender,Jeremy T. Fineman,Seth Gilbert,Bradley C. Kuszmaul	10.1145/1073970.1074009
+Adversarial contention resolution for simple channels.	Michael A. Bender,Martin Farach-Colton,Simai He,Bradley C. Kuszmaul,Charles E. Leiserson	10.1145/1073970.1074023
+Traffic engineering of management flows by link augmentations on confluent trees.	Randeep Bhatia,Nicole Immorlica,Tracy Kimbrel,Vahab S. Mirrokni,Seffi Naor,Baruch Schieber	10.1145/1073970.1074018
+Dynamic page migration with stochastic requests.	Marcin Bienkowski	10.1145/1073970.1074016
+Oblivious routing on geometric networks.	Costas Busch,Malik Magdon-Ismail,Jing Xi	10.1145/1073970.1074022
+Dynamic circular work-stealing deque.	David Chase,Yossi Lev	10.1145/1073970.1073974
+An adaptive power conservation scheme for heterogeneous wireless sensor networks with node redeployment.	Ioannis Chatzigiannakis,Athanasios Kinalis,Sotiris E. Nikoletseas	10.1145/1073970.1073985
+A forward planning situated protocol for data propagation in wireless sensor networks based on swarm intelligence techniques.	Ioannis Chatzigiannakis,Sotiris E. Nikoletseas	10.1145/1073970.1074003
+Autonomous virtual mobile nodes.	Shlomi Dolev,Seth Gilbert,Elad Schiller,Alexander A. Shvartsman,Jennifer L. Welch	10.1145/1073970.1074004
+Irrigating ad hoc networks in constant time.	Devdatt P. Dubhashi,C. Johansson,Olle Häggström,Alessandro Panconesi,Mauro Sozio	10.1145/1073970.1073986
+Radio communication in random graphs: extended abstract.	Robert Elsässer,Leszek Gasieniec	10.1145/1073970.1074021
+Selfish routing with incomplete information.	Martin Gairing,Burkhard Monien,Karsten Tiemann	10.1145/1073970.1074000
+Is partial quantum search of a database any easier?	Lov K. Grover,Jaikumar Radhakrishnan	10.1145/1073970.1073997
+Lexicographic QoS scheduling for parallel I/O.	Ajay Gulati,Peter J. Varman	10.1145/1073970.1073975
+Scheduling malleable tasks with precedence constraints.	Klaus Jansen,Hu Zhang 0004	10.1145/1073970.1073983
+Decentralized algorithms using both local and random probes for P2P load balancing.	Krishnaram Kenthapadi,Gurmeet Singh Manku	10.1145/1073970.1073990
+Broadcasting on networks of workstations.	Samir Khuller,Yoo Ah Kim,Yung-Chun (Justin) Wan	10.1145/1073970.1074017
+Constant density spanners for wireless ad-hoc networks.	Kishore Kothapalli,Christian Scheideler,Melih Onus,Andréa W. Richa	10.1145/1073970.1073987
+A segmented parallel-prefix VLSI circuit with small delays for small segments.	Bradley C. Kuszmaul	10.1145/1073970.1074002
+A space lower bound for name-independent compact routing in trees.	Kofi A. Laing,Rajmohan Rajaraman	10.1145/1073970.1074005
+On distributed smooth scheduling.	Ami Litman,Shiri Moran-Schein	10.1145/1073970.1073982
+Finding effective support-tree preconditioners.	Bruce M. Maggs,Gary L. Miller,Ojas Parekh,R. Ravi 0001,Shan Leung Maverick Woo	10.1145/1073970.1073996
+Peer-to-peer networks based on random transformations of connected regular undirected graphs.	Peter Mahlmann,Christian Schindelhauer	10.1145/1073970.1073992
+Parallel scheduling of complex dags under uncertainty.	Grzegorz Malewicz	10.1145/1073970.1073981
+Efficient algorithms for verifying memory consistency.	Chaiyasit Manovit,Sudheendra Hangal	10.1145/1073970.1074011
+Using elimination to implement scalable and lock-free FIFO queues.	Mark Moir,Daniel Nussbaum,Ori Shalev,Nir Shavit	10.1145/1073970.1074013
+Coloring unstructured radio networks.	Thomas Moscibroda,Roger Wattenhofer	10.1145/1073970.1073977
+A truthful mechanism for the non-utilitarian minimum radius spanning tree problem.	Guido Proietti,Peter Widmayer	10.1145/1073970.1073999
+Processor efficient parallel matching.	Piotr Sankowski	10.1145/1073970.1073994
+Weighted distributed hash tables.	Christian Schindelhauer,Gunnar Schomaker	10.1145/1073970.1074008
+On competitive online read-many parallel disks scheduling.	Rahul Shah,Peter J. Varman,Jeffrey Scott Vitter	10.1145/1073970.1074006
+Parallelizing time with polynomial circuits.	Ryan Williams 0001	10.1145/1073970.1073995
+SPAA 2005: Proceedings of the 17th Annual ACM Symposium on Parallelism in Algorithms and Architectures, July 18-20, 2005, Las Vegas, Nevada, USA	Phillip B. Gibbons,Paul G. Spirakis	10.1145/1073970

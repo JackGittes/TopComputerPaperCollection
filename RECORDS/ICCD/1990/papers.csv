@@ -1,0 +1,107 @@
+Design aids and test results for laser-programmable logic arrays.	David L. Allen,Richard Goldenberg	10.1109/ICCD.1990.130248
+An edge based netlist extractor for IC layouts.	Sandeep Aranake,Anil Dikshit,A. Arun	10.1109/ICCD.1990.130201
+Testability driven synthesis of interacting finite state machines.	Pranav Ashar,Srinivas Devadas,A. Richard Newton	10.1109/ICCD.1990.130225
+Compacting randomly generated test sets.	James H. Aylor,James P. Cohoon,E. L. Feldhousen,Barry W. Johnson	10.1109/ICCD.1990.130188
+Submicron BiCMOS technologies for supercomputer and high speed system implementation.	B. Bastani,M. Biswal,Ali Iranmanesh,C. Lage,L. Bouknight,Vida Ilderem,A. Solheim,W. Burger,R. Lahri,J. Small	10.1109/ICCD.1990.130145
+Complexity issues in RAM-DFE design for magnetic disk drives.	Philip S. Bednarz,William L. Abbott,Kevin D. Fisher,John M. Cioffi	10.1109/ICCD.1990.130207
+A trace-driven analysis of the &apos;wrap-around&apos; network.	Caroline Benveniste,Yarsun Hsu	10.1109/ICCD.1990.130167
+MxSICO: a silicon compiler for mixed analog digital circuits.	Ertugrul Berkcan	10.1109/ICCD.1990.130153
+New ideas on symbolic manipulations of finite state machines.	Christian Berthet,Olivier Coudert,Jean Christophe Madre	10.1109/ICCD.1990.130210
+Automatic classification of node types in switch-level descriptions.	David T. Blaauw,Prithviraj Banerjee,Jacob A. Abraham	10.1109/ICCD.1990.130194
+Synthesis of testable PLAs using adaptive heuristics for efficiency.	Pradip Bose,Subir Bandyopadhyay,D. Dutta Majumder	10.1109/ICCD.1990.130176
+Built-in self-test with weighted random pattern hardware.	Franc Brglez,Clay S. Gloster Jr.,Gershon Kedem	10.1109/ICCD.1990.130190
+Pseudo pin assignment for single-layer over-the-cell routing.	Howard H. Chen	10.1109/ICCD.1990.130245
+Automatic layout generation for mixed analog-digital VLSI neural chips.	David J. Chen,Bing J. Sheu	10.1109/ICCD.1990.130152
+An area-efficient reconfigurable binary tree architecture.	Chung-Han Chen,Nian-Feng Tzeng	10.1109/ICCD.1990.130246
+Real-time computing of optical flow using adaptive VLSI neuroprocessors.	Wai-Chi Fang,Bing J. Sheu,Ji-Chien Lee	10.1109/ICCD.1990.130180
+BiCMOS Futurebus transceiver.	T. Fletcher,E. Hahn,J. West	10.1109/ICCD.1990.130146
+The fault dropping problem in concurrent event driven simulation.	Silvano Gai,Pier Luca Montessoro	10.1109/ICCD.1990.130232
+Heuristic minimization of Boolean relations using testing techniques.	Abhijit Ghosh,Srinivas Devadas,A. Richard Newton	10.1109/ICCD.1990.130226
+Reliable design of multichip nonblocking crossbars.	Joydeep Ghosh,Anujan Varma	10.1109/ICCD.1990.130164
+Multiterminal-net routing by grid stretching.	Teofilo F. Gonzalez,Si-Qing Zheng	10.1109/ICCD.1990.130260
+VLSI asynchronous sequential circuit design.	Suresh K. Gopalakrishnan,Gary K. Maki	10.1109/ICCD.1990.130214
+Design for routability of a high-density gate array.	Dick W. Harberts,Dré A. J. M. van den Elshout,Harry J. M. Veendrick	10.1109/ICCD.1990.130160
+A parameter adjustment method for analog circuits based on convex fuzzy decision using constraints of satisfactory level.	Masaki Hashizume,Takeomi Tamesada,Koji Nii	10.1109/ICCD.1990.130151
+Approximate time-domain models of three-dimensional interconnects.	Hansruedi Heeb,Albert E. Ruehli	10.1109/ICCD.1990.130202
+2.5 Gbits/sec telecommunications gate array.	N. Hendrickson,R. Langer,T. Coe,M. Vana,I. Deyhimy	10.1109/ICCD.1990.130221
+Placement algorithms for CMOS cell synthesis.	Dwight D. Hill,Marw A. Aranha,Donald D. Shugard	10.1109/ICCD.1990.130277
+Preliminary description of Tabula Rasa, an electrically reconfigurable hardware engine.	Dwight D. Hill,Daniel R. Cassiday	10.1109/ICCD.1990.130258
+68040 integer module.	Kirk Holden,Renny Eisele,Mike Kobe,James Raleigh,Thomas Spohrer	10.1109/ICCD.1990.130197
+Figures of merit for system path time estimation.	C. George Hsi,Stuart G. Tucker	10.1109/ICCD.1990.130159
+Early resolution of address translation in cache design.	Kien A. Hua,A. Hunt,L. Liu,J.-K. Peir,D. Pruett,J. Temple	10.1109/ICCD.1990.130264
+Logic synthesis for programmable logic devices.	TingTing Hwang,Robert Michael Owens,Mary Jane Irwin	10.1109/ICCD.1990.130255
+Application specific microprocessor [NS3200/EP family].	Gideon D. Intrater,Dan Biran	10.1109/ICCD.1990.130251
+BiCMOS design overview and implementation methodology.	Ramesh S. Iyer	10.1109/ICCD.1990.130144
+Design of robustly testable static CMOS parity trees derived from binary decision diagrams.	Niraj K. Jha,Carol Q. Tong	10.1109/ICCD.1990.130173
+High speed VLSI logic simulation using bitwise operations and parallel processing.	Young-Hyun Jun,Ibrahim N. Hajj,Sang-Heon Lee,Song-Bai Park	10.1109/ICCD.1990.130193
+A 64-bit floating-point processing unit with a horizontal instruction code for parallel operations.	Akira Katsuno,Hiromasa Takahashi,Hajime Kubosawa,Tomio Sato,Atsuhiro Suga,Gensuke Goto	10.1109/ICCD.1990.130250
+A parallel algorithm for constructing binary decision diagrams.	Shinji Kimura,Edmund M. Clarke	10.1109/ICCD.1990.130209
+Rule-based testability rule check program.	Yasushi Koseko,C. Hiramine,Takuji Ogihara,Shinichi Murai	10.1109/ICCD.1990.130170
+ASIC design using the high-level synthesis system CALLAS: a case study.	Michael Koster,Martin Geiger,Peter Duzy	10.1109/ICCD.1990.130185
+Associative and data processing Mbit-DRAM.	Oskar Kowarik,Rainer Kraus,Kurt Hoffmann,Karl H. Horninger	10.1109/ICCD.1990.130267
+An efficient parallel algorithm for channel routing.	Sridhar Krishnamurthy,Joseph F. JáJá	10.1109/ICCD.1990.130261
+A functional diagnostics methodology.	Ramachandra P. Kunda,Bharat Deep Rathi	10.1109/ICCD.1990.130215
+Simultaneous bidirectional signalling for IC systems.	Kevin Lam,Larry R. Dennison,William J. Dally	10.1109/ICCD.1990.130272
+Design and application trade-offs between high-density and high-speed ASICs.	Patrick Lampin,J. C. Le Garrec,C. Marion,J. P. Mifsud,T. Mille,S. Nicot,B. Rousseau,R. Saura,T. Tatry,C. John Glossner,R. D. Kilmoyer	10.1109/ICCD.1990.130223
+Test generation in circuits constructed by input decomposition.	Gueesang Lee,Mary Jane Irwin,Robert Michael Owens	10.1109/ICCD.1990.130174
+Parallel digital image restoration using adaptive VLSI neural chips.	Ji-Chien Lee,Bing J. Sheu	10.1109/ICCD.1990.130181
+Empirical evaluation of randomly-wire multistage networks.	Tom Leighton,Derek Linsinski,Bruce M. Maggs	10.1109/ICCD.1990.130247
+BiCMOS fault models: is stuck-at adequate?	Marc E. Levitt,Kaushik Roy,Jacob A. Abraham	10.1109/ICCD.1990.130231
+SYLON-REDUCE: an MOS network optimization algorithms using permissible functions.	Johnson Chan Limqueco,Saburo Muroga	10.1109/ICCD.1990.130227
+Accurate interconnect modeling for high frequency LSI/VLSI circuits and systems.	C. G. Lin-Hendel	10.1109/ICCD.1990.130273
+A linear time algorithm for optimal CMOS functional cell layouts.	Po-Yang F. Lin,Kazuo Nakajima	10.1109/ICCD.1990.130276
+Formal verification of cache systems using refinement relations.	Paul Loewenstein,David L. Dill	10.1109/ICCD.1990.130211
+Experiments with an efficient heuristic algorithm for local microcode generation.	M. Mahmood,Farhad Mavaddat,M. I. Elmastry	10.1109/ICCD.1990.130239
+Fast parallel communication on mesh connected machines with low buffer requirements.	Fillia Makedon,Adonios Simvonis	10.1109/ICCD.1990.130166
+Pin assignment for improved performance in standard cell design.	Malgorzata Marek-Sadowska,Shen P. Lin	10.1109/ICCD.1990.130244
+68040 memory modules and bus controller.	Brad Martin,Steve McMahan,Lal Sood	10.1109/ICCD.1990.130196
+Computer systems employing reconfigurable board-to-board free-space optical interconnections: COSINE-1 and -2.	Takao Matsumoto,Toshikazu Sakano,Kazuhiro Noguchi,Tomoko Sawabe	10.1109/ICCD.1990.130271
+A floating point unit for the 68040.	Shawn McCloud,Donnie Anderson,Chris DeWitt,Chris Hinds,Ying-Wai Ho,Danny Marquette,Eric Quintana	10.1109/ICCD.1990.130198
+The observability don&apos;t-care set and its approximations.	Patrick C. McGeer,Robert K. Brayton	10.1109/ICCD.1990.130157
+Optimized bit level architectures for IIR filtering.	O. C. McNally,John V. McCanny,Roger F. Woods	10.1109/ICCD.1990.130234
+Estimating aliasing in CA and LFSR based signature registers.	D. Michael Miller,Shujian Zhang,Werner Pries,Robert D. McLeod	10.1109/ICCD.1990.130189
+Cache design for high performance computers with BiCMOS VLSIs.	M. Morioka,K. Kurita,H. Kobayashi,H. Sawamoto	10.1109/ICCD.1990.130265
+A class of close-to-optimum adder trees allowing regular and compact layout.	Zhi-Jian Mou,Francis Jutand	10.1109/ICCD.1990.130218
+Vector processor design for parallel DSP systems using hierarchical behavioral description based synthesizer.	Hiroshi Nakada,Naoya Sakurai,Yukiharu Kanayama,Naohisa Ohta,Kiyoshi Oguri	10.1109/ICCD.1990.130169
+Practical design assistance at register transfer level using a data path verifier.	Hiroshi Nakamura,Yuji Kukimoto,Masahiro Fujita,Hidehiko Tanaka	10.1109/ICCD.1990.130171
+A pipelined microprocessor for logic programming languages.	Hiroshi Nakashima,Yasutaka Takeda,Katsuto Nakajima,Hideki Andou,Kiyohiro Furutani	10.1109/ICCD.1990.130252
+SAP: design of a systolic array processor for computation in vision.	Sanjay Nichani,N. Ranganathan	10.1109/ICCD.1990.130237
+QRAM-Quick access memory system.	Hideto Niijima,Nobuyuki Oba	10.1109/ICCD.1990.130266
+Combined hardware selection and pipelining in high performance data-path design.	Stefaan Note,Francky Catthoor,Gert Goossens,Hugo De Man	10.1109/ICCD.1990.130241
+The complexity of adaptive annealing.	Ralph H. J. M. Otten,Lukas P. P. P. van Ginneken	10.1109/ICCD.1990.130262
+Architectures for pipelined Wallace tree multiplier-accumulators.	King Fai Pang	10.1109/ICCD.1990.130217
+A hierarchical floorplanning approach.	Massoud Pedram,Bryan Preas	10.1109/ICCD.1990.130243
+Minimization of multioutput TANT networks for unlimited fan-in network model.	Marek A. Perkowski,Malgorzata Chrzanowska-Jeske,Tuhar Shah	10.1109/ICCD.1990.130254
+Design of a custom processing unit based on Intel i486 architectures and performances trade-offs.	Jean-Luc Peter	10.1109/ICCD.1990.130281
+Fault tolerance in RNS: an efficient approach.	Damu Radhakrishnan,Taejin Pyon	10.1109/ICCD.1990.130156
+An area estimation technique for module generation.	Arun Rajanala,Akhilesh Tyagi	10.1109/ICCD.1990.130278
+Derivation of signal flow direction in MOS VLSI: an alternative.	W. De Rammelaere,Ivo Bolsens,Luc J. M. Claesen,Hugo De Man	10.1109/ICCD.1990.130203
+A design environment for high performance VLSI signal processing.	Sailesh K. Rao,Mehdi Hatamian,Bryan D. Ackland	10.1109/ICCD.1990.130186
+Reliability analysis of a computer system for a data collection application.	Andrew L. Reibman	10.1109/ICCD.1990.130162
+An analog parallel distributed solution to the shortest path problem.	Scott E. Ritter,K. Soumyanath	10.1109/ICCD.1990.130182
+Modular BIST concept for microprocessors.	Hartmut C. Ritter,Thomas M. Schwair	10.1109/ICCD.1990.130213
+A 75 MHz CMOS digital convolver.	P. J. Rose,B. G. Koether	10.1109/ICCD.1990.130236
+Towards a VLSI packaging design support environment (PDSE); concepts and implementation.	Jerzy W. Rozenblit,John L. Prince,Olgierd A. Palusinski	10.1109/ICCD.1990.130274
+Fault grading of large digital systems.	Daniel G. Saab,Robert B. Mueller-Thuns,David T. Blaauw,Joseph T. Rahmeh,Jacob A. Abraham	10.1109/ICCD.1990.130230
+Boolean technology mapping for both ECI and CMOS circuits based on permissible functions and binary decision diagrams.	Hitomi Sato,Norikazu Takahashi,Yusuke Matsunaga,Masahiro Fujita	10.1109/ICCD.1990.130228
+An improved algorithm for the minimization of mixed polarity Reed-Muller representations.	J. M. Saul	10.1109/ICCD.1990.130257
+Wavefront array processor for video applications.	Ulrich Schmidt,Sönke Mehrgardt	10.1109/ICCD.1990.130235
+A global feedback detection algorithm for VLSI circuits.	H.-C. Shih,Predrag G. Kovijanic,Rahul Razdan	10.1109/ICCD.1990.130155
+A file-based adaptive prefetch caching design.	F. Warren Shih,Tze Chiang Lee,Shauchi Ong	10.1109/ICCD.1990.130280
+Design issues of a rate 8/10 matched-spectral-null trellis code chip for partial response channels.	C. Bernard Shung,Paul H. Siegel,Hemant K. Thapar,Razmik Karabed	10.1109/ICCD.1990.130206
+Test architecture of the Motorola 68040.	Thomas Spohrer,Danny Marquette,Michael Gallup	10.1109/ICCD.1990.130199
+Concurrent testing of VLSI circuits using conservative logic.	Gnanasekaran Swaminathan,James H. Aylor,Barry W. Johnson	10.1109/ICCD.1990.130161
+HAL III: function level hardware logic simulation.	Shigeru Takasaki,Nobuyoshi Nomizu,Yoshihiro Hirabayashi,Hiroshi Ishikura,Masahiro Kurashita,Nobuhiko Koike,Toshiyuki Nakata 0001	10.1109/ICCD.1990.130192
+An approach to 150 K gate low power ECL cell based integrated circuits.	G. Taylor,G. Sanguinetti,R. Lane	10.1109/ICCD.1990.130222
+A reduced area scheme for carry-select adders.	Akhilesh Tyagi	10.1109/ICCD.1990.130219
+Exploitation of operation-level parallelism in a processor of the CRAY X-MP.	Sriram Vajapeyam,Gurindar S. Sohi,Wei-Chung Hsu	10.1109/ICCD.1990.130149
+On the estimation of logic complexity for design automation applications.	Devadas Varma,E. A. Trachtenberg	10.1109/ICCD.1990.130256
+Automatic generation of control circuits in pipelined DSP architectures.	Ching-Yi Wang,Keshab K. Parhi	10.1109/ICCD.1990.130240
+Design of repairable and fully testable folded PLAs.	Chin-Long Wey,Jyhyeung Ding	10.1109/ICCD.1990.130175
+Task assignment by parallel simulated annealing.	Ellen E. Witte,Roger D. Chamberlain,Mark A. Franklin	10.1109/ICCD.1990.130165
+Digital magnetic recording systems.	Jack Keil Wolf	10.1109/ICCD.1990.130205
+Formal semantics of UDL/I and its applications to CAD/DA tools.	Hiroto Yasuura,Nagisa Ishiura	10.1109/ICCD.1990.130288
+On-the-fly circuit to measure the average working set size.	Kwangkeun Yi,Luddy Harrison	10.1109/ICCD.1990.130282
+DEBBIE: a configurable user interface for CAD frameworks.	Marcus S. Yoo,Arding Hsu	10.1109/ICCD.1990.130184
+A strategy for avoiding pipeline interlock delays in a microprocessor.	Toyohiko Yoshida,Masahito Matsuo,Tatsuya Ueda,Yuichi Saito	10.1109/ICCD.1990.130148
+Proceedings of the 1990 IEEE International Conference on Computer Design: VLSI in Computers and Processors, ICCD 1990, Cambridge, MA, USA, 17-19 September, 1990		

@@ -1,0 +1,111 @@
+Automatic generation and verification of sufficient correctness properties for synchronous processors.	Filip Van Aelten,Stan Y. Liao,Jonathan Allen,Srinivas Devadas	10.1109/ICCAD.1992.279377
+SHILPA: a high-level synthesis system for self-timed circuits.	Venkatesh Akella,Ganesh Gopalakrishnan	10.1109/ICCAD.1992.279308
+Numerical integration algorithms and asymptotic waveform evaluation (AWE).	M. Murat Alaybeyi,John Y. Lee,Ronald A. Rohrer	10.1109/ICCAD.1992.279394
+Equivalent design representations and transformations for interactive scheduling.	Roger P. Ang,Nikil D. Dutt	10.1109/ICCAD.1992.279351
+FICOM: a framework for incremental consistency maintenance in multi-representation, structural VLSI databases.	Robert C. Armstrong,Jonathan Allen	10.1109/ICCAD.1992.279350
+Exploiting multi-cycle false paths in the performance optimization of sequential circuits.	Pranav Ashar,Sujit Dey,Sharad Malik	10.1109/ICCAD.1992.279319
+An optimal chip compaction method based on shortest path algorithm with automatic jog insertion.	Toru Awashima,Wataru Yamamoto,Masao Sato,Tatsuo Ohtsuki	10.1109/ICCAD.1992.279382
+Parallel logic and fault simulation algorithms for shared memory vector machines.	Abdulla Bataineh,Füsun Özgüner,Imre Szauter	10.1109/ICCAD.1992.279345
+Automatic gate-level synthesis of speed-independent circuits.	Peter A. Beerel,Teresa H.-Y. Meng	10.1109/ICCAD.1992.279309
+Incorporating design flow management in a framework based CAD system.	Peter Bingley,K. Olav ten Bosch,Pieter van der Wolf	10.1109/ICCAD.1992.279315
+Extension of the asymptotic waveform evaluation technique with the method of characteristics.	J. Eric Bracken,Vivek Raghavan,Ronald A. Rohrer	10.1109/ICCAD.1992.279395
+Exhaustive simulation need not require an exponential number of tests.	Daniel Brand	10.1109/ICCAD.1992.279391
+ETA: electrical-level timing analysis.	Ronn B. Brashear,Douglas R. Holberg,M. Ray Mercer,Lawrence T. Pillage	10.1109/ICCAD.1992.279364
+Efficient Boolean function matching.	Jerry R. Burch,David E. Long	10.1109/ICCAD.1992.279337
+McPOWER: a Monte Carlo approach to power estimation.	Richard Burch,Farid N. Najm,Ping Yang 0001,Timothy N. Trick	10.1109/ICCAD.1992.279392
+Identification of critical paths in circuits with level-sensitive latches.	Timothy M. Burks,Karem A. Sakallah,Trevor N. Mudge	10.1109/ICCAD.1992.279386
+New channel segmentation model and associated routing algorithm for high performance FPGAs.	Surendra Burman,Chandar Kamalanathan,Naveed A. Sherwani	10.1109/ICCAD.1992.279404
+HYPER-LP: a system for power minimization using architectural transformations.	Anantha P. Chandrakasan,Miodrag Potkonjak,Jan M. Rabaey,Robert W. Brodersen	10.1109/ICCAD.1992.279357
+Using constraint geometry to determine maximum rate pipeline clocking.	Chuan-Hua Chang,Edward S. Davidson,Karem A. Sakallah	10.1109/ICCAD.1992.279385
+Analytic macromodeling and simulation fo tightly-coupled mixed analog-digital circuits.	Yu-Hsu Chang,Andrew T. Yang	10.1109/ICCAD.1992.279366
+Overall consideration of scan design and test generation.	Pao-Chuan Chen,Bin-Da Liu,Jhing-Fa Wang	10.1109/ICCAD.1992.279407
+A wire-length minimization algorithm for single-layer layouts.	De-Sheng Chen,Majid Sarrafzadeh	10.1109/ICCAD.1992.279340
+Behavioral synthesis for testability.	Chung-Hsing Chen,Daniel G. Saab	10.1109/ICCAD.1992.279304
+Test generation for delay faults in non-scan and partial scan sequential circuits.	Kwang-Ting Cheng	10.1109/ICCAD.1992.279313
+A comparative study of design for testability methods using high-level and gate-level descriptions.	Vivek Chickermane,Jaushin Lee,Janak H. Patel	10.1109/ICCAD.1992.279302
+Automatic compositional minimization in CTL model checking.	Massimiliano Chiodo,Thomas R. Shiple,Alberto L. Sangiovanni-Vincentelli,Robert K. Brayton	10.1109/ICCAD.1992.279379
+Configuration of a boundary scan chain for optimal testing of clusters of non boundary scan devices.	Yoon-Hwa Choi,Taechul Jung	10.1109/ICCAD.1992.279406
+Synthesis fo the hardware/software interface in microcontroller-based systems.	Pai H. Chou,Ross B. Ortega,Gaetano Borriello	10.1109/ICCAD.1992.279322
+An optimal technology mapping algorithm for delay optimization in lookup-table based FPGA designs.	Jason Cong,Yuzheng Ding	10.1109/ICCAD.1992.279398
+ProperSYN: a portable parallel algorithm for logic synthesis.	Kaushik De,Balkrishna Ramkumar,Prithviraj Banerjee	10.1109/ICCAD.1992.279336
+Verification of asynchronous interface circuits with bounded wire delays.	Srinivas Devadas,Kurt Keutzer,Sharad Malik,Albert R. Wang	10.1109/ICCAD.1992.279376
+Performance optimization of sequential circuits by eliminating retiming bottlenecks.	Sujit Dey,Miodrag Potkonjak,Steven G. Rothweiler	10.1109/ICCAD.1992.279320
+Engineering education: trends and needs (panel).	Stephen W. Director,Jonathan Allen,J. Duley	
+Accurate net models for placement improvement by network flow methods.	Konrad Doll,Frank M. Johannes,Georg Sigl	10.1109/ICCAD.1992.279307
+An analytical method for finding the maximum crosstalk in lossless-coupled transmission lines.	Ali El-Zein,Salim Chowdhury	10.1109/ICCAD.1992.279330
+Automatic differentiation in circuit simulation and device modeling.	Peter Feldmann,Robert C. Melville,Shahriar Moinian	10.1109/ICCAD.1992.279380
+Accuate simplification of large symbolic formulae.	Francisco V. Fernández 0001,Ángel Rodríguez-Vázquez,J. D. Martín,José L. Huertas	10.1109/ICCAD.1992.279354
+A tutorial on logic synthesis for lookup-table based FPGAs.	Robert J. Francis	10.1109/ICCAD.1992.279399
+Timing distribution in VHDL behavioral models.	Ashish S. Gadagkar,James R. Armstrong	10.1109/ICCAD.1992.279393
+Optimal synthesis of multichip architectures.	Catherine H. Gebotys	10.1109/ICCAD.1992.279367
+E-PROOFS: a CMOS bridging fault simulator.	Gary S. Greenstein,Janak H. Patel	10.1109/ICCAD.1992.279362
+A new approach to effective circuit clustering.	Lars W. Hagen,Andrew B. Kahng	10.1109/ICCAD.1992.279334
+Efficient partitioning and analysis of digital CMOS-circuits.	Uwe Hübner,Heinrich Theodor Vierhaus	10.1109/ICCAD.1992.279360
+Optimal replication for min-cut partitioning.	L. James Hwang,Abbas El Gamal	10.1109/ICCAD.1992.279332
+A new algorithm for the binate covering problem and its application to the minimization of Boolean relations.	Seh-Woong Jeong,Fabio Somenzi	10.1109/ICCAD.1992.279335
+Efficient techniques for inductance extraction of complex 3-D geometries.	Mattan Kamon,Michael J. Tsuk,C. Smithhisler,Jacob K. White 0001	10.1109/ICCAD.1992.279331
+Zero skew clock routing in multiple-clock synchronous systems.	Wasim Khan,Moazzem Hossain,Naveed A. Sherwani	10.1109/ICCAD.1992.279327
+AWE macromodels of VLSI interconnect for circuit simulation.	Seok-Yoon Kim,Nanda Gopal,Lawrence T. Pillage	10.1109/ICCAD.1992.279396
+Precise timing verification of logic circuits under combined delay model.	Shinji Kimura,Shigemi Kashima,Hiromasa Haneda	10.1109/ICCAD.1992.279317
+A scheduling method by stepwise expansion in high-level synthesis.	Hironori Komi,Shoichiro Yamada,Kunio Fukunaga	10.1109/ICCAD.1992.279368
+Assignment of global memory elements for multi-process VHDL specifications.	Heinrich Krämer,Jens Müller 0008	10.1109/ICCAD.1992.279321
+Timing analysis in high-level synthesis.	Andreas Kuehlmann,Reinaldo A. Bergamaschi	10.1109/ICCAD.1992.279348
+Rectification method for lookup-table type FPGA&apos;s.	Yuji Kukimoto,Masahiro Fujita	10.1109/ICCAD.1992.279397
+Hazard-non-increasing gate-level optimization algorithms.	David S. Kung 0001	10.1109/ICCAD.1992.279300
+DECOR - tightly integrated Design Control and Observation.	Elisabeth Kupitz,Jürgen Tacken	10.1109/ICCAD.1992.279316
+Valid clocking in wavepipelined circuits.	William K. C. Lam,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1992.279318
+Aesthetic routing for transistor schematics.	Tsung D. Lee,Lawrence P. McNamee	10.1109/ICCAD.1992.279400
+An algorithm to reduce test application time in full scan designs.	Soo Young Lee,Kewal K. Saluja	10.1109/ICCAD.1992.279405
+HIMALAYAS - a hierarchical compaction system with a minimized constraint set.	Jin-Fuw Lee,Donald T. Tang	10.1109/ICCAD.1992.279384
+An effective methodology for functional pipelining.	Tsing-Fa Lee,Allen C.-H. Wu,Daniel Gajski,Youn-Long Lin	10.1109/ICCAD.1992.279369
+Behavioral synthesis for easy testability in data path scheduling.	Tien-Chien Lee,Wayne H. Wolf,Niraj K. Jha	10.1109/ICCAD.1992.279303
+A zero-skew clock routing scheme for VLSI circuits.	Ying-Meng Li,Marwan A. Jabri	10.1109/ICCAD.1992.279328
+A probabilistic timing approach to hot-carrier effect estimation.	Ping-Chung Li,Georgios I. Stamoulis,Ibrahim N. Hajj	10.1109/ICCAD.1992.279373
+On the verification of state-coding in STGs.	Kuan-Jen Lin,Chen-Shang Lin	10.1109/ICCAD.1992.279388
+Behavioral simulation for noise in mixed-mode sampled-data systems.	Edward W. Y. Liu,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1992.279353
+Verification of systems containing counters.	Enrico Macii,Bernard Plessier,Fabio Somenzi	10.1109/ICCAD.1992.279378
+A logic simulation engine based on a modified data flow architecture.	Ausif Mahmood,William I. Baker,Jayantha A. Herath,Anura P. Jayasumana	10.1109/ICCAD.1992.279343
+Time domain analysis of nonuniform frequency dependent high-speed interconnects.	Sanjay L. Manney,Michel S. Nakhla,Qi-Jun Zhang	10.1109/ICCAD.1992.279329
+A partitioning algorithm for system-level synthesis.	G. Menez,Michel Auguin,Fernand Boéri,C. Carrière	10.1109/ICCAD.1992.279323
+A methodology for improved circuit simulation efficiency via topology-based variable accuracy device modeling.	Kimon W. Michaels,Andrzej J. Strojwas	10.1109/ICCAD.1992.279365
+System-level routing of mixed-signal ASICs in WREN.	Sujoy Mitra,Sudip Nag,Rob A. Rutenbar,L. Richard Carley	10.1109/ICCAD.1992.279339
+Delay and bus current evaluation in CMOS logic circuits.	Abdolreza Nabavi-Lishi,Nicholas C. Rumin	10.1109/ICCAD.1992.279375
+Configuring multiple scan chains for minimum test time.	Sridhar Narayanan,Rajesh Gupta 0003,Melvin A. Breuer	10.1109/ICCAD.1992.279408
+Exact two-level minimization of hazard-free logic with multiple-input changes.	Steven M. Nowick,David L. Dill	10.1109/ICCAD.1992.279301
+Area minimization for general floorplans.	Peichen Pan,C. L. Liu 0001	10.1109/ICCAD.1992.279305
+On the generation of small dictionaries for fault location.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCAD.1992.279361
+An efficient non-enumerative method to estimate path delay fault coverage.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCAD.1992.279312
+Maximally fast and arbitrarily fast implementation of linear computations.	Miodrag Potkonjak,Jan M. Rabaey	10.1109/ICCAD.1992.279356
+Accurate layout area and delay modeling for system level design.	Champaka Ramachandran,Fadi J. Kurdahi,Daniel Gajski,Allen C.-H. Wu,Viraphol Chaiyakul	10.1109/ICCAD.1992.279347
+Portable parallel test generation for sequential circuits.	Balkrishna Ramkumar,Prithviraj Banerjee	10.1109/ICCAD.1992.279371
+COMPACTEST-II: a method to generate compact two-pattern test sets for combinational logic circuits.	Lakshmi N. Reddy,Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCAD.1992.279311
+Power estimation tool for sub-micron CMOS VLSI circuits.	F. Rouatbi,Baher Haroun,Asim J. Al-Khalili	10.1109/ICCAD.1992.279374
+Automatic test generation for linear digital systems with bi-level search using matrix transform methods.	Rabindra K. Roy,Abhijit Chatterjee,Janak H. Patel,Jacob A. Abraham,Manuel A. d&apos;Abreu	10.1109/ICCAD.1992.279370
+CRIS: a test cultivation program for sequential VLSI circuits.	Daniel G. Saab,Youssef Saab,Jacob A. Abraham	10.1109/ICCAD.1992.279372
+Three-phase chip planning - an improved top-down chip planning strategy.	Bernd Schürmann,Joachim Altmeyer,Gerhard Zimmermann	10.1109/ICCAD.1992.279306
+Lazy-expansion symbolic expression approximation in SYNAP.	Steven J. Seda,Marc G. R. Degrauwe,Wolfgang Fichtner	10.1109/ICCAD.1992.279355
+On average power dissipation and random pattern testability of CMOS combinational logic networks.	Amelia Shen,Abhijit Ghosh,Srinivas Devadas,Kurt Keutzer	10.1109/ICCAD.1992.279338
+Graph algorithms for clock schedule optimization.	Narendra V. Shenoy,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1992.279401
+Ravel: assigned-delay compiled-code logic simulation.	Emily J. Shriver,Karem A. Sakallah	10.1109/ICCAD.1992.279346
+Maze router without a grid map.	Jiri Soukup	10.1109/ICCAD.1992.279342
+Detailed layer assignment for MCM routing.	Mysore Sriram,Sung-Mo Kang	10.1109/ICCAD.1992.279341
+False loops through resource sharing.	Leon Stok	10.1109/ICCAD.1992.279349
+Reconfigurable machine and its application to logic diagnosis.	Naoaki Suganuma,Yukihiro Murata,Satoru Nakata,Shinichi Nagata,Masahiro Tomita,Kotaro Hirano	10.1109/ICCAD.1992.279344
+Design of system interface modules.	Jane S. Sun,Robert W. Brodersen	10.1109/ICCAD.1992.279324
+MOSAIC: a tile-based datapath layout generator.	Goro Suzuki,Tetsuya Yamamoto,Kyoji Yuyama,Kotaro Hirasawa	10.1109/ICCAD.1992.279381
+Verifying clock schedules.	Thomas G. Szymanski,Narendra V. Shenoy	10.1109/ICCAD.1992.279387
+HERO: hierarchical EMC-constrained routing.	Dirk Theune,Ralf Thiele,Thomas Lengauer,Anja Feldmann	10.1109/ICCAD.1992.279326
+VLSI design parsing (preliminary version).	Akhilesh Tyagi	10.1109/ICCAD.1992.279402
+A generalized state assignment theory for transformation on signal transition graphs.	Peter Vanbekbergen,Bill Lin 0001,Gert Goossens,Hugo De Man	10.1109/ICCAD.1992.279389
+Cloning techniques for hierarchical compaction.	Ravi Varadarajan,Cyrus Bamji	10.1109/ICCAD.1992.279383
+DAMOCLES: an observer-based approach to design tracking.	Venu Vasudevan,Yves Mathys,Jim Tolar	10.1109/ICCAD.1992.279314
+Efficiency improvements for force-directed scheduling.	Wim F. J. Verhaegh,Paul E. R. Lippens,Emile H. L. Aarts,Jan H. M. Korst,Albert van der Werf,Jef L. van Meerbergen	10.1109/ICCAD.1992.279359
+Area optimization of multi-functional processing units.	Albert van der Werf,M. J. H. Peek,Emile H. L. Aarts,Jef L. van Meerbergen,Paul E. R. Lippens,Wim F. J. Verhaegh	10.1109/ICCAD.1992.279358
+An efficient multi-view design model for real-time interactive synthesis.	Allen C.-H. Wu,Tedd Hadley,Daniel Gajski	10.1109/ICCAD.1992.279352
+A unified signal transition graph model for asynchronous control circuit synthesis.	Alexandre Yakovlev,Luciano Lavagno,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1992.279390
+An optimal probe testing algorithm for the connectivity verification of MCM substrates.	So-Zen Yao,Nan-Chi Chou,Chung-Kuan Cheng,T. C. Hu	10.1109/ICCAD.1992.279363
+A probabilistic multicommodity-flow solution to circuit clustering problems.	Ching-Wei Yeh,Chung-Kuan Cheng,Ting-Ting Y. Lin	10.1109/ICCAD.1992.279333
+Automatic synthesis of 3D asynchronous state machines.	Kenneth Y. Yun,David L. Dill	10.1109/ICCAD.1992.279310
+Perfect-balance planar clock routing with minimal path-length.	Qing Zhu,Wayne Wei-Ming Dai	10.1109/ICCAD.1992.279325
+On channel segmentation design for row-based FPGAs.	Kai Zhu 0001,D. F. Wong 0001	10.1109/ICCAD.1992.279403
+1992 IEEE/ACM International Conference on Computer-Aided Design, ICCAD 1992, Santa Clara, CA, USA, November 8-12, 1992. Digest of Technical Papers	Louise Trevillyan,Michael R. Lightner	

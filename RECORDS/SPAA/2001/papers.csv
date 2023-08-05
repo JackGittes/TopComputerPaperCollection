@@ -1,0 +1,49 @@
+Optimal semi-oblique tiling.	Rumen Andonov,Stephan Balev,Sanjay V. Rajopadhye,Nicola Yanev	10.1145/378580.378619
+Latency effects on reachability in large-scale peer-to-peer networks.	Fred S. Annexstein,Kenneth A. Berman,Mihajlo A. Jovanovic	10.1145/378580.378594
+Scheduling tasks with small communication delays for clusters of processors.	Evripidis Bampis,Rodolphe Giroudeau,Alexander V. Kononov	10.1145/378580.378726
+A note on cycle covering.	Jean-Claude Bermond,David Coudert,Lilian Chacon,François Tillerot	10.1145/378580.378716
+Computational power of pipelined memory hierarchies.	Gianfranco Bilardi,Kattamuri Ekanadham,Pratap Pattnaik	10.1145/378580.378615
+Room synchronizations.	Guy E. Blelloch,Perry Cheng,Phillip B. Gibbons	10.1145/378580.378605
+Pursuit and evasion on a ring: An infinite hierarchy for parallel real--time systems.	Stefan D. Bruda,Selim G. Akl	10.1145/378580.378721
+Routing without flow control.	Costas Busch,Maurice Herlihy,Roger Wattenhofer	10.1145/378580.378582
+Columnsort lives! an efficient out-of-core sorting program.	Geeta Chaudhry,Thomas H. Cormen,Leonard F. Wisniewski	10.1145/378580.378627
+Towards practical deteministic write-all algorithms.	Bogdan S. Chlebus,Stefan Dobrev,Dariusz R. Kowalski,Grzegorz Malewicz,Alexander A. Shvartsman,Imrich Vrto	10.1145/378580.378685
+Ordering disks for double erasure codes.	Myra B. Cohen,Charles J. Colbourn	10.1145/378580.378650
+Automatable verification of sequential consistency.	Anne Condon,Alan J. Hu	10.1145/378580.378604
+Tradeoffs between knowledge and time of communication in geometric radio networks.	Anders Dessmark,Andrzej Pelc	10.1145/378580.378590
+Stability and non-stability of the FIFO protocol.	Josep Díaz,Dimitrios Koukopoulos,Sotiris E. Nikoletseas,Maria J. Serna,Paul G. Spirakis,Dimitrios M. Thilikos	10.1145/378580.378588
+A parallel block algorithm for exact triangularization of rectangular matrices.	Jean-Guillaume Dumas,Jean-Louis Roch	10.1145/378580.378743
+Scheduling on hierarchical clusters using malleable tasks.	Pierre-François Dutot,Denis Trystram	10.1145/378580.378640
+New spectral bounds on k-partitioning of graphs.	Robert Elsässer,Thomas Lücking,Burkhard Monien	10.1145/378580.378677
+Low-contention depth-first scheduling of parallel computations with write-once synchronization variables.	Panagiota Fatourou	10.1145/378580.378639
+A work-optimal CGM algorithm for the LIS problem.	Thierry Garcia,Jean Frédéric Myoupo,David Semé	10.1145/378580.378756
+Estimating simple functions on the union of data streams.	Phillip B. Gibbons,Srikanta Tirthapura	10.1145/378580.378687
+On tiling space-time mapped loop nests.	Martin Griebl	10.1145/378580.378740
+Competitve buffer management for shared-memory switches.	Ellen L. Hahne,Alexander Kesselman,Yishay Mansour	10.1145/378580.378589
+The push tree problem.	Frédéric Havet,Marc Wennink	10.1145/378580.378733
+One-to-Many routing on the mesh.	Kieran T. Herley,Andrea Pietracaprina,Geppino Pucci	10.1145/378580.378585
+The power of duality for prefetching and sorting with parallel disks.	David A. Hutchinson,Peter Sanders 0001,Jeffrey Scott Vitter	10.1145/378580.378760
+Efficient quantum algorithms for some instances of the non-Abelian hidden subgroup problem.	Gábor Ivanyos,Frédéric Magniez,Miklos Santha	10.1145/378580.378679
+Optimal prefetching and caching for parallel I/O systems.	Mahesh Kallahalla,Peter J. Varman	10.1145/378580.378648
+Simple on-line algorithms for the maximum disjoint paths problem.	Petr Kolman,Christian Scheideler	10.1145/378580.378586
+Approximation algorithms for data management in networks.	Christof Krick,Harald Räcke,Matthias Westermann	10.1145/378580.378651
+Deterministic resource discovery in distributed networks.	Shay Kutten,David Peleg,Uzi Vishkin	10.1145/378580.378592
+Eventually consistent failure detectors.	Mikel Larrea,Antonio Fernández 0001,Sergio Arévalo	10.1145/378580.378747
+Efficient parallel exponentiation in GF(2n) using normal basis representations.	Mun-Kyu Lee,Yoonjeong Kim,Kunsoo Park,Yookun Cho	10.1145/378580.378632
+Fast, minimal and oblivious routing algorithms on the mesh with bounded queues.	Ami Litman,Shiri Moran-Schein	10.1145/378580.378584
+Parallel controlled conspiracy number search.	Ulf Lorenz	10.1145/378580.378737
+Modeling weakly consistent memories with locks.	Victor Luchangco	10.1145/378580.378759
+Finding strongly connected components in parallel in particle transport sweeps.	Will McLendon III,Bruce Hendrickson,Steve Plimpton,Lawrence Rauchwerger	10.1145/378580.378751
+Randomized k-set agreement.	Achour Mostéfaoui,Michel Raynal	10.1145/378580.378690
+Towards a first vertical prototyping of an extremely fine-grained parallel programming approach.	Dorit Naishlos,Joseph Nuzman,Chau-Wen Tseng,Uzi Vishkin	10.1145/378580.378597
+Attack propagation in networks.	Sotiris E. Nikoletseas,Grigorios Prasinos,Paul G. Spirakis,Christos D. Zaroliagis	10.1145/378580.378591
+Periodic, random-fault-tolerant correction networks.	Marek Piotrów	10.1145/378580.378697
+A cost effective architecture for vectorizable numerical and multimedia applications.	Francisca Quintana,Jesús Corbal,Roger Espasa,Mateo Valero	10.1145/378580.378602
+A data tracking scheme for general networks.	Rajmohan Rajaraman,Andréa W. Richa,Berthold Vöcking,Gayathri Vuppuluri	10.1145/378580.378670
+Library support for orthogonal processor groups.	Thomas Rauber,Robert Reilein,Gudula Rünger	10.1145/378580.378729
+Finding large independent sets of hypergraphs in parallel.	Hadas Shachnai,Aravind Srinivasan	10.1145/378580.378622
+Compact routing schemes.	Mikkel Thorup,Uri Zwick	10.1145/378580.378581
+A simple, fast and scalable non-blocking concurrent FIFO queue for shared memory multiprocessor systems.	Philippas Tsigas,Yi Zhang 0004	10.1145/378580.378611
+D-CAT: A distributed channel allocation strategy based on a threshold scheme for cellular mobile networks.	Yongbing Zhang,Xiaohua Jia,Sajal K. Das 0001	10.1145/378580.378699
+Scheduling best-effort and real-time pipelined applications on time-shared clusters.	Yanyong Zhang,Anand Sivasubramaniam	10.1145/378580.378646
+Proceedings of the Thirteenth Annual ACM Symposium on Parallel Algorithms and Architectures, SPAA 2001, Heraklion, Crete Island, Greece, July 4-6, 2001	Arnold L. Rosenberg	10.1145/378580

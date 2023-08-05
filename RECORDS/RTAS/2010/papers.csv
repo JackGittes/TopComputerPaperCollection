@@ -1,0 +1,34 @@
+Hybrid Cyberphysical System Verification with Simplex Using Discrete Abstractions.	Stanley Bak,Ashley Greer,Sayan Mitra	10.1109/RTAS.2010.27
+Middleware for Resource-Aware Deployment and Configuration of Fault-Tolerant Real-time Systems.	Jaiganesh Balasubramanian,Aniruddha S. Gokhale,Abhishek Dubey,Friedhelm Wolf,Chenyang Lu 0001,Christopher D. Gill,Douglas C. Schmidt	10.1109/RTAS.2010.30
+An Improved Global EDF Schedulability Test for Uniform Multiprocessors.	Sanjoy K. Baruah	10.1109/RTAS.2010.11
+Towards the Design of Certifiable Mixed-criticality Systems.	Sanjoy K. Baruah,Haohan Li,Leen Stougie	10.1109/RTAS.2010.10
+Multi-Application Deployment in Shared Sensor Networks Based on Quality of Monitoring.	Sangeeta Bhattacharya,Abusayeed Saifullah,Chenyang Lu 0001,Gruia-Catalin Roman	10.1109/RTAS.2010.20
+Energy-optimal Batching Periods for Asynchronous Multistage Data Processing on Sensor Nodes: Foundations and an mPlatform Case Study.	Qing Cao,Dong Wang 0002,Tarek F. Abdelzaher,Bodhi Priyantha,Jie Liu 0001,Feng Zhao 0001	10.1109/RTAS.2010.16
+Response Time versus Utilization in Scheduler Overhead Accounting.	Silviu S. Craciunas,Christoph M. Kirsch,Ana Sokolova	10.1109/RTAS.2010.14
+DFR-EDF: A Unified Energy Management Framework for Real-Time Systems.	Vinay Devadas,Hakan Aydin	10.1109/RTAS.2010.32
+Approximate Bandwidth Allocation for Fixed-Priority-Scheduled Periodic Resources.	Farhana Dewan,Nathan Fisher	10.1109/RTAS.2010.28
+Using PCM in Next-generation Embedded Space Applications.	Alexandre Peixoto Ferreira,Bruce R. Childers,Rami G. Melhem,Daniel Mossé,Mazin Yousif	10.1109/RTAS.2010.40
+Scheduling Dependent Periodic Tasks without Synchronization Mechanisms.	Julien Forget,Frédéric Boniol,Emmanuel Grolleau,David Lesens,Claire Pagetti	10.1109/RTAS.2010.26
+Feedback Thermal Control for Real-time Systems.	Yong Fu,Nicholas Kottenstette,Yingming Chen,Chenyang Lu 0001,Xenofon D. Koutsoukos,Hongan Wang	10.1109/RTAS.2010.9
+Scalable Scheduling Policy Design for Open Soft Real-Time Systems.	Robert Glaubius,Terry Tidwell,Braden Sidoti,David Pilla,Justin Meden,Christopher D. Gill,William D. Smart	10.1109/RTAS.2010.23
+Fixed-Priority Multiprocessor Scheduling with Liu and Layland&apos;s Utilization Bound.	Nan Guan,Martin Stigge,Wang Yi 0001,Ge Yu 0001	10.1109/RTAS.2010.39
+Analysis of Self-Similar Workload on Real-Time Systems.	Enrique Hernández-Orallo,Joan Vila-Carbó	10.1109/RTAS.2010.13
+DARTS: Techniques and Tools for Predictably Fast Memory Using Integrated Data Allocation and Real-Time Task Scheduling.	Sangyeol Kang,Alexander G. Dean	10.1109/RTAS.2010.36
+Watchdog: Confident Event Detection in Heterogeneous Sensor Networks.	Matthew Keally,Gang Zhou,Guoliang Xing	10.1109/RTAS.2010.15
+Scheduling Self-Suspending Real-Time Tasks with Rate-Monotonic Priorities.	Karthik Lakshmanan,Ragunathan Rajkumar	10.1109/RTAS.2010.38
+Design of a Reliable Communication System for Grid-Style Traffic Light Networks.	Junghoon Lee,Song Han 0002,Aloysius K. Mok	10.1109/RTAS.2010.37
+Scheduling Suspendable, Pipelined Tasks with Non-Preemptive Sections in Soft Real-Time Multiprocessor Systems.	Cong Liu 0005,James H. Anderson	10.1109/RTAS.2010.12
+An Efficient Algorithm for Real-Time Divisible Load Scheduling.	Anwar Mamat,Ying Lu 0002,Jitender S. Deogun,Steve Goddard	10.1109/RTAS.2010.29
+Reservation-Based Interrupt Scheduling.	Nicola Manica,Luca Abeni,Luigi Palopoli 0002	10.1109/RTAS.2010.25
+A Bandwidth Reservation Strategy for Multiprocessor Real-Time Scheduling.	Ernesto Massa,George Lima 0001	10.1109/RTAS.2010.35
+A Stochastic Framework for Multiprocessor Soft Real-Time Scheduling.	Alex F. Mills,James H. Anderson	10.1109/RTAS.2010.33
+Embedded Virtual Machines for Robust Wireless Control and Actuation.	Miroslav Pajic,Rahul Mangharam	10.1109/RTAS.2010.43
+Task Mapping and Bandwidth Reservation for Mixed Hard/Soft Fault-Tolerant Embedded Systems.	Prabhat Kumar Saraswat,Paul Pop,Jan Madsen	10.1109/RTAS.2010.31
+Timing Analysis for TDMA Arbitration in Resource Sharing Systems.	Andreas Schranzhofer,Jian-Jia Chen,Lothar Thiele	10.1109/RTAS.2010.24
+Improved Task Management Techniques for Enforcing EDF Scheduling on Recurring Tasks.	Michael Short 0001	10.1109/RTAS.2010.22
+Defects of the POSIX Sporadic Server and How to Correct Them.	Mark J. Stanovich,Theodore P. Baker,An-I Wang,Michael González Harbour	10.1109/RTAS.2010.34
+Physicalnet: A Generic Framework for Managing and Programming Across Pervasive Computing Networks.	Pascal Vicaire,Zhiheng Xie,Enamul Hoque,John A. Stankovic	10.1109/RTAS.2010.17
+Optimal Task Scheduling by Removing Inter-Core Communication Overhead for Streaming Applications on MPSoC.	Yi Wang 0003,Duo Liu,Meng Wang 0005,Zhiwei Qin,Zili Shao	10.1109/RTAS.2010.19
+Studying the Applicability of the Scratchpad Memory Management Unit.	Jack Whitham,Neil C. Audsley	10.1109/RTAS.2010.21
+Selecting Server Parameters for Predictable Runtime Monitoring.	Haitao Zhu,Steve Goddard,Matthew B. Dwyer	10.1109/RTAS.2010.18
+16th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2010, Stockholm, Sweden, April 12-15, 2010	Marco Caccamo	

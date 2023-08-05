@@ -1,0 +1,43 @@
+Cache-conscious scheduling of streaming applications.	Kunal Agrawal,Jeremy T. Fineman,Jordan Krage,Charles E. Leiserson,Sivan Toledo	10.1145/2312005.2312049
+On the cost of composing shared-memory algorithms.	Dan Alistarh,Rachid Guerraoui,Petr Kuznetsov,Giuliano Losa	10.1145/2312005.2312057
+Lower bounds for restricted-use objects: extended abstract.	James Aspnes,Hagit Attiya,Keren Censor-Hillel,Danny Hendler	10.1145/2312005.2312037
+Enforcing efficient equilibria in network design games via subsidies.	John Augustine,Ioannis Caragiannis,Angelo Fanelli 0001,Christos Kalaitzis	10.1145/2312005.2312054
+Brief announcement: strong scaling of matrix multiplication algorithms and memory-independent communication lower bounds.	Grey Ballard,James Demmel,Olga Holtz,Benjamin Lipshitz,Oded Schwartz	10.1145/2312005.2312021
+Communication-optimal parallel algorithm for strassen&apos;s matrix multiplication.	Grey Ballard,James Demmel,Olga Holtz,Benjamin Lipshitz,Oded Schwartz	10.1145/2312005.2312044
+Allowing each node to communicate only once in a distributed system: shared whiteboard models.	Florent Becker,Adrian Kosowski,Nicolas Nisse,Ivan Rapaport,Karol Suchan	10.1145/2312005.2312008
+Greedy sequential maximal independent set and matching are parallel on average.	Guy E. Blelloch,Jeremy T. Fineman,Julian Shun	10.1145/2312005.2312058
+Parallel probabilistic tree embeddings, k-median, and buy-at-bulk network design.	Guy E. Blelloch,Anupam Gupta 0001,Kanat Tangwongsan	10.1145/2312005.2312045
+Parallel and I/O efficient set covering algorithms.	Guy E. Blelloch,Harsha Vardhan Simhadri,Kanat Tangwongsan	10.1145/2312005.2312024
+A lock-free B+tree.	Anastasia Braginsky,Erez Petrank	10.1145/2312005.2312016
+Non-clairvoyant weighted flow time scheduling with rejection penalty.	Ho-Leung Chan,Sze-Hang Chan,Tak Wah Lam,Lap-Kei Lee,Jianqiao Zhu	10.1145/2312005.2312050
+Brief announcement: towards a communication optimal fast multipole method and its implications at exascale.	Aparna Chandramowlishwaran,JeeWhan Choi,Kamesh Madduri,Richard W. Vuduc	10.1145/2312005.2312039
+Time vs. space trade-offs for rendezvous in trees.	Jurek Czyzowicz,Adrian Kosowski,Andrzej Pelc	10.1145/2312005.2312007
+Scheduling in wireless networks with rayleigh-fading interference.	Johannes Dams,Martin Hoefer 0001,Thomas Kesselheim	10.1145/2312005.2312061
+Brief announcement: speedups for parallel graph triconnectivity.	James Alexander Edwards,Uzi Vishkin	10.1145/2312005.2312042
+Brief announcement: application-sensitive QoS scheduling in storage servers.	Ahmed Elnably,Peter J. Varman	10.1145/2312005.2312040
+Hedonic clustering games.	Moran Feldman,Liane Lewin-Eytan,Joseph Naor	10.1145/2312005.2312053
+SALSA: scalable and low synchronization NUMA-aware algorithm for producer-consumer pools.	Elad Gidron,Idit Keidar,Dmitri Perelman,Yonathan Perez	10.1145/2312005.2312035
+Discovery through gossip.	Bernhard Haeupler,Gopal Pandurangan,David Peleg,Rajmohan Rajaraman,Zhifeng Sun	10.1145/2312005.2312031
+Deterministic multi-channel information exchange.	Stephan Holzer,Thomas Locher,Yvonne-Anne Pignolet,Roger Wattenhofer	10.1145/2312005.2312028
+A non-blocking internal binary search tree.	Shane V. Howley,Jeremy Jones	10.1145/2312005.2312036
+Near-optimal scheduling mechanisms for deadline-sensitive jobs in large computing clusters.	Navendu Jain,Ishai Menache,Joseph Naor,Jonathan Yaniv	10.1145/2312005.2312051
+A(3/2+ε) approximation algorithm for scheduling moldable and non-moldable parallel tasks.	Klaus Jansen	10.1145/2312005.2312048
+Optimal and competitive runtime bounds for continuous, local gathering of mobile robots.	Barbara Kempkes,Peter Kling,Friedhelm Meyer auf der Heide	10.1145/2312005.2312009
+Abstraction failures in concurrent programming.	Doug Lea	10.1145/2312005.2312033
+Memory-mapping support for reducer hyperobjects.	I-Ting Angelina Lee,Aamir Shafi,Charles E. Leiserson	10.1145/2312005.2312056
+Brief announcement: on the complexity of the minimum latency scheduling problem on the euclidean plane.	Henry Lin,Frans Schalekamp	10.1145/2312005.2312022
+Delegation and nesting in best-effort hardware transactional memory.	Yujie Liu,Stephan Diestelhorst,Michael F. Spear	10.1145/2312005.2312014
+The impact of the power law exponent on the behavior of a dynamic epidemic type process.	Adrian Ogierman,Robert Elsässer	10.1145/2312005.2312030
+Online multi-robot exploration of grid graphs with rectangular obstacles.	Christian Ortolf,Christian Schindelhauer	10.1145/2312005.2312010
+Faster and simpler width-independent parallel algorithms for positive semidefinite programming.	Richard Peng,Kanat Tangwongsan	10.1145/2312005.2312026
+High-performance RMA-based broadcast on the intel SCC.	Darko Petrovic,Omid Shahmirzadi,Thomas Ropars,André Schiper	10.1145/2312005.2312029
+In search of parallel dimensions.	Ravi Rajwar	10.1145/2312005.2312012
+Brief announcement: subgraph isomorphism on a multithreaded shared memory architecture.	Claire C. Ralph,Vitus J. Leung,Will McLendon III	10.1145/2312005.2312019
+Brief announcement: a GPU accelerated iterated local search TSP solver.	Kamil Rocki,Reiji Suda	10.1145/2312005.2312041
+Efficient computation of distance sketches in distributed networks.	Atish Das Sarma,Michael Dinitz,Gopal Pandurangan	10.1145/2312005.2312060
+Brief announcement: efficient cache oblivious algorithms for randomized divide-and-conquer on the multicore model.	Neeraj Sharma,Sandeep Sen	10.1145/2312005.2312020
+Design, verification and applications of a new read-write lock algorithm.	Jun Shirako,Nick Vrvilo,Eric G. Mercer,Vivek Sarkar	10.1145/2312005.2312015
+Brief announcement: the problem based benchmark suite.	Julian Shun,Guy E. Blelloch,Jeremy T. Fineman,Phillip B. Gibbons,Aapo Kyrola,Harsha Vardhan Simhadri,Kanat Tangwongsan	10.1145/2312005.2312018
+A parallel buffer tree.	Nodari Sitchinava,Norbert Zeh	10.1145/2312005.2312046
+A scalable framework for heterogeneous GPU-based clusters.	Fengguang Song,Jack J. Dongarra	10.1145/2312005.2312025
+24th ACM Symposium on Parallelism in Algorithms and Architectures, SPAA &apos;12, Pittsburgh, PA, USA, June 25-27, 2012	Guy E. Blelloch,Maurice Herlihy	10.1145/2312005

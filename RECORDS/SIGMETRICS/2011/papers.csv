@@ -1,0 +1,51 @@
+On the optimal trade-off between SRPT and opportunistic scheduling.	Samuli Aalto,Aleksi Penttinen,Pasi E. Lassila,Prajwal Osti	10.1145/1993744.1993761
+How do you &apos;Tube&apos;.	Vijay Kumar Adhikari,Sourabh Jain,Yingying Chen 0002,Zhi-Li Zhang	10.1145/1993744.1993794
+De-ossifying internet routing through intrinsic support for end-network and ISP selfishness.	Aditya Akella,Shuchi Chawla 0001,Holly Esquivel,Chitra Muthukrishnan	10.1145/1993744.1993798
+Analysis of DCTCP: stability, convergence, and fairness.	Mohammad Alizadeh,Adel Javanmard,Balaji Prabhakar	10.1145/1993744.1993753
+Stability analysis of QCN: the averaging principle.	Mohammad Alizadeh,Abdul Kabbani,Berk Atikoglu,Balaji Prabhakar	10.1145/1993744.1993751
+Topology discovery of sparse random graphs with few participants.	Animashree Anandkumar,Avinatan Hassidim,Jonathan A. Kelner	10.1145/1993744.1993774
+Network link tomography and compressive sensing.	Rhys Alistair Bowden,Matthew Roughan,Nigel G. Bean	10.1145/1993744.1993805
+Building accurate workload models using Markovian arrival processes.	Giuliano Casale	10.1145/1993744.1993783
+TCP behavior in sub packet regimes.	Jay Chen,Janardhan R. Iyengar,Lakshminarayanan Subramanian,Bryan Ford	10.1145/1993744.1993804
+Autocorrelation analysis: a new and improved method for measuring branch predictability.	Jian Chen 0030,Lizy Kurian John	10.1145/1993744.1993802
+Modeling program resource demand using inherent program characteristics.	Jian Chen 0030,Lizy Kurian John,Dimitris Kaseridis	10.1145/1993744.1993746
+Non-asymptotic capacity and delay analysis of mobile wireless networks.	Florin Ciucu	10.1145/1993744.1993784
+Structure-aware sampling on data streams.	Edith Cohen,Graham Cormode,Nick G. Duffield	10.1145/1993744.1993763
+An FPGA-based experimental evaluation of microprocessor core error detection with Argus-2.	Patrick J. Eibl,Albert Meixner,Daniel J. Sorin	10.1145/1993744.1993786
+Storage technologies, management and troubleshooting in virtualized datacenters.	Ajay Gulati,Irfan Ahmad 0005	10.1145/1993744.1993781
+Tight moments-based bounds for queueing systems.	Varun Gupta 0004,Takayuki Osogami	10.1145/1993744.1993792
+How prevalent is content bundling in BitTorrent.	Jinyoung Han,Taejoong Chung,Seungbae Kim,Ted Taekyoung Kwon,Hyunchul Kim,Yanghee Choi	10.1145/1993744.1993789
+Dynamic server provisioning to minimize cost in an IaaS cloud.	Yu-Ju Hong,Jiachen Xue,Mithuna Thottethodi	10.1145/1993744.1993799
+Towards understanding modern web traffic.	Sunghwan Ihm,Vivek S. Pai	10.1145/1993744.1993797
+Stochastic networks with multipath flow control: impact of resource pools on flow-level performance and network congestion.	Vinay Joseph,Gustavo de Veciana	10.1145/1993744.1993752
+A control scheme for batching DRAM requests to improve power efficiency.	Krishna Kant 0001	10.1145/1993744.1993795
+Gossip PCA.	Satish Babu Korada,Andrea Montanari,Sewoong Oh	10.1145/1993744.1993764
+Applying idealized lower-bound runtime models to understand inefficiencies in data-intensive computing.	Elie Krevat,Tomer Shiran,Eric Anderson 0003,Joseph Tucek,Jay J. Wylie,Gregory R. Ganger	10.1145/1993744.1993788
+Walking on a graph with a magnifying glass: stratified sampling via weighted random walks.	Maciej Kurant,Minas Gjoka,Carter T. Butts,Athina Markopoulou	10.1145/1993744.1993773
+Geographic routing in d-dimensional spaces with guaranteed delivery and low stretch.	Simon S. Lam,Chen Qian 0001	10.1145/1993744.1993770
+Fine-grained latency and loss measurements in the presence of reordering.	Myungjin Lee,Sharon Goldberg,Ramana Rao Kompella,George Varghese	10.1145/1993744.1993778
+Scalable monitoring via threshold compression in a large operational 3G network.	Suk-Bok Lee,Dan Pei,MohammadTaghi Hajiaghayi,Ioannis Pefkianakis,Songwu Lu,He Yan,Zihui Ge,Jennifer Yates,Mario Kosseifi	10.1145/1993744.1993793
+Characterizing and analyzing renewable energy driven data centers.	Chao Li 0009,Amer Qouneh,Tao Li 0006	10.1145/1993744.1993791
+Greening geographical load balancing.	Zhenhua Liu 0002,Minghong Lin,Adam Wierman,Steven H. Low,Lachlan L. H. Andrew	10.1145/1993744.1993767
+Studying the impact of hardware prefetching and bandwidth partitioning in chip-multiprocessors.	Fang Liu,Yan Solihin	10.1145/1993744.1993749
+Slick packets.	Giang T. K. Nguyen,Rachit Agarwal 0001,Junda Liu,Matthew Caesar 0001,Brighten Godfrey,Scott Shenker	10.1145/1993744.1993769
+Weighted proportional allocation.	Thành Nguyen 0001,Milan Vojnovic	10.1145/1993744.1993760
+Self-adaptive provisioning of virtualized resources in cloud computing.	Jia Rao,Xiangping Bu,Kun Wang,Cheng-Zhong Xu 0001	10.1145/1993744.1993790
+Characterizing continuous-time random walks on dynamic networks.	Bruno F. Ribeiro,Daniel R. Figueiredo 0001,Edmundo de Souza e Silva,Donald F. Towsley	10.1145/1993744.1993801
+Model-driven optimization of opportunistic routing.	Eric Rozner,Mi Kyung Han,Lili Qiu,Yin Zhang 0001	10.1145/1993744.1993771
+Cloud data center networks: technologies, trends, and challenges.	Sudipta Sengupta	10.1145/1993744.1993782
+Characterizing and modeling internet traffic dynamics of cellular devices.	Muhammad Zubair Shafiq,Lusheng Ji,Alex X. Liu,Jia Wang 0001	10.1145/1993744.1993776
+METE: meeting end-to-end QoS in multicores through system-wide resource management.	Akbar Sharifi,Shekhar Srikantaiah,Asit K. Mishra,Mahmut T. Kandemir,Chita R. Das	10.1145/1993744.1993747
+IP geolocation in metropolitan areas.	Satinder Pal Singh,Randolph Baden,Choon Lee,Bobby Bhattacharjee,Richard J. La,Mark A. Shayman	10.1145/1993744.1993803
+HeteroScouts: hardware assist for OS scheduling in heterogeneous CMPs.	Sadagopan Srinivasan,Ravishankar R. Iyer 0001,Li Zhao 0002,Ramesh Illikkal	10.1145/1993744.1993800
+Record and transplay: partial checkpointing for replay debugging across heterogeneous systems.	Dinesh Subhraveti,Jason Nieh	10.1145/1993744.1993757
+Network architecture for joint failure recovery and traffic engineering.	Martin Suchara,Dahai Xu,Robert D. Doverspike,David Johnson,Jennifer Rexford	10.1145/1993744.1993756
+Soft error benchmarking of L2 caches with PARMA.	Jinho Suh,Mehrtash Manoochehri,Murali Annavaram,Michel Dubois 0001	10.1145/1993744.1993755
+On the power of (even a little) centralization in distributed processing.	John N. Tsitsiklis,Kuang Xu	10.1145/1993744.1993759
+Optimal power cost management using stored energy in data centers.	Rahul Urgaonkar,Bhuvan Urgaonkar,Michael J. Neely,Anand Sivasubramaniam	10.1145/1993744.1993766
+Cellular data network infrastructure characterization and implication on mobile content placement.	Qiang Xu,Junxian Huang,Zhaoguang Wang,Feng Qian 0001,Alexandre Gerber,Zhuoqing Morley Mao	10.1145/1993744.1993777
+Studying inter-core data reuse in multicores.	Yuanrui Zhang,Mahmut T. Kandemir,Taylan Yemliha	10.1145/1993744.1993748
+Optimal neighbor selection in BitTorrent-like peer-to-peer networks.	Hao Zhang 0006,Ziyu Shao,Minghua Chen 0001,Kannan Ramchandran	10.1145/1993744.1993796
+The role of KL divergence in anomaly detection.	Lele Zhang,Darryl Veitch,Kotagiri Ramamohanarao	10.1145/1993744.1993787
+On the stability and optimality of universal swarms.	Xia Zhou,Stratis Ioannidis,Laurent Massoulié	10.1145/1993744.1993779
+SIGMETRICS 2011, Proceedings of the 2011 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, San Jose, CA, USA, 07-11 June 2011 (Co-located with FCRC 2011)	Arif Merchant,Kimberly Keeton,Dan Rubenstein	10.1145/1993744

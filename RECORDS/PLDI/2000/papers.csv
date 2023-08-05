@@ -1,0 +1,31 @@
+Dynamo: a transparent dynamic optimization system.	Vasanth Bala,Evelyn Duesterwald,Sanjeev Banerjia	10.1145/349299.349303
+ABCD: eliminating array bounds checks on demand.	Rastislav Bodík,Rajiv Gupta 0001,Vivek Sarkar	10.1145/349299.349342
+Efficient algorithms for bidirectional debugging.	Bob Boothe	10.1145/349299.349339
+Contaminated garbage collection.	Dante J. Cannarozzi,Michael P. Plezbert,Ron Cytron	10.1145/349299.349334
+Modular interprocedural pointer analysis using access paths: design, implementation, and evaluation.	Ben-Chung Cheng,Wen-mei W. Hwu	10.1145/349299.349311
+Practicing JUDO: Java under dynamic optimizations.	Michal Cierniak,Guei-Yuan Lueh,James M. Stichnoth	10.1145/349299.349306
+A certifying compiler for Java.	Christopher Colby,Peter Lee 0001,George C. Necula,Fred Blau,Mark Plesko,Kenneth Cline	10.1145/349299.349315
+Unification-based pointer analysis with directional assignments.	Manuvir Das	10.1145/349299.349309
+An automatic object inlining optimization and its evaluation.	Julian Dolby,Andrew A. Chien	10.1145/349299.349344
+A generational on-the-fly garbage collector for Java.	Tamar Domani,Elliot K. Kolodner,Erez Petrank	10.1145/349299.349336
+Scalable context-sensitive flow analysis using instantiation constraints.	Manuel Fähndrich,Jakob Rehof,Manuvir Das	10.1145/349299.349332
+Type-based race detection for Java.	Cormac Flanagan,Stephen N. Freund	10.1145/349299.349328
+Field analysis: getting useful and low-cost interprocedural information.	Sanjay Ghemawat,Keith H. Randall,Daniel J. Scales	10.1145/349299.349343
+Caching function calls using precise dependencies.	Allan Heydon,Roy Levin,Yuan Yu	10.1145/349299.349341
+Exploiting superword level parallelism with multimedia instruction sets.	Samuel Larsen,Saman P. Amarasinghe	10.1145/349299.349320
+Compiler analysis of irregular memory accesses.	Yuan Lin,David A. Padua	10.1145/349299.349322
+Split-stream dictionary program compression.	Steven Lucco	10.1145/349299.349307
+Translation validation for an optimizing compiler.	George C. Necula	10.1145/349299.349314
+On loops, dominators, and dominance frontier.	G. Ramalingam	10.1145/349299.349330
+A single intermediate language that supports multiple implementations of exceptions.	Norman Ramsey,Simon L. Peyton Jones	10.1145/349299.349337
+Off-line variable substitution for scaling points-to analysis.	Atanas Rountev,Satish Chandra 0001	10.1145/349299.349310
+Effective synchronization removal for Java.	Erik Ruf	10.1145/349299.349327
+Symbolic bounds analysis of pointers, array indices, and accessed memory regions.	Radu Rugina,Martin C. Rinard	10.1145/349299.349325
+A framework for interprocedural optimization in the presence of dynamic class loading.	Vugranam C. Sreedhar,Michael G. Burke,Jong-Deok Choi	10.1145/349299.349326
+Bitwidth analysis with application to silicon compilation.	Mark Stephenson,Jonathan Babb,Saman P. Amarasinghe	10.1145/349299.349317
+Functional reactive programming from first principles.	Zhanyong Wan,Paul Hudak	10.1145/349299.349331
+Optimal instruction scheduling using integer programming.	Kent D. Wilken,Jack Liu,Mark Heffernan	10.1145/349299.349318
+Safety checking of machine code.	Zhichen Xu,Barton P. Miller,Thomas W. Reps	10.1145/349299.349313
+Transforming loops to recursion for multi-level memory hierarchies.	Qing Yi,Vikram S. Adve,Ken Kennedy	10.1145/349299.349323
+Improved spill code generation for software pipelined loops.	Javier Zalamea,Josep Llosa,Eduard Ayguadé,Mateo Valero	10.1145/349299.349319
+Proceedings of the 2000 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Vancouver, Britith Columbia, Canada, June 18-21, 2000	Monica S. Lam	10.1145/349299

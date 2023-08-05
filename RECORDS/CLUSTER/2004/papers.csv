@@ -1,0 +1,68 @@
+XChange: coupling parallel applications in a dynamic environment.	Hasan Abbasi,Matthew Wolf,Karsten Schwan,Greg Eisenhauer,A. Hilton	10.1109/CLUSTR.2004.1392646
+Implementation and design analysis of a network messaging module using virtual interface architecture.	G. G. Amerson,Amy W. Apon	10.1109/CLUSTR.2004.1392623
+APENet: a high speed, low latency 3D interconnect network.	Roberto Ammendola,M. Guagnelli,G. Mazza,Filippo Palombi,Roberto Petronzio,Davide Rossetti,Andrea Salamon,Piero Vicini	10.1109/CLUSTR.2004.1392647
+Predicting resource demand profiles by periodicity mining.	Artur Andrzejak 0001,Mehmet Ceyran	10.1109/CLUSTR.2004.1392648
+MPI tuning with Intel© Trace Analyzer and Intel Trace Collector.	R. Asbury,M. Wrinn	10.1109/CLUSTR.2004.1392595
+A parallel I/O mechanism for distributed systems.	Troy Baer,Pete Wyckoff	10.1109/CLUSTR.2004.1392602
+Management of grid jobs and data within SAMGrid.	A. Baranovski,Gabriele Garzoglio,Igor Terekhov,Alain Roy,Todd Tannenbaum	10.1109/CLUSTR.2004.1392634
+A comparison of 4X InfiniBand and Quadrics Elan-4 technologies.	Ron Brightwell,Douglas Doerfler,Keith D. Underwood	10.1109/CLUSTR.2004.1392617
+Rolls: modifying a standard system installer to support user-customizable cluster frontend appliances.	Greg Bruno,Mason J. Katz,Federico D. Sacerdoti,Philip M. Papadopoulos	10.1109/CLUSTR.2004.1392641
+Predicting memory-access cost based on data-access patterns.	Surendra Byna,Xian-He Sun,William Gropp,Rajeev Thakur	10.1109/CLUSTR.2004.1392630
+Application-specific scheduling for the organic grid.	Arjav J. Chakravarti,Gerald Baumgartner,Mario Lauria	10.1109/CLUSTR.2004.1392649
+On optimizing collective communication.	Ernie W. Chan,Marcel F. Heimlich,Avi Purkayastha,Robert A. van de Geijn	10.1109/CLUSTR.2004.1392612
+Attaining higher performance in collective communication.	Ernie W. Chan,Marcel F. Heimlich,Avi Purkayastha,Robert A. van de Geijn	10.1109/CLUSTR.2004.1392650
+QMP-MVIA: a message passing system for Linux clusters with gigabit Ethernet mesh connections.	Jie Chen 0010,Robert G. Edwards,Weizhen Mao	10.1109/CLUSTR.2004.1392651
+Implementing parallel conjugate gradient on the EARTH multithreaded architecture.	Fei Chen,Kevin B. Theobald,Guang R. Gao	10.1109/CLUSTR.2004.1392645
+LOTS: a software DSM supporting large object space.	Benny Wang-Leung Cheung,Cho-Li Wang,Francis Chi-Moon Lau	10.1109/CLUSTR.2004.1392620
+Cluster computing environment supporting single system image.	Min Choi,DaeWoo Lee,Seung Ryoul Maeng	10.1109/CLUSTR.2004.1392621
+Parallel I/O: lessons learnt in the last 20 years.	Toni Cortes	10.1109/CLUSTR.2004.1392592
+Performance analysis tools for large-scale Linux clusters.	Zarka Cvetanovic	10.1109/CLUSTR.2004.1392635
+Component-based cluster systems software architecture a case study.	Narayan Desai,Rick Bradshaw,Ewing L. Lusk,Ralf Butler	10.1109/CLUSTR.2004.1392629
+A novel adaptive home migration protocol in home-based DSM.	Weijian Fang,Cho-Li Wang,Wenzhang Zhu,Francis Chi-Moon Lau	10.1109/CLUSTR.2004.1392619
+Location management in object-based distributed computing.	Andriy Fedorov,Nikos Chrisochoides	10.1109/CLUSTR.2004.1392627
+ClusterSim: a Java-based parallel discrete-event simulation tool for cluster computing.	Luís F. W. Góes,Luiz Eduardo da Silva Ramos,Carlos Augusto Paiva da Silva Martins	10.1109/CLUSTR.2004.1392639
+GRID-enabled bioinformatics applications for comparative genomic analysis at the CBBC.	Adam Hunter,David Schibeci,Hong Liang Hiew,Matthew I. Bellgard	10.1109/CLUSTR.2004.1392652
+Towards provision of quality of service guarantees in job scheduling.	Mohammad Islam,Pavan Balaji,P. Sadayappan,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2004.1392622
+Bandwidth-aware co-allocating meta-schedulers for mini-grid architectures.	William M. Jones,Louis W. Pang,Walter B. Ligon III,Dan Stanzione	10.1109/CLUSTR.2004.1392600
+Fast broadcast by the divide-and-conquer algorithm.	Dongyoung Kim,Dongseung Kim	10.1109/CLUSTR.2004.1392653
+Computation-at-risk: employing the grid for computational risk management.	Stephen D. Kleban,Scott H. Clearwater	10.1109/CLUSTR.2004.1392633
+GNET-1: gigabit Ethernet network testbed.	Yuetsu Kodama,Tomohiro Kudoh,Ryousei Takano,Hitoshi Sato,Osamu Tatebe,Satoshi Sekiguchi	10.1109/CLUSTR.2004.1392616
+A client-centric grid knowledgebase.	George Kola,Tevfik Kosar,Miron Livny	10.1109/CLUSTR.2004.1392642
+JuxtaView - a tool for interactive visualization of large imagery on scalable tiled displays.	Naveen K. Krishnaprasad,Venkatram Vishwanath,Shalini Venkataraman,A. G. Rao,Luc Renambot,Jason Leigh,Andrew E. Johnson 0001,Brian Davis	10.1109/CLUSTR.2004.1392640
+Simplifying administration through dynamic reconfiguration. in a cooperative cluster storage system.	Renaud Lachaize,Jorgen S. Hansen	10.1109/CLUSTR.2004.1392615
+A distributed data management middleware for data-driven application systems.	Stephen Langella,Shannon Hastings,Scott Oster,Tahsin M. Kurç,Ümit V. Çatalyürek,Joel H. Saltz	10.1109/CLUSTR.2004.1392624
+Building highly available HPC clusters with HA-OSCAR.	Chokchai Leangsuksun,Ibrahim Haddad	10.1109/CLUSTR.2004.1392593
+RFS: efficient and flexible remote file access for MPI-IO.	Jonghyun Lee 0001,Robert B. Ross,Rajeev Thakur,Xiaosong Ma,Marianne Winslett	10.1109/CLUSTR.2004.1392604
+Master slave scheduling on heterogeneous star-shaped platforms with limited memory.	Arnaud Legrand,Olivier Beaumont,Loris Marchal,Yves Robert	10.1109/CLUSTR.2004.1392654
+Improved message logging versus improved coordinated checkpointing for fault tolerant MPI.	Pierre Lemarinier,Aurélien Bouteiller,Thomas Hérault,Géraud Krawezik,Franck Cappello	10.1109/CLUSTR.2004.1392609
+Efficient Barrier and Allreduce on Infiniband clusters using multicast and adaptive algorithms.	Amith R. Mamidala,Jiuxing Liu,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2004.1392611
+The design and implementation of an asynchronous communication mechanism for the MPI communication model.	Motohiko Matsuda,Tomohiro Kudoh,H. Tazuka,Yutaka Ishikawa	10.1109/CLUSTR.2004.1392597
+Give your bootstrap the boot: using the operating system to boot the operating system.	Ronald G. Minnich	10.1109/CLUSTR.2004.1392643
+Reliability algorithms for network swapping systems with page migration.	Ben Mitchell,Julian Rosse,Tia Newhall	10.1109/CLUSTR.2004.1392655
+An evaluation of the close-to-files processor and data co-allocation policy in multiclusters.	Hashim H. Mohamed,Dick H. J. Epema	10.1109/CLUSTR.2004.1392626
+Parallel competitive learning algorithm for fast codebook design on partitioned space.	Shintaro Momose,Kentaro Sano,K. Suzuki,Tadao Nakamura	10.1109/CLUSTR.2004.1392644
+NWPerf: a system wide performance monitoring tool for large Linux clusters.	Ryan W. Mooney,Ken P. Schmidt,R. Scott Studham	10.1109/CLUSTR.2004.1392637
+Kerrighed and data parallelism: cluster computing on single system image operating systems.	Christine Morin,Renaud Lottiaux,Geoffroy Vallée,Pascal Gallard,David Margery,Jean-Yves Berthou,Isaac D. Scherson	10.1109/CLUSTR.2004.1392625
+State of InfiniBand in designing HPC clusters, storage/file systems, and datacenters [datacenters read as data centers].	Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2004.1392594
+Communicating efficiently on cluster based grids with MPICH-VMI.	Avneesh Pant,Hassan Jafri	10.1109/CLUSTR.2004.1392598
+A community faulted-crust model using PYRAMID on cluster platforms.	Jay Parker,Gregory Lyzenga,Charles Norton,E. Tisdale,Andrea Donnellan	10.1109/CLUSTR.2004.1392656
+RAAC: an architecture for scalable, reliable storage in clusters.	Manoj Pillai,Mario Lauria	10.1109/CLUSTR.2004.1392613
+Flexible and dynamic control of network QoS in grid environments: the QoSINUS approach.	Pascale Vicat-Blanc Primet,Johan Montagnat,Fabien Chanussot	10.1109/CLUSTR.2004.1392657
+An efficient end-host architecture for cluster communication.	Xin Qi,Gabriel Parmer,Richard West	10.1109/CLUSTR.2004.1392605
+Improving the performance of communication-intensive parallel applications executing on clusters.	Xiao Qin 0001,Hong Jiang 0001	10.1109/CLUSTR.2004.1392658
+Dynamic page migration in software DSM systems.	Thomas Repantis,Christos D. Antonopoulos,Vana Kalogeraki,Theodore S. Papatheodorou	10.1109/CLUSTR.2004.1392659
+On fairness in distributed job scheduling across multiple sites.	Gerald Sabin,Vishvesh Sahasrabudhe,P. Sadayappan	10.1109/CLUSTR.2004.1392599
+Grid systems deployment &amp; management using Rocks.	Federico D. Sacerdoti,Sandeep Chandra,Karan Bhatia	10.1109/CLUSTR.2004.1392631
+A shared virtual memory network with fast remote direct memory access and message passing.	Gang Shi,Mingchang Hu,Hongda Yin,Weiwu Hu,Zhimin Tang	10.1109/CLUSTR.2004.1392660
+TeraVision: a distributed, scalable, high resolution graphics streaming system.	Rajvikram Singh,Byungil Jeong,Luc Renambot,Andrew E. Johnson 0001,Jason Leigh	10.1109/CLUSTR.2004.1392638
+Analysis of microbenchmarks for performance tuning of clusters.	Matthew J. Sottile,Ronald G. Minnich	10.1109/CLUSTR.2004.1392636
+Towards informatic analysis of Syslogs.	John Stearley	10.1109/CLUSTR.2004.1392628
+A comparison of local and gang scheduling on a Beowulf cluster.	Peter E. Strazdins,John Uhlmann	10.1109/CLUSTR.2004.1392601
+MPIIMGEN - a code transformer that parallelizes image processing codes to run on a cluster of workstations.	U. V. Vinod,P. K. Baruah	10.1109/CLUSTR.2004.1392596
+NIC-based offload of dynamic user-defined modules for Myrinet clusters.	Adam Wagner,Hyun-Wook Jin,Dhabaleswar K. Panda 0001,Rolf Riesen	10.1109/CLUSTR.2004.1392618
+The Los Alamos Crestone Project: cluster computing applications.	Robert P. Weaver,Michael L. Gittings,L. Pritchett,C. Scovel	10.1109/CLUSTR.2004.1392661
+Scalable, high-performance NIC-based all-to-all broadcast over Myrinet/GM.	Weikuan Yu,Dhabaleswar K. Panda 0001,Darius Buntinas	10.1109/CLUSTR.2004.1392610
+Fault-tolerant grid services using primary-backup: feasibility and performance.	Xianan Zhang,Dmitrii Zagorodnov,Matti A. Hiltunen,Keith Marzullo,Richard D. Schlichting	10.1109/CLUSTR.2004.1392608
+FTC-Charm++: an in-memory checkpoint-based fault tolerant runtime for Charm++ and MPI.	Gengbin Zheng,Lixia Shi,Laxmikant V. Kalé	10.1109/CLUSTR.2004.1392606
+Hierarchical Bloom filter arrays (HBA): a novel, scalable metadata management system for large cluster-based storage.	Yifeng Zhu,Hong Jiang 0001,Jun Wang 0001	10.1109/CLUSTR.2004.1392614
+2004 IEEE International Conference on Cluster Computing (CLUSTER 2004), September 20-23 2004, San Diego, California, USA		

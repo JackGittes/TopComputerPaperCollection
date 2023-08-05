@@ -1,0 +1,74 @@
+An Euler Path Based Technique for Deadlock-free Multicasting.	Nidhi Agrawal,C. P. Ravikumar	10.1109/ICPP.1997.622669
+Automatic Parallelization and Scheduling of Programs on Multiprocessors using CASCH.	Ishfaq Ahmad,Yu-Kwong Kwok,Min-You Wu,Wei Shu	10.1109/ICPP.1997.622657
+Multidimensional Network Performance with Unidirectional Links.	James R. Anderson 0001,Seth Abraham	10.1109/ICPP.1997.622544
+Precise Call Graph Construction for OO Programs in the Presence of Virtual Functions.	Deepankar Bairagi,Dharma P. Agrawal,Sandeep Kumar	10.1109/ICPP.1997.622674
+Sufficient Conditions for Optimal Multicast Communication.	Barbara D. Birchler,Abdol-Hossein Esfahanian,Eric Torng	10.1109/ICPP.1997.622671
+An Integrated Processor Management Scheme for the Mesh-Connected Multicomputer Systems.	Chung-Yen Chang,Prasant Mohapatra	10.1109/ICPP.1997.622572
+Quantifying the Effects of Communication Optimizations.	Sung-Eun Choi,Lawrence Snyder	10.1109/ICPP.1997.622647
+Efficient Processor Allocation Scheme for Multi Dimensional Interconnection Networks.	Hyunseung Choo,Hee Yong Youn,Gyung-Leen Park,Behrooz A. Shirazi	10.1109/ICPP.1997.622570
+False Sharing Elimination by Selection of Runtime Scheduling Parameters.	Jyh-Herng Chow,Vivek Sarkar	10.1109/ICPP.1997.622672
+Message Encoding Techniques for Efficient Arrary Redistribution.	Yeh-Ching Chung,Ching-Hsien Hsu	10.1109/ICPP.1997.622579
+How Much Does Network Contention Affect Distributed Shared Memory Performance?	Donglai Dai,Dhabaleswar K. Panda 0001	10.1109/ICPP.1997.622680
+Adaptive load-balancing algorithms using symmetric broadcast networks: performance study on an IBM SP2.	Sajal K. Das 0001,Daniel J. Harvey,Rupak Biswas	10.1109/ICPP.1997.622667
+An Optimal Multiple Bus Network for Fan-in Algorithms.	Hettihe P. Dharmasena,Ramachandran Vaidyanathan	10.1109/ICPP.1997.622566
+Modeling the impact of run-time uncertainty on optimal computation scheduling using feedback.	Richard D. Dietz,Thomas L. Casavant,Todd E. Scheetz,Terry A. Braun,Mark S. Andersland	10.1109/ICPP.1997.622683
+Turn Grouping for Efficient Barrier Synchronization in Wormhole Mesh Networks.	Kuo-Pao Fan,Chung-Ta King	10.1109/ICPP.1997.622588
+Parallel Synchronization of Continuous Time Discrete Event Simulators.	Peter Frey,Harold W. Carter,Philip A. Wilsey	10.1109/ICPP.1997.622649
+The Implementation of Low Latency Communication Primitives in the Snow Prototype.	Kanad Ghose,Seth Melnick,Tom Gaska,Seth Goldberg,Arun K. Jayendran,Brian T. Stein	10.1109/ICPP.1997.622681
+An Improved Analytical Model for Wormhole Routed Networks with Application to Butterfly Fat-Trees.	Ronald I. Greenberg,Lee Guan	10.1109/ICPP.1997.622554
+Background Compensation and an Active-Camera Motion Tracking Algorithm.	Rohit Gupta,Mitchell D. Theys,Howard Jay Siegel	10.1109/ICPP.1997.622677
+Efficient Multicast Algorithms in All-Port Wormhole-Routed Hypercubes.	Vivek Halwan,Füsun Özgüner	10.1109/ICPP.1997.622562
+Performance and Configuration of Hierarchical Ring Networks for Multiprocessors.	V. Carl Hamacher,Hong Jiang	10.1109/ICPP.1997.622653
+. Efficient Parallel Algorithms on Distance-Hereditary Graphs.	Sun-Yuan Hsieh,Chin-Wen Ho,Gen-Huey Chen,Tsan-sheng Hsu,Ming-Tat Ko	10.1109/ICPP.1997.622541
+Design of a Circuit-Switched Highly Fault-Tolerant k-ary n-cube.	Baback A. Izadi,Füsun Özgüner	10.1109/ICPP.1997.622664
+A Parametrized Branch-and-Bound Strategy for Scheduling Precedence-Constrained Tasks on a Multiprocessor System.	Jan Jonsson,Kang G. Shin	10.1109/ICPP.1997.622580
+Performance and Implementation Aspects of Higher Order Head-of-Line Blocking Switch Boxes.	Michael Jurczyk	10.1109/ICPP.1997.622555
+Improving the Performance of Out-of-Core Computations.	Mahmut T. Kandemir,J. Ramanujam,Alok N. Choudhary	10.1109/ICPP.1997.622574
+Optimal Multicast with Packetization and Network Interface Support.	Ram Kesavan,Dhabaleswar K. Panda 0001	10.1109/ICPP.1997.622668
+Quantitative Analysis on Caching Effect of I-Structure Data in Frame-Based Multithreaded Processing.	Hyong-Shik Kim,Soonhoi Ha,Chu Shik Jhon	10.1109/ICPP.1997.622573
+Reducing Overheads of Local Communications in Fine-grain Parallel Computation.	Jin-Soo Kim,Soonhoi Ha,Chu Shik Jhon	10.1109/ICPP.1997.622648
+An Effective Memory-Processor Integrated Architecture for Computer Vision.	Young-Sik Kim,Tack-Don Han,Shin-Dug Kim,Sung-Bong Yang	10.1109/ICPP.1997.622654
+Stride-directed Prefetching for Secondary Caches.	Sunil Kim,Alexander V. Veidenbaum	10.1109/ICPP.1997.622661
+A Register Allocation Technique Using Register Existence Graph.	Akira Koseki,Yoshiaki Fukazawa,Hideaki Komatsu	10.1109/ICPP.1997.622673
+Exploiting task and data parallelism in parallel Hough and Radon transforms.	Dilip Krishnaswamy,Prithviraj Banerjee	10.1109/ICPP.1997.622678
+Load Balancing and Workload Minimization Of Overlapping Parallel Tasks.	Venkatram Krishnaswamy,Gagan Hasteer,Prithviraj Banerjee	10.1109/ICPP.1997.622655
+Efficient Parallel Algorithms for Optimally Locating a k-Leaf Tree in a Tree Network.	Shan-Chyun Ku,Wei-Kuan Shih,Biing-Feng Wang	10.1109/ICPP.1997.622537
+Implementations of a Feature-Based Visual Tracking Algorithm on Two MIMD Machines.	Mark Bernd Kulaczewski,Howard Jay Siegel	10.1109/ICPP.1997.622676
+A Class of Fixed-Degree Cayley-Graph Interconnection Networks Derived by Pruning k-ary n-cubes.	Ding-Ming Kwai,Behrooz Parhami	10.1109/ICPP.1997.622563
+Real-Time Job Scheduling in Hypercube Systems.	O-Hoon Kwon,Jong Kim 0001,Sung Je Hong,Sunggu Lee	10.1109/ICPP.1997.622581
+Automatic generation of injective modular mappings.	Hyuk-Jae Lee,José A. B. Fortes	10.1109/ICPP.1997.622675
+Data Distribution Analysis and Optimization for Pointer-Based Distributed Programs.	Jenq Kuen Lee,Dan Ho,Y. C. Chuang	10.1109/ICPP.1997.622556
+Design and Analysis of Fault-Tolerant Star Networks.	Chungti Liang,Sourav Bhattacharya,Jack Tan	10.1109/ICPP.1997.622665
+Efficient Algorithms for Multi-dimensional Block-Cyclic Redistribution of Arrays.	Young Won Lim,Neungsoo Park,Viktor K. Prasanna	10.1109/ICPP.1997.622650
+A Framework for Parallel Tree-Based Scientific Simulations.	Pangfeng Liu,Jan-Jan Wu	10.1109/ICPP.1997.622577
+Combining Loop Fusion with Prefetching on Shared-memory Multiprocessors.	Naraig Manjikian	10.1109/ICPP.1997.622560
+Software-Based Deadlock Recovery Technique for True Fully Adaptive Routing in Wormhole Networks.	Juan-Miguel Martínez 0001,Pedro López 0001,José Duato,Timothy Mark Pinkston	10.1109/ICPP.1997.622586
+Hardware Versus Software Implementation of COMA.	Adrian Moga,Michel Dubois 0001,Alain Gefflaut	10.1109/ICPP.1997.622652
+Broadcast-Efficient Sorting in the Presence of Few Channels.	Koji Nakano,Stephan Olariu,James L. Schwing	10.1109/ICPP.1997.622534
+Compiler Techniques for Effective Communication on Distributed-Memory Multiprocessors.	Angeles G. Navarro,Emilio L. Zapata,Yunheung Paek,David A. Padua	10.1109/ICPP.1997.622559
+Decisive Path Scheduling: A New List Scheduling Method.	Gyung-Leen Park,Behrooz A. Shirazi,Jeff Marquis,Hyunseung Choo	10.1109/ICPP.1997.622682
+Network Performance under Physical Constraints.	Fabrizio Petrini,Marco Vanneschi	10.1109/ICPP.1997.622550
+Real-time multicast in wireless communication.	Sandeepan Sanyal,Laila Nahar,Sourav Bhattacharya	10.1109/ICPP.1997.622687
+Communication in Parallel Applications: Characterization and Sensitivity Analysis.	Dale Seed,Anand Sivasubramaniam,Chita R. Das	10.1109/ICPP.1997.622679
+The Affinity Entry Consistency Protocol.	Cristiana Bentes Seidel,Ricardo Bianchini,Claudio Luis de Amorim	10.1109/ICPP.1997.622646
+Performance Evaluation of Fault Tolerance for Parallel Applications in Networked Environments.	Pierre Sens 0001	10.1109/ICPP.1997.622663
+Trace-driven Analysis of Migration-based Gang Scheduling Policies for Parallel Computers.	Sanjeev Setia	10.1109/ICPP.1997.622685
+Effects of Dynamic Task Distributions on the Performance of a Class of Irregular Computations.	Hemal V. Shah,José A. B. Fortes	10.1109/ICPP.1997.622651
+On the multiple fault diagnosis of multistage interconnection networks: the lower bound and the CMOS fault model.	Yinan N. Shen,Xiao-Tao Chen,Susumu Horiguchi,Fabrizio Lombardi	10.1109/ICPP.1997.622666
+Hybrid compiler/hardware prefetching for multiprocessors using low-overhead cache miss traps.	Jonas Skeppstedt,Michel Dubois 0001	10.1109/ICPP.1997.622659
+Fault-Tolerant Parallel Applications Using Queues and Actions.	J. A. Smith,Santosh K. Shrivastava	10.1109/ICPP.1997.622578
+Throttle and Preempt: A New Flow Control for Real-Time Communications in Wormhole Networks.	Hyojeong Song,Boseob Kwon,Hyunsoo Yoon	10.1109/ICPP.1997.622589
+Multiscalar Execution along a Single Flow of Control.	Krishna K. Sundararaman,Manoj Franklin	10.1109/ICPP.1997.622568
+Automatic Partitioning of Data and Computations on Scalable Shared Memory Multiprocessors.	Sudarsan Tandri,Tarek S. Abdelrahman	10.1109/ICPP.1997.622557
+An adaptive sequential prefetching scheme in shared-memory multiprocessors.	Myoung Kwon Tcheun,Hyunsoo Yoon,Seung Ryoul Maeng	10.1109/ICPP.1997.622660
+Probabilistic Rotation: Scheduling Graphs with Uncertain Execution Time.	Sissades Tongsima,Chantana Chantrapornchai,Edwin Hsing-Mean Sha,Nelson L. Passos	10.1109/ICPP.1997.622658
+A Global Computing Environment for Networked Resources.	Haluk Topcuoglu,Salim Hariri	10.1109/ICPP.1997.622686
+Tree-Based Multicasting on Wormhole Routed Multistage Interconnection Networks.	Vara Varavithya,Prasant Mohapatra	10.1109/ICPP.1997.622645
+Hindsight Helps: Deterministic Task Scheduling with Backtracking.	Yueh-O Wang,Nancy M. Amato,Donald K. Friesen	10.1109/ICPP.1997.622582
+Embedding of binomial trees in hypercubes with link faults.	Jie Wu 0001,Eduardo B. Fernández,Yingquiu Luo	10.1109/ICPP.1997.622564
+Local Search for DAG Scheduling and Task Assignment.	Min-You Wu,Wei Shu,Jun Gu	10.1109/ICPP.1997.622584
+Design of Scalable and Multicast Capable Cut-Through Switches for High-Speed LANs.	Mingyao Yang,Lionel M. Ni	10.1109/ICPP.1997.622662
+Performance Analysis and Simulation of Multicast Networks.	Yuanyuan Yang 0001,Jianchao Wang	10.1109/ICPP.1997.622670
+Optimal Sorting Algorithms on Incomplete Meshes with Arbitrary Fault Patterns.	Chi-Hsiang Yeh,Behrooz Parhami	10.1109/ICPP.1997.622530
+Good Processor Management = Fast Allocation + Efficient Scheduling.	Byung S. Yoo,Chita R. Das	10.1109/ICPP.1997.622656
+1997 International Conference on Parallel Processing (ICPP &apos;97), August 11-15, 1997, Bloomington, IL, USA, Proceedings		

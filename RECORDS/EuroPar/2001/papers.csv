@@ -1,0 +1,131 @@
+Topic 03: Scheduling and Load Balancing.	Ishfaq Ahmad,Henri Casanova,Rupert W. Ford,Yves Robert	10.1007/3-540-44681-8_23
+Improving the Accuracy of Reliability Models for Direct Interconnection Networks.	Rosa Alcover,Vicente Chirivella,José Duato	10.1007/3-540-44681-8_89
+Cactus Grid Computing: Review of Current Development.	Gabrielle Allen,Werner Benger,Thomas Dramlitsch,Tom Goodale,Hans-Christian Hege,Gerd Lanfermann,André Merzky,Thomas Radke,Edward Seidel	10.1007/3-540-44681-8_115
+Experiences in Using MPI-IO on Top of GPFS for the IFS Weather Forecast Code.	Nicholas K. Allsopp,John F. Hague,Jean-Pierre Prost	10.1007/3-540-44681-8_55
+Implementing Java on Clusters.	Yariv Aridor,Michael Factor,Avi Teperman	10.1007/3-540-44681-8_104
+Experiments in Parallel Clustering with DBSCAN.	Domenica Arlia,Massimo Coppola	10.1007/3-540-44681-8_46
+A Case Study of Load Distribution in Parallel View Frustum Culling and Collision Detection.	Ulf Assarsson,Per Stenström	10.1007/3-540-44681-8_95
+Topic 08+13: Instruction-Level Parallelism and Computer Architecture.	Eduard Ayguadé,Fredrik Dahlgren,Christine Eisenbeis,Roger Espasa,Guang R. Gao,Henk L. Muller,Rizos Sakellariou,André Seznec	10.1007/3-540-44681-8_56
+Topic 10: Parallel Programming: Models, Methods and Programming Languages.	Scott B. Baden,Paul H. J. Kelly,Sergei Gorlatch,Calvin Lin	10.1007/3-540-44681-8_72
+Load Balancing on Networks with Dynamically Changing Topology.	Jacques M. Bahi,Jaafar Gaber	10.1007/3-540-44681-8_27
+Topic 16: Cluster Computing.	Mark Baker,John Brooke,Kenneth A. Hawick,Rajkumar Buyya	10.1007/3-540-44681-8_100
+VIA Communication Performance on a Gigabit Ethernet Cluster.	Mark Baker,Paul A. Farrell,Hong Ong,Stephen L. Scott	10.1007/3-540-44681-8_20
+From Cluster Monitoring to Grid Monitoring Based on GRM.	Zoltán Balaton,Péter Kacsuk,Norbert Podhorszki,Ferenc Vajda	10.1007/3-540-44681-8_121
+Topic 12: Routing and Communication in Interconnection Networks.	Ramón Beivide,Chris R. Jesshope,Antonio Robles,Cruz Izu	10.1007/3-540-44681-8_87
+Scalable Causal Message Logging for Wide-Area Environments.	Karan Bhatia,Keith Marzullo,Lorenzo Alvisi	10.1007/3-540-44681-8_120
+Topic 06: Complexity Theory and Algorithms.	Gianfranco Bilardi,Rainer Feldmann,Kieran T. Herley,Bruce M. Maggs	10.1007/3-540-44681-8_47
+Approximation Algorithms for Scheduling Independent Malleable Tasks.	Jacek Blazewicz,Maciej Machowiak,Grégory Mounié,Denis Trystram	10.1007/3-540-44681-8_29
+On Minimising the Processor Requirements of LogP Schedules.	Cristina Boeres,Gerson N. da Cunha,Vinod E. F. Rebello	10.1007/3-540-44681-8_24
+Optimising the MPI Library for the T3E.	Stephen Booth	10.1007/3-540-44681-8_13
+Improving Concurrency Control in Distributed Databases with Predeclared Tables.	Azzedine Boukerche,Terry Tuck	10.1007/3-540-44681-8_43
+Solving Bi-knapsack Problem Using Tiling Approach for Dynamic Programming.	Benamar Sidi-Boulenouar	10.1007/3-540-44681-8_80
+Topic 18: Parallel I/O and Storage Technology.	Peter Brezany,Marianne Winslett,Denis A. Nicole,Toni Cortes	10.1007/3-540-44681-8_123
+A Tool for Binding Threads to Processors.	Magnus Broberg,Lars Lundberg,Håkan Grahn	10.1007/3-540-44681-8_9
+Group-Based Performance Analysis for Multithreaded SMP Cluster Applications.	Holger Brunst,Wolfgang E. Nagel,Hans-Christian Hoppe	10.1007/3-540-44681-8_22
+Macro Extension for SIMD Processing.	Patricio Bulic,Veselko Gustin	10.1007/3-540-44681-8_64
+Design of Problem-Solving Environment for Contingent Claim Valuation.	F. Oliver Bunnin,Yike Guo,John Darlington	10.1007/3-540-44681-8_130
+Use of Agent-Based Service Discovery for Resource Management in Metacomputing Environment.	Junwei Cao,Darren J. Kerbyson,Graham R. Nudd	10.1007/3-540-44681-8_122
+Checkpointing Facility on a Metasystem.	Yudith Cardinale,Emilio Hernández	10.1007/3-540-44681-8_12
+Nepal - Nested Data Parallelism in Haskell.	Manuel M. T. Chakravarty,Gabriele Keller,Roman Lechtchinsky,Wolf Pfannenstiel	10.1007/3-540-44681-8_76
+An Evaluation of Partitioners for Parallel SAMR Applications.	Sumir Chandra,Manish Parashar	10.1007/3-540-44681-8_26
+Data-Parallel Compiler Support for Multipartitioning.	Daniel G. Chavarría-Miranda,John M. Mellor-Crummey,Trushar Sarang	10.1007/3-540-44681-8_36
+Parallel Implementation of a Block Algorithm for Matrix 1-Norm Estimation.	Sheung Hun Cheng,Nicholas J. Higham	10.1007/3-540-44681-8_82
+A Fuzzy Load Balancing Service for Network Computing Based on Jini.	Lap-Sun Cheung,Yu-Kwong Kwok	10.1007/3-540-44681-8_28
+Accordion Clocks: Logical Clocks for Data Race Detection.	Mark Christiaens,Koenraad De Bosschere	10.1007/3-540-44681-8_73
+An Efficient Indirect Branch Predictor.	Yul Chu,Mabo Robert Ito	10.1007/3-540-44681-8_58
+The Way to Produce the Quasi-workload in a Cluster.	Fumie Costen,John Brooke	10.1007/3-540-44681-8_30
+Event List Management in Distributed Simulation.	Jörgen Dahl,Malolan Chetlur,Philip A. Wilsey	10.1007/3-540-44681-8_68
+The Hardware Performance Monitor Toolkit.	Luiz De Rose	10.1007/3-540-44681-8_19
+Portable Parallel CORBA Objects: An Approach to Combine Parallel and Distributed Programming for Grid Computing.	Alexandre Denis 0001,Christian Pérez,Thierry Priol	10.1007/3-540-44681-8_117
+High Performance Computing and Trends: Connecting Computational Requirements with Computing Resources.	Jack J. Dongarra	10.1007/3-540-44681-8_5
+A Two Dimensional Vector Architecture for Multimedia.	Ahmed El-Mahdy 0002,Ian Watson	10.1007/3-540-44681-8_98
+Remote Visualization of Distributed Electro-Magnetic Simulations.	Erik Engquist	10.1007/3-540-44681-8_128
+The Behavior of Efficient Virtual Machine Interpreters on Modern Architectures.	M. Anton Ertl,David Gregg	10.1007/3-540-44681-8_59
+UNICORE: A Grid Computing Environment.	Dietmar W. Erwin,David F. Snelling	10.1007/3-540-44681-8_116
+Building TMR-Based Reliable Servers Despite Bounded Input Lifetimes.	Paul D. Ezhilchelvan,Jean-Michel Hélary,Michel Raynal	10.1007/3-540-44681-8_70
+Loop-Carried Code Placement.	Peter Faber,Martin Griebl,Christian Lengauer	10.1007/3-540-44681-8_34
+Optimal Partitioning for Efficient I/O in Spatial Databases.	Hakan Ferhatosmanoglu,Divyakant Agrawal,Amr El Abbadi	10.1007/3-540-44681-8_124
+Load Redundancy Elimination on Executable Code.	Manel Fernández,Roger Espasa,Saumya K. Debray	10.1007/3-540-44681-8_33
+On Deadlock Frequency during Dynamic Reconfiguration in NOWs.	Lorenzo Fernández Maimó,José M. García 0001,Rafael Casado	10.1007/3-540-44681-8_90
+Topic 09: Distributed Systems and Algorithms.	Bertil Folliot,Giovanni Chiola,Peter Druschel,Anne-Marie Kermarrec	10.1007/3-540-44681-8_66
+The Anatomy of the Grid: Enabling Scalable Virtual Organizations.	Ian T. Foster	10.1007/3-540-44681-8_1
+Level-3 Trigger for a Heavy Ion Experiment at LHC.	U. Frankenfeld,Håvard Helstrup,J. Lien,Volker Lindenstruth,Dieter Röhrich,M. W. Schulz,B. Skaali,Timm M. Steinbeck,K. Ullaland,Anders Strand Vestbø,Arne Wiebalck	10.1007/3-540-44681-8_54
+A Parallel Computation of Power System Equations.	Yu-Fai Fung,Muhammet Fikret Ercan,Tin-Kin Ho,Wai-leung Cheung	10.1007/3-540-44681-8_53
+A Component Framework for HPC Applications.	Nathalie Furmento,Anthony Edward Mayer,A. Stephen McGough,Steven J. Newhouse,John Darlington	10.1007/3-540-44681-8_78
+Building Computational Communities from Federated Resources.	Nathalie Furmento,Steven J. Newhouse,John Darlington	10.1007/3-540-44681-8_119
+Software Component Technology for High Performance Parallel and Grid Computing.	Dennis Gannon	10.1007/3-540-44681-8_2
+Performance Prediction of Data-Dependent Task Parallel Programs.	Hasyim Gautama,Arjan J. C. van Gemund	10.1007/3-540-44681-8_17
+Topic 01: Support Tools and Environments.	Michael Gerndt	10.1007/3-540-44681-8_6
+Performance Prediction of Oblivious BSP Programs.	Jesus A. González,Coromoto León,Fabiana Piccoli,Marcela Printista,José L. Roda,Casiano Rodríguez,Francisco de Sande	10.1007/3-540-44681-8_16
+Introduction of Static Load Balancing in Incremental Parallel Programming.	Joy Goodman,John O&apos;Donnell 0001	10.1007/3-540-44681-8_77
+Self-stabilizing Neighborhood Unique Naming under Unfair Scheduler.	Maria Gradinariu,Colette Johnen	10.1007/3-540-44681-8_67
+Parallel Tree Projection Algorithm for Sequence Mining.	Valerie Guralnik,Nivea Garg,George Karypis	10.1007/3-540-44681-8_44
+Parallel Pruning for K-Means Clustering on Shared Memory Architectures.	Attila Gürsoy,Ilker Cengiz	10.1007/3-540-44681-8_45
+Prioritizing Network Event Handling in Clusters of Workstations.	Jørgen S. Hansen,Eric Jul	10.1007/3-540-44681-8_101
+Optimal Scheduling of Aperiodic Jobs on Cluster.	Ligang He,Hai Jin 0001,Ying Chen,Zongfen Han	10.1007/3-540-44681-8_108
+Self-Adjusting Scheduling of Master-Worker Applications on Distributed Clusters.	Elisa Heymann,Miquel A. Senar,Emilio Luque,Miron Livny	10.1007/3-540-44681-8_106
+Performance of High-Accuracy PDE Solvers on a Self-Optimizing NUMA Architecture.	Sverker Holmgren,Dan Wallin	10.1007/3-540-44681-8_86
+A New Communication Mechanism for Cluster Computing.	Andres Ibañez,Valentin Puente,José A. Gregorio,Ramón Beivide	10.1007/3-540-44681-8_111
+Improving MPI-I/O Performance on PVFS.	Jonathan Ilroy,Cyril Randriamaro,Gil Utard	10.1007/3-540-44681-8_126
+Improving Conditional Branch Prediction on Speculative Multithreading Architectures.	Chitaka Iwama,Niko Demus Barli,Shuichi Sakai,Hidehiko Tanaka	10.1007/3-540-44681-8_60
+Parallel Application of a Novel Domain Decomposition Preconditioner for the Stable Finite Element Solution of Three-Dimensional Convection-Dominated PDEs.	Peter K. Jimack,Sarfraz Ahmad Nadeem	10.1007/3-540-44681-8_85
+Isolated Dynamic Clusters for Web Hosting.	Michael H. Kalantar,Jun Fong	10.1007/3-540-44681-8_112
+Beyond External Computing: Analysis of the Cycle Structure of Permutations.	Jörg Keller 0001,Jop F. Sibeyn	10.1007/3-540-44681-8_48
+Smooth and Efficient Integration of High-Availability in a Parallel Single Level Store System.	Anne-Marie Kermarrec,Christine Morin	10.1007/3-540-44681-8_107
+Macro- and Micro-parallelism in a DBMS.	Martin L. Kersten,Stefan Manegold,Peter A. Boncz,Niels Nes	10.1007/3-540-44681-8_3
+Multiprocessor Clustering for Embedded Systems.	Vida Kianzad,Shuvra S. Bhattacharyya	10.1007/3-540-44681-8_99
+Fractional Weighted Reference Counting.	Erik Klintskog,Anna Neiderud,Per Brand,Seif Haridi	10.1007/3-540-44681-8_71
+Cache Models for Iterative Compilation.	Peter M. W. Knijnenburg,Toru Kisuki,Kyle A. Gallivan	10.1007/3-540-44681-8_37
+Topic 04: Compilers for High Performance.	Jens Knoop,Manish Gupta,Keshav Pingali,Michael F. P. O&apos;Boyle	10.1007/3-540-44681-8_31
+Topic 05: Parallel and Distributed Databases, Data Mining and Knowledge Discovery.	Harald Kosch,Pedro R. Falcone Sampaio,Abdelkader Hameurlain,Lionel Brunie	10.1007/3-540-44681-8_40
+Parallelisable Zero-Tree Image Coding with Significance Maps.	Rade Kutil	10.1007/3-540-44681-8_96
+Polynomial Preconditioning for Specially Structured Linear Systems of Equations.	Y. Liang,Jim Weston,Marek Szularz	10.1007/3-540-44681-8_84
+Efficient Synchronization of Asynchronous Processes.	Sandeep Lodha,Punit Chandra,Ajay D. Kshemkalyani,Mayank Rawat	10.1007/3-540-44681-8_50
+Data Sequence Locality: A Generalization of Temporal Locality.	Vincent Loechner,Benoît Meister,Philippe Clauss	10.1007/3-540-44681-8_38
+An Analytical Model of Deterministic Routing in the Presence of Hot-Spot Traffic.	Samia Loucif,Mohamed Ould-Khaoua	10.1007/3-540-44681-8_88
+VizzScheduler - A Framework for the Visualization of Scheduling Algorithms.	Welf Löwe,Alex Liebrich	10.1007/3-540-44681-8_10
+Topic 02: Performance Evaluation and Prediction.	Allen D. Malony,Graham D. Riley,Bernd Mohr,J. Mark Bull,Tomàs Margalef	10.1007/3-540-44681-8_14
+Partial Evaluation of Concurrent Programs.	Matthieu Martel,Marc Gengler	10.1007/3-540-44681-8_74
+A Classification of Skew Effects in Parallel Database Systems.	Holger Märtens	10.1007/3-540-44681-8_42
+Heaps Are Better than Buckets: Parallel Shortest Paths on Unbalanced Graphs.	Ulrich Meyer 0001	10.1007/3-540-44681-8_49
+Improving Network Performance by Efficiently Dealing with Short Control Messages in Fibre Channel SANs.	Xavier Molero,Federico Silla,Vicente Santonja,José Duato	10.1007/3-540-44681-8_125
+Dynamic Performance Tuning Environment.	Anna Morajko,Eduardo César,Tomàs Margalef,Joan Sorribes,Emilio Luque	10.1007/3-540-44681-8_7
+The Tuning Problem on Pipelines.	Luz Marina Moreno,Francisco Almeida,Daniel González,Casiano Rodríguez	10.1007/3-540-44681-8_18
+HMM: A Cluster Membership Service.	Francesc D. Muñoz-Escoí,Óscar Gomis,Pablo Galdámez,José M. Bernabéu-Aubán	10.1007/3-540-44681-8_109
+A Distributed Object Infrastructure for Interaction and Steering.	Rajeev Muralidhar,Manish Parashar	10.1007/3-540-44681-8_11
+Topic 07: Applications on High-Performance Computers.	Yoichi Muraoka,Randall Bramley,David F. Snelling,Harry A. G. Wijshoff	10.1007/3-540-44681-8_51
+Performances of a Dynamic Threads Scheduler.	Smaïl Niar,Mahamed Adda	10.1007/3-540-44681-8_65
+Instruction Wake-Up in Wide Issue Superscalars.	Soner Önder,Rajiv Gupta 0001	10.1007/3-540-44681-8_61
+Solving Initial Value Problems with Parallel Maple Processes.	Dana Petcu	10.1007/3-540-44681-8_129
+Optimal Many-to-One Routing on the Mesh with Constant Queues.	Andrea Pietracaprina,Geppino Pucci	10.1007/3-540-44681-8_92
+Optimal Polling for Latency-Throughput Tradeoffs in Queue-Based Network Interfaces for Clusters.	Dmitry Ponomarev 0001,Kanad Ghose,Evgeny Saksonov	10.1007/3-540-44681-8_15
+Using a Swap Instruction to Coalesce Loads and Stores.	Apan Qasem,David B. Whalley,Xin Yuan 0001,Robert van Engelen	10.1007/3-540-44681-8_35
+Branch Prediction Using Profile Data.	Alex Ramírez,Josep Lluís Larriba-Pey,Mateo Valero	10.1007/3-540-44681-8_57
+Topic 17: Metacomputing and Grid Computing.	Alexander Reinefeld,Omer F. Rana,Jarek Nabrzyski,David W. Walker	10.1007/3-540-44681-8_113
+PAPI Message Passing Library: Comparison of Performance in User and Kernel Level Messaging.	Eric Renault,Pierre David	10.1007/3-540-44681-8_103
+Cactus Application: Performance Predictions in Grid Environments.	Matei Ripeanu,Adriana Iamnitchi,Ian T. Foster	10.1007/3-540-44681-8_114
+Dynamic Processor Allocation in Large Mesh-Connected Multicomputers.	César A. F. De Rose,Hans-Ulrich Heiss	10.1007/3-540-44681-8_110
+An Experimental Performance Evaluation of Join Algorithms for Parallel Object Databases.	Sandra de F. Mendes Sampaio,Jim Smith 0001,Norman W. Paton,Paul Watson 0001	10.1007/3-540-44681-8_41
+Efficient Dependence Analysis for Java Arrays.	Vivek Sarkar,Stephen J. Fink	10.1007/3-540-44681-8_39
+Execution Latency Reduction via Variable Latency Pipeline and Instruction Reuse.	Toshinori Sato,Itsujiro Arita	10.1007/3-540-44681-8_62
+Scanning Biosequence Databases on a Hybrid Parallel Architecture.	Bertil Schmidt,Heiko Schröder 0001,Manfred Schimmler	10.1007/3-540-44681-8_52
+Fault Tolerance for Cluster Computing Based on Functional Tasks.	Wolfgang Schreiner,Gábor Kusper,Károly Bósa	10.1007/3-540-44681-8_102
+Memory Bandwidth: The True Bottleneck of SIMD Multimedia Performance on a Superscalar Processor.	Julien Sébot,Nathalie Drach-Temam	10.1007/3-540-44681-8_63
+A Software Architecture for User Transparent Parallel Image Processing on MIMD Computers.	Frank J. Seinstra,Dennis C. Koelma,Jan-Mark Geusebroek	10.1007/3-540-44681-8_94
+CORBA Lightweight Components : A Model for Distributed Component-BasedHeterogeneous Computation.	Diego Sevilla,José M. García 0001,Antonio Fernandez Gómez-Skarmeta	10.1007/3-540-44681-8_118
+Analysis of Broadcast Communication in 2D Tori.	Alireza Shahrabi,Mohamed Ould-Khaoua,Lewis M. Mackenzie	10.1007/3-540-44681-8_91
+Exploiting Unused Time Slots in List Scheduling Considering Communication Contention.	Oliver Sinnen,Leonel Sousa	10.1007/3-540-44681-8_25
+Predictive Coscheduling Implementation in a Non-dedicated Linux Cluster.	Francesc Solsona,Francesc Giné,Porfidio Hernández,Emilio Luque	10.1007/3-540-44681-8_105
+An Introduction to the Gilgamesh PIM Architecture.	Thomas L. Sterling	10.1007/3-540-44681-8_4
+Towards Formally Refining BSP Barrier s into Explicit Two-Sided Communications.	Alan Stewart,Maurice Clint,Joaquim Gabarró,Maria J. Serna	10.1007/3-540-44681-8_79
+Performance Analysis of Intel&apos;s MMX and SSE: A Case Study.	Alfred Strey,Martin Bange	10.1007/3-540-44681-8_21
+Performance of the Complex Streamed Instruction Set on Image Processing Kernels.	Dmitri Tcheressiz,Ben H. H. Juurlink,Stamatis Vassiliadis,Harry A. G. Wijshoff	10.1007/3-540-44681-8_97
+Eigenvalue Spectrum Estimation and Photonic Crystals.	Ken S. Thomas,Simon J. Cox,Duan H. Beckett,Ben P. Hiett,Jasek Generowicz,Geoffrey J. Daniell	10.1007/3-540-44681-8_83
+Performance Evaluation of Plausible Clocks.	Francisco J. Torres-Rojas	10.1007/3-540-44681-8_69
+Handling Irreducible Loops: Optimized Node Splitting vs. DJ-Graphs.	Sebastian Unger,Frank Mueller 0001	10.1007/3-540-44681-8_32
+Topic 15+20: Multimedia and Embedded Systems.	Stamatis Vassiliadis,Francky Catthoor,Mateo Valero,Sorin Cotofana	10.1007/3-540-44681-8_93
+A Transparent Operating System Infrastructure for Embedding Adaptability to Thread-Based Programming Models.	Ioannis E. Venetis,Dimitrios S. Nikolopoulos,Theodore S. Papatheodorou	10.1007/3-540-44681-8_75
+Topic 11: Numerical Algorithms.	Henk A. van der Vorst,Rob H. Bisseling,Iain S. Duff,Bernard J. Philippe	10.1007/3-540-44681-8_81
+Topic 19: Problem Solving Environments.	David W. Walker,Kenneth A. Hawick,Domenico Laforenza,Efstratios Gallopoulos	10.1007/3-540-44681-8_127
+Self-Organizing Hierarchical Cluster Timestamps.	Paul A. S. Ward,David J. Taylor	10.1007/3-540-44681-8_8
+Euro-Par 2001: Parallel Processing, 7th International Euro-Par Conference Manchester, UK August 28-31, 2001, Proceedings	Rizos Sakellariou,John A. Keane,John R. Gurd,Len Freeman	10.1007/3-540-44681-8

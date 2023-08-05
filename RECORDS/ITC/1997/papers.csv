@@ -1,0 +1,139 @@
+An On-Line Self-Testing Switched-Current Integrator.	Osama K. Abu-Shahla,Ian M. Bell	10.1109/TEST.1997.639652
+A Self-Test Circuit for Evaluating Memory Sense-Amplifier Signal.	R. Dean Adams,Edmond S. Cooley,Patrick R. Hansen	10.1109/TEST.1997.639617
+Embedded At-Speed Test Probe.	Mitch Aigner	10.1109/TEST.1997.639708
+Thoughts on Core Integration and Test.	Thomas L. Anderson	10.1109/TEST.1997.639728
+Design and Realization of an Accurate Built-In Current Sensor for On-Line Power Dissipation Measurement and IDDQ Testing.	Karim Arabi,Bozena Kaminska	10.1109/TEST.1997.639666
+Oscillation Built-In Self Test (OBIST) Scheme for Functional and Structural Testing of Analog and Mixed-Signal Integrated Circuits.	Karim Arabi,Bozena Kaminska	10.1109/TEST.1997.639692
+Experiences with Implementation of IDDQ Test for Identification and Automotive Products.	Ralf Arnold,Markus Feuser,Horst-Udo Wedekind,Thorsten Bode	10.1109/TEST.1997.639605
+H-SCAN+: A Practical Low-Overhead RTL Design-for-Testability Technique for Industrial Designs.	Toshiharu Asaka,Masaaki Yoshida,Subhrajit Bhattacharya,Sujit Dey	10.1109/TEST.1997.639622
+The Search for the Universal Probe Card Solution.	R. Dennis Bates	10.1109/TEST.1997.639661
+iDD Pulse Response Testing Applied to Complex CMOS ICs.	J. S. Beasley,S. Pour-Mozafari,D. Huggett,Alan W. Righter,C. J. Apodaca	10.1109/TEST.1997.639591
+Experimental Results for Current-Based Analog Scan.	Thomas M. Bocek,Tuyen D. Vu,Mani Soma,Jason D. Moffatt	10.1109/TEST.1997.639690
+The Fail-Stop Controller AE11.	Eberhard Böhl,Thomas Lindenkreuz,R. Stephan	10.1109/TEST.1997.639665
+Algorithms for Switch Level Delay Fault Simulation.	Soumitra Bose,Vishwani D. Agrawal,Thomas G. Szymanski	10.1109/TEST.1997.639714
+High-Performance Production Test Contractors for Fine-Pitch Integrated Circuits.	James J. Brandes	10.1109/TEST.1997.639658
+Design of Cache Test Hardware on the HP PA8500.	Jeff Brauch,Jay Fleischman	10.1109/TEST.1997.639629
+Solder Paste Inspection: Process Control for Defect Reduction.	Donald Burr	10.1109/TEST.1997.639726
+On-Line Testable Logic Desgin for FPGA Implementation.	Alfred L. Burress,Parag K. Lala	10.1109/TEST.1997.639653
+Pentium® Pro Processor Design for Test and Debug.	Adrian Carbine,Derek Feltham	10.1109/TEST.1997.639630
+Test Width Compression for Built-In Self Testing.	Krishnendu Chakrabarty,Jian Liu,Minyao Zhu,Brian T. Murray	10.1109/TEST.1997.639634
+Effective Path Selection for Delay Fault Testing of Sequential Circuits.	Tapan J. Chakraborty,Vishwani D. Agrawal	10.1109/TEST.1997.639716
+Analytic Models for Crosstalk Delay and Pulse Analysis Under Non-Ideal Inputs.	Weiyu Chen,Melvin A. Breuer,Sandeep K. Gupta	10.1109/TEST.1997.639695
+Addressing Early Design-For-Test Synthesis in a Production Environment.	Vivek Chickermane,Kamran Zarrineh	10.1109/TEST.1997.639620
+Transient Power Supply Voltage (VDDT) Analysis for Detecting IC Defects.	Edward I. Cole Jr.,Jerry M. Soden,Paiboon Tangyunyong,Patrick L. Candelaria,Richard W. Beegle,Daniel L. Barton,Christopher L. Henderson,Charles F. Hawkins	10.1109/TEST.1997.639590
+Low Current and Low Voltages-The High-End OP AMP Testing Challenge.	Bob Cometta,Jan Witte	10.1109/TEST.1997.639693
+Testability Analysis and ATPG on Behavioral RT-Level VHDL.	Fulvio Corno,Paolo Prinetto,Matteo Sonza Reorda	10.1109/TEST.1997.639688
+IEEE P1149.4-Almost a Standard.	Adam Cron	10.1109/TEST.1997.639611
+BART: A Bridging Fault Test Generation for Sequential Circuits.	James P. Cusey,Janak H. Patel	10.1109/TEST.1997.639698
+Signal Generation Using Periodic Single-and Multi-Bit Sigma-Delta Modulated Streams.	Benoit Dufort,Gordon W. Roberts	10.1109/TEST.1997.639642
+On Using Machine Learning for Logic BIST.	Christophe Fagot,Patrick Girard 0001,Christian Landrault	10.1109/TEST.1997.639635
+IDDQ Characterization in Submicron CMOS.	Antoni Ferré,Joan Figueras	10.1109/TEST.1997.639606
+Testability Features of AMD-K6TM Microprocessor.	R. Scott Fetherston,Imtiaz P. Shaik,Siyad C. Ma	10.1109/TEST.1997.639643
+A Simulation-Based JTAG ATPG Optimized for MCMs.	Andrew Flint	10.1109/TEST.1997.639600
+Testing the 400-MHz IBM Generation-4 CMOS Chip.	Thomas G. Foote,Dale E. Hoffman,William V. Huott,Timothy J. Koprowski,Bryan J. Robbins,Mary P. Kusko	10.1109/TEST.1997.639601
+HABIST: Histogram-Based Analog Built-In Self-Test.	Arnold Frisch,Thomas Almy	10.1109/TEST.1997.639689
+Logic Diagnosis-Diversion or Necessity?	W. Kent Fuchs	10.1109/TEST.1997.639646
+Hardware Compression Speeds on Bitmap Fail Display.	Robert Gage,Ben Brown,John Donaldson,Alexander Joffe	10.1109/TEST.1997.639598
+Optical Communication Channel Test Using BIST Approaches.	Mathieu Gagnon,Bozena Kaminska	10.1109/TEST.1997.639672
+Embedded Core Test Plug-n-Play: Is It Achievable?	Rudy Garcia	10.1109/TEST.1997.639729
+Current Signatures: Application.	Anne E. Gattiker,Wojciech Maly	10.1109/TEST.1997.639608
+A Low-Overhead Design for Testability and Test Generation Technique for Core-Based Systems.	Indradeep Ghosh,Niraj K. Jha,Sujit Dey	10.1109/TEST.1997.639593
+An Effective BIST Scheme for Arithmetic Logic Units.	Dimitris Gizopoulos,Antonis M. Paschalis,Yervant Zorian,Mihalis Psarakis	10.1109/TEST.1997.639701
+The Implementation of Pseudo-Random Memory Tests on Commercial Memory Testers.	Ad J. van de Goor,Mike Lin	10.1109/TEST.1997.639618
+Future Management of the Semiconductor Manufacturing Process.	James T. Healy	10.1109/ITC.1997.10001
+Signature Analysis for IC Diagnosis and Failure Analysis.	Christopher L. Henderson,Jerry M. Soden	10.1109/TEST.1997.639632
+The Application of Novel Failure Analysis Techniques for Advanced Multi-Layered CMOS Devices.	Yeoh Eng Hong,Martin Tay Tiong We	10.1109/TEST.1997.639631
+Analog Fault Diagnosis for Unpowered Circuit Boards.	Jiun-Lang Huang,Kwang-Ting Cheng	10.1109/TEST.1997.639675
+Error Tracer: A Fault-Simualtion-Based Approach to Design Error Diagnosis.	Shi-Yu Huang,Kwang-Ting Cheng,Kuang-Chien Chen,David Ihsin Cheng	10.1109/TEST.1997.639713
+System-Level Boundary-Scan in a Highly Integrated Switch.	William J. Hughes III	10.1109/TEST.1997.639673
+1149.5: Now It&apos;s a Standard, So What?	Harry Hulvershorn	10.1109/TEST.1997.639610
+Pin Margin Analysis.	Robert E. Huston	10.1109/TEST.1997.639677
+Analog and Mixed-Signal Benchmark Circuits-First Release.	Bozena Kaminska,Karim Arabi,I. Bell,José L. Huertas,Bruce C. Kim,Adoración Rueda,Mani Soma,Prashant Goteti	10.1109/TEST.1997.639612
+Low-Cost ATE PinElectronics for Multigigabit-per-Second At-Speed Test.	David C. Keezer,R. J. Wenzel	10.1109/TEST.1997.639599
+Intrinsic Leakage in Low-Power Deep Submicron CMOS ICs.	Ali Keshavarzi,Kaushik Roy 0001,Charles F. Hawkins	10.1109/TEST.1997.639607
+ACT: A DFT Tool for Self-Timed Circuits.	Ajay Khoche,Erik Brunvand	10.1109/TEST.1997.639697
+Using BIST Control for Pattern Generation.	Gundolf Kiefer,Hans-Joachim Wunderlich	10.1109/TEST.1997.639636
+ASIC Manufacturing Test Cost Prediction at Early Design Stage.	Von-Kyoung Kim,Tom Chen 0001,Mick Tegethoff	10.1109/TEST.1997.639637
+Development of a MEMS Testing Methodology.	Abhijeet Kolpekwar,Ronald D. Blanton	10.1109/TEST.1997.639707
+Sequential Test Generation with Advanced Illegal State Search.	M. H. Konijnenburg,J. Th. van der Linden,Ad J. van de Goor	10.1109/TEST.1997.639686
+Oscillation and Sequential Behavior Caused by Interconnect Opens in Digital CMOS Circuits.	Haluk Konuk,F. Joel Ferguson	10.1109/TEST.1997.639668
+Design for Primitive Delay Fault Testability.	Angela Krstic,Kwang-Ting Cheng,Srimat T. Chakradhar	10.1109/TEST.1997.639649
+Bridging Fault Diagnosis in the Absence of Physical Information.	David B. Lavo,Tracy Larrabee,F. Joel Ferguson,Brian Chess,Jayashree Saxena,Kenneth M. Butler	10.1109/TEST.1997.639703
+Efficient Identification of Non-Robustly Untestable Path Delay Faults.	Zhongcheng Li,Robert K. Brayton,Yinghua Min	10.1109/TEST.1997.639715
+Tree-Structured Linear Cellular Automata and Their Applications as PRPGs.	J. Li,X. Sun,K. Soon	10.1109/TEST.1997.639700
+OLDEVDTP: A Novel Environment for Off-Line Debugging of VLSI Device Test Programs.	Yuhai Ma,Wanchun Shi	10.1109/TEST.1997.639680
+Structuring STIL for Incremental Test Development.	Gregory A. Maston	10.1109/TEST.1997.639717
+A Case Study of the Test Development for the 2nd Generation ColdFire® Microprocessors.	Michael Mateja,Alfred L. Crouch,Renny Eisele,Grady Giles,Dale Amason	10.1109/TEST.1997.639645
+Plug and Play or Plug and Pray: We Have a Right to Know It Will Work (Or Why It Won&apos;t).	Colin M. Maunder	10.1109/ITC.1997.10000
+RF Introduction and Analog Junction Techniques for Finding Opens.	B. Karen McElfresh	10.1109/TEST.1997.639624
+Incorporating Physical Design-for-Test into Routing.	Richard McGowen,F. Joel Ferguson	10.1109/TEST.1997.639681
+Weak Write Test Mode: An SRAM Cell Stability Design for Test Technique.	Anne Meixner,Jash Banik	10.1109/TEST.1997.639732
+On-Line Testing Scheme for Clock&apos;s Faults.	Cecilia Metra,Michele Favalli,Bruno Riccò	10.1109/TEST.1997.639667
+Scan Synthesis for One-Hot Signals.	Subhasish Mitra,LaNae J. Avra,Edward J. McCluskey	10.1109/TEST.1997.639684
+An IDDQ Sensor Circuit for Low-Voltage ICs.	Yukiya Miura	10.1109/TEST.1997.639709
+Parameterizable Testing Scheme for FIR Filters.	Nilanjan Mukherjee 0001,Janusz Rajski,Jerzy Tyszer	10.1109/TEST.1997.639682
+An Efficient Scheme to Diagnose Scan Chains.	Sridhar Narayanan,Ashutosh Das	10.1109/TEST.1997.639683
+A Low-Cost Massively-Parallel Interconnect Test Method for MCM Substrates.	K. E. Newman,David C. Keezer	10.1109/TEST.1997.639639
+On-Line Testing for VLSI.	Michael Nicolaidis	10.1109/TEST.1997.639731
+Application and Analysis of IDDQ Diagnostic Software.	Phil Nigh,Donato O. Forlenza,Franco Motika	10.1109/TEST.1997.639633
+So What Is an Optimal Test Mix? A Discussion of the SEMATECH Methods Experiment.	Phil Nigh,Wayne M. Needham,Kenneth M. Butler,Peter C. Maxwell,Robert C. Aitken,Wojciech Maly	10.1109/TEST.1997.639727
+Why Would an ASIC Foundry Accept Anything Less than Full Scan?	Steven F. Oakland	10.1109/TEST.1997.639721
+Testability Enhancement for Behavioral Descriptions Containing Conditional Statements.	Kelly A. Ockunzzi,Christos A. Papachristou	10.1109/TEST.1997.639619
+Unpowered Opens Test with X-Ray Laminography.	Stig Oresjo	10.1109/TEST.1997.639625
+Fault Macromodeling for Analog/Mixed-Signal Circuits.	Chen-Yang Pan,Kwang-Ting Cheng	10.1109/TEST.1997.639706
+Design, Fabrications and Use of Mixed-Signal IC Testability Structures.	Kenneth P. Parker,John E. McDermid,Rodney A. Browen,Kozo Nuriya,Katsuhiro Hirayama,Akira Matsuzawa	10.1109/TEST.1997.639655
+Identification of Defective CMOS Devices Using Correlation and Regression Analysis of Frequency Domain Transient Signal Data.	James F. Plusquellic,Donald M. Chiarulli,Steven P. Levitan	10.1109/TEST.1997.639592
+Modifying User-Defined Logic for Test Access to Embedded Cores.	Bahram Pouya,Nur A. Touba	10.1109/TEST.1997.639594
+A 256Meg SDRAM BIST for Disturb Test Application.	Theo J. Powell,Dan Cline,Francis Hii	10.1109/TEST.1997.639614
+A DSP-Based Feedback Loop for Mixed-Signal VLSI Testing.	Lakshmikantha S. Prabhu,Daniel A. Rosenthal	10.1109/TEST.1997.639679
+Vision Inspection: Meeting the Promise?	Richard Pye	10.1109/TEST.1997.639725
+Next-Generation PowerPCTM Microprocessor Test Strategy Improvements.	Carol Pyron,Javier Prado,James Golab	10.1109/TEST.1997.639644
+Real-Time In-situ Monitoring and Characterization of Production Wafer Probing Process.	Minh Quach,Kim Harper	10.1109/TEST.1997.639694
+Analyzing a PowerPCTM620 Microprocessor Silicon Failure Using Model Checking.	Richard Raimi,James Lear	10.1109/TEST.1997.639712
+How Seriously Do You Take Your Possible-Detect Faults?	Rajesh Raina,Charles Njinda,Robert F. Molyneaux	10.1109/TEST.1997.639696
+Fault Diagnosis in Scan-Based BIST.	Janusz Rajski,Jerzy Tyszer	10.1109/TEST.1997.639704
+Finding Opens with Optics.	Douglas W. Raymond	10.1109/TEST.1997.639627
+Why Automate Optical Inspection?	Douglas W. Raymond,Dominic F. Haigh	10.1109/TEST.1997.639723
+The Case of Partial Scan.	Jeff Rearick	10.1109/TEST.1997.639722
+Test Strategy Sensitivity to Defect Parameters.	Michel Renovell,Yves Bertrand	10.1109/TEST.1997.639669
+Analog AC Harmonic Method for Detecting Solder Opens.	Chuck Robinson	10.1109/TEST.1997.639604
+Putting the Squeeze on Test Sequences.	Elizabeth M. Rudnick,Janak H. Patel	10.1109/TEST.1997.639685
+Logical Diagnosis Solutions Must Drive Yield Improvement.	Paul G. Ryan	10.1109/TEST.1997.639647
+Scan Latch Design for Delay Test.	Jacob Savir	10.1109/TEST.1997.639650
+Supervisors for Testing Non-Deterministically Specified Systems.	Tony Savor,Rudolph E. Seviora	10.1109/TEST.1997.639710
+Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE)-A New Standard for System Diagnostics.	John W. Sheppard,Leslie A. Orlidge	10.1109/TEST.1997.639719
+Implementation of Mixed Current/Voltage Testing Using the IEEE P1149.4 Infrastructure.	José Machado da Silva,Ana C. Leão,José Silva Matos,José Carlos Alves	10.1109/TEST.1997.639657
+Ethics, Professionalism and Accountability in Testing.	William R. Simpson	10.1109/TEST.1997.639724
+A Symbolic Simulation-Based ANSI/IEEE Std 1149.1 Compliance Checker and BSDL Generator.	Harbinder Singh,James Beausang,Girish Patankar	10.1109/TEST.1997.639621
+Screening for Known Good Die (KGD) Based on Defect Clustering: An Experimental Study.	Adit D. Singh,Phil Nigh,C. Mani Krishna 0001	10.1109/TEST.1997.639638
+IC Diagnosis: Industry Issues.	Jerry M. Soden,Christopher L. Henderson	10.1109/TEST.1997.639648
+A New Probe Card Technology Using Compliant MicrospringsTM.	Nicholas Sporck	10.1109/TEST.1997.639659
+Board Level Automated Fault Injection for Fault Coverage and Diagnostic Efficiency.	Bret A. Stewart	10.1109/TEST.1997.639676
+Manufacturing Pattern Development for the Alpha 21164 Microprocessor.	Carol Stolicny,Richard Davies,Pamela McKernan,Tuyen Truong	10.1109/TEST.1997.639628
+A Parameterized VHDL Library for On-Line Testing.	Charles E. Stroud,M. Ding,S. Seshadri,Ramesh Karri,I. Kim,Subhajit Roy 0001,S. Wu	10.1109/TEST.1997.639654
+BIST-Based Diagnostics of FPGA Logic Blocks.	Charles E. Stroud,Eric Lee,Miron Abramovici	10.1109/TEST.1997.639662
+Parasitic Effect Removal for Analog Measurement in P1149.4 Environment.	Chauchin Su,Yue-Tsang Chen,Shyh-Jye Jou	10.1109/TEST.1997.639656
+P1149.4-Problem or Solution for Mixed-Signal IC Design?	Stephen K. Sunter	10.1109/TEST.1997.639671
+A Simplified Polynomial-Fitting Algorithm for DAC and ADC BIST.	Stephen K. Sunter,Naveena Nagi	10.1109/TEST.1997.639641
+Delay Testing with Clock Control: An Alternative to Enhanced Scan.	Ramesh C. Tekumalla,Premachandran R. Menon	10.1109/TEST.1997.639651
+Testing the Enterprise IBM System/390TM Multi Processor.	Otto A. Torreiter,Ulrich Baur,Georg Goecke,Kevin Melocco	10.1109/TEST.1997.639602
+Scan-Encoded Test Pattern Generation for BIST.	Kun-Han Tsai,Malgorzata Marek-Sadowska,Janusz Rajski	10.1109/TEST.1997.639663
+A Novel Functional Test Generation Method for Processors Using Commercial ATPG.	Raghuram S. Tupuri,Jacob A. Abraham	10.1109/TEST.1997.639687
+Capacitive Leadframe Testing.	Ted T. Turner	10.1109/TEST.1997.639603
+Advances in Probe Technology: Best Sessions of the&apos;97 Southwest Test Workshop.	Dave Unzicker,Michael Bonham,Rey Rincon	10.1109/TEST.1997.639720
+Fault Model Extension for Diagnosing Custom Cell Fails.	Gilbert Vandling,Thomas Bartenstein	10.1109/TEST.1997.639670
+On-Chip Measurement of the Jitter Transfer Function of Charge-Pump Phase-Locked Loops.	Benoît R. Veillette,Gordon W. Roberts	10.1109/TEST.1997.639691
+Diagnosis of Bridging Faults in Sequential Circuits Using Adaptive Simulation, State Storage, and Path-Tracing.	Srikanth Venkataraman,W. Kent Fuchs	10.1109/TEST.1997.639702
+Cell Signal Measurement for High-Density DRAMs.	Jörg E. Vollrath	10.1109/TEST.1997.639616
+Hierarchical Specification-Driven Analog Fault Modeling for Efficient Fault Simulation and Diagnosis.	Ramakrishna Voorakaranam,Sudip Chakrabarti,Junwei Hou,Alfred V. Gomes,Sasikumar Cherubal,Abhijit Chatterjee,William H. Kao	10.1109/TEST.1997.639705
+A New Validation Methodology Combining Test and Formal Verification for PowerPCTM Microprocessor Arrays.	Li-C. Wang,Magdy S. Abadir	10.1109/TEST.1997.639711
+DS-LFSR: A New BIST TPG for Low Heat Dissipation.	Seongmoon Wang,Sandeep K. Gupta	10.1109/TEST.1997.639699
+To DFT or Not to DFT?	Sichao Wei,Pranab K. Nag,Ronald D. Blanton,Anne E. Gattiker,Wojciech Maly	10.1109/TEST.1997.639664
+Memory Test-Debugging Test Vectors Without ATE.	Steve Westfall	10.1109/TEST.1997.639678
+An IEEE 1149.1-Based Test Access Architecture for ICs with Embedded Cores.	Lee Whetsel	10.1109/TEST.1997.639596
+Test Access of TAP&apos;ed &amp; Non-TAP&apos;ed Cores.	Lee Whetsel	10.1109/TEST.1997.639730
+A Unified Interface for Scan Test Generation Based on STIL.	Peter Wohl,John A. Waicukauski	10.1109/TEST.1997.639718
+An Efficient Method for Compressing Test Data.	Takahiro J. Yamaguchi,Masahiro Ishida,Marco Tilgner,Dong Sam Ha	10.1109/TEST.1997.639597
+Dynamic Testing of ADCs Using Wavelet Transforms.	Takahiro J. Yamaguchi,Mani Soma	10.1109/TEST.1997.639640
+Test Requirements for Embedded Core-Based Systems and IEEE P1500.	Yervant Zorian	10.1109/TEST.1997.639613
+Proceedings IEEE International Test Conference 1997, Washington, DC, USA, November 3-5, 1997		

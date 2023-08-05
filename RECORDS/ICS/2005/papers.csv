@@ -1,0 +1,43 @@
+Reducing latencies of pipelined cache accesses through set prediction.	Aneesh Aggarwal	10.1145/1088149.1088151
+Scaling physics and material science applications on a massively parallel Blue Gene/L system.	George Almási 0001,Gyan Bhanot,Alan Gara,Manish Gupta 0002,James C. Sexton,Robert Walkup,Vasily V. Bulatov,Andrew W. Cook,Bronis R. de Supinski,James N. Glosli,Jeffrey A. Greenough,François Gygi,Alison Kubota,Steve Louis,Thomas E. Spelce,Frederick H. Streitz,Peter L. Williams,Robert K. Yates,Charles Archer,José E. Moreira,Charles A. Rendleman	10.1145/1088149.1088182
+Optimization of MPI collective communication on BlueGene/L systems.	George Almási 0001,Philip Heidelberger,Charles Archer,Xavier Martorell,C. Christopher Erway,José E. Moreira,Burkhard D. Steinmacher-Burow,Yili Zheng	10.1145/1088149.1088183
+Transparent caching with strong consistency in dynamic content web sites.	Cristiana Amza,Gokul Soundararajan,Emmanuel Cecchet	10.1145/1088149.1088185
+Multigrain parallel Delaunay Mesh generation: challenges and opportunities for multithreaded architectures.	Christos D. Antonopoulos,Xiaoning Ding,Andrey N. Chernikov,Filip Blagojevic,Dimitrios S. Nikolopoulos,Nikos Chrisochoides	10.1145/1088149.1088198
+Online performance analysis by statistical sampling of microprocessor performance counters.	Reza Azimi,Michael Stumm,Robert W. Wisniewski	10.1145/1088149.1088163
+Towards automatic translation of OpenMP to MPI.	Ayon Basumallik,Rudolf Eigenmann	10.1145/1088149.1088174
+Improved automatic testcase synthesis for performance model validation.	Robert H. Bell Jr.,Lizy Kurian John	10.1145/1088149.1088164
+TAPE: a transactional application profiling environment.	Hassan Chafi,Chi Cao Minh,Austen McDonald,Brian D. Carlstrom,JaeWoong Chung,Lance Hammond,Christos Kozyrakis,Kunle Olukotun	10.1145/1088149.1088176
+Facilitating the search for compositions of program transformations.	Albert Cohen 0001,Marc Sigler,Sylvain Girbal,Olivier Temam,David Parello,Nicolas Vasilache	10.1145/1088149.1088169
+Automatic thread distribution for nested parallelism in OpenMP.	Alejandro Duran,Marc González 0001,Julita Corbalán	10.1145/1088149.1088166
+Automatic generation and tuning of MPI collective communication routines.	Ahmad Faraj,Xin Yuan 0001	10.1145/1088149.1088202
+A performance-conserving approach for reducing peak power consumption in server systems.	Wesley M. Felter,Karthick Rajamani,Tom W. Keller,Cosmin Rusu	10.1145/1088149.1088188
+Cache oblivious stencil computations.	Matteo Frigo,Volker Strumpen	10.1145/1088149.1088197
+Low-overhead call path profiling of unmodified, optimized code.	Nathan Froyd,John M. Mellor-Crummey,Robert J. Fowler	10.1145/1088149.1088161
+An asymmetric clustered processor based on value content.	Rubén González 0001,Adrián Cristal,Miquel Pericàs,Mateo Valero,Alexander V. Veidenbaum	10.1145/1088149.1088158
+The architecture of the HP Superdome shared-memory multiprocessor.	Gary Gostin,Jean-Francois Collard,Kirby Collins	10.1145/1088149.1088181
+Generating new general compiler optimization settings.	Masayo Haneda,Peter M. W. Knijnenburg,Harry A. G. Wijshoff	10.1145/1088149.1088171
+A NUCA substrate for flexible CMP cache sharing.	Jaehyuk Huh,Changkyu Kim,Hazim Shafi,Lixin Zhang 0002,Doug Burger,Stephen W. Keckler	10.1145/1088149.1088154
+Power-aware resource allocation in high-end systems via online simulation.	Barry Lawson 0001,Evgenia Smirni	10.1145/1088149.1088179
+Tornado warning: the perils of selective replay in multithreaded processors.	Yongxiang Liu,Anahita Shayesteh,Gokhan Memik,Glenn Reinman	10.1145/1088149.1088157
+affinity-on-next-touch: increasing the performance of an industrial PDE solver on a cc-NUMA system.	Henrik Löf,Sverker Holmgren	10.1145/1088149.1088201
+Continuous Replica Placement schemes in distributed systems.	Thanasis Loukopoulos,Petros Lampsas,Ishfaq Ahmad	10.1145/1088149.1088187
+A hybrid hardware/software approach to efficiently determine cache coherence Bottlenecks.	Jaydeep Marathe,Frank Mueller 0001,Bronis R. de Supinski	10.1145/1088149.1088153
+The implications of working set analysis on supercomputing memory hierarchy design.	Richard C. Murphy,Arun Rodrigues,Peter M. Kogge,Keith D. Underwood	10.1145/1088149.1088193
+Characterization of L3 cache behavior of SPECjAppServer2002 and TPC-C.	Eriko Nurvitadhi,Nirut Chalainanont,Shih-Lien Lu	10.1145/1088149.1088152
+A heterogeneously segmented cache architecture for a packet forwarding engine.	Kaushik Rajan,Ramaswamy Govindarajan	10.1145/1088149.1088159
+Thread-Level Speculation on a CMP can be energy efficient.	Jose Renau,Karin Strauss,Luis Ceze,Wei Liu 0014,Smruti R. Sarangi,James Tuck,Josep Torrellas	10.1145/1088149.1088178
+Tasking with out-of-order spawn in TLS chip multiprocessors: microarchitecture and compilation.	Jose Renau,James Tuck,Wei Liu 0014,Luis Ceze,Karin Strauss,Josep Torrellas	10.1145/1088149.1088173
+Parallel sparse LU factorization on second-class message passing platforms.	Kai Shen	10.1145/1088149.1088196
+Lightweight reference affinity analysis.	Xipeng Shen,Yaoqing Gao,Chen Ding 0001,Roch Archambault	10.1145/1088149.1088167
+Disk layout optimization for reducing energy consumption.	Seung Woo Son 0001,Guangyu Chen,Mahmut T. Kandemir	10.1145/1088149.1088186
+System noise, OS clock ticks, and fine-grained parallel applications.	Dan Tsafrir,Yoav Etsion,Dror G. Feitelson,Scott Kirkpatrick	10.1145/1088149.1088190
+Another approach to backfilled jobs: applying virtual malleability to expired windows.	Gladys Utrera,Julita Corbalán,Jesús Labarta	10.1145/1088149.1088191
+Low-power, low-complexity instruction issue using compiler assistance.	Madhavi Gopal Valluri,Lizy Kurian John,Kathryn S. McKinley	10.1145/1088149.1088177
+Design of a next generation sampling service for large scale data analysis applications.	Huai Wang,Srinivasan Parthasarathy 0001,Amol Ghoting,Shirish Tatikonda,Gregory Buehrer,Tahsin M. Kurç,Joel H. Saltz	10.1145/1088149.1088162
+Improving the computational intensity of unstructured mesh applications.	Brian S. White,Sally A. McKee,Bronis R. de Supinski,Brian Miller 0001,Daniel J. Quinlan,Martin Schulz 0001	10.1145/1088149.1088195
+An integrated simdization framework using virtual vectors.	Peng Wu 0001,Alexandre E. Eichenberger,Amy Wang,Peng Zhao	10.1145/1088149.1088172
+Think globally, search locally.	Kamen Yotov,Keshav Pingali,Paul Stodghill	10.1145/1088149.1088168
+High performance support of parallel virtual file system (PVFS2) over Quadrics.	Weikuan Yu,Shuang Liang,Dhabaleswar K. Panda 0001	10.1145/1088149.1088192
+Fast branch misprediction recovery in out-of-order superscalar processors.	Peng Zhou,Soner Önder,Steve Carr 0001	10.1145/1088149.1088156
+What is worth learning from parallel workloads?: a user and session based analysis.	Julia Zilber,Ofer Amit,David Talby	10.1145/1088149.1088200
+Proceedings of the 19th Annual International Conference on Supercomputing, ICS 2005, Cambridge, Massachusetts, USA, June 20-22, 2005	Arvind,Larry Rudolph	10.1145/1088149

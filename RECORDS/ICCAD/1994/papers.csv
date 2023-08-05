@@ -1,0 +1,123 @@
+A new efficient approach to statistical delay modeling of CMOS digital combinational circuits.	Syed A. Aftab,M. A. Styblinski	10.1109/ICCAD.1994.629766
+Precomputation-based sequential logic optimization for low power.	Mazhar Alidina,José Monteiro 0001,Srinivas Devadas,Abhijit Ghosh,Marios C. Papaefthymiou	10.1109/ICCAD.1994.629747
+A general framework for vertex orderings, with applications to netlist clustering.	Charles J. Alpert,Andrew B. Kahng	10.1109/ICCAD.1994.629745
+Reuse of design objects in CAD frameworks.	Joachim Altmeyer,Stefan Ohnsorge,Bernd Schürmann	10.1109/ICCAD.1994.629908
+A new built-in self-test approach for digital-to-analog and analog-to-digital converters.	Karim Arabi,Bozena Kaminska,Janusz Rzeszut	10.1109/ICCAD.1994.629860
+Efficient breadth-first manipulation of binary decision diagrams.	Pranav Ashar,Matthew Cheong	10.1109/ICCAD.1994.629886
+A symbolic method to reduce power consumption of circuits containing false paths.	R. Iris Bahar,Gary D. Hachtel,Enrico Macii,Fabio Somenzi	10.1109/ICCAD.1994.629820
+Design exploration for high-performance pipelines.	Smita Bakshi,Daniel D. Gajski	10.1109/ICCAD.1994.629786
+Iterative algorithms for formal verification of embedded real-time systems.	Felice Balarin,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1994.629842
+Dataflow-driven memory allocation for multi-dimensional signal processing systems.	Florin Balasa,Francky Catthoor,Hugo De Man	10.1109/ICCAD.1994.629739
+Computing the entire active area/power consumption versus delay trade-off curve for gate sizing with a piecewise linear simulator.	Michel R. C. M. Berkelaar,Pim H. W. Buurman,Jochen A. G. Jess	10.1109/ICCAD.1994.629853
+Provably correct high-level timing analysis without path sensitization.	Subhrajit Bhattacharya,Sujit Dey,Franc Brglez	10.1109/ICCAD.1994.629905
+Fault dictionary compaction by output sequence removal.	Vamsi Boppana,W. Kent Fuchs	10.1109/ICCAD.1994.629878
+Incremental synthesis.	Daniel Brand,Anthony D. Drumm,Sandip Kundu,Prakash Narain	10.1109/ICCAD.1994.629736
+Optimization of critical paths in circuits with level-sensitive latches.	Timothy M. Burks,Karem A. Sakallah	10.1109/ICCAD.1994.629849
+Boolean constrained encoding: a new formulation and a case study.	Ney Laert Vilar Calazans	10.1109/ICCAD.1994.629899
+Perturb and simplify: multi-level boolean network optimizer.	Shih-Chieh Chang,Malgorzata Marek-Sadowska	10.1109/ICCAD.1994.629734
+A new global routing algorithm for FPGAs.	Yao-Wen Chang,Shashidhar Thakur,Kai Zhu 0001,D. F. Wong 0001	10.1109/ICCAD.1994.629817
+Layer assignment for high-performance multi-chip modules.	Kai-Yuan Chao,D. F. Wong 0001	10.1109/ICCAD.1994.629895
+RAFT191486: a novel program for rapid-fire test and diagnosis of digital logic for marginal delays and delay faults.	Abhijit Chatterjee,Jacob A. Abraham	10.1109/ICCAD.1994.629814
+RISA: accurate and efficient placement routability modeling.	Chih-Liang Eric Cheng	10.1109/ICCAD.1994.629897
+Random pattern testable logic synthesis.	Chen-Huan Chiang,Sandeep K. Gupta	10.1109/ICCAD.1994.629754
+Estimation of circuit activity considering signal correlations and simultaneous switching.	Tan-Li Chou,Kaushik Roy 0001,Sharat Prasad	10.1109/ICCAD.1994.629784
+Delay and area optimization for compact placement by gate resizing and relocation.	Weitong Chuang,Ibrahim N. Hajj	10.1109/ICCAD.1994.629757
+Skew sensitivity minimization of buffered clock tree.	Jae Chung,Chung-Kuan Cheng	10.1109/ICCAD.1994.629780
+Dynamic scheduling and synchronization synthesis of concurrent digital systems under system-level constraints.	Claudionor José Nunes Coelho Jr.,Giovanni De Micheli	10.1109/ICCAD.1994.629762
+Simultaneous driver and wire sizing for performance and power optimization.	Jason Cong,Cheng-Kok Koh	10.1109/ICCAD.1994.629767
+Multi-way VLSI circuit partitioning based on dual net representation.	Jason Cong,Wilburt Labio,Narayanan Shivakumar	10.1109/ICCAD.1994.629744
+Time-domain non-Monte Carlo noise simulation for nonlinear dynamic circuits with arbitrary excitations.	Alper Demir 0001,Edward W. Y. Liu,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1994.629882
+Analytical fault modeling and static test generation for analog ICs.	Giri Devarayanadurg,Mani Soma	10.1109/ICCAD.1994.629742
+Non-scan design-for-testability of RT-level data paths.	Sujit Dey,Miodrag Potkonjak	10.1109/ICCAD.1994.629889
+Fast timing simulation of transient faults in digital circuits.	Abhijit Dharchoudhury,Sung-Mo Kang,Hungse Cha,Janak H. Patel	10.1109/ICCAD.1994.629902
+Fast and accurate timing simulation with regionwise quadratic models of MOS I-V characteristics.	Abhijit Dharchoudhury,Sung-Mo Kang,K. H. (Kane) Kim,S. H. Lee	10.1109/ICCAD.1994.629764
+Optimization of hierarchical designs using partitioning and resynthesis.	Heinz-Josef Eikerling,Ralf Hunstock,Raul Camposano	10.1109/ICCAD.1994.629900
+Fast transient power and noise estimation for VLSI circuits.	Wolfgang T. Eisenmann,Helmut E. Graeb	10.1109/ICCAD.1994.629775
+Simultaneous functional-unit binding and floorplanning.	Yung-Ming Fang,D. F. Wong 0001	10.1109/ICCAD.1994.629787
+Timing uncertainty analysis for time-of-flight systems.	John R. Feehrer,Harry F. Jordan	10.1109/ICCAD.1994.629904
+Measurement and modeling of MOS transistor current mismatch in analog IC&apos;s.	Eric Felt,Amit Narayan,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1994.629779
+Testing of analog systems using behavioral models and optimal experimental design techniques.	Eric Felt,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1994.629894
+Efficient small-signal circuit analysis and sensitivity computations with the PVL algorithm.	Roland W. Freund,Peter Feldmann	10.1109/ICCAD.1994.629833
+Minimum crosstalk switchbox routing.	Tong Gao,C. L. Liu 0001	10.1109/ICCAD.1994.629884
+Fault detection and input stimulus determination for the testing of analog integrated circuits based on power-supply current monitoring.	Georges G. E. Gielen,Zhihua Wang,Willy M. C. Sansen	10.1109/ICCAD.1994.629866
+Test generation for bridging faults in CMOS ICs based on current monitoring versus signal propagation.	Uwe Gläser,Heinrich Theodor Vierhaus,M. Kley,A. Wiederhold	10.1109/ICCAD.1994.629740
+Design of heterogeneous ICs for mobile and personal communication systems.	Gert Goossens,Ivo Bolsens,Bill Lin 0001,Francky Catthoor	10.1109/ICCAD.1994.629872
+Optimal latch mapping and retiming within a tree.	Joel Grodstein,Eric Lehman,Heather Harkness,Hervé J. Touati,Bill Grundmann	10.1109/ICCAD.1994.629772
+Test pattern generation based on arithmetic operations.	Sanjay Gupta,Janusz Rajski,Jerzy Tyszer	10.1109/ICCAD.1994.629753
+Re-encoding sequential circuits to reduce power dissipation.	Gary D. Hachtel,Mariano Hermida de la Rica,Abelardo Pardo,Massimo Poncino,Fabio Somenzi	10.1109/ICCAD.1994.629746
+An efficient procedure for the synthesis of fast self-testable controller structures.	Sybille Hellebrand,Hans-Joachim Wunderlich	10.1109/ICCAD.1994.629752
+Adaptation of partitioning and high-level synthesis in hardware/software co-synthesis.	Jörg Henkel,Rolf Ernst,Ulrich Holtmann,Thomas Benner	10.1109/ICCAD.1994.629750
+Generating instruction sets and microarchitectures from applications.	Ing-Jer Huang,Alvin M. Despain	10.1109/ICCAD.1994.629826
+Multi-level network optimization for low power.	Sasan Iman,Massoud Pedram	10.1109/ICCAD.1994.629821
+Module selection and data format conversion for cost-optimal DSP synthesis.	Kazuhito Ito,Lori E. Lucke,Keshab K. Parhi	10.1109/ICCAD.1994.629788
+Automatic test program generation for pipelined processors.	Hiroaki Iwashita,Satoshi Kowatari,Tsuneo Nakata,Fumiyasu Hirose	10.1109/ICCAD.1994.629879
+A formal basis for design process planning and management.	Margarida F. Jacome,Stephen W. Director	10.1109/ICCAD.1994.629871
+A fast and memory-efficient diagnostic fault simulation for sequential circuits.	Jer-Min Jou,Shung-Chih Chen	10.1109/ICCAD.1994.629903
+Condition graphs for high-quality behavioral synthesis.	Hsiao-Ping Juan,Viraphol Chaiyakul,Daniel D. Gajski	10.1109/ICCAD.1994.629761
+Low-cost single-layer clock trees with exact zero Elmore delay skew.	Andrew B. Kahng,Chung-Wen Albert Tsao	10.1109/ICCAD.1994.629768
+Definition and solution of the memory packing problem for field-programmable systems.	David Karchmer,Jonathan Rose	10.1109/ICCAD.1994.629737
+Techniques for crosstalk avoidance in the physical design of high-performance digital systems.	Desmond Kirkpatrick,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1994.629885
+Integrating program transformations in the memory-based synthesis of image and video algorithms.	David J. Kolson,Alexandru Nicolau,Nikil D. Dutt	10.1109/ICCAD.1994.629738
+A redesign technique for combinational circuits based on gate reconnections.	Yuji Kukimoto,Masahiro Fujita,Robert K. Brayton	10.1109/ICCAD.1994.629888
+HyHOPE: a fast fault simulator with efficient simulation of hypertrophic faults.	Chen-Pin Kung,Chen-Shang Lin	10.1109/ICCAD.1994.629901
+Multi-level logic optimization by implication analysis.	Wolfgang Kunz,Prem R. Menon	10.1109/ICCAD.1994.629735
+A timing analysis algorithm for circuits with level-sensitive latches.	Jin-Fuw Lee,Donald T. Tang,C. K. Wong	10.1109/ICCAD.1994.629906
+Capturing time-of-flight delay for transient analysis based on scattering parameter macromodel.	Haifang Liao,Wayne Wei-Ming Dai	10.1109/ICCAD.1994.629836
+Register assignment through resource classification for ASIP microcode generation.	Clifford Liem,Trevor C. May,Pierre G. Paulin	10.1109/ICCAD.1994.629828
+Synthesis of hazard-free multi-level logic under multiple-input changes from binary decision diagrams.	Bill Lin 0001,Srinivas Devadas	10.1109/ICCAD.1994.629874
+Dynamical identification of critical paths for iterative gate sizing.	How-Rern Lin,TingTing Hwang	10.1109/ICCAD.1994.629855
+A cell-based power estimation in CMOS combinational circuits.	Jiing-Yuan Lin,Tai-Chien Liu,Wen-Zen Shen	10.1109/ICCAD.1994.629785
+Universal logic gate for FPGA design.	Chih-Chang Lin,Malgorzata Marek-Sadowska,Duane Gatlin	10.1109/ICCAD.1994.629760
+The reproducing placement problem with applications.	Wei-Liang Lin,Majid Sarrafzadeh,Chak-Kuen Wong	10.1109/ICCAD.1994.629896
+Synthesis of concurrent system interface modules with automatic protocol conversion generation.	Bill Lin 0001,Steven Vercauteren	10.1109/ICCAD.1994.629751
+Process-variation-tolerant clock skew minimization.	Shen Lin,C. K. Wong	10.1109/ICCAD.1994.629781
+Simulation of digital circuits in the presence of uncertainty.	Mark H. Linderman,Miriam Leeser	10.1109/ICCAD.1994.629774
+Improving over-the-cell channel routing in standard cell design.	Xiaolin Liu,Ioannis G. Tollis	10.1109/ICCAD.1994.629883
+Switching activity analysis considering spatiotemporal correlations.	Radu Marculescu,Diana Marculescu,Massoud Pedram	10.1109/ICCAD.1994.629783
+Compression-relaxation: a new approach to performance driven placement for regular architectures.	Anmol Mathur,C. L. Liu 0001	10.1109/ICCAD.1994.629755
+The Inversion Algorithm for digital simulation.	Peter M. Maurer	10.1109/ICCAD.1994.629776
+A statistical optimization-based approach for automated sizing of analog cells.	Fernando Medeiro,Francisco V. Fernández 0001,Rafael Domínguez-Castro,Ángel Rodríguez-Vázquez	10.1109/ICCAD.1994.629881
+RC interconnect synthesis-a moment fitting approach.	Noel Menezes,Satyamurthy Pullela,Florentin Dartu,Lawrence T. Pillage	10.1109/ICCAD.1994.629837
+Built-in self-test and fault diagnosis of fully differential analogue circuits.	Salvador Mir,Vladimir Kolarik,Marcelo Lubaszewski,C. Nielsen,Bernard Courtois	10.1109/ICCAD.1994.629857
+Unified complete MOSFET model for analysis of digital and analog circuits.	Mitiko Miura-Mattausch,Ute Feldmann,Alexander Rahm,Michael Bollu,Dominique Savignac	10.1109/ICCAD.1994.629777
+A new approach for factorizing FSM&apos;s.	Chunduri Rama Mohan,Partha Pratim Chakrabarti	10.1109/ICCAD.1994.629898
+Synthesis of manufacturable analog circuits.	Tamal Mukherjee,L. Richard Carley,Rob A. Rutenbar	10.1109/ICCAD.1994.629880
+Channel-driven global routing with consistent placement (extended abstract).	Shigetoshi Nakatake,Yoji Kajitani	10.1109/ICCAD.1994.629816
+Comprehensive lower bound estimation from behavioral descriptions.	Seong Yong Ohm,Fadi J. Kurdahi,Nikil D. Dutt	10.1109/ICCAD.1994.629763
+Selecting partial scan flip-flops for circuit partitioning.	Toshinobu Ono	10.1109/ICCAD.1994.629890
+A comprehensive fault macromodel for opamps.	Chen-Yang Pan,Kwang-Ting Cheng,Sandeep Gupta	10.1109/ICCAD.1994.629815
+Area minimization for hierarchical floorplans.	Peichen Pan,Weiping Shi,C. L. Liu 0001	10.1109/ICCAD.1994.629840
+Symmetry detection and dynamic variable ordering of decision diagrams.	Shipra Panda,Fabio Somenzi,Bernard Plessier	10.1109/ICCAD.1994.629887
+A precorrected-FFT method for capacitance extraction of complicated 3-D structures.	Joel R. Phillips,Jacob K. White 0001	10.1109/ICCAD.1994.629778
+Multi-level synthesis for safe replaceability.	Carl Pixley,Vigyan Singhal,Adnan Aziz,Robert K. Brayton	10.1109/ICCAD.1994.629841
+On testing delay faults in macro-based combinational circuits.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCAD.1994.629813
+On error correction in macro-based circuits.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCAD.1994.629877
+Algorithm selection: a quantitative computation-intensive optimization approach.	Miodrag Potkonjak,Jan M. Rabaey	10.1109/ICCAD.1994.629749
+Iterative [simulation-based genetics + deterministic techniques]= complete ATPG0.	Daniel G. Saab,Youssef Saab,Jacob A. Abraham	10.1109/ICCAD.1994.629741
+Towards support for design description languages in EDA framework.	Olav Schettler,Susanne Heymann	
+Embedded systems design for low energy consumption.	Michael A. Schuette,John R. Barr	10.1109/ICCAD.1994.629873
+On modeling top-down VLSI design.	Bernd Schürmann,Joachim Altmeyer,Martin Schütze	10.1109/ICCAD.1994.629870
+An object-oriented cell library manager.	Naresh Sehgal,C. Y. Roger Chen,John M. Acken	10.1109/ICCAD.1994.629907
+A specified delay accomplishing clock router using multiple layers.	Mitsuho Seki,Kenji Inoue,Kazuo Kato,Kouki Tsurusaki,Shin&apos;ichi Fukasawa,Hitoshi Sasaki,Mutsuhito Aizawa	10.1109/ICCAD.1994.629782
+Macromodeling of analog circuits for hierarchical circuit design.	Jianfeng Shao,Ramesh Harjani	10.1109/ICCAD.1994.629892
+Efficient implementation of retiming.	Narendra V. Shenoy,Richard L. Rudell	10.1109/ICCAD.1994.629770
+Decomposition methods for library binding of speed-independent asynchronous designs.	Polly Siegel,Giovanni De Micheli	10.1109/ICCAD.1994.629876
+Retiming with non-zero clock skew, variable register, and interconnect delay.	Tolga Soyata,Eby G. Friedman	10.1109/ICCAD.1994.629771
+A loosely coupled parallel algorithm for standard cell placement.	Wern-Jieh Sun,Carl Sechen	10.1109/ICCAD.1994.629756
+Incremental formal design verification.	Gitanjali Swamy,Robert K. Brayton	10.1109/ICCAD.1994.629843
+Adaptive cut line selection in min-cut placement for large scale sea-of-gates arrays.	Kazuhiro Takahashi,Kazuo Nakajima,Masayuki Terai,Koji Sato	10.1109/ICCAD.1994.629838
+LP based cell selection with constraints of timing, area, and power consumption.	Yutaka Tamiya,Yusuke Matsunaga,Masahiro Fujita	10.1109/ICCAD.1994.629822
+Clock period constrained minimal buffer insertion in clock trees.	Gustavo E. Téllez,Majid Sarrafzadeh	
+Folding a stack of equal width components.	Venkat Thanvantri,Sartaj K. Sahni	10.1109/ICCAD.1994.629839
+Power analysis of embedded software: a first step towards software power minimization.	Vivek Tiwari,Sharad Malik,Andrew Wolfe	10.1109/ICCAD.1994.629825
+A simultaneous technology mapping, placement, and global routing algorithm for field-programmable gate arrays.	Nozomu Togawa,Masao Sato,Tatsuo Ohtsuki	10.1109/ICCAD.1994.629759
+Logic synthesis techniques for reduced area implementation of multilevel circuits with concurrent error detection.	Nur A. Touba,Edward J. McCluskey	10.1109/ICCAD.1994.629891
+Low power state assignment targeting two-and multi-level logic implementations.	Chi-Ying Tsui,Massoud Pedram,Chih-Ang Chen,Alvin M. Despain	10.1109/ICCAD.1994.629748
+An enhanced flow model for constraint handling in hierarchical multi-view design environments.	Pieter van der Wolf,K. Olav ten Bosch,Alfred van der Hoeven	10.1109/ICCAD.1994.629868
+On the NP-completeness of regular 2-D FPGA routing architectures and a novel solution.	Yu-Liang Wu,Douglas Chang	10.1109/ICCAD.1994.629819
+Efficient network flow based min-cut balanced partitioning.	Honghua Yang,D. F. Wong 0001	10.1109/ICCAD.1994.629743
+Edge-map: optimal performance driven technology mapping for iterative LUT based FPGA designs.	Hannah Honghua Yang,D. F. Wong 0001	10.1109/ICCAD.1994.629758
+VLSI timing simulation with selective dynamic regionization.	Meng-Lin Yu,Bryan D. Ackland	10.1109/ICCAD.1994.629765
+Approximate symbolic analysis of large analog integrated circuits.	Qicheng Yu,Carl Sechen	10.1109/ICCAD.1994.629893
+Performance-driven synthesis of asynchronous controllers.	Kenneth Y. Yun,Bill Lin 0001,David L. Dill,Srinivas Devadas	10.1109/ICCAD.1994.629875
+Proceedings of the 1994 IEEE/ACM International Conference on Computer-Aided Design, ICCAD 1994, San Jose, California, USA, November 6-10, 1994	Jochen A. G. Jess,Richard L. Rudell	

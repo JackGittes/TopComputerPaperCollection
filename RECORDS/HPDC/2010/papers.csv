@@ -1,0 +1,107 @@
+Thermal aware server provisioning and workload distribution for internet data centers.	Zahra Abbasi,Georgios Varsamopoulos,Sandeep K. S. Gupta	10.1145/1851476.1851493
+Data centric highly parallel debugging.	David Abramson 0001,Minh Ngoc Dinh,Donny Kurniawan,Bob Moench,Luiz De Rose	10.1145/1851476.1851491
+MPIPairwiseStatSig: parallel pairwise statistical significance estimation of local sequence alignment.	Ankit Agrawal 0001,Sanchit Misra,Daniel Honbo,Alok N. Choudhary	10.1145/1851476.1851545
+Providing a cloud network infrastructure on a supercomputer.	Jonathan Appavoo,Amos Waterland,Dilma Da Silva,Volkmar Uhlig,Bryan S. Rosenburg,Eric Van Hensbergen,Jan Stoess,Robert W. Wisniewski,Udo Steinberg	10.1145/1851476.1851534
+Dimension reduction and visualization of large high-dimensional data via interpolation.	Seung-Hee Bae,Jong Youl Choi,Judy Qiu,Geoffrey C. Fox	10.1145/1851476.1851501
+Optimal enterprise data architecture using publish and subscribe.	Carlo Batini,Simone Grega,Andrea Maurino	10.1145/1851476.1851555
+Design, implementation and use of a simulation data archive for coastal science.	Harsha Bhagawaty,Lei Jiang 0010,Sreekanth Pothanis,Gabrielle Allen,Nathan Brener,Tevfik Kosar	10.1145/1851476.1851572
+ROARS: a scalable repository for data intensive scientific computing.	Hoang Bui,Peter Bui,Patrick J. Flynn,Douglas Thain	10.1145/1851476.1851587
+Towards long term data quality in a large scale biometrics experiment.	Hoang Bui,Diane Wright,Clarence Helm,Rachel Witty,Patrick J. Flynn,Douglas Thain	10.1145/1851476.1851559
+Weaver: integrating distributed computing abstractions into scientific workflows using Python.	Peter Bui,Li Yu,Douglas Thain	10.1145/1851476.1851570
+Biocompute: towards a collaborative workspace for data intensive bio-science.	Rory Carmichael,Patrick Braga-Henebry,Douglas Thain,Scott J. Emrich	10.1145/1851476.1851547
+Software architecture definition for on-demand cloud provisioning.	Clovis Chapman,Wolfgang Emmerich,Fermín Galán Márquez,Stuart Clayman,Alex Galis	10.1145/1851476.1851485
+High occupancy resource allocation for grid and cloud systems, a study with DRIVE.	Kyle Chard,Kris Bubendorfer,Peter Komisarczuk	10.1145/1851476.1851486
+Improving host swapping using adaptive prefetching and paging notifier.	Wenzhi Chen,Huijun Chen,Wei Huang,Xiaoqin Chen,Dapeng Huang	10.1145/1851476.1851515
+A layout-aware optimization strategy for collective I/O.	Yong Chen 0001,Huaiming Song,Rajeev Thakur,Xian-He Sun	10.1145/1851476.1851530
+Browsing large scale cheminformatics data with dimension reduction.	Jong Youl Choi,Seung-Hee Bae,Judy Qiu,Geoffrey C. Fox,Bin Chen 0002,David J. Wild 0001	10.1145/1851476.1851549
+Data parallelism in bioinformatics workflows using Hydra.	Fábio Coutinho,Eduardo S. Ogasawara,Daniel de Oliveira 0001,Vanessa Braganholo,Alexandre A. B. Lima,Alberto M. R. Dávila,Marta Mattoso	10.1145/1851476.1851550
+CUDA-based triangulations of convolution molecular surfaces.	Sérgio Dias,Kuldeep Bora,Abel João Padrão Gomes	10.1145/1851476.1851553
+DataSpaces: an interaction and coordination framework for coupled simulation workflows.	Ciprian Docan,Manish Parashar,Scott Klasky	10.1145/1851476.1851481
+Distributing the power of OLAP.	Katerina Doka,Dimitrios Tsoumakos,Nectarios Koziris	10.1145/1851476.1851521
+Fast and scalable simulation of volunteer computing systems using SimGrid.	Bruno Donassolo,Henri Casanova,Arnaud Legrand,Pedro Velho	10.1145/1851476.1851565
+Highly available component sharing in large-scale multi-tenant cloud systems.	Juan Du 0006,Xiaohui Gu,Douglas S. Reeves	10.1145/1851476.1851487
+ParaTrac: a fine-grained profiler for data-intensive workflows.	Nan Dun,Kenjiro Taura,Akinori Yonezawa	10.1145/1851476.1851482
+ParaText: scalable text modeling and analysis.	Daniel M. Dunlavy,Timothy M. Shead,Eric T. Stanton	10.1145/1851476.1851526
+Twister: a runtime for iterative MapReduce.	Jaliya Ekanayake,Hui Li,Bingjing Zhang,Thilina Gunarathne,Seung-Hee Bae,Judy Qiu,Geoffrey C. Fox	10.1145/1851476.1851593
+DiscFinder: a data-intensive scalable cluster finder for astrophysics.	Bin Fu,Kai Ren 0001,Julio César López-Hernández,Eugene Fink,Garth A. Gibson	10.1145/1851476.1851527
+The development of QC standards for ARM data products.	Krista Gaustad,Connor Flynn,Sherman Beus,Brian Ermold	10.1145/1851476.1851556
+Mendel: efficiently verifying the lineage of data modified in multiple trust domains.	Ashish Gehani,Minyoung Kim	10.1145/1851476.1851503
+Efficient querying of distributed provenance stores.	Ashish Gehani,Minyoung Kim,Tanu Malik	10.1145/1851476.1851567
+A GPU accelerated storage system.	Abdullah Gharaibeh,Samer Al-Kiswany,Sathish Gopalakrishnan,Matei Ripeanu	10.1145/1851476.1851497
+An overview of the Open Science Data Cloud.	Robert L. Grossman,Yunhong Gu,Joe Mambretti,Michal Sabala,Alexander S. Szalay,Kevin P. White	10.1145/1851476.1851533
+DistriBit: a distributed dynamic binary translator system for thin client computing.	Haibing Guan,Yindong Yang,Kai Chen 0006,Yi Ge,Liang Liu 0010,Ying Chen 0004	10.1145/1851476.1851577
+Cloud computing paradigms for pleasingly parallel biomedical applications.	Thilina Gunarathne,Tak-Lon Wu,Judy Qiu,Geoffrey C. Fox	10.1145/1851476.1851544
+A global address space framework for irregular applications.	Kentaro Hara,Kenjiro Taura	10.1145/1851476.1851514
+Design and evaluation of a self-healing Kepler for scientific workflows.	Arjun Hary,Ali Akoglu,Youssif B. Al-Nashif,Salim Hariri,Darrel Jenerette	10.1145/1851476.1851525
+Case study for running HPC applications in public clouds.	Qiming He,Shujia Zhou,Ben Kobler,Daniel C. Duffy,Tom McGlynn	10.1145/1851476.1851535
+A distributed workflow for an astrophysical OpenMP application: using the data capacitor over WAN to enhance productivity.	Robert Henschel,Scott Michael,Stephen C. Simms	10.1145/1851476.1851571
+Cluster-wide context switch of virtualized jobs.	Fabien Hermenier,Adrien Lebre,Jean-Marc Menaud	10.1145/1851476.1851574
+Pools of virtual boxes: building campus grids with virtual machines.	David J. Herzfeld,Lars E. Olson 0002,Craig A. Struble	10.1145/1851476.1851575
+Modeling sequence and function similarity between proteins for protein functional annotation.	Roger Higdon,Brenton Louie,Eugene Kolker	10.1145/1851476.1851548
+Early observations on the performance of Windows Azure.	Zach Hill,Jie Li,Ming Mao,Arkaitz Ruiz-Alvarez,Marty Humphrey	10.1145/1851476.1851532
+Text mining for bone biology.	Andrew Hoblitzell,Snehasis Mukhopadhyay,Qian You,Shiaofen Fang,Yuni Xia,Joseph Bidwell	10.1145/1851476.1851552
+LogGOPSim: simulating large-scale applications in the LogGOPS model.	Torsten Hoefler,Timo Schneider,Andrew Lumsdaine	10.1145/1851476.1851564
+I/O scheduling model of virtual machine based on multi-core dynamic partitioning.	Yanyan Hu,Xiang Long,Jiong Zhang,Jun He,Li Xia	10.1145/1851476.1851494
+MR-scope: a real-time tracing tool for MapReduce.	Dachuan Huang,Xuanhua Shi,Shadi Ibrahim,Lu Lu 0006,Hongzhang Liu,Song Wu 0001,Hai Jin 0001	10.1145/1851476.1851598
+Authorization within grid-computing using certificateless identity-based proxy signature.	Mohamed Amin Jabri,Satoshi Matsuoka	10.1145/1851476.1851513
+Seeking supernovae in the clouds: a performance study.	Keith R. Jackson,Lavanya Ramakrishnan,Karl J. Runge,Rollin C. Thomas	10.1145/1851476.1851538
+Parallel processing of data from very large-scale wireless sensor networks.	Christine Jardak,Janne Riihijärvi,Frank Oldewurtel,Petri Mähönen	10.1145/1851476.1851590
+Impact of sub-optimal checkpoint intervals on application efficiency in computational clusters.	William M. Jones,John T. Daly,Nathan DeBardeleben	10.1145/1851476.1851509
+Storage deduplication for Virtual Ad Hoc Network testbed by File-level Block Sharing.	Chang-Han Jong,Cho-Yu Jason Chiang,Taichuan Lu,Alexander Poylisher,Constantin Serban	10.1145/1851476.1851579
+Scalability of communicators and groups in MPI.	Humaira Kamal,Seyed M. Mirtaheri,Alan Wagner	10.1145/1851476.1851507
+Computation mapping for multi-level storage cache hierarchies.	Mahmut T. Kandemir,Sai Prashanth Muralidhara,Mustafa Karaköy,Seung Woo Son 0001	10.1145/1851476.1851498
+Lightning: self-adaptive, energy-conserving, multi-zoned, commodity green cloud storage system.	Rini T. Kaushik,Ludmila Cherkasova,Roy H. Campbell,Klara Nahrstedt	10.1145/1851476.1851523
+SAGA-based file access application over multi-filesystem middleware.	Yutaka Kawai,Go Iwai,Takashi Sasaki,Yoshiyuki Watase	10.1145/1851476.1851568
+Lessons learned from moving earth system grid data sets over a 20 Gbps wide-area network.	Rajkumar Kettimuthu,Alex Sim,Dan Gunter,Bill Allcock,Peer-Timo Bremer,John Bresnahan,Andrew Cherry,Lisa Childers,Eli Dart,Ian T. Foster,Kevin Harms,Jason Hick,Jason Lee 0001,Michael Link,Jeff Long,Keith Miller,Vijaya Natarajan,Valerio Pascucci,Ken Raffenetti,David Ressman,Dean N. Williams,Loren Wilson,Linda Winkler	10.1145/1851476.1851519
+Pairwise Element Computation with MapReduce.	Tim Kiefer,Peter Benjamin Volk,Wolfgang Lehner	10.1145/1851476.1851595
+Exploring the RNA folding energy landscape using scalable distributed cyberinfrastructure.	Joohyun Kim 0001,Wei Huang,Sharath Maddineni,Fareed Aboul-Ela,Shantenu Jha	10.1145/1851476.1851546
+Exploring application and infrastructure adaptation on hybrid grid-cloud infrastructure.	Hyunjoo Kim,Yaakoub El Khamra,Shantenu Jha,Manish Parashar	10.1145/1851476.1851536
+A hybrid Markov chain model for workload on parallel computers.	Anne Krampe,Joachim Lepping,Wiebke Sieben	10.1145/1851476.1851563
+A perspective on scientific cloud computing.	Craig A. Lee	10.1145/1851476.1851542
+Pydoop: a Python MapReduce and HDFS API for Hadoop.	Simone Leo,Gianluigi Zanetti	10.1145/1851476.1851594
+Towards optimising distributed data streaming graphs using parallel streams.	Chee Sun Liew,Malcolm P. Atkinson 0001,Jano I. van Hemert,Liangxiu Han	10.1145/1851476.1851583
+SoftPower: fine-grain power estimations using performance counters.	Min Yeol Lim,Allan Porterfield,Robert J. Fowler	10.1145/1851476.1851517
+MOON: MapReduce On Opportunistic eNvironments.	Heshan Lin,Xiaosong Ma,Jeremy S. Archuleta,Wu-chun Feng,Mark K. Gardner,Zhe Zhang 0005	10.1145/1851476.1851489
+OpenGL application live migration with GPU acceleration in personal cloud.	Yunbiao Lin,Wei Wang,Kyle Gui	10.1145/1851476.1851510
+GPU-based parallel householder bidiagonalization.	Fangbin Liu,Frank J. Seinstra	10.1145/1851476.1851512
+A data transfer framework for large-scale science experiments.	Wantao Liu,Brian Tieman,Rajkumar Kettimuthu,Ian T. Foster	10.1145/1851476.1851582
+AzureBlast: a case study of developing science applications on the cloud.	Wei Lu,Jared Jackson,Roger S. Barga	10.1145/1851476.1851537
+A quality screening service for remote sensing data.	Christopher Lynnes,Edward Olsen,Peter Fox 0001,Bruce Vollmer,Robert E. Wolfe,Shahin Samadi	10.1145/1851476.1851557
+Characterising a grid site&apos;s traffic.	Tiejun Ma,Yehia El-khatib,Michael Mackay 0001,Christopher Edwards	10.1145/1851476.1851581
+New caching techniques for web search engines.	Mauricio Marín,Veronica Gil-Costa,Carlos Gómez-Pantoja	10.1145/1851476.1851502
+Detouring and replication for fast and reliable internet-scale stream processing.	Christopher McConnell,Fan Ping,Jeong-Hyon Hwang	10.1145/1851476.1851584
+Improving the Hadoop map/reduce framework to support concurrent appends through the BlobSeer BLOB management system.	Diana Moise,Gabriel Antoniu,Luc Bougé	10.1145/1851476.1851596
+A practical way to extend shared memory support beyond a motherboard at low cost.	Héctor Montaner,Federico Silla,José Duato	10.1145/1851476.1851495
+Simultaneous performance exploration and optimized search with volunteer computing.	L. Richard Moore,Matthew Kopala,Thomas Mielke,Michael Krusmark,Kevin A. Gluck	10.1145/1851476.1851518
+Monitoring data quality in Kepler.	Aisa Na&apos;im,Daniel Crawl,Maria Indrawan,Ilkay Altintas,Shulei Sun	10.1145/1851476.1851558
+Parallelizing multiple group-by query in share-nothing environment: a MapReduce study case.	Jie Pan,Yann Le Biannic,Frédéric Magoulès	10.1145/1851476.1851599
+Cashing in on hints for better prefetching and caching in PVFS and MPI-IO.	Christina M. Patrick,Mahmut T. Kandemir,Mustafa Karaköy,Seung Woo Son 0001,Alok N. Choudhary	10.1145/1851476.1851499
+Improving MPI communication via data type fission.	Ben Perry,D. Martin Swany	10.1145/1851476.1851528
+Optimization of a parallel permutation testing function for the SPRINT R package.	Savvas Petrou,Terence M. Sloan,Muriel Mewissen,Thorsten Forster,Michal Piotrowski,Bartosz Dobrzelecki	10.1145/1851476.1851551
+A service composition framework for market-oriented high performance computing cloud.	Tran Vu Pham,Hani Jamjoom,Kirk E. Jordan,Zon-Yin Shae	10.1145/1851476.1851511
+Netlag: a performance evaluation tool for massively multi-user networked applications.	Alexander Ploss,Dominik Meiländer,Philipp Möllers,Frank Glinka,Sergei Gorlatch	10.1145/1851476.1851561
+Horizon: efficient deadline-driven disk I/O management for distributed storage systems.	Anna Povzner,Darren Sawyer,Scott A. Brandt	10.1145/1851476.1851478
+XCo: explicit coordination to prevent network fabric congestion in cloud computing cluster platforms.	Vijay Shankar Rajanna,Smit Shah 0002,Anand Jahagirdar,Christopher Lemoine,Kartik Gopalan	10.1145/1851476.1851506
+Very large pattern databases for heuristic search.	Alexander Reinefeld,Thorsten Schütt,Robert Maier	10.1145/1851476.1851592
+Janus: a cross-layer soft real-time architecture for virtualization.	Raoul Rivas,Md. Ahsan Arefin,Klara Nahrstedt	10.1145/1851476.1851576
+Towards energy-aware autonomic provisioning for virtualized environments.	Ivan Rodero,Juan Jaramillo,Andres Quiroz,Manish Parashar,Francesc Guim 0001	10.1145/1851476.1851520
+Toward high performance computing in unconventional computing environments.	Brent Rood,Nathan Gnanasambandam,Michael J. Lewis,Naveen Sharma	10.1145/1851476.1851569
+MRAP: a novel MapReduce-based framework to support HPC analytics applications with access patterns.	Saba Sehrish,Grant Mackey,Jun Wang 0001,John Bent	10.1145/1851476.1851490
+File-access patterns of data-intensive workflow applications and their implications to distributed filesystems.	Takeshi Shibata,SungJun Choi,Kenjiro Taura	10.1145/1851476.1851585
+Comparison of resource platform selection approaches for scientific workflows.	Yogesh L. Simmhan,Lavanya Ramakrishnan	10.1145/1851476.1851541
+Morco: middleware framework for long-running multi-component applications on batch grids.	Sundari M. Sivagama,Sathish S. Vadhiyar,Ravi S. Nanjundiah	10.1145/1851476.1851522
+Performance analysis of dynamic workflow scheduling in multicluster grids.	Omer Ozan Sonmez,Nezih Yigitbasi,Saeid Abrishami,Alexandru Iosup,Dick H. J. Epema	10.1145/1851476.1851483
+Scaling virtual organization clusters over a wide area network using the Kestrel workload management system.	Lance Stout,Michael Fenn,Michael A. Murphy,Sebastien Goasguen	10.1145/1851476.1851578
+Multi-GPU volume rendering using MapReduce.	Jeff A. Stuart,Cheng-Kai Chen,Kwan-Liu Ma,John D. Owens	10.1145/1851476.1851597
+Pwrake: a parallel and distributed flexible workflow management tool for wide-area data intensive computing.	Masahiro Tanaka,Osamu Tatebe	10.1145/1851476.1851529
+Run-time optimizations for replicated dataflows on heterogeneous environments.	George Teodoro,Timothy D. R. Hartley,Ümit V. Çatalyürek,Renato Ferreira 0001	10.1145/1851476.1851479
+Migrating a (large) science database to the cloud.	Ani Thakar,Alexander S. Szalay	10.1145/1851476.1851539
+Reshaping text data for efficient processing on Amazon EC2.	Gabriela Turcu,Ian T. Foster,Svetlozar Nestorov	10.1145/1851476.1851540
+Massive Semantic Web data compression with MapReduce.	Jacopo Urbani,Jason Maassen,Henri E. Bal	10.1145/1851476.1851591
+Early defense: enabling attribute-based authorization in Grid firewalls.	Jan Wiebelitz,Michael Brenner 0003,Christopher Kunz,Matthew Smith 0001	10.1145/1851476.1851524
+Versioning for workflow evolution.	Eran Chinthaka Withana,Beth Plale,Roger S. Barga,Nelson Araujo	10.1145/1851476.1851586
+BTWorld: towards observing the global BitTorrent file-sharing network.	Maciej Wojciechowski,Mihai Capota,Johan A. Pouwelse,Alexandru Iosup	10.1145/1851476.1851562
+GatorShare: a file system framework for high-throughput data management.	Jiangyan Xu,Renato J. O. Figueiredo	10.1145/1851476.1851588
+PV-EASY: a strict fairness guaranteed and prediction enabled scheduler in parallel job scheduling.	Yulai Yuan,Guangwen Yang,Yongwei Wu,Weimin Zheng	10.1145/1851476.1851505
+Resource provisioning with budget constraints for adaptive applications in cloud environments.	Qian Zhu 0001,Gagan Agrawal	10.1145/1851476.1851516
+Proceedings of the 19th ACM International Symposium on High Performance Distributed Computing, HPDC 2010, Chicago, Illinois, USA, June 21-25, 2010	Salim Hariri,Kate Keahey	

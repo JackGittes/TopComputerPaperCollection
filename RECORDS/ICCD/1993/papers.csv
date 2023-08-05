@@ -1,0 +1,114 @@
+A Framework for Specifying and Designing Pipelines.	Mark D. Aagaard,Miriam Leeser	10.1109/ICCD.1993.393317
+An Algorithm for Exact Bounds on the Time Separation of Events in Concurrent Systems.	Tod Amon,Henrik Hulgaard,Steven M. Burns,Gaetano Borriello	10.1109/ICCD.1993.393387
+Speculative Execution and Reducing Branch Penalty in a Parallel Issue Machine.	Hideki Ando,Chikako Nakanishi,Hirohisa Machida,Tetsuya Hara,Satoru Kishida,Masao Nakaya	10.1109/ICCD.1993.393396
+The Splash 2 Processor and Applications.	Jeffrey M. Arnold,Duncan A. Buell,Dzung T. Hoang,Daniel V. Pryor,Nabeel Shirazi,Mark R. Thistle	10.1109/ICCD.1993.393329
+A Comparison of Synchronous and Asynchronous FSMD Designs.	Richard Auletta,Robert B. Reese,Cherrice Traver	10.1109/ICCD.1993.393385
+Synthesis of Sequential Circuits for Easy Testability Through Performance-Oriented Parallel Partial Scan.	Sandeep Bhatia,Niraj K. Jha	10.1109/ICCD.1993.393390
+Fidelity and Near-Optimality of Elmore-Based Routing Constructions.	Kenneth D. Boese,Andrew B. Kahng,Bernard A. McCoy,Gabriel Robins	10.1109/ICCD.1993.393400
+A Split Data Cache for Superscalar Processors.	Rodney Boleyn,James Debardelaben,Vivek Tiwari,Andrew Wolfe	10.1109/ICCD.1993.393409
+System Factorization in Codesign: A Case Study of the Use of Formal Techniques to Achieve Hardware-Software Decomposition.	Bhaskar Bose,M. Esen Tuna,Steven D. Johnson	10.1109/ICCD.1993.393334
+The PowerPC 601 Design Methodology.	Timothy B. Brodnax,Mike Schiffli,Floyd Watson	10.1109/ICCD.1993.393372
+Symbolic Analysis Methods for Masks, Circuits, and Systems.	Randal E. Bryant	10.1109/ICCD.1993.393414
+Functional Fault Models and Gate Level Coverage for Sequential Architectures.	Giacomo Buonanno,Franco Fummi,Donatella Sciuto	10.1109/ICCD.1993.393312
+The Spring Scheduling Co-Processor: A Scheduling Accelerator.	Wayne P. Burleson,Jason Ko,Douglas Niehaus,Krithi Ramamritham,John A. Stankovic,Gary Wallace,Charles C. Weems	10.1109/ICCD.1993.393392
+Exploiting Cofactoring for Efficient FSM Symbolic Traversal Based on the Transition Relation.	Gianpiero Cabodi,Paolo Camurati	10.1109/ICCD.1993.393362
+A Logic-Level Model for alpha-Paricle Hits in CMOS Circuits.	Hungse Cha,Janak H. Patel	10.1109/ICCD.1993.393319
+Evaluation of an Object-Caching Coprocessor Design for Object-Oriented Systems.	J. Morris Chang,Edward F. Gehringer	10.1109/ICCD.1993.393393
+Cluster-Oriented Scheduling in Pipelined Data Path Syntesis.	Ching-Tang Chang,Kenneth Rose,Robert A. Walker 0001	10.1109/ICCD.1993.393349
+Concurrent Error Detection in Nonlinear Digital Circuits with Applications to Adaptive Filters.	Abhijit Chatterjee,Rabindra K. Roy	10.1109/ICCD.1993.393305
+The Structure of Assignment, Precedence, and Resource Constraints in the ILP Approach to the Scheduling Problem.	Samit Chaudhuri,Robert A. Walker 0001,John Mitchell	10.1109/ICCD.1993.393410
+A Path Sensitization Approach to Area Reduction.	Hsi-Chuan Chen,Siu-Wing Cheng,Yaun-Chung Hsu,David Hung-Chang Du	10.1109/ICCD.1993.393402
+Hardware Verification Using Symbolic State Transition Graphs.	Pinhong Chen,Jyuo-Min Shyu,Liang-Gee Chen	10.1109/ICCD.1993.393406
+A Partial Scan Cost Estimation Method at the System Level.	Scott Chiu,Christos A. Papachristou	10.1109/ICCD.1993.393391
+A Vector Memory System Based on Wafer-Scale Integrated Memory Arrays.	Tzi-cker Chiueh	10.1109/ICCD.1993.393365
+Trail: A Track-Based Logging Disk Architecture for Zero-Overhead Writes.	Tzi-cker Chiueh	10.1109/ICCD.1993.393356
+Subterranean: A 600 Mbit/Sec Cryptographic VLSI Chip.	Luc J. M. Claesen,Joan Daemen,Mark Genoe,G. Peeters	10.1109/ICCD.1993.393304
+Determining Cost-Effective Multiple Issue Processor Designs.	Thomas M. Conte,William H. Mangione-Smith	10.1109/ICCD.1993.393398
+System-Level Specification of Instruction Sets.	Todd A. Cook,Paul D. Franzon,Edwin A. Harcourt,Thomas K. Miller III	10.1109/ICCD.1993.393316
+ACES: A Transient Simulation Strategy for Integrated Circuits.	Anirudh Devgan,Ronald A. Rohrer	10.1109/ICCD.1993.393353
+A Systolic Architecture for High Speed Pipelined Memories.	Alex G. Dickinson,C. J. Nicol	10.1109/ICCD.1993.393343
+Architecture-Compatible Code Boosting for Performance Enhancement of the IBM RS/6000.	Trung A. Diep,Mikko H. Lipasti,John Paul Shen	10.1109/ICCD.1993.393399
+Economics in Design and Test.	Chryssa Dislis,Anthony P. Ambler,I. D. Dear,J. H. Dick	10.1109/ICCD.1993.393347
+An Adaptive Technique for Dynamic Rollback in Concurrent Event-Driven Fault Simulation.	Laura Farinetti,Pier Luca Montessoro	10.1109/ICCD.1993.393311
+Synthesis of Controllers from Interval Temporal Logic Specification.	Masahiro Fujita,Shinji Kono	10.1109/ICCD.1993.393373
+A 400 MHz Wave-Pipelined 8 X 8-Bit Multiplier in CMOS Technology.	Debabrata Ghosh,S. K. Nandy 0001	10.1109/ICCD.1993.393381
+Fast CRC Calculation.	René J. Glaise,X. Jacquart	10.1109/ICCD.1993.393306
+A Note About the Correction Cycle of High Radix Booth&apos;s Multiplication.	Gong Guo,Mohammad Ashtijou	10.1109/ICCD.1993.393368
+Phi-Test: Perfect Hashed Index Test for Test Response Validation.	Rajiv Gupta 0004	10.1109/ICCD.1993.393309
+Partitioning and Surmounting the Software-Hardware Abstraction Gap in an ASIC Design Project.	Klaus ten Hagen,Heinrich Meyr	10.1109/ICCD.1993.393333
+Complex Gate Performance Improvement by Jog Insertion into Transistor Gates.	Ronald D. Hindmarsh	10.1109/ICCD.1993.393318
+Speculative Computation for Coprocessor Synthesis.	Ulrich Holtmann,Rolf Ernst	10.1109/ICCD.1993.393394
+Lower Bounds on the Iteration Time and the Number of Resources for Functional Pipelined Data Flow Graphs.	Yuan Hu,Ahmed Ghouse,Bradley S. Carlson	10.1109/ICCD.1993.393411
+Formal Semantics of VHDL for Verification of Circuit Designs.	Xin Hua,Hantao Zhang 0001	10.1109/ICCD.1993.393336
+Efficient Verification of Symmetric Concurrent Systems.	C. Norris Ip,David L. Dill	10.1109/ICCD.1993.393375
+Beyond Superscalar Using FPGAs.	Christian Iseli,Eduardo Sanchez	10.1109/ICCD.1993.393328
+A Novel Clock Distribution System for CMOS VLSI.	Kenichi Ishibashi,Takehisa Hayashi,Toshio Doi,Noboru Masuda,Akira Yamagiwa,Toshihiro Okabe	10.1109/ICCD.1993.393364
+Hierarchical Constraint Solving in the Parametric Form with Applications to Efficient Symbolic Simulation Based Verification.	Prabhat Jain,Ganesh Gopalakrishnan	10.1109/ICCD.1993.393361
+A Comparative Evaluation of Adders Based on Performance and Testability.	Rathish Jayabharathi,Thomas Thomas,Earl E. Swartzlander Jr.	10.1109/ICCD.1993.393359
+Library-Adaptively Integrated Data Path Synthesis for DSP Systems.	Jer-Min Jou,Shiann-Rong Kuang	10.1109/ICCD.1993.393348
+Statistical Timing Optimization of Combinatorial Logic Circuits.	Horng-Fei Jyu,Sharad Malik	10.1109/ICCD.1993.393401
+Pseudoexhaustive BIST for Sequential Circuits.	Dimitrios Kagaris,Spyros Tragoudas,Dinesh Bhatia	10.1109/ICCD.1993.393322
+Hardware Self-Tuning and Circuit Performance Monitoring.	Ted Kehl	10.1109/ICCD.1993.393383
+Newton: Performance Improvement Through Comparative Analysis.	Lyle D. Kipp,David J. Kuck	10.1109/ICCD.1993.393315
+A Recursive Technique for Computing Lower-Bound Performance of Schedules.	Michel Langevin,Eduard Cerny	10.1109/ICCD.1993.393412
+Influence of Error Correlations on the Signature Analysis Aliasing.	Régis Leveugle,X. Delord,Gabriele Saucier	10.1109/ICCD.1993.393310
+A Field Programmable Accelerator for Compiled-Code Applications.	David M. Lewis,Marcus van Ierssel,Daniel H. Wong	10.1109/ICCD.1993.393327
+Strongly NP-Hard Discrete Gate Sizing Problems.	Wing Ning Li	10.1109/ICCD.1993.393332
+Computer-Aided Redesign of VLSI Circuits for Hot-Carrier Reliability.	Ping-Chung Li,Ibrahim N. Hajj	10.1109/ICCD.1993.393320
+Reducing the Cost of Test Pattern Generation by Information Reusing.	Weidong Li,Carl McCrosky,Mostafa I. H. Abd-El-Barr	10.1109/ICCD.1993.393360
+Efficient Symbolic Support Manipulation.	Bill Lin 0001	10.1109/ICCD.1993.393324
+Low-Power Driven Technology Mapping under Timing Constraints.	Bill Lin 0001,Hugo De Man	10.1109/ICCD.1993.393340
+Analysis and Control of Timing Jitter in Digital Logic Arising from Noise Voltage Sources.	Perng-Shyong Lin,Charles A. Zukowski	10.1109/ICCD.1993.393354
+Multiple-Page Translation for TLB.	Lishing Liu	10.1109/ICCD.1993.393355
+Fault-Tolerant Content Addressable Memory.	Jien-Chung Lo	10.1109/ICCD.1993.393382
+A 8.8-ns 54 54-Bit Multiplier Using New Redundant Binary Architecture.	Hiroshi Makino,Yasunobu Nakase,Hirofumi Shinohara	10.1109/ICCD.1993.393380
+String Matching on IDP: A String Matching Algorithm for Vector Processors and Its Implementation.	Yusuke Mishina,Keiji Kojima	10.1109/ICCD.1993.393345
+Some Results on the Complexity of Boolean Functions for Table Look Up Architectures.	Rajeev Murgai,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.1993.393325
+MIXER: Mixed-Signal Fault Simulator.	Naveena Nagi,Abhijit Chatterjee,Jacob A. Abraham	10.1109/ICCD.1993.393313
+Analog Automatic Test Plan Generator - Integrating with Modular Analog IC Design Environment.	Ravindranath Naiknaware	10.1109/ICCD.1993.393358
+A Reconfiguration-Based Yield Enhancement System.	Jagannathan Narasimhan,Kazuo Nakajima	10.1109/ICCD.1993.393376
+Design Methodology for GMICROTM/500 TRON Microprocessor.	Susumu Narita,Fumio Arakawa,Kunio Uchiyama,Ikuya Kawasaki	10.1109/ICCD.1993.393371
+Test Path Generation and Test Scheduling for Self-Testable Designs.	Alex Orailoglu,Ian G. Harris	10.1109/ICCD.1993.393321
+An Efficient Symbolic Design Verification System.	Jaehong Park,M. Ray Mercer	10.1109/ICCD.1993.393363
+An Efficient Unique State Coding Algorithm for Signal Transition Graphs.	Enric Pastor,Jordi Cortadella	10.1109/ICCD.1993.393386
+Hybrid Number Representations with Bounded Carry Propagation Chains.	Dhananjay S. Phatak,Israel Koren,Hoon Choi	10.1109/ICCD.1993.393367
+High Performance Embedded System Optimization Using Algebraic and Generalized Retiming Techniques.	Miodrag Potkonjak,Sujit Dey,Zia Iqbal,Alice C. Parker	10.1109/ICCD.1993.393326
+Global Mobility Based Scheduling.	Usha Prabhu,Barry M. Pangrle	10.1109/ICCD.1993.393350
+SMAC: A Scene Matching Chip.	N. Ranganathan,Raghu Sastry,Raguveer Venkatesan,Joseph W. Yoder,David C. Keezer	10.1109/ICCD.1993.393384
+Derivation of a DRAM Memory Interface by Sequential Decomposition.	Kamlesh Rath,Bhaskar Bose,Steven D. Johnson	10.1109/ICCD.1993.393338
+Ravel-XL: A Hardware Accelerator for Assigned-Delay Compiled-Code Logic Gate Simulation.	Michael A. Riepe,João P. Marques Silva,Karem A. Sakallah,Richard B. Brown	10.1109/ICCD.1993.393352
+An Integrated Environment for Concurrent Development of a Pixel Processor ASIC and Application Software.	Raymond Roth,John Watkins,Michael Hsieh,William Radke,Donald Hejna,Richard Tom,Byung Kim	10.1109/ICCD.1993.393395
+Channel Architecture Optimization for Performance and Routability of Row-Based FPGAs.	Kaushik Roy 0001,Sudip Nag,Santanu Dutta	10.1109/ICCD.1993.393377
+Design of the Intel PentiumTM Processor.	Avtar Saini	10.1109/ICCD.1993.393370
+A Three-Dimensional Mesh Multiprocessor System Using Board-to-Board Free-Space Optical Interconnects: COSINE-III.	Toshikazu Sakano,Takao Matsumoto,Kazuhiro Noguchi	10.1109/ICCD.1993.393366
+An Exact Rectilinear Steiner Tree Algorithm.	Jeffrey S. Salowe,David M. Warme	10.1109/ICCD.1993.393331
+A Systolic Array for Approximate String Matching.	Raghu Sastry,N. Ranganathan	10.1109/ICCD.1993.393344
+Desgin for Testability of Asynchronous Sequential Circuits.	Jayashree Saxena,Dhiraj K. Pradhan	10.1109/ICCD.1993.393323
+About Set and Skewed Associativity on Second-Level Caches.	André Seznec	10.1109/ICCD.1993.393408
+Wearable Computers: Merging Information Space with the Workspace.	Daniel P. Siewiorek	10.1109/ICCD.1993.393413
+An Analysis of Path Sensitization Criteria.	João P. Marques Silva,Karem A. Sakallah	10.1109/ICCD.1993.393403
+Heuristic Minimization of Synchronous Relations.	Vigyan Singhal,Yosinori Watanabe,Robert K. Brayton	10.1109/ICCD.1993.393339
+VLSI Design of On-Line Add/Multiply Algorithms.	Ali Skaf,Alain Guyot	10.1109/ICCD.1993.393369
+A C-Testable Carry-Free Divider.	Hosahalli R. Srinivas,Bapiraju Vinnakota,Keshab K. Parhi	10.1109/ICCD.1993.393379
+Efficient Diagnosis in Algorithm-Based Fault Tolerant Multiprocessor Systems.	Santhanam Srinivasan,Niraj K. Jha	10.1109/ICCD.1993.393308
+Physically Realizable Gate Models.	Paul R. Stephan,Robert K. Brayton	10.1109/ICCD.1993.393337
+Specification and Synthesis of Mixed-Mode Systems: Experiments in a VHDL Environment.	P. A. Subrahmanyam,Josep M. Espinalt,Meng-Lin Yu	10.1109/ICCD.1993.393374
+Towards a Methodology for the Formal Hierarchical Verification.	Sofiène Tahar,Ramayya Kumar	10.1109/ICCD.1993.393405
+Pipelined Fault Simulation on Parallel Machines Using the Circuit Flow Graph.	Shang-E Tai,Debashis Bhattacharya	10.1109/ICCD.1993.393314
+Quiescent Current Monitoring to Improve the Reliability of Electronic Systems in Space Radiation Environments.	F. L. Vargas,Michael Nicolaidis,Bernard Courtois	10.1109/ICCD.1993.393307
+AMBIANT: Automatic Generation of Behavioral Modifications for Testability.	Praveen Vishakantaiah,Thomas Thomas,Jacob A. Abraham,Magdy S. Abadir	10.1109/ICCD.1993.393404
+Area and Performance Comparison of Pipelined RISC Processors Implementing Different Precise Interrupt Methods.	Chia-Jiu Wang,Frank Emnett	10.1109/ICCD.1993.393397
+Logic Optimization with Multi-Output Gates.	Yosinori Watanabe,Lisa M. Guerra,Robert K. Brayton	10.1109/ICCD.1993.393341
+A Memory Controller with an Integrated Graphics Processor.	John Watkins,Raymond Roth,Michael Hsieh,William Radke,Donald Hejna,Byung Kim,Richard Tom	10.1109/ICCD.1993.393357
+ASLCScan: A Scan Design Technique for Asynchronous Sequential Logic Circuits.	Chin-Long Wey,Ming-Der Shieh,P. David Fisher	10.1109/ICCD.1993.393388
+A New High Performance Field Programmable Gate Array Family.	Telle Whitney,Jeff Schlageter	10.1109/ICCD.1993.393378
+Design Guidelines and Testability Assessment.	Brian R. Wilkins,C. Shi	10.1109/ICCD.1993.393346
+Design for Testability: Today and in the Future.	Thomas W. Williams	
+Pica: An Ultra-Light Processor for High-Througput Applications.	D. Scott Wills,W. Stephen Lacy,Huy Cat,Michael A. Hopper,Ashutosh Razdan,Sek M. Chai	10.1109/ICCD.1993.393342
+A New Modulo 2a + 1 Multiplier.	Artur Wrzyszcz,David Milford	10.1109/ICCD.1993.393303
+Bit-Splitting for Testability Enhancement in Scan-Based Design.	Xiaodong Xie,Alexander Albicki	10.1109/ICCD.1993.393389
+Fast Timing Analysis for Hardware-Software Co-Synthesis.	Wei Ye 0002,Rolf Ernst,Thomas Benner,Jörg Henkel	10.1109/ICCD.1993.393335
+Optimal Scheduling of Finite-State Machines.	Ti-Yen Yen,Wayne H. Wolf	10.1109/ICCD.1993.393351
+An Intelligent I-Cache Prefetch Mechanism.	Honesty C. Young,Eugene J. Shekita	10.1109/ICCD.1993.393407
+Neighbour State Transition Method for VLSI Optimization Problems.	Dian Zhou,F. Tsui	10.1109/ICCD.1993.393330
+Proceedings 1993 International Conference on Computer Design: VLSI in Computers &amp; Processors, ICCD &apos;93, Cambridge, MA, USA, October 3-6, 1993		

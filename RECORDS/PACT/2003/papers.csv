@@ -1,0 +1,27 @@
+Instruction Replication: Reducing Delays Due to Inter-PE Communication Latency.	Aneesh Aggarwal,Manoj Franklin	10.1109/PACT.2003.1238001
+Compiler-Directed Content-Aware Prefetching for Dynamic Data Structures.	Hassan Al-Sukhni,Ian Bratt,Daniel A. Connors	10.1109/PACT.2003.1238005
+Memory Hierarchy Design for a Multiprocessor Look-up Engine.	Jean-Loup Baer,Douglas Low,Patrick Crowley,Neal Sidhwaney	10.1109/PACT.2003.1238016
+Compilation, Architectural Support, and Evaluation of SIMD Graphics Pipeline Programs on a General-Purpose CPU.	Maurício Breternitz Jr.,Herbert H. J. Hum,Sanjeev Kumar	10.1109/PACT.2003.1238010
+Compressing Extended Program Traces Using Value Predictors.	Martin Burtscher,Metha Jeeradit	10.1109/PACT.2003.1238012
+Constraint Graph Analysis of Multithreaded Programs.	Harold W. Cain,Mikko H. Lipasti,Ravi Nair	10.1109/PACT.2003.1237997
+Efficient Resource Management during Instruction Scheduling for the EPIC Architecture.	Dong-yuan Chen,Lixia Liu,Chen Fu,Shuxin Yang,Chengyong Wu,Roy Dz-Ching Ju	10.1109/PACT.2003.1238000
+Characterizing and Predicting Program Behavior and its Variability.	Evelyn Duesterwald,Calin Cascaval,Sandhya Dwarkadas	10.1109/PACT.2003.1238018
+Combining Program Recovery, Auto-Parallelisation and Locality Analysis for C Programs on Multi-Processor Embedded Systems.	Björn Franke,Michael F. P. O&apos;Boyle	10.1109/PACT.2003.1238007
+Using Software Logging to Support Multi-Version Buffering in Thread-Level Speculation.	María Jesús Garzarán,Milos Prvulovic,Víctor Viñals,José María Llabería,Lawrence Rauchwerger,Josep Torrellas	10.1109/PACT.2003.1238013
+Reactive Multi-Word Synchronization for Multiprocessors.	Phuong Hoai Ha,Philippas Tsigas	10.1109/PACT.2003.1238014
+Biomedical Computing and Visualization.	Chris R. Johnson 0001	10.1109/PACT.2003.1238017
+Spill Code Minimization by Spill Code Motion.	Akira Koseki,Hideaki Komatsu,Toshio Nakatani	10.1109/PACT.2003.1238009
+Challenges and New Approaches to Program Analysis.	Monica S. Lam	10.1109/PACT.2003.1238006
+Redeeming IPC as a Performance Metric for Multithreaded Programs.	Kevin M. Lepak,Harold W. Cain,Mikko H. Lipasti	10.1109/PACT.2003.1238019
+Inter-Procedural Loop Fusion, Array Contraction and Rotation.	John Ng,Dattatraya Kulkarni,Wei Li 0015,Robert Cox,Scott Bobholz	10.1109/PACT.2003.1238008
+Design Trade-Offs in High-Throughput Coherence Controllers.	Anthony-Trung Nguyen,Josep Torrellas	10.1109/PACT.2003.1238015
+Picking Statistically Valid and Early Simulation Points.	Erez Perelman,Greg Hamerly,Brad Calder	10.1109/PACT.2003.1238020
+Reducing Datapath Energy through the Isolation of Short-Lived Operands.	Dmitry Ponomarev 0001,Gurhan Kucuk,Oguz Ergin,Kanad Ghose	10.1109/PACT.2003.1238021
+The Impact of Resource Partitioning on SMT Processors.	Steven E. Raasch,Steven K. Reinhardt	10.1109/PACT.2003.1237998
+Initial Observations of the Simultaneous Multithreading Pentium 4 Processor.	Nathan Tuck,Dean M. Tullsen	10.1109/PACT.2003.1237999
+Optimizing Program Locality Through CMEs and GAs.	Xavier Vera,Jaume Abella 0001,Antonio González 0001,Josep Llosa	10.1109/PACT.2003.1238003
+Y-Branches: When You Come to a Fork in the Road, Take It.	Nicholas J. Wang,Michael Fertig,Sanjay J. Patel	10.1109/PACT.2003.1238002
+An Efficient Online Path Profiling Framework for Java Just-In-Time Compilers.	Toshiaki Yasue,Toshio Suganuma,Hideaki Komatsu,Toshio Nakatani	10.1109/PACT.2003.1238011
+Miss Rate Prediction across All Program Inputs.	Yutao Zhong 0001,Steve Dropsho,Chen Ding 0001	10.1109/PACT.2003.1238004
+Resolving Register Bank Conflicts for a Network Processor.	Xiaotong Zhuang,Santosh Pande	10.1109/PACT.2003.1238022
+12th International Conference on Parallel Architectures and Compilation Techniques (PACT 2003), 27 September - 1 October 2003, New Orleans, LA, USA		

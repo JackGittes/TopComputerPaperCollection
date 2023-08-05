@@ -1,0 +1,36 @@
+ParaLearn: a massively parallel, scalable system for learning interaction networks on FPGAs.	Narges Bani Asadi,Christopher W. Fletcher,Greg Gibeling,John Wawrzynek,Wing H. Wong,Garry P. Nolan	10.1145/1810085.1810100
+Making nested parallel transactions practical using lightweight hardware support.	Woongki Baek,Nathan Grasso Bronson,Christos Kozyrakis,Kunle Olukotun	10.1145/1810085.1810097
+Decomposable and responsive power models for multicore processors using performance counters.	Ramon Bertran,Marc González 0001,Xavier Martorell,Nacho Navarro,Eduard Ayguadé	10.1145/1810085.1810108
+An approach to resource-aware co-scheduling for CMPs.	Major Bhadauria,Sally A. McKee	10.1145/1810085.1810113
+Indemics: an interactive data intensive framework for high performance epidemic simulation.	Keith R. Bisset,Jiangzhuo Chen,Xizhou Feng,Yifei Ma,Madhav V. Marathe	10.1145/1810085.1810118
+Static reuse distances for locality-based optimizations in MATLAB.	Arun Chauhan 0001,Chun-Yu Shei	10.1145/1810085.1810125
+Large-scale FFT on GPU clusters.	Yifeng Chen,Xiang Cui,Hong Mei 0001	10.1145/1810085.1810128
+Evaluation of parallel H.264 decoding strategies for the Cell Broadband Engine.	Chi Ching Chi,Ben H. H. Juurlink,Cor Meenderinck	10.1145/1810085.1810102
+Throughput computing.	William J. Dally	10.1145/1810085.1810088
+FPGA accelerating double/quad-double high precision floating-point applications for ExaScale computing.	Yong Dou,Yuanwu Lei,Guiming Wu,Song Guo 0003,Jie Zhou 0007,Li Shen	10.1145/1810085.1810129
+Clustering performance data efficiently at massive scales.	Todd Gamblin,Bronis R. de Supinski,Martin Schulz 0001,Robert J. Fowler,Daniel A. Reed	10.1145/1810085.1810119
+SAMS multi-layout memory: providing multiple views of data to boost SIMD performance.	Chunyang Gou,Georgi Kuzmanov,Georgi Gaydadjiev	10.1145/1810085.1810111
+An empirically tuned 2D and 3D FFT library on CUDA GPU.	Liang Gu,Xiaoming Li,Jakob Siegel	10.1145/1810085.1810127
+The next-generation supercomputer project and a plan for the advanced institute for computational science.	Kimihiko Hirao	10.1145/1810085.1810089
+Optimal bucket algorithms for large MPI collectives on torus interconnects.	Nikhil Jain,Yogish Sabharwal	10.1145/1810085.1810093
+High-throughput Bayesian network learning using heterogeneous multicore computers.	Michael D. Linderman,Robert V. Bruggner,Vivek Athalye,Teresa H. Meng,Narges Bani Asadi,Garry P. Nolan	10.1145/1810085.1810101
+The auction: optimizing banks usage in Non-Uniform Cache Architectures.	Javier Lira,Carlos Molina,Antonio González 0001	10.1145/1810085.1810095
+A compiler-automated array compression scheme for optimizing memory intensive programs.	Lixia Liu,Zhiyuan Li 0001	10.1145/1810085.1810124
+Fast and accurate NCBI BLASTP: acceleration with multiphase FPGA-based prefiltering.	Atabak Mahram,Martin C. Herbordt	10.1145/1810085.1810099
+An experimental approach to performance measurement of heterogeneous parallel applications using CUDA.	Allen D. Malony,Scott Biersdorff,Wyatt Spear,Shangkar Mayanglambam	10.1145/1810085.1810105
+Overlapping communication and computation by using a hybrid MPI/SMPSs approach.	Vladimir Marjanovic,Jesús Labarta,Eduard Ayguadé,Mateo Valero	10.1145/1810085.1810091
+Small-ruleset regular expression matching on GPGPUs: quantitative performance analysis and optimization.	Jamin Naghmouchi,Daniele Paolo Scarpazza,Mladen Berekovic	10.1145/1810085.1810130
+A query language for understanding component interactions in production systems.	Adam J. Oliner,Alex Aiken	10.1145/1810085.1810114
+Exascale science: the next frontier in high performance computing.	Stephen S. Pawlowski	10.1145/1810085.1810087
+Handling task dependencies under strided and aliased references.	Josep M. Pérez,Rosa M. Badia,Jesús Labarta	10.1145/1810085.1810122
+Quantifying performance benefits of overlap using MPI-2 in a seismic modeling application.	Sreeram Potluri,Ping Lai,Karen A. Tomko,Sayantan Sur,Yifeng Cui,Mahidhar Tatineni,Karl W. Schulz,William L. Barth,Amitava Majumdar,Dhabaleswar K. Panda 0001	10.1145/1810085.1810092
+Adaptive multi-level cache allocation in distributed storage architectures.	Ramya Prabhakar,Shekhar Srikantaiah,Mahmut T. Kandemir,Christina M. Patrick	10.1145/1810085.1810115
+Compiler and runtime support for enabling generalized reduction computations on heterogeneous parallel configurations.	Vignesh T. Ravi,Wenjing Ma,David Chiu 0001,Gagan Agrawal	10.1145/1810085.1810106
+Speeding up Nek5000 with autotuning and specialization.	Jaewook Shin,Mary W. Hall,Jacqueline Chame,Chun Chen 0002,Paul F. Fischer,Paul D. Hovland	10.1145/1810085.1810120
+How to unleash array optimizations on code using recursive data structures.	Harmen L. A. van der Spek,C. W. Mattias Holm,Harry A. G. Wijshoff	10.1145/1810085.1810123
+Cache oblivious parallelograms in iterative stencil computations.	Robert Strzodka,Mohammed Shaheen 0001,Dawid Pajak,Hans-Peter Seidel	10.1145/1810085.1810096
+InterferenceRemoval: removing interference of disk access for MPI programs through data replication.	Xuechen Zhang,Song Jiang 0001	10.1145/1810085.1810116
+Streamlining GPU applications on the fly: thread divergence elimination through runtime thread-data remapping.	Eddy Z. Zhang,Yunlian Jiang,Ziyu Guo,Xipeng Shen	10.1145/1810085.1810104
+Enigma: architectural and operating system support for reducing the impact of address translation.	Lixin Zhang 0002,Evan Speight,Ramakrishnan Rajamony,Jiang Lin	10.1145/1810085.1810109
+Timing local streams: improving timeliness in data prefetching.	Huaiyu Zhu 0002,Yong Chen 0001,Xian-He Sun	10.1145/1810085.1810110
+Proceedings of the 24th International Conference on Supercomputing, 2010, Tsukuba, Ibaraki, Japan, June 2-4, 2010	Taisuke Boku,Hiroshi Nakashima,Avi Mendelson	10.1145/1810085

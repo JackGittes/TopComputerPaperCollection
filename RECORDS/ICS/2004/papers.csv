@@ -1,0 +1,36 @@
+Adaptive incremental checkpointing for massively parallel systems.	Saurabh Agarwal,Rahul Garg 0001,Meeta Sharma Gupta,José E. Moreira	10.1145/1006209.1006248
+Time and space optimization for processing groups of multi-dimensional scientific queries.	Suresh Aryangat,Henrique Andrade,Alan Sussman	10.1145/1006209.1006224
+Cluster prefetch: tolerating on-chip wire delays in clustered microarchitectures.	Rajeev Balasubramonian	10.1145/1006209.1006255
+Evaluating support for global address space languages on the Cray X1.	Christian Bell,Wei-Yu Chen,Dan Bonachea,Katherine A. Yelick	10.1145/1006209.1006236
+Implicit java array bounds checking on 64-bit architecture.	Chris Bentley,Scott A. Watterson,David K. Lowenthal,Barry Rountree	10.1145/1006209.1006242
+An analysis of the impact of MPI overlap and independent progress.	Ron Brightwell,Keith D. Underwood	10.1145/1006209.1006251
+Applications of storage mapping optimization to register promotion.	Patrick Carribault,Albert Cohen 0001	10.1145/1006209.1006244
+Practical and efficient point insertion scheduling method for parallel guaranteed quality delaunay refinement.	Andrey N. Chernikov,Nikos Chrisochoides	10.1145/1006209.1006217
+Adaptive paging for a multifrontal solver.	Olivier Cozette,Abdou Guermouche,Gil Utard	10.1145/1006209.1006247
+A unified framework for nonlinear dependence testing and symbolic analysis.	Robert A. van Engelen,Johnnie Birch,Yixin Shou,Burt Walsh,Kyle A. Gallivan	10.1145/1006209.1006226
+Automatic re-scheduling of dependencies in a RPC-based grid.	Thierry Gautier,Hamid-Reza Hamidi	10.1145/1006209.1006223
+Impact of far-field interactions on performance of multipole-based preconditioners for sparse linear systems.	Ananth Grama,Vivek Sarin	10.1145/1006209.1006216
+Data forwarding through in-memory precomputation threads.	Wessam Hassanein,José A. B. Fortes,Rudolf Eigenmann	10.1145/1006209.1006239
+Multilevel hierarchical matrix multiplication on clusters.	Sascha Hunold,Thomas Rauber,Gudula Rünger	10.1145/1006209.1006230
+Effective stream-based and execution-based data prefetching.	Sorin Iacobovici,Lawrence Spracklen,Sudarshan Kadambi,Yuan Chou,Santosh G. Abraham	10.1145/1006209.1006211
+A comparison of sequential consistency with home-based lazy release consistency for software distributed shared memory.	Vadim Iosevich,Assaf Schuster	10.1145/1006209.1006252
+Integrating collective I/O and cooperative caching into the &quot;clusterfile&quot; parallel file system.	Florin Isaila,Guido Malpohl,Vlad Olaru,Gabor Szeder,Walter F. Tichy	10.1145/1006209.1006219
+CQoS: a framework for enabling QoS in shared caches of CMP platforms.	Ravi R. Iyer 0001	10.1145/1006209.1006246
+Back-end assignment schemes for clustered multithreaded processors.	Fernando Latorre,José González 0002,Antonio González 0001	10.1145/1006209.1006254
+Design space exploration of caches using compressed traces.	Xianfeng Li,Hemendra Singh Negi,Tulika Mitra,Abhik Roychoudhury	10.1145/1006209.1006227
+EXPERT: expedited simulation exploiting program behavior repetition.	Wei Liu,Michael C. Huang 0001	10.1145/1006209.1006228
+Scaling the issue window with look-ahead latency prediction.	Yongxiang Liu,Anahita Shayesteh,Gokhan Memik,Glenn Reinman	10.1145/1006209.1006240
+Adaptive Java optimisation using instance-based learning.	Shun Long,Michael F. P. O&apos;Boyle	10.1145/1006209.1006243
+Detailed cache coherence characterization for OpenMP benchmarks.	Jaydeep Marathe,Anita Nagarajan,Frank Mueller 0001	10.1145/1006209.1006250
+A dynamic application-driven data communication strategy.	Paul van der Mark,Lex Wolters,Gerard Cats	10.1145/1006209.1006231
+Implementation and performance evaluation of CONFLEX-G: grid-enabled molecular conformational space search program with OmniRPC.	Yoshihiro Nakajima,Mitsuhisa Sato,Hitoshi Gotoh,Taisuke Boku,Daisuke Takahashi	10.1145/1006209.1006232
+Cluster scheduling for explicitly-speculative tasks.	David Petrou,Gregory R. Ganger,Garth A. Gibson	10.1145/1006209.1006256
+Energy conservation techniques for disk array-based servers.	Eduardo Pinheiro,Ricardo Bianchini	10.1145/1006209.1006220
+Characterizing a new class of threads in scientific applications for high end supercomputers.	Arun Rodrigues,Richard C. Murphy,Peter M. Kogge,Keith D. Underwood	10.1145/1006209.1006234
+The energy efficiency of CMP vs. SMT for multimedia workloads.	Ruchira Sasanka,Sarita V. Adve,Yen-Kuang Chen,Eric Debes	10.1145/1006209.1006238
+Performance characteristics of the Cray X1 and their implications for application performance tuning.	Hongzhang Shan,Erich Strohmaier	10.1145/1006209.1006235
+Inter-reference gap distribution replacement: an improved replacement algorithm for set-associative caches.	Masamichi Takagi,Kei Hiraki	10.1145/1006209.1006213
+Parallel algorithms for mining frequent structural motifs in scientific data.	Chao Wang 0050,Srinivasan Parthasarathy 0001	10.1145/1006209.1006215
+Enhancing data cache reliability by the addition of a small fully-associative replication cache.	Wei Zhang 0002	10.1145/1006209.1006212
+PB-LRU: a self-tuning power aware storage cache replacement algorithm for conserving disk energy.	Qingbo Zhu,Asim Shankar,Yuanyuan Zhou 0001	10.1145/1006209.1006221
+Proceedings of the 18th Annual International Conference on Supercomputing, ICS 2004, Saint Malo, France, June 26 - July 01, 2004	Paul Feautrier,James R. Goodman,André Seznec	10.1145/1006209

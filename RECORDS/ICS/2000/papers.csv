@@ -1,0 +1,34 @@
+Synthesizing transformations for locality enhancement of imperfectly-nested loop nests.	Nawaaz Ahmed,Nikolay Mateev,Keshav Pingali	10.1145/335231.335245
+Automatic loop transformations and parallelization for Java.	Pedro V. Artigas,Manish Gupta 0002,Samuel P. Midkiff,José E. Moreira	10.1145/335231.335232
+A low-complexity issue logic.	Ramon Canal,Antonio González 0001	10.1145/335231.335263
+Characterizing processor architectures for programmable network interfaces.	Patrick Crowley,Marc E. Fiuczynski,Jean-Loup Baer,Brian N. Bershad	10.1145/335231.335237
+Design of dynamic load-balancing tools for parallel applications.	Karen D. Devine,Bruce Hendrickson,Erik G. Boman,Matthew St. John,Courtenay T. Vaughan	10.1145/335231.335242
+Compiling object-oriented data intensive applications.	Renato Ferreira 0001,Gagan Agrawal,Joel H. Saltz	10.1145/335231.335233
+Performance evaluation of a new routing strategy for irregular networks with source routing.	Jose Flich,Manuel P. Malumbres,Pedro López 0001,José Duato	10.1145/335231.335235
+Automated cache optimizations using CME driven diagnosis.	Somnath Ghosh,Margaret Martonosi,Sharad Malik	10.1145/335231.335262
+Binary translation and architecture convergence issues for IBM system/390.	Michael Gschwind,Kemal Ebcioglu,Erik R. Altman,Sumedh W. Sathaye	10.1145/335231.335264
+A compiler method for the parallel execution of irregular reductions in scalable shared memory multiprocessors.	Eladio Gutiérrez,Oscar G. Plata,Emilio L. Zapata	10.1145/335231.335239
+Using accurate arithmetics to improve numerical reproducibility and stability in parallel applications.	Yun He 0002,Chris H. Q. Ding	10.1145/335231.335253
+Fast greedy weighted fusion.	Ken Kennedy	10.1145/335231.335244
+Unroll-based register coalescing.	Suhyun Kim,Soo-Mook Moon,Jinpyo Park,Kemal Ebcioglu	10.1145/335231.335260
+Using complete system simulation to characterize SPECjvm98 benchmarks.	Tao Li 0006,Lizy Kurian John,Narayanan Vijaykrishnan,Anand Sivasubramaniam,Jyotsna Sabarinathan,Anupama Murthy	10.1145/335231.335234
+Using profiling to reduce branch misprediction costs on a dynamically scheduled processor.	Srinivas Mantripragada,Alexandru Nicolau	10.1145/335231.335251
+Next-generation generic programming and its application to sparse matrix computations.	Nikolay Mateev,Keshav Pingali,Paul Stodghill,Vladimir Kotlyar	10.1145/335231.335240
+A general performance model for parallel sweeps on orthogonal grids for particle transport calculations.	Mark M. Mathis,Nancy M. Amato,Marvin L. Adams	10.1145/335231.335256
+An adaptive software library for fast Fourier transforms.	Dragan Mirkovic,Rishad Mahasoom,S. Lennart Johnsson	10.1145/335231.335252
+A case for use-level dynamic page migration.	Dimitrios S. Nikolopoulos,Theodore S. Papatheodorou,Constantine D. Polychronopoulos,Jesús Labarta,Eduard Ayguadé	10.1145/335231.335243
+Comparative study of page-based and segment-based software DSM through compiler optimization.	Junpei Niwa,Takashi Matsumoto 0002,Kei Hiraki	10.1145/335231.335259
+Boosting superpage utilization with the shadow memory and the partial-subblock TLB.	Cheol Ho Park,JaeWoong Chung,Byeong Hag Seong,Yangwoo Roh,Daeyeon Park	10.1145/335231.335249
+Hardware spatial forwarding for widely shared data.	Marius Pirvu,Laxmi N. Bhuyan	10.1145/335231.335257
+Improving parallel system performance by changing the arrangement of the network links.	Valentin Puente,Cruz Izu,José A. Gregorio,Ramón Beivide,J. M. Prellezo,Fernando Vallejo	10.1145/335231.335236
+Optimized unrolling of nested loops.	Vivek Sarkar	10.1145/335231.335246
+Table size reduction for data value predictors by exploiting narrow width values.	Toshinori Sato,Itsujiro Arita	10.1145/335231.335250
+A novel application development environment for large-scale scientific computations.	Xiaohui Shen,Wei-keng Liao,Alok N. Choudhary,Gokhan Memik,Mahmut T. Kandemir,Sachin More,George K. Thiruvathukal,Arti Singh	10.1145/335231.335258
+Performance analysis of distributed applications using automatic classification of communication inefficiencies.	Jeffrey S. Vetter	10.1145/335231.335255
+Performance evaluation of the IBM SP and the Compaq AlphaServer SC.	Patrick H. Worley	10.1145/335231.335254
+Push vs. pull: data movement for linked data structures.	Chia-Lin Yang,Alvin R. Lebeck	10.1145/335231.335248
+Adaptive reduction parallelization techniques.	Hao Yu 0008,Lawrence Rauchwerger	10.1145/335231.335238
+Hardware-only stream prefetching and dynamic access ordering.	Chengqiang Zhang,Sally A. McKee	10.1145/335231.335247
+A simulation-based study of scheduling mechanisms for a dynamic cluster environment.	Yanyong Zhang,Anand Sivasubramaniam,José E. Moreira,Hubertus Franke	10.1145/335231.335241
+Automatic compiler techniques for thread coarsening for multithreaded architectures.	Gary M. Zoppetti,Gagan Agrawal,Lori L. Pollock,José Nelson Amaral,Xinan Tang,Guang R. Gao	10.1145/335231.335261
+Proceedings of the 14th international conference on Supercomputing, ICS 2000, Santa Fe, NM, USA, May 8-11, 2000	John Reynders,Alexander V. Veidenbaum	10.1145/335231

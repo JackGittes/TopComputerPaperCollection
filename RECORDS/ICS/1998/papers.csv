@@ -1,0 +1,60 @@
+Multipath Execution: Opportunities and Limits.	Pritpal S. Ahuja,Kevin Skadron,Margaret Martonosi,Douglas W. Clark	10.1145/277830.277854
+Predicting Parallel Applications Performance on Non-Dedicated Cluster Platforms.	Cosimo Anglano	10.1145/277830.277866
+High-level Management of Communication Schedules in HPF-like Languages.	Siegfried Benkner,Piyush Mehrotra,John Van Rosendale,Hans P. Zima	10.1145/277830.277855
+Data Prefetching for Software DSMs.	Ricardo Bianchini,Raquel Pinto,Claudio Luis de Amorim	10.1145/277830.277925
+Evaluation of Hardware Write Propagation Support for Next-generation Shared Virtual Memory Clusters.	Angelos Bilas,Liviu Iftode,Jaswinder Pal Singh	10.1145/277830.277893
+Load Execution Latency Reduction.	Bryan Black,Brian Mueller,Stephanie Postal,Ryan N. Rakvic,Noppanunt Utamaphethai,John Paul Shen	10.1145/277830.277842
+A User Level Program Transformation Tool.	François Bodin,Yann Mével,Rene Quiniou	10.1145/277830.277868
+Development of a Mathematical Subroutine Library for Fujitsu Vector Parallel Processors.	Richard P. Brent,L. Grosz,David L. Harrar II,Markus Hegland,Margaret Kahn,G. Keating,G. Mercer,Ole Møller Nielsen,Michael R. Osborne,Bing Bing Zhou,M. Nakanishi	10.1145/277830.277837
+PARADISE: An Advanced Featured Parallel File System.	Maciej Brodowicz,Olin G. Johnson	10.1145/277830.277878
+OPTNET: A Cost-effective Optical Network for Multiprocessors.	Enrique V. Carrera,Ricardo Bianchini	10.1145/277830.277929
+An Efficient Uniform Run-time Scheme for Mixed Regular-irregular Applications.	Dhruva R. Chakrabarti,U. Nagaraj Shenoy,Alok N. Choudhary,Prithviraj Banerjee	10.1145/277830.277848
+The Infinity Lambda Test.	Weng-Long Chang,Chih-Ping Chu	10.1145/277830.277872
+Efficient Support of Parallel Sparse Computation for Array Intrinsic Functions of Fortran 90.	Rong-Guey Chang,Tyng-Ruey Chuang,Jenq Kuen Lee	10.1145/277830.277845
+Hardware-driven Prefetching for Pointer Data References.	Chi-Hung Chi,Chin-Ming Cheung	10.1145/277830.277924
+A Parallel Iterative Linear System Solver with Dynamic Load Balancing.	Peter Christen	10.1145/277830.277836
+Techniques for Empirical Testing of Parallel Random Number Generators.	Paul D. Coddington,Sung Hoon Ko	10.1145/277830.277895
+Dynamic Load Balancing for Adaptive Meshes Using Symmetric Broadcast Networks.	Sajal K. Das 0001,Daniel J. Harvey,Rupak Biswas	10.1145/277830.277934
+Vector Architectures: Past, Present and Future.	Roger Espasa,Mateo Valero,James E. Smith 0001	10.1145/277830.277935
+Problem and Machine Sensitive Communication Optimization.	Thomas Fahringer,Eduard Mehofer	10.1145/277830.277856
+The Potential of Data Value Speculation to Boost ILP.	José González 0002,Antonio González 0001	10.1145/277830.277840
+Algorithms for Block Bidiagonal Systems on Vector and Parallel Computers.	Markus Hegland,Michael R. Osborne	10.1145/277830.277835
+Optimizing and Load Balancing Metacomputing Applications.	Jörg Henrichs	10.1145/277830.277864
+Speculative Execution Model with Duplication.	Kei Hiraki,Junji Tamatsukuri,Takashi Matsumoto 0002	10.1145/277830.277907
+Depth Contention-free Broadcasting on Torus Networks.	Yomin Hou,Chien-Min Wang,Lih-Hsing Hsu	10.1145/277830.277926
+Characterization and Improvement of Load/Store Cache-based Prefetching.	Pablo Ibáñez,Víctor Viñals,José Luis Briz,María Jesús Garzarán	10.1145/277830.277921
+Applying Segment Routing to k-ary n-cube Networks.	Cruz Izu,Agustin Arruabarrena	10.1145/277830.277931
+A General Algorithm for Tiling the Register Level.	Marta Jiménez,José M. Llabería,Agustín Fernández,Enric Morancho	10.1145/277830.277859
+A Hyperplane Based Approach for Optimizing Spatial Locality in Loop Nests.	Mahmut T. Kandemir,Alok N. Choudhary,U. Nagaraj Shenoy,Prithviraj Banerjee,J. Ramanujam	10.1145/277830.277849
+A Study of Three Dynamic Approaches to Handle Widely Shared Data in Shared-memory Multiprocessors.	Stefanos Kaxiras,Stein Gjessing,James R. Goodman	10.1145/277830.277943
+Coarse-grained Speculative Execution in Shared-memory Multiprocessors.	Iffat H. Kazi,David J. Lilja	10.1145/277830.277853
+Scalable On-the-fly Detection of the First Races in Parallel Programs.	Jeong-Si Kim,Yong-Kee Jun	10.1145/277830.277914
+Local Area Metacomputing for Multidisciplinary Problems: A Case Study for Fluid/Structure Coupled Simulation.	Toshiya Kimura,Hiroshi Takemiya	10.1145/277830.277861
+Kin: A High Performance Asynchronous Processor Architecture.	Rakefet Kol,Ran Ginosar	10.1145/277830.277937
+Comparing Data Forwarding and Prefetching for Communication-induced Misses in Shared-memory MPs.	David A. Koufaty,Josep Torrellas	10.1145/277830.277847
+Hardware and Software Support for Speculative Execution of Sequential Binaries on a Chip-multiprocessor.	Venkata Krishnan,Josep Torrellas	10.1145/277830.277852
+Parallel Compiled Event Driven VHDL Simulation.	Venkatram Krishnaswamy,Prithviraj Banerjee	10.1145/277830.277901
+Exploiting Heterogeneous Parallelism in the Presence of Communication Delays.	Dingchao Li,Yuji Iwahori,Naohiro Ishii	10.1145/277830.277862
+Monitoring Shared Virtual Memory Performance on a Myrinet-based PC Cluster.	Cheng Liao,Dongming Jiang,Liviu Iftode,Margaret Martonosi,Douglas W. Clark	10.1145/277830.277886
+Resource Widening Versus Replication: Limits and Performance-cost Trade-off.	David López 0001,Josep Llosa,Mateo Valero,Eduard Ayguadé	10.1145/277830.277938
+Bounding on the Gain of Optimizing Data Layout in Vector Processors.	Lars Lundberg,Daniel Häggander	10.1145/277830.277882
+Speculative Multithreaded Processors.	Pedro Marcuello,Antonio González 0001,Jordi Tubella	10.1145/277830.277850
+MBCF: A Protected and Virtualized High-Speed User-Level Memory-Based Communication Facility.	Takashi Matsumoto 0002,Kei Hiraki	10.1145/277830.277889
+Predicated Array Data-flow Analysis for Run-time Parallelization.	Sungdo Moon,Mary W. Hall,Brian R. Murphy	10.1145/277830.277874
+Prefetching on the Cray-T3E.	Matthias M. Müller,Thomas M. Warschko,Walter F. Tichy	10.1145/277830.277919
+The Design and Implementation of Zero Copy MPI Using Commodity Hardware with a High Performance Network.	Francis O&apos;Carroll,Hiroshi Tezuka,Atsushi Hori,Yutaka Ishikawa	10.1145/277830.277883
+Kernel-level Scheduling for the Nano-threads Programming Model.	Eleftherios D. Polychronopoulos,Xavier Martorell,Dimitrios S. Nikolopoulos,Jesús Labarta,Theodore S. Papatheodorou,Nacho Navarro	10.1145/277830.277911
+The Role of Associativity and Commutativity in the Detection and Transformation of Loop-level Parallelism.	William M. Pottenger	10.1145/277830.277870
+Eliminating Conflict Misses for High Performance Architectures.	Gabriel Rivera,Chau-Wen Tseng	10.1145/277830.277917
+Utilizing Reuse Information in Data Cache Management.	Jude A. Rivers,Edward S. Tam,Gary S. Tyson,Edward S. Davidson,Matthew K. Farrens	10.1145/277830.277941
+Loop Fusion in High Performance Fortran.	Gerald Roth,Ken Kennedy	10.1145/277830.277857
+Measuring the Effectiveness of Automatic Parallelization in SUIF.	Byoungro So,Sungdo Moon,Mary W. Hall	10.1145/277830.277876
+Load Balanced Parallel Radix Sort.	Andrew Sohn,Yuetsu Kodama	10.1145/277830.277903
+Application Level Scheduling of Gene Sequence Comparison on Metacomputers.	Neil T. Spring,Richard Wolski	10.1145/277830.277860
+Integer Sorting on Shared-Memory Vector Parallel Computers.	Kenji Suehiro,Hitoshi Murai,Yoshiki Seo	10.1145/277830.277904
+Highly Efficient Implementation of MPI Point-to-Point Communication Using Remote Memory Operations.	Osamu Tatebe,Yuetsu Kodama,Satoshi Sekiguchi,Yoshinori Yamaguchi	10.1145/277830.277890
+Dependence Driven Execution for Multiprogrammed Multiprocessor.	Suvas Vajracharya,Dirk Grunwald	10.1145/277830.277908
+Evaluation of High Performance Multicache Parallel Texture Mapping.	Alexis Vartanian,Jean-Luc Béchennec,Nathalie Drach-Temam	10.1145/277830.277898
+A Performance Study of Out-of-order Vector Architectures and Short Registers.	Luis Villa,Roger Espasa,Mateo Valero	10.1145/277830.277844
+Distributed Data Structure Design for Scientific Computation.	Jan-Jan Wu,Pangfeng Liu	10.1145/277830.277879
+Proceedings of the 12th international conference on Supercomputing, ICS 1998, Melbourne, Australia, July 13-17, 1998	Greg K. Egan,Richard P. Brent,Dennis Gannon	10.1145/277830

@@ -1,0 +1,83 @@
+LIVE data workspace: A flexible, dynamic and extensible platform for petascale applications.	Hasan Abbasi,Matthew Wolf,Karsten Schwan	10.1109/CLUSTR.2007.4629248
+Efficient quantum computing simulation through dynamic matrix restructuring and distributed evaluation.	Kareem S. Aggour,Robert M. Mattheyses,Joseph Shultz	10.1109/CLUSTR.2007.4629211
+Balancing productivity and performance on the cell broadband engine.	Sadaf R. Alam,Jeremy S. Meredith,Jeffrey S. Vetter	10.1109/CLUSTR.2007.4629227
+A parallel algorithm to solve large stiff ODE systems on grid systems.	Jacques M. Bahi,Jean-Claude Charr,Raphaël Couturier,David Laiymani	10.1109/CLUSTR.2007.4629280
+Message from the HeteroPar 2007 chair.	Olivier Beaumont	10.1109/CLUSTR.2007.4629275
+Scaling to PetaFlops.	Andreas von Bechtolsheim	10.1109/CLUSTR.2007.4629196
+Complexity results for throughput and latency optimization of replicated and data-parallel workflows.	Anne Benoit,Yves Robert	10.1109/CLUSTR.2007.4629276
+Multi-criteria scheduling of pipeline workflows.	Anne Benoit,Veronika Rehn-Sonigo,Yves Robert	10.1109/CLUSTR.2007.4629278
+Handling heterogeneous storage devices in clusters.	André Brinkmann,Toni Cortes	10.1109/CLUSTR.2007.4629199
+Scheduling malleable applications in multicluster systems.	Jérémy Buisson,Omer Ozan Sonmez,Hashim H. Mohamed,Wouter Lammers,Dick H. J. Epema	10.1109/CLUSTR.2007.4629252
+Cost-aware scheduling for heterogeneous enterprise machines (CASH&apos;EM).	Jennifer Burge,Parthasarathy Ranganathan,Janet L. Wiener	10.1109/CLUSTR.2007.4629273
+A Comparison of robustness metrics for scheduling DAGs on heterogeneous systems.	Louis-Claude Canon,Emmanuel Jeannot	10.1109/CLUSTR.2007.4629283
+Satisfying your dependencies with SuperMatrix.	Ernie Chan,Field G. Van Zee,Enrique S. Quintana-Ortí,Gregorio Quintana-Ortí,Robert A. van de Geijn	10.1109/CLUSTR.2007.4629221
+Toward power-aware computing with dynamic voltage scaling for heterogeneous platforms.	Laurent Choy,Serge G. Petiton,Mitsuhisa Sato	10.1109/CLUSTR.2007.4629282
+Multi-dimensional dynamic loop scheduling algorithms.	Anthony T. Chronopoulos,Lionel M. Ni,Satish Penmatsa	10.1109/CLUSTR.2007.4629237
+Optimal synchronization frequency for dynamic pipelined computations on heterogeneous systems.	Florina M. Ciorba,Ioannis Riakiotakis,Theodore Andronikos,Anthony T. Chronopoulos,George K. Papakonstantinou	10.1109/CLUSTR.2007.4629257
+The future of multi-core technologies.	Michael T. Clark,H. Peter Hofstee,Edward J. Barragy,Ian Buck,Stephen W. Keckler	10.1109/CLUSTR.2007.4629202
+High throughput grid computing with an IBM Blue Gene/L.	Jason Cope,Michael Oberg,Henry M. Tufo,Theron Voran,Matthew Woitaszek	10.1109/CLUSTR.2007.4629250
+A proposal of metaheuristics to schedule independent tasks in heterogeneous memory-constrained systems.	Javier Cuenca 0001,Domingo Giménez,José-Juan López-Espín,Juan-Pedro Martínez-Gallar	10.1109/CLUSTR.2007.4629259
+Identifying energy-efficient concurrency levels using machine learning.	Matthew Curtis-Maury,Karan Singh,Sally A. McKee,Filip Blagojevic,Dimitrios S. Nikolopoulos,Bronis R. de Supinski,Martin Schulz 0001	10.1109/CLUSTR.2007.4629274
+Identifying sources of Operating System Jitter through fine-grained kernel instrumentation.	Pradipta De,Ravi Kothari,Vijay Mann	10.1109/CLUSTR.2007.4629247
+The computer as software component: A mechanism for developing and testing resource management software.	Narayan Desai,Theron Voran,Ewing L. Lusk,Andrew Cherry	10.1109/CLUSTR.2007.4629217
+CHAF - an object-oriented framework for configuring applications in a clustered environment.	Augustus F. Diraviam,Ritu Agrawal,Madhur Bansal,Krishna Janakiraman	10.1109/CLUSTR.2007.4629258
+Dynamic Virtual Clustering.	Wesley Emeneker,Dan Stanzione	10.1109/CLUSTR.2007.4629220
+Scalable, fault-tolerant management of Grid Services.	Harshawardhan Gadgil,Geoffrey C. Fox,Shrideep Pallickara,Marlon E. Pierce	10.1109/CLUSTR.2007.4629249
+The science of programming dense linear algebra libraries.	Robert A. van de Geijn	10.1109/CLUSTR.2007.4629198
+Reliability-aware resource allocation in HPC systems.	Narasimha Raju Gottumukkala,Chokchai Leangsuksun,Narate Taerat,Raja Nassar,Stephen L. Scott	10.1109/CLUSTR.2007.4629245
+Improving system efficiency through scheduling and power management.	Ryan E. Grant,Ahmad Afsahi	10.1109/CLUSTR.2007.4629271
+Comparison and tuning of MPI implementations in a grid context.	Ludovic Hablot,Olivier Glück,Jean-Christophe Mignot,Stéphane Genaud,Pascale Vicat-Blanc Primet	10.1109/CLUSTR.2007.4629265
+Taste of AOP : Blending concerns in cluster computing software.	Hyuck Han,Hyungsoo Jung 0001,Heon Young Yeom,Dong-Young Lee	10.1109/CLUSTR.2007.4629223
+An architecture to perform NIC based MPI matching.	K. Scott Hemmert,Keith D. Underwood,Arun Rodrigues	10.1109/CLUSTR.2007.4629234
+Scheduling multiple divisible and indivisible tasks on bus networks.	Jie Hu 0005,Raymond Klefstad	10.1109/CLUSTR.2007.4629235
+Parallel iteration space alternate tiling Gauss-Seidel solver.	Changjun Hu,Jilin Zhang,Jue Wang 0013,Jianjiang Li	10.1109/CLUSTR.2007.4629262
+Multi-dimensional range query for data management using bloom filters.	Yu Hua 0001,Dan Feng 0001,Ting Xie	10.1109/CLUSTR.2007.4629260
+High performance virtual machine migration with RDMA over modern interconnects.	Wei Huang 0003,Qi Gao,Jiuxing Liu,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2007.4629212
+Dynamic scheduling of multi-processor tasks on clusters of clusters.	Sascha Hunold,Thomas Rauber,Gudula Rünger	10.1109/CLUSTR.2007.4629277
+Sequential and parallel implementation of a constraint-based algorithm for searching protein structures.	Sascha Hunold,Thomas Rauber,Georg Wille	10.1109/CLUSTR.2007.4629254
+Lightweight kernel-level primitives for high-performance MPI intra-node communication over multi-core systems.	Hyun-Wook Jin,Sayantan Sur,Lei Chai,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2007.4629263
+On developing a fast, cost-effective and non-invasive method to derive data center thermal maps.	Michael Jonas,Georgios Varsamopoulos,Sandeep K. S. Gupta	10.1109/CLUSTR.2007.4629269
+Some work in progress at IBM&apos;s Austin Research Lab.	Tom W. Keller	10.1109/CLUSTR.2007.4629272
+FlexRPC: A flexible Remote Procedure Call facility for modern cluster file systems.	Sang-Hoon Kim,Youngjae Lee,Jin-Soo Kim 0001	10.1109/CLUSTR.2007.4629241
+Zero-copy protocol for MPI using infiniband unreliable datagram.	Matthew J. Koop,Sayantan Sur,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2007.4629230
+Non-collective parallel I/O for global address space programming models.	Sriram Krishnamoorthy,Juan Piernas,Vinod Tipparaju,Jarek Nieplocha,P. Sadayappan	10.1109/CLUSTR.2007.4629215
+Towards an integrated IO and clustering solution using PCI express.	Venkata Krishnan	10.1109/CLUSTR.2007.4629239
+Dolphin express: A transparent approach to enhancing PCI Express.	Venkata Krishnan,Tim Miller,Herman Paraison	10.1109/CLUSTR.2007.4629266
+Performance vs. accuracy trade-offs for large-scale image analysis applications.	Vijay S. Kumar,Tahsin M. Kurç,Jun Kong,Ümit V. Çatalyürek,Metin N. Gurcan,Joel H. Saltz	10.1109/CLUSTR.2007.4629222
+An optimal scheduling scheme for tiling in distributed systems.	Konstantinos Kyriakopoulos,Anthony T. Chronopoulos,Lionel M. Ni	10.1109/CLUSTR.2007.4629240
+Red storm IO performance analysis.	James H. Laros III,Lee Ward,Ruth Klundt,Sue Kelly,James L. Tomkins,Brian R. Kellogg	10.1109/CLUSTR.2007.4629216
+Building the communication performance model of heterogeneous clusters based on a switched network.	Alexey L. Lastovetsky,Vladimir Rychkov	10.1109/CLUSTR.2007.4629284
+The software interface for a cluster interconnect based on the Kautz digraph.	Jud Leonard,Avi Purkayastha,Matt Reilly,Tushar Mohan	10.1109/CLUSTR.2007.4629231
+Integrating hardware management with cluster administration toolkits.	Jacob Liberman,Garima Kochhar,Arun Rajan,Munira Hussain,Onur Celebioglu	10.1109/CLUSTR.2007.4629267
+A reliability-aware approach for an optimal checkpoint/restart model in HPC environments.	Yudan Liu,Raja Nassar,Chokchai Leangsuksun,Nichamon Naksinehaboon,Mihaela Paun,Stephen L. Scott	10.1109/CLUSTR.2007.4629264
+Performance analysis of parallel database sortoperations in a heterogenous Grid Environment.	Werner Mach,Erich Schikuta	10.1109/CLUSTR.2007.4629279
+A pipelined parallel OSIC algorithm based on the square root Kalman Filter for heterogeneous networks.	Francisco-Jose Martínez-Zaldívar,Antonio-Manuel Vidal-Maciá,Domingo Giménez	10.1109/CLUSTR.2007.4629281
+Parallel compression of correlated files.	Ehud Meiri,Amnon Barak	10.1109/CLUSTR.2007.4629242
+Measurement-based power profiling of data center equipment.	Tridib Mukherjee,Georgios Varsamopoulos,Sandeep K. S. Gupta,Sanjay Rungta	10.1109/CLUSTR.2007.4629270
+Network performance model for TCP/IP based cluster computing.	Akihiro Nomura 0002,Hiroya Matsuba,Yutaka Ishikawa	10.1109/CLUSTR.2007.4629232
+Blutopia: Stackable storage for cluster management.	Fábio Oliveira,Gorka Guardiola,Jay A. Patel,Eric Van Hensbergen	10.1109/CLUSTR.2007.4629243
+Parallel access of out-of-core dense extendible arrays.	Ekow J. Otoo,Doron Rotem	10.1109/CLUSTR.2007.4629214
+Performance analysis of a user-level memory server.	Scott Pakin,Greg Johnson	10.1109/CLUSTR.2007.4629238
+Designing high-end computing systems with InfiniBand and10-Gigabit Ethernet iWARP.	Dhabaleswar K. Panda 0001,Pavan Balaji	10.1109/CLUSTR.2007.4629200
+Security-aware resource management for real-time applications on clusters.	Xiao Qin 0001	10.1109/CLUSTR.2007.4629201
+Motivating co-ordination of power management solutions in data centers.	Ramya Raghavendra,Parthasarathy Ranganathan,Vanish Talwar,Xiaoyun Zhu,Zhikui Wang	10.1109/CLUSTR.2007.4629268
+Efficient offloading of collective communications in large-scale systems.	José Carlos Sancho,Darren J. Kerbyson,Kevin J. Barker	10.1109/CLUSTR.2007.4629229
+Transparent system-level migration of PGAS applications using Xen on InfiniBand.	Daniele Paolo Scarpazza,Patrick Mullaney,Oreste Villa,Fabrizio Petrini,Vinod Tipparaju,D. M. L. Brown,Jarek Nieplocha	10.1109/CLUSTR.2007.4629219
+Message from the conference chairs, Cluster 2007.	Karl W. Schulz,Kent F. Milfeld	10.1109/CLUSTR.2007.4629190
+The challenges and rewards of petascale clusters.	Mark Seager	10.1109/CLUSTR.2007.4629197
+Enabling JaSkel skeletons for clusters and computational Grids.	João Luís Sobral,Alberto José Proença	10.1109/CLUSTR.2007.4629251
+Runtime system support for software-guided disk power management.	Seung Woo Son 0001,Mahmut T. Kandemir	10.1109/CLUSTR.2007.4629226
+Effects of packet pacing for MPI programs in a Grid environment.	Ryousei Takano,Motohiko Matsuda,Tomohiro Kudoh,Yuetsu Kodama,Fumihiro Okazaki,Yutaka Ishikawa	10.1109/CLUSTR.2007.4629253
+Thermal-aware task scheduling for data centers through minimizing heat recirculation.	Qinghui Tang,Sandeep K. S. Gupta,Georgios Varsamopoulos	10.1109/CLUSTR.2007.4629225
+Evaluation of fault-tolerant policies using simulation.	Anand Tikotekar,Geoffroy Vallée,Thomas J. Naughton,Stephen L. Scott,Chokchai Leangsuksun	10.1109/CLUSTR.2007.4629244
+Efficient asynchronous memory copy operations on multi-core systems and I/OAT.	Karthikeyan Vaidyanathan,Lei Chai,Wei Huang 0003,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2007.4629228
+High performance clusters using NEOS.	Richert Wang,Enrique Cauich,Daniel S. Valencia,Isaac D. Scherson	10.1109/CLUSTR.2007.4629233
+Optimized scheduling for group communication in data parallelism.	Jue Wang 0013,Changjun Hu,Jilin Zhang	10.1109/CLUSTR.2007.4629255
+Evaluating the EASY-backfill job scheduling of static workloads on clusters.	Adam K. L. Wong,Andrzej M. Goscinski	10.1109/CLUSTR.2007.4629218
+The design of MPI based distributed shared memory systems to support OpenMP on clusters.	H&apos;sien J. Wong,Alistair P. Rendell	10.1109/CLUSTR.2007.4629236
+Evaluating memory energy efficiency in parallel I/O workloads.	Jianhui Yue,Yifeng Zhu,Zhao Cai	10.1109/CLUSTR.2007.4629213
+A feasibility analysis of power-awareness and energy minimization in modern interconnects for high-performance computing.	Reza Zamani,Ahmad Afsahi,Ying Qian,V. Carl Hamacher	10.1109/CLUSTR.2007.4629224
+A layered design methodology of cluster system stack.	Jianfeng Zhan,Lei Wang 0004,Bibo Tu,Zhihong Zhang,Yu Wen,Yuansheng Chen,Wei Zhou,Dan Meng,Ninghui Sun	10.1109/CLUSTR.2007.4629256
+System-level performance phase characterization for on-demand resource provisioning.	Jian Zhang 0005,Jaeseok Kim,Mazin S. Yousif,Robert Carpenter,Renato J. O. Figueiredo	10.1109/CLUSTR.2007.4629261
+Anomaly localization in large-scale clusters.	Ziming Zheng,Yawei Li,Zhiling Lan	10.1109/CLUSTR.2007.4629246
+Proceedings of the 2007 IEEE International Conference on Cluster Computing, 17-20 September 2007, Austin, Texas, USA		

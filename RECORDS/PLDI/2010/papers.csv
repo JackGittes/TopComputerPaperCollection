@@ -1,0 +1,43 @@
+Traceable data types for self-adjusting computation.	Umut A. Acar,Guy E. Blelloch,Ruy Ley-Wild,Kanat Tangwongsan,Duru Türkoglu	10.1145/1806596.1806650
+Green: a framework for supporting energy-conscious programming using controlled approximation.	Woongki Baek,Trishul M. Chilimbi	10.1145/1806596.1806620
+Breadcrumbs: efficient context sensitivity for dynamic bug detection analyses.	Michael D. Bond,Graham Z. Baker,Samuel Z. Guyer	10.1145/1806596.1806599
+PACER: proportional detection of data races.	Michael D. Bond,Katherine E. Coons,Kathryn S. McKinley	10.1145/1806596.1806626
+Line-up: a complete and automatic linearizability checker.	Sebastian Burckhardt,Chris Dern,Madanlal Musuvathi,Roy Tan	10.1145/1806596.1806634
+FlumeJava: easy, efficient data-parallel pipelines.	Craig Chambers,Ashish Raniwala,Frances Perry,Stephen Adams 0001,Robert R. Henry 0001,Robert Bradshaw,Nathan Weizenbaum	10.1145/1806596.1806638
+Smooth interpretation.	Swarat Chaudhuri,Armando Solar-Lezama	10.1145/1806596.1806629
+Type-preserving compilation of end-to-end verification of security enforcement.	Juan Chen 0002,Ravi Chugh,Nikhil Swamy	10.1145/1806596.1806643
+Evaluating iterative optimization across 1000 datasets.	Yang Chen,Yuanjie Huang,Lieven Eeckhout,Grigori Fursin,Liang Peng,Olivier Temam,Chengyong Wu	10.1145/1806596.1806647
+Ur: statically-typed metaprogramming with type-level record computation.	Adam Chlipala	10.1145/1806596.1806612
+2010 Athena lecture.	Susan J. Eggers	10.1145/1806596.1806608
+Parameterized verification of transactional memories.	Michael Emmi,Rupak Majumdar,Roman Manevich	10.1145/1806596.1806613
+Adversarial memory for detecting destructive races.	Cormac Flanagan,Stephen N. Freund	10.1145/1806596.1806625
+The reachability-bound problem.	Sumit Gulwani,Florian Zuleger	10.1145/1806596.1806630
+Software data spreading: leveraging distributed caches to improve single thread performance.	Md. Kamruzzaman 0001,Steven Swanson,Dean M. Tullsen	10.1145/1806596.1806648
+Cache topology aware computation mapping for multicores.	Mahmut T. Kandemir,Taylan Yemliha,Sai Prashanth Muralidhara,Shekhar Srikantaiah,Mary Jane Irwin,Yuanrui Zhang	10.1145/1806596.1806605
+Mixing type checking and symbolic execution.	Yit Phang Khoo,Bor-Yuh Evan Chang,Jeffrey S. Foster	10.1145/1806596.1806645
+Complete functional synthesis.	Viktor Kuncak,Mikaël Mayer,Ruzica Piskac,Philippe Suter	10.1145/1806596.1806632
+Jinn: synthesizing dynamic bug detectors for foreign language interfaces.	Byeongcheol Lee,Ben Wiedermann,Martin Hirzel,Robert Grimm 0001,Kathryn S. McKinley	10.1145/1806596.1806601
+Printing floating-point numbers quickly and accurately with integers.	Florian Loitsch	10.1145/1806596.1806623
+DRFX: a simple and efficient memory model for concurrent programming languages.	Daniel Marino,Abhayendra Singh,Todd D. Millstein,Madanlal Musuvathi,Satish Narayanasamy	10.1145/1806596.1806636
+Resolving and exploiting the k-CFA paradox: illuminating functional vs. object-oriented program analysis.	Matthew Might,Yannis Smaragdakis,David Van Horn	10.1145/1806596.1806631
+Evaluating the accuracy of Java profilers.	Todd Mytkowicz,Amer Diwan,Matthias Hauswirth,Peter F. Sweeney	10.1145/1806596.1806618
+Lock elision for read-only critical sections in Java.	Takuya Nakaike,Maged M. Michael	10.1145/1806596.1806627
+Composing parallel software efficiently with lithe.	Heidi Pan,Benjamin Hindman,Krste Asanovic	10.1145/1806596.1806639
+Schism: fragmentation-tolerant real-time garbage collection.	Filip Pizlo,Lukasz Ziarek,Petr Maj,Antony L. Hosking,Ethan Blanton,Jan Vitek	10.1145/1806596.1806615
+Safe programmable speculative parallelism.	Prakash Prabhu,Ganesan Ramalingam,Kapil Vaswani	10.1145/1806596.1806603
+GUESSTIMATE: a programming model for collaborative distributed systems.	Kaushik Rajan,Sriram K. Rajamani,Shashank Yaduvanshi	10.1145/1806596.1806621
+An analysis of the dynamic behavior of JavaScript programs.	Gregor Richards,Sylvain Lebresne,Brian Burg,Jan Vitek	10.1145/1806596.1806598
+Decoupled lifeguards: enabling path optimizations for dynamic correctness checking tools.	Olatunji Ruwase,Shimin Chen,Phillip B. Gibbons,Todd C. Mowry	10.1145/1806596.1806600
+Z-rays: divide arrays and conquer speed and flexibility.	Jennifer B. Sartor,Stephen M. Blackburn,Daniel Frampton,Martin Hirzel,Kathryn S. McKinley	10.1145/1806596.1806649
+Inferable object-oriented typed assembly language.	Ross Tate,Juan Chen,Chris Hawblitzel	10.1145/1806596.1806644
+Bringing extensibility to verified compilers.	Zachary Tatlock,Sorin Lerner	10.1145/1806596.1806611
+Supporting speculative parallelization in the presence of dynamic data structures.	Chen Tian 0002,Min Feng 0001,Rajiv Gupta 0001	10.1145/1806596.1806604
+MemSAT: checking axiomatic specifications of memory models.	Emina Torlak,Mandana Vaziri,Julian Dolby	10.1145/1806596.1806635
+Mint: Java multi-stage programming using weak separability.	Edwin M. Westbrook,Mathias Ricken,Jun Inoue 0001,Yilong Yao,Tamer Abdelatif,Walid Taha	10.1145/1806596.1806642
+A context-free markup language for semi-structured text.	Qian Xi,David Walker	10.1145/1806596.1806622
+Finding low-utility data structures.	Guoqing Xu 0001,Nick Mitchell,Matthew Arnold,Atanas Rountev,Edith Schonberg,Gary Sevitsky	10.1145/1806596.1806617
+Detecting inefficiently-used containers to avoid bloat.	Guoqing Xu 0001,Atanas Rountev	10.1145/1806596.1806616
+Safe to the last instruction: automated verification of a type-safe operating system.	Jean Yang 0001,Chris Hawblitzel	10.1145/1806596.1806610
+A GPGPU compiler for memory optimization and parallelism management.	Yi Yang 0018,Ping Xiang,Jingfei Kong,Huiyang Zhou	10.1145/1806596.1806606
+Bamboo: a data-centric, object-oriented approach to many-core software.	Jin Zhou,Brian Demsky	10.1145/1806596.1806640
+Proceedings of the 2010 ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2010, Toronto, Ontario, Canada, June 5-10, 2010	Benjamin G. Zorn,Alexander Aiken	10.1145/1806596

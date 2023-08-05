@@ -1,0 +1,125 @@
+Logic Simulation and Parallel Processing.	Vishwani D. Agrawal,Srimat T. Chakradhar	10.1109/ICCAD.1990.129963
+Distributed Methodology Management for Design-in-the-Large.	Wayne Allen,Douglas Rosenthal,Kenneth W. Fiduk	10.1109/ICCAD.1990.129921
+Implicit State Transition Graphs: Applications to Sequential Logic Synthesis and Test.	Pranav Ashar,Abhijit Ghosh,Srinivas Devadas,A. Richard Newton	10.1109/ICCAD.1990.129847
+A Parallel Algorithm for Hierarchical Circuit Extraction.	Krishna P. Belkhale,Prithviraj Banerjee	10.1109/ICCAD.1990.129890
+SNEL: A Switch-Level Simulator Using Multiple Levels of Functional Abstraction.	David T. Blaauw,Robert B. Mueller-Thuns,Daniel G. Saab,Prithviraj Banerjee,Jacob A. Abraham	10.1109/ICCAD.1990.129842
+Knowledge Based Design Flow Management.	Felix Bretschneider,Christa Kopf,Helmut Lagger,Arding Hsu,Elizabeth Wei	10.1109/ICCAD.1990.129922
+A Detailed Router for Field-Programmable Gate Arrays.	Stephen Dean Brown,Jonathan Rose,Zvonko G. Vranesic	10.1109/ICCAD.1990.129931
+Testability-Preserving Circuit Transformations.	Michael J. Bryan,Srinivas Devadas,Kurt Keutzer	10.1109/ICCAD.1990.129952
+An Optimal Channel Pin Assignment Algorithm.	Yang Cai 0003,D. F. Wong 0001	10.1109/ICCAD.1990.129826
+Tautology Checking Using Cross-Controllability and Cross-Observability Relations.	Eduard Cerny,C. Mauras	10.1109/ICCAD.1990.129833
+Rectilinear Steiner Tree Construction by Local and Global Refinement.	Ting-Hai Chao,Yu-Chin Hsu	10.1109/ICCAD.1990.129945
+Mixed-Level Sequential Test Generation Using a Nine-Valued Relaxation Algorithm.	Chun-Hung Chen,Jacob A. Abraham	10.1109/ICCAD.1990.129888
+A Single-State-Transition Fault Model for Sequential Machines.	Kwang-Ting Cheng,Jing-Yang Jou	10.1109/ICCAD.1990.129887
+A History Model for Managing the VLSI Design Process.	Tzi-cker Chiueh,Randy H. Katz	10.1109/ICCAD.1990.129924
+ATPG Aspects of FSM Verification.	Hyunwoo Cho,Gary D. Hachtel,Seh-Woong Jeong,Bernard Plessier,Eric M. Schwarz,Fabio Somenzi	10.1109/ICCAD.1990.129861
+Constraint-Based Channel Routing for Analog and Mixed Analog/Digital Circuits.	Umakanta Choudhury,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129879
+A New Template Based Approach to Module Generation.	John Conway,Gerard F. M. Beenker	10.1109/ICCAD.1990.129972
+A Unified Framework for the Formal Verification of Sequential Circuits.	Olivier Coudert,Jean Christophe Madre	10.1109/ICCAD.1990.129859
+PHIFACT, a Boolean Preprocessor for Multi-Level Logic Synthesis.	F. Crowet,Marc Davio,C. Dierieck,J. Durieu,G. Louis,Chantal Ykman-Couvreur	10.1109/ICCAD.1990.129966
+Rubber Band Routing and Dynamic Data Representation.	Wayne Wei-Ming Dai,Raymond Kong,Jeffrey Jue	10.1109/ICCAD.1990.129838
+Observability Don&apos;t Care Sets and Boolean Relations.	Maurizio Damiani,Giovanni De Micheli	10.1109/ICCAD.1990.129965
+An Automata-Theoretic Approach to Behavioral Equivalence.	Srinivas Devadas,Kurt Keutzer	10.1109/ICCAD.1990.129832
+Preform: A Process Independent Symbolic Layout System.	Jean-Claude Dufourd,Jean-François Naviner,Francis Jutand	10.1109/ICCAD.1990.129893
+A Clock Net Reassignment Algorithm Usign Voronoi Diagram.	Masato Edahiro	10.1109/ICCAD.1990.129942
+Automatic High Level Syntesis of Partitioned Busses.	Christian Ewering	10.1109/ICCAD.1990.129909
+Accurate and Efficient Evaluation of Circuit Yield and Yield Gradients.	Peter Feldmann,Stephen W. Director	10.1109/ICCAD.1990.129857
+Automatic and Semi-Automatic Verification of Switch-Level Circuits with Temporal Logic and Binary Decision Diagrams.	Masahiro Fujita,Yusuke Matsunaga,Takeo Kakuda	10.1109/ICCAD.1990.129834
+Finding Clusters in VLSI Circuits.	Jörn Garbers,Hans Jürgen Prömel,Angelika Steger	10.1109/ICCAD.1990.129970
+A Global Optimization Approach for Architectural Synthesis.	Catherine H. Gebotys,Mohamed I. Elmasry	10.1109/ICCAD.1990.129896
+On the Efficiency of the Transition Fault Model for Delay Faults.	Manfred Geilert,Jürgen Alt,Michael Zimmermann	10.1109/ICCAD.1990.129900
+Race Detection for Two-Phase Systems.	Joel Grodstein,Jim Montanaro,Susanne Marino	10.1109/ICCAD.1990.129829
+Constraint Identification for Timing Verification.	Joel Grodstein,Jengwei Pan,William J. Grundmann,Bruce Gieseke,Yao-Tsung Yen	10.1109/ICCAD.1990.129828
+XREF/COUPLING: Capacitive Coupling Error Checker.	William J. Grundmann,Yao-Tsung Yen	10.1109/ICCAD.1990.129892
+Partitioning of Functional Models of Synchronous Digital Systems.	Rajesh K. Gupta 0001,Giovanni De Micheli	10.1109/ICCAD.1990.129884
+An Algebra for Switch-Level Simulation.	Ibrahim N. Hajj	10.1109/ICCAD.1990.129961
+A Data Flow Based Architecture for CAD Frameworks.	Peter van den Hamer,Menno Treffers	10.1109/ICCAD.1990.129959
+Three-Dimensional Routing for Multilayer Ceramic Printed Circuit Boards.	Akihiko Hanafusa,Yasuhiro Yamashita,Mitsuru Yasuda	10.1109/ICCAD.1990.129932
+A Routing System for Mixed A/D Standard Cell LSIs.	Ikuo Harada,Hitoshi Kitazawa,Takao Kaneko	10.1109/ICCAD.1990.129930
+VLSI Placement Using Uncertain Costs.	Cheryl Harkness,Daniel P. Lopresti	10.1109/ICCAD.1990.129919
+Topological Routing Using Geometric Information.	Shinichiro Haruyama,D. F. Wong 0001,Donald S. Fussell	10.1109/ICCAD.1990.129825
+Simulating Electromagnetic Radiation of Printed Circuit Boards.	Hansruedi Heeb,Albert E. Ruehli,J. Janak,Shahrokh Daijavad	10.1109/ICCAD.1990.129934
+Optimal Orientations of Transistor Chains.	T. W. Her,D. F. Wong 0001,T. H. Freeman	10.1109/ICCAD.1990.129971
+GRCA: A Global Approach for Floorplanning Synthesis in VLSI Macrocell Design.	Alexander Herrigel	10.1109/ICCAD.1990.129866
+An Exact Algorithm for Single-Layer Wire-Length Minimization.	Jan-Ming Ho,Majid Sarrafzadeh,Atsushi Suzuki	10.1109/ICCAD.1990.129943
+A Usable Circuit Optimizer for Designers.	Dale E. Hocevar,Rajeev Arora,Uttiya Dasgupta,Sattam Dasgupta,Nagaraj Subramanyam,Sham Kashyap	10.1109/ICCAD.1990.129905
+DC Parameterized Piecewise-Function Transistor Models for Bipolar and MOS Logic Stage Delay Evaluation.	Douglas R. Holberg,Santanu Dutta,Lawrence T. Pillage	10.1109/ICCAD.1990.129977
+An O(n3logn)-Heuristic for Microcode Bit Optimization.	Se-Kyoung Hong,In-Cheol Park,Chong-Min Kyung	10.1109/ICCAD.1990.129874
+AWEsim: A Program for the Efficient Analysis of Linear(ized) Circuits.	Xiaoli Huang,Vivek Raghavan,Ronald A. Rohrer	10.1109/ICCAD.1990.129974
+Computing the Error Escape Probability in Count-Based Compaction Schemes.	André Ivanov,Yervant Zorian	10.1109/ICCAD.1990.129927
+A Fast Algorithm for Performance-Driven Placement.	Michael A. B. Jackson,Arvind Srinivasan,Ernest S. Kuh	10.1109/ICCAD.1990.129916
+SIMCURRENT: An Efficient Program for the Estimation of the Current Flow of Complex CMOS Circuits.	Ulrich Jagau	10.1109/ICCAD.1990.129935
+MOSP: Module Selection for Pipelined Designs with Multi-Cycle Operations.	Rajiv Jain	10.1109/ICCAD.1990.129883
+Mixed-Mode Incremental Simulation and Concurrent Fault Simulation.	Yun-Cheng Ju,Fred L. Yang,Resve A. Saleh	10.1109/ICCAD.1990.129868
+CADICS - Cyclic Analog-to-Digital Converter Synthesis.	Gani Jusuf,Paul R. Gray,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129904
+A New Class of Steiner Trees Heuristics with Good Performance: The Iterated 1-Steiner-Approach.	Andrew B. Kahng,Gabriel Robins	10.1109/ICCAD.1990.129944
+Touch and Cross Router.	Kaoru Kawamura,Tatsuya Shindo,Toshiyuki Shibuya,Hideki Miwatari,Yoshie Ohki	10.1109/ICCAD.1990.129839
+Partial Scan by Use of Empirical Testability.	Kee Sup Kim,Charles R. Kime	10.1109/ICCAD.1990.129912
+Feedback-Driven Datapath Optimization in Fasolt.	David Knapp	10.1109/ICCAD.1990.129908
+A Routing Algorithm for Harvesting Multipipeline Arrays with Small Intercell and Pipeline Delays.	Peter Koo,Fabrizio Lombardi,Donatella Sciuto	10.1109/ICCAD.1990.129824
+Test Vector Minimization During Logic Synthesis.	Tsu-Wei Ku,Wei-Kong Chia	10.1109/ICCAD.1990.129913
+A Framework Environment for Logic Design Support System.	Kaname Kuroki,Nobuyoshi Nomizu,Shigenobu Suzuki,Kazutoshi Takahashi	10.1109/ICCAD.1990.129980
+Diffusion - An Analytic Procedure Applied to Macro Cell Placement.	Chong-Min Kyung,Peter V. Kraus,Dieter A. Mlynski	10.1109/ICCAD.1990.129852
+Logic Compilation from Graphical Dependency Notation.	Jukka Lahti,Jorma Kivelä	10.1109/ICCAD.1990.129957
+MIS-MV: Optimization of Multi-Level Logic with Multiple-Valued Inputs.	Luciano Lavagno,Sharad Malik,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129981
+An Integrated Hot-Carrier Degradation Simulator for VLSI Reliability Analysis.	Yusuf Leblebici,Sung-Mo Kang	10.1109/ICCAD.1990.129936
+A New Method for Assigning Signal Flow Directions to MOS Transistors.	Kuen-Jong Lee,Rajiv Gupta 0002,Melvin A. Breuer	10.1109/ICCAD.1990.129962
+Efficient Pole Zero Sensitivity Calculation in AWE.	John Y. Lee,Xiaoli Huang,Ronald A. Rohrer	10.1109/ICCAD.1990.129975
+On Determining Scan Flip-Flops in Partial-Scan Designs.	Dong-Ho Lee,Sudhakar M. Reddy	10.1109/ICCAD.1990.129914
+A Robust Framework for Hierarchical Floorplanning with Integrated Global Wiring.	Thomas Lengauer,Rolf Müller	10.1109/ICCAD.1990.129865
+Efficient Automatic Diagnosis of Digital Circuits.	Heh-Tyan Liaw,Jia-Horng Tsaih,Chen-Shang Lin	10.1109/ICCAD.1990.129954
+Minimization of Symbolic Relations.	Bill Lin 0001,Fabio Somenzi	10.1109/ICCAD.1990.129848
+Don&apos;t Care Minimization of Multi-Level Sequential Logic Networks.	Bill Lin 0001,Hervé J. Touati,A. Richard Newton	10.1109/ICCAD.1990.129940
+Contest: A Fast ATPG Tool for Very Large Combinatorial Circuits.	Udo Mahlstedt,Torsten Grüning,Cengiz Özcan,Wilfried Daehn	10.1109/ICCAD.1990.129886
+A Routing Methodology for Analog Integrated Circuits.	Enrico Malavasi,Umakanta Choudhury,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129880
+Performance Optimization of Pipelined Circuits.	Sharad Malik,Kanwar Jit Singh,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129939
+QUIETEST: A Quiescent Current Testing Methodology for Detecting Leakage Faults.	Weiwei Mao,Ravi K. Gulati,Deepak K. Goel,Michael D. Ciletti	10.1109/ICCAD.1990.129902
+Multi-Level Logic Minimization Across Latch Boundaries.	Yusuke Matsunaga,Masahiro Fujita,Takeo Kakuda	10.1109/ICCAD.1990.129938
+Optimization of the Parallel Technique for Compiled Unit-Delay Simulation.	Peter M. Maurer	10.1109/ICCAD.1990.129843
+A Parallel Block-Diagonal Preconditioned Conjugate-Gradient Solution Algorithm for Circuit and Device Simulations.	Kartikeya Mayaram,Ping Yang 0001,Jue-Hsien Chern,Richard Burch,Lawrence A. Arledge Jr.,Paul F. Cox	10.1109/ICCAD.1990.129949
+Congestion-Driven Placement Using a New Multi-Partitioning Heuristic.	Stefan Mayrhofer,Ulrich Lauther	10.1109/ICCAD.1990.129917
+A New Global Router Based on a Flow Model and Linear Assignment.	G. Meixner,Ulrich Lauther	10.1109/ICCAD.1990.129836
+Computing Parametric Yield Accurately and Efficiently.	Linda Milor,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129856
+Optimal Test Set Design for Analog Circuits.	Linda Milor,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129906
+A CAD Process Scheduling Technique.	Toshiaki Miyazaki,Tamio Hoshino,Makoto Endo	10.1109/ICCAD.1990.129923
+FOLM-Planner: A New Floorplanner with a Frame Overlapping Floorplan Model Suitable for SOG (Sea-of-Gates) Type Gate Arrays.	Masako Murofushi,Masaaki Yamada,Takashi Mitsuhashi	10.1109/ICCAD.1990.129863
+Multi-Level Optimization for Large Scale ASICS.	Akira Nagoya,Yukihiro Nakamura,Kiyoshi Oguri,Ryo Nomura	10.1109/ICCAD.1990.129982
+SALSA: A New Approach to Scheduling with Timing Constraints.	John A. Nestor,Ganesh Krishnamoorthy	10.1109/ICCAD.1990.129897
+Extraction of Functional Information from Combinatorial Circuits.	M. Ohmura,Hiroto Yasuura,Keikichi Tamaru	10.1109/ICCAD.1990.129873
+HS: A Hierarchical Search Package for CAD Data.	Nishit P. Parikh,Chi-Yuan Lo,Anoop Singhal,Kwok W. Wu	10.1109/ICCAD.1990.129958
+Floorplanning with Pin Assignment.	Massoud Pedram,Malgorzata Marek-Sadowska,Ernest S. Kuh	10.1109/ICCAD.1990.129851
+A Timing-Driven Global Router for Custom Chip Design.	Somchai Prasitjutrakul,William J. Kubitz	10.1109/ICCAD.1990.129837
+On the Diagnostic Resolution of Signature Analysis.	Janusz Rajski,Jerzy Tyszer,Babak Salimi	10.1109/ICCAD.1990.129926
+Exploitation of Periodicity in Logic Simulation of Synchronous Circuits.	Rahul Razdan,Gabriel P. Bischoff,Ernst G. Ulrich	10.1109/ICCAD.1990.129841
+Evaluation and Synthesis of Self-Monitoring State Machines.	Scott H. Robinson,John Paul Shen	10.1109/ICCAD.1990.129901
+The Component Sythesis Algorithm: Technology Mapping for Register Transfer Descriptions.	Elke A. Rundensteiner,Daniel Gajski,Lubomir Bic	10.1109/ICCAD.1990.129882
+Partial Detectability Profiles.	Paul G. Ryan,W. Kent Fuchs	10.1109/ICCAD.1990.129928
+check Tc and min Tc: Timing Verification and Optimal Clocking of Synchronous Digtal Circuits.	Karem A. Sakallah,Trevor N. Mudge,Kunle Olukotun	10.1109/ICCAD.1990.129979
+Timing Optimization with Testability Considerations.	Alexander Saldanha,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli,Kwang-Ting Cheng	10.1109/ICCAD.1990.129953
+A Hierarchical Circuit Extractor Based on New Cell Overlap Analysis.	Hirotoshi Sawada	10.1109/ICCAD.1990.129891
+A High-Packing Density Module Generator for Bipolar Analog LSIs.	Yoichi Shiraishi,Mitsuyuki Kimura,Kazuhiko Kobayashi,Tetsuro Hino,Miki Seriuchi,Manabu Kusaoke	10.1109/ICCAD.1990.129878
+Parallel Simulation Algorithms for Grid-Based Analog Signal Processors.	Luís Miguel Silveira,Andrew Lumsdaine,Jacob White 0001	10.1109/ICCAD.1990.129948
+Exploiting the Special Structure of Conflict and Compatibility Graphs in High-Level Synthesis.	D. L. Springer,Donald E. Thomas	10.1109/ICCAD.1990.129895
+Algorithms for Discrete Function Manipulation.	Arvind Srinivasan,Timothy Kam,Sharad Malik,Robert K. Brayton	10.1109/ICCAD.1990.129849
+A Hierarchical Approach for Testing Large Circuits.	Susana Stoica	10.1109/ICCAD.1990.129899
+Design for Circuit Quality: Yield Maximization, Minimax, and Taguchi Approach.	M. A. Styblinski	10.1109/ICCAD.1990.129855
+New Algorithms for the Placement and Routing of Macro Cells.	William Swartz,Carl Sechen	10.1109/ICCAD.1990.129918
+Analysis of High-Speed VLSI Interconnects Using the Asymptotic Waveform Evaluation Technique.	Tak K. Tang,Michel S. Nakhla	10.1109/ICCAD.1990.129976
+An Algorithm for Locating Logic Design Errors.	Masahiro Tomita,Hong-Hai Jiang,Tamotsu Yamamoto,Yoshihiro Hayashi	10.1109/ICCAD.1990.129955
+Implicit State Enumeration of Finite State Machines Using BDDs.	Hervé J. Touati,Hamid Savoj,Bill Lin 0001,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.1990.129860
+Circuit Simulation Algorithms on a Distributed Memory Multiprocessor System.	John A. Trotter,Prathima Agrawal	10.1109/ICCAD.1990.129947
+Fast Overlapped Scattered Array Storage Schemes for Sparse Matrices.	John A. Trotter,Prathima Agrawal	10.1109/ICCAD.1990.129950
+Data Path Construction and Refinement.	Fur-Shing Tsai,Yu-Chin Hsu	10.1109/ICCAD.1990.129910
+Optimized Synthesis of Asynchronous Control Circuits from Graph-Theoretic Specifications.	Peter Vanbekbergen,Francky Catthoor,Gert Goossens,Hugo De Man	10.1109/ICCAD.1990.129875
+Fast Switch-Level Fault Simulation Using Functional Fault Modeling.	Evstratios Vandris,Gerald E. Sobelman	10.1109/ICCAD.1990.129844
+A Method for Concurrent Decomposition and Factorization of Boolean Expressions.	Jagadeesh Vasudevamurthy,Janusz Rajski	10.1109/ICCAD.1990.129967
+Floorplanning by Topological Constraint Reduction.	Gopalakrishnan Vijayan,Ren-Song Tsay	10.1109/ICCAD.1990.129853
+Incorporation of Inductors in Piecewise Approximate Circuit Simulation.	Chandramouli Visweswariah,Peter Feldmann,Ronald A. Rohrer	10.1109/ICCAD.1990.129869
+High-Level Delay Estimation for Technology-Independent Logic Equations.	David E. Wallace,Mandalagiri S. Chandrasekhar	10.1109/ICCAD.1990.129876
+Analysis of VLSI Microconductor Systems by Bi-Level Waveform Relaxation.	Rui Wang,Omar Wing	10.1109/ICCAD.1990.129870
+A Two-Level Two-Way Partitioning Algorithm.	Yen-Chuen A. Wei,Chung-Kuan Cheng	10.1109/ICCAD.1990.129969
+An Algorithm for Nearly-Minimal Collapsing of Finite-State Machine Networks.	Wayne H. Wolf	10.1109/ICCAD.1990.129846
+Partitioning Algorithms for Layout Synthesis from Register-Transfer Netlists.	Allen C.-H. Wu,Daniel Gajski	10.1109/ICCAD.1990.129864
+Timing Constraints for Correct Performance.	Habib Youssef,Eugene Shragowitz	10.1109/ICCAD.1990.129830
+Measuring Error Propagation in Waveform Relaxation Algorithms.	Charles A. Zukowski,George Gristede,Albert E. Ruehli	10.1109/ICCAD.1990.129871
+IEEE/ACM International Conference on Computer-Aided Design, ICCAD 1990, Santa Clara, CA, USA, November 11-15, 1990. Digest of Technical Papers		

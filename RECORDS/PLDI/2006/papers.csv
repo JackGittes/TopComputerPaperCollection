@@ -1,0 +1,37 @@
+An experimental analysis of self-adjusting computation.	Umut A. Acar,Guy E. Blelloch,Matthias Blume,Kanat Tangwongsan	10.1145/1133981.1133993
+Compiler and runtime support for efficient software transactional memory.	Ali-Reza Adl-Tabatabai,Brian T. Lewis,Vijay Menon 0002,Brian R. Murphy,Bratin Saha,Tatiana Shpeisman	10.1145/1133981.1133985
+Shared memory programming for large scale machines.	Christopher Barton,Calin Cascaval,George Almási 0001,Yili Zheng,Montse Farreras,Siddhartha Chatterjee,José Nelson Amaral	10.1145/1133981.1133995
+DieHard: probabilistic memory safety for unsafe languages.	Emery D. Berger,Benjamin G. Zorn	10.1145/1133981.1134000
+Automatic instruction scheduler retargeting by reverse-engineering.	Matthew J. Bridges,Neil Vachharajani,Guilherme Ottoni,David I. August	10.1145/1133981.1134008
+The Atomos transactional programming language.	Brian D. Carlstrom,Austen McDonald,Hassan Chafi,JaeWoong Chung,Chi Cao Minh,Christoforos E. Kozyrakis,Kunle Olukotun	10.1145/1133981.1133983
+Profile-guided proactive garbage collection for locality optimization.	Wen-ke Chen,Sanjay Bhansali,Trishul M. Chilimbi,Xiaofeng Gao 0003,Weihaw Chuang	10.1145/1133981.1134021
+Reducing NoC energy consumption through compiler-directed channel voltage scaling.	Guangyu Chen,Feihui Li,Mahmut T. Kandemir,Mary Jane Irwin	10.1145/1133981.1134004
+Cache-conscious coallocation of hot data streams.	Trishul M. Chilimbi,Ran Shaham	10.1145/1133981.1134011
+Termination proofs for systems code.	Byron Cook,Andreas Podelski,Andrey Rybalchenko	10.1145/1133981.1134029
+SAFECode: enforcing alias analysis for weakly typed languages.	Dinakar Dhurjati,Sumant Kowshik,Vikram S. Adve	10.1145/1133981.1133999
+Fast and flexible instruction selection with on-demand tree-parsing automata.	M. Anton Ertl,Kevin Casey,David Gregg	10.1145/1133981.1133988
+Artemis: practical runtime monitoring of applications for execution anomalies.	Long Fei,Samuel P. Midkiff	10.1145/1133981.1133992
+Modular verification of assembly code with stack-based control abstractions.	Xinyu Feng 0001,Zhong Shao,Alexander Vaynberg,Sen Xiang,Zhaozhong Ni	10.1145/1133981.1134028
+Better extensibility through modular syntax.	Robert Grimm 0001	10.1145/1133981.1133987
+Combining abstract interpreters.	Sumit Gulwani,Ashish Tiwari 0001	10.1145/1133981.1134026
+Free-Me: a static analysis for automatic individual object reclamation.	Samuel Z. Guyer,Kathryn S. McKinley,Daniel Frampton	10.1145/1133981.1134024
+Optimizing memory transactions.	Tim Harris 0001,Mark Plesko,Avraham Shinnar,David Tarditi	10.1145/1133981.1133984
+Algorithm specialization in generic programming: challenges of constrained generics in C++.	Jaakko Järvi,Douglas P. Gregor,Jeremiah Willcock,Andrew Lumsdaine,Jeremy G. Siek	10.1145/1133981.1134014
+Context-sensitive domain-independent algorithm composition and selection.	Troy A. Johnson,Rudolf Eigenmann	10.1145/1133981.1134003
+The Compressor: concurrent, incremental, and parallel compaction.	Haim Kermany,Erez Petrank	10.1145/1133981.1134023
+A global progressive register allocator.	David Ryan Koes,Seth Copen Goldstein	10.1145/1133981.1134006
+Online performance auditing: using hot optimizations without getting burned.	Jeremy Lau,Matthew Arnold,Michael Hind,Brad Calder	10.1145/1133981.1134010
+Effective static race detection for Java.	Mayur Naik,Alex Aiken,John Whaley	10.1145/1133981.1134018
+Profile-based global live-range splitting.	Takuya Nakaike,Tatsushi Inagaki,Hideaki Komatsu,Toshio Nakatani	10.1145/1133981.1134007
+Practical dynamic software updating for C.	Iulian Neamtiu,Michael W. Hicks,Gareth Paul Stoyle,Manuel Oriol	10.1145/1133981.1133991
+Auto-vectorization of interleaved data for SIMD.	Dorit Nuzman,Ira Rosen,Ayal Zaks	10.1145/1133981.1133997
+LOCKSMITH: context-sensitive correlation analysis for race detection.	Polyvios Pratikakis,Jeffrey S. Foster,Michael W. Hicks	10.1145/1133981.1134019
+Optimizing data permutations for SIMD devices.	Gang Ren,Peng Wu 0001,David A. Padua	10.1145/1133981.1133996
+Continuations and transducer composition.	Olin Shivers,Matthew Might	10.1145/1133981.1134016
+Eventrons: a safe programming construct for high-frequency hard real-time applications.	Daniel Spoonhower,Joshua S. Auerbach,David F. Bacon,Perry Cheng,David Grove	10.1145/1133981.1134015
+Refinement-based context-sensitive points-to analysis for Java.	Manu Sridharan,Rastislav Bodík	10.1145/1133981.1134027
+A framework for unrestricted whole-program optimization.	Spyridon Triantafyllis,Matthew J. Bridges,Easwaran Raman,Guilherme Ottoni,David I. August	10.1145/1133981.1133989
+Correctness-preserving derivation of concurrent garbage collection algorithms.	Martin T. Vechev,Eran Yahav,David F. Bacon	10.1145/1133981.1134022
+Pruning dynamic slices with confidence.	Xiangyu Zhang 0001,Neelam Gupta,Rajiv Gupta 0001	10.1145/1133981.1134002
+Accurate, efficient, and adaptive calling context profiling.	Xiaotong Zhuang,Mauricio J. Serrano,Harold W. Cain,Jong-Deok Choi	10.1145/1133981.1134012
+Proceedings of the ACM SIGPLAN 2006 Conference on Programming Language Design and Implementation, Ottawa, Ontario, Canada, June 11-14, 2006	Michael I. Schwartzbach,Thomas Ball	10.1145/1133981

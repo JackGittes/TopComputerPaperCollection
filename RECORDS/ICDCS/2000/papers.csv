@@ -1,0 +1,77 @@
+Highly Concurrent Shared Storage.	Khalil Amiri,Garth A. Gibson,Richard A. Golding	10.1109/ICDCS.2000.840942
+Contract Type Sequencing for Reallocative Negotiation.	Martin Andersson,Tuomas Sandholm	10.1109/ICDCS.2000.840917
+Performance Analysis of Dynamic Location Updation Strategies for Mobile Users.	Asimava Bera,Nabanita Das 0001	10.1109/ICDCS.2000.840955
+Popularity-Aware Greedy Dual-Size Web Proxy Caching Algorithms.	Azer Bestavros,Shudong Jin	10.1109/ICDCS.2000.840936
+Detecting and Representing Relevant Web Deltas using Web Join.	Sourav S. Bhowmick,Sanjay Madria,Wee Keong Ng,Ee-Peng Lim	10.1109/ICDCS.2000.840935
+A Dynamic Distributed Video on Demand Service.	Christos Bouras,Vaggelis Kapoulas,Agisilaos Konidaris,Afrodite Sevasti	10.1109/ICDCS.2000.840962
+Consistency Requirements of Distributed Shared Memory for Dijkstra&apos;s Mutual Exclusion Algorithm.	Jerzy Brzezinski,Dariusz Wawrzyniak	10.1109/ICDCS.2000.840978
+On Request Forwarding for Dynamic Web Caching Hierarchies.	Cho-Yu Chiang,Yingjie Li 0003,Ming T. Liu,Mervin E. Muller	10.1109/ICDCS.2000.840937
+Prediction-Capable Data Compression Algorithms for Improving Transmission Efficiency on Distributed Systems.	Hann-Huei Chiou,Alexander I-Chi Lai,Chin-Laung Lei	10.1109/ICDCS.2000.840982
+Suez: A Cluster-based Scalable Real-Time Packet Router.	Tzi-cker Chiueh,Prashant Pradhan	10.1109/ICDCS.2000.840915
+Spout: A Transparent Distributed Execution Engine for Java Applets.	Tzi-cker Chiueh,Harish Sankaran,Anindya Neogi	10.1109/ICDCS.2000.840951
+Scalable QoS Guaranteed Communication Services for Real-Time Applications.	Byung-Kyu Choi,Dong Xuan,Chengzhi Li,Riccardo Bettati,Wei Zhao 0001	10.1109/ICDCS.2000.840928
+Striping Doesn&apos;t Scale: How to Achieve Scalability for Continuous Media Servers with Replication.	Cheng-Fu Chou,Leana Golubchik,John C. S. Lui	10.1109/ICDCS.2000.840908
+Active Files: A Mechanism for Integrating Legacy Applications into Distributed Systems.	Partha Dasgupta,Ayal Itzkovitz,Vijay Karamcheti	10.1109/ICDCS.2000.840985
+Self-Stabilizing Network Orientation Algorithms in Arbitrary Rooted Networks.	Ajoy Kumar Datta,Shivashankar Gurumurthy,Franck Petit,Vincent Villain	10.1109/ICDCS.2000.840972
+Graceful Quorum Reconfiguration in a Robust Emulation of Shared Memory.	Burkhard Englert,Alexander A. Shvartsman	10.1109/ICDCS.2000.840958
+Critical Bandwidth Allocation Techniques for Stored Video Delivery across Best-Effort Networks.	Wu-chi Feng,Ming Liu	10.1109/ICDCS.2000.840907
+Scheduling using Genetic Algorithms.	Ursula Fissgus	10.1109/ICDCS.2000.840983
+An Application-Transparent, Platform-Independent Approach to Rollback-Recovery for Mobile Agent Systems.	Eugene Gendelman,Lubomir Bic,Michael B. Dillencourt	10.1109/ICDCS.2000.840971
+Dynamic Replica Allocation using Database Migration in Broadband Networks.	Takahiro Hara,Kaname Harumoto,Masahiko Tsukamoto,Shojiro Nishio	10.1109/ICDCS.2000.840949
+Task Assignment with Unknown Duration.	Mor Harchol-Balter	10.1109/ICDCS.2000.840932
+Computing Global Functions in Asynchronous Distributed Systems Prone to Process Crashes.	Jean-Michel Hélary,Michel Hurfin,Achour Mostéfaoui,Michel Raynal,Frederic Tronel	10.1109/ICDCS.2000.840973
+Design and Analysis of Clusters with Single I/O Space.	Roy S. C. Ho,Kai Hwang 0001,Hai Jin 0001	10.1109/ICDCS.2000.840913
+A Framework to Protect Mobile Agents by using Reference States.	Fritz Hohl	10.1109/ICDCS.2000.840953
+Boosting the Performance of NOW-based Shared Memory Multiprocessors through Directory Hints.	Hung-Chang Hsiao,Chung-Ta King	10.1109/ICDCS.2000.840976
+PARK: A Paused-And-Run K-Stream Multimedia Synchronization Control Scheme.	Chung-Ming Huang,Hsu-Yang Kung,Jiong-Liang Yang	10.1109/ICDCS.2000.840939
+Neural Nets based Predictive Prefetching to Tolerate WWW Latency.	Tamer I. Ibrahim,Cheng-Zhong Xu 0001	10.1109/ICDCS.2000.840980
+An Efficient Cache Maintenance Scheme for Mobile Environment.	Anurag Kahol,Ramandeep Singh Khurana,Sandeep K. S. Gupta,Pradip K. Srimani	10.1109/ICDCS.2000.840967
+A Security Architecture for Mobile Agents in Ajanta.	Neeran M. Karnik,Anand R. Tripathi	10.1109/ICDCS.2000.840952
+A Client-Server Approach to Virtually Synchronous Group Multicast: Specifications and Algorithms.	Idit Keidar,Roger Khazan	10.1109/ICDCS.2000.840946
+A Client-Server Oriented Algorithm for Virtually Synchronous Group Membership in WANs.	Idit Keidar,Jeremy B. Sussman,Keith Marzullo,Danny Dolev	10.1109/ICDCS.2000.840947
+Coherence-based Coordinated Checkpointing for Software Distributed Shared Memory Systems.	Angkul Kongmunvattana,Santipong Tanchatchawal,Nian-Feng Tzeng	10.1109/ICDCS.2000.840970
+Efficient RMI: Dynamic Specialization of Object Serialization.	Kenji Kono,Takashi Masuda	10.1109/ICDCS.2000.840943
+Paradigm-Oriented Distributed Computing using Mobile Agents.	Hairong Kuang,Lubomir Bic,Michael B. Dillencourt	10.1109/ICDCS.2000.840902
+An Open Real-Time Environment for Parallel and Distributed Systems.	Tei-Wei Kuo,Kwei-Jay Lin,Yu-Chung Wang	10.1109/ICDCS.2000.840931
+A Relaxed Mutual Exclusion Problem with Application to Channel Allocation in Mobile Cellular Networks.	Ten-Hwang Lai,Jianping Jiang,Tao Ma	10.1109/ICDCS.2000.840974
+A Semantic Broadcast Scheme for a Mobile Environment based on Dynamic Chunking.	Ken C. K. Lee,Hong Va Leong,Antonio Si	10.1109/ICDCS.2000.840966
+An Asymptotically Optimal Multi-Layered Decentralized Consensus Protocol with an Initiator.	Zheng-Ru Lin,Ming-Syan Chen	10.1109/ICDCS.2000.840940
+Adaptive Data Delivery in Wireless Communication Environments.	Chi-Wai Lin,Dik Lun Lee	10.1109/ICDCS.2000.840957
+TabSum: A Flexible and Dynamic Table Summarization Approach.	Ming-Ling Lo,Kun-Lung Wu,Philip S. Yu	10.1109/ICDCS.2000.840979
+Static and Adaptive Data Replication Algorithms for Fast Information Access in Large Distributed Systems.	Thanasis Loukopoulos,Ishfaq Ahmad	10.1109/ICDCS.2000.840950
+Agent Migration between Incompatible Agent Platforms.	Pauli Misikangas,Kimmo E. E. Raatikainen	10.1109/ICDCS.2000.840901
+A New Network Layer Protocol with Routing Address and Tables Auto-Configuration Mechanism.	Hirohisa Mori,Ken Sakamura	10.1109/ICDCS.2000.840910
+Deterministic Optimal Routing for Two Heterogeneous Parallel Servers.	Kazumasa Oida,K. Shinjo	10.1109/ICDCS.2000.840906
+An Asynchronous Recovery Scheme based on Optimistic Message Logging for Mobile Computing Systems.	Taesoon Park,Heon Young Yeom	10.1109/ICDCS.2000.840956
+Understanding Replication in Databases and Distributed Systems.	Fernando Pedone,Matthias Wiesmann,André Schiper,Bettina Kemme,Gustavo Alonso	10.1109/ICDCS.2000.840959
+Scheduling with Global Information in Distributed Systems.	Fabrizio Petrini,Wu-chun Feng	10.1109/ICDCS.2000.840933
+Aggregate TCP Congestion Control using Multiple Network Probing.	Prashant Pradhan,Tzi-cker Chiueh,Anindya Neogi	10.1109/ICDCS.2000.840904
+Partitionable Light-Weight Groups.	Luís E. T. Rodrigues,Katherine Guo	10.1109/ICDCS.2000.840905
+Atomic Broadcast in Asynchronous Crash-Recovery Distributed Systems.	Luís E. T. Rodrigues,Michel Raynal	10.1109/ICDCS.2000.840941
+MobileSpaces: A Framework for Building Adaptive Distributed Applications using a Hierarchical Mobile Agent System.	Ichiro Satoh	10.1109/ICDCS.2000.840918
+HYDRANET-FT: Network Support for Dependable Services.	Gurudatt Shenoy,Suresh K. Satapati,Riccardo Bettati	10.1109/ICDCS.2000.840987
+On Supporting Weakly-Connected Browsing in a Mobile Web Environment.	Antonio Si,Hong Va Leong,Dennis McLeod,Stanley M. T. Yau	10.1109/ICDCS.2000.840968
+Quartz: A QoS Architecture for Open Systems.	Frank Siqueira,Vinny Cahill	10.1109/ICDCS.2000.840930
+Achieving Per-Flow Weighted Rate Fairness in a Core Stateless Network.	Raghupathy Sivakumar,Tae-eun Kim,Narayanan Venkitaraman,Jia-Ru Li,Vaduvur Bharghavan	10.1109/ICDCS.2000.840929
+Secure Group Communication in Asynchronous Networks with Failures: Integration and Experiments.	Jonathan Robert Stanton,Yair Amir,Damian Hasse,Giuseppe Ateniese,Yongdae Kim,Cristina Nita-Rotaru,Theo Schlossnagle,John L. Schultz,Gene Tsudik	10.1109/ICDCS.2000.840945
+System Mechanisms for Partial Rollback of Mobile Agent Execution.	Markus Straßer,Kurt Rothermel	10.1109/ICDCS.2000.840903
+A Multi-version Approach to Conflict Resolution in Distributed Groupware Systems.	Chengzheng Sun,David Chen 0002	10.1109/ICDCS.2000.840944
+Distributed Java Virtual Machine for Message Passing Architectures.	Mihai Surdeanu	10.1109/ICDCS.2000.840914
+On Low-Cost Error Containment and Recovery Methods for Guarded Software Upgrading.	Ann T. Tai,Kam S. Tso,Leon Alkalai,Savio N. Chau,William H. Sanders	10.1109/ICDCS.2000.840969
+A Query Propagation Approach to Improve CORBA Trading Service Scalability.	Zahir Tari,Gregory Craske	10.1109/ICDCS.2000.840963
+Scheduling Heuristics for Data Requests in an Oversubscribed Network with Priorities and Deadlines.	Mitchell D. Theys,Noah Beck,Howard Jay Siegel,Michael Jurczyk,Min Tan 0002	10.1109/ICDCS.2000.840911
+On the Burstiness of the TCP Congestion-Control Mechanism in a Distributed Computing System.	Peerapol Tinnakornsrisuphap,Wu-chun Feng,Ian R. Philp	10.1109/ICDCS.2000.840912
+MPEG-4 Support to Multiuser Virtual Environments.	Glauco Todesco,Regina Borges de Araujo	10.1109/ICDCS.2000.840909
+An Adaptive, Perception-Driven Error Spreading Scheme in Continuous Media Streaming.	Srivatsan Varadarajan,Hung Q. Ngo 0001,Jaideep Srivastava	10.1109/ICDCS.2000.840960
+Mobile Cache Protocol: A Dynamic Object Relocation Protocol for Wide Area Networks.	Takashi Watanabe,Akifumi Mori,Yukihisa Yamamoto	10.1109/ICDCS.2000.840954
+Index Structures of User Profiles for Efficient Web Page Filtering Services.	Yi-Hung Wu,Arbee L. P. Chen	10.1109/ICDCS.2000.840981
+Multimedia Service Configuration and Reservation in Heterogeneous Environments.	Dongyan Xu,Duangdao Wichadakul,Klara Nahrstedt	10.1109/ICDCS.2000.840964
+A Content Placement and Management System for Distributed Web-Server Systems.	Chu-Sing Yang,Mon-Yen Luo	10.1109/ICDCS.2000.840986
+Dynamic Adaptive File Management in a Local Area Network.	Jiong Yang 0001,Wei Wang 0010,Richard R. Muntz,Silvia Nittel	10.1109/ICDCS.2000.840948
+Precluding Useless Events for On-Line Global Predicate Detections.	Li-Hsing Yen	10.1109/ICDCS.2000.840984
+The Effect of Nogood Learning in Distributed Constraint Satisfaction.	Makoto Yokoo,Katsutoshi Hirayama	10.1109/ICDCS.2000.840919
+The Effect of False-name Declarations in Mechanism Design: Towards Collective Decision Making on the Internet.	Makoto Yokoo,Yuko Sakurai,Shigeo Matsubara	10.1109/ICDCS.2000.840916
+Improving Distributed Workload Performance by Sharing both CPU and Memory Resources.	Xiaodong Zhang 0001,Yanxia Qu,Li Xiao 0001	10.1109/ICDCS.2000.840934
+Deadlock Analysis of Client/Server Programs.	Jun Zhou,Kuo-Chung Tai	10.1109/ICDCS.2000.840961
+Performance Evaluation of Soft Real-Time Scheduling for Multicomputer Cluster.	Weiping Zhu 0001,Brett D. Fleisch	10.1109/ICDCS.2000.840977
+Proceedings of the 20th International Conference on Distributed Computing Systems, Taipei, Taiwan, April 10-13, 2000		

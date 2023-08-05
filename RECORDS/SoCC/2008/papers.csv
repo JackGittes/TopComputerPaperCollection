@@ -1,0 +1,90 @@
+Design of a baseband processor for software radio using FPGAs.	Ferney Amaya-Fernandez,Jaime Velasco-Medina	10.1109/SOCC.2008.4641535
+New low voltage, high PSRR, CMOS bandgap voltage reference.	Seiede Fateme Ashrafi,Seyed Mojtaba Atarodi,Mohammad Chahardori	10.1109/SOCC.2008.4641542
+Performance evaluation of a FFT using adpative clocking.	Hanni Bagnordi,Mabo Ito	10.1109/SOCC.2008.4641496
+Low power design under parameter variations.	Swarup Bhunia,Kaushik Roy 0001	10.1109/SOCC.2008.4641552
+A novel 5.46 mW H.264/AVC video stream parser IC.	Michelle Brown,Kenneth W. Hsu	10.1109/SOCC.2008.4641510
+Novel start-up circuit with enhanced power-up characteristic for bandgap references.	Tuan Vu Cao,Dag T. Wisland,Tor Sverre Lande,Farshad Moradi,Young Hee Kim	10.1109/SOCC.2008.4641493
+A 300-mV 36-muW multiphase dual digital clock output generator with self-calibration.	Ming-Hung Chang,Li-Pu Chuang,I-Ming Chang,Wei Hwang	10.1109/SOCC.2008.4641487
+A robust ultra-low power asynchronous FIFO memory with self-adaptive power control.	Mu-Tien Chang,Po-Tsang Huang,Wei Hwang	10.1109/SOCC.2008.4641505
+ILP-based scheme for timing variation-aware scheduling and resource binding.	Yibo Chen,Jin Ouyang,Yuan Xie 0001	10.1109/SOCC.2008.4641473
+A multi-standard micro-programmable deblocking filter architecture and its application to VC-1 video decoder.	Ricardo Citro,Miguel Guerrero,Jae-Beom Lee,Maria Pantoja	10.1109/SOCC.2008.4641516
+A new generation of C-base synthesis tool and domain-specific computing.	Jason Cong	10.1109/SOCC.2008.4641556
+Temperature measurement in Content Addressable Memory cells using bias-controlled VCO.	Basab Datta,Wayne P. Burleson	10.1109/SOCC.2008.4641499
+&quot;Surfing the iSoC multitechnology platform: Volumetric growth beyond Moore&apos;s law&quot;.	Kamran Eshraghian	10.1109/SOCC.2008.4641468
+Evaluation of contrast limited adaptive histogram equalization (CLAHE) enhancement on a FPGA.	Phillip David Ferguson,Tughrul Arslan,Ahmet T. Erdogan,Andrew Parmley	10.1109/SOCC.2008.4641492
+A multi-wire error correction scheme for reliable and energy efficient SOC links using hamming product codes.	Bo Fu,Paul Ampadu	10.1109/SOCC.2008.4641480
+Partitioned reuse cache for energy-efficient soft-error protection of functional units.	Kaushal R. Gandhi,Nihar R. Mahapatra	10.1109/SOCC.2008.4641471
+1.5V 0.5mW 2MSPS 10B DAC with rail-to-rail output in 0.13mum CMOS technology.	Fuding Ge,Malay Trivedi,Brent Thomas,William Jiang,Hongjiang Song	10.1109/SOCC.2008.4641523
+Energy minimization using a greedy randomized heuristic for the voltage assignment problem in NoC.	Pavel Ghosh,Arunabha Sen	10.1109/SOCC.2008.4641484
+Design methodolgy for HD Photo compression algorithm targeting a FPGA.	Seth H. Groder,Kenneth W. Hsu	10.1109/SOCC.2008.4641489
+Design space exploration for application specific FPGAS in system-on-a-chip designs.	Mark Hammerquist,Roman L. Lysecky	10.1109/SOCC.2008.4641527
+MRPSIM: A TLM based simulation tool for MPSOCS targeting dynamically reconfigurable processors.	Wei Han 0001,Ying Yi,Mark Muir,Ioannis Nousias,Tughrul Arslan,Ahmet Teyfik Erdogan	10.1109/SOCC.2008.4641476
+In-situ self-aware adaptive power control system with multi-mode power gating network.	Wei-Chih Hsieh,Wei Hwang	10.1109/SOCC.2008.4641514
+Design of low flicker noise active CMOS mixer.	Shao-Min Hsu,Yuyu Chang,John Choma Jr.	10.1109/SOCC.2008.4641490
+A 6-Gbit/s SATA spread-spectrum clock generator using two-stage delta-sigma modulator.	Hong-Yi Huang,Li-Wei Huang,Wei-Sheng Tseng,Chih-Yuan Hsu	10.1109/SOCC.2008.4641539
+All digital time-to-digital converter using single delay-locked loop.	Hong-Yi Huang,Yi-Jui Tsai,Kung-Liang Ho,Chan-Yu Lin	10.1109/SOCC.2008.4641541
+A spread spectrum clock generator using digital modulation scheme.	Chorng-Sii Hwang,Huan-Chun Li,Hen-Wai Tsao	10.1109/SOCC.2008.4641540
+&quot;SOC challenges in the terabit networks era&quot;.	Nick Ilyadis	10.1109/SOCC.2008.4641466
+3-D Heterogeneous SoC for detecting and filtering infected biological cells.	Vijay K. Jain	10.1109/SOCC.2008.4641533
+Energy-optimal signaling and ordering of bits for area-constrained interconnects.	Sharath Jayaprakash,Nihar R. Mahapatra	10.1109/SOCC.2008.4641469
+Unification of obstacle-avoiding rectilinear Steiner tree construction.	Iris Hui-Ru Jiang,Shung-Wei Lin,Yen-Ting Yu	10.1109/SOCC.2008.4641494
+Programmable all-digital adaptive deskewing and phase shifting.	Alireza Kaviani,Tao Pi,Declan Kelly	10.1109/SOCC.2008.4641538
+Low power 8T SRAM using 32nm independent gate FinFET technology.	Young Bok Kim,Yong-Bin Kim,Fabrizio Lombardi	10.1109/SOCC.2008.4641521
+Composability in the time-triggered system-on-chip architecture.	Hermann Kopetz,Christian El Salloum,Bernhard Huber,Roman Obermaisser,Christian Paukovits	10.1109/SOCC.2008.4641485
+Statistical averaging based linearity optimization for resistor string DAC architectures in nanoscale processes.	Martin Kosakowski,Reimund Wittmann,Werner Schardein	10.1109/SOCC.2008.4641524
+Pseudo-random clocking to enhance signal integrity.	Selçuk Köse,Emre Salman,Zeljko Ignjatovic,Eby G. Friedman	10.1109/SOCC.2008.4641477
+Slack redistribution in pipelined circuits for enhanced soft-error rate reduction.	Srivathsan Krishnamohan,Nihar R. Mahapatra	10.1109/SOCC.2008.4641502
+A unified power measurement and management platform for pipelined MPSoC executions.	Sung-Kwan Ku,Han-Sam Jung,Ki-Seok Chung	10.1109/SOCC.2008.4641470
+Fluidity concept for NoC: A congestion avoidance and relief routing scheme.	Ying-Cherng Lan,Michael C. Chen,Alan P. Su,Yu Hen Hu,Sao-Jie Chen	10.1109/SOCC.2008.4641481
+Application development flow for on-chip distributed architectures.	Khalid Latif 0002,Moazzam Fareed Niazi,Hannu Tenhunen,Tiberiu Seceleanu,Sakir Sezer	10.1109/SOCC.2008.4641503
+A higher-order mismatch-shaping method for multi-bit Sigma-Delta Modulators.	Alexander Lavzin,Mücahit Kozak,Eby G. Friedman	10.1109/SOCC.2008.4641525
+An efficient lossless embedded compression engine using compacted-FELICS algorithm.	Yu-Yu Lee,Yu-Hsuan Lee,Tsung-Han Tsai 0001	10.1109/SOCC.2008.4641518
+Design and verification of complex SoC with configurable, extensible processors.	Steve Leibson,Grant Martin	10.1109/SOCC.2008.4641550
+A novel CMOS exponential approximation circuit.	Minglang Lin,Ahmet T. Erdogan,Tughrul Arslan,Adrian Stoica	10.1109/SOCC.2008.4641532
+The role of interconnects in the performance scalability of multicore architectures.	Jiangjiang Liu 0002,Nihar R. Mahapatra	10.1109/SOCC.2008.4641472
+A framework of architectural synthesis for dynamically reconfigurable FPGAs.	Ting Liu 0007,Camel Tanougast,Serge Weber	10.1109/SOCC.2008.4641528
+Multi-standard sub-pixel interpolation architecture for video Motion Estimation.	Liang Lu,John V. McCanny,Sakir Sezer	10.1109/SOCC.2008.4641517
+A low-power design of quantization for H.264 video coding standard.	Michael N. Michael,Kenneth W. Hsu	10.1109/SOCC.2008.4641511
+65NM sub-threshold 11T-SRAM for ultra low voltage applications.	Farshad Moradi,Dag T. Wisland,Snorre Aunet,Hamid Mahmoodi,Tuan Vu Cao	10.1109/SOCC.2008.4641491
+Extensible software emulator for reconfigurable instruction cell based processors.	Mark Muir,Iain Lindsay,Tughrul Arslan,Ioannis Nousias,Sami Khawam,Mark Milward,Nazish Aslam,Adam Major	10.1109/SOCC.2008.4641475
+A coarse-grained Dynamically Reconfigurable MAC Processor for power-sensitive multi-standard devices.	Syed Waqar Nabi,Cade C. Wells,Wim Vanderbauwhede	10.1109/SOCC.2008.4641500
+A low power and low area active clock deskewing technique for sub-90nm technologies.	Ashok Narasimhan,Ramalingam Sridhar	10.1109/SOCC.2008.4641506
+Area efficient delay-insensitive and differential current sensing on-chip interconnect.	Ethiopia Nigussie,Juha Plosila,Jouni Isoaho	10.1109/SOCC.2008.4641498
+Reconfigurable flash A/D converters.	Cristian E. Onete	10.1109/SOCC.2008.4641537
+Power optimization for FinFET-based circuits using genetic algorithms.	Jin Ouyang,Yuan Xie 0001	10.1109/SOCC.2008.4641513
+A resistance deviation-to-time interval converter for resistive sensors.	Ji-Man Park,Sung-Ik Jun	10.1109/SOCC.2008.4641488
+A comparator-based switched-capacitor integrator using a new charge control circuit.	Farhad Alibeygi Parsan,Ahmad Ayatollahi	10.1109/SOCC.2008.4641497
+Asynchronous circuit design using Handshake Solutions.	Ad M. G. Peeters,Mark de Wit	10.1109/SOCC.2008.4641555
+&quot;Future trends in PC computing and their implications to SoC&quot;.	Alexander D. Peleg	10.1109/SOCC.2008.4641467
+An automated design method for chip power distribution.	Di Phan,Christopher J. Berry,Frank Malgioglio,Alan P. Wagstaff	10.1109/SOCC.2008.4641545
+Nanoscale on-chip decoupling capacitors.	Mikhail Popovich,Eby G. Friedman	10.1109/SOCC.2008.4641478
+Power/throughput/area efficient PIM-based reconfigurable array for parallel processing.	Sohan Purohit,Sai Rahul Chalamalasetti,Martin Margala,Pasquale Corsonello	10.1109/SOCC.2008.4641548
+A novel 0.6V CMOS folded Gilbert-cell mixer for UWB applications.	Md. Mahbub Reja,Kambiz K. Moez,Igor M. Filanovsky	10.1109/SOCC.2008.4641504
+Speed control for a hardware based H.264/AVC encoder.	Chae-Eun Rhee,Jin-Su Jung,Hyuk-Jae Lee	10.1109/SOCC.2008.4641512
+Real-time implementation of H.264 Video Coding.	Iain E. Garden Richardson	10.1109/SOCC.2008.4641553
+Guaranteeing QoS with the pipelined multi-channel central caching NoC communication architecture.	Azeez Sanusi,Nan Wang,Magdy A. Bayoumi	10.1109/SOCC.2008.4641483
+Supply voltage selection in Voltage Island based SoC design.	Dipanjan Sengupta,Resve A. Saleh	10.1109/SOCC.2008.4641515
+Analysis of retention time under multi-configuration on a DORGA.	Daisaku Seto,Minoru Watanabe	10.1109/SOCC.2008.4641495
+A multi-mode sphere detector architecture for WLAN applications.	Ramin Shariat-Yazdi,Tad A. Kwasniewski	10.1109/SOCC.2008.4641501
+Energy consumption reduction mechanism by tuning cache configuration usign NIOS II processor.	Abel G. Silva-Filho,Sidney M. L. Lima	10.1109/SOCC.2008.4641530
+A subthreshold single ended I/O SRAM cell design for nanometer CMOS technologies.	Jawar Singh,Jimson Mathew,Dhiraj K. Pradhan,Saraju P. Mohanty	10.1109/SOCC.2008.4641520
+Failure analysis for ultra low power nano-CMOS SRAM under process variations.	Jawar Singh,Jimson Mathew,Dhiraj K. Pradhan,Saraju P. Mohanty	10.1109/SOCC.2008.4641522
+A low power sub-1 V CMOS voltage reference.	Sameer Somvanshi,Santhosh Kasavajjala	10.1109/SOCC.2008.4641526
+Novel mixed domain VLSI signal processing circuits for high performance, low power and area penalty SOC signal processing.	Hongjiang Song	10.1109/SOCC.2008.4641534
+VLSI passive switched capacitor signal processing circuits: Circuit architecture, closed form modeling and applications.	Hongjiang Song,Yan Song,Tai-Hua Chen	10.1109/SOCC.2008.4641531
+Pseudo parallel architecture for AES with error correction.	Yi Xin Su,Jimson Mathew,Jawar Singh,Dhiraj K. Pradhan	10.1109/SOCC.2008.4641508
+A low-power 1-Gbps reconfigurable LDPC decoder design for multiple 4G wireless standards.	Yang Sun 0001,Joseph R. Cavallaro	10.1109/SOCC.2008.4641546
+A timing methodology considering within-die clock skew variations.	Savithri Sundareswaran,Lucie Nechanicka,Rajendran Panda,Sergey Gavrilov,Roman A. Solovyev,Jacob A. Abraham	10.1109/SOCC.2008.4641543
+A systematic approach to synthesis of verification test-suites for modular SoC designs.	Sudhakar Surendran,Rubin A. Parekhji,R. Govindarajan	10.1109/SOCC.2008.4641486
+X-clock routing based on pattern matching.	Chia-Chun Tsai,Chung-Chieh Kuo,Jan-Ou Wu,Trong-Yen Lee,Rong-Shue Hsiao	10.1109/SOCC.2008.4641544
+Implementing high definition video codec on TI DM6467 SOC.	Jian Wang,Gang Hua 0003	10.1109/SOCC.2008.4641509
+Built-in functional tests for fast validation of a 40Gbps coherent optical receiver SoC ASIC.	Yuejian Wu,Sandy Thomson,Han Sun,Chandra Bontu,Eric Hall	10.1109/SOCC.2008.4641479
+Low-power floating bitline 8-T SRAM design with write assistant circuits.	Hao-I Yang,Ssu-Yun Lai,Wei Hwang	10.1109/SOCC.2008.4641519
+High performance IP lookup circuit using DDR SDRAM.	Xin Yang 0010,Jun Mu,Sakir Sezer,John V. McCanny,Earl E. Swartzlander Jr.	10.1109/SOCC.2008.4641547
+Reconfiguralbe multimedia accelerator for mobile systems.	Samar Yazdani,Joel Cambonie,Bernard Pottier	10.1109/SOCC.2008.4641529
+Exploiting loop-level parallelism on multi-core architectures for the wimax physical layer.	Ying Yi,Wei Han 0001,Adam Major,Ahmet T. Erdogan,Tughrul Arslan	10.1109/SOCC.2008.4641474
+A Discrepancy-Computationless RiBM algorithm and its architecture for BCH decoders.	Sangho Yoon,Hanho Lee	10.1109/SOCC.2008.4641549
+Configurable error correction for multi-wire errors in switch-to-switch SOC links.	Qiaoyan Yu,Paul Ampadu	10.1109/SOCC.2008.4641482
+OFDM symbol timing synchronization system on a Reconfigurable Instruction Cell Array.	Xin Zhao,Ahmet T. Erdogan,Tughrul Arslan	10.1109/SOCC.2008.4641536
+A low power 32 nanometer CMOS digitally controlled oscillator.	Jun Zhao 0002,Yong-Bin Kim	10.1109/SOCC.2008.4641507
+21st Annual IEEE International SoC Conference, SoCC 2008, September 17-20, 2008, Radisson Hotel, Newport Beach, CA, USA, Proceedings		

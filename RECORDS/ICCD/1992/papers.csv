@@ -1,0 +1,120 @@
+An Application Specific Processor for a Multi-System Navigation Receiver.	Eric Aardoom,Paul Stravers	10.1109/ICCD.1992.276192
+Addressing the Tradeoff Between Standard and Custom ICs in System Level Design.	Jay K. Adams,Donald E. Thomas	10.1109/ICCD.1992.276247
+Fault Simulation and Test Generation by Fault Sampling Techniques.	Sami A. Al-Arian,Musaed A. Al-Kharji	10.1109/ICCD.1992.276290
+DACCT - Dynamic ACCess Testing of IBM Large Systems.	Jeffrey I. Alter	10.1109/ICCD.1992.276259
+Logical Verification of the NVAX CPU Chip Design.	Walker Anderson	10.1109/ICCD.1992.276276
+The Future of Embedded System Design.	James H. Aylor,Raul Camposano,Michael A. Schuette,Wayne H. Wolf,Nam S. Woo	10.1109/ICCD.1992.276236
+Designing ASICs for Use with Multichip Modules.	Jeffery Banker	10.1109/ICCD.1992.276207
+NVAX and NVAX + Single-Chip CMOS VAX Microprocessors.	Debra Bernstein,John F. Brown III,Rebecca L. Stamm,G. Michael Uhler	10.1109/ICCD.1992.276275
+Synthesis on Multiplexer-Based F.P.G.A. Using Binary Decision Diagrams.	T. Besson,H. Bouzouzou,M. Crastes,Ion Floricica,Gabriele Saucier	10.1109/ICCD.1992.276241
+Routable Technologie Mapping for LUT FPGAs.	Narasimha B. Bhat,Dwight D. Hill	10.1109/ICCD.1992.276199
+Workload-Driven Floorplanning for MIPS Optimization.	Pradip Bose,David LaPotin,Gopalakrishnan Vijayan,Sungho Kim	10.1109/ICCD.1992.276296
+Identification of Single Gate Delay Fault Redundancies.	Daniel Brand,Vijay S. Iyengar	10.1109/ICCD.1992.276213
+A Comparison of Self-Timed Design Using FPGA, CMOS, and GaAs Technologies.	Erik Brunvand,Nick Michell,Kent F. Smith	10.1109/ICCD.1992.276203
+Delay Models for Verifying Speed-Dependent Asynchronous Circuits.	Jerry R. Burch	10.1109/ICCD.1992.276267
+An Efficient Logic Emulation System.	Michael Butts,Jon Batcheller,Joseph Varghese	10.1109/ICCD.1992.276356
+Channel Density Minimization by Pin Permutation.	Yang Cai 0003,D. F. Wong 0001	10.1109/ICCD.1992.276294
+Verification of I/O Trace Set Inclusion for a Class of Non-Deterministic Finite State Machines.	Eduard Cerny	10.1109/ICCD.1992.276231
+Constraint Slving for Test Case Generation.	Ashok K. Chandra,Vijay S. Iyengar	10.1109/ICCD.1992.276260
+Technology Mapping via Transformations of Function Graphs.	Shih-Chieh Chang,Malgorzata Marek-Sadowska	10.1109/ICCD.1992.276240
+A New Approach to Fault-Tolerance in Linear Analog Systems Based on Checksum-Coded State Space Representations.	Abhijit Chatterjee	10.1109/ICCD.1992.276320
+Design of Concurrent Error-Detectable VLSI-Based Array Dividers.	Thou-Ho Chen,Liang-Gee Chen,Yi-Shing Chang	10.1109/ICCD.1992.276204
+An Ultra-Large Capacity Single-Chip Memory Architecture With Self-Testing and Self-Repairing.	Tom Chen 0001,Glen Sunada	10.1109/ICCD.1992.276222
+Concurrent Test Scheduling in Built-In Self-Test Environment.	Chien-In Henry Chen,Joel T. Yuen	10.1109/ICCD.1992.276263
+Autonomous-Tol for Hardware Partitioning in a Built-in Self-Test Environment.	Chien-In Henry Chen,Joel T. Yuen,Ji-Der Lee	10.1109/ICCD.1992.276265
+Automatic Synthesis and Verification of Hazard-Free Control Circuits from Asynchronous Finite State Machine Specifications.	Tam-Anh Chu	10.1109/ICCD.1992.276302
+An Improved Graph-Based FPGA Techology Mapping Algorithm For Delay Optimization.	Jason Cong,Yuzheng Ding,Andrew B. Kahng,Peter Trajmar,Kuang-Chien Chen	10.1109/ICCD.1992.276239
+The Message Driven Processor: An Integrated Multicomputer Processing Element.	William J. Dally,Andrew A. Chien,Stuart Fiske,Gregory A. Fyler,Waldemar Horwat,John S. Keen,Richard A. Lethin,Michael D. Noakes,Peter R. Nuth,D. Scott Wills	10.1109/ICCD.1992.276304
+The Architecture of the LR33020 GraphX Processor: A MIPS-RISC Based X-Terminal Controller.	Sanjay Desai	10.1109/ICCD.1992.276249
+Statistical Timing Analysis of Combinational Circuits.	Srinivas Devadas,Horng-Fei Jyu,Kurt Keutzer,Sharad Malik	10.1109/ICCD.1992.276210
+Protocol Verification as a Hardware Design Aid.	David L. Dill,Andreas J. Drexler,Alan J. Hu,C. Han Yang	10.1109/ICCD.1992.276232
+MxN Booth Encoded Multiplier Generator Using Optimized Wallace Trees.	Jalil Fadavi-Ardekani	10.1109/ICCD.1992.276195
+FPGA and Rapid Prototyping Technology Use in a Special Purpose Computer for Molecular Genetics.	Barry S. Fagin,J. Gill Watt	10.1109/ICCD.1992.276325
+NSC&apos;s Digital Answering Machine Solution.	Ohad Falik,Gideon D. Intrater	10.1109/ICCD.1992.276235
+RTL Design Verification by Making Use of Datapath Information.	Masahiro Fujita	10.1109/ICCD.1992.276219
+Field-Programmable Integrted Circuits - Overview and Future Trends.	Abbas El Gamal	10.1109/ICCD.1992.276191
+High Level Design: A Design Vision for the 90&apos;s.	Aart J. de Geus	10.1109/ICCD.1992.276190
+Fanin Ordering in Multi-Slot Timing Analysis.	Lukas P. P. P. van Ginneken	10.1109/ICCD.1992.276209
+Time Domain Simulation of Multiconductor Transmission Lines with Frequency-Dependent Losses.	Colin Gordon	10.1109/ICCD.1992.276254
+The Formal Definition of a Synchronous Hardware-Description Language in Higher Order Logic.	Andrew D. Gordon 0001	10.1109/ICCD.1992.276230
+Delay Prediction for Technology-Independent Logic Equations.	Paul T. Gutwin,Patrick C. McGeer,Robert K. Brayton	10.1109/ICCD.1992.276317
+Synthesis of Multiple Bus/Functional Unit Architectures Implementing Neural Networks.	Baher Haroun,Elie Torbey	10.1109/ICCD.1992.276243
+A Synthesis Algorithm for Two-Level XOR Based Circuits.	Mark A. Heap,William A. Rogers,M. Ray Mercer	10.1109/ICCD.1992.276314
+Three Dimensional Circuit Oriented Electromagnetic Modeling for VLSI Interconnects.	Hansruedi Heeb,Albert E. Ruehli,J. Eric Bracken,Ronald A. Rohrer	10.1109/ICCD.1992.276253
+Some Techniques for Efficient Symbolic Simulation-Based Verification.	Prabhat Jain,Ganesh Gopalakrishnan	10.1109/ICCD.1992.276218
+Arithmetic Error Analysis of a new Reciprocal Cell.	Vijay K. Jain,Gibert E. Perez,Earl E. Swartzlander Jr.	10.1109/ICCD.1992.276197
+Multiple Input Bridging Fault Detection in CMOS Sequential Circuits.	Niraj K. Jha,Sying-Jyan Wang,Phillip C. Gripka	10.1109/ICCD.1992.276291
+Theory and Design of Two-Rail Totally Self-Checking Basic Building Blocks.	Zhi-Jian Jiang,R. Venkatesen	10.1109/ICCD.1992.276322
+On Minimizing Hardware Overhead for Pseudoexhaustive Circuit Testability.	Dimitrios Kagaris,Fillia Makedon,Spyros Tragoudas	10.1109/ICCD.1992.276289
+Comparing Layouts with HDL Models: A Formal Verification Technique.	Timothy Kam,P. A. Subrahmanyam	10.1109/ICCD.1992.276220
+Modeling and Simulation of Design Errors.	Sungho Kang,Stephen A. Szygenda	10.1109/ICCD.1992.276310
+Distributed VLSI Simulation on a Network of Workstations.	Sankaran Karthik,Jacob A. Abraham	10.1109/ICCD.1992.276328
+A Tool for Automatic Generation of BISTed and Transparent BISTed Rams.	O. Kebichi,Michael Nicolaidis	10.1109/ICCD.1992.276223
+Analysis of Asynchronous Binary Arbitration on Digital-Transmission-Line Busses.	Shlomo Kipnis	10.1109/ICCD.1992.276301
+The Selective Extra-Stage Butterfly.	Smaragda Konstantinidou	10.1109/ICCD.1992.276326
+High-Level State Machine Specification and Synthesis.	Andreas Kuehlmann,Reinaldo A. Bergamaschi	10.1109/ICCD.1992.276229
+Boolean Matching Using Binary Decision Diagrams with Applications to Logic Synthesis and Verification.	Yung-Te Lai,Sarma Sastry,Massoud Pedram	10.1109/ICCD.1992.276313
+VLSI Design of Modulo Adders/Subtractors.	Gopal Lakhani	10.1109/ICCD.1992.276205
+On Relationship Between ITE and BDD.	William K. C. Lam,Robert K. Brayton	10.1109/ICCD.1992.276312
+Linear Programming for Optimum Hazard Elimination in Asynchronous Circuits.	Luciano Lavagno,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.1992.276268
+Behavioral Synthesis for Easy Testability in Data Path Allocation.	Tien-Chien Lee,Wayne H. Wolf,Niraj K. Jha,John M. Acken	10.1109/ICCD.1992.276212
+MDP Design Tools and Methods.	Richard A. Lethin,William J. Dally	10.1109/ICCD.1992.276306
+Fully Differential Optical Interconnects for High-Speed Digital Systems.	C.-S. Li,Harold S. Stone,C. M. Olsen	10.1109/ICCD.1992.276246
+Dynamic Reordering of Hgh Latency Transactions Using a Modified a Micropipeline.	Gernot Armin Liebchen,Ganesh Gopalakrishnan	10.1109/ICCD.1992.276284
+Sampling of Cache Congruence Classes.	Lishing Liu,Jih-Kwon Peir	10.1109/ICCD.1992.276226
+Reliable Floating-Point Arithmetic Algorithms for Berger Encoded Operands.	Jien-Chung Lo	10.1109/ICCD.1992.276196
+Multiple Fault Detection in CMOS Logic Circuits.	Ding Lu,Carol Q. Tong	10.1109/ICCD.1992.276292
+Modified Booth Algorithm for High Radix Multiplication.	Philip E. Madrid,Brian Millar,Earl E. Swartzlander Jr.	10.1109/ICCD.1992.276194
+One-Chip System Integration for GSM with the DSP KISS-16V2.	G. Mahlich,G.-H. Huaman-Bollo,J. Preißner,Johannes Schuck,Hans Sahm,P. Weingart,D. Weinsziehr,J. Yeandel	10.1109/ICCD.1992.276244
+The T9000 Transputer.	David May 0001,Roger Shepherd,Peter Thompson 0001	10.1109/ICCD.1992.276250
+Algorithms for Interface Timing Verification.	Kenneth L. McMillan,David L. Dill	10.1109/ICCD.1992.276208
+AC++ Based Environment for Analog Circuit Simulation.	Bob Melville,Peter Feldmann,Shahriar Moinian	10.1109/ICCD.1992.276233
+Alpha Architecture: Hardware Implementation and Software Programming Implications.	Derrick Meyer	10.1109/ICCD.1992.276216
+Electromagnetic Modeling and Simulation of Electronic Packages.	Raj Mittra	10.1109/ICCD.1992.276252
+IBM Single Chip RISC Processor (RSC).	Charles R. Moore,D. M. Balser,John S. Muhich,R. E. East	10.1109/ICCD.1992.276248
+MARVLE: A VLSI Chip for Variable Length Encoding and Decoding.	Amar Mukherjee,Jeffrey W. Flieder,N. Ranganathan	10.1109/ICCD.1992.276242
+Synthesis of Timed Asynchronous Circuits.	Chris J. Myers,Teresa H.-Y. Meng	10.1109/ICCD.1992.276269
+A CRegs Implementation Study Based on the MIPS-X RISC Processor.	Steve Nowakowski,Matthew T. O&apos;Keefe	10.1109/ICCD.1992.276225
+Practical Asynchronous Controller Design.	Steven M. Nowick,Kenneth Y. Yun,David L. Dill	10.1109/ICCD.1992.276285
+The J-Machine Network.	Peter R. Nuth,William J. Dally	10.1109/ICCD.1992.276305
+Archimedes: An Approach to Architecutre-Independent Modeling for High-Level Simulation.	Miyako Odawara,Kazunori Kuriyama,Tadaaki Bandoh	10.1109/ICCD.1992.276261
+Interconnect Modeling and Design in High-Speed VLSI/ULSI Systems.	Soo-Young Oh,Keh-Jeng Chang,Norman Chang,Ken Lee	10.1109/ICCD.1992.276245
+System Level Verification of Large Scale Computer.	T. Okabayashi,K. Kubo,Z. Hirose,K. Suzuki	10.1109/ICCD.1992.276238
+High-Level Synthesis of Self-Recovering MicroArchitectures.	Alex Orailoglu,Ramesh Karri	10.1109/ICCD.1992.276271
+State Assignment Algorithms for Parallel Controller Synthesis.	James Pardey,Tomasz Kozlowski,Jonathan Saul,Martin Bolton	10.1109/ICCD.1992.276279
+Register Locking in an Asynchronous Microprocessor.	N. C. Paver,Paul Day,Stephen B. Furber,Jim D. Garside,John V. Woods	10.1109/ICCD.1992.276287
+Design Methodology and CAD Tools for the NVAX Microprocessor.	Victor Peng,Dale R. Donchin,Yao-Tsung Yen	10.1109/ICCD.1992.276277
+Fast Minimization of Mixed-Polarity AND/XOR Canonical Networks.	Marek A. Perkowski,Laszlo Csanky,Andisheh Sarabi,Ingo Schäfer	10.1109/ICCD.1992.276211
+Functional VLSI Design Verification Methodology for the CM-5 Massively Parallel Supercomputer.	Margaret A. St. Pierre,Shaw-Wen Yang,Dan Cassiday	10.1109/ICCD.1992.276308
+The ETCA Data-Flow Functional Computer for Real-Time Image Processing.	Georges Quénot,Bertrand Y. Zavidovique	10.1109/ICCD.1992.276324
+Design and Scaling of BiCMOS Circuits.	Prasad Raje	10.1109/ICCD.1992.276257
+ProperCAd: A Portable Object-Oriented Parallel Environment for VLSI CAD.	Balkrishna Ramkumar,Prithviraj Banerjee	10.1109/ICCD.1992.276227
+The Role of Prime Compatibles in the Minimization of Finite State Machines.	June-Kyung Rho,Fabio Somenzi	10.1109/ICCD.1992.276281
+Estimating Lower-Bound Performance of Schedules Using a Relaxation Technique.	Minjoong Rim,Rajiv Jain	10.1109/ICCD.1992.276272
+Design and Test - The Next Problems.	Gordon D. Robinson	10.1109/ICCD.1992.276189
+Just in Time Scheduling.	Karl van Rompaey,Ivo Bolsens,Hugo De Man	10.1109/ICCD.1992.276273
+SYCLOP: Synthesis of CMOS Logic for Low Power Applications.	Kaushik Roy 0001,Sharat Prasad	10.1109/ICCD.1992.276316
+Directions in Futrue High End Processors.	George A. Sai-Halasz	10.1109/ICCD.1992.276256
+Routability-Driven Techology Mapping for LookUp-Table-Based FPGAs.	Martine D. F. Schlag,Jackson Kong,Pak K. Chan	10.1109/ICCD.1992.276201
+Sequential Circuit Design Using Synthesis and Optimization.	Ellen Sentovich,Kanwar Jit Singh,Cho W. Moon,Hamid Savoj,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.1992.276282
+Design and Implementation of a Robot Control System Using a Unified Hardware-Software Rapid Prototyping Framework.	Mani B. Srivastava,Trevor I. Blumenau,Robert W. Brodersen	10.1109/ICCD.1992.276193
+An Area Minimizer for Floorplans with L-Shaped Regions.	Yachyang Sun,C. L. Liu 0001	10.1109/ICCD.1992.276295
+Versioning and Concurrency Control in a Distributed Design Environment.	Atsushi Takahara	10.1109/ICCD.1992.276228
+Desktop Wars - The PC Versus the Workstation.	Nick Tredennick	10.1109/ICCD.1992.276298
+Placement-Based Partitioning for Lookup-Table-Based FPGAs.	Steven Trimberger,Mon-Ren Chene	10.1109/ICCD.1992.276200
+Improving FPGA Routing Architectures Using Architecture and CAD Interactions.	Benjamin Tseng,Jonathan Rose,Stephen Dean Brown	10.1109/ICCD.1992.276198
+ALMP: A Shifting Memory Architecture for Loop Pipelining.	H. Fatih Ugurdag,Christos A. Papachristou	10.1109/ICCD.1992.276224
+Repair of RAMs With Clustered Faults.	Bapiraju Vinnakota,Jason Andrews	10.1109/ICCD.1992.276221
+Hierarchical Simulation of MOS Circuits Using Extracted Functional Models.	Jalal A. Wehbeh,Daniel G. Saab	10.1109/ICCD.1992.276329
+Library Mapping of CMOS-Switch-Level-Circuits by Extraction of Isomorphic Subgraphs.	Ursula Westerholz,Heinrich Theodor Vierhaus	10.1109/ICCD.1992.276318
+Trends in Computer-Based Systems Engineering.	Stephanie White,Mack W. Alford,Brian McCay,David Oliver,Colin Tully,Julian Holtzman,C. Stephen Kuehl,David Owens 0004,Allan Willey	10.1109/ICCD.1992.276215
+Tutorial on Embedded System Design.	Wayne H. Wolf,Ernest Frey	10.1109/ICCD.1992.276214
+Design of Robust-Path-Delay-Fault-Testable Combinational Circuits by Boolean Space Expansion.	Xiaodong Xie,Alexander Albicki,Andrzej Krasniewski	10.1109/ICCD.1992.276321
+Finite State Machine Decomposition Using Multiway Partitioning.	Maya K. Yajnik,Maciej J. Ciesielski	10.1109/ICCD.1992.276280
+On Limitations and Extensions of STG Model for Designing Asynchronous Control Circuits.	Alexandre Yakovlev	10.1109/ICCD.1992.276300
+Synthesis of 3D Asynchronous State Machines.	Kenneth Y. Yun,David L. Dill,Steven M. Nowick	10.1109/ICCD.1992.276286
+An IEEE 1149.1 Compliant Testability Architecture with Internal Scan.	Robert C. Zak Jr.,Jeffrey V. Hill	10.1109/ICCD.1992.276309
+BIST Generators for Sequential Faults.	Shujian Zhang,Rod Byrne,D. Michael Miller	10.1109/ICCD.1992.276264
+A Universal Testability Strategy for Multi-Chip Modules Based on BIST and Boundary-Scan.	Yervant Zorian	10.1109/ICCD.1992.276206
+Implementing a High-Frequency Pattern Generator Based on Combinational Merging.	Charles A. Zukowski,Ying-Wen Bai	10.1109/ICCD.1992.276202
+Proceedings 1992 IEEE International Conference on Computer Design: VLSI in Computer &amp; Processors, ICCD &apos;92, Cambridge, MA, USA, October 11-14, 1992		

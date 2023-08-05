@@ -1,0 +1,79 @@
+D-Stampede: Distributed Programming System for Ubiquitous Computing.	Sameer Adhikari,Arnab Paul,Umakishore Ramachandran	10.1109/ICDCS.2002.1022258
+Routing Through the Mist: Privacy Preserving Communication in Ubiquitous Computing Environments.	Jalal Al-Muhtadi,Roy H. Campbell,Apu Kapadia,M. Dennis Mickunas,Seung Yi	10.1109/ICDCS.2002.1022244
+Version Stamps - Decentralized Version Vectors.	Paulo Sérgio Almeida,Carlos Baquero,Victor Fonte	10.1109/ICDCS.2002.1022304
+Group-Based Management of Distributed File Caches.	Ahmed Amer,Darrell D. E. Long,Randal C. Burns	10.1109/ICDCS.2002.1022302
+On the Performance of Group Key Agreement Protocols.	Yair Amir,Yongdae Kim,Cristina Nita-Rotaru,Gene Tsudik	10.1109/ICDCS.2002.1022291
+From Total Order to Database Replication.	Yair Amir,Ciprian Tutu	10.1109/ICDCS.2002.1022299
+Anthill: A Framework for the Development of Agent-Based Peer-to-Peer Systems.	Özalp Babaoglu,Hein Meling,Alberto Montresor	10.1109/ICDCS.2002.1022238
+OS Support for P2P Programming: a Case for TPS.	Sébastien Baehni,Patrick Th. Eugster,Rachid Guerraoui	10.1109/ICDCS.2002.1022273
+Agent Chaining: An Approach to Dynamic Mobile Agent Planning.	Jin-Wook Baek,Jae-Heung Yeo,Heon Young Yeom	10.1109/ICDCS.2002.1022308
+Cooperative Computing for Distributed Embedded Systems.	Cristian Borcea,Deepa Iyer,Porlin Kang,Akhilesh Saxena,Liviu Iftode	10.1109/ICDCS.2002.1022260
+Process Migration: A Generalized Approach Using a Virtualizing Operating System.	Tom Boyd,Partha Dasgupta	10.1109/ICDCS.2002.1022276
+Design of Adaptive and Reliable Mobile Agent Communication Protocols.	Jiannong Cao 0001,Xinyu Feng 0001,Jian Lu 0001,Sajal K. Das 0001	10.1109/ICDCS.2002.1022295
+Scalable and Efficient Update Dissemination for Distributed Interactive Applications.	Tianying Chang,George V. Popescu,Christopher F. Codella	10.1109/ICDCS.2002.1022251
+Extending RMI to Support Dynamic Reconfiguration of Distributed Systems.	Xuejun Chen	10.1109/ICDCS.2002.1022278
+Adaptive and Virtual Reconfigurations for Effective Dynamic Job Scheduling in Cluster Systems.	Songqing Chen,Li Xiao 0001,Xiaodong Zhang 0001	10.1109/ICDCS.2002.1022240
+Bidding for Storage Space in a Peer-to-Peer Data Preservation System.	Brian F. Cooper,Hector Garcia-Molina	10.1109/ICDCS.2002.1022275
+Snap-Stabilizing PIF Algorithm in Arbitrary Networks.	Alain Cournier,Ajoy Kumar Datta,Franck Petit,Vincent Villain	10.1109/ICDCS.2002.1022257
+Routing Indices For Peer-to-Peer Systems.	Arturo Crespo,Hector Garcia-Molina	10.1109/ICDCS.2002.1022239
+Hierarchical Peer-to-Peer Imbedded Controllers in Competitive Enterprises.	Jose B. Cruz Jr.	
+Convergence Refinement.	Murat Demirbas,Anish Arora	10.1109/ICDCS.2002.1022309
+Reclaiming Space from Duplicate Files in a Serverless Distributed File System.	John R. Douceur,Atul Adya,William J. Bolosky,Dan Simon,Marvin Theimer	10.1109/ICDCS.2002.1022312
+Fast Collect in the absence of contention.	Burkhard Englert,Eli Gafni	10.1109/ICDCS.2002.1022303
+A Fully Distributed Framework for Cost-Sensitive Data Mining.	Wei Fan 0001,Haixun Wang,Philip S. Yu,Salvatore J. Stolfo	10.1109/ICDCS.2002.1022284
+Balancing Performance, Energy, and Quality in Pervasive Computing.	Jason Flinn,SoYoung Park,Mahadev Satyanarayanan	10.1109/ICDCS.2002.1022259
+dRBAC: Distributed Role-based Access Control for Dynamic Coalition Environments.	Eric Freudenthal,Tracy Pesin,Lawrence Port,Edward Keenan,Vijay Karamcheti	10.1109/ICDCS.2002.1022279
+A Working-Set Approach to Reduce the Download-Execution Time of Mobile Programs.	Tsutomu Gamou	10.1109/ICDCS.2002.1022261
+Timestamping Messages in Synchronous Computations.	Vijay K. Garg,Chakarat Skawratananond	10.1109/ICDCS.2002.1022305
+A Practical Approach for ?Zero? Downtime in an Operational Information System.	Ada Gavrilovska,Karsten Schwan,Van Oleson	10.1109/ICDCS.2002.1022272
+A Reliable Multicast Algorithm for Mobile Ad Hoc Networks.	Thiagaraja Gopalsamy,Mukesh Singhal,Dhabaleswar K. Panda 0001,P. Sadayappan	10.1109/ICDCS.2002.1022306
+Key Trees and the Security of Interval Multicast.	Mohamed G. Gouda,Chin-Tser Huang,E. N. Elnozahy	10.1109/ICDCS.2002.1022293
+Dynamic QoS-Aware Multimedia Service Configuration in Ubiquitous Computing Environments.	Xiaohui Gu,Klara Nahrstedt	10.1109/ICDCS.2002.1022268
+An Optimal Strategy for Anonymous Communication Protocols.	Yong Guan,Xinwen Fu,Riccardo Bettati,Wei Zhao 0001	10.1109/ICDCS.2002.1022263
+Distributing MPEG Movies Over the Internet using Programmable Networks.	Dan He,Gilles Muller,Julia L. Lawall	10.1109/ICDCS.2002.1022253
+Partial Database Replication using Epidemic Communication.	JoAnne Holliday,Divyakant Agrawal,Amr El Abbadi	10.1109/ICDCS.2002.1022298
+Dynamic Data Broadcasting with Traffic Awareness.	Chih-Lin Hu,Ming-Syan Chen	10.1109/ICDCS.2002.1022248
+Impact of Network Density on Data Aggregation in Wireless Sensor Networks.	Chalermek Intanagonwiwat,Deborah Estrin,Ramesh Govindan,John S. Heidemann	10.1109/ICDCS.2002.1022289
+Improving the Scalability of Fault-Tolerant Database Clusters.	Ricardo Jiménez-Peris,Marta Patiño-Martínez,Bettina Kemme,Gustavo Alonso	10.1109/ICDCS.2002.1022297
+Accelerating Internet Streaming Media Delivery using Network-Aware Partial Caching.	Shudong Jin,Azer Bestavros,Arun Iyengar	10.1109/ICDCS.2002.1022252
+Dynamic Behaviour of the Distributed Tree Quorum Algorithm.	Nedal Kafri,Jan Janecek	10.1109/ICDCS.2002.1022301
+Reasoning about Joint Administration of Access Policies for Coalition Resources.	Himanshu Khurana,Virgil D. Gligor,John Linn	10.1109/ICDCS.2002.1022281
+The Totem Redundant Ring Protocol.	Ruppert R. Koch,Louise E. Moser,P. M. Melliar-Smith	10.1109/ICDCS.2002.1022310
+A Self-Stabilizing Protocol for Pipelined PIF in Tree Networks.	Daisuke Kondou,Hideo Masuda,Toshimitsu Masuzawa	10.1109/ICDCS.2002.1022255
+Composability in Distributed Real-Time Systems.	Hermann Kopetz	
+The Complexity of Adding Failsafe Fault-Tolerance.	Sandeep S. Kulkarni,Ali Ebnenasir	10.1109/ICDCS.2002.1022271
+On-Demand Multicasting in Ad-Hoc Networks: Comparing AODV and ODMRP.	Thomas Kunz,Ed Cheng	10.1109/ICDCS.2002.1022287
+Using Predeclaration for Efficient Read-only Transaction Processing in Wireless Data Broadcast.	SangKeun Lee 0001,Masaru Kitsuregawa,Chong-Sun Hwang	10.1109/ICDCS.2002.1022282
+Scheduling Real-Time Data Items In Multiple Channels And Multiple Receivers Environments.	Guanling Lee,Yi-Ning Pan,Arbee L. P. Chen	10.1109/ICDCS.2002.1022288
+Architecture of a Large-Scale Location Service.	Alexander Leonhardi,Kurt Rothermel	10.1109/ICDCS.2002.1022292
+RICA: A Receiver-Initiated Approach for Channel-Adaptive On-Demand Routing in Ad Hoc Mobile Computing Networks.	Xiao-Hui Lin 0001,Yu-Kwong Kwok,Vincent K. N. Lau	10.1109/ICDCS.2002.1022245
+Towards a Distributed Platform for Resource-Constrained Devices.	Alan Messer,Ira Greenberg 0002,Philippe Bernadat,Dejan S. Milojicic,DeQing Chen,Thomas J. Giuli,Xiaohui Gu	10.1109/ICDCS.2002.1022241
+Universal Interaction with Networked Home Appliances.	Tatsuo Nakajima,Atsushi Hasegawa	10.1109/ICDCS.2002.1022286
+A Pluggable Service-to-Service Communication Mechanism for VNA Architecture.	Jin Nakazawa,Yoshito Tobe,Hideyuki Tokuda	10.1109/ICDCS.2002.1022290
+Dining Philosophers that Tolerate Malicious Crashes.	Mikhail Nesterenko,Anish Arora	10.1109/ICDCS.2002.1022256
+Distributed Bandwidth Broker for QoS Multicast Traffic.	Elena Pagani,Gian Paolo Rossi 0001	10.1109/ICDCS.2002.1022269
+An Extensible and Scalable Content Adaptation Pipeline Architecture to Support Heterogeneous Clients.	Thomas Phan,George Zorpas,Rajive L. Bagrodia	10.1109/ICDCS.2002.1022300
+Non-Blocking Transactional Mobile Agent Execution.	Stefan Pleisch,André Schiper	10.1109/ICDCS.2002.1022283
+A New Document Placement Scheme for Cooperative Caching on the Internet.	Lakshmish Ramaswamy,Ling Liu 0001	10.1109/ICDCS.2002.1022246
+Clustering Algorithms for Content-Based Publication-Subscription Systems.	Anton Riabov,Zhen Liu 0001,Joel L. Wolf,Philip S. Yu,Li Zhang 0002	10.1109/ICDCS.2002.1022250
+ADAPTLOAD: Effective Balancing in Custered Web Servers Under Transient Load Conditions.	Alma Riska,Wei Sun,Evgenia Smirni,Gianfranco Ciardo	10.1109/ICDCS.2002.1022247
+Formally Verified Byzantine Agreement in Presence of Link Faults.	Ulrich Schmid 0001,Bettina Weiss,John M. Rushby	10.1109/ICDCS.2002.1022311
+Invariant Consistency: A Mechanism for Inter-Process Ordering in Distributed Shared Memory Systems.	Gurdip Singh	10.1109/ICDCS.2002.1022285
+The Transition from Asynchronous to Synchronous System Operation: An Approach for Distributed Fault-Tolerant Systems.	Wilfried Steiner,Michael Paulitsch	10.1109/ICDCS.2002.1022270
+Migratory TCP: Connection Migration for Service Continuity in the Internet.	Florin Sultan,Kiran Srinivasan,Deepa Iyer,Liviu Iftode	10.1109/ICDCS.2002.1022294
+Future Strategies for Mobile Communications.	Keiji Tachikawa	
+Conditional Messaging: Extending Reliable Messaging with Application Conditions.	Stefan Tai,Thomas A. Mikalsen,Isabelle Rouvellou,Stanley M. Sutton Jr.	10.1109/ICDCS.2002.1022249
+Overlook: Scalable Name Service on an Overlay Network.	Marvin Theimer,Michael B. Jones	10.1109/ICDCS.2002.1022242
+Design of a Policy-Driven Middleware for Secure Distributed Collaboration.	Anand R. Tripathi,Tanvir Ahmed 0002,Richa Kumar,Shremattie Jaman	10.1109/ICDCS.2002.1022277
+Cost-Effective Switching Fabrics with Distributed Control for Scalable Routers.	Nian-Feng Tzeng,Malcolm Mandviwalla	10.1109/ICDCS.2002.1022243
+Incremental Replication for Mobility Support in OBIWAN.	Luís Veiga,Paulo Ferreira 0001	10.1109/ICDCS.2002.1022262
+Geometric Spanners for Wireless Ad Hoc Networks.	Yu Wang 0003,Xiang-Yang Li 0001	10.1109/ICDCS.2002.1022254
+SYN-dog: Sniffing SYN Flooding Sources.	Haining Wang,Danlu Zhang,Kang G. Shin	10.1109/ICDCS.2002.1022280
+On Peer-to-Peer Media Streaming.	Dongyan Xu,Mohamed Hefeeda,Susanne E. Hambrusch,Bharat K. Bhargava	10.1109/ICDCS.2002.1022274
+Dynamic Replica Control Based on Fairly Assigned Variation of Data with Weak Consistency for Loosely Coupled Distributed Systems.	Takao Yamashita	10.1109/ICDCS.2002.1022265
+Improving Search in Peer-to-Peer Networks.	Beverly Yang,Hector Garcia-Molina	10.1109/ICDCS.2002.1022237
+Power-Aware Prefetch in Mobile Environments.	Liangzhong Yin,Guohong Cao,Chita R. Das,Ajeesh Ashraf	10.1109/ICDCS.2002.1022307
+Query Optimization to Meet Performance Targets for Wide Area Applications.	Vladimir Zadorozhny,Louiqa Raschid	10.1109/ICDCS.2002.1022264
+ControlWare: A Middleware Architecture for Feedback Control of Software Performance.	Ronghua Zhang,Chenyang Lu 0001,Tarek F. Abdelzaher,John A. Stankovic	10.1109/ICDCS.2002.1022267
+Unification of Replication and Transaction Processing in Three-Tier Architectures.	Wenbing Zhao 0001,Louise E. Moser,P. M. Melliar-Smith	10.1109/ICDCS.2002.1022266
+Proceedings of the 22nd International Conference on Distributed Computing Systems (ICDCS&apos;02), Vienna, Austria, July 2-5, 2002		

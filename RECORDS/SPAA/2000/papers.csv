@@ -1,0 +1,25 @@
+The data locality of work stealing.	Umut A. Acar,Guy E. Blelloch,Robert D. Blumofe	10.1145/341800.341801
+DCAS-based concurrent deques.	Ole Agesen,David Detlefs,Christine H. Flood,Alex Garthwaite,Paul Alan Martin,Nir Shavit,Guy L. Steele Jr.	10.1145/341800.341817
+Generalized connection caching.	Susanne Albers	10.1145/341800.341810
+Scheduling Cilk multithreaded parallel programs on processors of different speeds.	Michael A. Bender,Michael O. Rabin	10.1145/341800.341803
+Infinite parallel job allocation (extended abstract).	Petra Berenbrink,Artur Czumaj,Tom Friedetzky,Nikita D. Vvedenskaya	10.1145/341800.341813
+Efficient, distributed data placement strategies for storage area networks (extended abstract).	André Brinkmann,Kay Salzwedel,Christian Scheideler	10.1145/341800.341815
+Efficient on-line communication in cellular networks.	Ioannis Caragiannis,Christos Kaklamanis,Evi Papaioannou	10.1145/341800.341807
+Connection caching under vaious models of communication.	Edith Cohen,Haim Kaplan,Uri Zwick	10.1145/341800.341808
+Compact, multilayer layout for butterfly fat-tree.	André DeHon	10.1145/341800.341824
+Diffusive load balancing schemes on heterogeneous networks.	Robert Elsässer,Burkhard Monien,Robert Preis	10.1145/341800.341805
+Data management in hierarchical bus networks.	Friedhelm Meyer auf der Heide,Harald Räcke,Matthias Westermann	10.1145/341800.341814
+A (2.954 epsilon)n oblivious routing algorithm on 2D meshes.	Kazuo Iwama,Eiji Miyano	10.1145/341800.341822
+Comparing the effectiveness of fine-grain memory caching against page migration/replication in reducing traffic in DSM clusters.	An-Chow Lai,Babak Falsafi	10.1145/341800.341811
+Broadcast scheduling optimization for heterogeneous cluster systems.	Pangfeng Liu,Tzu-Hao Sheng	10.1145/341800.341816
+An experimental study of a simple, distributed edge coloring algorithm.	Madhav V. Marathe,Alessandro Panconesi,Larry D. Risinger Jr.	10.1145/341800.341820
+Algorithmic foundations for a parallel vector access memory system.	Binu K. Mathew,Sally A. McKee,John B. Carter,Al Davis	10.1145/341800.341819
+An efficient self-simulation algorithm for reconfigurable meshes.	Susumu Matsumae,Nobuki Tokura	10.1145/341800.341825
+Interprocessor communication with memory constraints.	Ali Pinar,Bruce Hendrickson	10.1145/341800.341806
+Optimal schedules for data-parallel cycle-stealing in networks of workstations (extended abstract).	Arnold L. Rosenberg	10.1145/341800.341804
+Asynchronous scheduling of redundant disk arrays.	Peter Sanders 0001	10.1145/341800.341812
+Multithreaded algorithms for the fast Fourier transform.	Parimala Thulasiraman,Kevin B. Theobald,Ashfaq A. Khokhar,Guang R. Gao	10.1145/341800.341821
+A no-busy-wait balanced tree parallel algorithmic paradigm.	Uzi Vishkin	10.1145/341800.341818
+VLSI layout and packaging of butterfly networks.	Chi-Hsiang Yeh,Behrooz Parhami,Emmanouel A. Varvarigos,Hua Lee	10.1145/341800.341823
+Fault tolerant networks with small degree.	Li Zhang	10.1145/341800.341809
+Proceedings of the Twelfth annual ACM Symposium on Parallel Algorithms and Architectures, SPAA 2000, Bar Harbor, Maine, USA, July 9-13, 2000	Gary L. Miller,Shang-Hua Teng	10.1145/341800

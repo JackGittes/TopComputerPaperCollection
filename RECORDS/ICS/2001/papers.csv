@@ -1,0 +1,46 @@
+Demonstrating the scalability of a molecular dynamics application on a Petaflop computer.	George S. Almási,Calin Cascaval,José G. Castaños,Monty Denneau,Wilm E. Donath,Maria Eleftheriou,Mark Giampapa,C. T. Howard Ho,Derek Lieber,José E. Moreira,Dennis M. Newns,Marc Snir,Henry S. Warren Jr.	10.1145/377792.377896
+On the potential of tolerant region reuse for multimedia applications.	Carlos Álvarez 0001,Jesús Corbal,Esther Salamí,Mateo Valero	10.1145/377792.377835
+Evaluating the impact of memory system performance on software prefetching and locality optimizations.	Abdel-Hameed A. Badawy,Aneesh Aggarwal,Donald Yeung,Chau-Wen Tseng	10.1145/377792.377906
+Towards the effective parallel computation of matrix pseudospectra.	Constantine Bekas,Effrosini Kokiopoulou,Ioannis Koutis,Efstratios Gallopoulos	10.1145/377792.377847
+Workload decomposition for particle simulation applications on hierarchical distributed-shared memory parallel systems with integration of HPF and OpenMP.	Sergio Briguglio,Beniamino Di Martino,Gregorio Vlad	10.1145/377792.377904
+Bringing together automatic differentiation and OpenMP.	H. Martin Bücker,Bruno Lang,Dieter an Mey,Christian H. Bischof	10.1145/377792.377842
+A network of cellular automata for a landslide simulation.	Claudia Roberta Calidonna,Claudia Di Napoli,Maurizio Giordano,Mario Mango Furnari,Salvatore Di Gregorio	10.1145/377792.377900
+Reducing the complexity of the issue logic.	Ramon Canal,Antonio González 0001	10.1145/377792.377854
+Global optimization techniques for automatic parallelization of hybrid applications.	Dhruva R. Chakrabarti,Prithviraj Banerjee	10.1145/377792.377827
+Array language support for parallel sparse computation.	Bradford L. Chamberlain,Lawrence Snyder	10.1145/377792.377820
+Optimizing strategies for telescoping languages: procedure strength reduction and procedure vectorization.	Arun Chauhan 0001,Ken Kennedy	10.1145/377792.377812
+Loop optimization for a class of memory-constrained computations.	Daniel Cociorva,J. W. Wilkins,Chi-Chung Lam,Gerald Baumgartner,J. Ramanujam,P. Sadayappan	10.1145/377792.377814
+Improving Gang Scheduling through job performance analysis and malleability.	Julita Corbalán,Xavier Martorell,Jesús Labarta	10.1145/377792.377852
+A parallel algorithm for sparse symbolic LU factorization without pivoting on out-of-core matrices.	Michel Cosnard,Laura Grigori	10.1145/377792.377823
+Eliminating redundancies in sum-of-product array computations.	Steven J. Deitz,Bradford L. Chamberlain,Lawrence Snyder	10.1145/377792.377807
+Fast parallel in-memory 64-bit sorting.	Daniel Jiménez-González,Juan J. Navarro,Josep Lluís Larriba-Pey	10.1145/377792.377816
+A framework for efficient reuse of binary code in Java.	Pramod G. Joisha,Samuel P. Midkiff,Mauricio J. Serrano,Manish Gupta 0002	10.1145/377792.377902
+Building a high-performance communication layer over virtual interface architecture on Linux clusters.	Jin-Soo Kim,Kangho Kim,Sung-In Jung	10.1145/377792.377858
+Tuning high-performance scientific codes: the use of performance models to control resource usage during data migration and I/O.	Jonghyun Lee 0001,Marianne Winslett,Xiaosong Ma,Shengke Yu	10.1145/377792.377829
+Improving 3D geometry transformations on a simultaneous multithreaded SIMD processor.	Claude Limousin,Julien Sébot,Alexis Vartanian,Nathalie Drach-Temam	10.1145/377792.377839
+Automatic code generation for a turbulence scheme.	Paul van der Mark,Gerard Cats,Lex Wolters	10.1145/377792.377846
+Fractal symbolic analysis.	Nikolay Mateev,Vijay Menon 0002,Keshav Pingali	10.1145/377792.377804
+Tools for application-oriented performance tuning.	John M. Mellor-Crummey,Robert J. Fowler,David B. Whalley	10.1145/377792.377826
+A graphical tool for driving the parallel computation of pseudosprectra.	Dany Mezher	10.1145/377792.377848
+Evaluation of processor code efficiency for embedded systems.	Morgan Hirosuke Miki,Mamoru Sakamoto,Shingo Miyamoto,Yoshinori Takeuchi,Toyohiko Yoshida,Isao Shirakawa	10.1145/377792.377837
+Algorithmic modifications to the Jacobi-Davidson parallel eigensolver to dynamically balance external CPU and memory load.	Richard Tran Mills,Andreas Stathopoulos,Evgenia Smirni	10.1145/377792.377903
+Computer aided hand tuning (CAHT): &quot;applying case-based reasoning to performance tuning&quot;.	Antoine Monsifrot,François Bodin	10.1145/377792.377831
+Slice-processors: an implementation of operation-based prediction.	Andreas Moshovos,Dionisios N. Pnevmatikatos,Amirali Baniasadi	10.1145/377792.377856
+The trade-off between implicit and explicit data distribution in shared-memory programming paradigms.	Dimitrios S. Nikolopoulos,Eduard Ayguadé,Theodore S. Papatheodorou,Constantine D. Polychronopoulos,Jesús Labarta	10.1145/377792.377801
+Load and store reuse using register file contents.	Soner Önder,Rajiv Gupta 0001	10.1145/377792.377850
+Multiplex: unifying conventional and speculative thread-level parallelism on a chip multiprocessor.	Chong-liang Ooi,Seon Wook Kim,Il Park 0001,Rudolf Eigenmann,Babak Falsafi,T. N. Vijaykumar	10.1145/377792.377863
+A novel renaming mechanism that boosts software prefetching.	Daniel Ortega,Mateo Valero,Eduard Ayguadé	10.1145/377792.377907
+Computational challenges in large-scale air pollution modelling.	Tzvetan Ostromsky,Wojciech Owczarz,Zahari Zlatev	10.1145/377792.377898
+Integrating superscalar processor components to implement register caching.	Matt Postiff,David A. Greene,Steven E. Raasch,Trevor N. Mudge	10.1145/377792.377859
+Improving Java performance using hardware translation.	Ramesh Radhakrishnan,Ravi Bhargava,Lizy Kurian John	10.1145/377792.377901
+Optimizing locality for ODE solvers.	Thomas Rauber,Gudula Rünger	10.1145/377792.377818
+Register-sensitive selection, duplication, and sequencing of instructions.	Vivek Sarkar,Mauricio J. Serrano,Barbara B. Simons	10.1145/377792.377849
+Cache performance for multimedia applications.	Nathan T. Slingerland,Alan Jay Smith	10.1145/377792.377833
+Data locality enhancement by memory reduction.	Yonghong Song,Rong Xu,Cheng Wang 0019,Zhiyuan Li 0001	10.1145/377792.377806
+Analytical cache models with applications to cache partitioning.	G. Edward Suh,Srinivas Devadas,Larry Rudolph	10.1145/377792.377797
+Optimizing threaded MPI execution on SMP clusters.	Hong Tang 0004,Tao Yang 0009	10.1145/377792.377895
+ARIMA time series modeling and forecasting for adaptive I/O prefetching.	Nancy Tran,Daniel A. Reed	10.1145/377792.377905
+Monotonic evolution: an alternative to induction variable substitution for dependence analysis.	Peng Wu 0001,Albert Cohen 0001,Jay P. Hoeflinger,David A. Padua	10.1145/377792.377809
+alpha-coral: a multigrain, multithreaded processor architecture.	Mark N. Yankelevsky,Constantine D. Polychronopoulos	10.1145/377792.377861
+A synthesis of memory mechanisms for distributed architectures.	Jiajing Zhu,Jay P. Hoeflinger,David A. Padua	10.1145/377792.377799
+Proceedings of the 15th international conference on Supercomputing, ICS 2001, Sorrento, Napoli, Italy, June 16-21, 2001	Mario Mango Furnari,Efstratios Gallopoulos	10.1145/377792

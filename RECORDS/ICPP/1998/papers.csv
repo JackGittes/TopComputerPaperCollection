@@ -1,0 +1,74 @@
+Automatic Data Partitioning for Irregular and Adaptive Applications.	Gagan Agrawal	10.1109/ICPP.1998.708533
+Optimal and Near-Optimal Allocation of Precedence-Constrained Tasks to Parallel Processors: Defying the High Complexity Using Effective Search Techniques.	Ishfaq Ahmad,Yu-Kwong Kwok	10.1109/ICPP.1998.708514
+Performance Forecasting: Towards a Methodology for Characterizing Large Computational Applications.	Brian Armstrong,Rudolf Eigenmann	10.1109/ICPP.1998.708525
+PLAPACK: High Performance through High-Level Abstraction.	Gregory S. Baker,John A. Gunnels,Greg Morrow,Beatrice Riviere,Robert A. van de Geijn	10.1109/ICPP.1998.708513
+Efficient Collective Communication on Heterogeneous Networks of Workstations.	Mohammad Banikazemi,Vijay Moorthy,Dhabaleswar K. Panda 0001	10.1109/ICPP.1998.708518
+Pancake Problems with Restricted Prefix Reversals and some Corresponding Cayley Networks.	Douglas W. Bass,Ivan Hal Sudborough	10.1109/ICPP.1998.708457
+Efficient Multicast on Myrinet using Link-Level Flow Control.	Raoul Bhoedjang,Tim Rühl,Henri E. Bal	10.1109/ICPP.1998.708509
+Optimizing Distributed Data Structures using Application-Specific Network Interface Software.	Raoul Bhoedjang,John W. Romein,Henri E. Bal	10.1109/ICPP.1998.708521
+On the Impossibility of Min-Process Non-Blocking Checkpointing and An Efficient Checkpointing Algorithm for Mobile Computing Systems.	Guohong Cao,Mukesh Singhal	10.1109/ICPP.1998.708461
+On Computing the Upper Envelope of Segments in Parallel.	Wei Chen 0003,Koichi Wada	10.1109/ICPP.1998.708493
+An Empirical Study of Admission Control Strategies in Video Servers.	Tzi-cker Chiueh,Michael Vernick	10.1109/ICPP.1998.708501
+High-Level Information - An Approach for Integrating Front-End and Back-End Compilers.	Sangyeun Cho,Jenn-Yuan Tsai,Yonghong Song,Bixia Zheng,Stephen J. Schwinn,Xin Wang,Qing Zhao,Zhiyuan Li 0001,David J. Lilja,Pen-Chung Yew	10.1109/ICPP.1998.708505
+Parallel Processing of Adaptive Meshes with Load Balancing.	Sajal K. Das 0001,Daniel J. Harvey,Rupak Biswas	10.1109/ICPP.1998.708523
+Convergence Points on Commercial Parallel Systems: Do We Have the Node Architecture? Do We Have the Network? Do We Have the Programming Paradigm?	Hank G. Dietz,José Duato,Steven L. Scott,Thomas L. Sterling,Craig B. Stunkel,Stephen R. Wheat	10.1109/ICPP.1998.10000
+Rerouting Connections in Mobile ATM Networks.	Gopal Dommety,Malathi Veeraraghavan,Mukesh Singhal	10.1109/ICPP.1998.708462
+Group Protocol for Distributed Replicated Objects.	Tomoya Enokido,Hiroaki Higaki,Makoto Takizawa 0001	10.1109/ICPP.1998.708531
+A New Transparent Bridge Protocol for LAN Internetworking using Topologies with Active Loops.	Román García,José Duato,José Serrano	10.1109/ICPP.1998.708499
+Parallel Algorithms for Airline Crew Planning on Networks of Workstations.	Christos Goumopoulos,Panayiotis Alefragis,Efthymios Housos	10.1109/ICPP.1998.708465
+Cluster Fault Tolerant Routing in Hypercubes.	Qian-Ping Gu,Shietung Peng	10.1109/ICPP.1998.708475
+Automatic Generation of Provably Correct Parallelizing Compilers.	Gopal Gupta 0001,Enrico Pontelli,Amado Lara-Rodríguez,Roberto Felix-Cardenas	10.1109/ICPP.1998.708532
+Optimizing Dynamic Memory Management in a Multithreaded Application Executing on a Multiprocessor.	Daniel Häggander,Lars Lundberg	10.1109/ICPP.1998.708494
+Routing in Wormhole-Switched Clustered Networks with Applications to Fault-Tolerance.	Vivek Halwan,Füsun Özgüner	10.1109/ICPP.1998.708470
+MPEG-4 Based Interactive Video using Parallel Processing.	Yong He,Ishfaq Ahmad,Ming L. Liou	10.1109/ICPP.1998.708503
+Performance Analysis and Optimization of a Parallel Carbon Molecular Dynamic Code on a Cray T3E.	Mihai Horoi,Richard J. Enbody	10.1109/ICPP.1998.708464
+Embed Longest Rings onto Star Graphs with Vertex Faults.	Sun-Yuan Hsieh,Gen-Huey Chen,Chin-Wen Ho	10.1109/ICPP.1998.708473
+Supporting Software Distributed Shared Memory with an Optimizing Compiler.	Tatsushi Inagaki,Junpei Niwa,Takashi Matsumoto 0002,Kei Hiraki	10.1109/ICPP.1998.708490
+Inter-Iteration Optimization of Parallel EM Algorithm on Message-Passing Multicomputers.	Wei-Min Jeng,Shou-Hsuan Stephen Huang	10.1109/ICPP.1998.708492
+Stream Scheduling Algorithms for Multimedia Storage Servers.	Xiaoye Jiang,Prasant Mohapatra	10.1109/ICPP.1998.708502
+Media Access Protocols For A Scalable Optical Interconnection Network.	Thomas S. Jones,Ahmed Louri	10.1109/ICPP.1998.708500
+GAST: A Flexible and Extensible Tool for Evaluating Multiprocessor Assignment and Scheduling Techniques.	Jan Jonsson	10.1109/ICPP.1998.708516
+Improving Parallel-Disk Buffer Management using Randomized Writeback.	Mahesh Kallahalla,Peter J. Varman	10.1109/ICPP.1998.708495
+Performance Implications of Architectural and Software Techniques on I/O-Intensive Applications.	Meenakshi A. Kandaswamy,Mahmut T. Kandemir,Alok N. Choudhary,David E. Bernholdt	10.1109/ICPP.1998.708522
+Minimizing Data and Synchronization Costs in One-Way Communication.	Mahmut T. Kandemir,U. Nagaraj Shenoy,Prithviraj Banerjee,J. Ramanujam,Alok N. Choudhary	10.1109/ICPP.1998.708483
+Parallel Optimistic Logic Simulation with Event Lookahead.	Hong K. Kim,Jack S. N. Jean	10.1109/ICPP.1998.708458
+A Real-Time Communication Method for Wormhole Switching Networks.	Byungjae Kim,Jong Kim 0001,Sung Je Hong,Sunggu Lee	10.1109/ICPP.1998.708526
+Fault-Tolerant Multicasting in Multistage Interconnection Networks.	Jinsoo Kim 0005,Jaehyung Park,Jung Wan Cho,Hyunsoo Yoon	10.1109/ICPP.1998.708476
+Binding Time in Distributed Shared Memory Architectures.	Jinseok Kong,Gyungho Lee	10.1109/ICPP.1998.708486
+Low-cost Fault-tolerance in Barrier Synchronizations.	Sandeep S. Kulkarni,Anish Arora	10.1109/ICPP.1998.708472
+ASCOMA: An Adaptive Hybrid Shared Memory Architecture.	Chen-Chi Kuo,John B. Carter,Ravindra Kuramkote,Mark R. Swanson	10.1109/ICPP.1998.708488
+Two-phase Multicast in Wormhole-Switched Bidirectional Multistage Banyan Networks.	W. Kwon,Boseob Kwon,Jae-Hyun Park,Hyunsoo Yoon	10.1109/ICPP.1998.708508
+Response Time Analysis for Distributed Real-Time Systems with Bursty Job Arrivals.	Chengzhi Li,Riccardo Bettati,Wei Zhao 0001	10.1109/ICPP.1998.708515
+A Prefix Code Matching Parallel Load-Balancing Method for Solution-Adaptive Unstructured Finite Element Graphs on Distributed Memory Multicomputers.	Ching-Jung Liao,Yeh-Ching Chung	10.1109/ICPP.1998.708524
+DRIL: Dynamically Reduced Message Injection Limitation Mechanism for Wormhole Networks.	Pedro López 0001,Juan-Miguel Martínez 0001,José Duato	10.1109/ICPP.1998.708527
+An Evaluation of Storage Systems based on Network-attached Disks.	Gang Ma,A. L. Narasimha Reddy	10.1109/ICPP.1998.708497
+Reducing the Synchronization Overhead in Parallel Nonsymmetric Krylov Algorithms on MIMD Machines.	Muthucumaru Maheswaran,Kevin J. Webb,Howard Jay Siegel	10.1109/ICPP.1998.708512
+The Effect of using State-Based Priority Information in a Shared-Memory Multiprocessor Cache Replacement Policy.	Farnaz Mounes-Toussi,David J. Lilja	10.1109/ICPP.1998.708489
+Concurrent SSA Form in the Presence of Mutual Exclusion.	Diego Novillo,Ronald C. Unrau,Jonathan Schaeffer	10.1109/ICPP.1998.708506
+An Analytical Model of Duato&apos;s Fully-Adaptive Routing Algorithm in k-Ary n-Cubes.	Mohamed Ould-Khaoua	10.1109/ICPP.1998.708469
+Efficient Backtracking in And-Parallel Implementations of Non-deterministic Languages.	Enrico Pontelli,Gopal Gupta 0001	10.1109/ICPP.1998.708504
+Network Planning and Tuning in Switch-Based LANs.	Wenjian Qiao,Lionel M. Ni	10.1109/ICPP.1998.708498
+On-line Configuration of a Time Warp Parallel Discrete Event Simulator.	Radharamanan Radhakrishnan,Nael B. Abu-Ghazaleh,Malolan Chetlur,Philip A. Wilsey	10.1109/ICPP.1998.708460
+Optimal Task Scheduling to Minimize Inter-Tile Latencies.	Fabrice Rastello,Amit Rao,Santosh Pande	10.1109/ICPP.1998.708480
+nD-dBPN: New Self-Routing Permutation Networks Based On the de Bruijn Digraphs.	Azman Samsudin,Kyungsook Y. Lee	10.1109/ICPP.1998.708535
+IBM RS/6000 SP Interconnection Network Topologies for Large Systems.	Harish Sethu,Craig B. Stunkel,Robert F. Stucke	10.1109/ICPP.1998.708537
+Impact of Adaptivity on the Behaviour of Networks of Workstations under Bursty Traffic.	Federico Silla,Manuel P. Malumbres,José Duato,Donglai Dai,Dhabaleswar K. Panda 0001	10.1109/ICPP.1998.708467
+Improving Performance of Networks of Workstations by using Disha Concurrent.	Federico Silla,Antonio Robles,José Duato	10.1109/ICPP.1998.708466
+Where to Provide Support for Efficient Multicasting in Irregular Networks: Network Interface or Switch?	Rajeev Sivaram,Ram Kesavan,Dhabaleswar K. Panda 0001,Craig B. Stunkel	10.1109/ICPP.1998.708517
+Scalable Parallel Implementations of the GMRES Algorithm via Householder Reflections.	Masha Sosonkina,Donald C. S. Allison,Layne T. Watson	10.1109/ICPP.1998.708511
+Parallel Formulations of Decision-Tree Classification Algorithms.	Anurag Srivastava,Eui-Hong Han,Vipin Kumar 0001,Vineet Singh	10.1109/ICPP.1998.708491
+Efficient All-to-All Personalized Exchange in Multidimensional Torus Networks.	Young-Joo Suh,Kang G. Shin	10.1109/ICPP.1998.708519
+Performance Range Comparison for Restructuring Compilation.	Xian-He Sun,Mario Pantano,Thomas Fahringer	10.1109/ICPP.1998.708534
+Schemes for Reducing Communication Latency in Regular Computations on DSM Multiprocessors.	Masaru Takesue	10.1109/ICPP.1998.708478
+An Euler-Path-Based Multicasting Model for Wormhole-Routed Networks with Multi-Destination Capability.	Yu-Chee Tseng,Ming-Hour Yang,Tong-Ying Juang	10.1109/ICPP.1998.708507
+Simulating PRAM with a MSIMD model (ASC).	Darrell R. Ulm,Johnnie W. Baker	10.1109/ICPP.1998.708456
+Efficient Sleep/Wake-up Protocols for User-Level IPC.	Ronald C. Unrau,Orran Krieger	10.1109/ICPP.1998.708530
+Implementation and Performance Evaluation of Locust.	Manish Verma,Tzi-cker Chiueh	10.1109/ICPP.1998.708468
+Techniques for Delayed Binding of Monitoring Mechanisms to Application-Specific Instrumentation Points.	Jeffrey S. Vetter,Karsten Schwan	10.1109/ICPP.1998.708520
+PastSet - An Efficient High Level Inter Process Communication Mechanism?	Brian Vinter,Otto J. Anshus,Tore Larsen	10.1109/ICPP.1998.708529
+Algebraic Foundations and Broadcasting Algorithms for Wormhole-Routed All-Port Tori.	San-Yuan Wang,Yu-Chee Tseng	10.1109/ICPP.1998.708528
+The Postal Network: A Versatile Interconnection Topology.	Jie Wu 0001,Yuanyuan Yang 0001	10.1109/ICPP.1998.708536
+A Parallel Algorithm for Timing-driven Global Routing for Standard Cells.	Zhaoyun Xing,Prithviraj Banerjee	10.1109/ICPP.1998.708463
+Routing Algorithms for Anycast Messages.	Dong Xuan,Weijia Jia 0001,Wei Zhao 0001	10.1109/ICPP.1998.708471
+A memory-layout oriented run-time technique for locality optimization.	Yong Yan 0003,Xiaodong Zhang 0001,Zhao Zhang 0010	10.1109/ICPP.1998.708484
+1998 International Conference on Parallel Processing (ICPP &apos;98), 10-14 August 1998, Minneapolis, Minnesota, USA, Proceedings		

@@ -1,0 +1,65 @@
+3D FPGAs: placement, routing, and architecture evaluation (abstract only).	Cristinel Ababei,Hushrav Mogal,Kia Bazargan	10.1145/1046192.1046229
+Soft error rate estimation and mitigation for SRAM-based FPGAs.	Ghazanfar Asadi,Mehdi Baradaran Tahoori	10.1145/1046192.1046212
+A framework for rule processing in reconfigurable network systems (abstract only).	Michael Attig,John W. Lockwood	10.1145/1046192.1046259
+Dynamic reconfiguration in FPGA-based SoC designs (abstract only).	Roman Bartosinski,Martin Danek,Petr Honzík,Rudolf Matousek	10.1145/1046192.1046253
+An integrated framework for the high level design of high performance signal processing circuits on FPGAs (abstract only).	Khaled Benkrid,Samir Belkacemi	10.1145/1046192.1046261
+Dynamic hardware multiplexing for coarse grain reconfigurable architectures.	Pascal Benoit,Lionel Torres,Gilles Sassatelli,Michel Robert,Gaston Cambon	10.1145/1046192.1046245
+Rapid prototyping of a test harness for forward error correcting codes (abstract only).	Edward Brown,James Irvine 0001,Bill Wilkie	10.1145/1046192.1046258
+Analysis of yield loss due to random photolithographic defects in the interconnect structure of FPGAs.	Nicola Campregher,Peter Y. K. Cheung,George A. Constantinides,Milan Vasilko	10.1145/1046192.1046211
+Choice of base revisited: higher radices for FPGA-based floating-point computation (abstract only).	Bryan Catanzaro,Brent E. Nelson	10.1145/1046192.1046264
+Simultaneous timing-driven placement and duplication.	Gang Chen 0020,Jason Cong	10.1145/1046192.1046200
+Instruction set extension with shadow registers for configurable processors.	Jason Cong,Yiping Fan,Guoling Han,Ashok Jagannathan,Glenn Reinman,Zhiru Zhang	10.1145/1046192.1046206
+Enabling a RealTime Solution for Neuron Detection with Reconfigurable Hardware (abstract only).	Ben Cordes,Jennifer G. Dy,Miriam Leeser,James Goebel	10.1145/1046192.1046232
+Design of programmable interconnect for sublithographic programmable logic arrays.	André DeHon	10.1145/1046192.1046210
+Floating-point sparse matrix-vector multiply for FPGAs.	Michael DeLorimier,André DeHon	10.1145/1046192.1046203
+The effect of post-layout pin permutation on timing.	Yuzheng Ding,Peter Suaris,Nan-Chi Chou	10.1145/1046192.1046199
+64-bit floating-point FPGA matrix multiplication.	Yong Dou,Stamatis Vassiliadis,Georgi Kuzmanov,Georgi Gaydadjiev	10.1145/1046192.1046204
+Reconfigurable computers: an empirical analysis (abstract only).	Tarek A. El-Ghazawi,Kris Gaj,Nikitas A. Alexandridis,Allen Michalski,Osman Devrim Fidanci,Mohamed Taher,Esam El-Araby,Esmail Chitalwala,Proshanta Saha	10.1145/1046192.1046263
+An execution environment for reconfigurable computing (abstract only).	Wenyin Fu,Katherine Compton	10.1145/1046192.1046238
+Time-multiplexed execution on the dynamically reconfigurable processor: a performance/cost evaluation.	Yohei Hasegawa,Shohei Abe,Katsuaki Deguchi,Masayasu Suzuki,Hideharu Amano	10.1145/1046192.1046234
+A leakage-aware CAD flow for MTCMOS FPGA architectures (abstract only).	Hassan Hassan 0001,Mohab Anis,Mohamed I. Elmasry	10.1145/1046192.1046237
+An FPGA based SDRAM controller with complex QoS scheduling and traffic shaping (abstract only).	Sven Heithecker,Rolf Ernst	10.1145/1046192.1046260
+Efficient static timing analysis and applications using edge masks.	Mike Hutton,David Karchmer,Bryan Archell,Jason Govig	10.1145/1046192.1046215
+Soft multiprocessor systems for network applications (abstract only).	Yujia Jin,William Plishker,Kaushik Ravindran,Nadathur Satish,Kurt Keutzer	10.1145/1046192.1046246
+An FPGA-based VLIW processor with custom hardware execution.	Alex K. Jones,Raymond Hoare,Dara Kusic,Joshua Fazekas,John Foster 0001	10.1145/1046192.1046207
+VPart: an automatic partitioning tool for dynamic reconfiguration (abstract only).	Leos Kafka,Rafal Kielbik,Rudolf Matousek,Juan Manuel Moreno	10.1145/1046192.1046230
+3D-SoftChip: a novel 3D vertically integrated adaptive computing system (abstract only).	Chul Kim,A. M. Rassau,Mike Myung-Ok Lee	10.1145/1046192.1046244
+Energy-efficient FPGA interconnect architecture design (abstract only).	Rohini Krishnan,R. I. M. P. Meijer,Durand Guillaume	10.1145/1046192.1046240
+Dual-Vt FPGA design for leakage power reduction (abstract only).	Akhilesh Kumar,Mohab Anis	10.1145/1046192.1046249
+Design, layout and verification of an FPGA using automated tools.	Ian Kuon,Aaron Egier,Jonathan Rose	10.1145/1046192.1046220
+The Stratix II logic and routing architecture.	David M. Lewis,Elias Ahmed,Gregg Baeckler,Vaughn Betz,Mark Bourgeault,David Cashman,David R. Galloway,Mike Hutton,Christopher Lane,Andy Lee,Paul Leventis,Sandy Marquardt,Cameron McClintock,Ketan Padalia,Bruce Pedersen,Giles Powell,Boris Ratchev,Srinivas Reddy,Jay Schleicher,Kevin Stevens,Richard Yuan,Richard Cliff,Jonathan Rose	10.1145/1046192.1046195
+Accelerating mutual information-based 3D medical image registration with An FPGA computing platform (abstract only).	Jianchun Li,Christos A. Papachristou,Raj Shekhar	10.1145/1046192.1046265
+An FPGA generator for multipoint distributed random variables (abstract only).	Nicola Bruti Liberati,Eckhard Platen,Filippo Martini,Massimo Piccardi	10.1145/1046192.1046266
+Power modeling and architecture evaluation for FPGA with novel circuits for Vdd programmability.	Yan Lin 0001,Fei Li 0003,Lei He 0001	10.1145/1046192.1046218
+Combining low-leakage techniques for FPGA routing design.	Andrea Lodi 0002,Luca Ciccarelli,Roberto Giansante	10.1145/1046192.1046219
+Firm-core Virtual FPGA for Just-in-Time FPGA Compilation (abstract only).	Roman L. Lysecky,Kris Miller,Frank Vahid,Kees A. Vissers	10.1145/1046192.1046247
+SMPS: an FPGA-based prototyping environment for multiprocessor embedded systems (abstract only).	Ankit Mathur,Mayank Agarwal,Soumyadeb Mitra,Anup Gangwar,M. Balakrishnan,Subhashis Banerjee	10.1145/1046192.1046250
+Hierarchical LUT structures for leakage power reduction (abstract only).	Somsubhra Mondal,Seda Ogrenci Memik,Debasish Das	10.1145/1046192.1046248
+A VLIW-based cryptoprocessor on FPGAs architecture and performance issues (abstract only).	Edward D. Moreno,Fábio Dacêncio Pereira,Rodolfo B. Chiaramonte	10.1145/1046192.1046262
+Prototyping globally asynchronous locally synchronous circuits on commercial synchronous FPGAs (abstract only).	Mehrdad Najibi,Kamran Saleh,Mohsen Naderi,Hossein Pedram,Mehdi Sedighi	10.1145/1046192.1046243
+A partial reconfigurable FPGA implementation for industrial controllers using SFC-petri net description (abstract only).	Paulo Sérgio B. do Nascimento,Paulo Romero Martins Maciel,Manoel Eusebio de Lima,Remy Eskinazi Sant&apos;Anna,Abel Guilhermino Silva-Filho	10.1145/1046192.1046254
+Figaro: an automatic tool flow for designs with dynamic reconfiguration (abstract only).	Kelly Nasi,Martin Danek,Theodoros Karoubalis,Zdenek Pohl	10.1145/1046192.1046227
+Hyper customized processors for bio-sequence database scanning on FPGAs.	Timothy F. Oliver,Bertil Schmidt,Douglas L. Maskell	10.1145/1046192.1046222
+A New Universal Test Pattern Auto-generating Approach for FPGA Logic Resources (abstract only).	Yirong OuYang,Jiarong Tong	10.1145/1046192.1046228
+Automated synthesis for asynchronous FPGAs.	Song Peng,David Fang,John Teifel,Rajit Manohar	10.1145/1046192.1046214
+Efficient utilization of heterogeneous routing resources for FPGAs (abstract only).	Deepak Rautela,Rajendra S. Katti	10.1145/1046192.1046231
+Efficient methodology for detection and correction of SEU-based interconnect errors in FPGAs using partial reconfiguration (abstract only).	E. Syam Sundar Reddy,Vikram Chandrasekhar,Milagros Sashikánth,V. Kamakoti 0001,Narayanan Vijaykrishnan	10.1145/1046192.1046233
+Configurable hardware solutions for computing autocorrelation coefficients: a case study (abstract only).	Jacqueline E. Rice,Kenneth B. Kent,Troy Ronda,Zhao Yong	10.1145/1046192.1046252
+A petri-net based Pre-runtime scheduler for dynamically self-reconfiguration of FPGAs (abstract only).	Remy Eskinazi Sant&apos;Anna,Manoel Eusebio de Lima,Paulo Romero Martins Maciel,Carlos A. Valderrama,Abel Guilhermino Silva-Filho,Paulo Sérgio B. do Nascimento	10.1145/1046192.1046226
+CUSP: a modular framework for high speed network applications on FPGAs.	Graham Schelle,Dirk Grunwald	10.1145/1046192.1046224
+Architecture Adaptive Routability-Driven Placement for FPGAs (abstract only).	Akshay Sharma,Carl Ebeling,Scott Hauck	10.1145/1046192.1046235
+A 2005 review of FPGA arithmetic (abstract only).	Stéphane Simard,Rachid Beguenane,Éric Larouche,Luc Morin	10.1145/1046192.1046257
+HARP: hard-wired routing pattern FPGAs.	Satish Sivaswamy,Gang Wang 0015,Cristinel Ababei,Kia Bazargan,Ryan Kastner,Eli Bozorgzadeh	10.1145/1046192.1046196
+Exploration of heterogeneous reconfigurable architectures (abstract only).	Alastair M. Smith,George A. Constantinides,Peter Y. K. Cheung	10.1145/1046192.1046241
+Efficient packet classification for network intrusion detection using FPGA.	Haoyu Song 0001,John W. Lockwood	10.1145/1046192.1046223
+Techniques for synthesizing binaries to an advanced register/memory structure.	Greg Stitt,Zhi Guo,Walid A. Najjar,Frank Vahid	10.1145/1046192.1046208
+Routing algorithms: enhancing routability &amp; enabling ECO (abstract only).	Taraneh Taghavi,Soheil Ghiasi,Majid Sarrafzadeh	10.1145/1046192.1046236
+Image processing library for reconfigurable computers (abstract only).	Mohamed Taher,Esam El-Araby,Tarek A. El-Ghazawi,Kris Gaj	10.1145/1046192.1046256
+A constant array multiplier core generator with dynamic partial evaluation architecture selection (abstract only).	Bo Yang 0010,Nikhil Joshi,Ramesh Karri	10.1145/1046192.1046267
+Using bus-based connections to improve field-programmable gate array density for implementing datapath circuits.	Andy Gean Ye,Jonathan Rose	10.1145/1046192.1046194
+Skew-programmable clock design for FPGA and skew-aware placement.	Chao-Yang Yeh,Malgorzata Marek-Sadowska	10.1145/1046192.1046198
+Design and implementation of packet classification with FPGA (abstract only).	Yong-Gang Wang,Tian-Xin Yan	10.1145/1046192.1046255
+Domain Specific Non-Uniform Routing Architecture for Embedded Programmable IP Core (abstract only).	Wen Yujie,Jiarong Tong,Charles C. Chiang	10.1145/1046192.1046242
+Sparse Matrix-Vector multiplication on FPGAs.	Ling Zhuo,Viktor K. Prasanna	10.1145/1046192.1046202
+Evaluating heuristics in automatically mapping multi-loop applications to FPGAs.	Heidi E. Ziegler,Mary W. Hall	10.1145/1046192.1046216
+Proceedings of the ACM/SIGDA 13th International Symposium on Field Programmable Gate Arrays, FPGA 2005, Monterey, California, USA, February 20-22, 2005	Herman Schmit,Steven J. E. Wilton	10.1145/1046192

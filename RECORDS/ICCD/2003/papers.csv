@@ -1,0 +1,92 @@
+Precomputation-based Guarding for Dynamic and Leakage Power Reduction.	Afshin Abdollahi,Massoud Pedram,Farzan Fallah,Indradeep Ghosh	10.1109/ICCD.2003.1240878
+Power Efficient Data Cache Designs.	Jaume Abella 0001,Antonio González 0001	10.1109/ICCD.2003.1240866
+On Reducing Register Pressure and Energy in Multiple-Banked Register Files.	Jaume Abella 0001,Antonio González 0001	10.1109/ICCD.2003.1240867
+Energy Efficient Asymmetrically Ported Register Files.	Aneesh Aggarwal,Manoj Franklin	10.1109/ICCD.2003.1240865
+Spec Based Flip-Flop And Buffer Insertion.	Nataraj Akkiraju,Mosur Mohan	10.1109/ICCD.2003.1240906
+Cost-Effective Graceful Degradation in Speculative Processor Subsystems: The Branch Prediction Case.	Sobeeh Almukhaizim,Thomas Verdel,Yiorgos Makris	10.1109/ICCD.2003.1240894
+ROAD : An Order-Impervious Optimal Detailed Router for FPGAs.	Hasan Arslan,Shantanu Dutt	10.1109/ICCD.2003.1240918
+Modeling and Mitigation of Jitter in Multi-Gbps Source-Synchronous I/O Links.	Ganesh Balamurugan,Naresh R. Shanbhag	10.1109/ICCD.2003.1240903
+Reducing Operand Transport Complexity of Superscalar Processors using Distributed Register Files.	Santithorn Bunchua,D. Scott Wills,Linda M. Wills	10.1109/ICCD.2003.1240951
+Non-Crossing OBDDs for Mapping to Regular Circuit Structures.	Aiqun Cao,Cheng-Kok Koh	10.1109/ICCD.2003.1240916
+Design of Resonant Global Clock Distributions.	Steven C. Chan,Kenneth L. Shepard,Phillip J. Restle	10.1109/ICCD.2003.1240902
+Dynamically Optimized Synchronous Communication for Low Power System on Chip Designs.	Vikas Chandra,Gary D. Carpenter,Jeffrey L. Burns	10.1109/ICCD.2003.1240885
+A Simple Yet Effective Merging Scheme for Prescribed-Skew Clock Routing.	Rishi Chaturvedi,Jiang Hu	10.1109/ICCD.2003.1240908
+Procedures for Identifying Untestable and Redundant Transition Faults in Synchronous Sequential Circuits.	Gang Chen 0011,Sudhakar M. Reddy,Irith Pomeranz	10.1109/ICCD.2003.1240870
+Flow-Based Cell Moving Algorithm for Desired Cell Distribution.	Bo-Kyung Choi,Huaiyu Xu,Maogang Wang,Majid Sarrafzadeh	10.1109/ICCD.2003.1240898
+Specifying and Verifying Systems with Multiple Clocks.	Edmund M. Clarke,Daniel Kroening,Karen Yorav	10.1109/ICCD.2003.1240872
+xpipes: a Latency Insensitive Parameterized Network-on-chip Architecture For Multi-Processor SoCs.	Matteo Dall&apos;Osso,Gianluca Biccari,Luca Giovannini,Davide Bertozzi,Luca Benini	10.1109/ICCD.2003.1240952
+Optimal Inductance for On-chip RLC Interconnections.	Shidhartha Das,Kanak Agarwal,David T. Blaauw,Dennis Sylvester	10.1109/ICCD.2003.1240905
+Reducing dTLB Energy Through Dynamic Resizing.	Victor Delaluz,Mahmut T. Kandemir,Anand Sivasubramaniam,Mary Jane Irwin,Narayanan Vijaykrishnan	10.1109/ICCD.2003.1240919
+Physical Design of the &quot;2.5D&quot; Stacked System.	Yangdong Deng,Wojciech Maly	10.1109/ICCD.2003.1240897
+Independent Test Sequence Compaction through Integer Programming.	Petros Drineas,Yiorgos Makris	10.1109/ICCD.2003.1240924
+Boolean Decomposition Based on Cyclic Chains.	Elena Dubrova,Maxim Teslenko,Johan Karlsson	10.1109/ICCD.2003.1240947
+A Mixed-Mode Delay-Locked-Loop Architecture.	Daniel Eckerbert,Lars J. Svensson,Per Larsson-Edefors	10.1109/ICCD.2003.1240904
+Pipelined Multiplicative Division with IEEE Rounding.	Guy Even,Peter-Michael Seidel	10.1109/ICCD.2003.1240901
+A Study of Hardware Techniques That Dynamically Exploit Frequent Operands to Reduce Power Consumption in Integer Function Units.	Kaushal R. Gandhi,Nihar R. Mahapatra	10.1109/ICCD.2003.1240934
+An Energy-Aware Simulation Model and Transaction Protocol for Dynamic Workload Distribution in Mobile Ad Hoc Networks.	Farhad Ghasemi-Tari,Peng Rong,Massoud Pedram	10.1109/ICCD.2003.1240939
+Dynamic Cluster Resizing.	José González 0002,Antonio González 0001	10.1109/ICCD.2003.1240922
+KnapBind: An Area-Efficient Binding Algorithm for Low-leakage Datapaths.	Chandramouli Gopalakrishnan,Srinivas Katkoori	10.1109/ICCD.2003.1240935
+Automatic Generation of Critical-Path Tests for a Partial-Scan Microprocessor.	Joel Grodstein,Dilip K. Bhavsar,Vijay Bettada,Richard A. Davies	10.1109/ICCD.2003.1240892
+A Method to Find Don&apos;t Care Values in Test Sequences for Sequential Circuits.	Yoshinobu Higami,Shin-ya Kobayashi,Yuzo Takamatsu,Seiji Kajihara,Irith Pomeranz	10.1109/ICCD.2003.1240927
+High-Speed Link Design, Then and Now.	Mark Horowitz	10.1109/ICCD.2003.10002
+An Improved method for Fast Noise Estimation based on Net Segmentation.	Chih-Liang Huang,Aurobindo Dasgupta	10.1109/ICCD.2003.1240874
+Low Power Multiplication Algorithm for Switching Activity Reduction through Operand Decomposition.	Masayuki Ito,David G. Chinnery,Kurt Keutzer	10.1109/ICCD.2003.1240868
+A Physical Design Methodology for 1.3GHz SPARC64 Microprocessor.	Noriyuki Ito,Hiroaki Komatsu,Yoshiyasu Tanamura,Ryoichi Yamashita,Hiroyuki Sugiyama,Yaroku Sugiyama,Hirofumi Hamamura	10.1109/ICCD.2003.1240896
+Design Flow Enhancements for DNA Arrays.	Andrew B. Kahng,Ion I. Mandoiu,Sherief Reda,Xu Xu 0001,Alexander Zelikovsky	10.1109/ICCD.2003.1240883
+On Combining Pinpoint Test Set Relaxation and Run-Length Codes for Reducing Test Data Volume.	Seiji Kajihara,Yasumi Doi,Lei Li 0036,Krishnendu Chakrabarty	10.1109/ICCD.2003.1240925
+Multiple-Vdd Scheduling/Allocation for Partitioned Floorplan.	Dongku Kang,Mark C. Johnson,Kaushik Roy 0001	10.1109/ICCD.2003.1240932
+Interconnect Estimation for FPGAs under Timing Driven Domains.	PariVallal Kannan,Dinesh Bhatia	10.1109/ICCD.2003.1240917
+Design and Performance of Compressed Interconnects for High Performance Servers.	Krishna Kant 0001,Ravishankar K. Iyer	10.1109/ICCD.2003.1240890
+System LSI Implementation Fabrics for the Future (special panel discussion).	Sinan Kaptanoglu	10.1109/ICCD.2003.1240930
+Fully Differential Receiver Chipset for 40 Gb/s Applications Using GaInAs/InP Single Heterojunction Bipolar Transistors.	Kursad Kiziloglu,Shivakumar Seetharaman,K. W. Glass,C. Bil,H. V. Duong,G. Asmanis	10.1109/ICCD.2003.1240941
+Care Bit Density and Test Cube Clusters: Multi-Level Compression Opportunities.	Bernd Könemann	10.1109/ICCD.2003.1240913
+Distributed Reorder Buffer Schemes for Low Power.	Gurhan Kucuk,Oguz Ergin,Dmitry Ponomarev 0001,Kanad Ghose	10.1109/ICCD.2003.1240920
+SCATOMi: Scheduling Driven Circuit Partitioning Algorithm for Multiple FPGAs using Time-multiplexed, Off-chip, Multicasting Interconnection Architecture.	Young-Su Kwon,Bong-Il Park,Chong-Min Kyung	10.1109/ICCD.2003.1240933
+Hardware-based Pointer Data Prefetcher.	Shih-Chang Lai,Shih-Lien Lu	10.1109/ICCD.2003.1240909
+CMOS High-Speed I/Os - Present and Future.	Ming-Ju Edward Lee,William J. Dally,Ramin Farjad-Rad,Hiok-Tiaq Ng,Ramesh Senthinathan,John H. Edmondson,John W. Poulton	10.1109/ICCD.2003.1240940
+NpBench: A Benchmark Suite for Control plane and Data plane Applications for Network Processors.	Byeong Kil Lee,Lizy Kurian John	10.1109/ICCD.2003.1240899
+Detection of Biological Molecules: From Self-Assembled Films to Self-Integrated Devices.	Rastislav Levicky	10.1109/ICCD.2003.1240882
+Paradigm Shift For Jitter and Noise In Design and Test &gt; GB/s Communication Systems.	Mike P. Li,Jan B. Wilstrup	10.1109/ICCD.2003.1240942
+An Efficient VLIW DSP Architecture for Baseband Processing.	Tay-Jyi Lin,Chin-Chi Chang,Chen-Chia Lee,Chein-Wei Jen	10.1109/ICCD.2003.1240911
+Test Generation for Non-separable RTL Controller-datapath Circuits using a Satisfiability based Approach.	Loganathan Lingappan,Srivaths Ravi 0001,Niraj K. Jha	10.1109/ICCD.2003.1240893
+Reducing Multimedia Decode Power using Feedback Control.	Zhijian Lu,John C. Lach,Mircea R. Stan,Kevin Skadron	10.1109/ICCD.2003.1240945
+Interface Synthesis using Memory Mapping for an FPGA Platform.	Manev Luthra,Sumit Gupta,Nikil D. Dutt,Rajesh K. Gupta 0001,Alexandru Nicolau	10.1109/ICCD.2003.1240886
+Hardware-Only Compression of Underutilized Address Buses: Design and Performance, Power, and Cost Analysis.	Nihar R. Mahapatra,Jiangjiang Liu 0002,Krishnan Sundaresan	10.1109/ICCD.2003.1240900
+XMAX: X-Tolerant Architecture for MAXimal Test Compression.	Subhasish Mitra,Kee Sup Kim	10.1109/ICCD.2003.1240914
+Power Fluctuation Minimization During Behavioral Synthesis using ILP-Based Datapath Scheduling.	Saraju P. Mohanty,N. Ranganathan,Sunil K. Chappidi	10.1109/ICCD.2003.1240937
+Profiling Interrupt Handler Performance through Kernel Instrumentation.	Branden J. Moore,Thomas Slabach,Lambert Schaelicke	10.1109/ICCD.2003.1240889
+A Novel Synthesis Strategy Driven by Partial Evaluation Based Circuit Reduction for Application Specific DSP Circuits.	Madhubanti Mukherjee,Ranga Vemuri	10.1109/ICCD.2003.1240936
+A Dependence Driven Efficient Dispatch Scheme.	Sriram Nadathur,Akhilesh Tyagi	10.1109/ICCD.2003.1240910
+Power-Time Tradeoff in Test Scheduling for SoCs.	Mehrdad Nourani,James Chin	10.1109/ICCD.2003.1240954
+Simplifying SoC design with the Customizable Control Processor Platform.	C. Ross Ogilvie,Richard Ray,Robert Devins,Mark Kautzman,Michael Hale,Reinaldo A. Bergamaschi,Bob Lynch,Santosh Gaur	10.1109/ICCD.2003.1240928
+Cost-Efficient Memory Architecture Design of NAND Flash Memory Embedded Systems.	Chanik Park,Jaeyu Seo,Dongyoung Seo,Shinhan Kim,Bumsoo Kim	10.1109/ICCD.2003.1240943
+Improving Branch Prediction Accuracy in Embedded Processors in the Presence of Context Switches.	Sudeep Pasricha,Alexander V. Veidenbaum	10.1109/ICCD.2003.1240950
+Virtual Page Tag Reduction for Low-power TLBs.	Peter Petrov,Alex Orailoglu	10.1109/ICCD.2003.1240921
+Event-Centric Simulation of Crosstalk Pulse Faults in Sequential Circuits.	Marong Phadoongsidhi,Kewal K. Saluja	10.1109/ICCD.2003.1240871
+Efficient Synthesis of Networks On Chip.	Alessandro Pinto,Luca P. Carloni,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.2003.1240887
+Static Test Compaction for Multiple Full-Scan Circuits.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.2003.1240926
+Terascale Computing and BlueGene.	William R. Pulleyblank	10.1109/ICCD.2003.10000
+Charge-Recycling Voltage Domains for Energy-Efficient Low-Voltage Operation of Digital CMOS Circuits.	Saravanan Rajapandian,Zheng Xu 0003,Kenneth L. Shepard	10.1109/ICCD.2003.1240879
+An Efficient Algorithm for Calculating the Worst-case Delay due to Crosstalk.	Venkatesan Rajappan,Sachin S. Sapatnekar	10.1109/ICCD.2003.1240876
+Test Data Compression and Compaction for Embedded Test of Nanometer Technology Designs.	Janusz Rajski,Jerzy Tyszer	10.1109/ICCD.2003.1240915
+A Microeconomic Model for Simultaneous Gate Sizing and Voltage Scaling for Power Optimization.	N. Ranganathan,Ashok K. Murugavel	10.1109/ICCD.2003.1240907
+Reducing Compilation Time Overhead in Compiled Simulators.	Mehrdad Reshadi,Nikil D. Dutt	10.1109/ICCD.2003.1240888
+Routed Inter-ALU Networks for ILP Scalability and Performance.	Karthikeyan Sankaralingam,Vincent Ajay Singh,Stephen W. Keckler,Doug Burger	10.1109/ICCD.2003.1240891
+SAT-Based Algorithms for Logic Minimization.	Samir Sapra,Michael Theobald,Edmund M. Clarke	10.1109/ICCD.2003.1240948
+Low-Density Parity-Check Decoder Architecture for High Throughput Optical Fiber Channels.	Anand Selvarathinam,Euncheol Kim,Gwan Choi	10.1109/ICCD.2003.1240949
+Exploiting Microarchitectural Redundancy For Defect Tolerance.	Premkishore Shivakumar,Stephen W. Keckler,Charles R. Moore,Doug Burger	10.1109/ICCD.2003.1240944
+Aggressive Test Power Reduction Through Test Stimuli Transformation.	Ozgur Sinanoglu,Alex Orailoglu	10.1109/ICCD.2003.1240953
+Symbolic Failure Analysis of Custom Circuits due to Excessive Leakage Current.	Hui-Yuan Song,S. Bohidar,R. Iris Bahar,Joel Grodstein	10.1109/ICCD.2003.1240875
+Low Power Adder with Adaptive Supply Voltage.	Hiroaki Suzuki,Woopyo Jeong,Kaushik Roy 0001	10.1109/ICCD.2003.1240880
+Multiple Transition Model and Enhanced Boundary Scan Architecture to Test Interconnects for Signal Integrity.	Mohammad H. Tehranipour,Nisar Ahmed,Mehrdad Nourani	10.1109/ICCD.2003.1240955
+Bus Architecture Synthesis for Hardware-Software Co-Design of Deep Submicron Systems on Chip.	Nattawut Thepayasuwan,Vaishali Damle,Alex Doboli	10.1109/ICCD.2003.1240884
+A Transparent Voltage Conversion Method and Its Application to a Dual-Supply-Voltage Register File.	Nestoras Tzartzanis,William W. Walker	10.1109/ICCD.2003.1240881
+Advanced EDA Tools for High-Performance Design.	Ted Vucurevich	10.1109/ICCD.2003.10001
+Structural Detection of Symmetries in Boolean Functions.	Guoqiang Wang,Andreas Kuehlmann,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.2003.1240946
+Multiple Fault Diagnosis Using n-Detection Tests.	Zhiyuan Wang,Malgorzata Marek-Sadowska,Kun-Han Tsai,Janusz Rajski	10.1109/ICCD.2003.1240895
+Enhanced QMM-BEM Solver for 3-D Finite-Domain Capacitance Extraction with Multilayered Dielectrics.	Wenjian Yu,Zeyi Wang,Xianlong Hong	10.1109/ICCD.2003.1240873
+Structured ASICs: Opportunities and Challenges.	Behrooz Zahiri	10.1109/ICCD.2003.1240929
+Dynamic Thread Resizing for Speculative Multithreaded Processors.	Mohamed M. Zahran,Manoj Franklin	10.1109/ICCD.2003.1240912
+A Compact Model for Analysis and Design of On-chip Power Network with Decoupling Capacitors.	Payman Zarkesh-Ha,Ken Doniger,William Loh,Dechang Sun,Rick Stephani,Gordon Priebe	10.1109/ICCD.2003.1240877
+Verification of Timed Circuits with Failure Directed Abstractions.	Hao Zheng 0001,Chris J. Myers,David Walter,Scott Little,Tomohiro Yoneda	10.1109/ICCD.2003.1240869
+21st International Conference on Computer Design (ICCD 2003),VLSI in Computers and Processors, 13-15 October 2003, San Jose, CA, USA, Proceedings		

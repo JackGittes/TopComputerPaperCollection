@@ -1,0 +1,121 @@
+Functional post-silicon diagnosis and debug for networks-on-chip.	Rawan Abdel-Khalek,Valeria Bertacco	10.1145/2429384.2429506
+Multiple tunable constant multiplications: Algorithms and applications.	Levent Aksoy,Eduardo Costa 0001,Paulo F. Flores,José Monteiro 0001	10.1145/2429384.2429482
+Placement: Hot or Not?	Charles J. Alpert,Zhuo Li 0001,Gi-Joon Nam,Chin Ngai Sze,Natarajan Viswanathan,Samuel I. Ward	10.1145/2429384.2429442
+Fast and scalable hybrid functional verification and debug with dynamically reconfigurable co-simulation.	Somnath Banerjee 0003,Tushar Gupta	10.1145/2429384.2429406
+Toward codesign in high performance computing systems.	Richard F. Barrett,Xiaobo Sharon Hu,Sudip S. Dosanjh,Steven G. Parker,Michael A. Heroux,John Shalf	10.1145/2429384.2429476
+Probabilistic design methodology to improve run-time stability and performance of STT-RAM caches.	Xiuyuan Bi,Zhenyu Sun 0001,Hai Li 0001,Wenqing Wu	10.1145/2429384.2429401
+Confronting and exploiting operating environment uncertainty in predictive analysis of signal integrity.	Andreas C. Cangellaris	10.1145/2429384.2429486
+Tunable sensors for process-aware voltage scaling.	Tuck-Boon Chan,Andrew B. Kahng	10.1145/2429384.2429387
+Validation signature testing: A methodology for post-silicon validation of analog/mixed-signal circuits.	Abhijit Chatterjee,Sabyasachi Deyati,Barry John Muldrey,Shyam Kumar Devarakond,Aritra Banerjee	10.1145/2429384.2429504
+Mobile devices user - The subscriber and also the publisher of real-time OLED display power management plan.	Yiran Chen 0001,Xiang Chen 0010,Mengying Zhao,Chun Jason Xue	10.1145/2429384.2429534
+Active compensation technique for the thin-film transistor variations and OLED aging of mobile device displays.	Xiang Chen 0010,Beiye Liu,Yiran Chen 0001,Mengying Zhao,Chun Jason Xue,Xiaojun Guo	10.1145/2429384.2429493
+Learning from biological neurons to compute with electronic noise special.	Hsin Chen,Chih-Cheng Lu,Yi-Da Wu,Tang-Jung Chiu	10.1145/2429384.2429416
+Efficient multiple-bit retention register assignment for power gated design: Concept and algorithms.	Yu-Guang Chen,Yiyu Shi 0001,Kuan-Yu Lai,Hui Geng,Shih-Chieh Chang	10.1145/2429384.2429448
+Novel test detection to improve simulation efficiency - A commercial experiment.	Wen Chen 0016,Nik Sumikawa,Li-C. Wang,Jayanta Bhadra,Xiushan Feng,Magdy S. Abadir	10.1145/2429384.2429404
+A fast time-domain EM-TCAD coupled simulation framework via matrix exponential.	Quan Chen,Wim Schoenmaker,Shih-Hung Weng,Chung-Kuan Cheng,Guan-Hua Chen,Lijun Jiang,Ngai Wong	10.1145/2429384.2429472
+Distributed memory interface synthesis for Network-on-Chips with 3D-stacked DRAMs.	Yi-Jung Chen,Chia-Lin Yang,Jian-Jia Chen	10.1145/2429384.2429479
+Multi-scale, multi-physics analysis for device, chip, package, and board level.	Weng Cho Chew	10.1145/2429384.2429487
+Power grid effects and their impact on-die.	Eli Chiprout	10.1145/2429384.2429529
+Fast Transform-based preconditioners for large-scale power grid analysis on massively parallel architectures.	Konstantis Daloukas,Nestoras E. Evmorfopoulos,George Drasidis,Michalis K. Tsiampas,Panagiota E. Tsompanopoulou,George I. Stamoulis	10.1145/2429384.2429466
+Bridging pre- and post-silicon debugging with BiPeD.	Andrew DeOrio,Jialin Li,Valeria Bertacco	10.1145/2429384.2429403
+An efficient control variates method for yield estimation of analog circuits based on a local model.	Pierre-Francois Desrumaux,Yoan Dupret,Jens Tingleff,Sean Minehane,Mark Redford,Laurent Latorre,Pascal Nouet	10.1145/2429384.2429471
+Improving last level cache locality by integrating loop and data transformations.	Wei Ding 0008,Mahmut T. Kandemir	10.1145/2429384.2429398
+System energy consumption is a multi-player game.	Mian Dong,Tian Lan,Lin Zhong 0001	10.1145/2429384.2429459
+Accurate on-chip router area modeling with Kriging methodology.	Florentine Dubois,Valerio Catalano,Marcello Coppola,Frédéric Pétrot	10.1145/2429384.2429478
+Circuit reliability: From Physics to Architectures: Embedded tutorial paper.	Jianxin Fang,Saket Gupta,Sanjay V. Kumar,Sravan K. Marella,Vivek Mishra,Pingqiang Zhou,Sachin S. Sapatnekar	10.1145/2429384.2429431
+Experimental analysis of a ring oscillator network for hardware Trojan detection in a 90nm ASIC.	Andrew Ferraiuolo,Xuehui Zhang,Mohammad Tehranipoor	10.1145/2429384.2429392
+Utilizing random noise in cryptography: Where is the Tofu?	Hui Geng,Jun Wu,Jianming Liu 0001,Minsu Choi,Yiyu Shi 0001	10.1145/2429384.2429415
+A methodology for the early exploration of design rules for multiple-patterning technologies.	Rani S. Ghaida,Tanaya Sahu,Parag Kulkarni,Puneet Gupta 0001	10.1145/2429384.2429395
+Test challenges in designing complex 3D chips: What in on the horizon for EDA industry?: Designer track.	Sandeep Kumar Goel	10.1145/2429384.2429438
+Challenges in post-silicon validation of high-speed I/O links.	Chenjie Gu	10.1145/2429384.2429502
+Transistor technologies and pixel circuit design for efficient active-matrix organic light-emitting diode displays.	Xiaojun Guo,Guangyu Yao,Xiaoli Xu,Wenjiang Liu,Tao Liu 0032	10.1145/2429384.2429532
+High-Performance, Low-Power Resonant Clocking: Embedded tutorial.	Matthew R. Guthaus,Baris Taskin	10.1145/2429384.2429545
+Ultra-low power NEMS FPGA.	Sijing Han,Vijay Sirigiri,Daniel G. Saab,Massood Tabib-Azar	10.1145/2429384.2429499
+ISBA: An independent set-based algorithm for automated partial reconfiguration module generation.	Ruining He,Yuchun Ma,Kang Zhao,Jinian Bian	10.1145/2429384.2429491
+Sensitivity-guided metaheuristics for accurate discrete gate sizing.	Jin Hu,Andrew B. Kahng,Seokhyeong Kang,Myung-Chul Kim,Igor L. Markov	10.1145/2429384.2429428
+Simultaneous information flow security and circuit redundancy in Boolean gates.	Wei Hu 0008,Jason Oberg,Dejun Mu,Ryan Kastner	10.1145/2429384.2429511
+Compiling program control flows into biochemical reactions.	De-An Huang,Jie-Hong R. Jiang,Ruei-Yang Huang,Chi-Yun Cheng	10.1145/2429384.2429462
+Reactant minimization during sample preparation on digital microfluidic biochips using skewed mixing trees.	Juinn-Dar Huang,Chia-Hung Liu,Ting-Wei Chiang	10.1145/2429384.2429464
+Construction of rectilinear Steiner minimum trees with slew constraints over obstacles.	Tao Huang 0016,Evangeline F. Y. Young	10.1145/2429384.2429411
+Design strategies for high-dimensional electromagnetic systems.	Vikram Jandhyala,Arun V. Sathanur	10.1145/2429384.2429488
+Opening: Introduction to CAD contest at ICCAD 2012: CAD contest.	Iris Hui-Ru Jiang,Zhuo Li 0001,Yih-Lang Li	10.1145/2429384.2429454
+ICCAD-2012 CAD contest in finding the minimal logic difference for functional ECO and benchmark suite: CAD contest.	WoeiTzy Jong,Hwei-Tseng Wang,Chengta Hsieh,Kei-Yong Khoo	10.1145/2429384.2429455
+TRACKER: A low overhead adaptive NoC router with load balancing selection strategy.	John Jose,K. V. Mahathi,J. Shiva Shankar,Madhu Mutyam	10.1145/2429384.2429507
+CACTI-IO: CACTI with off-chip power-area-timing models.	Norman P. Jouppi,Andrew B. Kahng,Naveen Muralimanohar,Vaishnav Srinivas	10.1145/2429384.2429446
+Asymmetric DRAM synthesis for heterogeneous chip multiprocessors in 3D-stacked architecture.	Minje Jun,Myoung-Jin Kim,Eui-Young Chung	10.1145/2429384.2429399
+Multiobjective optimization of deadspace, a critical resource for 3D-IC integration.	Johann Knechtel,Igor L. Markov,Jens Lienig,Matthias Thiele	10.1145/2429384.2429538
+Minimizing area and power of sequential CMOS circuits using threshold decomposition.	Niranjan Kulkarni,Nishant Nukala,Sarma B. K. Vrudhula	10.1145/2429384.2429514
+Spatial correlation modeling for probe test cost reduction in RF devices.	Nathan Kupp,Ke Huang 0001,John M. Carulli Jr.,Yiorgos Makris	10.1145/2429384.2429390
+Stability assurance and design optimization of large power delivery networks with multiple on-chip voltage regulators.	Suming Lai,Boyuan Yan,Peng Li 0001	10.1145/2429384.2429433
+Implementing high-performance, low-power embedded processors: Challenges and solutions: Designer track.	Koen Lampaert	10.1145/2429384.2429495
+Impact of range and precision in technology on cell-based design.	John Lee 0002,Puneet Gupta 0001	10.1145/2429384.2429426
+Ultra high density logic designs using transistor-level monolithic 3D integration.	Young-Joon Lee,Patrick Morrow,Sung Kyu Lim	10.1145/2429384.2429500
+Co-simulations of electromagnetic and thermal effects in electronic circuits using non-conformal numerical methods.	Jin-Fa Lee,Yang Shao,Zhen Peng	10.1145/2429384.2429489
+Post-silicon performance modeling and tuning of analog/mixed-signal circuits via Bayesian Model Fusion.	Xin Li 0001	10.1145/2429384.2429503
+Design analysis of IC power delivery.	Peng Li 0001	10.1145/2429384.2429528
+Fine-grained hardware/software methodology for process migration in MPSoCs.	Tuo Li 0001,Jude Angelo Ambrose,Sri Parameswaran	10.1145/2429384.2429492
+2012 TAU power grid simulation contest: Benchmark suite and results.	Zhuo Li 0001,Raju Balasubramanian,Frank Liu 0001,Sani R. Nassif	10.1145/2429384.2429523
+An efficient algorithm for library-based cell-type selection in high-performance low-power designs.	Li Li 0021,Peng Kang,Yinghai Lu,Hai Zhou	10.1145/2429384.2429427
+The synthesis of complex arithmetic computation on stochastic bit streams using sequential logic.	Peng Li 0028,David J. Lilja,Weikang Qian,Kia Bazargan,Marc D. Riedel	10.1145/2429384.2429483
+Memory partitioning and scheduling co-optimization in behavioral synthesis.	Peng Li 0031,Yuxin Wang,Peng Zhang 0007,Guojie Luo,Tao Wang 0004,Jason Cong	10.1145/2429384.2429484
+Efficient parametric yield estimation of analog/mixed-signal circuits via Bayesian model fusion.	Xin Li 0001,Wangyang Zhang,Fa Wang,Shupeng Sun,Chenjie Gu	10.1145/2429384.2429519
+Classifying circuit performance using active-learning guided support vector machines.	Honghuang Lin,Peng Li 0001	10.1145/2429384.2429420
+Analytical-based approach for capacitor placement with gradient error compensation and device correlation enhancement in analog integrated circuits.	Cheng-Wu Lin,Chung-Lin Lee,Jai-Ming Lin,Soon-Jyh Chang	10.1145/2429384.2429520
+Online fault detection and tolerance for photovoltaic energy harvesting systems.	Xue Lin,Yanzhi Wang,Di Zhu 0002,Naehyuck Chang,Massoud Pedram	10.1145/2429384.2429386
+TRIAD: A triple patterning lithography aware detailed router.	Yen-Hung Lin,Bei Yu 0001,David Z. Pan,Yih-Lang Li	10.1145/2429384.2429408
+A fast maze-free routing congestion estimator with hybrid unilateral monotonic routing.	Wen-Hao Liu,Yih-Lang Li,Cheng-Kok Koh	10.1145/2429384.2429539
+Word level feature discovery to enhance quality of assertion mining.	Lingyi Liu,Chen-Hsuan Lin,Shobha Vasudevan	10.1145/2429384.2429424
+On logic synthesis for timing speculation.	Yuxi Liu,Rong Ye,Feng Yuan,Rakesh Kumar 0002,Qiang Xu 0001	10.1145/2429384.2429512
+Latency tolerance for Throughput Computing: Designer track.	Chien-Ping Lu,Brian Ko	10.1145/2429384.2429496
+Scaling the &quot;Memory Wall&quot;: Designer track.	Shih-Lien Lu,Tanay Karnik,Ganapati Srinivasa,Kai-Yuan Chao,Doug Carmean,Jim Held	10.1145/2429384.2429437
+Clock mesh synthesis with gated local trees and activity driven register clustering.	Jianchao Lu,Xiaomi Mao,Baris Taskin	10.1145/2429384.2429536
+Collaborative calibration of on-chip thermal sensors using performance counters.	Shiting (Justin) Lu,Russell Tessier,Wayne P. Burleson	10.1145/2429384.2429388
+Efficient design space exploration for component-based system design.	Yinghai Lu,Hai Zhou	10.1145/2429384.2429480
+Dictionary-based error recovery in cyberphysical digital-microfluidic biochips.	Yan Luo,Krishnendu Chakrabarty,Tsung-Yi Ho	10.1145/2429384.2429463
+A holistic analysis of circuit timing variations in 3D-ICs with thermal and TSV-induced stress considerations.	Sravan K. Marella,Sanjay V. Kumar,Sachin S. Sapatnekar	10.1145/2429384.2429450
+Progress and challenges in VLSI placement research.	Igor L. Markov,Jin Hu,Myung-Chul Kim	10.1145/2429384.2429441
+Using standardized quantization for multi-party PPUF matching: Foundations and applications.	Saro Meguerdichian,Miodrag Potkonjak	10.1145/2429384.2429509
+Modeling and synthesis of quality-energy optimal approximate adders.	Jin Miao,Ku He,Andreas Gerstlauer,Michael Orshansky	10.1145/2429384.2429542
+Modeling and design automation of biological circuits and systems.	Natasa Miskov-Zivanov,James R. Faeder,Chris J. Myers,Herbert M. Sauro	10.1145/2429384.2429444
+Overview of vectorless/early power grid verification.	Farid N. Najm	10.1145/2429384.2429530
+Maze routing algorithms with exact matching constraints for analog and mixed signal designs.	Muhammet Mustafa Ozdal,Renato Fernandes Hentschke	10.1145/2429384.2429409
+Electromigration-aware routing for 3D ICs with stress-aware EM modeling.	Jiwoo Pak,Sung Kyu Lim,David Z. Pan	10.1145/2429384.2429451
+Configurable analog routing methodology via technology and design constraint unification.	Po-Cheng Pan,Hung-Ming Chen,Yi-Kan Cheng,Jill Liu,Wei-Yi Hu	10.1145/2429384.2429517
+3D integrated circuits: Designing in a new dimension: Designer track.	Robert Patti	10.1145/2429384.2429439
+An efficient implementation of numerical integration using logical computation on stochastic bit streams.	Weikang Qian,Chen Wang,Peng Li 0028,David J. Lilja,Kia Bazargan,Marc D. Riedel	10.1145/2429384.2429414
+On the computation of criticality in statistical timing analysis.	S. Ramprasath,Vinita Vasudevan	10.1145/2429384.2429418
+Small-delay-fault ATPG with waveform accuracy.	Matthias Sauer 0002,Alexander Czutro,Ilia Polian,Bernd Becker 0001	10.1145/2429384.2429391
+Battery cell configuration for organic light emitting diode display in modern smartphones and tablet-PCs.	Donghwa Shin,Kitae Kim,Naehyuck Chang,Massoud Pedram	10.1145/2429384.2429533
+Trajectory-Directed discrete state space modeling for formal verification of nonlinear analog circuits.	Sebastian Steinhorst,Lars Hedrich	10.1145/2429384.2429423
+AFReP: Application-guided Function-level Registerfile power-gating for embedded processors.	Hamed Tabkhi,Gunar Schirner	10.1145/2429384.2429447
+A polynomial time triple patterning algorithm for cell based row-structure layout.	Haitong Tian,Hongbo Zhang 0001,Qiang Ma 0002,Zigang Xiao,Martin D. F. Wong	10.1145/2429384.2429396
+ICCAD-2012 CAD contest in fuzzy pattern matching for physical verification and benchmark suite.	J. Andres Torres	10.1145/2429384.2429457
+ICCAD-2012 CAD contest in design hierarchy aware routability-driven placement and benchmark suite.	Natarajan Viswanathan,Charles J. Alpert,Cliff C. N. Sze,Zhuo Li 0001,Yaoguang Wei	10.1145/2429384.2429456
+Deterministic random walk preconditioning for power grid analysis.	Jia Wang	10.1145/2429384.2429467
+Fast approximation for peak power driven voltage partitioning in almost linear time.	Jia Wang,Xiaodao Chen,Lin Liu 0013,Shiyan Hu	10.1145/2429384.2429537
+Representative Critical Reliability Paths for low-cost and accurate on-chip aging evaluation.	Shuo Wang,Jifeng Chen,Mohammad Tehranipoor	10.1145/2429384.2429543
+A thermal and process variation aware MTJ switching model and its applications in soft error analysis.	Peiyuan Wang,Wei Zhang 0012,Rajiv V. Joshi,Rouwaida Kanj,Yiran Chen 0001	10.1145/2429384.2429541
+Provably complete hardware Trojan detection using test point insertion.	Sheng Wei 0001,Kai Li,Farinaz Koushanfar,Miodrag Potkonjak	10.1145/2429384.2429508
+Noise based logic: Why noise?	He Wen,Laszlo B. Kish	10.1145/2429384.2429413
+Circuit simulation via matrix exponential method for stiffness handling and parallel processing.	Shih-Hung Weng,Quan Chen,Ngai Wong,Chung-Kuan Cheng	10.1145/2429384.2429469
+A robust general constrained random pattern generator for constraints with variable ordering.	Bo-Han Wu,Chung-Yang (Ric) Huang	10.1145/2429384.2429405
+Performance-driven analog placement considering monotonic current paths.	Po-Hsun Wu,Mark Po-Hung Lin,Yang-Ru Chen,Bing-Shiun Chou,Tung-Chieh Chen,Tsung-Yi Ho,Bin-Da Liu	10.1145/2429384.2429516
+3D transient thermal solver using non-conformal domain decomposition approach.	Jianyong Xie,Madhavan Swaminathan	10.1145/2429384.2429452
+Parallel forward and back substitution for efficient power grid simulation.	Xuanxing Xiong,Jia Wang	10.1145/2429384.2429527
+PowerRush : Efficient transient simulation for power grid analysis.	Jianlei Yang 0001,Zuowei Li,Yici Cai,Qiang Zhou 0001	10.1145/2429384.2429526
+Lazy man&apos;s logic synthesis.	Wenlong Yang,Lingli Wang,Alan Mishchenko	10.1145/2429384.2429513
+Voltage-aware chip-level design for reliability-driven pin-constrained EWOD chips.	Sheng-Han Yeh,Jia-Wen Chang,Tsung-Wei Huang,Tsung-Yi Ho	10.1145/2429384.2429461
+Verifying dynamic properties of nonlinear mixed-signal circuits via efficient SMT-based techniques.	Leyi Yin,Yue Deng,Peng Li 0001	10.1145/2429384.2429474
+Scalable sampling methodology for logic simulation: Reduced-Ordered Monte Carlo.	Chien-Chih Yu,Armin Alaghi,John P. Hayes	10.1145/2429384.2429422
+Dealing with IC manufacturability in extreme scaling (Embedded tutorial paper).	Bei Yu 0001,Jhih-Rong Gao,Duo Ding,Yongchan Ban,Jae-Seok Yang,Kun Yuan,Minsik Cho,David Z. Pan	10.1145/2429384.2429430
+PGT_SOLVER: An efficient solver for power grid transient analysis.	Ting Yu 0007,Martin D. F. Wong	10.1145/2429384.2429524
+Efficient parallel power grid analysis via Additive Schwarz Method.	Ting Yu 0007,Zigang Xiao,Martin D. F. Wong	10.1145/2429384.2429468
+Reclaiming over-the-IP-block routing resources with buffering-aware rectilinear Steiner minimum tree construction.	Yilin Zhang,Ashutosh Chakraborty,Salim Chowdhury,David Z. Pan	10.1145/2429384.2429410
+Layout small-angle rotation and shift for EUV defect mitigation.	Hongbo Zhang 0001,Yuelin Du,Martin D. F. Wong,Yunfei Deng,Pawitter Mangat	10.1145/2429384.2429394
+A dynamic method for efficient random mismatch characterization of standard cells.	Wangyang Zhang,Amith Singhee,Jinjun Xiong,Peter A. Habitz,Amol Joshi,Chandu Visweswariah,James Sundquist	10.1145/2429384.2429419
+Multi-level cell STT-RAM: Is it realistic or just a dream?	Yaojun Zhang,Lu Zhang,Wujie Wen,Guangyu Sun 0003,Yiran Chen 0001	10.1145/2429384.2429498
+GPSCP: A general-purpose support-circuit preconditioning approach to large-scale SPICE-accurate nonlinear circuit simulations.	Xueqian Zhao,Zhuo Feng	10.1145/2429384.2429473
+Optimizing bandwidth and power of graphics memory with hybrid memory technologies and adaptive data migration.	Jishen Zhao,Yuan Xie 0001	10.1145/2429384.2429400
+Optimization of on-chip switched-capacitor DC-DC converters for high-performance applications.	Pingqiang Zhou,Won Ho Choi,Bongjin Kim,Chris H. Kim,Sachin S. Sapatnekar	10.1145/2429384.2429435
+A silicon-validated methodology for power delivery modeling and simulation.	Cheng Zhuo,Gustavo R. Wilke,Ritochit Chakraborty,Alaeddin A. Aydiner,Sourav Chakravarty,Wei-Kai Shih	10.1145/2429384.2429434
+2012 IEEE/ACM International Conference on Computer-Aided Design, ICCAD 2012, San Jose, CA, USA, November 5-8, 2012	Alan J. Hu	10.1145/2429384

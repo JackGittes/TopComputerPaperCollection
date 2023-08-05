@@ -1,0 +1,83 @@
+Lightweight Morphing Support for Evolving Middleware Data Exchanges in Distributed Applications.	Sandip Agarwala,Greg Eisenhauer,Karsten Schwan	10.1109/ICDCS.2005.45
+Application-Driven Coordination-Free Distributed Checkpointing.	Adnan Agbaria,William H. Sanders	10.1109/ICDCS.2005.14
+A Dynamic Group Mutual Exclusion Algorithm Using Surrogate-Quorums.	Ranganath Atreya,Neeraj Mittal	10.1109/ICDCS.2005.5
+The Impossibility of Boosting Distributed Service Resilience.	Paul C. Attie,Rachid Guerraoui,Petr Kouznetsov,Nancy A. Lynch,Sergio Rajsbaum	10.1109/ICDCS.2005.79
+Adaptive Collaboration in Peer-to-Peer Systems.	Baruch Awerbuch,Boaz Patt-Shamir,David Peleg,Mark R. Tuttle	10.1109/ICDCS.2005.9
+Content-Based Publish-Subscribe over Structured Overlay Networks.	Roberto Baldoni,Carlo Marchetti,Antonino Virgillito,Roman Vitenberg	10.1109/ICDCS.2005.19
+Similarity Searching in Peer-to-Peer Databases.	Indrajit Bhattacharya,Srinivas R. Kashyap,Srinivasan Parthasarathy 0002	10.1109/ICDCS.2005.74
+Scalable, Server-Passive, User-Anonymous Timed Release Cryptography.	Aldar C.-F. Chan,Ian F. Blake	10.1109/ICDCS.2005.72
+Efficient Power Management Based on Application Timing Semantics for Wireless Sensor Networks.	Octav Chipara,Chenyang Lu 0001,Gruia-Catalin Roman	10.1109/ICDCS.2005.28
+Time-Constrained Service on Air.	Yu-Chi Chung,Chao-Chun Chen,Chiang Lee	10.1109/ICDCS.2005.80
+Semi-Probabilistic Content-Based Publish-Subscribe.	Paolo Costa,Gian Pietro Picco	10.1109/ICDCS.2005.73
+Distributed Computation in the Physical World.	David E. Culler	10.1109/ICDCS.2005.25
+Symmetrical Fairness in Infrastructure Access in Multi-hop Wireless Networks.	Saumitra M. Das,Himabindu Pucha,Y. Charlie Hu	10.1109/ICDCS.2005.77
+Virtual Leashing: Internet-Based Software Piracy Protection.	Ori Dvir,Maurice Herlihy,Nir Shavit	10.1109/ICDCS.2005.85
+On the Possibility of Consensus in Asynchronous Systems with Finite Average Response Times.	Christof Fetzer,Ulrich Schmid 0001,Martin Süßkraut	10.1109/ICDCS.2005.57
+Rapid Development and Flexible Deployment of Adaptive Wireless Sensor Network Applications.	Chien-Liang Fok,Gruia-Catalin Roman,Chenyang Lu 0001	10.1109/ICDCS.2005.63
+On Flow Marking Attacks in Wireless Anonymous Communication Networks.	Xinwen Fu,Ye Zhu 0001,Bryan Graham,Riccardo Bettati,Wei Zhao 0001	10.1109/ICDCS.2005.55
+On Cooperative Content Distribution and the Price of Barter.	Prasanna Ganesan,Mukund Seshadri	10.1109/ICDCS.2005.53
+Location Privacy in Mobile Systems: A Personalized Anonymization Model.	Bugra Gedik,Ling Liu 0001	10.1109/ICDCS.2005.48
+FraNtiC: A Fractal Geometric Framework for Mesh-Based Wireless Access Networks.	Samik Ghosh,Kalyan Basu,Sajal K. Das 0001	10.1109/ICDCS.2005.39
+Robust Task Allocation for Dynamic Distributed Real-Time Systems Subject to Multiple Environmental Parameters.	Dazhang Gu,Frank Drews,Lonnie R. Welch	10.1109/ICDCS.2005.71
+Optimal Component Composition for Scalable Stream Processing.	Xiaohui Gu,Philip S. Yu,Klara Nahrstedt	10.1109/ICDCS.2005.59
+DISC: Dynamic Interleaved Segment Caching for Interactive Streaming.	Lei Guo 0004,Songqing Chen,Zhen Xiao,Xiaodong Zhang 0001	10.1109/ICDCS.2005.22
+infer: A Bayesian Inference Approach towards Energy Efficient Data Collection in Dense Sensor Networks.	Gregory Hartl,Baochun Li	10.1109/ICDCS.2005.43
+eScience Meets eBusiness: Blueprint for Next Generation Grid Computing.	Hiromu Hayashi	10.1109/ICDCS.2005.33
+An In-Depth, Analytical Study of Sampling Techniques for Self-Similar Internet Traffic.	Guanghui He,Jennifer C. Hou	10.1109/ICDCS.2005.11
+A Self-Organizing Lookup Service for Dynamic Ambient Services.	Klaus Herrmann 0001,Gero Mühl,Michael C. Jaeger	10.1109/ICDCS.2005.6
+ZAL: Zero-Maintenance Address Allocation in Mobile Wireless Ad Hoc Networks.	Zhihua Hu,Baochun Li	10.1109/ICDCS.2005.87
+On Exploring Channel Allocation in the Diverse Data Broadcasting Environment.	Hao-Ping Hung,Ming-Syan Chen	10.1109/ICDCS.2005.54
+Efficient Wait-Free Implementation of Multiword LL/SC Variables.	Prasad Jayanti,Srdjan Petrovic	10.1109/ICDCS.2005.29
+Keyword Search in DHT-Based Peer-to-Peer Networks.	Yuh-Jzer Joung,Chien-Tse Fang,Li-Wei Yang	10.1109/ICDCS.2005.44
+Robust Information Dissemination in Uncooperative Environments.	Seung Jun,Mustaque Ahamad,Jun (Jim) Xu	10.1109/ICDCS.2005.70
+Enhancing Source-Location Privacy in Sensor Network Routing.	Pandurang Kamat,Yanyong Zhang,Wade Trappe,Celal Öztürk	10.1109/ICDCS.2005.31
+An Update Protocol for XML Documents in Distributed and Cooperative Systems.	Yunhua Koglin,Giovanni Mella,Elisa Bertino,Elena Ferrari	10.1109/ICDCS.2005.12
+Explicit Combinatorial Structures for Cooperative Distributed Algorithms.	Dariusz R. Kowalski,Peter M. Musial,Alexander A. Shvartsman	10.1109/ICDCS.2005.34
+Distributed Approximation of Fixed-Points in Trust Structures.	Karl Krukow,Andrew Twigg	10.1109/ICDCS.2005.23
+MNP: Multihop Network Reprogramming Service for Sensor Networks.	Sandeep S. Kulkarni,Limin Wang	10.1109/ICDCS.2005.50
+Filter Based Directory Replication: Algorithms and Performance.	Apurva Kumar	10.1109/ICDCS.2005.36
+Resource-Aware Distributed Stream Management Using Dynamic Overlays.	Vibhore Kumar,Brian F. Cooper,Zhongtang Cai,Greg Eisenhauer,Karsten Schwan	10.1109/ICDCS.2005.69
+Resilient Localization for Sensor Networks in Outdoor Environments.	YoungMin Kwon,Kirill Mechitov,Sameer Sundresh,WooYoung Kim,Gul A. Agha	10.1109/ICDCS.2005.68
+Transformations of Mutual Exclusion Algorithms from the Cache-Coherent Model to the Distributed Shared Memory Model.	Hyonho Lee	10.1109/ICDCS.2005.83
+DSI: A Fully Distributed Spatial Index for Location-Based Wireless Broadcast Services.	Wang-Chien Lee,Baihua Zheng	10.1109/ICDCS.2005.26
+End-to-End Fair Bandwidth Allocation in Multi-Hop Wireless Ad Hoc Networks.	Baochun Li	10.1109/ICDCS.2005.30
+A Unified Approach to Routing, Covering and Merging in Publish/Subscribe Systems Based on Modified Binary Decision Diagrams.	Guoli Li,Shuang Hou,Hans-Arno Jacobsen	10.1109/ICDCS.2005.8
+On the Impact of Replica Placement to the Reliability of Distributed Brick Storage Systems.	Qiao Lian,Wei Chen 0013,Zheng Zhang 0001	10.1109/ICDCS.2005.56
+Rcast: A Randomized Communication Scheme for Improving Energy Efficiency in MANETs.	Sunho Lim,Chansu Yu,Chita R. Das	10.1109/ICDCS.2005.64
+Supporting Complex Multi-Dimensional Queries in P2P Systems.	Bin Liu 0002,Wang-Chien Lee,Dik Lun Lee	10.1109/ICDCS.2005.75
+Detecting Malicious Beacon Nodes for Secure Location Discovery in Wireless Sensor Networks.	Donggang Liu,Peng Ning,Wenliang Du	10.1109/ICDCS.2005.21
+Characterizing and Predicting TCP Throughput on the Wide Area Network.	Dong Lu,Yi Qiao,Peter A. Dinda,Fabián E. Bustamante	10.1109/ICDCS.2005.17
+A Spatiotemporal Query Service for Mobile Users in Sensor Networks.	Chenyang Lu 0001,Guoliang Xing,Octav Chipara,Chien-Liang Fok,Sangeeta Bhattacharya	10.1109/ICDCS.2005.7
+Localized Low-Power Topology Control Algorithms in IEEE 802.15.4-Based Sensor Networks.	Jian Ma,Min Gao,Qian Zhang 0001,Lionel M. Ni,Wenwu Zhu 0001	10.1109/ICDCS.2005.46
+Location Estimation in Ad Hoc Networks with Directional Antennas.	Nipoon Malhotra,Mark D. Krasniewski,Chin-Lung Yang,Saurabh Bagchi,William J. Chappell	10.1109/ICDCS.2005.47
+Exploring the Energy-Latency Trade-Off for Broadcasts in Energy-Saving Sensor Networks.	Matthew J. Miller,Cigdem Sengul,Indranil Gupta	10.1109/ICDCS.2005.35
+Equational Approach to Formal Analysis of TLS.	Kazuhiro Ogata 0001,Kokichi Futatsugi	10.1109/ICDCS.2005.32
+Supporting Live Development of SOAP and CORBA Servers.	Sajeeva L. Pallemulle,Kenneth J. Goldman,Brandon E. Morgan	10.1109/ICDCS.2005.76
+Network-Centric Buffer Cache Organization.	Gang Peng,Srikant Sharma,Tzi-cker Chiueh	10.1109/ICDCS.2005.51
+Fine-Grain Adaptive Compression in Dynamically Variable Networks.	Calton Pu,Lenin Singaravelu	10.1109/ICDCS.2005.37
+Cache Clouds: Cooperative Caching of Dynamic Documents in Edge Networks.	Lakshmish Ramaswamy,Ling Liu 0001,Arun Iyengar	10.1109/ICDCS.2005.16
+Optimal Asynchronous Garbage Collection for RDT Checkpointing Protocols.	Rodrigo Schmidt,Islene C. Garcia,Fernando Pedone,Luiz Eduardo Buzato	10.1109/ICDCS.2005.58
+Handling Asymmetry in Power Heterogeneous Ad Hoc Networks: A Cross Layer Approach.	Vasudev Shah,Srikanth V. Krishnamurthy	10.1109/ICDCS.2005.41
+Flexible Consistency for Wide Area Peer Replication.	Sai Susarla,John B. Carter	10.1109/ICDCS.2005.38
+Comparison of Approaches to Service Deployment.	Vanish Talwar,Qinyi Wu,Calton Pu,Wenchang Yan,Gueyoung Jung,Dejan S. Milojicic	10.1109/ICDCS.2005.18
+Adaptive Counting Networks.	Srikanta Tirthapura	10.1109/ICDCS.2005.10
+ReDAL: Request Distribution for the Application Layer.	Debra E. VanderMeer,Helen M. Thomas,Kaushik Dutta,Anindya Datta,Krithi Ramamritham	10.1109/ICDCS.2005.65
+Controlling Gossip Protocol Infection Pattern Using Adaptive Fanout.	Satish Verma,Wei Tsang Ooi	10.1109/ICDCS.2005.20
+VPDS: Virtual Home Region Based Distributed Position Service in Mobile Ad Hoc Networks.	Xiaoxin Wu 0001	10.1109/ICDCS.2005.86
+Using a Layered Markov Model for Distributed Web Ranking Computation.	Jie Wu 0012,Karl Aberer	10.1109/ICDCS.2005.84
+General Chair&apos;s Message.		10.1109/ICDCS.2005.40
+Program Chair&apos;s Message.		10.1109/ICDCS.2005.61
+Organizing Committee.		10.1109/ICDCS.2005.60
+Program Committee.		10.1109/ICDCS.2005.62
+Referees.		10.1109/ICDCS.2005.66
+Topk Queries across Multiple Private Databases.	Li Xiong 0001,Subramanyam Chitti,Ling Liu 0001	10.1109/ICDCS.2005.82
+Systems Support for Pervasive Query Processing.	Wenwei Xue,Qiong Luo 0001,Lionel M. Ni	10.1109/ICDCS.2005.78
+Non-Cooperation in Competitive P2P Networks.	Beverly Yang,Tyson Condie,Sepandar D. Kamvar,Hector Garcia-Molina	10.1109/ICDCS.2005.52
+Mixed Consistency Model: Meeting Data Sharing Needs of Heterogeneous Users.	Zhiyuan Zhan,Mustaque Ahamad,Michel Raynal	10.1109/ICDCS.2005.49
+Resilient Capacity-Aware Multicast Based on Overlay Networks.	Zhan Zhang,Shigang Chen,Yibei Ling,Randy Chow	10.1109/ICDCS.2005.67
+HYPER: A Hybrid Approach to Efficient Content-Based Publish/Subscribe.	Rongmei Zhang,Y. Charlie Hu	10.1109/ICDCS.2005.42
+Efficient Group Rekeying Using Application-Layer Multicast.	X. Brian Zhang,Simon S. Lam,Huaiyu Liu	10.1109/ICDCS.2005.27
+Timer Interaction in Route Flap Damping.	Beichuan Zhang 0001,Dan Pei,Daniel Massey,Lixia Zhang 0001	10.1109/ICDCS.2005.81
+Distributed Blinding for Distributed ElGamal Re-Encryption.	Lidong Zhou,Michael A. Marsh,Fred B. Schneider,Anna Redz	10.1109/ICDCS.2005.24
+Anonymity vs. Information Leakage in Anonymity Systems.	Ye Zhu 0001,Riccardo Bettati	10.1109/ICDCS.2005.13
+25th International Conference on Distributed Computing Systems (ICDCS 2005), 6-10 June 2005, Columbus, OH, USA		

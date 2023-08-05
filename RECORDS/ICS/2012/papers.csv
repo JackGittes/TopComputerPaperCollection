@@ -1,0 +1,39 @@
+Fault resilience of the algebraic multi-grid solver.	Marc Casas-Guix,Bronis R. de Supinski,Greg Bronevetsky,Martin Schulz 0001	10.1145/2304576.2304590
+CATS: cache aware task-stealing based on online profiling in multi-socket multi-core architectures.	Quan Chen 0002,Minyi Guo,Zhiyi Huang 0001	10.1145/2304576.2304599
+On the communication complexity of 3D FFTs and its implications for Exascale.	Kenneth Czechowski,Casey Battaglino,Chris McClanahan,Kartik Iyer,P.-K. Yeung,Richard W. Vuduc	10.1145/2304576.2304604
+GPU merge path: a GPU merging algorithm.	Oded Green,Robert McColl,David A. Bader	10.1145/2304576.2304621
+Blue Gene/Q: design for sustained multi-petaflop computing.	Michael Gschwind	10.1145/2304576.2304609
+Multiple sub-row buffers in DRAM: unlocking performance and energy improvement opportunities.	Nagendra Dwarakanath Gulur,R. Manikantan,Mahesh Mehendale,R. Govindarajan	10.1145/2304576.2304613
+One stone two birds: synchronization relaxation and redundancy removal in GPU-CPU translation.	Ziyu Guo,Bo Wu 0002,Xipeng Shen	10.1145/2304576.2304583
+HiRe: using hint &amp; release to improve synchronization of speculative threads.	Liang Han,Xiaowei Jiang,Wei Liu 0014,Youfeng Wu,James Tuck	10.1145/2304576.2304597
+High-performance code generation for stencil computations on GPU architectures.	Justin Holewinski,Louis-Noël Pouchet,P. Sadayappan	10.1145/2304576.2304619
+Unified memory optimizing architecture: memory subsystem control with a unified predictor.	Yasuo Ishii,Mary Inaba,Kei Hiraki	10.1145/2304576.2304614
+Characterizing and improving the use of demand-fetched caches in GPUs.	Wenhao Jia,Kelly A. Shaw 0001,Margaret Martonosi	10.1145/2304576.2304582
+An analysis of computational workloads for the ORNL Jaguar system.	Wayne Joubert,Shi-Quan Su	10.1145/2304576.2304611
+Enhancing the performance of assisted execution runtime systems through hardware/software techniques.	Gokcen Kestor,Roberto Gioiosa,Osman S. Unsal,Adrián Cristal,Mateo Valero	10.1145/2304576.2304598
+SnuCL: an OpenCL framework for heterogeneous CPU/GPU clusters.	Jungwon Kim,Sangmin Seo,Jun Lee,Jeongho Nah,Gangwon Jo,Jaejin Lee	10.1145/2304576.2304623
+An optimized large-scale hybrid DGEMM design for CPUs and ATI GPUs.	Jiajia Li 0001,Xingjian Li 0002,Guangming Tan,Mingyu Chen 0001,Ninghui Sun	10.1145/2304576.2304626
+Congestion avoidance on manycore high performance computing systems.	Miao Luo,Dhabaleswar K. Panda 0001,Khaled Z. Ibrahim,Costin Iancu	10.1145/2304576.2304594
+Data-driven fault tolerance for work stealing computations.	Wenjing Ma,Sriram Krishnamoorthy	10.1145/2304576.2304589
+Distributed replay protocol for distributed uniprocessors.	Mengjie Mao,Hong An,Bobin Deng,Tao Sun,Xuechao Wei,Wei Zhou,Wenting Han	10.1145/2304576.2304580
+Collective algorithms for sub-communicators.	Anshul Mittal,Nikhil Jain,Thomas George,Yogish Sabharwal,Sameer Kumar 0001	10.1145/2304576.2304606
+Overcoming single-thread performance hurdles in the core fusion reconfigurable multicore architecture.	Janani Mukundan,Saugata Ghose,Robert Karmazin,Engin Ipek,José F. Martínez	10.1145/2304576.2304592
+High performance supercomputers: should the individual processor be more than a brick?	Yale N. Patt	10.1145/2304576.2304578
+Quantifying the effectiveness of load balance algorithms.	Olga Pearce,Todd Gamblin,Bronis R. de Supinski,Martin Schulz 0001,Nancy M. Amato	10.1145/2304576.2304601
+Space-round tradeoffs for MapReduce computations.	Andrea Pietracaprina,Geppino Pucci,Matteo Riondato,Francesco Silvestri 0001,Eli Upfal	10.1145/2304576.2304607
+Hardware support for enforcing isolation in lock-based parallel programs.	Paruj Ratanaworabhan,Martin Burtscher,Darko Kirovski,Benjamin G. Zorn	10.1145/2304576.2304618
+Apricot: an optimizing compiler and productivity tool for x86-compatible many-core coprocessors.	Nishkam Ravi,Yi Yang 0018,Tao Bao,Srimat T. Chakradhar	10.1145/2304576.2304585
+An efficient work-distribution strategy for gridding radio-telescope data on GPUs.	John W. Romein	10.1145/2304576.2304620
+UniFI: leveraging non-volatile memories for a unified fault tolerance and idle power management technique.	Somayeh Sardashti,David A. Wood 0001	10.1145/2304576.2304587
+Fault tolerant preconditioned conjugate gradient for sparse linear system solution.	Manu Shantharam,Sowmyalatha Srinivasmurthy,Padma Raghavan	10.1145/2304576.2304588
+Enabling and scaling matrix computations on heterogeneous multi-core and multi-GPU systems.	Fengguang Song,Stanimire Tomov,Jack J. Dongarra	10.1145/2304576.2304625
+Sparse matrix-vector multiply on the HICAMP architecture.	John P. Stevenson,Amin Firoozshahian,Alex Solomatnikov,Mark Horowitz,David R. Cheriton	10.1145/2304576.2304603
+clSpMV: A Cross-Platform OpenCL SpMV Framework on GPUs.	Bor-Yiing Su,Kurt Keutzer	10.1145/2304576.2304624
+CRQ-based fair scheduling on composable multicore architectures.	Tao Sun,Hong An,Tao Wang,Haibo Zhang 0005,Xiufeng Sui	10.1145/2304576.2304600
+CVP: an energy-efficient indirect branch prediction with compiler-guided value pattern.	Mingxing Tan,Xianhua Liu 0001,Tong Tong,Xu Cheng 0001	10.1145/2304576.2304593
+Composable, non-blocking collective operations on power7 IH.	Gabriel Ilie Tanase,Gheorghe Almási 0001,Hanhong Xue,Charles Archer	10.1145/2304576.2304605
+Exploiting communication and packaging locality for cost-effective large scale networks.	Keith D. Underwood,Eric Borch	10.1145/2304576.2304616
+Channel borrowing: an energy-efficient nanophotonic crossbar architecture with light-weight arbitration.	Yi Xu,Jun Yang 0002,Rami G. Melhem	10.1145/2304576.2304595
+Fast loop-level data dependence profiling.	Hongtao Yu,Zhiyuan Li 0001	10.1145/2304576.2304584
+Locality &amp; utility co-optimization for practical capacity management of shared last level caches.	Dongyuan Zhan,Hong Jiang 0001,Sharad C. Seth	10.1145/2304576.2304615
+International Conference on Supercomputing, ICS&apos;12, Venice, Italy, June 25-29, 2012	Utpal Banerjee,Kyle A. Gallivan,Gianfranco Bilardi,Manolis Katevenis	

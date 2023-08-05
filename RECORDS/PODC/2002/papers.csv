@@ -1,0 +1,44 @@
+Lexicographically optimal smoothing for broadband traffic multiplexing.	Stergios V. Anastasiadis,Peter J. Varman,Jeffrey Scott Vitter,Ke Yi 0001	10.1145/571825.571835
+Nonatomic mutual exclusion with local spinning.	James H. Anderson,Yong-Jik Kim	10.1145/571825.571827
+Fault-tolerant routing in peer-to-peer systems.	James Aspnes,Zoë Diamadi,Gauri Shah	10.1145/571825.571862
+Evaluating the running time of a communication round over the internet.	Omar Bakr,Idit Keidar	10.1145/571825.571864
+Establishing wireless conference calls under delay constraints.	Amotz Bar-Noy,Grzegorz Malewicz	10.1145/571825.571832
+General perfectly periodic scheduling.	Zvika Brakerski,Aviv Nisgav,Boaz Patt-Shamir	10.1145/571825.571854
+Optmial plans for aggregation.	Andrei Z. Broder,Michael Mitzenmacher	10.1145/571825.571852
+Exploiting precision vs. efficiency tradeoffs in symmetric replication environments.	Ugur Çetintemel,Peter J. Keleher,Yanif Ahmad	10.1145/571825.571844
+Dynamic and self-stabilizing distributed matching.	Subhendu Chattopadhyay,Lisa Higham,Karen Seyffarth	10.1145/571825.571877
+Active disk paxos with infinitely many processes.	Gregory V. Chockler,Dahlia Malkhi	10.1145/571825.571837
+Early stopping in aglobal data computation.	Carole Delporte-Gallet,Hugues Fauconnier,Jean-Michel Hélary,Michel Raynal	10.1145/571825.571871
+Searching for a black hole in arbitrary networks: optimal mobile agent protocols.	Stefan Dobrev,Paola Flocchini,Giuseppe Prencipe,Nicola Santoro	10.1145/571825.571853
+Random walk for self-stabilitzing group communication in ad hoc networks.	Shlomi Dolev,Elad Schiller,Jennifer L. Welch	10.1145/571825.571872
+The inherent price of indulgence.	Partha Dutta,Rachid Guerraoui	10.1145/571825.571838
+Building responseive TMR-based servers in presence of timing constraints.	Paul D. Ezhilchelvan,Jean-Michel Hélary,Michel Raynal	10.1145/571825.571843
+Space-optimal multi-writer snapshot objects are slow.	Panagiota Fatourou,Faith E. Fich,Eric Ruppert	10.1145/571825.571828
+A BGP-based mechanism for lowest-cost routing.	Joan Feigenbaum,Christos H. Papadimitriou,Rahul Sami,Scott Shenker	10.1145/571825.571856
+Detectable byzantine agreement secure against faulty majorities.	Matthias Fitzi,Daniel Gottesman,Martin Hirt,Thomas Holenstein,Adam D. Smith	10.1145/571825.571841
+Optimally work-competitive scheduling for cooperative computing with merging groups.	Chryssis Georgiou,Alexander Russell,Alexander A. Shvartsman	10.1145/571825.571848
+How to wait when you are not going to block.	Michael Greenwald	10.1145/571825.571869
+Two-handed emulation: how to build non-blocking implementation of complex data-structures using DCAS.	Michael Greenwald	10.1145/571825.571874
+Non-blocking steal-half work queues.	Danny Hendler,Nir Shavit	10.1145/571825.571876
+Dynamic-sized lock-free data structures.	Maurice Herlihy,Victor Luchangco,Paul A. Martin,Mark Moir	10.1145/571825.571847
+Assignment-based partitioning in a condition monitoring system.	Yongqiang Huang,Hector Garcia-Molina	10.1145/571825.571849
+Compact routing for average-case networks.	Kazuo Iwama,Masaki Okita	10.1145/571825.571868
+Squirrel: a decentralized peer-to-peer web cache.	Sitaram Iyer,Antony I. T. Rowstron,Peter Druschel	10.1145/571825.571861
+f-arrays: implementation and applications.	Prasad Jayanti	10.1145/571825.571875
+Efficient algorithms for leader election in radio networks.	Tomasz Jurdzinski,Miroslaw Kutylowski,Jan Zatopianski	10.1145/571825.571833
+On perfectly secure cmmunication over arbitrary networks.	M. V. N. Ashwin Kumar,Pranava R. Goundan,K. Srinathan,C. Pandu Rangan	10.1145/571825.571858
+Understanding perfect failure detectors.	Mikel Larrea	10.1145/571825.571870
+Analysis of the evolution of peer-to-peer systems.	David Liben-Nowell,Hari Balakrishnan,David R. Karger	10.1145/571825.571863
+Sequential composition of protocols without simultaneous termination.	Yehuda Lindell,Anna Lysyanskaya,Tal Rabin	10.1145/571825.571859
+Nearly optimal FIFO buffer management for DiffServ.	Zvi Lotker,Boaz Patt-Shamir	10.1145/571825.571851
+Viceroy: a scalable and dynamic emulation of the butterfly.	Dahlia Malkhi,Moni Naor,David Ratajczak	10.1145/571825.571857
+Building secure file systems out of Byzantine storage.	David Mazières,Dennis E. Shasha	10.1145/571825.571840
+Safe memory reclamation for dynamic lock-free objects using atomic reads and writes.	Maged M. Michael	10.1145/571825.571829
+Asynchronous interactive consistency and its relation with error-correcting codes.	Achour Mostéfaoui,Sergio Rajsbaum,Michel Raynal	10.1145/571825.571866
+Towards a formal model for view maintenance in data warehouses.	Achour Mostéfaoui,Michel Raynal,Matthieu Roy,Divyakant Agrawal,Amr El Abbadi	10.1145/571825.571845
+Non-blocking timeout in scalable queue-based spin locks.	Michael L. Scott	10.1145/571825.571830
+A highly concurrent group mutual /-exclusion algorithm0.	K. Vidyasankar	10.1145/571825.571846
+Minimal replication cost for availability.	Haifeng Yu,Amin Vahdat	10.1145/571825.571839
+GS3: scalable self-configuration and self-healing in wireless networks.	Hongwei Zhang 0001,Anish Arora	10.1145/571825.571834
+Selective anti-entropy.	Weibin Zhao,Henning Schulzrinne	10.1145/571825.571867
+Proceedings of the Twenty-First Annual ACM Symposium on Principles of Distributed Computing, PODC 2002, Monterey, California, USA, July 21-24, 2002	Aleta Ricciardi	

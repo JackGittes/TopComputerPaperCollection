@@ -1,0 +1,63 @@
+Online Control for Self-Management in Computing Systems.	Sherif Abdelwahed,Nagarajan Kandasamy,Sandeep Neema	10.1109/RTTAS.2004.1317283
+Incremental Satisfiability Counting for Real-Time Systems.	Stefan Andrei,Wei-Ngan Chin	10.1109/RTTAS.2004.1317295
+Realistic Analysis of Limited Parallel Software / Hardware Implementations.	Neil C. Audsley,Konstantinos Bletsas	10.1109/RTTAS.2004.1317285
+Energy - Responsiveness Tradeoffs for Real-Time Systems with Mixed Workload.	Hakan Aydin,Qi Yang	10.1109/RTTAS.2004.1317251
+Task Partitioning Upon Heterogeneous Multiprocessor Platforms.	Sanjoy K. Baruah	10.1109/RTTAS.2004.1317301
+Speeding up String Matching over Compressed Text on Handheld Devices using Tagged Sub-optimal Code (TSC).	Abdelghani Bellaachia,Iehab Al Rassan	10.1109/RTTAS.2004.1317259
+Statistical Verification of Two Non-linear Real-time UAV Controllers.	Pam Binns,Michael Elgersma,Subhabrata Ganguli,Vu Ha,Tariq Samad	10.1109/RTTAS.2004.1317280
+Real-Time Video Analysis on an Embedded Smart Camera for Traffic Surveillance.	Michael Bramberger,Josef Brunner,Bernhard Rinner,Helmut Schwabach	10.1109/RTTAS.2004.1317262
+Real-Time Tasks with Data Output.	Deji Chen 0001,Aloysius K. Mok,Mark Nixon,Rusty Shepard	10.1109/RTTAS.2004.1317291
+A Priority Inheritance-based Inversion Control Methodology for General Resource Access Problems.	Liubo Chen,Masaaki Mizuno,Gurdip Singh	10.1109/RTTAS.2004.1317265
+Adaptive reservations in a Linux environment.	Tommaso Cucinotta,Luigi Palopoli 0002,Luca Marzario,Giuseppe Lipari,Luca Abeni	10.1109/RTTAS.2004.1317269
+Automated Reference-Counted Object Recycling for Real-Time Jav.	Morgan Deters,Nicholas A. Leidenfrost,Matthew P. Hampton,James C. Brodman,Ron Cytron	10.1109/RTTAS.2004.1317289
+Fair Integrated Scheduling of Soft Real-time Tardiness Classes on Multiprocessors.	UmaMaheswari C. Devi,James H. Anderson	10.1109/RTTAS.2004.1317303
+Incorporating Cost of Control into the Design of a Load Balancing Controller.	Yixin Diao,Joseph L. Hellerstein,Adam J. Storm,Maheswaran Surendra,Sam Lightstone,Sujay S. Parekh,Christian Garcia-Arellano	10.1109/RTTAS.2004.1317284
+Dynamic CPU Management for Real-Time, Middleware-Based Systems.	Eric Eide,Tim Stack,John Regehr,Jay Lepreau	10.1109/RTTAS.2004.1317274
+Adaptive Routing of QoS-Constrained Media Streams over Scalable Overlay Topologies.	Gerald Fry,Richard West	10.1109/RTTAS.2004.1317299
+Enhancing the AvrX Kernel with Efficient Secure Communication Using Software Thread Integration.	Prasanth Ganesan,Alexander G. Dean	10.1109/RTTAS.2004.1317272
+Integrated Adaptive QoS Management in Middleware: A Case Study.	Christopher D. Gill,Joseph P. Loyall,Richard E. Schantz,Michael Atighetchi,Jeanna M. Gossett,David Corman,Douglas C. Schmidt	10.1109/RTTAS.2004.1317273
+Real-Rate Scheduling.	Ashvin Goel,Jonathan Walpole,Molly H. Shor	10.1109/RTTAS.2004.1317290
+The Design and Performance of a Real-Time Notification Service.	Pradeep Gore,Irfan Pyarali,Christopher D. Gill,Douglas C. Schmidt	10.1109/RTTAS.2004.1317255
+Radio-Triggered Wake-Up Capability for Sensor Networks.	Lin Gu 0001,John A. Stankovic	10.1109/RTTAS.2004.1317246
+Data Management in Real-Time Systems: a Case of On-Demand Updates in Vehicle Control Systems.	Thomas Gustafsson,Jörgen Hansson	10.1109/RTTAS.2004.1317263
+Adaptive Resource Allocation Control with On-Line Search for Fair QoS Level.	Fumiko Harada,Toshimitsu Ushio,Yukikazu Nakamoto	10.1109/RTTAS.2004.1317281
+Maximizing the Use of Computational Resources in Multi-Camera Feedback Control.	Dan Henriksson,Tomas Olsson	10.1109/RTTAS.2004.1317282
+Implementing Pfairness on a Symmetric Multiprocessor.	Philip Holman,James H. Anderson	10.1109/RTTAS.2004.1317302
+On the Fundamental Capacity and Lifetime Limits of Energy-Constrained Wireless Sensor Networks.	Zhihua Hu,Baochun Li	10.1109/RTTAS.2004.1317243
+Proposal and Evaluation for Organising and Using Available Data for Software Performance Estimations in Embedded Platform Development.	Enrico Johansson,Fredrik Wartenberg	10.1109/RTTAS.2004.1317260
+Coordinated Search and Track by Multiple Phased Array Radars.	Phil-Su Kang,Chang-Gun Lee	10.1109/RTTAS.2004.1317268
+RT-Frontier: A Real-Time Operating System for Practical Imprecise Computation.	Hidenori Kobayashi,Nobuyuki Yamasaki	10.1109/RTTAS.2004.1317271
+Loss-Tolerant QoS using Firm Constraints in Guaranteed Rate Networks.	Anis Koubaa,Yeqiong Song	10.1109/RTTAS.2004.1317300
+CCMPerf: A Benchmarking Tool for CORBA Component Model Implementations.	Arvind S. Krishna,Balachandran Natarajan,Aniruddha S. Gokhale,Douglas C. Schmidt,Nanbor Wang,Gautam H. Thaker	10.1109/RTTAS.2004.1317258
+The Design and Implementation of Real-Time CORBA 2.0: Dynamic Scheduling in TAO.	Yamuna Krishnamurthy,Irfan Pyarali,Christopher D. Gill,Louis Mgeta,Yuanfang Zhang,Stephen Torri,Douglas C. Schmidt	10.1109/RTTAS.2004.1317256
+Design of Digital Control Systems with Dynamic Voltage Scaling.	Hyung Sun Lee,Byung Kook Kim	10.1109/RTTAS.2004.1317253
+Scheduling Communication in Real-Time Sensor Applications.	Huan Li 0001,Prashant J. Shenoy,Krithi Ramamritham	10.1109/RTTAS.2004.1317244
+Feedback-based Real-time Scheduling in Autonomous Vehicle Systems.	Suzhen Lin,G. Manimaran,B. L. Steward	10.1109/RTTAS.2004.1317277
+Supporting Dynamic QoS in Linux.	Xin Liu,Steve Goddard	10.1109/RTTAS.2004.1317270
+Automated Functional Test Case Synthesis from THALES industrial Requirements.	David Lugato,Frédéric Maraux,Yves Le Traon,Véronique Normand,Hubert Dubois,Jean-Yves Pierron,Jean-Pierre Gallois,Clémentine Nebut	10.1109/RTTAS.2004.1317254
+A Real-time Image Recognition System for Tiny Autonomous Mobile Robots.	Stefan Mahlknecht,Roland Oberhammer,Gregor Novak	10.1109/RTTAS.2004.1317278
+Disseminating Dynamic Data with QoS Guarantee in a Wide Area Network: A Practical Control Theoretic Approach.	Ratul kr. Majumdar,Krithi Ramamritham,Ravi N. Banavar,Kannan M. Moudgalya	10.1109/RTTAS.2004.1317298
+Efficient Response-Time Analysis for Tasks with Offsets.	Jukka Mäki-Turja,Mikael Nolin	10.1109/RTTAS.2004.1317293
+Optimization of Soft Real-Time Systems with Deadline Miss Ratio Constraints.	Sorin Manolache,Petru Eles,Zebo Peng	10.1109/RTTAS.2004.1317304
+IRIS: A New Reclaiming Algorithm for Server-Based Real-Time Systems.	Luca Marzario,Giuseppe Lipari,Patricia Balbastre,Alfons Crespo	10.1109/RTTAS.2004.1317266
+FAIR: Fee Arbitrated Incentive Architecture in Wireless Ad Hoc Networks.	Alvin Mok,Bina Mistry,Eric Chung,Baochun Li	10.1109/RTTAS.2004.1317247
+An Embedded Architectural Framework for Interaction Between Automobiles and Consumer Devices.	Edward C. Nelson,K. Venkatesh Prasad,Vladimir Rasin,C. J. Simonds	10.1109/RTTAS.2004.1317264
+Energy-Aware Traffic Shaping for Wireless Real-Time Applications.	Christian Poellabauer,Karsten Schwan	10.1109/RTTAS.2004.1317248
+A Real-Time Model for the Robotic Highway Safety Marker System.	Jiazheng Shi,Steve Goddard,Anagh Lal,Shane Farritor	10.1109/RTTAS.2004.1317279
+Configurable Event Communication in Cadena.	Gurdip Singh,Prashant S. Kumar,Qiang Zeng 0003	10.1109/RTTAS.2004.1317257
+Middleware Specialization for Memory-Constrained Networked Embedded Systems.	Venkita Subramonian,Guoliang Xing,Christopher D. Gill,Chenyang Lu 0001,Ron Cytron	10.1109/RTTAS.2004.1317276
+Scheduling of Iterative Algorithms on FPGA with Pipelined Arithmetic Unit.	Premysl Sucha,Zdenek Pohl,Zdenek Hanzálek	10.1109/RTTAS.2004.1317287
+Empirical Quantification of Pessimism in State-of-the-Art Scheduling Theory Techniques for Periodic and Sporadic DRE Tasks.	Gautam H. Thaker,Patrick J. Lardieri,Donald K. Krecker,Michael Price 0003	10.1109/RTTAS.2004.1317296
+Static Real-Time Data Distribution.	Angela Uvarov,Lisa Cingiser DiPippo,Victor Fay Wolfe,Kevin Bryan,Patrick Gadrow,Timothy Henry,Matthew Murphy,Paul R. Work,Louis P. DiPalma	10.1109/RTTAS.2004.1317297
+A Novel Out-of-band Signaling Mechanism for Enhanced Real-time Support in Tactical Ad hoc Wireless Networks.	V. Vishnumurthy,T. Sandeep,B. S. Manoj 0001,C. Siva Ram Murthy	10.1109/RTTAS.2004.1317249
+Quantitative Characterization of Event Streams in Analysis of Hard Real-Time Applications.	Ernesto Wandeler,Alexander Maxiaguine,Lothar Thiele	10.1109/RTTAS.2004.1317292
+CAMRIT: Control-based Adaptive Middleware for Real-time Image Transmission.	Xiaorui Wang,Huang-Ming Huang,Venkita Subramonian,Chenyang Lu 0001,Christopher D. Gill	10.1109/RTTAS.2004.1317275
+Component Allocation with Multiple Resource Constraints for Large Embedded Real-Time Software Design.	Shige Wang,Jeffrey R. Merrick,Kang G. Shin	10.1109/RTTAS.2004.1317267
+Smart Sensor Architecture Customized for Image Processing Applications.	Yulei Weng,Alex Doboli	10.1109/RTTAS.2004.1317286
+Storage Access Support for Soft Real-Time Applications.	Joel C. Wu,Scott A. Brandt	10.1109/RTTAS.2004.1317261
+A Wakeup Scheme for Sensor Networks: Achieving Balance between Energy Saving and End-to-end Delay.	Xue Yang 0007,Nitin H. Vaidya	10.1109/RTTAS.2004.1317245
+HARMONICA: Enhanced QoS Support with Admission Control for IEEE 802.11 Contention-based Access.	Liqiang Zhang,Sherali Zeadally	10.1109/RTTAS.2004.1317250
+Tuning the WCET of Embedded Applications.	Wankang Zhao,Prasad A. Kulkarni,David B. Whalley,Christopher A. Healy,Frank Mueller 0001,Gang-Ryung Uh	10.1109/RTTAS.2004.1317294
+Design Trade-Offs for Networks with Soft End-to-End Timing Constraints.	Haifeng Zhu 0001,John P. Lehoczky,Jeffery P. Hansen,Ragunathan Rajkumar	10.1109/RTTAS.2004.1317288
+Feedback EDF Scheduling Exploiting Dynamic Voltage Scaling.	Yifan Zhu,Frank Mueller 0001	10.1109/RTTAS.2004.1317252
+10th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2004), 25-28 May 2004, Toronto, Canada		

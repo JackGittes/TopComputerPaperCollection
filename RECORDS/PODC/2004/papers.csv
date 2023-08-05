@@ -1,0 +1,76 @@
+Byzantine disk paxos: optimal resilience with byzantine shared memory.	Ittai Abraham,Gregory V. Chockler,Idit Keidar,Dahlia Malkhi	10.1145/1011767.1011801
+Compact routing on euclidian metrics.	Ittai Abraham,Dahlia Malkhi	10.1145/1011767.1011789
+Communication-efficient leader election and consensus with limited link synchrony.	Marcos Kawazoe Aguilera,Carole Delporte-Gallet,Hugues Fauconnier,Sam Toueg	10.1145/1011767.1011816
+Computation in networks of passively mobile finite-state sensors.	Dana Angluin,James Aspnes,Zoë Diamadi,Michael J. Fischer,René Peralta 0001	10.1145/1011767.1011810
+Load balancing and locality in range-queriable data structures.	James Aspnes,Jonathan Kirsch,Arvind Krishnamurthy	10.1145/1011767.1011785
+Lower bounds for adaptive collect and related objects.	Hagit Attiya,Faith Ellen Fich,Yaniv Kaplan	10.1145/1011767.1011777
+Brief announcement: exposing and eliminating vulnerabilities to denial of service attacks in secure gossip-based multicast.	Gal Badishi,Idit Keidar,Amir Sasson	10.1145/1011767.1011831
+Competitive on-line paging strategies for mobile users under delay constraints.	Amotz Bar-Noy,Yishay Mansour	10.1145/1011767.1011805
+Brief announcement: efficient implementation of a byzantine data storage system.	Rida A. Bazzi,Yin Ding	10.1145/1011767.1011866
+Brief announcement: RT oblivious erasure correcting.	Amos Beimel,Shlomi Dolev,Noam Singer	10.1145/1011767.1011856
+An almost non-blocking stack.	Hans-Juergen Boehm	10.1145/1011767.1011774
+When graph theory helps self-stabilization.	Christian Boulinier,Franck Petit,Vincent Villain	10.1145/1011767.1011790
+Brief announcement: spoofing prevention method.	Anat Bremler-Barr,Hanoch Levy	10.1145/1011767.1011832
+Brief announcement: the design of an internet-scale monitoring and assertion-checking infrastructure.	Monica Brockmeyer,Chunbo Chu	10.1145/1011767.1011850
+Efficient synchronous snapshots.	Alex Brodsky,Faith Ellen Fich	10.1145/1011767.1011778
+Asynchronous group key exchange with failures.	Christian Cachin,Reto Strobl	10.1145/1011767.1011820
+Efficient top-K query calculation in distributed networks.	Pei Cao,Zhe Wang	10.1145/1011767.1011798
+Brief announcement: secret handshakes from CA-oblivious encryption.	Claude Castelluccia,Stanislaw Jarecki,Gene Tsudik	10.1145/1011767.1011857
+A better wake-up in radio networks.	Bogdan S. Chlebus,Dariusz R. Kowalski	10.1145/1011767.1011806
+Selfish caching in distributed systems: a game-theoretic analysis.	Byung-Gon Chun,Kamalika Chaudhuri,Hoeteck Wee,Marco Barreno,Christos H. Papadimitriou,John Kubiatowicz	10.1145/1011767.1011771
+Brief announcement: degree: optimal deterministic routing for P2P systems.	Gennaro Cordasco,Luisa Gargano,Mikael Hammar,Vittorio Scarano	10.1145/1011767.1011859
+On the expected payment of mechanisms for task allocation.	Artur Czumaj,Amir Ronen	10.1145/1011767.1011782
+Brief announcement: linear time byzantine self-stabilizing clock synchronization.	Ariel Daliot,Danny Dolev,Hanna Parnas	10.1145/1011767.1011837
+Brief announcement: a single enqueuer wait-free queue implementation.	Matei David	10.1145/1011767.1011826
+The weakest failure detectors to solve certain fundamental problems in distributed computing.	Carole Delporte-Gallet,Hugues Fauconnier,Rachid Guerraoui,Vassos Hadzilacos,Petr Kouznetsov,Sam Toueg	10.1145/1011767.1011818
+Brief announcement: STALK: a self-stabilizing hierarchical tracking service for sensor networks.	Murat Demirbas,Anish Arora,Tina Nolte,Nancy A. Lynch	10.1145/1011767.1011836
+Bringing practical lock-free synchronization to 64-bit applications.	Simon Doherty,Maurice Herlihy,Victor Luchangco,Mark Moir	10.1145/1011767.1011773
+Brief announcement: virtual mobile nodes for mobile ad hoc networks.	Shlomi Dolev,Seth Gilbert,Nancy A. Lynch,Elad Schiller,Alexander A. Shvartsman,Jennifer L. Welch	10.1145/1011767.1011845
+Brief announcement: polygonal broadcast, secret maturity and the firing sensors.	Shlomi Dolev,Ted Herman,Limor Lahiani	10.1145/1011767.1011853
+How fast can a distributed atomic read be?	Partha Dutta,Rachid Guerraoui,Ron R. Levy,Arindam Chakraborty	10.1145/1011767.1011802
+Efficient algorithms for constructing (1+, varepsilon;, beta)-spanners in the distributed and streaming models.	Michael Elkin,Jian Zhang 0004	10.1145/1011767.1011791
+Gradient clock synchronization.	Rui Fan 0004,Nancy A. Lynch	10.1145/1011767.1011815
+Mechanism design for policy routing.	Joan Feigenbaum,Rahul Sami,Scott Shenker	10.1145/1011767.1011770
+Brief announcement: on the possibility of consensus in asynchronous systems with finite average response times.	Christof Fetzer,Ulrich Schmid 0001	10.1145/1011767.1011869
+On the inherent weakness of conditional synchronization primitives.	Faith E. Fich,Danny Hendler,Nir Shavit	10.1145/1011767.1011780
+Lock-free linked lists and skip lists.	Mikhail Fomitchev,Eric Ruppert	10.1145/1011767.1011776
+Eclecticism shrinks even small worlds.	Pierre Fraigniaud,Cyril Gavoille,Christophe Paul	10.1145/1011767.1011793
+Brief announcement: an incremental algorithm for calculation of backup-paths in link-state networks.	Pierre Fransson,Lenka Carr-Motycková	10.1145/1011767.1011840
+Brief announcement: veto number and the respective power of eventual failure detectors.	Roy Friedman,Achour Mostéfaoui,Michel Raynal	10.1145/1011767.1011863
+Tradeoffs between stretch factor and load balancing ratio in routing on growth restricted graphs.	Jie Gao 0001,Li Zhang 0001	10.1145/1011767.1011795
+Bounds for the convergence rate of randomized local search in a multiplayer load-balancing game.	Paul W. Goldberg	10.1145/1011767.1011787
+On the design of distributed protocols from differential equations.	Indranil Gupta	10.1145/1011767.1011799
+On spectrum sharing games.	Magnús M. Halldórsson,Joseph Y. Halpern,Li (Erran) Li,Vahab S. Mirrokni	10.1145/1011767.1011783
+Brief announcement: self-stabilizing distance-d distinct labels via enriched fair composition.	Lisa Higham,Lixiao Wang	10.1145/1011767.1011835
+Brief announcement: stretch between nearby peers.	Kirsten Hildrum,John Kubiatowicz,Jeremy Stribling	10.1145/1011767.1011822
+Brief announcement: randomized rumor spreading with fewer phone calls.	Kirsten Hildrum,Sean Ma,Satish Rao	10.1145/1011767.1011839
+Brief announcement: Trilix: a scalable unstructured lookup system for dynamic environments.	Idit Keidar,Roie Melamed	10.1145/1011767.1011844
+Group membership: a novel approach and the first single-round algorithm.	Roger I. Khazan	10.1145/1011767.1011819
+Choosing a random peer.	Valerie King,Jared Saia	10.1145/1011767.1011786
+Broadcast in radio networks tolerating byzantine adversarial behavior.	Chiu-Yuen Koo	10.1145/1011767.1011807
+Geometrically aware communication in random wireless networks.	Gady Kozma,Zvi Lotker,Micha Sharir,Gideon Stupp	10.1145/1011767.1011813
+What cannot be computed locally!	Fabian Kuhn,Thomas Moscibroda,Roger Wattenhofer	10.1145/1011767.1011811
+Brief announcement: efficient clustering in unstructured radio networks.	Fabian Kuhn,Thomas Moscibroda,Roger Wattenhofer	10.1145/1011767.1011860
+Brief announcement: name-independent compact routing in trees.	Kofi A. Laing	10.1145/1011767.1011841
+Brief announcement: towards a secure indirection infrastructure.	Karthik Lakshminarayanan,Daniel Adkins,Adrian Perrig,Ion Stoica	10.1145/1011767.1011843
+Completely fair SFE and coalition-safe cheap talk.	Matt Lepinski,Silvio Micali,Chris Peikert,Abhi Shelat	10.1145/1011767.1011769
+Brief announcement: concurrent maintenance of rings.	Xiaozhou Li 0001,Jayadev Misra,C. Greg Plaxton	10.1145/1011767.1011833
+Balanced binary trees for ID management and load balance in distributed hash tables.	Gurmeet Singh Manku	10.1145/1011767.1011797
+Analyzing Kleinberg&apos;s (and other) small-world Models.	Charles U. Martel,Van Nguyen	10.1145/1011767.1011794
+Brief announcement: completing the lock-free dynamic cycle.	Maged M. Michael	10.1145/1011767.1011828
+Brief announcement: the synchronous condition-based consensus hierarchy.	Achour Mostéfaoui,Sergio Rajsbaum,Michel Raynal	10.1145/1011767.1011865
+Brief announcement: detecting malicious routers.	Alper Tugay Mizrak,Keith Marzullo,Stefan Savage	10.1145/1011767.1011824
+A note on efficient aggregate queries in sensor networks.	Boaz Patt-Shamir	10.1145/1011767.1011809
+Brief announcement: on the inherent cost of generic broadcast.	Fernando Pedone,André Schiper	10.1145/1011767.1011868
+Brief announcement: implementing multi-word atomic snapshots on current hardware.	Chris Purcell,Tim Harris 0001	10.1145/1011767.1011829
+Brief announcement: prefix hash tree.	Sriram Ramabhadran,Sylvia Ratnasamy,Joseph M. Hellerstein,Scott Shenker	10.1145/1011767.1011823
+Brief Announcement: constraint-based synchronization and verification of concurrent programs.	Rafael Ramírez 0001,Juanjo Martinez	10.1145/1011767.1011827
+Brief announcement: on the round complexity of distributed consensus over synchronous networks.	D. V. S. Ravikant,Muthuramakrishnan Venkitasubramaniam,V. Srikanth,K. Srinathan,C. Pandu Rangan	10.1145/1011767.1011862
+Brief announcement: reconfigurable byzantine-fault-tolerant atomic memory.	Rodrigo Rodrigues 0001,Barbara Liskov	10.1145/1011767.1011847
+Brief announcement: optimal asynchronous garbage collection for checkpointing protocols with rollback-dependency trackability.	Rodrigo Schmidt,Islene C. Garcia,Fernando Pedone,Luiz Eduardo Buzato	10.1145/1011767.1011854
+Specification faithfulness in networks with rational nodes.	Jeffrey Shneidman,David C. Parkes	10.1145/1011767.1011781
+Brief announcement: adaptive balancing networks.	Srikanta Tirthapura	10.1145/1011767.1011848
+Brief announcement: Cataclysm: handling extreme overloads in internet services.	Bhuvan Urgaonkar,Prashant J. Shenoy	10.1145/1011767.1011851
+Signed quorum systems.	Haifeng Yu	10.1145/1011767.1011803
+Brief announcement: building an adaptive distributed web server system on the fly for handling web hotspots.	Weibin Zhao,Henning Schulzrinne	10.1145/1011767.1011849
+Proceedings of the Twenty-Third Annual ACM Symposium on Principles of Distributed Computing, PODC 2004, St. John&apos;s, Newfoundland, Canada, July 25-28, 2004	Soma Chaudhuri,Shay Kutten	

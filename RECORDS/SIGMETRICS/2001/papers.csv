@@ -1,0 +1,47 @@
+Characterization of user access to streaming media files.	Jussara M. Almeida,Jeffrey Krueger,Mary K. Vernon	10.1145/378420.378843
+Analyzing robot behavior in e-business sites.	Virgílio A. F. Almeida,Daniel A. Menascé,Rudolf H. Riedi,Flávia Peligrinelli,Rodrigo C. Fonseca,Wagner Meira Jr.	10.1145/378420.378838
+Analysis of SRPT scheduling: investigating unfairness.	Nikhil Bansal 0001,Mor Harchol-Balter	10.1145/378420.378792
+Using approximate majorization to characterize protocol fairness.	Rishi Bhargava,Ashish Goel,Adam Meyerson	10.1145/378420.378826
+Impact of fairness on Internet performance.	Thomas Bonald,Laurent Massoulié	10.1145/378420.378438
+Performance modeling of elastic traffic in overload.	Thomas Bonald,James W. Roberts	10.1145/378420.378845
+Some properties of variable length packet shapers.	Jean-Yves Le Boudec	10.1145/378420.378780
+Periodic broadcast and patching services: implementation, measurement, and analysis in an Internet streaming video testbed.	Michael K. Bradshaw,Bing Wang 0001,Subhabrata Sen,Lixin Gao 0001,James F. Kurose,Prashant J. Shenoy,Donald F. Towsley	10.1145/378420.378801
+Restoration path concatenation: fast recovery of MPLS paths.	Anat Bremler-Barr,Yehuda Afek,Haim Kaplan,Edith Cohen,Michael Merritt	10.1145/378420.378805
+Fixed point approximations for TCP behavior in an AQM network.	Tian Bu,Donald F. Towsley	10.1145/378420.378786
+On the nonstationarity of Internet traffic.	Jin Cao,William S. Cleveland,Dong Lin,Don X. Sun	10.1145/378420.378440
+On the performance of multiplexing independent regulated inputs.	Cheng-Shang Chang,Yuh-ming Chiu,Wheyming Tina Song	10.1145/378420.378782
+Online prediction of the running time of tasks.	Peter A. Dinda	10.1145/378420.378836
+The structural cause of file size distributions.	Allen B. Downey	10.1145/378420.378824
+On optimal traffic grooming in WDM rings.	Rudra Dutta,George N. Rouskas	10.1145/378420.378779
+Automation support for software performance engineering.	Hesham El-Sayed,Donald Cameron,C. Murray Woodside	10.1145/378420.378799
+Blocking in large mobile cellular networks with bursty traffic.	Nidhi Hegde 0001,Khosrow Sohraby	10.1145/378420.378442
+Performance comparison of cellular and multi-hop wireless networks: a quantitative study.	Hung-Yun Hsieh,Raghupathy Sivakumar	10.1145/378420.378441
+Predictability requirements of a soft modem.	Michael B. Jones,Stefan Saroiu	10.1145/378420.378427
+Capacity evaluation of frequency hopping based ad-hoc systems.	Apurva Kumar,Rajeev Gupta	10.1145/378420.378443
+A time-stamping algorithm for efficient performance estimation of superscalar processors.	Gabriel H. Loh	10.1145/378420.378437
+Improving dynamic voltage scaling algorithms with PACE.	Jacob R. Lorch,Alan Jay Smith	10.1145/378420.378429
+Understanding TCP vegas: a duality model.	Steven H. Low,Larry L. Peterson,Limin Wang	10.1145/378420.378787
+Interval parameters for capturing uncertainties in an EJB performance model.	Johannes Lüthi,Catalina M. Lladó	10.1145/378420.378794
+Load chracterization and anomaly detection for voice over IP traffic.	Michel Mandjes,Iraj Saniee,Alexander L. Stolyar	10.1145/378420.378816
+On providing useful information for analyzing and tuning applications.	John M. Mellor-Crummey,Robert J. Fowler,David B. Whalley	10.1145/378420.378828
+The effects of wide-area conditions on WWW server performance.	Erich M. Nahum,Marcel-Catalin Rosu,Srinivasan Seshan,Jussara M. Almeida	10.1145/378420.378790
+A M/M/q queue in a semi-Markovian environment.	Philippe Nain,R. Núñez Queija	10.1145/378420.378791
+Performance modeling for fast IP lookups.	Girija J. Narlikar,Francis Zane	10.1145/378420.378423
+Obtaining high performance for storage outsourcing.	Wee Teck Ng,Bruce Hillyer	10.1145/378420.378813
+Determining the geographic location of Internet hosts.	Venkata N. Padmanabhan,Lakshminarayanan Subramanian	10.1145/378420.378814
+Model-based estimation of buffer overflow probabilities from measurements.	Ioannis Ch. Paschalidis,Spyridon Vassilaras	10.1145/378420.378778
+Scheduling computations on a software-based router.	Xiaohu Qie,Andy C. Bavier,Larry L. Peterson,Scott Karlin	10.1145/378420.378425
+A new predictive flow control scheme for efficient network utilization and QoS.	Dongyu Qiu,Ness B. Shroff	10.1145/378420.378777
+Fast firewall implementations for software-based and hardware-based routers.	Lili Qiu,George Varghese,Subhash Suri	10.1145/378420.378849
+Hidden Markov modeling for network communication channels.	Kavé Salamatian,Sandrine Vaton	10.1145/378420.378439
+On modeling networks of wireless microsensors.	Andreas Savvides,Sung I. Park,Mani B. Srivastava	10.1145/378420.378808
+Alternative techniques for the efficient acquisition of haptic data.	Cyrus Shahabi,Mohammad R. Kolahdouzan,Greg Barish,Roger Zimmermann,Shu-Yuen Didi Yao,Kun Fu 0002,Lingling Zhang	10.1145/378420.378830
+Characterizing the memory behavior of Java workloads: a structured view and opportunities for optimizations.	Yefim Shuf,Mauricio J. Serrano,Manish Gupta 0002,Jaswinder Pal Singh	10.1145/378420.378783
+What TCP/IP protocol headers can tell us about the web.	F. Donelson Smith,Félix Hernández-Campos,Kevin Jeffay,David E. Ott	10.1145/378420.378789
+A study of memory system performance of multimedia applications.	Sohum Sohoni,Rui Min,Zhiyong Xu,Yiming Hu	10.1145/378420.378784
+Dynamic multi-path routing: asymptotic approximation and simulations.	Xun Su,Gustavo de Veciana	10.1145/378420.378426
+Controlling the robots of Web search engines.	Jerome Talim,Zhen Liu 0001,Philippe Nain,Edward G. Coffman Jr.	10.1145/378420.378788
+Evaluating the performance of non-blocking synchronization on shared-memory multiprocessors.	Philippas Tsigas,Yi Zhang 0004	10.1145/378420.378810
+Analysis and implementation of software rejuvenation in cluster systems.	Kalyanaraman Vaidyanathan,Richard E. Harper,Steven W. Hunter,Kishor S. Trivedi	10.1145/378420.378434
+Towards scalable and reliable group key management.	Yang Richard Yang,Xiaozhou (Steve) Li,Simon S. Lam,Xincheng Zhang	10.1145/378420.378803
+Proceedings of the Joint International Conference on Measurements and Modeling of Computer Systems, SIGMETRICS/Performance 2001, June 16-20, 2001, Cambridge, MA, USA	Mary K. Vernon	10.1145/378420

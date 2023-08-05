@@ -1,0 +1,35 @@
+Design Tradeoffs for SSD Performance.	Nitin Agrawal 0001,Vijayan Prabhakaran,Ted Wobber,John D. Davis,Mark S. Manasse,Rina Panigrahy	
+Using Causality to Diagnose Configuration Bugs.	Mona Attariyan,Jason Flinn	
+Prefetching with Adaptive Cache Culling for Striped Disk Arrays.	Sung Hoon Baek,Kyu Ho Park	
+VMwareDecoupling Dynamic Program Analysis from Execution in Virtual Environments.	Jim Chow,Tal Garfinkel,Peter M. Chen	
+Diverse Replication for Single-Machine Byzantine-Fault Tolerance.	Byung-Gon Chun,Petros Maniatis,Scott Shenker	
+A Compacting Real-Time Memory Management System.	Silviu S. Craciunas,Christoph M. Kirsch,Hannes Payer,Ana Sokolova,Horst Stadler,Robert Staudinger	
+Context-Aware Mechanisms for Reducing Interactive Delays of Energy Management in Disks.	Igor Crk,Chris Gniady	
+FlexVol: Flexible, Efficient File Volume Virtualization in WAFL.	John K. Edwards,Daniel Ellard,Craig Everhart,Robert Fair,Eric Hamilton,Andy Kahn,Arkady Kanevsky,James Lentini,Ashish Prakash,Keith A. Smith,Edward R. Zayas	
+Handling Flash Crowds from Your Garage.	Jeremy Elson,Jon Howell	
+Vx32: Lightweight User-level Sandboxing on the x86.	Bryan Ford,Russ Cox	
+A TCP-layer Name Service for TCP Ports.	Sérgio Freire,André Zúquete	
+Power-aware Remote Replication for Enterprise-level Disaster Recovery Systems.	Kazuo Goda,Masaru Kitsuregawa	
+Large-scale Virtualization in the Emulab Network Testbed.	Mike Hibler,Robert Ricci,Leigh Stoller,Jonathon Duerig,Shashi Guruprasad,Tim Stack,Kirk Webb,Jay Lepreau	
+Experiences with Client-based Speculative Remote Display.	John R. Lange,Peter A. Dinda,Samuel Rossoff	
+Measurement and Analysis of Large-Scale Network File System Workloads.	Andrew W. Leung,Shankar Pasupathy,Garth R. Goodson,Ethan L. Miller	
+Spectator: Detection and Containment of JavaScript Worms.	V. Benjamin Livshits,Weidong Cui	
+Wide-Scale Data Stream Management.	Dionysios Logothetis,Ken Yocum	
+Optimizing TCP Receive Performance.	Aravind Menon,Willy Zwaenepoel	
+Automatic Optimization of Parallel Dataflow Programs.	Christopher Olston,Benjamin C. Reed,Adam Silberstein,Utkarsh Srivastava	
+ConfiDNS: Leveraging Scale and History to Detect Compromise.	Lindsey Poole,Vivek S. Pai	
+Adaptive File Transfers for Diverse Environments.	Himabindu Pucha,Michael Kaminsky,David G. Andersen,Michael Kozuch	
+A Linux Implementation Validation of Track-Aligned Extents and Track-Aligned RAIDs.	Jin Qian,Christopher R. Meyers,An-I Andy Wang	
+Remote Profiling of Resource Constraints of Web Servers Using Mini-Flash Crowds.	Pratap Ramamurthy,Vyas Sekar,Aditya Akella,Balachander Krishnamurthy,Anees Shaikh	
+Fast, Inexpensive Content-Addressed Storage in Foundation.	Sean C. Rhea,Russ Cox,Alex Pesterev	
+Idle Read After Write - IRAW.	Alma Riska,Erik Riedel	
+Bridging the Gap between Software and Hardware Techniques for I/O Virtualization.	Jose Renato Santos,Yoshio Turner,G. John Janakiraman,Ian Pratt 0001	
+Cutting Corners: Workbench Automation for Server Benchmarking.	Piyush Shivam,Varun Marupadi,Jeffrey S. Chase,Thileepan Subramaniam,Shivnath Babu	
+Context-Aware Prefetching at the Storage Server .	Gokul Soundararajan,Madalin Mihailescu,Cristiana Amza	
+A Dollar from 15 Cents: Cross-Platform Management for Internet Services.	Christopher Stewart,Terence Kelly,Alex Zhang,Kai Shen	
+LeakSurvivor: Towards Safely Tolerating Memory Leaks for Garbage-Collected Languages.	Yan Tang,Qi Gao,Feng Qin	
+Evaluating Distributed Systems: Does Background Traffic Matter?	Kashi Venkatesh Vishwanath,Amin Vahdat	
+Perspectives:  Improving SSH-style Host Authentication with Multi-Path Probing.	Dan Wendlandt,David G. Andersen,Adrian Perrig	
+Protection Strategies for Direct Access to Virtualized I/O Devices.	Paul Willmann,Scott Rixner,Alan L. Cox	
+Free Factories: Unified Infrastructure for Data Intensive Web Services.	Alexander Wait Zaranek,Tom Clegg,Ward Vandewege,George M. Church	
+2008 USENIX Annual Technical Conference, Boston, MA, USA, June 22-27, 2008. Proceedings	Rebecca Isaacs,Yuanyuan Zhou	

@@ -1,0 +1,41 @@
+Compact name-independent routing with minimum stretch.	Ittai Abraham,Cyril Gavoille,Dahlia Malkhi,Noam Nisan,Mikkel Thorup	10.1145/1007912.1007916
+New results on web caching with request reordering.	Susanne Albers	10.1145/1007912.1007925
+Balanced graph partitioning.	Konstantin Andreev,Harald Räcke	10.1145/1007912.1007931
+The inherent queuing delay of parallel packet switches.	Hagit Attiya,David Hay	10.1145/1007912.1007954
+How to route and tax selfish unsplittable traffic.	Vincenzo Auletta,Roberto De Prisco,Paolo Penna,Pino Persiano	10.1145/1007912.1007942
+Consistent and compact data management in distributed storage systems.	Baruch Awerbuch,Christian Scheideler	10.1145/1007912.1007920
+The effect of faults on network expansion.	Amitabha Bagchi,Ankur Bhargava,Amitabh Chaudhary,David Eppstein,Christian Scheideler	10.1145/1007912.1007960
+On-the-fly maintenance of series-parallel relationships in fork-join multithreaded programs.	Michael A. Bender,Jeremy T. Fineman,Seth Gilbert,Charles E. Leiserson	10.1145/1007912.1007933
+Pagoda: a dynamic overlay network for routing, data management, and multicasting.	Ankur Bhargava,Kishore Kothapalli,Chris Riley,Christian Scheideler,Mark Thober	10.1145/1007912.1007938
+Fighting against two adversaries: page migration in dynamic networks.	Marcin Bienkowski,Miroslaw Korzeniowski,Friedhelm Meyer auf der Heide	10.1145/1007912.1007923
+Sharing the cost of multicast transmissions in wireless networks.	Vittorio Bilò,Chiara Di Francescomarino,Michele Flammini,Giovanna Melideo	10.1145/1007912.1007940
+Effectively sharing a cache among threads.	Guy E. Blelloch,Phillip B. Gibbons	10.1145/1007912.1007948
+Improved combination of online algorithms for acceptance and rejection.	David P. Bunde,Yishay Mansour	10.1145/1007912.1007952
+Geometric generalizations of the power of two choices.	John W. Byers,Jeffrey Considine,Michael Mitzenmacher	10.1145/1007912.1007921
+Efficient search in unstructured peer-to-peer networks.	Vicent Cholvi,Pascal Felber,Ernst W. Biersack	10.1145/1007912.1007955
+Cache-oblivious shortest paths in graphs using buffer heap.	Rezaul Alam Chowdhury,Vijaya Ramachandran	10.1145/1007912.1007949
+Parallelism versus memory allocation in pipelined router forwarding engines.	Fan R. K. Chung,Ronald L. Graham,George Varghese	10.1145/1007912.1007928
+On achieving optimized capacity utilization in application overlay networks with multiple competing sessions.	Yi Cui,Baochun Li,Klara Nahrstedt	10.1145/1007912.1007937
+DCAS is not a silver bullet for nonblocking algorithm design.	Simon Doherty,David Detlefs,Lindsay Groves,Christine H. Flood,Victor Luchangco,Paul Alan Martin,Mark Moir,Nir Shavit,Guy L. Steele Jr.	10.1145/1007912.1007945
+Bi-criteria algorithm for scheduling jobs on cluster platforms.	Pierre-François Dutot,Lionel Eyraud,Grégory Mounié,Denis Trystram	10.1145/1007912.1007932
+Packet-mode policies for input-queued switches.	Dan Guez,Alexander Kesselman,Adi Rosén	10.1145/1007912.1007927
+A scalable lock-free stack algorithm.	Danny Hendler,Nir Shavit,Lena Yerushalmi	10.1145/1007912.1007944
+Object location in realistic networks.	Kirsten Hildrum,Robert Krauthgamer,John Kubiatowicz	10.1145/1007912.1007918
+Simple efficient load balancing algorithms for peer-to-peer systems.	David R. Karger,Matthias Ruhl	10.1145/1007912.1007919
+Writing-all deterministically and optimally using a non-trivial number of asynchronous processors.	Dariusz R. Kowalski,Alexander A. Shvartsman	10.1145/1007912.1007964
+Dynamic analysis of the arrow distributed protocol.	Fabian Kuhn,Roger Wattenhofer	10.1145/1007912.1007962
+Scheduling against an adversarial network.	Stefano Leonardi 0001,Alberto Marchetti-Spaccamela,Friedhelm Meyer auf der Heide	10.1145/1007912.1007936
+Online hierarchical cooperative caching.	Xiaozhou Li 0001,C. Greg Plaxton,Mitul Tiwari,Arun Venkataramani	10.1145/1007912.1007924
+Online algorithms for network design.	Adam Meyerson	10.1145/1007912.1007958
+Lower bounds for graph embeddings and combinatorial preconditioners.	Gary L. Miller,Peter C. Richter	10.1145/1007912.1007929
+Efficient orchestration of sub-word parallelism in media processors.	John Y. Oliver,Venkatesh Akella,Frederic T. Chong	10.1145/1007912.1007946
+Expansion properties of (secure) wireless networks.	Alessandro Panconesi,Jaikumar Radhakrishnan	10.1145/1007912.1007959
+Optimal early stopping uniform consensus in synchronous systems with process omission failures.	Philippe Raipin Parvédy,Michel Raynal	10.1145/1007912.1007963
+On delivery times in packet networks under adversarial traffic.	Adi Rosén,Michael S. Tsirkin	10.1145/1007912.1007914
+Online algorithms for prefetching and caching on parallel disks.	Rahul Shah,Peter J. Varman,Jeffrey Scott Vitter	10.1145/1007912.1007950
+Adaptive channel queue routing on k-ary n-cubes.	Arjun Singh,William J. Dally,Amit K. Gupta,Brian Towles	10.1145/1007912.1007915
+Time complexity of practical parallel steiner point insertion algorithms.	Daniel A. Spielman,Shang-Hua Teng,Alper Üngör	10.1145/1007912.1007953
+Selfish load balancing and atomic congestion games.	Subhash Suri,Csaba D. Tóth,Yunhong Zhou	10.1145/1007912.1007941
+The potential in energy efficiency of a speculative chip-multiprocessor.	Yuu Tanaka,Toshinori Sato,Takenori Koushiro	10.1145/1007912.1007956
+An NC algorithm for finding a maximal acyclic set in a graph.	Aaron Windsor	10.1145/1007912.1007934
+SPAA 2004: Proceedings of the Sixteenth Annual ACM Symposium on Parallelism in Algorithms and Architectures, June 27-30, 2004, Barcelona, Spain	Phillip B. Gibbons,Micah Adler	10.1145/1007912

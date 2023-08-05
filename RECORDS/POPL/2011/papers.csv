@@ -1,0 +1,53 @@
+Blame for all.	Amal Ahmed 0001,Robert Bruce Findler,Jeremy G. Siek,Philip Wadler	10.1145/1926385.1926409
+Streaming transducers for algorithmic verification of single-pass list-processing programs.	Rajeev Alur,Pavol Cerný	10.1145/1926385.1926454
+Dynamic inference of static types for ruby.	Jong-hoon (David) An,Avik Chaudhuri,Jeffrey S. Foster,Michael Hicks 0001	10.1145/1926385.1926437
+Laws of order: expensive synchronization in concurrent algorithms cannot be eliminated.	Hagit Attiya,Rachid Guerraoui,Danny Hendler,Petr Kuznetsov,Maged M. Michael,Martin T. Vechev	10.1145/1926385.1926442
+Mathematizing C++ concurrency.	Mark Batty,Scott Owens,Susmit Sarkar,Peter Sewell,Tjark Weber	10.1145/1926385.1926394
+Space overhead bounds for dynamic memory management with partial compaction.	Anna Bendersky,Erez Petrank	10.1145/1926385.1926441
+Step-indexed kripke models over recursive worlds.	Lars Birkedal,Bernhard Reus,Jan Schwinghammer,Kristian Støvring,Jacob Thamsborg,Hongseok Yang	10.1145/1926385.1926401
+Safe nondeterminism in a deterministic-by-default parallel language.	Robert L. Bocchino Jr.,Stephen Heumann,Nima Honarmand,Sarita V. Adve,Vikram S. Adve,Adam Welc,Tatiana Shpeisman	10.1145/1926385.1926447
+Static analysis of multi-staged programs via unstaging translation.	Wontae Choi,Baris Aktemur,Kwangkeun Yi,Makoto Tatsuta	10.1145/1926385.1926397
+Making prophecies with decision predicates.	Byron Cook,Eric Koskinen	10.1145/1926385.1926431
+A parametric segmentation functor for fully automatic and scalable array content analysis.	Patrick Cousot,Radhia Cousot,Francesco Logozzo	10.1145/1926385.1926399
+Dynamic multirole session types.	Pierre-Malo Deniélou,Nobuko Yoshida	10.1145/1926385.1926435
+Precise reasoning for programs using containers.	Isil Dillig,Thomas Dillig,Alex Aiken	10.1145/1926385.1926407
+Correct blame for contracts: no more scapegoating.	Christos Dimoulas,Robert Bruce Findler,Cormac Flanagan,Matthias Felleisen	10.1145/1926385.1926410
+Modular reasoning for deterministic parallelism.	Mike Dodds,Suresh Jagannathan,Matthew J. Parkinson	10.1145/1926385.1926416
+Delay-bounded scheduling.	Michael Emmi,Shaz Qadeer,Zvonimir Rakamaric	10.1145/1926385.1926432
+Complexity of pattern-based verification for multithreaded programs.	Javier Esparza,Pierre Ganty	10.1145/1926385.1926443
+Bisimulation for quantum processes.	Yuan Feng 0001,Runyao Duan,Mingsheng Ying	10.1145/1926385.1926446
+Geometry of synthesis III: resource management through type inference.	Dan R. Ghica,Alex I. Smith	10.1145/1926385.1926425
+Robin Milner 1934--2010: verification, languages, and concurrency.	Andrew D. Gordon 0001,Robert Harper 0001,John Harrison 0001,Alan Jeffrey,Peter Sewell	10.1145/1926385.1926439
+Automating string processing in spreadsheets using input-output examples.	Sumit Gulwani	10.1145/1926385.1926423
+The essence of compiling with traces.	Shu-yu Guo,Jens Palsberg	10.1145/1926385.1926450
+Predicate abstraction and refinement for verifying multi-threaded programs.	Ashutosh Gupta 0001,Corneliu Popeea,Andrey Rybalchenko	10.1145/1926385.1926424
+Regular expression containment: coinductive axiomatization and computational interpretation.	Fritz Henglein,Lasse Nielsen	10.1145/1926385.1926429
+Multivariate amortized resource analysis.	Jan Hoffmann 0002,Klaus Aehlig,Martin Hofmann 0001	10.1145/1926385.1926427
+Symmetric lenses.	Martin Hofmann 0001,Benjamin C. Pierce,Daniel Wagner 0001	10.1145/1926385.1926428
+A kripke logical relation between ML and assembly.	Chung-Kil Hur,Derek Dreyer	10.1145/1926385.1926402
+Expressive modular fine-grained concurrency specification.	Bart Jacobs 0002,Frank Piessens	10.1145/1926385.1926417
+A technique for the effective and automatic reuse of classical compiler optimizations on multithreaded code.	Pramod G. Joisha,Robert S. Schreiber,Prithviraj Banerjee,Hans-Juergen Boehm,Dhruva R. Chakrabarti	10.1145/1926385.1926457
+Vector addition system reachability problem: a short self-contained proof.	Jérôme Leroux	10.1145/1926385.1926421
+Verified squared: does critical software deserve verified tools?	Xavier Leroy	10.1145/1926385.1926387
+Points-to analysis with efficient strong updates.	Ondrej Lhoták,Kwok-Chiang Andrew Chung	10.1145/1926385.1926389
+Learning minimal abstractions.	Percy Liang,Omer Tripp,Mayur Naik	10.1145/1926385.1926391
+The design of kodu: a tiny visual programming language for children on the Xbox 360.	Matthew MacLaurin	10.1145/1926385.1926413
+The tree width of auxiliary storage.	P. Madhusudan,Gennaro Parlato	10.1145/1926385.1926419
+Decidable logics combining heap structures and data.	P. Madhusudan,Gennaro Parlato,Xiaokang Qiu	10.1145/1926385.1926455
+Verifying higher-order functional programs with pattern-matching algebraic data types.	C.-H. Luke Ong,Steven J. Ramsay	10.1145/1926385.1926453
+A typed store-passing translation for general references.	François Pottier	10.1145/1926385.1926403
+Loop transformations: convexity, pruning and optimization.	Louis-Noël Pouchet,Uday Bondhugula,Cédric Bastoul,Albert Cohen 0001,J. Ramanujam,P. Sadayappan,Nicolas Vasilache	10.1145/1926385.1926449
+EigenCFA: accelerating flow analysis with GPUs.	Tarun Prabhu,Shreyas Ramalingam,Matthew Might,Mary W. Hall	10.1145/1926385.1926445
+A shape analysis for optimizing parallel graph programs.	Dimitrios Prountzos,Roman Manevich,Keshav Pingali,Kathryn S. McKinley	10.1145/1926385.1926405
+Formal verification of object layout for c++ multiple inheritance.	Tahina Ramananandro,Gabriel Dos Reis,Xavier Leroy	10.1145/1926385.1926395
+Resourceable, retargetable, modular instruction selection using a machine-independent, type-based tiling of low-level intermediate code.	Norman Ramsey,João Dias	10.1145/1926385.1926451
+Calling context abstraction with shapes.	Xavier Rival,Bor-Yuh Evan Chang	10.1145/1926385.1926406
+Static analysis of interrupt-driven programs synchronized via the priority ceiling protocol.	Martin D. Schwarz,Helmut Seidl,Vesal Vojdani,Peter Lammich,Markus Müller-Olm	10.1145/1926385.1926398
+Relaxed-memory concurrency and verified compilation.	Jaroslav Sevcík,Viktor Vafeiadis,Francesco Zappa Nardelli,Suresh Jagannathan,Peter Sewell	10.1145/1926385.1926393
+On interference abstractions.	Nishant Sinha 0001,Chao Wang 0001	10.1145/1926385.1926433
+Pick your contexts well: understanding object-sensitivity.	Yannis Smaragdakis,Martin Bravenboer,Ondrej Lhoták	10.1145/1926385.1926390
+Practical affine types.	Jesse A. Tov,Riccardo Pucella	10.1145/1926385.1926436
+A separation logic for refining concurrent objects.	Aaron Joseph Turon,Mitchell Wand	10.1145/1926385.1926415
+Fresh-register automata.	Nikos Tzevelekos	10.1145/1926385.1926420
+Generative type abstraction and type-level computation.	Stephanie Weirich,Dimitrios Vytiniotis,Simon L. Peyton Jones,Steve Zdancewic	10.1145/1926385.1926411
+Proceedings of the 38th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2011, Austin, TX, USA, January 26-28, 2011	Thomas Ball,Mooly Sagiv	10.1145/1926385

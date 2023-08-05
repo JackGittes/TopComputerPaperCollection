@@ -1,0 +1,104 @@
+Special Features of a VLIW Architecture.	Arthur Abnous,Nader Bagherzadeh	10.1109/IPPS.1991.153782
+Multi-level Hypercube Network.	Mokhtar Aboelaze	10.1109/IPPS.1991.153822
+Otpical Content Addressable Memories for Data/Knowledge Base Processing.	Selim Akyokus,P. Bruce Berra	10.1109/IPPS.1991.153779
+Amstrong II: A Loosely Coupled Multiprocessor with a Reconfigurable Communications Architecture.	Peter M. Athanas,Harvey F. Silverman	10.1109/IPPS.1991.153808
+A Load Sharing Interconnection Network for Hard Real-Time Systems.	Alberto Avritzer,Mario Gerla,Jack W. Carlyle	10.1109/IPPS.1991.153841
+An OR-Parallel and Restricted AND-Parallel Nonbacktracking Prolog Execution Model.	Isik Aybay,Mehmet Baray	10.1109/IPPS.1991.153850
+Performance Analysis of Algorithms on a Message Passing Multiprocessor.	Anupam Basu,S. Srinivas,Kamlesh G. Kumar,Arogyaswami Paulraj,Lalit M. Patnaik	10.1109/IPPS.1991.153755
+General Asynchrony Is Not Expensive for PRAMs.	Jeffrey C. Becker,Charles U. Martel,Arvin Park	10.1109/IPPS.1991.153759
+A Scheduling Algorithm for Parallelizable Dependent Tasks.	Krishna P. Belkhale,Prithviraj Banerjee	10.1109/IPPS.1991.153827
+Greedy Partitioning Strategy for Banyan-Hypercube Networks.	Abdelghani Bellaachia,Abdou Youssef	10.1109/IPPS.1991.153824
+Instruction Execution Trade-Offs for SIMD vs. MIMD vs. Mixed Mode Parallelism.	Thomas B. Berg,Howard Jay Siegel	10.1109/IPPS.1991.153795
+A Parallel Approximation Algorithm for Solving One-Dimensional Bin Packing Problems.	Judith O. Berkey,Pearl Y. Wang	10.1109/IPPS.1991.153769
+How Do We Make Parallel Processing a Reality? Bridging the Gap Between Theory and Practice.	Alfred Brenner,Richard F. Freund,R. Stockton Gaines,Rob Kelly,Louis Lome,Richard McAndrew,Alexandru Nicolau,Janak H. Patel,Thomas Probert,John H. Reif,Jorge L. C. Sanz,Howard Jay Siegel,Jon A. Webb	
+Chief: A Parallel Simulation Environment for Parallel Systems.	John D. Bruner,Hoichi Cheong,Alexander V. Veidenbaum,Pen-Chung Yew	10.1109/IPPS.1991.153838
+Analysis of Parallel Mixed-Mode Simulation Algorithms.	Roger D. Chamberlain,Mark A. Franklin	10.1109/IPPS.1991.153772
+State Variable Model for a Class of Multiprocessor Systems.	Ghulam M. Chaudhry,J. S. Bedi	10.1109/IPPS.1991.153806
+A Cost-Optimal Parallel Algorithm for the Parentheses Matching Problem on an EREW PRAM.	Calvin Ching-Yuen Chen,Sajal K. Das 0001	10.1109/IPPS.1991.153768
+Guided Scheduling Schemes for Image Understanding Tasks for Shared and Distributed Memory Multiprocessors.	Alok N. Choudhary,Ravi Ponnusamy	10.1109/IPPS.1991.153789
+An Analysis of Recurrence Relations in Fortran Do-loops for Vector Processing.	Chih-Ping Chu,Doris L. Carver	10.1109/IPPS.1991.153845
+Optical Database Machine Using Spatial Light Rebroadcasters.	Soon Myoung Chung	10.1109/IPPS.1991.153790
+Confining Imperative Languages for Parallel Processing.	Kechang Dai,Wolfgang K. Giloi	10.1109/IPPS.1991.153839
+Performance of Parallel Spanning Tree Algorithms on Linear Arrays of Transputers and Unix Systems.	Sajal K. Das 0001,Cui-Qing Yang	10.1109/IPPS.1991.153774
+Design of a Clustered Multiprocessor for Real-time Natural Language Understanding.	Ronald F. DeMara,Dan I. Moldovan	10.1109/IPPS.1991.153791
+PMACS: An Environment for Parallel Programming.	B. Dehbonei,Christophe Laurent,Nadia Tawbi,R. S. Kulkarni	10.1109/IPPS.1991.153849
+Optimum Embeddings of End-Around Meshes into Pyramid Networks.	Adam Dingle,Hassan R. Barada	10.1109/IPPS.1991.153817
+Congestion and Fault Tolerance of Binary Tree Embeddings on Hypercube.	Kemal Efe,Kumar Ramaiyer	10.1109/IPPS.1991.153819
+From Algorithms to Parallel Architectures: A Formal Approach.	Khaled M. Elleithy,Magdy A. Bayoumi	10.1109/IPPS.1991.153803
+Systolic Array Architecture for Adaptive Eigenstructure Decomposition of Correlation Matrices.	S. Erlich,K. Yao	10.1109/IPPS.1991.153805
+On the Design of Optimal Fault-Tolerant Systolic Array Architecures.	Michael Ogbonna Esonu,Asim J. Al-Khalili,Salim Hariri	10.1109/IPPS.1991.153802
+Input/Output Operations for Hybrid Data-Flow/Control-Flow Systems.	Paraskevas Evripidou,Jean-Luc Gaudiot	10.1109/IPPS.1991.153797
+An Approach to Solve the Cache Thrashing Problem.	Zhixi Fang,Mi Lu,Hua Lin	10.1109/IPPS.1991.153799
+Data Prefetching Strategies for Vector Cache Memories.	John W. C. Fu,Janak H. Patel	10.1109/IPPS.1991.153836
+Optimal EREW Parallel Algorithms for Connectivity, Ear Decomposition and st-Numbering of Planar Graphs.	Hillel Gazit	10.1109/IPPS.1991.153761
+Parallel I/O Subsystems for Distributed-Memory Multicomputers.	Joydeep Ghosh,Bipul Agarwal	10.1109/IPPS.1991.153807
+Choosing the Interconnect of Distributed Memory Systems by Cost and Blocking Behavior.	Wolfgang K. Giloi,Sergio Montenegro 0001	10.1109/IPPS.1991.153816
+A Linked List Cache Coherence Protocol: Verifying the Bottom Layer.	Stein Gjessing,Stein Krogdahl,Ellen Munthe-Kaas	10.1109/IPPS.1991.153798
+On Optimal Embeddings into Incomplete Hypercubes.	Ajay Gupta 0001,Alfred J. Boals,Naveed A. Sherwani	10.1109/IPPS.1991.153813
+Implementation of an Oversize Neural Network on DAP-510.	S. N. Gupta,Mohammad Zubair,C. E. Grosch	10.1109/IPPS.1991.153773
+Cross-Cube: A New Fault Tolerant Hypercube-Based Network.	Enamul Haq	10.1109/IPPS.1991.153821
+Triangulation in a Plane and 3-D Convex Hull on Mesh-Connected Arrays and Hypercubes.	J. Andrew Holey,Oscar H. Ibarra	10.1109/IPPS.1991.153750
+Scheduling and Optimization for Multiprocessor Systems.	Chiun-Chieh Hsu	10.1109/IPPS.1991.153828
+An Effective Synchronization Network for Large Multiprocessor Systems.	William Tsun-Yuk Hsu,Pen-Chung Yew	10.1109/IPPS.1991.153796
+Fast Parallel Algorithms for Solving Triangular Systems of Linear Equations on the Hypercube.	Oscar H. Ibarra,Myung Hee Kim	10.1109/IPPS.1991.153760
+Trade-Offs In Mapping FFT Computations onto Fixed Size Mesh Processor Array.	Ju-wook Jang,K. Wojtek Przytula	10.1109/IPPS.1991.153775
+Reconfigurable Mesh Algorithms for Image Shrinking, Expanding, Clustering, and Template Matching.	Jing-Fu Jenq,Sartaj Sahni	10.1109/IPPS.1991.153780
+Characterization of Node Disjoint (Parallel) Path in Star Graphs.	Jung-Sing Jwo,S. Lakshmivarahan,Sudarshan K. Dhall	10.1109/IPPS.1991.153811
+Implementation of a Parallel Prolog Interpreter on Multiprocessors.	Laxmikant V. Kalé,Balkrishna Ramkumar	10.1109/IPPS.1991.153834
+Parallelizing Tightly Nested Loops.	Ki-Chang Kim,Alexandru Nicolau	10.1109/IPPS.1991.153847
+A Message Segmentation Technique to Minimize Task Completion Time.	Sukil Kim,Santosh Pande,Dharma P. Agrawal,Jon Mauney	10.1109/IPPS.1991.153830
+A Simple Algorithm to Route Arbitrary Permuations on 8-Input 5-Stage Shuffle/Exchange Network.	Kichul Kim,Cauligi S. Raghavendra	10.1109/IPPS.1991.153810
+Packed Exponential Connections - A Hierarchy of 2-D Meshes.	W. Worth Kirkman,Donna J. Quammen	10.1109/IPPS.1991.153820
+Connected Components with Split and Merge.	James J. Kistler,Jon A. Webb	10.1109/IPPS.1991.153778
+Use of PARADISE: A Meta-Tool for Visualizing Parallel Systems.	James Arthur Kohl,Thomas L. Casavant	10.1109/IPPS.1991.153837
+Loop Partitioning Unimodular Transformations for Distributed Memory Multiprocessors.	Dattatraya Kulkarni,Kamlesh G. Kumar,Anupam Basu,Arogyaswami Paulraj	10.1109/IPPS.1991.153842
+MCMR: A Multiple Rule Firing Production System Model.	Steve Kuo,Dan I. Moldovan,Seungho Cha	10.1109/IPPS.1991.153788
+On a Binary Relation Inference Network.	Kai-Pui Lam,Crystal J. Su	10.1109/IPPS.1991.153787
+Generalized Formulation and Hypercube Algorithms for Relaxation Labeling.	Eva Leung,Xiaobo Li 0001	10.1109/IPPS.1991.153758
+A System for Algorithm-Architecture Mapping Based on Dependence Graph Matching and Hypergraphs.	Juan Li,Leah H. Jamieson	10.1109/IPPS.1991.153829
+A Neural Algorithm for Variable Thresholding of Images.	Zhen-Ping Lo,Behnam Bavarian	10.1109/IPPS.1991.153783
+Analysis of Neighborhood Interaction in Kohonen Neural Networks.	Zhen-Ping Lo,Masahiro Fujita,Behnam Bavarian	10.1109/IPPS.1991.153786
+Design of an Optical Content-Addressable Parallel Processor with Applications to Fast Searching and Information Retrieval.	Ahmed Louri	10.1109/IPPS.1991.153784
+A Note on Orthogonal Graphs.	Seshu V. R. Madabhushi,S. Lakshmivarahan,Sudarshan K. Dhall	10.1109/IPPS.1991.153815
+The Effects of Communication Latency Upon Synchronization and Dynamic Load Balance on a Hypercube.	Dan C. Marinescu,John R. Rice	10.1109/IPPS.1991.153751
+Modeling and Performance Analysis for Processor-to-Processor Communications Unit Using a 100 Mb/s Optical Token Ring.	Tohru Matsunaga,Ikuro Oyaizu,E. Uozumi,T. Hoshiko,Y. Kimura	10.1109/IPPS.1991.153826
+Systolic Rank Updating and the Solution of Non-Linear Equations.	Graham M. Megson	10.1109/IPPS.1991.153801
+Link Augmented Binary (LAB)-Tree: Its Structure, Routing and Fault Tolerance Properties.	Ravi Mittal,Bijendra N. Jain,Rakesh K. Patney	10.1109/IPPS.1991.153818
+A Geometrical Coding to Compile Affine Recurrence Equations on Regular Arrays.	Catherine Mongenet,Philippe Clauss,Guy-René Perrin	10.1109/IPPS.1991.153840
+Efficient Implementations of a Class of ± 2b Parallel Computations on a SIMD Hypercube.	David Nassimi,Yuh-Dong Tsai	10.1109/IPPS.1991.153749
+Bounds on Performance of VLSI Processor Arrays.	Amiya Nayak,Nicola Santoro	10.1109/IPPS.1991.153804
+Execution of Regular DO Loops on Asynchronous Multiprocessors.	Pei Ouyang	10.1109/IPPS.1991.153843
+High-Performance Parallel Pipelined Voting Networks.	Behrooz Parhami	10.1109/IPPS.1991.153825
+Distributed Hierarchical Optimal Routing Using Aggregation/Disaggergation and Decomposition/Composition Techniques.	Sung-Woo Park,Wei Kang Tsai	10.1109/IPPS.1991.153814
+A Neural-Type Parallel Algorithm for Fast Matrix Inversion.	Marios M. Polycarpou,Petros A. Ioannou	10.1109/IPPS.1991.153764
+Fully Normal Algorithms for Incomplete Hypercubes.	Venkata K. Prabhala,Naveed A. Sherwani	10.1109/IPPS.1991.153770
+Two EREW Algorithms for Parentheses Matching.	Sushil K. Prasad,Narsingh Deo	10.1109/IPPS.1991.153767
+Functional Characterization of Sensor Integration in Distributed Sensor Networks.	Lakshman Prasad,S. Sitharama Iyengar,Rangasami L. Kashyap,Rabinder N. Madan	10.1109/IPPS.1991.153777
+Improved Algorithms for Load Balancing in Circuit-Switched Hypercubes.	Cauligi S. Raghavendra,Suresh Chalasani,Rajendra V. Boppana	10.1109/IPPS.1991.153833
+Improved Graph Computations on the Reconfigurable Mesh.	Dionisios I. Reisis	10.1109/IPPS.1991.153752
+Prototype Implementation of a Highly Parallel Dataflow Machine EM-4.	Shuichi Sakai,Yuetsu Kodama,Yoshinori Yamaguchi	10.1109/IPPS.1991.153792
+Multidimensional Access Shared Memory Parallel Processing Systems.	Isaac D. Scherson	10.1109/IPPS.1991.153809
+Deterministic Timing Schema for Parallel Programs.	Alan C. Shaw	10.1109/IPPS.1991.153757
+Design and Evaluation of a High Performance File System for Message Passing Parallel Computers.	Nagaraj Shenoy,U. S. Shukla,Arogyaswami Paulraj	10.1109/IPPS.1991.153835
+Parallel Implementation of Image Understanding Tasks on Gated-Connection Networks.	David B. Shu,J. Greg Nash,K. Kim	10.1109/IPPS.1991.153781
+Scalability of Parallel Sorting on Mesh Multicomputers.	Vineet Singh,Vipin Kumar 0001,Gul Agha,Chris Tomlinson	10.1109/IPPS.1991.153762
+Process Migration in the GALAXY Distributed Operating System.	Pradeep Kumar Sinha,Kyu Sung Park,Xiaohua Jia,Kentaro Shimizu,Mamoru Maekawa	10.1109/IPPS.1991.153844
+Development of a Mixed MIMD-SIMD Architecture Using the AMT DAP.	S. G. Skinner,Peter M. Flanders,A. G. Bale	10.1109/IPPS.1991.153794
+An Algorithm for Generating Node Disjoint Routes in Kautz Digraphs.	Gerard J. M. Smit,Paul J. M. Havinga,Pierre G. Jansen	10.1109/IPPS.1991.153763
+Proteus System Architecture and Organization.	Arun K. Somani,Craig M. Wittenbrink,Robert M. Haralick,Linda G. Shapiro,Jenq-Neng Hwang,Chung-Ho Chen,Robert Johnson,Kenneth Cooper	10.1109/IPPS.1991.153793
+Routing Algorithms in Interval and Circular-Arc Networks.	M. A. Sridhar,Shri K. Goyal	10.1109/IPPS.1991.153756
+PRESHAK: A Generic Tool to Implement Application Specific Message-Passing Communication Kernels for Concurrent Machines.	Alok Srivastava,Sanjay C. Kshetramade	10.1109/IPPS.1991.153846
+A Simulation of Demand-Driven Dataflow: Translation from Lucid into MDC Language.	George K. Thiruvathukal,Thomas W. Christopher	10.1109/IPPS.1991.153848
+Parallel Vision Integration on the AMT Distributed Array Processor.	Scott T. Toborg,Kai Hwang 0001	10.1109/IPPS.1991.153776
+Parallel Multi-Context Architecture with High-Speed Synchronization Mechanism.	Kenji Toda,Kenji Nishida,Yoshinobu Uchibori,Shuichi Sakai,Toshio Shimada	10.1109/IPPS.1991.153800
+Refining Algorithm Mappings for Linear Systolic Arrays.	Ravi Varadarajan,Bhavani Ravichandran	10.1109/IPPS.1991.153771
+Parallel Multiple Search.	Zhaofang Wen	10.1109/IPPS.1991.153765
+Design Guidelines for Parallel Algorithms Using Continuous Job Profiles.	Linda F. Wilson,Mario J. Gonzalez	10.1109/IPPS.1991.153753
+A Parallel Processing Approach to Incremental Conceptual Clustering.	Peter Wohl,Thomas W. Christopher	10.1109/IPPS.1991.153785
+Load Balancing on a Hypercube.	Jinwoon Woo,Sartaj Sahni	10.1109/IPPS.1991.153831
+An Inherently Fault Tolerant Sorting Algorithm.	I-Ling Yen,Farokh B. Bastani,Ernst L. Leiss	10.1109/IPPS.1991.153754
+Efficient Randomized Routing on Clos Networks.	Abdou Youssef	10.1109/IPPS.1991.153812
+Scheduling Parallelizable Imprecise Computations on Multiprocessors.	Albert Chuang-shi Yu,Kwei-Jay Lin	10.1109/IPPS.1991.153832
+A Resilient Decentralized Commit Protocol.	Shyan-Ming Yuan	10.1109/IPPS.1991.153823
+SIMD Data Communication Algorithms for Multiply Twisted Hypercubes.	Si-Qing Zheng	10.1109/IPPS.1991.153766
+The Fifth International Parallel Processing Symposium, Proceedings, Anaheim, California, USA, April 30 - May 2, 1991.	V. K. Prasanna Kumar	

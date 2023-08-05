@@ -1,0 +1,27 @@
+Prefetch inection based on hardware monitoring and object metadata.	Ali-Reza Adl-Tabatabai,Richard L. Hudson,Mauricio J. Serrano,Sreenivas Subramoney	10.1145/996841.996873
+Social processes and proofs of theorems and programs, revisited.	Andrew W. Appel	10.1145/996841.996842
+Inducing heuristics to decide whether to schedule.	John Cavazos,J. Eliot B. Moss	10.1145/996841.996864
+Region inference for an object-oriented language.	Wei-Ngan Chin,Florin Craciun,Shengchao Qin,Martin C. Rinard	10.1145/996841.996871
+Dynamic path-based software watermarking.	Christian S. Collberg,Edward Carter,Saumya K. Debray,Andrew Huntwork,John D. Kececioglu,Cullen Linn,Michael Stepp	10.1145/996841.996856
+A cost-driven compilation framework for speculative parallelization of sequential programs.	Zhao-Hui Du,Chu-Cheow Lim,Xiao-Feng Li,Chen Yang,Qingyu Zhao,Tin-Fook Ngai	10.1145/996841.996852
+Vectorization for SIMD architectures with alignment constraints.	Alexandre E. Eichenberger,Peng Wu 0001,Kevin O&apos;Brien	10.1145/996841.996853
+Kill-safe synchronization abstractions.	Matthew Flatt,Robert Bruce Findler	10.1145/996841.996849
+Race checking by context inference.	Thomas A. Henzinger,Ranjit Jhala,Rupak Majumdar	10.1145/996841.996844
+Min-cut program decomposition for thread-level speculation.	Troy A. Johnson,Rudolf Eigenmann,T. N. Vijaykumar	10.1145/996841.996851
+The set constraint/CFL reachability connection in practice.	John Kodumal,Alexander Aiken	10.1145/996841.996867
+Fast searches for effective optimization phase sequences.	Prasad A. Kulkarni,Stephen Hines,Jason Hiser,David B. Whalley,Jack W. Davidson,Douglas L. Jones	10.1145/996841.996863
+Jedd: a BDD-based relational extension of Java.	Ondrej Lhoták,Laurie J. Hendren	10.1145/996841.996861
+Parametric regular path queries.	Yanhong A. Liu,Tom Rothamel,Fuxiang Yu,Scott D. Stoller,Nanjun Hu	10.1145/996841.996868
+Scalable lock-free dynamic memory allocation.	Maged M. Michael	10.1145/996841.996848
+KISS: keep it simple and sequential.	Shaz Qadeer,Dinghao Wu	10.1145/996841.996845
+A generalized algorithm for graph-coloring register allocation.	Michael D. Smith 0001,Norman Ramsey,Glenn H. Holloway	10.1145/996841.996875
+The liberty structural specification language: a high-level modeling language for component reuse.	Manish Vachharajani,Neil Vachharajani,David I. August	10.1145/996841.996865
+Precise and efficient static array bound checking for large embedded C programs.	Arnaud Venet,Guillaume P. Brat	10.1145/996841.996869
+Parametric analysis for adaptive computation offloading.	Cheng Wang 0019,Zhiyuan Li 0001	10.1145/996841.996857
+Cloning-based context-sensitive pointer alias analysis using binary decision diagrams.	John Whaley,Monica S. Lam	10.1145/996841.996859
+Verifying safety properties using separation and heterogeneous abstractions.	Eran Yahav,G. Ramalingam	10.1145/996841.996846
+Cost effective dynamic program slicing.	Xiangyu Zhang 0001,Rajiv Gupta 0001	10.1145/996841.996855
+Array regrouping and structure splitting using whole-program reference affinity.	Yutao Zhong 0001,Maksim Orlovich,Xipeng Shen,Chen Ding 0001	10.1145/996841.996872
+Symbolic pointer analysis revisited.	Jianwen Zhu,Silvian Calman	10.1145/996841.996860
+Balancing register allocation across threads for a multithreaded network processor.	Xiaotong Zhuang,Santosh Pande	10.1145/996841.996876
+Proceedings of the ACM SIGPLAN 2004 Conference on Programming Language Design and Implementation 2004, Washington, DC, USA, June 9-11, 2004	William W. Pugh,Craig Chambers	10.1145/996841

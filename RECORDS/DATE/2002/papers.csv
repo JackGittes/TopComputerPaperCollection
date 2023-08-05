@@ -1,0 +1,229 @@
+Statistical Timing Driven Partitioning for VLSI Circuits.	Cristinel Ababei,Kia Bazargan	10.1109/DATE.2002.998465
+A Direct Mapping System for Datapath Module and FSM Implementation into LUT-Based FPGAs .	Joerg Abke,Erich Barke	10.1109/DATE.2002.998441
+A Linear-Centric Simulation Framework for Parametric Fluctuations.	Emrah Acar,Sani R. Nassif,Lawrence T. Pileggi	10.1109/DATE.2002.998357
+Data Reuse Exploration Techniques for Loop-Dominated Application.	Tanja Van Achteren,Geert Deconinck,Francky Catthoor,Rudy Lauwereins	10.1109/DATE.2002.999206
+EZ Encoding: A Class of Irredundant Low Power Codes for Data Address and Multiplexed Address Buses.	Yazdan Aghaghiri,Massoud Pedram,Farzan Fallah	10.1109/DATE.2002.998458
+Modeling Techniques and Tests for Partial Faults in Memory Devices.	Zaid Al-Ars,Ad J. van de Goor	10.1109/DATE.2002.998254
+Search-Based SAT Using Zero-Suppressed BDDs.	Fadi A. Aloul,Maher N. Mneimneh,Karem A. Sakallah	10.1109/DATE.2002.998438
+False Path Elimination in Quasi-Static Scheduling.	G. Arrigoni,L. Duchini,Claudio Passerone,Luciano Lavagno,Yosinori Watanabe	10.1109/DATE.2002.998416
+Profile-Based Dynamic Voltage Scheduling Using Program Checkpoints.	Ana Azevedo,Ilya Issenin,Radu Cornea,Rajesh Gupta 0001,Nikil D. Dutt,Alexander V. Veidenbaum,Alexandru Nicolau	10.1109/DATE.2002.998266
+Beyond UML to an End-of-Line Functional Test Engine.	Andrea Baldini,Alfredo Benso,Paolo Prinetto,Sergio Mo,Andrea Taddei	10.1109/DATE.2002.998347
+Gate Level Fault Diagnosis in Scan-Based BIST.	Ismet Bayraktaroglu,Alex Orailoglu	10.1109/DATE.2002.998301
+Analysis of Noise Avoidance Techniques in DSM Interconnects Using a Complete Crosstalk Noise Model .	Murat R. Becer,Vladimir Zolotov,David T. Blaauw,Rajendran Panda,Ibrahim N. Hajj	10.1109/DATE.2002.998313
+Hardware-Assisted Data Compression for Energy Minimization in Systems with Embedded Processors.	Luca Benini,Davide Bruni,Alberto Macii,Enrico Macii	10.1109/DATE.2002.998312
+An Optimal Algorithm for the Automatic Generation of March Tests.	Alfredo Benso,Stefano Di Carlo,Giorgio Di Natale,Paolo Prinetto	10.1109/DATE.2002.998412
+Efficient and Effective Redundancy Removal for Million-Gate Circuits.	Michel R. C. M. Berkelaar,Koen van Eijk	10.1109/DATE.2002.998445
+On the Use of an Oscillation-Based Test Methodology for CMOS Micro-Electro-Mechanical Systems.	Vincent Beroulle,Yves Bertrand,Laurent Latorre,Pascal Nouet	10.1109/DATE.2002.998476
+New Techniques for Speeding-Up Fault-Injection Campaigns.	Luis Berrojo,Isabel González,Fulvio Corno,Matteo Sonza Reorda,Giovanni Squillero,Luis Entrena,Celia López	10.1109/DATE.2002.998398
+Low Power Error Resilient Encoding for On-Chip Data Buses.	Davide Bertozzi,Luca Benini,Giovanni De Micheli	10.1109/DATE.2002.998256
+Fault Detection and Diagnosis Using Wavelet Based Transient Current Analysis.	Swarup Bhunia,Kaushik Roy 0001	10.1109/DATE.2002.998474
+Towards a Kernel Language for Heterogeneous Computing.	Dag Björklund,Johan Lilius	10.1109/DATE.2002.998494
+Formal Verification Techniques: Industrial Status and Perspectives.	Joel Blasquez,Marten van Hulst,Andrea Fedeli,Jean-Luc Lambert,Dominique Borrione,Coby Hanoch,Pierre Bricaud	10.1109/DATE.2002.998430
+An Instruction-Level Methodology for Power Estimation and Optimization of Embedded VLIW Cores.	Andrea Bona,Mariagiovanna Sami,Donatella Sciuto,Vittorio Zaccaria,Cristina Silvano,Roberto Zafalon	10.1109/DATE.2002.998484
+A Data Analysis Method for Software Performance Prediction.	Gianluca Bontempi,Wido Kruijtzer	10.1109/DATE.2002.998417
+European CAD from the 60&apos;s to the New Millenium.	Joseph Borel	10.1109/DATE.2002.998420
+MEDEA+ and ITRS Roadmaps.	Joseph Borel,Gérard Matheron,Ahmed Amine Jerraya,S. Resve,M. Rogers,Wolfgang Rosenstiel,Irmtraud Rugen-Herzig,F. Theewen	10.1109/DATE.2002.998293
+Automated Modeling of Custom Digital Circuits for Test.	Soumitra Bose	10.1109/DATE.2002.998415
+Steady State Calculation of Oscillators Using Continuation Methods.	Hans Georg Brachtendorf,Siegmar Lampe,Rainer Laur,Robert C. Melville,Peter Feldmann	10.1109/DATE.2002.998497
+Hierarchical Simulation of Substrate Coupling in Mixed-Signal ICs Considering the Power Supply Network.	Thomas Brandtner,Robert Weigel	10.1109/DATE.2002.998426
+IP Day: How to Choose Semiconductor IP?	Pierre Bricaud	10.1109/DATE.2002.998244
+Power Crisis in SoC Design: Strategies for Constructing Low-Power, High-Performance SoC Designs.	K. Brock,C. Edwards,R. Lannoo,Ulf Schlichtmann,Antun Domic,Jacques Benkoski,David Overhauser,M. Kliment	10.1109/DATE.2002.998352
+Error Simulation Based on the SystemC Design Description Language.	Francesco Bruschi,Michele Chiamenti,Fabrizio Ferrandi,Donatella Sciuto	10.1109/DATE.2002.998493
+A Powerful System Design Methodology Combining OCAPI and Handel-C for Concept Engineering.	Klaus Buchenrieder,Andreas Pyttel,Alexander Sedlmeier	10.1109/DATE.2002.998401
+Visualization of Partial Order Models in VLSI Design Flow.	Alexandre V. Bystrov,Maciej Koutny,Alexandre Yakovlev	10.1109/DATE.2002.998446
+Dynamic Scheduling and Clustering in Symbolic Image Computation.	Gianpiero Cabodi,Paolo Camurati,Stefano Quer	10.1109/DATE.2002.998263
+Top-Down System Level Design Methodology Using SpecC, VCC and SystemC.	Lukai Cai,Daniel Gajski,Paul Kritzinger,Mike Olivarez	10.1109/DATE.2002.998495
+Bio-Inspired Analog VLSI Design Realizes Programmable Complex Spatio-Temporal Dynamics on a Single Chip.	Ricardo Carmona-Galán,Francisco Jiménez-Garrido,Rafael Domínguez-Castro,Servando Espejo-Meana,Ángel Rodríguez-Vázquez	10.1109/DATE.2002.998299
+Substrate Parasitic Extraction for RF Integrated Circuits.	Andreia Cathelin,Daniel Saias,Didier Belot,Youri Leclercq,Francois Clément	10.1109/DATE.2002.998463
+Test Resource Partitioning and Reduced Pin-Count Testing Based on Test Data Compression.	Anshuman Chandra,Krishnendu Chakrabarty	10.1109/DATE.2002.998362
+A Burst-Mode Oriented Back-End for the Balsa Synthesis System.	Tiberiu Chelcea,Steven M. Nowick,Andrew Bardsley,Doug A. Edwards	10.1109/DATE.2002.998294
+Model Reduction in the Time-Domain Using Laguerre Polynomials and Krylov Methods.	Yiran Chen 0001,Venkataramanan Balakrishnan,Cheng-Kok Koh,Kaushik Roy 0001	10.1109/DATE.2002.998411
+Closed-Form Crosstalk Noise Metrics for Physical Design Applications.	Lauren Hui Chen,Malgorzata Marek-Sadowska	10.1109/DATE.2002.998392
+Power-Manageable Scheduling Technique for Control Dominated High-Level Synthesis.	Chunhong Chen,Majid Sarrafzadeh	10.1109/DATE.2002.998424
+Non-Rectangular Shaping and Sizing of Soft Modules in Floorplan Design.	Chris C. N. Chu,Evangeline F. Y. Young	10.1109/DATE.2002.998457
+Taylor Expansion Diagrams: A Compact, Canonical Representation with Applications to Symbolic Verification.	Maciej J. Ciesielski,Priyank Kalla,Zhihong Zeng,Bruno Rouzeyre	10.1109/DATE.2002.998286
+Passive Constrained Rational Approximation Algorithm Using Nevanlinna-Pick Interpolation.	Carlos P. Coelho,Luís Miguel Silveira,Joel R. Phillips	10.1109/DATE.2002.998410
+Test Planning and Design Space Exploration in a Core-Based Environment.	Érika F. Cota,Luigi Carro,Marcelo Lubaszewski,Alex Orailoglu	10.1109/DATE.2002.998316
+A Fitting Approach to Generate Symbolic Expressions for Linear and Nonlinear Analog Circuit Performance Characteristics.	Walter Daems,Georges G. E. Gielen,Willy M. C. Sansen	10.1109/DATE.2002.998283
+Automatic Generation of Common-Centroid Capacitor Arrays with Arbitrary Capacitor Ratio.	Mohamed Dessouky,DiaaEldin Sayed	10.1109/DATE.2002.998358
+Optimal Transistor Tapering for High-Speed CMOS Circuits.	Li Ding 0002,Pinaki Mazumder	10.1109/DATE.2002.998377
+Accurate Estimating Simultaneous Switching Noises by Using Application Specific Device Modeling.	Li Ding 0002,Pinaki Mazumder	10.1109/DATE.2002.998428
+A Functional Specification Notation for Co-Design of Mixed Analog-Digital Systems.	Alex Doboli,Ranga Vemuri	10.1109/DATE.2002.998384
+An Environment for Dynamic Component Composition for Efficient Co-Design .	Frederic Doucet,Sandeep K. Shukla,Rajesh K. Gupta 0001,Masato Otsuka	10.1109/DATE.2002.998381
+Efficient On-Line Testing Method for a Floating-Point Iterative Array Divider.	Alexander V. Drozd,M. V. Lobachev,J. V. Drozd	10.1109/DATE.2002.998483
+A Complete Phase-Locked Loop Power Consumption Model.	David Duarte,Narayanan Vijaykrishnan,Mary Jane Irwin	10.1109/DATE.2002.998464
+Composition Trees in Finding Best Variable Orderings for ROBDDs.	Elena Dubrova	10.1109/DATE.2002.998440
+Embedded Robustness Ips.	Eric Dupont,Michael Nicolaidis,Peter Rohr	10.1109/DATE.2002.998279
+The Modelling of Embedded Systems Using HASoC.	M. D. Edwards,P. N. Green	10.1109/DATE.2002.998383
+IP is All About Implementation and Customer Satisfaction.	Vernon P. Essi Jr.	10.1109/DATE.2002.998260
+An Evolutionary Approach to the Design of On-Chip Pseudorandom Test Pattern Generators.	Michele Favalli,Marcello Dalpasso	10.1109/DATE.2002.998478
+Problems Due to Open Faults in the Interconnections of Self-Checking Data-Paths.	Michele Favalli,Cecilia Metra	10.1109/DATE.2002.998364
+Functional Verification for SystemC Descriptions Using Constraint Solving.	Fabrizio Ferrandi,Michele Rendine,Donatella Sciuto	10.1109/DATE.2002.998382
+Single-Track Asynchronous Pipeline Templates Using 1-of-N Encoding.	Marcos Ferretti,Peter A. Beerel	10.1109/DATE.2002.998423
+A Heuristic for Test Scheduling at System Level.	Marie-Lise Flottes,Julien Pouget,Bruno Rouzeyre	10.1109/DATE.2002.998480
+DAISY-CT: A High-Level Simulation Tool for Continuous-Time Delta Sigma Modulators.	Kenneth Francken,Martin Vogels,Ewout Martens,Georges G. E. Gielen	10.1109/DATE.2002.998466
+Efficient Model Reduction of Linear Time-Varying Systems via Compressed Transient System Function.	Emad Gad,Michel S. Nakhla	10.1109/DATE.2002.998409
+A Novel Methodology for the Concurrent Test of Partial and Dynamically Reconfigurable SRAM-Based FPGAs.	Manuel G. Gericota,Gustavo R. Alves,Miguel L. Silva,José M. Ferreira 0001	10.1109/DATE.2002.998482
+Who Owns the Platform?	Vassilios Gerousis,Oz Levia,Pierre G. Paulin,Mark Pinto,Chris Rowen,Gabriele Saucier	10.1109/DATE.2002.998276
+E-Design Based on the Reuse Paradigm.	L. Ghanmi,A. Ghrab,M. Hamdoun,B. Missaoui,K. Skiba,Gabriele Saucier	10.1109/DATE.2002.998272
+A Mixed-Signal Design Reuse Methodology Based on Parametric Behavioural Models with Non-Ideal Effects.	Antonio J. Ginés,Eduardo J. Peralías,Adoración Rueda,Ralf Seepold,Natividad Martínez Madrid	10.1109/DATE.2002.998290
+Analysis of Nonlinearities in RF Front-End Architectures Using a Modified Volterra Series Approach .	Michaël Goffioul,Piet Wambacq,Gerd Vandersteen,Stéphane Donnay	10.1109/DATE.2002.998297
+BerkMin: A Fast and Robust Sat-Solver.	Evguenii I. Goldberg,Yakov Novikov	10.1109/DATE.2002.998262
+Using Problem Symmetry in Search Based Satisfiability Algorithms.	Evguenii I. Goldberg,Mukul R. Prasad,Robert K. Brayton	10.1109/DATE.2002.998261
+Improving Compression Ratio, Area Overhead, and Test Application Time for System-on-a-Chip Test Data Compression/Decompression.	Paul Theo Gonciari,Bashir M. Al-Hashimi,Nicola Nicolici	10.1109/DATE.2002.998363
+Minimal Test for Coupling Faults in Word-Oriented Memories.	Ad J. van de Goor,Magdy S. Abadir,Alan Carlin	10.1109/DATE.2002.998413
+Networks on Silicon: Combining Best-Effort and Guaranteed Services.	Kees Goossens,Paul Wielage,Ad M. G. Peeters,Jef L. van Meerbergen	10.1109/DATE.2002.998309
+CHESMIN: A Heuristic for State Reduction in Incompletely Specified Finite State Machines.	Sezer Gören 0001,F. Joel Ferguson	10.1109/DATE.2002.998280
+An Interconnect-Aware Methodology for Analog and Mixed Signal Design, Based on High Bandwidth (Over 40 Ghz) On-Chip Transmission Line Approach .	David Goren,Michael Zelikson,Tiberiu C. Galambos,Rachel Gordin,Betty Livshitz,Alon Amir,Anatoly Sherman,Israel A. Wagner	10.1109/DATE.2002.998391
+Improved Constraints for Multiprocessor System Scheduling.	Martin Grajcar,Werner Grass	10.1109/DATE.2002.998452
+Memory System Connectivity Exploration.	Peter Grun,Nikil D. Dutt,Alexandru Nicolau	10.1109/DATE.2002.998406
+Analog IP Testing: Diagnosis and Optimization.	Carlo Guardiani,Patrick McNamara,Lidia Daldoss,Sharad Saxena,Stefano Zanella,Wei Xiang,Suli Liu	10.1109/DATE.2002.998269
+Design Technology for Networked Reconfigurable FPGA Platforms.	Steve Guccione,Diederik Verkest,Ivo Bolsens	10.1109/DATE.2002.998421
+An Efficient Compiler Technique for Code Size Reduction Using Reduced Bit-Width ISAs.	Ashok Halambi,Aviral Shrivastava,Partha Biswas,Nikil D. Dutt,Alexandru Nicolau	10.1109/DATE.2002.998305
+An Approach to Model Checking for Nonlinear Analog Systems.	Walter Hartong,Lars Hedrich,Erich Barke	10.1109/DATE.2002.998436
+Automated Optimal Design of Switched-Capacitor Filters.	Arash Hassibi,Maria del Mar Hershenson	10.1109/DATE.2002.998499
+Verifying Clock Schedules in the Presence of Cross Talk.	Soha Hassoun,Eduardo H. Calvillo Gámez,Christopher Cromer	10.1109/DATE.2002.998296
+System Design for Flexibility.	Christian Haubelt,Jürgen Teich,Kai Richter 0001,Rolf Ernst	10.1109/DATE.2002.998399
+A Parallel LCC Simulation System.	Klaus Hering	10.1109/DATE.2002.998492
+Performance-Area Trade-Off of Address Generators for Address Decoder-Decoupled Memory.	Sambuddhi Hettiaratchi,Peter Y. K. Cheung,Thomas J. W. Clarke	10.1109/DATE.2002.998407
+Optimization Techniques for Design of General and Feedback Linear Analog Amplifier with Symbolic Analysis.	Tran chi Hieu	10.1109/DATE.2002.998460
+A New Design Flow and Testability Measure for the Generation of a Structural Test and BIST for Analogue and Mixed-Signal Circuits.	Christoph Hoffmann	10.1109/DATE.2002.998270
+Maximizing Impossibilities for Untestable Fault Identification.	Michael S. Hsiao	10.1109/DATE.2002.998414
+Power-Efficient Trace Caches.	Jie S. Hu,Narayanan Vijaykrishnan,Mahmut T. Kandemir,Mary Jane Irwin	10.1109/DATE.2002.999209
+Maze Routing with Buffer Insertion under Transition Time Constraints.	Li-Da Huang,Minghorng Lai,D. F. Wong 0001,Youxin Gao	10.1109/DATE.2002.998376
+A Polynomial Time Optimal Diode Insertion/Routing Algorithm for Fixing Antenna Problem.	Li-Da Huang,Xiaoping Tang,Hua Xiang 0001,D. F. Wong 0001,I-Min Liu	10.1109/DATE.2002.998315
+Comparative Analysis and Application of Data Repository Infrastructure for Collaboration-Enabled Distributed Design Environments.	Leandro Soares Indrusiak,Manfred Glesner,Ricardo Augusto da Luz Reis	10.1109/DATE.2002.998486
+Competitive Analysis of Dynamic Power Management Strategies for Systems with Multiple Power Savings States.	Sandy Irani,Rajesh K. Gupta 0001,Sandeep K. Shukla	10.1109/DATE.2002.998258
+Efficient Wrapper/TAM Co-Optimization for Large SOCs.	Vikram Iyengar,Krishnendu Chakrabarty,Erik Jan Marinissen	10.1109/DATE.2002.998318
+Hierarchical Current Density Verification for Electromigration Analysis in Arbitrary Shaped Metallization Patterns of Analog Circuits.	Goeran Jerke,Jens Lienig	10.1109/DATE.2002.998314
+A UML-Based Design Methodology for Real-Time and Embedded Systems.	Gjalt G. de Jong	10.1109/DATE.2002.998387
+Dual Threshold Voltage Domino Logic Synthesis for High Performance with Noise and Power Constrain.	Seong-Ook Jung,Ki-Wook Kim,Sung-Mo Kang	10.1109/DATE.2002.998282
+EAC: A Compiler Framework for High-Level Energy Estimation and Optimization.	Ismail Kadayif,Mahmut T. Kandemir,Narayanan Vijaykrishnan,Mary Jane Irwin,Anand Sivasubramaniam	10.1109/DATE.2002.998310
+Formal Verification of the Pentium ® 4 Floating-Point Multiplier.	Roope Kaivola,Naren Narasimhan	10.1109/DATE.2002.998245
+A Compiler-Based Approach for Improving Intra-Iteration Data Reuse.	Mahmut T. Kandemir	10.1109/DATE.2002.998419
+Reducing Cache Access Energy in Array-Intensive Application.	Mahmut T. Kandemir,Ibrahim Kolcu	10.1109/DATE.2002.998448
+Improved Technology Mapping for PAL-Based Devices Using a New Approach to Multi-Output Boolean Functions.	Dariusz Kania	10.1109/DATE.2002.998444
+Directed-Binary Search in Logic BIST Diagnostics.	Rohit Kapur,Thomas W. Williams,M. Ray Mercer	10.1109/DATE.2002.998477
+A Two-Tier Distributed Electronic Design Framework.	Tom J. Kazmierski,Neil Clayton	10.1109/DATE.2002.998274
+Compact Macromodel for Lossy Coupled Transmission Lines.	Roni Khazaka,Michel S. Nakhla	10.1109/DATE.2002.998469
+Detecting State Coding Conflicts in STGs Using Integer Programming.	Victor Khomenko,Maciej Koutny,Alexandre Yakovlev	10.1109/DATE.2002.998295
+A Dynamic Voltage Scaling Algorithm for Dynamic-Priority Hard Real-Time Systems Using Slack Time Analysis.	Woonseok Kim,Jihong Kim 0001,Sang Lyul Min	10.1109/DATE.2002.998389
+Dynamic VTH Scaling Scheme for Active Leakage Power Reduction.	Chris H. Kim,Kaushik Roy 0001	10.1109/DATE.2002.998265
+Formulation of SOC Test Scheduling as a Network Transportation Problem.	Sandeep Koranne,Vishal Suhas Choudhary	10.1109/DATE.2002.998481
+Effective Software Self-Test Methodology for Processor Cores.	Nektarios Kranitis,Antonis M. Paschalis,Dimitris Gizopoulos,Yervant Zorian	10.1109/DATE.2002.998361
+IDDT Testing of Embedded CMOS SRAMs.	Suriya Ashok Kumar,Rafic Z. Makki,David M. Binkley	10.1109/DATE.2002.998473
+Layout Driven Decomposition with Congestion Consideration.	Thomas Kutzschebauch,Leon Stok	10.1109/DATE.2002.998371
+Global Optimization Applied to the Oscillator Problem.	S. Lampe,S. Laur	10.1109/DATE.2002.998292
+Built-In Dynamic Current Sensor for Hard-to-Detect Faults in Mixed-Signal Ics.	Yolanda Lechuga,Román Mozuelos,Mar Martínez,Salvador Bracho	10.1109/DATE.2002.998271
+A New ATPG Algorithm to Limit Test Set Size and Achieve Multiple Detections of All Faults.	Sooryong Lee,Brad Cobb,Jennifer Dworak,Michael R. Grimaila,M. Ray Mercer	10.1109/DATE.2002.998255
+A New Formulation for SOC Floorplan Area Minimization Problem.	Chih-Hung Lee,Yu-Chung Lin,Wen-Yu Fu,Chung-Chiao Chang,Tsai-Ming Hsieh	10.1109/DATE.2002.998456
+Dynamic Runtime Re-Scheduling Allowing Multiple Implementations of a Task for Platform-Based Designs.	Tin-Man Lee,Wayne H. Wolf,Jörg Henkel	10.1109/DATE.2002.998288
+An EMC-Compliant Design Method of High-Density Integrated Circuits.	Jean-Luc Levant,Mohammed Ramdani	10.1109/DATE.2002.998470
+Automatic Modifications of High Level VHDL Descriptions for Fault Detection or Tolerance.	Régis Leveugle	10.1109/DATE.2002.998396
+Reconfigurable SoC - What Will it Look Like?	J. Bryan Lewis,Ivo Bolsens,Rudy Lauwereins,Chris Wheddon,Bhusan Gupta,Yankin Tanurhan	10.1109/DATE.2002.10018
+A Hierarchical Test Scheme for System-On-Chip Designs.	Jin-Fu Li,Hsin-Jung Huang,Jeng-Bin Chen,Chih-Pin Su,Cheng-Wen Wu,Chuang Cheng,Shao-I Chen,Chi-Yi Hwang,Hsiao-Ping Lin	10.1109/DATE.2002.998317
+A Linear-Centric Modeling Approach to Harmonic Balance Analysis.	Peng Li 0001,Lawrence T. Pileggi	10.1109/DATE.2002.998367
+On-Chip Inductance Models: 3D or Not 3D?	Tao Lin,Michael W. Beattie,Lawrence T. Pileggi	10.1109/DATE.2002.998500
+Arbitrary Convex and Concave Rectilinear Module Packing Using TCG.	Jai-Ming Lin,Hsin-Lung Chen,Yao-Wen Chang	10.1109/DATE.2002.998251
+An Efficient Test and Diagnosis Scheme for the Feedback Type of Analog Circuits with Minimal Added Circuits.	Jun-Weir Lin,Chung-Len Lee 0001,Jwu E. Chen	10.1109/DATE.2002.998475
+An Interval-Based Diagnosis Scheme for Identifying Failing Vectors in a Scan-BIST Environment.	Chunsheng Liu,Krishnendu Chakrabarty,Michael Gössel	10.1109/DATE.2002.998302
+A Code Transformation-Based Methodology for Improving I-Cache Performance of DSP Applications.	Nikolaos D. Liveris,Nikolaos D. Zervas,Dimitrios Soudris,Constantinos E. Goutis	10.1109/DATE.2002.998418
+Extending Synchronous Languages for Generating Abstract Real-Time Models.	George Logothetis,Klaus Schneider 0001	10.1109/DATE.2002.998390
+Flip-Flop and Repeater Insertion for Early Interconnect Planning.	Ruibing Lu,Guoan Zhong,Cheng-Kok Koh,Kai-Yuan Chao	10.1109/DATE.2002.998374
+Critical Comparison among Some Analog Fault Diagnosis Procedures Based on Symbolic Techniques.	Antonio Luchetta,Stefano Manetti,Maria Cristina Piccirilli	10.1109/DATE.2002.998461
+An Adaptive Dictionary Encoding Scheme for SOC Data Buses.	Tiehan Lv,Wayne H. Wolf,Jörg Henkel,Haris Lekatsas	10.1109/DATE.2002.998433
+Wire Placement for Crosstalk Energy Minimization in Address Buses.	Luca Macchiarulo,Enrico Macii,Massimo Poncino	10.1109/DATE.2002.998264
+On Nanoscale Integration and Gigascale Complexity in the Post.Com World.	Hugo De Man	10.1109/DATE.2002.998239
+How to Choose Semiconductor IP: Embedded Software.	Grant Martin	10.1109/DATE.2002.998243
+UML for Embedded Systems Specification and Design: Motivation and Overview.	Grant Martin	10.1109/DATE.2002.998386
+An Encoding Technique for Low Power CMOS Implementations of Controllers.	Manuel Martínez,Maria J. Avedillo,José M. Quintana,H. Süß,Manfred Koegst	10.1109/DATE.2002.998439
+Automatic Evaluation of the Accuracy of Fixed-Point Algorithms.	Daniel Ménard,Olivier Sentieys	10.1109/DATE.2002.998351
+Self-Checking Scheme for the On-Line Testing of Power Supply Noise.	Cecilia Metra,Luca Schiano,Bruno Riccò,Michele Favalli	10.1109/DATE.2002.998395
+Hardware/Software Trade-Offs for Advanced 3G Channel Coding.	Heiko Michel,Alexander Worm,Norbert Wehn,Michael Münch	10.1109/DATE.2002.998304
+Networks on Chip: A New Paradigm for Systems on Chip Design.	Giovanni De Micheli,Luca Benini	10.1109/DATE.2002.998307
+Automatic Verification of In-Order Execution In Microprocessors with Fragmented Pipelines and Multicycle Functional Units.	Prabhat Mishra 0001,Nikil D. Dutt,Alexandru Nicolau,Hiroyuki Tomiyama	10.1109/DATE.2002.998247
+Multiple-Precision Circuits Allocation Independent of Data-Objects Length.	María C. Molina,José M. Mendías,Román Hermida	10.1109/DATE.2002.998408
+Sizing Power/Ground Meshes for Clocking and Computing Circuit Components.	Arindam Mukherjee 0001,Kai Wang 0011,Lauren Hui Chen,Malgorzata Marek-Sadowska	10.1109/DATE.2002.998267
+A New Time Model for the Specification, Design, Validation and Synthesis of Embedded Real-Time Systems.	Ralf Münzenberger,Matthias Dörfel,Frank Slomka,Richard Hofmann	10.1109/DATE.2002.998451
+Accurate Area and Delay Estimators for FPGAs.	Anshuman Nayak,Malay Haldar,Alok N. Choudhary,Prithviraj Banerjee	10.1109/DATE.2002.998400
+IP for Embedded Robustness.	Michael Nicolaidis	10.1109/DATE.2002.998277
+The Use of Runtime Configuration Capabilities for Networked Embedded Systems.	Carsten Nitsch,Udo Kebschull	10.1109/DATE.2002.998449
+Estimation of Power Consumption in Encoded Data Buses.	Alberto García Ortiz,Lukusa D. Kabulepa,Manfred Glesner	10.1109/DATE.2002.998459
+Design Automation for Deepsubmicron: Present and Future.	Ralph H. J. M. Otten,Raul Camposano,Patrick Groeneveld	10.1109/DATE.2002.10002
+High-Speed Non-Linear Asynchronous Pipelines.	Recep O. Ozdag,Peter A. Beerel,Montek Singh,Steven M. Nowick	10.1109/DATE.2002.998422
+Exact Grading of Multiple Path Delay Faults.	Saravanan Padmanaban,Spyros Tragoudas	10.1109/DATE.2002.998253
+Systematic Power-Performance Trade-Off in MPEG-4 by Means of Selective Function Inlining Steered by Address Optimization Opportunities.	Martin Palkovic,Miguel Miranda,Francky Catthoor	10.1109/DATE.2002.998435
+An Incremental Algorithm for Test Generation in Illinois Scan Architecture Based Designs.	Amit R. Pandey,Janak H. Patel	10.1109/DATE.2002.998300
+Congestion-Aware Logic Synthesis.	Davide Pandini,Lawrence T. Pileggi,Andrzej J. Strojwas	10.1109/DATE.2002.998370
+Techniques to Evolve a C++ Based System Design Language.	Robert Pasko,Serge Vernalde,Patrick Schaumont	10.1109/DATE.2002.998289
+Embedded Diagnosis IP.	Stephen Pateras	10.1109/DATE.2002.998278
+A Layered, Codesign Virtual Machine Approach to Modeling Computer Systems.	JoAnn M. Paul,Donald E. Thomas	10.1109/DATE.2002.998350
+A Case Study for the Verification of Complex Timed Circuits: IPCMOS.	Marco A. Peña,Jordi Cortadella,Alexander B. Smirnov,Enric Pastor	10.1109/DATE.2002.998248
+Maximizing Conditonal Reuse by Pre-Synthesis Transformations.	Olga Peñalba,José M. Mendías,Román Hermida	10.1109/DATE.2002.998453
+An Energy Estimation Method for Asynchronous Circuits with Application to an Asynchronous Microprocessor.	Paul I. Pénzes,Alain J. Martin	10.1109/DATE.2002.999207
+Power Efficient Embedded Processor Ip&apos;s through Application-Specific Tag Compression in Data Caches.	Peter Petrov,Alex Orailoglu	10.1109/DATE.2002.998434
+Low Power Embedded Software Optimization Using Symbolic Algebra.	Armita Peymandoust,Tajana Simunic,Giovanni De Micheli	10.1109/DATE.2002.998432
+Transforming Arbitrary Structures into Topologically Equivalent Slicing Structures.	Olivier Peyran,Wenjun Zhuang	10.1109/DATE.2002.998455
+How to Choose Semiconductor IP? - Embedded Processor.	Ian Phillips	10.1109/DATE.2002.998241
+Speeding up SAT for EDA.	Slawomir Pilarski,Gracia Hu	10.1109/DATE.2002.998437
+Test Enrichment for Path Delay Faults Using Multiple Sets of Target Faults.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.2002.998379
+Finding a Common Fault Response for Diagnosis during Silicon Debug.	Irith Pomeranz,Janusz Rajski,Sudhakar M. Reddy	10.1109/DATE.2002.998471
+Fault Isolation Using Tests for Non-Isolated Blocks.	Irith Pomeranz,Yervant Zorian	10.1109/DATE.2002.998479
+AccuPower: An Accurate Power Estimation Tool for Superscalar Microprocessors.	Dmitry Ponomarev 0001,Gurhan Kucuk,Kanad Ghose	10.1109/DATE.2002.998259
+Parameter Controlled Automatic Symbolic Analysis of Nonlinear Analog Circuits.	Ralf Popp,Joerg Oehmen,Lars Hedrich,Erich Barke	10.1109/DATE.2002.998284
+Automatic Topology-Based Identification of Instruction-Set Extensions for Embedded Processors.	Laura Pozzi,Miljan Vuletic,Paolo Ienne	10.1109/DATE.2002.998496
+A Test Design Method for Floating Gate Defects (FGD) in Analog Integrated Circuits.	Michael Pronath,Helmut E. Graeb,Kurt Antreich	10.1109/DATE.2002.998252
+Minimum Energy Fixed-Priority Scheduling for Variable Voltage Processor.	Gang Quan,Xiaobo Hu 0001	10.1109/DATE.2002.998388
+Test Structure for IC(VBE) Parameter Determination of Low Voltage Applications.	Wenceslas Rahajandraibe,Christian Dufaza,Daniel Auvergne,Bruno Cialdella,Bernard Majoux,Vivek Chowdhury	10.1109/DATE.2002.998291
+Make Your SoC Design a Winner: Select the Right Memory IP.	Vincent Ratford	10.1109/DATE.2002.998242
+Reducing Test Application Time Through Test Data Mutation Encoding.	Sherief Reda,Alex Orailoglu	10.1109/DATE.2002.998303
+Embedded System Design Based On Webservices.	Achim Rettberg,Wolfgang Thronicke	10.1109/DATE.2002.998275
+Concurrent and Selective Logic Extraction with Timing Consideration.	Peyman Rezvani,Massoud Pedram	10.1109/DATE.2002.998443
+Event Model Interfaces for Heterogeneous System Analysis.	Kai Richter 0001,Rolf Ernst	10.1109/DATE.2002.998348
+High-Level Modeling and Design of Asynchronous Arbiters for On-Chip Communication Systems.	Jean-Baptiste Rigaud,Laurent Fesquet,Marc Renaudin,Jerome Quartana	10.1109/DATE.2002.998447
+A Video Compression Case Study on a Reconfigurable VLIW Architecture.	Davide Rizzo,Osvaldo Colavin	10.1109/DATE.2002.998353
+A Complete Data Scheduler for Multi-Context Reconfigurable Architectures.	Marcos Sánchez-Élez,Milagros Fernández,Rafael Maestre,Román Hermida,Nader Bagherzadeh,Fadi J. Kurdahi	10.1109/DATE.2002.998354
+Highly Scalable Dynamically Reconfigurable Systolic Ring-Architecture for DSP Applications.	Gilles Sassatelli,Lionel Torres,Pascal Benoit,Thierry Gil,Camille Diou,Gaston Cambon,Jérôme Galy	10.1109/DATE.2002.998355
+The Fraunhofer Knowledge Network (FKN) for Training in Critical Design Disciplines.	Anton Sauer,Günter Elst,Ludger Krahn,Werner John	10.1109/DATE.2002.998485
+Automated Concurrency Re-Assignment in High Level System Models for Efficient System-Level Simulation.	Nick Savoiu,Sandeep K. Shukla,Rajesh K. Gupta 0001	10.1109/DATE.2002.998404
+Global Responsibilities in SOC Design.	Taylor Scanlon	10.1109/DATE.2002.998240
+Energy-Efficient Mapping and Scheduling for DVS Enabled Distributed Embedded Systems.	Marcus T. Schmitz,Bashir M. Al-Hashimi,Petru Eles	10.1109/DATE.2002.998349
+Internet-Based Collaborative Test Generation with MOSCITO.	André Schneider,Karl-Heinz Diener,Eero Ivask,Jaan Raik,Raimund Ubar,P. Miklos,T. Cibáková,Elena Gramatová	10.1109/DATE.2002.998273
+Analog Circuit Sizing Using Adaptive Worst-Case Parameter Sets.	Robert Schwencker,Frank Schenkel,Michael Pronath,Helmut E. Graeb	10.1109/DATE.2002.998359
+The Real-Time UML Standard: Definition and Application.	Bran Selic	10.1109/DATE.2002.998385
+Library Compatible Ceff for Gate-Level Timing.	Bernard N. Sheehan	10.1109/DATE.2002.998394
+Managing Power Consumption in Networks on Chip.	Tajana Simunic,Stephen P. Boyd	10.1109/DATE.2002.998257
+A SAT Solver Using Software and Reconfigurable Hardware.	Iouliia Skliarova,António de Brito Ferrari	10.1109/DATE.2002.998450
+Mappability Estimation of Architecture and Algorithm.	Juha-Pekka Soininen,Jari Kreku,Yang Qu	10.1109/DATE.2002.998488
+From System Specification To Layout: Seamless Top-Down Design Methods for Analog and Mixed-Signal Applications.	Ralf Sommer,Irmtraud Rugen-Herzig,Eckhard Hennig,Umberto Gatti,Piero Malcovati,Franco Maloberti,Karsten Einwich,Christoph Clauß,Peter Schwarz,G. Noessing	10.1109/DATE.2002.998405
+The Selective Pull-Up (SP) Noise Immunity Scheme for Dynamic Circuits.	Mircea R. Stan,Avishek Panigrahi	10.1109/DATE.2002.998462
+Assigning Program and Data Objects to Scratchpad for Energy Reduction.	Stefan Steinke,Lars Wehmeyer,Bo-Sik Lee,Peter Marwedel	10.1109/DATE.2002.998306
+Macromodeling of Digital I/O Ports for System EMC Assessment .	Igor S. Stievano,Flavio G. Canavero,Ivan A. Maio,Z. Chen,Wiren Dale Becker,George A. Katopis	10.1109/DATE.2002.998429
+FlexBench: Reuse of Verification IP to Increase Productivity.	Bernd Stöhr,Michael Simmons,Joachim Geishauser	10.1109/DATE.2002.998487
+Improving Placement under the Constant Delay Model.	Kolja Sulimma,Wolfgang Kunz,Ingmar Neumann,Lukas P. P. P. van Ginneken	10.1109/DATE.2002.998372
+Power Savings in Embedded Processors through Decode Filer Cache.	Weiyu Tang,Rajesh K. Gupta 0001,Alexandru Nicolau	10.1109/DATE.2002.998311
+(Self-)reconfigurable Finite State Machines: Theory and Implementation.	Jürgen Teich,Markus Köster	10.1109/DATE.2002.998356
+Fast Method to Include Parasitic Coupling in Circuit Simulations.	B. L. A. Van Thielen,Guy A. E. Vandenbosch	10.1109/DATE.2002.998427
+Generalized Early Evaluation in Self-Timed Circuits.	Mitchell A. Thornton,Kenneth Fazel,Robert B. Reese,Cherrice Traver	10.1109/DATE.2002.998281
+Crosstalk Alleviation for Dynamic PLAs.	Tzyy-Kuen Tien,Tong-Kai Tsai,Shih-Chieh Chang	10.1109/DATE.2002.998373
+Control Circuit Templates for Asynchronous Bundled-Data Pipelines.	Sunan Tugsinavisut,Peter A. Beerel	10.1109/DATE.2002.998454
+Constructing Symbolic Models for the Input/Output Behavior of Periodically Time-Varying Systems Using Harmonic Transfer Matrices.	Piet Vanassche,Georges G. E. Gielen,Willy M. C. Sansen	10.1109/DATE.2002.998285
+Systematic Design of a 200 Ms/S 8-bit Interpolating A/D Converter.	Jan Vandenbussche,Erik Lauwers,Koen Uyttenhove,Michiel Steyaert,Georges G. E. Gielen	10.1109/DATE.2002.998298
+High-Frequency Nonlinear Amplifier Model for the Efficient Evaluation of Inband Distortion Under Nonlinear Load-Pull Conditions.	Gerd Vandersteen,Piet Wambacq,Stéphane Donnay,Frans Verbeyst	10.1109/DATE.2002.998360
+FACTOR: A Hierarchical Methodology for Functional Test Generation and Testability Analysis.	Vivekananda M. Vedula,Jacob A. Abraham	10.1109/DATE.2002.998380
+Using Rewriting Rules and Positive Equality to Formally Verify Wide-Issue Out-of-Order Microprocessors with a Reorder Buffer.	Miroslav N. Velev	10.1109/DATE.2002.998246
+Incremental Diagnosis and Correction of Multiple Faults and Errors.	Andreas G. Veneris,Jiang Brandon Liu,Mandana Amiri,Magdy S. Abadir	10.1109/DATE.2002.998378
+FPGA Placement by Thermodynamic Combinatorial Optimization.	Juan de Vicente,Juan Lanchares,Román Hermida	10.1109/DATE.2002.998249
+A Signature Test Framework for Rapid Production Testing of RF Circuits.	Ramakrishna Voorakaranam,Sasikumar Cherubal,Abhijit Chatterjee	10.1109/DATE.2002.998268
+Communication Mechanisms for Parallel DSP Systems on a Chip.	Joseph Williams,Nevin Heintze,Bryan D. Ackland	10.1109/DATE.2002.998308
+Behavioural Modelling of Operational Amplifier Faults Using VHDL-AMS.	Peter R. Wilson,J. Neil Ross,Mark Zwolinski,Andrew D. Brown,Yavuz Kiliç	10.1109/DATE.2002.998491
+Congestion Estimation with Buffer Planning in Floorplan Design.	Wai-Chiu Wong,Chiu-Wing Sham,Evangeline F. Y. Young	10.1109/DATE.2002.998375
+Exploiting Idle Cycles for Algorithm Level Re-Computing.	Kaijie Wu 0001,Ramesh Karri	10.1109/DATE.2002.998397
+EDA Tools for RF: Myth or Reality?		10.1109/DATE.2002.998287
+Formulation of Low-Order Dominant Poles for Y-Matrix of Interconnects.	Qinwei Xu,Pinaki Mazumder	10.1109/DATE.2002.998393
+Simple and Efficient Approach for Shunt Admittance Parameters Calculations of VLSI On-Chip Interconnects on Semiconducting Substrate.	Hasan Ymeri,Bart Nauwelaers,Karen Maex,David De Roest,Michele Stucchi,Servaas Vandenberghe	10.1109/DATE.2002.998468
+Automatic Generation of Fast Timed Simulation Models for Operating Systems in SoC Design.	Sungjoo Yoo,Gabriela Nicolescu,Lovic Gauthier,Ahmed Amine Jerraya	10.1109/DATE.2002.998365
+Practical Instruction Set Design and Compiler Retargetability Using Static Resource Models.	Qin Zhao,Bart Mesman,Twan Basten	10.1109/DATE.2002.998425
+Window-Based Susceptance Models for Large-Scale RLC Circuit Analyses.	Hui Zheng,Lawrence T. Pileggi,Michael W. Beattie,Byron Krauter	10.1109/DATE.2002.998366
+An Enhanced Q-Sequence Augmented with Empty-Room-Insertion and Parenthesis Trees.	Changwen Zhuang,Yoji Kajitani,Keishi Sakanushi,Liyan Jin	10.1109/DATE.2002.998250
+2002 Design, Automation and Test in Europe Conference and Exposition (DATE 2002), 4-8 March 2002, Paris, France		

@@ -1,0 +1,32 @@
+Tolerating File-System Mistakes with EnvyFS.	Lakshmi N. Bairavasundaram,Swaminathan Sundararaman,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	
+Fido: Fast Inter-Virtual-Machine Communication for Enterprise Appliances.	Anton Burtsev,Kiran Srinivasan,Prashanth Radhakrishnan,Kaladhar Voruganti,Garth R. Goodson	
+vNUMA: A Virtual Shared-Memory Multiprocessor.	Matthew Chapman,Gernot Heiser	
+ShadowNet: A Platform for Rapid and Safe Network Evolution.	Xu Chen,Zhuoqing Morley Mao,Jacobus E. van der Merwe	
+Decentralized Deduplication in SAN Cluster File Systems.	Austin T. Clements,Irfan Ahmad 0005,Murali Vilayannur,Jinyuan Li	
+Census: Location-Aware Membership Management for Large-Scale Distributed Systems.	James A. Cowling,Dan R. K. Ports,Barbara Liskov,Raluca Ada Popa,Abhijeet Gaikwad	
+STOW: A Spatially and Temporally Optimized Write Caching Algorithm.	Binny S. Gill,Michael Ko,Biplob Debnath,Wendy Belluomini	
+Linux Kernel Developer Responses to Static Analysis Bug Reports.	Philip J. Guo,Dawson R. Engler	
+JustRunIt: Experiment-Based Management of Virtualized Data Centers.	G. John Janakiraman,Jose Renato Santos,Yoshio Turner	
+Rump File Systems: Kernel Code Reborn.	Antti Kantee	
+FlexFS: A Flexible Flash File System for MLC NAND Flash Memory.	Sungjin Lee 0001,Keonsoo Ha,Kangwon Zhang,Jihong Kim 0001,Junghwan Kim	
+CiAO: An Aspect-Oriented Operating-System Family for Resource-Constrained Embedded Systems.	Daniel Lohmann,Wanja Hofer,Wolfgang Schröder-Preikschat,Jochen Streicher,Olaf Spinczyk	
+Design and Implementation of TCP Data Probes for Reliable and Metric-Rich Network Path Monitoring.	Xiapu Luo,Edmond W. W. Chan,Rocky K. C. Chang	
+Immediate Multi-Threaded Dynamic Software Updates Using Stack Reconstruction.	Kristis Makris,Rida A. Bazzi	
+StrobeLight: Lightweight Availability Mapping and Anomaly Detection.	James W. Mickens,John R. Douceur,William J. Bolosky,Brian D. Noble	
+Satori: Enlightened Page Sharing.	Grzegorz Milos,Derek Gordon Murray,Steven Hand 0001,Michael A. Fetterman	
+Layering in Provenance Systems.	Kiran-Kumar Muniswamy-Reddy,Uri Braun,David A. Holland,Peter Macko,Diana L. MacLean,Daniel W. Margo,Margo I. Seltzer,Robin Smogor	
+The Beauty and the Beast: Vulnerabilities in Red Hat&apos;s Packages.	Stephan Neuhaus,Thomas Zimmermann 0001	
+Hashing Round-down Prefixes for Rapid Packet Classification.	Fong Pong,Nian-Feng Tzeng	
+Block Management in Solid-State Devices.	Abhishek Rajimwale,Vijayan Prabhakaran,John D. Davis	
+Decaf: Moving Device Drivers to a Modern Language.	Matthew J. Renzelmann,Michael M. Swift	
+Veracity: Practical Secure Network Coordinates via Vote-based Agreements.	Micah Sherr,Matt Blaze,Boon Thau Loo	
+Automatically Generating Predicates and Solutions for Configuration Troubleshooting.	Ya-Yunn Su,Jason Flinn	
+vPath: Precise Discovery of Request Processing Paths from Black-Box Observations of Thread and Network Activities.	Byung-Chul Tak,Chunqiang Tang,Chun Zhang,Sriram Govindan,Bhuvan Urgaonkar,Rong N. Chang	
+Black-Box Performance Control for High-Volume Non-Interactive Systems.	Sunjit Tara	
+Object Storage on CRAQ: High-Throughput Chain Replication for Read-Mostly Workloads.	Jeff Terrace,Michael J. Freedman	
+The Restoration of Early UNIX Artifacts.	Warren Toomey	
+Reducing Seek Overhead with Application-Directed Prefetching.	Steve Vandebogart,Christopher Frost 0001,Eddie Kohler	
+Server Workload Analysis for Power Minimization using Consolidation.	Akshat Verma,Gargi Dasgupta	
+RCB: A Simple and Practical Framework for Real-time Collaborative Browsing.	Chuan Yue,Zi Chu,Haining Wang	
+Hardware Execution Throttling for Multi-core Resource Management.	Xiao Zhang,Sandhya Dwarkadas,Kai Shen	
+2009 USENIX Annual Technical Conference, San Diego, CA, USA, June 14-19, 2009	Geoffrey M. Voelker,Alec Wolman	

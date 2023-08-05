@@ -1,0 +1,81 @@
+Parallel Job Scheduling Policy for Workstation Cluster Environments.	Jemal H. Abawajy,Sivarama P. Dandamudi	10.1109/CLUSTER.2000.10009
+Efficient Cooperative Caching for File Systems in Cluster-Based Web Servers.	Woo Hyun Ahn,Sang Ho Park,Daeyeon Park	10.1109/CLUSTR.2000.889086
+A Fair and Effective Scheduling Strategy for Workstation Clusters.	Cosimo Anglano	10.1109/CLUSTR.2000.889080
+The Impact of Caching in a Loosely-coupled Clustered Software DSM System.	Luciana Arantes,Pierre Sens 0001,Bertil Folliot	10.1109/CLUSTR.2000.888989
+Madeleine II: a Portable and Efficient Communication Library for High-Performance Cluster Computing.	Olivier Aumage,Luc Bougé,Alexandre Denis 0001,Jean-François Méhaut,Guillaume Mercier,Raymond Namyst,Loïc Prylli	10.1109/CLUSTR.2000.889004
+Tutorial C: Current and Emerging Trends in Cluster Computing.	Mark Baker,Rajkumar Buyya	10.1109/CLUSTER.2000.10035
+Programming Support for Distributed Clustercomputing.	Henri E. Bal	10.1109/CLUSTER.2000.10021
+Distributed Solution of Optimal Hybrid Control Problems on Networks of Workstations.	Thomas Barth,Bernd Freisleben,Manfred Grauer,Frank Thilo	10.1109/CLUSTR.2000.889027
+Heterogeneity Considered Harmful to Algorithm Designers.	Olivier Beaumont,Vincent Boudet,Arnaud Legrand,Fabrice Rastello,Yves Robert	10.1109/CLUSTER.2000.10042
+Multi-Grid Acceleration of a SIMPLE-Based CFD-Code and Aspects of Parallelization.	Klaus Bernert,Thomas Frank,Hellfried Schneider,Klaus Pachler	10.1109/CLUSTR.2000.889045
+IP over SCI.	Ralf Grosse Borger,Roger Butenuth,Hans-Ulrich Heiss	10.1109/CLUSTR.2000.889003
+Cluster Based Power System Analysis Applications.	Carmen L. T. Borges,Djalma M. Falcão,Glauco Nery Taranto	10.1109/CLUSTR.2000.889040
+Tutorial E: Hot Topics in Grid Computing.	Rajkumar Buyya,Mark Baker	10.1109/CLUSTER.2000.10028
+Parallel Simulation of 3D Nonlinear Acoustic Fields on a Linux-cluster.	Xing Cai,Åsmund Ødegård	10.1109/CLUSTR.2000.889038
+Inversion of Huge Matrices on Clusters.	Eddy Caron,Dominique Lazure,Gil Utard	10.1109/CLUSTER.2000.10036
+Scalable Web Clusters with Static and Dynamic Contents.	Emiliano Casalicchio,Michele Colajanni	10.1109/CLUSTR.2000.889028
+Parallel Pull-Based LRU : a New Request Distribution Algorithm for Large Scale SCI Clustered Web Caches.	Emmanuel Cecchet,Cyril Perrin	10.1109/CLUSTER.2000.10024
+An Over-partitioning Scheme for Parallel Sorting on Clusters with Processors Running at different Speeds.	Christophe Cérin,Jean-Luc Gaudiot	10.1109/CLUSTER.2000.10037
+A Gracefully Degradable Declustered RAID Architecture with near Optimal Maximal Read and Write Parallelism.	Siu-Cheung Chau,Ada Wai-Chee Fu	10.1109/CLUSTR.2000.889084
+Entropia: Megacomputing on the Internet.	Andrew A. Chien	10.1109/CLUSTER.2000.10034
+A CC-NUMA Prototype Card for SCI-Based PC Clustering.	Sang-Hwa Chung,Soo-Cheol Oh,Sejin Park,Hankook Jang,Chi-Jung Ha	10.1109/CLUSTER.2000.10018
+Low-cost Gigabit Ethernet at Work.	Giuseppe Ciaccio,Giovanni Chiola	10.1109/CLUSTER.2000.10000
+Towards a Generic Information Provision System for the Metacomputing Environment.	Timothy Peter Cockle,Kecheng Liu,Mike C. Woodward	10.1109/CLUSTER.2000.10039
+A Case for Heterogeneous Disk Arrays.	Toni Cortes,Jesús Labarta	10.1109/CLUSTR.2000.889085
+Performance analysis of storage and network subsystems in cluster architectures.	Rosario Cristaldi,Giulio Iannello	10.1109/CLUSTR.2000.889087
+CLIC: Fast Communication on Linux Clusters.	Antonio F. Díaz,Jesus Ferreira,Julio Ortega 0001,Antonio Cañas,Alberto Prieto	10.1109/CLUSTER.2000.10011
+JavaSymphony: A System for Development of Locality-Oriented Distributed and Parallel Java Applications.	Thomas Fahringer	10.1109/CLUSTR.2000.889023
+Enabling High Performance Data Transfer on Cluster Architecture.	Paul A. Farrell,Hong Ong,Stephen L. Scott	10.1109/CLUSTER.2000.10010
+Efficient Parallelization of Eulerian-Lagrangian Approach for Disperse Multiphase Flow Calculations on MIMD Computer Architectures.	Thomas Frank,Klaus Bernert,Klaus Pachler,Hellfried Schneider	10.1109/CLUSTER.2000.10038
+ORNL M3C tool.	Al Geist,Brian Luethke,Jens Schwidder,Stephen L. Scott	10.1109/CLUSTER.2000.10045
+The Océano Project - A Multi-Domain Cluster for a Computing Utility.	Germán S. Goldszmidt	10.1109/CLUSTER.2000.10017
+Yabat: An Administration and Monitoring Software for Beowulf Clusters.	Mario R. Guarracino,Giuliano Laccetti,Gennaro Oliva,Umberto Scafuri	10.1109/CLUSTER.2000.10031
+Browsing Virtual Reality on a PC Cluster.	Mario R. Guarracino,Giuliano Laccetti,Diego Romano	10.1109/CLUSTR.2000.889041
+The Dolphin D330 Cluster Adapter Card.	Petter Gustad,Svein Erik Johansen,Kare Lochsen	10.1109/CLUSTER.2000.10002
+Architectural Software Support for Processing Clusters.	Johannes Gutleber,Eric Cano,Sergio Cittolin,Frans Meijers,Luciano Orsini,D. Samyn	10.1109/CLUSTR.2000.889026
+Agilent&apos;s Key Technologies in Remote System Management.	Michael Herz	10.1109/CLUSTER.2000.10022
+Remote System Management Principles.	Michael Herz	10.1109/CLUSTER.2000.10020
+SCore: An Integrated Cluster System Software Package for High Performance Cluster Computing.	Atsushi Hori	10.1109/CLUSTER.2000.10027
+Impact of Level 2 Cache and Memory Subsystem on the Scalability of Clusters of Small-Scale SMP Servers.	Jenwei Hsieh,Tau Leng,Victor Mashayekhi,Reza Rooholamini	10.1109/CLUSTR.2000.888991
+Internet Security and Cluster Architecture for Federated E-Commerce.	Kai Hwang 0001	10.1109/CLUSTER.2000.10046
+FireCluster: PC Cluster System Employing IEEE 1394.	Kazuki Hyoudou,Yasuichi Nakayama	10.1109/CLUSTER.2000.10005
+Accelerated Socket Communications in System Area Networks.	Masanori Itoh,Tooru Ishizaki,Mitsuhiro Kishimoto	10.1109/CLUSTER.2000.10003
+Atomicity, Serialization and Recovery in the Island-Based File System.	Minwen Ji	10.1109/CLUSTER.2000.10006
+From Metacomputing to Metabusiness Processing.	Li-jie Jin,Andrew S. Grimshaw	10.1109/CLUSTR.2000.889010
+Development of a Spaceborne Embedded Cluster.	Daniel S. Katz,Paul L. Springer	10.1109/CLUSTR.2000.889012
+Adaptive Dual-Cache Scheme with Dynamic Prefetching Scheme in Parallel File System.	Chei-Yol Kim,Jong Hyun Cho,Dae-Wha Seo	10.1109/CLUSTER.2000.10013
+Request Rate Adaptive Dispatching Architecture for Scalable Internet Server.	Dongeun Kim,Cheol Ho Park,Daeyeon Park	10.1109/CLUSTR.2000.889082
+Tutorial B: CORBA: As a Cluster Middleware.	Arvind W. Kiwelekar	10.1109/CLUSTER.2000.10043
+Chained Declustering using Multiple Conventional Filesystems.	Koichi Konishi,Kentaro Kikuchi,Hideki Kawai,Kunihiko Kojima,Ken&apos;ichi Ohmachi,Susumu Akamine,Toshikazu Fukushima	10.1109/CLUSTER.2000.10030
+Using the Resizable Working-set Notion for Software Distributed Shared Memory.	Sung-Woo Lee,Kee-Young Yoo	10.1109/CLUSTER.2000.10016
+Towards Single Image System: Preemptive migration of system threads with the SCI network.	Pierre Lombard,Yves Denneulin	10.1109/CLUSTR.2000.889068
+A Concurrent Programming Environment with Support for Distributed Computations and Code Mobility.	Luís M. B. Lopes,Álvaro Reis Figueira,Fernando M. A. Silva,Vasco Thudichum Vasconcelos	10.1109/CLUSTR.2000.889083
+Tutorial D: An Introduction to OpenMP and Its Use on Clusters.	Tim Mattson	10.1109/CLUSTER.2000.10032
+Cluster Computing at Intel.	Timothy G. Mattson	10.1109/CLUSTER.2000.10015
+Cluster Optimized High Density Alpha Compute Nodes.	Tom Morris	10.1109/CLUSTER.2000.10001
+Parallelizing a CAD-Model-Based Object Localization for Initialization of Tracking in Visual Servoing.	Thomas Müller 0004,Hans-Hellmut Nagel	10.1109/CLUSTER.2000.10023
+Consistent Checkpointing for High Performance Clusters.	Toshihiro Nishioka,Atsushi Hori,Yutaka Ishikawa	10.1109/CLUSTER.2000.10004
+Characterization of Communications between Processes in Message-Passing Applications.	Juan M. Orduña,Vicente Arnau,José Duato	10.1109/CLUSTR.2000.889009
+A Model of Completion Queue Mechanisms using the Virtual Interface API.	Naresh Patel,Hari Sivaraman	10.1109/CLUSTR.2000.889081
+SilkRoad: A Multithreaded Runtime System with Software Distributed Shared Memory for SMP Clusters.	Liang Peng,Weng-Fai Wong,Ming-Dong Feng,Chung-Kwong Yuen	10.1109/CLUSTR.2000.889067
+Tutorial A: Design and Analysis of High Performance Clusters.	Rob Pennington,David A. Bader,Barney Maccabe,Patricia A. Kovatch,Stephen L. Scott	10.1109/CLUSTER.2000.10029
+Experiments with PVMaple and Parallel Methods for ODEs.	Dana Petcu	10.1109/CLUSTER.2000.10025
+The Future of Cluster Interconnects: InfiniBand or Ethernet?	Gregory Pfister	10.1109/CLUSTER.2000.10014
+Tutorial F: Implementing Agent Applications in Java: Using Mobile and Intelligent Agents.	Omer F. Rana	10.1109/CLUSTER.2000.10044
+Agent based Resource Discovery for Dynamic Clusters.	Omer F. Rana,Daniel Bunford-Jones,David W. Walker,Matthew Addis,Mike Surridge,Kenneth A. Hawick	10.1109/CLUSTER.2000.10008
+Partition Repositories for Partition Cloning - OS Independent Software Maintenance in Large Clusters of PCs.	Felix Rauch,Christian Kurmann,Thomas Stricker	10.1109/CLUSTR.2000.889066
+Distributed Processor Allocation in Multicomputers.	Rose Rose,Hans-Ulrich Heiss,Philippe Olivier Alexandre Navaux	10.1109/CLUSTER.2000.10041
+A Flexible Monitoring Platform to Build Cluster Management Services.	Céline Boutrous-Saab,Xavier Bonnaire,Bertil Folliot	10.1109/CLUSTR.2000.889071
+Proposing a Mechanism for Reliably Locking VIA Communication Memory in Linux.	Friedrich Seifert,Wolfgang Rehm	10.1109/CLUSTR.2000.889065
+PC Clusters - The Convergence of High Performance Systems Architecture.	Thomas L. Sterling	10.1109/CLUSTER.2000.10040
+Contention-free Complete Exchange Algorithm on Clusters.	Anthony T. C. Tam,Cho-Li Wang	10.1109/CLUSTR.2000.889001
+MEMOnet : Network interface plugged into a memory slot.	Noboru Tanabe,Junji Yamamoto,Hiroaki Nishi,Tomohiro Kudoh,Yoshihiro Hamada,Hironori Nakajo,Hideharu Amano	10.1109/CLUSTR.2000.888988
+An MPI-Based Tool for Distributed Genetic Programming.	Marco Tomassini,Leonardo Vanneschi,Laurent Bucher,Francisco Fernández 0001	10.1109/CLUSTR.2000.889043
+Study of the medium message performance of BIP/Myrinet.	Bernard Tourancheau,Roland Westrelin	10.1109/CLUSTR.2000.889002
+Design Choices and First Results of Our VIA-Capable PCI-SCI Bridge.	Mario Trams,Ralph Schlosser,Wolfgang Rehm	10.1109/CLUSTER.2000.10007
+Parallel Programming Environment for Cluster Computing.	Viet D. Tran,Ladislav Hluchý,Giang T. Nguyen 0001	10.1109/CLUSTER.2000.10033
+An Overview of the Galaxy Management Framework for Scalable Enterprise Cluster Computing.	Werner Vogels,Dan Dumitriu	10.1109/CLUSTR.2000.889011
+Advanced Cluster Systems - Computing Power to simulate complex systems in a complex world.	Reiner Wohlgemuth,Holger Matthes	10.1109/CLUSTER.2000.10019
+Efficient Parallel I/O on SCI Connected Clusters.	Joachim Worringen	10.1109/CLUSTER.2000.10012
+Design and Performance of Maestro Cluster Network.	Shinichi Yamagiwa,Munehiro Fukuda,Koichi Wada	10.1109/CLUSTR.2000.888990
+2000 IEEE International Conference on Cluster Computing (CLUSTER 2000), November 28th - December 1st, 2000, Technische Universität Chemnitz, Saxony, Germany		

@@ -1,0 +1,51 @@
+Origin 2000 Design Enhancements for Communication Intensive Applications.	Gheith A. Abandah,Edward S. Davidson	10.1109/PACT.1998.727141
+Adaptive Scheduling of Computations and Communications on Distributed Memory Systems.	Mayez A. Al-Mouhamed,Homam Najjari	10.1109/PACT.1998.727281
+Data Dependence Analysis of Assembly Code.	Wolfram Amme,Peter Braun 0001,Eberhard Zehendner,François Thomasset	10.1109/PACT.1998.727270
+The StarT-Voyager Parallel System.	Boon Seong Ang,Derek Chiou,Larry Rudolph,Arvind	10.1109/PACT.1998.727191
+A Multithreaded Runtime Environment with Thread Migration for a HPF Data-Parallel Compiler.	Luc Bougé,Philip J. Hatcher,Raymond Namyst,Christian Pérez	10.1109/PACT.1998.727301
+Madeleine: An Efficient and Portable Communication Interface for RPC-Based Multithreaded Environments.	Luc Bougé,Jean-François Méhaut,Raymond Namyst	10.1109/PACT.1998.727257
+Scanning Polyhedra without Do-loops.	Pierre Boulet,Paul Feautrier	10.1109/PACT.1998.727127
+Exploiting Method-Level Parallelism in Single-Threaded Java Programs.	Michael K. Chen,Kunle Olukotun	10.1109/PACT.1998.727190
+Efficient Methods for Multi-Dimensional Array Redistribution.	Yeh-Ching Chung,Ching-Hsien Hsu	10.1109/PACT.1998.727299
+Instance-Wise Reaching Definition Analysis for Recursive Programs using Context-Free Transductions.	Albert Cohen 0001,Jean-Francois Collard	10.1109/PACT.1998.727269
+Command Vector Memory Systems: High Performance at Low Cost.	Jesús Corbal,Roger Espasa,Mateo Valero	10.1109/PACT.1998.727154
+Improving Static Branch Prediction in a Compiler.	Brian L. Deitrich,Ben-Chung Cheng,Wen-mei W. Hwu	10.1109/PACT.1998.727253
+General Parallel Computation can be Performed with a Cycle-Free Heap.	Jack B. Dennis	10.1109/PACT.1998.727177
+Efficient Edge Profiling for ILP-Processors.	Alexandre E. Eichenberger,S. M. Lobo	10.1109/PACT.1998.727264
+Athapascan-1: On-Line Building Data Flow Graph in a Parallel Language.	François Galilée,Jean-Louis Roch,Gerson G. H. Cavalheiro,Mathias Doreille	10.1109/PACT.1998.727176
+Handling Cross Interferences by Cyclic Cache Line Coloring.	Daniela Genius	10.1109/PACT.1998.727180
+Optimized Code Generation for Heterogeneous Computing Environment using Parallelizing Compiler TINPAR.	Shin-ya Goto,Atsushi Kubota,Toshihiko Tanaka,Masahiro Goshima,Shin-ichiro Mori,Hiroshi Nakashima,Shinji Tomita	10.1109/PACT.1998.727305
+Code Generation in the Polytope Model.	Martin Griebl,Christian Lengauer,Sabine Wetzel	10.1109/PACT.1998.727179
+Static Methods in Hybrid Branch Prediction.	Dirk Grunwald,Donald C. Lindsay,Benjamin G. Zorn	10.1109/PACT.1998.727254
+Improving Compiler and Run-Time Support for Adaptive Irregular Codes.	Hwansoo Han,Chau-Wen Tseng	10.1109/PACT.1998.727289
+Optical versus Electronic Bus for Address-Transactions in Future SMP Architectures.	Wissam Hlayhel,Daniel Litaize,Laurent Fesquet,Jacques Henri Collet	10.1109/PACT.1998.727137
+Capturing the Effects of Code Improving Transformations.	Clara Jaramillo,Rajiv Gupta 0001,Mary Lou Soffa	10.1109/PACT.1998.727181
+A Matrix-Based Approach to the Global Locality Optimization Problem.	Mahmut T. Kandemir,Alok N. Choudhary,J. Ramanujam,Prithviraj Banerjee	10.1109/PACT.1998.727266
+Exploiting Fine- and Coarse-Grain Parallelism in Embedded Programs.	Ireneusz Karkowski,Henk Corporaal	10.1109/PACT.1998.727152
+Dynamic Hammock Predication for Non-Predicated Instruction Set Architectures.	Artur Klauser,Todd M. Austin,Dirk Grunwald,Brad Calder	10.1109/PACT.1998.727261
+Efficient JavaVM Just-in-Time Compilation.	Andreas Krall	10.1109/PACT.1998.727250
+An Direct-Execution Framework for Fast and Accurate Simulation of Superscalar Processors.	Venkata Krishnan,Josep Torrellas	10.1109/PACT.1998.727263
+Transformations for Improving Data Access Locality in Non-Perfectly Nested Loops.	Dattatraya Kulkarni	10.1109/PACT.1998.727267
+A Fast Algorithm for Scheduling Time-Constrained Instructions on Processors with ILP.	Allen Leung,Krishna V. Palem,Amir Pnueli	10.1109/PACT.1998.727188
+A New Heuristic for Scheduling Parallel Programs on Multiprocessor.	Jing-Chiou Liou,Michael A. Palis	10.1109/PACT.1998.727277
+A New Framework for Integrated Global Local Scheduling.	Srinivas Mantripragada,Suneel Jain,James C. Dehnert	10.1109/PACT.1998.727189
+Performance of Message-Passing Systems using a Zero-Copy Communication Protocol.	Panagiotis Melas,Ed Zaluska	10.1109/PACT.1998.727260
+Integrated Compilation and Scalability Analysis for Parallel Systems.	Celso L. Mendes,Daniel A. Reed	10.1109/PACT.1998.727287
+Load Balancing in Individual-Based Spatial Applications.	Fehmina Merchant,Lubomir Bic,Michael B. Dillencourt	10.1109/PACT.1998.727273
+Split Last-Address Predictor.	Enric Morancho,José M. Llabería,Àngel Olivé	10.1109/PACT.1998.727255
+Integrating Loop and Data Transformations for Global Optimization.	Michael F. P. O&apos;Boyle,Peter M. W. Knijnenburg	10.1109/PACT.1998.727131
+Superscalar Execution with Direct Data Forwarding.	Soner Önder,Rajiv Gupta 0001	10.1109/PACT.1998.727183
+A Fast Interrupt Handling Scheme for VLIW Processors.	Emre Özer,Sumedh W. Sathaye,Kishore N. Menezes,Sanjeev Banerjia,Matthew D. Jennings,Thomas M. Conte	10.1109/PACT.1998.727184
+Parallelization of Benchmarks for Scalable Shared-Memory Multiprocessors.	Yunheung Paek,Angeles G. Navarro,Emilio L. Zapata,David A. Padua	10.1109/PACT.1998.727292
+Optimistic Register Coalescing.	Jinpyo Park,Soo-Mook Moon	10.1109/PACT.1998.727246
+Breaking the Barriers: Two Models for MPI Programming.	José L. Roda,Casiano Rodríguez,Daniel González-Morales,Francisco Almeida,Pablo Pulido,Daniel Dorta	10.1109/PACT.1998.727258
+Efficacy and Performance Impact of Value Prediction.	Bohuslav Rychlik,John Faistl,Bryon Krug,John Paul Shen	10.1109/PACT.1998.727186
+Fast, Accurate and Flexible Data Locality Analysis.	F. Jesús Sánchez,Antonio González 0001	10.1109/PACT.1998.727182
+Adaptive Receiver Notification for Non-Dedicated Workstation Clusters.	Michael Schmitt,Maximilian Ibel,Anurag Acharya 0001,Klaus E. Schauser	10.1109/PACT.1998.727259
+Sirocco: Cost-Effective Fine-Grain Distributed Shared Memory.	Ioannis Schoinas,Babak Falsafi,Mark D. Hill,James R. Larus,David A. Wood 0001	10.1109/PACT.1998.727144
+Improving Cache Behavior of Dynamically Allocated Data Structures.	D. N. Truong,François Bodin,André Seznec	10.1109/PACT.1998.727268
+Dynamic Elimination of Pointer-Expressions.	Nitzan Weinberg,David Nagle	10.1109/PACT.1998.727185
+Design Study of Shared Memory in VLIW Video Signal Processors.	Zhao Wu,Wayne H. Wolf	10.1109/PACT.1998.727148
+Eliminating Bottlenecks on Parallel Systems using Adaptive Objects.	Masahiro Yasugi,Shegeyuki Eguchi,Kazuo Taki	10.1109/PACT.1998.727175
+Using Algebraic Transformations to Optimize Expression Evaluation in Scientific Codes.	Julien Zory,Fabien Coelho	10.1109/PACT.1998.727284
+Proceedings of the 1998 International Conference on Parallel Architectures and Compilation Techniques, Paris, France, October 12-18, 1998		

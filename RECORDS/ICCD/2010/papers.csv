@@ -1,0 +1,84 @@
+Robust and energy-efficient DSP systems via output probability processing.	Rami A. Abdallah,Naresh R. Shanbhag	10.1109/ICCD.2010.5647569
+A control-theoretic energy management for fault-tolerant hard real-time systems.	Ali Sharif Ahmadian,Mahdieh Hosseingholi,Alireza Ejlali	10.1109/ICCD.2010.5647798
+Countering code injection attacks with TLB and I/O monitoring.	Dongkyun Ahn,Gyungho Lee	10.1109/ICCD.2010.5647696
+Exploiting SIMD extensions for linear image processing with OpenCL.	Samuel Antao,Leonel Sousa	10.1109/ICCD.2010.5647672
+Delay test quality maximization through process-aware selection of test set size.	Baris Arslan,Alex Orailoglu	10.1109/ICCD.2010.5647687
+A radix-10 digit recurrence division unit with a constant digit selection function.	Malte Baesler,Sven-Ole Voigt,Thomas Teufel	10.1109/ICCD.2010.5647764
+A lightweight run-time scheduler for multitasking multicore stream applications.	Michael A. Baker,Karam S. Chatha	10.1109/ICCD.2010.5647732
+Recent additions to the ARMv7-A architecture.	David Brash	10.1109/ICCD.2010.5647549
+A simple pipelined logarithmic multiplier.	Patricio Bulic,Zdenka Babic,Aleksej Avramovic	10.1109/ICCD.2010.5647767
+Adaptive TDMA bus allocation and elastic scheduling: A unified approach for enhancing robustness in multi-core RT systems.	Paolo Burgio,Martino Ruggiero,Francesco Esposito,Mauro Marinoni,Giorgio C. Buttazzo,Luca Benini	10.1109/ICCD.2010.5647792
+Practical completion detection for 2-of-N delay-insensitive codes.	Marco Cannizzaro,Weiwei Jiang 0002,Steven M. Nowick	10.1109/ICCD.2010.5647809
+Lowering the latency of interfaces for rationally-related frequencies.	Jean-Michel Chabloz,Ahmed Hemani	10.1109/ICCD.2010.5647563
+EQUIPE: Parallel equivalence checking with GP-GPUs.	Debapriya Chatterjee,Valeria Bertacco	10.1109/ICCD.2010.5647645
+Routability-driven flip-flop merging process for clock power reduction.	Zhi-Wei Chen,Jin-Tai Yan	10.1109/ICCD.2010.5647784
+Thermal-aware scratchpad memory design and allocation.	Morteza Damavandpeyma,Sander Stuijk,Twan Basten,Marc Geilen,Henk Corporaal	10.1109/ICCD.2010.5647616
+A study on performance benefits of core morphing in an asymmetric multicore processor.	Anup Das 0001,Rance Rodrigues,Israel Koren,Sandip Kundu	10.1109/ICCD.2010.5647566
+LMS-based low-complexity game workload prediction for DVFS.	Benedikt Dietrich,Swaroop Nunna,Dip Goswami,Samarjit Chakraborty,Matthias Gries	10.1109/ICCD.2010.5647675
+BDD-based circuit restructuring for reducing dynamic power.	Quang Dinh,Deming Chen,Martin D. F. Wong	10.1109/ICCD.2010.5647524
+Automotive embedded driver assistance: A real-time low-power FPGA stereo engine using semi-global matching.	Felix Eberli	10.1109/ICCD.2010.5647552
+A flexible simulation methodology and tool for nanoarray-based architectures.	Stefano Frache,Mariagrazia Graziano,Maurizio Zamboni	10.1109/ICCD.2010.5647586
+M5 based EDGE architecture modeling.	Pengfei Gou,Qingbo Li,Yinghan Jin,Qi Zheng,Bing Yang,Mingyan Yu,Jinxiang Wang	10.1109/ICCD.2010.5647735
+Enhancing dual-Vt design with consideration of on-chip temperature variation.	Junjun Gu,Gang Qu 0001,Lin Yuan	10.1109/ICCD.2010.5647619
+DDPSL: An easy way of defining properties.	Luigi Di Guglielmo,Franco Fummi,Nicola Orlandi,Graziano Pravadelli	10.1109/ICCD.2010.5647654
+VEDA: Variation-aware energy-efficient Discrete Wavelet Transform architecture.	Vaibhav Gupta,Georgios Karakonstantis,Debabrata Mohapatra,Kaushik Roy 0001	10.1109/ICCD.2010.5647753
+Threads vs. caches: Modeling the behavior of parallel workloads.	Zvika Guz,Oved Itzhak,Idit Keidar,Avinoam Kolodny,Avi Mendelson,Uri C. Weiser	10.1109/ICCD.2010.5647747
+Lizard: Energy-efficient hard fault detection, diagnosis and isolation in the ALU.	Seokin Hong,Soontae Kim	10.1109/ICCD.2010.5647708
+Skew-aware capacitive load balancing for low-power zero clock skew rotary oscillatory array.	Vinayak Honkote,Baris Taskin	10.1109/ICCD.2010.5647781
+Efficient provably good OPC modeling and its applications to interconnect optimization.	Shih-Lun Huang,Chung-Wei Lin,Yao-Wen Chang	10.1109/ICCD.2010.5647713
+Efficient test response compaction for robust BIST using parity sequences.	Thomas Indlekofer,Michael Schnittger,Sybille Hellebrand	10.1109/ICCD.2010.5647648
+Exploiting application-dependent ambient temperature for accurate architectural simulation.	Hyung Beom Jang,Jinhang Choi,Ikroh Yoon,Sung-Soo Lim,Seungwon Shin,Naehyuck Chang,Sung Woo Chung	10.1109/ICCD.2010.5647639
+Feasibility study of dynamic Trusted Platform Module.	Arun K. Kanuparthi,Mohamed Zahran 0001,Ramesh Karri	10.1109/ICCD.2010.5647705
+Insertion policy selection using Decision Tree Analysis.	Samira Manabi Khan,Daniel A. Jiménez	10.1109/ICCD.2010.5647608
+Sub-threshold charge recovery circuits.	Mehrdad Khatir,Hassan Ghasemzadeh Mohammadi,Alireza Ejlali	10.1109/ICCD.2010.5647815
+Toward reliable SRAM-based device identification.	Joonsoo Kim,Joonsoo Lee,Jacob A. Abraham	10.1109/ICCD.2010.5647724
+Efficient MIMD architectures for high-performance ray tracing.	Daniel M. Kopta,Josef B. Spjut,Erik Brunvand,Al Davis	10.1109/ICCD.2010.5647555
+SWIFT: A SWing-reduced interconnect for a Token-based Network-on-Chip in 90nm CMOS.	Tushar Krishna,Jacob Postman,Christopher Edmonds,Li-Shiuan Peh,Patrick Chiang 0001	10.1109/ICCD.2010.5647666
+Incremental gate sizing for late process changes.	John Lee 0002,Puneet Gupta 0001	10.1109/ICCD.2010.5647778
+Generation of I/O sequences for a high-level design from those in post-silicon for efficient post-silicon debugging.	Yeonbok Lee,Takeshi Matsumoto,Masahiro Fujita	10.1109/ICCD.2010.5647681
+DfT optimization for pre-bond testing of 3D-SICs containing TSVs.	Jia Li,Dong Xiang	10.1109/ICCD.2010.5647651
+Towards cool and reliable digital systems: RT level CED techniques with runtime adaptability.	Yu Liu,Kaijie Wu 0001	10.1109/ICCD.2010.5647625
+A co-processor approach for accelerating data-structure intensive algorithms.	Jason Loew,Jesse Elwell,Dmitry Ponomarev 0001,Patrick H. Madden	10.1109/ICCD.2010.5647669
+Pulse latch based FSRs for low-overhead hardware implementation of cryptographic algorithms.	Shohreh Sharif Mansouri,Elena Dubrova	10.1109/ICCD.2010.5647756
+Boolean factoring with multi-objective goals.	Mayler G. A. Martins,Leomar S. da Rosa Jr.,Anders B. Rasmussen,Renato P. Ribas,André Inácio Reis	10.1109/ICCD.2010.5647772
+Inter-socket victim cacheing for platform power reduction.	Subhra Mazumdar 0003,Dean M. Tullsen,Justin J. Song	10.1109/ICCD.2010.5647634
+Energy optimal on-line Self-Test of microprocessors in WSN nodes.	Andreas Merentitis,Antonis M. Paschalis,Dimitris Gizopoulos,Nektarios Kranitis	10.1109/ICCD.2010.5647693
+RTOS-aware modeling of embedded hardware/software systems.	Matthias Müller 0004,Joachim Gerlach,Wolfgang Rosenstiel	10.1109/ICCD.2010.5647795
+High throughput, low set-up time, reconfigurable linear Feedback Shift Registers.	Rick J. M. Nas,C. H. van Berkel	10.1109/ICCD.2010.5647572
+Rate-monotonic scheduling for reducing system-wide energy consumption for hard real-time systems.	Linwei Niu	10.1109/ICCD.2010.5647804
+Dynamic register file partitioning in superscalar microprocessors for energy efficiency.	Meltem Ozsoy,Yusuf Onur Koçberber,Mehmet Kayaalp 0001,Oguz Ergin	10.1109/ICCD.2010.5647631
+Spintronic logic gates for spintronic data using magnetic tunnel junctions.	Shruti Patil,Andrew Lyle,Jonathan D. Harms,David J. Lilja,Jianping Wang	10.1109/ICCD.2010.5647611
+Crosstalk modeling to predict channel delay in Network-on-Chips.	Ahmad Patooghy,Seyed Ghassem Miremadi,Mansour Shafaei	10.1109/ICCD.2010.5647684
+Computational models for the age of multicore processing.	Wolfgang J. Paul	10.1109/ICCD.2010.5647541
+An energy model for graphics processing units.	Jeff Pool,Anselmo Lastra,Montek Singh	10.1109/ICCD.2010.5647678
+Predicting the throughput of multiprocessor applications under dynamic workload.	Peter Poplavko,Marc Geilen,Twan Basten	10.1109/ICCD.2010.5647740
+Temperature-to-power mapping.	Zhenyu Qi,Brett H. Meyer,Wei Huang 0004,Robert J. Ribando,Kevin Skadron,Mircea R. Stan	10.1109/ICCD.2010.5647690
+A high performance router with dynamic buffer allocation for on-chip interconnect networks.	Shubo Qi,Minxuan Zhang,Jinwen Li,Tianlei Zhao,Chengyi Zhang,Shaoqing Li	10.1109/ICCD.2010.5647657
+QoS scheduling for NoCs: Strict Priority Queueing versus Weighted Round Robin.	Yue Qian,Zhonghai Lu,Qiang Dou	10.1109/ICCD.2010.5647577
+IP characterization methodology for fast and accurate power consumption estimation at transactional level model.	Michel Rogers-Vallée,Marc-André Cantin,Laurent Moss,Guy Bois	10.1109/ICCD.2010.5647622
+Microarchitecture aware gate sizing: A framework for circuit-architecture co-optimization.	Sanghamitra Roy,Koushik Chakraborty	10.1109/ICCD.2010.5647775
+Elaboration-time synthesis of high-level language constructs in SystemC-based microarchitectural simulators.	Zhuo Ruan,Kurtis Cahill,David A. Penry	10.1109/ICCD.2010.5647583
+The Fidelity Property of the Elmore Delay Model in actual comparison of routing algorithms.	Glauco Borges Valim dos Santos,Tiago Reimann,Marcelo O. Johann,Ricardo Reis 0001	10.1109/ICCD.2010.5647789
+A voting-based working set assessment scheme for dynamic cache resizing mechanisms.	Masayuki Sato 0001,Ryusuke Egawa,Hiroyuki Takizawa,Hiroaki Kobayashi	10.1109/ICCD.2010.5647599
+Welcome to ICCD 2010!	Peter-Michael Seidel,Georgi Gaydadjiev,Sofiène Tahar,Lars J. Svensson	10.1109/ICCD.2010.5647538
+Helia: Heterogeneous Interconnect for Low Resolution Cache Access in snoop-based chip multiprocessors.	Ali Shafiee,Narges Shahidi,Amirali Baniasadi	10.1109/ICCD.2010.5647589
+Package-Aware Scheduling of embedded workloads for temperature and Energy management on heterogeneous MPSoCs.	Shervin Sharifi,Tajana Simunic Rosing	10.1109/ICCD.2010.5647628
+Improving cache performance by combining cost-sensitivity and locality principles in cache replacement algorithms.	Rami Sheikh,Mazen Kharbutli	10.1109/ICCD.2010.5647594
+DSS: Applying asynchronous techniques to architectures exploiting ILP at compile time.	Wei Shi,Zhiying Wang 0003,Hongguang Ren,Ting Cao,Wei Chen 0009,Bo Su,Hongyi Lu	10.1109/ICCD.2010.5647721
+Scenario-based design space exploration of MPSoCs.	Peter van Stralen,Andy D. Pimentel	10.1109/ICCD.2010.5647727
+Identifying optimal generic processors for biomedical implants.	Christos Strydis,Dhara Dave	10.1109/ICCD.2010.5647642
+On mismatch number distribution of nanocrossbar logic mapping.	Yehua Su,Wenjing Rao	10.1109/ICCD.2010.5647818
+Data rate maximization by adaptive thresholding RF power management under renewable energy.	Weiguo Tang,Lei Wang 0003	10.1109/ICCD.2010.5647812
+Combined optimal and heuristic approaches for multiple constant multiplication.	Jason Thong,Nicola Nicolici	10.1109/ICCD.2010.5647750
+A unified addition structure for moduli set {2n-1, 2n, 2n+1} based on a novel RNS representation.	Somayeh Timarchi,Mahmood Fazlali,Sorin Dan Cotofana	10.1109/ICCD.2010.5647761
+Using variable clocking to reduce leakage in synchronous circuits.	Navid Toosizadeh,Safwat G. Zaky,Jianwen Zhu	10.1109/ICCD.2010.5647716
+Out-of-order retirement of instructions in sequentially consistent multiprocessors.	Rafael Ubal,Julio Sahuquillo,Salvador Petit,Pedro López 0001,David R. Kaeli	10.1109/ICCD.2010.5647558
+Implicit hints: Embedding hint bits in programs without ISA changes.	Hans Vandierendonck,Koen De Bosschere	10.1109/ICCD.2010.5647699
+A fine-grained link-level fault-tolerant mechanism for networks-on-chip.	Arseniy Vitkovskiy,Vassos Soteriou,Chrysostomos Nicopoulos	10.1109/ICCD.2010.5647663
+Optimization of back pressure and throughput for latency insensitive systems.	Bin Xue,Sandeep K. Shukla	10.1109/ICCD.2010.5647580
+Bandwidth optimization in asynchronous NoCs by customizing link wire length.	JunBok You,Daniel Gebhardt,Kenneth S. Stevens	10.1109/ICCD.2010.5647660
+Optimal power/performance pipelining for error resilient processors.	Nicolas Zea,John Sartori,Ben Ahrens,Rakesh Kumar 0002	10.1109/ICCD.2010.5647702
+Design and implementation of a special purpose embedded system for neural machine interface.	Xiaorong Zhang,He Huang 0002,Qing Yang 0001	10.1109/ICCD.2010.5647801
+A tag-based cache replacement.	Chuanjun Zhang,Bing Xue	10.1109/ICCD.2010.5647602
+Minimizing total area of low-voltage SRAM arrays through joint optimization of cell size, redundancy, and ECC.	Shi-Ting Zhou,Sumeet Katariya,Hamid Reza Ghasemi,Stark C. Draper,Nam Sung Kim	10.1109/ICCD.2010.5647605
+28th International Conference on Computer Design, ICCD 2010, 3-6 October 2010, Amsterdam, The Netherlands, Proceedings		

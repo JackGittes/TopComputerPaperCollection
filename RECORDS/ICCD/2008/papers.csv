@@ -1,0 +1,107 @@
+Characterization and design of sequential circuit elements to combat soft error.	Hamed Abrishami,Safar Hatami,Massoud Pedram	10.1109/ICCD.2008.4751861
+Ring data location prediction scheme for Non-Uniform Cache Architectures.	Sayaka Akioka,Feihui Li,Konrad Malkowski,Padma Raghavan,Mahmut T. Kandemir,Mary Jane Irwin	10.1109/ICCD.2008.4751936
+Improving SAT-based Combinational Equivalence Checking through circuit preprocessing.	Fabrício Vivas Andrade,Leandro Maia Silva,Antônio Otávio Fernandes	10.1109/ICCD.2008.4751838
+Pre-Si estimation and compensation of SRAM layout deficiencies to achieve target performance and yield.	Aditya Bansal,Rama N. Singh,Saibal Mukhopadhyay,Geng Han,Fook-Luen Heng,Ching-Te Chuang	10.1109/ICCD.2008.4751901
+Applying speculation techniques to implement functional units.	Alberto A. Del Barrio,María C. Molina,Jose Manuel Mendias,Esther Andres Perez,Román Hermida,Francisco Tirado	10.1109/ICCD.2008.4751843
+Propositional approximations for bounded model checking of partial circuit designs.	Bernd Becker 0001,Marc Herbstritt,Natalia Kalinnik,Matthew Lewis 0004,Juri Lichtner,Tobias Nopper,Ralf Wimmer 0001	10.1109/ICCD.2008.4751840
+Dynamically reconfigurable soft output MIMO detector.	Pankaj Bhagawat,Rajballav Dash,Gwan Choi	10.1109/ICCD.2008.4751842
+Early stage FPGA interconnect leakage power estimation.	Shilpa Bhoj,Dinesh Bhatia	10.1109/ICCD.2008.4751898
+Analysis and minimization of practical energy in 45nm subthreshold logic circuits.	David Bol,Renaud Ambroise,Denis Flandre,Jean-Didier Legat	10.1109/ICCD.2008.4751876
+A macromodel technique for VLSI dynamic simulation by mapping pre-characterized transitions.	Dimitrios Bountas,Georgios I. Stamoulis,Nestoras E. Evmorfopoulos	10.1109/ICCD.2008.4751900
+Characterization of granularity and redundancy for SRAMs for optimal yield-per-area.	Jae Chul Cha,Sandeep K. Gupta	10.1109/ICCD.2008.4751865
+Issue system protection mechanisms.	Pedro Chaparro,Jaume Abella 0001,Javier Carretero,Xavier Vera	10.1109/ICCD.2008.4751922
+Test cost minimization through adaptive test development.	Mingjing Chen,Alex Orailoglu	10.1109/ICCD.2008.4751867
+Ant Colony Optimization directed program abstraction for software bounded model checking.	Xueqi Cheng,Michael S. Hsiao	10.1109/ICCD.2008.4751839
+Contention-aware application mapping for Network-on-Chip communication architectures.	Chen-Ling Chou,Radu Marculescu	10.1109/ICCD.2008.4751856
+Application Specific Instruction set processor specialized for block motion estimation.	Marc-André Daigneault,J. M. Pierre Langlois,Jean-Pierre David	10.1109/ICCD.2008.4751872
+Post-silicon verification for cache coherence.	Andrew DeOrio,Adam Bauserman,Valeria Bertacco	10.1109/ICCD.2008.4751884
+Power switch characterization for fine-grained dynamic voltage scaling.	Liang Di,Mateja Putic,John C. Lach,Benton H. Calhoun	10.1109/ICCD.2008.4751923
+Fast arbiters for on-chip network switches.	Giorgos Dimitrakopoulos,Nikos Chrysos,Costas Galanopoulos	10.1109/ICCD.2008.4751932
+Fine-grained parallel application specific computing for RNA secondary structure prediction on FPGA.	Yong Dou,Fei Xia,Xingming Zhou,Xuejun Yang	10.1109/ICCD.2008.4751868
+An improved micro-architecture for function approximation using piecewise quadratic interpolation.	Shai Erez,Guy Even	10.1109/ICCD.2008.4751895
+A parallel Steiner tree heuristic for macro cell routing.	Christian Fobel,Gary Gréwal	10.1109/ICCD.2008.4751836
+Acceleration of a 3D target tracking algorithm using an application specific instruction set processor.	Sebastien Fontaine,Sylvain Goyette,J. M. Pierre Langlois,Guy Bois	10.1109/ICCD.2008.4751870
+A novel, highly SEU tolerant digital circuit design approach.	Rajesh Garg,Sunil P. Khatri	10.1109/ICCD.2008.4751834
+Seamless sequence of software defined radio designs through hardware reconfigurability of FPGAs.	Amir Hossein Gholamipour,Elaheh Bozorgzadeh,Lichun Bao	10.1109/ICCD.2008.4751871
+Low-cost open-page prefetch scheduling in chip multiprocessors.	Marius Grannæs,Magnus Jahre,Lasse Natvig	10.1109/ICCD.2008.4751890
+Quantitative global dataflow analysis on virtual instruction set simulators for hardware/software co-design.	Carsten Gremzow	10.1109/ICCD.2008.4751888
+Hierarchical simulation-based verification of Anton, a special-purpose parallel machine.	J. P. Grossman,John K. Salmon,C. Richard Ho,Doug Ierardi,Brian Towles,Brannon Batson,Jochen Spengler,Stanley C. Wang,Rolf Mueller,Michael Theobald,Cliff Young,Joseph Gagliardo,Martin M. Deneroff,Ron O. Dror,David E. Shaw	10.1109/ICCD.2008.4751883
+Optimizing data sharing and address translation for the Cell BE Heterogeneous Chip Multiprocessor.	Michael Gschwind	10.1109/ICCD.2008.4751904
+Design and evaluation of an optical CPU-DRAM interconnect.	Amit Hadke,Tony Benavides,Rajeevan Amirtharajah,Matthew K. Farrens,Venkatesh Akella	10.1109/ICCD.2008.4751906
+Digital filter synthesis considering multiple adder graphs for a coefficient.	Jeong-Ho Han,In-Cheol Park	10.1109/ICCD.2008.4751879
+Accelerating search and recognition with a TCAM functional unit.	Atif Hashmi,Mikko H. Lipasti	10.1109/ICCD.2008.4751844
+Improved combined binary/decimal fixed-point multipliers.	Brian J. Hickmann,Michael J. Schulte,Mark A. Erle	10.1109/ICCD.2008.4751845
+Acquiring an exhaustive, continuous and real-time trace from SoCs.	Christian Hochberger,Alexander Weiss	10.1109/ICCD.2008.4751885
+ZZ-HVS: Zig-zag horizontal and vertical sleep transistor sharing to reduce leakage power in on-chip SRAM peripheral circuits.	Houman Homayoun,Mohammad A. Makhzan,Alexander V. Veidenbaum	10.1109/ICCD.2008.4751937
+Adaptive techniques for leakage power management in L2 cache peripheral circuits.	Houman Homayoun,Alexander V. Veidenbaum,Jean-Luc Gaudiot	10.1109/ICCD.2008.4751917
+Custom rotary clock router.	Vinayak Honkote,Baris Taskin	10.1109/ICCD.2008.4751849
+A dynamic accuracy-refinement approach to timing-driven technology mapping.	Sz-Cheng Huang,Jie-Hong Roland Jiang	10.1109/ICCD.2008.4751913
+Energy-delay tradeoffs in 32-bit static shifter designs.	Steven Huntzicker,Michael Dayringer,Justin Soprano,Anthony Weerasinghe,David Money Harris,Dinesh Patil	10.1109/ICCD.2008.4751926
+Safe clocking register assignment in datapath synthesis.	Keisuke Inoue,Mineo Kaneko,Tsuyoshi Iwagaki	10.1109/ICCD.2008.4751850
+Energy-aware opcode design.	Balaji V. Iyer,Jason A. Poovey,Thomas M. Conte	10.1109/ICCD.2008.4751918
+Power-state-aware buffered tree construction.	Iris Hui-Ru Jiang,Ming-Hua Wu	10.1109/ICCD.2008.4751835
+Configurable rectilinear Steiner tree construction for SoC and nano technologies.	Iris Hui-Ru Jiang,Yen-Ting Yu	10.1109/ICCD.2008.4751837
+Frequency and voltage planning for multi-core processors under thermal constraints.	Michael Kadin,Sherief Reda	10.1109/ICCD.2008.4751902
+Mathematical analysis of buffer sizing for Network-on-Chips under multimedia traffic.	Ahmad Khonsari,Mohammad R. Aghajani,Arash Tavakkol,Mohammad Sadegh Talebi	10.1109/ICCD.2008.4751854
+Global bus route optimization with application to microarchitectural design exploration.	Dae Hyun Kim 0004,Sung Kyu Lim	10.1109/ICCD.2008.4751931
+SynECO: Incremental technology mapping with constrained placement and fast detail routing for predictable timing improvement.	Anuj Kumar,Tai-Hsuan Wu,Azadeh Davoodi	10.1109/ICCD.2008.4751915
+Variation-aware thermal characterization and management of multi-core architectures.	Eren Kursun,Chen-Yong Cher	10.1109/ICCD.2008.4751874
+Understanding performance, power and energy behavior in asymmetric multiprocessors.	Nagesh B. Lakshminarayana,Hyesoon Kim	10.1109/ICCD.2008.4751903
+In-field NoC-based SoC testing with distributed test vector storage.	Jason D. Lee,Rabi N. Mahapatra	10.1109/ICCD.2008.4751863
+Exploiting producer patterns and L2 cache for timely dependence-based prefetching.	Chungsoo Lim,Gregory T. Byrd	10.1109/ICCD.2008.4751935
+Is there always performance overhead for regular fabric?	Yi-Wei Lin,Malgorzata Marek-Sadowska,Wojciech Maly,Andrzej Pfitzner,Dominik Kasprowicz	10.1109/ICCD.2008.4751916
+Optimization of Propagate Partial SAD and SAD tree motion estimation hardwired engine for H.264.	Zhenyu Liu 0001,Satoshi Goto,Takeshi Ikenaga	10.1109/ICCD.2008.4751881
+Temperature-aware clock tree synthesis considering spatiotemporal hot spot correlations.	Chunchen Liu,Junjie Su,Yiyu Shi 0001	10.1109/ICCD.2008.4751848
+Synthesis of parallel prefix adders considering switching activities.	Taeko Matsunaga,Shinji Kimura,Yusuke Matsunaga	10.1109/ICCD.2008.4751892
+Exploiting spare resources of in-order SMT processors executing hard real-time threads.	Jörg Mische,Sascha Uhrig,Florian Kluge,Theo Ungerer	10.1109/ICCD.2008.4751887
+Systematic design of high-radix Montgomery multipliers for RSA processors.	Atsushi Miyamoto,Naofumi Homma,Takafumi Aoki,Akashi Satoh	10.1109/ICCD.2008.4751894
+ECO-Map: Technology remapping for post-mask ECO using simulated annealing.	Nilesh A. Modi,Malgorzata Marek-Sadowska	10.1109/ICCD.2008.4751930
+Adaptive SRAM memory for low power and high yield.	Baker Mohammad,Stephen Bijansky,Adnan Aziz,Jacob A. Abraham	10.1109/ICCD.2008.4751858
+Probabilistic error propagation in logic circuits using the Boolean difference calculus.	Nasir Mohyuddin,Ehsan Pakbaznia,Massoud Pedram	10.1109/ICCD.2008.4751833
+Modeling and reduction of complex timing constraints in high performance digital circuits.	Veerapaneni Nagbhushan,C. Y. Roger Chen	10.1109/ICCD.2008.4751914
+Simulation points for SPEC CPU 2006.	Arun A. Nair,Lizy K. John	10.1109/ICCD.2008.4751891
+Highly reliable A/D converter using analog voting.	Ali Namazi,Syed Askari,Mehrdad Nourani	10.1109/ICCD.2008.4751882
+A simple latency tolerant processor.	Satyanarayana Nekkalapu,Haitham Akkary,Komal Jothi,Renjith Retnamma,Xiaoyu Song	10.1109/ICCD.2008.4751889
+Bridging the gap between nanomagnetic devices and circuits.	Michael T. Niemier,Xiaobo Sharon Hu,Aaron Dingler,M. Tanvir Alam,Gary H. Bernstein,Wolfgang Porod	10.1109/ICCD.2008.4751908
+Techniques for increasing effective data bandwidth.	Christopher Nitta,Matthew K. Farrens	10.1109/ICCD.2008.4751909
+Efficiency of thread-level speculation in SMT and CMP architectures - performance, power and thermal perspective.	Venkatesan Packirisamy,Yangchun Luo,Wei-Lung Hung,Antonia Zhai,Pen-Chung Yew,Tin-Fook Ngai	10.1109/ICCD.2008.4751875
+Fault tolerant Four-State Logic by using Self-Healing Cells.	Thomas Panhofer,Werner Friesenbichler,Martin Delvai	10.1109/ICCD.2008.4751832
+A random and pseudo-gradient approach for analog circuit sizing with non-uniformly discretized parameters.	Michael Pehl,Tobias Massier,Helmut E. Graeb,Ulf Schlichtmann	10.1109/ICCD.2008.4751860
+CrashTest: A fast high-fidelity FPGA-based resiliency analysis framework.	Andrea Pellegrini,Kypros Constantinides,Dan Zhang 0004,Shobana Sudhakar,Valeria Bertacco,Todd M. Austin	10.1109/ICCD.2008.4751886
+Energy-precision tradeoffs in mobile Graphics Processing Units.	Jeff Pool,Anselmo Lastra,Montek Singh	10.1109/ICCD.2008.4751841
+Conversion driven design of binary to mixed radix circuits.	Ashur Rafiev,Julian P. Murphy,Danil Sokolov,Alexandre Yakovlev	10.1109/ICCD.2008.4751893
+Comparative analysis of NBTI effects on low power and high performance flip-flops.	Krishnan Ramakrishnan,Xiaoxia Wu,Narayanan Vijaykrishnan,Yuan Xie 0001	10.1109/ICCD.2008.4751862
+Near-optimal oblivious routing on three-dimensional mesh networks.	Rohit Sunkam Ramanujam,Bill Lin 0001	10.1109/ICCD.2008.4751852
+The 2D DBM: An attractive alternative to the simple 2D mesh topology for on-chip networks.	Reza Sabbaghi-Nadooshan,Mehdi Modarressi,Hamid Sarbazi-Azad	10.1109/ICCD.2008.4751905
+A resource efficient content inspection system for next generation Smart NICs.	Karthik Sabhanatarajan,Ann Gordon-Ross	10.1109/ICCD.2008.4751855
+A floating-point fused dot-product unit.	Hani H. Saleh,Earl E. Swartzlander Jr.	10.1109/ICCD.2008.4751896
+Architecture implementation of an improved decimal CORDIC method.	José Luis Sánchez,Higinio Mora Mora,Jerónimo Mora Pascual,Antonio Jimeno	10.1109/ICCD.2008.4751846
+Leveraging speculative architectures for run-time program validation.	Juan Carlos Martínez Santos,Yunsi Fei	10.1109/ICCD.2008.4751907
+A fine-grain dynamic sleep control scheme in MIPS R3000.	Naomi Seki,Lei Zhao,Jo Kei,Daisuke Ikebuchi,Yu Kojima,Yohei Hasegawa,Hideharu Amano,Toshihiro Kashima,Seidai Takeda,Toshiaki Shirai,Mitsutaka Nakata,Kimiyoshi Usami,Tetsuya Sunata,Jun Kanai,Mitaro Namiki,Masaaki Kondo,Hiroshi Nakamura	10.1109/ICCD.2008.4751924
+Gate planning during placement for gated clock network.	Weixiang Shen,Yici Cai,Xianlong Hong,Jiang Hu	10.1109/ICCD.2008.4751851
+Area and power-delay efficient state retention pulse-triggered flip-flops with scan and reset capabilities.	Kaijian Shi	10.1109/ICCD.2008.4751857
+Removing hazards in multi-level logic optimization for generalized fundamental-mode asynchronous circuits.	Feng Shi	10.1109/ICCD.2008.4751928
+RMA: A Read Miss-Based Spin-Down Algorithm using an NV cache.	Hyotaek Shim,Jaegeuk Kim,Dawoon Jung 0001,Jin-Soo Kim 0001,Seungryoul Maeng	10.1109/ICCD.2008.4751910
+Modeling and analysis of non-rectangular transistors caused by lithographic distortions.	Aswin Sreedhar,Sandip Kundu	10.1109/ICCD.2008.4751899
+Suitable cache organizations for a novel biomedical implant processor.	Christos Strydis	10.1109/ICCD.2008.4751921
+A family of scalable FFT architectures and an implementation of 1024-point radix-2 FFT for real-time communications.	Adnan Suleiman,Hani H. Saleh,Adel Hussein,David Akopian	10.1109/ICCD.2008.4751880
+A study of reliability issues in clock distribution networks.	Aida Todri,Malgorzata Marek-Sadowska	10.1109/ICCD.2008.4751847
+Router and cell library co-development for improving redundant via insertion at pins.	Wei-Chiu Tseng,Yu-Hsing Chen,Rung-Bin Lin	10.1109/ICCD.2008.4751929
+Reversi: Post-silicon validation system for modern microprocessors.	Ilya Wagner,Valeria Bertacco	10.1109/ICCD.2008.4751878
+Making register file resistant to power analysis attacks.	Shuo Wang,Fan Zhang 0010,Jianwei Dai,Lei Wang 0003,Zhijie Jerry Shi	10.1109/ICCD.2008.4751919
+Timing analysis considering IR drop waveforms in power gating designs.	Shih-Hung Weng,Yu-Min Kuo,Shih-Chieh Chang,Malgorzata Marek-Sadowska	10.1109/ICCD.2008.4751912
+Test-access mechanism optimization for core-based three-dimensional SOCs.	Xiaoxia Wu,Yibo Chen,Krishnendu Chakrabarty,Yuan Xie 0001	10.1109/ICCD.2008.4751864
+Power-aware soft error hardening via selective voltage scaling.	Kai-Chiang Wu,Diana Marculescu	10.1109/ICCD.2008.4751877
+A high-performance parallel CAVLC encoder on a fine-grained many-core system.	Zhibin Xiao,Bevan M. Baas	10.1109/ICCD.2008.4751869
+Run-time Active Leakage Reduction by power gating and reverse body biasing: An eNERGY vIEW.	Hao Xu 0010,Ranga Vemuri,Wen-Ben Jone	10.1109/ICCD.2008.4751925
+Design of application-specific 3D Networks-on-Chip architectures.	Shan Yan,Bill Lin 0001	10.1109/ICCD.2008.4751853
+Quantifying the energy efficiency of coordinated micro-architectural adaptation for multimedia workloads.	Shrirang M. Yardi,Michael S. Hsiao	10.1109/ICCD.2008.4751920
+Prototyping a hybrid main memory using a virtual machine monitor.	Dong Ye 0004,Aravind Pavuluri,Carl A. Waldspurger,Brian Tsang,Bohuslav Rychlik,Steven Woo	10.1109/ICCD.2008.4751873
+Dynamic test scheduling for analog circuits for improved test quality.	Ender Yilmaz,Sule Ozev	10.1109/ICCD.2008.4751866
+Re-examining cache replacement policies.	Jason Zebchuk,Srihari Makineni,Donald Newell	10.1109/ICCD.2008.4751933
+Chip level thermal profile estimation using on-chip temperature sensors.	Yufu Zhang,Ankur Srivastava 0001,Mohamed M. Zahran	10.1109/ICCD.2008.4751897
+Two dimensional highly associative level-two cache design.	Chuanjun Zhang,Bing Xue	10.1109/ICCD.2008.4751934
+On-chip high performance signaling using passive compensation.	Yulei Zhang 0002,Ling Zhang,Akira Tsuchiya,Masanori Hashimoto,Chung-Kuan Cheng	10.1109/ICCD.2008.4751859
+Reliability-aware Dynamic Voltage Scaling for energy-constrained real-time embedded systems.	Baoxian Zhao,Hakan Aydin,Dakai Zhu 0001	10.1109/ICCD.2008.4751927
+Combined interpolation architecture for soft-decision decoding of Reed-Solomon codes.	Jiangli Zhu,Xinmiao Zhang,Zhongfeng Wang	10.1109/ICCD.2008.4751911
+26th International Conference on Computer Design, ICCD 2008, 12-15 October 2008, Lake Tahoe, CA, USA, Proceedings		

@@ -1,0 +1,138 @@
+The Final Barriers to Widespread Use of IDDQ Testing.	John M. Acken	10.1109/TEST.1995.529852
+High-Performance Circuit Testing with Slow-Speed Testers.	Vishwani D. Agrawal,Tapan J. Chakraborty	10.1109/TEST.1995.529854
+Intel 386TM EX Embedded Processor IDDQ Testing.	Hitesh Ahuja,Dean Arriens,Ben Schneller,Vandana Verma,Wendy Whitman	10.1109/TEST.1995.529923
+Finding Defects with Fault Models.	Robert C. Aitken	10.1109/TEST.1995.529877
+A Routing Testing of a VLSI Massively Parallel Machine Based on IEEE 1149.1.	Chouki Aktouf,Chantal Robach,A. Marinescu	10.1109/TEST.1995.529909
+A Designer&apos;s View of Chip Test.	Thomas L. Anderson	10.1109/TEST.1995.529844
+On the Use of Neural Networks to Guide Software Testing Activities.	Charles Anderson 0001,Anneliese von Mayrhauser,Richard T. Mraz	10.1109/TEST.1995.529902
+Stuck-at Faults, PPMs Rejects or? What doe the SIA Roadmaps Say?	Keith Baker	10.1109/TEST.1995.529851
+Plug &amp; Play IDDQ Monitoring with QTAG.	Keith Baker,T. F. Waayers,F. G. M. Bouwman,M. J. W. Verstraelen	10.1109/TEST.1995.529905
+Testing a Switching Memory in a Telcommunication System.	Stefano Barbagallo,Fulvio Corno,Paolo Prinetto,Matteo Sonza Reorda	10.1109/TEST.1995.529941
+Test SPC: A Process to Improve Test System Integrity.	Willie Benitez,Deo Marrero,Douglas J. Mirizzi,Dale Ohmart	10.1109/TEST.1995.529837
+Increasing Test Throughput Through the Implementation of Parallel Test on a 16-Bit Multimedia Audio CODEC.	Harold Bogard,Celeste Repasky	10.1109/TEST.1995.529862
+Report on a Pilot Project Successfully Implementing a Design-to-Test Methodology.	Scot Bullock	10.1109/TEST.1995.529908
+Improving DSP-Based Measurements with Spectral Interpolation.	Mark Burns	10.1109/TEST.1995.529860
+Deep Submicron: Is Test Up to the Challenge?	Kenneth M. Butler	10.1109/TEST.1995.529932
+Upset-Tolerant CMOS SRAM Using Current Monitoring: Prototype and Test Experiments.	Th. Calin,F. L. Vargas,Michael Nicolaidis	10.1109/TEST.1995.529816
+The Use of Linear Models for the Efficient and Accurate Testing of A/D Converters.	Peter D. Capofreddi,Bruce A. Wooley	10.1109/TEST.1995.529817
+Required - A Portable Test Standard.	Lawrence D. Carpenter	10.1109/TEST.1995.529927
+Optimal Space Compaction of Test Responses.	Krishnendu Chakrabarty,Brian T. Murray,John P. Hayes	10.1109/TEST.1995.529915
+A Low-Cost High-Performance CMOS Timing Vernier for ATE.	Jim Chapman,Jeff Currin,Steve Payne	10.1109/TEST.1995.529873
+Design and Testing of the On-Ramps to the Information Superhighway.	Philippe Chauveau	
+Integration of IEEE Std. 1149.1 and Mixed-Signal Test Architectures.	David J. Cheek,Ramaswami Dandapani	10.1109/TEST.1995.529885
+A Methodology to Design Efficient BIST Test Pattern Generators.	Chih-Ang Chen,Sandeep K. Gupta	10.1109/TEST.1995.529913
+Timing-Driven Test Point Insertion for Full-Scan and Partial-Scan BIST.	Kwang-Ting Cheng,Chih-Jen Lin	10.1109/TEST.1995.529878
+Synthesized Transparent BIST for Detecting Scrambled Pattern-Sensitive Faults in RAMs.	Bruce F. Cockburn,Y.-F. Nicole Sat	10.1109/TEST.1995.529814
+Evaluating Waveform-Generation Capabilities of VLSI Test Systems.	Michael G. Davis	10.1109/TEST.1995.529874
+Failure Analysis for Full-Scan Circuits.	Kaushik De,Arun Gunda	10.1109/TEST.1995.529892
+MCM Quality and Cost Analysis Using Economics Models.	Chryssa Dislis,A. F. Al-Ani,Ian P. Jalowiecki	10.1109/TEST.1995.529869
+Cost-Effective System-Level Test Strategies.	Des Farren,Anthony P. Ambler	10.1109/TEST.1995.529912
+Finding I/O Faults on In-Circuit ICs Using Parasitic Transistor Tests.	Jack Ferguson	10.1109/TEST.1995.529935
+Software Test Data Generation Using the Chaining Approach.	Roger Ferguson,Bogdan Korel	10.1109/TEST.1995.529900
+A Comparison of Test Requirements, Methods, and Results for Seven MCM Products.	Andrew Flint	10.1109/TEST.1995.529834
+Using the Right Tools and Techniques leads to Successful Testing of MCMs.	Andrew Flint	10.1109/TEST.1995.529896
+An Experimental Chip to Evaluate Test Techniques: Chip and Experiment Design.	Piero Franco,William D. Farwell,Robert L. Stokes,Edward J. McCluskey	10.1109/TEST.1995.529894
+Development of an ATE Test Station for Mixed CATV/TELCO Products.	Michael T. Freeman	10.1109/TEST.1995.529943
+Supplying Known-Good Die for MCM Applications Using Low-Cost Embedded Testing.	A. Frisch,Mitch Aigner,T. Almy,Hans J. Greub,M. Hazra,S. Mohr,Nicholas J. Naclerio,W. Russell,M. Stebniskey	10.1109/TEST.1995.529857
+Classification and Test Generation for Path-Delay Faults Using Single Stuck-Fault Tests.	Marwan A. Gharaybeh,Michael L. Bushnell,Vishwani D. Agrawal	10.1109/TEST.1995.529827
+A Single Board Test System: Changing the Test Paradigm.	Garry C. Gillette	10.1109/TEST.1995.529920
+An Effective BIST Scheme for Booth Multipliers.	Dimitris Gizopoulos,Antonis M. Paschalis,Yervant Zorian	10.1109/TEST.1995.529914
+Towards 100% Testable FIR Digital Filters.	Laurence Goodby,Alex Orailoglu	10.1109/TEST.1995.529865
+An Efficient and Economic Partitioning Approach for Testability.	Xinli Gu,Krzysztof Kuchcinski,Zebo Peng	10.1109/TEST.1995.529866
+High-Level Test Generation Using Symbolic Scheduling.	Mark C. Hansen,John P. Hayes	10.1109/TEST.1995.529887
+Structured Design-for-Debug - The SuperSPARCTM II Methodology and Implementation.	Hong Hao,Rick Avra	10.1109/TEST.1995.529831
+The Case for Contract Manufacturing.	Randall Hassig	10.1109/TEST.1995.529848
+Arbitrary-Precision Signal Generation for Bandlimited Mixed-Signal Testing.	Xavier Haurie,Gordon W. Roberts	10.1109/TEST.1995.529820
+Test Generation and Design for Test for a Large Multiprocessing DSP.	Graham Hetherington,Greg Sutton,Kenneth M. Butler,Theo J. Powell	10.1109/TEST.1995.529828
+Improvement of the Defect Level of Micro-computer LSI Testing.	Junichi Hirase	10.1109/TEST.1995.529863
+Study on the Costs of On-site VLSI Testing.	Junichi Hirase	10.1109/TEST.1995.529870
+Optimizing Test Strategies for SONET/SDH/ATM Network Element Manufacturing.	Mark Hoogerbrugge	10.1109/TEST.1995.529944
+THD and SNR Tests Using the Simplified Volterra Series with Adaptive Algorithms.	Luke S. L. Hsieh,Andrew Grochowski	10.1109/TEST.1995.529861
+Linking Diagnostic Software to Hardware Self Test in Telecom Systems.	Harry Hulvershorn,Paul Soong,Saman Adham	10.1109/TEST.1995.529946
+What&apos;s So Different about Deep-Submicron Test?	Craig Hunter	10.1109/TEST.1995.529933
+User Application of Statistical Process Monitor Techniques to ASIC Critical Parameters.	Alex M. Ijaz,Eugene R. Hnatek	10.1109/TEST.1995.529838
+Telecom Test: New Challenges, Old Roots.	James Jamieson	10.1109/TEST.1995.529938
+End-to-End Test Strategy for Wireless Systems.	Madhuri Jarwala,Duy Le,Michael S. Heutmaker	10.1109/TEST.1995.529940
+A General Purpose ATE Based IDDQ Measurement Circuit.	Gerald H. Johnson,Jan B. Wilstrup	10.1109/TEST.1995.529822
+Hierarchical Functional-Fault Simulation for High-Level Synthesis.	Mark Kassab,Janusz Rajski,Jerzy Tyszer	10.1109/TEST.1995.529888
+A Secure Data Transmission Scheme for 1149.1 Backplane Test Bus.	Wuudiann Ke,Duy Le,Najmi T. Jarwala	10.1109/TEST.1995.529910
+Exact Aliasing Computation for RAM BIST.	O. Kebichi,Michael Nicolaidis,Vyacheslav N. Yarmolik	10.1109/TEST.1995.529813
+Electrical Troubleshooting, Diagnostics, and Repair of Multichip Modules.	David C. Keezer	10.1109/TEST.1995.529926
+Inductive Contamination Analysis (ICA) with SRAM Application.	Jitendra Khare,Wojciech Maly	10.1109/TEST.1995.529883
+A Gate-Array-Based 666MHz VLSI Test System.	Shuji Kikuchi,Yoshihiko Hayashi,Takashi Suga,Jun Saitou,Masahiko Kaneko,Takashi Matsumoto,Ryozou Yoshino	10.1109/TEST.1995.529872
+A Novel Low-Cost Approach to MCM Interconnect Test.	Bruce C. Kim,Abhijit Chatterjee,Madhavan Swaminathan,David E. Schimmel	10.1109/TEST.1995.529832
+Integrated Test Solutions and Test Economics for MCMs.	Kevin T. Kornegay,Kaushik Roy 0001	10.1109/TEST.1995.529833
+Yiel Learning via Functional Test Data.	Young-Jun Kwon,D. M. H. Walker	10.1109/TEST.1995.529891
+Is High-Level Test Synthesis Just Design for Test?	Christian Landrault,Marie-Lise Flottes,Bruno Rouzeyre	10.1109/TEST.1995.529846
+Contract Manufacturing: How Much Can They Do?	Tom Langford	10.1109/TEST.1995.529849
+Synthesis and Retiming for the Pseudo-Exhaustive BIST of Synchronous Sequential Circuits.	Samir Lejmi,Bozena Kaminska,Bechir Ayari	10.1109/TEST.1995.529898
+A Tester for DesignTM (TFD).	Gary J. Lesmeister	10.1109/TEST.1995.529921
+Testability, Debuggability, and Manufacturability Features of the UltraSPARCTM-I Microprocessor.	Marc E. Levitt,Srinivas Nori,Sridhar Narayanan,G. P. Grewal,Lynn Youngs,Anjali Jones,Greg Billus,Siva Paramanandam	10.1109/TEST.1995.529829
+An Experimental Chip to Evaluate Test Techniques: Experiment Results.	Siyad C. Ma,Piero Franco,Edward J. McCluskey	10.1109/TEST.1995.529895
+Functional Tests for Scan Chain Latches.	Samy Makar,Edward J. McCluskey	10.1109/TEST.1995.529889
+Transient Power Supply Current Testing of Digital CMOS Circuits.	Rafic Z. Makki,Shyang-Tai Su,H. Troy Nagle	10.1109/TEST.1995.529922
+Production IDDQ Testing with Passive Current Compensation.	Gregory A. Maston	10.1109/TEST.1995.529876
+STIL from the Users Perspective.	Gregory A. Maston	10.1109/TEST.1995.529928
+DFT &amp; ATPG: Together Again.	Ben Mathew,Daniel G. Saab	10.1109/TEST.1995.529841
+Visualizing Quality.	Solomon Max	10.1109/TEST.1995.529821
+The Many Faces of Test Synthesis.	Peter C. Maxwell	10.1109/TEST.1995.529847
+A Comparative Analysis of Input Stimuli for Testing Mixed-Signal LSIs Based on Curent Testing.	Yukiya Miura	10.1109/TEST.1995.529819
+Dynamic Program Complexity and Software Testing.	John C. Munson,Gregory A. Hall	10.1109/TEST.1995.529903
+A New Hardware Fault Insertion Scheme for System Diagnostics Verification.	Benoit Nadeau-Dostie,Harry Hulvershorn,Saman Adham	10.1109/TEST.1995.529947
+Performance Driven BIST Technique for Random Logic.	Charles Njinda,Neeraj Kaul	10.1109/TEST.1995.529880
+It&apos;s DFT, Boundary Scan and Life Cycle Benefits.	Gary O&apos;Donnell	10.1109/TEST.1995.529929
+Test Synthesis in the Behavioral Domain.	Christos A. Papachristou,Joan Carletta	10.1109/TEST.1995.529899
+On Combining Design for Testability Techniques.	Prashant S. Parikh,Miron Abramovici	10.1109/TEST.1995.529868
+A New Method for Partial Scan Design Based on Propagation and Justification Requirements of Faults.	Insung Park,Dong Sam Ha,Gyoochan Sim	10.1109/TEST.1995.529867
+The ITC Lecture Series: An Experiment.	Kenneth P. Parker,David Greene	10.1109/TEST.1995.529934
+Avoiding Unknown States When Scanning Mutually Exclusive Latches.	Stephen Pateras,Martin S. Schmookler	10.1109/TEST.1995.529855
+Non-Robust versus Robust.	Alicja Pierzynska,Slawomir Pilarski	10.1109/TEST.1995.529825
+Low-Complexity Fault Simulation under the Multiplie Observation Time Testing Approach.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/TEST.1995.529842
+Parallel Delay Fault Coverage and Test Quality Evaluation.	Ira Pramanick,Ankan K. Pramanick	10.1109/TEST.1995.529824
+Implementing 1149.1 in the PowerPCTM RISC Microprocessor Family.	Carol Pyron,W. C. Bruce	10.1109/TEST.1995.529916
+IC Performance Prediction System.	V. Ramakrishnan,D. M. H. Walker	10.1109/TEST.1995.529858
+Algorithmic Extraction of BSDL from 1149.1-compliant Sample ICs.	Douglas W. Raymond,D. Eugene Wedge,Philip J. Stringer,Harold W. Ng,Suzanne T. Jennings,Craig T. Pynn,Winsor Soule Jr.	10.1109/TEST.1995.529884
+Improving Board and System Test: A Proposal to Integrate Boundary Scan and IDDQ.	Douglas Reed,Jason Doege,Antonio Rubio 0001	10.1109/TEST.1995.529886
+Solving Known Good Die (and Substrate) Test Issues.	Alan W. Righter	10.1109/TEST.1995.529925
+Re-examining the Needs of the Mixed-Signal Test.	Gordon W. Roberts	10.1109/TEST.1995.529850
+Advantages of High-Level Test Synthesis over Design for Test.	Rabindra K. Roy	10.1109/TEST.1995.529845
+Test Synthesis: From Wishful Thinking to Reality.	Kamalesh N. Ruparel	10.1109/TEST.1995.529904
+IDDQ and Voltage Testable CMOS Flip-flop Configurations.	Manoj Sachdev	10.1109/TEST.1995.529881
+Industrial Relevance of Analog IFA: A Fact or a Fiction.	Manoj Sachdev,Bert Atzema	10.1109/TEST.1995.529818
+Coping with Re-usability Using Sequential ATPG: A Practical Case Study.	Jos van Sas,Erik Huyskens,Hans Naert,Fred Schell,Ad J. van de Goor	10.1109/TEST.1995.529840
+Distributed Probabilistic Diagnosis of MCMs on Large Area.	Koppolu Sasidhar,Abhijit Chatterjee,Vinod K. Agarwal,Joseph L. A. Hughes	10.1109/TEST.1995.529835
+IntegraTEST: The New Wave in Mixed-Signal Test.	Birger Schneider,Soeren Soegaard	10.1109/TEST.1995.529906
+Challenging the &quot;High Performance - High Cost&quot; Paradigm in Test.	Ulrich Schoettmer,Toshiyuki Minami	10.1109/TEST.1995.529919
+Test Point Insertion for an Area Efficient BIST.	Claus Schotten,Heinrich Meyr	10.1109/TEST.1995.529879
+End-to-End Performance Measurement for Interactive Multimedia Television.	Martin A. Schulman	10.1109/TEST.1995.529945
+A Hierarchical, Desgin-for-Testability (DFT) Methodology for the Rapid Prototyping of Application-Specific Signal Processors (RASSP).	Richard M. Sedmak,John Evans	10.1109/TEST.1995.529856
+A Detailed Analysis of GOS Defects in MOS Transistors: Testing Implications at Circuit Level.	Jaume Segura 0001,Carol de Benito,Antonio Rubio 0001,Charles F. Hawkins	10.1109/TEST.1995.529882
+A Test Data Collection System for Uniform Data Analysis.	Susan D. Shaye	10.1109/TEST.1995.529839
+Cutting the Cost of Test; the Value-added Way.	William R. Simpson	10.1109/TEST.1995.529930
+IDDQ Testing of CMOS Opens: An Experimental Study.	Adit D. Singh,Haroon Rasheed,Walter W. Weber	10.1109/TEST.1995.529875
+Test Vector Generation for Parametric Path Delay Faults.	Mukund Sivaraman,Andrzej J. Strojwas	10.1109/TEST.1995.529826
+In-System Testing of Cache Memories.	Janusz Sosnowski	10.1109/TEST.1995.529864
+The P1149.4 Mixed Signal Test Bus: Costs and Benefits.	Stephen K. Sunter	10.1109/TEST.1995.529871
+Automated 1.5 GHz Sonet Characterization.	Rob Tepper,Jim Tarpo	10.1109/TEST.1995.529942
+Deterministic Self-Test of a High-Speed Embedded Memory and Logic Processor Subsystem.	Luigi Ternullo Jr.,R. Dean Adams,John Connor,Garret S. Koch	10.1109/TEST.1995.529815
+Intel and the Myths of Test.	Kenneth M. Thompson	
+Synthesis of Mapping Logic for Generating Transformed Pseudo-Random Patterns for BIST.	Nur A. Touba,Edward J. McCluskey	10.1109/TEST.1995.529897
+From Hardware to Software Testability.	Yves Le Traon,Chantal Robach	10.1109/TEST.1995.529901
+Leave the Wires to Last - Funcitonal Evaluation of the IEEE Std 1149.5 Module Test and Maintenance Bus.	Rodham E. Tulloss	10.1109/TEST.1995.529911
+Capacitive Leadframe Testing.	Ted T. Turner	10.1109/TEST.1995.529937
+Matching Models to Real Life for Defect Reduction.	James A. Tuttle,Thomas W. Collins,Mary Stone Tuttle	10.1109/TEST.1995.529836
+An Approach for Designing Total-Dose Tolerant MCMs Based on Current Monitoring.	Fabian Vargas 0001,Michael Nicolaidis,Yervant Zorian	10.1109/TEST.1995.529859
+Compiled Code, Dynamic Worst Case Timing Simulation Tracking Multiple Causality.	Kamal K. Varma	10.1109/TEST.1995.529918
+Optimizing Product Profitability - The Test Way.	Prab Varma	10.1109/TEST.1995.529931
+A Bulti-in Self-Test Strategy for Wireless Communication Systems.	Benoît R. Veillette,Gordon W. Roberts	10.1109/TEST.1995.529939
+On the Effect of ISSQ Testing in Reducing Early Failure Rate.	Kenneth M. Wallquist	10.1109/TEST.1995.529924
+On Efficiently and Reliably Achieving Low Defective Part Levels.	Li-C. Wang,M. Ray Mercer,Thomas W. Williams	10.1109/TEST.1995.529890
+Test Quality: Required Stuck-at Fault Coverage with the Use of IDDQ Testing.	Ron Wantuck	10.1109/TEST.1995.529853
+A Fault Model and a Test Method for Analog Fuzzy Logic Circuits.	Stefan Weiner	10.1109/TEST.1995.529843
+Improved Boundary Scan Design.	Lee Whetsel	10.1109/TEST.1995.529917
+A Discussion of Methods for Measuring Low-Amplitude Jitter.	Michael K. Williams	10.1109/TEST.1995.529893
+Two New Techniques for Identifying Opens on Printed Circuit Boards: Analog Junction Test &amp; Radio Frequency Induction Test.	Joe Wrinn	10.1109/TEST.1995.529936
+Dynamic Test Emulation for EDA-Based Mixed-Signal Test Development Automation.	Jean Qincui Xia,Tom Austin,Nash Khouzam	10.1109/TEST.1995.529907
+Overview of PowerPCTM 620 Multiprocessor Verification Strategy.	Jen-Tien Yen,Marie Sullivan,Carlos Montemayor,Pete Wilson,Richard Evers	10.1109/TEST.1995.529830
+SiPROBE - A New Technology for Wafer Probing.	Karl F. Zimmermann	10.1109/TEST.1995.529823
+Proceedings IEEE International Test Conference 1995, Driving Down the Cost of Test, Washington, DC, USA, October 21-25, 1995		

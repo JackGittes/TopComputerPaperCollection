@@ -1,0 +1,117 @@
+VGTA: Variation Aware Gate Timing Analysis.	Soroush Abbaspour,Hanif Fatemi,Massoud Pedram	10.1109/ICCD.2005.115
+Near-memory Caching for Improved Energy Consumption.	Nevine AbouGhazaleh,Bruce R. Childers,Daniel Mossé,Rami G. Melhem	10.1109/ICCD.2005.79
+Layout-Aware RF Circuit Synthesis Driven by Worst Case Parasitic Corners.	Anuradha Agarwal,Ranga Vemuri	10.1109/ICCD.2005.68
+X-Routing using Two Manhattan Route Instances.	Seraj Ahmad,Nikhil Jayakumar,Vijay Balasubramanian,Edward Hursey,Sunil P. Khatri,Rabi N. Mahapatra	10.1109/ICCD.2005.117
+A Dual-Vt Layout Approach for Statistical Leakage Variability Minimization in Nanometer CMOS.	Maryam Ashouei,Abhijit Chatterjee,Adit D. Singh,Vivek De	10.1109/ICCD.2005.6
+Deployment of Better Than Worst-Case Design: Solutions and Needs.	Todd M. Austin,Valeria Bertacco	10.1109/ICCD.2005.43
+Challenges in the Formal Verification of Complete State-of-the-Art Processors.	Nathaniel Ayewah,Nikhil Kikkeri,Peter-Michael Seidel	10.1109/ICCD.2005.37
+FRAM Memory Technology - Advantages for Low Power, Fast Write, High Endurance Applications.	Rick Bailey,Glen Fox,Jarrod Eliason,Marty Depner,Daesig Kim,Edwin Jabillo,John Groat,John Walbert,Scott R. Summerfelt,K. R. Udayakumar,John Rodriquez,Keith Remack,K. Boku,John Gertas	10.1109/ICCD.2005.60
+Novel Low-Overhead Operand Isolation Techniques for Low-Power Datapath Synthesis.	Nilanjan Banerjee,Arijit Raychowdhury,Swarup Bhunia,Hamid Mahmoodi-Meimand,Kaushik Roy 0001	10.1109/ICCD.2005.80
+Towards the Formal Verification of Lower System Layers in Automotive Systems.	Sven Beyer,Peter Böhm,Michael Gerke 0002,Mark A. Hillebrand,Thomas In der Rieden,Steffen Knapp,Dirk Leinenbach,Wolfgang J. Paul	10.1109/ICCD.2005.110
+Memory Bank Predictors.	Stefan Bieschewski,Joan-Manuel Parcerisa,Antonio González 0001	10.1109/ICCD.2005.73
+Incorporating Ef.cient Assertion Checkers into Hardware Emulation.	Marc Boule,Zeljko Zilic	10.1109/ICCD.2005.66
+Load-Store Queue Management: an Energy-Efficient Design Based on a State-Filtering Mechanism..	Fernando Castro,Daniel Chaver,Luis Piñuel,Manuel Prieto 0001,Francisco Tirado,Michael C. Huang 0001	10.1109/ICCD.2005.70
+State Set Management for SAT-based Unbounded Model Checking.	Kameshwar Chandrasekar,Michael S. Hsiao	10.1109/ICCD.2005.99
+Automatic Synthesis of Composable Sequential Quantum Boolean Circuits.	Li-Kai Chang,Fu-Chiung Cheng	10.1109/ICCD.2005.33
+ChiYun Compact: A Novel Test Compaction Technique for Responses with Unknown Values.	Mango Chia-Tso Chao,Seongmoon Wang,Srimat T. Chakradhar,Kwang-Ting Cheng	10.1109/ICCD.2005.38
+Robust Design of High Fan-In/Out Subthreshold Circuits.	Jinhui Chen,Lawrence T. Clark,Yu Cao	10.1109/ICCD.2005.96
+Surfliner: A Distortionless Electrical Signaling Scheme for Speed of Light On-Chip Communications.	Hongyu Chen,Rui Shi 0003,Chung-Kuan Cheng,David M. Harris	10.1109/ICCD.2005.102
+An Improved Approach for AlternativeWires Identi.cation.	Yung-Chih Chen,Chun-Yao Wang	10.1109/ICCD.2005.22
+Architectural Considerations for Energy Efficiency.	Hoang Q. Dao,Bart R. Zeydel,Vojin G. Oklobdzija	10.1109/ICCD.2005.26
+Variability-Driven Buffer Insertion Considering Correlations.	Azadeh Davoodi,Ankur Srivastava 0001	10.1109/ICCD.2005.114
+A Novel Method of Improving Transition Delay Fault Coverage Using Multiple Scan Enable Signals.	Narendra Devta-Prasanna,Arun Gunda,P. Krishnamurthy,Sudhakar M. Reddy,Irith Pomeranz	10.1109/ICCD.2005.13
+Are Today&apos;s Verification Tools Able to Handle Current Design Challenges?	Rich Faris,Ken Larsen,Harry Foster,Stuart Swan	10.1109/ICCD.2005.28
+Yesterday and Tomorrow: A View on Progress in Computer Design.	Michael J. Flynn	10.1109/ICCD.2005.118
+Efficient Implementation Selection via Time Budgeting Complexity Analysis and Leakage Optimization Case Study.	Soheil Ghiasi	10.1109/ICCD.2005.44
+Fast Minimum and Maximum Selection.	Anatoly I. Grushin	10.1109/ICCD.2005.55
+Reconsidering CEGAR: Learning Good Abstractions without Refinement.	Anubhav Gupta,Edmund M. Clarke	10.1109/ICCD.2005.91
+Dealing with I/O Devices in the Context of Pervasive System Verification.	Mark A. Hillebrand,Thomas In der Rieden,Wolfgang J. Paul	10.1109/ICCD.2005.42
+Enhanced Dual-Transition Probabilistic Power Estimation with Selective Supergate Analysis.	Fei Hu,Vishwani D. Agrawal	10.1109/ICCD.2005.49
+Physical Synthesis of Energy-Efficient Networks-on-Chip Through Topology Exploration and Wire Style Optimizationz.	Yuanfang Hu,Hongyu Chen,Yi Zhu 0002,Andrew A. Chien,Chung-Kuan Cheng	10.1109/ICCD.2005.84
+Mitigating Soft Errors in Highly Associative Cache with CAM-based Tag.	Luong Dinh Hung,Masahiro Goshima,Shuichi Sakai	10.1109/ICCD.2005.76
+Temperature-Aware Voltage Islands Architecting in System-on-Chip Design.	Wei-Lun Hung,Greg M. Link,Yuan Xie 0001,Narayanan Vijaykrishnan,Nagu R. Dhanwada,John Conner	10.1109/ICCD.2005.103
+Correlation between Detailed and Simplified Simulations in Studying Multiprocessor Architecture.	Khaled Z. Ibrahim	10.1109/ICCD.2005.40
+Model Checking C Programs Using F-SOFT.	Franjo Ivancic,Ilya Shlyakhter,Aarti Gupta,Malay K. Ganai,Vineet Kahlon,Chao Wang 0001,Zijiang Yang 0006	10.1109/ICCD.2005.77
+Minimum Energy Near-threshold Network of PLA based Design.	Nikhil Jayakumar,Sunil P. Khatri	10.1109/ICCD.2005.75
+Benefits and Costs of Power-Gating Technique.	Hailin Jiang,Malgorzata Marek-Sadowska,Sani R. Nassif	10.1109/ICCD.2005.34
+Optimizing the Thermal Behavior of Subarrayed Data Caches.	Johnsy K. John,Jie S. Hu,Sotirios G. Ziavras	10.1109/ICCD.2005.81
+Supply Voltage Degradation Aware Analytical Placement.	Andrew B. Kahng,Bao Liu,Qinke Wang	10.1109/ICCD.2005.101
+Counter-Based Cache Replacement Algorithms.	Mazen Kharbutli,Yan Solihin	10.1109/ICCD.2005.41
+A Skewed Repeater Bus Architecture for On-Chip Energy Reduction in Microprocessors.	Muhammad M. Khellah,Maged Ghoneima,James W. Tschanz,Yibin Ye,Nasser A. Kurd,Javed Barkatullah,Srikanth Nimmagadda,Yehea I. Ismail	10.1109/ICCD.2005.14
+Formal Verification of Parametric Multiplicative Division Implementations.	Nikhil Kikkeri,Peter-Michael Seidel	10.1109/ICCD.2005.59
+Temporal Decomposition for Logic Optimization.	Nathan Kitchen,Andreas Kuehlmann	10.1109/ICCD.2005.106
+A Low-Overhead Virtual Rail Technique for SRAM Leakage Power Reduction.	Jente B. Kuang,Hung C. Ngo,Kevin J. Nowka,Jethro C. Law,Rajiv V. Joshi	10.1109/ICCD.2005.11
+Quality Transition Fault Tests Suitable for Small Delay Defects.	Mahilchi Milir Vaseekar Kumar,Spyros Tragoudas	10.1109/ICCD.2005.88
+Broadband Impedance Matching for Inductive Interconnect in VLSI Packages.	Brock J. LaMeres,Sunil P. Khatri	10.1109/ICCD.2005.35
+Hardware Ef.cient LBISTWith Complementary Weights.	Liyang Lai,Janak H. Patel,Thomas Rinderknecht,Wu-Tung Cheng	10.1109/ICCD.2005.63
+Energy and Performance Analysis of Mapping Parallel Multithreaded Tasks for An On-Chip Multi-Processor System.	Bo-Cheng Charles Lai,Patrick Schaumont,Wei Qin,Ingrid Verbauwhede	10.1109/ICCD.2005.47
+Using Scratchpad to Exploit Object Locality in Java.	Carl S. Lebsack,J. Morris Chang	10.1109/ICCD.2005.111
+Analytical Model for Sensor Placement on Microprocessors.	Kyeong-Jae Lee,Kevin Skadron,Wei Huang 0004	10.1109/ICCD.2005.23
+A Waveform Independent Gate Model for Accurate Timing Analysis.	Peng Li 0001,Emrah Acar	10.1109/ICCD.2005.17
+Temperature-Dependent Optimization of Cache Leakage Power Dissipation.	Peng Li 0001,Yangdong Deng,Lawrence T. Pileggi	10.1109/ICCD.2005.104
+A High Performance Sub-Pipelined Architecture for AES.	Hua Li,Jianzhou Li	10.1109/ICCD.2005.10
+Efficient Thermal Simulation for Run-Time Temperature Tracking and Management.	Hang Li,Pu Liu,Zhenyu Qi,Lingling Jin,Wei Wu 0024,Sheldon X.-D. Tan,Jun Yang 0002	10.1109/ICCD.2005.46
+Accurate Diagnosis of Multiple Faults.	Yung-Chieh Lin,Feng Lu 0002,Kwang-Ting Cheng	10.1109/ICCD.2005.18
+A Thermally-Aware Methodology for Design-Specific Optimization of Supply and Threshold Voltages in Nanometer Scale ICs.	Sheng-Chih Lin,Navin Srivastava,Kaustav Banerjee	10.1109/ICCD.2005.16
+Pre-layout Physical Connectivity Prediction with Application in Clustering-Based Placement.	Qinghua Liu,Malgorzata Marek-Sadowska	10.1109/ICCD.2005.86
+Reducing the Energy of Speculative Instruction Schedulers.	Yongxiang Liu,Gokhan Memik,Glenn Reinman	10.1109/ICCD.2005.92
+Fast Hierarchical Process Variability Analysis and Parametric Test Development for Analog/RF Circuits.	Fang Liu 0029,Sule Ozev	10.1109/ICCD.2005.54
+Simulating Commercial Java Throughput Workloads: A Case Study.	Yue Luo,Lizy Kurian John	10.1109/ICCD.2005.97
+SST: Symbolic Subordinate Threading.	Rania H. Mameesh,Manoj Franklin	10.1109/ICCD.2005.98
+Formal Verification and its Impact on the Snooping versus Directory Protocol Debate.	Milo M. K. Martin	10.1109/ICCD.2005.58
+Towards finding path delay fault tests with high test efficiency using ZBDDs.	Maria K. Michael,Kyriakos Christou,Spyros Tragoudas	10.1109/ICCD.2005.109
+Methods for Modeling Resource Contention on Simultaneous Multithreading Processors.	Tipp Moseley,Dirk Grunwald,Joshua L. Kihm,Daniel A. Connors	10.1109/ICCD.2005.74
+LCD Display Energy Reduction by User Monitoring.	Vasily G. Moshnyaga,Eiji Morikawa	10.1109/ICCD.2005.69
+A Dual Dielectric Approach for Performance Aware Gate Tunneling Reduction in Combinational Circuits.	Valmiki Mukherjee,Saraju P. Mohanty,Elias Kougianos	10.1109/ICCD.2005.5
+Temperature-Sensitive Loop Parallelization for Chip Multiprocessors.	Sri Hari Krishna Narayanan,Guilin Chen,Mahmut T. Kandemir,Yuan Xie 0001	10.1109/ICCD.2005.105
+A Soft Error Monitor Using Switching Current Detection.	Patrick Ndai,Amit Agarwal 0001,Qikai Chen,Kaushik Roy 0001	10.1109/ICCD.2005.15
+Energy-Efficient Color Approximation for Digital LCD Interfaces.	Andi Nourrachmat,Sabino Salerno,Enrico Macii,Massimo Poncino	10.1109/ICCD.2005.48
+Statistical Analysis Driven Synthesis of Asynchronous Systems.	Koji Ohashi,Mineo Kaneko	10.1109/ICCD.2005.100
+RECAST: Boosting Tag Line Buffer Coverage in Low-Power High-Level Caches &quot;for Free&quot;.	Won-Ho Park,Andreas Moshovos,Babak Falsafi	10.1109/ICCD.2005.90
+Frame Buffer Energy Optimization by Pixel Prediction.	Kimish Patel,Enrico Macii,Massimo Poncino	10.1109/ICCD.2005.61
+Latency Lags Bandwidth.	David A. Patterson 0001	10.1109/ICCD.2005.67
+Fault Tolerant Asynchronous Adder through Dynamic Self-reconfiguration.	Song Peng,Rajit Manohar	10.1109/ICCD.2005.56
+File System Interfaces for Embedded Software Development.	Bhanu Pisupati,Geoffrey Brown	10.1109/ICCD.2005.57
+Attacking Control Overhead to Improve Synthesised Asynchronous Circuit Performance.	Luis A. Plana,Sam Taylor,Doug A. Edwards	10.1109/ICCD.2005.31
+Restrictive Compression Techniques to Increase Level 1 Cache Capacity.	Prateek Pujara,Aneesh Aggarwal	10.1109/ICCD.2005.94
+Implementing Caches in a 3D Technology for High Performance Processors.	Kiran Puttaswamy,Gabriel H. Loh	10.1109/ICCD.2005.65
+Case Study of ATPG-based Bounded Model Checking: Verifying USB2.0 IP Core.	Qiang Qiang,Chia-Lun Chang,Daniel G. Saab,Jacob A. Abraham	10.1109/ICCD.2005.36
+Asynchronous IC Interconnect Network Design and Implementation Using a Standard ASIC Flow.	Bradley R. Quinton,Mark R. Greenstreet,Steven J. E. Wilton	10.1109/ICCD.2005.30
+A New Pointer-based Instruction Queue Design and Its Power-Performance Evaluation.	Marco Antonio Ramírez,Adrián Cristal,Mateo Valero,Alexander V. Veidenbaum,Luis Villa	10.1109/ICCD.2005.12
+Architectural-Level Fault Tolerant Computation in Nanoelectronic Processors.	Wenjing Rao,Alex Orailoglu,Ramesh Karri	10.1109/ICCD.2005.27
+A Feasibility Study of Subthreshold SRAM Across Technology Generations.	Arijit Raychowdhury,Saibal Mukhopadhyay,Kaushik Roy 0001	10.1109/ICCD.2005.7
+Utilizing Horizontal and Vertical Parallelism with a No-Instruction-Set Compiler for Custom Datapaths.	Mehrdad Reshadi,Bita Gorjiara,Daniel D. Gajski	10.1109/ICCD.2005.112
+Application-Specific Power-Aware Workload Allocation for Voltage Scalable MPSoC Platforms.	Martino Ruggiero,Andrea Acquaviva,Davide Bertozzi,Luca Benini	10.1109/ICCD.2005.24
+Algorithmic and Architectural Design Methodology for Particle Filters in Hardware.	Aswin C. Sankaranarayanan,Rama Chellappa,Ankur Srivastava 0001	10.1109/ICCD.2005.20
+Exact lower bound for the number of switches in series to implement a combinational logic cell.	Felipe Ribeiro Schneider,Renato P. Ribas,Sachin S. Sapatnekar,André Inácio Reis	10.1109/ICCD.2005.51
+A Flexible Design Methodology for Analog Test Wrappers in Mixed-Signal SOCs.	Anuja Sehgal,Sule Ozev,Krishnendu Chakrabarty	10.1109/ICCD.2005.8
+Power-Efficient Wakeup Tag Broadcast.	Joseph J. Sharkey,Kanad Ghose,Dmitry V. Ponomarev,Oguz Ergin	10.1109/ICCD.2005.85
+Reducing the Latency and Area Cost of Core Swapping through Shared Helper Engines.	Anahita Shayesteh,Eren Kursun,Timothy Sherwood,Suleyman Sair,Glenn Reinman	10.1109/ICCD.2005.93
+Exploiting Vanishing Polynomials for Equivalence Veri.cation of Fixed-Size Arithmetic Datapaths.	Namrata Shekhar,Priyank Kalla,Sivaram Gopalakrishnan,Florian Enescu	10.1109/ICCD.2005.52
+Efficient Rectilinear Steiner Tree Construction with Rectilinear Blockages.	Zion Cien Shen,Chris C. N. Chu,Ying-Meng Li	10.1109/ICCD.2005.45
+Partially-Parallel LDPC Decoder Based on High-Efficiency Message-Passing Algorithm.	Kazunori Shimizu,Tatsuyuki Ishikawa,Takeshi Ikenaga,Satoshi Goto,Nozomu Togawa	10.1109/ICCD.2005.83
+VALVE: Variable Length Value Encoder for Off-Chip Data Buses..	Dinesh C. Suresh,Banit Agrawal,Walid A. Najjar,Jun Yang 0002	10.1109/ICCD.2005.113
+Extended Forward Implications and Dual Recurrence Relations to Identify Sequentially Untestable Faults.	Manan Syal,Rajat Arora,Michael S. Hsiao	10.1109/ICCD.2005.53
+Three-Dimensional Cache Design Exploration Using 3DCacti.	Yuh-Fang Tsai,Yuan Xie 0001,Narayanan Vijaykrishnan,Mary Jane Irwin	10.1109/ICCD.2005.108
+Assertion Checking of Behavioral Descriptions with Non-linear Solver.	Íñigo Ugarte,Pablo Sanchez	10.1109/ICCD.2005.29
+Monitoring Temperature in FPGA based SoCs.	Sivakumar Velusamy,Wei Huang 0004,John C. Lach,Mircea R. Stan,Kevin Skadron	10.1109/ICCD.2005.78
+Ripple-Precharge TCAM A Low-Power Solution for Network Search Engines.	Deepak S. Vijayasarathi,Mehrdad Nourani,Mohammad J. Akhbarizadeh,Poras T. Balsara	10.1109/ICCD.2005.95
+Low- and Ultra Low-Power Arithmetic Units: Design and Comparison.	Milena Vratonjic,Bart R. Zeydel,Vojin G. Oklobdzija	10.1109/ICCD.2005.71
+The TM3270 Media-Processor Data Cache.	Jan-Willem van de Waerdt,Stamatis Vassiliadis,Jean-Paul van Itegem,Hans Van Antwerpen	10.1109/ICCD.2005.107
+Error-tolerance memory Microarchitecture via Dynamic Multithreading.	Lei Wang 0003	10.1109/ICCD.2005.50
+At-Speed Logic BIST Architecture for Multi-Clock Designs.	Laung-Terng Wang,Xiaoqing Wen,Po-Ching Hsu,Shianling Wu,Jonhson Guo	10.1109/ICCD.2005.119
+Applying Resource Sharing Algorithms to ADL-driven Automatic ASIP Implementation.	Ernst Martin Witte,Anupam Chattopadhyay,Oliver Schliebusch,David Kammler	10.1109/ICCD.2005.25
+Title Page.		10.1109/ICCD.2005.4
+Copyright.		10.1109/ICCD.2005.1
+Welcome Message.		10.1109/ICCD.2005.116
+Organizing Committee.		10.1109/ICCD.2005.82
+Program Committee.		10.1109/ICCD.2005.87
+Additional Reviewers.		10.1109/ICCD.2005.19
+H-SIMD Machine: Configurable Parallel Computing for Matrix Multiplication.	Xizhen Xu,Sotirios G. Ziavras	10.1109/ICCD.2005.62
+Low-Power Design of 90-nm SuperH Processor Core.	Tetsuya Yamada,Masahide Abe,Yusuke Nitta,Kenji Ogura,Manabu Kusaoke,Makoto Ishikawa,Motokazu Ozawa,Kiwamu Takada,Fumio Arakawa,Osamu Nishii,Toshihiro Hattori	10.1109/ICCD.2005.72
+Quick Scan Chain Diagnosis Using Signal Profiling.	Jheng-Syun Yang,Shi-Yu Huang	10.1109/ICCD.2005.89
+A Formal Framework for Modeling and Analysis of System-Level Dynamic Power Management.	Shrirang M. Yardi,Karthik Channakeshava,Michael S. Hsiao,Thomas L. Martin,Dong S. Ha 0001	10.1109/ICCD.2005.9
+Concurrent Core Test for Test Cost Reduction Using Merged Test Set and Scan Tree.	Gang Zeng,Hideo Ito	10.1109/ICCD.2005.39
+ALLCN: An Automatic Logic-to-Layout Tool for Carbon Nanotube Based Nanotechnology.	Wei Zhang 0012,Niraj K. Jha	10.1109/ICCD.2005.21
+Hardware Support for Bulk Data Movement in Server Platforms.	Li Zhao 0002,Ravi R. Iyer 0001,Srihari Makineni,Laxmi N. Bhuyan,Donald Newell	10.1109/ICCD.2005.64
+23rd International Conference on Computer Design (ICCD 2005), 2-5 October 2005, San Jose, CA, USA		

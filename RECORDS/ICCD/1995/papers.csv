@@ -1,0 +1,98 @@
+Execution-time profiling for multiple-process behavioral synthesis.	Jay K. Adams,John Alan Miller,Donald E. Thomas	10.1109/ICCD.1995.528803
+A high performance bus and cache controller for PowerPC multiprocessing systems.	Michael S. Allen,W. Kurt Lewchuk,J. D. Coddington	10.1109/ICCD.1995.528811
+Data parallel fault simulation.	Minesh B. Amin,Bapiraju Vinnakota	10.1109/ICCD.1995.528931
+Accurate and efficient layout-to-circuit extraction for high-speed MOS and bipolar/BiCMOS integrated circuits.	Frederik Beeftink,Arjan J. van Genderen,N. P. van der Meijs	10.1109/ICCD.1995.528834
+Architecture and design of a 40 gigabit per second ATM switch.	Steven E. Butner,David A. Skirmont	10.1109/ICCD.1995.528833
+Performance assessment of embedded Hw/Sw systems.	Jean Paul Calvez,Olivier Pasquier	10.1109/ICCD.1995.528790
+Verifying the performance of the PCI local bus using symbolic techniques.	Sérgio Vale Aguiar Campos,Edmund M. Clarke,Wilfredo R. Marrero,Marius Minea	10.1109/ICCD.1995.528793
+Testability analysis and insertion for RTL circuits based on pseudorandom BIST.	Joan Carletta,Christos A. Papachristou	10.1109/ICCD.1995.528805
+Simple tree-construction heuristics for the fanout problem .	Robert J. Carragher,Masahiro Fujita,Chung-Kuan Cheng	10.1109/ICCD.1995.528940
+FPGA global routing based on a new congestion metric.	Yao-Wen Chang,D. F. Wong 0001,C. K. Wong	10.1109/ICCD.1995.528836
+Design and analysis of FPGA/FPIC switch modules.	Yao-Wen Chang,D. F. Wong 0001,C. K. Wong	10.1109/ICCD.1995.528839
+Thermal placement for high-performance multichip modules.	Kai-Yuan Chao,D. F. Wong 0001	10.1109/ICCD.1995.528813
+Extending VLSI design with higher-order logic.	Anand Chavan,Shiu-Kai Chin,Shahid Ikram,Jang Dae Kim,Juin-Yeu Zu	10.1109/ICCD.1995.528795
+Reducing data access penalty using intelligent opcode-driven cache prefetching.	Chi-Hung Chi,Siu-Chung Lau	10.1109/ICCD.1995.528916
+Estimation of sequential circuit activity considering spatial and temporal correlations.	Tan-Li Chou,Kaushik Roy 0001	10.1109/ICCD.1995.528926
+VLSI design of densely-connected array processors.	Eric Y. Chou,Bing J. Sheu,Tony H. Wu,Robert C. Chang	10.1109/ICCD.1995.528913
+Theorem proving: not an esoteric diversion, but the unifying framework for industrial verification.	David Cyrluk,Mandayam K. Srivas	10.1109/ICCD.1995.528920
+A symbolic-simulation approach to the timing verification of interacting FSMs.	Ajay J. Daga,William P. Birmingham	10.1109/ICCD.1995.528927
+Design of an efficient power distribution network for the UltraSPARC-I microprocessor.	Alexander Dalal,Lavi Lev,Sundari Mitra	10.1109/ICCD.1995.528799
+A programmable routing controller for flexible communications in point-to-point networks.	Stuart W. Daniel,Jennifer Rexford,James W. Dolter,Kang G. Shin	10.1109/ICCD.1995.528828
+Accurate device modeling techniques for efficient timing simulation of integrated circuits.	Anirudh Devgan	10.1109/ICCD.1995.528802
+Dynamic minimization of OKFDDs.	Rolf Drechsler,Bernd Becker 0001	10.1109/ICCD.1995.528930
+VLSI issues in memory-system design for video signal processors.	Santanu Dutta,Wayne H. Wolf,Andrew Wolfe	10.1109/ICCD.1995.528914
+Systolic algorithms for tree pattern matching.	Abdel Ejnioui,N. Ranganathan	10.1109/ICCD.1995.528937
+Efficient testability enhancement for combinational circuit.	Yu Fang,Alexander Albicki	10.1109/ICCD.1995.528806
+Smart-pixel array processors based on optimal cellular neural networks for space sensor applications.	Wai-Chi Fang,Bing J. Sheu,Holger Venus,Rainer Sandau	10.1109/ICCD.1995.528945
+Adaptive routing in Clos networks.	Peter A. Franaszek,Christos J. Georgiou,Chung-Sheng Li	10.1109/ICCD.1995.528820
+Synthesis for testability of large complexity controllers.	Franco Fummi,Donatella Sciuto,M. Serro	10.1109/ICCD.1995.528808
+Design for hierarchical testability of RTL circuits obtained by behavioral synthesis.	Indradeep Ghosh,Anand Raghunathan,Niraj K. Jha	10.1109/ICCD.1995.528807
+Interrupt-based hardware support for profiling memory system performance.	Aaron Goldberg,John A. Trotter	10.1109/ICCD.1995.528917
+Statistics on concurrent fault and design error simulation.	Brian Grayson,Saghir A. Shaikh,Stephen A. Szygenda	10.1109/ICCD.1995.528933
+Memory organization for video algorithms on programmable signal processors.	Eddy de Greef,Francky Catthoor,Hugo De Man	10.1109/ICCD.1995.528922
+Implementing a STARI chip.	Mark R. Greenstreet	10.1109/ICCD.1995.528788
+Clock controller design in SuperSPARC II microprocessor.	Hong Hao,Kanti Bhabuthmal	10.1109/ICCD.1995.528800
+An empirical study of datapath, memory hierarchy, and network in SIMD array architectures.	Martin C. Herbordt,Charles C. Weems	10.1109/ICCD.1995.528921
+EPNR: an energy-efficient automated layout synthesis package.	Glenn Holt,Akhilesh Tyagi	10.1109/ICCD.1995.528814
+Automatic extraction of the control flow machine and application to evaluating coverage of verification vectors.	Yatin Vasant Hoskote,Dinos Moundanos,Jacob A. Abraham	10.1109/ICCD.1995.528919
+A new architectural-level fault simulation using propagation prediction of grouped fault-effects.	Michael S. Hsiao,Janak H. Patel	10.1109/ICCD.1995.528934
+Concurrent timing optimization of latch-based digital systems.	Hong-Yean Hsieh,Wentai Liu,Ralph K. Cavin III,C. Thomas Gray	10.1109/ICCD.1995.528941
+SSM-MP: more scalability in shared-memory multi-processor.	Shigeaki Iwasa,Shung Ho Shing,Hisashi Mogi,Hiroshi Nozuwe,Hiroo Hayashi,Osamu Wakamori,Takashi Ohmizo,Kuninori Tanaka,Hiroshi Sakai,Mitsuo Saito	10.1109/ICCD.1995.528923
+A dynamic cache sub-block design to reduce false sharing.	Murali Kadiyala,Laxmi N. Bhuyan	10.1109/ICCD.1995.528827
+Implicit state minimization of non-deterministic FSMs.	Timothy Kam,Tiziano Villa,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.1995.528818
+High level profiling based low power synthesis technique.	Srinivas Katkoori,Nand Kumar,Ranga Vemuri	10.1109/ICCD.1995.528906
+An enhanced algorithm for the minimization of exclusive-OR sum-of-products for incompletely specified functions.	Tomasz Kozlowski,Erik L. Dagless,Jonathan Saul	10.1109/ICCD.1995.528817
+A CMOS wave-pipelined image processor for real-time morphology .	Ram K. Krishnamurthy,Ramalingam Sridhar	10.1109/ICCD.1995.528935
+A CMOS gate array with dynamic-termination GTL I/O circuits.	Junya Kudoh,Toshiro Takahashi,Yukio Umada,Masaharu Kimura,Shigeru Yamamoto,Youichi Ito	10.1109/ICCD.1995.528786
+Emulation verification of the Motorola 68060.	Jainendra Kumar,Noel R. Strader,Jeff Freeman,Michael Miller	10.1109/ICCD.1995.528804
+Verification of a subtractive radix-2 square root algorithm and implementation.	Miriam Leeser,John W. O&apos;Leary	10.1109/ICCD.1995.528918
+A novel architecture for an ATM switch.	Jin Li,Chuan-lin Wu	10.1109/ICCD.1995.528831
+An efficient systolic array for the discrete cosine transform based on prime-factor decomposition .	Hyesook Lim,Earl E. Swartzlander Jr.	10.1109/ICCD.1995.528936
+DART: delay and routability driven technology mapping for LUT based FPGAs.	Aiguo Lu,Erik L. Dagless,Jonathan M. Saul	10.1109/ICCD.1995.528841
+Incas: a cycle accurate model of UltraSPARC.	Guillermo Maturana,James L. Ball,Jeffery Gee,Amaresh Iyer,J. Michael O&apos;Connor	10.1109/ICCD.1995.528801
+The PowerPC 603e microprocessor: an enhanced, low-power, superscalar microprocessor.	Carlos Montemayor,Marie Sullivan,Jen-Tien Yen,Pete Wilson,Richard Evers,K. R. Kishore	10.1109/ICCD.1995.528810
+Write buffer design for cache-coherent shared-memory multiprocessors.	Farnaz Mounes-Toussi,David J. Lilja	10.1109/ICCD.1995.528915
+Logic synthesis for a single large look-up table.	Rajeev Murgai,Masahiro Fujita,Fumiyasu Hirose	10.1109/ICCD.1995.528842
+PEPPER - a timing driven early floorplanner.	Vinod Narayananan,David LaPotin,Rajesh Gupta 0003,Gopalakrishnan Vijayan	10.1109/ICCD.1995.528815
+High-radix SRT division with speculation of quotient digits .	Tzu-Hsi Pan,Hyon-Sok Kay,Youngsun Chun,Chin-Long Wey	10.1109/ICCD.1995.528911
+Extraction of finite state machines from transistor netlists by symbolic simulation.	Manish Pandey,Alok Jain,Randal E. Bryant,Derek L. Beatty,Gary York,Samir Jain	10.1109/ICCD.1995.528929
+A parallel algorithm for fault simulation based on PROOFS .	Steven Parkes,Prithviraj Banerjee,Janak H. Patel	10.1109/ICCD.1995.528932
+Multi-dimensional interleaving for time-and-memory design optimization.	Nelson L. Passos,Edwin Hsing-Mean Sha,Liang-Fang Chao	10.1109/ICCD.1995.528905
+Test generation for multiple state-table faults in finite-state machines.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.1995.528824
+Analysis of conditional resource sharing using a guard-based control representation.	Ivan P. Radivojevic,Forrest Brewer	10.1109/ICCD.1995.528904
+Distributed automatic test pattern generation with a parallel FAN algorithm.	Stefan Radtke,Jens Bargfrede,Walter Anheier	10.1109/ICCD.1995.528944
+Testing-what&apos;s missing? An incomplete list of challenges.	Sudhakar M. Reddy	10.1109/ICCD.1995.528843
+Precise exception handling for a self-timed processor.	William F. Richardson,Erik Brunvand	10.1109/ICCD.1995.528787
+Performance monitoring on the PowerPC 604 microprocessor.	Charles P. Roth,Frank E. Levine,Edward H. Welbon	10.1109/ICCD.1995.528812
+Rational clocking [digital systems design].	Luis F. G. Sarmenta,Gill A. Pratt,Stephen A. Ward	10.1109/ICCD.1995.528821
+A coprocessor for accurate and reliable numerical computations.	Michael J. Schulte,Earl E. Swartzlander Jr.	10.1109/ICCD.1995.528942
+A superscalar RISC processor with pseudo vector processing feature.	Kotaro Shimamura,Shigeya Tanaka,Tetsuya Shimomura,Takashi Hotta,Eiki Kamada,Hideo Sawamoto,Teruhisa Shimizu,Kisaburo Nakazawa	10.1109/ICCD.1995.528797
+A floating point radix 2 shared division/square root chip.	Hosahalli R. Srinivas,Keshab K. Parhi	10.1109/ICCD.1995.528910
+Low power data format converter design using semi-static register allocation.	Kala Srivatsan,Chaitali Chakrabarti,Lori Lucke	10.1109/ICCD.1995.528908
+Asynchronous 2-D discrete cosine transform core processor.	Bret Stott,Dave Johnson 0003,Venkatesh Akella	10.1109/ICCD.1995.528837
+Incremental methods for FSM traversal.	Gitanjali Swamy,Robert K. Brayton,Vigyan Singhal	10.1109/ICCD.1995.528928
+Simultaneous area and delay minimum K-LUT mapping for K-exact networks.	Shashidhar Thakur,D. F. Wong 0001	10.1109/ICCD.1995.528840
+POM: a processor model for image processing.	Jean-Paul Theis,Lothar Thiele	10.1109/ICCD.1995.528829
+Signal propagation in high-speed MCM circuits.	Claudio Truzzi,Eric Beyne,Edwin Ringoot,J. Peeters	10.1109/ICCD.1995.528784
+Special purpose FPGA for high-speed digital telecommunication systems.	Akihiro Tsutsui,Toshiaki Miyazaki,Kazuhisa Yamada,Naohisa Ohta	10.1109/ICCD.1995.528912
+Logic extraction based on normalized netlengths.	Hirendu Vaishnav,Massoud Pedram	10.1109/ICCD.1995.528938
+Statistical generalization: theory and applications.	Benjamin W. Wah,Arthur Ieumwananonthachai,Shu Yao,Ting Yu	10.1109/ICCD.1995.528783
+Design and implementation of a 100 MHz centralized instruction window for a superscalar microprocessor.	Steven Wallace,Nirav Dagli,Nader Bagherzadeh	10.1109/ICCD.1995.528796
+Pollution control caching.	Stephen J. Walsh,John A. Board	10.1109/ICCD.1995.528825
+Transient analysis of coupled transmission lines characterized with the frequency-dependent losses using scattering-parameter based macromodel.	Jimmy Shinn-Hwa Wang,Wayne Wei-Ming Dai	10.1109/ICCD.1995.528785
+Transformation of min-max optimization to least-square estimation and application to interconnect design optimization.	Jimmy Shinn-Hwa Wang,Wayne Wei-Ming Dai	10.1109/ICCD.1995.528939
+Control unit synthesis targeting low-power processors.	Chuan-Yu Wang,Kaushik Roy 0001	10.1109/ICCD.1995.528907
+The resource conflict methodology for early-stage design space exploration of superscalar RISC processors.	John-David Wellman,Edward S. Davidson	10.1109/ICCD.1995.528798
+A self-timed redundant-binary number to binary number converter for digital arithmetic processors.	Chin-Long Wey,Haiyan Wang,Cheng-Ping Wang	10.1109/ICCD.1995.528838
+A case study in low-power system-level design.	Andrew Wolfe	10.1109/ICCD.1995.528830
+A 13.3ns double-precision floating-point ALU and multiplier.	Hiromichi Yamada,Takashi Hotta,Takahiro Nishiyama,Fumio Murabayashi,Tatsumi Yamauchi,Hideo Sawamoto	10.1109/ICCD.1995.528909
+Connection-oriented net model and fuzzy clustering techniques for K-way circuit partitioning.	Jin-Tai Yan	10.1109/ICCD.1995.528816
+An efficient cut-based algorithm on minimizing the number of L-shaped channels for safe routing ordering.	Jin-Tai Yan	10.1109/ICCD.1995.528835
+Performance estimation for real-time distributed embedded systems.	Ti-Yen Yen,Wayne H. Wolf	10.1109/ICCD.1995.528792
+Efficient state assignment framework for asynchronous state graphs.	Chantal Ykman-Couvreur,Bill Lin 0001	10.1109/ICCD.1995.528943
+A prototype router for the massively parallel computer RWC-1.	Takashi Yokota,Hiroshi Matsuoka,Kazuaki Okamoto,Hideo Hirono,Atsushi Hori,Shuichi Sakai	10.1109/ICCD.1995.528822
+Concurrent automatic test pattern generation algorithm for combinational circuits.	Abdel-Fattah Yousif,Jun Gu	10.1109/ICCD.1995.528823
+A high-performance asynchronous SCSI controller.	Kenneth Y. Yun,David L. Dill	10.1109/ICCD.1995.528789
+Caching processor general registers.	Robert Yung,Neil C. Wilhelm	10.1109/ICCD.1995.528826
+Low power and high speed multiplication design through mixed number representations.	Menghui Zheng,Alexander Albicki	10.1109/ICCD.1995.528924
+1995 International Conference on Computer Design (ICCD &apos;95), VLSI in Computers and Processors, October 2-4, 1995, Austin, TX, USA, Proceedings		

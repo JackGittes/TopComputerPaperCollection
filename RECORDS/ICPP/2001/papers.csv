@@ -1,0 +1,66 @@
+Parallelization and Performance of Portfolio Choice Models.	Ahmed Abdelkhalek 0002,Angelos Bilas,Alexander Michaelides	10.1109/ICPP.2001.952072
+Informing Algorithms for Efficient Scheduling of Synchronizing Threads on Multiprogrammed SMPs.	Christos D. Antonopoulos,Dimitrios S. Nikolopoulos,Theodore S. Papatheodorou	10.1109/ICPP.2001.952054
+Enhancing the Cache Strategy of a Cluster-Based DSM System Using an Adaptive Approach.	Luciana Bezerra Arantes,Pierre Sens 0001,Bertil Folliot	10.1109/ICPP.2001.952069
+Implementing TreadMarksover VIA on Myrinet and Gigabit Ethernet: Challenges, Design Experience, and Performance Evaluation.	Mohammad Banikazemi,Jiuxing Liu,Dhabaleswar K. Panda 0001,P. Sadayappan	10.1109/ICPP.2001.952060
+Parallel Parsing of MPEG Video.	Suchendra M. Bhandarkar,Shankar R. Chandrasekaran	10.1109/ICPP.2001.952091
+New Techniques for Collective Communications in Clusters: A Case Study with MPI.	Alejandro Calderón 0001,Félix García 0002,Jesús Carretero 0001,Javier Fernández 0001,Oscar Pérez	10.1109/ICPP.2001.952062
+Performance Issues of Deterministic and Adaptive Ghost-Packet Routers.	María del Carmen Carrión 0001,Gregorio Díaz 0001,María Blanca Caminero	10.1109/ICPP.2001.952044
+Communication State Transfer for the Mobility of Concurrent Heterogeneous Computing.	Kasidit Chanchio,Xian-He Sun	10.1109/ICPP.2001.952087
+Probabilistic Inference Schemes for Sparsity Structures of Fortran 90 Array Intrinsics.	Rong-Guey Chang,Jia-Shin Li,Jenq Kuen Lee,Tyng-Ruey Chuang	10.1109/ICPP.2001.952047
+Accurate Availability Model for Direct Interconnection Networks.	Vicente Chirivella,Rosa Alcover,José Duato	10.1109/ICPP.2001.952099
+The Anatomy of Deadlock.	Stanislaw Chrobot	10.1109/ICPP.2001.952042
+Reduction of Location Update Traffic Using Virtual Layer in PCS.	Daewoo Chung,Hyunseung Choo,Hee Yong Youn	10.1109/ICPP.2001.952078
+Progressive Shape Analysis for Real C Codes.	Francisco Corbera,Rafael Asenjo,Emilio L. Zapata	10.1109/ICPP.2001.952083
+The Measured Network Traffic of Compiler-Parallelized Programs.	Peter A. Dinda,Brad M. Garcia,Kwok-Shing Leung	10.1109/ICPP.2001.952061
+Providing Resource Reservations for Adaptive Applications in a Best-Effort Operating System.	Hans Domjan,Thomas R. Gross	10.1109/ICPP.2001.952097
+UPC Benchmarking Issues.	Tarek A. El-Ghazawi,Sébastien Chauvin	10.1109/ICPP.2001.952082
+A Programming Methodology for Designing Parallel Prefix Algorithms.	Min-Hsuan Fan,Chua-Huang Huang,Yeh-Ching Chung,Jen-Shiuh Liu,Jei-Zhii Lee	10.1109/ICPP.2001.952093
+Virtual Cellular Networks for Non-Uniformly Distributed Base Stations.	Guangbin Fan,Jingyuan Zhang	10.1109/ICPP.2001.952079
+Hardware Support for Extracting Coarse-Grain Speculative Parallelism in Distributed Shared-Memory Multiprocessors.	Renato J. O. Figueiredo,José A. B. Fortes	10.1109/ICPP.2001.952065
+Gigabit Ethernet Backbones with Active Loops.	Román García,Manuel P. Malumbres,Julio Pons Terol	10.1109/ICPP.2001.952045
+Analysis of TCP Performance on Wireless Ad Hoc Networks Utilizing Preemptive Maintenance Routing.	Tom Goff,Nael B. Abu-Ghazaleh,Dhananjay S. Phatak	10.1109/ICPP.2001.952067
+Complex Pipelined Executions in OpenMP Parallel Applications.	Marc González 0001,Eduard Ayguadé,Xavier Martorell,Jesús Labarta	10.1109/ICPP.2001.952074
+Performance Analysis Tools for Parallel Java Applications on Shared-memory Systems.	Jordi Guitart,Jordi Torres,Eduard Ayguadé,J. Mark Bull	10.1109/ICPP.2001.952081
+NIC-Based Rate Control for Proportional Bandwidth Allocation in Myrinet Clusters.	Abhishek Gulati,Dhabaleswar K. Panda 0001,P. Sadayappan,Pete Wyckoff	10.1109/ICPP.2001.952075
+A Method for Automatic Optimization of Dynamic Memory Management in C++.	Daniel Häggander,Per Lidén,Lars Lundberg	10.1109/ICPP.2001.952096
+Using Tree Topology for Multicast Congestion Control.	Srinivasan Jagannathan,Kevin C. Almeroth	10.1109/ICPP.2001.952076
+Integrated Routing for Multicast and Anycast Messages.	Weijia Jia 0001,Gaochao Xu,Wei Zhao 0001	10.1109/ICPP.2001.952104
+On the Optimal Selection of Proxy Agents in Mobile Network Backbones.	Ahmed E. Kamal 0001,Hesham El-Rewini	10.1109/ICPP.2001.952052
+Analysis of True Fully Adaptive Routing with Software-Based Deadlock Recovery.	Ahmad Khonsari,Hamid Sarbazi-Azad,Mohamed Ould-Khaoua	10.1109/ICPP.2001.952085
+L-Turn Routing: An Adaptive Routing in Irregular Networks.	Michihiro Koibuchi,Akira Funahashi,Akiya Jouraku,Hideharu Amano	10.1109/ICPP.2001.952084
+Data Dependence Analysis for Complex Loop Regions.	Konstantinos Kyriakopoulos,Kleanthis Psarris	10.1109/ICPP.2001.952063
+Dynamic Load Balancing for Structured Adaptive Mesh Refinement Applications.	Zhiling Lan,Valerie E. Taylor,Greg Bryan	10.1109/ICPP.2001.952105
+An Empirical Study of Reliable Multicast Protocols over Ethernet - Connected Networks.	Ryan G. Lane,Scott Daniels,Xin Yuan	10.1109/ICPP.2001.952103
+Fast Computation of the 3-D Euclidean Distance Transform on the EREW PRAM Model.	Yu-Hua Lee,Shi-Jinn Horng,Jennifer Seitzer	10.1109/ICPP.2001.952094
+Proxy Prefetch and Prefix Caching.	Wei-Kuo Liao,Chung-Ta King	10.1109/ICPP.2001.952051
+Energy Efficient Broadcasting for Situation Awareness in Ad Hoc Networks.	Stephanie Lindsey,Cauligi S. Raghavendra	10.1109/ICPP.2001.952058
+Deadlock-Free Routing in InfiniBand through Destination Renaming.	Pedro López 0001,Jose Flich,José Duato	10.1109/ICPP.2001.952089
+Active Caching of On-Line-Analytical-Processing Queries in WWW Proxies.	Thanasis Loukopoulos,Panos Kalnis,Ishfaq Ahmad,Dimitris Papadias	10.1109/ICPP.2001.952088
+A Fair Resource Allocation Protocol for Multimedia Wireless Networks.	Anjlica Malla,Mona El-Kadi,Petia Todorova	10.1109/ICPP.2001.952090
+Uniformization of Affine Dependance Programs for Parallel Embedded System Design.	Manju Manjunathaiah,Graham M. Megson,Sanjay V. Rajopadhye,Tanguy Risset	10.1109/ICPP.2001.952064
+Uniform Leader Election Protocols in Radio Networks.	Koji Nakano,Stephan Olariu	10.1109/ICPP.2001.952068
+Distributed Sequential Numerical Computing Using Mobile Agents: Moving Code to Data.	Lei Pan 0001,Lubomir Bic,Michael B. Dillencourt	10.1109/ICPP.2001.952049
+Adaptive Protocols for Single-Hop Photonic Networks with Bursty Traffic.	Georgios I. Papadimitriou,Mohammad S. Obaidat,Andreas S. Pomportsis	10.1109/ICPP.2001.952066
+A Caching Policy for Continuous Media Objects Based on Logical Caches and Object Partitioning.	Yong Woon Park,Ki-Dong Chung	10.1109/ICPP.2001.952070
+A Multigrid Solver for the Incompressible Navier-Stokes Equations on a Beowulf-Class System.	Manuel Prieto 0001,Rubén S. Montero,Ignacio Martín Llorente,Francisco Tirado	10.1109/ICPP.2001.952106
+Dynamic, Reliability-Driven Scheduling of Parallel Real-Time Jobs in Heterogeneous Systems.	Xiao Qin 0001,Hong Jiang 0001	10.1109/ICPP.2001.952053
+A Low-Cost Approach towards Mixed Task and Data Parallel Scheduling.	Andrei Radulescu,Arjan J. C. van Gemund	10.1109/ICPP.2001.952048
+A Router-Based Technique for Monitoring the Next-Generation of Internet Multicast Protocols.	Prashant Rajvaidya,Kevin C. Almeroth	10.1109/ICPP.2001.952102
+Scheduling of Periodic Time Critical Applications for Pipelined Execution on Heterogeneous Systems.	Samantha Ranaweera,Dharma P. Agrawal	10.1109/ICPP.2001.952055
+A Distributed Multiple-SIMD Intelligent Memory.	Krishna Kumar Rangan,Nael B. Abu-Ghazaleh,Philip A. Wilsey	10.1109/ICPP.2001.952098
+Power Efficient Topologies for Wireless Sensor Networks.	Ayad Salhieh,Jennifer Weinmann,Manish Kochhal,Loren Schwiebert	10.1109/ICPP.2001.952059
+Effective Strategy to Compute Forwarding Tables for InfiniBand Networks.	José Carlos Sancho,Antonio Robles,José Duato	10.1109/ICPP.2001.952046
+Adaptive Block Rearrangement Algorithms for Video-On-Demand Servers.	Nabil J. Sarhan,Chita R. Das	10.1109/ICPP.2001.952092
+In Search of Efficient Reliable Processor Design.	Toshinori Sato,Itsujiro Arita	10.1109/ICPP.2001.952100
+Latency of Double-Tree Broadcast in Wormhole-Routed Hypercubes.	Alireza Shahrabi,Mohamed Ould-Khaoua,Lewis M. Mackenzie	10.1109/ICPP.2001.952086
+DPFS: A Distributed Parallel File System.	Xiaohui Shen,Alok N. Choudhary	10.1109/ICPP.2001.952101
+Characterization of Message-Passing Overhead on the AP3000 Multicomputer.	Juan Touriño,Ramon Doallo	10.1109/ICPP.2001.952077
+Improving Cache Performance of Network Intensive Workloads.	Udaykiran Vallamsetty,Prasant Mohapatra,Ravishankar K. Iyer,Krishna Kant 0001	10.1109/ICPP.2001.952050
+Incremental Stack-Splitting Mechanisms for Efficient Parallel Implementation of Search-Based AI Systems.	Karen Villaverde,Hai-Feng Guo,Enrico Pontelli,Gopal Gupta 0001	10.1109/ICPP.2001.952073
+On Calculating Power-Aware Connected Dominating Sets for Efficient Routing in Ad Hoc Wireless Networks.	Jie Wu 0001,Ming Gao,Ivan Stojmenovic	10.1109/ICPP.2001.952080
+Run-Length Chain Coding and Shape&apos;s Moment Computations on Arrays with Reconfigurable Optical Buses.	Chin-Hsiung Wu,Shi-Jinn Horng,Yi-Wen Chen,Chen-Kuo Yu	10.1109/ICPP.2001.952095
+An Optimal Cache Replacement Policy for Wireless Data Dissemination under Cache Consistency.	Jianliang Xu,Qinglong Hu,Wang-Chien Lee,Dik Lun Lee	10.1109/ICPP.2001.952071
+A New Conference Network for Group Communication.	Yuanyuan Yang 0001	10.1109/ICPP.2001.952057
+Parallel Algorithms for Index-Permutation Graphs - An Extension of Cayley Graphs for Multiple Chip-Multiprocessors (MCMP).	Chi-Hsiang Yeh,Behrooz Parhami	10.1109/ICPP.2001.952041
+A Mathematical Game and Its Applications to the Design of Interconnection Networks.	Chi-Hsiang Yeh,Emmanouel A. Varvarigos	10.1109/ICPP.2001.952043
+Proceedings of the 2001 International Conference on Parallel Processing, ICPP 2002, 3-7 September 2001, Valencia, Spain	Lionel M. Ni,Mateo Valero	

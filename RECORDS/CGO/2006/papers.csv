@@ -1,0 +1,38 @@
+Using Machine Learning to Focus Iterative Optimization.	Felix V. Agakov,Edwin V. Bonilla,John Cavazos,Björn Franke,Grigori Fursin,Michael F. P. O&apos;Boyle,John Thomson,Marc Toussaint,Christopher K. I. Williams	10.1109/CGO.2006.37
+Software-Based Transparent and Comprehensive Control-Flow Error Detection.	Edson Borin,Cheng Wang 0013,Youfeng Wu,Guido Araujo	10.1109/CGO.2006.33
+Thread-Shared Software Code Caches.	Derek Bruening,Vladimir Kiriansky,Timothy Garnett,Sanjeev Banerji	10.1109/CGO.2006.36
+Inline Analysis: Beyond Selection Heuristics.	Dhruva R. Chakrabarti,Shin-Ming Liu	10.1109/CGO.2006.17
+Java JNI Bridge: A Framework for Mixed Native ISA Execution.	Miaobo Chen,Shalom Goldenberg,Suresh Srinivas,Valery Ushakov,Young Wang,Qi Zhang,Eric Lin,Yoav Zach	10.1109/CGO.2006.22
+Compiler-directed Data Partitioning for Multicluster Processors.	Michael L. Chu,Scott A. Mahlke	10.1109/CGO.2006.9
+Tailoring Graph-coloring Register Allocation For Runtime Compilation.	Keith D. Cooper,Anshuman Dasgupta	10.1109/CGO.2006.35
+Region Monitoring for Local Phase Detection in Dynamic Optimization Systems.	Abhinav Das,Jiwei Lu,Wei-Chung Hsu	10.1109/CGO.2006.39
+A Cross-Architectural Interface for Code Cache Manipulation.	Kim M. Hazelwood,Robert S. Cohn	10.1109/CGO.2006.3
+Practical Structure Layout Optimization and Advice.	Robert Hundt,Sandya Mannarswamy,Dhruva R. Chakrabarti	10.1109/CGO.2006.29
+2D-Profiling: Detecting Input-Dependent Branches with a Single Input Data Set.	Hyesoon Kim,M. Aater Suleman,Onur Mutlu,Yale N. Patt	10.1109/CGO.2006.1
+Exhaustive Optimization Phase Order Space Exploration.	Prasad A. Kulkarni,David B. Whalley,Gary S. Tyson,Jack W. Davidson	10.1109/CGO.2006.15
+Selecting Software Phase Markers with Code Structure Analysis.	Jeremy Lau,Erez Perelman,Brad Calder	10.1109/CGO.2006.32
+Optimizing Dynamic Binary Translation for SIMD Instructions.	Jianhui Li,Qi Zhang,Shu Xu,Bo Huang 0002	10.1109/CGO.2006.27
+Data and Computation Transformations for Brook Streaming Applications on Multiprocessors.	Shih-Wei Liao,Zhaohui Du,Gansha Wu,Guei-Yuan Lueh	10.1109/CGO.2006.13
+Post Register Allocation Spill Code Optimization.	Christopher Lupo,Kent D. Wilken	10.1109/CGO.2006.28
+Profiling over Adaptive Ranges.	Shashidhar Mysore,Banit Agrawal,Timothy Sherwood,Nisheeth Shrivastava,Subhash Suri	10.1109/CGO.2006.30
+Online Phase Detection Algorithms.	Priya Nagpurkar,Chandra Krintz,Michael Hind,Peter F. Sweeney,V. T. Rajan	10.1109/CGO.2006.26
+BIRD: Binary Interpretation using Runtime Disassembly.	Susanta Nanda,Wei Li 0020,Lap-Chung Lam,Tzi-cker Chiueh	10.1109/CGO.2006.6
+Multi-platform Auto-vectorization.	Dorit Nuzman,Richard Henderson	10.1109/CGO.2006.25
+Fast and Effective Orchestration of Compiler Optimizations for Automatic Performance Tuning.	Zhelong Pan,Rudolf Eigenmann	10.1109/CGO.2006.38
+Compiling for EDGE Architectures.	Aaron Smith,Jon Gibson,Bertrand A. Maher,Nicholas Nethercote,Bill Yoder,Doug Burger,Kathryn S. McKinley,James H. Burrill	10.1109/CGO.2006.10
+A Compiler-Guided Approach for Reducing Disk Power Consumption by Exploiting Disk Access Locality.	Seung Woo Son 0001,Guangyu Chen,Mahmut T. Kandemir	10.1109/CGO.2006.2
+Dynamic Class Hierarchy Mutation.	Lixin Su,Mikko H. Lipasti	10.1109/CGO.2006.14
+Experiences with Multi-threading and Dynamic Class Loading in a Java Just-In-Time Compiler.	Vijay Sundaresan,Daryl Maier,Pramod Ramarao,Mark G. Stoodley	10.1109/CGO.2006.16
+Space-Efficient 64-bit Java Objects through Selective Typed Virtual Addressing.	Kris Venstermans,Lieven Eeckhout,Koen De Bosschere	10.1109/CGO.2006.34
+Constructing Virtual Architectures on a Tiled Processor.	David Wentzlaff,Anant Agarwal	10.1109/CGO.2006.11
+International Symposium on Code Generation and Optimization - Front Cover.		10.1109/CGO.2006.19
+International Symposium on Code Generation and Optimization - Title Page.		10.1109/CGO.2006.21
+International Symposium on Code Generation and Optimization - Copyright.		10.1109/CGO.2006.18
+Message from the General Co-Chairs.		10.1109/CGO.2006.23
+Message from the Program Chair.		10.1109/CGO.2006.24
+Committees.		10.1109/CGO.2006.7
+Reviewers.		10.1109/CGO.2006.31
+Corporate Sponsors.		10.1109/CGO.2006.12
+A Self-Repairing Prefetcher in an Event-Driven Dynamic Optimization Framework.	Weifeng Zhang 0003,Brad Calder,Dean M. Tullsen	10.1109/CGO.2006.4
+Compiler Optimizations to Reduce Security Overhead.	Tao Zhang 0037,Xiaotong Zhuang,Santosh Pande	10.1109/CGO.2006.8
+Fourth IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2006), 26-29 March 2006, New York, New York, USA		

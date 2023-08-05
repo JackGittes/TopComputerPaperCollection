@@ -1,0 +1,26 @@
+A High-Performance SIMD Floating Point Unit for BlueGene/L: Architecture, Compilation, and Algorithm Design.	Leonardo R. Bachega,Siddhartha Chatterjee,Kenneth A. Dockser,John A. Gunnels,Manish Gupta 0002,Fred G. Gustavson,Christopher A. Lapkowski,Gary K. Liu,Mark P. Mendell,Charles D. Wait,T. J. Christopher Ward	10.1109/PACT.2004.10014
+Partitioning of Code for a Massively Parallel Machine.	Michael Ball 0002,Cristina Cifuentes,Deepankar Bairagi	10.1109/PACT.2004.10000
+Code Generation in the Polyhedral Model Is Easier Than You Think.	Cédric Bastoul	10.1109/PACT.2004.10018
+Scalable High Performance Cross-Module Inlining.	Dhruva R. Chakrabarti,Luis A. Lozano,Xinliang D. Li,Robert Hundt,Shin-Ming Liu	10.1109/PACT.2004.10002
+A Multi-Platform Co-Array Fortran Compiler.	Yuri Dotsenko,Cristian Coarfa,John M. Mellor-Crummey	10.1109/PACT.2004.10022
+Compiler Estimation of Load Imbalance Overhead in Speculative Parallelization.	Jialin Dou,Marcelo H. Cintra	10.1109/PACT.2004.10007
+Adding Limited Reconfigurability to Superscalar Processors.	Marc Epalza,Paolo Ienne,Daniel Mlynek	10.1109/PACT.2004.10023
+Retargeting JIT Compilers by using C-Compiler Generated Executable Code.	M. Anton Ertl,David Gregg	10.1109/PACT.2004.10021
+Fair Cache Sharing and Partitioning in a Chip Multiprocessor Architecture.	Seongbeom Kim,Dhruba Chandra,Yan Solihin	10.1109/PACT.2004.10020
+The Stream Virtual Machine.	Francois Labonte,Peter R. Mattson,William Thies,Ian Buck,Christos Kozyrakis,Mark Horowitz	10.1109/PACT.2004.10008
+A Compiler Framework for Recovery Code Generation in General Speculative Optimizations.	Jin Lin,Wei-Chung Hsu,Pen-Chung Yew,Roy Dz-Ching Ju,Tin-Fook Ngai	10.1109/PACT.2004.10013
+Impact of Java Memory Model on Out-of-Order Multiprocessors.	Tulika Mitra,Abhik Roychoudhury,Qinghua Shen	10.1109/PACT.2004.10015
+Static Placement, Dynamic Issue (SPDI) Scheduling for EDGE Architectures.	Ramadass Nagarajan,Sundeep K. Kushwaha,Doug Burger,Kathryn S. McKinley,Calvin Lin,Stephen W. Keckler	10.1109/PACT.2004.10019
+AC/DC: An Adaptive Data Cache Prefetcher.	Kyle J. Nesbit,Ashutosh S. Dhodapkar,James E. Smith 0001	10.1109/PACT.2004.10016
+TO-Lock: Removing Lock Overhead Using the Owners&apos; Temporal Locality.	Takeshi Ogasawara,Hideaki Komatsu,Toshio Nakatani	10.1109/PACT.2004.10001
+Decoupled Software Pipelining with the Synchronization Array.	Ram Rangan,Neil Vachharajani,Manish Vachharajani,David I. August	10.1109/PACT.2004.10003
+The Value Evolution Graph and its Use in Memory Reference Analysis.	Silvius Vasile Rus,Dongmin Zhang,Lawrence Rauchwerger	10.1109/PACT.2004.10004
+Architectural Support for Enhanced SMT Job Scheduling.	Alex Settle,Joshua L. Kihm,Andrew Janiszewski,Daniel A. Connors	10.1109/PACT.2004.10024
+Architectural Support for High Speed Protection of Memory Integrity and Confidentiality in Multiprocessor Systems.	Weidong Shi,Hsien-Hsin S. Lee,Mrinmoy Ghosh,Chenghuai Lu	10.1109/PACT.2004.10025
+Implementing Malleability on MPI Jobs.	Gladys Utrera,Julita Corbalán,Jesús Labarta	10.1109/PACT.2004.10006
+Polymorphic Processors: How to Expose Arbitrary Hardware Functionality to Programmers.	Stamatis Vassiliadis	10.1109/PACT.2004.1342557
+The Earth Simulator and Beyond-Technological Considerations Toward the Sustained PetaFlops Machine.	Tadashi Watanabe	10.1109/PACT.2004.1342549
+Fast Paths in Concurrent Programs.	Wen Xu,Sanjeev Kumar,Kai Li 0001	10.1109/PACT.2004.10005
+An Adaptive Algorithm Selection Framework.	Hao Yu 0008,Dongmin Zhang,Lawrence Rauchwerger	10.1109/PACT.2004.10010
+The Energy Impact of Aggressive Loop Fusion.	Yongkang Zhu,Grigorios Magklis,Michael L. Scott,Chen Ding 0001,David H. Albonesi	10.1109/PACT.2004.10011
+13th International Conference on Parallel Architectures and Compilation Techniques (PACT 2004), 29 September - 3 October 2004, Antibes Juan-les-Pins, France		

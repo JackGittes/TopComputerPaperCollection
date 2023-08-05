@@ -1,0 +1,69 @@
+Ring Prediction for Non-Uniform Cache Architectures.	Sayaka Akioka,Feihui Li,Mahmut T. Kandemir,Padma Raghavan,Mary Jane Irwin	10.1109/PACT.2007.60
+The OpenTM Transactional Application Programming Interface.	Woongki Baek,Chi Cao Minh,Martin Trautmann,Christos Kozyrakis,Kunle Olukotun	10.1109/PACT.2007.74
+Source Level Merging of Independent Programs.	Yosi Ben-Asher,Moshe Yuda	10.1109/PACT.2007.65
+Reducing Energy Consumption of On-Chip Networks Through a Hybrid Compiler-Runtime Approach.	Guangyu Chen,Feihui Li,Mahmut T. Kandemir	10.1109/PACT.2007.58
+Studying the impact of synchronization frequency on scheduling tasks with dependencies in heterogeneous systems.	Florina M. Ciorba,Ioannis Riakiotakis,George K. Papakonstantinou,Theodore Andronikos,Anthony T. Chronopoulos	10.1109/PACT.2007.71
+Fast prototyping of complex Signal and Image Processing applications on SoC using homogenous network of communicating processors.	Lionel Damez,Jean-Pierre Dérutin	10.1109/PACT.2007.34
+Stream Scheduling: A Framework to Manage Bulk Operations in a Memory Hierarchy.	Abhishek Das,William J. Dally	10.1109/PACT.2007.68
+Unified Architectural Support for Soft-Error Protection or Software Bug Detection.	Martin Dimitrov,Huiyang Zhou	10.1109/PACT.2007.76
+Software-Pipelining on Multi-Core Architectures.	Alban Douillet,Guang R. Gao	10.1109/PACT.2007.64
+An Energy Efficient Parallel Architecture Using Near Threshold Operation.	Ronald G. Dreslinski,Bo Zhai,Trevor N. Mudge,David T. Blaauw,Dennis Sylvester	10.1109/PACT.2007.14
+L1 Cache Filtering Through Random Selection of Memory References.	Yoav Etsion,Dror G. Feitelson	10.1109/PACT.2007.44
+Studying Compiler-Microarchitecture Interactions through Interval Analysis.	Stijn Eyerman,Lieven Eeckhout,James E. Smith 0001	10.1109/PACT.2007.70
+Improving Performance Isolation on Chip Multiprocessors via an Operating System Scheduler.	Alexandra Fedorova,Margo I. Seltzer,Michael D. Smith 0001	10.1109/PACT.2007.40
+FastForward for Efficient Pipeline Parallelism.	John Giacomoni,Tipp Moseley,Manish Vachharajani	10.1109/PACT.2007.36
+Paceline: Improving Single-Thread Performance in Nanoscale CMPs through Core Overclocking.	Brian Greskamp,Josep Torrellas	10.1109/PACT.2007.52
+The Automatic Transformation of Linked List Data Structures.	Sven Groot,Harmen L. A. van der Spek,Erwin M. Bakker,Harry A. G. Wijshoff	10.1109/PACT.2007.72
+Architectural Support for the Stream Execution Model on General-Purpose Processors.	Jayanth Gummaraju,Mattan Erez,Joel Coburn,Mendel Rosenblum,William J. Dally	10.1109/PACT.2007.15
+Latency Hiding in Multi-Threading and Multi-Processing of Network Applications.	Xiaofeng Guo,Jinquan Dai,Long Li,Zhiyuan Lv,Prashant R. Chandra	10.1109/PACT.2007.46
+Component-Based Lock Allocation.	Richard L. Halpert,Christopher J. F. Pickett,Clark Verbrugge	10.1109/PACT.2007.23
+Extending Object-Oriented Optimizations for Concurrent Programs.	Kelly Heffner,David Tarditi,Michael D. Smith 0001	10.1109/PACT.2007.32
+Trace-based Automatic Padding for Locality Improvement with Correlative Data Visualization Interface.	Marco Höbbel,Thomas Rauber,Carsten Scholtes	10.1109/PACT.2007.75
+A New Parallel Gauss-Seidel Method by Iteration Space Alternate Tiling.	Changjun Hu,Jilin Zhang,Jue Wang 0013,Jianjiang Li,Liang Ding	10.1109/PACT.2007.8
+Performance Portable Optimizations for Loops Containing Communication Operations.	Costin Iancu,Wei Chen 0011,Katherine A. Yelick	10.1109/PACT.2007.53
+AA-Sort: A New Parallel Sorting Algorithm for Multi-Core SIMD Processors.	Hiroshi Inoue,Takao Moriyama,Hideaki Komatsu,Toshio Nakatani	10.1109/PACT.2007.12
+Exploring the Application Behavior Space Using Parameterized Synthetic Benchmarks.	Ajay M. Joshi,Lieven Eeckhout,Lizy Kurian John	10.1109/PACT.2007.31
+Studying Asynchronous Shared Memory Computations.	Simo Juvaste	10.1109/PACT.2007.69
+CIGAR: Application Partitioning for a CPU/Coprocessor Architecture.	John H. Kelm,Isaac Gelado,Mark J. Murphy,Nacho Navarro,Steven S. Lumetta,Wen-mei W. Hwu	10.1109/PACT.2007.21
+Fast Track: Supporting Unsafe Optimizations with Software Speculation.	Kirk Kelsey,Chengliang Zhang,Chen Ding 0001	10.1109/PACT.2007.35
+Hybrid Specialization: A Trade-off Between Static and Dynamic Specialization.	Minhaj Ahmad Khan,Henri-Pierre Charles,Denis Barthou	10.1109/PACT.2007.38
+Using PredictiveModeling for Cross-Program Design Space Exploration in Multicore Systems.	Salman Khan 0002,Polychronis Xekalakis,John Cavazos,Marcelo Cintra	10.1109/PACT.2007.77
+Rotating Register Allocation for Enhanced Pipeline Scheduling.	Suhyun Kim,Soo-Mook Moon	10.1109/PACT.2007.61
+A Loop Correlation Technique to Improve Performance Auditing.	Jeremy Lau,Matthew Arnold,Michael Hind,Brad Calder	10.1109/PACT.2007.7
+I2SEMS: Interconnects-Independent Security Enhanced Shared Memory Multiprocessor Systems.	Manhee Lee,Minseon Ahn,Eun Jung Kim 0001	10.1109/PACT.2007.39
+Rate-Driven Control of Resizable Caches for Highly Threaded SMT Processors.	Sonia López,Steven G. Dropsho,David H. Albonesi,Oscar Garnica,Juan Lanchares	10.1109/PACT.2007.56
+Verification-Aware Microprocessor Design.	Anita Lungu,Daniel J. Sorin	10.1109/PACT.2007.79
+Redesigning Parallel Symbolic Computations Packages.	Georgiana Macariu,Marc Frîncu,Alexandru Cârstea,Dana Petcu,Andrei Eckstein	10.1109/PACT.2007.57
+Error Detection Using Dynamic Dataflow Verification.	Albert Meixner,Daniel J. Sorin	10.1109/PACT.2007.30
+MLP-Aware Dynamic Cache Partitioning.	Miquel Moretó,Francisco J. Cazorla,Alex Ramírez,Mateo Valero	10.1109/PACT.2007.49
+Call-chain Software Instruction Prefetching in J2EE Server Applications.	Priya Nagpurkar,Harold W. Cain,Mauricio J. Serrano,Jong-Deok Choi,Chandra Krintz	10.1109/PACT.2007.20
+A Lightweight Model for Software Thread-Level Speculation (TLS).	Cosmin E. Oancea,Alan Mycroft	10.1109/PACT.2007.6
+JudoSTM: A Dynamic Binary-Rewriting Approach to Software Transactional Memory.	Marek Olszewski,Jeremy Cutler,J. Gregory Steffan	10.1109/PACT.2007.42
+Data Structure Exploration of Dynamic Applications.	Lazaros Papadopoulos,Christos Baloukas,Dimitrios Soudris,Konstantinos Potamianos,Nikolaos S. Voros	10.1109/PACT.2007.24
+HelperCore_DB: Exploiting Multicore Technology for Databases.	Kostas Papadopoulos,Kyriakos Stavrou,Pedro Trancoso	10.1109/PACT.2007.37
+Detecting Change in Program Behavior for Adaptive Optimization.	Nitzan Peleg,Bilha Mendelson	10.1109/PACT.2007.25
+A Flexible Heterogeneous Multi-Core Architecture.	Miquel Pericàs,Adrián Cristal,Francisco J. Cazorla,Rubén González 0001,Daniel A. Jiménez,Mateo Valero	10.1109/PACT.2007.5
+Early Register Release for Out-of-Order Processors with RegisterWindows.	Eduardo Quiñones,Joan-Manuel Parcerisa,Antonio González 0001	10.1109/PACT.2007.28
+Effective Management of DRAM Bandwidth in Multicore Processors.	Nauman Rafique,Won-Taek Lim,Mithuna Thottethodi	10.1109/PACT.2007.29
+Dynamic Cache Placement with Two-level Mapping to Reduce Conflict Misses.	Kaushik Rajan,Ramaswamy Govindarajan,Bharadwaj Amrutur	10.1109/PACT.2007.27
+Runahead Threads: Reducing Resource Contention in SMT Processors.	Tanausú Ramírez,Alex Pajuelo,Oliverio J. Santana,Mateo Valero	10.1109/PACT.2007.63
+Reducing the Impact of Process Variability with Prefetching and Criticality-Based Resource Allocation.	Bogdan F. Romanescu,Michael E. Bauer,Daniel J. Sorin,Sule Ozev	10.1109/PACT.2007.59
+Drug Design on the Cell BroadBand Engine.	Harald Servat,Cecilia Gonzalez,Xavier Aguilar,Daniel Cabrera,Daniel Jiménez-González	10.1109/PACT.2007.26
+Bridging Inputs and Program Dynamic Behavior.	Xipeng Shen,Feng Mao	10.1109/PACT.2007.18
+Power-Aware Compiler Controllable Chip Multiprocessor.	Hiroaki Shikano,Jun Shirako,Yasutaka Wada,Keiji Kimura,Hironori Kasahara	10.1109/PACT.2007.54
+Introducing Control Flow into Vectorized Code.	Jaewook Shin	10.1109/PACT.2007.41
+RSTM : A Relaxed Consistency Software Transactional Memory for Multicores.	Jaswanth Sreeram,Romain Cledat,Tushar Kumar,Santosh Pande	10.1109/PACT.2007.62
+VB-MT: Design Issues and Performance of the Validation Buffer Microarchitecture for Multithreaded Processors.	Rafael Ubal,Julio Sahuquillo,Salvador Petit,Pedro López 0001,José Duato	10.1109/PACT.2007.78
+Speculative Decoupled Software Pipelining.	Neil Vachharajani,Ram Rangan,Easwaran Raman,Matthew J. Bridges,Guilherme Ottoni,David I. August	10.1109/PACT.2007.66
+Automatic Correction of Loop Transformations.	Nicolas Vasilache,Albert Cohen 0001,Louis-Noël Pouchet	10.1109/PACT.2007.17
+FAME: FAirly MEasuring Multithreaded Architectures.	Javier Vera,Francisco J. Cazorla,Alex Pajuelo,Oliverio J. Santana,Enrique Fernández,Mateo Valero	10.1109/PACT.2007.33
+A Scalable Low Power Store Queue for Large InstructionWindow Processors.	Rajesh Vivekanandham,R. Govindarajan	10.1109/PACT.2007.10
+A Phase-Adaptive Approach to Increasing Cache Performance.	Matthew A. Watkins,Sally A. McKee,Lambert Schaelicke	10.1109/PACT.2007.9
+A Study of a Transactional Parallel Routing Algorithm.	Ian Watson,Chris C. Kirkham,Mikel Luján	10.1109/PACT.2007.11
+Adapting to Intermittent Faults in Future Multicore Systems.	Philip M. Wells,Koushik Chakraborty,Gurindar S. Sohi	10.1109/PACT.2007.13
+The Fault Tolerant Parallel Algorithm: the Parallel Recomputing Based Failure Recovery.	Xuejun Yang,Yunfei Du,Panfeng Wang,Hongyi Fu,Jia Jia 0004,Zhiyuan Wang,Guang Suo	10.1109/PACT.2007.73
+Compiler Optimizations for Fault Tolerance Software Checking.	Jing Yu 0015,María Jesús Garzarán	10.1109/PACT.2007.22
+Optimizing Bandwidth Constraint through Register Interconnection for Stream Processors.	Weihua Zhang,Tao Bao,Binyu Zang,Chuanqi Zhu	10.1109/PACT.2007.50
+Language and Virtual Machine Support for Efficient Fine-Grained Futures in Java.	Lingli Zhang,Chandra Krintz,Priya Nagpurkar	10.1109/PACT.2007.45
+CacheScouts: Fine-Grain Monitoring of Shared Caches in CMP Platforms.	Li Zhao 0002,Ravi R. Iyer 0001,Ramesh Illikkal,Jaideep Moses,Srihari Makineni,Donald Newell	10.1109/PACT.2007.19
+16th International Conference on Parallel Architectures and Compilation Techniques (PACT 2007), Brasov, Romania, September 15-19, 2007		

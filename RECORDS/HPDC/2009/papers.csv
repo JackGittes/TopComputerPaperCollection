@@ -1,0 +1,28 @@
+DataStager: scalable data staging services for petascale applications.	Hasan Abbasi,Matthew Wolf,Greg Eisenhauer,Scott Klasky,Karsten Schwan,Fang Zheng	10.1145/1551609.1551618
+An adaptive online system for efficient processing of hierarchical data.	Athanasia Asiki,Dimitrios Tsoumakos,Nectarios Koziris	10.1145/1551609.1551627
+Evaluating the cost-benefit of using cloud computing to extend the capacity of clusters.	Marcos Dias de Assunção,Alexandre di Costanzo,Rajkumar Buyya	10.1145/1551609.1551635
+Resource co-allocation for large-scale distributed environments.	Claris Castillo,George N. Rouskas,Khaled Harfoush	10.1145/1551609.1551634
+TakTuk, adaptive deployment of remote executions.	Benoit Claudel,Guillaume Huard,Olivier Richard	10.1145/1551609.1551629
+Y-lib: a user level library to increase the performance of MPI-IO in a lustre file system environment.	Phillip M. Dickens,Jeremy Logan	10.1145/1551609.1551617
+Sustainable HPC infrastructures - supercomputers, grids, and clouds: the DEISA experience.	Wolfgang Gentzsch	10.1145/1551609.1551610
+Exploring data reliability tradeoffs in replicated storage systems.	Abdullah Gharaibeh,Matei Ripeanu	10.1145/1551609.1551643
+Adaptive run-time prediction in heterogeneous environments.	Christian Glasner,Jens Volkert	10.1145/1551609.1551622
+Pluggable parallelisation.	Rui C. Gonçalves,João Luís Sobral	10.1145/1551609.1551614
+Performance enhancement with speculative execution based parallelism for processing large-scale xml-based application data.	Michael R. Head,Madhusudhan Govindaraju	10.1145/1551609.1551615
+High performance wide-area overlay using deadlock-free routing.	Ken Hironaka,Hideo Saito,Kenjiro Taura	10.1145/1551609.1551628
+Interconnect agnostic checkpoint/restart in open MPI.	Joshua Hursey,Timothy Mattox,Andrew Lumsdaine	10.1145/1551609.1551619
+CLOUDLET: towards mapreduce implementation on virtual machines.	Shadi Ibrahim,Hai Jin 0001,Bin Cheng 0001,Haijun Cao,Song Wu 0001,Li Qi	10.1145/1551609.1551624
+An integrated framework for performance-based optimization of scientific workflows.	Vijay S. Kumar,P. Sadayappan,Gaurang Mehta,Karan Vahi,Ewa Deelman,Varun Ratnakar,Jihie Kim,Yolanda Gil,Mary W. Hall,Tahsin M. Kurç,Joel H. Saltz	10.1145/1551609.1551638
+Performance prediction based on hierarchy parallel features captured in multi-processing system.	Jiaxin Li,Feng Shi,Ning Deng 0002,Qi Zuo	10.1145/1551609.1551623
+Modeling user submission strategies on production grids.	Diane Lingrand,Johan Montagnat,Tristan Glatard	10.1145/1551609.1551633
+Live migration of virtual machine based on full system trace and replay.	Haikun Liu,Hai Jin 0001,Xiaofei Liao,Liting Hu,Chen Yu 0003	10.1145/1551609.1551630
+A novel graph based approach for automatic composition of high quality grid workflows.	Jun Qin,Thomas Fahringer,Radu Prodan	10.1145/1551609.1551637
+The quest for scalable support of data-intensive workloads in distributed systems.	Ioan Raicu,Ian T. Foster,Yong Zhao 0009,Philip Little,Christopher Moretti,Amitabh Chaudhary,Douglas Thain	10.1145/1551609.1551642
+Maestro: a self-organizing peer-to-peer dataflow framework using reinforcement learning.	C. van Reeuwijk	10.1145/1551609.1551639
+Maintaining reference graphs of globally accessible objects in fully decentralized distributed systems.	Björn Saballus,Thomas Fuhrmann	10.1145/1551609.1551621
+Collaborative query coordination in community-driven data grids.	Tobias Scholl,Angelika Reiser,Alfons Kemper	10.1145/1551609.1551641
+Trace-based evaluation of job runtime and queue wait time predictions in grids.	Omer Ozan Sonmez,Nezih Yigitbasi,Alexandru Iosup,Dick H. J. Epema	10.1145/1551609.1551632
+Investigating transactional memory performance on ccNUMA machines.	Ruibo Wang,Kai Lu,Xicheng Lu	10.1145/1551609.1551625
+Harnessing parallelism in multicore clusters with the all-pairs and wavefront abstractions.	Li Yi,Christopher Moretti,Scott J. Emrich,Kenneth Judd,Douglas Thain	10.1145/1551609.1551613
+Model-guided autotuning of high-productivity languages for petascale computing.	Hans P. Zima,Mary W. Hall,Chun Chen 0002,Jacqueline Chame	10.1145/1551609.1551611
+Proceedings of the 18th ACM International Symposium on High Performance Distributed Computing, HPDC 2009, Garching, Germany, June 11-13, 2009	Dieter Kranzlmüller,Arndt Bode,Heinz-Gerd Hegering,Henri Casanova,Michael Gerndt	

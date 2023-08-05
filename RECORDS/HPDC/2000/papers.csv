@@ -1,0 +1,46 @@
+Interfacing Wide-Area Network Computing and Cluster Management Software: Condor, DQS and PBS via PUNCH.	Sumalatha Adabala,Nirav H. Kapadia,José A. B. Fortes	10.1109/HPDC.2000.868670
+The Cactus Code: A Problem Solving Environment for the Grid.	Gabrielle Allen,Werner Benger,Tom Goodale,Hans-Christian Hege,Gerd Lanfermann,André Merzky,Thomas Radke,Edward Seidel,John Shalf	10.1109/HPDC.2000.868657
+Failure-Atomic File Access in an Interposed Network Storage System.	Darrell C. Anderson,Jeffrey S. Chase	10.1109/HPDC.2000.868646
+The Modeler&apos;s Workbench: A System for Dynamically Distributed Simulation and Data Collection.	Daniel Andresen,Robert Novotny	10.1109/HPDC.2000.868667
+A Comparative Evaluation of Implicit Coscheduling Strategies for Networks of Workstations.	Cosimo Anglano	10.1109/HPDC.2000.868653
+Managing Network Resources in Condor.	Jim Basney,Miron Livny	10.1109/HPDC.2000.868666
+Creating Large Scale Database Servers.	Jacek Becla,Andrew Hanushevsky	10.1109/HPDC.2000.868659
+Constructing the ASCI Computational Grid.	Judy I. Beiriger,Wilbur R. Johnson,Hugh P. Bivens,Steven L. Humphreys,Ronald Rhea	10.1109/HPDC.2000.868650
+Evaluating Cluster-based Network Servers.	Ricardo Bianchini,Enrique V. Carrera	10.1109/HPDC.2000.868635
+A Component based Services Architecture for Building Distributed Applications.	Randall Bramley,Kenneth Chiu,Shridhar Diwan,Dennis Gannon,Madhusudhan Govindaraju,Nirmal Mukhi,Benjamin Temko,Madhuri Yechuri	10.1109/HPDC.2000.868634
+Probe - A Distributed Storage Testbed.	Randall D. Burris,Michael K. Gleicher,Harvard H. Holmes,Daniel L. Million,S. R. White	10.1109/HPDC.2000.868664
+Automatic Configuration and Run-time Adaptation of Distributed Applications.	Fangzhe Chang,Vijay Karamcheti	10.1109/HPDC.2000.868630
+Event Services for High Performance Computing.	Greg Eisenhauer,Fabián E. Bustamante,Karsten Schwan	10.1109/HPDC.2000.868641
+Robust Resource Management for Metacomputers.	Jörn Gehring,Achim Streit	10.1109/HPDC.2000.868640
+Uintah: A Massively Parallel Problem Solving Environment.	J. Davison de St. Germain,Steven G. Parker,John McCorquodale,Christopher R. Johnson 0001	10.1109/HPDC.2000.868632
+Coupling of Industrial Simulation Codes using CORBA.	Stéphane Gouache,Thierry Priol	10.1109/HPDC.2000.10006
+An Enabling Framework for Master-Worker Applications on the Computational Grid.	Jean-Pierre Goux,Sanjeev Kulkarni,Jeff T. Linderoth,Michael Yoder 0003	10.1109/HPDC.2000.868633
+Distributed Processor Allocation in Large PC Clusters.	Hans-Ulrich Heiss,César A. F. De Rose,Philippe Olivier Alexandre Navaux	10.1109/HPDC.2000.868661
+Data Mining on NASA&apos;s Information Power Grid.	Thomas H. Hinke,Jason Novotny	10.1109/HPDC.2000.868663
+RAID-x: A New Distributed Disk Array for I/O-Centric Cluster Computing.	Kai Hwang 0001,Hai Jin 0001,Roy S. C. Ho	10.1109/HPDC.2000.868660
+2K: A Distributed Operating System for Dynamic Heterogeneous Environments.	Fabio Kon,Roy H. Campbell,M. Dennis Mickunas,Klara Nahrstedt,Francisco J. Ballesteros	10.1109/HPDC.2000.868651
+Speculative Defragmentation - A Technique to Improve the Communication Software Efficiency for Gigabit Ethernet.	Christian Kurmann,Michael Müller,Felix Rauch,Thomas Stricker	10.1109/HPDC.2000.868643
+An Object Infrastructure for Computational Steering of Distributed Simulations.	Rajeev Muralidhar,Manish Parashar	10.1109/HPDC.2000.10004
+A Local Area System Network RHinet-1: A Network for High Performance Parallel Computing.	Hiroaki Nishi,Koji Tasho,Junji Yamamoto,Tomohiro Kudoh,Hideharu Amano	10.1109/HPDC.2000.868665
+Parallel Matching and Sorting with TACO&apos;s Distributed Collections - A Case Study from Molecular Biology Research.	Jörg Nolte,Paul Horton	10.1109/HPDC.2000.868656
+Flexible High-Performance Access to Distributed Storage Resources.	Craig J. Patten,Kenneth A. Hawick	10.1109/HPDC.2000.868648
+dQUOB: Managing Large Data Flows using Dynamic Embedded Queries.	Beth Plale,Karsten Schwan	10.1109/HPDC.2000.868658
+Resource Management through Multilateral Matchmaking.	Rajesh Raman,Miron Livny,Marvin H. Solomon	10.1109/HPDC.2000.868662
+CAVEStudy: An Infrastructure for Computational Steering in Virtual Reality Environments.	Luc Renambot,Henri E. Bal,Desmond Germans,Hans J. W. Spoelder	10.1109/HPDC.2000.868655
+Evaluation of Task Assignment Policies for Supercomputing Servers: The Case for Load Unbalancing and Fairness.	Bianca Schroeder,Mor Harchol-Balter	10.1109/HPDC.2000.868652
+A Distributed Multi-Storage Resource Architecture and I/O Performance Prediction for Scientific Computing.	Xiaohui Shen,Alok N. Choudhary	10.1109/HPDC.2000.868631
+An Evaluation of Alternative Designs for a Grid Information Service.	Warren Smith,Abdul Waheed,David Meyers,Jerry C. Yan	10.1109/HPDC.2000.868649
+High Performance Communication using a Commodity Network for Cluster Systems.	Shinji Sumimoto,Hiroshi Tezuka,Atsushi Hori,Hiroshi Harada,Toshiyuki Takahashi,Yutaka Ishikawa	10.1109/HPDC.2000.868644
+Performance Evaluation of a Firewall-Compliant Globus-based Wide-Area Cluster System.	Yoshio Tanaka,Motonori Hirano,Mitsuhisa Sato,Hidemoto Nakada,Satoshi Sekiguchi	10.1109/HPDC.2000.868642
+Distributed Data Access in the Sequential Access Model in the D0 Experiment at Fermilab.	Igor Terekhov,Victoria White	10.1109/HPDC.2000.868672
+Bypass: A Tool for Building Split Execution Systems.	Douglas Thain,Miron Livny	10.1109/HPDC.2000.868637
+Development of Web Toolkits for Computational Science Portals: The NPACI HotPage.	Mary P. Thomas,Stephen A. Mock,Jay Boisseau	10.1109/HPDC.2000.868671
+A Monitoring Sensor Management System for Grid Environments.	Brian Tierney,Brian Crowley,Dan Gunter,Mason Holding,Jason Lee 0001,Mary R. Thompson	10.1109/HPDC.2000.868639
+Application Placement using Performance Surfaces.	André Turgeon,Quinn Snell,Mark J. Clement	10.1109/HPDC.2000.868654
+Using Idle Workstations to Implement Predictive Prefetching.	Jasmine Y. Q. Wang,Joon Suan Ong,Yvonne Coady,Michael J. Feeley	10.1109/HPDC.2000.868638
+Grid-based File Access: The Legion I/O Model.	Brian S. White,Andrew S. Grimshaw,Anh Nguyen-Tuong	10.1109/HPDC.2000.868647
+Synchronizing Network Probes to Avoid Measurement Intrusiveness with the Network Weather Service.	Richard Wolski,Benjamin Gaidioz,Bernard Tourancheau	10.1109/HPDC.2000.868645
+Prophesy: An Infrastructure for Analyzing and Modeling the Performance of Parallel and Distributed Applications.	Xingfu Wu,Valerie E. Taylor,Jonathan Geisler,Xin Li,Zhiling Lan,Rick L. Stevens,Mark Hereld,Ivan R. Judson	10.1109/HPDC.2000.868668
+Incorporating Job Migration and Network RAM to Share Cluster Memory Resources.	Li Xiao 0001,Xiaodong Zhang 0001,Stefan A. Kubricht	10.1109/HPDC.2000.868636
+QoS and Contention-Aware Multi-Resource Reservation.	Dongyan Xu,Klara Nahrstedt,Arun Viswanathan,Duangdao Wichadakul	10.1109/HPDC.2000.868629
+Proceedings of the Ninth IEEE International Symposium on High Performance Distributed Computing, HPDC&apos;00, Pittsburgh, Pennsylvania, USA, August 1-4, 2000.		

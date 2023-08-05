@@ -1,0 +1,40 @@
+A model of cooperative threads.	Martín Abadi,Gordon D. Plotkin	10.1145/1480881.1480887
+State-dependent representation independence.	Amal Ahmed 0001,Derek Dreyer,Andreas Rossberg	10.1145/1480881.1480925
+Wild control operators.	Chris Barker	10.1145/1480881.1480901
+Formal certification of code-based cryptographic proofs.	Gilles Barthe,Benjamin Grégoire,Santiago Zanella Béguelin	10.1145/1480881.1480894
+Relaxed memory models: an operational approach.	Gérard Boudol,Gustavo Petri	10.1145/1480881.1480930
+Feedback-directed barrier optimization in a strongly isolated STM.	Nathan Grasso Bronson,Christos Kozyrakis,Kunle Olukotun	10.1145/1480881.1480909
+Classical BI: a logic for reasoning about dualising resources.	James Brotherston,Cristiano Calcagno	10.1145/1480881.1480923
+A foundation for flow-based program matching: using temporal logic and model checking.	Julien Brunel,Damien Doligez,René Rydhof Hansen,Julia L. Lawall,Gilles Muller	10.1145/1480881.1480897
+Compositional shape analysis by means of bi-abduction.	Cristiano Calcagno,Dino Distefano,Peter W. O&apos;Hearn,Hongseok Yang	10.1145/1480881.1480917
+Unifying type checking and property checking for low-level code.	Jeremy Condit,Brian Hackett,Shuvendu K. Lahiri,Shaz Qadeer	10.1145/1480881.1480921
+A calculus of atomic actions.	Tayfun Elmas,Shaz Qadeer,Serdar Tasiran	10.1145/1480881.1480885
+Local rely-guarantee reasoning.	Xinyu Feng 0001	10.1145/1480881.1480922
+Verifying liveness for asynchronous programs.	Pierre Ganty,Rupak Majumdar,Andrey Rybalchenko	10.1145/1480881.1480895
+Lazy evaluation and delimited control.	Ronald Garcia,Andrew Lumsdaine,Amr Sabry	10.1145/1480881.1480903
+Proving that non-blocking algorithms don&apos;t block.	Alexey Gotsman,Byron Cook,Matthew J. Parkinson,Viktor Vafeiadis	10.1145/1480881.1480886
+The semantics of progress in lock-based transactional memory.	Rachid Guerraoui,Michal Kapalka	10.1145/1480881.1480931
+A combination framework for tracking partition sizes.	Sumit Gulwani,Tal Lev-Ami,Mooly Sagiv	10.1145/1480881.1480912
+SPEED: precise and efficient static estimation of program computational complexity.	Sumit Gulwani,Krishna K. Mehra,Trishul M. Chilimbi	10.1145/1480881.1480898
+Semi-sparse flow-sensitive pointer analysis.	Ben Hardekopf,Calvin Lin	10.1145/1480881.1480911
+Language constructs for transactional memory.	Tim Harris 0001	10.1145/1480881.1480883
+Automated verification of practical garbage collectors.	Chris Hawblitzel,Erez Petrank	10.1145/1480881.1480935
+Positive supercompilation for a higher order call-by-value language.	Peter A. Jonsson,Johan Nordlander	10.1145/1480881.1480916
+Types and higher-order recursion schemes for verification of higher-order programs.	Naoki Kobayashi 0001	10.1145/1480881.1480933
+Focusing on pattern matching.	Neelakantan R. Krishnaswami	10.1145/1480881.1480927
+Flexible types: robust type inference for first-class polymorphism.	Daan Leijen	10.1145/1480881.1480891
+A cost semantics for self-adjusting computation.	Ruy Ley-Wild,Umut A. Acar,Matthew Fluet	10.1145/1480881.1480907
+Modular code generation from synchronous block diagrams: modularity vs. code size.	Roberto Lublinerman,Christian Szegedy,Stavros Tripakis	10.1145/1480881.1480893
+Automatic modular abstractions for linear constraints.	David Monniaux	10.1145/1480881.1480899
+Modeling abstract types in modules with open existential types.	Benoît Montagu,Didier Rémy	10.1145/1480881.1480926
+The third homomorphism theorem on trees: downward &amp; upward lead to divide-and-conquer.	Akimasa Morihata,Kiminori Matsuzaki,Zhenjiang Hu,Masato Takeichi	10.1145/1480881.1480905
+Masked types for sound object initialization.	Xin Qi,Andrew C. Myers	10.1145/1480881.1480890
+Verifying distributed systems: the operational approach.	Tom Ridge	10.1145/1480881.1480934
+The semantics of x86-CC multiprocessor machine code.	Susmit Sarkar,Peter Sewell,Francesco Zappa Nardelli,Scott Owens,Tom Ridge,Thomas Braibant,Magnus O. Myreen,Jade Alglave	10.1145/1480881.1480929
+Linear types for computational effects.	Alex Simpson	10.1145/1480881.1480919
+Equality saturation: a new approach to optimization.	Ross Tate,Michael Stepp,Zachary Tatlock,Sorin Lerner	10.1145/1480881.1480915
+Copy-on-write in the PHP language.	Akihiko Tozawa,Michiaki Tatsubori,Tamiya Onodera,Yasuhiko Minamide	10.1145/1480881.1480908
+Bidirectionalization for free! (Pearl).	Janis Voigtländer	10.1145/1480881.1480904
+The theory of deadlock avoidance via discrete control.	Yin Wang 0001,Stéphane Lafortune,Terence Kelly,Manjunath Kudlur,Scott A. Mahlke	10.1145/1480881.1480913
+Static contract checking for Haskell.	Dana N. Xu,Simon L. Peyton Jones,Koen Claessen	10.1145/1480881.1480889
+Proceedings of the 36th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2009, Savannah, GA, USA, January 21-23, 2009	Zhong Shao,Benjamin C. Pierce	10.1145/1480881

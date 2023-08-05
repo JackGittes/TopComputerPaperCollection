@@ -1,0 +1,69 @@
+Robust Resource Allocation for Sensor-Actuator Distributed Computing Systems.	Shoukat Ali,Anthony A. Maciejewski,Howard Jay Siegel,Jong-Kook Kim	10.1109/ICPP.2004.1327919
+LYE: A High-Performance Caching SOAP Implementation.	Daniel Andresen,David Sexton,Kiran Devaram,Venkatesh Prasad Ranganath	10.1109/ICPP.2004.1327914
+Architectural Characterization of an XML-Centric Commercial Server Workload.	Padma Apparao,Ravi R. Iyer 0001,Ricardo Morin,Naren Nayak,Mahesh Bhat,David Halliwell,William Steinberg	10.1109/ICPP.2004.1327935
+Algorithm Design and Synthesis for Wireless Sensor Networks.	Amol Bakshi,Viktor K. Prasanna	10.1109/ICPP.2004.1327951
+Partitioning Real-Time Tasks among Heterogeneous Multiprocessors.	Sanjoy K. Baruah	10.1109/ICPP.2004.1327956
+Complexity Results and Heuristics for Pipelined Multicast Operations on Heterogeneous Platforms.	Olivier Beaumont,Arnaud Legrand,Loris Marchal,Yves Robert	10.1109/ICPP.2004.1327931
+Evaluating the Scalability of Java Event-Driven Web Servers.	Vicenç Beltran 0001,David Carrera 0001,Jordi Torres,Eduard Ayguadé	10.1109/ICPP.2004.1327913
+Future Building Blocks for Parallel Architectures.	Ulrich Brüning 0001,Wolfgang K. Giloi	10.1109/ICPP.2004.1327943
+PDAgent: A Platform for Developing and Deploying Mobile Agent-Enabled Applications for Wireless Devices.	Jiannong Cao 0001,Daniel C. K. Tse,Alvin T. S. Chan	10.1109/ICPP.2004.1327961
+Taming Lambda&apos;s for Applications: The OptIPuter System Software.	Andrew A. Chien	10.1109/ICPP.2004.1327922
+Group-Based Cooperative Cache Management for Mobile Clients in a Mobile Environment.	Chi-Yin Chow,Hong Va Leong,Alvin T. S. Chan	10.1109/ICPP.2004.1327907
+The Euler Tour Technique and Parallel Rooted Spanning Tree.	Guojing Cong,David A. Bader	10.1109/ICPP.2004.1327954
+Dynamic Load Balancing of MPI+OpenMP Applications.	Julita Corbalán,Alejandro Duran,Jesús Labarta	10.1109/ICPP.2004.1327921
+Packet Size Optimization for Supporting Coarse-Grained Pipelined Parallelism.	Wei Du,Gagan Agrawal	10.1109/ICPP.2004.1327929
+A Runtime System for Autonomic Rescheduling of MPI Programs.	Cong Du,Sumonto Ghosh,Shashank Shankar,Xian-He Sun	10.1109/ICPP.2004.1327898
+A Data Scheduling Algorithm for Autonomous Distributed Real-Time Applications in Grid Computing.	Mohammed Eltayeb,Atakan Dogan,Füsun Özgüner	10.1109/ICPP.2004.1327947
+16-Bit FP Sub-Word Parallelism to Facilitate Compiler Vectorization and Improve Performance of Image and Media Processing.	Daniel Etiemble,Lionel Lacassagne	10.1109/ICPP.2004.1327964
+Architectural Support for System Software on Large-Scale Clusters.	Juan Fernández 0001,Eitan Frachtenberg,Fabrizio Petrini	10.1109/ICPP.2004.1327962
+Migration Decision for Hybrid Mobility in Reconfigurable Distributed Virtual Machines.	Song Fu,Cheng-Zhong Xu 0001	10.1109/ICPP.2004.1327940
+An Effective Fault-Tolerant Routing Methodology for Direct Networks.	María Engracia Gómez,Jose Flich,Pedro López 0001,Antonio Robles,José Duato,Nils Agne Nordbotten,Olav Lysne,Tor Skeie	10.1109/ICPP.2004.1327925
+Dynamic, Power-Aware Scheduling for Mobile Clients Using a Transparent Proxy.	Michael Gundlach,Sarah Doster,Haijin Yan,David K. Lowenthal,Scott A. Watterson,Surendar Chandra	10.1109/ICPP.2004.1327966
+Mitigating Information Asymmetries to Achieve Efficient Peer-to-Peer Queries.	Jiang Guo,Baochun Li	10.1109/ICPP.2004.1327908
+A Future of Parallel Computer Architectures.	Mark D. Hill	10.1109/ICPP.2004.1327896
+Using Hardware Operations to Reduce the Synchronization Overhead of Task Pools.	Ralf Hoffmann,Matthias Korch,Thomas Rauber	10.1109/ICPP.2004.1327927
+The k-valent Graph: A New Family of Cayley Graphs for Interconnection.	Sun-Yuan Hsieh,Tien-Te Hsiao	10.1109/ICPP.2004.1327923
+On-Demand Location-Aided QoS Routing in Ad Hoc Networks.	Chun Huang,Fei Dai 0001,Jie Wu 0001	10.1109/ICPP.2004.1327960
+Using Tiling to Scale Parallel Data Cube Construction.	Ruoming Jin,Karthik Vaidyanathan,Ge Yang 0001,Gagan Agrawal	10.1109/ICPP.2004.1327944
+Faucets: Efficient Resource Allocation on the Computational Grid.	Laxmikant V. Kalé,Sameer Kumar 0001,Mani Potnuru,Jayant DeSouza,Sindhura Bandhakavi	10.1109/ICPP.2004.1327948
+A Genetic Algorithm Based Approach for Scheduling Decomposable Data Grid Applications.	Seonho Kim,Jon B. Weissman	10.1109/ICPP.2004.1327949
+Probabilistic Real-Time Guarantees for Component-Oriented Phased Array Radars.	Chin-Fu Kuo,Ya-Shu Chen,Tei-Wei Kuo,Phone Lin,Cheng Chang	10.1109/ICPP.2004.1327926
+Effects of Spatial and Temporal Heterogeneity of Channel Bandwidth on Performance of Individual Messages in Heterogeneous Communication Networks.	Soo-Young Lee,Jun Huang	10.1109/ICPP.2004.1327912
+Performance Models for Evaluation and Automatic Tuning of Symmetric Sparse Matrix-Vector Multiply.	Benjamin C. Lee,Richard W. Vuduc,James Demmel,Katherine A. Yelick	10.1109/ICPP.2004.1327917
+Improving Load/Store Queues Usage in Scientific Computing.	Christophe Lemuet,William Jalby,Sid Ahmed Ali Touati	10.1109/ICPP.2004.1327902
+A Case Study in Exploiting Temporal Uncertainty in Parallel Simulations.	Margaret L. Loper,Richard M. Fujimoto	10.1109/ICPP.2004.1327916
+Parallel Routing and Wavelength Assignment for Optical Multistage Interconnection Networks.	Enyue Lu,S. Q. Zheng 0001	10.1109/ICPP.2004.1327924
+Application-Aware Service Differentiation in PAWNs.	Hanping Lufei,Sivakumar Sellamuthu,Sharun Santhosh,Weisong Shi	10.1109/ICPP.2004.1327950
+Low-Cost Register-Pressure Prediction for Scalar Replacement Using Pseudo-Schedules.	Yin Ma,Steve Carr 0001,Rong Ge	10.1109/ICPP.2004.1327911
+Parallel Software for Inductance Extraction.	Hemant Mahawar,Vivek Sarin	10.1109/ICPP.2004.1327946
+Architecture and Implementation of Chip Multiprocessors: Custom Logic Components and Software for Rapid Prototyping.	Naraig Manjikian,Huang Jin,James Reed,Nathan Cordeiro	10.1109/ICPP.2004.1327958
+StreamGen: A Workload Generation Tool for Distributed Information Flow Applications.	Mohamed S. Mansour,Matthew Wolf,Karsten Schwan	10.1109/ICPP.2004.1327904
+OSCAR - An Opportunistic Call Admission Protocol for LEO Satellite Networks.	Stephan Olariu,Rajendra Shirhatti,Albert Y. Zomaya	10.1109/ICPP.2004.1327965
+Parallel Network RAM: Effectively Utilizing Global Cluster Memory for Large Data-Intensive Parallel Programs.	John Oleszkiewicz,Li Xiao 0001,Yunhao Liu 0001	10.1109/ICPP.2004.1327942
+FIFO Based Multicast Scheduling Algorithm for VOQ Packet Switches.	Deng Pan,Yuanyuan Yang	10.1109/ICPP.2004.1327938
+Job Fairness in Non-Preemptive Job Scheduling.	Gerald Sabin,Garima Kochhar,P. Sadayappan	10.1109/ICPP.2004.1327920
+Adaptive Data Partition for Sorting Using Probability Distribution.	Xipeng Shen,Chen Ding 0001	10.1109/ICPP.2004.1327928
+RMAC: A Reliable Multicast MAC Protocol for Wireless Ad Hoc Networks.	Weisheng Si,Chengzhi Li	10.1109/ICPP.2004.1327959
+Applying Array Contraction to a Sequence of DOALL Loops.	Yonghong Song,Zhiyuan Li 0001	10.1109/ICPP.2004.1327903
+An Algebra for Cross-Experiment Performance Analysis.	Fengguang Song,Felix Wolf 0001,Nikhil Bhatia,Jack J. Dongarra,Shirley Moore	10.1109/ICPP.2004.1327905
+A Novel FDTD Application Featuring OpenMP-MPI Hybrid Parallelization.	Mehmet F. Su,Ihab El-Kady,David A. Bader,Shawn-Yu Lin	10.1109/ICPP.2004.1327945
+Energy-Efficient Scheduling Algorithms of Object Retrieval on Indexed Parallel Broadcast Channels.	Bingjun Sun,Ali R. Hurson,John Hannan	10.1109/ICPP.2004.1327953
+An Efficient Deadlock-Free Tree-Based Routing Algorithm for Irregular Wormhole-Routed Networks Based on the Turn Model	Yau-Ming Sun,Chih-Hsueh Yang,Yeh-Ching Chung,Tai-Yi Huang	10.1109/ICPP.2004.1327941
+Efficient and Scalable All-to-All Personalized Exchange for InfiniBand-Based Clusters.	Sayantan Sur,Hyun-Wook Jin,Dhabaleswar K. Panda 0001	10.1109/ICPP.2004.1327932
+SPAL: A Speedy Packet Lookup Technique for High-Performance Routers.	Nian-Feng Tzeng	10.1109/ICPP.2004.1327934
+The Impact of MPI Queue Usage on Message Latency.	Keith D. Underwood,Ron Brightwell	10.1109/ICPP.2004.1327915
+RGB: A Scalable and Reliable Group Membership Protocol in Mobile Internet.	Guojun Wang 0001,Jiannong Cao 0001,Keith C. C. Chan	10.1109/ICPP.2004.1327939
+Global Partial Replicate Computation Partitioning.	Yiran Wang 0001,Li Chen,Zhaoqing Zhang	10.1109/ICPP.2004.1327910
+Clustering Strategies for Cluster Timestamps.	Paul A. S. Ward,Tao Huang,David J. Taylor	10.1109/ICPP.2004.1327906
+Preemption-Based Avoidance of Priority Inversion for Java.	Adam Welc,Antony L. Hosking,Suresh Jagannathan	10.1109/ICPP.2004.1327963
+POSE: Getting Over Grainsize in Parallel Discrete Event Simulation.	Terry Wilmarth,Laxmikant V. Kalé	10.1109/ICPP.2004.1327899
+Non-Uniform Dependences Partitioned by Recurrence Chains.	Yijun Yu,Erik H. D&apos;Hollander	10.1109/ICPP.2004.1327909
+Distributed QoS-Aware Scheduling Algorithm for WDM Optical Interconnects with Arbitrary Wavelength Conversion Capability.	Zhenghao Zhang,Yuanyuan Yang	10.1109/ICPP.2004.1327936
+BUCS - A Bottom-Up Cache Structure for Networked Storage Servers.	Ming Zhang,Qing Yang 0001	10.1109/ICPP.2004.1327937
+Optimal Parallel Scheduling Algorithm for WDM Optical Interconnects with Recirculating Buffering.	Zhenghao Zhang,Yuanyuan Yang	10.1109/ICPP.2004.1327955
+MobiGATE: A Mobile Gateway Proxy for the Active Deployment of Transport Entities.	Yongjie Zheng,Alvin T. S. Chan	10.1109/ICPP.2004.1327967
+A Reliable Connection Migration Mechanism for Synchronous Transient Communication in Mobile Codes.	Xiliang Zhong,Cheng-Zhong Xu 0001	10.1109/ICPP.2004.1327952
+TAP: A Novel Tunneling Approach for Anonymity in Structured P2P Systems.	Yingwu Zhu,Yiming Hu	10.1109/ICPP.2004.1327900
+Dynamic Layer Management in Super-Peer Architectures.	Zhenyun Zhuang,Yunhao Liu 0001,Li Xiao 0001	10.1109/ICPP.2004.1327901
+Timing Optimization of Nested Loops Considering Code Size for DSP Applications.	Qingfeng Zhuge,Zili Shao,Edwin Hsing-Mean Sha	10.1109/ICPP.2004.1327957
+33rd International Conference on Parallel Processing (ICPP 2004), 15-18 August 2004, Montreal, Quebec, Canada		

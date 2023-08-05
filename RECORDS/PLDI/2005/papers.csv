@@ -1,0 +1,30 @@
+Demystifying on-the-fly spill code.	Alex Aletà,Josep M. Codina,Antonio González 0001,David R. Kaeli	10.1145/1065010.1065032
+Optimising aspectJ.	Pavel Avgustinov,Aske Simon Christensen,Laurie J. Hendren,Sascha Kuzins,Jennifer Lhoták,Ondrej Lhoták,Oege de Moor,Damien Sereni,Ganesh Sittampalam,Julian Tibble	10.1145/1065010.1065026
+TraceBack: first fault diagnosis by reconstruction of distributed control flow.	Andrew Ayers,Richard Schooler,Chris Metcalf,Anant Agarwal,Junghwan Rhee,Emmett Witchel	10.1145/1065010.1065035
+Composing security policies with polymer.	Lujo Bauer,Jay Ligatti,David Walker	10.1145/1065010.1065047
+Threads cannot be implemented as a library.	Hans-Juergen Boehm	10.1145/1065010.1065042
+Shangri-La: achieving high performance from compiled network applications while enabling ease of programming.	Michael K. Chen,Xiao-Feng Li,Ruiqi Lian,Jason H. Lin,Lixia Liu,Tao Liu,Roy Ju	10.1145/1065010.1065038
+Semantic type qualifiers.	Brian Chin,Shane Markstrum,Todd D. Millstein	10.1145/1065010.1065022
+Automatically partitioning packet processing applications for pipelined architectures.	Jinquan Dai,Bo Huang 0002,Long Li,Luddy Harrison	10.1145/1065010.1065039
+VYRD: verifYing concurrent programs by runtime refinement-violation detection.	Tayfun Elmas,Serdar Tasiran,Shaz Qadeer	10.1145/1065010.1065015
+PADS: a domain-specific language for processing ad hoc data.	Kathleen Fisher,Robert Gruber	10.1145/1065010.1065046
+Formal loop merging for signal transforms.	Franz Franchetti,Yevgen Voronenko,Markus Püschel	10.1145/1065010.1065048
+Checking type safety of foreign function calls.	Michael Furr,Jeffrey S. Foster	10.1145/1065010.1065019
+DART: directed automated random testing.	Patrice Godefroid,Nils Klarlund,Koushik Sen	10.1145/1065010.1065036
+The transactional manifesto: software engineering and non-blocking synchronization.	Maurice Herlihy	10.1145/1065010.1065011
+Garbage collection without paging.	Matthew Hertz,Yi Feng,Emery D. Berger	10.1145/1065010.1065028
+Path slicing.	Ranjit Jhala,Rupak Majumdar	10.1145/1065010.1065016
+Code placement for improving dynamic branch prediction accuracy.	Daniel A. Jiménez	10.1145/1065010.1065025
+Permission-based ownership: encapsulating state in higher-order typed languages.	Neelakantan R. Krishnaswami,Jonathan Aldrich	10.1145/1065010.1065023
+Automatic pool allocation: improving performance by controlling data structure layout in the heap.	Chris Lattner,Vikram S. Adve	10.1145/1065010.1065027
+Scalable statistical bug isolation.	Ben Liblit,Mayur Naik,Alice X. Zheng,Alexander Aiken,Michael I. Jordan	10.1145/1065010.1065014
+Pin: building customized program analysis tools with dynamic instrumentation.	Chi-Keung Luk,Robert S. Cohn,Robert Muth,Harish Patil,Artur Klauser,P. Geoffrey Lowney,Steven Wallace,Vijay Janapa Reddi,Kim M. Hazelwood	10.1145/1065010.1065034
+Jungloid mining: helping to navigate the API jungle.	David Mandelin,Lin Xu,Rastislav Bodík,Doug Kimelman	10.1145/1065010.1065018
+Programming ad-hoc networks of mobile and resource-constrained devices.	Yang Ni,Ulrich Kremer,Adrian Stere,Liviu Iftode	10.1145/1065010.1065040
+Mitosis compiler: an infrastructure for speculative threading based on pre-computation slices.	Carlos García Quiñones,Carlos Madriles,F. Jesús Sánchez,Pedro Marcuello,Antonio González 0001,Dean M. Tullsen	10.1145/1065010.1065043
+Register allocation for software pipelined multi-dimensional loops.	Hongbo Rong,Alban Douillet,Guang R. Gao	10.1145/1065010.1065030
+Essential language support for generic programming.	Jeremy G. Siek,Andrew Lumsdaine	10.1145/1065010.1065021
+Programming by sketching for bit-streaming programs.	Armando Solar-Lezama,Rodric M. Rabbah,Rastislav Bodík,Kemal Ebcioglu	10.1145/1065010.1065045
+A serializability violation detector for shared-memory server programs.	Min Xu,Rastislav Bodík,Mark D. Hill	10.1145/1065010.1065013
+Differential register allocation.	Xiaotong Zhuang,Santosh Pande	10.1145/1065010.1065031
+Proceedings of the ACM SIGPLAN 2005 Conference on Programming Language Design and Implementation, Chicago, IL, USA, June 12-15, 2005	Vivek Sarkar,Mary W. Hall	10.1145/1065010

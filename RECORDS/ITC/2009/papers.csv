@@ -1,0 +1,82 @@
+Non-invasive RF built-in testing using on-chip temperature sensors.	Eduardo Aldrete-Vidrio,Marvin Onabajo,Josep Altet,Diego Mateo,José Silva-Martínez	10.1109/TEST.2009.5355901
+Microprocessor system failures debug and fault isolation methodology.	M. Enamul Amyeen,Srikanth Venkataraman,Mun Wai Mak	10.1109/TEST.2009.5355702
+Power scan: DFT for power switches in VLSI designs.	Bing-Chuan Bai,Chien-Mo James Li,Augusli Kifli,Even Tsai,Kun-Cheng Wu	10.1109/TEST.2009.5355631
+Feature based similarity search with application to speedpath analysis.	Nicholas Callegari,Li-C. Wang,Pouria Bastani	10.1109/TEST.2009.5355708
+Test infrastructures evaluation at transaction level.	Stefano Di Carlo,Nadereh Hatami,Paolo Prinetto	10.1109/TEST.2009.5355830
+Capture power reduction using clock gating aware test generation.	Krishna Chakravadhanula,Vivek Chickermane,Brion L. Keller,Patrick R. Gallagher Jr.,Prashant Narang	10.1109/TEST.2009.5355649
+Speeding up bounded sequential equivalence checking with cross-timeframe state-pair constraints from data learning.	Chia-Ling Chang,Charles H.-P. Wen,Jayanta Bhadra	10.1109/TEST.2009.5355713
+Using transition test to understand timing behavior of logic circuits on UltraSPARCTM T2 family.	Liang-Chi Chen,Paul Dickinson,Peter Dahlgren,Scott Davidson,Olivier Caty,Kevin Wu	10.1109/TEST.2009.5355655
+Data learning techniques and methodology for Fmax prediction.	Janine Chen,Li-C. Wang,Po-Hsien Chang,Jing Zeng,S. Yu,Michael Mateja	10.1109/TEST.2009.5355620
+A novel test flow for one-time-programming applications of NROM technology.	Ching-Yu Chin,Yao-Te Tsou,Chi-Min Chang,Mango Chia-Tso Chao	10.1109/TEST.2009.5355537
+Fine resolution double edge clipping with calibration technique for built-in at-speed delay testing.	Chen-I Chung,Shuo-Wen Chang,Ching-Hwa Cheng	10.1109/TEST.2009.5355907
+Fast extended test access via JTAG and FPGAs.	Sergei Devadze,Artur Jutman,Igor Aleksejev,Raimund Ubar	10.1109/TEST.2009.5355668
+Accurate measurement of small delay defect coverage of test patterns.	Narendra Devta-Prasanna,Sandeep Kumar Goel,Arun Gunda,Mark Ward,P. Krishnamurthy	10.1109/TEST.2009.5355644
+Fast circuit topology based method to configure the scan chains in Illinois Scan architecture.	Swapneel Donglikar,Mainak Banga,Maheshwar Chandrasekar,Michael S. Hsiao	10.1109/TEST.2009.5355661
+Minimizing outlier delay test cost in the presence of systematic variability.	Dragoljub Gagi Drmanac,Brendon Bolin,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2009.5355643
+Test Mode Entry and Exit Methods for IEEE P1581 compliant devices.	Heiko Ehrenberg	10.1109/TEST.2009.5355636
+Dynamic arbitrary jitter injection method for ≫6.5Gb/s SerDes testing.	Tasuku Fujibe,Masakatsu Suda,Kazuhiro Yamamoto,Yoshihito Nagata,Kazuhiro Fujita,Daisuke Watanabe,Toshiyuki Okayasu	10.1109/TEST.2009.5355735
+Boundary-scan adoption - an industry snapshot with emphasis on the semiconductor industry.	Philip B. Geiger,Steve Butkovich	10.1109/TEST.2009.5355673
+Test access mechanism for multiple identical cores.	Grady Giles,Jing Wang,Anuja Sehgal,Kedarnath J. Balakrishnan,James Wingfield	10.1109/TEST.2009.5355560
+Comparing the effectiveness of deterministic bridge fault and multiple-detect stuck fault patterns for physical bridge defects: A simulation and silicon study.	Sandeep Kumar Goel,Narendra Devta-Prasanna,Mark Ward	10.1109/TEST.2009.5355762
+Application of non-parametric statistics of the parametric response for defect diagnosis.	Rama Gudavalli,W. Robert Daasch,Phil Nigh,Douglas Heaberlin	10.1109/TEST.2009.5355728
+Cache-resident self-testing for I/O circuitry.	Sankar Gurumurthy,D. Bertanzetti,P. Jakobsen,Jeff Rearick	10.1109/TEST.2009.5355549
+Defect-oriented cell-aware ATPG and fault simulation for industrial cell libraries and designs.	Friedrich Hapke,Rene Krenz-Baath,Andreas Glowatz,Jürgen Schlöffel,Hamidreza Hashempour,Stefan Eichenberger,Camelia Hora,Dan Adolfsson	10.1109/TEST.2009.5355741
+An outlier detection based approach for PCB testing.	Xin He,Yashwant K. Malaiya,Anura P. Jayasumana,Kenneth P. Parker,Stephen Hird	10.1109/TEST.2009.5355761
+Diagnostic test generation for transition faults using a stuck-at ATPG tool.	Yoshinobu Higami,Yosuke Kurose,Satoshi Ohno,Hironori Yamaoka,Hiroshi Takahashi,Yoshihiro Shimizu,Takashi Aikyo,Yuzo Takamatsu	10.1109/TEST.2009.5355681
+Tolerance of performance degrading faults for effective yield improvement.	Tong-Yu Hsieh,Melvin A. Breuer,Murali Annavaram,Sandeep K. Gupta,Kuen-Jong Lee	10.1109/TEST.2009.5355594
+Test economics for homogeneous manycore systems.	Lin Huang 0002,Qiang Xu 0001	10.1109/TEST.2009.5355748
+Manufacturing data: Maximizing value using component-to-system analysis.	Matthias Kamm	10.1109/TEST.2009.5355834
+Automatic diagnostic tool for Analog-Mixed Signal and RF load boards.	Sukeshwar Kannan,Bruce C. Kim	10.1109/TEST.2009.5355836
+Built-in Self Test for Error Vector Magnitude measurement of RF transceiver.	Bilal El Kassir,Christophe Kelma,Bernard Jarry,Michel Campovecchio	10.1109/TEST.2009.5355906
+A development platform and electronic modules for automated test up to 20 Gbps.	David C. Keezer,Carl Gray,A. M. Majid,Dany Minier,Patrice Ducharme	10.1109/TEST.2009.5355701
+A novel multisite testing techniques by using frequency synthesizer.	Boyon Kim,Il-Chan Park,Giseob Song,Wooseong Choi,Byeong-Yun Kim,Kyutaek Lee,Chi-Young Choi	10.1109/TEST.2009.5355814
+Cost-effective approach to improve EMI yield loss.	Hsuan-Chung Ko,Deng-Yao Chang,Cheng-Nan Hu	10.1109/TEST.2009.5355696
+Enabling GSM/GPRS/EDGE EVM testing on low cost multi-site testers.	Bobby Lai,Chris Rivera,Khurram Waheed	10.1109/TEST.2009.5355626
+Doing more with less - An IEEE 1149.7 embedded tutorial : Standard for reduced-pin and enhanced-functionality test access port and boundary-scan architecture.	Adam W. Ley	10.1109/TEST.2009.5355572
+Defect coverage of non-intrusive board tests (NBT): What does it mean when a non-intrusive board test passes?	Adam W. Ley	10.1109/TEST.2009.5355828
+An ant colony optimization technique for abstraction-guided state justification.	Min Li 0013,Michael S. Hsiao	10.1109/TEST.2009.5355676
+Test effectiveness evaluation through analysis of readily-available tester data.	Yen-Tzu Lin,Ronald D. Blanton	10.1109/TEST.2009.5355716
+On simultaneous shift- and capture-power reduction in linear decompressor-based test compression environment.	Xiao Liu 0011,Qiang Xu 0001	10.1109/TEST.2009.5355554
+Trace signal selection for debugging electrical errors in post-silicon validation.	Xiao Liu 0011,Qiang Xu 0001	10.1109/TEST.2009.5355831
+Eliminating product infant mortality failures using prognostic analysis.	Len Losik	10.1109/TEST.2009.5355817
+A novel array-based test methodology for local process variation monitoring.	Tseng-Chin Luo,Mango Chia-Tso Chao,Michael S.-Y. Wu,Kuo-Tsai Li,Chin C. Hsia,Huan-Chi Tseng,Chuen-Uan Huang,Yuan-Yao Chang,Samuel C. Pan,Konrad K.-L. Young	10.1109/TEST.2009.5355656
+A timestamping method using reduced cost ADC hardware.	Timothy Daniel Lyons	10.1109/TEST.2009.5355736
+Testing 3D chips containing through-silicon vias.	Erik Jan Marinissen,Yervant Zorian	10.1109/TEST.2009.5355573
+NAND flash testing: A preliminary study on actual defects.	Pierre-Didier Mauroux,Arnaud Virazel,Alberto Bosio,Luigi Dilillo,Patrick Girard 0001,Serge Pravossoudovitch,Benoît Godard	10.1109/TEST.2009.5355898
+Running scan test on three pins: yes we can!	Jocelyn Moreau,Thomas Droniou,Philippe Lebourg,Paul Armagnat	10.1109/TEST.2009.5355693
+Compression based on deterministic vector clustering of incompatible test cubes.	Grzegorz Mrugalski,Nilanjan Mukherjee 0001,Janusz Rajski,Dariusz Czysz,Jerzy Tyszer	10.1109/TEST.2009.5355555
+Fault diagnosis for embedded read-only memories.	Nilanjan Mukherjee 0001,Artur Pogiel,Janusz Rajski,Jerzy Tyszer	10.1109/TEST.2009.5355530
+A2DTest: A complete integrated solution for on-chip ADC self-test and analysis.	Brendan Mullane,Vincent O&apos;Brien,Ciaran MacNamee,Thomas Fleischmann	10.1109/TEST.2009.5355722
+Intel® IBIST, the full vision realized.	Jay J. Nejedlo,Rahul Khanna	10.1109/TEST.2009.5355667
+Design for failure analysis inserting replacement-type observation points for LVP.	Junpei Nonaka,Toshio Ishiyama,Kazuki Shigeta	10.1109/TEST.2009.5355707
+SSC applied serial ATA signal generation and analysis by analog tester resources.	Hideo Okawara	10.1109/TEST.2009.5355767
+What is IEEE P1149.8.1 and why?	Kenneth P. Parker,Jeff Burgess	10.1109/TEST.2009.5355837
+Voltage transient detection and induction for debug and test.	Rex Petersen,Pankaj Pant,Pablo Lopez,Aaron Barton,Jim Ignowski,Doug Josephson	10.1109/TEST.2009.5355542
+Scalable and efficient integrated test architecture.	Michele Portolan,Suresh Goyal,Bradford G. Van Treuren	10.1109/TEST.2009.5355811
+IEEE P1687 IJTAG a presentation of current technology.	Ken Posse,Al Crouch,Jeff Rearick	10.1109/TEST.2009.5355639
+Low cost test point insertion without using extra registers for high performance design.	Haoxing Ren,Mary P. Kusko,Victor N. Kravets,Rona Yaari	10.1109/TEST.2009.5355747
+Low cost AM/AM and AM/PM distortion measurement using distortion-to-amplitude transformations.	Shreyas Sen,Shyam Kumar Devarakond,Abhijit Chatterjee	10.1109/TEST.2009.5355531
+Very-Low-Voltage testing of amorphous silicon TFT circuits.	Shiue-Tsung Shen,Wei-Hsiao Liu,Chien-Mo James Li,I-Chun Cheng	10.1109/TEST.2009.5355808
+Design-for-secure-test for crypto cores.	Youhua Shi,Nozomu Togawa,Masao Yanagisawa,Tatsuo Ohtsuki	10.1109/TEST.2009.5355900
+New modeling methods for bounded Gaussian jitter (BGJ)/noise (BGN) and their applications in jitter/noise estimation/testing.	Masashi Shimanouchi,Mike P. Li,Daniel Chow	10.1109/TEST.2009.5355727
+Thermal characterization of BIST, scan design and sequential test methodologies.	Muzaffer O. Simsir,Niraj K. Jha	10.1109/TEST.2009.5355733
+X-alignment techniques for improving the observability of response compactors.	Ozgur Sinanoglu,Sobeeh Almukhaizim	10.1109/TEST.2009.5355682
+On-chip power supply noise measurement using Time Resolved Emission (TRE) waveforms of Light Emission from Off-State Leakage Current (LEOSLC).	Franco Stellari,Peilin Song,John Sylvestri,D. Miles,Orazio P. Forlenza,Donato O. Forlenza	10.1109/TEST.2009.5355543
+Testing bridges to nowhere - combining Boundary Scan and capacitive sensing.	Steve Sunter,Kenneth P. Parker	10.1109/TEST.2009.5355662
+AutoRex: An automated post-silicon clock tuning tool.	Desta Tadesse,Joel Grodstein,R. Iris Bahar	10.1109/TEST.2009.5355650
+Augmenting board test coverage with new intel powered opens boundary scan instruction.	Chwee Liong Tee,Tzyy Haw Tan,Chin Chuan Ng	10.1109/TEST.2009.5355756
+BIST scheme for RF VCOs allowing the self-correction of the cut.	Luca Testa,Hervé Lapuyade,Yann Deval,Olivier Mazouffre,Jean-Louis Carbonéro,Jean-Baptiste Bégueret	10.1109/TEST.2009.5355721
+Portable simulation/emulation stimulus on an industrial-strength SoC.	Francisco Torres,Rohit Srivastava,Javier Ruiz,Charles H.-P. Wen,Mrinal Bose,Jayanta Bhadra	10.1109/TEST.2009.5355904
+High Speed I/O Test Cable Assembly Interfaces for Next Generation Multi-Gigabit Serial Protocols.	Jim Vana,Alexander Barr,Richard Scherer,Abhay Joshi	10.1109/TEST.2009.5355810
+A novel architecture for on-chip path delay measurement.	Xiaoxiao Wang 0001,Mohammad Tehranipoor,Ramyanshu Datta	10.1109/TEST.2009.5355742
+A comprehensive TCAM test scheme: An optimized test algorithm considering physical layout and combining scan test with at-speed BIST design.	Hsiang-Huang Wu,Jih-Nung Lee,Ming-Cheng Chiang,Po-Wei Liu,Chi-Feng Wu	10.1109/TEST.2009.5355536
+Low power multi-chains encoding scheme for SoC in low-cost environment.	Po-Han Wu,Jiann-Chyi Rau	10.1109/TEST.2009.5355633
+A robust method for identifying a deterministic jitter model in a total jitter distribution.	Takahiro J. Yamaguchi,Kiyotaka Ichiyama,X. H. Hou,Masahiro Ishida	10.1109/TEST.2009.5355768
+Test point insertion using functional flip-flops to drive control points.	Joon-Sung Yang,Benoit Nadeau-Dostie,Nur A. Touba	10.1109/TEST.2009.5355688
+An industrial case study for X-canceling MISR.	Joon-Sung Yang,Nur A. Touba,Shih-Yu Yang,T. M. Mak	10.1109/TEST.2009.5355687
+Power and thermal constrained test scheduling.	Chunhua Yao,Kewal K. Saluja,Parameswaran Ramanathan	10.1109/TEST.2009.5355630
+An economical, precise and limited access In-Circuit Test method for pulse-width modulation (PWM) circuits.	Albert Yeh,Jesse Chou,Max Lin	10.1109/TEST.2009.5355755
+Built-in EVM measurement for OFDM transceivers using all-digital DFT.	Ender Yilmaz,Afsaneh Nassery,Sule Ozev,Erkan Acar	10.1109/TEST.2009.5355625
+Compression-aware pseudo-functional testing.	Feng Yuan,Qiang Xu 0001	10.1109/TEST.2009.5355548
+Physical defect modeling for fault insertion in system reliability test.	Zhaobo Zhang,Zhanglei Wang,Xinli Gu,Krishnendu Chakrabarty	10.1109/TEST.2009.5355715
+2009 IEEE International Test Conference, ITC 2009, Austin, TX, USA, November 1-6, 2009	Gordon W. Roberts,Bill Eklow	

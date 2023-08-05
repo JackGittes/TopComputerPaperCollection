@@ -1,0 +1,34 @@
+Synchronizing the Timestamps of Concurrent Events in Traces of Hybrid MPI/OpenMP Applications.	Daniel Becker 0001,Markus Geimer,Rolf Rabenseifner,Felix Wolf 0001	10.1109/CLUSTER.2010.13
+Analysis of Tasks Reallocation in a Dedicated Grid Environment.	Yves Caniou,Ghislain Charrier,Frédéric Desprez	10.1109/CLUSTER.2010.39
+Integration Experiences and Performance Studies of A COTS Parallel Archive System.	Hsing-bung Chen,Gary Grider,Cody Scott,Milton Turley,Aaron Torres,Kathy Sanchez,John Bremer	10.1109/CLUSTER.2010.23
+SHelp: Automatic Self-Healing for Multiple Application Instances in a Virtual Machine Environment.	Gang Chen,Hai Jin 0001,Deqing Zou,Bing Bing Zhou,Weizhong Qiang,Gang Hu	10.1109/CLUSTER.2010.18
+Improving Parallel I/O Performance with Data Layout Awareness.	Yong Chen 0001,Xian-He Sun,Rajeev Thakur,Huaiming Song,Hui Jin 0001	10.1109/CLUSTER.2010.35
+Replication-Based Highly Available Metadata Management for Cluster File Systems.	Zhuan Chen,Jin Xiong,Dan Meng	10.1109/CLUSTER.2010.34
+The Impact of System Design Parameters on Application Noise Sensitivity.	Kurt B. Ferreira,Patrick G. Bridges,Ron Brightwell,Kevin T. Pedretti	10.1109/CLUSTER.2010.41
+An Efficient Process Live Migration Mechanism for Load Balanced Distributed Virtual Environments.	Balazs Gerofi,Hajime Fujita 0002,Yutaka Ishikawa	10.1109/CLUSTER.2010.25
+Designing OS for HPC Applications: Scheduling.	Roberto Gioiosa,Sally A. McKee,Mateo Valero	10.1109/CLUSTER.2010.16
+Energy-Aware Scheduling in Virtualized Datacenters.	Iñigo Goiri,Ferran Julià,Ramon Nou,Josep Lluis Berral,Jordi Guitart,Jordi Torres	10.1109/CLUSTER.2010.15
+Minimizing MPI Resource Contention in Multithreaded Multicore Environments.	David Goodell,Pavan Balaji,Darius Buntinas,Gábor Dózsa,William Gropp,Sameer Kumar 0001,Bronis R. de Supinski,Rajeev Thakur	10.1109/CLUSTER.2010.11
+Host Side Dynamic Reconfiguration with InfiniBand.	Wei Lin Guay,Sven-Arne Reinemo,Olav Lysne,Tor Skeie,Bjørn Dag Johnsen,Line Holen	10.1109/CLUSTER.2010.21
+Performance Analysis of Multi-level Time Sharing Task Assignment Policies on Cluster-Based Systems.	Malith Jayasinghe,Zahir Tari,Panlop Zeephongsekul	10.1109/CLUSTER.2010.32
+Asynchronous Algorithms in MapReduce.	Karthik Kambatla,Naresh Rapolu,Suresh Jagannathan,Ananth Grama	10.1109/CLUSTER.2010.30
+Virtualizing Modern High-Speed Interconnection Networks with Performance and Scalability.	Bo Li 0009,Zhigang Huo,Panyong Zhang,Dan Meng	10.1109/CLUSTER.2010.19
+TCCluster: A Cluster Architecture Utilizing the Processor Host Interface as a Network Interconnect.	Heiner Litz,Maximilian Thürmer,Ulrich Brüning 0001	10.1109/CLUSTER.2010.37
+TRACER: A Trace Replay Tool to Evaluate Energy-Efficiency of Mass Storage Systems.	Zhuo Liu,Fei Wu 0005,Xiao Qin 0001,Changsheng Xie,Jian Zhou 0004,Jianzong Wang	10.1109/CLUSTER.2010.40
+Acceleration of Streamed Tensor Contraction Expressions on GPGPU-Based Clusters.	Wenjing Ma,Sriram Krishnamoorthy,Oreste Villa,Karol Kowalski	10.1109/CLUSTER.2010.26
+Getting Rid of Coherency Overhead for Memory-Hungry Applications.	Héctor Montaner,Federico Silla,Holger Fröning,José Duato	10.1109/CLUSTER.2010.14
+Enforcing SLAs in Scientific Clouds.	Oliver Niehörster,André Brinkmann,Gregor Fels,Jens Krüger 0002,Jens Simon	10.1109/CLUSTER.2010.42
+Optimization Techniques at the I/O Forwarding Layer.	Kazuki Ohta,Dries Kimpe,Jason Cope,Kamil Iskra,Robert B. Ross,Yutaka Ishikawa	10.1109/CLUSTER.2010.36
+RDMA-Based Job Migration Framework for MPI over InfiniBand.	Xiangyong Ouyang,Sonya Marcarelli,Raghunath Rajachandrasekar,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2010.20
+Cluster versus GPU implementation of an Orthogonal Target Detection Algorithm for Remotely Sensed Hyperspectral Images.	Abel Paz,Antonio Plaza	10.1109/CLUSTER.2010.28
+Computing Contingency Statistics in Parallel: Design Trade-Offs and Limiting Cases.	Philippe P. Pébay,David C. Thompson 0001,Janine Bennett	10.1109/CLUSTER.2010.43
+Efficient Parallel Subgraph Counting Using G-Tries.	Pedro Manuel Pinto Ribeiro,Fernando M. A. Silva,Luís M. B. Lopes	10.1109/CLUSTER.2010.27
+How to Scale Nested OpenMP Applications on the ScaleMP vSMP Architecture.	Dirk Schmidl,Christian Terboven,Andreas Wolf 0001,Dieter an Mey,Christian H. Bischof	10.1109/CLUSTER.2010.38
+Multiplexing Endpoints of HCA for Scaling MPI Applications: Design and Performance Evaluation with uDAPL.	Jasjit Singh,Yogeshwar Sonawane	10.1109/CLUSTER.2010.22
+Reducing Communication Overhead in Large Eddy Simulation of Jet Engine Noise.	Yingchong Situ,Lixia Liu,Chandra S. Martha,Matthew E. Louis,Zhiyuan Li 0001,Ahmed H. Sameh,Gregory A. Blaisdell,Anastasios S. Lyrintzis	10.1109/CLUSTER.2010.31
+A Simulation Framework to Automatically Analyze the Communication-Computation Overlap in Scientific Applications.	Vladimir Subotic,José Carlos Sancho,Jesús Labarta,Mateo Valero	10.1109/CLUSTER.2010.33
+Breaking the MapReduce Stage Barrier.	Abhishek Verma,Nicolas Zea,Brian Cho,Indranil Gupta,Roy H. Campbell	10.1109/CLUSTER.2010.29
+CDRM: A Cost-Effective Dynamic Replication Management Scheme for Cloud Storage Cluster.	Qingsong Wei,Bharadwaj Veeravalli,Bozhao Gong,Lingfang Zeng,Dan Feng 0001	10.1109/CLUSTER.2010.24
+Adaptive Optimization for Petascale Heterogeneous CPU/GPU Computing.	Canqun Yang,Feng Wang,Yunfei Du,Juan Chen 0001,Jie Liu 0002,Huizhan Yi,Kai Lu	10.1109/CLUSTER.2010.12
+Exploiting Data Deduplication to Accelerate Live Virtual Machine Migration.	Xiang Zhang,Zhigang Huo,Jie Ma,Dan Meng	10.1109/CLUSTER.2010.17
+Proceedings of the 2010 IEEE International Conference on Cluster Computing, Heraklion, Crete, Greece, 20-24 September, 2010		

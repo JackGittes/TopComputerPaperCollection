@@ -1,0 +1,47 @@
+Strong-diameter decompositions of minor free graphs.	Ittai Abraham,Cyril Gavoille,Dahlia Malkhi,Udi Wieder	10.1145/1248377.1248381
+Deadlock-free scheduling of X10 computations with bounded resources.	Shivali Agarwal,Rajkishore Barik,Dan Bonachea,Vivek Sarkar,R. K. Shyamasundar,Katherine A. Yelick	10.1145/1248377.1248416
+Conflict-free coloring for rectangle ranges using O(n.382) colors.	Deepak Ajwani,Khaled M. Elbassioni,Sathish Govindarajan,Saurabh Ray	10.1145/1248377.1248406
+Speed scaling on parallel processors.	Susanne Albers,Fabian Müller,Swen Schmelzer	10.1145/1248377.1248424
+On the truthfulness and the approximation for scheduling selfish tasks.	Eric Angel,Evripidis Bampis,Fanny Pascual,Alex-Ariel Tchetgnia	10.1145/1248377.1248410
+Online collaborative filtering with nearly optimal dynamic regret.	Baruch Awerbuch,Thomas P. Hayes	10.1145/1248377.1248431
+Truthful unsplittable flow for large capacity networks.	Yossi Azar,Iftah Gamzu,Shai Gutner	10.1145/1248377.1248432
+Towards soft optimization techniques for parallel cognitive applications.	Woongki Baek,JaeWoong Chung,Chi Cao Minh,Christos Kozyrakis,Kunle Olukotun	10.1145/1248377.1248389
+Weakening the online adversary just enough to get optimal conflict-free colorings for intervals.	Amotz Bar-Noy,Panagiotis Cheilaris,Svetlana Olonetsky,Shakhar Smorodinsky	10.1145/1248377.1248409
+Optimal sparse matrix dense vector multiplication in the I/O-model.	Michael A. Bender,Gerth Stølting Brodal,Rolf Fagerberg,Riko Jacob,Elias Vicari	10.1145/1248377.1248391
+Cache-oblivious streaming B-trees.	Michael A. Bender,Martin Farach-Colton,Jeremy T. Fineman,Yonatan R. Fogel,Bradley C. Kuszmaul,Jelani Nelson	10.1145/1248377.1248393
+Scheduling DAGs on asynchronous processors.	Michael A. Bender,Cynthia A. Phillips	10.1145/1248377.1248384
+Energy efficient randomised communication in unknown AdHoc networks.	Petra Berenbrink,Colin Cooper,Zengjian Hu	10.1145/1248377.1248419
+Packing to angles and sectors.	Piotr Berman,Jieun K. Jeong,Shiva Prasad Kasiviswanathan,Bhuvan Urgaonkar	10.1145/1248377.1248405
+Proximity-aware directory-based coherence for multi-core processor architectures.	Jeffery A. Brown,Rakesh Kumar 0002,Dean M. Tullsen	10.1145/1248377.1248398
+Online frequency allocation in cellular networks.	Joseph Wun-Tat Chan,Francis Y. L. Chin,Deshi Ye,Yong Zhang 0001	10.1145/1248377.1248418
+Supermatrix out-of-order scheduling of matrix operations for SMP and multi-core architectures.	Ernie Chan,Enrique S. Quintana-Ortí,Gregorio Quintana-Ortí,Robert A. van de Geijn	10.1145/1248377.1248397
+Scheduling threads for constructive cache sharing on CMPs.	Shimin Chen,Phillip B. Gibbons,Michael Kozuch,Vasileios Liaskovitis,Anastassia Ailamaki,Guy E. Blelloch,Babak Falsafi,Limor Fix,Nikos Hardavellas,Todd C. Mowry,Chris Wilkerson	10.1145/1248377.1248396
+The cache-oblivious gaussian elimination paradigm: theoretical framework, parallelization and experimental evaluation.	Rezaul Alam Chowdhury,Vijaya Ramachandran	10.1145/1248377.1248392
+Scheduling to minimize gaps and power consumption.	Erik D. Demaine,Mohammad Ghodsi,Mohammad Taghi Hajiaghayi,Amin S. Sayedi-Roshkhar,Morteza Zadimoghaddam	10.1145/1248377.1248385
+Bi-objective scheduling algorithms for optimizing makespan and reliability on heterogeneous systems.	Jack J. Dongarra,Emmanuel Jeannot,Erik Saule,Zhiao Shi	10.1145/1248377.1248423
+Maximizing total upload in latency-sensitive P2P applications.	John R. Douceur,Jay R. Lorch,Thomas Moscibroda	10.1145/1248377.1248422
+Local strategies for maintaining a chain of relay stations between an explorer and a base station.	Miroslaw Dynia,Jaroslaw Kutylowski,Friedhelm Meyer auf der Heide,Jonas Schrieb	10.1145/1248377.1248420
+On the convergence of multicast games in directed networks.	Angelo Fanelli 0001,Michele Flammini,Luca Moscardelli	10.1145/1248377.1248433
+Universal augmentation schemes for network navigability: overcoming the sqrt(n)-barrier.	Pierre Fraigniaud,Cyril Gavoille,Adrian Kosowski,Emmanuelle Lebhar,Zvi Lotker	10.1145/1248377.1248379
+Local MST computation with short advice.	Pierre Fraigniaud,Amos Korman,Emmanuelle Lebhar	10.1145/1248377.1248402
+Using SIMD registers and instructions to enable instruction-level parallelism in sorting algorithms.	Timothy Furtak,José Nelson Amaral,Robert Niewiadomski	10.1145/1248377.1248436
+Sparse parallel Delaunay mesh refinement.	Benoît Hudson,Gary L. Miller,Todd Phillips	10.1145/1248377.1248435
+A tight bound on online buffer management for two-port shared-memory switches.	Koji M. Kobayashi,Shuichi Miyazaki,Yasuo Okabe	10.1145/1248377.1248437
+On triangulation of simple networks.	Robert Krauthgamer	10.1145/1248377.1248380
+Tight bounds for distributed selection.	Fabian Kuhn,Thomas Locher,Roger Wattenhofer	10.1145/1248377.1248401
+Distributed approximation of capacitated dominating sets.	Fabian Kuhn,Thomas Moscibroda	10.1145/1248377.1248403
+Feasibility study of MPI implementation on the heterogeneous multi-core cell BETM architecture.	Arun Kumar 0004,Naresh Jayam,Ashok Srinivasan,Ganapathy Senthilkumar,Pallav K. Baruah,Shakti Kapoor,Murali Krishna,Raghunath Sharma	10.1145/1248377.1248387
+Cilk provides the &quot;best overall productivity&quot; for high performance computing: (and won the HPC challenge award to prove it).	Bradley C. Kuszmaul	10.1145/1248377.1248426
+Approximation algorithms for multiprocessor scheduling under uncertainty.	Guolong Lin,Rajmohan Rajaraman	10.1145/1248377.1248383
+Optimal bit-reversal using vector permutations.	Anton Lokhmotov,Alan Mycroft	10.1145/1248377.1248411
+The notion of a timed register and its application to indulgent synchronization.	Michel Raynal,Gadi Taubenfeld	10.1145/1248377.1248413
+Time-based transactional memory with scalable time bases.	Torvald Riegel,Christof Fetzer,Pascal Felber	10.1145/1248377.1248415
+Rate vs. buffer size: greedy information gathering on the line.	Adi Rosén,Gabriel Scalosub	10.1145/1248377.1248430
+Nonblocking transactions without indirection using alert-on-update.	Michael F. Spear,Arrvindh Shriraman,Luke Dalessandro,Sandhya Dwarkadas,Michael L. Scott	10.1145/1248377.1248414
+Evaluating synchronization techniques for light-weight multithreaded/multicore architectures.	Srinivas Sridharan 0002,Arun Rodrigues,Peter M. Kogge	10.1145/1248377.1248388
+A parallel dynamic programming algorithm on a multi-core architecture.	Guangming Tan,Ninghui Sun,Guang R. Gao	10.1145/1248377.1248399
+PRAM-on-chip: first commitment to silicon.	Xingzhi Wen,Uzi Vishkin	10.1145/1248377.1248427
+Balanced allocations with heterogenous bins.	Udi Wieder	10.1145/1248377.1248407
+An experimental comparison of cache-oblivious and cache-conscious programs.	Kamen Yotov,Thomas Roeder,Keshav Pingali,John A. Gunnels,Fred G. Gustavson	10.1145/1248377.1248394
+Transactional memory and the birthday paradox.	Craig B. Zilles,Ravi Rajwar	10.1145/1248377.1248428
+SPAA 2007: Proceedings of the 19th Annual ACM Symposium on Parallelism in Algorithms and Architectures, San Diego, California, USA, June 9-11, 2007	Phillip B. Gibbons,Christian Scheideler	10.1145/1248377

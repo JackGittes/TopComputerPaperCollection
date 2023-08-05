@@ -1,0 +1,86 @@
+Restricted Slow-Start for TCP.	William E. Allcock,S. Hegde,Rajkumar Kettimuthu	10.1109/CLUSTR.2005.347079
+Grid and Cluster Matrix Computation with Persistent Storage and Out-of-core Programming.	Lamine M. Aouad,Serge G. Petiton,Mitsuhisa Sato	10.1109/CLUSTR.2005.347071
+Head-to-TOE Evaluation of High-Performance Sockets over Protocol Offload Engines.	Pavan Balaji,Wu-chun Feng,Qi Gao,Ranjit Noronha,Weikuan Yu,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2005.347068
+Supporting iWARP Compatibility and Features for Regular Network Adapters.	Pavan Balaji,Hyun-Wook Jin,Karthikeyan Vaidyanathan,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2005.347032
+Static scheduling of dependent parallel tasks on heterogeneous clusters.	Jorge G. Barbosa,C. N. Morais,Rui Nóbrega,António P. Monteiro	10.1109/CLUSTR.2005.347024
+Multi-stream MPA.	Caitlin Bestler	10.1109/CLUSTR.2005.347033
+Meaningful Automated Statistical Analysis of Large Computational Clusters.	Jim M. Brandt,Ann C. Gentile,Youssef M. Marzouk,Philippe P. Pébay	10.1109/CLUSTR.2005.347090
+Implementation and Performance of Portals 3.3 on the Cray XT3.	Ron Brightwell,Trammell Hudson,Kevin T. Pedretti,Rolf Riesen,Keith D. Underwood	10.1109/CLUSTR.2005.347061
+A TCO Analysis of Cluster Servers Based on TPC-H Benchmarks.	Ethel Airton Capuano	10.1109/CLUSTR.2005.347080
+A Framework for Statistical Analysis of Datasets on Heterogeneous Clusters.	Ricolindo Cariño,Ioana Banicescu	10.1109/CLUSTR.2005.347019
+Quantum Trajectories with Dynamic Loop Scheduling and Reinforcement Learning.	Ricolindo Cariño,Ioana Banicescu,Jaderick P. Pabico,Mahbubur Rashid	10.1109/CLUSTR.2005.347015
+SymbioticSphere: Towards an Autonomic Grid Network System.	Paskorn Champrasert,Chonho Lee,Junichi Suzuki	10.1109/CLUSTR.2005.347086
+Exploiting NIC Memory for Improving Cluster-Based Webserver Performance.	Gyu Sang Choi,Jin-Ha Kim,Deniz Ersoz,Mazin S. Yousif,Chita R. Das	10.1109/CLUSTR.2005.347067
+Toward global and grid computing for large scale linear algebra problems.	Laurent Choy,Serge G. Petiton	10.1109/CLUSTR.2005.347026
+Adaptive Checkpointing for Master-Worker Style Parallelism.	Gene Cooperman,Jason Ansel,Xiaoqin Ma	10.1109/CLUSTR.2005.347096
+Processes Distribution of Homogeneous Parallel Linear Algebra Routines on Heterogeneous Clusters.	Javier Cuenca 0001,Luis-Pedro García,Domingo Giménez,Jack J. Dongarra	10.1109/CLUSTR.2005.347021
+A Performance Analysis of the Ammasso RDMA Enabled Ethernet Adapter and its iWARP API.	Dennis Dalessandro,Pete Wyckoff	10.1109/CLUSTR.2005.347028
+Cluster Spanning with Virtual Environments.	Wesley Emeneker,Dan Stanzione	10.1109/CLUSTR.2005.347087
+The SMASH Impacts to Cluster Computing.	Yung-Chin Fang,Jenwei Hsieh	10.1109/CLUSTR.2005.347081
+Bandwidth Efficient All-to-All Broadcast on Switched Clusters.	Ahmad Faraj,Pitch Patarasuk,Xin Yuan 0001	10.1109/CLUSTR.2005.347049
+Topology-Based Meshes for Local Communication in Data-Parallel Applications.	Silvia Figueira,Stephen P. Beeby,Annie S. Wu	10.1109/CLUSTR.2005.347025
+A pipelined data-parallel algorithm for ILP.	Nuno A. Fonseca,Fernando M. A. Silva,Vítor Santos Costa,Rui Camacho	10.1109/CLUSTR.2005.347059
+An Infrastructure of Network Services for Seamless Integration in Advanced Collaborative Computing Environments.	Han Gao,Ivan R. Judson,Thomas D. Uram,S. Lefvert,Terry Disz,Michael E. Papka,Rick L. Stevens	10.1109/CLUSTR.2005.347072
+Modeling Protocol Offload for Message-oriented Communication.	Patricia Gilfeather,Arthur B. Maccabe	10.1109/CLUSTR.2005.347069
+An Efficient Network API for in-Kernel Applications in Clusters.	Brice Goglin,Olivier Glück,Pascale Vicat-Blanc Primet	10.1109/CLUSTR.2005.347044
+Transparently Achieving Superior Socket Performance Using Zero Copy Socket Direct Protocol over 20Gb/s InfiniBand Links.	Dror Goldenberg,Michael Kagan,Ran Ravid,Michael S. Tsirkin	10.1109/CLUSTR.2005.347027
+Optimizing Latency under Throughput Requirements for Streaming Applications on Cluster Execution.	Fernando Guirado,Ana Ripoll,Concepció Roig,Emilio Luque	10.1109/CLUSTR.2005.347051
+Performance Effects of Interrupt Throttle Rate on Linux Clusters using Intel Gigabit Network Adapters.	Baris Guler,Ramesh Radhakrishnan,Ronald Pepper	10.1109/CLUSTR.2005.347089
+The ELIHE High-Performance Cluster.	Violeta Holmes,Terence McDonough	10.1109/CLUSTR.2005.347091
+A Feasibility Analysis of Power Awareness in Commodity-Based High-Performance Clusters.	Chung-Hsing Hsu,Wu-chun Feng	10.1109/CLUSTR.2005.347063
+TreeP: A Tree Based P2P Network Architecture.	Benoit Hudzia,M. Tahar Kechadi,A. Ottewill	10.1109/CLUSTR.2005.347022
+A Poly-Algorithm for Efficient Parallel Matrix Multiplication on Metacomputing Platforms.	San Jeddi,Wahid Nasri	10.1109/CLUSTR.2005.347020
+Spare Instance: an Adaptive Mechanism for Managing Cluster Applications.	Ying Jiang,Dan Meng,Danjun Liu	10.1109/CLUSTR.2005.347092
+Adaptive Management of a Utility Computing.	Ying Jiang,Dan Meng,Yi Liang,Danjun Liu,Jianfeng Zhan	10.1109/CLUSTR.2005.347012
+A Cost/Benefit Estimating Service for Mapping Parallel Applications on Heterogeneous Clusters.	Dimitrios Katramatos,Steve J. Chapin	10.1109/CLUSTR.2005.347062
+A Load Balancing Scheme for Cluster-based Secure Network Servers.	Jin-Ha Kim,Gyu Sang Choi,Chita R. Das	10.1109/CLUSTR.2005.347056
+Parallel Out-of-Core Matlab for Extreme Virtual Memory.	Hahn Kim,Jeremy Kepner,Crystal Kahn	10.1109/CLUSTR.2005.347016
+Hierarchical CPU Schedulers for Multiprocessor Systems, Fair CPU Scheduling and Processes Isolation.	K. Korotaev	10.1109/CLUSTR.2005.347085
+Transparent Checkpoint-Restart of Distributed Applications on Commodity Clusters.	Oren Laadan,Dan B. Phung,Jason Nieh	10.1109/CLUSTR.2005.347039
+A Biologically-inspired Adaptation Mechanism for Autonomic Grid Networks.	Chonho Lee,Paskorn Champrasert,Junichi Suzuki	10.1109/CLUSTR.2005.347083
+A Web Services and Ontology Based Performance Visualization Framework for Grid Environments.	Kukjin Lee,Diane T. Rover	10.1109/CLUSTR.2005.347070
+Swapping to Remote Memory over InfiniBand: An Approach using a High Performance Network Block Device.	Shuang Liang,Ranjit Noronha,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2005.347050
+Job-Site Level Fault Tolerance for Cluster and Grid environments.	Kshitij Limaye,Box Leangsuksun,Zeno Greenwood,Stephen L. Scott,Christian Engelmann,Richard Libby,Kasidit Chanchio	10.1109/CLUSTR.2005.347043
+Efficient and Robust Computation of Resource Clusters in the Internet.	Chuang Liu 0006,Ian T. Foster	10.1109/CLUSTR.2005.347046
+Reliability-aware Checkpoint/Restart Scheme: A Performability Trade-off.	Yudan Liu,Chokchai Leangsuksun,Hertong Song,Stephen L. Scott	10.1109/CLUSTR.2005.347058
+Fast Query Processing by Distributing an Index over CPU Caches.	Xiaoqin Ma,Gene Cooperman	10.1109/CLUSTR.2005.347047
+Memory Management Support for Multi-Programmed Remote Direct Memory Access (RDMA) Systems.	Kostas Magoutis	10.1109/CLUSTR.2005.347031
+TCP Adaptation for MPI on Long-and-Fat Networks.	Motohiko Matsuda,Tomohiro Kudoh,Yuetsu Kodama,Ryousei Takano,Yutaka Ishikawa	10.1109/CLUSTR.2005.347034
+An Efficient, Nonintrusive, Log-Based I/O Mechanism for Scientific Simulations on Clusters.	Soumyadeb Mitra,Rishi Rakesh Sinha,Marianne Winslett,Xiangmin Jiao	10.1109/CLUSTR.2005.347041
+Providing Local ORB-Like Services to Collocated CORBA Components.	Hossein Momeni,T. Rahmani,Mohsen Sharifi,Vahid Rafe	10.1109/CLUSTR.2005.347018
+Minimizing the Network Overhead of Checkpointing in Cycle-harvesting Cluster Environments.	Daniel Nurmi,John Brevik,Richard Wolski	10.1109/CLUSTR.2005.347074
+On the Discovery of Brokers in Distributed Messaging Infrastructures.	Shrideep Pallickara,Harshawardhan Gadgil,Geoffrey C. Fox	10.1109/CLUSTR.2005.347076
+Illuminator: a Free Graphics Toolkit for Parallel Visualization of Continuum Field Data.	Adam Powell,Ojonimi Ocholi,Jorge Vieyra,Bo Zhou	10.1109/CLUSTR.2005.347093
+A Case for Cooperative and Incentive-Based Coupling of Distributed Clusters.	Rajiv Ranjan 0001,Rajkumar Buyya,Aaron Harwood	10.1109/CLUSTR.2005.347038
+Interoperability through Conformance; The iWARP validation process.	Barry Reinhold	10.1109/CLUSTR.2005.347029
+A Case for Dynamic Page Migration in Multiple-Writer Software DSM Systems.	Thomas Repantis,Christos D. Antonopoulos,Vana Kalogeraki,Theodore S. Papatheodorou	10.1109/CLUSTR.2005.347077
+VioCluster: Virtualization for Dynamic Computational Domains.	Paul Ruth,P. McGachey,Dongyan Xu	10.1109/CLUSTR.2005.347064
+Distributed Out-of-Core Preprocessing of Very Large Microscopy Images for Efficient Querying.	Benjamin Rutt,Vijay S. Kumar,Tony Pan,Tahsin M. Kurç,Ümit V. Çatalyürek,Joel H. Saltz,Yujun Wang	10.1109/CLUSTR.2005.347054
+Extracting Critical Path Graphs from MPI Applications.	M. Schulz	10.1109/CLUSTR.2005.347035
+Analysis of Distributed Java Applications Using Dynamic Instrumentation.	Clovis Seragiotto Jr.,Thomas Fahringer	10.1109/CLUSTR.2005.347065
+Dynamic Multi-Resource Monitoring for Predictive Job Scheduling with ScoPro.	Angela C. Sodan,Lun Liu 0001	10.1109/CLUSTR.2005.347013
+A Generic Proxy Mechanism for Secure Middlebox Traversal.	Se-Chang Son,Matthew Farrellee,Miron Livny	10.1109/CLUSTR.2005.347055
+IBRIX File System: Architecture and Design.	Sudhir Srinivasan,Amina Saify,Ramesh Radhakrishnan	10.1109/CLUSTR.2005.347088
+Scalable Consistency Management in Dynamic Content Distribution Overlays.	Zhou Su,Jiro Katto,Yasuhiko Yasuhiko	10.1109/CLUSTR.2005.347082
+An integrated Retrieval and Pre-fetching algorithms for Segmented Streaming in Mobile Peer-to-Peer Networks.	Zhou Su,Jiro Katto,Yasuhiko Yasuda	10.1109/CLUSTR.2005.347094
+Robust Processor Allocation for Independent Tasks When Dollar Cost for Processors is a Constraint.	Prasanna Sugavanam,Howard Jay Siegel,Anthony A. Maciejewski,Junxing Zhang,Vladimir Shestak,Michael Raskey,Alan J. Pippin,Ron Pichel,Mohana Oltikar,Ashish M. Mehta,Panho Lee,Yogish G. Krishnamurthy,Aaron Horiuchi,Kumara Guru,Mahir Aydin,Mohammad Al-Otaibi,Shoukat Ali	10.1109/CLUSTR.2005.347023
+Toward an Optimal Redundancy Strategy for Distributed Computations.	Doug Szajda,Barry Lawson 0001,Jason Owen	10.1109/CLUSTR.2005.347045
+Macro-Dataflow using Software Distributed Shared Memory.	Hiroshi Tanabe,Hiroki Honda,Toshitsugu Yuba	10.1109/CLUSTR.2005.347078
+Automatic Parallelization with pMapper.	Nadya Travinin,Henry Hoffmann,Robert Bond,Hector Chan,Jeremy Kepner,Edmund Wong	10.1109/CLUSTR.2005.347017
+Accelerating List Management for MPI.	Keith D. Underwood,Arun Rodrigues,K. S. Hemmeit	10.1109/CLUSTR.2005.347036
+Co-Scheduling Parallel Electronic Structure Calculations in SMP Cluster Environments.	Nurzhan Ustemirov,Masha Sosonkina	10.1109/CLUSTR.2005.347014
+Search-based Job Scheduling for Parallel Computer Workloads.	Sangsuree Vasupongayya,Su-Hui Chiang,Bart Massey	10.1109/CLUSTR.2005.347037
+Near Overhead-free Heterogeneous Thread-migration.	Ronald Veldema,Michael Philippsen	10.1109/CLUSTR.2005.347042
+RNIC-PI: The last step in standardizing RDMA.	Ramesh VelurEunni	10.1109/CLUSTR.2005.347030
+Harnessing Shared Wide-area Clusters for Dynamic High End Services.	R. Viswanath,Mustaque Ahamad,Karsten Schwan	10.1109/CLUSTR.2005.347073
+Registration and Resource Allocation Mechanisms in High-Performance Application Frameworks.	O. Volberg,Jay Walter Larson,Robert L. Jacob,John Michalakes	10.1109/CLUSTR.2005.347084
+Load Balancing using Grid-based Peer-to-Peer Parallel I/O.	Yijian Wang,David R. Kaeli	10.1109/CLUSTR.2005.347040
+Service Augmentation for High End Interactive Data Services.	Matthew Wolf,Hasan Abbasi,Benjamin Collins,David Spain,Karsten Schwan	10.1109/CLUSTR.2005.347053
+Experiment Management and Analysis with perfbase.	Joachim Worringen	10.1109/CLUSTR.2005.347052
+A New Allocation Scheme for Parallel Applications with Deadline and Security Constraints on Clusters.	Tao Xie 0004,Xiao Qin 0001	10.1109/CLUSTR.2005.347057
+An Efficient Metadata Distribution Policy for Cluster File Systems.	Jin Xiong,Rongfeng Tang,Sining Wu,Dan Meng,Ninghui Sun	10.1109/CLUSTR.2005.347060
+Service Level Agreement based Allocation of Cluster Resources: Handling Penalty to Enhance Utility.	Chee Shin Yeo,Rajkumar Buyya	10.1109/CLUSTR.2005.347075
+Fire Phoenix Cluster Operating System Kernel and its Evaluation.	Jianfeng Zhan,Ninghui Sun	10.1109/CLUSTR.2005.347066
+Experience Of OS Optimization For Linpack On Dawning4000A.	Ying-chao Zhou,Dan Meng,Xiao-cheng Zhou,Yao Chen	10.1109/CLUSTR.2005.347095
+Online Critical Path Profiling for Parallel Applications.	Wenbin Zhu,Patrick G. Bridges,Arthur B. Maccabe	10.1109/CLUSTR.2005.347048
+2005 IEEE International Conference on Cluster Computing (CLUSTER 2005), September 26 - 30, 2005, Boston, Massachusetts, USA		

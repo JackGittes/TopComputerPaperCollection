@@ -1,0 +1,70 @@
+A New Proposal to Fill in the InfiniBand Arbitration Tables.	Francisco José Alfaro,José L. Sánchez 0002,José Duato	10.1109/ICPP.2003.1240574
+Scheduling Algorithms with Bus Bandwidth Considerations for SMPs.	Christos D. Antonopoulos,Dimitrios S. Nikolopoulos,Theodore S. Papatheodorou	10.1109/ICPP.2003.1240622
+Evaluation of a Subnet Management Mechanism for InfiniBand Networks.	Aurelio Bermúdez,Rafael Casado,Francisco J. Quiles 0001,Timothy Mark Pinkston,José Duato	10.1109/ICPP.2003.1240572
+Path Compression in Forwarding-Based Reliable Mobile Agent Communications.	Jiannong Cao 0001,Liang Zhang,Xinyu Feng 0001,Sajal K. Das 0001	10.1109/ICPP.2003.1240594
+Implementation of Strong Mobility for Multi-Threaded Agents in Java.	Arjav J. Chakravarti,Xiaojin Wang,Jason O. Hallstrom,Gerald Baumgartner	10.1109/ICPP.2003.1240595
+BlueCube: Constructing a Hypercube Parallel Computing and Communication Environment over Bluetooth Radio System.	Chao-Tsun Chang,Chih-Yung Chang,Jang-Ping Sheu	10.1109/ICPP.2003.1240609
+Energy-Conserving Grid Routing Protocol in Mobile Ad Hoc Networks.	Chih-Min Chao,Jang-Ping Sheu,Cheng-Ta Hu	10.1109/ICPP.2003.1240589
+Aggressive Compiler Optimization and Parallelization with Thread-Level Speculation.	Li-Ling Chen,Youfeng Wu	10.1109/ICPP.2003.1240629
+Accurately Modeling Workload Interactions for Deploying Prefetching in Web Servers.	Xin Chen 0034,Xiaodong Zhang 0001	10.1109/ICPP.2003.1240607
+High-Bandwidth Packet Switching on the Raw General-Purpose Architecture.	Gleb A. Chuvpilo,Saman P. Amarasinghe	10.1109/ICPP.2003.1240560
+Running Bag-of-Tasks Applications on Computational Grids: The MyGrid Approach.	Walfredo Cirne,Daniel Paranhos da Silva,Lauro Costa,Elizeu Santos-Neto,Francisco Vilar Brasileiro,Jacques Philippe Sauvé,Fabrício A. B. da Silva,Carla O. Barros,Cirano Silveira	10.1109/ICPP.2003.1240605
+FastLSA: A Fast, Linear-Space, Parallel and Sequential Algorithm for Sequence Alignment.	Adrian Driga,Paul Lu,Jonathan Schaeffer,Duane Szafron,Kevin Charter,Ian Parsons	10.1109/ICPP.2003.1240565
+Performance and Power Impact of Issue-width in Chip-Multiprocessor Cores.	Magnus Ekman,Per Stenström	10.1109/ICPP.2003.1240600
+Analytical and Empirical Analysis of Countermeasures to Traffic Analysis Attacks.	Xinwen Fu,Bryan Graham,Riccardo Bettati,Wei Zhao 0001,Dong Xuan	10.1109/ICPP.2003.1240613
+Near-Optimal Dynamic Task Scheduling of Independent Coarse-Grained Tasks onto a Computational Grid.	Noriyuki Fujimoto,Kenichi Hagihara	10.1109/ICPP.2003.1240603
+Performance of a Heterogeneous Grid Partitioner for N-body Applications.	Daniel J. Harvey,Sajal K. Das 0001,Rupak Biswas	10.1109/ICPP.2003.1240604
+Bandwidth-Aware Resource Allocation for Heterogeneous Computing Systems to Maximize Throughput.	Bo Hong,Viktor K. Prasanna	10.1109/ICPP.2003.1240621
+Similarity Discovery in Structured P2P Overlays.	Hung-Chang Hsiao,Chung-Ta King	10.1109/ICPP.2003.1240632
+Efficient Broadcasting Protocols for Regular Wireless Sensor Networks.	Chih-Shun Hsu,Jang-Ping Sheu,Yen-Jung Chang	10.1109/ICPP.2003.1240583
+Towards Real-time Parallel Processing of Spatial Queries.	Haibo Hu 0001,Manli Zhu,Dik Lun Lee	10.1109/ICPP.2003.1240624
+Code Tiling for Improving the Cache Performance of PDE Solvers.	Qingguang Huang,Jingling Xue,Xavier Vera	10.1109/ICPP.2003.1240630
+A Novel Approach to Cache Block Reuse Predictions.	Jonas Jalminger,Per Stenström	10.1109/ICPP.2003.1240592
+Effective Real-time Anycast Flow Connection Algorithm and Delay Analysis.	Weijia Jia 0001,Chuanlin Zhang,Lidong Lin,Wanqing Tu,Jinliang Jiao	10.1109/ICPP.2003.1240582
+Data Conversion for Process/Thread Migration and Checkpointing.	Hai Jiang 0003,Vipin Chaudhary,John Paul Walters	10.1109/ICPP.2003.1240612
+LightFlood: an Efficient Flooding Scheme for File Search in Unstructured Peer-to-Peer Systems.	Song Jiang 0001,Lei Guo 0004,Xiaodong Zhang 0001	10.1109/ICPP.2003.1240631
+Quorum-Based Asynchronous Power-Saving Protocols for IEEE 802.11 Ad Hoc Networks.	Jehn-Ruey Jiang,Yu-Chee Tseng,Chih-Shun Hsu,Ten-Hwang Lai	10.1109/ICPP.2003.1240588
+Communication and Memory Optimal Parallel Data Cube Construction.	Ruoming Jin,Ge Yang 0001,Karthik Vaidyanathan,Gagan Agrawal	10.1109/ICPP.2003.1240625
+A QOS-Aware Scheduling Algorithm for Bluetooth Scatternets.	Young Man Kim,Ten-Hwang Lai,Anish Arora	10.1109/ICPP.2003.1240610
+Descending Layers Routing: A Deadlock-Free Deterministic Routing using Virtual Channels in System Area Networks with Irregular Topologies.	Michihiro Koibuchi,Akiya Jouraku,Konosuke Watanabe,Hideharu Amano	10.1109/ICPP.2003.1240620
+Scalable Implementations of MPI Atomicity for Concurrent Overlapping I/O.	Wei-keng Liao,Alok N. Choudhary,Kenin Coloma,George K. Thiruvathukal,Lee Ward,Eric Russell,Neil Pundit	10.1109/ICPP.2003.1240586
+Tensor Product Formulation for Hilbert Space-Filling Curves.	Shen-Yi Lin,Chih-Shen Chen,Li Liu,Chua-Huang Huang	10.1109/ICPP.2003.1240570
+Power Control for IEEE 802.11 Ad Hoc Networks: Issues and A New Algorithm.	Xiao-Hui Lin 0001,Yu-Kwong Kwok,Vincent K. N. Lau	10.1109/ICPP.2003.1240587
+Dynamic Control Frames in Reservation-Based Packet Scheduling for Single-Hop WDM Networks.	Hwa-Chun Lin,Pei-Shin Liu	10.1109/ICPP.2003.1240569
+Extending OpenMP for Heterogeneous Chip Multiprocessors.	Feng Liu,Vipin Chaudhary	10.1109/ICPP.2003.1240577
+Efficient Parallel I/O Scheduling in the Presence of Data Duplication.	Pangfeng Liu,Da-Wei Wang,Jan-Jan Wu	10.1109/ICPP.2003.1240585
+A Methodology for Developing Dynamic Network Reconfiguration Processes.	Olav Lysne,Timothy Mark Pinkston,José Duato	10.1109/ICPP.2003.1240568
+Exploiting Partial Operand Knowledge.	Brian R. Mestan,Mikko H. Lipasti	10.1109/ICPP.2003.1240601
+CRONO: A Configurable and Easy to Maintain Resource Manager Optimized for Small and Mid-Size GNU/Linux Cluster.	Marco Aurélio Stelmar Netto,César A. F. De Rose	10.1109/ICPP.2003.1240623
+A Quantitative Comparison of Two Retargetable Compilation Approaches.	Sejong Oh,Yunheung Paek	10.1109/ICPP.2003.1240563
+CSAR: Cluster Storage with Adaptive Redundancy.	Manoj Pillai,Mario Lauria	10.1109/ICPP.2003.1240584
+Space and Time Optimal Parallel Sequence Alignments.	Stjepan Rajko,Srinivas Aluru	10.1109/ICPP.2003.1240564
+Toward a Formal Approach to Composite Web Service Construction and Automation.	Zhihong Ren,Jiannong Cao 0001,Alvin T. S. Chan,Jing Li	10.1109/ICPP.2003.1240608
+Routing in InfiniBandTM Torus Network Topologie.	José Carlos Sancho,Antonio Robles,Pedro López 0001,Jose Flich,José Duato	10.1109/ICPP.2003.1240618
+Distributed Page Ranking in Structured P2P Networks.	Shuming Shi,Jin Yu,Guangwen Yang,Dingxing Wang	10.1109/ICPP.2003.1240579
+Considering Mobility Patterns in Moving Objects Database.	MoonBae Song,JeHyok Ryu,SangKeun Lee 0001,Chong-Sun Hwang	10.1109/ICPP.2003.1240628
+Cilk vs MPI: Comparing two very different parallel programming styles.	Sonny Tham,John Morris	10.1109/ICPP.2003.1240575
+Towards Grid Based Intelligent Information Systems.	A Min Tjoa,Peter Brezany,Ivan Janciak	10.1109/ICPP.2003.1240616
+A Parallel Algorithm for Enumerating Combinations.	Martha Torres,Alfredo Goldman,Junior Barrera	10.1109/ICPP.2003.1240626
+Channel Assignment for Hierarchical Cellular Networks.	Hsien-Ming Tsai,Ai-Chun Pang,Yung-Chun Lin,Yi-Bing Lin	10.1109/ICPP.2003.1240627
+Hardware-Assisted Design for Fast Packet Forwarding in Parallel Routers.	Nian-Feng Tzeng	10.1109/ICPP.2003.1240561
+On Maximizing Lifetime of Multicast Trees in Wireless Ad hoc Networks.	Bin Wang,Sandeep K. S. Gupta	10.1109/ICPP.2003.1240596
+Evidence-based MultiCasting Fault Diagnosis Agreement with Fallible Processors.	Shu-Chin Wang,Kuo-Qin Yan,Chien-Fu Cheng	10.1109/ICPP.2003.1240567
+PVFS over InfiniBand: Design and Performance Evaluation.	Jiesheng Wu,Pete Wyckoff,Dhabaleswar K. Panda 0001	10.1109/ICPP.2003.1240573
+HIERAS: A DHT Based Hierarchical P2P Routing Algorithm.	Zhiyong Xu,Rui Min,Yiming Hu	10.1109/ICPP.2003.1240580
+Restructuring GOP Algorithm to Reduce Video Server Load on VCR Functionality.	Kai-Chao Yang,Chun-Ming Huang,Jia-Shung Wang	10.1109/ICPP.2003.1240571
+The Robust Middleware Approach for Transparent and Systematic Fault Tolerance in Parallel and Distributed Systems.	Chi-Hsiang Yeh	10.1109/ICPP.2003.1240566
+Optimal Layout for Butterfly Networks in Multilayer VLSI.	Chi-Hsiang Yeh	10.1109/ICPP.2003.1240602
+A Priority-based Balanced Routing Scheme for Random Broadcasting and Routing in Tori.	Chi-Hsiang Yeh,Emmanouel A. Varvarigos,Abdelhamid Eshoul	10.1109/ICPP.2003.1240619
+A QoS MAC Protocol for Differentiated Service in Mobile Ad Hoc Networks.	Chi-Hsiang Yeh,Tiantong You	10.1109/ICPP.2003.1240598
+Parallel Biometrics Computing Using Mobile Agents.	Jane You,David Zhang 0001,Jiannong Cao 0001,Minyi Guo	10.1109/ICPP.2003.1240593
+High Performance and Reliable NIC-Based Multicast over Myrinet/GM-2.	Weikuan Yu,Darius Buntinas,Dhabaleswar K. Panda 0001	10.1109/ICPP.2003.1240581
+Enabling Partial Cache Line Prefetching Through Data Compression.	Youtao Zhang,Rajiv Gupta 0001	10.1109/ICPP.2003.1240590
+Adapting Zone Routing Protocol for Heterogeneous Scenarios in Ad Hoc Networks.	Xiaofeng Zhang,Lillykutty Jacob	10.1109/ICPP.2003.1240597
+A Recovery Algorithm for Reliable Multicasting in Reliable Networks.	Danyang Zhang,Sibabrata Ray,Rajgopal Kannan,S. Sitharama Iyengar	10.1109/ICPP.2003.1240614
+Procedural Level Address Offset Assignment of DSP Applications with Loops.	Youtao Zhang,Jun Yang 0002	10.1109/ICPP.2003.1240562
+Exploiting Client Caches: An Approach to Building Large Web Caches.	Yingwu Zhu,Yiming Hu	10.1109/ICPP.2003.1240606
+Lightweight Transparent Java Thread Migration for Distributed JVM.	Wenzhang Zhu,Cho-Li Wang,Francis C. M. Lau 0001	10.1109/ICPP.2003.1240611
+A Hardware-based Cache Pollution Filtering Mechanism for Aggressive Prefetches.	Xiaotong Zhuang,Hsien-Hsin S. Lee	10.1109/ICPP.2003.1240591
+Hybrid Periodical Flooding in Unstructured Peer-to-Peer Networks.	Zhenyun Zhuang,Yunhao Liu 0001,Li Xiao 0001,Lionel M. Ni	10.1109/ICPP.2003.1240578
+32nd International Conference on Parallel Processing (ICPP 2003), 6-9 October 2003, Kaohsiung, Taiwan		

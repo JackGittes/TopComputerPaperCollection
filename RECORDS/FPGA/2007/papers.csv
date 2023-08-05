@@ -1,0 +1,27 @@
+Integrating FPGAs in high-performance computing: introduction.	Paul Chow,Mike Hutton	10.1145/1216919.1216940
+Synthesis of an application-specific soft multiprocessor system.	Jason Cong,Guoling Han,Wei Jiang	10.1145/1216919.1216934
+Improved SAT-based Boolean matching using implicants for LUT-based FPGAs.	Jason Cong,Kirill Minkovich	10.1145/1216919.1216944
+Designing efficient input interconnect blocks for LUT clusters using counting and entropy.	Wenyi Feng,Sinan Kaptanoglu	10.1145/1216919.1216923
+FPGA-friendly code compression for horizontal microcoded custom IPs.	Bita Gorjiara,Daniel Gajski	10.1145/1216919.1216935
+Attacking elliptic curve cryptosystems with special-purpose hardware.	Tim Güneysu,Christof Paar,Jan Pelzl	10.1145/1216919.1216953
+CReconfigurable finite field instruction set architecture.	Nathan Jachimiec,Fernando Martinez-Vallina,Jafar Saniie	10.1145/1216919.1216954
+Efficient hardware checkpointing: concepts, overhead analysis, and implementation.	Dirk Koch,Christian Haubelt,Jürgen Teich	10.1145/1216919.1216950
+GlitchLess: an active glitch minimization technique for FPGAs.	Julien Lamoureux,Guy G. Lemieux,Steven J. E. Wilton	10.1145/1216919.1216946
+A routing fabric for monolithically stacked 3D-FPGA.	Mingjie Lin,Abbas El Gamal	10.1145/1216919.1216921
+Stochastic physical synthesis for FPGAs with pre-routing interconnect uncertainty and process variation.	Yan Lin 0001,Lei He 0001	10.1145/1216919.1216931
+A 1000-word vocabulary, speaker-independent, continuous live-mode speech recognizer implemented in a single FPGA.	Edward C. Lin,Kai Yu,Rob A. Rutenbar,Tsuhan Chen	10.1145/1216919.1216928
+An FPGA-based Pentium in a complete desktop system.	Shih-Lien Lu,Peter Yiannacouras,Rolf Kassa,Michael Konow,Taeweon Suh	10.1145/1216919.1216927
+Performance and yield enhancement of FPGAs with within-die variation using multiple configurations.	Yohei Matsumoto,Masakazu Hioki,Takashi Kawanami,Toshiyuki Tsutsumi,Tadashi Nakagawa,Toshihiro Sekigawa,Hanpei Koike	10.1145/1216919.1216948
+Parametric yield in FPGAs due to within-die delay variations: a quantitative analysis.	N. Pete Sedcole,Peter Y. K. Cheung	10.1145/1216919.1216949
+Integrating FPGAs in high-performance computing: programming models for parallel systems -- the programmer&apos;s perspective.	Satnam Singh	10.1145/1216919.1216942
+Variation-aware routing for FPGAs.	Satish Sivaswamy,Kia Bazargan	10.1145/1216919.1216930
+A versatile, low latency HyperTransport core.	David Slogsnat,Alexander Giese,Ulrich Brüning 0001	10.1145/1216919.1216926
+Design of a logic element for implementing an asynchronous FPGA.	Scott C. Smith	10.1145/1216919.1216922
+Power-aware FPGA logic synthesis using binary decision diagrams.	Kevin Oo Tinmaung,David Howland,Russell Tessier	10.1145/1216919.1216945
+The shunt: an FPGA-based accelerator for network intrusion prevention.	Nicholas Weaver,Vern Paxson,José M. González	10.1145/1216919.1216952
+A practical FPGA-based framework for novel CMP research.	Sewook Wee,Jared Casper,Njuguna Njoroge,Yuriy Teslyar,Daxia Ge,Christos Kozyrakis,Kunle Olukotun	10.1145/1216919.1216936
+A synthesizable datapath-oriented embedded FPGA fabric.	Steven J. E. Wilton,Chun Hok Ho,Philip Heng Wai Leong,Wayne Luk,Bradley R. Quinton	10.1145/1216919.1216924
+High-level languages: the future or a passing fad?	Michael J. Wirthlin,Misha Burich,Andrew Guyler,Brian Von Herzen	10.1145/1216919.1216938
+Integrating FPGAs in high-performance computing: the architecture and implementation perspective.	Nathan Woods	10.1145/1216919.1216941
+Post-route LUT output polarity selection for timing optimization.	Kai Zhu 0001	10.1145/1216919.1216932
+Proceedings of the ACM/SIGDA 15th International Symposium on Field Programmable Gate Arrays, FPGA 2007, Monterey, California, USA, February 18-20, 2007	André DeHon,Mike Hutton	10.1145/1216919

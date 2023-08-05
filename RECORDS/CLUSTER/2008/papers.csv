@@ -1,0 +1,64 @@
+An OSD-based approach to managing directory operations in parallel file systems.	Nawab Ali,Ananth Devulapalli,Dennis Dalessandro,Pete Wyckoff,P. Sadayappan	10.1109/CLUSTR.2008.4663769
+A large-grained parallel algorithm for nonlinear eigenvalue problems and its implementation using OmniRPC.	Takeshi Amako,Yusaku Yamamoto,Shao-Liang Zhang	10.1109/CLUSTR.2008.4663754
+Reinforcement learning for automated performance tuning: Initial evaluation for sparse matrix format selection.	Warren Armstrong,Alistair P. Rendell	10.1109/CLUSTR.2008.4663802
+Implications of non-constant clock drifts for the timestamps of concurrent events.	Daniel Becker 0001,Rolf Rabenseifner,Felix Wolf 0001	10.1109/CLUSTR.2008.4663756
+A multicore-enabled multirail communication engine.	Elisabeth Brunet,François Trahay,Alexandre Denis 0001	10.1109/CLUSTR.2008.4663788
+Jetter: a multi-pattern parallel I/O benchmark.	Liqiang Cao,Hongbing Luo,Baoyin Zhang	10.1109/CLUSTR.2008.4663808
+Prediction of behavior of MPI applications.	Marc Casas,Rosa M. Badia,Jesús Labarta	10.1109/CLUSTR.2008.4663777
+Intelligent compilers.	John Cavazos	10.1109/CLUSTR.2008.4663796
+Design and implementation of an effective HyperTransport core in FPGA.	Fei Chen,Hailiang Cheng,Xiaojun Yang,Rui Liu	10.1109/CLUSTR.2008.4663805
+A novel hint-based I/O mechanism for centralized file server of cluster.	Huan Chen 0003,Jin Xiong,Ninghui Sun	10.1109/CLUSTR.2008.4663771
+Supporting storage resources in Urgent Computing Environments.	Jason Cope,Henry M. Tufo	10.1109/CLUSTR.2008.4663794
+Performance models for dynamic tuning of parallel applications on Computational Grids.	Genaro Costa,Josep Jorba,Anna Morajko,Tomàs Margalef,Emilio Luque	10.1109/CLUSTR.2008.4663798
+A trace-driven emulation framework to predict scalability of large clusters in presence of OS Jitter.	Pradipta De,Ravi Kothari,Vijay Mann	10.1109/CLUSTR.2008.4663776
+Are nonblocking networks really needed for high-end-computing workloads?	Narayan Desai,Pavan Balaji,P. Sadayappan,Mohammad Islam	10.1109/CLUSTR.2008.4663766
+A novel model for synthesizing parallel I/O workloads in scientific applications.	Dan Feng 0001,Qiang Zou,Hong Jiang 0001,Yifeng Zhu	10.1109/CLUSTR.2008.4663778
+Exploiting data compression in collective I/O techniques.	Rosa Filgueira,David E. Singh,Juan Carlos Pichel,Jesús Carretero 0001	10.1109/CLUSTR.2008.4663811
+A dynamic programming approach to optimizing the blocking strategy for the Householder QR decomposition.	Takeshi Fukaya,Yusaku Yamamoto,Shao-Liang Zhang	10.1109/CLUSTR.2008.4663801
+OpenMP-centric performance analysis of hybrid applications.	Karl Fürlinger,Shirley Moore	10.1109/CLUSTR.2008.4663767
+Improving message passing over Ethernet with I/OAT copy offload in Open-MX.	Brice Goglin	10.1109/CLUSTR.2008.4663775
+Using cluster computing to support automatic and dynamic database clustering.	Sylvain Guinepain,Le Gruenwald	10.1109/CLUSTR.2008.4663800
+Scalable, high performance InfiniBand-attached SAN Volume Controller.	D. Scott Guthridge	10.1109/CLUSTR.2008.4663807
+Message progression in parallel computing - to thread or not to thread?	Torsten Hoefler,Andrew Lumsdaine	10.1109/CLUSTR.2008.4663774
+Multistage switches are not crossbars: Effects of static routing in high-performance networks.	Torsten Hoefler,Timo Schneider,Andrew Lumsdaine	10.1109/CLUSTR.2008.4663762
+Magnet: A novel scheduling policy for power reduction in cluster with virtual machines.	Liting Hu,Hai Jin 0001,Xiaofei Liao,Xianjie Xiong,Haikun Liu	10.1109/CLUSTR.2008.4663751
+Efficient one-copy MPI shared memory communication in Virtual Machines.	Wei Huang 0003,Matthew J. Koop,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2008.4663761
+Redistribution aware two-step scheduling for mixed-parallel applications.	Sascha Hunold,Thomas Rauber,Frédéric Suter	10.1109/CLUSTR.2008.4663755
+Environmental-aware optimization of MPI checkpointing intervals.	Hideyuki Jitsumoto,Toshio Endo,Satoshi Matsuoka	10.1109/CLUSTR.2008.4663790
+Active storage using object-based devices.	Tina Miriam John,Anuradharthi Thiruvenkata Ramani,John A. Chandy	10.1109/CLUSTR.2008.4663810
+Active CoordinaTion (ACT) - toward effectively managing virtualized multicore clouds.	Mukil Kesavan,Adit Ranadive,Ada Gavrilovska,Karsten Schwan	10.1109/CLUSTR.2008.4663752
+Runtime DVFS control with instrumented Code in power-scalable cluster system.	Hideaki Kimura 0003,Mitsuhisa Sato,Takayuki Imada,Yoshihiko Hotta	10.1109/CLUSTR.2008.4663795
+Scalable MPI design over InfiniBand using eXtended Reliable Connection.	Matthew J. Koop,Jaidev K. Sridhar,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2008.4663773
+Context-aware address translation for high performance SMP cluster system.	Moon-Sang Lee,Joonwon Lee,Seungryoul Maeng	10.1109/CLUSTR.2008.4663784
+Towards an understanding of the performance of MPI-IO in Lustre file systems.	Jeremy Logan,Phillip M. Dickens	10.1109/CLUSTR.2008.4663791
+Enhancing write performance of a shared-disk cluster filesystem through a fine-grained locking strategy.	Paulo Afonso Lopes,Pedro D. Medeiros	10.1109/CLUSTR.2008.4663809
+Live and incremental whole-system migration of virtual machines using block-bitmap.	Yingwei Luo,Binbin Zhang,Xiaolin Wang 0001,Zhenlin Wang,Yifeng Sun,Haogang Chen 0002	10.1109/CLUSTR.2008.4663760
+Combining Virtual Machine migration with process migration for HPC on multi-clusters and Grids.	Tal Maoz,Amnon Barak,Lior Amar	10.1109/CLUSTR.2008.4663759
+DLM: A distributed Large Memory System using remote memory swapping over cluster nodes.	Hiroko Midorikawa,Motoyoshi Kurokawa,Ryutaro Himeno,Mitsuhisa Sato	10.1109/CLUSTR.2008.4663780
+RI2N: High-bandwidth and fault-tolerant network with multi-link Ethernet for PC clusters.	Shin&apos;ichi Miura,Takayuki Okamoto,Taisuke Boku,Toshihiro Hanawa,Mitsuhisa Sato	10.1109/CLUSTR.2008.4663781
+Parallel multistage preconditioners by Hierarchical Interface Decomposition on &quot;T2K Open Super Computer (Todai Combined Cluster)&quot; with Hybrid parallel programming models.	Kengo Nakajima	10.1109/CLUSTR.2008.4663785
+In search of sweet-spots in parallel performance monitoring.	Aroon Nataraj,Allen D. Malony,Allen Morris,Dorian C. Arnold,Barton P. Miller	10.1109/CLUSTR.2008.4663757
+Reliable adaptable Network RAM.	Tia Newhall,Daniel Amato,Alexandr Pshenichkin	10.1109/CLUSTR.2008.4663750
+Enabling lock-free concurrent fine-grain access to massive distributed data: Application to supernovae detection.	Bogdan Nicolae,Gabriel Antoniu,Luc Bougé	10.1109/CLUSTR.2008.4663787
+New techniques for simulating high performance MPI applications on large storage networks.	Alberto Nuñez,Javier Fernández 0001,José Daniel García,Jesús Carretero 0001	10.1109/CLUSTR.2008.4663806
+Gather-arrange-scatter: Node-level request reordering for parallel file systems on multi-core clusters.	Kazuki Ohta,Hiroya Matsuba,Yutaka Ishikawa	10.1109/CLUSTR.2008.4663792
+Designing next generation clusters with InfiniBand and 10GE/iWARP: Opportunities and challenges.	Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2008.4663772
+A dependency-aware task-based programming environment for multi-core architectures.	Josep M. Pérez,Rosa M. Badia,Jesús Labarta	10.1109/CLUSTR.2008.4663765
+Clouds, clusters and ManyCore: The revolution ahead.	Daniel A. Reed	10.1109/CLUSTR.2008.4663749
+An optimized Dynamic Load Balancing method for parallel 3-D mesh refinement for finite element electromagnetics with Tetrahedra.	Da Qi Ren,Dennis Giannacopoulos,Reiji Suda	10.1109/CLUSTR.2008.4663804
+Load-balancing methods for parallel and distributed constraint solving.	Carl Christian Rolf,Krzysztof Kuchcinski	10.1109/CLUSTR.2008.4663786
+A comparison of search heuristics for empirical code optimization.	Keith Seymour,Haihang You,Jack J. Dongarra	10.1109/CLUSTR.2008.4663803
+Divisible load scheduling with improved asymptotic optimality.	Reiji Suda	10.1109/CLUSTR.2008.4663779
+SPRAT: Runtime processor selection for energy-aware computing.	Hiroyuki Takizawa,Katsuto Sato,Hiroaki Kobayashi	10.1109/CLUSTR.2008.4663799
+Workflows for performance evaluation and tuning.	Jeffrey L. Tilson,Mark S. C. Reed,Robert J. Fowler	10.1109/CLUSTR.2008.4663758
+Empirical-based probabilistic upper bounds for urgent computing applications.	Nick Trebon,Peter H. Beckman	10.1109/CLUSTR.2008.4663793
+Multi-core aware optimization for MPI collectives.	Bibo Tu,Ming Zou,Jianfeng Zhan,Xiaofang Zhao,Jianping Fan 0002	10.1109/CLUSTR.2008.4663789
+High message rate, NIC-based atomics: Design and performance considerations.	Keith D. Underwood,Michael J. Levenhagen,K. Scott Hemmert,Ron Brightwell	10.1109/CLUSTR.2008.4663764
+Predictive models for bandwidth sharing in high performance clusters.	Jérôme Vienne,Maxime Martinasso,Jean-Marc Vincent,Jean-François Méhaut	10.1109/CLUSTR.2008.4663783
+Continuous adaptation for high performance throughput computing across distributed clusters.	Edward Walker	10.1109/CLUSTR.2008.4663797
+Impact of topology and link aggregation on a PC cluster with Ethernet.	Takafumi Watanabe,Masahiro Nakao,Tomoyuki Hiroyasu,Tomohiro Otsuka,Michihiro Koibuchi	10.1109/CLUSTR.2008.4663782
+DifferStore: A differentiated storage service in object-based storage system.	Qingsong Wei,Zhixiang Li	10.1109/CLUSTR.2008.4663770
+DWC2: A dynamic weight-based cooperative caching scheme for object-based storage cluster.	Qingsong Wei,Bharadwaj Veeravalli,Lingfang Zeng	10.1109/CLUSTR.2008.4663768
+A HyperTransport-based personal parallel computer.	Xiaojun Yang,Fei Chen,Hailiang Cheng,Ninghui Sun	10.1109/CLUSTR.2008.4663763
+Variable-grain and dynamic work generation for Minimal Unique Itemset mining.	Paraskevas Yiapanis,David J. Haglin,Anna M. Manning,Ken Mayes,John A. Keane	10.1109/CLUSTR.2008.4663753
+Proceedings of the 2008 IEEE International Conference on Cluster Computing, 29 September - 1 October 2008, Tsukuba, Japan		

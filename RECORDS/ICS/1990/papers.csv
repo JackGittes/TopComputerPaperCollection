@@ -1,0 +1,43 @@
+The Tera computer system.	Robert Alverson,David Callahan,Daniel Cummings,Brian D. Koblenz,Allan Porterfield,Burton J. Smith	10.1145/77726.255132
+Pandore: a system to manage data distribution.	Françoise André,Jean-Louis Pazat,Henry Thomas	10.1145/77726.255179
+Loop optimization for horizontal microcoded machines.	François Bodin,François Charot	10.1145/77726.255153
+Performance evaluation and prediction for parallel algorithms on the BBN GP1000.	François Bodin,Daniel Windheiser,William Jalby,Daya Atapattu,Mann-Ho Lee,Dennis Gannon	10.1145/77726.255182
+Designing algorithms on hierarchical memory multiprocessors.	Luigi Brochard,Alex Freau	10.1145/77726.255183
+Access conflicts in multiprocessor memories queueing models and simulation studies.	Ingrid Y. Bucher,Donald A. Calahan	10.1145/77726.255184
+Hierarchical algorithms and architectures for parallel scientific computing.	Tony F. Chan	10.1145/77726.255171
+Supercomputer-based visualization systems used for analyzing output data of a numerical weather prediction model.	Philip C. Chen	10.1145/77726.255168
+Schur complement preconditioned conjugate gradient methods for spline collocation equations.	Christina C. Christara	10.1145/77726.255146
+Cost-optimal parallel B-spline interpolations.	Kuo-Liang Chung,Ferng-Ching Lin,Wen-Chin Chen	10.1145/77726.255147
+Supercomputer performance evaluation and the Perfect Benchmarks.	George Cybenko,Lyle D. Kipp,Lynn Pointer,David J. Kuck	10.1145/77726.255163
+A basic architecture supporting LGDG computation.	Kechang Dai,Wolfgang K. Giloi	10.1145/77726.255135
+Use of parallel level 3 BLAS in LU factorization on three vector multiprocessors the ALLIANT FX/80, the CRAY-2, and the IBM 3090 VF.	Michel J. Daydé,Iain S. Duff	10.1145/77726.255142
+Performance degradation due to multiprogramming and system overheads in real workloads: case study on a shared memory multiprocessor.	Robert T. Dimpsey,Ravishankar K. Iyer	10.1145/77726.255160
+Implementation of 5-point/9-point multi-level methods on hypercube architectures.	Victor Eijkhout	10.1145/77726.255167
+Vector performance analysis of the NEC SX-2.	Rod Fatoohi	10.1145/77726.255180
+Solving general sparse linear systems using conjugate gradient-type methods.	Kyle A. Gallivan,Ahmed H. Sameh,Zahari Zlatev	10.1145/77726.255149
+Towards efficient fine-grain software pipelining.	Guang R. Gao,Herbert H. J. Hum,Yue-Bong Wong	10.1145/77726.255177
+Clustering task graphs for message passing architectures.	Apostolos Gerasoulis,Sesh Venugopal,Tao Yang 0009	10.1145/77726.255188
+Compiler-directed data prefetching in multiprocessors with memory hierarchies.	Edward H. Gornish,Elana D. Granston,Alexander V. Veidenbaum	10.1145/77726.255176
+Supercomputing with transputers - past, present and future.	Anthony J. G. Hey	10.1145/77726.255192
+PELLPACK: a numerical simulation programming environment for parallel MIMD machines.	Elias N. Houstis,John R. Rice,Nikos Chrisochoides,H. C. Karathanasis,P. N. Papachiou,M. K. Samartzis,Emmanuel A. Vavalis,Ko-Yang Wang,Sanjiva Weerawarana	10.1145/77726.255144
+Parallel ODE solvers.	P. J. van der Houwen,Ben P. Sommeijer	10.1145/77726.255141
+Compiler techniques for data partitioning of sequentially iterated parallel loops.	David E. Hudak,Santosh G. Abraham	10.1145/77726.255156
+OMP: a RISC-based multiprocessor using orthogonal-access memories and multiple spanning buses.	Kai Hwang 0001,Michel Dubois 0001,Dhabaleswar K. Panda 0001,S. Rao,Shisheng Shang,Aydin Üresin,W. Mao,H. Nair,M. Lytwyn,F. Hsieh,J. Liu,Sharad Mehrotra,Chien-Ming Cheng	10.1145/77726.255133
+On the perfect accuracy of an approximate subscript analysis test.	David Klappholz,Kleanthis Psarris,Xiangyun Kong	10.1145/77726.255158
+Impact of task duplication on static-scheduling performance in multiprocessor systems with variable execution-time tasks.	Emilio Luque,Ana Ripoll,Porfidio Hernández,Tomàs Margalef	10.1145/77726.255186
+A hardware-based performance monitor for the Intel iPSC/2 hypercube.	Allen D. Malony,Daniel A. Reed	10.1145/77726.255159
+An efficient caching support for critical sections in large-scale shared-memory multiprocessors.	Sang Lyul Min,Jean-Loup Baer,Hyoung-Joo Kim	10.1145/77726.255137
+An improvement of I/O function for auxiliary storage: parallel I/O for a large scale supercomputing.	Umpei Nagashima,Fumio Nishimoto,Takashi Shibata 0005,Hiroshi Itoh,Minoru Gotoh	10.1145/77726.255138
+Strategies for large-scale structural problems on high-performance computers.	Ahmed K. Noor,Jeanne M. Peters	10.1145/77726.255164
+A method for parallel program generation with an application to the Booster language.	Edwin M. R. M. Paalvast,Arjan J. C. van Gemund,Henk J. Sips	10.1145/77726.255189
+Parallelization of FORTRAN code on distributed-memory parallel processors.	Roland Rühl,Marco Annaratone	10.1145/77726.255174
+SPARK: a benchmark package for sparse computations.	Yousef Saad,Harry A. G. Wijshoff	10.1145/77726.255162
+POSC - a partitioning and optimizing SISAL compiler.	Vivek Sarkar,David C. Cann	10.1145/77726.255152
+Incremental dependence analysis for interactive parallelization.	Kevin Smith 0002,William F. Appelbe,Kurt Stirewalt	10.1145/77726.255173
+Parallel automated wire-routing with a number of competing processors.	Yoshizo Takahashi,Shigetaka Sasaki	10.1145/77726.255170
+Compiler techniques for data synchronization in nested parallel loops.	Peiyi Tang,Pen-Chung Yew,Chuan-Qi Zhu	10.1145/77726.255155
+A run time support system for multiprocessor machines.	M. A. Tsoukarellas,Theodore S. Papatheodorou	10.1145/77726.255190
+Analysis of a variant hypercube topology.	Nian-Feng Tzeng	10.1145/77726.255140
+Dataflow computer development in Japan.	Toshitsugu Yuba,Toshio Shimada,Yoshinori Yamaguchi,Kei Hiraki,Shuichi Sakai	10.1145/77726.255151
+Elastodynamics on clustered vector multiprocessors.	Vittorio Zecca,Aladin Kamel	10.1145/77726.255166
+Proceedings of the 4th international conference on Supercomputing, ICS 1990, Amsterdam, The Netherlands, June 11-15, 1990	Ahmed H. Sameh,Henk A. van der Vorst	10.1145/77726

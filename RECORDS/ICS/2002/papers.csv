@@ -1,0 +1,35 @@
+Dual path instruction processing.	Juan L. Aragón,José González 0002,Antonio González 0001,James E. Smith 0001	10.1145/514191.514223
+Latency and energy aware value prediction for high-frequency processors.	Ravi Bhargava,Lizy Kurian John	10.1145/514191.514201
+Heterogeneous multi-computer system: a new platform for multi-paradigm scientific simulation.	Taisuke Boku,Masayuki Umemura,Junichiro Makino,Toshiyuki Fukushige,Hajime Susa,Akira Ukawa	10.1145/514191.514198
+Near-optimal adaptive control of a large grid application.	Det Buaklee,Gregory F. Tracy,Mary K. Vernon,Stephen J. Wright 0001	10.1145/514191.514234
+Using predicate path information in hardware to determine true dependences.	Lori Carter,Brad Calder	10.1145/514191.514224
+A comparative study of modulo scheduling techniques.	Josep M. Codina,Josep Llosa,Antonio González 0001	10.1145/514191.514208
+The architecture of the DIVA processing-in-memory chip.	Jeffrey T. Draper,Jacqueline Chame,Mary W. Hall,Craig S. Steele,Tim Barrett,Jeff LaCoss,John J. Granacki,Jaewook Shin,Chun Chen 0002,Chang Woo Kang,Ihn Kim Gokhan	10.1145/514191.514197
+Compiler supported high-level abstractions for sparse disk-resident datasets.	Renato Ferreira 0001,Gagan Agrawal,Joel H. Saltz	10.1145/514191.514226
+An interleaved cache clustered VLIW processor.	Enric Gibert,F. Jesús Sánchez,Antonio González 0001	10.1145/514191.514222
+A network-failure-tolerant message-passing system for terascale clusters.	Richard L. Graham,Sung-Eun Choi,David J. Daniel,Nehal N. Desai,Ronald G. Minnich,Craig Edward Rasmussen,L. Dean Risinger,Mitchel W. Sukalski	10.1145/514191.514205
+BProc: the Beowulf distributed process space.	Erik A. Hendriks	10.1145/514191.514212
+Experiences tuning SMG98: a semicoarsening multigrid benchmark based on the hypre library.	Guohua Jin,John M. Mellor-Crummey	10.1145/514191.514233
+Leveraging cache coherence in active memory systems.	Daehyun Kim,Mainak Chaudhuri,Mark A. Heinrich	10.1145/514191.514196
+Affinity-based cluster assignment for unrolled loops.	Gayathri Krishnamurthy,Elana D. Granston,Eric Stotzer	10.1145/514191.514209
+Clustered approaches to HPC via commodity HW + highly evolved SW.	David J. Kuck	10.1145/514191.514194
+Low-complexity reorder buffer architecture.	Gurhan Kucuk,Dmitry Ponomarev 0001,Kanad Ghose	10.1145/514191.514202
+A voxel-based parallel collision detection algorithm.	Orion Sky Lawlor,Laxmikant V. Kalé	10.1145/514191.514231
+Active buffering plus compressed migration: an integrated solution to parallel simulations&apos; data transport needs.	Jonghyun Lee 0001,Xiaosong Ma,Marianne Winslett,Shengke Yu	10.1145/514191.514215
+Profile-guided post-link stride prefetching.	Chi-Keung Luk,Robert Muth,Harish Patil,Richard Weiss 0001,P. Geoffrey Lowney,Robert S. Cohn	10.1145/514191.514217
+Search and replication in unstructured peer-to-peer networks.	Qin Lv,Pei Cao,Edith Cohen,Kai Li 0001,Scott Shenker	10.1145/514191.514206
+Critical power slope: understanding the runtime effects of frequency scaling.	Akihiko Miyoshi,Charles Lefurgy,Eric Van Hensbergen,Ramakrishnan Rajamony,Raj Rajkumar	10.1145/514191.514200
+Markov model prediction of I/O requests for scientific applications.	James Oly,Daniel A. Reed	10.1145/514191.514214
+Bloom filtering cache misses for accurate data speculation and prefetching.	Jih-Kwon Peir,Shih-Chang Lai,Shih-Lien Lu,Jared Stark,Konrad Lai	10.1145/514191.514219
+DualFS: a new journaling file system without meta-data duplication.	Juan Piernas,Toni Cortes,José M. García 0001	10.1145/514191.514213
+Computation regrouping: restructuring programs for temporal data cache locality.	Venkata K. Pingali,Sally A. McKee,Wilson C. Hsieh,John B. Carter	10.1145/514191.514227
+Hybrid analysis: static &amp; dynamic memory reference analysis.	Silvius Vasile Rus,Lawrence Rauchwerger,Jay P. Hoeflinger	10.1145/514191.514229
+Can the earth simulator change the way humans think?	Tetsuya Sato	10.1145/514191.514192
+Challenges and opportunities in autonomic computing.	Alfred Z. Spector	10.1145/514191.514193
+Boosting trace cache performance with nonhead miss speculation.	Stevan A. Vlaovic,Edward S. Davidson	10.1145/514191.514218
+A deterministic fault-tolerant and deadlock-free routing protocol in 2-D meshes based on odd-even turn model.	Jie Wu 0001	10.1145/514191.514204
+Instance-wise points-to analysis for loop-based dependence testing.	Peng Wu 0001,Paul Feautrier,David A. Padua,Zehra Sura	10.1145/514191.514228
+Optimal software pipelining of loops with control flows.	Han-Saem Yun,Jihong Kim 0001,Soo-Mook Moon	10.1145/514191.514210
+Parallelization and performance of 3D ultrasound imaging beamforming algorithms on modern clusters.	F. Zhang,Angelos Bilas,A. Dhanantwari,Kostas N. Plataniotis,R. Abiprojo,Stergios Stergiopoulos	10.1145/514191.514232
+Execution history guided instruction prefetching.	Yi Zhang,Steve Haga,Rajeev Barua	10.1145/514191.514220
+Proceedings of the 16th international conference on Supercomputing, ICS 2002, New York City, NY, USA, June 22-26, 2002	Kemal Ebcioglu,Keshav Pingali,Alex Nicolau	10.1145/514191

@@ -1,0 +1,62 @@
+Leap scratchpads: automatic memory and cache management for reconfigurable logic.	Michael Adler,Kermin Fleming,Angshuman Parashar,Michael Pellauer,Joel S. Emer	10.1145/1950413.1950421
+BBFEX: a bloom-bloomier filter extension for long patterns in FPGA-based pattern matching system (abstract only).	Trung Hieu Bui,Tuan Duy Anh Nguyen,Ngoc Thinh Tran	10.1145/1950413.1950487
+FPGA-based nand flash memory error characterization and solid-state drive prototyping platform (abstract only).	Yu Cai,Erich F. Haratsch,Mark P. McCartney,Mudit Bhargava,Ken Mai	10.1145/1950413.1950485
+LegUp: high-level synthesis for FPGA-based processor/accelerator systems.	Andrew Canis,Jongsok Choi,Mark Aldham,Victor Zhang,Ahmed Kammoona,Jason Helge Anderson,Stephen Dean Brown,Tomasz S. Czajkowski	10.1145/1950413.1950423
+Towards automated optimisation of tool-generated HW/SW sopc designs (abstract only).	Ravikesh Chandra,Oliver Sinnen	10.1145/1950413.1950486
+Line-level incremental resynthesis techniques for FPGAs.	Doris Chen,Deshanand P. Singh	10.1145/1950413.1950442
+Regular fabric for regular FPGA (abstract only).	Xun Chen,Jianwen Zhu	10.1145/1950413.1950484
+Towards scalable FPGA CAD through architecture.	Scott Y. L. Chin,Steven J. E. Wilton	10.1145/1950413.1950443
+VEGAS: soft vector processor with scratchpad memory.	Christopher Han-Yu Chou,Aaron Severance,Alex D. Brant,Zhiduo Liu,Saurabh Sant,Guy G. Lemieux	10.1145/1950413.1950420
+CoRAM: an in-fabric memory architecture for FPGA-based computing.	Eric S. Chung,James C. Hoe,Ken Mai	10.1145/1950413.1950435
+Resolving implicit barrier synchronizations in FPGA HLS (abstract only).	Jason Cong,Yi Zou	10.1145/1950413.1950469
+An analytical model relating FPGA architecture parameters to routability.	Joydip Das,Steven J. E. Wilton	10.1145/1950413.1950449
+Energy-efficient specialization of functional units in a coarse-grained reconfigurable array.	Brian Van Essen,Robin Panda,Aaron Wood,Carl Ebeling,Scott Hauck	10.1145/1950413.1950436
+Bridging the GPGPU-FPGA efficiency gap.	Christopher W. Fletcher,Ilia A. Lebedev,Narges Bani Asadi,Daniel Burke,John Wawrzynek	10.1145/1950413.1950439
+Eliminating the memory bottleneck: an FPGA-based solution for 3d reverse time migration.	Haohuan Fu,Robert G. Clapp	10.1145/1950413.1950429
+Improved double angle complex rotation QRD-RLS.	Qiang Gao,Robert W. Stewart	10.1145/1950413.1950431
+A CAD framework for Malibu: an FPGA with time-multiplexed coarse-grained elements.	David Grant,Chris C. Wang,Guy G. Lemieux	10.1145/1950413.1950441
+A 65nm flash-based FPGA fabric optimized for low cost and power.	Jonathan W. Greene,Sinan Kaptanoglu,Wenyi Feng,Volker Hecht,Joel Landry,Fei Li 0003,Anton Krouglyanskiy,Mihai Morosan,Val Pevzner	10.1145/1950413.1950434
+A prototype FPGA for subthreshold-optimized CMOS (abstract only).	Peter Grossmann,Miriam Leeser	10.1145/1950413.1950470
+High level synthesis for FPGAs applied to a sphere decoder channel preprocessor (abstract only).	Sven van Haastregt,Stephen Neuendorffer,Kees A. Vissers,Bart Kienhuis	10.1145/1950413.1950468
+Co-synthesis of FPGA-based application-specific floating point simd accelerators.	Andrei Hagiescu,Weng-Fai Wong	10.1145/1950413.1950459
+FPGA-based fine-grain parallel computing (abstract only).	Andrew W. Hill,Andrea Di Blas,Richard Hughey	10.1145/1950413.1950480
+An FPGA implementation of a sparse quadratic programming solver for constrained predictive control.	Juan Luis Jerez,George A. Constantinides,Eric C. Kerrigan	10.1145/1950413.1950454
+Fault modeling and characteristics of SRAM-based FPGAs (abstract only).	Naifeng Jing,Ju-Yueh Lee,Chun Zhang,Jiarong Tong,Zhigang Mao,Lei He 0001	10.1145/1950413.1950471
+Performance estimation framework for automated exploration of CPU-accelerator architectures.	Tobias Kenter,Christian Plessl,Marco Platzner,Michael Kauschke	10.1145/1950413.1950448
+A streaming FPGA implementation of a steerable filter for real-time applications (abstract only).	Srinidhi Kestur,Dharav Dantara,Vijaykrishnan Narayanan	10.1145/1950413.1950473
+FPGASort: a high performance sorting architecture exploiting run-time reconfiguration on fpgas for large problem sorting.	Dirk Koch,Jim Tørresen	10.1145/1950413.1950427
+NetTM: faster and easier synchronization for soft multicores via transactional memory.	Martin Labrecque,J. Gregory Steffan	10.1145/1950413.1950422
+Memory-efficient and scalable virtual routers using FPGA.	Hoang Le,Thilan Ganegedara,Viktor K. Prasanna	10.1145/1950413.1950461
+Health monitoring of live circuits in FPGAs based on time delay measurement (abstract only).	Joshua M. Levine,Edward A. Stott,George A. Constantinides,Peter Y. K. Cheung	10.1145/1950413.1950482
+Using many-core architectural templates for FPGA-based computing (abstract only).	Mingjie Lin,Shaoyi Cheng,John Wawrzynek	10.1145/1950413.1950474
+Automatic SoC design flow on many-core processors: a software hardware co-design approach for FPGAs.	Ling Liu,Oleksii Morozov,Yuxing Han,Jürg Gutknecht,Patrick R. Hunziker	10.1145/1950413.1950424
+Building a multi-FPGA virtualized restricted boltzmann machine architecture using embedded MPI.	Charles Lo,Paul Chow	10.1145/1950413.1950452
+An accelerated and energy-efficient traffic monitor using the NetFPGA (abstract only).	Alfio Lombardo,Diego Reforgiato Recupero,Giovanni Schembra	10.1145/1950413.1950464
+Variation tolerant asynchronous FPGA (abstract only).	Hock Soon Low,Delong Shang,Fei Xia,Alexandre Yakovlev	10.1145/1950413.1950477
+Architecture description and packing for logic blocks with hierarchy, modes and complex interconnect.	Jason Luu,Jason Helge Anderson,Jonathan Rose	10.1145/1950413.1950457
+Thermal and power characterization of field-programmable gate arrays.	Abdullah Nazma Nowroz,Sherief Reda	10.1145/1950413.1950437
+Microblaze: an application-independent fpga-based profiler (abstract only).	Fadi Obeidat,Robert H. Klenke	10.1145/1950413.1950479
+A platform for high level synthesis of memory-intensive image processing algorithms.	Tim Papenfuss,Holger Michel	10.1145/1950413.1950430
+Reducing the pressure on routing resources of FPGAs with generic logic chains.	Hadi Parandeh-Afshar,Grace Zgheib,Philip Brisk,Paolo Ienne	10.1145/1950413.1950458
+Memory based computing: reshaping the fine-grained logic in a reconfigurable framework (abstract only).	Somnath Paul,Swarup Bhunia	10.1145/1950413.1950481
+DEEP: an iterative fpga-based many-core emulation system for chip verification and architecture research.	Juergen Ributzka,Yuhei Hayashi,Fei Chen,Guang R. Gao	10.1145/1950413.1950438
+Dealing with the &quot;itanium effect&quot; (abstract only).	Steve Richfield	10.1145/1950413.1950466
+The role of FPGAs in a converged future with heterogeneous programmable processors: pre-conference workshop.	Jonathan Rose,Guy G. Lemieux	10.1145/1950413.1950415
+Timing-driven pathfinder pathology and remediation: quantifying and reducing delay noise in VPR-pathfinder.	Raphael Rubin,André DeHon	10.1145/1950413.1950447
+FPGA placement by graph isomorphism (abstract only).	Hossein Omidian Savarbaghi,Kia Bazargan	10.1145/1950413.1950483
+Low power interconnect design for fpgas with bidirectional wiring using nanocrystal floating gate devices (abstract only).	Daniel Schinke,Wallace Shep Pitts,Neil Di Spigna,Paul D. Franzon	10.1145/1950413.1950465
+The RLOC is dead - long live the RLOC.	Satnam Singh	10.1145/1950413.1950450
+Torc: towards an open-source tool flow.	Neil Steiner,Aaron Wood,Hamid Shojaei,Jacob Couch,Peter Athanas,Matthew French	10.1145/1950413.1950425
+FPGA side-channel receivers.	Ji Sun,Ray Bittner,Ken Eguro	10.1145/1950413.1950462
+Exploration of FPGA interconnect for the design of unconventional antennas.	Abhay Tavaragiri,Jacob Couch,Peter Athanas	10.1145/1950413.1950455
+Authenticated encryption for FPGA bitstreams.	Steven Trimberger,Jason Moore,Weiguang Lu	10.1145/1950413.1950432
+Scalable and deterministic timing-driven parallel placement for FPGAs.	Chris C. Wang,Guy G. Lemieux	10.1145/1950413.1950445
+Should the academic community launch an open-source FPGA device and tools effort?: evening panel.	John Wawrzynek	10.1145/1950413.1950417
+Comparing FPGA vs. custom cmos and the impact on processor microarchitecture.	Henry Wong,Vaughn Betz,Jonathan Rose	10.1145/1950413.1950419
+Improved delay measurement method in FPGA based on transition probability.	Justin S. J. Wong,Peter Y. K. Cheung	10.1145/1950413.1950446
+A comparison of FPGAs, GPUS and CPUS for Smith-Waterman algorithm (abstract only).	Yoshiki Yamaguchi,Kuen Hung Tsoi,Wayne Luk	10.1145/1950413.1950476
+A monte-carlo floating-point unit for self-validating arithmetic.	Jackson H. C. Yeung,Evangeline F. Y. Young,Philip Heng Wai Leong	10.1145/1950413.1950453
+On timing yield improvement for FPGA designs using architectural symmetry (abstract only).	Haile Yu,Qiang Xu 0001,Philip Heng Wai Leong	10.1145/1950413.1950467
+Real-time high-definition stereo matching on FPGA.	Lu Zhang 0018,Ke Zhang 0012,Tian Sheuan Chang,Gauthier Lafruit,Georgi Krasimirov Kuzmanov,Diederik Verkest	10.1145/1950413.1950428
+A chip-level path-delay-distribution based Dual-VDD method for low power FPGA (abstract only).	Jianfeng Zhu 0001,Dong Wu,Yaru Yan,Xiao Yu,Hu He 0001,Liyang Pan	10.1145/1950413.1950475
+Proceedings of the ACM/SIGDA 19th International Symposium on Field Programmable Gate Arrays, FPGA 2011, Monterey, California, USA, February 27, March 1, 2011	John Wawrzynek,Katherine Compton	10.1145/1950413

@@ -1,0 +1,23 @@
+RVC: a mechanism for time-analyzable real-time processors with faulty caches.	Jaume Abella 0001,Eduardo Quiñones,Francisco J. Cazorla,Yanos Sazeides,Mateo Valero	10.1145/1944862.1944878
+NoC-aware cache design for multithreaded execution on tiled chip multiprocessors.	Ahmed Abousamra,Alex K. Jones,Rami G. Melhem	10.1145/1944862.1944891
+PetaBricks: a language and compiler based on autotuning.	Saman P. Amarasinghe	10.1145/1944862.1944865
+DDM-VMc: the data-driven multithreading virtual machine for the cell processor.	Samer Arandi,Paraskevas Evripidou	10.1145/1944862.1944869
+High throughput data redundancy removal algorithm with scalable performance.	Souvik Bhattacherjee,Ankur Narang,Vikas K. Garg	10.1145/1944862.1944877
+SWEEP: evaluating computer system energy efficiency using synthetic workloads.	Kristof Du Bois,Tim Schaeps,Stijn Polfliet,Frederick Ryckbosch,Lieven Eeckhout	10.1145/1944862.1944886
+GLOpenCL: OpenCL support on hardware- and software-managed cache multicores.	Konstantis Daloukas,Christos D. Antonopoulos,Nikolaos Bellas	10.1145/1944862.1944868
+Runtime parallelization of legacy code on a transactional memory system.	Matthew DeVuyst,Dean M. Tullsen,Seon Wook Kim	10.1145/1944862.1944882
+Decoupled zero-compressed memory.	Julien Dusser,André Seznec	10.1145/1944862.1944876
+Parallel points-to analysis for multi-core machines.	Marcus Edvinsson,Jonas Lundberg,Welf Löwe	10.1145/1944862.1944872
+Fast modeling of shared caches in multicore systems.	David Eklov,David Black-Schaffer,Erik Hagersten	10.1145/1944862.1944885
+Moore&apos;s law implications on energy reduction.	Antonio González 0001	10.1145/1944862.1944864
+A workload-aware mapping approach for data-parallel programs.	Dominik Grewe,Zheng Wang 0001,Michael F. P. O&apos;Boyle	10.1145/1944862.1944881
+Cache equalizer: a placement mechanism for chip multiprocessor distributed shared caches.	Mohammad Hammoud,Sangyeun Cho,Rami G. Melhem	10.1145/1944862.1944889
+Cost-aware function migration in heterogeneous systems.	Mario Kicherer,Rainer Buchty,Wolfgang Karl	10.1145/1944862.1944883
+TypeCastor: demystify dynamic typing of JavaScript applications.	Shisheng Li,Buqi Cheng,Xiao-Feng Li	10.1145/1944862.1944873
+Extended histories: improving regularity and performance in correlation prefetchers.	R. Manikantan,R. Govindarajan,Kaushik Rajan	10.1145/1944862.1944875
+Directly characterizing cross core interference through contention synthesis.	Jason Mars,Lingjia Tang,Mary Lou Soffa	10.1145/1944862.1944887
+Replacement policies for shared caches on symmetric multicores: a programmer-centric point of view.	Pierre Michaud	10.1145/1944862.1944890
+A stream-computing extension to OpenMP.	Antoniu Pop,Albert Cohen 0001	10.1145/1944862.1944867
+Automated empirical tuning of scientific codes for performance and power consumption.	Faizur Rahman,Jichi Guo,Qing Yi	10.1145/1944862.1944880
+Speculatively vectorized bytecode.	Erven Rohou,Sergei Dyshel,Dorit Nuzman,Ira Rosen,Kevin Williams 0001,Albert Cohen 0001,Ayal Zaks	10.1145/1944862.1944871
+High Performance Embedded Architectures and Compilers, 6th International Conference, HiPEAC 2011, Heraklion, Crete, Greece, January 24-26, 2011. Proceedings	Manolis Katevenis,Margaret Martonosi,Christos Kozyrakis,Olivier Temam	

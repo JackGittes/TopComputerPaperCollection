@@ -1,0 +1,97 @@
+A low-power logic optimization methodology based on a fast power-driven mapping.	Sumit Roy 0003,Harm Arts,Prithviraj Banerjee	10.1109/ICCD.1998.727039
+System-level performance estimation strategy for sw and hw.	Alberto Allara,Carlo Brandolese,William Fornaciari,Fabio Salice,Donatella Sciuto	10.1109/ICCD.1998.727022
+Hierarchical pipelining for behaviors, loops, and operations.	Smita Bakshi,Daniel D. Gajski	10.1109/ICCD.1998.727089
+An effective datapath design methodology for high-frequency design.	Carina Ben-Zvi,Patrick McGuinness,Franklin Lassandro	10.1109/ICCD.1998.727041
+Optimal design of synchronous circuits using software pipelining techniques.	François R. Boyer,El Mostapha Aboulhamid,Yvon Savaria,Imed Eddine Bennour	10.1109/ICCD.1998.727024
+Leading-one prediction scheme for latency improvement in single datapath floating-point adders.	Javier D. Bruguera,Tomás Lang	10.1109/ICCD.1998.727065
+The effects of explicitly parallel mechanisms on the multi-ALU processor cluster pipeline.	Andrew Chang 0001,William J. Dally,Stephen W. Keckler,Nicholas P. Carter,Whay Sing Lee	10.1109/ICCD.1998.727091
+High-performance digit-serial complex-number multiplier-accumulator.	Yun-Nan Chang,Keshab K. Parhi	10.1109/ICCD.1998.727050
+Area-oriented synthesis for pass-transistor logic.	Rajat Chaudhry,Tai-Hung Liu,Adnan Aziz,Jeffrey L. Burns	10.1109/ICCD.1998.727037
+Efficient BIST TPG design and test set compaction for delay testing via input reduction.	C.-A. Chen,S. K. Gupta	10.1109/ICCD.1998.727020
+Pipelined computation of LNS addition/subtraction with very small lookup tables.	Chichyang Chen,Chih-Huan Yang	10.1109/ICCD.1998.727064
+Practical design and performance evaluation of completion detection circuits.	Fu-Chiung Cheng	10.1109/ICCD.1998.727074
+Practical use of transition mode delay to solve the problems of floating mode delay under highly correlated input streams.	Hoon Choi,Seung Ho Hwang	10.1109/ICCD.1998.727103
+The system design of a Windows CE ARM based micro-controller.	Keith S. P. Clarke,Danny Kershaw	10.1109/ICCD.1998.727056
+Profiling for input predictable threads.	Lucian Codrescu,D. Scott Wills	10.1109/ICCD.1998.727109
+Enhancing topological ATPG with high-level information and symbolic techniques.	Fulvio Corno,Janak H. Patel,Elizabeth M. Rudnick,Matteo Sonza Reorda,Roberto Vietti	10.1109/ICCD.1998.727096
+VEGA: a verification tool based on genetic algorithms.	Fulvio Corno,Matteo Sonza Reorda,Giovanni Squillero	10.1109/ICCD.1998.727069
+Automatic VHDL restructuring for RTL synthesis optimization and testability improvement.	D. Corvino,Italo Epicoco,Fabrizio Ferrandi,Franco Fummi,Donatella Sciuto	10.1109/ICCD.1998.727086
+Scheduling under data and control dependencies for heterogeneous architectures.	Alex Doboli,Petru Eles	10.1109/ICCD.1998.727121
+Zen and the art of Alpha verification.	Nathan Dohm,Carl Ramey,Darren Brown,Scot Hildebrandt,James Huggins,Michael Quinn,Scott A. Taylor	10.1109/ICCD.1998.727031
+Using regression analysis for GA-based ATPG parameter optimization.	William E. Dougherty,R. D. (Shawn) Blanton	10.1109/ICCD.1998.727098
+An eight-issue tree-VLIW processor for dynamic binary translation.	Kemal Ebcioglu,Jason Fritts,Stephen Kosonocky,Michael Gschwind,Erik R. Altman,Krishnan Kailas,Terry Bright	10.1109/ICCD.1998.727094
+An exact solution to the minimum size test pattern problem.	Paulo F. Flores,Horácio C. Neto,João P. Marques Silva	10.1109/ICCD.1998.727097
+AMULET3: a high-performance self-timed ARM microprocessor.	Stephen B. Furber,Jim D. Garside,D. A. Gilbert	10.1109/ICCD.1998.727058
+Branch assertion and elimination.	Afshin Ganjoo	10.1109/ICCD.1998.727049
+Adaptive synchronization.	Ran Ginosar,Rakefet Kol	10.1109/ICCD.1998.727042
+Static race verification for networks with reconvergent clocks.	Joel Grodstein,Nick Rethman,Nevine Nassif	10.1109/ICCD.1998.727100
+New compact representation of multiple-valued functions, relations, and non-deterministic state machines.	Stan Grygiel,Marek A. Perkowski	10.1109/ICCD.1998.727038
+The Microcore development system: a unified environment for designing new microprocessors.	Rolf Hakenes,Yiannos Manoli	10.1109/ICCD.1998.727043
+Deep submicron design techniques for the 500 MHz IBM S/390 G5 custom microprocessor.	Dale E. Hoffman,Robert M. Averill III,Brian W. Curran,Yuen H. Chan,Allan H. Dansky,Robert F. Hatch,Timothy G. McNamara,Thomas J. McPherson,Gregory A. Northrop,Leon J. Sigal,Anthony Pelella,Patrick M. Williams	10.1109/ICCD.1998.727059
+Hardware/software co-verification, an IP vendors viewpoint.	T. Hopes	10.1109/ICCD.1998.727057
+Timing analysis of combinational circuits containing complex gates.	Yaun-Chung Hsu,Hsi-Chuan Chen,Shangzhi Sun,David Hung-Chang Du	10.1109/ICCD.1998.727082
+Finding the longest simple path in cyclic combinational circuits.	Yaun-Chung Hsu,Shangzhi Sun,David Hung-Chang Du	10.1109/ICCD.1998.727102
+Analysis of ×86 instruction set usage for DOS/Windows applications and its implication on superscalar design.	Ing-Jer Huang,Tzu-Chin Peng	10.1109/ICCD.1998.727110
+Test points selection process and diagnosability analysis of analog integrated circuits.	Wei-Hsing Huang,Chin-Long Wey	10.1109/ICCD.1998.727113
+Testing digital to analog converters based on oscillation-test strategy using sigma-delta modulation.	Hassan Ihs,Karim Arabi,Bozena Kaminska	10.1109/ICCD.1998.727021
+Re-synthesis in technology mapping for heterogeneous FPGAs.	Maurice Kilavuka Inuani,Jonathan Saul	10.1109/ICCD.1998.727047
+A fast global gate collapsing technique for high performance designs using static CMOS and pass transistor logic.	Yanbin Jiang,Sachin S. Sapatnekar,Cyrus Bamji	10.1109/ICCD.1998.727062
+Code coalescing unit: a mechanism to facilitate load store data communication.	J. John,Yin Teh,Francis Matus,Craig Chase	10.1109/ICCD.1998.727106
+Low power SRAM design using hierarchical divided bit-line approach.	Ashish Karandikar,Keshab K. Parhi	10.1109/ICCD.1998.727027
+The Alpha 21264 microprocessor architecture.	Richard E. Kessler,Edward J. McLellan,D. A. Webb	10.1109/ICCD.1998.727028
+Fault-tolerant architecture for high performance embedded system applications.	Gul N. Khan	10.1109/ICCD.1998.727078
+Dynamic fault diagnosis for sequential circuits on reconfigurable hardware.	Fatih Kocan,Daniel G. Saab	10.1109/ICCD.1998.727051
+Fast low-power shared division and square-root architecture.	Martin Kuhlmann,Keshab K. Parhi	10.1109/ICCD.1998.727033
+DCP: an algorithm for datapath/control partitioning of synthesizable RTL models.	Victor J. Lam,Kunle Olukotun	10.1109/ICCD.1998.727088
+Extension of the working-zone-encoding method to reduce the energy on the microprocessor data bus.	Tomás Lang,Enric Musoll,Jordi Cortadella	10.1109/ICCD.1998.727083
+Data cache parameter measurements.	Enyou Li,Clark D. Thomborson	10.1109/ICCD.1998.727077
+On finding undetectable and redundant faults in synchronous sequential circuits.	Xijiang Lin,Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.1998.727095
+Buffer size driven partitioning for HW/SW co-design.	Ta-Cheng Lin,Sadiq M. Sait,Walling R. Cyre	10.1109/ICCD.1998.727118
+Integrated partitioning and scheduling for hardware/software co-design.	Huiqun Liu,D. F. Wong 0001	10.1109/ICCD.1998.727125
+Combining technology mapping with post-placement resynthesis for performance optimization.	Aiguo Lu,Hans Eisenmann,Guenter Stenz,Frank M. Johannes	10.1109/ICCD.1998.727128
+Model checking of a real ATM switch.	Jianping Lu,Sofiène Tahar,Dan Voicu,Xiaoyu Song	10.1109/ICCD.1998.727045
+Performance-driven board-level routing for FPGA-based logic emulation.	Wai-Kei Mak,D. F. Wong 0001	10.1109/ICCD.1998.727046
+Silicon microsystems merging sensors, circuits and systems.	Yiannos Manoli,W. Mokwa	10.1109/ICCD.1998.727134
+FPGA-based Internet Protocol Version 6 router.	Mohammad M. Mansour,Ayman I. Kayssi	10.1109/ICCD.1998.727071
+Parallel ultra large scale engine SIMD architecture for real-time digital signal processing applications.	Paul Marriott,Ivan C. Kraljic,Yvon Savaria	10.1109/ICCD.1998.727093
+Circuit implementation of a 600 MHz superscalar RISC microprocessor.	Mark Matson,Dan Bailey,Shane L. Bell,Larry L. Biro,Steve Butler,John Clouser,Jim Farrell,Mike Gowan,Donald A. Priore,Kathryn Wilcox	10.1109/ICCD.1998.727030
+Rapid prototyping of self-timed circuits.	Simon W. Moore,Peter Robinson 0001	10.1109/ICCD.1998.727075
+Low-power radix-8 divider.	Alberto Nannarelli,Tomás Lang	10.1109/ICCD.1998.727084
+Theorem proving guided development of formal assertions in a resource-constrained scheduler for high-level synthesis.	Naren Narasimhan,Elena Teica,Rajesh Radhakrishnan,Sriram Govindarajan,Ranga Vemuri	10.1109/ICCD.1998.727079
+Circular buffered switch design with wormhole routing and virtual channels.	Nan Ni,Marius Pirvu,Laxmi N. Bhuyan	10.1109/ICCD.1998.727090
+Circuit design techniques for a gigahertz integer microprocessor.	Kevin J. Nowka,Tibi Galambos	10.1109/ICCD.1998.727017
+Automatic data path abstraction for verification of large scale designs.	Viresh Paruthi,Nazanin Mansouri,Ranga Vemuri	10.1109/ICCD.1998.727044
+Pulse-mode macromodular systems.	Luis A. Plana,Stephen H. Unger	10.1109/ICCD.1998.727073
+Improved built-in test pattern generators based on comparison units for synchronous sequential circuits.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.1998.727019
+Design methodology for a 1.0 GHz microprocessor.	Stephen D. Posluszny,Naoaki Aoki,David Boerstler,Jeffrey L. Burns,Sang H. Dhong,Uttam Ghoshal,H. Peter Hofstee,David P. LaPotin,Kyung T. Lee,David Meltzer,Hung C. Ngo,Kevin J. Nowka,Joel Silberman,Osamu Takahashi,Ivan Vo	10.1109/ICCD.1998.727018
+Design issues in mixed static-domino circuit implementations.	Ruchir Puri	10.1109/ICCD.1998.727061
+Partitioning in time: a paradigm for reconfigurable computing.	Karthikeya M. Gajjala Purna,Dinesh Bhatia	10.1109/ICCD.1998.727072
+A fractal compaction algorithm for efficient power estimation.	Radj Radjassamy,Jo Dale Carothers	10.1109/ICCD.1998.727104
+Methods for calculating coupling noise in early design: a comparative analysis.	Khalid Rahmat,José Neves 0002,Jin-Fuw Lee	10.1109/ICCD.1998.727026
+A reduction scheme to optimize the Wallace multiplier.	Moises E. Robinson,Earl E. Swartzlander Jr.	10.1109/ICCD.1998.727032
+Software power estimation and optimization for high performance, 32-bit embedded processors.	Jeffry T. Russell,Margarida F. Jacome	10.1109/ICCD.1998.727070
+Efficient exact and heuristic minimization of hazard-free logic.	J. W. J. M. Rutten,Michel R. C. M. Berkelaar	10.1109/ICCD.1998.727036
+To model check or not to model check.	Nina Saxena,Jason Baumgartner,Avijit Saha,Jacob A. Abraham	10.1109/ICCD.1998.727067
+The ARM9 family-high performance microprocessors for embedded applications.	Simon Segars	10.1109/ICCD.1998.727055
+How many logic levels does floating-point addition require?	Peter-Michael Seidel,Guy Even	10.1109/ICCD.1998.727035
+A minimized hardware architecture of fast Phong shader using Taylor series approximation in 3D graphics.	Hyunchul Shin,Jin-Aeon Lee,Lee-Sup Kim	10.1109/ICCD.1998.727063
+Timing verification of the 21264: A 600 MHz full-custom microprocessor.	Emily J. Shriver,Dale H. Hall,Nevine Nassif,Nadir E. Rahman,Nick L. Rethman,Gill Watt,Jim A. Farrell	10.1109/ICCD.1998.727029
+Comparative analysis of latches and flip-flops for high-performance systems.	Vladimir Stojanovic,Vojin G. Oklobdzija,Raminder Singh Bajwa	10.1109/ICCD.1998.727060
+Learning as applied to stochastic optimization for standard cell placement.	Lixin Su,Wray L. Buntine,A. Richard Newton,Bradley S. Peters	10.1109/ICCD.1998.727129
+A 690 ps read-access latency register file for a GHz integer microprocessor.	Osamu Takahashi,Joel Silberman,Sang H. Dhong,H. Peter Hofstee,Naoaki Aoki	10.1109/ICCD.1998.727016
+An approach to verify a large scale system-on-a-chip using symbolic model checking.	Koichiro Takayama,Taizo Satoh,Tsuneo Nakata,Fumiyasu Hirose	10.1109/ICCD.1998.727066
+A fine-grain, current mode scheme for VLSI proximity search engine.	Seiji Takeuchi,Takayasu Sakurai	10.1109/ICCD.1998.727040
+Evaluating the performance of active cache management schemes.	Edward S. Tam,Jude A. Rivers,Vijayalakshmi Srinivasan,Gary S. Tyson,Edward S. Davidson	10.1109/ICCD.1998.727076
+Current-based testing for analog and mixed-signal circuits.	Jaime Velasco-Medina,Michael Nicolaidis	10.1109/ICCD.1998.727111
+Incorporating timing constraints in the efficient memory model for symbolic ternary simulation.	Miroslav N. Velev,Randal E. Bryant	10.1109/ICCD.1998.727081
+A simple adaptive wormhole routing algorithm for MIMD systems.	Raju D. Venkataramana,N. Ranganathan	10.1109/ICCD.1998.727048
+Clock-skew constrained placement for row based designs.	Natesan Venkateswaran,Dinesh Bhatia	10.1109/ICCD.1998.727053
+Accuracy sensitive word-length selection for algorithm optimization.	Suhrid A. Wadekar,Alice C. Parker	10.1109/ICCD.1998.727023
+On short circuit power estimation of CMOS inverters.	Qi Wang,Sarma B. K. Vrudhula	10.1109/ICCD.1998.727025
+Area minimization of redundant CORDIC pipeline architectures.	Andreas Wassatsch,Steffen Dolling,Dirk Timmermann	10.1109/ICCD.1998.727034
+On thin Boolean functions and related optimum OBDD ordering.	Yu-Liang Wu,Hongbing Fan,C. K. Wong	10.1109/ICCD.1998.727052
+Antirandom vs. pseudorandom testing.	Shen Hui Wu,Yashwant K. Malaiya,Anura P. Jayasumana	10.1109/ICCD.1998.727054
+Fault detection and automated fault diagnosis for embedded integrated electrical passives.	Heebyung Yoon,Junwei Hou,Abhijit Chatterjee,Madhavan Swaminathan	10.1109/ICCD.1998.727116
+A self-timed real-time sorting network.	Kenneth Y. Yun,Supratik Chakraborty,Kevin W. James,Robert H. Fairlie-Cuninghame,Rene L. Cruz	10.1109/ICCD.1998.727085
+Timing-driven routing for symmetrical-array-based FPGAs.	Kai Zhu 0001,Yao-Wen Chang,D. F. Wong 0001	10.1109/ICCD.1998.727132
+International Conference on Computer Design: VLSI in Computers and Processors, ICCD 1998, Proceedings, 5-7 October, 1998, Austin, TX, USA		

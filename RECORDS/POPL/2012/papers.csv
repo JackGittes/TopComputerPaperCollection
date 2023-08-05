@@ -1,0 +1,49 @@
+Multiple facets for dynamic information flow.	Thomas H. Austin,Cormac Flanagan	10.1145/2103656.2103677
+A unified approach to fully lazy sharing.	Thibaut Balabonski	10.1145/2103656.2103713
+Probabilistic relational reasoning for differential privacy.	Gilles Barthe,Boris Köpf,Federico Olmedo,Santiago Zanella Béguelin	10.1145/2103656.2103670
+Deciding choreography realizability.	Samik Basu 0001,Tevfik Bultan,Meriem Ouederni	10.1145/2103656.2103680
+Clarifying and compiling C/C++ concurrency: from C++11 to POWER.	Mark Batty,Kayvan Memarian,Scott Owens,Susmit Sarkar,Peter Sewell	10.1145/2103656.2103717
+A type theory for probability density functions.	Sooraj Bhat,Ashish Agarwal,Richard W. Vuduc,Alexander G. Gray	10.1145/2103656.2103721
+Presentation of the SIGPLAN distinguished achievement award to Sir Charles Antony Richard Hoare, FRS, FREng, FBCS; and interview.	Andrew P. Black,Peter W. O&apos;Hearn	10.1145/2103656.2103658
+Towards nominal computation.	Mikolaj Bojanczyk,Laurent Braud,Bartek Klin,Slawomir Lasota 0001	10.1145/2103656.2103704
+Resource-sensitive synchronization inference by abduction.	Matko Botincan,Mike Dodds,Suresh Jagannathan	10.1145/2103656.2103694
+Analysis of recursively parallel programs.	Ahmed Bouajjani,Michael Emmi	10.1145/2103656.2103681
+Programming with binders and indexed data-types.	Andrew Cave,Brigitte Pientka	10.1145/2103656.2103705
+Nested refinements: a logic for duck typing.	Ravi Chugh,Patrick Maxim Rondon,Ranjit Jhala	10.1145/2103656.2103686
+An abstract interpretation framework for termination.	Patrick Cousot,Radhia Cousot	10.1145/2103656.2103687
+On the power of coercion abstraction.	Julien Cretin,Didier Rémy	10.1145/2103656.2103699
+An executable formal semantics of C with applications.	Chucky Ellison,Grigore Rosu	10.1145/2103656.2103719
+Verification of parameterized concurrent programs by modular reasoning about data and control.	Azadeh Farzan,Zachary Kincaid	10.1145/2103656.2103693
+Towards a program logic for JavaScript.	Philippa Gardner,Sergio Maffeis,Gareth David Smith	10.1145/2103656.2103663
+Access permission contracts for scripting languages.	Phillip Heidegger,Annette Bieniusa,Peter Thiemann 0001	10.1145/2103656.2103671
+Message of thanks: on the receipt of the 2011 ACM SIGPLAN distinguished achievement award.	Tony Hoare	10.1145/2103656.2103659
+Playing in the grey area of proofs.	Krystof Hoder,Laura Kovács,Andrei Voronkov	10.1145/2103656.2103689
+Edit lenses.	Martin Hofmann 0001,Benjamin C. Pierce,Daniel Wagner 0001	10.1145/2103656.2103715
+The marriage of bisimulations and Kripke logical relations.	Chung-Kil Hur,Derek Dreyer,Georg Neis,Viktor Vafeiadis	10.1145/2103656.2103666
+Information effects.	Roshan P. James,Amr Sabry	10.1145/2103656.2103667
+Underspecified harnesses and interleaved bugs.	Saurabh Joshi 0001,Shuvendu K. Lahiri,Akash Lal	10.1145/2103656.2103662
+Algebraic foundations for effect-dependent optimisations.	Ohad Kammar,Gordon D. Plotkin	10.1145/2103656.2103698
+Run your research: on the effectiveness of lightweight mechanization.	Casey Klein,John Clements,Christos Dimoulas,Carl Eastlund,Matthias Felleisen,Matthew Flatt,Jay A. McCarthy,Jon Rafkind,Sam Tobin-Hochstadt,Robert Bruce Findler	10.1145/2103656.2103691
+Constraints as control.	Ali Sinan Köksal,Viktor Kuncak,Philippe Suter	10.1145/2103656.2103675
+Higher-order functional reactive programming in bounded space.	Neelakantan R. Krishnaswami,Nick Benton,Jan Hoffmann 0002	10.1145/2103656.2103665
+A rely-guarantee-based simulation for verifying concurrent program transformations.	Hongjin Liang 0001,Xinyu Feng 0001,Ming Fu	10.1145/2103656.2103711
+Canonicity for 2-dimensional type theory.	Daniel R. Licata,Robert Harper 0001	10.1145/2103656.2103697
+Recursive proofs for inductive tree data-structures.	Parthasarathy Madhusudan,Xiaokang Qiu,Andrei Stefanescu	10.1145/2103656.2103673
+A compiler and run-time system for network programming languages.	Christopher Monsanto,Nate Foster,Rob Harrison,David Walker	10.1145/2103656.2103685
+Meta-level features in an industrial-strength theorem prover.	J Strother Moore	10.1145/2103656.2103707
+A type system for borrowing permissions.	Karl Naden,Robert Bocchino,Jonathan Aldrich,Kevin Bierhoff	10.1145/2103656.2103722
+Abstractions from tests.	Mayur Naik,Hongseok Yang,Ghila Castelnuovo,Mooly Sagiv	10.1145/2103656.2103701
+A mechanized semantics for C++ object construction and destruction, with applications to resource management.	Tahina Ramananandro,Gabriel Dos Reis,Xavier Leroy	10.1145/2103656.2103718
+The ins and outs of gradual type inference.	Aseem Rastogi,Avik Chaudhuri,Basil Hosmer	10.1145/2103656.2103714
+Defining code-injection attacks.	Donald Ray,Jay Ligatti	10.1145/2103656.2103678
+Syntactic control of interference for separation logic.	Uday S. Reddy,John C. Reynolds	10.1145/2103656.2103695
+Programming languages for programmable networks.	Jennifer Rexford	10.1145/2103656.2103683
+Sound predictive race detection in polynomial time.	Yannis Smaragdakis,Jacob Evans,Caitlin Sadowski,Jaeheon Yi,Cormac Flanagan	10.1145/2103656.2103702
+Freefinement.	Stephan van Staden,Cristiano Calcagno,Bertrand Meyer 0001	10.1145/2103656.2103661
+Static and user-extensible proof checking.	Antonis Stampoulis,Zhong Shao	10.1145/2103656.2103690
+Self-certification: bootstrapping certified typecheckers in F* with Coq.	Pierre-Yves Strub,Nikhil Swamy,Cédric Fournet,Juan Chen 0002	10.1145/2103656.2103723
+Symbolic finite state transducers: algorithms and applications.	Margus Veanes,Pieter Hooimeijer,Benjamin Livshits,David Molnar,Nikolaj S. Bjørner	10.1145/2103656.2103674
+A language for automatically enforcing privacy policies.	Jean Yang 0001,Kuat Yessenov,Armando Solar-Lezama	10.1145/2103656.2103669
+Formalizing the LLVM intermediate representation for verified program transformations.	Jianzhou Zhao,Santosh Nagarakatte,Milo M. K. Martin,Steve Zdancewic	10.1145/2103656.2103709
+Randomized accuracy-aware program transformations for efficient approximate computations.	Zeyuan Allen Zhu,Sasa Misailovic,Jonathan A. Kelner,Martin C. Rinard	10.1145/2103656.2103710
+Proceedings of the 39th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2012, Philadelphia, Pennsylvania, USA, January 22-28, 2012	John Field,Michael Hicks 0001	10.1145/2103656

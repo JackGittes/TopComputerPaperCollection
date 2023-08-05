@@ -1,0 +1,39 @@
+Semantics of transactional memory and automatic mutual exclusion.	Martín Abadi,Andrew Birrell,Tim Harris 0001,Michael Isard	10.1145/1328438.1328449
+Imperative self-adjusting computation.	Umut A. Acar,Amal Ahmed 0001,Matthias Blume	10.1145/1328438.1328476
+Extensible encoding of type hierarchies.	Hamed S. Alavi,Seth Gilbert,Rachid Guerraoui	10.1145/1328438.1328480
+The intensional content of Rice&apos;s theorem.	Andrea Asperti	10.1145/1328438.1328455
+Engineering formal metatheory.	Brian E. Aydemir,Arthur Charguéraud,Benjamin C. Pierce,Randy Pollack,Stephanie Weirich	10.1145/1328438.1328443
+Boomerang: resourceful lenses for string data.	Aaron Bohannon,J. Nathan Foster,Benjamin C. Pierce,Alexandre Pilkiewicz,Alan Schmitt	10.1145/1328438.1328487
+Cyclic proofs of program termination in separation logic.	James Brotherston,Richard Bornat,Cristiano Calcagno	10.1145/1328438.1328453
+A theory of contracts for web services.	Giuseppe Castagna,Nils Gesbert,Luca Padovani	10.1145/1328438.1328471
+Relational inductive shape analysis.	Bor-Yuh Evan Chang,Xavier Rival	10.1145/1328438.1328469
+Subcubic algorithms for recursive state machines.	Swarat Chaudhuri	10.1145/1328438.1328460
+Enhancing modular OO verification with separation logic.	Wei-Ngan Chin,Cristina David,Huu Hai Nguyen,Shengchao Qin	10.1145/1328438.1328452
+Lightweight semiformal time complexity analysis for purely functional data structures.	Nils Anders Danielsson	10.1145/1328438.1328457
+From dirt to shovels: fully automatic tool generation from ad hoc data.	Kathleen Fisher,David Walker,Kenny Qili Zhu,Peter White	10.1145/1328438.1328488
+Systems biology, models, and concurrency.	Walter Fontana	10.1145/1328438.1328439
+Cryptographically sound implementations for typed information-flow security.	Cédric Fournet,Tamara Rezk	10.1145/1328438.1328478
+A logical account of pspace.	Marco Gaboardi,Jean-Yves Marion,Simona Ronchi Della Rocca	10.1145/1328438.1328456
+Lifting abstract interpreters to quantified logical domains.	Sumit Gulwani,Bill McCloskey,Ashish Tiwari 0001	10.1145/1328438.1328468
+Proving non-termination.	Ashutosh Gupta 0001,Thomas A. Henzinger,Rupak Majumdar,Andrey Rybalchenko,Ru-Gang Xu	10.1145/1328438.1328459
+An approach to call-by-name delimited continuations.	Hugo Herbelin,Silvia Ghilezan	10.1145/1328438.1328484
+Multiparty asynchronous session types.	Kohei Honda 0001,Nobuko Yoshida,Marco Carbone	10.1145/1328438.1328472
+Foundations for structured programming with GADTs.	Patricia Johann,Neil Ghani	10.1145/1328438.1328475
+Back to the future: revisiting precise program verification using SMT solvers.	Shuvendu K. Lahiri,Shaz Qadeer	10.1145/1328438.1328461
+On the computational soundness of cryptographically masked flows.	Peeter Laud	10.1145/1328438.1328479
+Clowns to the left of me, jokers to the right (pearl): dissecting data structures.	Conor McBride	10.1145/1328438.1328474
+Relevance heuristics for program analysis.	Kenneth L. McMillan	10.1145/1328438.1328440
+Caml trading.	Yaron Minsky	10.1145/1328438.1328441
+High-level small-step operational semantics for transactions.	Katherine F. Moore,Dan Grossman	10.1145/1328438.1328448
+Contextual effects for version-consistent dynamic software updatingalland safe concurrent programming.	Iulian Neamtiu,Michael Hicks 0001,Jeffrey S. Foster,Polyvios Pratikakis	10.1145/1328438.1328447
+A theory of platform-dependent low-level software.	Marius Nita,Dan Grossman,Craig Chambers	10.1145/1328438.1328465
+Separation logic, abstraction and inheritance.	Matthew J. Parkinson,Gavin M. Bierman	10.1145/1328438.1328451
+A type-theoretic foundation for programming with higher-order abstract syntax and first-class substitutions.	Brigitte Pientka	10.1145/1328438.1328483
+The design and implementation of typed scheme.	Sam Tobin-Hochstadt,Matthias Felleisen	10.1145/1328438.1328486
+Formal verification of translation validators: a case study on instruction scheduling optimizations.	Jean-Baptiste Tristan,Xavier Leroy	10.1145/1328438.1328444
+Automatic inference of stationary fields: a generalization of java&apos;s final fields.	Christopher Unkel,Monica S. Lam	10.1145/1328438.1328463
+Much ado about two (pearl): a pearl on parallel prefix computation.	Janis Voigtländer	10.1145/1328438.1328445
+Generating precise and concise procedure summaries.	Greta Yorsh,Eran Yahav,Satish Chandra 0001	10.1145/1328438.1328467
+Focusing and higher-order abstract syntax.	Noam Zeilberger	10.1145/1328438.1328482
+Demand-driven alias analysis for C.	Xin Zheng,Radu Rugina	10.1145/1328438.1328464
+Proceedings of the 35th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2008, San Francisco, California, USA, January 7-12, 2008	George C. Necula,Philip Wadler	10.1145/1328438

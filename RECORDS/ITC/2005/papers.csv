@@ -1,0 +1,182 @@
+Defect-based RF testing using a new catastrophic fault model.	Erkan Acar,Sule Ozev	10.1109/TEST.2005.1584001
+Parallel, multi-DUT testing in an open architecture test system.	Toshiaki Adachi,Ankan K. Pramanick,Mark Elston	10.1109/TEST.2005.1584053
+Enhanced launch-off-capture transition fault testing.	Nisar Ahmed,Mohammad Tehranipoor,C. P. Ravikumar	10.1109/TEST.2005.1583982
+A scalable test strategy for network-on-chip routers.	Alexandre M. Amory,Eduardo Wenzel Brião,Érika F. Cota,Marcelo Lubaszewski,Fernando Gehm Moraes	10.1109/TEST.2005.1584020
+Analysis of error-masking and X-masking probabilities for convolutional compactors.	Masayuki Arai,Satoshi Fukumoto,Kazuhiko Iwasaki	10.1109/TEST.2005.1584017
+Lowering the cost of test with a scalable ATE custom processor and timing IC containing 400 high-linearity timing verniers.	Brian Arkin	10.1109/TEST.2005.1584052
+A structured approach for the systematic test of embedded automotive communication systems.	Eric Armengaud,Florian Rothensteiner,Andreas Steininger,Roman Pallierer,Martin Horauer,Martin Zauner	10.1109/TEST.2005.1583956
+Evaluating ATE-equipment for volume diagnosis.	Ralf Arnold,Andreas Leininger	10.1109/TEST.2005.1584073
+Technique to improve the performance of time-interleaved A-D converters.	Koji Asami	10.1109/TEST.2005.1584049
+Remote boundary-scan system test control for the ATCA standard.	David Bäckström,Gunnar Carlsson,Erik Larsson	10.1109/TEST.2005.1584042
+Progressive random access scan: a simultaneous solution to test power, test data volume and test time.	Dong Hyun Baik,Kewal K. Saluja	10.1109/TEST.2005.1583994
+The final D-frontier: should DFT be outsourced?	Luis Basto	10.1109/TEST.2005.1584131
+March AB, March AB1: new March tests for unlinked dynamic memory faults.	Alfredo Benso,Alberto Bosio,Stefano Di Carlo,Giorgio Di Natale,Paolo Prinetto	10.1109/TEST.2005.1584047
+Reconfigurable systems self-healing using mobile hardware agents.	Alfredo Benso,Alessandro Cilardo,Nicola Mazzocca,Liviu Miclea,Paolo Prinetto,Szilárd Enyedi	10.1109/TEST.2005.1584007
+Production test enhancement techniques for MB-OFDM ultra-wide band (UWB) devices: EVM and CCDF.	Soumendu Bhattacharya,Rajarajan Senguttuvan,Abhijit Chatterjee	10.1109/TEST.2005.1583981
+Programmable memory BIST.	Slimane Boutobza,Michael Nicolaidis,Kheiredine M. Lamara,Andrea Costa	10.1109/TEST.2005.1584083
+A comprehensive production test solution for 1.5Gb/s and 3Gb/s serial-ATA - based on AWG and undersampling techniques.	Yi Cai,Amit Bhattacharyya,Joe Martone,Anant Verma,William Burchanowski	10.1109/TEST.2005.1584026
+A test case for 3Gbps serial attached SCSI (SAS).	Yi Cai,Liming Fang,Robert Ratemo,J. Liu,K. Gross,Michael Kozma	10.1109/TEST.2005.1584027
+Business constraints drive test decisions planning, partnerships and success.	Michael Campbell	10.1109/TEST.2005.1584106
+How are we going to test SoCs on a board?: the users viewpoint.	Gunnar Carlsson	10.1109/TEST.2005.1584095
+How are we going to test socs on a board? the users viewpoint.	Gunnar Carlsson	10.1109/TEST.2005.1584096
+A test point selection method for data converters using Rademacher functions and wavelet transforms.	Chandra Carter,Simon S. Ang	10.1109/TEST.2005.1584087
+Test connections - tying application to process.	John M. Carulli Jr.,Thomas J. Anderson	10.1109/TEST.2005.1584030
+Microprocessor silicon debug based on failure propagation tracing.	Olivier Caty,Peter Dahlgren,Ismet Bayraktaroglu	10.1109/TEST.2005.1583986
+Panel discussion for &quot;have we overcome the challenges associated with SoC and multi-core testing?&quot;.	Nathan Chelstrom	10.1109/TEST.2005.1584117
+Diagnosis framework for locating failed segments of path delay faults.	Ying-Yen Chen,Min-Pin Kuo,Jing-Jia Liou	10.1109/TEST.2005.1583997
+Comparative study of CA with phase shifters and GLFSRs.	S. Chidambaram,Dimitrios Kagaris,Dhiraj K. Pradhan	10.1109/TEST.2005.1584058
+Gate exhaustive testing.	Kyoung Youn Cho,Subhasish Mitra,Edward J. McCluskey	10.1109/TEST.2005.1584040
+A new approach for massive parallel scan design.	Woo Cheol Chung,Dong Sam Ha	10.1109/TEST.2005.1584010
+Design and analysis of multiple weight linear compactors of responses containing unknown values.	Thomas Clouqueur,Kamran Zarrineh,Kewal K. Saluja,Hideo Fujiwara	10.1109/TEST.2005.1584077
+How are we going to test SoC&apos;s on a PCB?	Peter Collins	10.1109/TEST.2005.1584097
+A transparent solution for providing remote wired or wireless communication to board and system level boundary-scan architectures.	Peter Collins,Ilka Reis,Mikko Simonen,Marc van Houcke	10.1109/TEST.2005.1583957
+A practical perspective on reducing ASIC NTFs.	Zoe Conroy,Geoff Richmond,Xinli Gu,Bill Eklow	10.1109/TEST.2005.1583992
+Needs fabless yield ramp foundry partnership to be most successful.	Bruce Cory	10.1109/TEST.2005.1584127
+Variance reduction and outliers: statistical analysis of semiconductor test data.	W. Robert Daasch,Robert Madge	10.1109/TEST.2005.1583988
+Data-driven models for statistical testing: measurements, estimates and residuals.	W. Robert Daasch,Robert Madge	10.1109/TEST.2005.1583989
+Testing and debugging delay faults in dynamic circuits.	Ramyanshu Datta,Sani R. Nassif,Robert K. Montoye,Jacob A. Abraham	10.1109/TEST.2005.1583966
+Understanding NTF components from the field.	Scott Davidson	10.1109/TEST.2005.1583991
+The ITC test compression shootout.	Scott Davidson	10.1109/TEST.2005.1584110
+Methods for improving transition delay fault coverage using broadside tests.	Narendra Devta-Prasanna,Arun Gunda,P. Krishnamurthy,Sudhakar M. Reddy,Irith Pomeranz	10.1109/TEST.2005.1583983
+Business constraints drive test decisions.	Paul Domino	10.1109/TEST.2005.1584107
+Full-speed field-programmable memory BIST architecture.	Xiaogang Du,Nilanjan Mukherjee 0001,Wu-Tung Cheng,Sudhakar M. Reddy	10.1109/TEST.2005.1584084
+Synthesis of nonintrusive concurrent error detection using an even error detecting function.	Avijit Dutta,Nur A. Touba	10.1109/TEST.2005.1584072
+An update on IEEE 1149.6 - successes and issues.	Bill Eklow	10.1109/TEST.2005.1584014
+A novel stuck-at based method for transistor stuck-open fault diagnosis.	Xinyue Fan,Will R. Moore,Camelia Hora,Guido Gronthoud	10.1109/TEST.2005.1583996
+A DDJ calibration methodology for high-speed test and measurement equipments.	Touraj Farahmand,Sassan Tabatabaei,Freddy Ben-Zeev,André Ivanov	10.1109/TEST.2005.1583978
+A strategy for board level in-system programmable built-in assisted test and built-in self test.	Joshua Ferry,Jozef Scesnak,Shoeib Shaikh	10.1109/TEST.2005.1584043
+Darwin, thy name is system.	Craig Force	10.1109/TEST.2005.1584122
+Development of a software framework for open architecture ATE.	William Fritzsche	10.1109/TEST.2005.1584055
+Is the concern for soft-error overblown?	Rajesh Galivanche	10.1109/TEST.2005.1584101
+Built-in constraint resolution.	Grady Giles,Joel Irby,Daniela Toneva,Kun-Han Tsai	10.1109/TEST.2005.1584032
+Node sensitivity analysis for soft errors in CMOS logic.	Balkaran S. Gill,Christos A. Papachristou,Francis G. Wolff,Norbert Seifert	10.1109/TEST.2005.1584062
+Test time reduction of successive approximation register A/D converter by selective code measurement.	Shalabh Goyal,Abhijit Chatterjee,Mike Atia,Howard Iglehart,Chung Yu Chen,Bassem Shenouda,Nash Khouzam,Hosam Haggag	10.1109/TEST.2005.1583979
+Automated mapping of pre-computed module-level test sequences to processor instructions.	S. Guramurthy,Shobha Vasudevan,Jacob A. Abraham	10.1109/TEST.2005.1583987
+Panel synopsis: reducing high-speed/RF test cost: guaranteed by design or guaranteed to fail?	Hosam Haggag,Abhijit Chatterjee	10.1109/TEST.2005.1584121
+Outsourcing DFT: the right mix.	Carl Holzwarth	10.1109/TEST.2005.1584132
+Towards achieving relentless reliability gains in a server marketplace of teraflops, laptops, kilowatts, and &quot;cost, cost, cost&quot;...: making peace between a black art and the bottom line.	Jody Van Horn	10.1109/TEST.2005.1584029
+Off-shore outsource DFT vs. build off-shore branch offices.	Yu Huang 0005	10.1109/TEST.2005.1584133
+Compressed pattern diagnosis for scan chain failures.	Yu Huang 0005,Wu-Tung Cheng,Janusz Rajski	10.1109/TEST.2005.1584037
+Multiple tests for each gate delay fault: higher coverage and lower test application cost.	Shahdad Irajpour,Sandeep K. Gupta,Melvin A. Breuer	10.1109/TEST.2005.1584089
+Safely backdriving low voltage devices at in-circuit test.	Chris Jacobsen,Tony Saye,Tom Trader	10.1109/TEST.2005.1583973
+High-performance ADC linearity test using low-precision signals in non-stationary environments.	Le Jin,Kumar L. Parthasarathy,Turker Kuyel,Randall L. Geiger,Degang Chen 0001	10.1109/TEST.2005.1584086
+Test and debug features of the RTO7 chip.	Kees van Kaam,Bart Vermeulen,Henk Jan Bergveld	10.1109/TEST.2005.1583985
+Test the test experts: do we know what we are doing?	Rohit Kapur	10.1109/TEST.2005.1584136
+Encounter test OPMISR+ on-chip compression.	Brion L. Keller	10.1109/TEST.2005.1584112
+Use of MISRs for compression and diagnostics.	Brion L. Keller,Thomas Bartenstein	10.1109/TEST.2005.1584036
+Impact of back side circuit edit on active device performance in bulk silicon ICs.	Uwe Kerst,Rudolf Schlangen,A. Kabakow,Erwan Le Roy,Ted R. Lundquist,Siegfried Pauthner	10.1109/TEST.2005.1584092
+XMAX: a practical and efficient compression architecture.	Kee Sup Kim	10.1109/TEST.2005.1584113
+The PXI carrier: a novel approach to ATE instrument development.	Eric Kushnick	10.1109/TEST.2005.1584054
+A novel test methodology based on error-rate to support error-tolerance.	Kuen-Jong Lee,Tong-Yu Hsieh,Melvin A. Breuer	10.1109/TEST.2005.1584081
+Hazard-aware statistical timing simulation and its applications in screening frequency-dependent defects.	Benjamin N. Lee,Hui Li,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2005.1583965
+Compression mode diagnosis enables high volume monitoring diagnosis flow.	Andreas Leininger,Peter Muhmenthaler,Wu-Tung Cheng,Nagesh Tamarapalli,Wu Yang,Kun-Han Hans Tsai	10.1109/TEST.2005.1583972
+Testing priority address encoder faults of content addressable memories.	Jin-Fu Li	10.1109/TEST.2005.1584046
+Computational intelligence based testing for semiconductor measurement systems.	Eric Liau,Doris Schmitt-Landsiedel	10.1109/TEST.2005.1584056
+Production-oriented interface testing for PCI-Express by enhanced loop-back technique.	Mitchell Lin,Kwang-Ting Cheng,Jimmy Hsu,M. C. Sun,Jason Chen,Shelton Lu	10.1109/TEST.2005.1584028
+Column parity and row selection (CPRS): a BIST diagnosis technique for multiple errors in multiple scan chains.	Hung-Mao Lin,James Chien-Mo Li	10.1109/TEST.2005.1584078
+Cost-effective designs of field service for electronic systems.	Yu-Ting Lin,David Williams,Tony Ambler	10.1109/TEST.2005.1584005
+Case study: effectiveness of high-speed scan based feed forward voltage testing in reducing DPPM on a high volume ASIC.	Joel Lurkins,DeAnna Hill,Brady Benware	10.1109/TEST.2005.1584090
+Third-Order Phase Lock Loop Measurement and Characterization.	J. Ma,M. Li,M. Marlett	10.1109/TEST.2005.1583961
+The value of statistical testing for quality, yield and test cost improvement.	Robert Madge,Brady Benware,Mark Ward,W. Robert Daasch	10.1109/TEST.2005.1583990
+Analyzing second-order effects between optimizations for system-level test-based model generation.	Tiziana Margaria,Harald Raffelt,Bernhard Steffen	10.1109/TEST.2005.1584006
+Layering of the STIL extensions.	Gregory A. Maston,Tony Taylor	10.1109/TEST.2005.1584016
+STIL persistence [data reduction].	Greg Maston,Julie Villar	10.1109/TEST.2005.1584074
+A methodology for testing one-hot transmission gate multiplexers.	Teresa L. McLaurin,Frank Frederick,Rich Slobodnik	10.1109/TEST.2005.1584033
+A leakage control system for thermal stability during burn-in test.	Mesut Meterelliyoz,Hamid Mahmoodi,Kaushik Roy 0001	10.1109/TEST.2005.1584064
+Logic soft errors: a major barrier to robust platform design.	Subhasish Mitra,Ming Zhang 0017,T. M. Mak,Norbert Seifert,Victor Zia,Kee Sup Kim	10.1109/TEST.2005.1584031
+Simulation of transients caused by single-event upsets in combinational logic.	Kartik Mohanram	10.1109/TEST.2005.1584063
+Diagnosis with convolutional compactors in presence of unknown states.	Grzegorz Mrugalski,Artur Pogiel,Janusz Rajski,Jerzy Tyszer	10.1109/TEST.2005.1583998
+A random access scans architecture to reduce hardware overhead.	Anand S. Mudlapur,Vishwani D. Agrawal,Adit D. Singh	10.1109/TEST.2005.1583993
+Reliable and self-repairing SRAM in nano-scale technologies using leakage and delay monitoring.	Saibal Mukhopadhyay,Kunhyuk Kang,Hamid Mahmoodi,Kaushik Roy 0001	10.1109/TEST.2005.1584080
+Business constraints drive test decisions.	Fidel Muradali	10.1109/TEST.2005.1584105
+Burn-in reduction using principal component analysis.	Amit Nahar,W. Robert Daasch,Suresh Subramaniam	10.1109/TEST.2005.1583971
+Power-supply noise in SoCs: ATPG, estimation and control.	Mehrdad Nourani,Arun Radhakrishnan	10.1109/TEST.2005.1584011
+Optimized reasoning-based diagnosis for non-random, board-level, production defects.	Carlos O&apos;Farrill,Merouane Moakil-Chbany,Bill Eklow	10.1109/TEST.2005.1583974
+Analysis of pseudo-interleaving AWG.	Hideo Okawara	10.1109/TEST.2005.1584085
+High speed differential pin electronics over 6.4 Gbps.	Atsushi Oshima,Toshihiro Nomura	10.1109/TEST.2005.1584051
+The effects of defects on high-speed boards.	Kenneth P. Parker	10.1109/TEST.2005.1583975
+Bead probes in practice.	Kenneth P. Parker	10.1109/TEST.2005.1584024
+A new probing technique for high-speed/high-density printed circuit boards.	Kenneth P. Parker	10.1109/TEST.2005.1584094
+A 16-bit resistor string DAC with full-calibration at final test.	Kumar L. Parthasarathy,Turker Kuyel,Zhongjun Yu,Degang Chen 0001,Randall L. Geiger	10.1109/TEST.2005.1583962
+Testing throughput computing interconnect topologies with Tbits/sec bandwidth in manufacturing and in field.	Ishwar Parulkar,Dawei Huang,Leandro Chua Jr.,Drew Doblar	10.1109/TEST.2005.1584066
+Word line pulsing technique for stability fault detection in SRAM cells.	Andrei Pavlov,Mohamed Azimane,José Pineda de Gyvez,Manoj Sachdev	10.1109/TEST.2005.1584045
+Test implications of lead-free implementation in a high-volume manufacturing environment.	Shu Peng,Sam Wong	10.1109/TEST.2005.1584023
+Transient fault characterization in dynamic noisy environments.	Ilia Polian,John P. Hayes,Sandip Kundu,Bernd Becker 0001	10.1109/TEST.2005.1584070
+Forming N-detection test sets from one-detection test sets without test generation.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/TEST.2005.1584013
+Chasing subtle embedded RAM defects for nanometer technologies.	Theo J. Powell,Amrendra Kumar,Joseph Rayhawk,Nilanjan Mukherjee 0001	10.1109/TEST.2005.1584048
+&quot;Driver on a floppy&quot; delivery of ATE instrumentation software.	Dan Proskauer	10.1109/TEST.2005.1584075
+Is the concern for soft-error overblown?	Rajesh Raina	10.1109/TEST.2005.1584100
+Is the concern for soft-error overblown?	Rajesh Raina	10.1109/TEST.2005.1584103
+Have we overcome the challenges associated with SoC and multi-core testing?	Rajesh Raina	10.1109/TEST.2005.1584116
+Have we overcome the challenges associated with SoC and multi-core testing?	Rajesh Raina	10.1109/TEST.2005.1584118
+Test compression - real issues and matching solutions.	Janusz Rajski	10.1109/TEST.2005.1584114
+IJTAG (internal JTAG): a step toward a DFT standard.	Jeff Rearick,Bill Eklow,Ken Posse,Al Crouch,Ben Bennetts	10.1109/TEST.2005.1584044
+Calibrating clock stretch during AC scan testing.	Jeff Rearick,Richard Rodgers	10.1109/TEST.2005.1583984
+Effect of lead free solders on in-circuit test process.	Rosa D. Reinosa	10.1109/TEST.2005.1584025
+Hierarchical DFT with enhancements for AC scan, test scheduling and on-chip compression - a case study.	Jeff Remmers,Darin Lee,Richard Fisette	10.1109/TEST.2005.1584034
+Testability features of the first-generation CELL processor.	Mack W. Riley,Louis B. Bushard,Nathan Paul Chelstrom,Naoki Kiryu,Steven Ross Ferguson	10.1109/TEST.2005.1583967
+Testing high-speed, large scale implementation of SerDes I/Os on chips used in throughput computing systems.	Iain Robertson,Graham Hetherington,Tom Leslie,Ishwar Parulkar,Ronald Lesnikoski	10.1109/TEST.2005.1584065
+Board and system test with SoC DFT.	Gordon D. Robinson	10.1109/TEST.2005.1584098
+The case for outsourcing DFT.	Jeffrey L. Roehr	10.1109/TEST.2005.1584134
+Verifying flying prober performance - fitness is survival.	Bob Russell	10.1109/TEST.2005.1583958
+Efficient SAT-based combinational ATPG using multi-level don&apos;t-cares.	Nikhil Saluja,Sunil P. Khatri	10.1109/TEST.2005.1584069
+The concern for soft errors is not overblown.	Pia N. Sanda	10.1109/TEST.2005.1584104
+Invisible delay quality - SDQM model lights up what could not be seen.	Yasuo Sato,Shuji Hamada,Toshiyuki Maeda,Atsuo Takatori,Yasuyuki Nozuyama,Seiji Kajihara	10.1109/TEST.2005.1584088
+Panel: business constraints drive test decisions.	Jeff Schneider	10.1109/TEST.2005.1584108
+A novel process and hardware architecture to reduce burn-in cost.	Chris Schroeder,Jin Pan,Todd Albertson	10.1109/TEST.2005.1584002
+Achieving higher yield through diagnosis-the ASIC perspective.	Chris Schuermyer	10.1109/TEST.2005.1584126
+Identification of systematic yield limiters in complex ASICS through volume structural test fail data visualization and analysis.	Chris Schuermyer,Kevin Cota,Robert Madge,Brady Benware	10.1109/TEST.2005.1583970
+Noncontact wafer probe using wireless probe cards.	Chris Sellathamby,Md. Mahbub Reja,Lin Fu,Brenda Bai,Edwin Walter Reid,Steven Slupsky,Igor M. Filanovsky,Kris Iniewski	10.1109/TEST.2005.1584004
+A low power and low cost scan test architecture for multi-clock domain SoCs using virtual divide and conquer.	Arasu T. Senthil,C. P. Ravikumar,Soumitra Kumar Nandy	10.1109/TEST.2005.1583995
+X-filter: filtering unknowns from compacted test responses.	Manish Sharma,Wu-Tung Cheng	10.1109/TEST.2005.1584076
+Test generation for ultra-high-speed asynchronous pipelines.	Feng Shi,Yiorgos Makris,Steven M. Nowick,Montek Singh	10.1109/TEST.2005.1584067
+Functional vs. multi-VDD testing of RF circuits.	Estella Silva,José Pineda de Gyvez,Guido Gronthoud	10.1109/TEST.2005.1584000
+A self-timed structural test methodology for timing anomalies due to defects and process variations.	Adit D. Singh	10.1109/TEST.2005.1583964
+Reducing high-speed/RF test cost - guaranteed by design or guaranteed to fail?	Mustapha Slamani	10.1109/TEST.2005.1584123
+How are we going to test SOC&apos;s on a board?	Michael J. Smith 0005	10.1109/TEST.2005.1584099
+Guaranteed by design or guaranteed to fail or guaranteed by test? or ... neither?	Mani Soma	10.1109/TEST.2005.1584124
+An advanced optical diagnostic technique of IBM z990 eServer microprocessor.	Peilin Song,Franco Stellari,Bill Huott,Otto Wagner,Uma Srinivasan,Yuen H. Chan,Rick Rizzolo,H. J. Nam,James P. Eckhardt,Timothy G. McNamara,Ching-Lung Tong,Alan J. Weger,Moyra K. McManus	10.1109/TEST.2005.1584091
+Enabling yield analysis with X-compact.	Zoran Stanojevic,Ruifeng Guo,Subhasish Mitra,Srikanth Venkataraman	10.1109/TEST.2005.1584035
+Defect-oriented testing and diagnosis of digital microfluidics-based biochips.	Fei Su,William L. Hwang,Arindam Mukherjee 0001,Krishnendu Chakrabarty	10.1109/TEST.2005.1584009
+CMOS high-speed, high-precision timing generator for 4.266-Gbps memory test system.	Masakatsu Suda,Kazuhiro Yamamoto,Toshiyuki Okayasu,Shusuke Kantake,Satoshi Sudou,Daisuke Watanabe	10.1109/TEST.2005.1584050
+Correct by construction is guaranteed to fail.	Stephen K. Sunter	10.1109/TEST.2005.1584125
+Structural tests for jitter tolerance in SerDes receivers.	Stephen K. Sunter,Aubin Roy	10.1109/TEST.2005.1583976
+Reducing test cost through the use of digital testers for analog tests.	John Sweeney,Alan Tsefrekas	10.1109/TEST.2005.1584003
+Diagnosis and analysis of an analog circuit failure using time resolved emission microscopy.	Ahmed Syed,Richard F. Herlein,Ben Cain,Frank Sauk	10.1109/TEST.2005.1584093
+Jitter spectrum analysis using continuous time interval analyzer (CTIA).	Sassan Tabatabaei,Freddy Ben-Zeev,Touraj Farahmand	10.1109/TEST.2005.1583977
+Achieving higher yield through diagnosis.	Nagesh Tamarapalli	10.1109/TEST.2005.1584128
+Business constraints drive test decisions - not vice versa.	Sanjiv Taneja	10.1109/TEST.2005.1584109
+Test methodology for Freescale&apos;s high performance e600 core based on PowerPC© instruction set architecture.	Nandu Tendolkar,Dawit Belete,Ashutosh Razdan,Hereman Reyes,Bill Schwarz,Marie Sullivan	10.1109/TEST.2005.1583968
+An optimal test pattern selection method to improve the defect coverage.	Yuxin Tian,Michael R. Grimaila,Weiping Shi,M. Ray Mercer	10.1109/TEST.2005.1584039
+Methods for improving test compression.	Nur A. Touba	10.1109/TEST.2005.1584115
+Logic proximity bridges.	Eric N. Tran,Vamsee Krishna,Sujit T. Zachariah,Sreejit Chakravarty	10.1109/TEST.2005.1584038
+JTAG-based vector and chain management for system test.	Bradford G. Van Treuren,Bryan E. Peterson,José M. Miranda	10.1109/TEST.2005.1584041
+Drive only at speed functional testing; one of the techniques Intel is using to control test costs.	Mike Tripp,Silvio Picano,Baruch Schnarch	10.1109/TEST.2005.1583969
+Achieving higher yield through diagnosis?	Srikanth Venkataraman	10.1109/TEST.2005.1584129
+Soft errors: is the concern for soft-errors overblown?	Narayanan Vijaykrishnan	10.1109/TEST.2005.1584102
+A concurrent BIST scheme for on-line/off-line testing based on a pre-computed test set.	Ioannis Voyiatzis,Dimitris Gizopoulos,Antonis M. Paschalis,Constantin Halatsis	10.1109/TEST.2005.1584079
+Definition of a robust modular SOC test architecture; resurrection of the single TAM daisy-chain.	Tom Waayers,Richard Morren,Roberto Grandi	10.1109/TEST.2005.1584022
+Partnering with customer to achieve high yield.	James Wang	10.1109/TEST.2005.1584130
+UltraScan: using time-division demultiplexing/multiplexing (TDDM/TDM) with VirtualScan for test cost reduction.	Laung-Terng Wang,Khader S. Abdel-Hafez,Xiaoqing Wen,Boryau Sheu,Shianling Wu,Shyh-Horng Lin,Ming-Tung Chang	10.1109/TEST.2005.1584060
+XWRC: externally-loaded weighted random pattern testing for input test data compression.	Seongmoon Wang,Kedarnath J. Balakrishnan,Srimat T. Chakradhar	10.1109/TEST.2005.1584018
+Using built-in self-test and adaptive recovery for defect tolerance in molecular electronics-based nanofabrics.	Zhanglei Wang,Krishnendu Chakrabarty	10.1109/TEST.2005.1584008
+Test data compression for IP embedded cores using selective encoding of scan slices.	Zhanglei Wang,Krishnendu Chakrabarty	10.1109/TEST.2005.1584019
+A vector-based approach for power supply noise analysis in test compaction.	Jing Wang 0006,Ziding Yue,Xiang Lu,Wangqi Qiu,Weiping Shi,D. M. H. Walker	10.1109/TEST.2005.1584012
+Simulation-based target test generation techniques for improving the robustness of a software-based-self-test methodology.	Charles H.-P. Wen,Li-C. Wang,Kwang-Ting Cheng,Wei-Ting Liu,Ji-Jan Chen	10.1109/TEST.2005.1584059
+Low-capture-power test generation for scan-based at-speed testing.	Xiaoqing Wen,Yoshiyuki Yamashita,Shohei Morishima,Seiji Kajihara,Laung-Terng Wang,Kewal K. Saluja,Kozo Kinoshita	10.1109/TEST.2005.1584068
+Outsourcing DFT: it can be done but it isn&apos;t easy.	LeRoy Winemberg	10.1109/TEST.2005.1584135
+Efficient compression of deterministic patterns into multiple PRPG seeds.	Peter Wohl,John A. Waicukauski,Sanjay Patel,Francisco DaSilva,Thomas W. Williams,Rohit Kapur	10.1109/TEST.2005.1584057
+Position statement: &quot;have we overcome the challenges associated with SoC and multi-core testing?&quot;.	Tim Wood 0001	10.1109/TEST.2005.1584119
+Test compression and logic BIST at your fingertips.	Shianling Wu,Laung-Terng Wang,Jin Woo Cho,Zhigang Jiang,Boryau Sheu	10.1109/TEST.2005.1584111
+On concurrent test of wrapped cores and unwrapped logic blocks in SOCs.	Qiang Xu 0001,Nicola Nicolici	10.1109/TEST.2005.1584021
+IDDQ test using built-in current sensing of supply line voltage drop.	Bin Xue,D. M. H. Walker	10.1109/TEST.2005.1584061
+A wideband low-noise ATE-based method for measuring jitter in GHz signals.	Takahiro J. Yamaguchi,Masahiro Ishida,Mani Soma	10.1109/TEST.2005.1583980
+External memory BIST for system-in-package.	Kaname Yamasaki,Iwao Suzuki,Azumi Kobayashi,Keiichi Horie,Yasuharu Kobayashi,Hideyuki Aoki,Hideki Hayashi,Kenichi Tada,Koki Tsutsumida,Keiichi Higeta	10.1109/TEST.2005.1584082
+Definitions of jitter measurement terms and relationships.	Iliya Zamek,Steve Zamek	10.1109/TEST.2005.1583959
+Jitter transformations in measurement instruments and discrepancies between measurement results.	Iliya Zamek,Steve Zamek	10.1109/TEST.2005.1583960
+Low cost multisite testing of quadruple band GSM transceivers.	Larry Zhang,Dale Heaton,Hank Largey	10.1109/TEST.2005.1583999
+A static noise impact analysis methodology for evaluating transient error effects in digital VLSI circuits.	Chong Zhao,Xiaoliang Bai,Sujit Dey	10.1109/TEST.2005.1584071
+Power-scan chain: design for analog testability.	Amir Zjajo,Henk Jan Bergveld,Rodger Schuttert,José Pineda de Gyvez	10.1109/TEST.2005.1583963
+Today&apos;s SOC test challenges.	Yervant Zorian	10.1109/TEST.2005.1584120
+IEEE 1500 utilization in SOC design and test.	Yervant Zorian,Avetik Yessayan	10.1109/TEST.2005.1584015
+Proceedings 2005 IEEE International Test Conference, ITC 2005, Austin, TX, USA, November 8-10, 2005		

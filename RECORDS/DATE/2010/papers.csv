@@ -1,0 +1,350 @@
+An automatic test generation framework for digitally-assisted adaptive equalizers in high-speed serial links.	Mohamed Abbas,Kwang-Ting Cheng,Yasuo Furukawa,Satoshi Komatsu,Kunihiro Asada	10.1109/DATE.2010.5457098
+The split register file.	Jaume Abella 0001,Javier Carretero,Pedro Chaparro,Xavier Vera	10.1109/DATE.2010.5456914
+DynAHeal: Dynamic energy efficient task assignment for wireless healthcare systems.	Priti Aghera,Dilip Krishnaswamy,Diana Fang,Ayse K. Coskun,Tajana Rosing	10.1109/DATE.2010.5457080
+An error-correcting unordered code and hardware support for robust asynchronous global communication.	Melinda Y. Agyekum,Steven M. Nowick	10.1109/DATE.2010.5456948
+Hardware / software design challenges of low-power sensor nodes for condition monitoring.	Hendrik Ahlendorf,Lars Gopfert	10.1109/DATE.2010.5457122
+A reconfigurable hardware for one bit transform based multiple reference frame Motion Estimation.	Abdulkadir Akin,Gokhan Sayilar,Ilker Hamzaoglu	10.1109/DATE.2010.5457171
+Evaluation and design exploration of solar harvested-energy prediction algorithm.	Mustafa Imran Ali,Bashir M. Al-Hashimi,Joaquín Recas,David Atienza	10.1109/DATE.2010.5457222
+Static and dynamic stability improvement strategies for 6T CMOS low-power SRAMs.	Bartomeu Alorda,Gabriel Torrens,Sebastià A. Bota,Jaume Segura 0001	10.1109/DATE.2010.5457165
+NIM- a noise index model to estimate delay discrepancies between silicon and simulation.	Elif Alpaslan,Jennifer Dworak,Bram Kruseman,Ananta K. Majhi,Wilmar M. Heuvelman,Paul van de Wiel	10.1109/DATE.2010.5457025
+Scheduling and energy-distortion tradeoffs with operational refinement of image processing.	Davide Anastasia,Yiannis Andreopoulos	10.1109/DATE.2010.5457092
+Deterministic, predictable and light-weight multithreading using PRET-C.	Sidharta Andalam,Partha S. Roop,Alain Girault	10.1109/DATE.2010.5457078
+Nanoelectronics challenges for the 21st century.	Dimitri A. Antoniadis	10.1109/DATE.2010.5457026
+Using filesystem virtualization to avoid metadata bottlenecks.	Ernest Artiaga,Toni Cortes	10.1109/DATE.2010.5457144
+Low power mobile internet devices using LTE technology.	Volker Aue	10.1109/DATE.2010.5456942
+GentleCool: Cooling aware proactive workload scheduling in multi-machine systems.	Raid Zuhair Ayoub,Shervin Sharifi,Tajana Simunic Rosing	10.1109/DATE.2010.5457191
+An integrated framework for joint design space exploration of microarchitecture and circuits.	Omid Azizi,Aqeel Mahesri,John P. Stevenson,Sanjay J. Patel,Mark Horowitz	10.1109/DATE.2010.5457204
+An embedded platform for privacy-friendly road charging applications.	Josep Balasch,Ingrid Verbauwhede,Bart Preneel	10.1109/DATE.2010.5456931
+Defect aware X-filling for low-power scan testing.	S. Balatsouka,Vasileios Tenentes,Xrysovalantis Kavousianos,Krishnendu Chakrabarty	10.1109/DATE.2010.5456928
+A methodology for propagating design tolerances to shape tolerances for use in manufacturing.	Shayak Banerjee,Kanak B. Agarwal,Chin Ngai Sze,Sani R. Nassif,Michael Orshansky	10.1109/DATE.2010.5457002
+Temperature-aware idle time distribution for energy optimization with dynamic voltage scaling.	Min Bao,Alexandru Andrei,Petru Eles,Zebo Peng	10.1109/DATE.2010.5457241
+Security aspects in 6lowPan networks.	Ron Barker	10.1109/DATE.2010.5457120
+Using Speculative Functional Units in high level synthesis.	Alberto A. Del Barrio,María C. Molina,Jose Manuel Mendias,Román Hermida,Seda Ogrenci Memik	10.1109/DATE.2010.5457102
+Towards a chip level reliability simulator for copper/low-k backend processes.	Muhammad Bashir,Linda S. Milor	10.1109/DATE.2010.5457195
+Multithreaded code from synchronous programs: Extracting independent threads for OpenMP.	Daniel Baudisch,Jens Brandt 0001,Klaus Schneider 0001	10.1109/DATE.2010.5456915
+Worst-case end-to-end delay analysis of an avionics AFDX network.	Henri Bauer,Jean-Luc Scharbarg,Christian Fraboul	10.1109/DATE.2010.5456993
+RTOS-aware refinement for TLM2.0-based HW/SW designs.	Markus Becker 0001,Giuseppe Di Guglielmo,Franco Fummi,Wolfgang Müller 0003,Graziano Pravadelli,Tao Xie 0006	10.1109/DATE.2010.5456965
+Constrained Power Management: Application to a multimedia mobile platform.	Patrick Bellasi,Stefano Bosisio,Matteo Carnevali,William Fornaciari,David Siorpaes	10.1109/DATE.2010.5456905
+A reconfigurable cache memory with heterogeneous banks.	Domingo Benitez,Juan C. Moure,Dolores Rexachs,Emilio Luque	10.1109/DATE.2010.5456936
+Loosely Time-Triggered Architectures for Cyber-Physical Systems.	Albert Benveniste	10.1109/DATE.2010.5457246
+Leveraging application-level requirements in the design of a NoC for a 4G SoC - a case study.	Rudy Beraha,Isask&apos;har Walter,Israel Cidon,Avinoam Kolodny	10.1109/DATE.2010.5457033
+A proposal for real-time interfaces in SPEEDS.	Purandar Bhaduri,Ingo Stierand	10.1109/DATE.2010.5457163
+Implementing digital logic with sinusoidal supplies.	Kalyana C. Bollapalli,Sunil P. Khatri,Laszlo B. Kish	10.1109/DATE.2010.5457188
+Non-intrusive virtualization management using libvirt.	Matthias Bolte,Michael Sievers,Georg Birkenheuer,Oliver Niehörster,André Brinkmann	10.1109/DATE.2010.5457142
+An efficient and complete approach for throughput-maximal SDF allocation and scheduling on multi-core platforms.	Alessio Bonfietti,Luca Benini,Michele Lombardi 0001,Michela Milano	10.1109/DATE.2010.5456924
+Instruction precomputation with memoization for fault detection.	Demid Borodin,Ben H. H. Juurlink	10.1109/DATE.2010.5457081
+Power-accuracy tradeoffs in human activity transition detection.	Jeffrey Boyd,Hari Sundaram,Aviral Shrivastava	10.1109/DATE.2010.5457053
+Run-time spatial resource management for real-time applications on heterogeneous MPSoCs.	Timon D. ter Braak,Philip K. F. Hölzenspies,Jan Kuper,Johann L. Hurink,Gerard J. M. Smit	10.1109/DATE.2010.5457177
+Simulation-based verification of the MOST NetInterface specification revision 3.0.	Andreas Braun,Oliver Bringmann 0001,Djones Lettnin,Wolfgang Rosenstiel	10.1109/DATE.2010.5457148
+Reliability- and process variation-aware placement for FPGAs.	Assem A. M. Bsoul,Naraig Manjikian,Li Shang	10.1109/DATE.2010.5457107
+BACH 2 : Bounded reachability checker for compositional linear hybrid systems.	Lei Bu,You Li,Linzhang Wang,Xin Chen 0027,Xuandong Li	10.1109/DATE.2010.5457051
+Skewed pipelining for parallel simulink simulations.	Arquimedes Canedo,Takeo Yoshizawa,Hideaki Komatsu	10.1109/DATE.2010.5456927
+High-fidelity markovian power model for protocols.	Jing Cao,Albert Nymeyer	10.1109/DATE.2010.5457200
+Design techniques for cross-layer resilience.	Nicholas P. Carter,Helia Naeimi,Donald S. Gardner	10.1109/DATE.2010.5456960
+Panel: First commandment at least, do nothing well!	Marco Casale-Rossi,Giovanni De Micheli,Antun Domic,Enrico Macii,Piero Perlo,Andreas Wild,Roberto Zafalon	
+Trace-based KPN composability analysis for mapping simultaneous applications to MPSoC platforms.	Jerónimo Castrillón,Ricardo Velasquez,Anastasia Stulova,Weihua Sheng,Jianjiang Ceng,Rainer Leupers,Gerd Ascheid,Heinrich Meyr	10.1109/DATE.2010.5456950
+PhoenixSim: A simulator for physical-layer analysis of chip-scale photonic interconnection networks.	Johnnie Chan,Gilbert Hendry,Aleksandr Biberman,Keren Bergman,Luca P. Carloni	10.1109/DATE.2010.5457114
+On the efficacy of write-assist techniques in low voltage nanoscale SRAMs.	Vikas Chandra,Cezary Pietrzyk,Robert C. Aitken	10.1109/DATE.2010.5457179
+Toward optimized code generation through model-based optimization.	Asma Charfi,Chokri Mraidha,Sébastien Gérard,François Terrier,Pierre Boulet	10.1109/DATE.2010.5457010
+Compilation of stream programs for multicore processors that incorporate scratchpad memories.	Weijia Che,Amrit Panda,Karam S. Chatha	10.1109/DATE.2010.5456976
+Non-invasive blood oxygen saturation monitoring for neonates using reflectance pulse oximeter.	Wei Chen 0015,Idowu Ayoola,Sidarto Bambang-Oetomo,Loe M. G. Feijs	10.1109/DATE.2010.5457054
+Properties of and improvements to time-domain dynamic thermal analysis algorithms.	Xi Chen,Robert P. Dick,Li Shang	10.1109/DATE.2010.5456984
+Supporting Distributed Shared Memory on multi-core Network-on-Chips using a dual microcoded controller.	Xiaowen Chen,Zhonghai Lu,Axel Jantsch,Shuming Chen	10.1109/DATE.2010.5457240
+Power gating design for standard-cell-like structured ASICs.	Sin-Yu Chen,Rung-Bin Lin,Hui-Hsiang Tung,Kuen-Wey Lin	10.1109/DATE.2010.5457152
+A nondestructive self-reference scheme for Spin-Transfer Torque Random Access Memory (STT-RAM).	Yiran Chen 0001,Hai Li 0001,Xiaobin Wang,Wenzhong Zhu,Wei Xu 0021,Tong Zhang 0002	10.1109/DATE.2010.5457219
+Cost-effective IR-drop failure identification and yield recovery through a failure-adaptive test scheme.	Mingjing Chen,Alex Orailoglu	10.1109/DATE.2010.5457236
+Efficient decision ordering techniques for SAT-based test generation.	Mingsong Chen,Xiaoke Qin,Prabhat Mishra 0001	10.1109/DATE.2010.5457156
+pSHS: A scalable parallel software implementation of Montgomery multiplication for multicore systems.	Zhimin Chen 0002,Patrick Schaumont	10.1109/DATE.2010.5456935
+An adaptive code rate EDAC scheme for random access memory.	Ching-Yi Chen,Cheng-Wen Wu	10.1109/DATE.2010.5456955
+PM-COSYN: PE and memory co-synthesis for MPSoCs.	Yi-Jung Chen,Chia-Lin Yang,Po-Han Wang 0001	10.1109/DATE.2010.5457064
+Capturing intrinsic parameter fluctuations using the PSP compact model.	Binjie Cheng,Daryoosh Dideban,Negin Moezi,Campbell Millar,Gareth Roy,Xingsheng Wang,Scott Roy,Asen Asenov	10.1109/DATE.2010.5457123
+Optimization of FIR filter to improve eye diagram for general transmission line systems.	Yung-Shou Cheng,Yen-Cheng Lai,Ruey-Beei Wu	10.1109/DATE.2010.5457012
+On the construction of guaranteed passive macromodels for high-speed channels.	Alessandro Chinea,Stefano Grivet-Talocia,Dirk Deschrijver,Tom Dhaene,Luc Knockaert	10.1109/DATE.2010.5456980
+A compact digital amplitude modulator in 90nm CMOS.	Vincenzo Chironi,Björn Debaillie,Andrea Baschirotto,Jan Craninckx,Mark Ingels	10.1109/DATE.2010.5457112
+Finding reset nondeterminism in RTL designs - scalable X-analysis methodology and case study.	Hong-Zu Chou,Haiqian Yu,Kai-Hui Chang,Dylan Dobbyn,Sy-Yen Kuo	10.1109/DATE.2010.5457048
+Analytical model for TDDB-based performance degradation in combinational logic.	Mihir R. Choudhury,Vikas Chandra,Kartik Mohanram,Robert C. Aitken	10.1109/DATE.2010.5457168
+TIMBER: Time borrowing and error relaying for online timing error resilience.	Mihir R. Choudhury,Vikas Chandra,Kartik Mohanram,Robert C. Aitken	10.1109/DATE.2010.5457058
+Tighter integration of BDDs and SMT for Predicate Abstraction.	Alessandro Cimatti,Anders Franzén,Alberto Griggio,Krishnamani Kalyanasundaram,Marco Roveri	10.1109/DATE.2010.5457090
+Recursion-driven parallel code generation for multi-core platforms.	Rebecca L. Collins,Bharadwaj Vellore,Luca P. Carloni	10.1109/DATE.2010.5457214
+A generalized control-flow-aware pattern recognition algorithm for behavioral synthesis.	Jason Cong,Hui Huang 0001,Wei Jiang	10.1109/DATE.2010.5456999
+Coordinated resource optimization in behavioral synthesis.	Jason Cong,Bin Liu 0006,Junjuan Xu	10.1109/DATE.2010.5457001
+Energy-efficient variable-flow liquid cooling in 3D stacked architectures.	Ayse K. Coskun,David Atienza,Tajana Simunic Rosing,Thomas Brunschwiler,Bruno Michel	10.1109/DATE.2010.5457228
+Embedded software testing: What kind of problem is this?	Érika F. Cota	
+Low-complexity high throughput VLSI architecture of soft-output ML MIMO detector.	Teo Cupaiuolo,Massimiliano Siti,Alessandro Tomasoni	10.1109/DATE.2010.5457031
+A flexible UWB Transmitter for breast cancer detection imaging systems.	Massimo Cutrupi,Marco Crepaldi,Mario R. Casu,Mariagrazia Graziano	10.1109/DATE.2010.5456969
+Aging-resilient design of pipelined architectures using novel detection and correction circuits.	Hamed F. Dadgour,Kaustav Banerjee	10.1109/DATE.2010.5457203
+Using Transaction Level Modeling techniques for wireless sensor network simulation.	Markus Damm,Javier Moreno 0003,Jan Haase 0001,Christoph Grimm 0001	10.1109/DATE.2010.5456964
+Detecting/preventing information leakage on the memory bus due to malicious hardware.	Abhishek Das,Gokhan Memik,Joseph Zambreno,Alok N. Choudhary	10.1109/DATE.2010.5456930
+Vision for cross-layer optimization to address the dual challenges of energy and reliability.	André DeHon,Heather M. Quinn,Nicholas P. Carter	10.1109/DATE.2010.5456959
+AUTOSAR basic software for complex control units.	Dirk Diekhoff	10.1109/DATE.2010.5457199
+Digital statistical analysis using VHDL.	Manfred Dietrich,Uwe Eichler,Joachim Haase	10.1109/DATE.2010.5456899
+An active vision system for fall detection and posture recognition in elderly healthcare.	Giovanni Diraco,Alessandro Leone,Pietro Siciliano	10.1109/DATE.2010.5457055
+Taming the component timing: A CBD methodology for real-time embedded systems.	Manoj G. Dixit,Pallab Dasgupta,S. Ramesh 0002	10.1109/DATE.2010.5457077
+Panel Session - Who Is Closing the embedded software design gap?	Wolfgang Ecker,Pierre Bricaud,Rainer Dömer,Yossi Veller,Stefan Heinen,Jürgen Mössinger,Andreas von Schwerin	
+TLM+ modeling of embedded HW/SW systems.	Wolfgang Ecker,Volkan Esen,Robert Schwencker,Thomas Steininger,Michael Velten	10.1109/DATE.2010.5457234
+Construction of dual mode components for reconfiguration aware high-level synthesis.	George Economakos,Sotirios Xydis,Ioannis Koutras,Dimitrios Soudris	10.1109/DATE.2010.5457021
+General behavioral thermal modeling and characterization for multi-core microprocessor design.	Thom Jefferson A. Eguia,Sheldon X.-D. Tan,Ruijing Shen,Eduardo H. Pacheco,Murli Tirumala	10.1109/DATE.2010.5456979
+Variation-aware interconnect extraction using statistical moment preserving model order reduction.	Tarek A. El-Moselhy,Luca Daniel	10.1109/DATE.2010.5457161
+BISD: Scan-based Built-In self-diagnosis.	Melanie Elm,Hans-Joachim Wunderlich	10.1109/DATE.2010.5456997
+Wireless communication - successful differentiation on standard technology by innovation.	Hermann Eul	10.1109/DATE.2010.5457245
+An RDL-configurable 3D memory tier to replace on-chip SRAM.	Marco Facchini,Paul Marchal,Francky Catthoor,Wim Dehaene	10.1109/DATE.2010.5457194
+An high voltage CMOS voltage regulator for automotive alternators with programmable functionalities and full reverse polarity capability.	Luca Fanucci,Giuseppe Pasetti,Paolo D&apos;Abramo,Riccardo Serventi,Francesco Tinfena,Pierre Chassard,L. Labiste,Pierre Tisserand	10.1109/DATE.2010.5457150
+Linear programming approach for performance-driven data aggregation in networks of embedded sensors.	Cristian Ferent,Varun Subramanian,Michael Gilberti,Alex Doboli	10.1109/DATE.2010.5457041
+Increasing PCM main memory lifetime.	Alexandre Peixoto Ferreira,Miao Zhou,Santiago Bock,Bruce R. Childers,Rami G. Melhem,Daniel Mossé	10.1109/DATE.2010.5456923
+Formal semantics for PSL modeling layer and application to the verification of transactional models.	Luca Ferro,Laurence Pierre	10.1109/DATE.2010.5456991
+The road to energy-efficient systems: From hardware-driven to software-defined.	Gerhard P. Fettweis	
+Optimize your power and performance yields and regain those sleepless nights.	Krisztián Flautner	10.1109/DATE.2010.5456898
+An analytical method for evaluating Network-on-Chip performance.	Sahar Foroutan,Yvain Thonnart,Richard Hersemeule,Ahmed Jerraya	10.1109/DATE.2010.5457072
+Creating 3D specific systems: Architecture, design and CAD.	Paul D. Franzon,W. Rhett Davis,Thorlindur Thorolfsson	10.1109/DATE.2010.5457086
+A 14 bit, 280 kS/s cyclic ADC with 100 dB SFDR.	Thomas Froehlich 0003,Vivek Sharma,Markus Bingesser	10.1109/DATE.2010.5457109
+Accelerating Lightpath setup via broadcasting in binary-tree waveguide in Optical NoCs.	Binzhang Fu,Yinhe Han 0001,Huawei Li 0001,Xiaowei Li 0001	10.1109/DATE.2010.5456919
+Challenges in the design of automotive software.	Simon Fürst	10.1109/DATE.2010.5457201
+Circuit propagation delay estimation through multivariate regression-based modeling under spatio-temporal variability.	Shrikanth Ganapathy,Ramon Canal,Antonio González 0001,Antonio Rubio 0001	10.1109/DATE.2010.5457167
+A power optimization method for CMOS Op-Amps using sub-space based geometric programming.	Wei Gao,Richard Hornsey	10.1109/DATE.2010.5457151
+Enhancing double-patterning detailed routing with lazy coloring and within-path conflict avoidance.	Xin Gao,Luca Macchiarulo	10.1109/DATE.2010.5457003
+Spinto: High-performance energy minimization in spin glasses.	Héctor J. García,Igor L. Markov	10.1109/DATE.2010.5457217
+An 11.6-19.3mW 0.375-13.6GHz CMOS frequency synthesizer with rail-to-rail operation.	Arnd Geis,Pierluigi Nuzzo,Julien Ryckaert,Yves Rolain,Gerd Vandersteen,Jan Craninckx	10.1109/DATE.2010.5457111
+Energy-performance design space exploration in SMT architectures exploiting selective load value predictions.	Arpad Gellert,Gianluca Palermo,Vittorio Zaccaria,Adrian Florea,Lucian N. Vintan,Cristina Silvano	10.1109/DATE.2010.5457197
+Computing robustness of FlexRay schedules to uncertainties in design parameters.	Arkadeb Ghosal,Haibo Zeng 0001,Marco Di Natale,Yakov Ben-Haim	10.1109/DATE.2010.5457146
+Power efficient voltage islanding for Systems-on-chip from a floorplanning perspective.	Pavel Ghosh,Arunabha Sen	10.1109/DATE.2010.5457124
+A HMMER hardware accelerator using divergences.	Juan Fernando Eusse Giraldo,Nahri Moreano,Ricardo Pezzuol Jacobi,Alba Cristina Magalhaes Alves de Melo	10.1109/DATE.2010.5457169
+Analog circuit test based on a digital signature.	Alvaro Gómez,Ricard Sanahuja,Luz Balado,Joan Figueras	10.1109/DATE.2010.5457075
+Memory testing with a RISC microcontroller.	Ad J. van de Goor,Georgi Gaydadjiev,Said Hamdioui	10.1109/DATE.2010.5457210
+Parallel subdivision surface rendering and animation on the Cell BE processor.	R. Grottesi,Serena Morigi,Martino Ruggiero,Luca Benini	10.1109/DATE.2010.5457216
+Path-based scheduling in a hardware compiler.	Ruirui Gu,Alessandro Forin,Richard Neil Pittman	10.1109/DATE.2010.5457011
+Vacuity analysis for property qualification by mutation of checkers.	Luigi Di Guglielmo,Franco Fummi,Graziano Pravadelli	10.1109/DATE.2010.5457158
+An evaluation of a slice fault aware tool chain.	Adwait Gupte,Phillip H. Jones	10.1109/DATE.2010.5457106
+Cost modeling and cycle-accurate co-simulation of heterogeneous multiprocessor systems.	Sven van Haastregt,Eyal Halm,Bart Kienhuis	10.1109/DATE.2010.5457006
+Towards hardware stereoscopic 3D reconstruction a real-time FPGA computation of the disparity map.	Stavros Hadjitheophanous,Christos Ttofis,Athinodoros S. Georghiades,Theocharis Theocharides	10.1109/DATE.2010.5457096
+High-speed clock recovery for low-cost FPGAs.	István Haller,Zoltan Francisc Baruch	10.1109/DATE.2010.5457133
+Optimizing equivalence checking for behavioral synthesis.	Kecheng Hao,Fei Xie,Sandip Ray,Jin Yang 0006	10.1109/DATE.2010.5457049
+DEW: A fast level 1 cache simulation approach for embedded processors with FIFO replacement policy.	Mohammad Shihabul Haque,Jorgen Peddersen,Andhi Janapsatya,Sri Parameswaran	10.1109/DATE.2010.5457153
+Efficient representation, stratification, and compression of variational CSM library waveforms using Robust Principle Component Analysis.	Safar Hatami,Massoud Pedram	10.1109/DATE.2010.5457004
+Multi-temperature testing for core-based system-on-chip.	Zhiyuan He 0002,Zebo Peng,Petru Eles	10.1109/DATE.2010.5457209
+From transistors to MEMS: Throughput-aware power gating in CMOS circuits.	Michael B. Henry,Leyla Nazhandali	10.1109/DATE.2010.5457224
+A methodology for the characterization of process variation in NoC links.	Carles Hernández 0001,Federico Silla,José Duato	10.1109/DATE.2010.5457113
+Why design must change: Rethinking digital design.	Mark Horowitz	10.1109/DATE.2010.5457119
+TSV redundancy: Architecture and design issues in 3D IC.	Ang-Chih Hsieh,TingTing Hwang,Ming-Tung Chang,Min-Hsiu Tsai,Chih-Mou Tseng,Hung-Chun Li	10.1109/DATE.2010.5457218
+An accurate system architecture refinement methodology with mixed abstraction-level virtual platform.	Zhe-Mao Hsu,Jen-Chieh Yeh,I-Yao Chuang	10.1109/DATE.2010.5457141
+Energy-oriented dynamic SPM allocation based on time-slotted Cache conflict graph.	Wang Huan,Zhang Yang,Mei Chen,Ling Ming	10.1109/DATE.2010.5457138
+A robust ADC code hit counting technique.	Jiun-Lang Huang,Kuo-Yu Chou,Ming-Huan Lu,Xuan-Lun Huang	10.1109/DATE.2010.5457097
+Pseudo-CMOS: A novel design style for flexible electronics.	Tsung-Ching Huang,Kenjiro Fukuda,Chun-Ming Lo,Yung-Hui Yeh,Tsuyoshi Sekitani,Takao Someya,Kwang-Ting Cheng	10.1109/DATE.2010.5457220
+Fault diagnosis of analog circuits based on machine learning.	Ke Huang,Haralampos-G. D. Stratigopoulos,Salvador Mir	10.1109/DATE.2010.5457099
+AgeSim: A simulation framework for evaluating the lifetime reliability of processor-based SoCs.	Lin Huang 0002,Qiang Xu 0001	10.1109/DATE.2010.5457238
+Energy-efficient task allocation and scheduling for multi-mode MPSoCs under lifetime reliability constraint.	Lin Huang 0002,Qiang Xu 0001	10.1109/DATE.2010.5457063
+Accurate timed RTOS model for transaction level modeling.	Yonghyun Hwang,Gunar Schirner,Samar Abdi,Daniel D. Gajski	10.1109/DATE.2010.5457015
+RMOT: Recursion in model order for task execution time estimation in a software pipeline.	Nabeel Iqbal,M. Adnan Siddique,Jörg Henkel	10.1109/DATE.2010.5456912
+DAGS: Distribution agnostic sequential Monte Carlo scheme for task execution time estimation.	Nabeel Iqbal,M. Adnan Siddique,Jörg Henkel	10.1109/DATE.2010.5457076
+Improved countermeasure against Address-bit DPA for ECC scalar multiplication.	Masami Izumi,Jun Ikegami,Kazuo Sakiyama,Kazuo Ohta	10.1109/DATE.2010.5456907
+Optimal regulation of traffic flows in networks-on-chip.	Fahimeh Jafari,Zhonghai Lu,Axel Jantsch,Mohammad Hossien Yaghmaee	10.1109/DATE.2010.5457070
+Practical Monte-Carlo based timing yield estimation of digital circuits.	Javid Jaffari,Mohab Anis	10.1109/DATE.2010.5456941
+Correlation controlled sampling for efficient variability analysis of analog circuits.	Javid Jaffari,Mohab Anis	10.1109/DATE.2010.5457008
+Heterogeneous vs homogeneous MPSoC approaches for a Mobile LTE modem.	Camille Jalier,Didier Lattard,Ahmed Amine Jerraya,Gilles Sassatelli,Pascal Benoit,Lionel Torres	10.1109/DATE.2010.5457213
+Power consumption of logic circuits in ambipolar carbon nanotube technology.	M. Haykel Ben Jamaa,Kartik Mohanram,Giovanni De Micheli	10.1109/DATE.2010.5457189
+Dueling CLOCK: Adaptive cache replacement policy based on the CLOCK algorithm.	Andhi Janapsatya,Aleksandar Ignjatovic,Jorgen Peddersen,Sri Parameswaran	10.1109/DATE.2010.5456920
+VAPRES: A Virtual Architecture for Partially Reconfigurable Embedded Systems.	Abelardo Jara-Berrocal,Ann Gordon-Ross	10.1109/DATE.2010.5456934
+Rapid runtime estimation methods for pipelined MPSoCs.	Haris Javaid,Andhi Janapsatya,Mohammad Shihabul Haque,Sri Parameswaran	10.1109/DATE.2010.5457178
+Intent-leveraged optimization of analog circuits via homotopy.	Metha Jeeradit,Jaeha Kim,Mark Horowitz	10.1109/DATE.2010.5457068
+SigNet: Network-on-chip filtering for coarse vector directories.	Natalie D. Enright Jerger	10.1109/DATE.2010.5457028
+Energy- and endurance-aware design of phase change memory caches.	Yongsoo Joo,Dimin Niu,Xiangyu Dong,Guangyu Sun 0003,Naehyuck Chang,Yuan Xie 0001	10.1109/DATE.2010.5457221
+Exploiting multiple switch libraries in topology synthesis of on-chip interconnection network.	Minje Jun,Sungroh Yoon,Eui-Young Chung	10.1109/DATE.2010.5457030
+Optimizing the power delivery network in dynamically voltage scaled systems with uncertain power mode transition times.	Hwisung Jung,Massoud Pedram	10.1109/DATE.2010.5457180
+Statistical static timing analysis using Markov chain Monte Carlo.	Yashodhan Kanoria,Subhasish Mitra,Andrea Montanari	10.1109/DATE.2010.5456938
+Scalable codeword generation for coupled buses.	Kedar Karmarkar,Spyros Tragoudas	10.1109/DATE.2010.5456954
+Holistic simulation of FlexRay networks by using run-time model switching.	Michael Karner,Eric Armengaud,Christian Steger,Reinhold Weiss	10.1109/DATE.2010.5457145
+Large-scale Boolean matching.	Hadi Katebi,Igor L. Markov	10.1109/DATE.2010.5456949
+Panel session - great challenges in nanoelectronics and impact on academic research: More than Moore or Beyond CMOS?	R. De Keersmaeker,Michael L. Roukes,D. Antoinadis,Hugo De Man,George Bourianoff,Michel Brillouët,Lars Samuelson	
+Ultra-high throughput string matching for Deep Packet Inspection.	Alan Kennedy,Xiaojun Wang 0001,Zhen Liu 0018,Bin Liu 0001	10.1109/DATE.2010.5457172
+Design of a real-time optimized emulation method.	Timo Kerstan,Markus Oertel	10.1109/DATE.2010.5457126
+Modeling constructs and kernel for parallel simulation of accuracy adaptive TLMs.	Rauf Salimi Khaligh,Martin Radetzki	10.1109/DATE.2010.5456987
+AVGS-Mux style: A novel technology and device independent technique for reducing power and compensating process variations in FPGA fabrics.	Bahman Kheradmand Boroujeni,Christian Piguet,Yusuf Leblebici	10.1109/DATE.2010.5457182
+Control network generator for latency insensitive designs.	Eliyah Kilada,Kenneth S. Stevens	10.1109/DATE.2010.5457101
+SimTag: Exploiting tag bits similarity to improve the reliability of the data caches.	Jesung Kim,Soontae Kim,Yebin Lee	10.1109/DATE.2010.5456917
+Bitstream processing for embedded systems using C++ metaprogramming.	Reimund Klemm,Gerhard P. Fettweis	10.1109/DATE.2010.5456922
+Timing modeling and analysis for AUTOSAR-based software development - a case study.	Kay Klobedanz,Christoph Kuznik,Andreas Thuy,Wolfgang Müller 0003	10.1109/DATE.2010.5457125
+3D-integration of silicon devices: A key technology for sophisticated products.	Armin Klumpp,Peter Ramm,Robert Wieland	10.1109/DATE.2010.5457085
+SCOC3: a space computer on a chip.	Franck Koebel,Jean-François Coldefy	10.1109/DATE.2010.5457018
+KAHRISMA: A novel Hypermorphic Reconfigurable-Instruction-Set Multi-grained-Array architecture.	Ralf König 0001,Lars Bauer,Timo Stripf,Muhammad Shafique 0001,Waheed Ahmed,Jürgen Becker 0001,Jörg Henkel	10.1109/DATE.2010.5456939
+Transition-aware real-time task scheduling for reconfigurable embedded systems.	Hessam Kooti,Elaheh Bozorgzadeh,Shenghui Liao,Lichun Bao	10.1109/DATE.2010.5457205
+MB-LITE: A robust, light-weight soft-core implementation of the MicroBlaze architecture.	Tamar Kranenburg,Rene van Leuken 0001	10.1109/DATE.2010.5456903
+Automatic workload generation for system-level exploration based on modified GCC compiler.	Jari Kreku,Kari Tiensyrjä,Geert Vanmeerbeeck	10.1109/DATE.2010.5457175
+Block-level bayesian diagnosis of analogue electronic circuits.	Shaji Krishnan,Klaas D. Doornbos,Rudi Brand,Hans G. Kerkhoff	10.1109/DATE.2010.5457100
+A systematic approach to the test of combined HW/SW systems.	Alexander Krupp,Wolfgang Müller 0003	10.1109/DATE.2010.5457186
+Integrated end-to-end timing analysis of networked AUTOSAR-compliant systems.	Karthik Lakshmanan,Gaurav Bhatia,Ragunathan Rajkumar	10.1109/DATE.2010.5457184
+Towards assertion-based verification of heterogeneous system designs.	Stefan Lämmermann,Jürgen Ruf,Thomas Kropf,Wolfgang Rosenstiel,Alexander Viehl,Alexander Jesser,Lars Hedrich	10.1109/DATE.2010.5456985
+High temperature polymer capacitors for aerospace applications.	Clinton K. Landrock,Bozena Kaminska	10.1109/DATE.2010.5457019
+Scenario-based analysis and synthesis of real-time systems using uppaal.	Kim Guldstrand Larsen,Shuhao Li,Brian Nielsen,Saulius Pusinskas	10.1109/DATE.2010.5457164
+A general mathematical model of probabilistic ripple-carry adders.	Mark S. K. Lau,Keck Voon Ling,Yun-Chung Chu,Arun Bhanu	10.1109/DATE.2010.5456973
+A new quaternary FPGA based on a voltage-mode multi-valued circuit.	Cristiano Lazzari,Paulo F. Flores,José Monteiro 0001,Luigi Carro	10.1109/DATE.2010.5457105
+Contango: Integrated optimization of SoC clock networks.	Dongjin Lee,Igor L. Markov	10.1109/DATE.2010.5457043
+An embedded wide-range and high-resolution CLOCK jitter measurement circuit.	Yu Lee,Ching-Yuan Yang,Nai-Chen Daniel Cheng,Ji-Jan Chen	10.1109/DATE.2010.5457074
+ERSA: Error Resilient System Architecture for probabilistic applications.	Larkhoon Leem,Hyungmin Cho,Jason Bau,Quinn A. Jacobson,Subhasish Mitra	10.1109/DATE.2010.5457059
+Cool MPSoC programming.	Rainer Leupers,Lothar Thiele,Xiaoning Nie,Bart Kienhuis,Matthias Weiss,Tsuyoshi Isshiki	10.1109/DATE.2010.5457047
+Compact model of memristors and its application in computing systems.	Hai Li 0001,Miao Hu	10.1109/DATE.2010.5457115
+Power Variance Analysis breaks a masked ASIC implementation of AES.	Yang Li 0001,Kazuo Sakiyama,Lejla Batina,Daisuke Nakatsu,Kazuo Ohta	10.1109/DATE.2010.5456966
+Exploiting local logic structures to optimize multi-core SoC floorplanning.	Cheng-Hong Li,Sampada Sonalkar,Luca P. Carloni	10.1109/DATE.2010.5457005
+Reversible logic synthesis through ant colony optimization.	Min Li 0013,Yexin Zheng,Michael S. Hsiao,Chao Huang	10.1109/DATE.2010.5457190
+Proactive NBTI mitigation for busy functional units in out-of-order microprocessors.	Lin Li,Youtao Zhang,Jun Yang 0002,Jianhua Zhao	10.1109/DATE.2010.5457170
+An accurate and efficient yield optimization method for analog circuits based on computing budget allocation and memetic search technique.	Bo Liu 0003,Francisco V. Fernández 0001,Georges G. E. Gielen	10.1109/DATE.2010.5456974
+FPGA-based adaptive computing for correlated multi-stream processing.	Ming Liu 0011,Zhonghai Lu,Wolfgang Kuehn,Axel Jantsch	10.1109/DATE.2010.5456909
+Scheduling for energy efficiency and fault tolerance in hard real-time systems.	Yu Liu,Han Liang,Kaijie Wu 0001	10.1109/DATE.2010.5457039
+Post-placement temperature reduction techniques.	Wei Liu 0016,Alberto Nannarelli,Andrea Calimera,Enrico Macii,Massimo Poncino	10.1109/DATE.2010.5457127
+Combining optimizations in automated low power design.	Qiang Liu 0011,Tim Todman,Wayne Luk	10.1109/DATE.2010.5457104
+Enhanced Q-learning algorithm for dynamic power management with performance constraint.	Wei Liu,Ying Tan,Qinru Qiu	10.1109/DATE.2010.5457135
+Layout-aware pseudo-functional testing for critical paths considering power supply noise effects.	Xiao Liu 0011,Yubin Zhang,Feng Yuan,Qiang Xu 0001	10.1109/DATE.2010.5457037
+A portable multi-pitch e-drum based on printed flexible pressure sensors.	Chun-Ming Lo,Tsung-Ching Huang,Cheng-Yi Chiang,Johnson Hou,Kwang-Ting Cheng	10.1109/DATE.2010.5456970
+An efficient distributed memory interface for many-core platform with 3D stacked DRAM.	Igor Loi,Luca Benini	10.1109/DATE.2010.5457230
+Differential Power Analysis enhancement with statistical preprocessing.	Victor Lomné,Amine Dehbaoui,Philippe Maurine,Lionel Torres,Michel Robert	10.1109/DATE.2010.5457007
+Optimization of the bias current network for accurate on-chip thermal monitoring.	Jieyi Long,Seda Ogrenci Memik	10.1109/DATE.2010.5457023
+Inversed Temperature Dependence aware clock skew scheduling for sequential circuits.	Jieyi Long,Seda Ogrenci Memik	10.1109/DATE.2010.5457079
+Optimization of an on-chip active cooling system based on thin-film thermoelectric coolers.	Jieyi Long,Seda Ogrenci Memik,Matthew Grayson	10.1109/DATE.2010.5457225
+Exploration of hardware sharing for image encoders.	Sebastián López,Roberto Sarmiento,Philip G. Potter,Wayne Luk,Peter Y. K. Cheung	10.1109/DATE.2010.5457095
+Timing modeling for digital sub-threshold circuits.	Niklas Lotze,Jacob Göppert,Yiannos Manoli	10.1109/DATE.2010.5457192
+Efficient power conversion for ultra low voltage micro scale energy transducers.	Chao Lu 0005,Sang Phill Park,Vijay Raghunathan,Kaushik Roy 0001	10.1109/DATE.2010.5457066
+RALF: Reliability Analysis for Logic Faults - An exact algorithm and its applications.	Samuel B. Luckenbill,Ju-Yueh Lee,Yu Hu 0002,Rupak Majumdar,Lei He 0001	10.1109/DATE.2010.5456947
+Design space exploration of a mesochronous link for cost-effective and flexible GALS NOCs.	Daniele Ludovici,Alessandro Strano,Georgi Nedeltchev Gaydadjiev,Luca Benini,Davide Bertozzi	10.1109/DATE.2010.5457116
+Robust design of embedded systems.	Martin Lukasiewycz,Michael Glaß,Jürgen Teich	10.1109/DATE.2010.5457062
+Clock skew optimization considering complicated power modes.	Chiao-Ling Lung,Zi-Yi Zeng,Chung-Han Chou,Shih-Chieh Chang	10.1109/DATE.2010.5457044
+Passive reduced order modeling of multiport interconnects via semidefinite programming.	Zohaib Mahmood,Bradley N. Bond,Tarek Moselhy,Alexandre Megretski,Luca Daniel	10.1109/DATE.2010.5457132
+Stretching the limits of FPGA SerDes for enhanced ATE performance.	A. M. Majid,David C. Keezer	10.1109/DATE.2010.5457212
+Leveraging dominators for preprocessing QBF.	Hratch Mangassarian,Bao Le,Alexandra Goultiaeva,Andreas G. Veneris,Fahiem Bacchus	10.1109/DATE.2010.5457088
+An industrial design space exploration framework for supporting run-time resource management on multi-core systems.	Giovanni Mariani,Prabhat Avasare,Geert Vanmeerbeeck,Chantal Ykman-Couvreur,Gianluca Palermo,Cristina Silvano,Vittorio Zaccaria	10.1109/DATE.2010.5457211
+Variability-aware reliability simulation of mixed-signal ICs with quasi-linear complexity.	Elie Maricau,Georges G. E. Gielen	10.1109/DATE.2010.5456972
+Testing TSV-based three-dimensional stacked ICs.	Erik Jan Marinissen	10.1109/DATE.2010.5457087
+Adapting to adaptive testing.	Erik Jan Marinissen,Adit D. Singh,Dan Glotter,Marco Esposito,John M. Carulli Jr.,Amit Nahar,Kenneth M. Butler,Davide Appello,Chris Portelli	10.1109/DATE.2010.5457143
+Efficient OpenMP data mapping for multicore platforms with vertically stacked memory.	Andrea Marongiu,Martino Ruggiero,Luca Benini	10.1109/DATE.2010.5457227
+Panel 6.8: The challenges of heterogeneous multicore debug.	Grant Martin,Albrecht Mayer	
+KL-Cuts: A new approach for logic synthesis targeting multiple output blocks.	Osvaldo Martinello,Felipe S. Marques 0001,Renato P. Ribas,André Inácio Reis	10.1109/DATE.2010.5456946
+Constant-time admission control for Deadline Monotonic tasks.	Alejandro Masrur,Samarjit Chakraborty,Georg Färber	10.1109/DATE.2010.5457207
+A 150Mbit/s 3GPP LTE Turbo code decoder.	Matthias May,Thomas Ilnseher,Norbert Wehn,Wolfgang Raab	10.1109/DATE.2010.5457035
+A rapid prototyping system for error-resilient multi-processor systems-on-chip.	Matthias May,Norbert Wehn,Abdelmajid Bouajila,Johannes Zeppenfeld,Walter Stechele,Andreas Herkersdorf,Daniel Ziener,Jürgen Teich	10.1109/DATE.2010.5457176
+Mapping scientific applications on a large-scale data-path accelerator implemented by single-flux quantum (SFQ) circuits.	Farhad Mehdipour,Hiroaki Honda,Hiroshi Kataoka,Koji Inoue,Irina Kataeva,Kazuaki J. Murakami,Hiroyuki Akaike,Akira Fujimaki	10.1109/DATE.2010.5456902
+Throughput modeling to evaluate process merging transformations in polyhedral process networks.	Sjoerd Meijer,Hristo Nikolov,Todor P. Stefanov	10.1109/DATE.2010.5456953
+Parallel simulation of systemC TLM 2.0 compliant MPSoC on SMP workstations.	Aline Mello 0001,Isaac Maia,Alain Greiner,François Pêcheux	10.1109/DATE.2010.5457136
+Cost-effective slack allocation for lifetime improvement in NoC-based MPSoCs.	Brett H. Meyer,Adam S. Hartman,Donald E. Thomas	10.1109/DATE.2010.5457065
+Far Correlation-based EMA with a precharacterized leakage model.	Olivier Meynard,Sylvain Guilley,Jean-Luc Danger,Laurent Sauvage	10.1109/DATE.2010.5456906
+Test front loading in early stages of automotive software development based on AUTOSAR.	Alexander Michailidis,Uwe Spieth,Thomas Ringler,Bernd Hedenetz,Stefan Kowalewski	10.1109/DATE.2010.5457166
+Optimized self-tuning for circuit aging.	Evelyn Mintarno,Joëlle Skaf,Rui Zheng,Jyothi Velamala,Yu Cao 0001,Stephen P. Boyd,Robert W. Dutton,Subhasish Mitra	10.1109/DATE.2010.5457140
+Algorithms to maximize yield and enhance yield/area of pipeline circuitry by insertion of switches and redundant modules.	Mohammad Mirza-Aghatabar,Melvin A. Breuer,Sandeep K. Gupta	10.1109/DATE.2010.5456998
+Closing the gap between UML-based modeling, simulation and synthesis of combined HW/SW systems.	Fabian Mischkalla,Da He,Wolfgang Müller 0003	10.1109/DATE.2010.5456990
+Low-power FinFET circuit synthesis using surface orientation optimization.	Prateek Mishra,Niraj K. Jha	10.1109/DATE.2010.5457187
+Cross-layer resilience challenges: Metrics and optimization.	Subhasish Mitra,Kevin Brelsford,Pia N. Sanda	10.1109/DATE.2010.5456961
+A low-area flexible MIMO detector for WiFi/WiMAX standards.	Nariman Moezzi Madani,Thorlindur Thorolfsson,William Rhett Davis	10.1109/DATE.2010.5457073
+FlashPower: A detailed power model for NAND flash memory.	Vidyabhushan Mohan,Sudhanva Gurumurthi,Mircea R. Stan	10.1109/DATE.2010.5457154
+Are we there yet? Has IP block assembly become as easy as LEGO?	Bryon Moyer,Joachim Kunkel,John Cornish,Chris Rowen,Eshel Haritan,Yankin Tanurhan	
+IP routing processing with graphic processors.	Shuai Mu 0002,Xinya Zhang,Nairen Zhang,Jiaxin Lu,Yangdong Steve Deng,Shu Zhang	10.1109/DATE.2010.5457229
+Computation of yield-optimized Pareto fronts for analog integrated circuit specifications.	Daniel Mueller-Gritschneder,Helmut Graeb	10.1109/DATE.2010.5456971
+Design of an automotive traffic sign recognition system targeting a multi-core SoC implementation.	Matthias Müller 0004,Axel G. Braun,Joachim Gerlach,Wolfgang Rosenstiel,Dennis Nienhüser,Johann Marius Zöllner,Oliver Bringmann 0001	10.1109/DATE.2010.5457147
+Formal verification of analog circuits in the presence of noise and process variation.	Rajeev Narayanan,Behzad Akbarpour,Mohamed H. Zaki,Sofiène Tahar,Lawrence C. Paulson	10.1109/DATE.2010.5457009
+Scalable stochastic processors.	Sriram Narayanan,John Sartori,Rakesh Kumar 0002,Douglas L. Jones	10.1109/DATE.2010.5457181
+BCDL: A high speed balanced DPL for FPGA with global precharge and no early evaluation.	Maxime Nassar,Shivam Bhasin,Jean-Luc Danger,Guillaume Duc,Sylvain Guilley	10.1109/DATE.2010.5456932
+A resilience roadmap.	Sani R. Nassif,Nikil Mehta,Yu Cao 0001	10.1109/DATE.2010.5456958
+Enabling efficient post-silicon debug by clustering of hardware-assertions.	Mohammad Hossein Neishaburi,Zeljko Zilic	10.1109/DATE.2010.5456904
+A software update service with self-protection capabilities.	Moritz Neukirchner,Steffen Stein,Harald Schrom,Rolf Ernst	10.1109/DATE.2010.5456925
+Automatic pipelining from transactional datapath specifications.	Eriko Nurvitadhi,James C. Hoe,Timothy Kam,Shih-Lien Lu	10.1109/DATE.2010.5456900
+Assertion-based verification of RTOS properties.	Marcio F. da S. Oliveira,Henning Zabel,Wolfgang Müller 0003	10.1109/DATE.2010.5457130
+Automatic microarchitectural pipelining.	Marc Galceran Oms,Jordi Cortadella,Dmitry Bufistov,Michael Kishinevsky	10.1109/DATE.2010.5456910
+A modeling method by eliminating execution traces for performance evaluation.	Kouichi Ono,Manabu Toyota,Ryo Kawahara,Yoshifumi Sakamoto,Takeo Nakada,Naoaki Fukuoka	10.1109/DATE.2010.5457016
+A new approach for adaptive failure diagnostics based on emulation test.	Steffen Ostendorff,Heinz-Dietrich Wuttke,Jörg Sachße,S. Köhler	10.1109/DATE.2010.5457183
+Temperature-aware dynamic resource provisioning in a power-optimized datacenter.	Ehsan Pakbaznia,Mohammad Ghasemazar,Massoud Pedram	10.1109/DATE.2010.5457223
+A low cost multi-standard near-optimal soft-output sphere decoder: Algorithm and architecture.	Özgün Paker,Sebastian Eckert,Andreas Bury	10.1109/DATE.2010.5457032
+IVF: Characterizing the vulnerability of microprocessor structures to intermittent faults.	Songjun Pan,Yu Hu 0001,Xiaowei Li 0001	10.1109/DATE.2010.5457206
+An efficient transistor-level piecewise-linear macromodeling approach for model order reduction of nonlinear circuits.	Xiaoda Pan,Fan Yang 0001,Xuan Zeng 0001,Yangfeng Su	10.1109/DATE.2010.5457083
+Error resilience of intra-die and inter-die communication with 3D spidergon STNoC.	Vladimir Pasca,Lorena Anghel,Claudia Rusu,Riccardo Locatelli,Massimo Coppola	10.1109/DATE.2010.5457198
+A High-Voltage Low-Power DC-DC buck regulator for automotive applications.	Giuseppe Pasetti,Luca Fanucci,Riccardo Serventi	10.1109/DATE.2010.5456916
+An on-chip clock generation scheme for faster-than-at-speed delay testing.	Songwei Pei,Huawei Li 0001,Xiaowei Li 0001	10.1109/DATE.2010.5457020
+Fault-based attack of RSA authentication.	Andrea Pellegrini,Valeria Bertacco,Todd M. Austin	10.1109/DATE.2010.5456933
+Worst case delay analysis for memory interference in multicore systems.	Rodolfo Pellizzoni,Andreas Schranzhofer,Jian-Jia Chen,Marco Caccamo,Lothar Thiele	10.1109/DATE.2010.5456952
+High-quality pattern selection for screening small-delay defects considering process variations and crosstalk.	Ke Peng,Mahmut Yilmaz,Mohammad Tehranipoor,Krishnendu Chakrabarty	10.1109/DATE.2010.5457036
+Predicting energy and performance overhead of Real-Time Operating Systems.	Sandro Penolazzi,Ingo Sander,Ahmed Hemani	10.1109/DATE.2010.5457244
+Optimizing Data-Flow Graphs with min/max, adding and relational operations.	Jesús M. Pérez,Pablo Sánchez,Víctor Fernández 0001	10.1109/DATE.2010.5457022
+COTS-based applications in space avionics.	Michel Pignol	10.1109/DATE.2010.5456992
+Reducing the storage requirements of a test sequence by using a background vector.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.2010.5456996
+On reset based functional broadside tests.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.2010.5457038
+Demonstration of an in-band reconfiguration data distribution and network node reconfiguration.	Uwe Proß,Sebastian Goller,Erik Markert,Michael Jüttner,Jan Langer,Ulrich Heinkel,Joachim Knäblein,Axel Schneider	10.1109/DATE.2010.5457134
+Loop flattening &amp; spherical sampling: Highly efficient model reduction techniques for SRAM yield analysis.	Masood Qazi,Mehul Tikekar,Lara Dolecek,Devavrat Shah,Anantha P. Chandrakasan	10.1109/DATE.2010.5456940
+Low power design of the X-GOLD® SDR 20 baseband processor.	Wolfgang Raab,Jörg Berthold,J. A. Ulrich Hachmann,Dominik Langen,Michael Schreiner,Holger Eisenreich,Jens-Uwe Schluessler,Georg Ellguth	10.1109/DATE.2010.5456945
+Always energy-optimal microscopic wireless systems.	Jan M. Rabaey	10.1109/DATE.2010.5457121
+Checking and deriving module paths in Verilog cell library descriptions.	Matthias Raffelsieper,Mohammad Reza Mousavi 0001,Chris W. H. Strolenberg	10.1109/DATE.2010.5457050
+A GPU based implementation of Center-Surround Distribution Distance for feature extraction and matching.	Aditi Rathi,Michael DeBole,Weina Ge,Robert T. Collins,Narayanan Vijaykrishnan	10.1109/DATE.2010.5457215
+DVFS based task scheduling in a harvesting WSN for Structural Health Monitoring.	A. Ravinagarajan,Denis Dondi,Tajana Simunic Rosing	10.1109/DATE.2010.5457052
+Investigating the impact of NBTI on different power saving cache strategies.	Andrew J. Ricketts,Jawar Singh,Krishnan Ramakrishnan,Narayanan Vijaykrishnan,Dhiraj K. Pradhan	10.1109/DATE.2010.5457137
+Non-linear Operating Point Statistical Analysis for Local Variations in logic timing at low voltage.	Rahul Rithe,Jie Gu 0007,Alice Wang,Satyendra Datla,Gordon Gammie,Dennis Buss,Anantha P. Chandrakasan	10.1109/DATE.2010.5456911
+Exploiting inter-event stream correlations between output event streams of non-preemptively scheduled tasks.	Jonas Rox,Rolf Ernst	10.1109/DATE.2010.5457208
+All things are connected.	Alberto L. Sangiovanni-Vincentelli	10.1109/DATE.2010.5457248
+Integration, cooling and packaging issues for aerospace equipments.	Claude Sarno,C. Tantolin	10.1109/DATE.2010.5456994
+Increasing the power efficiency of PCs by improving the hardware/OS interaction.	Chris Schläger	10.1109/DATE.2010.5456901
+Bounding the shared resource load for the performance analysis of multiprocessor systems.	Simon Schliecker,Mircea Negrean,Rolf Ernst	10.1109/DATE.2010.5456951
+HW/SW co-detection of transient and permanent faults with fast recovery in statically scheduled data paths.	Mario Schölzel	10.1109/DATE.2010.5456957
+Transmitting TLM transactions over analogue wire models.	Stephan Schulz 0004,Jörg Becker 0003,Thomas Uhle,Karsten Einwich,Sören Sonntag	10.1109/DATE.2010.5457067
+A method to remove deadlocks in Networks-on-Chips with Wormhole flow control.	Ciprian Seiculescu,Srinivasan Murali,Luca Benini,Giovanni De Micheli	10.1109/DATE.2010.5457071
+NBTI modeling in the framework of temperature variation.	Seyab,Said Hamdioui	10.1109/DATE.2010.5457196
+Soft error-aware design optimization of low power and time-constrained embedded systems.	Rishad A. Shafik,Bashir M. Al-Hashimi,Krishnendu Chakrabarty	10.1109/DATE.2010.5457042
+enBudget: A Run-Time Adaptive Predictive Energy-Budgeting scheme for energy-aware Motion Estimation in H.264/MPEG-4 AVC video encoder.	Muhammad Shafique 0001,Lars Bauer,Jörg Henkel	10.1109/DATE.2010.5457093
+An HVS-based Adaptive Computational Complexity Reduction Scheme for H.264/AVC video encoder using Prognostic Early Mode Exclusion.	Muhammad Shafique 0001,Bastian Molkenthin,Jörg Henkel	10.1109/DATE.2010.5457091
+Feedback control for providing QoS in NoC based multicores.	Akbar Sharifi,Hui Zhao 0013,Mahmut T. Kandemir	10.1109/DATE.2010.5457029
+Scoped identifiers for efficient bit aligned logging.	Roy Shea,Mani B. Srivastava,Young Cho	10.1109/DATE.2010.5457040
+Learning-based adaptation to applications and environments in a reconfigurable Network-on-Chip.	Jih-Sheng Shen,Chun-Hsian Huang,Pao-Ann Hsiung	10.1109/DATE.2010.5457173
+Approximate logic synthesis for error tolerant applications.	Doochul Shin,Sandeep K. Gupta	10.1109/DATE.2010.5456913
+Evaluation of runtime task mapping heuristics with rSesame - a case study.	Kamana Sigdel,Mark Thompson 0001,Carlo Galuzzi,Andy D. Pimentel,Koen Bertels	10.1109/DATE.2010.5456937
+Verifying UML/OCL models using Boolean satisfiability.	Mathias Soeken,Robert Wille,Mirco Kuhlmann,Martin Gogolla,Rolf Drechsler	10.1109/DATE.2010.5457017
+Clock gating approaches by IOEX graphs and cluster efficiency plots.	Jithendra Srinivas,Sukumar Jairam	10.1109/DATE.2010.5457128
+Efficient 3D high-frequency impedance extraction for general interconnects and inductors above a layered substrate.	Navin Srivastava,Roberto Suaya,Kaustav Banerjee	10.1109/DATE.2010.5457162
+A new placement algorithm for the mitigation of multiple cell upsets in SRAM-based FPGAs.	Luca Sterpone,Niccolò Battezzati	10.1109/DATE.2010.5456995
+Monolithically stackable hybrid FPGA.	Dmitri B. Strukov,Alan Mishchenko	10.1109/DATE.2010.5457117
+A general method to make multi-clock system deterministic.	Menghao Su,Yunji Chen,Xiang Gao	10.1109/DATE.2010.5457045
+Multiplexed redundant execution: A technique for efficient fault tolerance in chip multiprocessors.	Pramod Subramanyan,Virendra Singh,Kewal K. Saluja,Erik Larsson	10.1109/DATE.2010.5457061
+An architecture for self-organization in pervasive systems.	Aly A. Syed,Johan Lukkien,Roxana Frunza	10.1109/DATE.2010.5457057
+Panel: Reliability of data centers: Hardware vs. software.	Mehdi Baradaran Tahoori,Ishwar Parulkar,Dan Alexandrescu,Kevin Granlund,Allan Silburt,Bapi Vinnakota	
+Ultra-low power mixed-signal design platform using subthreshold source-coupled circuits.	Armin Tajalli,Yusuf Leblebici	10.1109/DATE.2010.5457110
+Partitioning and allocation of scratch-pad memory for priority-based preemptive multi-task systems.	Hideki Takase,Hiroyuki Tomiyama,Hiroaki Takada	10.1109/DATE.2010.5456977
+A fully-asynchronous low-power framework for GALS NoC integration.	Yvain Thonnart,Pascal Vivet,Fabien Clermidy	10.1109/DATE.2010.5457239
+Dual-Vth leakage reduction with Fast Clock Skew Scheduling Enhancement.	Meng Tie,Haiying Dong,Tong Wang,Xu Cheng	10.1109/DATE.2010.5457149
+MEDEA: a hybrid shared-memory/message-passing multiprocessor NoC-based architecture.	Sergio Tota,Mario R. Casu,Massimo Ruo Roch,Luca Rostagno,Maurizio Zamboni	10.1109/DATE.2010.5457237
+Scenario extraction for a refined timing-analysis of automotive network topologies.	Matthias Traub,Thilo Streichert,Oleg Krasovytskyy,Jürgen Becker 0001	10.1109/DATE.2010.5457231
+A reconfigurable multiprocessor architecture for a reliable face recognition implementation.	Antonino Tumeo,Francesco Regazzoni 0001,Gianluca Palermo,Fabrizio Ferrandi,Donatella Sciuto	10.1109/DATE.2010.5457185
+Parallel X-fault simulation with critical path tracing technique.	Raimund Ubar,Sergei Devadze,Jaan Raik,Artur Jutman	10.1109/DATE.2010.5456929
+On passivity of the super node algorithm for EM modeling of interconnect systems.	Maria V. Ugryumova,Wil H. A. Schilders	10.1109/DATE.2010.5457160
+Multicore soft error rate stabilization using adaptive dual modular redundancy.	Ramakrishna Vadlamani,Jia Zhao,Wayne P. Burleson,Russell Tessier	10.1109/DATE.2010.5457242
+A method for design of impulse bursts noise filters optimized for FPGA implementations.	Zdenek Vasícek,Lukás Sekanina,Michal Bidlo	10.1109/DATE.2010.5457094
+GoldMine: Automatic assertion generation using data mining and static analysis.	Shobha Vasudevan,David Sheridan,Sanjay J. Patel,David Tcheng,William Tuohy,Daniel R. Johnson	10.1109/DATE.2010.5457129
+Programmable aging sensor for automotive safety-critical applications.	Julio César Vázquez,Víctor H. Champac,Isabel C. Teixeira,Marcelino B. Santos,João Paulo Teixeira 0001	10.1109/DATE.2010.5457131
+Ultra low-power 12-bit SAR ADC for RFID applications.	Daniela De Venuto,Eduard F. Stikvoort,David Tio Castro,Youri Ponomarev	10.1109/DATE.2010.5456968
+Formal specification of networks-on-chips: deadlock and evacuation.	Freek Verbeek,Julien Schmaltz	10.1109/DATE.2010.5457089
+A Smart Space application to dynamically relate medical and environmental information.	Fabio Vergari,Sara Bartolini,Federico Spadini,Alfredo D&apos;Elia,Guido Zamagni,Luca Roffia,Tullio Salmon Cinotti	10.1109/DATE.2010.5457056
+UML design for dynamically reconfigurable multiprocessor embedded systems.	Jorgiano Vidal,Florent de Lamotte,Guy Gogniat,Jean-Philippe Diguet,Philippe Soulard	10.1109/DATE.2010.5456989
+HORUS - high-dimensional Model Order Reduction via low moment-matching upgraded sampling.	Jorge Fernandez Villena,Luís Miguel Silveira	10.1109/DATE.2010.5457159
+AUTOSAR and the automotive tool chain.	Stefan Voget	10.1109/DATE.2010.5457202
+Spintronic memristor devices and application.	Xiaobin Wang,Yiran Chen 0001	10.1109/DATE.2010.5457118
+Novel Physical Unclonable Function with process and environmental variations.	Xiaoxiao Wang 0001,Mohammad Tehranipoor	10.1109/DATE.2010.5456967
+Reuse-aware modulo scheduling for stream processors.	Li Wang 0027,Jingling Xue,Xuejun Yang	10.1109/DATE.2010.5456975
+Equivalent circuit modeling of multilayered power/ground planes for fast transient simulation.	Takayuki Watanabe,Hideki Asai	10.1109/DATE.2010.5456982
+On signalling over Through-Silicon Via (TSV) interconnects in 3-D Integrated Circuits.	Roshan Weerasekera,Matt Grange,Dinesh Pamunuwa,Hannu Tenhunen	10.1109/DATE.2010.5457013
+RunAssert: A non-intrusive run-time assertion for parallel programs debugging.	Chi-Neng Wen,Shu-Hsuan Chou,Tien-Fu Chen,Tay-Jyi Lin	10.1109/DATE.2010.5457193
+Application-specific memory performance of a heterogeneous reconfigurable architecture.	Sean Whitty,Henning Sahlbach,Brady Hurlburt,Rolf Ernst,Wolfram Putzke-Röming	10.1109/DATE.2010.5457174
+A black box method for stability analysis of arbitrary SRAM cell structures.	Michael Wieckowski,Dennis Sylvester,David T. Blaauw,Vikas Chandra,Sachin Idgunji,Cezary Pietrzyk,Robert C. Aitken	10.1109/DATE.2010.5456943
+Simultaneous budget and buffer size computation for throughput-constrained task graphs.	Maarten Wiggers,Marco Bekooij,Marc Geilen,Twan Basten	10.1109/DATE.2010.5457082
+Dynamically reconfigurable register file for a softcore VLIW processor.	Stephan Wong,Fakhar Anjam,Faisal Nadeem	10.1109/DATE.2010.5456908
+Automatic generation of software TLM in multiple abstraction layers for efficient HW/SW co-simulation.	Meng-Huan Wu,Wen-Chuan Lee,Chen-Yu Chuang,Ren-Song Tsay	10.1109/DATE.2010.5456986
+Clock skew scheduling for soft-error-tolerant sequential circuits.	Kai-Chiang Wu,Diana Marculescu	10.1109/DATE.2010.5456956
+Scan based methodology for reliable state retention power gating designs.	Sheng Yang 0003,Bashir M. Al-Hashimi,David Flynn,S. Saqib Khursheed	10.1109/DATE.2010.5457233
+Energy-efficient real-time task scheduling with temperature-dependent leakage.	Chuan-Yue Yang,Jian-Jia Chen,Lothar Thiele,Tei-Wei Kuo	10.1109/DATE.2010.5457243
+SAT based multi-net rip-up-and-reroute for manufacturing hotspot removal.	Fan Yang,Yici Cai,Qiang Zhou 0001,Jiang Hu	10.1109/DATE.2010.5457024
+Automated bottleneck-driven design-space exploration of media processing systems.	Yang Yang,Marc Geilen,Twan Basten,Sander Stuijk,Henk Corporaal	10.1109/DATE.2010.5456963
+Diagnosis of multiple arbitrary faults with mask and reinforcement effect.	Jing Ye 0001,Yu Hu 0001,Xiaowei Li 0001	10.1109/DATE.2010.5456926
+Extended Hamiltonian Pencil for passivity assessment and enforcement for S-parameter systems.	Zuochang Ye,L. Miguel Silveira,Joel R. Phillips	10.1109/DATE.2010.5456981
+A memory- and time-efficient on-chip TCAM minimizer for IP lookup.	Heeyeol Yu	10.1109/DATE.2010.5456921
+Behavioral level dual-vth design for reduced leakage power with thermal awareness.	Junbo Yu,Qiang Zhou 0001,Gang Qu 0001,Jinian Bian	10.1109/DATE.2010.5457000
+Efficient High-Level modeling in the networking domain.	Christian Zebelein,Joachim Falk,Christian Haubelt,Jürgen Teich,Rainer Dorsch	10.1109/DATE.2010.5456988
+Interconnect delay and slew metrics using the beta distribution.	Jun-Kuei Zeng,Chung-Ping Chen	10.1109/DATE.2010.5457014
+Graphical Model Debugger Framework for embedded systems.	Kebin Zeng,Yu Guo,Christo Angelov	10.1109/DATE.2010.5457232
+A special-purpose compiler for look-up table and code generation for function evaluation.	Yuanrui Zhang,Lanping Deng,Praveen Yedlapalli,Sai Prashanth Muralidhara,Hui Zhao 0013,Mahmut T. Kandemir,Chaitali Chakrabarti,Nikos Pitsianis,Xiaobai Sun	10.1109/DATE.2010.5456978
+An abstraction-guided simulation approach using Markov models for microprocessor verification.	Tao Zhang,Tao Lv 0001,Xiaowei Li 0001	10.1109/DATE.2010.5457155
+Domain specific architecture for next generation wireless communication.	Botao Zhang,Hengzhu Liu,Heng Zhao,Fangzheng Mo,Ting Chen	10.1109/DATE.2010.5457034
+Carbon nanotube circuits: Living with imperfections and variations.	Jie Zhang 0007,Nishant Patil,Albert Lin,H.-S. Philip Wong,Subhasish Mitra	10.1109/DATE.2010.5456983
+Performance-asymmetry-aware topology virtualization for defect-tolerant NoC-based many-core processors.	Lei Zhang 0008,Yue Yu,Jianbo Dong,Yinhe Han 0001,Shangping Ren,Xiaowei Li 0001	10.1109/DATE.2010.5457060
+Retiming multi-rate DSP algorithms to meet real-time requirement.	Xue-Yang Zhu	10.1109/DATE.2010.5457103
+Pareto efficient design for reconfigurable streaming applications on CPU/FPGAs.	Jun Zhu 0011,Ingo Sander,Axel Jantsch	10.1109/DATE.2010.5456962
+Process variation and temperature-aware reliability management.	Cheng Zhuo,Dennis Sylvester,David T. Blaauw	10.1109/DATE.2010.5457139
+Statistical SRAM analysis for yield enhancement.	Paul Zuber,Miguel Miranda,Petr Dobrovolný,Koen van der Zanden,Jong-Hoon Jung	10.1109/DATE.2010.5457235
+Design, Automation and Test in Europe, DATE 2010, Dresden, Germany, March 8-12, 2010	Giovanni De Micheli,Bashir M. Al-Hashimi,Wolfgang Müller 0003,Enrico Macii	

@@ -1,0 +1,49 @@
+Brief announcement: serial-parallel reciprocity in dynamic multithreaded languages.	Kunal Agrawal,I-Ting Angelina Lee,Jim Sukha	10.1145/1810479.1810517
+Database systems in the multicore era.	Anastasia Ailamaki	10.1145/1810479.1810486
+Securing every bit: authenticated broadcast in radio networks.	Dan Alistarh,Seth Gilbert,Rachid Guerraoui,Zarko Milosevic 0001,Calvin C. Newport	10.1145/1810479.1810489
+Basic network creation games.	Noga Alon,Erik D. Demaine,MohammadTaghi Hajiaghayi,Tom Leighton	10.1145/1810479.1810502
+Low-contention data structures.	James Aspnes,David Eisenstat,Yitong Yin	10.1145/1810479.1810539
+Fast distributed approximation algorithms for vertex cover and set cover in anonymous networks.	Matti Åstrand,Jukka Suomela	10.1145/1810479.1810533
+Brief announcement: combine -- an improved directory-based consistency protocol.	Hagit Attiya,Vincent Gramoli,Alessia Milani	10.1145/1810479.1810493
+Implementing and evaluating nested parallel transactions in software transactional memory.	Woongki Baek,Nathan Grasso Bronson,Christos Kozyrakis,Kunle Olukotun	10.1145/1810479.1810528
+Data-aware scheduling of legacy kernels on heterogeneous platforms with distributed memory.	Michela Becchi,Surendra Byna,Srihari Cadambi,Srimat T. Chakradhar	10.1145/1810479.1810498
+Computing the throughput of probabilistic and replicated streaming applications.	Anne Benoit,Fanny Dufossé,Matthieu Gallet,Yves Robert,Bruno Gaujal	10.1145/1810479.1810511
+Balls into bins with related random choices.	Petra Berenbrink,André Brinkmann,Tom Friedetzky,Lars Nagel 0001	10.1145/1810479.1810500
+Low depth cache-oblivious algorithms.	Guy E. Blelloch,Phillip B. Gibbons,Harsha Vardhan Simhadri	10.1145/1810479.1810519
+Parallel approximation algorithms for facility-location problems.	Guy E. Blelloch,Kanat Tangwongsan	10.1145/1810479.1810535
+Managing the complexity of lookahead for LU factorization with pivoting.	Ernie Chan,Robert A. van de Geijn,Andrew Chapman	10.1145/1810479.1810520
+Brief announcement: fun in numbers - a platform for sensor-based multiplayer pervasive games.	Ioannis Chatzigiannakis,Georgios Mylonas,Orestis Akribopoulos,Marios Logaras,Panagiotis C. Kokkinos,Paul G. Spirakis	10.1145/1810479.1810495
+Optimal gossip-based aggregate computation.	Jen-Yeu Chen,Gopal Pandurangan	10.1145/1810479.1810504
+A universal construction for wait-free transaction friendly data structures.	Phong Chuong,Faith Ellen,Vijaya Ramachandran	10.1145/1810479.1810538
+A local O(n2) gathering algorithm.	Bastian Degener,Barbara Kempkes,Friedhelm Meyer auf der Heide	10.1145/1810479.1810523
+Brief announcement: byzantine agreement with homonyms.	Carole Delporte-Gallet,Hugues Fauconnier,Rachid Guerraoui,Anne-Marie Kermarrec	10.1145/1810479.1810494
+Scheduling to minimize power consumption using submodular functions.	Erik D. Demaine,Morteza Zadimoghaddam	10.1145/1810479.1810483
+Simplifying concurrent algorithms by exploiting hardware transactional memory.	David Dice,Yossi Lev,Virendra J. Marathe,Mark Moir,Daniel Nussbaum,Marek Olszewski	10.1145/1810479.1810537
+TLRW: return of the read-write lock.	David Dice,Nir Shavit	10.1145/1810479.1810531
+Best-effort group service in dynamic networks.	Bertrand Ducourthial,Sofiane Khalfallah,Franck Petit	10.1145/1810479.1810525
+Online capacity maximization in wireless networks.	Alexander Fanghänel,Sascha Geulen,Martin Hoefer 0001,Berthold Vöcking	10.1145/1810479.1810499
+Assigning tasks for efficiency in Hadoop: extended abstract.	Michael J. Fischer,Xueyuan Su,Yitong Yin	10.1145/1810479.1810484
+Algorithms and application for grids and clouds.	Geoffrey Charles Fox	10.1145/1810479.1810507
+On the bit communication complexity of randomized rumor spreading.	Pierre Fraigniaud,George Giakkoupis	10.1145/1810479.1810505
+Delays induce an exponential memory gap for rendezvous in trees.	Pierre Fraigniaud,Andrzej Pelc	10.1145/1810479.1810524
+Collaborative scoring with dishonest participants.	Seth Gilbert,Rachid Guerraoui,Faezeh Malakouti Rad,Morteza Zadimoghaddam	10.1145/1810479.1810488
+Brief announcement: Lower bounds on communication for sparse Cholesky factorization of a model problem.	Laura Grigori,Pierre-Yves David,James Demmel,Sylvain Peyronnet	10.1145/1810479.1810496
+Transactions in the jungle.	Rachid Guerraoui,Thomas A. Henzinger,Michal Kapalka,Vasu Singh	10.1145/1810479.1810529
+Scheduling jobs with varying parallelizability to reduce variance.	Anupam Gupta 0001,Sungjin Im,Ravishankar Krishnaswamy,Benjamin Moseley,Kirk Pruhs	10.1145/1810479.1810482
+The Cilkview scalability analyzer.	Yuxiong He,Charles E. Leiserson,William M. Leiserson	10.1145/1810479.1810509
+Flat combining and the synchronization-parallelism tradeoff.	Danny Hendler,Itai Incze,Nir Shavit,Moran Tzafrir	10.1145/1810479.1810540
+Multi-sided shared coins and randomized set-agreement.	Keren Censor-Hillel	10.1145/1810479.1810490
+Brief announcement: locality-aware load balancing for speculatively-parallelized irregular applications.	Youngjoon Jo,Milind Kulkarni 0001	10.1145/1810479.1810516
+Towards optimizing energy costs of algorithms for shared memory architectures.	Vijay Anand Korthikanti,Gul Agha	10.1145/1810479.1810510
+New algorithms for efficient parallel string comparison.	Peter Krusche,Alexander Tiskin	10.1145/1810479.1810521
+A work-efficient parallel breadth-first search algorithm (or how to cope with the nondeterminism of reducers).	Charles E. Leiserson,Tao B. Schardl	10.1145/1810479.1810534
+Deadlock avoidance for streaming computations with filtering.	Peng Li,Kunal Agrawal,Jeremy Buhler,Roger D. Chamberlain	10.1145/1810479.1810526
+Brief announcement: a reinforcement learning approach for dynamic load-balancing of parallel digital logic simulation.	Sina Meraji,Wei Zhang 0034,Carl Tropper	10.1145/1810479.1810515
+Buffer-space efficient and deadlock-free scheduling of stream applications on multi-core architectures.	JongSoo Park,William J. Dally	10.1145/1810479.1810481
+Brief announcement: flashcrowding in tiled multiprocessors under thermal constraints.	Enoch Peserico	10.1145/1810479.1810513
+Brief announcement: on speculative replication of transactional systems.	Paolo Romano 0002,Roberto Palmieri,Francesco Quaglia,Nuno Carvalho,Luís E. T. Rodrigues	10.1145/1810479.1810492
+Corrigendum: weakest failure detector for wait-free dining under eventual weak exclusion.	Srikanth Sastry,Scott M. Pike,Jennifer L. Welch	10.1145/1810479.1810542
+Brief announcement: on regenerator placement problems in optical networks.	Arunabha Sen,Sujogya Banerjee,Pavel Ghosh,Sudheendra Murthy,Hung Q. Ngo 0001	10.1145/1810479.1810514
+Lightweight, robust adaptivity for software transactional memory.	Michael F. Spear	10.1145/1810479.1810530
+Tree network coding for peer-to-peer networks.	Arne Vater,Christian Schindelhauer,Christian Ortolf	10.1145/1810479.1810503
+SPAA 2010: Proceedings of the 22nd Annual ACM Symposium on Parallelism in Algorithms and Architectures, Thira, Santorini, Greece, June 13-15, 2010	Friedhelm Meyer auf der Heide,Cynthia A. Phillips	10.1145/1810479

@@ -1,0 +1,44 @@
+Multiprocessor Scheduling with Client Resources to Improve the Response Time of WWW Applications.	Daniel Andresen,Tao Yang 0009	10.1145/263580.263603
+Optimizing Matrix Multiply Using PHiPAC: A Portable, High-Performance, ANSI C Coding Methodology.	Jeff A. Bilmes,Krste Asanovic,Chee-Whye Chin,James Demmel	10.1145/263580.263662
+CP-PACS: A Massively Parallel Processor for Large Scale Scientific Calculations.	Taisuke Boku,Ken&apos;ichi Itakura,Hiroshi Nakamura,Kisaburo Nakazawa	10.1145/263580.263608
+Implementation of Collective I/O in the Intel Paragon Parallel File System: Initial Experiences.	Rajesh Bordawekar	10.1145/263580.263586
+Optimizing Collective I/O Performance on Parallel Computers: A Multisystem Study.	Ying Chen 0001,Jarek Nieplocha,Ian T. Foster,Marianne Winslett	10.1145/263580.263587
+Compiler and Run-Time Support for Semi-Structured Applications.	Nikos Chrisochoides,Induprakas Kodukula,Keshav Pingali	10.1145/263580.263639
+Performance considerations in software multicasts.	Jörg Cordsen,Hans Werner Pohl,Wolfgang Schröder-Preikschat	10.1145/263580.263635
+Improving Data Cache Performance by Pre-Executing Instructions Under a Cache Miss.	James Dundas,Trevor N. Mudge	10.1145/263580.263597
+Incorporating Application Dependent Information in an Automatic Code Generating Environment.	Robert van Engelen,Ilja Heitlager,Lex Wolters,Gerard Cats	10.1145/263580.263627
+A Victim Cache for Vector Registers.	Roger Espasa,Mateo Valero	10.1145/263580.263651
+Symbolic Evaluation for Parallelizing Compilers.	Thomas Fahringer,Bernhard Scholz	10.1145/263580.263648
+Impact of Selection Functions on Routing Algorithm Performance in Multicomputer Networks.	Wu-chang Feng,Kang G. Shin	10.1145/263580.263616
+The Importance of Synchronization Structure in Parallel Program Optimization.	Arjan J. C. van Gemund	10.1145/263580.263625
+Cache Miss Equations: An Analytical Representation of Cache Misses.	Somnath Ghosh,Margaret Martonosi,Sharad Malik	10.1145/263580.263657
+Speculative Execution via Address Prediction and Data Prefetching.	José González 0002,Antonio González 0001	10.1145/263580.263631
+Eliminating Cache Conflict Misses through XOR-Based Placement Functions.	Antonio González 0001,Mateo Valero,Nigel P. Topham,Joan-Manuel Parcerisa	10.1145/263580.263599
+Performance Evaluation of Message-Driven Parallel VLSI CAD Applications on General Purpose Multiprocessors.	John G. Holm,John A. Chandy,Steven Parkes,Sumit Roy 0003,Venkatram Krishnaswamy,Gagan Hasteer,Prithviraj Banerjee	10.1145/263580.263626
+HPC++: Experiments with the Parallel Standard Template Library.	Elizabeth Johnson,Dennis Gannon	10.1145/263580.263614
+Data Caches for Superscalar Processors.	Toni Juan,Juan J. Navarro,Olivier Temam	10.1145/263580.263595
+A Compiler Algorithm for Optimizing Locality in Loop Nests.	Mahmut T. Kandemir,J. Ramanujam,Alok N. Choudhary	10.1145/263580.263650
+pSNOW: A Tool to Evaluate Architectural Issues for NOW Environments.	Mangesh Kasbekar,Shailabh Nagar,Anand Sivasubramaniam	10.1145/263580.263606
+Adaptive Data Prefetching Using Cache Information.	Ando Ki,Alan E. Knowles	10.1145/263580.263633
+Adaptive Migratory Scheme for Distributed Shared Memory.	Jai-Hoon Kim,Nitin H. Vaidya	10.1145/263580.263659
+Sparse Code Generation for Imperfectly Nested Loops with Dependences.	Vladimir Kotlyar,Keshav Pingali	10.1145/263580.263630
+Developing Architecture Adaptive Algorithms Using Simulation with MISS-PVM for Performance Prediction.	Dieter F. Kvasnicka,Christoph W. Ueberhuber	10.1145/263580.263660
+Generalized Cannon&apos;s Algorithm for Parallel Matrix Multiplication.	Hyuk-Jae Lee,James P. Robertson,José A. B. Fortes	10.1145/263580.263591
+Performance Study on Optimal Processor Assignment in Parallel Relational Databases.	Kevin H. Liu	10.1145/263580.263601
+Increasing Memory Bandwidth with Wide Buses: Compiler, Hardware and Performance Trade-Offs.	David López 0001,Mateo Valero,Josep Llosa,Eduard Ayguadé	10.1145/263580.263585
+Performance Analysis of Tree VLIW Architecture for Exploiting Branch ILP in Non-Numerical Code.	Soo-Mook Moon,Kemal Ebcioglu	10.1145/263580.263653
+Scalable Instruction-Level Parallelism Through Tree-Instructions.	Jaime H. Moreno,Mayan Moudgill	10.1145/263580.263584
+An I/O Network Architecture of the Distributed Shared-Memory Massively Parallel Computer JUMP-1.	Hironori Nakajo,Satoshi Ohtani,Takashi Matsumoto 0002,Masadi Kohata,Kei Hiraki,Yukio Kaneda	10.1145/263580.263645
+Non-Singular Data Transformations: Definition, Validity and Applications.	Michael F. P. O&apos;Boyle,Peter M. W. Knijnenburg	10.1145/263580.263655
+Conflict-Free Template Access in k-ary and Binomial Trees.	Maria Cristina Pinotti,Sajal K. Das 0001,Falguni Sarkar	10.1145/263580.263641
+Iteration Space Slicing and Its Application to Communication Optimization.	William W. Pugh,Evan Rosser	10.1145/263580.263637
+Implementation and Analysis of Path History in Dynamic Branch Prediction Schemes.	Shlomo Reches,Shlomo Weiss	10.1145/263580.263813
+Performance Improvement through Overhead Analysis: A Case Study in Molecular Dynamics.	Graham D. Riley,J. Mark Bull,John R. Gurd	10.1145/263580.263589
+Compile-Time Minimisation of Load Imbalance in Loop Nests.	Rizos Sakellariou,John R. Gurd	10.1145/263580.263811
+A Methodology for Specifying Data Distribution Using Only Standard Object-Oriented Features.	Naohito Sato,Satoshi Matsuoka,Jean-Marc Jézéquel,Akinori Yonezawa	10.1145/263580.263611
+Design and Performance of the Shasta Distributed Shared Memory Protocol.	Daniel J. Scales,Kourosh Gharachorloo	10.1145/263580.263643
+A Graph Based Approach to Barrier Synchronisation Minimisation.	Elena Stöhr,Michael F. P. O&apos;Boyle	10.1145/263580.263624
+A Highly Accurate Fast Solver for Helmholtz Equations.	Xian-He Sun,Yu Zhuang	10.1145/263580.263593
+Distributed Shared Memory Systems with Improved Barrier Synchronization and Data Transfer.	Nian-Feng Tzeng,Angkul Kongmunvattana	10.1145/263580.263623
+Performance Benefits of Virtual Channels and Adaptive Routing: An Application-Driven Study.	Aniruddha S. Vaidya,Anand Sivasubramaniam,Chita R. Das	10.1145/263580.263618
+Proceedings of the 11th international conference on Supercomputing, ICS 1997, Vienna, Austria, July 7-11, 1997	Steven J. Wallach,Hans P. Zima	10.1145/263580

@@ -1,0 +1,53 @@
+Reconfigurable computing with multiscale data fusion for remote sensing.	Vikas Aggarwal,Alan D. George,K. Clint Slatton	10.1145/1117201.1117261
+An adaptive Reed-Solomon errors-and-erasures decoder.	Lilian Atieno,Jonathan Allen,Dennis Goeckel,Russell Tessier	10.1145/1117201.1117224
+Embedded floating-point units in FPGAs.	Michael J. Beauchamp,Scott Hauck,Keith D. Underwood,K. Scott Hemmert	10.1145/1117201.1117204
+Magnetic tunnelling junction based FPGA.	Nicolas Bruchon,Lionel Torres,Gilles Sassatelli,Gaston Cambon	10.1145/1117201.1117220
+Yield enhancements of design-specific FPGAs.	Nicola Campregher,Peter Y. K. Cheung,George A. Constantinides,Milan Vasilko	10.1145/1117201.1117215
+Context-free-grammar based token tagger in reconfigurable devices.	Young H. Cho,James Moscola,John W. Lockwood	10.1145/1117201.1117265
+Building a flexible and scalable DRAM interface for networking applications on FPGAs.	Jike Chong,Chidamber Kulkarni,Gordon J. Brebner	10.1145/1117201.1117258
+Modeling the data-dependent performance of pattern-matching architectures.	Christopher R. Clark,David E. Schimmel	10.1145/1117201.1117212
+Optimality study of logic synthesis for LUT-based FPGAs.	Jason Cong,Kirill Minkovich	10.1145/1117201.1117207
+Periodic licensing of FPGA based intellectual property.	Nathaniel Couture,Kenneth B. Kent	10.1145/1117201.1117259
+Armada: timing-driven pipeline-aware routing for FPGAs.	Kenneth Eguro,Scott Hauck	10.1145/1117201.1117227
+Post-placement interconnect entropy.	Wenyi Feng,Jonathan W. Greene	10.1145/1117201.1117242
+FPGA based RAID 6 hardware accelerator.	Michael P. Gilroy,James Irvine 0001,William Berrie	10.1145/1117201.1117254
+Jaguar: a compiler infrastructure for Java reconfigurable computing.	Youngsun Han,Seokjoong Hwang,Seon Wook Kim	10.1145/1117201.1117246
+Evaluation of granularity on threshold voltage control in flex power FPGA.	Masakazu Hioki,Takashi Kawanami,Toshiyuki Tsutsumi,Tadashi Nakagawa,Toshihiro Sekigawa,Hanpei Koike	10.1145/1117201.1117235
+Improving performance and robustness of domain-specific CPLDs.	Mark Holland,Scott Hauck	10.1145/1117201.1117209
+Design, implementation, and verification of active cache emulator (ACE).	Jumnit Hong,Eriko Nurvitadhi,Shih-Lien Lu	10.1145/1117201.1117211
+Effective clustering technique to optimize routability of outer cluster nets.	Masaki Kobata,Masahiro Iida,Toshinori Sueyoshi	10.1145/1117201.1117247
+Measuring the gap between FPGAs and ASICs.	Ian Kuon,Jonathan Rose	10.1145/1117201.1117205
+FPGA clock network architecture: flexibility vs. area and power.	Julien Lamoureux,Steven J. E. Wilton	10.1145/1117201.1117216
+Performance benefits of monolithically stacked 3D-FPGA.	Mingjie Lin,Abbas El Gamal,Yi-Chang Lu,S. Simon Wong	10.1145/1117201.1117219
+An iterative division algorithm for FPGAs.	Jianhua Liu,Michael Chang,Chung-Kuan Cheng	10.1145/1117201.1117213
+FPGAs with multidimensional mesh topology.	Yohei Matsumoto,Hanpei Koike,Akira Masaki	10.1145/1117201.1117234
+A reconfigurable hardware based embedded scheduler for buffered crossbar switches.	Lotfi Mhamdi,Christopher Kachris,Stamatis Vassiliadis	10.1145/1117201.1117223
+Fast and accurate resource estimation of automatically generated custom DFT IP cores.	Peter A. Milder,Mohammad Ahmad,James C. Hoe,Markus Püschel	10.1145/1117201.1117232
+High speed FIR filter implementation using add and shift method.	Shahnam Mirzaei,Anup Hosangadi,Ryan Kastner	10.1145/1117201.1117251
+Improvements to technology mapping for LUT-based FPGAs.	Alan Mishchenko,Satrajit Chatterjee,Robert K. Brayton	10.1145/1117201.1117208
+A multilevel hierarchical interconnection structure for FPGA.	Hayder Mrabet,Zied Marrakchi,Pierre Souillot,Habib Mehrez	10.1145/1117201.1117239
+Autonomous-repair cell for fault tolerant dynamic-reconfigurable devices.	Kentaro Nakahara,Shin&apos;ichi Kouyama,Tomonori Izumi,Hiroyuki Ochi,Yukihiro Nakamura	10.1145/1117201.1117237
+A reconfigurable architecture for network intrusion detection using principal component analysis.	David T. Nguyen,Gokhan Memik,Alok N. Choudhary	10.1145/1117201.1117262
+Testing embedded RAM modules in SRAM-based FPGAs.	Mohammed Y. Niamat,Dinesh Nemade,Mohsin M. Jamali	10.1145/1117201.1117245
+Efficient use of communications between an FPGA&apos;s embedded processor and its reconfigurable logic.	Joshua Noseworthy,Miriam Leeser	10.1145/1117201.1117257
+A compact FPGA implementation of the hash function whirlpool.	Norbert Pramstaller,Christian Rechberger,Vincent Rijmen	10.1145/1117201.1117225
+A programmable majority logic array using molecular scale electronics.	Garrett S. Rose,Mircea R. Stan	10.1145/1117201.1117238
+The routability of multiprocessor network topologies in FPGAs.	Manuel Saldaña,Lesley Shannon,Paul Chow	10.1145/1117201.1117253
+A Performance model for accelerating scientific applications on reconfigurable computers.	Ronald Scrofano,Viktor K. Prasanna	10.1145/1117201.1117260
+A real-time implementation of Richardson-Lucy deconvolution.	Oliver Sims,James Irvine 0001	10.1145/1117201.1117255
+A generic lookup cache architecture for network processing applications.	Janardhan Singaraju,John A. Chandy	10.1145/1117201.1117256
+A novel methodology for designing high-performance and low-energy FPGA routing architecture.	Kostas Siozios,Konstantinos Tatas,Dimitrios Soudris,Antonios Thanailakis	10.1145/1117201.1117236
+A reconfigurable architecture for hybrid CMOS/Nanodevice circuits.	Dmitri B. Strukov,Konstantin K. Likharev	10.1145/1117201.1117221
+Simulative analysis of dynamic scheduling heuristics for reconfigurable computing of parallel applications.	Rajagopal Subramaniyan,Ian A. Troxel,Alan D. George,Melissa C. Smith	10.1145/1117201.1117249
+Combining module selection and resource sharing for efficient FPGA pipeline synthesis.	Welson Sun,Michael J. Wirthlin,Stephen Neuendorffer	10.1145/1117201.1117228
+Flexible implementation of genetic algorithms on FPGAs.	Tatsuhiro Tachibana,Yoshihiro Murata,Naoki Shibata,Keiichi Yasumoto,Minoru Ito	10.1145/1117201.1117264
+Fine-grained island style architecture for molecular electronic devices.	Mohammad Tehranipoor,Reza M. Rad	10.1145/1117201.1117241
+Test and recovery for fine-grained nanoscale architectures.	Mohammad Tehranipoor,Reza M. Rad	10.1145/1117201.1117240
+Power-aware RAM mapping for FPGA embedded memory blocks.	Russell Tessier,Vaughn Betz,David Neto,Thiagaraja Gopalsamy	10.1145/1117201.1117229
+GSFAP adaptive filtering using log arithmetic for resource-constrained embedded systems.	Milan Tichý,Andy Nisbet,David Gregg	10.1145/1117201.1117263
+Manifold similarity search of DNA sequences with reconfigurable hardware.	Thinh Ngoc Tran,Surin Kittitornkun,Shigenori Tomiyama	10.1145/1117201.1117252
+A 90nm low-power FPGA for battery-powered applications.	Tim Tuan,Sean Kao,Arifur Rahman,Satyaki Das,Steven Trimberger	10.1145/1117201.1117203
+Application-specific customization of soft processor microarchitecture.	Peter Yiannacouras,J. Gregory Steffan,Jonathan Rose	10.1145/1117201.1117231
+A type architecture for hybrid micro-parallel computers.	Benjamin Ylvisaker,Brian Van Essen,Carl Ebeling	10.1145/1117201.1117243
+Configuration tools for a new multilevel hierarchical FPGA.	Zied Marrakchi,Hayder Mrabet,Habib Mehrez	10.1145/1117201.1117248
+Proceedings of the ACM/SIGDA 14th International Symposium on Field Programmable Gate Arrays, FPGA 2006, Monterey, California, USA, February 22-24, 2006	Steven J. E. Wilton,André DeHon	10.1145/1117201

@@ -1,0 +1,132 @@
+One-Pass Redundancy Identification and Removal.	Miron Abramovici,Mahesh A. Iyer	10.1109/TEST.1992.527904
+Warning: 100% Fault Coverage May Be Misleading!!	Miron Abramovici,Prashant S. Parikh	10.1109/TEST.1992.527887
+A Comparison of Defect Models for Fault Location with IDDQ Measurements.	Robert C. Aitken	10.1109/TEST.1992.527900
+AC Test Quality: Beyond Transition Fault Coverage.	Yaron Aizenbud,Paul Chang,Moshe Leibowitz,Dave Smith,Bernd Könemann,Vijay S. Iyengar,Barry K. Rosen	10.1109/TEST.1992.527877
+A Steady-State Response Test Generation for Mixed-Signal Integrated Circuits.	Alaa F. Alani,Gerry Musgrave,Anthony P. Ambler	10.1109/TEST.1992.527851
+TGEN: Flexible Timing Generator Architecture.	Timothy Alton	10.1109/TEST.1992.527854
+IEEE 1149.1 Applied to Mixed TTL-ECL and Differential Logic.	John Andrews	10.1109/TEST.1992.527808
+Test/Agent: CAD-integrated Automatic Generation of Test Programs.	R. Arnold,Michael Chowanetz,Werner Wolz,Klaus D. Müller-Glaser	10.1109/TEST.1992.527910
+Testing a DSP-Based Mixed-Signal Telecommunications Chip.	Paul Astrachan,Todd Brooks,Jody Everett,Wai-On Law,Kenneth McIntyre,Chuong Nguyen,Charles Weng	10.1109/TEST.1992.527888
+Time-to-Market: An Issue in Mixed-signal vs. Analogue.	Keith Baker	10.1109/TEST.1992.527828
+Simulation of an Integrated Design and Test Environment for Mixed-Signal Integrated Circuits.	Stephen C. Bateman,William H. Kao	10.1109/TEST.1992.527850
+Progress in DFT: A Personal View.	Ben Bennetts	
+Designing for Software Testability Using Automated Oracles.	James M. Bieman,Hwei Yin	10.1109/TEST.1992.527916
+Macro Testability: The Results of Production Device Applications.	Frank Bouwman,Steven Oostdijk,Rudi Stans,Ben Bennetts,Frans P. M. Beenker	10.1109/TEST.1992.527824
+Implementing 1149.1 on CMOS Microprocessors.	W. C. Bruce,Michael G. Gallup,Grady Giles,Tom Munns	10.1109/TEST.1992.527928
+Intelligent Fault Localization in Software.	Ilene Burnstein,Nitya Jani,Steve Mannina,Joe Tamsevicius,Michael Goldshteyn,Louis Lendi	10.1109/TEST.1992.527918
+Sequential Circuit Diagnosis Based on Formal Verification Techniques.	Gianpiero Cabodi,Paolo Camurati,Fulvio Corno,Paolo Prinetto,Matteo Sonza Reorda	10.1109/TEST.1992.527819
+Is IEEE 1149.1 Boundary Scan Cost Effective: A Simple Case Study.	Barry Caldwell,Tom Langford	10.1109/TEST.1992.527810
+High-Performance CMOS-Based VLSI Testers: Timing Control and Compensation.	Jim Chapman	10.1109/TEST.1992.527804
+A Self-Testing and Self-Repairing Structure for Ultra-Large Capacity Memories.	Tom Chen 0001,Glen Sunada	10.1109/TEST.1992.527883
+Transition Fault Simulation for Sequential Circuits.	Kwang-Ting Cheng	10.1109/TEST.1992.527894
+Design for Testability Using Architectural Descriptions.	Vivek Chickermane,Jaushin Lee,Janak H. Patel	10.1109/TEST.1992.527897
+ACCORD: Automatic Catching and CORrection of Logic Design Errors in Combinatorial Circuits.	Pi-Yu Chung,Ibrahim N. Hajj	10.1109/TEST.1992.527896
+Parametric Bridging Fault Characterization for the Fault Simulation of Library-Based ICs.	Marcello Dalpasso,Michele Favalli,Piero Olivo,Bruno Riccò	10.1109/TEST.1992.527860
+Design Verification of a High Density Computer Using IEEE 1149.1.	Wayne T. Daniel	10.1109/TEST.1992.527807
+Is Burn-In Burned-Out - Part 2.	Noel E. Donlin	10.1109/TEST.1992.527870
+Correlation of Capacitive Load Delay.	Ran Edeleman,Ishai Kreiser	10.1109/TEST.1992.527826
+Analysis of Steady State Detection of Resistive Bridging Faults in BiCMOS Digital ICs.	Michele Favalli,Marcello Dalpasso,Piero Olivo,Bruno Riccò	10.1109/TEST.1992.527858
+Timing-Per-Pin Flexibility at Shared-Resource Cost.	Gary Fehr	10.1109/TEST.1992.527853
+A Boundary Scan Test Controller for Hierarchical BIST.	José M. M. Ferreira,Filipe S. Pinto,José Silva Matos	10.1109/TEST.1992.527822
+A VXI Driver-Sensor Instrument with Large Tester Architecture.	Matthew L. Fichtenbaum,Robert J. Muller	10.1109/TEST.1992.527806
+Parity-Scan Design to Reduce the Cost of Test Application.	Hideo Fujiwara,Akihiro Yamamoto	10.1109/TEST.1992.527835
+Mixed Level Hierarchical Test Generation for Transition Faults and Overcurrent Related Defects.	Uwe Gläser,Uwe Hübner,Heinrich Theodor Vierhaus	10.1109/TEST.1992.528533
+Functional Testing of Current Microprocessors (applied to the Intel i860TM).	Ad J. van de Goor,Th. J. W. Verhallen	10.1109/TEST.1992.527890
+Detection of &quot;Undetectable&quot; Faults Using IDDQ Testing.	Ravi K. Gulati,Weiwei Mao,Deepak K. Goel	10.1109/TEST.1992.527899
+Can Concurrent Checkers Help BIST?	Sandeep K. Gupta,Dhiraj K. Pradhan	10.1109/TEST.1992.527814
+HIST: A Methodology for the Automatic Insertion of a Hierarchical Self Test.	Oliver F. Haberl,Thomas Kropf	10.1109/TEST.1992.527895
+A 3GHz, 144 Point Probe Fixture for Automatic IC Wafer Testing.	Daniel T. Hamling	10.1109/TEST.1992.527921
+Sequential Test Generation Based on Real-Value Logic.	Kazumi Hatayama,Kazunori Hikone,Mitsuji Ikeda,Terumine Hayashi	10.1109/TEST.1992.527802
+System Testing: The Future for All of Us.	Charles F. Hawkins	10.1109/TEST.1992.527869
+Generation of Vector Patterns Through Reseeding of Multipe-Polynominal Linear Feedback Shift Registers.	Sybille Hellebrand,Steffen Tarnick,Bernard Courtois,Janusz Rajski	10.1109/TEST.1992.527812
+Economic Impact of Type I Test Errors at System and Board Levels.	Christopher L. Henderson,Richard H. Williams,Charles F. Hawkins	10.1109/TEST.1992.527855
+An ATPG Driver Selection Algorithm for Interconnect Test with Boundary Scan.	Wei-Cheng Her,Lin-Ming Jin,Yacoub M. El-Ziq	10.1109/TEST.1992.527847
+Boundary Scan Testing for Multichip Modules.	Stephen C. Hilla	10.1109/TEST.1992.527823
+A Mixed Signal Analog Test Bus Framework.	Richard Hulse	10.1109/TEST.1992.527873
+Design for Test Approaches to Mixed-Signal Testing.	Madhuri Jarwala	10.1109/TEST.1992.527874
+A Framework for Boundary-Scan Based System Test Diagnosis.	Najmi T. Jarwala,Paul Stiling,Enn Tammaru,Chi W. Yau	10.1109/TEST.1992.527927
+Memory Interconnection Test at Board Level.	Frans G. M. de Jong,Adriaan J. de Lind van Wijngaarden	10.1109/TEST.1992.527840
+Interconnect and Delay Testing with a 4800-Pin Board Tester.	Shuichi Kameyama,Hideyuki Ohara,Chihiro Endo,Naoki Takayama	10.1109/TEST.1992.527841
+Automatic Test Program Generation for Mixed Signal ICs via Design to Test Link.	William Kao,Jean Xia,Tom Boydston	10.1109/TEST.1992.527911
+All Tests for a Fault Are Not Equally Valuable for Defect Detection.	Rohit Kapur,Jaehong Park,M. Ray Mercer	10.1109/TEST.1992.527898
+CCD Image Sensor Test Using Cellular Automation-Type Pattern Recognition System.	Haruo Kato	10.1109/TEST.1992.527825
+MCM Test Using Available Technology.	David C. Keezer	10.1109/TEST.1992.527827
+Calibration Techniques for a Gigahertz Test System.	David C. Keezer,R. J. Wenzel	10.1109/TEST.1992.527865
+Testing Video Processors.	Paul Kelley	10.1109/TEST.1992.527903
+In-Process Inspection Technique for Active-Matrix LCD Panels.	Takashi Kido	10.1109/TEST.1992.527902
+Advances in Membrane Probe Technology.	January Kister,Robert L. Franch	10.1109/TEST.1992.527919
+Delay Test: The Next Frontier for LSSD Test Systems.	Bernd Könemann,J. Barlow,Paul Chang,R. Gabrielson,C. Goertz,Brion L. Keller,Kevin McCauley,J. Tischer,Vijay S. Iyengar,Barry K. Rosen,T. Williams	10.1109/TEST.1992.527878
+A Test Generation Methodology for High-Performance Computer Chips and Modules.	Bernd Könemann,Phil Noto	10.1109/TEST.1992.527906
+An Architecture for a Reconfigurable IEEE 1149.n Master Controller Board.	Kevin T. Kornegay,Robert W. Brodersen	10.1109/TEST.1992.527925
+High Quality Testing of Embedded RAMs Using Circular Self-Test Path.	Andrzej Krasniewski,Slawomir Pilarski	10.1109/TEST.1992.527886
+Test Generation and Concurrent Error Detection in Current-Mode A/D Converters.	Shoba Krishnan,Sondes Sahli,Chin-Long Wey	10.1109/TEST.1992.527838
+A Small Test Generator for Large Designs.	Sandip Kundu,Leendert M. Huisman,Indira Nair,Vijay S. Iyengar,Lakshmi N. Reddy	10.1109/TEST.1992.527801
+Recursive Learning: An Attractive Alternative to the Decision Tree for Test Genration in Digital Circuits.	Wolfgang Kunz,Dhiraj K. Pradhan	10.1109/TEST.1992.527905
+Applications of the IEEE P1149.5 Module Test and Maintenance Bus.	David L. Landis,Chuck Hudson,Patrick F. McHugh	10.1109/TEST.1992.527926
+An Instruction Sequence Assembling Methodology for Testing Microprocessors.	Jaushin Lee,Janak H. Patel	10.1109/TEST.1992.527803
+BIST Techniques for ASIC Design.	Gordon R. Mc Leod	10.1109/TEST.1992.527861
+Does Object-Oriented Programming Fit in the Real World of ATE?	Richard S. Levy	10.1109/TEST.1992.527829
+Transistor Fault Coverage for Self-Testing CMOS Checkers.	Peter Lidén,Peter Dahlgren,Jan Torin	10.1109/TEST.1992.527859
+On the Design of Self-Checking Boundary Scannable Boards.	Marcelo Lubaszewski,Bernard Courtois	10.1109/TEST.1992.527846
+The Production Implementation of a Linear Error Modeling Technique.	Timothy Daniel Lyons	10.1109/TEST.1992.527849
+Non-Conventional Faults in BiCMOS Digital Circuits.	Siyad C. Ma,Edward J. McCluskey	10.1109/TEST.1992.527914
+The Advanced Test System Architecture Provides Fast and Accurate Test for a High Resolution ADC.	Akinori Maeda	10.1109/TEST.1992.527805
+LSSD Compatible and Concurrently Testable Ram.	Hideshi Maeno,Koji Nii,S. Sakayanagi,S. Kato	10.1109/TEST.1992.527881
+Robustness Enhancement and Detection Threshold Reduction in ATPG for Gate Delay Faults.	Weiwei Mao,Michael D. Ciletti	10.1109/TEST.1992.527879
+The Effectiveness of IDDQ, Functional and Scan Tests: How Many Fault Coverages Do We Need?	Peter C. Maxwell,Robert C. Aitken,Vic Johansen,Inshen Chiang	10.1109/TEST.1992.527817
+Software Testing: Opportunity and Nightmare.	Anneliese von Mayrhauser	10.1109/TEST.1992.527871
+A Simulation Environment for Early Lifecycle Software Reliability Research and Prediction.	Anneliese von Mayrhauser,James Keables	10.1109/TEST.1992.527917
+An Integrated Built-In Self-Testing and Self-Repair of VLSI/WSI Hexagonal Arrays.	Pinaki Mazumder	10.1109/TEST.1992.527924
+Improving Total IC Design Quality Using Application Mode Testing.	R. Mehtani,M. De Jonghe,Richard Morren,Keith Baker	10.1109/TEST.1992.527912
+Automatic Pattern Generation for Diagnosis of Wiring Interconnect Faults.	Matthew Melton,Franc Brglez	10.1109/TEST.1992.527848
+CMOS Checkers with Testable Bridging and Transistor Stuck-on Faults.	Cecilia Metra,Michele Favalli,Piero Olivo,Bruno Riccò	10.1109/TEST.1992.527922
+Circuit Design for Built-in Current Testing.	Yukiya Miura,Kozo Kinoshita	10.1109/TEST.1992.527913
+Using Tester Repeatability to Improve Yields.	Robert James Montoya	10.1109/TEST.1992.527833
+Sequential Redundancy Identification Using Verification Techniques.	John Moondanos,Jacob A. Abraham	10.1109/TEST.1992.527820
+ScanBIST: A Multi-frequency Scan-based BIST Method.	Benoit Nadeau-Dostie,Dwayne Burek,Abu S. M. Hassan	10.1109/TEST.1992.527862
+Optimal Sequencing of Scan Registers.	Sridhar Narayanan,Charles Njinda,Melvin A. Breuer	10.1109/TEST.1992.527836
+High Performance Monolithic Verniers for VLSI Automatic Test Equipment.	R. Warren Necoechea	10.1109/TEST.1992.527852
+Transparent BIST for RAMs.	Michael Nicolaidis	10.1109/TEST.1992.527880
+IDA: A Tool for Computer-Aided Failure Analysis.	Alan C. Noble	10.1109/TEST.1992.527909
+Software Testing: Theory and Practice.	Simeon C. Ntafos	10.1109/TEST.1992.527872
+Amdahl Corporation Board Delay Test System.	Bejoy G. Oomman,Prasad Kongara,Chittaranjan Mallipeddi	10.1109/TEST.1992.527876
+Successful Implementation of SPC in Semiconductor Final Test.	Sarkis Ourfalian	10.1109/TEST.1992.527834
+VECTOR (Virtual Edge Connector Test): A Strategy to Increase TPS Fault Coverage Without Adding Test Vectors.	Gaspare Pantano,Dave Rolince	10.1109/TEST.1992.527842
+A Graph Theoretic Approach to Partial Scan Design by K-Cycle Elimination.	Sungju Park,Sheldon B. Akers	10.1109/TEST.1992.527837
+Skewed-Load Transition Test: Part 2, Coverage.	Srinivas Patil,Jacob Savir	10.1109/TEST.1992.527893
+IDDQ Testing in CMOS Digital ASIC&apos;s - Putting it All Together.	Roger Perry	10.1109/TEST.1992.527815
+An Open Modular Test Concept for the DSP KISS-16Vs.	J. Preißner,G.-H. Huaman-Bollo,G. Mahlich,Johannes Schuck,Hans Sahm,P. Weingart,D. Weinsziehr,J. Yeandel,R. Evans	10.1109/TEST.1992.527889
+Position of Component Testing in Total Quality Management (TQM).	Babur Mustafa Pulat,Lauren M. Streb	10.1109/TEST.1992.527844
+The Great ATE Robbery.	Andrew Rappaport	
+A Study of the Error Behavior of a 32-bit RISC Subjected to Simulated Transient Fault Injection.	Marcus Rimén,Joakim Ohlsson	10.1109/TEST.1992.527891
+Bridging Defects Resistance Measurements in a CMOS Process.	Rosa Rodríguez-Montañés,Joan Figueras,Eric Bruls	10.1109/TEST.1992.527915
+A Method of Jitter Measurement.	Eric Rosenfeld	10.1109/TEST.1992.527901
+Diagnostic Fault Simulation of Sequential Circuits.	Elizabeth M. Rudnick,W. Kent Fuchs,Janak H. Patel	10.1109/TEST.1992.527818
+Physical DFT for High Coverage of Realistic Faults.	M. Saraiva,P. Casimiro,Marcelino B. Santos,José T. de Sousa,Fernando M. Gonçalves,Isabel C. Teixeira,João Paulo Teixeira 0001	10.1109/TEST.1992.527885
+Optimized BIST Strategies for Programmable Data Paths Based on Cellular Automata.	Jos van Sas,Francky Catthoor,Hugo De Man	10.1109/TEST.1992.527811
+Skewed-Load Transition Test: Part 1, Calculus.	Jacob Savir	10.1109/TEST.1992.527892
+An Evaluation of IDDQ Versus Conventional Testing for CMOS Sea-of-Gate IC&apos;s.	K. Sawada,S. Kayano	10.1109/TEST.1992.527816
+DRC-based Selection of Optimal Probing Points for Chip-Internal Measurements.	R. Scharf,Claus Kuntzsch,Klaus Helmreich,Werner Wolz,Klaus D. Müller-Glaser	10.1109/TEST.1992.527908
+High Performance Pin Electronics with GaAs, A Contradiction in Terms?	Ulrich Schoettmer,Holger Engelhard	10.1109/TEST.1992.527866
+An Automated Optical On-Wager Probing System for Ultra-High-Speed ICs.	Mitsuru Shinagawa,Tadao Nagatsuma	10.1109/TEST.1992.527907
+System Perspective on Diagnostic Testing.	William R. Simpson,John W. Sheppard	10.1109/TEST.1992.527868
+System Test: What is it? Why Bother Defining It?	Maury A. Smeyne	10.1109/TEST.1992.527867
+Self-Test Scheduling with Bounded Test Execution.	Albrecht P. Stroele	10.1109/TEST.1992.527813
+Enhanced Probe Card Facilities At-Speed Wafer Probing in Very High Density Applications.	Eswar Subramanian,Randy Nelson	10.1109/TEST.1992.527920
+AC Dynamic Testing of 20Bit Sigma-Delta Over-Sampling D/A Converter on a Mixed Signal Test System.	Masao Sugai,Takayuki Nakatani	10.1109/TEST.1992.527839
+Merging Concurrent Checking and Off-line BIST.	Xiaoling Sun,Micaela Serra	10.1109/TEST.1992.527923
+Board Test DFT Model for Computer Products.	Mick Tegethoff,T. E. Figal,S. W. Hird	10.1109/TEST.1992.527845
+A Suite of Novel Digital ATE Timing Calibration Methods.	Herbert Thaler,Lee Holt	10.1109/TEST.1992.527864
+An Analysis of the Die Testing Process Using Taguchi Techniques and Circuit Diagnostics.	Robert Trahan,Rex Kiang	10.1109/TEST.1992.527832
+A Testing Technique for ULSI Memory with On-Chip Voltage Down Converter.	Masaki Tsukude,Kazutami Arimoto,Hideto Hidaka,Yasuhiro Konishi,Masanori Hayashikoshi,Katsunori Suma,Kazuyasu Fujishima	10.1109/TEST.1992.527882
+Using EDIF for Transfer of Test Data: Practical Experience.	Bas Verhelst,Richard Morren,Keith Baker	10.1109/TEST.1992.527857
+Impact of Boundary Scan Design on Delay Test.	E. Kofi Vida-Torku	10.1109/TEST.1992.527809
+EDIF Test - The Upcoming Standard for Test Data Transfers.	Michael G. Wahl,Carol Pyron	10.1109/TEST.1992.527856
+A Fast Testing Method for Sequential Circuits at the State Trasition Level.	Wei-Lun Wang,Jhing-Fa Wang,Kuen-Jong Lee	10.1109/TEST.1992.527863
+The Reality of Object Oriented Solutions for ATE.	James R. Ward	10.1109/TEST.1992.527830
+A Proposed Method of Accessing 1149.1 in a Backplane Environment.	Lee Whetsel	10.1109/TEST.1992.527821
+A Structure for Board-Level Mixed-Signal Testability.	Brian R. Wilkins	10.1109/TEST.1992.527875
+Testing Errors: Data and Calculations in an IC Manufacturing Process.	Richard H. Williams,R. Glenn Wagner,Charles F. Hawkins	10.1109/TEST.1992.527843
+Testable Designs of Sequential Circuits Under Highly Observable Condition.	Xiaoqing Wen,Kozo Kinoshita	10.1109/TEST.1992.527884
+COM (Cost Oriented Memory) Testing.	T. Yamada,Akihiro Fujiwara,Michiko Inoue	10.1109/TEST.1992.527831
+Proceedings IEEE International Test Conference 1992, Discover the New World of Test and Design, Baltimore, Maryland, USA, September 20-24, 1992		

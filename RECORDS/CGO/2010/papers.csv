@@ -1,0 +1,32 @@
+Parameterized tiling revisited.	Muthu Manikandan Baskaran,Albert Hartono,Sanket Tavarageri,Thomas Henretty,J. Ramanujam,P. Sadayappan	10.1145/1772954.1772983
+TAO: two-level atomicity for dynamic binary optimizations.	Edson Borin,Youfeng Wu,Cheng Wang 0013,Wei Liu 0014,Maurício Breternitz Jr.,Shiliang Hu,Esfir Natanzon,Shai Rotem,Roni Rosner	10.1145/1772954.1772959
+Automatic parallelization of simulink applications.	Arquimedes Canedo,Takeo Yoshizawa,Hideaki Komatsu	10.1145/1772954.1772976
+Taming hardware event samples for FDO compilation.	Dehao Chen,Neil Vachharajani,Robert Hundt,Shih-wei Liao,Vinodha Ramasamy,Paul Yuan,Wenguang Chen,Weimin Zheng	10.1145/1772954.1772963
+An efficient software transactional memory using commit-time invalidation.	Justin Emile Gottschlich,Manish Vachharajani,Jeremy G. Siek	10.1145/1772954.1772970
+Speculative parallelization of partial reduction variables.	Liang Han,Wei Liu 0014,James Tuck	10.1145/1772954.1772975
+Automated just-in-time compiler tuning.	Kenneth Hoste,Andy Georges,Lieven Eeckhout	10.1145/1772954.1772965
+Decoupled software pipelining creates parallelization opportunities.	Jialu Huang,Arun Raman,Thomas B. Jablin,Yun Zhang 0005,Tzu-Han Hung,David I. August	10.1145/1772954.1772973
+Exploiting statistical correlations for proactive prediction of program behaviors.	Yunlian Jiang,Eddy Z. Zhang,Kai Tian,Feng Mao,Malcom Gethers,Xipeng Shen,Yaoqing Gao	10.1145/1772954.1772989
+Hybrid Java compilation and optimization for digital TV software platform.	Dong-Heon Jung,Soo-Mook Moon,Hyeong-Seok Oh	10.1145/1772954.1772966
+Integrated instruction selection and register allocation for compact code generation exploiting freeform mixing of 16- and 32-bit instructions.	Tobias J. K. Edler von Koch,Igor Böhm,Björn Franke	10.1145/1772954.1772980
+Lightweight feedback-directed cross-module optimization.	David Xinliang Li,Raksit Ashok,Robert Hundt	10.1145/1772954.1772964
+Towards program optimization through automated analysis of numerical precision.	Michael D. Linderman,Matthew Ho,David L. Dill,Teresa H. Meng,Garry P. Nolan	10.1145/1772954.1772987
+Contention aware execution: online contention detection and response.	Jason Mars,Neil Vachharajani,Robert Hundt,Mary Lou Soffa	10.1145/1772954.1772991
+There are at least two sides to every heterogeneous system.	Chris C. J. Newburn	10.1145/1772954.1772956
+Coloring-based coalescing for graph coloring register allocation.	Rei Odaira,Takuya Nakaike,Tatsushi Inagaki,Hideaki Komatsu,Toshio Nakatani	10.1145/1772954.1772978
+PinPlay: a framework for deterministic replay and reproducible analysis of parallel programs.	Harish Patil,Cristiano Pereira,Mack Stallcup,Gregory Lueck,James Cownie	10.1145/1772954.1772958
+Large program trace analysis and compression with ZDDs.	Graham D. Price,Manish Vachharajani	10.1145/1772954.1772961
+A self-adjusting code cache manager to balance start-up time and memory usage.	Witawas Srisa-an,Myra B. Cohen,Yu Shang,Mithuna Soundararaj	10.1145/1772954.1772968
+Statistically regulating program behavior via mainstream computing.	Mark Stephenson,Ram Rangan,Emmanuel Yashchin,Eric Van Hensbergen	10.1145/1772954.1772988
+Efficient compilation of fine-grained SPMD-threaded programs for multicore CPUs.	John A. Stratton,Vinod Grover,Jaydeep Marathe,Bastiaan Aarts,Mike Murphy,Ziang Hu,Wen-mei W. Hwu	10.1145/1772954.1772971
+Prospect: a compiler framework for speculative parallelization.	Martin Süßkraut,Thomas Knauth,Stefan Weigert,Ute Schiffel,Martin Meinhold,Christof Fetzer	10.1145/1772954.1772974
+An adaptive task creation strategy for work-stealing scheduling.	Lei Wang 0004,Huimin Cui,Yuelu Duan,Fang Lu,Xiaobing Feng 0002,Pen-Chung Yew	10.1145/1772954.1772992
+On improving heap memory layout by dynamic pool allocation.	Zhenjiang Wang,Chenggang Wu 0002,Pen-Chung Yew	10.1145/1772954.1772969
+Minimizing communication in rate-optimal software pipelining for stream programs.	Haitao Wei,Junqing Yu,Huafei Yu,Guang R. Gao	10.1145/1772954.1772984
+Dynamic interpretation for dynamic scripting languages.	Kevin Williams 0001,Jason McCandless,David Gregg	10.1145/1772954.1772993
+Linear scan register allocation on SSA form.	Christian Wimmer,Michael Franz	10.1145/1772954.1772979
+Level by level: making flow- and context-sensitive pointer analysis scalable for millions of lines of code.	Hongtao Yu,Jingling Xue,Wei Huo,Xiaobing Feng 0002,Zhaoqing Zhang	10.1145/1772954.1772985
+Automatic creation of tile size selection models.	Tomofumi Yuki,Lakshminarayanan Renganarayanan,Sanjay V. Rajopadhye,Charles Anderson 0001,Alexandre E. Eichenberger,Kevin O&apos;Brien	10.1145/1772954.1772982
+Umbra: efficient and scalable memory shadowing.	Qin Zhao,Derek Bruening,Saman P. Amarasinghe	10.1145/1772954.1772960
+Performance is dead, long live performance!	Benjamin G. Zorn	10.1145/1772954.1772955
+Proceedings of the CGO 2010, The 8th International Symposium on Code Generation and Optimization, Toronto, Ontario, Canada, April 24-28, 2010	Andreas Moshovos,J. Gregory Steffan,Kim M. Hazelwood,David R. Kaeli	

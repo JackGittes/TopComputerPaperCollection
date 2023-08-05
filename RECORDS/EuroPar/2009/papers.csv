@@ -1,0 +1,103 @@
+Impact of Quad-Core Cray XT4 System and Software Stack on Scientific Computation.	Sadaf R. Alam,Richard F. Barrett,Heike Jagode,Jeffery A. Kuehn,Stephen W. Poole,Ramanan Sankaran	10.1007/978-3-642-03869-3_33
+Stkm on Sca: A Unified Framework with Components, Workflows and Algorithmic Skeletons.	Marco Aldinucci,Hinde-Lilia Bouziane,Marco Danelutto,Christian Pérez	10.1007/978-3-642-03869-3_64
+Introduction.	Peter Arbenz,Martin B. van Gijzen,Patrick Amestoy,Pasqua D&apos;Ambra	10.1007/978-3-642-03869-3_67
+Exploring the Feasibility of Reputation Models for Improving P2P Routing under Churn.	Marc Sánchez Artigas,Pedro García López,Blas Herrera	10.1007/978-3-642-03869-3_51
+StarPU: A Unified Platform for Task Scheduling on Heterogeneous Multicore Architectures.	Cédric Augonnet,Samuel Thibault,Raymond Namyst,Pierre-André Wacrenier	10.1007/978-3-642-03869-3_80
+Optimized Stencil Computation Using In-Place Calculation on Modern Multicore Systems.	Werner Augustin,Vincent Heuveline,Jan-Philipp Weiss	10.1007/978-3-642-03869-3_72
+An Extension of the StarSs Programming Model for Platforms with Multiple GPUs.	Eduard Ayguadé,Rosa M. Badia,Francisco D. Igual,Jesús Labarta,Rafael Mayo 0002,Enrique S. Quintana-Ortí	10.1007/978-3-642-03869-3_79
+Parallel Lattice Basis Reduction Using a Multi-threaded Schnorr-Euchner LLL Algorithm.	Werner Backes,Susanne Wetzel	10.1007/978-3-642-03869-3_88
+Ibis: A Programming System for Real-World Distributed Computing.	Henri E. Bal	10.1007/978-3-642-03869-3_2
+Comparison of Access Policies for Replica Placement in Tree Networks.	Anne Benoit	10.1007/978-3-642-03869-3_26
+Implementing Parallel Google Map-Reduce in Eden.	Jost Berthold,Mischa Dieterle,Rita Loogen	10.1007/978-3-642-03869-3_91
+Searching for Concurrent Design Patterns in Video Games.	Micah J. Best,Alexandra Fedorova,Ryan Dickie,Andrea Tagliasacchi,Alex Couture-Beil,Craig Mustard,Shane Mottishaw,Aron Brown,Zhi Feng Huang,Xiaoyuan Xu,Nasser Ghazali,Andrew Brownsword	10.1007/978-3-642-03869-3_84
+A Case Study of Communication Optimizations on 3D Mesh Interconnects.	Abhinav Bhatele,Eric J. Bohm,Laxmikant V. Kalé	10.1007/978-3-642-03869-3_94
+Fast Implicit Simulation of Oscillatory Flow in Human Abdominal Bifurcation Using a Schur Complement Preconditioner.	Kathrin Burckhardt,Dominik Szczerba,Jed Brown,Krishnamurthy Muralidhar,Gábor Székely	10.1007/978-3-642-03869-3_70
+A Self-stabilizing K-Clustering Algorithm Using an Arbitrary Metric.	Eddy Caron,Ajoy Kumar Datta,Benjamin Depardon,Lawrence L. Larmore	10.1007/978-3-642-03869-3_57
+Introduction.	Barbara M. Chapman,Bart Kienhuis,Eduard Ayguadé,François Bodin,Oscar G. Plata,Eric Stotzer	10.1007/978-3-642-03869-3_77
+Dependability Analysis of a Fault-Tolerant Network Reconfiguring Strategy.	Vicente Chirivella,Rosa Alcover,Jose Flich,José Duato	10.1007/978-3-642-03869-3_96
+A Holistic Approach towards Automated Performance Analysis and Tuning.	Guojing Cong,I-Hsin Chung,Hui-Fang Wen,David J. Klepacki,Hiroki Murata,Yasushi Negishi,Takao Moriyama	10.1007/978-3-642-03869-3_7
+MPI Applications on Grids: A Topology Aware Approach.	Camille Coti,Thomas Hérault,Franck Cappello	10.1007/978-3-642-03869-3_45
+Scheduling Recurrent Precedence-Constrained Task Graphs on a Symmetric Shared-Memory Multiprocessor.	UmaMaheswari C. Devi	10.1007/978-3-642-03869-3_27
+Steady-State for Batches of Identical Task Trees.	Sékou Diakité,Loris Marchal,Jean-Marc Nicod,Laurent Philippe 0001	10.1007/978-3-642-03869-3_22
+Unifying Memory and Database Transactions.	Ricardo J. Dias,João Lourenço	10.1007/978-3-642-03869-3_35
+Introduction.	Pedro C. Diniz,Ben H. H. Juurlink,Alain Darte,Wolfgang Karl	10.1007/978-3-642-03869-3_29
+Localized Parallel Algorithm for Bubble Coalescence in Free Surface Lattice-Boltzmann Method.	Stefan Donath,Christian Feichtinger,Thomas Pohl,Jan Götz,Ulrich Rüde	10.1007/978-3-642-03869-3_69
+A Multilevel Parallelization Framework for High-Order Stencil Computations.	Hikmet Dursun,Ken-ichi Nomura,Liu Peng,Richard Seymour,Weiqiang Wang,Rajiv K. Kalia,Aiichiro Nakano,Priya Vashishta	10.1007/978-3-642-03869-3_61
+An Extensible I/O Performance Analysis Framework for Distributed Environments.	Benjamin Eckart,Xubin He,Hong Ong,Stephen L. Scott	10.1007/978-3-642-03869-3_9
+Introduction.	Thomas Fahringer,Alexandru Iosup,Marian Bubak,Matei Ripeanu,Xian-He Sun,Hong Linh Truong 0001	10.1007/978-3-642-03869-3_12
+A Methodology to Characterize Critical Section Bottlenecks in DSM Multiprocessors.	Benjamín Sahelices,Pablo Ibáñez,Víctor Viñals,José María Llabería	10.1007/978-3-642-03869-3_17
+Tile Percolation: An OpenMP Tile Aware Parallelization Technique for the Cyclops-64 Multicore Processor.	Ge Gan,Xu Wang,Joseph B. Manzano,Guang R. Gao	10.1007/978-3-642-03869-3_78
+Fast and Efficient Synchronization and Communication Collective Primitives for Dual Cell-Based Blades.	Epifanio Gaona-Ramírez,Juan Fernández 0001,Manuel E. Acacio	10.1007/978-3-642-03869-3_83
+A Buffer Space Optimal Solution for Re-establishing the Packet Order in a MPSoC Network Processor.	Daniela Genius,Alix Munier Kordon,Khouloud Zine el Abidine	10.1007/978-3-642-03869-3_23
+A Least-Resistance Path in Reasoning about Unstructured Overlay Networks.	Giorgos Georgiadis,Marina Papatriantafilou	10.1007/978-3-642-03869-3_47
+NIC-Assisted Cache-Efficient Receive Stack for Message Passing over Ethernet.	Brice Goglin	10.1007/978-3-642-03869-3_98
+Parallelization of a Video Segmentation Algorithm on CUDA-Enabled Graphics Processing Units.	Juan Gómez-Luna,José María González-Linares,José I. Benavides,Nicolás Guil	10.1007/978-3-642-03869-3_85
+A Parallel Numerical Library for UPC.	Jorge González-Domínguez,María J. Martín,Guillermo L. Taboada,Juan Touriño,Ramon Doallo,Andrés Gómez 0002	10.1007/978-3-642-03869-3_60
+Uniform Sampling for Directed P2P Networks.	Cyrus P. Hall,Antonio Carzaniga	10.1007/978-3-642-03869-3_49
+Provider-Independent Use of the Cloud.	Terence J. Harmer,Peter Wright,Christina Cunningham,Ronald H. Perrott	10.1007/978-3-642-03869-3_44
+A Parallel Rigid Body Dynamics Algorithm.	Klaus Iglberger,Ulrich Rüde	10.1007/978-3-642-03869-3_71
+POGGI: Puzzle-Based Online Games on Grid Infrastructures.	Alexandru Iosup	10.1007/978-3-642-03869-3_39
+Introduction.	Emmanuel Jeannot,Ramin Yahyapour,Daniel Grosu,Helen D. Karatza	10.1007/978-3-642-03869-3_18
+MapReduce Programming Model for .NET-Based Cloud Computing.	Chao Jin,Rajkumar Buyya	10.1007/978-3-642-03869-3_41
+Using OpenMP vs. Threading Building Blocks for Medical Imaging on Multi-cores.	Philipp Kegel,Maraike Schellmann,Sergei Gorlatch	10.1007/978-3-642-03869-3_62
+Surfing Peer-to-Peer IPTV: Distributed Channel Switching.	Anne-Marie Kermarrec,Erwan Le Merrer,Yaning Liu,Gwendal Simon	10.1007/978-3-642-03869-3_54
+Pattern Matching and I/O Replay for POSIX I/O in Parallel Programs.	Michael Kluge,Andreas Knüpfer,Matthias S. Müller,Wolfgang E. Nagel	10.1007/978-3-642-03869-3_8
+Parallel Implementation of Runge-Kutta Integrators with Low Storage Requirements.	Matthias Korch,Thomas Rauber	10.1007/978-3-642-03869-3_73
+Introduction.	Gerd Kortuem,Henk Eertink,Christian Prehofer,Martin Strohbach	10.1007/978-3-642-03869-3_101
+Introduction.	Dejan Kostic,Guillaume Pierre,Flavio Junqueira,Peter R. Pietzuch	10.1007/978-3-642-03869-3_55
+Introduction.	Cees T. A. M. de Laat,Chris Develder,Admela Jukan,Joe Mambretti	10.1007/978-3-642-03869-3_93
+Last Bank: Dealing with Address Reuse in Non-Uniform Cache Architecture for CMPs.	Javier Lira,Carlos Molina,Antonio González 0001	10.1007/978-3-642-03869-3_30
+Distributed Individual-Based Simulation.	Jiming Liu 0002,Michael B. Dillencourt,Lubomir F. Bic,Daniel L. Gillen,Arthur D. Lander	10.1007/978-3-642-03869-3_56
+Adaptive Parallel Householder Bidiagonalization.	Fangbin Liu,Frank J. Seinstra	10.1007/978-3-642-03869-3_76
+Characterizing and Understanding the Bandwidth Behavior of Workloads on Multi-core Processors.	Guoping Long,Dongrui Fan,Junchao Zhang	10.1007/978-3-642-03869-3_14
+Efficient Parallel Implementation of Evolutionary Algorithms on GPGPU Cards.	Ogier Maitre,Nicolas Lachiche,Philippe Clauss,Laurent A. Baumes,Avelino Corma,Pierre Collet	10.1007/978-3-642-03869-3_89
+PSPIKE: A Parallel Hybrid Sparse Linear System Solver.	Murat Manguoglu,Ahmed H. Sameh,Olaf Schenk	10.1007/978-3-642-03869-3_74
+Out-of-Core Computation of the QR Factorization on Multi-core Processors.	Mercedes Marqués 0001,Gregorio Quintana-Ortí,Enrique S. Quintana-Ortí,Robert A. van de Geijn	10.1007/978-3-642-03869-3_75
+Hardware Implementation Study of the SCFQ-CA and DRR-CA Scheduling Algorithms.	Raúl Martínez,Francisco José Alfaro,José L. Sánchez 0002,José M. Claver	10.1007/978-3-642-03869-3_100
+Grid-Enabling SPMD Applications through Hierarchical Partitioning and a Component-Based Runtime.	Elton N. Mathias,Vincent Cavé,Stéphane Lanteri,Françoise Baude	10.1007/978-3-642-03869-3_65
+The Architecture of the XtreemOS Grid Checkpointing Service.	John Mehnert-Spahn,Thomas Ropars,Michael Schöttner,Christine Morin	10.1007/978-3-642-03869-3_42
+Selfish Neighbor Selection in Peer-to-Peer Backup and Storage Applications.	Pietro Michiardi,László Toka	10.1007/978-3-642-03869-3_52
+Reducing Rollbacks of Transactional Memory Using Ordered Shared Locks.	Ken Mizuno,Takuya Nakaike,Toshio Nakatani	10.1007/978-3-642-03869-3_66
+Stochastic Analysis of Hierarchical Publish/Subscribe Systems.	Gero Mühl,Arnd Schröter,Helge Parzyjegla,Samuel Kounev,Jan Richling	10.1007/978-3-642-03869-3_13
+On the Feasibility of Dynamically Scheduling DAG Applications on Shared Heterogeneous Systems.	Aline de P. Nascimento,Alexandre da Costa Sena,Cristina Boeres,Vinod E. F. Rebello	10.1007/978-3-642-03869-3_21
+Enabling High Data Throughput in Desktop Grids through Decentralized Data and Metadata Management: The BlobSeer Approach.	Bogdan Nicolae,Gabriel Antoniu,Luc Bougé	10.1007/978-3-642-03869-3_40
+Selective Replicated Declustering for Arbitrary Queries.	Kerim Yasin Oktay,Ata Turk,Cevdet Aykanat	10.1007/978-3-642-03869-3_37
+A Lower Bound for Oblivious Dimensional Routing.	Andre Osterloh	10.1007/978-3-642-03869-3_92
+XJava: Exploiting Parallelism with Object-Oriented Stream Programming.	Frank Otto,Victor Pankratius,Walter F. Tichy	10.1007/978-3-642-03869-3_81
+Optimal and Near-Optimal Energy-Efficient Broadcasting in Wireless Networks.	Christos A. Papageorgiou,Panagiotis C. Kokkinos,Emmanouel A. Varvarigos	10.1007/978-3-642-03869-3_102
+A New Genetic Algorithm for Scheduling for Large Communication Delays.	Johnatan E. Pecero,Denis Trystram,Albert Y. Zomaya	10.1007/978-3-642-03869-3_25
+Multicore Programming Challenges.	Michael Perrone	10.1007/978-3-642-03869-3_1
+Introduction.	Andrea Pietracaprina,Rob H. Bisseling,Emmanuelle Lebhar,Alexander Tiskin	10.1007/978-3-642-03869-3_90
+Energy-Aware Scheduling of Flow Applications on Master-Worker Platforms.	Jean-Francois Pineau,Yves Robert,Frédéric Vivien	10.1007/978-3-642-03869-3_28
+Implementing a Change Assimilation Mechanism for Source Routing Interconnects.	Antonio Robles-Gómez,Aurelio Bermúdez,Rafael Casado	10.1007/978-3-642-03869-3_95
+Active Optimistic Message Logging for Reliable Execution of MPI Applications.	Thomas Ropars,Christine Morin	10.1007/978-3-642-03869-3_58
+Wavelet-Based Adaptive Solvers on Multi-core Architectures for the Simulation of Complex Systems.	Diego Rossinelli,Michael Bergdorf,Babak Hejazialhosseini,Petros Koumoutsakos	10.1007/978-3-642-03869-3_68
+What Is in a Namespace?	Antony I. T. Rowstron	10.1007/978-3-642-03869-3_3
+Assigning Blame: Mapping Performance to High Level Parallel Programming Abstractions.	Nick Rutar,Jeffrey K. Hollingsworth	10.1007/978-3-642-03869-3_6
+REPAS: Reliable Execution for Parallel ApplicationS in Tiled-CMPs.	Daniel Sánchez 0004,Juan L. Aragón,José M. García 0001	10.1007/978-3-642-03869-3_32
+Dynamic Load Balancing of Matrix-Vector Multiplications on Roadrunner Compute Nodes.	José Carlos Sancho,Darren J. Kerbyson	10.1007/978-3-642-03869-3_19
+Atune-IL: An Instrumentation Language for Auto-tuning Parallel Applications.	Christoph A. Schaefer,Victor Pankratius,Walter F. Tichy	10.1007/978-3-642-03869-3_5
+Hybrid Techniques for Fast Multicore Simulation.	Manu Shantharam,Padma Raghavan,Mahmut T. Kandemir	10.1007/978-3-642-03869-3_15
+A DHT Key-Value Storage System with Carrier Grade Performance.	Guangyu Shi,Jian Chen,Hao Gong,Lingyuan Fan,Haiqiang Xue,Qingming Lu,Liang Liang	10.1007/978-3-642-03869-3_36
+Grouping MPI Processes for Partial Checkpoint and Co-migration.	Rajendra Singh,Peter Graham	10.1007/978-3-642-03869-3_10
+Zero-Day Reconciliation of BitTorrent Users with Their ISPs.	Marco Slot,Paolo Costa,Guillaume Pierre,Vivek Rai	10.1007/978-3-642-03869-3_53
+RecTOR: A New and Efficient Method for Dynamic Network Reconfiguration.	Åshild Grønstad Solheim,Olav Lysne,Tor Skeie	10.1007/978-3-642-03869-3_97
+Introduction.	Alexander S. Szalay,Djoerd Hiemstra,Alfons Kemper,Manuel Prieto 0001	10.1007/978-3-642-03869-3_34
+Introduction.	Domenico Talia,Jason Maassen,Fabrice Huet,Shantenu Jha	10.1007/978-3-642-03869-3_59
+Parallel Skeletons for Variable-Length Lists in SkeTo Skeleton Library.	Haruto Tanno,Hideya Iwasaki	10.1007/978-3-642-03869-3_63
+PSINS: An Open Source Event Tracer and Execution Simulator for MPI Applications.	Mustafa M. Tikir,Michael Laurenzano,Laura Carrington,Allan Snavely	10.1007/978-3-642-03869-3_16
+Adaptive Peer Sampling with Newscast.	Norbert Tölgyesi,Márk Jelasity	10.1007/978-3-642-03869-3_50
+Using Multicast Transfers in the Replica Migration Problem: Formulation and Scheduling Heuristics.	Nikos Tziritas,Thanasis Loukopoulos,Petros Lampsas,Spyros Lalis	10.1007/978-3-642-03869-3_24
+Paired ROBs: A Cost-Effective Reorder Buffer Sharing Strategy for SMT Processors.	Rafael Ubal,Julio Sahuquillo,Salvador Petit,Pedro López 0001	10.1007/978-3-642-03869-3_31
+SiMPSON: Efficient Similarity Search in Metric Spaces over P2P Structured Overlay Networks.	Quang Hieu Vu,Mihai Lupu,Sai Wu	10.1007/978-3-642-03869-3_48
+Scalable Transactions for Web Applications in the Cloud.	Zhou Wei,Guillaume Pierre,Chi-Hung Chi	10.1007/978-3-642-03869-3_43
+Introduction.	Jon B. Weissman,Lex Wolters,David Abramson 0001,Marty Humphrey	10.1007/978-3-642-03869-3_38
+Introduction.	Felix Wolf 0001,Andy D. Pimentel,Luiz De Rose,Soonhoi Ha,Thilo Kielmann,Anna Morajko	10.1007/978-3-642-03869-3_4
+A Unified Framework for Load Distribution and Fault-Tolerance of Application Servers.	Huaigu Wu,Bettina Kemme	10.1007/978-3-642-03869-3_20
+JCUDA: A Programmer-Friendly Interface for Accelerating Java Programs with CUDA.	Yonghong Yan 0001,Max Grossman,Vivek Sarkar	10.1007/978-3-642-03869-3_82
+A Parallel Point Matching Algorithm for Landmark Based Image Registration Using Multicore Platform.	Lin Yang,Leiguang Gong,Hong Zhang,John L. Nosher,David J. Foran	10.1007/978-3-642-03869-3_86
+High Performance Matrix Multiplication on Many Cores.	Nan Yuan,Yongbin Zhou,Guangming Tan,Junchao Zhang,Dongrui Fan	10.1007/978-3-642-03869-3_87
+A Multipath Fault-Tolerant Routing Method for High-Speed Interconnection Networks.	Gonzalo Zarza,Diego Lugones,Daniel Franco 0002,Emilio Luque	10.1007/978-3-642-03869-3_99
+Process Mapping for MPI Collective Communications.	Jin Zhang,Jidong Zhai,Wenguang Chen,Weimin Zheng	10.1007/978-3-642-03869-3_11
+Introduction.	Ben Zhao,Pawel Garbacki,Christos Gkantsidis,Adriana Iamnitchi,Spyros Voulgaris	10.1007/978-3-642-03869-3_46
+Euro-Par 2009 Parallel Processing, 15th International Euro-Par Conference, Delft, The Netherlands, August 25-28, 2009. Proceedings	Henk J. Sips,Dick H. J. Epema,Hai-Xiang Lin	10.1007/978-3-642-03869-3

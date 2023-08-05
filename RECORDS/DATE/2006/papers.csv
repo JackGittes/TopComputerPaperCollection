@@ -1,0 +1,46 @@
+Architectures for efficient face authentication in embedded systems.	Najwa Aaraj,Srivaths Ravi 0001,Anand Raghunathan,Niraj K. Jha	10.1109/DATE.2006.244155
+Platform independent debug port controller architecture with security protection for multi-processor system-on-chip ICs.	Dmitry Akselrod,Asaf Ashkenazi,Yossi Amon	10.1109/DATE.2006.243744
+A novel FPGA-based implementation of time adaptive clustering for logical story unit segmentation.	Sutjipto Arifin,Peter Y. K. Cheung	10.1109/DATE.2006.243907
+Automatic systemC design configuration for a faster evaluation of different partitioning alternatives.	Nico Bannow,Karsten Haug,Wolfgang Rosenstiel	10.1109/DATE.2006.243904
+FlexRay transceiver in a 0.35 µm CMOS high-voltage technology.	Federico Baronti,Paolo D&apos;Abramo,Martin Knaipp,Rainer Minixhofer,Roberto Roncella,Roberto Saletti,Martin Schrems,Riccardo Serventi,Verena Vescoli	10.1109/DATE.2006.243874
+Software implementation of Tate pairing over GF(2m).	Guido Bertoni,Luca Breveglieri,Pasqualina Fragneto,Gerardo Pelosi,Luigi Sportiello	10.1109/DATE.2006.244156
+A mixed-signal verification kit for verification of analogue-digital circuits.	Giuseppe Bonfini,Monica Chiavacci,Riccardo Mariani,Egidio Pescari	10.1109/DATE.2006.243779
+Simulation and analysis of network on chip architectures: ring, spidergon and 2D mesh.	Luciano Bononi,Nicola Concer	10.1109/DATE.2006.243841
+GALS networks on chip: a new solution for asynchronous delay-insensitive links.	Giuseppe Campobello,Marco Castano,Carmine Ciofi,Daniele Mangano	10.1109/DATE.2006.243842
+A practical implementation of the fault-tolerant daisy-chain clock synchronization algorithm on CAN.	Fabiano Costa Carvalho,Carlos Eduardo Pereira,Elias Teodoro Silva Jr.,Edison Pignaton de Freitas	10.1109/DATE.2006.243872
+A fast-lock mixed-mode DLL with wide-range operation and multiphase outputs.	Kuo-Hsing Cheng,Yu-Lung Lo	10.1109/DATE.2006.243870
+A complete and fully qualified design flow for verification of mixed-signal SoC with embedded flash memories.	Pierluigi Daglio	10.1109/DATE.2006.243780
+Synthesis of system verilog assertions.	Sayantan Das,Rizi Mohanty,Pallab Dasgupta,P. P. Chakrabarti 0001	10.1109/DATE.2006.243776
+Design and implementation of a rendering algorithm in a SIMD reconfigurable architecture (MorphoSys).	Javier Davila,Alfonso de Torres,Jose Manuel Sanchez,Marcos Sánchez-Élez,Nader Bagherzadeh,Fredy Rivera	10.1109/DATE.2006.243748
+Low cost LDPC decoder for DVB-S2.	John Dielissen,Andries Hekstra,Vincent Berg	10.1109/DATE.2006.243816
+Flexible MPSoC platform with fast interconnect exploration for optimal system performance for a specific application.	Florin Dumitrascu,Iuliana Bacivarov,Lorenzo Pieralisi,Marius Bonaciu,Ahmed Amine Jerraya	10.1109/DATE.2006.243843
+ASIP design and synthesis for non linear filtering in image processing.	Luca Fanucci,Michele Cassiano,Sergio Saponara,David Kammler,Ernst Martin Witte,Oliver Schliebusch,Gerd Ascheid,Rainer Leupers,Heinrich Meyr	10.1109/DATE.2006.243908
+Modeling and simulation of mobile gateways interacting with wireless sensor networks.	Franco Fummi,Davide Quaglia,Fabio Ricciato,Maura Turolla	10.1109/DATE.2006.243812
+Generating finite state machines from SystemC.	Ali Habibi,Haja Moinudeen,Sofiène Tahar	10.1109/DATE.2006.243777
+A methodology for FPGA to structured-ASIC synthesis and verification.	Michael D. Hutton,Richard Yuan,Jay Schleicher,Gregg Baeckler,Sammy Cheung,Kar Keng Chua,Hee Kong Phoo	10.1109/DATE.2006.243775
+ASIP architecture for multi-standard wireless terminals.	Daniele Lo Iacono,J. Zory,Ettore Messina,Nicolo Piazzese,G. Saia,A. Bettinelli	10.1109/DATE.2006.243814
+Application specific instruction processor based implementation of a GNSS receiver on an FPGA.	Götz Kappen,Tobias G. Noll	10.1109/DATE.2006.243749
+Design and implementation of a modular and portable IEEE 754 compliant floating-point unit.	Kingshuk Karuri,Rainer Leupers,Gerd Ascheid,Heinrich Meyr,Monu Kedia	10.1109/DATE.2006.243906
+Industrially proving the SPIRIT consortium specifications for design chain integration.	Christopher K. Lennard,Victor Berman,Saverio Fazzari,Mark Indovina,Cary Ussery,Marino Strik,John Wilson,Olivier Florent,François Rémond,Pierre Bricaud	10.1109/DATE.2006.243839
+Optimization of regular expression pattern matching circuits on FPGA.	Cheng-Hung Lin,Chih-Tsun Huang,Chang-Ping Jiang,Shih-Chieh Chang	10.1109/DATE.2006.244157
+The vector fixed point unit of the synergistic processor element of the cell architecture processor.	Nicolas Mäding,Jens Leenstra,Jürgen Pille,Rolf Sautter,Stefan Büttner,Sebastian Ehrenreich,W. Haller	10.1109/DATE.2006.243933
+A new approach to compress the configuration information of programmable devices.	Maurizio Martina,Guido Masera,Andrea Molino,Fabrizio Vacca,Luca Sterpone,Massimo Violante	10.1109/DATE.2006.243747
+Energy-efficient FPGA interconnect design.	Maurice Meijer,Rohini Krishnan,Martijn T. Bennebroek	10.1109/DATE.2006.243746
+STAX: statistical crosstalk target set compaction.	Shahin Nazarian,Massoud Pedram,Sandeep K. Gupta,Melvin A. Breuer	10.1109/DATE.2006.243844
+Software-friendly HW/SW co-simulation: an industrial case study.	Juanjo Noguera,Luis Baldez,Narcis Simon,Lluis Abello	10.1109/DATE.2006.243811
+Flexible specification and application of rule-based transformations in an automotive design flow.	Jan-Hendrik Oetjens,Joachim Gerlach,Wolfgang Rosenstiel	10.1109/DATE.2006.243778
+A hardware-engine for layer-2 classification in low-storage, ultra-high bandwidth environments.	Vassilis Papaefstathiou,Ioannis Papaefstathiou	10.1109/DATE.2006.243813
+Satisfiability-based framework for enabling side-channel attacks on cryptographic software.	Nachiketh R. Potlapally,Anand Raghunathan,Srivaths Ravi 0001,Niraj K. Jha,Ruby B. Lee	10.1109/DATE.2006.244158
+Interconnection framework for high-throughput, flexible LDPC decoders.	Federico Quaglio,Fabrizio Vacca,Cristiano Castellano,Alberto Tarable,Guido Masera	10.1109/DATE.2006.243815
+Space-efficient FPGA-accelerated collision detection for virtual prototyping.	Andreas Raabe,Stefan Hochgürtel,Joachim K. Anlauf,Gabriel Zachmann	10.1109/DATE.2006.243875
+How OEMs and suppliers can face the network integration challenges.	Kai Richter 0001,Rolf Ernst	10.1109/DATE.2006.243871
+3dID: a low-power, low-cost hand motion capture device.	Michele Sama,Vincenzo Pacella,Elisabetta Farella,Luca Benini,Bruno Riccò	10.1109/DATE.2006.243817
+Mixed-signal design of a digital input power amplifier for automotive audio applications.	Sergio Saponara,Pierangelo Terreni	10.1109/DATE.2006.243903
+Multi-sensor configurable platform for automotive applications.	Luca Serafini,F. Carrai,Tommaso Ramacciotti,V. Zolesi	10.1109/DATE.2006.243905
+Design and test of fixed-point multimedia co-processor for mobile applications.	Ju-Ho Sohn,Jeong-Ho Woo,Jerald Yoo,Hoi-Jun Yoo	10.1109/DATE.2006.243934
+Networks on chips for high-end consumer-electronics TV system architectures.	Frits Steenhof,Harry Duque,Björn Nilsson,Kees Goossens,Rafael Peset Llopis	10.1109/DATE.2006.243840
+Automated conversion from a LUT-based FPGA to a LUT-based MPGA with fast turnaround time.	Francisco-Javier Veredas,Michael Scheppler,Hans-Jörg Pfleiderer	10.1109/DATE.2006.243745
+An 830mW, 586kbps 1024-bit RSA chip design.	Chingwei Yeh,En-Feng Hsu,Kai-Wen Cheng,Jinn-Shyan Wang,Nai-Jen Chang	10.1109/DATE.2006.244159
+A 124.8Msps, 15.6mW field-programmable variable-length codec for multimedia applications.	Chingwei Yeh,Chao-Ching Wang,Lin-Chi Lee,Jinn-Shyan Wang	10.1109/DATE.2006.243909
+On the verification of automotive protocols.	G. Zarri,Federico Colucci,F. Dupuis,Riccardo Mariani,Mario Pasquariello,G. Risaliti,C. Tibaldi	10.1109/DATE.2006.243873
+Proceedings of the Conference on Design, Automation and Test in Europe: Designers&apos; Forum, DATE 2006, Munich, Germany, March 6-10, 2006	Georges G. E. Gielen	

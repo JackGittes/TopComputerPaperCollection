@@ -1,0 +1,100 @@
+BIXBAR: A low cost solution to support dynamic link reconfiguration in networks on chip.	Pablo Abad Fidalgo,Pablo Prieto,Valentin Puente,José-Ángel Gregorio	10.1109/ICCD.2012.6378617
+Dynamic phase-based tuning for embedded systems using phase distance mapping.	Tosiron Adegbija,Ann Gordon-Ross,Arslan Munir	10.1109/ICCD.2012.6378653
+A spectral transform approach to stochastic circuits.	Armin Alaghi,John P. Hayes	10.1109/ICCD.2012.6378658
+Architecture and design flow for a debug event distribution interconnect.	Arnaldo Azevedo,Bart Vermeulen,Kees Goossens	10.1109/ICCD.2012.6378676
+Balancing performance and fault detection for GPGPU workloads.	Jerry Backer,Ramesh Karri	10.1109/ICCD.2012.6378702
+Adaptive Backpressure: Efficient buffer management for on-chip networks.	Daniel U. Becker,Nan Jiang 0009,George Michelogiannakis,William J. Dally	10.1109/ICCD.2012.6378673
+A retrospective look at xpipes: The exciting ride from a design experience to a design platform for nanoscale networks-on-chip.	Davide Bertozzi,Luca Benini	10.1109/ICCD.2012.6378614
+Acceleration of Monte-Carlo molecular simulations on hybrid computing architectures.	Claus Braun,Stefan Holst,Hans-Joachim Wunderlich,Juan Manuel Castillo-Sanchez,Joachim Gross	10.1109/ICCD.2012.6378642
+Flash correct-and-refresh: Retention-aware error management for increased flash memory lifetime.	Yu Cai,Gulay Yalcin,Onur Mutlu,Erich F. Haratsch,Adrián Cristal,Osman S. Ünsal,Ken Mai	10.1109/ICCD.2012.6378623
+Mamba: A scalable communication centric multi-threaded processor architecture.	Gregory A. Chadwick,Simon W. Moore	10.1109/ICCD.2012.6378652
+A comparative study of wearout mechanisms in state-of-art microprocessors.	Chang-Chih Chen,Fahad Ahmed,Linda Milor	10.1109/ICCD.2012.6378651
+Efficient code compression for coarse grained reconfigurable architectures.	Moo-Kyoung Chung,Yeon-Gon Cho,Soojung Ryu	10.1109/ICCD.2012.6378687
+Distributed thermal-aware task scheduling for 3D Network-on-Chip.	Yingnan Cui,Wei Zhang 0012,Hao Yu 0001	10.1109/ICCD.2012.6378690
+Xpipes: A latency insensitive parameterized network-on-chip architecture for multi-processor SoCs.	Matteo Dall&apos;Osso,Gianluca Biccari,Luca Giovannini,Davide Bertozzi,Luca Benini	10.1109/ICCD.2012.6378615
+Parametric throughput analysis of scenario-aware dataflow graphs.	Morteza Damavandpeyma,Sander Stuijk,Marc Geilen,Twan Basten,Henk Corporaal	10.1109/ICCD.2012.6378644
+CoNA: Dynamic application mapping for congestion reduction in many-core systems.	Mohammad Fattah,Marco Ramírez 0001,Masoud Daneshtalab,Pasi Liljeberg,Juha Plosila	10.1109/ICCD.2012.6378665
+MSE minimization and fault-tolerant data fusion for multi-sensor systems.	Atena Roshan Fekr,Majid Janidarmian,Omid Sarbishei,Benjamin Nahill,Katarzyna Radecka,Zeljko Zilic	10.1109/ICCD.2012.6378677
+Task model suitable for dynamic load balancing of real-time applications in NoC-based MPSoCs.	Sergio Johann Filho,Alexandra Aguiar,Felipe Gohring de Magalhaes,Oliver B. Longhi,Fabiano Hessel	10.1109/ICCD.2012.6378616
+Efficient verification of out-of-order behaviors with relaxed scoreboards.	Leandro S. Freitas,Gabriel A. G. Andrade,Luiz C. V. dos Santos	10.1109/ICCD.2012.6378698
+A novel variation-tolerant 4T-DRAM cell with enhanced soft-error tolerance.	Shrikanth Ganapathy,Ramon Canal,Dan Alexandrescu,Enrico Costenaro,Antonio González 0001,Antonio Rubio 0001	10.1109/ICCD.2012.6378681
+DIPLOMA: Consistent and coherent shared memory over mobile phones.	Jason H. Gao 0001,Anirudh Sivaraman,Niket Agarwal,HaoQi Li,Li-Shiuan Peh	10.1109/ICCD.2012.6378666
+Robust optimization of a Chip Multiprocessor&apos;s performance under power and thermal constraints.	Mohammad Ghasemazar,Hadi Goudarzi,Massoud Pedram	10.1109/ICCD.2012.6378625
+Maximizing crosstalk-induced slowdown during path delay test.	Dibakar Gope,D. M. H. Walker	10.1109/ICCD.2012.6378635
+DOC: Fast and accurate congestion analysis for global routing.	Yiding Han,Koushik Chakraborty,Sanghamitra Roy	10.1109/ICCD.2012.6378697
+Phase-based passive stereovision systems dedicated to cortical visual stimulators.	Firas Hawi,Mohamad Sawan	10.1109/ICCD.2012.6378649
+Malicious key emission via hardware Trojan against encryption system.	David Hély,Maurin Augagneur,Yves Clauzel,Jeremy Dubeuf	10.1109/ICCD.2012.6378628
+A physical unclonable function based on setup time violation.	David Hély,Maurin Augagneur,Yves Clauzel,Jeremy Dubeuf	10.1109/ICCD.2012.6378630
+ECC string: Flexible ECC management for low-cost error protection of L2 caches.	Jeongkyu Hong,Soontae Kim	10.1109/ICCD.2012.6378699
+Design methodology for sample preparation on digital microfluidic biochips.	Yi-Ling Hsieh,Tsung-Yi Ho,Krishnendu Chakrabarty	10.1109/ICCD.2012.6378639
+Modeling economics of LSI design and manufacturing for test design selection.	Hideyuki Ichihara,Noboru Shimizu,Tsuyoshi Iwagaki,Tomoo Inoue	10.1109/ICCD.2012.6378701
+Fast development of hardware-based run-time monitors through architecture framework and high-level synthesis.	Mohamed Ismail,G. Edward Suh	10.1109/ICCD.2012.6378669
+Enhancing 3T DRAMs for SRAM replacement under 10nm tri-gate SOI FinFETs.	Zoran Jaksic,Ramon Canal	10.1109/ICCD.2012.6378657
+Exposing vulnerabilities of untrusted computing platforms.	Yier Jin,Michail Maniatakos,Yiorgos Makris	10.1109/ICCD.2012.6378629
+HPRA: A pro-active Hotspot-Preventive high-performance routing algorithm for Networks-on-Chips.	Elena Kakoulli,Vassos Soteriou,Theocharis Theocharides	10.1109/ICCD.2012.6378648
+An efficient reliability simulation flow for evaluating the hot carrier injection effect in CMOS VLSI circuits.	Mehdi Kamal,Qing Xie 0001,Massoud Pedram,Ali Afzali-Kusha,Saeed Safari	10.1109/ICCD.2012.6378663
+Timing-test scheduling for constraint-graph based post-silicon skew tuning.	Mineo Kaneko	10.1109/ICCD.2012.6378679
+FlexRAM: Toward an advanced Intelligent Memory system.	Yi Kang,Wei Huang,Seung-Moon Yoo,Diana Keen,Zhenzhou Ge,Vinh Vi Lam,Pratap Pattnaik,Josep Torrellas	10.1109/ICCD.2012.6378608
+Engineering crossbar based emerging memory technologies.	Sachhidh Kannan,Jeyavijayan Rajendran,Ramesh Karri,Ozgur Sinanoglu	10.1109/ICCD.2012.6378682
+Architectural impact of secure socket layer on Internet servers: A retrospect.	Krishna Kant 0001,Ravishankar K. Iyer,Prasant Mohapatra	10.1109/ICCD.2012.6378611
+Architectural impact of secure socket layer on Internet servers.	Krishna Kant 0001,Ravishankar K. Iyer,Prasant Mohapatra	10.1109/ICCD.2012.6378612
+A high-performance, low-overhead microarchitecture for secure program execution.	Arun K. Kanuparthi,Ramesh Karri,Gaston Ormazabal,Sateesh Addepalli	10.1109/ICCD.2012.6378624
+Providing cost-effective on-chip network bandwidth in GPGPUs.	Hanjoon Kim,John Kim,Woong Seo,Yeon-Gon Cho,Soojung Ryu	10.1109/ICCD.2012.6378671
+Mitigating NBTI in the physical register file through stress prediction.	Saurabh Kothawade,Dean Michael Ancajas,Koushik Chakraborty,Sanghamitra Roy	10.1109/ICCD.2012.6378662
+Locating faults in application-dependent interconnects of SRAM based FPGAs.	T. Nandha Kumar,Haider A. F. Almurib,Fabrizio Lombardi	10.1109/ICCD.2012.6378678
+An efficient arithmetic Sum-of-Product (SOP) based multiplication approach for FIR filters and DFT.	Rajeev Kumar,Ayan Mandal,Sunil P. Khatri	10.1109/ICCD.2012.6378640
+Energy modelling of embedded multimedia streaming applications with GStreamer on heterogeneous MPSoC.	Mickael Lanoe,Eric Senn	10.1109/ICCD.2012.6378686
+Dynamic warp resizing: Analysis and benefits in high-performance SIMT.	Ahmad Lashgar,Amirali Baniasadi,Ahmad Khonsari	10.1109/ICCD.2012.6378694
+Protecting pipelined asynchronous communication channels against single event upsets.	Jakob Lechner,Martin Lampacher	10.1109/ICCD.2012.6378683
+System level modeling of real-time embedded software.	Richard Lee,Samar Abdi,Doug Regehr,Frederic Risacher	10.1109/ICCD.2012.6378691
+Design and evaluation of a four-port data cache for high instruction level parallelism reconfigurable processors.	Kiyeon Lee,Moo-Kyoung Chung,Soojung Ryu,Yeon-Gon Cho,Sangyeun Cho	10.1109/ICCD.2012.6378693
+A stochastic reconfigurable architecture for fault-tolerant computation with sequential logic.	Peng Li 0028,Weikang Qian,David J. Lilja	10.1109/ICCD.2012.6378656
+Improving inclusive cache performance with two-level eviction priority.	Lingda Li,Dong Tong 0001,Zichao Xie,Junlin Lu,Xu Cheng 0001	10.1109/ICCD.2012.6378668
+SECRET: Selective error correction for refresh energy reduction in DRAMs.	Chung-Hsiang Lin,De-Yu Shen,Yi-Jung Chen,Chia-Lin Yang,Cheng-Yuan Michael Wang	10.1109/ICCD.2012.6378619
+Exploiting multi-level scratchpad memories for time-predictable multicore computing.	Yu Liu 0037,Wei Zhang 0002	10.1109/ICCD.2012.6378618
+A PRET microarchitecture implementation with repeatable timing and competitive performance.	Isaac Liu,Jan Reineke 0001,David Broman,Michael Zimmer 0001,Edward A. Lee	10.1109/ICCD.2012.6378622
+Understanding variance propagation in stochastic computing systems.	Chengguang Ma,Shun&apos;an Zhong,Hua Dang	10.1109/ICCD.2012.6378643
+Architectural simulations of a fast, source-synchronous ring-based Network-on-Chip design.	Ayan Mandal,Sunil P. Khatri,Rabi N. Mahapatra	10.1109/ICCD.2012.6378684
+Ring oscillator physical unclonable function with multi level supply voltages.	Shohreh Sharif Mansouri,Elena Dubrova	10.1109/ICCD.2012.6378703
+RFiop: RF-memory path to address on-package I/O pad and memory controller scalability.	Mario Donato Marino	10.1109/ICCD.2012.6378638
+The performance of hypermesh NoCs in FPGAs.	M. Binesh Marvasti,Ted H. Szymanski	10.1109/ICCD.2012.6378689
+A polynomial time flow for implementing free-choice Petri-nets.	Pavlos M. Mattheakis,Christos P. Sotiriou,Peter A. Beerel	10.1109/ICCD.2012.6378645
+A case for small row buffers in non-volatile main memories.	Justin Meza,Jing Li 0073,Onur Mutlu	10.1109/ICCD.2012.6378685
+Design and evaluation of a delay-based FPGA Physically Unclonable Function.	Aaron Mills,Sudhanshu Vyas,Michael Patterson,Christopher Sabotta,Phillip H. Jones,Joseph Zambreno	10.1109/ICCD.2012.6378632
+Thermal characterization of cloud workloads on a power-efficient server-on-chip.	Dragomir Milojevic,Sachin Idgunji,Djordje Jevdjic,Emre Özer,Pejman Lotfi-Kamran,Andreas Panteli,Andreas Prodromou,Chrysostomos Nicopoulos,Damien Hardy,Babak Falsafi,Yiannakis Sazeides	10.1109/ICCD.2012.6378637
+3D-NoC: Reconfigurable 3D photonic on-chip interconnect for multicores.	Randy Morris,Avinash Karanth Kodi,Ahmed Louri	10.1109/ICCD.2012.6378672
+Adaptive memory architecture for real-time image warping.	Andy Motten,Luc Claesen,Yun Pan	10.1109/ICCD.2012.6378680
+A flexible structure of standard cell and its optimization method for near-threshold voltage operation.	Shinichi Nishizawa,Tohru Ishihara,Hidetoshi Onodera	10.1109/ICCD.2012.6378646
+Automatic assertion extraction in gate-level simulation using GPGPUs.	Shohei Ono,Takeshi Matsumoto,Masahiro Fujita	10.1109/ICCD.2012.6378704
+Aurora: A thermally resilient photonic network-on-chip architecture.	Amer Qouneh,Zhongqi Li,Madhura Joshi,Wangyuan Zhang,Xin Fu,Tao Li 0006	10.1109/ICCD.2012.6378667
+Adaptable intrusion detection using partial runtime reconfiguration.	Mehryar Rahmatian,Hessam Kooti,Ian G. Harris,Elaheh Bozorgzadeh	10.1109/ICCD.2012.6378633
+Stealth assessment of hardware Trojans in a microcontroller.	Trey Reece,Daniel B. Limbrick,Xiaowen Wang,Bradley T. Kiddie,William H. Robinson	10.1109/ICCD.2012.6378631
+Interface design for synthesized structural hybrid microarchitectural simulators.	Zhuo Ruan,David A. Penry	10.1109/ICCD.2012.6378650
+Cloud computing: Virtualization and resiliency for data center computing.	Valentina Salapura	10.1109/ICCD.2012.6378606
+Retrospective on &quot;Power-Sensitive Multithreaded Architecture&quot;.	John S. Seng,Dean M. Tullsen,George Z. N. Cai	10.1109/ICCD.2012.6378609
+Power-sensitive multithreaded architecture.	John S. Seng,Dean M. Tullsen,George Z. N. Cai	10.1109/ICCD.2012.6378610
+Exploiting microarchitectural redundancy for defect tolerance.	Premkishore Shivakumar,Stephen W. Keckler,Charles R. Moore,Doug Burger	10.1109/ICCD.2012.6378613
+Integration of correct-by-construction BIP models into the MetroII design space exploration flow.	Alena Simalatsar,Liangpeng Guo,Marius Bozga,Roberto Passerone	10.1109/ICCD.2012.6378688
+Multi-voltage domain clock mesh design.	Can Sitik,Baris Taskin	10.1109/ICCD.2012.6378641
+Embedded way prediction for last-level caches.	Faissal M. Sleiman,Ronald G. Dreslinski,Thomas F. Wenisch	10.1109/ICCD.2012.6378636
+Non-enumerative generation of statistical path delays for ATPG.	Ahish Mysore Somashekar,Spyros Tragoudas,Sreenivas Gangadhar,Rathish Jayabharathi	10.1109/ICCD.2012.6378700
+Oblivious routing design for mesh networks to achieve a new worst-case throughput bound.	Guang Sun,Chia-Wei Chang,Bill Lin 0001,Lieguang Zeng	10.1109/ICCD.2012.6378674
+Timing aware partitioning for multi-FPGA based logic simulation using top-down selective hierarchy flattening.	Subramanian Poothamkurissi Swaminathan,Pey-Chang Kent Lin,Sunil P. Khatri	10.1109/ICCD.2012.6378634
+Parameterized free space redistribution for engineering change in placement of integrated circuits.	Taraneh Taghavi,Shyam Ramji,Frank Musante,Suhasini Rege	10.1109/ICCD.2012.6378670
+A novel profiled side-channel attack in presence of high Algorithmic Noise.	Mostafa M. I. Taha,Patrick Schaumont	10.1109/ICCD.2012.6378675
+Clock mesh synthesis method using the Earth Mover&apos;s Distance under transformations.	Ying Teng,Baris Taskin	10.1109/ICCD.2012.6378627
+FlexRAM: Toward an advanced Intelligent Memory system: A retrospective paper.	Josep Torrellas	10.1109/ICCD.2012.6378607
+Analyzing the optimal ratio of SRAM banks in hybrid caches.	Alejandro Valero,Julio Sahuquillo,Salvador Petit,Pedro López 0001,José Duato	10.1109/ICCD.2012.6378655
+Designing pipelined delay lines with dynamically-adaptive granularity for low-energy applications.	Christos Vezyrtzis,Yannis P. Tsividis,Steven M. Nowick	10.1109/ICCD.2012.6378660
+A 3D stacked high performance scalable architecture for 3D Fourier Transform.	George Razvan Voicu,Marius Enachescu,Sorin Dan Cotofana	10.1109/ICCD.2012.6378692
+DuSCA: A multi-channeling strategy for doubling communication capacity in wireless NoC.	Yi Wang 0007,Dan Zhao 0001,Jian Li 0059	10.1109/ICCD.2012.6378620
+Hierarchical modeling of Phase Change memory for reliable design.	Zihan Xu,Ketul Sutaria,Chengen Yang,Chaitali Chakrabarti,Yu Cao 0001	10.1109/ICCD.2012.6378626
+Post-layout OPE-predicted redundant wire insertion for clock skew minimization.	Jin-Tai Yan,Zhi-Wei Chen	10.1109/ICCD.2012.6378695
+WaveSync: A low-latency source synchronous bypass network-on-chip architecture.	Yoon Seok Yang,Reeshav Kumar,Gwan Choi,Paul Gratz	10.1109/ICCD.2012.6378647
+Row buffer locality aware caching policies for hybrid memories.	HanBin Yoon,Justin Meza,Rachata Ausavarungnirun,Rachael Harding,Onur Mutlu	10.1109/ICCD.2012.6378661
+Reinforcement learning based dynamic power management with a hybrid power supply.	Siyu Yue,Di Zhu 0002,Yanzhi Wang,Massoud Pedram	10.1109/ICCD.2012.6378621
+Fast error aware model for arithmetic and logic circuits.	Samy Zaynoun,Muhammed S. Khairy,Ahmed M. Eltawil,Fadi J. Kurdahi,Amin Khajeh	10.1109/ICCD.2012.6378659
+SOLE: Speculative one-cycle load execution with scalability, high-performance and energy-efficiency.	Zhen-Hao Zhang,Dong Tong 0001,Xiaoyin Wang,Jiangfang Yi,Keyi Wang	10.1109/ICCD.2012.6378654
+Memory module-level testing and error behaviors for phase change memory.	Zhe Zhang,Weijun Xiao,Nohhyun Park,David J. Lilja	10.1109/ICCD.2012.6378664
+Track assignment considering crosstalk-induced performance degradation.	Qiong Zhao,Jiang Hu	10.1109/ICCD.2012.6378696
+30th International IEEE Conference on Computer Design, ICCD 2012, Montreal, QC, Canada, September 30 - Oct. 3, 2012		

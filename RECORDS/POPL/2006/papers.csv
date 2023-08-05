@@ -1,0 +1,37 @@
+A fixpoint calculus for local and global program flows.	Rajeev Alur,Swarat Chaudhuri,P. Madhusudan	10.1145/1111037.1111051
+A logic for information flow in object-oriented programs.	Torben Amtoft,Sruthi Bandhakavi,Anindya Banerjee 0001	10.1145/1111037.1111046
+Engineering with logic: HOL specification and symbolic-evaluation testing for TCP implementations.	Steve Bishop,Matthew Fairbairn,Michael Norrish,Peter Sewell,Michael Smith 0008,Keith Wansbrough	10.1145/1111037.1111043
+Compiler-directed channel allocation for saving power in on-chip networks.	Guangyu Chen,Feihui Li,Mahmut T. Kandemir	10.1145/1111037.1111055
+N-synchronous Kahn networks: a relaxed model of synchrony for real-time systems.	Albert Cohen 0001,Marc Duranton,Christine Eisenbeis,Claire Pagetti,Florence Plateau,Marc Pouzet	10.1145/1111037.1111054
+Decidability and proof systems for language-based noninterference relations.	Mads Dam	10.1145/1111037.1111044
+Fast and loose reasoning is morally correct.	Nils Anders Danielsson,John Hughes 0001,Patrik Jansson,Jeremy Gibbons	10.1145/1111037.1111056
+Adventures in time and space.	Norman Danner,James S. Royer	10.1145/1111037.1111053
+Harmless advice.	Daniel S. Dantas,David Walker	10.1145/1111037.1111071
+A virtual class calculus.	Erik Ernst,Klaus Ostermann,William R. Cook	10.1145/1111037.1111062
+The next 700 data description languages.	Kathleen Fisher,Yitzhak Mandelbaum,David Walker	10.1145/1111037.1111039
+Hybrid type checking.	Cormac Flanagan	10.1145/1111037.1111059
+Simplifying reductions.	Gautam Gupta,Sanjay V. Rajopadhye	10.1145/1111037.1111041
+On flow-sensitive security types.	Sebastian Hunt,David Sands 0001	10.1145/1111037.1111045
+A polymorphic modal type system for lisp-like multi-staged languages.	Ik-Soon Kim,Kwangkeun Yi,Cristiano Calcagno	10.1145/1111037.1111060
+Small bisimulations for reasoning about higher-order imperative programs.	Vasileios Koutavas,Mitchell Wand	10.1145/1111037.1111050
+Verifying properties of well-founded linked lists.	Shuvendu K. Lahiri,Shaz Qadeer	10.1145/1111037.1111048
+Formal certification of a compiler back-end or: programming a compiler with a proof assistant.	Xavier Leroy	10.1145/1111037.1111042
+Interruptible iterators.	Jed Liu,Aaron Kimball,Andrew C. Myers	10.1145/1111037.1111063
+Protecting representation with effect encapsulation.	Yi Lu 0003,John Potter	10.1145/1111037.1111069
+Autolocker: synchronization inference for atomic sections.	Bill McCloskey,Feng Zhou,David Gay,Eric A. Brewer	10.1145/1111037.1111068
+Why dependent types matter.	James McKinna	10.1145/1111037.1111038
+A verifiable SSA program representation for aggressive compiler optimization.	Vijay Menon 0002,Neal Glew,Brian R. Murphy,Andrew McCreight,Tatiana Shpeisman,Ali-Reza Adl-Tabatabai,Leaf Petersen	10.1145/1111037.1111072
+Modular set-based analysis from contracts.	Philippe Meunier,Robert Bruce Findler,Matthias Felleisen	10.1145/1111037.1111057
+Environment analysis via Delta CFA.	Matthew Might,Olin Shivers	10.1145/1111037.1111049
+Certified assembly programming with embedded code pointers.	Zhaozhong Ni,Zhong Shao	10.1145/1111037.1111066
+The Scala experiment: can we provide better language support for component systems?	Martin Odersky	10.1145/1111037.1111052
+Staged allocation: a compositional technique for specifying and implementing procedure calling conventions.	Reuben Olinsky,Christian Lindig,Norman Ramsey	10.1145/1111037.1111073
+Stratified type inference for generalized algebraic data types.	François Pottier,Yann Régis-Gianas	10.1145/1111037.1111058
+Specifying C++ concepts.	Gabriel Dos Reis,Bjarne Stroustrup	10.1145/1111037.1111064
+The essence of command injection attacks in web applications.	Zhendong Su 0001,Gary Wassermann	10.1145/1111037.1111070
+The next mainstream programming language: a game developer&apos;s perspective.	Tim Sweeney	10.1145/1111037.1111061
+Frame rules from answer types for code pointers.	Hayo Thielecke	10.1145/1111037.1111065
+Associating synchronization constraints with data in an object-oriented language.	Mandana Vaziri,Frank Tip,Julian Dolby	10.1145/1111037.1111067
+Polymorphic regular tree types and patterns.	Jerome Vouillon	10.1145/1111037.1111047
+A hierarchical model of data locality.	Chengliang Zhang,Chen Ding 0001,Mitsunori Ogihara,Yutao Zhong 0001,Youfeng Wu	10.1145/1111037.1111040
+Proceedings of the 33rd ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, POPL 2006, Charleston, South Carolina, USA, January 11-13, 2006	J. Gregory Morrisett,Simon L. Peyton Jones	10.1145/1111037

@@ -1,0 +1,49 @@
+On space-stretch trade-offs: lower bounds.	Ittai Abraham,Cyril Gavoille,Dahlia Malkhi	10.1145/1148109.1148143
+On space-stretch trade-offs: upper bounds.	Ittai Abraham,Cyril Gavoille,Dahlia Malkhi	10.1145/1148109.1148144
+Tell me who I am: an interactive recommendation system.	Noga Alon,Baruch Awerbuch,Yossi Azar,Boaz Patt-Shamir	10.1145/1148109.1148111
+Packet-mode emulation of output-queued switches.	Hagit Attiya,David Hay,Isaac Keslassy	10.1145/1148109.1148134
+Strip packing with precedence constraints and strip packing with release times.	John Augustine,Sudarshan Banerjee,Sandy Irani	10.1145/1148109.1148139
+Towards a scalable and robust DHT.	Baruch Awerbuch,Christian Scheideler	10.1145/1148109.1148163
+Conflict-free coloring for intervals: from offline to online.	Amotz Bar-Noy,Panagiotis Cheilaris,Shakhar Smorodinsky	10.1145/1148109.1148133
+Deterministic load balancing and dictionaries in the parallel disk model.	Mette Berger,Esben Rune Hansen,Rasmus Pagh,Mihai Patrascu,Milan Ruzic,Peter Tiedemann	10.1145/1148109.1148160
+Compact routing with additive stretch using distance labelings.	Arthur Brady,Lenore Cowen	10.1145/1148109.1148147
+An envolutionary path towards virtual shared memory with random access.	Jonathan Leighton Brown,Sue Goudy,Mike Heroux,Shan Shan Huang,Zhaofang Wen	10.1145/1148109.1148130
+Fair online load balancing.	Niv Buchbinder,Joseph Naor	10.1145/1148109.1148159
+Power-aware scheduling for makespan and flow.	David P. Bunde	10.1145/1148109.1148140
+Playing push vs pull: models and algorithms for disseminating dynamic data in networks.	R. C. Chakinala,Abishek Kumarasubramanian,Kofi A. Laing,R. Manokaran,C. Pandu Rangan,Rajmohan Rajaraman	10.1145/1148109.1148153
+Network design with weighted players.	Ho-Lin Chen,Tim Roughgarden	10.1145/1148109.1148114
+The cache-oblivious gaussian elimination paradigm: theoretical framework and experimental evaluation.	Rezaul Alam Chowdhury,Vijaya Ramachandran	10.1145/1148109.1148150
+The FG programming environment: good and good for you.	Elena Riccio Davidson	10.1145/1148109.1148128
+Towards small world emergence.	Philippe Duchon,Nicolas Hanusse,Emmanuelle Lebhar,Nicolas Schabanel	10.1145/1148109.1148145
+On the communication complexity of randomized broadcasting in random-like graphs.	Robert Elsässer	10.1145/1148109.1148135
+The cache complexity of multithreaded cache oblivious algorithms.	Matteo Frigo,Volker Strumpen	10.1145/1148109.1148157
+Exponential separation of quantum and classical online space complexity.	François Le Gall	10.1145/1148109.1148119
+A distributed O(1)-approximation algorithm for the uniform facility location problem.	Joachim Gehweiler,Christiane Lammersen,Christian Sohler	10.1145/1148109.1148152
+Fault-tolerant semifast implementations of atomic read/write registers.	Chryssis Georgiou,Nicolas C. Nicolaou,Alexander A. Shvartsman	10.1145/1148109.1148158
+On the price of heterogeneity in parallel systems.	Brighten Godfrey,Richard M. Karp	10.1145/1148109.1148122
+Efficient parallel algorithms for dead sensor diagnosis and multiple access channels.	Michael T. Goodrich,Daniel S. Hirschberg	10.1145/1148109.1148132
+Semi-oblivious routing.	Mohammad Taghi Hajiaghayi,Robert D. Kleinberg,Tom Leighton	10.1145/1148109.1148148
+Translating between itanium and sparc memory consistency models.	Lisa Higham,LillAnne Jackson	10.1145/1148109.1148138
+An empirical study to compare two parallel programming models.	Lorin Hochstein,Victor R. Basili	10.1145/1148109.1148127
+The price of optimum in Stackelberg games on arbitrary single commodity networks and latency functions.	Alexis C. Kaporis,Paul G. Spirakis	10.1145/1148109.1148113
+A general approach for partitioning N-dimensional parallel nested loops with conditionals.	Arun Kejariwal,Alexandru Nicolau,Hideki Saito 0001,Xinmin Tian,Milind Girkar,Utpal Banerjee,Constantine D. Polychronopoulos	10.1145/1148109.1148117
+Minimizing the stretch when scheduling flows of biological requests.	Arnaud Legrand,Alan Su 0001,Frédéric Vivien	10.1145/1148109.1148124
+Parallel depth first vs. work stealing schedulers on CMP architectures.	Vasileios Liaskovitis,Shimin Chen,Phillip B. Gibbons,Anastassia Ailamaki,Guy E. Blelloch,Babak Falsafi,Limor Fix,Nikos Hardavellas,Michael Kozuch,Todd C. Mowry,Chris Wilkerson	10.1145/1148109.1148167
+A performance analysis of local synchronization.	Julia Lipman,Quentin F. Stout	10.1145/1148109.1148154
+Smooth scheduling under variable rates or the analog-digital confinement game.	Ami Litman,Shiri Moran-Schein	10.1145/1148109.1148121
+Publish and perish: definition and analysis of an n-person publication impact game.	Zvi Lotker,Boaz Patt-Shamir,Mark R. Tuttle	10.1145/1148109.1148112
+Why Intel is designing multi-core processors.	Geoff Lowney	10.1145/1148109.1148126
+Distributed random digraph transformations for peer-to-peer networks.	Peter Mahlmann,Christian Schindelhauer	10.1145/1148109.1148162
+Towards automatic parallelization of tree reductions in dynamic programming.	Kiminori Matsuzaki,Zhenjiang Hu,Masato Takeichi	10.1145/1148109.1148116
+An implementation report for parallel triangular decompositions.	Marc Moreno Maza,Yuzhen Xie	10.1145/1148109.1148149
+Modeling instruction placement on a spatial architecture.	Martha Mercaldi,Steven Swanson,Andrew Petersen 0001,Andrew Putnam,Andrew Schwerin,Mark Oskin,Susan J. Eggers	10.1145/1148109.1148137
+Chip-level integration: the new frontier for microprocessor architecture.	Jaime H. Moreno	10.1145/1148109.1148165
+Energy implications of multiprocessor synchronization.	Tali Moreshet,R. Iris Bahar,Maurice Herlihy	10.1145/1148109.1148166
+Reconfigurable resource scheduling.	C. Greg Plaxton,Yu Sun 0012,Mitul Tiwari,Harrick M. Vin	10.1145/1148109.1148123
+Introducing the hydra parallel programming system.	Franklin E. Powers Jr.,Gita Alaghband	10.1145/1148109.1148129
+Symmetric network computation.	David Pritchard,Santosh S. Vempala	10.1145/1148109.1148155
+Astronomical real-time streaming signal processing on a Blue Gene/L supercomputer.	John W. Romein,P. Chris Broekema,Ellen van Meijeren,Kjeld van der Schaaf,Walther H. Zwart	10.1145/1148109.1148118
+Promoting cooperation in selfish grids.	Krzysztof Rzadca,Denis Trystram	10.1145/1148109.1148169
+Tight bounds for the Min-Max boundary decomposition cost of weighted graphs.	David Steurer	10.1145/1148109.1148142
+Minimizing peak energy on mesh-connected systems.	Quentin F. Stout	10.1145/1148109.1148168
+SPAA 2006: Proceedings of the 18th Annual ACM Symposium on Parallelism in Algorithms and Architectures, Cambridge, Massachusetts, USA, July 30 - August 2, 2006	Phillip B. Gibbons,Uzi Vishkin	10.1145/1148109

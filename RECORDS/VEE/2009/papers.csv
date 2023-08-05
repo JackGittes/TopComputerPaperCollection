@@ -1,0 +1,15 @@
+Tracing for web 3.0: trace compilation for the next generation web applications.	Mason Chang,Edwin W. Smith,Rick Reitmaier,Michael Bebenita,Andreas Gal,Christian Wimmer,Brendan Eich,Michael Franz	10.1145/1508293.1508304
+ClientVisor: leverage COTS OS functionalities for power management in virtualized desktop environment.	Huacai Chen,Hai Jin 0001,Zhiyuan Shao,Ke Yu,Kun Tian	10.1145/1508293.1508312
+Demystifying magic: high-level low-level programming.	Daniel Frampton,Stephen M. Blackburn,Perry Cheng,Robin Garner,David Grove,J. Eliot B. Moss,Sergey I. Salishev	10.1145/1508293.1508305
+Entropy: a consolidation manager for clusters.	Fabien Hermenier,Xavier Lorca,Jean-Marc Menaud,Gilles Muller,Julia Lawall	10.1145/1508293.1508300
+Post-copy based live virtual machine migration using adaptive pre-paging and dynamic self-ballooning.	Michael R. Hines,Kartik Gopalan	10.1145/1508293.1508301
+Task-aware virtual machine scheduling for I/O performance.	Hwanju Kim,Hyeontaek Lim,Jinkyu Jeong,Heeseung Jo,Joonwon Lee	10.1145/1508293.1508308
+A lock-free, concurrent, and incremental stack scanning for garbage collectors.	Gabriel Kliot,Erez Petrank,Bjarne Steensgaard	10.1145/1508293.1508296
+Influence of program inputs on the selection of garbage collectors.	Feng Mao,Eddy Z. Zhang,Xipeng Shen	10.1145/1508293.1508307
+Architectural support for shadow memory in multiprocessors.	Vijay Nagarajan,Rajiv Gupta 0001	10.1145/1508293.1508295
+Achieving 10 Gb/s using safe and transparent network interface virtualization.	Kaushik Kumar Ram,Jose Renato Santos,Yoshio Turner,Alan L. Cox,Scott Rixner	10.1145/1508293.1508303
+BitVisor: a thin hypervisor for enforcing i/o device security.	Takahiro Shinagawa,Hideki Eiraku,Kouichi Tanimoto,Kazumasa Omote,Shoichi Hasegawa,Takashi Horie,Manabu Hirano,Kenichi Kourai,Yoshihiro Oyama,Eiji Kawai,Kenji Kono,Shigeru Chiba,Yasushi Shinjo,Kazuhiko Kato	10.1145/1508293.1508311
+The hybrid scheduling framework for virtual machine systems.	Chuliang Weng,Zhigang Wang,Minglu Li 0001,Xinda Lu	10.1145/1508293.1508309
+Memory buddies: exploiting page sharing for smart colocation in virtualized data centers.	Timothy Wood 0001,Gabriel Tarasuk-Levin,Prashant J. Shenoy,Peter Desnoyers,Emmanuel Cecchet,Mark D. Corner	10.1145/1508293.1508299
+Dynamic memory balancing for virtual machines.	Weiming Zhao,Zhenlin Wang	10.1145/1508293.1508297
+Proceedings of the 5th International Conference on Virtual Execution Environments, VEE 2009, Washington, DC, USA, March 11-13, 2009	Antony L. Hosking,David F. Bacon,Orran Krieger	10.1145/1508293

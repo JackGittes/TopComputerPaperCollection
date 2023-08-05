@@ -1,0 +1,53 @@
+FPGA-based design of an evolutionary controller for collision-free robot navigation.	M. A. Hannan Bin Azhar,Keith R. Dimond	10.1145/611817.611852
+FPGA implementation of a fast Hadamard transformer for WCDMA.	Sanat Kamal Bahl,Jim Plusquellic	10.1145/611817.611853
+Making area-performance tradeoffs at the high level using the AccelFPGA compiler for FPGAs.	Prithviraj Banerjee,Vikram Saxena,Juan Ramon Uribe,Malay Haldar,Anshuman Nayak,Victor Kim,Debabrata Bagchi,Satrajit Pal,Nikhil Tripathi,Robert Anderson	10.1145/611817.611854
+A logic based approach to hardware abstraction.	Khaled Benkrid,Samir Belkacemi,Danny Crookes	10.1145/611817.611856
+Design framework for the implementation of the 2-D orthogonal discrete wavelet transform on FPGA.	Abdsamad Benkrid,Danny Crookes,Khaled Benkrid	10.1145/611817.611855
+A single-FPGA implementation of image connected component labelling.	Khaled Benkrid,S. Sukhsawas,Danny Crookes,Samir Belkacemi	10.1145/611817.611857
+An estimation and exploration methodology from system-level specifications: application to FPGAs.	Sébastien Bilavarn,Guy Gogniat,Jean Luc Philippe	10.1145/611817.611858
+A granularity-based classification model for systems-on-a-chip.	Stephan Bingemer,Peter Zipf,Manfred Glesner	10.1145/611817.611859
+Design of a fingerprint system using a hardware/software environment.	Vanderlei Bonato,Rolf Fredi Molz,João Carlos Furtado,Marcos Flôres Ferrão,Fernando Gehm Moraes	10.1145/611817.611860
+Customized regular channel design in FPGAs.	Elaheh Bozorgzadeh,Majid Sarrafzadeh	10.1145/611817.611861
+Implementation of digital fixed-point approximations to continuous-time IIR filters.	Joan Carletta,Robert J. Veillette,Frederick W. Krach,Zhengwei Fang	10.1145/611817.611863
+Parallel placement for field-programmable gate arrays.	Pak K. Chan,Martine D. F. Schlag	10.1145/611817.611825
+Implementation of BEE: a real-time large-scale hardware emulation engine.	Chen Chang,Kimmo Kuusilinna,Brian C. Richards,Robert W. Brodersen	10.1145/611817.611832
+Energy-efficient signal processing using FPGAs.	Seonil Choi,Ronald Scrofano,Viktor K. Prasanna,Ju-wook Jang	10.1145/611817.611850
+Track placement: orchestrating routing structures to maximize routability.	Katherine Compton,Scott Hauck	10.1145/611817.611864
+Recursive circuit clustering for minimum delay and area.	Mehrdad Eslami Dehkordi,Stephen Dean Brown	10.1145/611817.611865
+Using FPGAs for data and reorganization engines: preliminary results for spatial pointer-based data structures.	Pedro C. Diniz,Joonseok Park	10.1145/611817.611866
+On hiding latency in reconfigurable systems: the case of merge-sort for an FPGA-based system.	Hossam A. ElGindy,George Ferizis	10.1145/611817.611867
+Testing for bit error rate in FPGA communication interfaces.	Yongquan Fan,Zeljko Zilic	10.1145/611817.611868
+On computation and resource management in an FPGA-based computation environment.	Soheil Ghiasi,Karlene Nguyen,Elaheh Bozorgzadeh,Majid Sarrafzadeh	10.1145/611817.611869
+A SC-based novel configurable analog cell.	Binlin Guo,Jiarong Tong	10.1145/611817.611870
+A scalable 2 V, 20 GHz FPGA using SiGe HBT BiCMOS technology.	Jong-Ru Guo,Chao You,Kuan Zhou,Bryan S. Goda,Russell P. Kraft,John F. McDonald	10.1145/611817.611840
+FPGAs in critical hardware/software systems.	Adrian J. Hilton,Gemma Townson,Jon G. Hall	10.1145/611817.611871
+Power-aware architectures and circuits for FPGA-based signal processing.	Frank Honoré,Benton H. Calhoun,Anantha P. Chandrakasan	10.1145/611817.611872
+Stochastic, spatial routing for hypergraphs, trees, and meshes.	Randy Huang,John Wawrzynek,André DeHon	10.1145/611817.611830
+A fully pipelined memoryless 17.8 Gbps AES-128 encryptor.	Kimmo U. Järvinen,Matti Tommiska,Jorma Skyttä	10.1145/611817.611848
+An automated and power-aware framework for utilization of IP cores in hardware generated from C descriptions targeting FPGAs.	Alex K. Jones,Prithviraj Banerjee	10.1145/611817.611873
+Architectures and algorithms for synthesizable embedded programmable logic cores.	Noha Kafafi,Kimberly A. Bozman,Steven J. E. Wilton	10.1145/611817.611820
+Reconfigurable randomized K-way graph partitioning.	Fatih Kocan	10.1145/611817.611874
+Synthetic circuit generation using clustering and iteration.	Paul D. Kundarewich,Jonathan Rose	10.1145/611817.611875
+An FPGA architecture with built-in error correction capability.	Parag K. Lala,B. Kiran Kumar	10.1145/611817.611876
+Wire type assignment for FPGA routing.	Seokjin Lee,Hua Xiang 0001,D. F. Wong 0001,Richard Y. Sun	10.1145/611817.611828
+An FPGA architecture with enhanced datapath functionality.	Katarzyna Leijten-Nowak,Jef L. van Meerbergen	10.1145/611817.611846
+The StratixTM routing and logic architecture.	David M. Lewis,Vaughn Betz,David Jefferson,Andy Lee,Christopher Lane,Paul Leventis,Sandy Marquardt,Cameron McClintock,Bruce Pedersen,Giles Powell,Srinivas Reddy,Chris Wysocki,Richard Cliff,Jonathan Rose	10.1145/611817.611821
+Architecture evaluation for power-efficient FPGAs.	Fei Li 0003,Deming Chen,Lei He 0001,Jason Cong	10.1145/611817.611844
+Reducing pin and area overhead in fault-tolerant FPGA-based designs.	Fernanda Lima 0001,Luigi Carro,Ricardo Augusto da Luz Reis	10.1145/611817.611834
+A pipelined configurable gate array for embedded processors.	Andrea Lodi 0002,Mario Toma,Fabio Campi	10.1145/611817.611822
+I/O placement for FPGAs with multiple I/O standards.	Wai-Kei Mak	10.1145/611817.611826
+Automatic transistor and physical design of FPGA tiles from an architectural specification.	Ketan Padalia,Ryan Fung,Mark Bourgeault,Aaron Egier,Jonathan Rose	10.1145/611817.611842
+Lattice adaptive filter implementation for FPGA.	Zdenek Pohl,Rudolf Matousek,Jiri Kadlec,Milan Tichý,Miroslav Lícko	10.1145/611817.611877
+Wireless sensor networks: a power-scalable motion estimation IP for hybrid video coding.	Federico Quaglio,Maurizio Martina,Fabrizio Vacca,Guido Masera,Andrea Molino,Gianluca Piccinini,Maurizio Zamboni	10.1145/611817.611878
+High-level modeling and FPGA prototyping of microprocessors.	Joydeep Ray,James C. Hoe	10.1145/611817.611833
+Design strategies and modified descriptions to optimize cipher FPGA implementations: fast and compact results for DES and triple-DES.	Gaël Rouvroy,François-Xavier Standaert,Jean-Jacques Quisquater,Jean-Didier Legat	10.1145/611817.611879
+Design of FPGA interconnect for multilevel metalization.	Raphael Rubin,André DeHon	10.1145/611817.611841
+PipeRoute: a pipelining-aware router for FPGAs.	Akshay Sharma,Carl Ebeling,Scott Hauck	10.1145/611817.611829
+A methodology to implement block ciphers in reconfigurable hardware and its application to fast and compact AES RIJNDAEL.	François-Xavier Standaert,Gaël Rouvroy,Jean-Jacques Quisquater,Jean-Didier Legat	10.1145/611817.611849
+A physical retiming algorithm for field programmable gate arrays.	Peter Suaris,Dongsheng Wang,Pei-Ning Guo,Nan-Chi Chou	10.1145/611817.611880
+A high resolution diagnosis technique for open and short defects in FPGA interconnects.	Mehdi Baradaran Tahoori	10.1145/611817.611882
+Application-dependent testing of FPGAs for bridging faults.	Mehdi Baradaran Tahoori	10.1145/611817.611881
+Post-placement C-slow retiming for the xilinx virtex FPGA.	Nicholas Weaver,Yury Markovsky,Yatish Patel,John Wawrzynek	10.1145/611817.611845
+Hardware-assisted simulated annealing with application for fast FPGA placement.	Michael G. Wrighton,André DeHon	10.1145/611817.611824
+A four-bit full adder implemented on fast SiGe FPGAs with novel power control scheme.	Kuan Zhou,Michael Chu,Chao You,Jong-Ru Guo,Channakeshav,John Mayega,John F. McDonald,Russell P. Kraft,Bryan S. Goda	10.1145/611817.611883
+Proceedings of the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2003, Monterey, CA, USA, February 23-25, 2003	Steve Trimberger,Russell Tessier	10.1145/611817

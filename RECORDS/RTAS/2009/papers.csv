@@ -1,0 +1,33 @@
+Modeling and Analysis of Multi-hop Control Networks.	Rajeev Alur,Alessandro D&apos;Innocenzo,Karl Henrik Johansson,George J. Pappas,Gera Weiss	10.1109/RTAS.2009.40
+Static Prediction of Worst-Case Data Cache Performance in the Absence of Base Address Information.	Diego Andrade,Basilio B. Fraguela,Ramon Doallo	10.1109/RTAS.2009.23
+The System-Level Simplex Architecture for Improved Real-Time Embedded System Safety.	Stanley Bak,Deepti K. Chivukula,Olugbemiga Adekunle,Mu Sun,Marco Caccamo,Lui Sha	10.1109/RTAS.2009.20
+Adaptive Failover for Real-Time Middleware with Passive Replication.	Jaiganesh Balasubramanian,Sumant Tambe,Chenyang Lu 0001,Aniruddha S. Gokhale,Christopher D. Gill,Douglas C. Schmidt	10.1109/RTAS.2009.36
+Guaranteed Loop Bound Identification from Program Traces for WCET.	Mark Bartlett,Iain Bate,Dimitar Kazakov	10.1109/RTAS.2009.29
+Notional Processors: An Approach for Multiprocessor Scheduling.	Konstantinos Bletsas,Björn Andersson	10.1109/RTAS.2009.25
+Lightweight Modeling of Complex State Dependencies in Stream Processing Systems.	Anne Bouillard,Linh T. X. Phan,Samarjit Chakraborty	10.1109/RTAS.2009.27
+Proactive Speed Scheduling for Real-Time Tasks under Thermal Constraints.	Jian-Jia Chen,Shengquan Wang,Lothar Thiele	10.1109/RTAS.2009.30
+EMWF for Flexible Automation and Assistive Devices.	Ting-Shuo Chou,Su-Ying Chang,Yung-Feng Lu,Yu-Chung Wang,M. K. Ouyang,Chi-Sheng Shih 0001,Tei-Wei Kuo,Jwu-Sheng Hu,Jane W.-S. Liu	10.1109/RTAS.2009.21
+On Time-Aware Instrumentation of Programs.	Sebastian Fischmeister,Patrick Lam 0001	10.1109/RTAS.2009.26
+Thermal-Aware Global Real-Time Scheduling on Multicore Systems.	Nathan Fisher,Jian-Jia Chen,Shengquan Wang,Lothar Thiele	10.1109/RTAS.2009.34
+Wi-HTest: Compliance Test Suite for Diagnosing Devices in Real-Time WirelessHART Network.	Song Han 0002,Jianping Song,Xiuming Zhu,Aloysius K. Mok,Deji Chen 0001,Mark Nixon,Wally Pratt,Veena Gondhalekar	10.1109/RTAS.2009.18
+Effect of Battery Charge on Energy Consumption.	Harri Heinimaki,Petri Niska,Jussi P. O. Ruutu	10.1109/RTAS.2009.19
+Real-Time Video Surveillance over IEEE 802.11 Mesh Networks.	Arvind Kandhalu,Anthony Rowe 0001,Ragunathan Rajkumar,Chingchun Huang,Chao-Chun Yeh	10.1109/RTAS.2009.38
+QeDB: A Quality-Aware Embedded Real-Time Database.	Woochul Kang,Sang Hyuk Son,John A. Stankovic	10.1109/RTAS.2009.31
+Semi-partitioned Fixed-Priority Scheduling on Multiprocessors.	Shinpei Kato,Nobuyuki Yamasaki	10.1109/RTAS.2009.9
+On Dynamic Reconfiguration of a Large-Scale Battery System.	Hahnsang Kim,Kang G. Shin	10.1109/RTAS.2009.13
+Model Identification for WCET Analysis.	Björn Lisper,Marcelo Santos	10.1109/RTAS.2009.16
+Minimizing WCET for Real-Time Embedded Systems via Static Instruction Cache Locking.	Tiantian Liu 0001,Minming Li,Chun Jason Xue	10.1109/RTAS.2009.11
+CSL: A Language to Specify and Re-specify Mobile Sensor Network Behaviors.	Joshua Love,Jerry Jariyasunant,Eloi Pereira,Marco Zennaro,J. Karl Hedrick,Christoph M. Kirsch,Raja Sengupta 0002	10.1109/RTAS.2009.17
+A Conservative Approximation Method for the Verification of Preemptive Scheduling Using Timed Automata.	Gabor Madl,Nikil D. Dutt,Sherif Abdelwahed	10.1109/RTAS.2009.32
+Dynamic Reconfiguration in Reservation-Based Scheduling: An Optimization Approach.	Augusto Born de Oliveira,Eduardo Camponogara,George Lima 0001	10.1109/RTAS.2009.14
+Efficient Aggregate Computations in Large-Scale Dense WSN.	Nuno Pereira 0001,Ricardo Gomes,Björn Andersson,Eduardo Tovar	10.1109/RTAS.2009.22
+Bounding Worst-Case Response Times of Tasks under PIP.	Harini Ramaprasad,Frank Mueller 0001	10.1109/RTAS.2009.28
+An Evaluation of the Dynamic and Static Multiprocessor Priority Ceiling Protocol and the Multiprocessor Stack Resource Policy in an SMP System.	Jim Ras,Albert M. K. Cheng	10.1109/RTAS.2009.10
+Power-Aware Mapping of Probabilistic Applications onto Heterogeneous MPSoC Platforms.	Andreas Schranzhofer,Jian-Jia Chen,Lothar Thiele	10.1109/RTAS.2009.24
+Power-Aware CPU Utilization Control for Distributed Real-Time Systems.	Xiaorui Wang,Xing Fu,Xue Liu,Zonghua Gu 0001	10.1109/RTAS.2009.12
+Partial Program Admission.	Michael Wilson 0001,Ron Cytron,Jonathan S. Turner	10.1109/RTAS.2009.33
+Energy-Conscious Co-scheduling of Tasks and Packets in Wireless Real-Time Environments.	Jun Yi,Christian Poellabauer,Xiaobo Sharon Hu,Jeff Simmer,Liqiang Zhang 0002	10.1109/RTAS.2009.35
+A Metric for Judicious Relaxation of Timing Constraints in Soft Real-Time Systems.	Yue Yu 0002,Shangping Ren,Xiaobo Sharon Hu	10.1109/RTAS.2009.15
+Optimizing Extensibility in Hard Real-Time Distributed Systems.	Qi Zhu 0002,Yang Yang 0040,Eelco Scholte,Marco Di Natale,Alberto L. Sangiovanni-Vincentelli	10.1109/RTAS.2009.37
+Execution Strategies for PTIDES, a Programming Model for Distributed Embedded Systems.	Jia Zou 0002,Slobodan Matic,Edward A. Lee,Thomas Huining Feng,Patricia Derler	10.1109/RTAS.2009.39
+15th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2009, San Francisco, CA, USA, 13-16 April 2009		

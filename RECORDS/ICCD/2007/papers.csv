@@ -1,0 +1,94 @@
+Digital calibration of RF transceivers for I-Q imbalances and nonlinearity.	Erkan Acar,Sule Ozev	10.1109/ICCD.2007.4601946
+Fault-based alternate test of RF components.	Selim Sermet Akbay,Abhijit Chatterjee	10.1109/ICCD.2007.4601947
+Power efficient register file update approach for embedded processors.	Raid Ayoub,Alex Orailoglu	10.1109/ICCD.2007.4601935
+Improving the reliability of on-chip L2 cache using redundancy.	Koustav Bhattacharya,Soontae Kim,Nagarajan Ranganathan	10.1109/ICCD.2007.4601906
+Combining cluster sampling with single pass methods for efficient sampling regimen design.	Paul D. Bryan,Thomas M. Conte	10.1109/ICCD.2007.4601941
+Register binding guided by the size of variables.	Noureddine Chabini,Wayne H. Wolf	10.1109/ICCD.2007.4601957
+LEMap: Controlling leakage in large chip-multiprocessor caches via profile-guided virtual address translation.	Jugash Chandarlapati,Mainak Chaudhuri	10.1109/ICCD.2007.4601934
+Circuit-level mismatch modelling and yield optimization for CMOS analog circuits.	Mingjing Chen,Alex Orailoglu	10.1109/ICCD.2007.4601948
+Accurate modeling and fault simulation of Byzantine resistive bridges.	Hugo Cheung,Sandeep K. Gupta	10.1109/ICCD.2007.4601923
+A technique for selecting CMOS transistor orders.	Ting Wei Chiang,C. Y. Roger Chen,Wei-Yu Chen	10.1109/ICCD.2007.4601936
+An efficient gate delay model for VLSI design.	Ting Wei Chiang,C. Y. Roger Chen,Wei-Yu Chen	10.1109/ICCD.2007.4601938
+Tutorial: Software-defined radio technology.	Mark Cummings,Todor Cooklev	10.1109/ICCD.2007.4601887
+Evaluating voltage islands in CMPs under process variations.	Abhishek Das,Serkan Ozdemir,Gokhan Memik,Alok N. Choudhary	10.1109/ICCD.2007.4601891
+Voltage drop reduction for on-chip power delivery considering leakage current variations.	Jeffrey Fan,Ning Mi,Sheldon X.-D. Tan	10.1109/ICCD.2007.4601883
+Why we need statistical static timing analysis.	Cristiano Forzan,Davide Pandini	10.1109/ICCD.2007.4601885
+Non-arithmetic carry chains for reconfigurable fabrics.	Michael T. Frederick,Arun K. Somani	10.1109/ICCD.2007.4601892
+Two-level ata prefetching.	Fei Gao,Hanyu Cui,Suleyman Sair	10.1109/ICCD.2007.4601908
+Statistical simulation of chip multiprocessors running multi-program workloads.	Davy Genbrugge,Lieven Eeckhout	10.1109/ICCD.2007.4601940
+Energy-aware co-processor selection for embedded processors on FPGAs.	Amir Hossein Gholamipour,Elaheh Bozorgzadeh,Sudarshan Banerjee	10.1109/ICCD.2007.4601895
+Speed-area optimized FPGA implementation for Full Search Block Matching.	Santosh Ghosh,Avishek Saha	10.1109/ICCD.2007.4601874
+A novel profile-driven technique for simultaneous power and code-size optimization of microcoded IPs.	Bita Gorjiara,Daniel Gajski	10.1109/ICCD.2007.4601960
+A position-insensitive finished store buffer.	Erika Gunadi,Mikko H. Lipasti	10.1109/ICCD.2007.4601888
+Cluster-level simultaneous multithreading for VLIW processors.	Manoj Gupta 0001,Fermín Sánchez,Josep Llosa	10.1109/ICCD.2007.4601890
+An automated runtime power-gating scheme.	Mototsugu Hamada,Takeshi Kitahara,Naoyuki Kawabe,Hironori Sato,Tsuyoshi Nishikawa,Takayoshi Shimazawa,Takahiro Yamashita,Hiroyuki Hara,Yukihito Oowaki	10.1109/ICCD.2007.4601928
+Bounded model checking of embedded software in wireless cognitive radio systems.	Nannan He,Michael S. Hsiao	10.1109/ICCD.2007.4601875
+A power gating scheme for ground bounce reduction during mode transition.	Ku He,Rong Luo,Yu Wang 0002	10.1109/ICCD.2007.4601929
+A parallel IEEE P754 decimal floating-point multiplier.	Brian J. Hickmann,Andrew Krioukov,Michael J. Schulte,Mark A. Erle	10.1109/ICCD.2007.4601916
+Transparent mode flip-flops for collapsible pipelines.	Eric L. Hill,Mikko H. Lipasti	10.1109/ICCD.2007.4601952
+Reducing leakage power in peripheral circuits of L2 caches.	Houman Homayoun,Alexander V. Veidenbaum	10.1109/ICCD.2007.4601907
+FPGA global routing architecture optimization using a multicommodity flow approach.	Yuanfang Hu,Yi Zhu 0002,Michael B. Taylor,Chung-Kuan Cheng	10.1109/ICCD.2007.4601893
+Amdahl&apos;s figure of merit, SiGe HBT BiCMOS, and 3D chip stacking.	Philip Jacob 0001,Aamir Zia,Okan Erdogan,Paul M. Belemjian,Peng Jin,Jin Woo Kim,Michael Chu,Russell P. Kraft,John F. McDonald	10.1109/ICCD.2007.4601901
+Multi-core data streaming architecture for ray tracing.	Yoshiyuki Kaeriyama,Daichi Zaitsu,Ken-ichi Suzuki,Hiroaki Kobayashi,Nobuyuki Ohba	10.1109/ICCD.2007.4601897
+Analytical thermal placement for VLSI lifetime improvement and minimum performance variation.	Andrew B. Kahng,Sung-Mo Kang,Wei Li,Bao Liu	10.1109/ICCD.2007.4601882
+Cache replacement based on reuse-distance prediction.	Georgios Keramidas,Pavlos Petoumenos,Stefanos Kaxiras	10.1109/ICCD.2007.4601909
+Dynamically compressible context architecture for low power coarse-grained reconfigurable array.	Yoonjin Kim,Rabi N. Mahapatra	10.1109/ICCD.2007.4601930
+A 4.6Tbits/s 3.6GHz single-cycle NoC router with a novel switch allocator in 65nm CMOS.	Amit Kumar 0002,Partha Kundu,Arvind P. Singh,Li-Shiuan Peh,Niraj K. Jha	10.1109/ICCD.2007.4601881
+Exploring the interplay of yield, area, and performance in processor caches.	Hyunjin Lee,Sangyeun Cho,Bruce R. Childers	10.1109/ICCD.2007.4601905
+Continual hashing for efficient fine-grain state inconsistency detection.	Jae W. Lee,Myron King,Krste Asanovic	10.1109/ICCD.2007.4601877
+Optimized design of a double-precision floating-point multiply-add-dused unit for data dependence.	Gongqiong Li,Zhaolin Li	10.1109/ICCD.2007.4601918
+Negative-skewed shadow registers for at-speed delay variation characterization.	Jie Li,John C. Lach	10.1109/ICCD.2007.4601924
+Hybrid resistor/FET-logic demultiplexer architecture design for hybrid CMOS/nanodevice circuits.	Shu Li,Tong Zhang 0002	10.1109/ICCD.2007.4601955
+Compiler-assisted architectural support for program code integrity monitoring in application-specific instruction set processors.	Hai Lin 0004,Xuan Guan,Yunsi Fei,Zhijie Jerry Shi	10.1109/ICCD.2007.4601899
+An efficient routing method for pseudo-exhaustive built-in self-testing of high-speed interconnects.	Jianxun Liu,Wen-Ben Jone	10.1109/ICCD.2007.4601925
+Fine grain 3D integration for microarchitecture design through cube packing exploration.	Yongxiang Liu,Yuchun Ma,Eren Kursun,Glenn Reinman,Jason Cong	10.1109/ICCD.2007.4601911
+Passive compensation for high performance inter-chip communication.	Chun-Chen Liu,Haikun Zhu,Chung-Kuan Cheng	10.1109/ICCD.2007.4601951
+Automatic SystemC TLM generation for custom communication platforms.	Lochi Yu,Samar Abdi	10.1109/ICCD.2007.4601878
+A Study on self-timed asynchronous subthreshold logic.	Niklas Lotze,Maurits Ortmanns,Yiannos Manoli	10.1109/ICCD.2007.4601949
+Limits on voltage scaling for caches utilizing fault tolerant techniques.	Mohammad A. Makhzan,Amin Khajeh,Ahmed M. Eltawil,Fadi J. Kurdahi	10.1109/ICCD.2007.4601943
+Hardware libraries: An architecture for economic acceleration in soft multi-core environments.	David Meisner,Sherief Reda	10.1109/ICCD.2007.4601898
+Power-aware mapping for reconfigurable NoC architectures.	Mehdi Modarressi,Hamid Sarbazi-Azad	10.1109/ICCD.2007.4601933
+CMOS logic design with independent-gate FinFETs.	Anish Muttreja,Niket Agarwal,Niraj K. Jha	10.1109/ICCD.2007.4601953
+Algorithms to simplify multi-clock/edge timing constraints.	Veerapaneni Nagbhushan,C. Y. Roger Chen	10.1109/ICCD.2007.4601937
+Distributed voting for fault-tolerant nanoscale systems.	Ali Namazi,Mehrdad Nourani	10.1109/ICCD.2007.4601954
+Low-cost run-time diagnosis of hard delay faults in the functional units of a microprocessor.	Sule Ozev,Daniel J. Sorin,Mahmut Yilmaz	10.1109/ICCD.2007.4601919
+System level power estimation methodology with H.264 decoder prediction IP case study.	Young-Hwan Park,Sudeep Pasricha,Fadi J. Kurdahi,Nikil D. Dutt	10.1109/ICCD.2007.4601959
+Twiddle factor transformation for pipelined FFT processing.	In-Cheol Park,WonHee Son,Ji-Hoon Kim	10.1109/ICCD.2007.4601872
+Placement and routing of RF embedded passive designs in LCP substrate.	Mohit Pathak,Souvik Mukherjee,Madhavan Swaminathan,Ege Engin,Sung Kyu Lim	10.1109/ICCD.2007.4601913
+Memory based computation using embedded cache for processor yield and reliability improvement.	Somnath Paul,Swarup Bhunia	10.1109/ICCD.2007.4601922
+SCAFFI: An intrachip FPGA asynchronous interface based on hard macros.	Julian J. H. Pontes,Rafael Soares,Ewerson Carvalho,Fernando Moraes 0001,Ney Calazans	10.1109/ICCD.2007.4601950
+Challenges and prospects of SDR for mobile phones.	Ulrich Ramacher	10.1109/ICCD.2007.4601903
+Improving cache efficiency via resizing + remapping.	Subramanian Ramaswamy,Sudhakar Yalamanchili	10.1109/ICCD.2007.4601879
+Constraint satisfaction in incremental placement with application to performance optimization under power constraints.	Huan Ren,Shantanu Dutt	10.1109/ICCD.2007.4601910
+A low overhead hardware technique for software integrity and confidentiality.	Austin Rogers,Milena Milenkovic,Aleksandar Milenkovic	10.1109/ICCD.2007.4601889
+Exploiting eDRAM bandwidth with data prefetching: simulation and measurements.	Valentina Salapura,José R. Brunheroto,Fernando F. Redígolo,Alan Gara	10.1109/ICCD.2007.4601945
+Contention-free switch-based implementation of 1024-point Radix-2 Fourier Transform Engine.	Hani H. Saleh,Bassam Jamil Mohd,Adnan Aziz,Earl E. Swartzlander Jr.	10.1109/ICCD.2007.4601873
+Detecting errors in a polynomial basis multiplier using multiple parity bits for both inputs.	Siavash Bayat Sarmadi,M. Anwar Hasan	10.1109/ICCD.2007.4601926
+Floating-point division algorithms for an x86 microprocessor with a rectangular multiplier.	Michael J. Schulte,Dimitri Tan,Carl Lemonds	10.1109/ICCD.2007.4601917
+VIZOR: Virtually zero margin adaptive RF for ultra low power wireless communication.	Rajarajan Senguttuvan,Shreyas Sen,Abhijit Chatterjee	10.1109/ICCD.2007.4601956
+Power variations of multi-port routers in an application-specific NoC design : A case study.	Balasubramanian Sethuraman,Ranga Vemuri	10.1109/ICCD.2007.4601958
+On modeling impact of sub-wavelength lithography on transistors.	Aswin Sreedhar,Sandip Kundu	10.1109/ICCD.2007.4601884
+FPGA routing architecture analysis under variations.	Suresh Srinivasan,Prasanth Mangalagiri,Yuan Xie 0001,Narayanan Vijaykrishnan	10.1109/ICCD.2007.4601894
+Maximizing the throughput-area efficiency of fully-parallel low-density parity-check decoding with C-slow retiming and asynchronous deep pipelining.	Ming Su,Lili Zhou,C.-J. Richard Shi	10.1109/ICCD.2007.4601964
+Post-layout comparison of high performance 64b static adders in energy-delay space.	Sheng Sun,Carl Sechen	10.1109/ICCD.2007.4601931
+Hardware design of a Binary Integer Decimal-based floating-point adder.	Charles Tsen,Sonia González-Navarro,Michael J. Schulte	10.1109/ICCD.2007.4601915
+CAP: Criticality analysis for power-efficient speculative multithreading.	James Tuck,Wei Liu 0014,Josep Torrellas	10.1109/ICCD.2007.4601932
+The challenge in testing MIMO in a Wi-Fi or WiMAX context.	Karsten Vandrup	10.1109/ICCD.2007.4601904
+A radix-10 SRT divider based on alternative BCD codings.	Álvaro Vázquez,Elisardo Antelo,Paolo Montuschi	10.1109/ICCD.2007.4601914
+Benchmarks and performance analysis of decimal floating-point applications.	Liang-Kai Wang,Charles Tsen,Michael J. Schulte,Divya Jhalani	10.1109/ICCD.2007.4601896
+Application of symbolic computer algebra to arithmetic circuit verification.	Yuki Watanabe,Naofumi Homma,Takafumi Aoki,Tatsuo Higuchi 0001	10.1109/ICCD.2007.4601876
+Power reduction of chip multi-processors using shared resource control cooperating with DVFS.	Ryo Watanabe,Masaaki Kondo,Hiroshi Nakamura,Takashi Nanya	10.1109/ICCD.2007.4601961
+Statistical timing analysis using Kernel smoothing.	Jennifer L. Wong,Azadeh Davoodi,Vishal Khandelwal,Ankur Srivastava 0001,Miodrag Potkonjak	10.1109/ICCD.2007.4601886
+VOSCH: Voltage scaled cache hierarchies.	Weng-Fai Wong,Cheng-Kok Koh,Yiran Chen 0001,Hai Li 0001	10.1109/ICCD.2007.4601944
+Whitespace redistribution for thermal via insertion in 3D stacked ICs.	Eric Wong 0002,Sung Kyu Lim	10.1109/ICCD.2007.4601912
+Scan chain design for three-dimensional integrated circuits (3D ICs).	Xiaoxia Wu,Paul Falkenstern,Yuan Xie 0001	10.1109/ICCD.2007.4601902
+Improving the reliability of on-chip data caches under process variations.	Wei Wu 0024,Sheldon X.-D. Tan,Jun Yang 0002,Shih-Lien Lu	10.1109/ICCD.2007.4601920
+A novel O(1) parallel deadlock detection algorithm and architecture for multi-unit resource systems.	Xiang Xiao,Jaehwan John Lee	10.1109/ICCD.2007.4601942
+Effective Dynamic Thermal Management for MPEG-4 decoding.	Inchoon Yeo,Heung Ki Lee,Eun Jung Kim 0001,Ki Hwan Yum	10.1109/ICCD.2007.4601962
+Prioritizing verification via value-based correctness criticality.	Joonhyuk Yoo,Manoj Franklin	10.1109/ICCD.2007.4601921
+Fast power network analysis with multiple clock domains.	Wanping Zhang,Ling Zhang,Rui Shi 0003,He Peng,Zhi Zhu,Lew Chua-Eoan,Rajeev Murgai,Toshiyuki Shibuya,Noriyuki Ito,Chung-Kuan Cheng	10.1109/ICCD.2007.4601939
+Modeling soft error effects considering process variations.	Chong Zhao,Sujit Dey	10.1109/ICCD.2007.4601927
+Exploring DRAM cache architectures for CMP server platforms.	Li Zhao 0002,Ravi R. Iyer 0001,Ramesh Illikkal,Donald Newell	10.1109/ICCD.2007.4601880
+Implementing a 2-Gbs 1024-bit 1/2-rate low-density parity-check code decoder in three-dimensional integrated circuits.	Lili Zhou,Cherry Wakayama,Robin Panda,Nuttorn Jangkrajarng,Bo Hu,C.-J. Richard Shi	10.1109/ICCD.2007.4601900
+Priority-monotonic energy management for real-time systems with reliability requirements.	Dakai Zhu 0001,Xuan Qi,Hakan Aydin	10.1109/ICCD.2007.4601963
+25th International Conference on Computer Design, ICCD 2007, 7-10 October 2007, Lake Tahoe, CA, USA, Proceedings		

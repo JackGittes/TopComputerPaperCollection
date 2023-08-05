@@ -1,0 +1,103 @@
+Topic 2: Performance Prediction and Evaluation.	Francisco Almeida,Michael Gerndt,Adolfy Hoisie,Martin Schulz 0001	10.1007/978-3-540-85451-7_10
+Topic 9: Parallel and Distributed Programming.	José Nelson Amaral,Joaquim Gabarró	10.1007/978-3-540-85451-7_73
+Parallel Algorithms for Triangular Periodic Sylvester-Type Matrix Equations.	Per Andersson,Robert Granat,Isak Jonsson,Bo Kågström	10.1007/978-3-540-85451-7_83
+Advanced Concurrency Control for Transactional Memory Using Transaction Commit Rate.	Mohammad Ansari,Christos Kotselidis,Kim Jarvis,Mikel Luján,Chris C. Kirkham,Ian Watson	10.1007/978-3-540-85451-7_77
+Building Hierarchical Grid Storage Using the GfarmGlobal File System and the JuxMemGrid Data-Sharing Service.	Gabriel Antoniu,Loïc Cudennec,Majd Ghareeb,Osamu Tatebe	10.1007/978-3-540-85451-7_50
+Efficiently Building the Gated Single Assignment Form in Codes with Pointers in Modern Optimizing Compilers.	Manuel Arenaz,Pedro Amoedo,Juan Touriño	10.1007/978-3-540-85451-7_39
+Exploiting the Locality Properties of Peano Curves for Parallel Matrix Multiplication.	Michael Bader	10.1007/978-3-540-85451-7_85
+Integration of GRID Superscalar and GridWay Metascheduler with the DRMAA OGF Standard.	Rosa M. Badia,D. Du,Eduardo Huedo,Antonis C. Kokossis,Ignacio Martín Llorente,Rubén S. Montero,Marc de Palol,Raül Sirvent,Constantino Vázquez	10.1007/978-3-540-85451-7_49
+Solving Dense Linear Systems on Graphics Processors.	Sergio Barrachina 0001,Maribel Castillo,Francisco D. Igual,Rafael Mayo 0002,Enrique S. Quintana-Ortí	10.1007/978-3-540-85451-7_79
+Automatic Prefetching with Binary Code Rewriting in Object-Based DSMs.	Jean Christophe Beyler,Michael Klemm,Michael Philippsen,Philippe Clauss	10.1007/978-3-540-85451-7_69
+Clock Synchronization in Cell BE Traces.	Marina Biberstein,Yuval Harel,Andre Heilper	10.1007/978-3-540-85451-7_2
+Exploiting Hybrid Parallelism in Web Search Engines.	Carolina Bonacic,Carlos García 0001,Mauricio Marín,Manuel Prieto 0001,Francisco Tirado	10.1007/978-3-540-85451-7_45
+Topic 4: High Performance Architectures and Compilers.	Koen De Bosschere,Ayal Zaks,Michael C. Huang 0001,Luis Piñuel	10.1007/978-3-540-85451-7_34
+A Software Component Model with Spatial and Temporal Compositions for Grid Infrastructures.	Hinde-Lilia Bouziane,Christian Pérez,Thierry Priol	10.1007/978-3-540-85451-7_75
+Topic 10: Parallel Numerical Algorithms.	Hans-Joachim Bungartz,Javier D. Bruguera,Peter Arbenz,Bruce Hendrickson	10.1007/978-3-540-85451-7_82
+Scalable Byzantine Fault Tolerant Public Key Authentication for Peer-to-Peer Networks.	Ruichuan Chen,Wenjia Guo,Liyong Tang,Jian-bin Hu,Zhong Chen 0001	10.1007/978-3-540-85451-7_64
+QoS-Oriented Reputation-Aware Query Scheduling in Data Grids.	Rogério Luís de Carvalho Costa,Pedro Furtado 0001	10.1007/978-3-540-85451-7_53
+Topic 6: Grid and Cluster Computing.	Marco Danelutto,Juan Touriño,Mark Baker,Rajkumar Buyya,Paraskevi Fragopoulou,Christian Pérez,Erich Schikuta	10.1007/978-3-540-85451-7_48
+Stream Scheduling: A Framework to Manage Bulk Operations in Memory Hierarchies.	Abhishek Das,William J. Dally	10.1007/978-3-540-85451-7_37
+Scalability of Grid Simulators: An Evaluation.	Wim Depoorter,Nils De Moor,Kurt Vanmechelen,Jan Broeckhove	10.1007/978-3-540-85451-7_58
+Topic 1: Support Tools and Environments.	Marios D. Dikaiakos,Omer F. Rana,Shmuel Ur,João Lourenço	10.1007/978-3-540-85451-7_1
+Inter-block Scoreboard Scheduling in a JIT Compiler for VLIW Processors.	Benoît Dupont de Dinechin	10.1007/978-3-540-85451-7_40
+Spectral Clustering Scheduling Techniques for Tasks with Strict QoS Requirements.	Nikolaos D. Doulamis,Panagiotis C. Kokkinos,Emmanouel A. Varvarigos	10.1007/978-3-540-85451-7_52
+Data Mining Algorithms on the Cell Broadband Engine.	Rubing Duan,Alfred Strey	10.1007/978-3-540-85451-7_71
+Topic 7: Peer-to-Peer Computing.	Dick H. J. Epema,Márk Jelasity,Josep Jorba,Alberto Montresor	10.1007/978-3-540-85451-7_63
+Meta-programming Applied to Automatic SMP Parallelization of Linear Algebra Code.	Joel Falcou,Jocelyn Sérot,Lucien Pech,Jean-Thierry Lapresté	10.1007/978-3-540-85451-7_78
+On the Influence of the Packet Marking and Injection Control Schemes in Congestion Management for MINs.	Joan-Lluís Ferrer,Elvira Baydal,Antonio Robles,Pedro López 0001,José Duato	10.1007/978-3-540-85451-7_100
+Approximating the Traffic Grooming Problem with Respect to ADMs and OADMs.	Michele Flammini,Gianpiero Monaco,Luca Moscardelli,Mordechai Shalom,Shmuel Zaks	10.1007/978-3-540-85451-7_99
+Flying Low: Simple Leases with Workspace Pilot.	Timothy Freeman 0001,Katarzyna Keahey	10.1007/978-3-540-85451-7_54
+Self-configuring Resource Discovery on a Hypercube Grid Overlay.	Antonia Gallardo,Luis Díaz de Cerio,Kana Sanjeevan	10.1007/978-3-540-85451-7_55
+Interprocedural Speculative Optimization of Memory Accesses to Global Variables.	Lars Gesellensetter,Sabine Glesner	10.1007/978-3-540-85451-7_38
+HITP: A Transmission Protocol for Scalable High-Performance Distributed Storage.	Pierpaolo Giacomin,Alessandro Bassi,Frank J. Seinstra,Thilo Kielmann,Henri E. Bal	10.1007/978-3-540-85451-7_102
+Analytical Evaluation of Clients&apos; Failures in a LVoD Architecture Based on P2P and Multicast Paradigms.	Rodrigo Godoi,Xiaoyuan Yang 0001,Porfidio Hernández	10.1007/978-3-540-85451-7_91
+Enhancing Grids for Massively Multiplayer Online Computer Games.	Sergei Gorlatch,Frank Glinka,Alexander Ploss,Jens Müller-Iden,Radu Prodan,Vlad Nae,Thomas Fahringer	10.1007/978-3-540-85451-7_51
+Event Tracing and Visualization for Cell Broadband Engine Systems.	Daniel Hackenberg,Holger Brunst,Wolfgang E. Nagel	10.1007/978-3-540-85451-7_19
+Complex Queries for Moving Object Databases in DHT-Based Systems.	Cecilia Hernández,M. Andrea Rodríguez,Mauricio Marín	10.1007/978-3-540-85451-7_46
+A Twofold Distributed Game-Tree Search Approach Using Interconnected Clusters.	Kai Himstedt,Ulf Lorenz,Dietmar P. F. Möller	10.1007/978-3-540-85451-7_62
+Load-Balancing for a Block-Based Parallel Adaptive 4D Vlasov Solver.	Olivier Hoenen,Eric Violard	10.1007/978-3-540-85451-7_87
+Supporting Parameter Sweep Applications with Synthesized Grid Services.	Jürgen Hofer,Thomas Fahringer	10.1007/978-3-540-85451-7_4
+Fine-Grained Task Scheduling Using Adaptive Data Structures.	Ralf Hoffmann,Thomas Rauber	10.1007/978-3-540-85451-7_28
+DGSim: Comparing Grid Resource Management Architectures through Trace-Based Simulation.	Alexandru Iosup,Omer Ozan Sonmez,Dick H. J. Epema	10.1007/978-3-540-85451-7_3
+Bi-objective Approximation Scheme for Makespan and Reliability Optimization on Uniform Parallel Machines.	Emmanuel Jeannot,Erik Saule,Denis Trystram	10.1007/978-3-540-85451-7_94
+Exploration of the Influence of Program Inputs on CMP Co-scheduling.	Yunlian Jiang,Xipeng Shen	10.1007/978-3-540-85451-7_29
+Mapping Heterogeneous Distributed Applications on Clusters.	Sylvain Jubertie,Emmanuel Melin,Jérémie Vautard,Arnaud Lallouet	10.1007/978-3-540-85451-7_21
+Performance Implications of Cache Affinity on Multicore Processors.	Vahid Kazempour,Alexandra Fedorova,Pouya Alagheband	10.1007/978-3-540-85451-7_17
+On a Novel Dynamic Parallel Hardware Architecture for Lifting-Based DWT.	Sami Khanfir,Mohamed Jemni	10.1007/978-3-540-85451-7_90
+Caspian: A Tunable Performance Model for Multi-core Systems.	Abbas Eslami Kiasari,Hamid Sarbazi-Azad,Shaahin Hessabi	10.1007/978-3-540-85451-7_12
+Guest-Aware Priority-Based Virtual Machine Scheduling for Highly Consolidated Server.	Dongsung Kim,Hwanju Kim,Myeongjae Jeon,Euiseong Seo,Joonwon Lee	10.1007/978-3-540-85451-7_31
+Topic 3: Scheduling and Load Balancing.	Dieter Kranzlmüller,Uwe Schwiegelshohn,Yves Robert,Francisco F. Rivera	10.1007/978-3-540-85451-7_24
+Directory-Based Metadata Optimizations for Small Files in PVFS.	Michael Kuhn 0003,Julian M. Kunkel,Thomas Ludwig 0002	10.1007/978-3-540-85451-7_11
+Bottleneck Detection in Parallel File Systems with Trace-Based Performance Monitoring.	Julian M. Kunkel,Thomas Ludwig 0002	10.1007/978-3-540-85451-7_23
+A P2P Approach to Resource Discovery in On-Line Monitoring of Grid Workflows.	Bartlomiej Labno,Marian Bubak,Bartosz Balis	10.1007/978-3-540-85451-7_5
+P2P Evolutionary Algorithms: A Suitable Approach for Tackling Large Instances in Hard Optimization Problems.	Juan Luis Jiménez Laredo,A. E. Eiben,Maarten van Steen,Pedro A. Castillo,Antonio Miguel Mora,Juan Julián Merelo Guervós	10.1007/978-3-540-85451-7_66
+Reducing Kernel Development Complexity in Distributed Environments.	Adrien Lebre,Renaud Lottiaux,Erich Focht,Christine Morin	10.1007/978-3-540-85451-7_61
+Enhancing Prediction on Non-dedicated Clusters.	Josep L. Lérida,Francesc Solsona,Francesc Giné,Jose Ramon García,Mauricio Hanzich,Porfidio Hernández	10.1007/978-3-540-85451-7_26
+Global Tiling for Communication Minimal Parallelization on Distributed Memory Systems.	Lei Liu 0030,Li Chen,Chengyong Wu,Xiaobing Feng 0002	10.1007/978-3-540-85451-7_41
+A Performance Model of Dense Matrix Operations on Many-Core Architectures.	Guoping Long,Dongrui Fan,Junchao Zhang,Fenglong Song,Nan Yuan,Wei Lin 0004	10.1007/978-3-540-85451-7_14
+Topic 8: Distributed Systems and Algorithms.	Elsa María Macías López,Marc Shapiro 0001	10.1007/978-3-540-85451-7_68
+A Parallel Sparse Linear Solver for Nearest-Neighbor Tight-Binding Problems.	Mathieu Luisier,Gerhard Klimeck,Andreas Schenk,Wolfgang Fichtner,Timothy B. Boykin	10.1007/978-3-540-85451-7_84
+A Search Engine Index for Multimedia Content.	Mauricio Marín,Veronica Gil-Costa,Carolina Bonacic	10.1007/978-3-540-85451-7_92
+Scheduling Intersection Queries in Term Partitioned Inverted Files.	Mauricio Marín,Carlos Gómez-Pantoja,Senén González,Veronica Gil-Costa	10.1007/978-3-540-85451-7_47
+Transparent Mobile Middleware Integration for Java and .NET Development Environments.	Edgar Marques,Luís Veiga,Paulo Ferreira 0001	10.1007/978-3-540-85451-7_6
+Reducing Transaction Abort Rates with Prioritized Atomic Multicast Protocols.	Emili Miedes,Francesc D. Muñoz-Escoí,Hendrik Decker	10.1007/978-3-540-85451-7_43
+On-Line Performance Modeling for MPI Applications.	Oleg Morajko,Anna Morajko,Tomàs Margalef,Emilio Luque	10.1007/978-3-540-85451-7_8
+Dynamic Pipeline Mapping (DPM).	Andreu Moreno,Eduardo César,Andreu Guevara,Joan Sorribes,Tomàs Margalef,Emilio Luque	10.1007/978-3-540-85451-7_32
+Observing Performance Dynamics Using Parallel Profile Snapshots.	Alan Morris,Wyatt Spear,Allen D. Malony,Sameer Shende	10.1007/978-3-540-85451-7_18
+Neural Network-Based Load Prediction for Highly Dynamic Distributed Online Games.	Vlad Nae,Radu Prodan,Thomas Fahringer	10.1007/978-3-540-85451-7_22
+Performance Evaluation of Data Management Layer by Data Sharing Patterns for Grid RPC Applications.	Yoshihiro Nakajima,Yoshiaki Aida,Mitsuhisa Sato,Osamu Tatebe	10.1007/978-3-540-85451-7_59
+Co-allocation with Communication Considerations in Multi-cluster Systems.	John Ngubiri,Mario van Vliet	10.1007/978-3-540-85451-7_27
+Efficient Processing of Continuous Join Queries Using Distributed Hash Tables.	Wenceslao Palma,Reza Akbarinia,Esther Pacitti,Patrick Valduriez	10.1007/978-3-540-85451-7_67
+A Parallel Sensor Scheduling Technique for Fault Detection in Distributed Parameter Systems.	Maciej Patan	10.1007/978-3-540-85451-7_88
+Parallel Lattice Boltzmann Flow Simulation on Emerging Multi-core Platforms.	Liu Peng,Ken-ichi Nomura,Takehiro Oyakawa,Rajiv K. Kalia,Aiichiro Nakano,Priya Vashishta	10.1007/978-3-540-85451-7_81
+MPC: A Unified Parallel Runtime for Clusters of NUMA Machines.	Marc Pérache,Hervé Jourdren,Raymond Namyst	10.1007/978-3-540-85451-7_9
+Efficient Management of Complex Striped Files in Active Storage.	Juan Piernas,Jarek Nieplocha	10.1007/978-3-540-85451-7_72
+Auction Protocols for Resource Allocations in Ad-Hoc Grids.	Behnaz Pourebrahimi,Koen Bertels	10.1007/978-3-540-85451-7_56
+Topic 12: Theory and Algorithms for Parallel Computation.	Geppino Pucci,Coromoto León,Ioannis Caragiannis,Kieran T. Herley	10.1007/978-3-540-85451-7_93
+Low-Cost Adaptive Data Prefetching.	Luis M. Ramos,José Luis Briz,Pablo E. Ibáñez,Víctor Viñals	10.1007/978-3-540-85451-7_36
+Reducing Packet Dropping in a Bufferless NoC.	Crispín Gómez Requena,María Engracia Gómez,Pedro López 0001,José Duato	10.1007/978-3-540-85451-7_97
+Deadlock-Free Dynamic Network Reconfiguration Based on Close Up*/Down* Graphs.	Antonio Robles-Gómez,Aurelio Bermúdez,Rafael Casado,Åshild Grønstad Solheim	10.1007/978-3-540-85451-7_101
+A Design Pattern for Component Oriented Development of Agent Based Multithreaded Applications.	Antonio L. Rodríguez,Pedro E. López-de-Teruel,Alberto Ruiz,Ginés García-Mateos,L. Fernóndez	10.1007/978-3-540-85451-7_76
+Performance Model for Parallel Mathematical Libraries Based on Historical Knowledgebase.	Ihab Salawdeh,Eduardo César,Anna Morajko,Tomàs Margalef,Emilio Luque	10.1007/978-3-540-85451-7_13
+Secure Forwarding in DHTs - Is Redundancy the Key to Robustness?.	Marc Sánchez Artigas,Pedro García López,Antonio Fernandez Gómez-Skarmeta	10.1007/978-3-540-85451-7_65
+Improving the Performance of Multiple Conjugate Gradient Solvers by Exploiting Overlap.	José Carlos Sancho,Darren J. Kerbyson	10.1007/978-3-540-85451-7_74
+Providing Non-stop Service for Message-Passing Based Parallel Applications with RADIC.	Guna Santos,Angelo Duarte,Dolores Rexachs,Emilio Luque	10.1007/978-3-540-85451-7_7
+Systematic Parallelization of Medical Image Reconstruction for Graphics Hardware.	Maraike Schellmann,Jürgen Vörding,Sergei Gorlatch	10.1007/978-3-540-85451-7_86
+GrAMoS: A Flexible Service for WS-Agreement Monitoring in Grid Environments.	Glauber Scorsatto,Alba Cristina Magalhaes Alves de Melo	10.1007/978-3-540-85451-7_57
+Topic 11: Distributed and High-Performance Multimedia.	Frank J. Seinstra,Nicolás Guil,Zoltan Juhasz,Simon Wilson	10.1007/978-3-540-85451-7_89
+Topic 13: High-Performance Networks.	Tor Skeie,Daniel Ortega,Jose Flich,Raimir Holanda	10.1007/978-3-540-85451-7_96
+Integrating Dynamic Memory Placement with Adaptive Load-Balancing for Parallel Codes on NUMA Multiprocessors.	Paul Slavin,Len Freeman	10.1007/978-3-540-85451-7_30
+The Impact of Clustering on Token-Based Mutual Exclusion Algorithms.	Julien Sopena,Luciana Arantes,Fabrice Legond-Aubry,Pierre Sens 0001	10.1007/978-3-540-85451-7_60
+Fault-Tolerant Partial Replication in Large-Scale Database Systems.	Pierre Sutra,Marc Shapiro 0001	10.1007/978-3-540-85451-7_44
+Topic 5: Parallel and Distributed Databases.	Domenico Talia,Josep Lluís Larriba-Pey,Hillol Kargupta,Esther Pacitti	10.1007/978-3-540-85451-7_42
+Reducing the Number of Bits in the BTB to Attack the Branch Predictor Hot-Spot.	Noel Tomás,Julio Sahuquillo,Salvador Petit,Pedro López 0001	10.1007/978-3-540-85451-7_35
+A Communication-Aware Topological Mapping Technique for NoCs.	Rafael Tornero,Juan M. Orduña,Maurizio Palesi,José Duato	10.1007/978-3-540-85451-7_98
+Deque-Free Work-Optimal Parallel STL Algorithms.	Daouda Traoré,Jean-Louis Roch,Nicolas Maillard,Thierry Gautier,Julien Bernard 0001	10.1007/978-3-540-85451-7_95
+Formal Model and Scheduling Heuristics for the Replica Migration Problem.	Nikos Tziritas,Thanasis Loukopoulos,Petros Lampsas,Spyros Lalis	10.1007/978-3-540-85451-7_33
+Radioastronomy Image Synthesis on the Cell/B.E..	Ana Lucia Varbanescu,Alexander S. van Amesfoort,Tim Cornwell,Andrew Mattingly,Bruce G. Elmegreen,Rob van Nieuwpoort,Ger van Diepen,Henk J. Sips	10.1007/978-3-540-85451-7_80
+Dynamic Grid Scheduling Using Job Runtime Requirements and Variable Resource Availability.	Sam Verboven,Peter Hellinckx,Jan Broeckhove,Frans Arickx	10.1007/978-3-540-85451-7_25
+Evaluating Heterogeneous Memory Model by Realistic Trace-Driven Hardware/Software Co-simulation.	Wei Wang,Qigang Wang,Wei Wei,Dong Liu	10.1007/978-3-540-85451-7_20
+To Snoop or Not to Snoop: Evaluation of Fine-Grain and Coarse-Grain Snoop Filtering Techniques.	Jessica Young,Srihari Makineni,Ravishankar R. Iyer 0001,Donald Newell,Adrian Moga	10.1007/978-3-540-85451-7_16
+Empirical Analysis of a Large-Scale Hierarchical Storage System.	Weikuan Yu,Sarp Oral,Shane Canon,Jeffrey S. Vetter,Ramanan Sankaran	10.1007/978-3-540-85451-7_15
+Euro-Par 2008 - Parallel Processing, 14th International Euro-Par Conference, Las Palmas de Gran Canaria, Spain, August 26-29, 2008, Proceedings	Emilio Luque,Tomàs Margalef,Domingo Benitez	10.1007/978-3-540-85451-7
+A PGAS-Based Algorithm for the Longest Common Subsequence Problem.		10.1007/978-3-540-85451-7_70

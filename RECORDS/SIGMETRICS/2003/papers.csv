@@ -1,0 +1,43 @@
+A framework for modeling and optimization of prescient instruction prefetch.	Tor M. Aamodt,Pedro Marcuello,Paul Chow,Antonio González 0001,Per Hammarlund,Hong Wang 0003,John Paul Shen	10.1145/781027.781030
+An empirical evaluation of wide-area internet bottlenecks.	Aditya Akella,Srinivasan Seshan,Anees Shaikh	10.1145/781027.781075
+Estimating membership in a multicast session.	Sara Alouf,Eitan Altman,Chadi Barakat,Philippe Nain	10.1145/781027.781059
+Priority queueing with finite buffer size and randomized push-out mechanism.	Konstantin Avrachenkov,Nikita O. Vilchevsky,Georgy L. Shevlyakov	10.1145/781027.781079
+Resilient multicast using overlays.	Suman Banerjee 0001,Seungjoon Lee,Bobby Bhattacharjee,Aravind Srinivasan	10.1145/781027.781041
+A hybrid systems modeling framework for fast and accurate simulation of data communication networks.	Stephan Bohacek,João P. Hespanha,Junsoo Lee,Katia Obraczka	10.1145/781027.781036
+Spectroscopy of DNS update traffic.	Andre Broido,Evi Nemeth,Kimberly C. Claffy	10.1145/781027.781077
+On the effectiveness of movement prediction to reduce energy consumption in wireless communication.	Srijan Chakraborty,David K. Y. Yau,John C. S. Lui	10.1145/781027.781072
+Dynamic resource allocation for shared data centers using online measurements.	Abhishek Chandra,Weibo Gong,Prashant J. Shenoy	10.1145/781027.781067
+Traffic grooming in path, star, and tree networks: complexity, bounds, and algorithms.	Rudra Dutta,Shu Huang,George N. Rouskas	10.1145/781027.781066
+Effects of clock resolution on the scheduling of interactive and soft real-time processes.	Yoav Etsion,Dan Tsafrir,Dror G. Feitelson	10.1145/781027.781049
+Measuring the effects of internet path faults on reactive routing.	Nick Feamster,David G. Andersen,Hari Balakrishnan,M. Frans Kaashoek	10.1145/781027.781043
+Fairness and efficiency in web server protocols.	Eric J. Friedman,Shane G. Henderson	10.1145/781027.781056
+An algorithm for computing the mean response time of a single server queue with generalized on/off traffic arrivals.	Sebastià Galmés,Ramón Puigjaner	10.1145/781027.781033
+Modeling, simulation and measurements of queuing delay under long-tail internet traffic.	Michele Garetto,Donald F. Towsley	10.1145/781027.781034
+DiST: a simple, reliable and scalable method to significantly reduce processor architecture simulation time.	Sylvain Girbal,Gilles Mouchard,Albert Cohen 0001,Olivier Temam	10.1145/781027.781029
+Conductance and congestion in power law graphs.	Christos Gkantsidis,Milena Mihail,Amin Saberi	10.1145/781027.781046
+Robustness of multicast congestion control to inflated subscription.	Sergey Gorinsky,Sugat Jain,Harrick M. Vin,Yongguang Zhang	10.1145/781027.781073
+CacheCOW: providing QoS for storage system caches.	Pawan Goyal 0001,Dharmendra S. Modha,Renu Tewari	10.1145/781027.781070
+Effect of node size on the performance of cache-conscious B+-trees.	Richard A. Hankins,Jignesh M. Patel	10.1145/781027.781063
+Choosing an accurate network path model.	Almudena Konrad,Anthony D. Joseph	10.1145/781027.781074
+Run-time modeling and estimation of operating system power consumption.	Tao Li 0006,Lizy Kurian John	10.1145/781027.781048
+Fluid models and solutions for large-scale IP networks.	Yong Liu 0013,Francesco Lo Presti,Vishal Misra,Donald F. Towsley,Yu Gu 0004	10.1145/781027.781039
+Characterization of essential dynamic instructions.	Steven Lumetta,Sanjay J. Patel	10.1145/781027.781071
+Gated asymptotic modEls (GAMEs): a new tool for the stability analysis of queueing systems.	Marco Ajmone Marsan,Mirko Franceschinis,Paolo Giaccone,Emilio Leonardi,Fabio Neri,Alessandro Tarello	10.1145/781027.781078
+Analysis of cycle stealing with switching cost.	Takayuki Osogami,Mor Harchol-Balter,Alan Scheller-Wolf	10.1145/781027.781050
+Using SimPoint for accurate and efficient simulation.	Erez Perelman,Greg Hamerly,Michael Van Biesbrouck,Timothy Sherwood,Brad Calder	10.1145/781027.781076
+Analysis of LAS scheduling for job size distributions with high variance.	Idris A. Rai,Guillaume Urvoy-Keller,Ernst W. Biersack	10.1145/781027.781055
+Efficient implementation of a statistics counter architecture.	Sriram Ramabhadran,George Varghese	10.1145/781027.781060
+Performance of estimated traffic matrices in traffic engineering.	Matthew Roughan,Mikkel Thorup,Yin Zhang 0001	10.1145/781027.781080
+Modeling the throughput of TCP Vegas.	Charalampos (Babis) Samios,Mary K. Vernon	10.1145/781027.781037
+Characterizing and measuring path diversity of internet topologies.	Renata Teixeira,Keith Marzullo,Stefan Savage,Geoffrey M. Voelker	10.1145/781027.781069
+Data cache locking for higher program predictability.	Xavier Vera,Björn Lisper,Jingling Xue	10.1145/781027.781062
+Analysis of TCP&apos;s computational energy cost for mobile computing.	Bokyung Wang,Suresh Singh	10.1145/781027.781065
+Maximum and asymptotic UDP throughput under CHOKe.	Jiantao Wang,Ao Tang,Steven H. Low	10.1145/781027.781038
+Classifying scheduling policies with respect to unfairness in an M/GI/1.	Adam Wierman,Mor Harchol-Balter	10.1145/781027.781057
+Queueing systems with long-range dependent input process and subexponential service times.	Cathy H. Xia,Zhen Liu 0001	10.1145/781027.781032
+A recursive random search algorithm for large-scale network parameter configuration.	Tao Ye,Shivkumar Kalyanaraman	10.1145/781027.781052
+Internet intrusions: global characteristics and prevalence.	Vinod Yegneswaran,Paul Barford,Johannes Ullrich	10.1145/781027.781045
+Incrementally improving lookup latency in distributed hash table systems.	Hui Zhang 0002,Ashish Goel,Ramesh Govindan	10.1145/781027.781042
+Fast accurate computation of large-scale IP traffic matrices from link loads.	Yin Zhang 0001,Matthew Roughan,Nick G. Duffield,Albert G. Greenberg	10.1145/781027.781053
+A self-tuning structure for adaptation in TCP/AQM networks.	Honggang Zhang 0003,Donald F. Towsley,C. V. Hollot,Vishal Misra	10.1145/781027.781068
+Proceedings of the International Conference on Measurements and Modeling of Computer Systems, SIGMETRICS 2003, June 9-14, 2003, San Diego, CA, USA	Bill Cheng,Satish K. Tripathi,Jennifer Rexford,William H. Sanders	10.1145/781027

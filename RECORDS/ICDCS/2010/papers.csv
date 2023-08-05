@@ -1,0 +1,85 @@
+Projection and Division: Linear-Space Verification of Firewalls.	Hrishikesh B. Acharya,Mohamed G. Gouda	10.1109/ICDCS.2010.68
+Guaranteeing BGP Stability with a Few Extra Paths.	Rachit Agarwal 0001,Virajith Jalaparti,Matthew Caesar 0001,Brighten Godfrey	10.1109/ICDCS.2010.85
+Message-Efficient Byzantine Fault-Tolerant Broadcast in a Multi-hop Wireless Sensor Network.	Marin Bertier,Anne-Marie Kermarrec,Guang Tan	10.1109/ICDCS.2010.30
+ARiA: A Protocol for Dynamic Fully Distributed Grid Meta-scheduling.	Amos Brocco,Apostolos Malatras,Ye Huang,Béat Hirsbrunner	10.1109/ICDCS.2010.44
+CONTRACT: Incorporating Coordination into the IP Network Control Plane.	Zheng Cai,Florin Dinu,Jie Zheng,Alan L. Cox,T. S. Eugene Ng	10.1109/ICDCS.2010.77
+LT Network Codes.	Mary-Luc Champel,Kévin Huguenin,Anne-Marie Kermarrec,Nicolas Le Scouarnec	10.1109/ICDCS.2010.14
+On Achieving Maximum Secure Throughput Using Network Coding against Wiretap Attack.	Xiangmao Chang,Jin Wang 0009,Jianping Wang 0001,Victor C. S. Lee,Kejie Lu,Yixian Yang	10.1109/ICDCS.2010.27
+Divide and Conquer Algorithms for Publish/Subscribe Overlay Design.	Chen Chen 0008,Hans-Arno Jacobsen,Roman Vitenberg	10.1109/ICDCS.2010.87
+Complexity Analysis of Weak Multitolerance.	Jingshu Chen,Sandeep S. Kulkarni	10.1109/ICDCS.2010.80
+Publisher Placement Algorithms in Content-Based Publish/Subscribe.	Alex King Yeung Cheung,Hans-Arno Jacobsen	10.1109/ICDCS.2010.86
+New Algorithms for Planning Bulk Transfer via Internet and Shipping Networks.	Brian Cho,Indranil Gupta	10.1109/ICDCS.2010.59
+Versatile Stack Management for Multitasking Sensor Networks.	Rui Chu,Lin Gu 0001,Yunhao Liu 0001,Mo Li 0001,Xicheng Lu	10.1109/ICDCS.2010.42
+Resource Allocation with Supply Adjustment in Distributed Computing Systems.	Amir Danak,Shie Mannor	10.1109/ICDCS.2010.60
+Distributed Node Coloring in the SINR Model.	Bilel Derbel,El-Ghazali Talbi	10.1109/ICDCS.2010.35
+Distributed Construction of Connected Dominating Sets with Minimum Routing Cost in Wireless Networks.	Ling Ding,Xiaofeng Gao 0001,Weili Wu 0001,Wonjun Lee 0001,Xu Zhu,Ding-Zhu Du	10.1109/ICDCS.2010.17
+Efficient and Progressive Algorithms for Distributed Skyline Queries over Uncertain Data.	Xiaofeng Ding 0001,Hai Jin 0001	10.1109/ICDCS.2010.13
+Adaptive Jamming-Resistant Broadcast Systems with Partial Channel Sharing.	Qi Dong 0001,Donggang Liu	10.1109/ICDCS.2010.25
+Distributed Coverage in Wireless Ad Hoc and Sensor Networks by Topological Graph Approaches.	Dezun Dong,Yunhao Liu 0001,Kebin Liu,Xiangke Liao	10.1109/ICDCS.2010.9
+A Spinning Join That Does Not Get Dizzy.	Philip Werner Frey,Romulo Goncalves,Martin L. Kersten,Jens Teubner	10.1109/ICDCS.2010.23
+Efficient Workstealing for Multicore Event-Driven Systems.	Fabien Gaud,Sylvain Geneves,Renaud Lachaize,Baptiste Lepers,Fabien Mottet,Gilles Muller,Vivien Quéma	10.1109/ICDCS.2010.55
+On the Impact of MIMO Diversity on Higher Layer Performance.	Ece Gelal,Konstantinos Pelechrinis,Ioannis Broustis,Srikanth V. Krishnamurthy,Saif K. Mohammed,Ananthanarayanan Chockalingam,Sneha Kumar Kasera	10.1109/ICDCS.2010.19
+Bounding Communication Delay in Energy Harvesting Sensor Networks.	Yu Gu 0001,Tian He 0001	10.1109/ICDCS.2010.41
+StreamCloud: A Large Scale Data Streaming System.	Vincenzo Gulisano,Ricardo Jiménez-Peris,Marta Patiño-Martínez,Patrick Valduriez	10.1109/ICDCS.2010.72
+Reliability Calculus: A Theoretical Framework to Analyze Communication Reliability.	Wenbo He,Xue Liu 0001,Long Zheng,Hao Yang	10.1109/ICDCS.2010.73
+DISCO: Memory Efficient and Accurate Flow Statistics for Network Measurement.	Chengchen Hu,Bin Liu 0001,Hongbo Zhao,Kai Chen 0005,Yan Chen 0004,Chunming Wu,Yu Cheng 0003	10.1109/ICDCS.2010.57
+Capacity Scaling in Mobile Wireless Ad Hoc Network with Infrastructure Support.	Wentao Huang,Xinbing Wang,Qian Zhang 0001	10.1109/ICDCS.2010.43
+ESCUDO: A Fine-Grained Protection Model for Web Browsers.	Karthick Jayaraman,Wenliang Du,Balamurugan Rajagopalan,Steve J. Chapin	10.1109/ICDCS.2010.71
+TSF: Trajectory-Based Statistical Forwarding for Infrastructure-to-Vehicle Data Delivery in Vehicular Networks.	Jaehoon Jeong 0001,Shuo Guo,Yu Gu 0001,Tian He 0001,David H. C. Du	10.1109/ICDCS.2010.24
+Duty-Cycle-Aware Minimum Latency Broadcast Scheduling in Multi-hop Wireless Networks.	Xianlong Jiao,Wei Lou,Junchao Ma,Jiannong Cao 0001,Xiaodong Wang 0002,Xingming Zhou	10.1109/ICDCS.2010.20
+Safe and Stabilizing Distributed Cellular Flows.	Taylor T. Johnson,Sayan Mitra,Karthik Manamcheri	10.1109/ICDCS.2010.49
+Mistral: Dynamically Managing Power, Performance, and Adaptation Cost in Cloud Infrastructures.	Gueyoung Jung,Matti A. Hiltunen,Kaustubh R. Joshi,Richard D. Schlichting,Calton Pu	10.1109/ICDCS.2010.88
+Quantifying and Querying Network Reachability.	Amir R. Khakpour,Alex X. Liu	10.1109/ICDCS.2010.15
+Fault-Containing Self-Stabilization in Asynchronous Systems with Constant Fault-Gap.	Sven Köhler 0001,Volker Turau	10.1109/ICDCS.2010.10
+Optimizing the Spatio-temporal Distribution of Cyber-Physical Systems for Environment Abstraction.	Linghe Kong,Dawei Jiang,Min-You Wu	10.1109/ICDCS.2010.52
+Existence Theorems and Approximation Algorithms for Generalized Network Security Games.	V. S. Anil Kumar 0001,Rajmohan Rajaraman,Zhifeng Sun,Ravi Sundaram	10.1109/ICDCS.2010.70
+Resource Allocation in Distributed Mixed-Criticality Cyber-Physical Systems.	Karthik Lakshmanan,Dionisio de Niz,Ragunathan Rajkumar,Gabriel A. Moreno	10.1109/ICDCS.2010.91
+FLoc : Dependable Link Access for Legitimate Traffic in Flooding Attacks.	Soo Bum Lee,Virgil D. Gligor	10.1109/ICDCS.2010.78
+Multi-dimensional Conflict Graph Based Computing for Optimal Capacity in MR-MC Wireless Networks.	Hongkun Li,Yu Cheng 0003,Chi Zhou,Peng-Jun Wan	10.1109/ICDCS.2010.58
+An Energy-Efficient Distributed Algorithm for Minimum-Latency Aggregation Scheduling in Wireless Sensor Networks.	Yingshu Li,Longjiang Guo,Sushil K. Prasad	10.1109/ICDCS.2010.11
+Fingerprinting Mobile User Positions in Sensor Networks.	Mo Li 0001,Xiaoye Jiang,Leonidas J. Guibas	10.1109/ICDCS.2010.21
+Opportunistic Routing for Interactive Traffic in Wireless Networks.	Tianji Li,Douglas J. Leith,Lili Qiu	10.1109/ICDCS.2010.74
+Design and Analysis of a New GPS Algorithm.	Wei Li 0008,Deng Li,Shuhui Yang,Zhiwei Xu 0002,Wei Zhao 0001	10.1109/ICDCS.2010.53
+Does Link Scheduling Matter on Long Paths?.	Jörg Liebeherr,Yashar Ghiassi-Farrokhfal,Almut Burchard	10.1109/ICDCS.2010.62
+P2P Streaming Capacity under Node Degree Bound.	Shao Liu,Minghua Chen 0001,Sudipta Sengupta,Mung Chiang,Jin Li 0001,Philip A. Chou	10.1109/ICDCS.2010.39
+Understanding and Improving Ratio Incentives in Private Communities.	Zhengye Liu,Prithula Dhungel,Di Wu 0001,Chao Zhang,Keith W. Ross	10.1109/ICDCS.2010.90
+When Transportation Meets Communication: V2P over VANETs.	Nianbo Liu,Ming Liu 0002,Jiannong Cao 0001,Guihai Chen,Wei Lou	10.1109/ICDCS.2010.83
+Sketch-Based Streaming PCA Algorithm for Network-Wide Traffic Anomaly Detection.	Yang Liu 0012,Linfeng Zhang,Yong Guan	10.1109/ICDCS.2010.45
+Adaptive Sampling and Diversity Reception in Multi-hop Wireless Audio Sensor Networks.	Hong Luo 0001,Jinge Wang,Yan Sun 0004,Huadong Ma,Xiang-Yang Li 0001	10.1109/ICDCS.2010.32
+Stochastic Steepest-Descent Optimization of Multiple-Objective Mobile Sensor Coverage.	Chris Y. T. Ma,David K. Y. Yau,Nung Kwan Yip,Nageswara S. V. Rao,Jiming Chen 0001	10.1109/ICDCS.2010.12
+Towards Power-Sensitive Communication on a Multiple-Access Channel.	Gianluca De Marco,Dariusz R. Kowalski	10.1109/ICDCS.2010.50
+Stabilizing Locally Maximizable Tasks in Unidirectional Networks Is Hard.	Toshimitsu Masuzawa,Sébastien Tixeuil	10.1109/ICDCS.2010.69
+Give2Get: Forwarding in Social Mobile Wireless Networks of Selfish Individuals.	Alessandro Mei,Julinda Stefa	10.1109/ICDCS.2010.36
+Parameterized Maximum and Average Degree Approximation in Topic-Based Publish-Subscribe Overlay Network Design.	Melih Onus,Andréa W. Richa	10.1109/ICDCS.2010.54
+Analyzing Self-Defense Investments in Internet Security under Cyber-Insurance Coverage.	Ranjan Pal,Leana Golubchik	10.1109/ICDCS.2010.79
+Empirical Study of a National-Scale Distributed Intrusion Detection System: Backbone-Level Filtering of HTML Responses in China.	Jong Chun Park,Jedidiah R. Crandall	10.1109/ICDCS.2010.46
+ASAP: Scalable Identification and Counting for Contactless RFID Systems.	Chen Qian 0001,Yunhuai Liu,Hoilun Ngan,Lionel M. Ni	10.1109/ICDCS.2010.84
+Phase Plane Analysis of Congestion Control in Data Center Ethernet Networks.	Fengyuan Ren,Wanchun Jiang	10.1109/ICDCS.2010.33
+A New Buffer Cache Design Exploiting Both Temporal and Content Localities.	Jin Ren,Qing Yang 0001	10.1109/ICDCS.2010.26
+Replica Placement in P2P Storage: Complexity and Game Theoretic Analyses.	Krzysztof Rzadca,Anwitaman Datta,Sonja Buchegger	10.1109/ICDCS.2010.67
+Adam2: Reliable Distribution Estimation in Decentralised Environments.	Jan Sacha,Jeff Napper,Corina Stratan,Guillaume Pierre	10.1109/ICDCS.2010.16
+&apos;Ethernet on AIR&apos;: Scalable Routing in very Large Ethernet-Based Networks.	Dhananjay Sampath,Suchit Agarwal,J. J. Garcia-Luna-Aceves	10.1109/ICDCS.2010.82
+Sifting through Network Data to Cull Activity Patterns with HEAPs.	Esam Sharafuddin,Yu Jin 0001,Nan Jiang,Zhi-Li Zhang	10.1109/ICDCS.2010.65
+Extracting More Capacity from Multi-channel Multi-radio Wireless Networks by Exploiting Power.	Devu Manikantan Shila,Yu Cheng 0003,Tricha Anjali,Peng-Jun Wan	10.1109/ICDCS.2010.64
+CacheCast: Eliminating Redundant Link Traffic for Single Source Multiple Destination Transfers.	Piotr Srebrny,Thomas Plagemann,Vera Goebel,Andreas Mauthe	10.1109/ICDCS.2010.29
+Visual, Log-Based Causal Tracing for Performance Debugging of MapReduce Systems.	Jiaqi Tan,Soila Kavulya,Rajeev Gandhi,Priya Narasimhan	10.1109/ICDCS.2010.63
+How Wireless Power Charging Technology Affects Sensor Network Deployment and Routing.	Bin Tong,Zi Li,Guiling Wang 0001,Wensheng Zhang 0001	10.1109/ICDCS.2010.61
+Nefeli: Hint-Based Execution of Workloads in Clouds.	Konstantinos Tsakalozos,Mema Roussopoulos,Vangelis Floros,Alex Delis	10.1109/ICDCS.2010.66
+3DLoc: Three Dimensional Wireless Localization Toolkit.	Jizhi Wang,Yinjie Chen,Xinwen Fu,Jie Wang 0002,Wei Yu 0002,Nan Zhang 0004	10.1109/ICDCS.2010.28
+Secure Ranked Keyword Search over Encrypted Cloud Data.	Cong Wang 0001,Ning Cao 0001,Jin Li 0002,Kui Ren 0001,Wenjing Lou	10.1109/ICDCS.2010.34
+Deployment of a Reinforcement Backbone Network with Constraints of Connection and Resources.	Peng Wei,Shan Chu,Xin Wang 0001,Yu Zhou	10.1109/ICDCS.2010.94
+An Efficient Algorithm for Cut Vertex Detection in Wireless Sensor Networks.	Shuguang Xiong,Jianzhong Li	10.1109/ICDCS.2010.38
+Design of Non-orthogonal Multi-channel Sensor Networks.	Xing Xu,Ji Luo 0001,Qian Zhang 0001	10.1109/ICDCS.2010.37
+Distributed Gateway Placement for Cost Minimization in Wireless Mesh Networks.	XiaoHua Xu,Shaojie Tang,XuFei Mao,Xiang-Yang Li 0001	10.1109/ICDCS.2010.51
+E-SmallTalker: A Distributed Mobile System for Social Networking in Physical Proximity.	Zhimin Yang,Boying Zhang,Jiangpeng Dai,Adam C. Champion,Dong Xuan,Du Li	10.1109/ICDCS.2010.56
+Are Your Hosts Trading or Plotting? Telling P2P File-Sharing and Bots Apart.	Ting-Fang Yen,Michael K. Reiter	10.1109/ICDCS.2010.76
+Practical Robust Communication in DHTs Tolerating a Byzantine Adversary.	Maxwell Young,Aniket Kate,Ian Goldberg,Martin Karsten	10.1109/ICDCS.2010.31
+RoLo: A Rotated Logging Storage Architecture for Enterprise Data Centers.	Yinliang Yue,Lei Tian 0001,Hong Jiang 0001,Fang Wang 0001,Dan Feng 0001,Quan Zhang,Pan Zeng	10.1109/ICDCS.2010.22
+A Hybrid Approach to High Availability in Stream Processing Systems.	Zhe Zhang 0005,Yu Gu 0001,Fan Ye 0003,Hao Yang 0004,Minkyong Kim,Hui Lei 0001,Zhen Liu 0001	10.1109/ICDCS.2010.81
+Using Analog Network Coding to Improve the RFID Reading Throughput.	Ming Zhang,Tao Li 0013,Shigang Chen,Bo Li	10.1109/ICDCS.2010.48
+Link-Centric Probabilistic Coverage Model for Transceiver-Free Object Detection in Wireless Networks.	Dian Zhang,Yunhuai Liu,Lionel M. Ni	10.1109/ICDCS.2010.47
+B-SUB: A Practical Bloom-Filter-Based Publish-Subscribe System for Human Networks.	Yaxiong Zhao,Jie Wu 0001	10.1109/ICDCS.2010.89
+Minimizing Probing Cost and Achieving Identifiability in Network Link Monitoring.	Qiang Zheng,Guohong Cao	10.1109/ICDCS.2010.18
+Sentomist: Unveiling Transient Sensor Network Bugs via Symptom Mining.	Yangfan Zhou,Xinyu Chen,Michael R. Lyu,Jiangchuan Liu	10.1109/ICDCS.2010.75
+Localized Algorithm for Precise Boundary Detection in 3D Wireless Networks.	Hongyu Zhou,Su Xia,Miao Jin,Hongyi Wu	10.1109/ICDCS.2010.40
+2010 International Conference on Distributed Computing Systems, ICDCS 2010, Genova, Italy, June 21-25, 2010		

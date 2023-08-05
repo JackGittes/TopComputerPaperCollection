@@ -1,0 +1,82 @@
+MFLUSH: Handling Long-Latency Loads in SMT On-Chip Multiprocessors.	Carmelo Acosta,Francisco J. Cazorla,Alex Ramírez,Mateo Valero	10.1109/ICPP.2008.48
+Overcoming Scalability Challenges for Tool Daemon Launching.	Dong H. Ahn,Dorian C. Arnold,Bronis R. de Supinski,Gregory L. Lee,Barton P. Miller,Martin Schulz 0001	10.1109/ICPP.2008.63
+Application of Automatic Parallelization to Modern Challenges of Scientific Computing Industries.	Brian Armstrong,Rudolf Eigenmann	10.1109/ICPP.2008.65
+On the Design of Fast Pseudo-Random Number Generators for the Cell Broadband Engine and an Application to Risk Analysis.	David A. Bader,Aparna Chandramowlishwaran,Virat Agarwal	10.1109/ICPP.2008.41
+Realistic Models and Efficient Algorithms for Fault Tolerant Scheduling on Heterogeneous Platforms.	Anne Benoit,Mourad Hakem,Yves Robert	10.1109/ICPP.2008.22
+Challenges and Advances in Parallel Sparse Matrix-Matrix Multiplication.	Aydin Buluç,John R. Gilbert	10.1109/ICPP.2008.45
+Ocean-Atmosphere Modelization over the Grid.	Yves Caniou,Eddy Caron,Ghislain Charrier,Andréea Chis,Frédéric Desprez,Eric Maisonnave	10.1109/ICPP.2008.37
+An Incentive-Compatible Mechanism for Scheduling Non-Malleable Parallel Jobs with Individual Deadlines.	Thomas E. Carroll,Daniel Grosu	10.1109/ICPP.2008.27
+Designing an Efficient Kernel-Level and User-Level Hybrid Approach for MPI Intra-Node Communication on Multi-Core Systems.	Lei Chai,Ping Lai,Hyun-Wook Jin,Dhabaleswar K. Panda 0001	10.1109/ICPP.2008.16
+2008 International Conference on Parallel Processing September 8-12, 2008 Portland, Oregon Exploring Parallel I/O Concurrency with Speculative Prefetching.	Yong Chen 0001,Surendra Byna,Xian-He Sun,Rajeev Thakur,William Gropp	10.1109/ICPP.2008.54
+TPTS: A Novel Framework for Very Fast Manycore Processor Architecture Simulation.	Sangyeun Cho,Socrates Demetriades,Shayne Evans,Lei Jin 0002,Hyunjin Lee,Kiyeon Lee,Michael Moeng	10.1109/ICPP.2008.7
+Solving Large, Irregular Graph Problems Using Adaptive Work-Stealing.	Guojing Cong,Sreedhar B. Kodali,Sriram Krishnamoorthy,Doug Lea,Vijay A. Saraswat,Tong Wen	10.1109/ICPP.2008.88
+Scioto: A Framework for Global-View Task Parallelism.	James Dinan,Sriram Krishnamoorthy,D. Brian Larkins,Jarek Nieplocha,P. Sadayappan	10.1109/ICPP.2008.44
+XMT-GPU: A PRAM Architecture for Graphics Computation.	Thomas M. DuBois,Bryant C. Lee,Yi Wang,Marc Olano,Uzi Vishkin	10.1109/ICPP.2008.35
+Mapping Algorithms for Multiprocessor Tasks on Multi-Core Clusters.	Jörg Dümmler,Thomas Rauber,Gudula Rünger	10.1109/ICPP.2008.42
+Non-Blocking Concurrent FIFO Queues with Single Word Synchronization Primitives.	Claude Évéquoz	10.1109/ICPP.2008.82
+On Modeling Fault Tolerance of Gossip-Based Reliable Multicast Protocols.	Xiaopeng Fan,Jiannong Cao 0001,Weigang Wu,Michel Raynal	10.1109/ICPP.2008.10
+Address Compression and Heterogeneous Interconnects for Energy-Efficient High-Performance in Tiled CMPs.	Antonio Flores,Manuel E. Acacio,Juan L. Aragón	10.1109/ICPP.2008.33
+Optimizing Issue Queue Reliability to Soft Errors on Simultaneous Multithreaded Architectures.	Xin Fu,Wangyuan Zhang,Tao Li 0006,José A. B. Fortes	10.1109/ICPP.2008.23
+A Performance Counter Based Workload Characterization on Blue Gene/P.	Karthik Ganesan 0006,Lizy Kurian John,Valentina Salapura,James C. Sexton	10.1109/ICPP.2008.57
+Thread-Sensitive Modulo Scheduling for Multicore Processors.	Lin Gao 0002,Quan Hoang Nguyen,Lian Li 0002,Jingling Xue,Tin-Fook Ngai	10.1109/ICPP.2008.46
+Bridging the Gap Between Parallel File Systems and Local File Systems: A Case Study with PVFS.	Peng Gu,Jun Wang 0001,Robert Ross	10.1109/ICPP.2008.43
+Dynamic Meta-Learning for Failure Prediction in Large-Scale Systems: A Case Study.	Jiexing Gu,Ziming Zheng,Zhiling Lan,John White,Eva Hocks,Byung-Hoon Park	10.1109/ICPP.2008.17
+On the Reliability of Large-Scale Distributed Systems A Topological View.	Yuan He 0004,Hao Ren,Yunhao Liu 0001,Baijian Yang	10.1109/ICPP.2008.9
+Parallelization and Characterization of Probabilistic Latent Semantic Analysis.	Chuntao Hong,Wenguang Chen,Weimin Zheng,Jiulong Shan,Yurong Chen 0001,Yimin Zhang 0002	10.1109/ICPP.2008.8
+Enabling Streaming Remoting on Embedded Dual-Core Processors.	Kun-Yuan Hsieh,Yen-Chih Liu,Po-Wen Wu,Shou-Wei Chang,Jenq Kuen Lee	10.1109/ICPP.2008.32
+Bounded LSH for Similarity Search in Peer-to-Peer File Systems.	Yu Hua 0001,Bin Xiao 0001,Dan Feng 0001,Bo Yu	10.1109/ICPP.2008.25
+Parallel Construction of Bidirected String Graphs for Genome Assembly.	Benjamin G. Jackson,Srinivas Aluru	10.1109/ICPP.2008.70
+Scalability Evaluation and Optimization of Multi-Core SIP Proxy Server.	Jia Zou 0001,Zhiyong Liang,Yiqi Dai	10.1109/ICPP.2008.30
+Adaptive Software Speculation for Enhancing the Cost-Efficiency of Behavior-Oriented Parallelization.	Yunlian Jiang,Xipeng Shen	10.1109/ICPP.2008.50
+Taming Single-Thread Program Performance on Many Distributed On-Chip L2 Caches.	Lei Jin 0002,Sangyeun Cho	10.1109/ICPP.2008.29
+Optimizing JPEG2000 Still Image Encoding on the Cell Broadband Engine.	Seunghwa Kang,David A. Bader	10.1109/ICPP.2008.39
+An Efficient Parallel Algorithm for the Multiple Longest Common Subsequence (MLCS) Problem.	Dmitry Korkin,Qingguo Wang,Yi Shang	10.1109/ICPP.2008.79
+DiSTM: A Software Transactional Memory Framework for Clusters.	Christos Kotselidis,Mohammad Ansari,Kim Jarvis,Mikel Luján,Chris C. Kirkham,Ian Watson	10.1109/ICPP.2008.59
+Improving the Performance of Multithreaded Sparse Matrix-Vector Multiplication Using Index and Value Compression.	Kornilios Kourtis,Georgios I. Goumas,Nectarios Koziris	10.1109/ICPP.2008.62
+Optimization of All-to-All Communication on the Blue Gene/L Supercomputer.	Sameer Kumar 0001,Yogish Sabharwal,Rahul Garg 0001,Philip Heidelberger	10.1109/ICPP.2008.83
+Fast Source Switching for Gossip-Based Peer-to-Peer Streaming.	Zhenhua Li 0001,Jiannong Cao 0001,Guihai Chen,Yan Liu 0004	10.1109/ICPP.2008.21
+Prefix Computation and Sorting in Dual-Cube.	Yamin Li,Shietung Peng,Wanming Chu	10.1109/ICPP.2008.18
+Utility-Based Distributed Routing in Intermittently Connected Networks.	Ze Li,Haiying Shen	10.1109/ICPP.2008.77
+A Multiway Partitioning Algorithm for Parallel Gate Level Verilog Simulation.	Lijun Li,Carl Tropper	10.1109/ICPP.2008.89
+A List-Based Strategy for Optimal Replica Placement in Data Grid Systems.	Yi-Fang Lin,Jan-Jan Wu,Pangfeng Liu	10.1109/ICPP.2008.31
+VELO: A Novel Communication Engine for Ultra-Low Latency Message Transfers.	Heiner Litz,Holger Fröning,Mondrian Nüssle,Ulrich Brüning 0001	10.1109/ICPP.2008.85
+Two-Level Reorder Buffers: Accelerating Memory-Bound Applications on SMT Architectures.	Jason Loew,Dmitry Ponomarev 0001	10.1109/ICPP.2008.24
+Optimized Workflow Orchestration of Database Aggregate Operations on Heterogenous Grids.	Werner Mach,Erich Schikuta	10.1109/ICPP.2008.12
+Scalable Techniques for Transparent Privatization in Software Transactional Memory.	Virendra J. Marathe,Michael F. Spear,Michael L. Scott	10.1109/ICPP.2008.69
+On the Potentials of Segment-Based Routing for NoCs.	Andres Mejia,Jose Flich,José Duato	10.1109/ICPP.2008.56
+Network Reconfiguration Suitability for Scientific Applications.	Héctor Montaner,Federico Silla,Vicente Santonja,José Duato	10.1109/ICPP.2008.58
+Performance of HPC Middleware over InfiniBand WAN.	Sundeep Narravula,Hari Subramoni,Ping Lai,Ranjit Noronha,Dhabaleswar K. Panda 0001	10.1109/ICPP.2008.75
+The MAP3S Static-and-Regular Mesh Simulation and Wavefront Parallel-Programming Patterns.	Robert Niewiadomski,José Nelson Amaral,Duane Szafron	10.1109/ICPP.2008.34
+Scheduling CPU-Intensive Grid Applications Using Partial Information.	Nelson Nobrega,Leonardo De Assis,Francisco Vilar Brasileiro	10.1109/ICPP.2008.40
+IMCa: A High Performance Caching Front-End for GlusterFS on InfiniBand.	Ranjit Noronha,Dhabaleswar K. Panda 0001	10.1109/ICPP.2008.84
+Scalable Dynamic Load Balancing Using UPC.	Stephen Olivier,Jan F. Prins	10.1109/ICPP.2008.19
+Machine Learning Models to Predict Performance of Computer System Design Alternatives.	Berkin Özisikyilmaz,Gokhan Memik,Alok N. Choudhary	10.1109/ICPP.2008.36
+Flash Data Dissemination in Unstructured Peer-to-Peer Networks.	Antonis Papadimitriou,Alex Delis	10.1109/ICPP.2008.66
+Detecting Patterns in MPI Communication Traces.	Robert Preissl,Thomas Köckerbauer,Martin Schulz 0001,Dieter Kranzlmüller,Bronis R. de Supinski,Daniel J. Quinlan	10.1109/ICPP.2008.71
+Cellular ANTomata: Food-Finding and Maze-Threading.	Arnold L. Rosenberg	10.1109/ICPP.2008.13
+Improving Priority Enforcement via Non-Work-Conserving Scheduling.	Juan Carlos Saez,José Ignacio Gómez,Manuel Prieto 0001	10.1109/ICPP.2008.38
+Tracking Nanostructural Evolution in Alloys: Large-Scale Analysis of Atom Probe Tomography Data on Blue Gene/L.	Sudip Seal,Michael Moody,Anna Ceguerra,Simon P. Ringer,Krishna Rajan,Srinivas Aluru	10.1109/ICPP.2008.73
+GeWave: Geographically-Aware Wave for File Consistency Maintenance in P2P Systems.	Haiying Shen	10.1109/ICPP.2008.52
+On Clustering Tasks in IC-Optimal Dags.	Mark Sims,Gennaro Cordasco,Arnold L. Rosenberg	10.1109/ICPP.2008.14
+Parallel Inferencing for OWL Knowledge Bases.	Ramakrishna Soma,Viktor K. Prasanna	10.1109/ICPP.2008.64
+Implementing and Exploiting Inevitability in Software Transactional Memory.	Michael F. Spear,Michael Silverman,Luke Dalessandro,Maged M. Michael,Michael L. Scott	10.1109/ICPP.2008.55
+TFlux: A Portable Platform for Data-Driven Multithreading on Commodity Multicore Systems.	Kyriakos Stavrou,Marios Nikolaides,Demos Pavlou,Samer Arandi,Paraskevas Evripidou,Pedro Trancoso	10.1109/ICPP.2008.74
+Achieving Multi-Level Parallelism in the Filter-Labeled Stream Programming Model.	George Teodoro,Daniel Fireman,Dorgival Olavo Guedes Neto,Wagner Meira Jr.,Renato Ferreira 0001	10.1109/ICPP.2008.72
+Accommodation of the Bandwidth of Large Cache Blocks Using Cache/Memory Link Compression.	Martin Thuresson,Per Stenström	10.1109/ICPP.2008.47
+Towards Minimum Traffic Cost and Minimum Response Latency: A Novel Dynamic Query Protocol in Unstructured P2P Networks.	Chen Tian 0001,Hongbo Jiang 0001,Xue Liu,Wenyu Liu 0001,Yi Wang 0049	10.1109/ICPP.2008.78
+A Scalable Architecture for Crowd Simulation: Implementing a Parallel Action Server.	Guillermo Vigueras,Miguel Lozano,Carlos Perez,Juan M. Orduña	10.1109/ICPP.2008.20
+A Duplication Based Algorithm for Optimizing Latency Under Throughput Constraints for Streaming Workflows.	Nagavijayalakshmi Vydyanathan,Ümit V. Çatalyürek,Tahsin M. Kurç,P. Sadayappan,Joel H. Saltz	10.1109/ICPP.2008.68
+Location Dependent Cooperative Caching in MANET.	Yilin Wang,Edward Chan,Wenzhong Li,Sanglu Lu	10.1109/ICPP.2008.26
+On-the-Fly Recovery of Job Input Data in Supercomputers.	Chao Wang 0056,Zhe Zhang 0005,Sudharshan S. Vazhkudai,Xiaosong Ma,Frank Mueller 0001	10.1109/ICPP.2008.28
+A Distributed Context-Free Language Constrained Shortest Path Algorithm.	Charles B. Ward,Nathan M. Wiegand,Phillip G. Bradford	10.1109/ICPP.2008.67
+Deadlock-Free Fully Adaptive Routing in Tori Based on a New Virtual Network Partitioning Scheme.	Dong Xiang,Qi Wang,Yi Pan 0001	10.1109/ICPP.2008.81
+The Content Pollution in Peer-to-Peer Live Streaming Systems: Analysis and Implications.	Sirui Yang,Hai Jin 0001,Bo Li 0001,Xiaofei Liao,Hong Yao,Xuping Tu	10.1109/ICPP.2008.80
+A Replication Overlay Assisted Resource Discovery Service for Federated Systems.	Hao Yang 0004,Fan Ye 0003,Zhen Liu 0001	10.1109/ICPP.2008.61
+ParColl: Partitioned Collective I/O on the Cray XT.	Weikuan Yu,Jeffrey S. Vetter	10.1109/ICPP.2008.76
+Impacts of Indirect Blocks on Buffer Cache Energy Efficiency.	Jianhui Yue,Yifeng Zhu,Zhao Cai	10.1109/ICPP.2008.60
+Maotai: View-Oriented Parallel Programming on CMT Processors.	Jiaqi Zhang,Zhiyi Huang 0001,Wenguang Chen,Qihang Huang,Weimin Zheng	10.1109/ICPP.2008.15
+Memory Access Scheduling Schemes for Systems with Multi-Core Processors.	Hongzhong Zheng,Jiang Lin,Zhao Zhang 0010,Zhichun Zhu	10.1109/ICPP.2008.53
+Thermal Management for 3D Processors via Task Scheduling.	Xiuyi Zhou,Yi Xu,Yu Du,Youtao Zhang,Jun Yang 0002	10.1109/ICPP.2008.51
+Bandwidth-Efficient Continuous Query Processing over DHTs.	Yingwu Zhu	10.1109/ICPP.2008.11
+Resource Allocation for Distributed Streaming Applications.	Qian Zhu 0001,Gagan Agrawal	10.1109/ICPP.2008.49
+2008 International Conference on Parallel Processing, ICPP 2008, September 8-12, 2008, Portland, Oregon, USA		

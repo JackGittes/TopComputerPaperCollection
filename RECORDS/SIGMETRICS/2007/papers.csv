@@ -1,0 +1,49 @@
+Mean delay optimization for the M/G/1 queue with pareto type service times.	Samuli Aalto,Urtzi Ayesta	10.1145/1254882.1254941
+An analysis of latent sector errors in disk drives.	Lakshmi N. Bairavasundaram,Garth R. Goodson,Shankar Pasupathy,Jiri Schindler	10.1145/1254882.1254917
+Optimal capacity planning in stochastic loss networks with time-varying workloads.	Sandeep Bhadra,Yingdong Lu,Mark S. Squillante	10.1145/1254882.1254909
+Bounding damage from link destruction, with application to the internet.	George Dean Bissias,Brian Neil Levine,Arnold L. Rosenberg	10.1145/1254882.1254933
+Bottom-k sketches: better and more efficient estimation of aggregates.	Edith Cohen,Haim Kaplan	10.1145/1254882.1254926
+An algorithm for approximate counting using limited memory resources.	Andrej Cvetkovski	10.1145/1254882.1254903
+Pong: diagnosing spatio-temporal internet congestion properties.	Leiwen Deng,Aleksandar Kuzmanovic	10.1145/1254882.1254940
+Wire speed packet classification without tcams: a few more registers (and a bit of logic) are enough.	Qunfeng Dong,Suman Banerjee 0001,Jia Wang,Dheeraj Agrawal	10.1145/1254882.1254914
+Semi-supervised network traffic classification.	Jeffrey Erman,Anirban Mahanti,Martin F. Arlitt,Ira Cohen,Carey L. Williamson	10.1145/1254882.1254934
+PBS: a unified priority-based scheduler.	Hanhua Feng,Vishal Misra,Dan Rubenstein	10.1145/1254882.1254906
+GRE encapsulated multicast probing: a scalable technique for measuring one-way loss.	Yu Gu 0004,Lee Breslau,Nick G. Duffield,Subhabrata Sen	10.1145/1254882.1254927
+pClock: an arrival curve based approach for QoS guarantees in shared storage systems.	Ajay Gulati,Arif Merchant,Peter J. Varman	10.1145/1254882.1254885
+Does internet media traffic really follow Zipf-like distribution?	Lei Guo 0004,Enhua Tan,Songqing Chen,Zhen Xiao,Xiaodong Zhang 0001	10.1145/1254882.1254929
+Building high accuracy bloom filters using partitioned hashing.	Fang Hao,Murali S. Kodialam,T. V. Lakshman	10.1145/1254882.1254916
+BRADO: scalable streaming through reconfigurable trees.	Jiayue He,Augustin Chaintreau	10.1145/1254882.1254938
+Data layouts for object-oriented programs.	Martin Hirzel	10.1145/1254882.1254915
+Comparative characterization of SPEC CPU2000 and CPU2006 on Itanium architecture.	Arun Kejariwal,Gerolf Hoflehner,Darshan Desai,Daniel M. Lavery,Alexandru Nicolau,Alexander V. Veidenbaum	10.1145/1254882.1254930
+Analyzing commercial processor performance numbers for predicting performance of applications of interest.	Kenneth Hoste,Lieven Eeckhout,Hendrik Blockeel	10.1145/1254882.1254937
+Diagnosing network disruptions with network-wide analysis.	Yiyi Huang,Nick Feamster,Anukool Lakhina,Jun (Jim) Xu	10.1145/1254882.1254890
+QoS policies and architecture for cache/memory in CMP platforms.	Ravi R. Iyer 0001,Li Zhao 0002,Fei Guo,Ramesh Illikkal,Srihari Makineni,Donald Newell,Yan Solihin,Lisa R. Hsu,Steven K. Reinhardt	10.1145/1254882.1254886
+Asynchronous iterative solution for state-based performance metrics.	Douglas Vincent de Jager,Jeremy T. Bradley	10.1145/1254882.1254936
+Adaptive and scalable comparison scheduling.	Predrag R. Jelenkovic,Xiaozhu Kang,Jian Tan	10.1145/1254882.1254907
+Modeling and improving data cache reliability.	Ismail Kadayif,Mahmut T. Kandemir	10.1145/1254882.1254884
+Two-phase routing, scheduling and power control for wireless mesh networks with variable traffic.	Abhishek Kashyap,Sudipta Sengupta,Randeep Bhatia,Murali S. Kodialam	10.1145/1254882.1254893
+Backbone construction in selfish wireless networks.	Seungjoon Lee,Dave Levin,Vijay Gopalakrishnan,Bobby Bhattacharjee	10.1145/1254882.1254896
+Synthetic designs: a new form of true experimental design for use in information systems development.	Eric S. Lee,Thomas Whalen	10.1145/1254882.1254904
+Clustering and sharing incentives in BitTorrent systems.	Arnaud Legout,Nikitas Liogkas,Eddie Kohler,Lixia Zhang 0001	10.1145/1254882.1254919
+Power reduction through measurement and modeling of users and CPUs: summary.	Bin Lin 0002,Arindam Mallik,Peter A. Dinda,Gokhan Memik,Robert P. Dick	10.1145/1254882.1254931
+Flow-level stability of data networks with non-convex and time-varying rate regions.	Jiaping Liu,Alexandre Proutière,Yung Yi,Mung Chiang,H. Vincent Poor	10.1145/1254882.1254910
+Modeling the relative fitness of storage.	Michael P. Mesnier,Matthew Wachs,Raja R. Sambasivan,Alice X. Zheng,Gregory R. Ganger	10.1145/1254882.1254887
+Efficient management of idleness in systems.	Ningfang Mi,Alma Riska,Qi Zhang 0012,Evgenia Smirni,Erik Riedel	10.1145/1254882.1254935
+When is service really denied?: a user-centric dos metric.	Jelena Mirkovic,Alefiya Hussain,Brett Wilson,Sonia Fahmy,Wei-Min Yao,Peter L. Reiher,Stephen Schwab,Roshan K. Thomas	10.1145/1254882.1254928
+A machine learning approach to TCP throughput prediction.	Mariyam Mirza,Joel Sommers,Paul Barford,Xiaojin Zhu 0001	10.1145/1254882.1254894
+Evaluating SIP server performance.	Erich M. Nahum,John M. Tracey,Charles P. Wright	10.1145/1254882.1254924
+QBETS: queue bounds estimation from time series.	Daniel Nurmi,John Brevik,Richard Wolski	10.1145/1254882.1254939
+Optimizing system configurations quickly by guessing at the performance.	Takayuki Osogami,Sei Kato	10.1145/1254882.1254899
+Managing energy-performance tradeoffs for multithreaded applications on multiprocessor architectures.	Soyeon Park,Weihang Jiang,Yuanyuan Zhou 0001,Sarita V. Adve	10.1145/1254882.1254902
+Understanding network delay changes caused by routing events.	Himabindu Pucha,Ying Zhang 0022,Zhuoqing Morley Mao,Y. Charlie Hu	10.1145/1254882.1254891
+Pipeline spectroscopy.	Thomas R. Puzak,Allan Hartstein,Viji Srinivasan,Philip G. Emma,Arthur Nadas	10.1145/1254882.1254925
+Theoretical bounds on control-plane self-monitoring in routing protocols.	Raj Kumar Rajendran,Vishal Misra,Dan Rubenstein	10.1145/1254882.1254921
+Sensitivity of PCA for traffic anomaly detection.	Haakon Ringberg,Augustin Soule,Jennifer Rexford,Christophe Diot	10.1145/1254882.1254895
+Distributed link scheduling with constant overhead.	Sujay Sanghavi,Loc Bui,R. Srikant 0001	10.1145/1254882.1254920
+Future directions in performance evaluation research.	Evgenia Smirni,Frederica Darema,Albert G. Greenberg,Adolfy Hoisie,Donald F. Towsley	10.1145/1254882.1254912
+Generating representative ISP topologies from first-principles.	Chong Wang,John W. Byers	10.1145/1254882.1254932
+Sizing sketches: a rank-based analysis for similarity search.	Zhe Wang,Wei Dong 0003,William Josephson,Qin Lv,Moses Charikar,Kai Li 0001	10.1145/1254882.1254900
+Facilitating focused internet measurements.	Zhihua Wen,Sipat Triukose,Michael Rabinovich	10.1145/1254882.1254889
+Scalability of fork/join queueing networks with blocking.	Cathy H. Xia,Zhen Liu 0001,Donald F. Towsley,Marc Lelarge	10.1145/1254882.1254898
+Oblivious routing for fat-tree based system area networks with uncertain traffic demands.	Xin Yuan 0001,Wickus Nienaber,Zhenhai Duan,Rami G. Melhem	10.1145/1254882.1254922
+Proceedings of the 2007 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2007, San Diego, California, USA, June 12-16, 2007	Leana Golubchik,Mostafa H. Ammar,Mor Harchol-Balter	10.1145/1254882

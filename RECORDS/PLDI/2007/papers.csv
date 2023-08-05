@@ -1,0 +1,46 @@
+Path invariants.	Dirk Beyer 0001,Thomas A. Henzinger,Rupak Majumdar,Andrey Rybalchenko	10.1145/1250734.1250769
+CheckFence: checking consistency of concurrent data types on relaxed memory models.	Sebastian Burckhardt,Rajeev Alur,Milo M. K. Martin	10.1145/1250734.1250737
+Certified self-modifying code.	Hongxu Cai,Zhong Shao,Alexander Vaynberg	10.1145/1250734.1250743
+Practical memory leak detection using guarded value-flow analysis.	Sigmund Cherem,Lonnie Princehouse,Radu Rugina	10.1145/1250734.1250789
+A certified type-preserving compiler from lambda calculus to assembly language.	Adam Chlipala	10.1145/1250734.1250742
+Proving thread termination.	Byron Cook,Andreas Podelski,Andrey Rybalchenko	10.1145/1250734.1250771
+Offline compression for on-chip ram.	Nathan Cooprider,John Regehr	10.1145/1250734.1250776
+Static error detection using semantic inconsistency inference.	Isil Dillig,Thomas Dillig,Alex Aiken	10.1145/1250734.1250784
+Software behavior oriented parallelization.	Chen Ding 0001,Xipeng Shen,Kirk Kelsey,Chris Tice,Ruke Huang,Chengliang Zhang	10.1145/1250734.1250760
+Goldilocks: a race and transaction-aware java runtime.	Tayfun Elmas,Shaz Qadeer,Serdar Tasiran	10.1145/1250734.1250762
+Efficient static analysis of XML paths and types.	Pierre Genevès,Nabil Layaïda,Alan Schmitt	10.1145/1250734.1250773
+Thread-modular shape analysis.	Alexey Gotsman,Josh Berdine,Byron Cook,Mooly Sagiv	10.1145/1250734.1250765
+Shape analysis with inductive recursion synthesis.	Bolei Guo,Neil Vachharajani,David I. August	10.1145/1250734.1250764
+Improved error reporting for software that uses black-box components.	Jungwoo Ha,Christopher J. Rossbach,Jason V. Davis,Indrajit Roy 0001,Hany E. Ramadan,Donald E. Porter,David L. Chen,Emmett Witchel	10.1145/1250734.1250747
+The ant and the grasshopper: fast and accurate pointer analysis for millions of lines of code.	Ben Hardekopf,Calvin Lin	10.1145/1250734.1250767
+Mace: language support for building distributed systems.	Charles Edwin Killian,James W. Anderson,Ryan Braud,Ranjit Jhala,Amin Vahdat	10.1145/1250734.1250755
+Regularly annotated set constraints.	John Kodumal,Alex Aiken	10.1145/1250734.1250772
+Reliable and efficient programming abstractions for wireless sensor networks.	Nupur Kothari,Ramakrishna Gummadi,Todd D. Millstein,Ramesh Govindan	10.1145/1250734.1250757
+Effective automatic parallelization of stencil computations.	Sriram Krishnamoorthy,Muthu Manikandan Baskaran,Uday Bondhugula,J. Ramanujam,Atanas Rountev,P. Sadayappan	10.1145/1250734.1250761
+Optimistic parallelism requires abstractions.	Milind Kulkarni 0001,Keshav Pingali,Bruce Walter,Ganesh Ramanarayanan,Kavita Bala,L. Paul Chew	10.1145/1250734.1250759
+Making context-sensitive points-to analysis with heap cloning practical for the real world.	Chris Lattner,Andrew Lenharth,Vikram S. Adve	10.1145/1250734.1250766
+Searching for type-error messages.	Benjamin S. Lerner,Matthew Flower,Dan Grossman,Craig Chambers	10.1145/1250734.1250783
+Profile-driven energy reduction in network-on-chips.	Feihui Li,Guangyu Chen,Mahmut T. Kandemir,Ibrahim Kolcu	10.1145/1250734.1250779
+Combining events and threads for scalable network services implementation and evaluation of monadic, application-level concurrency primitives.	Peng Li,Steve Zdancewic	10.1145/1250734.1250756
+UCC: update-conscious compilation for energy efficiency in wireless sensor networks.	Weijia Li,Youtao Zhang,Jun Yang 0002,Jiang Zheng 0002	10.1145/1250734.1250778
+A general framework for certifying garbage collectors and their mutators.	Andrew McCreight,Zhong Shao,Chunxiao Lin,Long Li	10.1145/1250734.1250788
+Automatic inversion generates divide-and-conquer parallel programs.	Kazutaka Morita,Akimasa Morihata,Kiminori Matsuzaki,Zhenjiang Hu,Masato Takeichi	10.1145/1250734.1250752
+Iterative context bounding for systematic testing of multithreaded programs.	Madanlal Musuvathi,Shaz Qadeer	10.1145/1250734.1250785
+Automatically classifying benign and harmful data racesallusing replay analysis.	Satish Narayanasamy,Zhenghao Wang,Jordan Tigani,Andrew Edwards,Brad Calder	10.1145/1250734.1250738
+Valgrind: a framework for heavyweight dynamic binary instrumentation.	Nicholas Nethercote,Julian Seward	10.1145/1250734.1250746
+Exterminator: automatically correcting memory errors with high probability.	Gene Novark,Emery D. Berger,Benjamin G. Zorn	10.1145/1250734.1250736
+Fault-tolerant typed assembly language.	Frances Perry,Lester W. Mackey,George A. Reis,Jay Ligatti,David I. August,David Walker	10.1145/1250734.1250741
+Static specification inference using predicate mining.	Murali Krishna Ramanathan,Ananth Grama,Suresh Jagannathan	10.1145/1250734.1250749
+Parameterized tiled loops for free.	Lakshminarayanan Renganarayanan,DaeGon Kim,Sanjay V. Rajopadhye,Michelle Mills Strout	10.1145/1250734.1250780
+Automatic inference of optimizer flow functions from semantic meanings.	Erika Rice Scherpelz,Sorin Lerner,Craig Chambers	10.1145/1250734.1250750
+Online optimizations driven by hardware performance monitoring.	Florian T. Schneider,Mathias Payer,Thomas R. Gross	10.1145/1250734.1250777
+DITTO: automatic incrementalization of data structure invariant checks (in Java).	Ajeet Shankar,Rastislav Bodík	10.1145/1250734.1250770
+Enforcing isolation and ordering in STM.	Tatiana Shpeisman,Vijay Menon 0002,Ali-Reza Adl-Tabatabai,Steven Balensiefer,Dan Grossman,Richard L. Hudson,Katherine F. Moore,Bratin Saha	10.1145/1250734.1250744
+Sketching stencils.	Armando Solar-Lezama,Gilad Arnold,Liviu Tancau,Rastislav Bodík,Vijay A. Saraswat,Sanjit A. Seshia	10.1145/1250734.1250754
+Thin slicing.	Manu Sridharan,Stephen J. Fink,Rastislav Bodík	10.1145/1250734.1250748
+The ExoVM system for automatic VM and application reduction.	Ben L. Titzer,Joshua S. Auerbach,David F. Bacon,Jens Palsberg	10.1145/1250734.1250775
+CGCExplorer: a semi-automated search procedure for provably correct concurrent collectors.	Martin T. Vechev,Eran Yahav,David F. Bacon,Noam Rinetzky	10.1145/1250734.1250787
+EXOCHI: architecture and programming environment for a heterogeneous multi-core multithreaded system.	Perry H. Wang,Jamison D. Collins,Gautham N. Chinya,Hong Jiang,Xinmin Tian,Milind Girkar,Nick Y. Yang,Guei-Yuan Lueh,Hong Wang 0003	10.1145/1250734.1250753
+Sound and precise analysis of web applications for injection vulnerabilities.	Gary Wassermann,Zhendong Su 0001	10.1145/1250734.1250739
+Towards locating execution omission errors.	Xiangyu Zhang 0001,Sriraman Tallam,Neelam Gupta,Rajiv Gupta 0001	10.1145/1250734.1250782
+Proceedings of the ACM SIGPLAN 2007 Conference on Programming Language Design and Implementation, San Diego, California, USA, June 10-13, 2007	Jeanne Ferrante,Kathryn S. McKinley	10.1145/1250734

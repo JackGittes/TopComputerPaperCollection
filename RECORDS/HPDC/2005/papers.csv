@@ -1,0 +1,47 @@
+Towards P2P-routed IF overlay networks for grid virtual machines.	Abhishek Agrawal,Arijit Ganguly,P. Oscar Boykin,Renato J. O. Figueiredo	10.1109/HPDC.2005.1520981
+Distributed application management using Plush.	Jeannie R. Albrecht,Christopher Tuttle,Alex C. Snoeren,Amin Vahdat	10.1109/HPDC.2005.1520975
+Genetic algorithm based automatic data partitioning scheme for HPF.	Sunil Kumar Anand,Y. N. Srikant	10.1109/HPDC.2005.1520979
+Lerna: an active storage framework for flexible data access and management.	Stergios V. Anastasiadis,Rajiv Wickremesinghe,Jeffrey S. Chase	10.1109/HPDC.2005.1520955
+Cluster delegation: high-performance, fault-tolerant data sharing in NFS.	Alexandros Batsakis,Randal C. Burns	10.1109/HPDC.2005.1520942
+Performance analysis of a file catalog for the LHC computing grid.	Jean-Philippe Baud,James Casey,Sophie Lemaitre,Caitriana Nicholson	10.1109/HPDC.2005.1520941
+The resource oriented authorization manager (ROAM).	Justin Burruss	10.1109/HPDC.2005.1520988
+DHT overlay schemes for scalable p-range resource discovery.	Liping Chen,K. Selçuk Candan,Jun&apos;ichi Tatemura,Divyakant Agrawal,Dirceu Cavendish	10.1109/HPDC.2005.1520983
+Calana: a general-purpose agent-based grid scheduler.	Mathias Dalheimer,Franz-Josef Pfreundt,Peter Merz	10.1109/HPDC.2005.1520974
+A new metric for robustness with application to job scheduling.	Darin England,Jon B. Weissman,Jayashree Sadagopan	10.1109/HPDC.2005.1520948
+Recording and using provenance in a protein compressibility experiment.	Paul Groth,Simon Miles,Weijian Fang,Sylvia C. Wong,Klaus-Peter Zauner,Luc Moreau 0001	10.1109/HPDC.2005.1520960
+Adaptive data block scheduling for parallel TCP streams.	Thomas J. Hacker,Brian D. Noble,Brian D. Athey	10.1109/HPDC.2005.1520970
+Building self-adapting services using service-specific knowledge.	An-Cheng Huang,Peter Steenkiste	10.1109/HPDC.2005.1520931
+State and events for Web services: a comparison of five WS-resource framework and WS-notification implementations.	Marty Humphrey,Glenn S. Wasson,Keith R. Jackson,Joshua Boverhof,Matt Rodriguez,Jarek Gawor,Joseph Bester,Sam Lang,Ian T. Foster,Sam Meder,Stephen Pickles,Mark McKeown	10.1109/HPDC.2005.1520928
+Dynamic load balancing for distributed search.	Larry Huston,Alex Nizhner,Padmanabhan Pillai,Rahul Sukthankar,Peter Steenkiste,Jiaying Zhang	10.1109/HPDC.2005.1520953
+Interest-aware information dissemination in small-world communities.	Adriana Iamnitchi,Ian T. Foster	10.1109/HPDC.2005.1520954
+GWiQ-P: an efficient decentralized grid-wide quota enforcement protocol.	Kfir Karmon,Liran Liss,Assaf Schuster	10.1109/HPDC.2005.1520964
+The MarineGrid project in Ireland.	Martin P. Kenirons,Jenny L. Ryan,John Cunniffe,Oisín Curran,Stephen Bourke,Andrew Shearer	10.1109/HPDC.2005.1520978
+A case study of instant workbench for InterProScan by Knoppix high throughput computing edition.	Fumikazu Konishi,Shingo Ohki,Yusuke Hamano,Manabu Ishii	10.1109/HPDC.2005.1520985
+Automatic dynamic run-time optical network reservations.	John R. Lange,Ananth I. Sundararaj,Peter A. Dinda	10.1109/HPDC.2005.1520969
+Collective caching: application-aware client-side file caching.	Wei-keng Liao,Kenin Coloma,Alok N. Choudhary,Lee Ward,Eric Russell,Sonja Tideman	10.1109/HPDC.2005.1520940
+Enabling self-management of component-based high-performance scientific applications.	Hua Liu 0001,Manish Parashar	10.1109/HPDC.2005.1520936
+Distributed streaming query planner in Calder system.	Ying Liu 0043,Beth Plale,Nithya N. Vijayakumar	10.1109/HPDC.2005.1520992
+A streaming validation model for SOAP digital signature.	Wei Lu,Kenneth Chiu,Aleksander Slominski,Dennis Gannon	10.1109/HPDC.2005.1520966
+Design and evaluation of a new and effective fairness scheme for multicasting in Internet-scale distributed systems.	Yijun Lu,Hong Jiang 0001	10.1109/HPDC.2005.1520977
+A framework for efficient inconsistency detection in a grid and Internet-scale distributed environment.	Yijun Lu,Hong Jiang 0001	10.1109/HPDC.2005.1520993
+Scheduling strategies for mapping application workflows onto the grid.	Anirban Mandal,Ken Kennedy,Charles Koelbel,Gabriel Marin,John M. Mellor-Crummey,Bo Liu,S. Lennart Johnsson	10.1109/HPDC.2005.1520947
+HMPI - hybrid MPI.	Francisco Isidro Massetto,Augusto Mendes Gomes Junior,Liria Matsumoto Sato	10.1109/HPDC.2005.1520987
+Design and implementation tradeoffs for wide-area resource discovery.	David L. Oppenheimer,Jeannie R. Albrecht,David A. Patterson 0001,Amin Vahdat	10.1109/HPDC.2005.1520946
+A model for cooperative federation of distributed clusters.	Rajiv Ranjan 0001,Rajkumar Buyya,Aaron Harwood	10.1109/HPDC.2005.1520982
+Assessment and enhancement of meta-schedulers for multi-site job sharing.	Gerald Sabin,Vishvesh Sahasrabudhe,P. Sadayappan	10.1109/HPDC.2005.1520949
+411 on scalable password service.	Federico D. Sacerdoti,Mason J. Katz,Philip M. Papadopoulos	10.1109/HPDC.2005.1520963
+GRIDL: high-performance and distributed interactive data language.	Svetlana G. Shasharina,Ovsei Volberg,Peter Stoltz,Seth Veitzer	10.1109/HPDC.2005.1520980
+CODO: firewall traversal by cooperative on-demand opening.	Se-Chang Son,Bill Allcock,Miron Livny	10.1109/HPDC.2005.1520965
+Increasing application performance in virtual environments through run-time inference and adaptation.	Ananth I. Sundararaj,Ashish Gupta 0003,Peter A. Dinda	10.1109/HPDC.2005.1520935
+The impact of Web service integration on grid performance.	François Taïani,Matti A. Hiltunen,Richard D. Schlichting	10.1109/HPDC.2005.1520929
+Identity boxing: secure user-level containment for the grid.	Douglas Thain	10.1109/HPDC.2005.1520984
+Techniques for tuning workflows in cluster environments.	Brian Tierney,Daniel K. Gunter	10.1109/HPDC.2005.1520986
+In-VIGO virtual networks and virtual application services: automated grid-enabling and deployment of applications.	Maurício O. Tsugawa,Andréa M. Matsunaga,Liping Zhu,Vivekananthan Sanjeepan,Herman Lam,Renato J. O. Figueiredo,José A. B. Fortes	10.1109/HPDC.2005.1520990
+Cost-based scheduling for data-intensive applications on global grids.	Srikumar Venugopal,Rajkumar Buyya	10.1109/HPDC.2005.1520989
+Calder: enabling grid access to data streams.	Nithya N. Vijayakumar,Ying Liu 0043,Beth Plale	10.1109/HPDC.2005.1520976
+The University of Bristol grid, a production campus grid.	David Wallom,Ian Stewart 0002,Jon Wakelin	10.1109/HPDC.2005.1520994
+Towards a workflow-aware distributed versioning file system for metacomputing systems.	Yang Wang 0006	10.1109/HPDC.2005.1520991
+Generosity and gluttony in GEMS: grid enabled molecular simulations.	Justin M. Wozniak,Paul R. Brenner,Douglas Thain,Aaron Striegel,Jesús A. Izaguirre	10.1109/HPDC.2005.1520959
+Autonomic runtime manager for adaptive distributed applications.	Jingmei Yang,Huoping Chen,Salim Hariri,Manish Parashar	10.1109/HPDC.2005.1520937
+Supporting application-tailored grid file system sessions with WSRF-based services.	Ming Zhao 0002,Vineet Chadha,Renato J. O. Figueiredo	10.1109/HPDC.2005.1520930
+Proceedings of the 14th IEEE International Symposium on High Performance Distributed Computing, HPDC-14, Research Triangle Park, North Carolina, USA, 24-27 July 2005		

@@ -1,0 +1,81 @@
+A high throughput FFT processor with no multipliers.	Shakeel S. Abdulla,Haewoon Nam,Mark McDermot,Jacob A. Abraham	10.1109/ICCD.2009.5413113
+Reliable cache design with detection of gate oxide breakdown using BIST.	Fahad Ahmed,Linda S. Milor	10.1109/ICCD.2009.5413131
+Efficient calibration of thermal models based on application behavior.	Youngwoo Ahn,Inchoon Yeo,Riccardo Bettati	10.1109/ICCD.2009.5413179
+3D GPU architecture using cache stacking: Performance, cost, power and thermal analysis.	Ahmed Al-Maashri,Guangyu Sun 0003,Xiangyu Dong,Vijay Narayanan,Yuan Xie 0001	10.1109/ICCD.2009.5413147
+Computer-aided design for microfluidic chips based on multilayer soft lithography.	Nada Amin,William Thies,Saman P. Amarasinghe	10.1109/ICCD.2009.5413185
+Performance analysis of decimal floating-point libraries and its impact on decimal hardware and software solutions.	Michael J. Anderson,Chuck Tsen,Liang-Kai Wang,Katherine Compton,Michael J. Schulte	10.1109/ICCD.2009.5413114
+3D stacked power distribution considering substrate coupling.	Amirali Shayan Arani,Xiang Hu,Wanping Zhang,Chung-Kuan Cheng,A. Ege Engin,Xiaoming Chen,Mikhail Popovich	10.1109/ICCD.2009.5413151
+Framework for massively parallel testing at wafer and package test.	A. Hakan Baba,Kee Sup Kim	10.1109/ICCD.2009.5413134
+Low-overhead error detection for Networks-on-Chip.	Amit Berman,Idit Keidar	10.1109/ICCD.2009.5413150
+Pragmatic design of gated-diode FinFET DRAMs.	Ajay N. Bhoj,Niraj K. Jha	10.1109/ICCD.2009.5413127
+On-chip bidirectional wiring for heavily pipelined systems using network coding.	Kalyana C. Bollapalli,Rajesh Garg,Kanupriya Gulati,Sunil P. Khatri	10.1109/ICCD.2009.5413165
+A flexible communication scheme for rationally-related clock frequencies.	Jean-Michel Chabloz,Ahmed Hemani	10.1109/ICCD.2009.5413166
+Testing bio-chips.	Krishnendu Chakrabarty	10.1109/ICCD.2009.5413137
+A hierarchical approach towards system level static timing verification of SoCs.	Rupsa Chakraborty,Dipanwita Roy Chowdhury	10.1109/ICCD.2009.5413155
+Iterative built-in testing and tuning of mixed-signal/RF systems.	Abhijit Chatterjee,Donghoon Han,Vishwanath Natarajan,Shyam Kumar Devarakond,Shreyas Sen,Hyun Woo Choi,Rajarajan Senguttuvan,Soumendu Bhattacharya,Abhilash Goyal,Deuk Lee,Madhavan Swaminathan	10.1109/ICCD.2009.5413136
+SHIELDSTRAP: Making secure processors truly secure.	Siddhartha Chhabra,Brian Rogers,Yan Solihin	10.1109/ICCD.2009.5413140
+Extending data prefetching to cope with context switch misses.	Hanyu Cui,Suleyman Sair	10.1109/ICCD.2009.5413144
+Rapid early-stage microarchitecture design using predictive models.	Christophe Dubach,Timothy M. Jones 0001,Michael F. P. O&apos;Boyle	10.1109/ICCD.2009.5413141
+Hierarchical parametric test metrics estimation: A ΣΔ converter BIST case study.	Matthieu Dubois,Haralampos-G. D. Stratigopoulos,Salvador Mir	10.1109/ICCD.2009.5413173
+A disruptive computer design idea: Architectures with repeatable timing.	Stephen A. Edwards,Sungjun Kim,Edward A. Lee,Isaac Liu,Hiren D. Patel,Martin Schoeberl	10.1109/ICCD.2009.5413177
+Analysis and optimization of pausible clocking based GALS design.	Xin Fan 0003,Milos Krstic,Eckhard Grass	10.1109/ICCD.2009.5413130
+Online multiple error detection in crossbar nano-architectures.	Navid Farazmand,Mehdi Baradaran Tahoori	10.1109/ICCD.2009.5413135
+Accurate estimation of vector dependent leakage power in the presence of process variations.	Romana Fernandes,Ranga Vemuri	10.1109/ICCD.2009.5413116
+Topology-driven cell layout migration with collinear constraints.	De-Shiun Fu,Ying-Zhih Chaung,Yen-Hung Lin,Yih-Lang Li	10.1109/ICCD.2009.5413118
+Interconnect performance corners considering crosstalk noise.	Ravikishore Gandikota,David T. Blaauw,Dennis Sylvester	10.1109/ICCD.2009.5413148
+3D simulation and analysis of the radiation tolerance of voltage scaled digital circuit.	Rajesh Garg,Sunil P. Khatri	10.1109/ICCD.2009.5413111
+Transaction-based debugging of system-on-chips with patterns.	Amir Masoud Gharehbaghi,Masahiro Fujita	10.1109/ICCD.2009.5413157
+Adaptive online testing for efficient hard fault detection.	Shantanu Gupta,Amin Ansari,Shuguang Feng,Scott A. Mahlke	10.1109/ICCD.2009.5413132
+Using checksum to reduce power consumption of display systems for low-motion content.	Kyungtae Han,Zhen Fang,Paul Diefenbaugh,Richard Forand,Ravi R. Iyer 0001,Donald Newell	10.1109/ICCD.2009.5413176
+A novel SoC architecture on FPGA for ultra fast face detection.	Chun He,Alexandros Papakonstantinou,Deming Chen	10.1109/ICCD.2009.5413122
+Efficient binary translation system with low hardware cost.	Weiwu Hu,Qi Liu,Jian Wang,Songsong Cai,Menghao Su,Xiaoyu Li	10.1109/ICCD.2009.5413138
+A fast routability- and performance-driven droplet routing algorithm for digital microfluidic biochips.	Tsung-Wei Huang,Tsung-Yi Ho	10.1109/ICCD.2009.5413119
+ColSpace: Towards algorithm/implementation co-optimization.	Jiawei Huang 0007,John C. Lach	10.1109/ICCD.2009.5413125
+N-way ring and square arbiters.	Masashi Imai,Tomohiro Yoneda,Takashi Nanya	10.1109/ICCD.2009.5413164
+The impact of liquid cooling on 3D multi-core processors.	Hyung Beom Jang,Ikroh Yoon,Cheol Hong Kim,Seungwon Shin,Sung Woo Chung	10.1109/ICCD.2009.5413115
+Reducing dynamic power dissipation in pipelined forwarding engines.	Weirong Jiang,Viktor K. Prasanna	10.1109/ICCD.2009.5413163
+Timing variation-aware high-level synthesis considering accurate yield computation.	Jongyoon Jung,Taewhan Kim	10.1109/ICCD.2009.5413152
+Impact analysis of performance faults in modern microprocessors.	Naghmeh Karimi,Michail Maniatakos,Chandra Tirumurti,Abhijit Jas,Yiorgos Makris	10.1109/ICCD.2009.5413171
+A PLL design based on a standing wave resonant oscillator.	Vinay Karkala,Kalyana C. Bollapalli,Rajesh Garg,Sunil P. Khatri	10.1109/ICCD.2009.5413109
+On improving the algorithmic robustness of a low-power FIR filter.	Sourabh Khire,Saibal Mukhopadhyay	10.1109/ICCD.2009.5413126
+Computational bit-width allocation for operations in vector calculus.	Adam B. Kinsman,Nicola Nicolici	10.1109/ICCD.2009.5413121
+The salvage cache: A fault-tolerant cache architecture for next-generation memory technologies.	Cheng-Kok Koh,Weng-Fai Wong,Yiran Chen 0001,Hai Li 0001	10.1109/ICCD.2009.5413145
+A robust pulsed flip-flop and its use in enhanced scan design.	Rajesh Kumar,Kalyana C. Bollapalli,Rajesh Garg,Tarun Soni,Sunil P. Khatri	10.1109/ICCD.2009.5413168
+A radiation tolerant Phase Locked Loop design for digital electronics.	Rajesh Kumar,Vinay Karkala,Rajesh Garg,Tanuj Jindal,Sunil P. Khatri	10.1109/ICCD.2009.5413108
+FinFET-based dynamic power management of on-chip interconnection networks through adaptive back-gate biasing.	Chun-Yi Lee,Niraj K. Jha	10.1109/ICCD.2009.5413133
+A distributed concurrent on-line test scheduling protocol for many-core NoC-based systems.	Jason D. Lee,Rabi N. Mahapatra,Praveen Bhojwani	10.1109/ICCD.2009.5413156
+Accelerating mobile augmented reality on a handheld platform.	Seung Eun Lee,Yong Zhang,Zhen Fang,Sadagopan Srinivasan,Ravi Iyer,Donald Newell	10.1109/ICCD.2009.5413123
+Efficient architectures for elliptic curve cryptography processors for RFID.	Lawrence Leinweber,Christos A. Papachristou,Francis G. Wolff	10.1109/ICCD.2009.5413128
+Design and test strategies for microarchitectural post-fabrication tuning.	Xiaoyao Liang,Benjamin C. Lee,Gu-Yeon Wei,David M. Brooks	10.1109/ICCD.2009.5413170
+Resource sharing of pipelined custom hardware extension for energy-efficient application-specific instruction set processor design.	Hai Lin 0004,Yunsi Fei	10.1109/ICCD.2009.5413161
+LRU-PEA: A smart replacement policy for non-uniform cache architectures on chip multiprocessors.	Javier Lira,Carlos Molina,Antonio González 0001	10.1109/ICCD.2009.5413142
+Empirical performance models for 3T1D memories.	Kristen Lovin,Benjamin C. Lee,Xiaoyao Liang,David M. Brooks,Gu-Yeon Wei	10.1109/ICCD.2009.5413124
+Mid-range wireless energy transfer using inductive resonance for wireless sensors.	Shahrzad Jalali Mazlouman,Alireza Mahanfar,Bozena Kaminska	10.1109/ICCD.2009.5413106
+Intra-vector SIMD instructions for core specialization.	Cor Meenderinck,Ben H. H. Juurlink	10.1109/ICCD.2009.5413112
+Avoiding cache thrashing due to private data placement in last-level cache for manycore scaling.	Jiayuan Meng,Kevin Skadron	10.1109/ICCD.2009.5413143
+Deterministic clock gating to eliminate wasteful activity due to wrong-path instructions in out-of-order superscalar processors.	Nasir Mohyuddin,Kimish Patel,Massoud Pedram	10.1109/ICCD.2009.5413158
+Quality improvement and cost reduction using statistical outlier methods.	Amit Nahar,Kenneth M. Butler,John M. Carulli Jr.,Charles Weinberger	10.1109/ICCD.2009.5413175
+A Technology-Agnostic Simulation Environment (TASE) for iterative custom IC design across processes.	Satyanand Nalam,Mudit Bhargava,Kyle Ringgenberg,Ken Mai,Benton H. Calhoun	10.1109/ICCD.2009.5413107
+Test-wrapper optimization for embedded cores in TSV-based three-dimensional SOCs.	Brandon Noia,Krishnendu Chakrabarty,Yuan Xie 0001	10.1109/ICCD.2009.5413172
+Reusing cached schedules in an out-of-order processor with in-order issue logic.	Oscar Palomar,Toni Juan,Juan J. Navarro	10.1109/ICCD.2009.5413146
+Multiplier-less and table-less linear approximation for square and square-root.	In-Cheol Park,Tae-Hwan Kim	10.1109/ICCD.2009.5413129
+Imperfection-immune Carbon Nanotube digital VLSI.	Nishant Patil,Subhasish Mitra	10.1109/ICCD.2009.5413184
+A power-aware hybrid RAM-CAM renaming mechanism for fast recovery.	Salvador Petit,Rafael Ubal,Julio Sahuquillo,Pedro López 0001	10.1109/ICCD.2009.5413160
+Panoptic DVS: A fine-grained dynamic voltage scaling framework for energy scalable CMOS design.	Mateja Putic,Liang Di,Benton H. Calhoun,John C. Lach	10.1109/ICCD.2009.5413110
+Optical lithography simulation using wavelet transform.	Rance Rodrigues,Aswin Sreedhar,Sandip Kundu	10.1109/ICCD.2009.5413120
+Compiler-directed leakage reduction in embedded microprocessors.	Soumyaroop Roy,Nagarajan Ranganathan,Srinivas Katkoori	10.1109/ICCD.2009.5413178
+Reincarnate historic systems on FPGA with novel design methodology.	Naohiko Shimizu	10.1109/ICCD.2009.5413182
+Enabling resonant clock distribution with scaled on-chip magnetic inductors.	Saurabh Sinha,Wei Xu,Jyothi Bhaskarr Velamala,Tawab Dastagir,Bertan Bakkaloglu,Hongbin Yu,Yu Cao 0001	10.1109/ICCD.2009.5413169
+Statistical timing analysis based on simulation of lithographic process.	Aswin Sreedhar,Sandip Kundu	10.1109/ICCD.2009.5413181
+Reducing register file size through instruction pre-execution enhanced by value prediction.	Yusuke Tanaka 0001,Hideki Ando	10.1109/ICCD.2009.5413149
+A new verification method for embedded systems.	Robert A. Thacker,Chris J. Myers,Kevin R. Jones,Scott Little	10.1109/ICCD.2009.5413154
+VariPipe: Low-overhead variable-clock synchronous pipelines.	Navid Toosizadeh,Safwat G. Zaky,Jianwen Zhu	10.1109/ICCD.2009.5413167
+Real-time, unobtrusive, and efficient program execution tracing with stream caches and last stream predictors.	Vladimir Uzelac,Aleksandar Milenkovic,Milena Milenkovic,Martin Burtscher	10.1109/ICCD.2009.5413159
+Algorithmic approach to designing an easy-to-program system: Can it lead to a HW-enhanced programmer&apos;s workflow add-on?	Uzi Vishkin	10.1109/ICCD.2009.5413174
+Symmetrical buffer placement in clock trees for minimal skew immune to global on-chip variations.	Renshen Wang,Takumi Okamoto,Chung-Kuan Cheng	10.1109/ICCD.2009.5413180
+Code density concerns for new architectures.	Vincent M. Weaver,Sally A. McKee	10.1109/ICCD.2009.5413117
+Fault-tolerant synthesis using non-uniform redundancy.	Keven L. Woo,Matthew R. Guthaus	10.1109/ICCD.2009.5413153
+WHOLE: A low energy I-Cache with separate way history.	Zichao Xie,Dong Tong 0001,Xu Cheng 0001	10.1109/ICCD.2009.5413162
+Automatic synthesis of computation interference constraints for relative timing verification.	Yang Xu 0036,Ken S. Stevens	10.1109/ICCD.2009.5413183
+Defect-based test optimization for analog/RF circuits for near-zero DPPM applications.	Ender Yilmaz,Sule Ozev	10.1109/ICCD.2009.5413139
+27th International Conference on Computer Design, ICCD 2009, Lake Tahoe, CA, USA, October 4-7, 2009		

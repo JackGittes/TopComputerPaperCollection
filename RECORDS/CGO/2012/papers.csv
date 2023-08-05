@@ -1,0 +1,27 @@
+Deferred methods: accelerating dynamic program analysis on multicores.	Danilo Ansaloni,Walter Binder,Abbas Heydarnoori,Lydia Y. Chen	10.1145/2259016.2259048
+HELIX: automatic parallelization of irregular programs for chip multiprocessing.	Simone Campanoni,Timothy M. Jones 0001,Glenn H. Holloway,Vijay Janapa Reddi,Gu-Yeon Wei,David M. Brooks	10.1145/2259016.2259028
+DeadSpy: a tool to pinpoint program inefficiencies.	Milind Chabbi,John M. Mellor-Crummey	10.1145/2259016.2259033
+Light-weight bounds checking.	Niranjan Hasabnis,Ashish Misra,R. Sekar 0001	10.1145/2259016.2259034
+HQEMU: a multi-threaded and retargetable dynamic binary translator on multicores.	Ding-Yong Hong,Chun-Chen Hsu,Pen-Chung Yew,Jan-Jan Wu,Wei-Chung Hsu,Pangfeng Liu,Chien-Min Wang,Yeh-Ching Chung	10.1145/2259016.2259030
+Dynamically managed data for CPU-GPU architectures.	Thomas B. Jablin,James A. Jablin,Prakash Prabhu,Feng Liu,David I. August	10.1145/2259016.2259038
+An automatic code overlaying technique for multicores with explicitly-managed memory hierarchies.	Choonki Jang,Jun Lee,Sangmin Seo,Jaejin Lee	10.1145/2259016.2259045
+Dynamic compilation of data-parallel kernels for vector processors.	Andrew Kerr,Gregory Frederick Diamos,Sudhakar Yalamanchili	10.1145/2259016.2259020
+Automatic speculative DOALL for clusters.	Hanjun Kim 0001,Nick P. Johnson,Jae W. Lee,Scott A. Mahlke,David I. August	10.1145/2259016.2259029
+Panacea: towards holistic optimization of MapReduce applications.	Jun Liu 0008,Nishkam Ravi,Srimat T. Chakradhar,Mahmut T. Kandemir	10.1145/2259016.2259022
+PinADX: an interface for customizable debugging with dynamic instrumentation.	Gregory Lueck,Harish Patil,Cristiano Pereira	10.1145/2259016.2259032
+Matching memory access patterns and data placement for NUMA systems.	Zoltan Majó,Thomas R. Gross	10.1145/2259016.2259046
+Reconciling transactional conflicts with compiler&apos;s help.	Sandya S. Mannarswamy,R. Govindarajan	10.1145/2259016.2259024
+Efficient bottom-up heap analysis for symbolic path-based data access summaries.	Ivan Matosevic,Tarek S. Abdelrahman	10.1145/2259016.2259049
+Compiling for automatically generated instruction set extensions.	Alastair Colin Murray,Björn Franke	10.1145/2259016.2259019
+Using graph-based program characterization for predictive modeling.	Eunjung Park,John Cavazos,Marco A. Alvarez	10.1145/2259016.2259042
+WCET-aware static locking of instruction caches.	Sascha Plazar,Jan C. Kleinsorge,Peter Marwedel,Heiko Falk	10.1145/2259016.2259023
+Phase guided profiling for fast cache modeling.	Andreas Sembrant,David Black-Schaffer,Erik Hagersten	10.1145/2259016.2259040
+On-demand dynamic summary-based points-to analysis.	Lei Shang 0002,Xinwei Xie,Jingling Xue	10.1145/2259016.2259050
+Compiling for niceness: mitigating contention for QoS in warehouse scale computers.	Lingjia Tang,Jason Mars,Mary Lou Soffa	10.1145/2259016.2259018
+Efficient and accurate data dependence profiling using software signatures.	Rajeshwar Vanka,James Tuck	10.1145/2259016.2259041
+Micro-specialization: dynamic code specialization of database management systems.	Rui Zhang 0035,Saumya Debray,Richard T. Snodgrass	10.1145/2259016.2259025
+Runtime asynchronous fault tolerance via speculation.	Yun Zhang 0005,Soumyadeep Ghosh,Jialu Huang,Jae W. Lee,Scott A. Mahlke,David I. August	10.1145/2259016.2259035
+Auto-generation and auto-tuning of 3D stencil codes on GPU clusters.	Yongpeng Zhang,Frank Mueller 0001	10.1145/2259016.2259037
+Hierarchical overlapped tiling.	Xing Zhou,Jean Pierre Giacalone,María Jesús Garzarán,Robert H. Kuhn,Yang Ni,David A. Padua	10.1145/2259016.2259044
+Scan detection and parallelization in &quot;inherently sequential&quot; nested loop programs.	Yun Zou,Sanjay V. Rajopadhye	10.1145/2259016.2259027
+10th Annual IEEE/ACM International Symposium on Code Generation and Optimization, CGO 2012, San Jose, CA, USA, March 31 - April 04, 2012	Carol Eidt,Anne M. Holler,Uma Srinivasan,Saman P. Amarasinghe	

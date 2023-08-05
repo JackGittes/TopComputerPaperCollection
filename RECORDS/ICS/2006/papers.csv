@@ -1,0 +1,40 @@
+Heterogeneous way-size cache.	Jaume Abella 0001,Antonio González 0001	10.1145/1183401.1183436
+BranchTap: improving performance with very few checkpoints through adaptive speculation control.	Patrick Akl,Andreas Moshovos	10.1145/1183401.1183409
+Design tradeoffs for tiled CMP on-chip networks.	James D. Balfour,William J. Dally	10.1145/1183401.1183430
+Experimental evaluation of application-level checkpointing for OpenMP programs.	Greg Bronevetsky,Keshav Pingali,Paul Stodghill	10.1145/1183401.1183405
+MPIPP: an automatic profile-guided parallel process placement toolset for SMP clusters and multiclusters.	Hu Chen,Wenguang Chen,Jian Huang,Bob Robert H. Kuhn	10.1145/1183401.1183451
+Online power-performance adaptation of multithreaded programs using hardware event-based prediction.	Matthew Curtis-Maury,James Dzierwa,Christos D. Antonopoulos,Dimitrios S. Nikolopoulos	10.1145/1183401.1183426
+Feedback-directed memory disambiguation through store distance analysis.	Changpeng Fang,Steve Carr 0001,Soner Önder,Zhenlin Wang	10.1145/1183401.1183440
+STAR-MPI: self tuned adaptive routines for MPI collective operations.	Ahmad Faraj,Xin Yuan 0001,David K. Lowenthal	10.1145/1183401.1183431
+Scaling MPI to short-memory MPPs such as BG/L.	Montse Farreras,Toni Cortes,Jesús Labarta,George Almási 0001	10.1145/1183401.1183432
+Scalable algorithms for global snapshots in distributed systems.	Rahul Garg 0001,Vijay K. Garg,Yogish Sabharwal	10.1145/1183401.1183439
+Accurate memory data flow modeling in statistical simulation.	Davy Genbrugge,Lieven Eeckhout,Koen De Bosschere	10.1145/1183401.1183415
+Implementing virtual memory in a vector processor with software restart markers.	Mark Hampton,Krste Asanovic	10.1145/1183401.1183422
+Large files, small writes, and pNFS.	Dean Hildebrand,Lee Ward,Peter Honeyman	10.1145/1183401.1183419
+A case for high performance computing with virtual machines.	Wei Huang 0003,Jiuxing Liu,Bülent Abali,Dhabaleswar K. Panda 0001	10.1145/1183401.1183421
+Lightweight lock-free synchronization methods for multithreading.	Arun Kejariwal,Hideki Saito 0001,Xinmin Tian,Milind Girkar,Wei Li 0015,Utpal Banerjee,Alexandru Nicolau,Constantine D. Polychronopoulos	10.1145/1183401.1183452
+On the performance potential of different types of speculative thread-level parallelism: The DL version of this paper includes corrections that were not made available in the printed proceedings.	Arun Kejariwal,Xinmin Tian,Wei Li 0015,Milind Girkar,Sergey Kozhukhov,Hideki Saito 0001,Utpal Banerjee,Alexandru Nicolau,Alexander V. Veidenbaum,Constantine D. Polychronopoulos	10.1145/1183401.1183407
+Coupling prefix caching and collective downloads for remote dataset access.	Xiaosong Ma,Vincent W. Freeh,Tao Yang,Sudharshan Vazhkudai,Tyler A. Simon,Stephen L. Scott	10.1145/1183401.1183435
+Accelerator design for protein sequence HMM search.	Rahul P. Maddimsetty,Jeremy Buhler,Roger D. Chamberlain,Mark A. Franklin,Brandon Harris	10.1145/1183401.1183442
+Efficient remote block-level I/O over an RDMA-capable NIC.	Manolis Marazakis,Konstantinos Xinidis,Vassilis Papaefstathiou,Angelos Bilas	10.1145/1183401.1183417
+Design space exploration for multicore architectures: a power/performance/thermal view.	Matteo Monchiero,Ramon Canal,Antonio González 0001	10.1145/1183401.1183428
+Wide and efficient trace prediction using the local trace predictor.	Juan C. Moure,Domingo Benitez,Dolores Rexachs,Emilio Luque	10.1145/1183401.1183411
+Cooperative checkpointing: a robust approach to large-scale systems reliability.	Adam J. Oliner,Larry Rudolph,Ramendra K. Sahoo	10.1145/1183401.1183406
+A distributed system based on web services for computational science simulations.	Keshav Pingali,Paul Stodghill	10.1145/1183401.1183443
+Quantum mechanical approaches to information processing.	Steven Prawer	10.1145/1183401.1183424
+Profitable loop fusion and tiling using model-driven empirical search.	Apan Qasem,Ken Kennedy	10.1145/1183401.1183437
+Selective predicate prediction for out-of-order processors.	Eduardo Quiñones,Joan-Manuel Parcerisa,Antonio González 0001	10.1145/1183401.1183410
+Probabilistic accuracy bounds for fault-tolerant computations that discard tasks.	Martin C. Rinard	10.1145/1183401.1183447
+Scientific applications vs. SPEC-FP: a comparison of program behavior.	Kyle Rupnow,Arun Rodrigues,Keith D. Underwood,Katherine Compton	10.1145/1183401.1183413
+A scalable communication layer for multi-dimensional hyper crossbar network using multiple gigabit ethernet.	Shinji Sumimoto,Kazuichi Ooe,Kouichi Kumon,Taisuke Boku,Mitsuhisa Sato,Akira Ukawa	10.1145/1183401.1183418
+A modern high-performance processor pipeline.	Marc Tremblay	10.1145/1183401.1183403
+Sensitivity analysis of knapsack-based task scheduling on the grid.	Daniel C. Vanderster,Nikitas J. Dimopoulos	10.1145/1183401.1183446
+Scalable, fault tolerant membership for MPI tasks on HPC systems.	Jyothish Varma,Chao Wang 0056,Frank Mueller 0001,Christian Engelmann,Stephen L. Scott	10.1145/1183401.1183433
+Violated dependence analysis.	Nicolas Vasilache,Cédric Bastoul,Albert Cohen 0001,Sylvain Girbal	10.1145/1183401.1183448
+A scalable low power issue queue for large instruction window processors.	Rajesh Vivekanandham,Bharadwaj S. Amrutur,R. Govindarajan	10.1145/1183401.1183427
+Multigrid and Gauss-Seidel smoothers revisited: parallelization on chip multiprocessors.	Dan Wallin,Henrik Löf,Erik Hagersten,Sverker Holmgren	10.1145/1183401.1183423
+User-guided symbiotic space-sharing of real workloads.	Jonathan Weinberg,Allan Snavely	10.1145/1183401.1183450
+Accelerating sparse matrix computations via data compression.	Jeremiah Willcock,Andrew Lumsdaine	10.1145/1183401.1183444
+The exigency of benchmark and compiler drift: designing tomorrow&apos;s processors with yesterday&apos;s tools.	Joshua J. Yi,Hans Vandierendonck,Lieven Eeckhout,David J. Lilja	10.1145/1183401.1183414
+TMA: a trap-based memory architecture.	Håkan Zeffer,Zoran Radovic,Martin Karlsson,Erik Hagersten	10.1145/1183401.1183438
+Proceedings of the 20th Annual International Conference on Supercomputing, ICS 2006, Cairns, Queensland, Australia, June 28 - July 01, 2006	Gregory K. Egan,Yoichi Muraoka	10.1145/1183401

@@ -1,0 +1,51 @@
+Eliminating Redundant Barrier Synchronizations in Rule-Based Programs.	Anurag Acharya 0001	10.1145/237578.237631
+An Interprocedural Framework for Placement of Asynchronous I/O Operations.	Gagan Agrawal,Anurag Acharya 0001,Joel H. Saltz	10.1145/237578.237636
+Parallel Construction of Multidimensional Binary Search Trees.	Ibraheem Al-Furaih,Srinivas Aluru,Sanjay Goil,Sanjay Ranka	10.1145/237578.237605
+Parallel Additive Lagged Fibonacci Random Number Generators.	Srinivas Aluru	10.1145/237578.237591
+Automatic Optimization of Communication in Compiling Out-of-Core Stencil Codes.	Rajesh Bordawekar,Alok N. Choudhary,J. Ramanujam	10.1145/237578.237638
+A New Guaranteed Heuristic for the Software Pipelining Problem.	Pierre-Yves Calland,Alain Darte,Yves Robert	10.1145/237578.237613
+Counting Solutions to Linear and Nonlinear Constraints Through Ehrhart Polynomials: Applications to Analyze and Transform Scientific Programs.	Philippe Clauss	10.1145/237578.237617
+Reducing Inter-Vector-Conflicts in Complex Memory Systems.	Anna M. del Corral,José M. Llabería	10.1145/237578.237641
+A Performance Study of Cosmological Simulations on Message-Passing and Shared-Memory Multiprocessors.	Marios D. Dikaiakos,Joachim Stadel	10.1145/237578.237590
+ParInt: A Software Package for Parallel Integration.	Elise de Doncker,Ajay Gupta 0001,Jay Ball,Patricia Ealy,Alan Genz	10.1145/237578.237597
+Are There Advantages to High-Dimension Architectures? Analysis of k-ary n-Cubes for the Class of Parallel Divide-and-Conquer Algorithms.	Shantanu Dutt,Nam Trinh	10.1145/237578.237643
+CTADEL: A Generator of Multi-Platform High Performance Codes for PDE-Based Scientific Applications.	Robert van Engelen,Lex Wolters,Gerard Cats	10.1145/237578.237589
+Improving Single-Process Performance with Multithreaded Processors.	Alexandre Farcy,Olivier Temam	10.1145/237578.237635
+Run-Time Compilation for Parallel Sparse Matrix Computations.	Cong Fu 0002,Tao Yang 0009	10.1145/237578.237609
+Automatic Partitioning Techniques for Solving Partial Differential Equations on Irregular Adaptive Meshes.	Jérôme Galtier	10.1145/237578.237598
+Parallel Implementation of the Lanczos Method for Sparse Matrices: Analysis of Data Distributions.	Ester M. Garzón,Inmaculada García	10.1145/237578.237622
+Evaluating the Limits of Message Passing via the Shared Attraction Memory on CC-COMA Machines: Experiences with TCGMSG and PVM.	Kaushik Ghosh,Stephen R. Breit	10.1145/237578.237601
+Examination of a Memory Access Classification Scheme for Pointer-Intensive and Numeric Programs.	Luddy Harrison	10.1145/237578.237595
+Integrating Task and Data Parallelism Using Shared Objects.	Saniya Ben Hassen,Henri E. Bal	10.1145/237578.237628
+Synchronization Hardware for Networks of Workstations: Performance vs. Cost.	Rahmat S. Hyder,David A. Wood 0001	10.1145/237578.237610
+Mapping Performance Data for High-Level and Data Views of Parallel Program Performance.	R. Bruce Irvin,Barton P. Miller	10.1145/237578.237587
+Performance of the Vectorial Processor VEC-SM2 Using Serial Multiport Memory.	Jacques Jorda,Abdelaziz Mzoughi,O. Lafontaine,Daniel Litaize	10.1145/237578.237642
+The GLOW Cache Coherence Protocol Extensions for Widely Shared Data.	Stefanos Kaxiras,James R. Goodman	10.1145/237578.237583
+Minimizing Communication While Preserving Parallelism.	Wayne Kelly,William W. Pugh	10.1145/237578.237585
+Amon2: A Parallel Wire Routing Algorithm on a Torus Network Parallel Computer.	Hesham Keshk,Shin-ichiro Mori,Hiroshi Nakashima,Shinji Tomita	10.1145/237578.237604
+A Cost-Comparison Approach for Adaptive Distributed Shared Memory.	Jai-Hoon Kim,Nitin H. Vaidya	10.1145/237578.237584
+A Register Allocation Technique Using Guarded PDG.	Akira Koseki,Hideaki Komatsu,Yoshiaki Fukazawa	10.1145/237578.237615
+Automating Parallel Runtime Optimizations Using Post-Mortem Analysis.	Sanjeev Krishnan,Laxmikant V. Kalé	10.1145/237578.237607
+Evaluating Virtual Channels for Cache-Coherent Shared-Memory Multiprocessors.	Akhilesh Kumar,Laxmi N. Bhuyan	10.1145/237578.237611
+Compiler Support for Hybrid Irregular Accesses on Multicomputers.	Antonio Lain,Prithviraj Banerjee	10.1145/237578.237579
+Design and Evaluation of Dynamic Access Ordering Hardware.	Sally A. McKee,Assaji Aluwihare,Benjamin H. Clark,Robert H. Klenke,Trevor C. Landon,Christopher W. Oliver,Maximo H. Salinas,Adam E. Szymkowiak,Kenneth L. Wright,William A. Wulf,James H. Aylor	10.1145/237578.237594
+Fine Grain Parallel Communication on General Purpose LANs.	Todd W. Mummert,Corey Kosak,Peter Steenkiste,Allan Fisher	10.1145/237578.237634
+Data Prefetching and Multilevel Blocking for Linear Algebra Operations.	Juan J. Navarro,Elena García-Diego,José R. Herrero	10.1145/237578.237592
+Block Algorithms for Sparse Matrix Computations on High Performance Workstations.	Juan J. Navarro,Elena García-Diego,Josep Lluís Larriba-Pey,Toni Juan	10.1145/237578.237624
+The Galley Parallel File System.	Nils Nieuwejaar,David Kotz	10.1145/237578.237639
+A Template for Non-Uniform Parallel Loops Based on Dynamic Scheduling and Prefetching Techniques.	Salvatore Orlando 0001,Raffaele Perego 0001	10.1145/237578.237593
+Runtime Coupling of Data-Parallel Programs.	M. Ranganathan,Anurag Acharya 0001,Guy Edjlali,Alan Sussman,Joel H. Saltz	10.1145/237578.237608
+A MATLAB to Fortran 90 Translator and Its Effectiveness.	Luiz De Rose,David A. Padua	10.1145/237578.237627
+Analysis of Local Enumeration and Storage Schemes in HPF.	Henk J. Sips,Kees van Reeuwijk,Will Denissen	10.1145/237578.237580
+Satisfiability Test with Synchronous Simulated Annealing on the Fujitsu AP1000 Massively-Parallel Multiprocessor.	Andrew Sohn,Rupak Biswas	10.1145/237578.237606
+Detection and Global Optimization of Reduction Operations for Distributed Parallel Machines.	Toshio Suganuma,Hideaki Komatsu,Toshio Nakatani	10.1145/237578.237581
+Hybrid Algorithms for Complete Exchange in 2D Meshes.	N. S. Sundar,D. N. Jayasimha,Dhabaleswar K. Panda 0001,P. Sadayappan	10.1145/237578.237602
+An Efficient Steepest-Edge Simplex Algorithm for SIMD Computers.	Michael E. Thomadakis,Jyh-Charn Liu	10.1145/237578.237620
+Profile Driven Weighted Decomposition.	Karen A. Tomko,Edward S. Davidson	10.1145/237578.237600
+Experimental Evaluation of Efficient Sparse Matrix Distributions.	Manuel Ujaldon,Shamik D. Sharma,Emilio L. Zapata,Joel H. Saltz	10.1145/237578.237588
+Benchmark Tests on the Digital Equipment Corporation Alpha AXP 21164-based AlphaServer 8400, Including a Comparison of Optimized Vector and Superscalar Processing.	Harvey J. Wasserman	10.1145/237578.237632
+The Effect of Interrupts on Software Pipeline Execution on Message-Passing Architectures.	Rob F. Van der Wijngaart,Sekhar R. Sarukkai,Pankaj Mehra	10.1145/237578.237603
+Memory Organization in Multi-Channel Optical Networks: NUMA and COMA Revisited.	Yan Yang Xiao,John K. Bennett	10.1145/237578.237582
+Optimizing Primary Data Caches for Parallel Scientific Applications: The Pool Buffer Approach.	Liuxi Yang,Josep Torrellas	10.1145/237578.237596
+Data-Localization for Fortran Macro-Dataflow Computation Using Partial Static Task Assignment.	Akimasa Yoshida,Kenichi Koshizuka,Hironori Kasahara	10.1145/237578.237586
+Proceedings of the 10th international conference on Supercomputing, ICS 1996, Philadelphia, PA, USA, May 25-28, 1996	Pen-Chung Yew	10.1145/237578

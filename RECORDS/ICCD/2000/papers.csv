@@ -1,0 +1,94 @@
+A Multi-Level Memory System Architecture for High-Performance DSP Applications.	Sanjive Agarwala,Charles Fuoco,Tim Anderson,Dave Comisky,Christopher Mobley	10.1109/ICCD.2000.878316
+Effective Hardware-Based Two-Way Loop Cache for High Performance Low Power Processors.	Tim Anderson,Sanjive Agarwala	10.1109/ICCD.2000.878315
+Low Power Video Object Motion-Tracking Architecture for Very Low Bit Rate Online Video Applications.	Wael M. Badawy,Magdy A. Bayoumi	10.1109/ICCD.2000.878333
+On Integrating a Proprietary and a Commercial Architecture for Optimal BIST Performances in SoCs.	Alfredo Benso,Stefano Di Carlo,Silvia Chiusano,Paolo Prinetto,Fabio Ricciato,Monica Lobetti Bodoni,Maurizio Spadari	10.1109/ICCD.2000.878335
+An SEU Injection Tool to Evaluate DSP-Based Architectures for Space Applications.	Alfredo Benso,Stefano Martinetto,Paolo Prinetto,Riccardo Mariani	10.1109/ICCD.2000.878334
+Current-Mode Threshold Logic Gates.	Sudhakar Bobba,Ibrahim N. Hajj	10.1109/ICCD.2000.878291
+Multilevel Reverse-Carry Adder.	Javier D. Bruguera,Tomás Lang	10.1109/ICCD.2000.878282
+Hybridizing and Coalescing Load Value Predictors.	Martin Burtscher,Benjamin G. Zorn	10.1109/ICCD.2000.878272
+Efficient Place and Route for Pipeline Reconfigurable Architectures.	Srihari Cadambi,Seth Copen Goldstein	10.1109/ICCD.2000.878318
+Unified Fine-Granularity Buffering of Index and Data: Approach and Implementation.	Qiang Cao,Josep Torrellas,H. V. Jagadish	10.1109/ICCD.2000.878284
+Rethinking Behavioral Synthesis for a Better Integration within Existing Design Flows.	Wander O. Cesário,Ahmed Amine Jerraya,Zoltan Sugar,Imed Moussa	10.1109/ICCD.2000.878330
+Architectural Support for Dynamic Memory Management.	J. Morris Chang,Witawas Srisa-an,Chia-Tien Dan Lo	10.1109/ICCD.2000.878274
+Static Timing Analysis with False Paths.	Haizhou Chen,Bing Lu,Ding-Zhu Du	10.1109/ICCD.2000.878336
+Application-Based, Transistor-Level Full-Chip Power Analysis for 700 MHz PowerPCTM Microprocessor.	Yi-Kan Cheng,David Bearden,Kanti Suryadevara	10.1109/ICCD.2000.878288
+Design of Instruction Stream Buffer with Trace Support for X86 Processors.	Jih-Ching Chiu,I-Huan Huang,Chung-Ping Chung	10.1109/ICCD.2000.878299
+Formal Verification of an Industrial System-on-a-Chip.	Hoon Choi,Myung-Kyoon Yim,Jae Young Lee,Byeong-Whee Yun,Yun-Tae Lee	10.1109/ICCD.2000.878322
+A 2-Way Thrashing-Avoidance Cache (TAC): An Efficient Instruction Cache Scheme for Object-Oriented Languages.	Yul Chu,Mabo Robert Ito	10.1109/ICCD.2000.878273
+An Automatic Validation Methodology for Logic BIST in High Performance VLSI Design.	Michael Cogswell,Don Pearl,James Sage,Alan Troidl	10.1109/ICCD.2000.878325
+A Scalable High-Performance DMA Architecture for DSP Applications.	Dave Comisky,Sanjive Agarwala,Charles Fuoco	10.1109/ICCD.2000.878317
+Xtensa with User Defined DSP Coprocessor Microarchitectures.	Gülbin Ezer	10.1109/ICCD.2000.878305
+An Application of Genetic Algorithms and BDDs to Functional Testing.	Fabrizio Ferrandi,Donatella Sciuto,Alessandro Fin,Franco Fummi	10.1109/ICCD.2000.878268
+A Study of Channeled DRAM Memory Architectures.	Lars Friebe,Yoshikazu Yabe,Masato Motomura	10.1109/ICCD.2000.878295
+On the Road to a Mobile Information Society.	Dirk Friebel	10.1109/ICCD.2000.878262
+AMULET3: A 100 MIPS Asynchronous Embedded Processor.	Stephen B. Furber,David A. Edwards,Jim D. Garside	10.1109/ICCD.2000.878304
+A Methodology and Tool for Automated Transformational High-Level Design Space Exploration.	Joachim Gerlach,Wolfgang Rosenstiel	10.1109/ICCD.2000.878337
+Cheap Out-of-Order Execution Using Delayed Issue.	J. P. Grossman	10.1109/ICCD.2000.878338
+Efficient Dynamic Minimization of Word-Level DDs Based on Lower Bound Computation.	Wolfgang Günther 0001,Rolf Drechsler,Stefan Höreth	10.1109/ICCD.2000.878312
+A Novel Low-Power Microprocessor Architecture.	Rolf Hakenes,Yiannos Manoli	10.1109/ICCD.2000.878280
+Representing and Scheduling Looping Behavior Symbolically.	Steve Haynal,Forrest Brewer	10.1109/ICCD.2000.878339
+Multi-Level Communication Synthesis of Heterogeneous Multilanguage Specification.	Fabiano Hessel,Philippe Coste,Gabriela Nicolescu,P. LeMarrec,Nacer-Eddine Zergainoh,Ahmed Amine Jerraya	10.1109/ICCD.2000.878332
+Analysis and Optimization of Ground Bounce in Digital CMOS Circuits.	Payam Heydari,Massoud Pedram	10.1109/ICCD.2000.878277
+Advanced Wiring RC Timing Design Techniques for Logic LSIs in Gigahertz Era and Beyond.	Toru Hiyama,Yuko Ito,Satoru Isomura,Kazunobu Nojiri,Eijiro Maeda	10.1109/ICCD.2000.878340
+Efficient Design Error Correction of Digital Circuits.	Dirk W. Hoffmann,Thomas Kropf	10.1109/ICCD.2000.878324
+Analog Transient Concurrent Fault Simulation with Dynamic Fault Grouping.	Junwei Hou,Abhijit Chatterjee	10.1109/ICCD.2000.878266
+PEAS-III: An ASIP Design Environment.	Makiko Itoh,Shigeaki Higaki,Yoshinori Takeuchi,Akira Kitajima,Masaharu Imai,Jun Sato,Akichika Shiomi	10.1109/ICCD.2000.878319
+Sleipnir - An Instruction-Level Simulator Generator.	Tor E. Jeremiassen	10.1109/ICCD.2000.878265
+Fixed-Width Multiplier for DSP Application.	Shyh-Jye Jou,Hui-Hsuan Wang	10.1109/ICCD.2000.878302
+A Register File with Transposed Access Mode.	Yoochang Jung,Stefan G. Berg,Donglok Kim,Yongmin Kim 0001	10.1109/ICCD.2000.878341
+Pseudoexhaustive TPG with a Provably Low Number of LFSR Seeds.	Dimitrios Kagaris,Spyros Tragoudas	10.1109/ICCD.2000.878267
+The Birth of the Baby.	Hilary J. Kahn,R. B. E. Napper	10.1109/ICCD.2000.878326
+Architectural Impact of Secure Socket Layer on Internet Servers.	Krishna Kant 0001,Ravishankar K. Iyer,Prasant Mohapatra	10.1109/ICCD.2000.878263
+Leakage Power Analysis and Reduction during Behavioral Synthesis.	Kamal S. Khouri,Niraj K. Jha	10.1109/ICCD.2000.878342
+An Advanced Instruction Folding Mechanism for a Stackless Java Processor.	Austin Kim,J. Morris Chang	10.1109/ICCD.2000.878343
+High-Performance, Low-Power Skewed Static Logic in Very Deep-Submicron (VDSM) Technology.	Chulwoo Kim,Jaesik Lee,Kwang-Hyun Baek,Eric Martina,Sung-Mo Kang	10.1109/ICCD.2000.878269
+On Solving Stack-Based Incremental Satisfiability Problems.	Joonyoung Kim,Jesse Whittemore,Karem A. Sakallah	10.1109/ICCD.2000.878311
+SCIMA: Software Controlled Integrated Memory Architecture for High Performance Computing.	Masaaki Kondo,Hideki Okawara,Hiroshi Nakamura,Taisuke Boku	10.1109/ICCD.2000.878275
+Processors for Mobile Applications.	Farinaz Koushanfar,Miodrag Potkonjak,Vandana Prabhu,Jan M. Rabaey	10.1109/ICCD.2000.878354
+Predictive Strategies for Low-Power RTOS Scheduling.	Pavan Kumar 0002,Mani B. Srivastava	10.1109/ICCD.2000.878306
+Efficient Logic Optimization Using Regularity Extraction.	Thomas Kutzschebauch	10.1109/ICCD.2000.878327
+OpenDesign: An Open User-Configurable Project Environment for Collaborative Design and Execution on the Internet.	Hemang Lavana,Franc Brglez,Robert B. Reese,Gangadhar Konduri,Anantha P. Chandrakasan	10.1109/ICCD.2000.878344
+A Selective Temporal and Aggressive Spatial Cache System Based on Time Interval.	Jung-Hoon Lee,Jang-Soo Lee,Shin-Dug Kim	10.1109/ICCD.2000.878298
+A Decompression Architecture for Low Power Embedded Systems.	Haris Lekatsas,Jörg Henkel,Wayne H. Wolf	10.1109/ICCD.2000.878345
+Minimization of Ordered Pseudo Kronecker Decision Diagrams.	Per Lindgren,Rolf Drechsler,Bernd Becker 0001	10.1109/ICCD.2000.878329
+Delay Constrained Optimization by Simultaneous Fanout Tree Construction, Buffer Insertion/Sizing and Gate Sizing.	I-Min Liu,Adnan Aziz	10.1109/ICCD.2000.878287
+Optimal vs. Heuristic Approaches to Context Scheduling for Multi-Context Reconfigurable Architectures.	Rafael Maestre,Milagros Fernández,Román Hermida,Fadi J. Kurdahi,Nader Bagherzadeh,Hartej Singh	10.1109/ICCD.2000.878346
+The M·CORETM M340 Unified Cache Architecture.	Afzal Malik,Bill Moyer,Dan Cermak	10.1109/ICCD.2000.878347
+An Efficient and Accurate Model for RF/Microwave Spiral Inductors Using Microstrip Lines Theory.	Nasser Masoumi,Safieddin Safavi-Naeini,Mohamed I. Elmasry	10.1109/ICCD.2000.878278
+Output Prediction Logic: A High-Performance CMOS Design Technique.	Larry McMurchie,Su Kio,Gin Yee,Tyler Thorp,Carl Sechen	10.1109/ICCD.2000.878293
+Self-Calibrating Clocks for Globally Asynchronous Locally Synchronous Systems.	Simon W. Moore,George S. Taylor,Paul A. Cunningham,Robert D. Mullins,Peter Robinson 0001	10.1109/ICCD.2000.878271
+A Power Perspective of Value Speculation for Superscalar Microprocessors.	Rafael A. Moreno,Luis Piñuel,Silvia Del Pino,Francisco Tirado	10.1109/ICCD.2000.878281
+A Trace Based Evaluation of Speculative Branch Decoupling.	Anshuman S. Nadkarni,Akhilesh Tyagi	10.1109/ICCD.2000.878300
+Dynamic Flip-Flop with Improved Power.	Nikola Nedovic,Vojin G. Oklobdzija	10.1109/ICCD.2000.878303
+Buffer Library Selection.	José Luis Neves,Stephen T. Quay	10.1109/ICCD.2000.878289
+Assignment-Space Exploration Approach to Concurrent Data-Path/Floorplan Synthesis.	Koji Ohashi,Mineo Kaneko,Satoshi Tayu	10.1109/ICCD.2000.878310
+Reducing Cost and Tolerating Defects in Page-based Intelligent Memory.	Mark Oskin,Diana Keen,Justin Hensley,Lucian Vlad Lita,Frederic T. Chong	10.1109/ICCD.2000.878297
+Crosstalk-Constrained Performance Optimization by Using Wire Sizing and Perturbation.	Song-Ra Pan,Yao-Wen Chang	10.1109/ICCD.2000.878348
+Synthesis and Optimization of Interface Hardware between IP&apos;s Operating at Different Clock Frequencies.	Bong-Il Park,Hoon Choi,In-Cheol Park,Chong-Min Kyung	10.1109/ICCD.2000.878331
+Equivalence Checking Combining a Structural SAT-Solver, BDDs, and Simulation.	Viresh Paruthi,Andreas Kuehlmann	10.1109/ICCD.2000.878323
+The Future of Populist Parallelism.	Gregory F. Pfister	10.1109/ICCD.2000.878294
+Symbolic Binding for Clustered VLIW ASIPs.	Satish Pillai,Margarida F. Jacome	10.1109/ICCD.2000.878320
+Hierarchical Simulation of a Multiprocessor Architecture.	Marius Pirvu,Laxmi N. Bhuyan,Rabi N. Mahapatra	10.1109/ICCD.2000.878349
+On Multiple Precision Based Montgomery Multiplication without Precomputation of N0´ = -N0-1 mod W.	Hagen Ploog,Dirk Timmermann	10.1109/ICCD.2000.878350
+Sensitivity Levels of Test Patterns and Their Usefulness in Simulation-Based Test Generation.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.2000.878313
+On Test Application Time and Defect Detection Capabilities of Test Sets for Scan Designs.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.2000.878314
+Interfacing Hardware and Software Using C++ Class Libraries.	Dinesh Ramanathan,Rajesh K. Gupta 0001,Raymond Roth	10.1109/ICCD.2000.878321
+Fast Hierarchical Floorplanning with Congestion and Timing Control.	Abhishek Ranjan,Kia Bazargan,Majid Sarrafzadeh	10.1109/ICCD.2000.878308
+A Technique for Identifying RTL and Gate-Level Correspondences.	Srivaths Ravi 0001,Niraj K. Jha,Indradeep Ghosh,Vamsi Boppana	10.1109/ICCD.2000.878351
+Analysis of Shared Memory Misses and Reference Patterns.	Jeffrey B. Rothman,Alan Jay Smith	10.1109/ICCD.2000.878285
+Power-Sensitive Multithreaded Architecture.	John S. Seng,Dean M. Tullsen,George Z. N. Cai	10.1109/ICCD.2000.878286
+Binary and Multi-Valued SPFD-Based Wire Removal in PLA Networks.	Subarnarekha Sinha,Sunil P. Khatri,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.2000.878328
+High-Performance Low-Power CMOS Circuits Using Multiple Channel Length and Multiple Oxide Thickness.	Naran Sirisantana,Liqiong Wei,Kaushik Roy 0001	10.1109/ICCD.2000.878290
+Skewed CMOS: Noise-Immune High-Performance Low-Power Static Circuit Family.	Alexandre Solomatnikov,Kaushik Roy 0001,Cheng-Kok Koh,Dinesh Somasekhar	10.1109/ICCD.2000.878292
+Evaluating Signal Processing and Multimedia Applications on SIMD, VLIW and Superscalar Architectures.	Deependra Talla,Lizy Kurian John,Viktor S. Lapinskii,Brian L. Evans	10.1109/ICCD.2000.878283
+A Direct Mapping FPGA Architecture for Industrial Process Control Applications.	John T. Welch,Joan Carletta	10.1109/ICCD.2000.878352
+Source-Level Transformations for Improved Formal Verification.	Brian D. Winters,Alan J. Hu	10.1109/ICCD.2000.878353
+Rectilinear Block Placement Using B*-Trees.	Guang-Ming Wu,Yun-Chih Chang,Yao-Wen Chang	10.1109/ICCD.2000.878307
+Worst Delay Estimation in Crosstalk Aware Static Timing Analysis.	Tong Xiao,Malgorzata Marek-Sadowska	10.1109/ICCD.2000.878276
+Fast Subword Permutation Instructions Using Omega and Flip Network Stages.	Xiao Yang 0001,Ruby B. Lee	10.1109/ICCD.2000.878264
+An Evaluation of Move-Based Multi-Way Partitioning Algorithms.	Elie Yarack,Joan Carletta	10.1109/ICCD.2000.878309
+DRAM-Page Based Prediction and Prefetching.	Haifeng Yu,Gershon Kedem	10.1109/ICCD.2000.878296
+An Adder Using Charge Sharing and its Application in DRAMs.	Hak-soo Yu,Songjun Lee,Jacob A. Abraham	10.1109/ICCD.2000.878301
+Comparative Study of Parallel Algorithms for 3-D Capacitance Extraction on Distributed Memory Multiprocessors.	Yanhong Yuan,Prithviraj Banerjee	10.1109/ICCD.2000.878279
+Estimation of Inductive and Resistive Switching Noise on Power Supply Network in Deep Sub-Micron CMOS Circuits.	Shiyou Zhao,Kaushik Roy 0001,Cheng-Kok Koh	10.1109/ICCD.2000.878270
+Proceedings of the IEEE International Conference On Computer Design: VLSI In Computers &amp; Processors, ICCD &apos;00, Austin, Texas, USA, September 17-20, 2000		

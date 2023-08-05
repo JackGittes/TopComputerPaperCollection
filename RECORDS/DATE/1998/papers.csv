@@ -1,0 +1,173 @@
+An Interactive Router for Analog IC Design.	Thorsten Adler,Juergen Schaeuble	10.1109/DATE.1998.655890
+A Model for System-Level Timed Analysis and Profiling.	Alberto Allara,William Fornaciari,Fabio Salice,Donatella Sciuto	10.1109/DATE.1998.655858
+A Low-Redundancy Approach to Semi-Concurrent Error Detection in Data Paths.	Anna Antola,Vincenzo Piuri,Mariagiovanna Sami	10.1109/DATE.1998.655866
+Constraints Space Management for the Layout of Analog IC&apos;s.	Bogdan G. Arsintescu,Ralph H. J. M. Otten	10.1109/DATE.1998.655994
+Register-Constrained Address Computation in DSP Programs.	Anupam Basu,Rainer Leupers,Peter Marwedel	10.1109/DATE.1998.655974
+Address Bus Encoding Techniques for System-Level Power Optimization.	Luca Benini,Giovanni De Micheli,Donatella Sciuto,Enrico Macii,Cristina Silvano	10.1109/DATE.1998.655959
+Switching Response Modeling of the CMOS Inverter for Sub-micron Devices.	Labros Bisdounis,Odysseas G. Koufopavlou,Constantinos E. Goutis,Spiridon Nikolaidis 0001	10.1109/DATE.1998.655939
+Characterization-Free Behavioral Power Modeling.	Alessandro Bogliolo,Luca Benini,Giovanni De Micheli	10.1109/DATE.1998.655945
+Built-In Self-Test with an Alternating Output.	T. Bogue,Michael Gössel,Helmut Jürgensen,Yervant Zorian	10.1109/DATE.1998.655854
+Fault Analysis in Networks with Concurrent Error Detection Properties.	Cristiana Bolchini,Fabio Salice,Donatella Sciuto	10.1109/DATE.1998.655987
+An Object-Oriented Model for Specification, Prototyping, Implementation and Reuse.	Jörg Böttger,Karlheinz Agsteiner,Dieter Monjau,Sören Schulze	10.1109/DATE.1998.655873
+Cross-Level Hierarchical High-Level Synthesis.	Oliver Bringmann 0001,Wolfgang Rosenstiel	10.1109/DATE.1998.655897
+A Programmable Multi-Language Generator for CoDesign.	Jean Paul Calvez,Dominique Heller,F. Muller,Olivier Pasquier	10.1109/DATE.1998.655973
+Energy-Delay Efficient Data Storage and Transfer Architectures: Circuit Technology versus Design Methodology Solutions.	Francky Catthoor	10.1109/DATE.1998.655936
+AFTA: A Formal Delay Model for Functional Timing Analysis.	V. Chandramouli,Jesse Whittemore,Karem A. Sakallah	10.1109/DATE.1998.655881
+Functional Scan Chain Testing.	Douglas Chang,Kwang-Ting Cheng,Malgorzata Marek-Sadowska,Mike Tien-Chien Lee	10.1109/DATE.1998.655868
+Collapsing the Transistor Chain to an Effective Single Equivalent Transistor.	Alexander Chatzigeorgiou,Spiridon Nikolaidis 0001	10.1109/DATE.1998.655829
+On Removing Multiple Redundancies in Combinational Circuits.	David Ihsin Cheng	10.1109/DATE.1998.655940
+A Polynomial Time Optimal Algorithm for Simultaneous Buffer and Wire Sizing.	Chris C. N. Chu,D. F. Wong 0001	10.1109/DATE.1998.655901
+VHDL Modelling and Analysis of Fault Secure Systems.	Jason Coppens,Dhamin Al-Khalili,Côme Rozon	10.1109/DATE.1998.655849
+Exploiting Symbolic Techniques for Partial Scan Flip Flop Selection.	Fulvio Corno,Paolo Prinetto,Matteo Sonza Reorda,Massimo Violante	10.1109/DATE.1998.655930
+Efficient Techniques for Accurate Modeling and Simulation of Substrate Coupling in Mixed-Signal IC&apos;s.	João Paulo Costa,Mike Chou,L. Miguel Silveira	10.1109/DATE.1998.655963
+A New Paradigm for Dichotomy-based Constrained Encoding.	Olivier Coudert	10.1109/DATE.1998.655954
+Temperature Effect on Delay for Low Voltage Applications.	Jean Michel Daga,E. Ottaviano,Daniel Auvergne	10.1109/DATE.1998.655931
+CASPER: Concurrent Hardware-Software Co-Synthesis of Hard Real-Time Aperiodic and Periodic Specifications of Embedded System Architectures.	Bharat P. Dave,Niraj K. Jha	10.1109/DATE.1998.655845
+ATM Traffic Shaper: ATS.	Juan Carlos Diaz,Pierre Plaza,Jesus Crespo	10.1109/DATE.1998.655842
+EASY - a System for Computer-Aided Examination of Analog Circuits.	Guido Dröge,Manfred Thole,Ernst-Helmut Horneber	10.1109/DATE.1998.655926
+Hierarchical Characterization of Analog Integrated CMOS Circuits.	Josef Eckmüller,Martin Groepl,Helmut E. Graeb	10.1109/DATE.1998.655925
+AGENDA: An Attribute Grammar Driven Environment for the Design Automation of Digital Systems.	George Economakos,George K. Papakonstantinou,Panayotis Tsanakas	10.1109/DATE.1998.655976
+Sequential Equivalence Checking without State Space Traversal.	C. A. J. van Eijk	10.1109/DATE.1998.655922
+Scheduling of Conditional Process Graphs for the Synthesis of Embedded Systems.	Petru Eles,Krzysztof Kuchcinski,Zebo Peng,Alexa Doboli,Paul Pop	10.1109/DATE.1998.655847
+High Speed Neural Network Chip for Trigger Purposes in High Energy Physics.	Wolfgang Eppler,Thomas Fischer 0007,Hartmut Gemmeke,A. Menchikov	10.1109/DATE.1998.655844
+Timing Analysis and Optimization of a High-Performance CMOS Processor Chipset.	Uwe Fassnacht,Jürgen Schietke	10.1109/DATE.1998.655876
+Power Estimation of Behavioral Descriptions.	Fabrizio Ferrandi,Franco Fummi,Enrico Macii,Massimo Poncino	10.1109/DATE.1998.655944
+Scanning Datapaths: A Fast and Effective Partial Scan Selection Technique.	Marie-Lise Flottes,R. Pires,Bruno Rouzeyre,Laurent Volpe	10.1109/DATE.1998.655969
+Reduced-Order Modeling of Large Linear Passive Multi-Terminal Circuits Using Matrix-Pade Approximation.	Roland W. Freund,Peter Feldmann	10.1109/DATE.1998.655909
+Generation of Interconnect Topologies for Communication Synthesis.	Michael Gasteier,Manfred Glesner,Michael Münch	10.1109/DATE.1998.655834
+A Scalable Methodology for Cost Estimation in a Transformational High-Level Design Space Exploration Environment.	Joachim Gerlach,Wolfgang Rosenstiel	10.1109/DATE.1998.655861
+Synthesis of Wiring Signature-Invariant Equivalence Class Circuit Mutants and Applications to Benchmarking.	Debabrata Ghosh,Nevin Kapur,Franc Brglez,Justin E. Harlow III	10.1109/DATE.1998.655928
+Combinational Verification based on High-Level Functional Specifications.	Evguenii I. Goldberg,Yuji Kukimoto,Robert K. Brayton	10.1109/DATE.1998.655950
+Architectural Rule Checking for High-level Synthesis.	Jie Gong,Chih-Tung Chen,Kayhan Küçükçakar	10.1109/DATE.1998.655983
+March Tests for Word-Oriented Memories.	Ad J. van de Goor,Issam B. S. Tlili	10.1109/DATE.1998.655905
+Repartitioning and Technology-Mapping of Electronic Hybrid Systems.	Christoph Grimm 0001,Klaus Waldschmidt	10.1109/DATE.1998.655836
+Hardware Resource Allocation for Hardware/Software Partitioning in the LYCOS System.	Jesper Grode,Peter Voigt Knudsen,Jan Madsen	10.1109/DATE.1998.655832
+Procedures for Static Compaction of Test Sequences for Synchronous Sequential Circuits Based on Vector Restoration.	Ruifeng Guo,Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.1998.655917
+Concurrent Error Recovery with Near-Zero Latency in Synthesized ASICs.	Samuel Norman Hamilton,Alex Orailoglu	10.1109/DATE.1998.655920
+Verification by Simulation Comparison using Interface Synthesis.	Cordula Hansen,Arno Kunzmann,Wolfgang Rosenstiel	10.1109/DATE.1998.655894
+A Formal Approach to Verification of Linear Analog Circuits with Parameter Tolerances.	Lars Hedrich,Erich Barke	10.1109/DATE.1998.655927
+Performance - Manufacturability Tradeoffs in IC Design.	Hans T. Heineken,Wojciech Maly	10.1109/DATE.1998.655914
+Improved Approximation Bounds for the Group Steiner Problem.	Christopher S. Helvig,Gabriel Robins,Alexander Zelikovsky	10.1109/DATE.1998.655889
+A Sequential Detailed Router for Huge Grid Graphs.	Asmus Hetzel	10.1109/DATE.1998.655877
+Innovative System-level Design Environment Based on FORM for Transport Processing System.	Kazushige Higuchi,Kazuhiro Shirakawa	10.1109/DATE.1998.655962
+Dynamic Minimization of Word-Level Decision Diagrams.	Stefan Höreth,Rolf Drechsler	10.1109/DATE.1998.655921
+State Relaxation Based Subsequence Removal for Fast Static Compaction in Sequential Circuits.	Michael S. Hsiao,Srimat T. Chakradhar	10.1109/DATE.1998.655916
+Model Abstraction for Formal Verification.	Yee-Wing Hsieh,Steven P. Levitan	10.1109/DATE.1998.655848
+Architectural Simulation in the Context of Behavioral Synthesis.	Abderrazek Jemai,Polen Kission,Ahmed Amine Jerraya	10.1109/DATE.1998.655918
+Exact and Approximate Estimation for Maximum Instantaneous Current of CMOS Circuits.	Yi-Min Jiang,Kwang-Ting Cheng	10.1109/DATE.1998.655934
+Interconnect Tuning Strategies for High-Performance Ics.	Andrew B. Kahng,Sudhakar Muddu,Egino Sarto,Rahul Sharma	10.1109/DATE.1998.655900
+Propagation of Last-Transition-Time Constraints in Gate-Level Timing Analysis.	Maroun Kassab,Eduard Cerny,Sidi Aourid,Thomas H. Krodel	10.1109/DATE.1998.655949
+Optimal Temporal Partitioning and Synthesis for Reconfigurable Architectures.	Meenakshi Kaul,Ranga Vemuri	10.1109/DATE.1998.655887
+A Formal Description of VHDL-AMS Analogue Systems.	Tom J. Kazmierski	10.1109/DATE.1998.655968
+Fuzzy-logic digital-analogue interfaces for accurate mixed-signal simulation.	Tom J. Kazmierski	10.1109/DATE.1998.655980
+FRIDGE: A Fixed-Point Design and Simulation Environment.	Holger Keding,Markus Willems,Martin Coors,Heinrich Meyr	10.1109/DATE.1998.655893
+IMPACT: A High-Level Synthesis System for Low Power Control-Flow Intensive Circuits.	Kamal S. Khouri,Ganesh Lakshminarayana,Niraj K. Jha	10.1109/DATE.1998.655957
+A Unified Technique for PCB/MCM Design by Combining Electromagnetic Field Analysis with Circuit Simulator.	Hideaki Kimura 0002,Norihito Iyenaga	10.1109/DATE.1998.655984
+A Systematic Analysis of Reuse Strategies for Design of Electronic Circuits.	Manfred Koegst,Dieter Garte,Peter Conradi,Michael G. Wahl	10.1109/DATE.1998.655871
+A Flat, Timing-Driven Design System for a High-Performance CMOS Processor Chipset.	Jürgen Koehl,Ulrich Baur,Thomas Ludwig 0004,Bernhard Kick,Thomas Pflueger	10.1109/DATE.1998.655874
+XFVHDL: A Tool for the Synthesis of Fuzzy Logic Controllers.	E. Lago,Carlos Jesús Jiménez-Fernández,Diego R. López,Santiago Sánchez-Solano,Angel Barriga	10.1109/DATE.1998.655843
+Stream Communication between Real-Time Tasks in a High-Performance Multiprocessor.	Jeroen A. J. Leijten,Jef L. van Meerbergen,Adwin H. Timmer,Jochen A. G. Jess	10.1109/DATE.1998.655846
+An Algorithm To Determine Mutually Exclusive Operations In Behavioral Descriptions.	Jian Li,Rajesh K. Gupta 0001	10.1109/DATE.1998.655898
+Efficient Compilation of Process-Based Concurrent Programs without Run-Time Scheduling.	Bill Lin 0001	10.1109/DATE.1998.655859
+Analog Test Design with IDD Measurements for the Detection of Parametric and Catastrophic Faults.	Walter M. Lindermeir,Thomas J. Vogels,Helmut E. Graeb	10.1109/DATE.1998.655953
+IP-Based System-on-a-Chip Design.	Bart de Loore	10.1109/DATE.1998.10014
+A Knowledge-based System for Hardware-Software Partitioning.	Marisa Luisa López-Vallejo,Carlos Angel Iglesias,Juan Carlos López 0001	10.1109/DATE.1998.655967
+Technology Mapping for Minimizing Gate and Routing Area.	Aiguo Lu,Guenter Stenz,Frank M. Johannes	10.1109/DATE.1998.655929
+Microsystems Testing: an Approach and Open Problems.	Marcelo Lubaszewski,Érika F. Cota,Bernard Courtois	10.1109/DATE.1998.655908
+A Macroscopic Time and Cost Estimation Model Allowing Task Parallelism and Hardware Sharing for the Codesign Partitioning Process.	Juan Antonio Maestro,Daniel Mozos,Hortensia Mecha	10.1109/DATE.1998.655860
+Efficient Minarea Retiming of Large Level-Clocked Circuits.	Naresh Maheshwari,Sachin S. Sapatnekar	10.1109/DATE.1998.655956
+Design-Manufacturing Interface: Part I - Vision.	Wojciech Maly,Pranab K. Nag,Hans T. Heineken,Jitendra Khare	10.1109/DATE.1998.655912
+Design-Manufacturing Interface: Part II - Applications.	Wojciech Maly,Pranab K. Nag,Charles H. Ouyang,Hans T. Heineken,Jitendra Khare,P. Simon	10.1109/DATE.1998.655913
+Trace-Driven Steady-State Probability Estimation in FSMs with Application to Power Estimation.	Diana Marculescu,Radu Marculescu,Massoud Pedram	10.1109/DATE.1998.655946
+An Efficient Algorithm for Fast Parasitic Extraction and Passive Order Reduction of 3D Interconnect Models.	Nuno Alexandre Marques,Mattan Kamon,Jacob K. White 0001,Luís Miguel Silveira	10.1109/DATE.1998.655910
+Design Methodologies for System Level IP.	Grant Martin	10.1109/DATE.1998.655869
+A Comparing Study of Technology Mapping for FPGA.	Hans-Georg Martin,Wolfgang Rosenstiel	10.1109/DATE.1998.655979
+A Dynamic Model for the State Assignment Problem.	Manuel Martínez,Maria J. Avedillo,José M. Quintana,José L. Huertas	10.1109/DATE.1998.655955
+Correct High-Level Synthesis: a Formal Perspective.	José M. Mendías,Román Hermida	10.1109/DATE.1998.655997
+A Constraint Driven Approach to Loop Pipelining and Register Binding.	Bart Mesman,Marino T. J. Strik,Adwin H. Timmer,Jef L. van Meerbergen,Jochen A. G. Jess	10.1109/DATE.1998.655885
+Highly Testable and Compact 1-out-of-n Code Checker with Single Output.	Cecilia Metra,Michele Favalli,Bruno Riccò	10.1109/DATE.1998.655999
+Novel Technique for Testing FPGAs.	Cecilia Metra,Michel Renovell,Giovanni A. Mojoli,Jean-Michel Portal,Sandro Pastore,Joan Figueras,Yervant Zorian,Davide Salvi,Giacomo R. Sechi	10.1109/DATE.1998.655841
+Switch-Level Fault Coverage Analysis for Switched-Capacitor Systems.	Salvador Mir,Adoración Rueda,Diego Vázquez,José Luis Huertas	10.1109/DATE.1998.655951
+A Cell and Macrocell Compiler for GaAs VLSI Full-Custom Design.	Juan A. Montiel-Nelson,V. de Armas,Roberto Sarmiento,Antonio Núñez	10.1109/DATE.1998.655982
+VHDL-AMS: The Missing Link in System Design - Experiments with Unified Modelling in Automotive Engineering.	Eduard Moser,Norbert Mittwollen	10.1109/DATE.1998.655837
+Enhanced Reuse and Teamwork Capabilities for an Object-oriented Extension of VHDL.	Michael Mrva	10.1109/DATE.1998.655864
+A Scalable Architecture for Multi-threaded JAVA Applications.	Michael Mrva,Klaus Buchenrieder,Rainer Kress 0002	10.1109/DATE.1998.655960
+Graphical Entry of FSMDs Revisited: Putting Graphical Models on a Solid Base.	Thomas Müller-Wipperfürth,Richard Hagelauer	10.1109/DATE.1998.655975
+Register Transfer Level VHDL Models without Clocks.	Matthias Mutz	10.1109/DATE.1998.655850
+Parallel VHDL Simulation.	Edwin Naroska	10.1109/DATE.1998.655851
+Reconfigurable Logic for Systems on a Chip.	W. Shields Neely	10.1109/DATE.1998.655878
+A Modeling Approach to Include Mechanical Microsystem Components into the System Simulation.	R. Neul,U. Becker,G. Lorenz,Peter Schwarz,Jürgen Haase,S. Wünsche	10.1109/DATE.1998.655906
+Design of Fault-Secure Parity-Prediction Booth Multipliers.	Michael Nicolaidis,Ricardo de Oliveira Duarte	10.1109/DATE.1998.655830
+Denotational Semantics of a Behavioral Subset of VHDL.	Felix Nicoli	10.1109/DATE.1998.655996
+Synthesis of Communicating Controllers for Concurrent Hardware/Software Systems.	Ralf Niemann,Peter Marwedel	10.1109/DATE.1998.655966
+Core Interconnect Testing Hazards.	Petra Nordholz,Hartmut Grabinski,Dieter Treytnar,Jan Otterstedt,Dirk Niggemeyer,Uwe Arz,T. W. Williams	10.1109/DATE.1998.655985
+A Bypass Scheme for Core-Based System Fault Testing.	Mehrdad Nourani,Christos A. Papachristou	10.1109/DATE.1998.655998
+Scheduling of Outputs in Grammar-based Hardware Synthesis of Data Communication Protocols.	Johnny Öberg,Ahmed Hemani,Anshul Kumar	10.1109/DATE.1998.655919
+PASTEL: A Parameterized Memory Characterization System.	Kimihiro Ogawa,Michinari Kohno,Fusako Kitamura	10.1109/DATE.1998.655831
+Gated Clock Routing Minimizing the Switched Capacitance.	Jaewon Oh,Massoud Pedram	10.1109/DATE.1998.655933
+VHDL Teamwork, Organization Units and Workspace Management.	Serafín Olcoz,Lorenzo Ayuda,Ivan Izaguirre,Olga Peñalba	10.1109/DATE.1998.655872
+Static Analysis Tools for Soft-Core Reviews and Audits.	Serafín Olcoz,Ana Castellvi,Maria Garcia,Jose Angel Gomez	10.1109/DATE.1998.655977
+Design Of Future Systems.	Ian Page	10.1109/DATE.1998.655880
+Data Cache Sizing for Embedded Processor Applications.	Preeti Ranjan Panda,Nikil D. Dutt,Alexandru Nicolau	10.1109/DATE.1998.655972
+Scheduling and Module Assignment for Reducing Bist Resources.	Ishwar Parulkar,Sandeep K. Gupta,Melvin A. Breuer	10.1109/DATE.1998.655838
+Efficient Encoding Schemes for Symbolic Analysis of Petri Nets.	Enric Pastor,Jordi Cortadella	10.1109/DATE.1998.655948
+A Synthesis Procedure for Flexible Logic Functions.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.1998.655995
+Design-for-Testability for Synchronous Sequential Circuits using Locally Available Lines.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.1998.656000
+A System-Level Co-Verification Environment for ATM Hardware Design.	Guido Post,Andrea Müller,Thorsten Grötker	10.1109/DATE.1998.655892
+An Approach to Realistic Fault Prediction and Layout Design for Testability in Analog Circuits.	Juan A. Prieto,Adoración Rueda,Ian Andrew Grout,Eduardo J. Peralías,José L. Huertas,Andrew Mark David Richardson	10.1109/DATE.1998.655965
+Asynchronous Scheduling and Allocation.	Anatoly Prihozhy	10.1109/DATE.1998.655990
+CMOS Combinational Circuit Sizing by Stage-wise Tapering.	Satyamurthy Pullela,Rajendran Panda,Abhijit Dharchoudhury,Gopal Vija	10.1109/DATE.1998.656001
+A Flexible Message Passing Mechanism for Objective VHDL.	Wolfram Putzke-Röming,Martin Radetzki,Wolfgang Nebel	10.1109/DATE.1998.655863
+PSCP: A Scalable Parallel ASIP Architecture for Reactive Systems.	Andreas Pyttel,Alexander Sedlmeier,Christian Veith	10.1109/DATE.1998.655884
+An Energy-Conscious Exploration Methodology for Reconfigurable DSPs.	Jan M. Rabaey,Marlene Wan	10.1109/DATE.1998.655879
+Power-Simulation of Cell Based ASICs: Accuracy- and Performance Trade-Offs.	Dirk Rabe,Gerd Jochens,Lars Kruse,Wolfgang Nebel	10.1109/DATE.1998.655882
+Smart Pixel Implementation of a 2-D Parallel Nucleic Wavelet Transform for Mobile Multimedia Communications.	A. M. Rassau,T. C. B. Yu,H. Cheung,Stefan Lachowicz,Kamran Eshraghian,William A. Crossland,Tim D. Wilkinson	10.1109/DATE.1998.655856
+Formal Specification in VHDL for Hardware Verification.	Ralf Reetz,Klaus Schneider 0001,Thomas Kropf	10.1109/DATE.1998.655865
+Optimized Implementations of the Multi-Configuration DFT Technique for Analog Circuits.	Michel Renovell,Florence Azaïs,Yves Bertrand	10.1109/DATE.1998.655952
+RAM-Based FPGA&apos;s: A Test Approach for the Configurable Logic.	Michel Renovell,Jean-Michel Portal,Joan Figueras,Yervant Zorian	10.1109/DATE.1998.655840
+On the Reuse of Symbolic Simulation Results for Incremental Equivalence Verification of Switch-Level Circuits.	Lluís Ribas,Jordi Carrabina	10.1109/DATE.1998.655923
+Quality Estimation of Test Vectors and Functional Validation Procedures Based on Fault and Error Models.	Teresa Riesgo,Yago Torroja,Eduardo de la Torre,Javier Uceda	10.1109/DATE.1998.655986
+Path Verification Using Boolean Satisfiability.	Matthias Ringe,Thomas Lindenkreuz,Erich Barke	10.1109/DATE.1998.655991
+Estimation of the Defective IDDQ Caused by Shorts in Deep-Submicron CMOS ICs.	Rosa Rodríguez-Montañés,Joan Figueras	10.1109/DATE.1998.655903
+Power and Timing Modeling for ASIC Designs.	Wolfgang Roethig,A. M. Zarkesh,M. Andrews	10.1109/DATE.1998.655993
+A Systems Theoretic Approach to Behavioural Modeling and Simulation of Analog Functional Blocks.	Ralf Rosenberger,Sorin A. Huss	10.1109/DATE.1998.655938
+Formal Verification: A New Standard CAD Tool for the Industrial Design Flow.	Wolfgang Rosenstiel	10.1109/DATE.1998.10000
+Next Generation System Level Design Tools.	Wolfgang Rosenstiel	10.1109/DATE.1998.10013
+PowerShake: A Low Power Driven Clustering and Factoring Methodology for Boolean Expressions.	Sumit Roy 0003,Harm Arts,Prithviraj Banerjee	10.1109/DATE.1998.655992
+Fast Sequential Circuit Test Generation Using High-Level and Gate-Level Techniques.	Elizabeth M. Rudnick,Roberto Vietti,Akilah Ellis,Fulvio Corno,Paolo Prinetto,Matteo Sonza Reorda	10.1109/DATE.1998.655915
+Universal Strong Encryption FPGA Core Implementation.	Davor Runje,Mario Kovac	10.1109/DATE.1998.655971
+An Efficient Divide and Conquer Algorithm for Exact Hazard Free Logic Minimization.	J. W. J. M. Rutten,Michel R. C. M. Berkelaar,C. A. J. van Eijk,M. A. J. Kolsteren	10.1109/DATE.1998.655942
+Hardware/Software Co-Design of a Fuzzy RISC Processor.	Valentina Salapura,Michael Gschwind	10.1109/DATE.1998.655961
+Restructuring Logic Representations with Easily Detectable Simple Disjunctive Decompositions.	Hiroshi Sawada,Shigeru Yamashita,Akira Nagoya	10.1109/DATE.1998.655943
+Advanced Optimistic Approaches in Logic Simulation.	Stefan Schmerler,Yankin Tanurhan,Klaus D. Müller-Glaser	10.1109/DATE.1998.655883
+From Algorithms to Hardware Architectures: A Comparison of Regular and Irregular Structured IDCT Algorithms.	Claus Schneider,Martin Kayss,Thomas Hollstein,Jürgen Deicke	10.1109/DATE.1998.655855
+Multi-output Functional Decomposition with Exploitation of Don&apos;t Cares.	Christoph Scholl 0001	10.1109/DATE.1998.655941
+Object-Oriented Modelling of Parallel Hardware Systems.	Guido Schumacher,Wolfgang Nebel	10.1109/DATE.1998.655862
+MCM Interconnect Design Using Two-Pole Approximation.	Jianhua Shao,Richard M. M. Chen	10.1109/DATE.1998.655911
+An Effective General Connectivity Concept for Clustering.	Jianjian Song,Zhaoxuan Shen,Wenjun Zhuang	10.1109/DATE.1998.655888
+Hardware Software Partitioning with Integrated Hardware Design Space Exploration.	Vinoo Srinivasan,Shankar Radhakrishnan,Ranga Vemuri	10.1109/DATE.1998.655833
+A Fully Digital Controlled Off-Chip IDDQ Measurement Unit.	B. Straka,Hans A. R. Manhaeve,Jozef Vanneuville,M. Svajda	10.1109/DATE.1998.655904
+Optimized Timed Hardware Software Cosimulation without Roll-back.	Wonyong Sung,Soonhoi Ha	10.1109/DATE.1998.655981
+IOCIMU - An Integrated Off-Chip IDDQ Measurement Unit.	M. Svajda,B. Straka,Hans A. R. Manhaeve	10.1109/DATE.1998.655988
+Fast Field Solvers for Thermal and Electrostatic Analysis.	Vladimír Székely,Márta Rencz	10.1109/DATE.1998.655907
+The Design of an Asynchronous VHDL Synthesizer.	Sun-Yen Tan,Stephen B. Furber,Wen-Fang Yen	10.1109/DATE.1998.655835
+Efficient DC Fault Simulation of Nonlinear Analog Circuits.	Michael W. Tian,C.-J. Richard Shi	10.1109/DATE.1998.655964
+Instruction Scheduling for Power Reduction in Processor-Based System Design.	Hiroyuki Tomiyama,Tohru Ishihara,Akihiko Inoue,Hiroto Yasuura	10.1109/DATE.1998.655958
+VLSI Architecture for Lossless Compression of Medical Images Using the Discrete Wavelet Transform.	Isidoro Urriza,José Ignacio Artigas,José I. García-Nicolás,Luis Angel Barragan,Denis Navarro	10.1109/DATE.1998.655857
+Hierarchical Top-Down Design of Analog Sensor Interfaces: From System-Level Specifications Down to Silicon.	Jan Vandenbussche,Stéphane Donnay,Francky Leyn,Georges G. E. Gielen,Willy M. C. Sansen	10.1109/DATE.1998.655937
+Fault Detection for Linear Analog Circuits Using Current Injection.	Jaime Velasco-Medina,Th. Calin,Michael Nicolaidis	10.1109/DATE.1998.656002
+Efficient Verification using Generalized Partial Order Analysis.	Steven Vercauteren,Diederik Verkest,Gjalt G. de Jong,Bill Lin 0001	10.1109/DATE.1998.655947
+Algorithms for Detailed Placement of Standard Cells.	Jens Vygen	10.1109/DATE.1998.655875
+A VHDL SGRAM Model for the Validation Environment of a High Performance Graphic Processor.	Michael G. Wahl,Holger Völkel	10.1109/DATE.1998.655978
+Measuring the Effectiveness of Various Design Validation Approaches For PowerPC(TM) Microprocessor Arrays.	Li-C. Wang,Magdy S. Abadir,Jing Zeng	10.1109/DATE.1998.655867
+A Performance-Driven MCM Router with Special Consideration of Crosstalk Reduction.	Dongsheng Wang,Ernest S. Kuh	10.1109/DATE.1998.655899
+Data Driven Power Optimization of Sequential Circuits.	Qi Wang,Sarma B. K. Vrudhula	10.1109/DATE.1998.655932
+Embedded DRAM Architectural Trade-Offs.	Norbert Wehn,Søren Hein	10.1109/DATE.1998.655935
+Automatic Topology Optimization for Analog Module Generators.	Markus Wolf 0001,Ulrich Kleine	10.1109/DATE.1998.655989
+Silicon Debug of Systems-on-Chips.		10.1109/DATE.1998.655924
+Layout-Driven High Level Synthesis for FPGA Based Architectures.	Min Xu,Fadi J. Kurdahi	10.1109/DATE.1998.655896
+An Efficient Algorithm to Integrate Scheduling and Allocation in High-Level Test Synthesis.	Laurence Tianruo Yang,Zebo Peng	10.1109/DATE.1998.655839
+Self-Adjusting Output Data Compression: An Efficient BIST Technique for RAMs.	Vyacheslav N. Yarmolik,Sybille Hellebrand,Hans-Joachim Wunderlich	10.1109/DATE.1998.655853
+Multiple Behavior Module Synthesis Based on Selective Groupings.	Ju Hwan Yi,Hoon Choi,In-Cheol Park,Seung Ho Hwang,Chong-Min Kyung	10.1109/DATE.1998.655886
+Testing DSP Cores Based on Self-Test Programs.	Wei Zhao,Christos A. Papachristou	10.1109/DATE.1998.655852
+1998 Design, Automation and Test in Europe (DATE &apos;98), February 23-26, 1998, Le Palais des Congrès de Paris, Paris, France	Patrick M. Dewilde,Franz J. Rammig,Gerry Musgrave	

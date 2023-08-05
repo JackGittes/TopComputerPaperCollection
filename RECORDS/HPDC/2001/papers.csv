@@ -1,0 +1,49 @@
+Bandwidth Monitoring for Network-Aware Applications.	Jürg Bolliger,Thomas R. Gross	10.1109/HPDC.2001.945193
+The Active Streams Approach to Adaptive Distrubuted Systems.	Fabián E. Bustamante,Greg Eisenhauer,Karsten Schwan	10.1109/HPDC.2001.945215
+Cooperative Caching Middleware for Cluster-Based Servers.	Francisco Matias Cuenca-Acuna,Thu D. Nguyen	10.1109/HPDC.2001.945198
+QoS-Aware Dependency Management for Component-Based Systems.	Yi Cui,Klara Nahrstedt	10.1109/HPDC.2001.945183
+Practical Resource Management for Grid-Based Visual Exploration.	Karl Czajkowski,Alper K. Demir,Carl Kesselman,Marcus Thiébaux	10.1109/HPDC.2001.945209
+Grid Information Services for Distributed Resource Sharing.	Karl Czajkowski,Carl Kesselman,Steven Fitzgerald,Ian T. Foster	10.1109/HPDC.2001.945188
+Online Prediction of the Running Time of Tasks.	Peter A. Dinda	10.1109/HPDC.2001.945206
+The Architecture of the Remos System.	Peter A. Dinda,Thomas R. Gross,Roger Karrer,Bruce Lowekamp,Nancy Miller,Peter Steenkiste,Dean Sutherland	10.1109/HPDC.2001.945194
+Efficient Techniques for Distributed Computing.	Thomas Dramlitsch,Gabrielle Allen,Edward Seidel	10.1109/HPDC.2001.945214
+Models for Replica Synchronisation and Consistency in a Data Grid.	Dirk Düllmann,Wolfgang Hoschek,Francisco Javier Jaén-Martínez,Ben Segal,Heinz Stockinger,Kurt Stockinger,Asad Samar	10.1109/HPDC.2001.945177
+The PUNCH Virtual File System: Seamless Access to Decentralized Storage Services in a Computational Grid.	Renato J. O. Figueiredo,Nirav H. Kapadia,José A. B. Fortes	10.1109/HPDC.2001.945201
+A CORBA-Based Development Environment for Wrapping and Coupling Legacy Scientific Codes.	Gregory J. Follen,Chan M. Kim,Isaac Lopez,Scott Townsend,Janche Sang	10.1109/HPDC.2001.945173
+Condor-G: A Computation Management Agent for Multi-Institutional Grids.	James Frey,Todd Tannenbaum,Miron Livny,Ian T. Foster,Steven Tuecke	10.1109/HPDC.2001.945176
+NAS Grid Benchmarks: A Tool for Grid Space Exploration.	Michael A. Frumkin,Rob F. Van der Wijngaart	10.1109/HPDC.2001.945199
+Adaptable Mirroring in Cluster Servers.	Ada Gavrilovska,Karsten Schwan,Van Oleson	10.1109/HPDC.2001.945171
+Security Implications of Typical Grid Computing Usage Scenarios.	Marty Humphrey,Mary R. Thompson	10.1109/HPDC.2001.945180
+Livelock Avoidance for Meta-Schedulers.	John Jardine,Quinn Snell,Mark J. Clement	10.1109/HPDC.2001.945184
+Network Characterization Service (NCS).	Guojun Jin,George Yang,Brian R. Crowley,Deborah A. Agarwal	10.1109/HPDC.2001.945197
+Overview of Security Considerations for Computational and Data Grids.	William E. Johnston,Sumit Talwar,Keith R. Jackson	10.1109/HPDC.2001.945216
+Applying Grid Technologies to Bioinformatics.	Michael Karo,Christopher Dwan,John L. Freeman,Ernest F. Retzel,Jon B. Weissman,Miron Livny	10.1109/HPDC.2001.945217
+Location Selection for Active Services.	Roger Karrer,Thomas R. Gross	10.1109/HPDC.2001.945189
+PAWS: Collective Interactions and Data Transfers.	Katarzyna Keahey,Patricia K. Fasel,Susan M. Mniszewski	10.1109/HPDC.2001.945175
+Reducing Delay with Dynamic Selection of Compression Formats.	Chandra Krintz,Brad Calder	10.1109/HPDC.2001.945195
+Massively Parallel Distributed Feature Extraction in Textual Data Mining Using HDDI(tm).	Jirada Kuntraruk,William M. Pottenger	10.1109/HPDC.2001.945204
+Nomadic Migration: A New Tool for Dynamic Grid Computing.	Gerd Lanfermann,Gabrielle Allen,Thomas Radke,Edward Seidel	10.1109/HPDC.2001.945211
+Dynamic Replica Management in the Service Grid.	Byoung-Dai Lee,Jon B. Weissman	10.1109/HPDC.2001.945213
+Evaluation of a Resource Selection Mechanism for Complex Network Services.	Julio C. López,David R. O&apos;Hallaron	10.1109/HPDC.2001.945187
+A Metadebugger Prototype for the HARNESS Metacomputing Framework.	Róbert Lovas,Vaidy S. Sunderam	10.1109/HPDC.2001.945210
+Middleware Support for Global Access to Integrated Computational Collaboratories.	Vijay Mann,Manish Parashar	10.1109/HPDC.2001.945174
+Studying Protein Folding on the Grid: Experiences Using CHARMM on NPACI Resources under Legion.	Anand Natrajan,Anthony D. Fox,Marty A. Humphrey,Andrew S. Grimshaw,Nancy Wilkins-Diehr,Michael F. Crowley,Charles L. Brooks III	10.1109/HPDC.2001.945172
+An Online Credential Repository for the Grid: MyProxy.	Jason Novotny,Steven Tuecke,Von Welch	10.1109/HPDC.2001.945181
+Wide-Area Transposition-Driven Scheduling.	John W. Romein,Henri E. Bal	10.1109/HPDC.2001.945202
+Active Yellow Pages: A Pipelined Resource Management Architecture for Wide-Area Network Computing.	Dolors Royo,Luis Díaz de Cerio,Nirav H. Kapadia,José A. B. Fortes	10.1109/HPDC.2001.945185
+The Astrophysics Simulation Collaboratory Portal: A Science Portal Enabling Community Software Development.	Michael Russell,Gabrielle Allen,Greg Daues,Ian T. Foster,Edward Seidel,Jason Novotny,John Shalf,Gregor von Laszewski	10.1109/HPDC.2001.945190
+End-to-End Provision of Policy Information for Network QoS.	Volker Sander,William A. Adamson,Ian T. Foster,Alain J. Roy	10.1109/HPDC.2001.945182
+Open Data Management Solutions for Problem Solving Environments: Application of Distributed Authoring and Versioning to the Extensible Computational Chemistry Environment.	Karen Schuchardt,James D. Myers,Eric G. Stephan	10.1109/HPDC.2001.945192
+Multi-Resolution Resource Behaviour Queries Using Wavelets.	Jason A. Skicewicz,Peter A. Dinda,Jennifer M. Schopf	10.1109/HPDC.2001.945207
+File and Object Replication in Data Grids.	Heinz Stockinger,Asad Samar,Koen Holtman,William E. Allcock,Ian T. Foster,Brian Tierney	10.1109/HPDC.2001.945178
+The Logistical Session Layer.	D. Martin Swany,Richard Wolski	10.1109/HPDC.2001.945218
+A Study of Deadline Scheduling for Client-Server Systems on the Computational Grid.	Atsuko Takefusa,Satoshi Matsuoka,Henri Casanova,Francine Berman	10.1109/HPDC.2001.945208
+Distributed Data Access and Resource Management in the D0 SAM System.	Igor Terekhov,Ruth Pordes,Victoria White,Lee Lueking,Lauri Loebel-Carpenter,J. Trumbo,Sinisa Veseli,Matt Vranicar,Steve White,H. Schellman	10.1109/HPDC.2001.945179
+The Kangaroo Approach to Data Movement on the Grid.	Douglas Thain,Jim Basney,Se-Chang Son,Miron Livny	10.1109/HPDC.2001.945200
+The GridPort Toolkit: A System for Building Grid Portals.	Mary P. Thomas,Stephen A. Mock,Maytal Dahan,Kurt Mueller,Don Sutton,John R. Boisseau	10.1109/HPDC.2001.945191
+Enabling Network-Aware Applications.	Brian Tierney,Dan Gunter,Jason Lee 0001,Martin Stoufer,Joseph B. Evans	10.1109/HPDC.2001.945196
+Interfacing Parallel Jobs to Process Managers.	Brian R. Toonen,David Ashton,Ewing L. Lusk,Ian T. Foster,William Gropp,Edgar Gabriel,Ralph Butler,Nicholas T. Karonis	10.1109/HPDC.2001.945212
+A Case for TCP Vegas in High-Performance Computational Grids.	Eric Weigle,Wu-chun Feng	10.1109/HPDC.2001.945186
+Open Metadata Formats: Efficient XML-Based Communication for High Performance Computing.	Patrick M. Widener,Greg Eisenhauer,Karsten Schwan	10.1109/HPDC.2001.945205
+Parallel Retrograde Analysis on Different Architecture.	Ren Wu,Donald F. Beal	10.1109/HPDC.2001.945203
+10th IEEE International Symposium on High Performance Distributed Computing (HPDC-10 2001), 7-9 August 2001, San Francisco, CA, USA		

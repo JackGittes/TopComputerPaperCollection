@@ -1,0 +1,54 @@
+Acceleration of Bilateral Filtering Algorithm for Manycore and Multicore Architectures.	Dinesh Agarwal,Sami Wilf,Abinashi Dhungel,Sushil K. Prasad	10.1109/ICPP.2012.13
+The JavaSymphony Extensions for Parallel GPU Computing.	Muhammad Aleem,Radu Prodan,Thomas Fahringer	10.1109/ICPP.2012.56
+Tools for Power-Energy Modelling and Analysis of Parallel Scientific Applications.	Pedro Alonso 0002,Rosa M. Badia,Jesús Labarta,Maria Barreda,Manuel F. Dolz,Rafael Mayo 0002,Enrique S. Quintana-Ortí,Ruymán Reyes	10.1109/ICPP.2012.57
+Integrated Maximum Flow Algorithm for Optimal Response Time Retrieval of Replicated Data.	Nihat Altiparmak,Ali Saman Tosun	10.1109/ICPP.2012.34
+Fast Evaluation of Boolean Circuits Based on Two-Players Game and Optical Connectivity Circuits.	Yosi Ben-Asher,Eldar Fisher,Gadi Haber,Vladislav Tartakovsky	10.1109/ICPP.2012.29
+An Accurate Prefetch Technique for Dynamic Paging Behaviour for Software Distributed Shared Memory.	Jie Cai,Peter E. Strazdins	10.1109/ICPP.2012.16
+On Shared-Memory Parallelization of a Sparse Matrix Scaling Algorithm.	Ümit V. Çatalyürek,Kamer Kaya,Bora Uçar	10.1109/ICPP.2012.43
+Probability-Based Cloud Storage Providers Selection Algorithms with Maximum Availability.	Chia-Wei Chang,Pangfeng Liu,Jan-Jan Wu	10.1109/ICPP.2012.51
+Dynamic Active Storage for High Performance I/O.	Chao Chen,Yong Chen 0001	10.1109/ICPP.2012.22
+Adaptive Pipeline Parallelism for Image Feature Extraction Algorithms.	Peng Chen,Donglei Yang,Weihua Zhang,Yi Li,Binyu Zang,Haibo Chen 0001	10.1109/ICPP.2012.14
+Automatic Parallelization of Tiled Loop Nests with Enhanced Fine-Grained Parallelism on GPUs.	Peng Di,Ding Ye,Yu Su 0012,Yulei Sui,Jingling Xue	10.1109/ICPP.2012.19
+Phase Partitioning Methods for I/O Cache Optimization.	Michael R. Frasca,Padma Raghavan	10.1109/ICPP.2012.50
+Modeling the Performance of an Algebraic Multigrid Cycle Using Hybrid MPI/OpenMP.	Hormozd Gahvari,William Gropp,Kirk E. Jordan,Martin Schulz 0001,Ulrike Meier Yang	10.1109/ICPP.2012.41
+On-the-Fly Adaptive Routing in High-Radix Hierarchical Networks.	Marina García,Enrique Vallejo 0001,Ramón Beivide,Miguel Odriozola,Cristobal Camarero,Mateo Valero,Germán Rodríguez,Jesús Labarta,Cyriel Minkenberg	10.1109/ICPP.2012.46
+MLOC: Multi-level Layout Optimization Framework for Compressed Scientific Data Exploration with Heterogeneous Access Patterns.	Zhenhuan Gong,Terry Rogers,John Jenkins,Hemanth Kolla,Stéphane Ethier,Jackie Chen,Robert B. Ross,Scott Klasky,Nagiza F. Samatova	10.1109/ICPP.2012.39
+A Novel Multithreaded Algorithm for Extracting Maximal Chordal Subgraphs.	Mahantesh Halappanavar,John Feo,Kathryn Dempsey,Hesham H. Ali,Sanjukta Bhowmick	10.1109/ICPP.2012.10
+Mechanisms and Evaluation of Cross-Layer Fault-Tolerance for Supercomputing.	Chen-Han Ho,Marc de Kruijf,Karthikeyan Sankaralingam,Barry Rountree,Martin Schulz 0001,Bronis R. de Supinski	10.1109/ICPP.2012.37
+On the Viability of Compression for Reducing the Overheads of Checkpoint/Restart-Based Fault Tolerance.	Dewan Ibtesham,Dorian C. Arnold,Patrick G. Bridges,Kurt B. Ferreira,Ron Brightwell	10.1109/ICPP.2012.45
+Minimum Latency Broadcasting with Conflict Awareness in Wireless Sensor Networks.	Zhen Jiang,Donghong Wu,Minyi Guo,Jie Wu 0001,Robert Kline,Xin Wang	10.1109/ICPP.2012.38
+CHAIO: Enabling HPC Applications on Data-Intensive File Systems.	Hui Jin 0001,Jiayu Ji,Xian-He Sun,Yong Chen 0001,Rajeev Thakur	10.1109/ICPP.2012.1
+Supporting Hybrid MPI and OpenSHMEM over InfiniBand: Design and Performance Evaluation.	Jithin Jose,Krishna Chaitanya Kandalla,Miao Luo,Dhabaleswar K. Panda 0001	10.1109/ICPP.2012.55
+Added Concurrency to Improve MPI Performance on Multicore.	Humaira Kamal,Alan Wagner	10.1109/ICPP.2012.15
+Parallelizing more Loops with Compiler Guided Refactoring.	Per Larsen,Razya Ladelsky,Jacob Lidman,Sally A. McKee,Sven Karlsson,Ayal Zaks	10.1109/ICPP.2012.48
+An Efficient SSD-based Hybrid Storage Architecture for Large-Scale Search Engines.	Ruixuan Li 0001,Chengzhou Li,Weijun Xiao,Hai Jin 0001,Heng He,Xiwu Gu,Kunmei Wen,Zhiyong Xu 0003	10.1109/ICPP.2012.17
+Collusion Detection in Reputation Systems for Peer-to-Peer Networks.	Ze Li,Haiying Shen,Karan Sapra	10.1109/ICPP.2012.20
+Energy-Aware Scheduling Algorithm for Task Execution Cycles with Normal Distribution on Heterogeneous Computing Systems.	Kenli Li 0001,Xiaoyong Tang,Qifeng Yin	10.1109/ICPP.2012.25
+Energy-Aware Scheduling for Frame-Based Tasks on Heterogeneous Multiprocessor Platforms.	Dawei Li 0002,Jie Wu 0001	10.1109/ICPP.2012.26
+Exploiting Interest Locality for Peer-Assisted Search in UGC Video Systems.	Zhenyu Li 0001,Gaogang Xie,Kavé Salamatian	10.1109/ICPP.2012.27
+Partial Replication of Metadata to Achieve High Metadata Availability in Parallel File Systems.	Jianwei Liao,Yutaka Ishikawa	10.1109/ICPP.2012.49
+Mounds: Array-Based Concurrent Priority Queues.	Yujie Liu,Michael F. Spear	10.1109/ICPP.2012.42
+Shifted Element Arrangement in Mirror Disk Arrays for High Data Availability during Reconstruction.	Xianghong Luo,Jiwu Shu,Ying Zhao	10.1109/ICPP.2012.53
+GreenGPU: A Holistic Approach to Energy Efficiency in GPU-CPU Heterogeneous Architectures.	Kai Ma,Xue Li,Wei Chen,Chi Zhang,Xiaorui Wang	10.1109/ICPP.2012.31
+A Reputation-Based Mechanism for Dynamic Virtual Organization Formation in Grids.	Lena Mashayekhy,Daniel Grosu	10.1109/ICPP.2012.11
+An Execution Environment for Robust Parallel Computing on Volunteer PC Grids.	Hien Nguyen 0004,Eshwar Pedamallu,Jaspal Subhlok,Edgar Gabriel,Qian Wang,Margaret S. Cheung,David Anderson	10.1109/ICPP.2012.18
+Accelerating Boosting-Based Face Detection on GPUs.	David Oro,Carles Fernández,Carlos Segura,Xavier Martorell,Javier Hernando	10.1109/ICPP.2012.12
+SSD-Assisted Hybrid Memory to Accelerate Memcached over High Performance Networks.	Xiangyong Ouyang,Nusrat S. Islam,Raghunath Rajachandrasekar,Jithin Jose,Miao Luo,Hao Wang 0002,Dhabaleswar K. Panda 0001	10.1109/ICPP.2012.54
+On the Use of Term Rewriting for Performance Ooptimization of Legacy HPC Applications.	Ajay Panyala,Daniel G. Chavarría-Miranda,Sriram Krishnamoorthy	10.1109/ICPP.2012.44
+A Hierarchical Approach for Load Balancing on Parallel Multi-core Systems.	Laércio Lima Pilla,Christiane Pousa Ribeiro,Daniel Cordeiro,Chao Mei,Abhinav Bhatele,Philippe Olivier Alexandre Navaux,François Broquedis,Jean-François Méhaut,Laxmikant V. Kalé	10.1109/ICPP.2012.9
+A Delaunay-Based Coordinate-Free Mechanism for Full Coverage in Wireless Sensor Networks.	Chenxi Qiu,Haiying Shen	10.1109/ICPP.2012.7
+RFH: A Resilient, Fault-Tolerant and High-Efficient Replication Algorithm for Distributed Cloud Storage.	Yanzhen Qu,Naixue Xiong	10.1109/ICPP.2012.3
+Enabling High-Performance Crossbars through a Floorplan-Aware Design.	Antoni Roca 0001,Carles Hernández 0001,José Flich,Federico Silla,José Duato	10.1109/ICPP.2012.24
+Indexing and Parallel Query Processing Support for Visualizing Climate Datasets.	Yu Su 0011,Gagan Agrawal,Jonathan Woodring	10.1109/ICPP.2012.33
+Introducing Agent Evictions to Improve Application Placement in Wireless Distributed Systems.	Nikos Tziritas,Petros Lampsas,Spyros Lalis,Thanasis Loukopoulos,Samee Ullah Khan,Cheng-Zhong Xu 0001	10.1109/ICPP.2012.35
+Exploring the All-to-All Collective Optimization Space with ConnectX CORE-Direct.	Manjunath Gorentla Venkata,Richard L. Graham,Joshua Ladd,Pavel Shamis	10.1109/ICPP.2012.28
+Optimizing Distributed RDF Triplestores via a Locally Indexed Graph Partitioning.	Rui Wang,Kenneth Chiu	10.1109/ICPP.2012.47
+Provision of Storage QoS in Distributed File Systems for Clouds.	Chien-Min Wang,Tse-Chen Yeh,Guo-Fu Tseng	10.1109/ICPP.2012.52
+GSR: A Global Stripe-Based Redistribution Approach to Accelerate RAID-5 Scaling.	Chentao Wu,Xubin He	10.1109/ICPP.2012.32
+Fixing Performance Bugs: An Empirical Study of Open-Source GPGPU Programs.	Yi Yang 0018,Ping Xiang,Mike Mantor,Huiyang Zhou	10.1109/ICPP.2012.30
+Modeling the Locality in Graph Traversals.	Liang Yuan,Chen Ding,Daniel Stefankovic,Yunquan Zhang	10.1109/ICPP.2012.40
+Lock-Visor: An Efficient Transitory Co-scheduling for MP Guest.	Lei Zhang,Yu Chen 0004,Yaozu Dong,Chao Liu	10.1109/ICPP.2012.36
+CuNesl: Compiling Nested Data-Parallel Languages for SIMT Architectures.	Yongpeng Zhang,Frank Mueller 0001	10.1109/ICPP.2012.21
+Electricity Bill Capping for Cloud-Scale Data Centers that Impact the Power Markets.	Yanwei Zhang,Yefu Wang,Xiaorui Wang	10.1109/ICPP.2012.23
+A Flexible Framework for Throttling-Enabled Multicore Management (TEMM).	Xiao Zhang,Rongrong Zhong,Sandhya Dwarkadas,Kai Shen	10.1109/ICPP.2012.8
+41st International Conference on Parallel Processing, ICPP 2012, Pittsburgh, PA, USA, September 10-13, 2012		

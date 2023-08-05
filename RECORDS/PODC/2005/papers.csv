@@ -1,0 +1,59 @@
+Efficient dependency tracking for relevant events in shared-memory systems.	Anurag Agarwal,Vijay K. Garg	10.1145/1073814.1073818
+Correctness of a gossip based membership protocol.	André Allavena,Alan J. Demers,John E. Hopcroft	10.1145/1073814.1073871
+Routing complexity of faulty networks.	Omer Angel,Itai Benjamini,Eran Ofek,Udi Wieder	10.1145/1073814.1073854
+Skip-webs: efficient distributed data structures for multi-dimensional data sets.	Lars Arge,David Eppstein,Michael T. Goodrich	10.1145/1073814.1073827
+Brief announcement: wait-free implementation of multiple-writers/multiple-readers atomic byzantine data storage systems.	Rida A. Bazzi,Yin Ding	10.1145/1073814.1073882
+On the establishment of distinct identities in overlay networks.	Rida A. Bazzi,Goran Konjevod	10.1145/1073814.1073873
+On reliable broadcast in a radio network.	Vartika Bhandari,Nitin H. Vaidya	10.1145/1073814.1073841
+Brief announcement: distributed algorithmic mechanism design for scheduling.	Thomas E. Carroll,Daniel Grosu	10.1145/1073814.1073838
+Stochastic analysis of distributed deadlock scheduling.	Shigang Chen,Yibei Ling	10.1145/1073814.1073864
+Consensus and collision detectors in wireless Ad Hoc networks.	Gregory V. Chockler,Murat Demirbas,Seth Gilbert,Calvin C. Newport,Tina Nolte	10.1145/1073814.1073850
+The price of selfish behavior in bilateral network formation.	Jacomo Corbo,David C. Parkes	10.1145/1073814.1073833
+Fast fault-tolerant agreement algorithms.	Carole Delporte-Gallet,Hugues Fauconnier,Stephanie Lorraine Horn,Sam Toueg	10.1145/1073814.1073847
+Brief announcement: virtual stationary automata for mobile networks.	Shlomi Dolev,Limor Lahiani,Seth Gilbert,Nancy A. Lynch,Tina Nolte	10.1145/1073814.1073876
+The weakest failure detector to solve nonuniform consensus.	Jonathan Eisler,Vassos Hadzilacos,Sam Toueg	10.1145/1073814.1073849
+A topological characterization of weakness.	Cindy Eisner,Dana Fisman,John Havlicek	10.1145/1073814.1073816
+Brief announcement: minimal system conditions to implement unreliable failure detectors.	Antonio Fernández 0001,Ernesto Jiménez,Sergio Arévalo	10.1145/1073814.1073851
+Adaptive routing with stale information.	Simon Fischer 0001,Berthold Vöcking	10.1145/1073814.1073868
+Brief announcement: coupling for Markov decision processes - application to self-stabilization with arbitrary schedulers.	Laurent Fribourg,Stéphane Messika	10.1145/1073814.1073875
+Brief announcement: abstractions for implementing atomic objects in dynamic systems.	Roy Friedman,Michel Raynal,Corentin Travers	10.1145/1073814.1073883
+Feedback control for router congestion resolution.	Xiaojie Gao,Leonard J. Schulman	10.1145/1073814.1073855
+Faster communication in known topology radio networks.	Leszek Gasieniec,David Peleg,Qin Xin 0001	10.1145/1073814.1073840
+A scheme for load balancing in heterogenous distributed hash tables.	George Giakkoupis,Vassos Hadzilacos	10.1145/1073814.1073872
+Competitive weighted throughput analysis of greedy protocols on DAGs.	Eyal Gordon,Adi Rosén	10.1145/1073814.1073856
+Primal-dual based distributed algorithms for vertex cover with semi-hard capacities.	Fabrizio Grandoni 0001,Jochen Könemann,Alessandro Panconesi,Mauro Sozio	10.1145/1073814.1073835
+Toward a theory of transactional contention managers.	Rachid Guerraoui,Maurice Herlihy,Bastian Pochon	10.1145/1073814.1073863
+Quorum placement in networks to minimize access delays.	Anupam Gupta 0001,Bruce M. Maggs,Florian Oprea,Michael K. Reiter	10.1145/1073814.1073829
+Efficient multi-word locking using randomization.	Phuong Hoai Ha,Philippas Tsigas,Mirjam Wattenhofer,Roger Wattenhofer	10.1145/1073814.1073862
+A network pricing game for selfish traffic.	Ara Hayrapetyan,Éva Tardos,Tom Wexler	10.1145/1073814.1073869
+Simultaneous broadcast revisited.	Alejandro Hevia,Daniele Micciancio	10.1145/1073814.1073878
+Brief announcement: on the possibility and the impossibility of message-driven self-stabilizing failure detection.	Martin Hutle,Josef Widder	10.1145/1073814.1073852
+Building scalable and robust peer-to-peer overlay networks for broadcasting using network coding.	Kamal Jain,László Lovász 0001,Philip A. Chou	10.1145/1073814.1073824
+Brief announcement: on the expected overpayment of VCG mechanisms in large networks.	David R. Karger,Evdokia Nikolova	10.1145/1073814.1073836
+Brief announcement: the overlay network content distribution problem.	Chip Killian,Michael Vrable,Alex C. Snoeren,Amin Vahdat,Joseph Pasquale	10.1145/1073814.1073831
+Brief announcement: ring-like DHTs and the postage stamp problem.	Mahadev Konar,Alexander E. Mohr	10.1145/1073814.1073830
+Brief announcement: an incentive-compatible capacity assignment algorithm for bulk data distribution using P2P.	Simon G. M. Koo,C. S. George Lee,Karthik N. Kannan	10.1145/1073814.1073837
+Proof labeling schemes.	Amos Korman,Shay Kutten,David Peleg	10.1145/1073814.1073817
+Brief announcement: dynamic interoperable point-to-point connection of MPI implementations.	Michal Kouril,Jerome L. Paul	10.1145/1073814.1073881
+On selection problem in radio networks.	Dariusz R. Kowalski	10.1145/1073814.1073843
+Brief announcement: exploring the consistency problem space.	Nishith Krishna,Marc Shapiro 0001,Karthikeyan Bhargavan	10.1145/1073814.1073845
+On the locality of bounded growth.	Fabian Kuhn,Thomas Moscibroda,Roger Wattenhofer	10.1145/1073814.1073826
+Brief announcement: controlled quorum selection in arbitrary topologies.	Xinjie Li,Monica Brockmeyer	10.1145/1073814.1073874
+Policy-hiding access control in open environment.	Jiangtao Li 0001,Ninghui Li	10.1145/1073814.1073819
+Brief announcement: improved asynchronous group mutual exclusion in token-passing networks.	David Lin,Teng-Sheng Moh,W. Melody Moh	10.1145/1073814.1073866
+Brief announcement: gradient clock synchronization in sensor networks.	Lennart Meier,Lothar Thiele	10.1145/1073814.1073858
+Brief announcement: evaluation of tree-based data gathering algorithms for wireless sensor networks.	W. Melody Moh,Marie Dumont,Teng-Sheng Moh,Takeo Hamada,Ching-Fong Su	10.1145/1073814.1073859
+Efficient lookup on unstructured topologies.	Ruggero Morselli,Bobby Bhattacharjee,Aravind Srinivasan,Michael A. Marsh	10.1145/1073814.1073828
+Facility location: distributed approximation.	Thomas Moscibroda,Roger Wattenhofer	10.1145/1073814.1073834
+Maximal independent sets in radio networks.	Thomas Moscibroda,Roger Wattenhofer	10.1145/1073814.1073842
+The combined power of conditions and failure detectors to solve asynchronous set agreement.	Achour Mostéfaoui,Sergio Rajsbaum,Michel Raynal	10.1145/1073814.1073848
+Brief announcement: analysis of a randomized contention-resolution protocol for distributed access.	Gopal Pandurangan,GaHyun Park	10.1145/1073814.1073865
+Feasibility and complexity of broadcasting with random transmission failures.	Andrzej Pelc,David Peleg	10.1145/1073814.1073879
+Brief announcement: strong detection of misconfigurations.	Raj Kumar Rajendran,Vishal Misra,Dan Rubenstein	10.1145/1073814.1073821
+Advanced contention management for dynamic software transactional memory.	William N. Scherer III,Michael L. Scott	10.1145/1073814.1073861
+Distance estimation and object location via rings of neighbors.	Aleksandrs Slivkins	10.1145/1073814.1073823
+Reliable broadcast in unknown fixed-identity networks.	Lakshminarayanan Subramanian,Randy H. Katz,Volker Roth 0002,Scott Shenker,Ion Stoica	10.1145/1073814.1073880
+Brief announcement: a flexible framework for secret handshakes.	Gene Tsudik,Shouhuai Xu	10.1145/1073814.1073820
+Brief announcement: broadcast in radio networks in the presence of byzantine adversaries.	Vinod Vaikuntanathan	10.1145/1073814.1073844
+Brief announcement: continuous containment and local stabilization in path-vector routing.	Hongwei Zhang 0001,Anish Arora	10.1145/1073814.1073857
+Proceedings of the Twenty-Fourth Annual ACM Symposium on Principles of Distributed Computing, PODC 2005, Las Vegas, NV, USA, July 17-20, 2005	Marcos Kawazoe Aguilera,James Aspnes	

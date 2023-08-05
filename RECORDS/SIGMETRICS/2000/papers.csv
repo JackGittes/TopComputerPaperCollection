@@ -1,0 +1,40 @@
+TCP in presence of bursty losses.	Eitan Altman,Konstantin Avrachenkov,Chadi Barakat	10.1145/339331.350541
+Cluster reserves: a mechanism for resource management in cluster-based network servers.	Mohit Aron,Peter Druschel,Willy Zwaenepoel	10.1145/339331.339383
+Analysis of the phenomenon of several slow start phases in TCP (poster).	Chadi Barakat,Eitan Altman	10.1145/339331.339388
+Feasibility of a serverless distributed file system deployed on an existing set of desktop PCs.	William J. Bolosky,John R. Douceur,David Ely,Marvin Theimer	10.1145/339331.339345
+Towards application/file-level characterization of block references: a case for fine-grained buffer management.	Jongmoo Choi,Sam H. Noh,Sang Lyul Min,Yookun Cho	10.1145/339331.339424
+A case for end system multicast.	Yang-Hua Chu,Sanjay G. Rao,Hui Zhang 0001	10.1145/339331.339337
+IP packet generation: statistical models for TCP start times based on connection-rate superposition.	William S. Cleveland,Dong Lin,Don X. Sun	10.1145/339331.339413
+AMVA techniques for high service time variability.	Derek L. Eager,Daniel J. Sorin,Mary K. Vernon	10.1145/339331.339418
+Improving interactive performance using TIPME.	Yasuhiro Endo,Margo I. Seltzer	10.1145/339331.339420
+Online superpage promotion revisited (poster).	Zhen Fang,Lixin Zhang 0002,John B. Carter,Sally A. McKee,Wilson C. Hsieh	10.1145/339331.339398
+Quantifying the energy consumption of a pocket computer and a Java virtual machine.	Keith I. Farkas,Jason Flinn,Godmar Back,Dirk Grunwald,Jennifer-Ann M. Anderson	10.1145/339331.339421
+Stable Internet routing without global coordination.	Lixin Gao,Jennifer Rexford	10.1145/339331.339426
+A fast and accurate iterative solution of a multi-class threshold-based queueing system with hysteresis.	Leana Golubchik,John C. S. Lui	10.1145/339331.339416
+Modeling and performance of MEMS-based storage devices.	John Linwood Griffin,Steven W. Schlosser,Gregory R. Ganger,David Nagle	10.1145/339331.339354
+On the impact of soft hand-off in cellular systems.	Nidhi Hegde 0001,Khosrow Sohraby	10.1145/339331.339414
+Temporal locality in Web request streams: sources, characteristics, and caching implications (poster).	Shudong Jin,Azer Bestavros	10.1145/339331.339393
+RESCU: dynamic hybrid packet-loss recovery for video transmission over the Internet (poster).	Srinath R. Joshi,Injong Rhee	10.1145/339331.339403
+An analytical model of the working-set sizes in decision-support systems.	Magnus Karlsson 0002,Per Stenström	10.1145/339331.339423
+Memory system behavior of Java programs: methodology and analysis.	Jin-Soo Kim,Yarsun Hsu	10.1145/339331.339422
+Online multicast routing with bandwidth guarantees: a new approach using multicast network flow.	Murali S. Kodialam,T. V. Lakshman,Sudipta Sengupta	10.1145/339331.339425
+An analysis of short-term fairness in wireless media access protocols (poster).	Can Emre Koksal,Hisham Kassab,Hari Balakrishnan	10.1145/339331.339401
+An efficient algorithm for finding a path subject to two additive constraints.	Turgay Korkmaz,Marwan Krunz,Spyros Tragoudas	10.1145/339331.339427
+PLM: fast convergence for cumulative layered multicast transmisson schemes.	Arnaud Legout,Ernst W. Biersack	10.1145/339331.339340
+Cell-based multicast grouping in large-scale virtual environments (poster).	Emmanuel Léty,Thierry Turletti,François Baccelli	10.1145/339331.339392
+The incremental deployability of RTT-based congestion avoidance for high speed TCP Internet connections.	Jim Martin 0001,Arne A. Nilsson,Injong Rhee	10.1145/339331.339408
+Using the exact state space of a Markov model to compute approximate stationary measures.	Andrew S. Miner,Gianfranco Ciardo,Susanna Donatelli	10.1145/339331.339417
+An inherently loss-less and bandwidth-efficient periodic broadcast scheme for VBR video (poster).	Ioanis Nikolaidis,Fulu Li,Ailan Hu	10.1145/339331.339400
+Efficient performance prediction for modern microprocessors.	David Ofelt,John L. Hennessy	10.1145/339331.339419
+The content and access dynamics of a busy Web server (poster).	Venkata N. Padmanabhan,Lili Qiu	10.1145/339331.339405
+Implications of proxy caching for provisioning networks and servers.	Mohammad S. Raunak,Prashant J. Shenoy,Pawan Goyal 0001,Krithi Ramamritham	10.1145/339331.339357
+Detecting shared congestion of flows via end-to-end measurement.	Dan Rubenstein,James F. Kurose,Donald F. Towsley	10.1145/339331.339410
+On achievable service differentiation with token bucket marking for TCP.	Sambit Sahu,Philippe Nain,Christophe Diot,Victor Firoiu,Donald F. Towsley	10.1145/339331.339342
+Comparing random data allocation and data striping in multimedia servers.	Jose Renato Santos,Richard R. Muntz,Berthier A. Ribeiro-Neto	10.1145/339331.339352
+Automated disk drive characterization (poster).	Jiri Schindler,Gregory R. Ganger	10.1145/339331.339397
+Delay asymptotics for a priority queueing system.	Sanjay Shakkottai,R. Srikant 0001	10.1145/339331.339415
+Measurement and analysis of LDAP performance.	Xin Wang 0001,Henning Schulzrinne,Dilip D. Kandlur,Dinesh C. Verma	10.1145/339331.339412
+IP multicast fault recovery in PIM over OSPF (poster).	Xin Wang 0001,Chienming Yu,Henning Schulzrinne,Paul A. Stirpe,Wei Wu	10.1145/339331.339390
+Providing guaranteed quality of service for interactive visualization applications (poster).	Wai-Man R. Wong,Richard R. Muntz	10.1145/339331.339389
+Collaborative Web caching based on proxy affinities.	Jiong Yang 0001,Wei Wang 0010,Richard R. Muntz	10.1145/339331.339360
+Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, Santa Clara, CA, USA, June 18-21, 2000	Alexandre Brandwajn,Jim Kurose,Philippe Nain	10.1145/339331

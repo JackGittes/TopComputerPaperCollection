@@ -1,0 +1,29 @@
+Checking and inferring local non-aliasing.	Alexander Aiken,Jeffrey S. Foster,John Kodumal,Tachio Terauchi	10.1145/781131.781146
+Debugging temporal specifications with concept analysis.	Glenn Ammons,David Mandelin,Rastislav Bodík,James R. Larus	10.1145/781131.781152
+Points-to analysis using BDDs.	Marc Berndl,Ondrej Lhoták,Feng Qian,Laurie J. Hendren,Navindra Umanee	10.1145/781131.781144
+A static analyzer for large safety-critical software.	Bruno Blanchet,Patrick Cousot,Radhia Cousot,Jérôme Feret,Laurent Mauborgne,Antoine Miné,David Monniaux,Xavier Rival	10.1145/781131.781153
+Ownership types for safe region-based memory management in real-time Java.	Chandrasekhar Boyapati,Alexandru Salcianu,William S. Beebee,Martin C. Rinard	10.1145/781131.781168
+A provably sound TAL for back-end optimization.	Juan Chen,Dinghao Wu,Andrew W. Appel,Hai Fang	10.1145/781131.781155
+Region-based hierarchical operation partitioning for multicluster processors.	Michael L. Chu,Kevin Fan,Scott A. Mahlke	10.1145/781131.781165
+CCured in the real world.	Jeremy Condit,Matthew Harren,Scott McPeak,George C. Necula,Westley Weimer	10.1145/781131.781157
+Predicting whole-program locality through reuse distance analysis.	Chen Ding 0001,Yutao Zhong 0001	10.1145/781131.781159
+CSSV: towards a realistic tool for statically detecting all buffer overflows in C.	Nurit Dor,Michael Rodeh,Shmuel Sagiv	10.1145/781131.781149
+Optimizing indirect branch prediction accuracy in virtual machine interpreters.	M. Anton Ertl,David Gregg	10.1145/781131.781162
+A type and effect system for atomicity.	Cormac Flanagan,Shaz Qadeer	10.1145/781131.781169
+The nesC language: A holistic approach to networked embedded systems.	David Gay,Philip Alexander Levis,J. Robert von Behren,Matt Welsh,Eric A. Brewer,David E. Culler	10.1145/781131.781133
+Taming the IXP network processor.	Lal George,Matthias Blume	10.1145/781131.781135
+A practical flow-sensitive and context-sensitive C and C++ memory leak detector.	David L. Heine,Monica S. Lam	10.1145/781131.781150
+The design, implementation, and evaluation of a compiler algorithm for CPU energy reduction.	Chung-Hsing Hsu,Ulrich Kremer	10.1145/781131.781137
+Stride prefetching by dynamically inspecting objects.	Tatsushi Inagaki,Tamiya Onodera,Hideaki Komatsu,Toshio Nakatani	10.1145/781131.781161
+Static array storage optimization in MATLAB.	Pramod G. Joisha,Prithviraj Banerjee	10.1145/781131.781160
+Linear analysis and optimization of stream programs.	Andrew A. Lamb,William Thies,Saman P. Amarasinghe	10.1145/781131.781134
+Automatically proving the correctness of compiler optimizations.	Sorin Lerner,Todd D. Millstein,Craig Chambers	10.1145/781131.781156
+Bug isolation via remote program sampling.	Ben Liblit,Alexander Aiken,Alice X. Zheng,Michael I. Jordan	10.1145/781131.781148
+A compiler framework for speculative analysis and optimizations.	Jin Lin,Tong Chen 0010,Wei-Chung Hsu,Pen-Chung Yew,Roy Dz-Ching Ju,Tin-Fook Ngai,Sun Chan	10.1145/781131.781164
+Static conflict analysis for multi-threaded object-oriented programs.	Christoph von Praun,Thomas R. Gross	10.1145/781131.781145
+Meta optimization: improving compiler heuristics with machine learning.	Mark Stephenson,Saman P. Amarasinghe,Martin C. Martin,Una-May O&apos;Reilly	10.1145/781131.781141
+Compile-time composition of run-time data and iteration reorderings.	Michelle Mills Strout,Larry Carter,Jeanne Ferrante	10.1145/781131.781142
+A region-based compilation technique for a Java just-in-time compiler.	Toshio Suganuma,Toshiaki Yasue,Toshio Nakatani	10.1145/781131.781166
+Compile-time dynamic voltage scaling settings: opportunities and limits.	Fen Xie,Margaret Martonosi,Sharad Malik	10.1145/781131.781138
+A comparison of empirical and model-driven optimization.	Kamen Yotov,Xiaoming Li,Gang Ren,Michael Cibulskis,Gerald DeJong,María Jesús Garzarán,David A. Padua,Keshav Pingali,Paul Stodghill,Peng Wu 0001	10.1145/781131.781140
+Proceedings of the ACM SIGPLAN 2003 Conference on Programming Language Design and Implementation 2003, San Diego, California, USA, June 9-11, 2003	Ron Cytron,Rajiv Gupta 0001	10.1145/781131

@@ -1,0 +1,38 @@
+Recycling waste: exploiting wrong-path execution to improve branch prediction.	Haitham Akkary,Srikanth T. Srinivasan,Konrad Lai	10.1145/782814.782819
+A GSA-based compiler infrastructure to extract parallelism from complex loops.	Manuel Arenaz,Juan Touriño,Ramon Doallo	10.1145/782814.782842
+miNI: reducing network interface memory requirements with dynamic handle lookup.	Reza Azimi,Angelos Bilas	10.1145/782814.782851
+A fast approximate interprocedural analysis for speculative multithreading compilers.	Anasua Bhowmik,Manoj Franklin	10.1145/782814.782822
+A high performance multi-perspective vision studio.	Eugene Borovikov,Alan Sussman	10.1145/782814.782862
+Collective operations in application-level fault-tolerant MPI.	Greg Bronevetsky,Daniel Marques,Keshav Pingali,Paul Stodghill	10.1145/782814.782847
+Conserving disk energy in network servers.	Enrique V. Carrera,Eduardo Pinheiro,Ricardo Bianchini	10.1145/782814.782829
+A framework for incremental extensible compiler construction.	Steven Carroll,Constantine D. Polychronopoulos	10.1145/782814.782824
+Estimating cache misses and locality using stack distances.	Calin Cascaval,David A. Padua	10.1145/782814.782836
+Keynote: Wireless networks... what does the future have in store?	Louis Christodoulides	10.1145/782814.782815
+Predicate prediction for efficient out-of-order execution.	Weihaw Chuang,Brad Calder	10.1145/782814.782840
+Evaluation of the memory page migration influence in the system performance: the case of the SGI O2000.	Julita Corbalán,Xavier Martorell,Jesús Labarta	10.1145/782814.782833
+Automatic fence insertion for shared memory multiprocessing.	Xing Fang,Jaejin Lee,Samuel P. Midkiff	10.1145/782814.782854
+Performance characteristics of openMP constructs, and application benchmarks on a large symmetric multiprocessor.	Nathan R. Fredrickson,Ahmad Afsahi,Ying Qian	10.1145/782814.782835
+Result checking in global computing systems.	Cécile Germain-Renaud,Nathalie Playez	10.1145/782814.782846
+A performance analysis of the Berkeley UPC compiler.	Parry Husbands,Costin Iancu,Katherine A. Yelick	10.1145/782814.782825
+Roccom: an object-oriented, data-centric software integration framework for multiphysics simulations.	Xiangmin Jiao,Michael T. Campbell,Michael T. Heath	10.1145/782814.782863
+Reducing register ports using delayed write-back queues and operand pre-fetch.	Nam Sung Kim,Trevor N. Mudge	10.1145/782814.782839
+Compiler support for efficient processing of XML datasets.	Xiaogang Li 0001,Renato Ferreira 0001,Gagan Agrawal	10.1145/782814.782823
+High performance RDMA-based MPI implementation over InfiniBand.	Jiuxing Liu,Jiesheng Wu,Sushmitha P. Kini,Pete Wyckoff,Dhabaleswar K. Panda 0001	10.1145/782814.782855
+Dynamic memory instruction bypassing.	Daniel Ortega,Eduard Ayguadé,Mateo Valero	10.1145/782814.782858
+The impact of data dependence analysis on compilation and program parallelization.	Kleanthis Psarris,Konstantinos Kyriakopoulos	10.1145/782814.782843
+Modeling and optimization of non-blocking checkpointing for optimistic simulation on myrinet clusters.	Francesco Quaglia,Andrea Santoro	10.1145/782814.782834
+Partitioned first-level cache design for clustered microarchitectures.	Paul Racunas,Yale N. Patt	10.1145/782814.782820
+Inferential queueing and speculative push for reducing critical communication latencies.	Ravi Rajwar,Alain Kägi,James R. Goodman	10.1145/782814.782853
+Selecting long atomic traces for high coverage.	Roni Rosner,Micha Moffie,Yiannakis Sazeides,Ronny Ronen	10.1145/782814.782818
+PowerHerd: dynamic satisfaction of peak power constraints in interconnection networks.	Li Shang,Li-Shiuan Peh,Niraj K. Jha	10.1145/782814.782830
+Keynote: Is there anything more to learn about high performance processors?	James E. Smith 0001	10.1145/782814.782816
+Predictive dynamic thermal management for multimedia applications.	Jayanth Srinivasan,Sarita V. Adve	10.1145/782814.782831
+AEGIS: architecture for tamper-evident and tamper-resistant processing.	G. Edward Suh,Dwaine E. Clarke,Blaise Gassend,Marten van Dijk,Srinivas Devadas	10.1145/782814.782838
+A new speculation technique to optimize floating-point performance while preserving bit-by-bit reproducibility.	Mikio Takeuchi,Hideaki Komatsu,Toshio Nakatani	10.1145/782814.782857
+Profile-guided I/O partitioning.	Yijian Wang,David R. Kaeli	10.1145/782814.782850
+Enhancing scalability of parallel structured AMR calculations.	Andrew M. Wissink,David Hysom,Richard D. Hornung	10.1145/782814.782861
+Placement of I/O servers to improve parallel I/O performance on switch-based clusters.	Jan-Jan Wu,Da-Wei Wang,Yih-Fang Lin	10.1145/782814.782849
+Inter-procedural stacked register allocation for itanium® like architecture.	Liu Yang,Sun Chan,Guang R. Gao,Roy Ju,Guei-Yuan Lueh,Zhaoqing Zhang	10.1145/782814.782844
+A compiler approach for reducing data cache energy.	Wei Zhang 0002,Mustafa Karaköy,Mahmut T. Kandemir,Guangyu Chen	10.1145/782814.782828
+Enhancing memory level parallelism via recovery-free value prediction.	Huiyang Zhou,Thomas M. Conte	10.1145/782814.782859
+Proceedings of the 17th Annual International Conference on Supercomputing, ICS 2003, San Francisco, CA, USA, June 23-26, 2003	Utpal Banerjee,Kyle A. Gallivan,Antonio González 0001	10.1145/782814

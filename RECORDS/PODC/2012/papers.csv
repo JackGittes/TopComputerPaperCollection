@@ -1,0 +1,62 @@
+Distributed selfish load balancing with weights and speeds.	Clemens P. J. Adolphs,Petra Berenbrink	10.1145/2332432.2332460
+Distributed public key schemes secure against continual leakage.	Adi Akavia,Shafi Goldwasser,Carmit Hazay	10.1145/2332432.2332462
+A simple approach for adapting continuous load balancing processes to discrete settings.	Hoda Akbari,Petra Berenbrink,Thomas Sauerwald	10.1145/2332432.2332486
+Brief announcement: what can be computed without communication?	Heger Arfaoui,Pierre Fraigniaud	10.1145/2332432.2332446
+Brief announcement: distributed algorithms for throughput performance in wireless networks.	Eyjolfur Ingi Asgeirsson,Magnús M. Halldórsson,Pradipta Mitra	10.1145/2332432.2332447
+Faster randomized consensus with an oblivious adversary.	James Aspnes	10.1145/2332432.2332434
+Faster than optimal snapshots (for a while): preliminary version.	James Aspnes,Hagit Attiya,Keren Censor-Hillel,Faith Ellen	10.1145/2332432.2332507
+Brief announcement: distributed cryptography using trinc.	Michael Backes 0001,Fabian Bendun,Aniket Kate	10.1145/2332432.2332448
+Random walks which prefer unvisited edges.: exploring high girth even degree expanders in linear time.	Petra Berenbrink,Colin Cooper,Tom Friedetzky	10.1145/2332432.2332438
+Brief announcement: reconfigurable state machine replication from non-reconfigurable building blocks.	Vita Bortnikov,Gregory V. Chockler,Dmitri Perelman,Alexey Roytman,Shlomit Shachor,Ilya Shnayderman	10.1145/2332432.2332449
+Brief announcement: all-to-all gradecast using coding with byzantine failures.	John Bridgman,Vijay K. Garg	10.1145/2332432.2332450
+On the liveness of transactional memory.	Victor Bushkov,Rachid Guerraoui,Michal Kapalka	10.1145/2332432.2332435
+Brief announcement: there are plenty of tasks weaker than perfect renaming and stronger than set agreement.	Armando Castañeda,Sergio Rajsbaum,Michel Raynal	10.1145/2332432.2332451
+Brief announcement: waiting in dynamic networks.	Arnaud Casteigts,Paola Flocchini,Emmanuel Godard,Nicola Santoro,Masafumi Yamashita	10.1145/2332432.2332452
+Distributed algorithms for scheduling on line and tree networks.	Venkatesan T. Chakaravarthy,Sambuddha Roy,Yogish Sabharwal	10.1145/2332432.2332503
+The cost of fault tolerance in multi-party communication complexity.	Binbin Chen 0001,Haifeng Yu,Yuda Zhao,Phillip B. Gibbons	10.1145/2332432.2332442
+Brief announcement: optimal amortized secret sharing with cheater identification.	Ashish Choudhury	10.1145/2332432.2332453
+Brief announcement: efficient optimally resilient statistical AVSS and its applications.	Ashish Choudhury,Arpita Patra	10.1145/2332432.2332454
+Brief announcement: achieving reliability in master-worker computing via evolutionary dynamics.	Evgenia Christoforou,Antonio Fernández Anta,Chryssis Georgiou,Miguel A. Mosteiro,Ángel Sánchez	10.1145/2332432.2332472
+On the (limited) power of non-equivocation.	Allen Clement,Flavio Junqueira,Aniket Kate,Rodrigo Rodrigues 0001	10.1145/2332432.2332490
+Information spreading in dynamic graphs.	Andrea E. F. Clementi,Riccardo Silvestri,Luca Trevisan	10.1145/2332432.2332439
+Asynchronous failure detectors.	Alejandro Cornejo,Nancy A. Lynch,Srikanth Sastry	10.1145/2332432.2332482
+Coalescing random walks and voting on graphs.	Colin Cooper,Robert Elsässer,Hirotaka Ono,Tomasz Radzik	10.1145/2332432.2332440
+Aggregation in dynamic networks.	Alejandro Cornejo,Seth Gilbert,Calvin C. Newport	10.1145/2332432.2332468
+Brief announcement: breaking the O(nm) bit barrier, secure multiparty computation with a static adversary.	Varsha Dani,Valerie King,Mahnush Movahedi,Jared Saia	10.1145/2332432.2332473
+Leader election in shared spectrum radio networks.	Sebastian Daum,Seth Gilbert,Fabian Kuhn,Calvin C. Newport	
+Brief announcement: decentralized network supercomputing in the presence of malicious and crash-prone workers.	Seda Davtyan,Kishori M. Konwar,Alexander A. Shvartsman	10.1145/2332432.2332475
+Wait-freedom with advice.	Carole Delporte-Gallet,Hugues Fauconnier,Eli Gafni,Petr Kuznetsov	10.1145/2332432.2332456
+Brief announcement: order-preserving renaming in synchronous message passing systems with byzantine faults.	Oksana Denysyuk,Luís E. T. Rodrigues	10.1145/2332432.2332476
+The communication complexity of distributed task allocation.	Andrew Drucker,Fabian Kuhn,Rotem Oshman	10.1145/2332432.2332443
+Universal constructions that ensure disjoint-access parallelism and wait-freedom.	Faith Ellen,Panagiota Fatourou,Eleftherios Kosmas,Alessia Milani,Corentin Travers	10.1145/2332432.2332457
+Generalized lattice agreement.	Jose M. Faleiro,Sriram K. Rajamani,Kaushik Rajan,G. Ramalingam,Kapil Vaswani	10.1145/2332432.2332458
+Brief announcement: an obstacle to scalability in wireless networks.	András Faragó	10.1145/2332432.2332477
+Brief announcement: on the resilience of routing tables.	Joan Feigenbaum,Brighten Godfrey,Aurojit Panda,Michael Schapira,Scott Shenker,Ankit Singla	10.1145/2332432.2332478
+Collaborative search on the plane without communication.	Ofer Feinerman,Amos Korman,Zvi Lotker,Jean-Sébastien Sereni	10.1145/2332432.2332444
+On the time and space complexity of randomized test-and-set.	George Giakkoupis,Philipp Woelfel	10.1145/2332432.2332436
+Brief announcement: a tight RMR lower bound for randomized mutual exclusion.	George Giakkoupis,Philipp Woelfel	10.1145/2332432.2332479
+Making evildoers pay: resource-competitive broadcast in sensor networks.	Seth Gilbert,Maxwell Young	10.1145/2332432.2332461
+Lower bounds for local approximation.	Mika Göös,Juho Hirvonen,Jukka Suomela	10.1145/2332432.2332465
+Brief announcement: From sequential to concurrent: correctness and relative efficiency.	Vincent Gramoli,Petr Kuznetsov,Srivatsan Ravi	10.1145/2332432.2332480
+Brief announcement: network formation games can give rise to realistic networks.	András Gulyás,Attila Korösi,Gábor Rétvári,József Bíró,Dávid Szabó	10.1145/2332432.2332494
+Distributed connectivity of wireless networks.	Magnús M. Halldórsson,Pradipta Mitra	10.1145/2332432.2332469
+Weak models of distributed computing, with connections to modal logic.	Lauri Hella,Matti Järvisalo,Antti Kuusisto,Juhana Laurinharju,Tuomo Lempiäinen,Kerkko Luosto,Jukka Suomela,Jonni Virtema	10.1145/2332432.2332466
+Strongly linearizable implementations: possibilities and impossibilities.	Maryam Helmi,Lisa Higham,Philipp Woelfel	10.1145/2332432.2332508
+Simulations and reductions for colorless tasks.	Maurice Herlihy,Sergio Rajsbaum	10.1145/2332432.2332483
+Distributed maximal matching: greedy is optimal.	Juho Hirvonen,Jukka Suomela	10.1145/2332432.2332464
+Optimal distributed all pairs shortest paths and applications.	Stephan Holzer,Roger Wattenhofer	10.1145/2332432.2332504
+On the price of equivocation in byzantine agreement.	Alexander Jaffe,Thomas Moscibroda,Siddhartha Sen 0001	10.1145/2332432.2332491
+Dynamic packet scheduling in wireless networks.	Thomas Kesselheim	10.1145/2332432.2332487
+Byzantine broadcast in point-to-point networks using local linear coding.	Guanfeng Liang,Nitin H. Vaidya	10.1145/2332432.2332492
+Brief announcement: network-destabilizing attacks.	Robert Lychev,Sharon Goldberg,Michael Schapira	10.1145/2332432.2332495
+Brief announcement: tolerating permanent and transient value faults.	Zarko Milosevic 0001,Martin Hutle,André Schiper	10.1145/2332432.2332496
+Brief announcement: efficient causality tracking in distributed storage systems with dotted version vectors.	Nuno M. Preguiça,Carlos Baquero,Paulo Sérgio Almeida,Victor Fonte,Ricardo Gonçalves 0002	10.1145/2332432.2332497
+Brief announcement: increasing the power of the iterated immediate snapshot model with failure detectors.	Michel Raynal,Julien Stainer	10.1145/2332432.2332498
+Competitive and fair throughput for co-existing networks under adversarial interference.	Andréa W. Richa,Christian Scheideler,Stefan Schmid 0001,Jin Zhang 0007	10.1145/2332432.2332488
+Brief announcement: maintaining large dense subgraphs on dynamic networks.	Atish Das Sarma,Ashwin Lall,Danupon Nanongkai,Amitabh Trehan	10.1145/2332432.2332474
+A closer look at fault tolerance.	Gadi Taubenfeld	10.1145/2332432.2332484
+Iterative approximate byzantine consensus in arbitrary directed graphs.	Nitin H. Vaidya,Lewis Tseng,Guanfeng Liang	10.1145/2332432.2332505
+Brief announcement: delay or deliver dilemma in organization networks.	Shailesh Vaya	10.1145/2332432.2332499
+Brief announcement: live streaming with utilities, quality and cost.	Ymir Vigfusson,Ken Birman,Daniel A. Freedman,Qi Huang,Kristján Valur Jónsson,Gunnar Sigurbjörnsson	10.1145/2332432.2332500
+Brief announcement: a calculus of policy-based routing systems.	Anduo Wang,Carolyn L. Talcott,Alexander J. T. Gurney,Boon Thau Loo,Andre Scedrov	10.1145/2332432.2332501
+ACM Symposium on Principles of Distributed Computing, PODC &apos;12, Funchal, Madeira, Portugal, July 16-18, 2012	Darek Kowalski,Alessandro Panconesi	

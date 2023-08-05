@@ -1,0 +1,190 @@
+General Matrix-Matrix Multiplication Using SIMD Features of the PIII (Research Note).	Douglas Aberdeen,Jonathan Baxter	10.1007/3-540-44520-X_138
+Coherency Behavior on DSM: A Case Study (Research Note).	Jean-Thomas Acquaviva,William Jalby	10.1007/3-540-44520-X_73
+Automatic Parallelization of Sparse Matrix Computations: A Static Analysis.	Roxane Adle,Marc Aiguier,Franck Delaplace	10.1007/3-540-44520-X_45
+Scheduling Trees with Large Communication Delays on Two Identical Processors.	Foto N. Afrati,Evripidis Bampis,Lucian Finta,Ioannis Milis	10.1007/3-540-44520-X_38
+Object Oriented Architectures, Tools, and Applications.	Gul Agha	10.1007/3-540-44520-X_146
+Automatic Generation of Block-Recursive Codes.	Nawaaz Ahmed,Keshav Pingali	10.1007/3-540-44520-X_48
+Probability-Based Fault-Tolerant Routing in Hypercubes (Research Note).	Jehad Al-Sadi,Khaled Day,Mohamed Ould-Khaoua	10.1007/3-540-44520-X_131
+Compiling Multithreaded Java Bytecode for Distributed Execution (Distinguished Paper).	Gabriel Antoniu,Luc Bougé,Philip J. Hatcher,Mark MacBeth,Keith McGuigan,Raymond Namyst	10.1007/3-540-44520-X_148
+A Clustering Approach for Improving Network Performance in Heterogeneous Systems (Research Note).	Vicente Arnau,Juan M. Orduña,Salvador Moreno,Rodrigo Valero,Aurelio Ruiz	10.1007/3-540-44520-X_170
+Request Sequencing: Optimizing Communication for the Grid.	Dorian C. Arnold,Dieter Bachmann,Jack J. Dongarra	10.1007/3-540-44520-X_172
+Sparse Matrix Structure for Dynamic Parallelisation Efficiency.	Markus Ast,Cristina Barrado,José M. Cela,Rolf Fischer,Jesús Labarta,Óscar Laborda,Hartmut Manz,Uwe Schulz	10.1007/3-540-44520-X_69
+E2K Technology and Implementation.	Boris Babayan	10.1007/3-540-44520-X_2
+A Fast Solver for Convection Diffusion Equations Based on Nested Dissection with Incomplete Elimination.	Michael Bader,Christoph Zenger 0001	10.1007/3-540-44520-X_110
+A Hierarchical Approach to Irregular Problems (Research Note).	Fabrizio Baiardi,Primo Becuzzi,Sarah Chiti,Paolo Mori,Laura Ricci	10.1007/3-540-44520-X_30
+Pfortran and Co-Array Fortran as Tools for Parallelization of a Large-Scale Scientific Application.	Piotr Bala,Terry W. Clark	10.1007/3-540-44520-X_68
+Improving the Sparse Parallelization Using Semantical Information at Compile-Time.	Gerardo Bandera,Emilio L. Zapata	10.1007/3-540-44520-X_44
+Experimental Evaluation of Hot-Potato Routing Algorithms on 2-Dimensional Processor Arrays (Research Note).	Constantinos Bartzis,Ioannis Caragiannis,Christos Kaklamanis,Ioannis Vergados	10.1007/3-540-44520-X_122
+Parallelizing an Unstructured Grid Generator with a Space-Filling Curve Approach.	Jörn Behrens,Jens Zimmermann	10.1007/3-540-44520-X_112
+Exploiting Data Locality on Scalable Shared Memory Machines with Data Parallel Programs.	Siegfried Benkner,Thomas Brandes	10.1007/3-540-44520-X_90
+Solving Discrete-Time Periodic Riccati Equations on a Cluster (Research Note).	Peter Benner,Rafael Mayo 0002,Enrique S. Quintana-Ortí,Vicente Hernández	10.1007/3-540-44520-X_113
+Cache Remapping to Improve the Performance of Tiled Algorithms.	Kristof Beyls,Erik H. D&apos;Hollander	10.1007/3-540-44520-X_142
+On the Predictive Quality of BSP-like Cost Functions for NOWs.	Mauro Bianco,Geppino Pucci	10.1007/3-540-44520-X_89
+On Combining Computational Differentiation and Toolkits for Parallel Scientific Computing.	Christian H. Bischof,H. Martin Bücker,Paul D. Hovland	10.1007/3-540-44520-X_12
+Evaluating the Coordination Overhead of Replica Maintenance in a Cluster of Databases.	Klemens Böhm,Torsten Grabs,Uwe Röhm,Hans-Jörg Schek	10.1007/3-540-44520-X_56
+A Distributed Storage System for a Video-on-Demand Server (Research Note).	Alice Bonhomme,Loïc Prylli	10.1007/3-540-44520-X_157
+Performance Prediction of an NAS Benchmark Program with ChronosMix Environment.	Julien Bourgeois,François Spies	10.1007/3-540-44520-X_28
+Pseudovectorization, SMP, and Message Passing on the Hitachi SR8000-F1.	Matthias Brehm,Reinhold Bader,Helmut Heller,Ralf Ebner 0001	10.1007/3-540-44520-X_189
+BitValue Inference: Detecting and Exploiting Narrow Bitwidth Computations.	Mihai Budiu,Majd F. Sakr,Kip Walker,Seth Copen Goldstein	10.1007/3-540-44520-X_137
+A Combinatorial Characterization of Properties Preserved by Antitokens.	Costas Busch,Neophytos Demetriou,Maurice Herlihy,Marios Mavronicolas	10.1007/3-540-44520-X_79
+A Parallel Optimization Scheme for Parameter Estimation in Motor Vehicle Dynamics (Research Note).	Torsten Butz,Oskar von Stryk,Thieß-Magnus Wolter	10.1007/3-540-44520-X_114
+Cluster Computing.	Rajkumar Buyya,Mark Baker,Daniel C. Hyde,Djamshid Tavangarian	10.1007/3-540-44520-X_158
+The ParCel-2 Programming Language (Research Note).	Paul-Jean Cagnard	10.1007/3-540-44520-X_106
+A Callgraph-Based Search Strategy for Automated Performance Diagnosis (Distinguished Paper).	Harold W. Cain,Barton P. Miller,Brian J. N. Wylie	10.1007/3-540-44520-X_15
+Complete Exchange Algorithms for Meshes and Tori Using a Systematic Approach (Research Note).	Luis Díaz de Cerio,Miguel Valero-García,Antonio González 0001	10.1007/3-540-44520-X_81
+Logging RAID - An Approach to Fast, Reliable, and Low-Cost Disk Arrays.	Ying Chen,Windsor W. Hsu,Honesty C. Young	10.1007/3-540-44520-X_182
+A More Expressive Monitor for Concurrent Java Programming.	Hsin-Ta Chiao,Chi-Houng Wu,Shyan-Ming Yuan	10.1007/3-540-44520-X_149
+A New Reliability Model for Interconnection Networks.	Vicente Chirivella,Rosa Alcover	10.1007/3-540-44520-X_127
+Novel Models for Or-Parallel Logic Programs: A Performance Analysis.	Vítor Santos Costa,Ricardo Rocha 0001,Fernando M. A. Silva	10.1007/3-540-44520-X_102
+Problem Solving Environments.	José C. Cunha,David W. Walker,Thierry Priol,Wolfgang Gentzsch	10.1007/3-540-44520-X_183
+Encouraging the Unexpected: Cluster Management for OS and Systems Research (Research Note).	Ronan Cunniffe,Brian A. Coghlan	10.1007/3-540-44520-X_161
+A Parallel Implementation of a Potential Reduction Algorithm for Box-Constrained Quadratic Programming.	Marco D&apos;Apuzzo,Marina Marino,Panos M. Pardalos,Gerardo Toraldo	10.1007/3-540-44520-X_116
+SKElib : Parallel Programming with Skeletons in C.	Marco Danelutto,Massimiliano Stigliani	10.1007/3-540-44520-X_166
+Study of the Load Balancing in the Parallel Training for Automatic Speech Recognition (Research Note).	El Mostafa Daoudi,Pierre Manneback,Abdelouafi Meziane,Yahya Ould Mohamed El Hadj	10.1007/3-540-44520-X_67
+The Input, Preparation, and Distribution of Data for Parallel GIS Operations (Research Note).	Gordon Darling,Terence M. Sloan,Connor Mulholland	10.1007/3-540-44520-X_66
+Scheduling the Computations of a Loop Nest with Respect to a Given Mapping.	Alain Darte,Claude G. Diderich,Marc Gengler,Frédéric Vivien	10.1007/3-540-44520-X_52
+Temporary Arrays for Distribution of Loops with Control Dependences.	Alain Darte,Georges-André Silber	10.1007/3-540-44520-X_47
+Towards Optimal Load Balancing Topologies.	Thomas Decker 0001,Burkhard Monien,Robert Preis	10.1007/3-540-44520-X_37
+Optimal Broadcasting in Even Tori with Dynamic Faults (Research Note).	Stefan Dobrev,Imrich Vrto	10.1007/3-540-44520-X_129
+Experiments with Scheduling Divisible Tasks in Clusters of Workstations.	Maciej Drozdowski,Pawel Wolniewicz	10.1007/3-540-44520-X_40
+Routing and Communication in Interconnection Networks.	José Duato	10.1007/3-540-44520-X_121
+Instruction-Level Parallelism and Processor Architecture.	Kemal Ebcioglu	10.1007/3-540-44520-X_132
+Positive Linear Programming Extensions: Parallel Complexity and Applications (Research Note).	Pavlos S. Efraimidis,Paul G. Spirakis	10.1007/3-540-44520-X_60
+Integrating Automatic Techniques in a Performance Analysis Session (Research Note).	Antonio Espinosa,Tomàs Margalef,Emilio Luque	10.1007/3-540-44520-X_22
+Performance Evaluation and Prediction.	Thomas Fahringer,Wolfgang E. Nagel	10.1007/3-540-44520-X_14
+Reducing the Replacement Overhead on COMA Protocols for Workstation-Based Architectures.	Diego R. Llanos Ferraris,Benjamín Sahelices Fernández,Agustín De Dios Hernández	10.1007/3-540-44520-X_75
+Exact Distributed Invalidation.	Rupert W. Ford,Michael F. P. O&apos;Boyle,Elena Stöhr	10.1007/3-540-44520-X_51
+A Theoretical Framework of Data Parallelism and Its Operational Semantics.	Philippe Gerner,Eric Violard	10.1007/3-540-44520-X_92
+Executable Specification Language for Parallel Symbolic Computation (Research Note).	Alexander B. Godlevsky,Ladislav Hluchý	10.1007/3-540-44520-X_103
+Optimal Mapping of Pipeline Algorithms (Research Note).	Daniel González,Francisco Almeida,Luz Marina Moreno,Casiano Rodríguez	10.1007/3-540-44520-X_41
+Oblivious BSP (Research Note).	Jesus A. González,Coromoto León,Fabiana Piccoli,Marcela Printista,José L. Roda,Casiano Rodríguez,Francisco de Sande	10.1007/3-540-44520-X_94
+An Efficient Parallel Linear Solver with a Cascadic Conjugate Gradient Method: Experience with Reality.	Peter Gottschling,Wolfgang E. Nagel	10.1007/3-540-44520-X_109
+Building Distributed Applications Using Multiple, Heterogeneous Environments.	Paul A. Gray,Vaidy S. Sunderam	10.1007/3-540-44520-X_98
+HPF vs. SAC - A Case Study (Research Note).	Clemens Grelck,Sven-Bodo Scholz	10.1007/3-540-44520-X_87
+Object-Oriented Message-Passing with TPO++ (Research Note).	Tobias Grundmann,Marcus Ritt,Wolfgang Rosenstiel	10.1007/3-540-44520-X_152
+Delay Behavior in Domain Decomposition Applications.	Marco Dimas Gubitoso,Carlos Humes Jr.	10.1007/3-540-44520-X_20
+Self-Stabilizing Protocol for Shortest Path Tree for Multi-cast Routing in Mobile Networks (Research Note).	Sandeep K. S. Gupta,Abdelmadjid Bouabdallah,Pradip K. Srimani	10.1007/3-540-44520-X_83
+Neighbourhood Preserving Load Balancing: A Self-Organizing Approach.	Attila Gürsoy,Murat Atun	10.1007/3-540-44520-X_32
+Searching with Mobile Agents in Networks with Liars.	Nicolas Hanusse,Evangelos Kranakis,Danny Krizanc	10.1007/3-540-44520-X_80
+Efficient Parallelisation of Recursive Problems Using Constructive Recursion (Research Note).	Magne Haveraaen	10.1007/3-540-44520-X_104
+Complexity Theory and Algorithms.	Friedhelm Meyer auf der Heide,Miroslaw Kutylowski,Prabhakar Ragde	10.1007/3-540-44520-X_59
+Volume Driven Data Distribution for NUMA-Machines.	Felix Heine,Adrian Slowik	10.1007/3-540-44520-X_53
+Database Replication Using Epidemic Communication.	JoAnne Holliday,Divyakant Agrawal,Amr El Abbadi	10.1007/3-540-44520-X_55
+Development of Parallel Algorithms in Data Field Haskell (Research Note).	Jonas Holmerin,Björn Lisper	10.1007/3-540-44520-X_105
+Cost-Efficient Branch Target Buffers.	Jan Hoogerbrugge	10.1007/3-540-44520-X_134
+SEEDS: Airport Management Database System.	Tomás Hrúz,Martin Becka,Antonello Pasquarelli	10.1007/3-540-44520-X_119
+A New Home-Based Software DSM Protocol for SMP Clusters.	Weiwu Hu,Fuxin Zhang,Haiming Liu	10.1007/3-540-44520-X_160
+Impact of PE Mapping on Cray T3E Message-Passing Performance.	Eduardo Huedo,Manuel Prieto 0001,Ignacio Martín Llorente,Francisco Tirado	10.1007/3-540-44520-X_27
+HIPERTRANS: High Performance Transport Network Modelling and Simulation (Research Note).	Stephen E. Ijaha,Stephen C. Winter,Nasser Kalantery	10.1007/3-540-44520-X_120
+Parallel Implementation of Fast Hartley Transform (FHT) in Multiprocessor Systems (Research Note).	Felicia Ionescu,Andrei Jalba,Mihail F. Ionescu	10.1007/3-540-44520-X_71
+A Comparison of Concurrent Programming and Cooperative Multithreading.	Takashi Ishihara,Tiejun Li,Eugene F. Fodor,Ronald A. Olsson	10.1007/3-540-44520-X_100
+A Jini-Based Prototype Metacomputing Framework (Research Note).	Zoltan Juhasz,László Késmárki	10.1007/3-540-44520-X_165
+Data Distribution for Parallel CORBA Objects.	Tsunehiko Kamachi,Thierry Priol,Christophe René	10.1007/3-540-44520-X_175
+NEPHEW: Applying a Toolset for the Efficient Deployment of a Medical Image Application on SCI-Based Clusters.	Wolfgang Karl,Martin Schulz 0001,Martin Völk,Sibylle Ziegler	10.1007/3-540-44520-X_118
+Programming Languages, Models, and Methods.	Paul H. J. Kelly,Sergei Gorlatch,Scott B. Baden,Vladimir Getov	10.1007/3-540-44520-X_86
+Use of Performance Technology for the Management of Distributed Systems.	Darren J. Kerbyson,John Stuart Harper,Efstathios Papaefstathiou,Daniel V. Wilcox,Graham R. Nudd	10.1007/3-540-44520-X_19
+Pajé: An Extensible Environment for Visualizing Multi-threaded Programs Executions.	Jacques Chassin de Kergommeaux,Benhur de Oliveira Stein	10.1007/3-540-44520-X_17
+AMANDA - A Distributed System for Aircraft Design.	Hans-Peter Kersken,Andreas Schreiber 0001,Martin Strietzel,Michael Faden,Regine Ahrem,Peter Post,Klaus Wolf,Armin Beckert,Thomas Gerhold,Ralf Heinrich,Edmund Kügeler	10.1007/3-540-44520-X_184
+Four Horizons for Enhancing the Performance of Parallel Simulations Based on Partial Differential Equations.	David E. Keyes	10.1007/3-540-44520-X_1
+Periodic Correction Networks.	Marcin Kik	10.1007/3-540-44520-X_62
+An Architectural Meta-application Model for Coarse Grained Metacomputing.	Stephan Kindermann,Torsten Fink	10.1007/3-540-44520-X_173
+Sliding-Window Compression on the Hypercube (Research Note).	Charalampos Konstantopoulos,Andreas Svolos,Christos Kaklamanis	10.1007/3-540-44520-X_115
+Combining Light Static Code Annotation and Instruction-Set Emulation for Flexible and Efficient On-the-Fly Simulation (Research Note).	Thierry Lafage,André Seznec	10.1007/3-540-44520-X_23
+Computational Steering in Problem Solving Environments (Research Note).	David Lancaster,Jeff S. Reeve	10.1007/3-540-44520-X_187
+Grid-Based Asynchronous Migration of Execution Context in Java Virtual Machines.	Gregor von Laszewski,Kazuyuki Shudo,Yoichi Muraoka	10.1007/3-540-44520-X_3
+Memory Management Techniques for Gang Scheduling.	William Leinberger,George Karypis,Vipin Kumar 0001	10.1007/3-540-44520-X_34
+A Web-Based Finite Element Meshes Partitioner and Load Balancer.	Ching-Jung Liao	10.1007/3-540-44520-X_8
+Implementation Lessons of Performance Prediction Tool for Parallel Conservative Simulation (Research Note).	Chu-Cheow Lim,Yoke-Hean Low,Boon-Ping Gan,Wentong Cai 0001	10.1007/3-540-44520-X_25
+Load Scheduling with Profile Information.	Götz Lindenmaier,Kathryn S. McKinley,Olivier Temam	10.1007/3-540-44520-X_31
+An Efficient Algorithm for Parallel 3D Reconstruction of Asymmetric Objects from Electron Micrographs.	Robert E. Lynch,Hong Lin,Dan C. Marinescu	10.1007/3-540-44520-X_64
+Generating Parallel Program Frameworks from Parallel Design Patterns.	Steve MacDonald,Duane Szafron,Jonathan Schaeffer,Steven Bromling	10.1007/3-540-44520-X_13
+Automatic SIMD Parallelization of Embedded Applications Based on Pattern Recognition.	Rashindra Manniesing,Ireneusz Karkowski,Henk Corporaal	10.1007/3-540-44520-X_46
+A Pattern Language for Parallel Application Programs (Research Note).	Berna L. Massingill,Timothy G. Mattson,Beverly A. Sanders	10.1007/3-540-44520-X_93
+Left-Looking to Right-Looking and Vice Versa: An Application of Fractal Symbolic Analysis to Linear Algebra Code Restructuring.	Nikolay Mateev,Vijay Menon 0002,Keshav Pingali	10.1007/3-540-44520-X_49
+Hardware Migratable Channels (Research Note).	David May 0001,Henk L. Muller,Shondip Sen	10.1007/3-540-44520-X_74
+Distributed Systems and Algorithms.	Ernst W. Mayr	10.1007/3-540-44520-X_78
+SCOPE - The Specific Cluster Operation and Performance Evaluation Benchmark Suite (Research Note).	Panagiotis Melas,Ed Zaluska	10.1007/3-540-44520-X_24
+Timestamping Algorithms: A Characterization and a Few Properties.	Giovanna Melideo,Marco Mechelli,Roberto Baldoni,Alberto Marchetti-Spaccamela	10.1007/3-540-44520-X_85
+Design and Evaluation of a Compiler-Directed Collective I/O Technique.	Gokhan Memik,Mahmut T. Kandemir,Alok N. Choudhary	10.1007/3-540-44520-X_178
+The TOP500 Project of the Universities Mannheim and Tennessee.	Hans Werner Meuer	10.1007/3-540-44520-X_5
+Parallel Shortest Path for Arbitrary Graphs.	Ulrich Meyer 0001,Peter Sanders 0001	10.1007/3-540-44520-X_61
+Compilers for High Performance.	Samuel P. Midkiff,Barbara M. Chapman,Jean-Francois Collard,Jens Knoop	10.1007/3-540-44520-X_43
+Cache Injection: A Novel Technique for Tolerating Memory Latency in Bus-Based SMPs.	Aleksandar Milenkovic,Veljko M. Milutinovic	10.1007/3-540-44520-X_76
+Support Tools and Environments.	Barton P. Miller,Michael Gerndt	10.1007/3-540-44520-X_6
+Analysis of Pipelined Circuit Switching in Cube Networks (Research Note).	Geyong Min,Mohamed Ould-Khaoua	10.1007/3-540-44520-X_126
+Parallel and Distributed Databases and Applications.	Bernhard Mitschang	10.1007/3-540-44520-X_54
+Low Communication Parallel Multigrid.	Marcus Mohr 0001	10.1007/3-540-44520-X_111
+Two-Level Address Storage and Address Prediction (Research Note).	Enric Morancho,José M. Llabería,Àngel Olivé	10.1007/3-540-44520-X_135
+Scheduling Queries for Tape-Resident Data.	Sachin More,Alok N. Choudhary	10.1007/3-540-44520-X_181
+A Preliminary Evaluation of FINESSE , a Feedback-Guided Performance Enhancement System.	Nandini Mukherjee,Graham D. Riley,John R. Gurd	10.1007/3-540-44520-X_11
+Parallel Computer Architecture.	Silvia M. Müller,Per Stenström,Mateo Valero,Stamatis Vassiliadis	10.1007/3-540-44520-X_72
+An Architecture for Web-Based Interaction and Steering of Adaptive Parallel/Distributed Applications.	Rajeev Muralidhar,Samian Kaur,Manish Parashar	10.1007/3-540-44520-X_186
+A Multi-color Inverse Iteration for a High Performance Real Symmetric Eigensolver (Research Note).	Ken Naono,Yusaku Yamamoto,Mitsuyoshi Igai,Hiroyuki Hirayama,Nobuhiro Ioki	10.1007/3-540-44520-X_70
+On the Performance of Fetch Engines Running DSS Workloads.	Carlos Navarro,Alex Ramírez,Josep Lluís Larriba-Pey,Mateo Valero	10.1007/3-540-44520-X_133
+Javelin 2.0: Java-Based Parallel Computing on the Internet.	Michael O. Neary,Alan Phipps,Steven Richman,Peter R. Cappello	10.1007/3-540-44520-X_174
+A Software Architecture for HPC Grid Applications (Research Note).	Steven J. Newhouse,Anthony Edward Mayer,John Darlington	10.1007/3-540-44520-X_95
+Debugging by Remote Reflection.	Ton Ngo,John J. Barton	10.1007/3-540-44520-X_147
+A Multiprotocol Communication Support for the Global Address Space Programming Model on the IBM SP.	Jarek Nieplocha,Jialin Ju,Tjerk P. Straatsma	10.1007/3-540-44520-X_99
+Satin: Efficient Parallel Divide-and-Conquer in Java.	Rob van Nieuwpoort,Thilo Kielmann,Henri E. Bal	10.1007/3-540-44520-X_96
+Pseudo-vectorizing Compiler for the SR8000 (Research Note).	Hiroyasu Nishiyama,Keiko Motokawa,Ichiro Kyushima,Sumio Kikuchi	10.1007/3-540-44520-X_145
+TACO -- Dynamic Distributed Collections with Templates and Topologies.	Jörg Nolte,Mitsuhisa Sato,Yutaka Ishikawa	10.1007/3-540-44520-X_151
+Identifying and Validating Irregular Mutual Exclusion Synchronization in Explicitly Parallel Programs (Research Note).	Diego Novillo,Ronald C. Unrau,Jonathan Schaeffer	10.1007/3-540-44520-X_50
+An Analytical Model of Adaptive Wormhole Routing with Deadlock Recovery (Research Note).	Mohamed Ould-Khaoua,Ahmad Khonsari	10.1007/3-540-44520-X_125
+The WMPI Library Evolution: Experience with MPI Development for Windows Environments.	Hernâni Pedroso,João Gabriel Silva	10.1007/3-540-44520-X_163
+Distribution, Replication, Parallelism, and Efficiency Issues in a Large-Scale Online/Real-Time Information System for Foreign Exchange Trading (Research Note).	Peter Peinl	10.1007/3-540-44520-X_58
+Design of Multi-dimensional DCT Array Processors for Video Applications.	Shietung Peng,Stanislav Sedukhin	10.1007/3-540-44520-X_154
+A Framework for an Interoperable Tool Environment (Research Note).	Radu Prodan,John M. Kewley	10.1007/3-540-44520-X_9
+Towards a High-Performance Implementation of MPI-IO on Top of GPFS.	Jean-Pierre Prost,Richard Treumann,Richard Hedges,Alice E. Koniges,Alison White	10.1007/3-540-44520-X_177
+Algorithms for Routing AGVs on a Mesh Topology (Research Note).	Ling Qiu,Wen-Jing Hsu	10.1007/3-540-44520-X_82
+Effective File-I/O Bandwidth Benchmark.	Rolf Rabenseifner,Alice E. Koniges	10.1007/3-540-44520-X_179
+Preemptive Task Scheduling for Distributed Systems (Research Note).	Andrei Radulescu,Arjan J. C. van Gemund	10.1007/3-540-44520-X_36
+Implementing Declarative Concurrency in Java.	Rafael Ramírez 0001,Andrew E. Santosa,Lee Wei Hong	10.1007/3-540-44520-X_97
+Automating Performance Analysis from UML Design Patterns (Research Note).	Omer F. Rana,Dave Jennings	10.1007/3-540-44520-X_21
+Implementing Problem Solving Environments for Computational Science (Research Note).	Omer F. Rana,Maozhen Li 0001,Matthew S. Shields,David W. Walker,David Golby	10.1007/3-540-44520-X_188
+Visualization and Computational Steering in Heterogeneous Computing Environments.	Sabine Rathmayer	10.1007/3-540-44520-X_7
+Partition Cast - Modelling and Optimizing the Distribution of Large Data Sets in PC Clusters (Distinguished Paper).	Felix Rauch,Christian Kurmann,Thomas Stricker	10.1007/3-540-44520-X_159
+Logical Instantaneity and Causal Order: Two &quot;First Class&quot; Communication Modes for Parallel Computing.	Michel Raynal	10.1007/3-540-44520-X_4
+Metacomputing.	Alexander Reinefeld,Geoffrey C. Fox,Domenico Laforenza,Edward Seidel	10.1007/3-540-44520-X_171
+PCI-DDC Application Programming Interface: Performance in User-Level Messaging (Research Note).	Eric Renault,Pierre David,Paul Feautrier	10.1007/3-540-44520-X_169
+Applications on High-Performance Computers.	Michael M. Resch	10.1007/3-540-44520-X_63
+The Decoupled-Style Prefetch Architecture (Research Note).	Kevin D. Rich,Matthew K. Farrens	10.1007/3-540-44520-X_140
+Code Partitioning in Decoupled Compilers.	Kevin D. Rich,Matthew K. Farrens	10.1007/3-540-44520-X_143
+Dynamic Load Balancing for Parallel Adaptive Multigrid Solvers with Algorithmic Skeletons (Research Note).	Thomas Richert	10.1007/3-540-44520-X_42
+Quorum-Based Replication in Asynchronous Crash-Recovery Distributed Systems (Research Note).	Luís E. T. Rodrigues,Michel Raynal	10.1007/3-540-44520-X_84
+Exploiting Knowledge of Temporal Behaviour in Parallel Programs for Improving Distributed Mapping.	Concepció Roig,Ana Ripoll,Miquel A. Senar,Fernando Guirado,Emilio Luque	10.1007/3-540-44520-X_35
+Fast Cloth Simulation with Parallel Computers.	Sergio Romero 0001,Luis F. Romero,Emilio L. Zapata	10.1007/3-540-44520-X_65
+Numerical Algorithms for Linear and Nonlinear Algebra.	Ulrich Rüde,Hans-Joachim Bungartz	10.1007/3-540-44520-X_107
+Broadcasting in All-Port Wormhole 3-D Meshes of Trees (Research Note).	Petr Salinger,Pavel Tvrdík	10.1007/3-540-44520-X_130
+Improving the Up*/Down* Routing Scheme for Networks of Workstations.	José Carlos Sancho,Antonio Robles	10.1007/3-540-44520-X_123
+A Bandwidth Latency Tradeoff for Broadcast and Reduction.	Peter Sanders 0001,Jop F. Sibeyn	10.1007/3-540-44520-X_128
+Instant Image: Transitive and Cyclical Snapshots in Distributed Storage Volumes.	Prasenjit Sarkar	10.1007/3-540-44520-X_180
+Architectures and Algorithms for Multimedia Applications.	Manfred Schimmler	10.1007/3-540-44520-X_153
+Parallel Multilevel Algorithms for Multi-constraint Graph Partitioning (Distinguished Paper).	Kirk Schloegel,George Karypis,Vipin Kumar 0001	10.1007/3-540-44520-X_39
+Design of a Parallel Accelerator for Volume Rendering.	Bertil Schmidt	10.1007/3-540-44520-X_155
+Scheduling and Load Balancing.	Bettina Schnor	10.1007/3-540-44520-X_29
+Automated Design of an ASIP for Image Processing Applications (Research Note).	Henjo Schot,Henk Corporaal	10.1007/3-540-44520-X_156
+On Solving a Problem in Algebraic Geometry by Cluster Computing (Research Note).	Wolfgang Schreiner,Christian Mittermaier,Franz Winkler 0001	10.1007/3-540-44520-X_168
+ToolBlocks: An Infrastructure for the Construction of Memory Hierarchy Analysis Tools (Research Note).	Timothy Sherwood,Brad Calder	10.1007/3-540-44520-X_10
+Flow Control in ServerNetR Clusters.	Vladimir Shurbanov,Dimiter R. Avresky,Pankaj Mehra,William J. Watson	10.1007/3-540-44520-X_162
+Implementing Explicit and Implicit Coscheduling in a PVM Environment (Research Note).	Francesc Solsona,Francesc Giné,Porfidio Hernández,Emilio Luque	10.1007/3-540-44520-X_164
+Hashed Addressed Caches for Embedded Pointer Based Codes (Research Note).	Marian Stanca,Stamatis Vassiliadis,Sorin Cotofana,Henk Corporaal	10.1007/3-540-44520-X_136
+Limits and Graph Structure of Available Instruction-Level Parallelism (Research Note).	Darko Stefanovic,Margaret Martonosi	10.1007/3-540-44520-X_144
+A Communication Infrastructure for a Distributed RDBMS (Research Note).	Michael Stillger,Dieter Scheffner,Johann Christoph Freytag	10.1007/3-540-44520-X_57
+A Statistical-Empirical Hybrid Approach to Hierarchical Memory Analysis.	Xian-He Sun,Kirk W. Cameron	10.1007/3-540-44520-X_18
+Adaptive Proxies: Handling Widely-Shared Data in Shared-Memory Multiprocessors (Research Note).	Sarah A. M. Talbot,Paul H. J. Kelly	10.1007/3-540-44520-X_77
+Parallel I/O and Storage Technology.	Rajeev Thakur,Rolf Hempel,Elizabeth A. M. Shriver,Peter Brezany	10.1007/3-540-44520-X_176
+Deadlock Avoidance for Wormhole Based Switches.	Ingebjørg Theiss,Olav Lysne	10.1007/3-540-44520-X_124
+Developing a Communication Intensive Application on the EARTH Multithreaded Architecture (Distinguished Paper).	Kevin B. Theobald,Rishi Kumar,Gagan Agrawal,Gerd Heber,Ruppa K. Thulasiram,Guang R. Gao	10.1007/3-540-44520-X_88
+Exploiting Java Bytecode Parallelism by Enhanced POC Folding Model (Research Note).	Lee-Ren Ton,Lung-Chung Chang,Chung-Ping Chung	10.1007/3-540-44520-X_141
+An Object-Oriented Software Framework for Large-Scale Networked Virtual Environments.	Frédéric Dang Tran,Anne Gérodolle	10.1007/3-540-44520-X_150
+The Multi-architecture Performance of the Parallel Functional Language GP H (Research Note).	Philip W. Trinder,Hans-Wolfgang Loidl,Ed. Barry Jr.,Kei Davis,Kevin Hammond,Ulrike Klusik,Simon L. Peyton Jones,Álvaro J. Rebón Portillo	10.1007/3-540-44520-X_101
+A Fast and Accurate Approach to Analyze Cache Memory Behavior (Research Note).	Xavier Vera,Josep Llosa,Antonio González 0001,Nerina Bermudo	10.1007/3-540-44520-X_26
+Token-Based Read/Write-Locks for Distributed Mutual Exclusion.	Claus Wagner,Frank Mueller 0001	10.1007/3-540-44520-X_167
+Ahnentafel Indexing into Morton-Ordered Arrays, or Matrix Locality for Free.	David S. Wise	10.1007/3-540-44520-X_108
+European Projects.	Roland Wismüller,Renato Campo	10.1007/3-540-44520-X_117
+Automatic Performance Analysis of MPI Applications Based on Event Traces.	Felix Wolf 0001,Bernd Mohr	10.1007/3-540-44520-X_16
+Problem Solving Environments: Extending the Rôle of Visualization Systems.	Helen Wright,Ken Brodlie,Jason D. Wood,Jim Procter	10.1007/3-540-44520-X_185
+Redundant Arithmetic Optimizations (Research Note).	Thomas Y. Yeh,Hong Wang 0003	10.1007/3-540-44520-X_139
+The Skel-BSP Global Optimizer: Enhancing Performance Portability in Parallel Programming.	Andrea Zavanella	10.1007/3-540-44520-X_91
+The Impact of Migration on Parallel Job Scheduling for Distributed Systems.	Yanyong Zhang,Hubertus Franke,José E. Moreira,Anand Sivasubramaniam	10.1007/3-540-44520-X_33
+Euro-Par 2000, Parallel Processing, 6th International Euro-Par Conference, Munich, Germany, August 29 - September 1, 2000, Proceedings.	Arndt Bode,Thomas Ludwig 0002,Wolfgang Karl,Roland Wismüller	10.1007/3-540-44520-X

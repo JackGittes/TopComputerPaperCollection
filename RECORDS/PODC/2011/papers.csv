@@ -1,0 +1,66 @@
+From bounded to unbounded concurrency objects and back.	Yehuda Afek,Adam Morrison 0001,Guy Wertheim	10.1145/1993806.1993823
+Optimal-time adaptive strong renaming, with applications to counting.	Dan Alistarh,James Aspnes,Keren Censor-Hillel,Seth Gilbert,Morteza Zadimoghaddam	10.1145/1993806.1993850
+Order optimal information spreading using algebraic gossip.	Chen Avin,Michael Borokhovich,Keren Censor-Hillel,Zvi Lotker	10.1145/1993806.1993883
+Securing social networks.	Michael Backes 0001,Matteo Maffei,Kim Pecina	10.1145/1993806.1993874
+Validity bound of regular registers with churn and byzantine processes.	Roberto Baldoni,Silvia Bonomi,Amir Soltani Nezhad	10.1145/1993806.1993845
+Minimum congestion mapping in a cloud.	Nikhil Bansal 0001,Kang-Won Lee,Viswanath Nagarajan,Murtaza Zafer	10.1145/1993806.1993854
+Distributed deterministic edge coloring using bounded neighborhood independence.	Leonid Barenboim,Michael Elkin	10.1145/1993806.1993825
+Robust data sharing with key-value stores.	Cristina Basescu,Christian Cachin,Ittay Eyal,Robert Haas 0001,Marko Vukolic	10.1145/1993806.1993843
+Easy impossibility proofs for k-set agreement in message passing systems.	Martin Biely,Peter Robinson 0002,Ulrich Schmid 0001	10.1145/1993806.1993846
+Structuring unreliable radio networks.	Keren Censor-Hillel,Seth Gilbert,Fabian Kuhn,Nancy A. Lynch,Calvin C. Newport	10.1145/1993806.1993818
+Tracking distributed aggregates over time-based sliding windows.	Graham Cormode,Ke Yi 0001	10.1145/1993806.1993839
+Scalable rational secret sharing.	Varsha Dani,Mahnush Movahedi,Yamel Rodriguez,Jared Saia	10.1145/1993806.1993833
+Robust network supercomputing without centralized control.	Seda Davtyan,Kishori M. Konwar,Alexander A. Shvartsman	10.1145/1993806.1993860
+Byzantine agreement with homonyms.	Carole Delporte-Gallet,Hugues Fauconnier,Rachid Guerraoui,Anne-Marie Kermarrec,Eric Ruppert,Hung Tran-The	10.1145/1993806.1993810
+Fault-tolerant spanners: better and simpler.	Michael Dinitz,Robert Krauthgamer	10.1145/1993806.1993830
+The complexity of robust atomic storage.	Dan Dobre,Rachid Guerraoui,Matthias Majuntke,Neeraj Suri,Marko Vukolic	10.1145/1993806.1993816
+Rationality authority for provable rational behavior.	Shlomi Dolev,Panagiota N. Panagopoulou,Mikaël Rabie,Elad Michael Schiller,Paul G. Spirakis	10.1145/1993806.1993858
+On the power of hardware transactional memory to simplify memory management.	Aleksandar Dragojevic,Maurice Herlihy,Yossi Lev,Mark Moir	10.1145/1993806.1993821
+Adaptively secure broadcast, revisited.	Juan A. Garay,Jonathan Katz,Ranjit Kumaresan,Hong-Sheng Zhou	10.1145/1993806.1993832
+Accurate byzantine agreement with feedback.	Vijay K. Garg,John Bridgman,Bharath Balasubramanian	10.1145/1993806.1993840
+A complexity separation between the cache-coherent and distributed shared memory models.	Wojciech M. Golab	10.1145/1993806.1993822
+Analyzing consistency properties for fun and profit.	Wojciech M. Golab,Xiaozhou Li 0001,Mehul A. Shah	10.1145/1993806.1993834
+A theory of goal-oriented communication.	Oded Goldreich 0001,Brendan Juba,Madhu Sudan 0001	10.1145/1993806.1993863
+Locally checkable proofs.	Mika Göös,Jukka Suomela	10.1145/1993806.1993829
+Faster information dissemination in dynamic networks via network coding.	Bernhard Haeupler,David R. Karger	10.1145/1993806.1993885
+The space complexity of long-lived and one-shot timestamp implementations.	Maryam Helmi,Lisa Higham,Eduardo Pacheco,Philipp Woelfel	10.1145/1993806.1993826
+Transforming worst-case optimal solutions for simultaneous tasks into all-case optimal solutions.	Maurice Herlihy,Yoram Moses,Mark R. Tuttle	10.1145/1993806.1993849
+Information dissemination on multiple channels.	Stephan Holzer,Yvonne-Anne Pignolet,Jasmin Smula,Roger Wattenhofer	10.1145/1993806.1993842
+The universe of symmetry breaking tasks.	Damien Imbs,Sergio Rajsbaum,Michel Raynal	10.1145/1993806.1993857
+The impact of memory models on software reliability in multiprocessors.	Alexander Jaffe,Thomas Moscibroda,Laura Effinger-Dean,Luis Ceze,Karin Strauss	10.1145/1993806.1993819
+Distributed computing with rules of thumb.	Aaron D. Jaggard,Michael Schapira,Rebecca N. Wright	10.1145/1993806.1993870
+Reliable end-user communication under a changing packet network protocol.	Brendan Juba	10.1145/1993806.1993873
+Solving the at-most-once problem with nearly optimal effectiveness.	Sotiris Kentros,Aggelos Kiayias	10.1145/1993806.1993847
+Time-efficient randomized multiple-message broadcast in radio networks.	Majid Khabbazian,Dariusz R. Kowalski	10.1145/1993806.1993884
+Conflict on a communication channel.	Valerie King,Jared Saia,Maxwell Young	10.1145/1993806.1993855
+Randomized compact routing in decomposable metrics.	Goran Konjevod,Andréa W. Richa,Donglin Xia,Ling Zhou	10.1145/1993806.1993879
+The inherent difficulty of timely primary-backup replication.	Pramod V. Koppol,Kedar S. Namjoshi,Thanos Stathopoulos,Gordon T. Wilfong	10.1145/1993806.1993878
+Fast and compact self stabilizing verification, computation, and fault detection of an MST.	Amos Korman,Shay Kutten,Toshimitsu Masuzawa	10.1145/1993806.1993866
+Toward more localized local algorithms: removing assumptions concerning global knowledge.	Amos Korman,Jean-Sébastien Sereni,Laurent Viennot	10.1145/1993806.1993814
+Distributed graph coloring in a few rounds.	Kishore Kothapalli,Sriram V. Pemmaraju	10.1145/1993806.1993812
+Coordinated consensus in dynamic networks.	Fabian Kuhn,Yoram Moses,Rotem Oshman	10.1145/1993806.1993808
+MIS on trees.	Christoph Lenzen 0001,Roger Wattenhofer	10.1145/1993806.1993813
+Error-free multi-valued consensus with byzantine failures.	Guanfeng Liang,Nitin H. Vaidya	10.1145/1993806.1993809
+A nonblocking set optimized for querying the minimum value.	Yujie Liu,Michael F. Spear	10.1145/1993806.1993876
+Fork-consistent constructions from registers.	Matthias Majuntke,Dan Dobre,Neeraj Suri	10.1145/1993806.1993837
+Distributed k-core decomposition.	Alberto Montresor,Francesco De Pellegrini,Daniele Miorandi	10.1145/1993806.1993836
+Resilience of mutual exclusion algorithms to transient memory faults.	Thomas Moscibroda,Rotem Oshman	10.1145/1993806.1993817
+Unbounded contention resolution in multiple-access channels.	Miguel A. Mosteiro,Antonio Fernández Anta,Jorge Ramón Muñoz	10.1145/1993806.1993838
+B-neck: a distributed and quiescent max-min fair algorithm.	Alberto Mozo,José Luis López-Presa,Antonio Fernández Anta	10.1145/1993806.1993841
+A tight unconditional lower bound on distributed randomwalk computation.	Danupon Nanongkai,Atish Das Sarma,Gopal Pandurangan	10.1145/1993806.1993853
+Incentive-compatible distributed greedy protocols.	Noam Nisan,Michael Schapira,Gregory Valiant,Aviv Zohar	10.1145/1993806.1993871
+Xheal: localized self-healing using expanders.	Gopal Pandurangan,Amitabh Trehan	10.1145/1993806.1993865
+A generalization of multiple choice balls-into-bins.	Gahyun Park	10.1145/1993806.1993862
+The round complexity of distributed sorting: extended abstract.	Boaz Patt-Shamir,Marat Teplitsky	10.1145/1993806.1993851
+Scalability versus semantics of concurrent FIFO queues.	Hannes Payer,Harald Röck,Christoph M. Kirsch,Ana Sokolova	10.1145/1993806.1993869
+Tight bounds on information dissemination in sparse mobile networks.	Alberto Pettarin,Andrea Pietracaprina,Geppino Pucci,Eli Upfal	10.1145/1993806.1993882
+Partial reversal acyclicity.	Tsvetomira Radeva,Nancy A. Lynch	10.1145/1993806.1993880
+Compact policy routing.	Gábor Rétvári,András Gulyás,Zalán Heszberger,Márton Csernai,József Bíró	10.1145/1993806.1993828
+Network synchronization and localization based on stolen signals.	Christian Schindelhauer,Zvi Lotker,Johannes Wendeberg	10.1145/1993806.1993844
+On the hardness and approximation of minimum topic-connected overlay.	Monika Steinová	10.1145/1993806.1993861
+Secure data structures based on multi-party computation.	Tomas Toft	10.1145/1993806.1993859
+Parallel and distributed programming extensions for mainstream languages based on pi-calculus.	Patrick Viry	10.1145/1993806.1993875
+Time bounds for shared objects in partially synchronous systems.	Jiaqi Wang,Jennifer L. Welch,Hyunyoung Lee	10.1145/1993806.1993877
+Sustaining collaboration in multicast despite rational collusion.	Haifeng Yu,Phillip B. Gibbons,Chenwei Shi	10.1145/1993806.1993872
+Stability of a peer-to-peer communication system.	Ji Zhu 0003,Bruce E. Hajek	10.1145/1993806.1993867
+Proceedings of the 30th Annual ACM Symposium on Principles of Distributed Computing, PODC 2011, San Jose, CA, USA, June 6-8, 2011	Cyril Gavoille,Pierre Fraigniaud	

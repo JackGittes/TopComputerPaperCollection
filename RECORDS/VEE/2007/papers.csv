@@ -1,0 +1,20 @@
+Libra: a library operating system for a jvm in a virtualized execution environment.	Glenn Ammons,Jonathan Appavoo,Maria A. Butrico,Dilma Da Silva,David Grove,Kiyokuni Kawachiya,Orran Krieger,Bryan S. Rosenburg,Eric Van Hensbergen,Robert W. Wisniewski	10.1145/1254810.1254817
+Live wide-area migration of virtual machines including local persistent state.	Robert Bradford,Evangelos Kotsovinos,Anja Feldmann,Harald Schiöberg	10.1145/1254810.1254834
+PinOS: a programmable framework for whole-system dynamic instrumentation.	Prashanth P. Bungale,Chi-Keung Luk	10.1145/1254810.1254830
+I/O processing in a virtualized platform: a simulation-driven approach.	Vineet Chadha,Ramesh Illikkal,Ravi R. Iyer 0001,Jaideep Moses,Donald Newell,Renato J. O. Figueiredo	10.1145/1254810.1254827
+Xen and co.: communication-aware CPU scheduling for consolidated xen-based hosting platforms.	Sriram Govindan,Arjun R. Nath,Amitayu Das,Bhuvan Urgaonkar,Anand Sivasubramaniam	10.1145/1254810.1254828
+Nomad: migrating OS-bypass networks in virtual machines.	Wei Huang 0003,Jiuxing Liu,Matthew J. Koop,Bülent Abali,Dhabaleswar K. Panda 0001	10.1145/1254810.1254833
+Cibyl: an environment for language diversity on mobile devices.	Simon Kågström,Håkan Grahn,Lars Lundberg	10.1145/1254810.1254821
+Cloneable JVM: a new approach to start isolated java applications faster.	Kiyokuni Kawachiya,Kazunori Ogata,Daniel Silva 0001,Tamiya Onodera,Hideaki Komatsu,Toshio Nakatani	10.1145/1254810.1254812
+Dynamic compilation: the benefits of early investing.	Prasad A. Kulkarni,Matthew Arnold,Michael Hind	10.1145/1254810.1254824
+VMM-independent graphics acceleration.	H. Andrés Lagar-Cavilla,Niraj Tolia,Mahadev Satyanarayanan,Eyal de Lara	10.1145/1254810.1254816
+Practical escape analyses: how good are they?	Kyungwoo Lee,Xing Fang,Samuel P. Midkiff	10.1145/1254810.1254836
+How to shadow every byte of memory used by a program.	Nicholas Nethercote,Julian Seward	10.1145/1254810.1254820
+Virtual I/O scheduler: a scheduler of schedulers for performance virtualization.	Seetharami R. Seelam,Patricia J. Teller	10.1145/1254810.1254826
+Reflexes: abstractions for highly responsive systems.	Jesper Honig Spring,Filip Pizlo,Rachid Guerraoui,Jan Vitek	10.1145/1254810.1254837
+Speculative optimization using hardware-monitored guarded regions for java virtual machines.	Lixin Su,Mikko H. Lipasti	10.1145/1254810.1254814
+Automatic feedback-directed object inlining in the java hotspotTM virtual machine.	Christian Wimmer,Hanspeter Mössenböck	10.1145/1254810.1254813
+Metadata driven memory optimizations in dynamic binary translator.	Chaohao Xu,Jianhui Li,Tao Bao,Yun Wang,Bo Huang 0002	10.1145/1254810.1254831
+FoxyTechnique: tricking operating system policies with a virtual machine monitor.	Hiroshi Yamada,Kenji Kono	10.1145/1254810.1254818
+YETI: a graduallY extensible trace interpreter.	Mathew Zaleski,Angela Demke Brown,Kevin Stoodley	10.1145/1254810.1254823
+Proceedings of the 3rd International Conference on Virtual Execution Environments, VEE 2007, San Diego, California, USA, June 13-15, 2007	Chandra Krintz,Steven Hand 0001,David Tarditi	10.1145/1254810

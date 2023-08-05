@@ -1,0 +1,72 @@
+An Analysis of System Balance Requirements for Scientific Applications.	Sadaf R. Alam,Jeffrey S. Vetter	10.1109/ICPP.2006.21
+Exploring the Performance Limits of Simultaneous Multithreading for Scientific Codes.	Evangelia Athanasaki,Nikos Anastopoulos,Kornilios Kourtis,Nectarios Koziris	10.1109/ICPP.2006.41
+ExactMP: An Efficient Parallel Exact Solver for Phylogenetic Tree Reconstruction Using Maximum Parsimony.	David A. Bader,Vaddadi P. Chandu,Mi Yan	10.1109/ICPP.2006.40
+Designing Multithreaded Algorithms for Breadth-First Search and st-connectivity on the Cray MTA-2.	David A. Bader,Kamesh Madduri	10.1109/ICPP.2006.34
+Parallel Algorithms for Evaluating Centrality Indices in Real-world Networks.	David A. Bader,Kamesh Madduri	10.1109/ICPP.2006.57
+Address-Value Decoupling for Early Register Deallocation.	Deniz Balkan,Joseph J. Sharkey,Dmitry Ponomarev 0001,Aneesh Aggarwal	10.1109/ICPP.2006.20
+A Performance Model of the Krak Hydrodynamics Application.	Kevin J. Barker,Scott Pakin,Darren J. Kerbyson	10.1109/ICPP.2006.11
+Data Transfers between Processes in an SMP System: Performance Study and Application to MPI.	Darius Buntinas,Guillaume Mercier,William Gropp	10.1109/ICPP.2006.31
+Truthful Topology Control inWireless Ad Hoc Networks with Selfish Nodes.	Jianfeng Cai 0003,Yunhuai Liu,Jie Lian,Mo Li 0001,Udo W. Pooch,Lionel M. Ni	10.1109/ICPP.2006.71
+The Power and Limit of Adding Synchronization Messages for Synchronous Agreement.	Jiannong Cao 0001,Michel Raynal,Xianbing Wang,Weigang Wu	10.1109/ICPP.2006.69
+Adaptively Routing P2P Queries Using Association Analysis.	Brian D. Connelly,Christopher W. Bowron,Li Xiao 0001,Pang-Ning Tan,Chen Wang 0010	10.1109/ICPP.2006.18
+A Coarse Grained Parallel Algorithm for Hausdorff Voronoi Diagrams.	Frank K. H. A. Dehne,Anil Maheshwari,Ryan Taylor	10.1109/ICPP.2006.5
+The Impact of Multicore on Math Software and Exploiting Single Precision Computing to Obtain Double Precision Results.	Jack J. Dongarra	10.1109/ICPP.2006.68
+Four Years with the High Productivity Computing Systems Program - A Perspective.	E. N. Elnozahy	10.1109/ICPP.2006.43
+A Framework to Achieve Guaranteed QoS for Applications and High System Performance in Multi-Institutional Grid Computing.	Umar Farooq 0010,Shikharesh Majumdar,Eric W. Parsons	10.1109/ICPP.2006.8
+Application-Transparent Checkpoint/Restart for MPI Programs over InfiniBand.	Qi Gao,Weikuan Yu,Wei Huang 0003,Dhabaleswar K. Panda 0001	10.1109/ICPP.2006.26
+RECN-DD: A Memory-Efficient Congestion Management Technique for Advanced Switching.	Pedro Javier García,Francisco J. Quiles 0001,Jose Flich,José Duato,Ian Johnson,Finbar Naven	10.1109/ICPP.2006.62
+FREERIDE-G: Supporting Applications that Mine Remote.	Leonid Glimcher,Ruoming Jin,Gagan Agrawal	10.1109/ICPP.2006.44
+Edge Scheduling Algorithms in Parallel and Distributed Systems.	Jian-Jun Han,Duo-Qiang Wang	10.1109/ICPP.2006.37
+About the Efficiency of Partial Replication to Implement Distributed Shared Memory.	Jean-Michel Hélary,Alessia Milani	10.1109/ICPP.2006.15
+Generalized Edge Coloring for Channel Assignment in Wireless Networks.	Chun-Chen Hsu,Pangfeng Liu,Da-Wei Wang,Jan-Jan Wu	10.1109/ICPP.2006.45
+Distributed Coordination Protocols to Realize Scalable Multimedia Streaming in Peer-to-Peer Overlay Networks.	Satoshi Itaya,Naohiro Hayashibara,Tomoya Enokido,Makoto Takizawa 0001	10.1109/ICPP.2006.35
+History-aware Self-Scheduling.	Arun Kejariwal,Alexandru Nicolau,Constantine D. Polychronopoulos	10.1109/ICPP.2006.49
+A PROactive Request Distribution (PRORD) Using Web Log Mining in a Cluster-Based Web Server.	Heung Ki Lee,Gopinath Vageesan,Ki Hwan Yum,Eun Jung Kim 0001	10.1109/ICPP.2006.12
+Data Sharing Pattern Aware Scheduling on Grids.	Young Choon Lee,Albert Y. Zomaya	10.1109/ICPP.2006.30
+Towards the Parallelization of Shot Detection - a Typical Video Mining Application Study.	Eric Q. Li,Wenlong Li,Tao Wang 0003,Nan Di,Carole Dulong,Yimin Zhang 0002	10.1109/ICPP.2006.70
+High Performance Block I/O for Global File System (GFS) with InfiniBand RDMA.	Shuang Liang,Weikuan Yu,Dhabaleswar K. Panda 0001	10.1109/ICPP.2006.47
+hiREP: Hierarchical Reputation Management for Peer-to-Peer Systems.	Xiaomei Liu,Li Xiao 0001	10.1109/ICPP.2006.48
+Social Welfare Based Routing in Ad hoc Networks.	Mingming Lu,Jie Wu 0001	10.1109/ICPP.2006.65
+Decoupling the Bandwidth and Latency Bounding for Table-based Schedulers.	Raúl Martínez,Francisco José Alfaro,José L. Sánchez 0002	10.1109/ICPP.2006.33
+On Creating Efficient Object-relational Views of Scientific Datasets.	Sivaramakrishnan Narayanan,Tahsin M. Kurç,Ümit V. Çatalyürek,Joel H. Saltz	10.1109/ICPP.2006.56
+Ant Colony Optimal Algorithm: Fast Ants on the Optical Pipelined R-Mesh.	Ken D. Nguyen,Anu G. Bourgeois	10.1109/ICPP.2006.24
+A Parallel External-Memory Frontier Breadth-First Traversal Algorithm for Clusters of Workstations.	Robert Niewiadomski,José Nelson Amaral,Robert C. Holte	10.1109/ICPP.2006.9
+Switch-tagged VLAN Routing Methodology for PC Clusters with Ethernet.	Tomohiro Otsuka,Michihiro Koibuchi,Tomohiro Kudoh,Hideharu Amano	10.1109/ICPP.2006.67
+Vishwa: A reconfigurable P2P middleware for Grid Computations.	M. Venkateswara Reddy,A. Vijay Srinivas,Tarun Gopinath,D. Janakiram	10.1109/ICPP.2006.75
+Empirical Studies on the Behavior of Resource Availability in Fine-Grained Cycle Sharing Systems.	Xiaojuan Ren,Rudolf Eigenmann	10.1109/ICPP.2006.39
+Vector Lane Threading.	Suzanne Rivoire,Rebecca Schultz,Tomofumi Okuda,Christos Kozyrakis	10.1109/ICPP.2006.74
+A Flexible and Dynamic Infrastructure for MPI Tool Interoperability.	Martin Schulz 0001,Bronis R. de Supinski	10.1109/ICPP.2006.6
+Dynamic Fault Tolerance with Misrouting in Fat Trees.	Frank Olaf Sem-Jacobsen,Tor Skeie,Olav Lysne,José Duato	10.1109/ICPP.2006.36
+Parallel Information Extraction on Shared Memory Multi-processor System.	Jiulong Shan,Yurong Chen 0001,Qian Diao,Yimin Zhang 0002	10.1109/ICPP.2006.58
+Performance Analysis of a High Energy Colliding Beam Simulation Code on Four HPC Architectures.	Hongzhang Shan,Ji Qiang,Erich Strohmaier,Katherine A. Yelick	10.1109/ICPP.2006.59
+Balancing ILP and TLP in SMT Architectures through Out-of-Order Instruction Dispatch.	Joseph J. Sharkey,Dmitry Ponomarev 0001	10.1109/ICPP.2006.28
+A Stochastic Approach to Measuring the Robustness of Resource Allocations in Distributed Systems.	Vladimir Shestak,Jay Smith,Howard Jay Siegel,Anthony A. Maciejewski	10.1109/ICPP.2006.14
+Using Gossip for Dynamic Resource Discovery.	Eric Simonton,Byung Kyu Choi,Steven Seidel	10.1109/ICPP.2006.72
+Improving Spatial Reuse with Collision-Aware DCF in Mobile Ad Hoc Networks.	Lubo Song,Chansu Yu	10.1109/ICPP.2006.50
+Data-Flow Analysis for MPI Programs.	Michelle Mills Strout,Barbara Kreaseck,Paul D. Hovland	10.1109/ICPP.2006.32
+Adaptive Load Balancing for Long-Range MD Simulations in A Distributed Environment.	J. V. Sumanth,David R. Swanson,Hong Jiang 0001	10.1109/ICPP.2006.17
+Inter-Overlay Cooperation in High-Bandwidth Overlay Multicast.	Guang Tan,Stephen A. Jarvis	10.1109/ICPP.2006.51
+Analyzing Multiple File Downloading in BitTorrent.	Ye Tian 0004,Di Wu 0001,Kam-Wing Ng	10.1109/ICPP.2006.23
+A Formal Analysis of Space Filling Curves for Parallel Domain Decomposition.	Srikanta Tirthapura,Sudip Seal,Srinivas Aluru	10.1109/ICPP.2006.7
+Worst-Case Delay Control in Multi-Group Overlay Networks.	Wanqing Tu	10.1109/ICPP.2006.76
+An Integrated Approach for Processor Allocation and Scheduling of Mixed-Parallel Applications.	Nagavijayalakshmi Vydyanathan,Sriram Krishnamoorthy,Gerald Sabin,Ümit V. Çatalyürek,Tahsin M. Kurç,P. Sadayappan,Joel H. Saltz	10.1109/ICPP.2006.22
+Achieving Bounded Delay on Message Delivery in Publish/Subscribe Systems.	Jinling Wang,Jiannong Cao 0001,Jing Li,Jie Wu 0001	10.1109/ICPP.2006.16
+Efficient Algorithms for Traffic Grooming in SONET/WDM Networks.	Yong Wang,Qian-Ping Gu	10.1109/ICPP.2006.38
+AOPC: An Adaptive Optimized Proportional Controller for AQM.	Jianxin Wang,Liang Rong	10.1109/ICPP.2006.25
+Using Space and Attribute Partitioned Partial Replicas for Data Subsetting and Aggregation Queries.	Li Weng,Ümit V. Çatalyürek,Tahsin M. Kurç,Gagan Agrawal,Joel H. Saltz	10.1109/ICPP.2006.73
+Message from the General Chair.		10.1109/ICPP.2006.53
+Message from the Program Chair.		10.1109/ICPP.2006.54
+Program Committee.		10.1109/ICPP.2006.61
+Additional Reviewers.		10.1109/ICPP.2006.19
+Solving Energy-Latency Dilemma: Task Allocation for Parallel Applications in Heterogeneous Embedded Systems.	Tao Xie 0004,Xiao Qin 0001,Mais Nijim	10.1109/ICPP.2006.66
+Performance Modeling based on Multidimensional Surface Learning for Performance Predictions of Parallel Applications in Non-Dedicated Environments.	Jay Yagnik,H. A. Sanjay 0001,Sathish S. Vadhiyar	10.1109/ICPP.2006.60
+A Service-Centric Multicast Architecture and Routing Protocol.	Yuanyuan Yang 0001,Jianchao Wang,Min Yang 0008	10.1109/ICPP.2006.13
+CoopStream: A Cooperative Cache Based Streaming Schedule Scheme for On-demand Media Services on Overlay Networks.	Baoliu Ye,Minyi Guo,Jingling Xue	10.1109/ICPP.2006.29
+Managing Risk of Inaccurate Runtime Estimates for Deadline Constrained Job Admission Control in Clusters.	Chee Shin Yeo,Rajkumar Buyya	10.1109/ICPP.2006.52
+Scalable Time-Parallelization of Molecular Dynamics Simulations in Nano Mechanics.	Yanan Yu,Ashok Srinivasan,Namas Chandra	10.1109/ICPP.2006.64
+Object Placement in Parallel Tape Storage Systems.	Xianbo Zhang,Dingshan He,David Hung-Chang Du,Ying-Ping Lu	10.1109/ICPP.2006.55
+Salsa: Scalable Asynchronous Replica Exchange for Parallel Molecular Dynamics Applications.	Li Zhang,Manish Parashar,Emilio Gallicchio,Ronald M. Levy	10.1109/ICPP.2006.63
+A Parallel, Out-of-Core Algorithm for RNA Secondary Structure Prediction.	Wenduo Zhou,David K. Lowenthal	10.1109/ICPP.2006.10
+Generic Adaptive Moving Object Tracking Algorithms.	Jing Zhou,Hong Va Leong,Qin Lu 0001,Ken C. K. Lee	10.1109/ICPP.2006.46
+False Rate Analysis of Bloom Filter Replicas in Distributed Systems.	Yifeng Zhu,Hong Jiang 0001	10.1109/ICPP.2006.42
+2006 International Conference on Parallel Processing (ICPP 2006), 14-18 August 2006, Columbus, Ohio, USA		

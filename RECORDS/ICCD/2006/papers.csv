@@ -1,0 +1,83 @@
+Efficient Testing of RF MIMO Transceivers Used in WLAN Applications.	Erkan Acar,Sule Ozev	10.1109/ICCD.2006.4380852
+Guiding Architectural SRAM Models.	Banit Agrawal,Timothy Sherwood	10.1109/ICCD.2006.4380844
+FPGA-based Design of a Large Moduli Multiplier for Public Key Cryptographic Systems.	Osama Daifallah Al-Khaleel,Christos A. Papachristou,Francis G. Wolff,Kiamal Z. Pekmestzi	10.1109/ICCD.2006.4380834
+Scaling Manufacturability Software to Thousands of Processors.	Fabio Angelillis	10.1109/ICCD.2006.4380785
+Reliability Support for On-Chip Memories Using Networks-on-Chip.	Federico Angiolini,David Atienza,Srinivasan Murali,Luca Benini,Giovanni De Micheli	10.1109/ICCD.2006.4380846
+Trends and Future Directions in Nano Structure Based Computing and Fabrication.	R. Iris Bahar	10.1109/ICCD.2006.4380865
+Scalable Sequential Equivalence Checking across Arbitrary Design Transformations .	Jason Baumgartner,Hari Mony,Viresh Paruthi,Robert Kanzelman,Geert Janssen	10.1109/ICCD.2006.4380826
+Clustering-Based Microcode Compression.	Edson Borin,Maurício Breternitz Jr.,Youfeng Wu,Guido Araujo	10.1109/ICCD.2006.4380816
+Adding Debug Enhancements to Assertion Checkers for Hardware Emulation and Silicon Debug.	Marc Boule,Jean-Samuel Chenard,Zeljko Zilic	10.1109/ICCD.2006.4380831
+Automated Design of Microfluidics-Based Biochips: Connecting Biochemistry to Electronics CAD.	Krishnendu Chakrabarty	10.1109/ICCD.2006.4380800
+Implicit Search-Space Aware Cofactor Expansion: A Novel Preimage Computation Technique.	Kameshwar Chandrasekar,Michael S. Hsiao	10.1109/ICCD.2006.4380829
+Design and Implementation of Software Objects in Hardware.	Fu-Chiung Cheng,Hung-Chi Wu	10.1109/ICCD.2006.4380856
+Interconnect Considerations For High Performance Network on Chip Designs.	Uri Cummings	10.1109/ICCD.2006.4380814
+Computer Architecture in the Many-Core Era.	William J. Dally	10.1109/ICCD.2006.4380784
+FA-STAC: A Framework for Fast and Accurate Static Timing Analysis with Coupling.	Debasish Das,Ahmed Shebaita,Hai Zhou,Yehea I. Ismail,Kip Killpack	10.1109/ICCD.2006.4380792
+Partial Functional Manipulation Based Wirelength Minimization.	Avijit Dutta,David Z. Pan	10.1109/ICCD.2006.4380839
+Requirements and Concepts for Transaction Level Assertions.	Wolfgang Ecker,Volkan Esen,Michael Hull,Thomas Steininger,Michael Velten	10.1109/ICCD.2006.4380830
+A Pattern Generation Technique for Maximizing Power Supply Currents.	Kunal P. Ganeshpure,Alodeep Sanyal,Sandip Kundu	10.1109/ICCD.2006.4380838
+Long-term Performance Bottleneck Analysis and Prediction.	Fei Gao,Suleyman Sair	10.1109/ICCD.2006.4380786
+On the Improvement of Statistical Static Timing Analysis.	Rajesh Garg,Nikhil Jayakumar,Sunil P. Khatri	10.1109/ICCD.2006.4380791
+Aspect-Oriented Architecture Description for Retargetable Compilation, Simulation and Synthesis of Application-Specific Pipelined Datapaths .	Bita Gorjiara,Mehrdad Reshadi,Daniel Gajski	10.1109/ICCD.2006.4380841
+An Enhancement for a Scheduling Logic Pipelined over two Cycles .	Ruben Gran Tejero,Enric Morancho,Àngel Olivé,José María Llabería	10.1109/ICCD.2006.4380818
+Implementation and Evaluation of On-Chip Network Architectures.	Paul Gratz,Changkyu Kim,Robert G. McDonald,Stephen W. Keckler,Doug Burger	10.1109/ICCD.2006.4380859
+RasP: An Area-efficient, On-chip Network.	Simon Hollis,Simon W. Moore	10.1109/ICCD.2006.4380795
+Improving Scalability and Complexity of Dynamic Scheduler through Wakeup-Based Scheduling.	Kuo-Su Hsiao,Chung-Ho Chen	10.1109/ICCD.2006.4380817
+High-Level vs. RTL Combinational Equivalence: An Introduction.	Alan Hu	10.1109/ICCD.2006.4380828
+Power-Constrained SOC Test Schedules through Utilization of Functional Buses.	Fawnizu Azmadi Hussin,Tomokazu Yoneda,Alex Orailoglu,Hideo Fujiwara	10.1109/ICCD.2006.4380822
+Power/ground supply network optimization for power-gating.	Hailin Jiang,Malgorzata Marek-Sadowska	10.1109/ICCD.2006.4380837
+Reduce Register Files Leakage Through Discharging Cells.	Lingling Jin,Wei Wu 0024,Jun Yang 0002,Chuanjun Zhang,Youtao Zhang	10.1109/ICCD.2006.4380803
+Stochastic Dynamic Thermal Management: A Markovian Decision-based Approach.	Hwisung Jung,Massoud Pedram	10.1109/ICCD.2006.4380855
+Seqver : A Sequential Equivalence Verifier for Hardware Designs .	Daher Kaiss,Silvian Goldenberg,Zurab Khasidashvili	10.1109/ICCD.2006.4380827
+Efficient Transistor-Level Sizing Technique under Temporal Performance Degradation due to NBTI.	Kunhyuk Kang,Haldun Kufluoglu,Muhammad Ashraful Alam,Kaushik Roy 0001	10.1109/ICCD.2006.4380820
+Iterative-Constructive Standard Cell Placer for High Speed and Low Power.	Sungjae Kim,Eugene Shragowitz	10.1109/ICCD.2006.4380840
+RTL Scan Design for Skewed-Load At-speed Test under Power Constraints.	Ho Fai Ko,Nicola Nicolici	10.1109/ICCD.2006.4380823
+Perceptron Based Consumer Prediction in Shared-Memory Multiprocessors.	Sean Leventhal,Manoj Franklin	10.1109/ICCD.2006.4380808
+Microarchitecture and Performance Analysis of Godson-2 SMT Processor.	Zusong Li,Xianchao Xu,Weiwu Hu,Zhimin Tang	10.1109/ICCD.2006.4380860
+Task Merging for Dynamic Power Management of Cyclic Applications in Real-Time Multi-Processor Systems.	Shaobo Liu,Qinru Qiu,Qing Wu	10.1109/ICCD.2006.4380847
+Fast, Performance-Optimized Partial Match Address Compression for Low-Latency On-Chip Address Buses.	Jiangjiang Liu 0002,Krishnan Sundaresan,Nihar R. Mahapatra	10.1109/ICCD.2006.4380788
+Efficient Transient-Fault Tolerance for Multithreaded Processors using Dual-Thread Execution.	Yi Ma,Huiyang Zhou	10.1109/ICCD.2006.4380804
+CMOS Comparators for High-Speed and Low-Power Applications.	Eric Menendez,Dumezie Maduike,Rajesh Garg,Sunil P. Khatri	10.1109/ICCD.2006.4380797
+Statistical Analysis of Power Grid Networks Considering Lognormal Leakage Current Variations with Spatial Correlation.	Ning Mi,Jeffrey Fan,Sheldon X.-D. Tan	10.1109/ICCD.2006.4380794
+FPGA Implementation of High Speed FIR Filters Using Add and Shift Method.	Shahnam Mirzaei,Anup Hosangadi,Ryan Kastner	10.1109/ICCD.2006.4380833
+Dynamic Co-Processor Architecture for Software Acceleration on CSoCs.	Abhishek Mitra,Zhi Guo,Anirban Banerjee,Walid A. Najjar	10.1109/ICCD.2006.4380805
+Steady and Transient State Analysis of Gate Leakage Current in Nanoscale CMOS Logic Gates.	Saraju P. Mohanty,Elias Kougianos	10.1109/ICCD.2006.4380819
+Delay and Area Efficient First-level Cache Soft Error Detection and Correction.	Karl Mohr,Lawrence Clark	10.1109/ICCD.2006.4380799
+Split-Row: A Reduced Complexity, High Throughput LDPC Decoder Architecture.	Tinoosh Mohsenin,Bevan M. Baas	10.1109/ICCD.2006.4380835
+Patching Processor Design Errors.	Satish Narayanasamy,Bruce Carneal,Brad Calder	10.1109/ICCD.2006.4380861
+Fast Speculative Address Generation and Way Caching for Reducing L1 Data Cache Energy.	Dan Nicolaescu,Babak Salamat,Alexander V. Veidenbaum	10.1109/ICCD.2006.4380801
+Reconfigurable CAM Architecture for Network Search Engines.	Mehrdad Nourani,Deepak S. Vijayasarathi,Poras T. Balsara	10.1109/ICCD.2006.4380798
+Quantitative Prediction of On-chip Capacitive and Inductive Crosstalk Noise and Discussion on Wire Cross-Sectional Area Toward Inductive Crosstalk Free Interconnects.	Yasuhiro Ogasahara,Masanori Hashimoto,Takao Onoye	10.1109/ICCD.2006.4380796
+A New Class of Sequential Circuits with Acyclic Test Generation Complexity.	Chia Yee Ooi,Hideo Fujiwara	10.1109/ICCD.2006.4380851
+Reduction of Crosstalk Pessimism using Tendency Graph Approach.	Murthy Palla,Klaus Koch,Jens Bargfrede,Manfred Glesner,Walter Anheier	10.1109/ICCD.2006.4380793
+An Active Decoupling Capacitance Circuit for Inductive Noise Suppression in Power Supply Networks.	Sanjay Pant,David T. Blaauw	10.1109/ICCD.2006.4380811
+Power Droop Testing.	Ilia Polian,Alejandro Czutro,Sandip Kundu,Bernd Becker 0001	10.1109/ICCD.2006.4380824
+A performance and power analysis of WK-Recursive and Mesh Networks for Network-on-Chips.	Dara Rahmati,Abbas Eslami Kiasari,Shaahin Hessabi,Hamid Sarbazi-Azad	10.1109/ICCD.2006.4380807
+Customizable Fault Tolerant Caches for Embedded Processors.	Subramanian Ramaswamy,Sudhakar Yalamanchili	10.1109/ICCD.2006.4380802
+Assertion-Based Microarchitecture Design for Improved Reliability.	Vimal K. Reddy,Eric Rotenberg,Ahmed S. Al-Zawawi	10.1109/ICCD.2006.4380842
+An accurate Energy estimation framework for VLIW Processor Cores.	Sourav Roy,Rajat Bhatia,Ashish Mathur	10.1109/ICCD.2006.4380857
+Choosing an Error Protection Scheme for a Microprocessor&apos;s L1 Data Cache.	Nathan Sadler,Daniel J. Sorin	10.1109/ICCD.2006.4380862
+Design and Implementation of the TRIPS Primary Memory System.	Simha Sethumadhavan,Robert G. McDonald,Rajagopalan Desikan,Doug Burger,Stephen W. Keckler	10.1109/ICCD.2006.4380858
+A theory of Error-Rate Testing.	Shideh Shahidi,Sandeep Gupta	10.1109/ICCD.2006.4380853
+Architectural Support for Run-Time Validation of Control Flow Transfer.	Yixin Shi,Sean Dempsey,Gyungho Lee	10.1109/ICCD.2006.4380863
+Polaris: A System-Level Roadmap for On-Chip Interconnection Networks.	Vassos Soteriou,Noel Eisley,Hangsheng Wang,Bin Li 0018,Li-Shiuan Peh	10.1109/ICCD.2006.4380806
+Design Methodology of Regular Logic Bricks for Robust Integrated Circuits.	Kim Yaw Tong,Lawrence T. Pileggi	10.1109/ICCD.2006.4380810
+Interconnect Matching Design Rule Inferring and Optimization through Correlation Extraction.	Rasit Onur Topaloglu,Andrew B. Kahng	10.1109/ICCD.2006.4380821
+A Design Approach for Fine-grained Run-Time Power Gating using Locally Extracted Sleep Signals.	Kimiyoshi Usami,Naoaki Ohkubo	10.1109/ICCD.2006.4380809
+An Efficient, Scalable Hardware Engine for Boolean SATisfiability.	Mandar Waghmode,Kanupriya Gulati,Sunil P. Khatri,Weiping Shi	10.1109/ICCD.2006.4380836
+Pesticide: Using SMT Processors to Improve Performance of Pointer Bug Detection.	Jin-Yi Wang,Yen-Shiang Shue,T. N. Vijaykumar,Saurabh Bagchi	10.1109/ICCD.2006.4380864
+Joint Performance Improvement and Error Tolerance for Memory Design Based on Soft Indexing.	Shuo Wang,Lei Wang 0003	10.1109/ICCD.2006.4380789
+System-Level Energy Modeling for Heterogeneous Reconfigurable Chip Multiprocessors.	Xiaofang Wang,Sotirios G. Ziavras	10.1109/ICCD.2006.4380849
+Improving Power and Data Efficiency with Threaded Memory Modules.	Frederick A. Ware,Craig Hampel	10.1109/ICCD.2006.4380850
+Scale in Chip Interconnect requires Network Technology .	Enno Wein	10.1109/ICCD.2006.4380813
+Simulation-based functional test justification using a decision-digram-based Boolean data miner.	Charles H.-P. Wen,Onur Guzey,Li-C. Wang	10.1109/ICCD.2006.4380832
+Highly-Guided X-Filling Method for Effective Low-Capture-Power Scan Test Generation.	Xiaoqing Wen,Kohei Miyase,Tatsuya Suzuki,Yuta Yamato,Seiji Kajihara,Laung-Terng Wang,Kewal K. Saluja	10.1109/ICCD.2006.4380825
+Addressing Multicore Communication Challenges Using NoC Technology.	Drew Wingard	10.1109/ICCD.2006.4380815
+A System-level Network-on-Chip Simulation Framework Integrated with Low-level Analytical Models.	Jinwen Xi,Peixin Zhong	10.1109/ICCD.2006.4380845
+Generating Compact Robust and Non-Robust Tests for Complete Coverage of Path Delay Faults Based on Stuck-at Tests.	Dong Xiang,Kaiwei Li,Hideo Fujiwara,Jiaguang Sun	10.1109/ICCD.2006.4380854
+Implementing Tile-based Chip Multiprocessors with GALS Clocking Styles.	Zhiyi Yu,Bevan M. Baas	10.1109/ICCD.2006.4380812
+A Low Power Highly Associative Cache for Embedded Systems.	Chuanjun Zhang	10.1109/ICCD.2006.4380790
+High-speed Factorization Architecture for Soft-decision Reed-Solomon Decoding.	Xinmiao Zhang	10.1109/ICCD.2006.4380843
+A Capacity Co-allocation Configurable Cache for Low Power Embedded Systems.	Chuanjun Zhang	10.1109/ICCD.2006.4380848
+Speculative Code Value Specialization Using the Trace Cache Fill Unit.	Weifeng Zhang 0003,Brad Calder,Dean M. Tullsen,Steve Checkoway	10.1109/ICCD.2006.4380787
+24th International Conference on Computer Design (ICCD 2006), 1-4 October 2006, San Jose, CA, USA		

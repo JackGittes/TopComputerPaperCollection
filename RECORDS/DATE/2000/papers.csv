@@ -1,0 +1,146 @@
+Single Step Current Driven Routing of Multiterminal Signal Nets for Analog Applications.	Thorsten Adler,Erich Barke	10.1109/DATE.2000.840309
+Cost Reduction and Evaluation of a Temporary Faults Detecting Technique.	Lorena Anghel,Michael Nicolaidis	10.1109/DATE.2000.840845
+Structural Testing on Real Boards.	Peter Bach,Michael Bosch	10.1109/DATE.2000.840874
+Automatic Abstraction for Worst-Case Analysis of Discrete Systems.	Felice Balarin	10.1109/DATE.2000.840830
+HW/SW Codesign of an Engine Management System.	Massimo Baleani,Alberto Ferrari,Alberto L. Sangiovanni-Vincentelli,Claudio Turchetti	10.1109/DATE.2000.840049
+CAS-BUS: A Scalable and Reconfigurable Test Access Mechanism for Systems on a Chip.	Mounir Benabdenbi,Walid Maroufi,Meryem Marzouki	10.1109/DATE.2000.840030
+A Discrete-Time Battery Model for High-Level Power Estimation.	Luca Benini,Giuliano Castelli,Alberto Macii,Enrico Macii,Massimo Poncino,Riccardo Scarsi	10.1109/DATE.2000.840012
+Diagnostic Testing of Embedded Memories Using BIST.	Timothy J. Bergfeld,Dirk Niggemeyer,Elizabeth M. Rudnick	10.1109/DATE.2000.840288
+MASCOT: A Specification and Cosimulation Method Integrating Data and Control Flow.	Per Bjuréus,Axel Jantsch	10.1109/DATE.2000.840033
+A Design Automation Roadmap for Europe Panel discussion.	Joseph Borel,Frank Ghenassia,Jean-Jacques Bronner,Irmtraud Rugen-Herzig,Wolfgang Rosenstiel,Anton Sauer	10.1109/DATE.2000.840832
+Layout Compaction for Yield Optimization via Critical Area Minimization.	Youcef Bourai,C.-J. Richard Shi	10.1109/DATE.2000.840027
+Faster Optimal Single-Row Placement with Fixed Ordering.	Ulrich Brenner,Jens Vygen	10.1109/DATE.2000.840026
+Target Architecture Oriented High-Level Synthesis for Multi-FPGA Based Emulation.	Oliver Bringmann 0001,Wolfgang Rosenstiel,Carsten Menn	10.1109/DATE.2000.840291
+Detecting Undetectable Controller Faults Using Power Analysis.	Joan Carletta,Christos A. Papachristou,Mehrdad Nourani	10.1109/DATE.2000.840867
+System Synthesis for Multiprocessor Embedded Applications.	Luigi Carro,Márcio Eduardo Kreutz,Flávio Rech Wagner,Márcio Oyamada	10.1109/DATE.2000.840863
+Non-Linear Components for Mixed Circuits Analog Front-End.	Luigi Carro,Adão Antônio de Souza Jr.,Marcelo Negreiros,Gabriel Parmegiani Jahn,Denis Teixeira Franco	10.1109/DATE.2000.840839
+Optimal Hardware Pattern Generation for Functional BIST.	Silvia Cataldo,Silvia Chiusano,Paolo Prinetto,Hans-Joachim Wunderlich	10.1109/DATE.2000.840286
+How to Solve the Current Memory Access and Data Transfer Bottlenecks: At the Processor Architecture or at the Compiler Level?	Francky Catthoor,Nikil D. Dutt,Christoforos E. Kozyrakis	10.1109/DATE.2000.840306
+A Memory Architecture with 4-Address Configurations for Video Signal Processing.	Sunho Chang,Jong-Sun Kim,Lee-Sup Kim	10.1109/DATE.2000.840879
+Clocktree RLC Extraction with Efficient Inductance Modeling.	Norman Chang,Shen Lin,O. Sam Nakagawa,Weize Xie,Lei He 0001	10.1109/DATE.2000.840835
+Delay Minimization and Technology Mapping of Two-Level Structures and Implementation Using Clock-Delayed Domino Logic.	Jovanka Ciric,Gin Yee,Carl Sechen	10.1109/DATE.2000.840284
+An Efficient Heuristic Approach to Solve the Unate Covering Problem.	Roberto Cordone,Fabrizio Ferrandi,Donatella Sciuto,Roberto Wolfler Calvo	10.1109/DATE.2000.840297
+Automatic Test Bench Generation for Validation of RT-Level Descriptions: An Industrial Experience.	Fulvio Corno,Matteo Sonza Reorda,Giovanni Squillero,Alberto Manzone,Alessandro Pincetti	10.1109/DATE.2000.840300
+Reuse of Existing Resources for Analog BIST of a Switch Capacitor Filte.	Érika F. Cota,Michel Renovell,Florence Azaïs,Yves Bertrand,Luigi Carro,Marcelo Lubaszewski	10.1109/DATE.2000.840043
+Virtual Fault Simulation of Distributed IP-Based Designs.	Marcello Dalpasso,Alessandro Bogliolo,Luca Benini,Michele Favalli	10.1109/DATE.2000.840023
+Stochastic Modeling and Performance Evaluation for Digital Clock and Data Recovery Circuits.	Alper Demir 0001,Peter Feldmann	10.1109/DATE.2000.840293
+Layout-Oriented Synthesis of High Performance Analog Circuits.	Mohamed Dessouky,Marie-Minerve Louërat,Jacky Porte	10.1109/DATE.2000.840015
+Influence of Manufacturing Variations in IDDQ Measurements: A New Test Criterion.	Juan M. Díez,Juan Carlos López 0001	10.1109/DATE.2000.840854
+Transformational Placement and Synthesis.	Wilm E. Donath,Prabhakar Kudva,Leon Stok,Paul Villarrubia,Lakshmi N. Reddy,Andrew Sullivan,Kanad Chakraborty	10.1109/DATE.2000.840038
+TOP: An Algorithm for Three-Level Optimization of PLDs.	Elena Dubrova,Peeter Ellervee,D. Michael Miller,Jon C. Muzio	10.1109/DATE.2000.840884
+An Object Oriented Design Method for Reconfigurable Computing Systems.	Martyn Edwards,Peter Green 0001	10.1109/DATE.2000.840862
+The Future of Flexible HW Platform Architectures Panel Discussion.	Rolf Ernst,Grant Martin,Oz Levia,Pierre G. Paulin,Stamatis Vassiliadis,Kees A. Vissers	10.1109/DATE.2000.840851
+A VHDL Error Simulator for Functional Test Generation.	Alessandro Fin,Franco Fummi	10.1109/DATE.2000.840301
+A New Partitioning Method for Parallel Simulation of VLSI Circuits on Transistor Level.	Norbert Fröhlich,Volker Gloeckel,Josef Fleischmann	10.1109/DATE.2000.840860
+Technology Mapping and Retargeting for Field-Programmable Analog Arrays.	Sree Ganesan,Ranga Vemuri	10.1109/DATE.2000.840016
+An Integrated Temporal Partitioning and Partial Reconfiguration Technique for Design Latency Improvement.	Satish Ganesan,Ranga Vemuri	10.1109/DATE.2000.840290
+Wire-Sizing for Delay Minimization and Ringing Control Using Transmission Line Model.	Youxin Gao,D. F. Wong 0001	10.1109/DATE.2000.840833
+Cycle-True Simulation of the ST10 Microcontroller.	Lovic Gauthier,Ahmed Amine Jerraya	10.1109/DATE.2000.840875
+Smart Antenna Receiver Based on a Single Chip Solution for GSM/DCS Baseband Processing.	Uberto Girola,Agostino Picciriello,David Vincenzoni	10.1109/DATE.2000.840036
+Effective Low Power BIST for Datapaths.	Dimitris Gizopoulos,Nektarios Kranitis,Mihalis Psarakis,Antonis M. Paschalis,Yervant Zorian	10.1109/DATE.2000.840890
+Test Quality and Fault Risk in Digital Filter Datapath BIST.	Laurence Goodby,Alex Orailoglu	10.1109/DATE.2000.840827
+A New Approach for Computation of Timing Jitter in Phase Locked Loops.	Mark M. Gourary,Sergey G. Rusakov,Sergey L. Ulyanov,Michael M. Zharov,Kiran K. Gullapalli,Brian J. Mulvaney	10.1109/DATE.2000.840294
+Improving the Schedule Quality of Static-List Time-Constrained Scheduling.	Sriram Govindarajan,Ranga Vemuri	10.1109/DATE.2000.840882
+A Hierarchical Approach for the Symbolic Analysis of Large Analog Integrated Circuits.	Oscar Guerra,Elisenda Roca,Francisco V. Fernández 0001,Ángel Rodríguez-Vázquez	10.1109/DATE.2000.840014
+A Generic Architecture for On-Chip Packet-Switched Interconnections.	Pierre Guerrier,Alain Greiner	10.1109/DATE.2000.840047
+Multi-Node Static Logic Implications for Redundancy Identification.	Kabir Gulrajani,Michael S. Hsiao	10.1109/DATE.2000.840868
+Analysis of High-Level Address Code Transformations for Programmable Processors.	Sumit Gupta,Rajesh K. Gupta 0001,Miguel Miranda,Francky Catthoor	10.1109/DATE.2000.840008
+Architecture Exploration of Parameterizable EPIC SOC Architectures.	Ashok Halambi,Radu Cornea,Peter Grun,Nikil D. Dutt,Alexandru Nicolau	10.1109/DATE.2000.840881
+Memory Arbitration and Cache Management in Stream-Based Systems.	Françoise Harmsze,Adwin H. Timmer,Jef L. van Meerbergen	10.1109/DATE.2000.840048
+A Hardware Platform for VLIW Based Emulation of Digital Designs.	Gunter Haug,Udo Kebschull,Wolfgang Rosenstiel	10.1109/DATE.2000.840880
+Fast Cache and Bus Power Estimation for Parameterized System-on-a-Chip Design.	Jörg Henkel,Tony Givargis,Frank Vahid	10.1109/DATE.2000.840292
+Static Timing Analysis of Embedded Software on Advanced Processor Architectures.	André Hergenhan,Wolfgang Rosenstiel	10.1109/DATE.2000.840840
+A Bus Delay Reduction Technique Considering Crosstalk.	Kei Hirose,Hiroto Yasuura	10.1109/DATE.2000.840308
+Exploiting Hierarchy for Multiple Error Correction in Combinational Circuits.	Dirk W. Hoffmann,Thomas Kropf	10.1109/DATE.2000.840891
+Architectural Power Optimization by Bus Splitting.	Cheng-Ta Hsieh,Massoud Pedram	10.1109/DATE.2000.840848
+A BIST Scheme for On-Chip ADC and DAC Testing.	Jiun-Lang Huang,Chee-Kian Ong,Kwang-Ting Cheng	10.1109/DATE.2000.840041
+A Power Reduction Technique with Object Code Merging for Application Specific Embedded Processors.	Tohru Ishihara,Hiroto Yasuura	10.1109/DATE.2000.840849
+System Design Based on Single Language and Single-Chip Java ASIP Microcontroller.	Sérgio Akira Ito,Luigi Carro,Ricardo Pezzuol Jacobi	10.1109/DATE.2000.840864
+Gate Sizing Using a Statistical Delay Model.	E. T. A. F. Jacobs,Michel R. C. M. Berkelaar	10.1109/DATE.2000.840285
+Iterative Abstraction-Based CTL Model Checking.	Jae-Young Jang,In-Ho Moon,Gary D. Hachtel	10.1109/DATE.2000.840831
+Composite Signal Flow: A Computational Model Combining Events, Sampled Streams, and Vectors.	Axel Jantsch,Per Bjuréus	10.1109/DATE.2000.840032
+Delay-Insensitive Interface Specification and Synthesis.	Mark B. Josephs,Dennis P. Furey	10.1109/DATE.2000.840034
+Alternative Test Methods Using IEEE 1149.4.	Uros Kac,Franc Novak,Srecko Macek,Marina Santo Zarnik	10.1109/DATE.2000.840312
+A Web-Based System for Assessing and Searching for Designs.	Hilary J. Kahn,Andy Carpenter,Nigel A. Whitaker	10.1109/DATE.2000.840888
+A BDD-Based Satisfiability Infrastructure Using the Unate Recursive Paradigm.	Priyank Kalla,Zhihong Zeng,Maciej J. Ciesielski,ChiLai Huang	10.1109/DATE.2000.840044
+Free MDD-Based Software Optimization Techniques for Embedded Systems.	Chunghee Kim,Luciano Lavagno,Alberto L. Sangiovanni-Vincentelli	10.1109/DATE.2000.840009
+On Applying Incremental Satisfiability to Delay Fault Testing.	Joonyoung Kim,Jesse Whittemore,Karem A. Sakallah,João P. Marques Silva	10.1109/DATE.2000.840299
+Constructive Library-Aware Synthesis Using Symmetries.	Victor N. Kravets,Karem A. Sakallah	10.1109/DATE.2000.840040
+Lower Bounds on the Power Consumption in Scheduled Data Flow Graphs with Resource Constraints.	Lars Kruse,Eike Schmidt,Gerd Jochens,Ansgar Stammermann,Wolfgang Nebel	10.1109/DATE.2000.840870
+Power and Delay Reduction via Simultaneous Logic and Placement Optimization in FPGAs.	Balakrishna Kumthekar,Fabio Somenzi	10.1109/DATE.2000.840039
+Efficient Power Co-Estimation Techniques for System-on-Chip Design.	Marcello Lajolo,Anand Raghunathan,Sujit Dey,Luciano Lavagno	10.1109/DATE.2000.840011
+Evaluating System Dependability in a Co-Design Framework.	Marcello Lajolo,Maurizio Rebaudengo,Matteo Sonza Reorda,Massimo Violante,Luciano Lavagno	10.1109/DATE.2000.840844
+Standards for System-Level Design: Practical Reality or Solution in Search of a Question?	Christopher K. Lennard,Patrick Schaumont,Gjalt G. de Jong,Anssi Haverinen,Pete Hardee	10.1109/DATE.2000.840843
+Code Selection for Media Processors with SIMD Instructions.	Rainer Leupers	10.1109/DATE.2000.840007
+Meeting Delay Constraints in DSM by Minimal Repeater Insertion.	I-Min Liu,Adnan Aziz,D. F. Wong 0001	10.1109/DATE.2000.840307
+Abstraction from Counters: An Application on Real-Time Systems.	George Logothetis,Klaus Schneider 0001	10.1109/DATE.2000.840829
+Constraint-Driven System Partitioning.	Marisa Luisa López-Vallejo,Jesús Grajal,Juan Carlos López 0001	10.1109/DATE.2000.840304
+Quantitative Comparison of Power Management Algorithms.	Yung-Hsiang Lu,Eui-Young Chung,Tajana Simunic,Giovanni De Micheli,Luca Benini	10.1109/DATE.2000.840010
+Cost and Benefit Models for Logic and Memory BIST.	Juin-Ming Lu,Cheng-Wen Wu	10.1109/DATE.2000.840865
+Parallel and Distributed VHDL Simulation.	Dragos Lungeanu,C.-J. Richard Shi	10.1109/DATE.2000.840856
+Techniques for Reducing Read Latency of Core Bus Wrappers.	Roman L. Lysecky,Frank Vahid,Tony Givargis	10.1109/DATE.2000.840021
+Wave Steered FSMs.	Luca Macchiarulo,Shih-Ming Shu,Malgorzata Marek-Sadowska	10.1109/DATE.2000.840283
+On Using Satisfiability-Based Pruning Techniques in Covering Algorithms.	Vasco M. Manquinho,João Marques-Silva 0001	10.1109/DATE.2000.840296
+Logic Simulation Using Networks of State Machines.	Peter M. Maurer	10.1109/DATE.2000.840859
+On-Line Testing and Diagnosis of Bus Lines with respect to Intermediate Voltage Values.	Cecilia Metra,Michele Favalli,Bruno Riccò	10.1109/DATE.2000.840896
+Cycle-Based Simulation Algorithms for Digital Systems Using High-Level Decision Diagrams.	Adam Morawiec,Raimund Ubar,Jaan Raik	10.1109/DATE.2000.840876
+A Flexible Specification Framework for Hardware-Software Codesign.	José Manuel Moya,Francisco Moya,Juan Carlos López 0001,Santiago Domínguez	10.1109/DATE.2000.840886
+Automating RT-Level Operand Isolation to Minimize Power Consumption in Datapaths.	Michael Münch,Norbert Wehn,Bernd Wurth,Renu Mehra,Jim Sproch	10.1109/DATE.2000.840850
+Protocol Stack-Based Telecom-Emulator.	Takahiro Murooka,Toshiaki Miyazaki	10.1109/DATE.2000.840037
+Shared Memory Implementations of Synchronous Dataflow Specifications.	Praveen K. Murthy,Shuvra S. Bhattacharyya	10.1109/DATE.2000.840303
+Designing Closer to the Edge.	Sani R. Nassif	10.1109/DATE.2000.840852
+Scan Latch Partitioning into Multiple Scan Chains for Power Minimization in Full Scan Sequential Circuits.	Nicola Nicolici,Bashir M. Al-Hashimi	10.1109/DATE.2000.840866
+An Incremental Specification Flow for Real Time Embedded Systems.	Alex Niemegeers,Gjalt G. de Jong	10.1109/DATE.2000.840894
+A Single Phase Latch for High Speed GaAs Domino Circuits.	Saeid Nooshabadi,Juan A. Montiel-Nelson,Antonio Núñez,Roberto Sarmiento,Javier Sosa	10.1109/DATE.2000.840893
+Efficient Resource Arbitration in Reconfigurable Computing Environments.	Iyad Ouaiss,Ranga Vemuri	10.1109/DATE.2000.840841
+Test Synthesis for Mixed-Signal SOC Paths.	Sule Ozev,Ismet Bayraktaroglu,Alex Orailoglu	10.1109/DATE.2000.840028
+A New IEEE 1149.1 Boundary Scan Design for the Detection of Delay Defects.	Sungju Park,Taehyung Kim	10.1109/DATE.2000.840311
+Area Optimization of Analog Circuits Considering Matching Constraints.	Christian Paulus,Ulrich Kleine,Roland Thewes	10.1109/DATE.2000.840871
+Retargeting of Compiled Simulators for Digital Signal Processors Using a Machine Description Language.	Stefan Pees,Andreas Hoffmann 0002,Heinrich Meyr	10.1109/DATE.2000.840858
+A Vhdl-Based Methodology for Design and Verification of Pipeline A/D Converters.	Eduardo J. Peralías,Antonio J. Acosta 0001,Adoración Rueda,José L. Huertas	10.1109/DATE.2000.840837
+XFridge: A SPICE-Based, Portable, User-Friendly Cell-Level Sizing Tool.	F. M. Pérez-Montes,Fernando Medeiro,Rafael Domínguez-Castro,Francisco V. Fernández 0001,Ángel Rodríguez-Vázquez	10.1109/DATE.2000.840872
+Evaluation of Interconnects with TDR.	Ulf Pillkahn	10.1109/DATE.2000.840873
+Built-In Generation of Weighted Test Sequences for Synchronous Sequential Circuits.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.2000.840287
+Functional Test Generation for Full Scan Circuits.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/DATE.2000.840302
+Bus Access Optimization for Distributed Embedded Systems Based on Schedulability Analysis.	Paul Pop,Petru Eles,Zebo Peng	10.1109/DATE.2000.840842
+System Level Online Power Management Algorithms.	Dinesh Ramanathan,Rajesh K. Gupta 0001	10.1109/DATE.2000.840847
+Static Timing Analysis Taking Crosstalk into Account.	Matthias Ringe,Thomas Lindenkreuz,Erich Barke	10.1109/DATE.2000.840310
+A Fault Simulation Methodology for MEMS.	Richard Rosing	10.1109/DATE.2000.840828
+Analyzing Real-Time Systems.	Jürgen Ruf,Thomas Kropf	10.1109/DATE.2000.840046
+From High-Level Specifications Down to Software Implementations of Parallel Embedded Real-Time Systems.	Carsten Rust,Friedhelm Stappert,Peter Altenbernd,Jürgen Tacken	10.1109/DATE.2000.840861
+A New Effective And Efficient Multi-Level Partitioning Algorithm.	Youssef Saab	10.1109/DATE.2000.840025
+Parametric Fault Simulation and Test Vector Generation.	Khaled Saab 0001,Naim Ben-Hamida,Bozena Kaminska	10.1109/DATE.2000.840855
+An Experimental Study of Satisfiability Search Heuristics.	Karem A. Sakallah,Fadi A. Aloul,João P. Marques Silva	10.1109/DATE.2000.840878
+Assessing the Cost Effectiveness of Integrated Passives.	Michael Scheffler,Gerhard Tröster	10.1109/DATE.2000.840838
+On the Generation of Multiplexer Circuits for Pass Transistor Logic.	Christoph Scholl 0001,Bernd Becker 0001	10.1109/DATE.2000.840298
+Automatic Equivalence Check of Circuit Descriptions at Clocked Algorithmic and Register Transfer Level.	Jens Schönherr,Bernd Straube	10.1109/DATE.2000.840892
+The Generalized Boundary Curve-A Common Method for Automatic Nominal Design and Design Centering of Analog Circuits.	Robert Schwencker,Frank Schenkel,Helmut E. Graeb,Kurt Antreich	10.1109/DATE.2000.840013
+Resolution of Dynamic Memory Allocation and Pointers for the Behavioral Synthesis from C.	Luc Séméria,Koichi Sato,Giovanni De Micheli	10.1109/DATE.2000.840289
+Predicting Coupled Noise in RC Circuits.	Bernard N. Sheehan	10.1109/DATE.2000.840834
+A System-Level Synthesis Algorithm with Guaranteed Solution Quality.	U. Nagaraj Shenoy,Prithviraj Banerjee,Alok N. Choudhary	10.1109/DATE.2000.840305
+Mixed-Signal BIST Using Correlation and Reconfigurable Hardware.	José Machado da Silva,J. Soeiro Duarte,José Silva Matos	10.1109/DATE.2000.840877
+Dynamic Power Management of Laptop Hard Disk.	Tajana Simunic,Luca Benini,Peter W. Glynn,Giovanni De Micheli	10.1109/DATE.2000.840869
+Testing Arithmetic Coprocessor in System Environment.	Janusz Sosnowski,Tomasz Bech	10.1109/DATE.2000.840885
+Reducing the Complexity of Defect Level Modeling Using the Clustering Effect.	José T. de Sousa,Vishwani D. Agrawal	10.1109/DATE.2000.840853
+Stay Away from Minimum Design-Rule Values.	Chris W. H. Strolenberg	10.1109/DATE.2000.840019
+All Digital Built-in Delay and Crosstalk Measurement for On-Chip Buses.	Chauchin Su,Yue-Tsang Chen,Mu-Jeng Huang,Gen-Nan Chen,Chung-Len Lee 0001	10.1109/DATE.2000.840836
+Analysis and Minimization of Test Time in a Combined BIST and External Test Approach.	Makoto Sugihara,Hiroto Yasuura,Hiroshi Date	10.1109/DATE.2000.840029
+Fast Evaluation of Sequence Pair in Block Placement by Longest Common Subsequence Computation.	Xiaoping Tang,D. F. Wong 0001,Ruiqi Tian	10.1109/DATE.2000.840024
+A Versatile Built-In Self-Test Scheme for Delay Fault Testing.	Y. Tsiatouhas,Th. Haniotakis,Angela Arapoyanni,Dimitris Nikolos	10.1109/DATE.2000.840889
+Improving the Error Detection Ability of Concurrent Checkers by Observation Point Insertion in the Circuit Under Check.	Valery A. Vardanian,Liana B. Mirzoyan	10.1109/DATE.2000.840895
+The Road to Better Reliability and Yield Embedded DfM Tools.	Kees Veelenturf	10.1109/DATE.2000.840017
+System Level Design Using C++.	Diederik Verkest,Joachim Kunkel,Frank Schirrmeister	10.1109/DATE.2000.840020
+Formalized Three-Layer System-Level Reuse Model and Methodology for Embedded Data-Dominated Applications.	Frederik Vermeulen,Francky Catthoor,Hugo De Man,Diederik Verkest	10.1109/DATE.2000.840022
+A 50 Mbit/s Iterative Turbo-Decoder.	Fabrizio Viglione,Guido Masera,Gianluca Piccinini,Massimo Ruo Roch,Maurizio Zamboni	10.1109/DATE.2000.840035
+Compact Modeling of Nonlinear Distortion in Analog Communication Circuits.	Piet Wambacq,Petr Dobrovolný,Stéphane Donnay,Marc Engels,Ivo Bolsens	10.1109/DATE.2000.840295
+Incorporation of Hard-Fault-Coverage in Model-Based Testing of Mixed-Signal ICs.	Carsten Wegener,Michael Peter Kennedy	10.1109/DATE.2000.840898
+Detection of Defective Sensor Elements Using Sigma-Delta-Modulation and a Matched Filter.	Dirk Weiler,Olaf Machul,Dirk Hammerschmidt,Bedrich J. Hosticka	10.1109/DATE.2000.840846
+An on Chip ADC Test Structure.	Yun-Che Wen,Kuen-Jong Lee	10.1109/DATE.2000.840042
+Automatic Lighthouse Generation for Directed State Space Search.	Praveen Yalagandula,Adnan Aziz,Vigyan Singhal	10.1109/DATE.2000.840045
+Synthesis for Mixed CMOS/PTl Logic.	Congguang Yang,Maciej J. Ciesielski	10.1109/DATE.2000.840883
+Fast Hardware-Software Coverification by Optimistic Execution of Real Processor.	Sungjoo Yoo,Jong-eun Lee,Jinyong Jung,Kyungseok Rha,Youngchul Cho,Kiyoung Choi	10.1109/DATE.2000.840857
+Design and Test Space Exploration of Transport-Triggered Architectures.	V. A. Zivkovic,Ronald J. W. T. Tangelder,Hans G. Kerkhoff	10.1109/DATE.2000.840031
+Yield Improvement and Repair Trade-Off for Large Embedded Memories.	Yervant Zorian	10.1109/DATE.2000.840018
+Tutorial Statement.	Yervant Zorian,Michael Nicolaidis,Peter Muhmenthaler,David Y. Lepejian,Chris W. H. Strolenberg,Kees Veelenturf	10.1109/DATE.2000.10000
+An Integrated Design Environment for Early Stage Conceptual Design.	Jingyan Zuo,Stephen W. Director	10.1109/DATE.2000.840887
+2000 Design, Automation and Test in Europe (DATE 2000), 27-30 March 2000, Paris, France	Ivo Bolsens	10.1145/343647

@@ -1,0 +1,90 @@
+Fitted Elmore Delay: A Simple and Accurate Interconnect Delay Model.	Arif Ishaq Abou-Seido,Brian Nowak,Chris C. N. Chu	10.1109/ICCD.2002.1106806
+Speculative Trace Scheduling in VLIW Processors.	Manvi Agarwal,S. K. Nandy 0001,Jos T. J. van Eijndhoven,Srinivasan Balakrishnan	10.1109/ICCD.2002.1106803
+Improving the Efficiency of Circuit-to-BDD Conversion by Gate and Input Ordering.	Fadi A. Aloul,Igor L. Markov,Karem A. Sakallah	10.1109/ICCD.2002.1106749
+Branch Behavior of a Commercial OLTP Workload on Intel IA32 Processors.	Murali Annavaram,Trung A. Diep,John Paul Shen	10.1109/ICCD.2002.1106777
+Fault Dictionary Size Reduction through Test Response Superposition.	Baris Arslan,Alex Orailoglu	10.1109/ICCD.2002.1106817
+Combining Dual-Supply, Dual-Threshold and Transistor Sizing for Power Reduction.	Stephanie Augsburger,Borivoje Nikolic	10.1109/ICCD.2002.1106788
+Branch Predictor Prediction: A Power-Aware Branch Predictor for High-Performance Processors.	Amirali Baniasadi,Andreas Moshovos	10.1109/ICCD.2002.1106813
+SIMD Extension to VLIW Multicluster Processors for Embedded Applications.	Domenico Barretta,William Fornaciari,Mariagiovanna Sami,Danilo Pau	10.1109/ICCD.2002.1106823
+A Low Power Pseudo-Random BIST Technique.	Nadir Z. Basturkmen,Sudhakar M. Reddy,Irith Pomeranz	10.1109/ICCD.2002.1106815
+Legacy SystemC Co-Simulation of Multi-Processor Systems-on-Chip.	Luca Benini,Davide Bertozzi,Davide Bruni,Nicola Drago,Franco Fummi,Massimo Poncino	10.1109/ICCD.2002.1106819
+Modeling Switching Activity Using Cascaded Bayesian Networks for Correlated Input Streams.	Sanjukta Bhanja,N. Ranganathan	10.1109/ICCD.2002.1106799
+Designing an Asynchronous Microcontroller Using Pipefitter.	Ivan Blunno,Luciano Lavagno	10.1109/ICCD.2002.1106818
+From IP to Platforms.	Raul Camposano	10.1109/ICCD.2002.10000
+Cache Design for Eliminating the Address Translation Bottleneck and Reducing the Tag Area Cost.	Yen-Jen Chang,Feipei Lai,Shanq-Jang Ruan	10.1109/ICCD.2002.1106791
+A System-Level Solution to Domino Synthesis with 2 GHz Application.	B. Chappell,Xinning Wang,Priyadarsan Patra,Prashant Saxena,J. Vendrell,Satyanarayan Gupta,S. Varadarajan,W. Gomes,S. Hussain,H. Krishnamurthy,M. Venkateshmurthy,S. Jain	10.1109/ICCD.2002.1106765
+Timing Window Applications in UltraSPARC-IIIi? Microprocessor Design.	Rita Yu Chen,Paul Yip,Georgios K. Konstadinidis,Andrew Demas,Fabian Klass,Robert E. Mains,Margaret Schmitt,Dina Bistry	10.1109/ICCD.2002.1106764
+Physical Planning Of On-Chip Interconnect Architectures.	Hongyu Chen,Bo Yao,Feng Zhou,Chung-Kuan Cheng	10.1109/ICCD.2002.1106743
+Balancing the Interconnect Topology for Arrays of Processors between Cost and Power.	Esther Y. Cheng,Feng Zhou,Bo Yao,Chung-Kuan Cheng,Ronald L. Graham	10.1109/ICCD.2002.1106767
+On The Impact of Technology Scaling On Mixed PTL/Static Circuits.	Geun Rae Cho,Tom Chen 0001	10.1109/ICCD.2002.1106789
+A New Architecture for Signed Radix-2m Pure Array Multipliers.	Eduardo A. C. da Costa,Sergio Bampi,José Monteiro 0001	10.1109/ICCD.2002.1106756
+Impact of Scaling on the Effectiveness of Dynamic Power Reduction Schemes.	David Duarte,Narayanan Vijaykrishnan,Mary Jane Irwin,Hyun Suk Kim,Grant McFarland	10.1109/ICCD.2002.1106798
+High Level Functional Verification Closure.	Surrendra Dudani,Jayant Nagda	10.1109/ICCD.2002.1106753
+Adaptive Pipeline Depth Control for Processor Power-Management.	Aristides Efthymiou,Jim D. Garside	10.1109/ICCD.2002.1106812
+A Circuit-Level Implementation of Fast, Energy-Efficient CMOS Comparators for High-Performance Microprocessors.	Oguz Ergin,Kanad Ghose,Gurhan Kucuk,Dmitry Ponomarev 0001	10.1109/ICCD.2002.1106757
+System-Architectures for Sensor Networks Issues, Alternatives, and Directions.	Jessica Feng,Farinaz Koushanfar,Miodrag Potkonjak	10.1109/ICCD.2002.1106775
+A Test Processor Concept for Systems-on-a-Chip.	Christian Galke,Matthias Pflanz,Heinrich Theodor Vierhaus	10.1109/ICCD.2002.1106772
+Locating Tiny Sensors in Time and Space: A Case Study.	Lewis Girod,Vladimir Bychkovskiy,Jeremy Elson,Deborah Estrin	10.1109/ICCD.2002.1106773
+Models of IP&apos;s for Automotive Virtual Integration Platforms.	Paolo Giusto,Jean-Yves Brunel,Alberto Ferrari,Eliane Fourgeau,Luciano Lavagno,Barry O&apos;Rourke,Alberto L. Sangiovanni-Vincentelli,Emanuele Guasto	10.1109/ICCD.2002.1106797
+Automotive Virtual Integration Platforms: Why&apos;s, What&apos;s, and How&apos;s.	Paolo Giusto,Jean-Yves Brunel,Alberto Ferrari,Eliane Fourgeau,Luciano Lavagno,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCD.2002.1106796
+Dynamic Loop Caching Meets Preloaded Loop Caching - A Hybrid Approach.	Ann Gordon-Ross,Frank Vahid	10.1109/ICCD.2002.1106810
+Physical Design Challenges for Billion Transistor Chips.	Patrick Groeneveld	10.1109/ICCD.2002.1106751
+Embedded Protocol Processor for Fast and Efficient Packet Reception.	Tomas Henriksson,Ulf Nordqvist,Dake Liu	10.1109/ICCD.2002.1106804
+Power-Constrained Microprocessor Design.	H. Peter Hofstee	10.1109/ICCD.2002.1106740
+Trace Cache Performance Parameters.	Afzal Hossain,Daniel J. Pease,James S. Burns,Nasima Parveen	10.1109/ICCD.2002.1106793
+Applying Decay Strategies to Branch Predictors for Leakage Energy Savings.	Zhigang Hu,Philo Juang,Kevin Skadron,Douglas W. Clark,Margaret Martonosi	10.1109/ICCD.2002.1106809
+Efficient PEEC-Based Inductance Extraction Using Circuit-Aware Techniques.	Haitian Hu,Sachin S. Sapatnekar	10.1109/ICCD.2002.1106808
+Accurate and Efficient Static Timing Analysis with Crosstalk.	I-De Huang,Sandeep K. Gupta,Melvin A. Breuer	10.1109/ICCD.2002.1106780
+A Design Methodology for Application-Specific Real-Time Interfaces.	Stefan Ihmor,Markus Visarius,Wolfram Hardt	10.1109/ICCD.2002.1106820
+An Extended Class of Sequential Circuits with Combinational Test Generation Complexity.	Michiko Inoue,Chikateru Jinno,Hideo Fujiwara	10.1109/ICCD.2002.1106770
+A Low Energy Set-Associative I-Cache with Extended BTB.	Koji Inoue,Vasily G. Moshnyaga,Kazuaki J. Murakami	10.1109/ICCD.2002.1106768
+Low Power Design Methodologies for Mobile Communication.	Ralf Kakerow	10.1109/ICCD.2002.1106739
+The Imagine Stream Processor.	Ujval J. Kapasi,William J. Dally,Scott Rixner,John D. Owens,Brucek Khailany	10.1109/ICCD.2002.1106783
+From ASIC to ASIP: The Next Design Discontinuity.	Kurt Keutzer,Sharad Malik,A. Richard Newton	10.1109/ICCD.2002.1106752
+VLSI Design and Verification of the Imagine Processor.	Brucek Khailany,William J. Dally,Andrew Chang 0001,Ujval J. Kapasi,Jinyung Namkoong,Brian Towles	10.1109/ICCD.2002.1106784
+A Framework for Data Prefetching Using Off-Line Training of Markovian Predictors.	Jinwoo Kim,Krishna V. Palem,Weng-Fai Wong	10.1109/ICCD.2002.1106792
+Adaptive Balanced Computing (ABC) Microprocessor Using Reconfigurable Functional Caches (RFCs).	Huesung Kim,Arun K. Somani,Akhilesh Tyagi	10.1109/ICCD.2002.1106761
+Low-Power, High-Speed CMOS VLSI Design.	Tadahiro Kuroda	10.1109/ICCD.2002.1106787
+Floating-Point Fused Multiply-Add with Reduced Latency.	Tomás Lang,Javier D. Bruguera	10.1109/ICCD.2002.1106762
+TTA-C2, A Single Chip Communication Controller for the Time-Triggered-Protocol.	Manfred Ley,Herbert Grünbacher	10.1109/ICCD.2002.1106811
+An Efficient External-Memory Implementation of Region Query with Application to Area Routing.	Stan Y. Liao,Narendra V. Shenoy,William Nicholls	10.1109/ICCD.2002.1106744
+GPE: A New Representation for VLSI Floorplan Problem.	Chang-Tzu Lin,De-Sheng Chen,Yiwen Wang 0003	10.1109/ICCD.2002.1106745
+Data Cache Design Considerations for the Itanium® 2 Processor.	Terry Lyon,Eric Delano,Cameron McNairy,Dean Mulla	10.1109/ICCD.2002.1106794
+Accelerated SAT-based Scheduling of Control/Data Flow Graphs.	Seda Ogrenci Memik,Farzan Fallah	10.1109/ICCD.2002.1106801
+Don&apos;t-Care Identification on Specific Bits of Test Patterns.	Kohei Miyase,Seiji Kajihara,Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.2002.1106769
+Design Methodology and System for a Configurable Media Embedded Processor Extensible to VLIW Architecture.	Atsushi Mizuno,Kazuyoshi Kohno,Ryuichiro Ohyama,Takahiro Tokuyoshi,Hironori Uetani,Hans Eichel,Takashi Miyamori,Nobu Matsumoto,Masataka Matsui	10.1109/ICCD.2002.1106738
+Trace-Level Speculative Multithreaded Architecture.	Carlos Molina,Antonio González 0001,Jordi Tubella	10.1109/ICCD.2002.1106802
+A 10 Gbps Full-AES Crypto Design with a Twisted-BDD S-Box Architecture.	Sumio Morioka,Akashi Satoh	10.1109/ICCD.2002.1106754
+Parallel Multiple-Symbol Variable-Length Decoding.	Jari Nikara,Stamatis Vassiliadis,Jarmo Takala,Mihai Sima,Petri Liuha	10.1109/ICCD.2002.1106759
+Media Processing Applications on the Imagine Stream Processor.	John D. Owens,Scott Rixner,Ujval J. Kapasi,Peter R. Mattson,Brian Towles,Ben Serebrin,William J. Dally	10.1109/ICCD.2002.1106785
+Cost-Effective Concurrent Test Hardware Design for Linear Analog Circuits.	Sule Ozev,Alex Orailoglu	10.1109/ICCD.2002.1106779
+Environment Synthesis for Compositional Model Checking.	Hong Peng,Yassine Mokhtari,Sofiène Tahar	10.1109/ICCD.2002.1106750
+Analysis of the Tradeoffs for the Implementation of a High-Radix Logarithm.	José-Alejandro Piñeiro,Milos D. Ercegovac,Javier D. Bruguera	10.1109/ICCD.2002.1106760
+On the Coverage of Delay Faults in Scan Designs with Multiple Scan Chains.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCD.2002.1106771
+Application Specific Embedded Processors for Next Generation Communication Systems.	Ulrich Ramacher	10.1109/ICCD.2002.10002
+Supercomputing on a Chip: Evolution and Challenges.	Justin R. Rattner	10.1109/ICCD.2002.10003
+k-time Forced Simulation: A Formal Verification Technique for IP Reuse.	Partha S. Roop,Arcot Sowmya,S. Ramesh 0001	10.1109/ICCD.2002.1106747
+Low Power Mixed-Mode BIST Based on Mask Pattern Generation Using Dual LFSR Re-Seeding.	Paul M. Rosinger,Bashir M. Al-Hashimi,Nicola Nicolici	10.1109/ICCD.2002.1106816
+Power Analysis of Bipartition and Dual-Encoding Architecture for Pipelined Circuits.	Shanq-Jang Ruan,Edwin Naroska,Chia-Lin Ho,Feipei Lai	10.1109/ICCD.2002.1106790
+On the Detectability of Parametric Faults in Analog Circuits.	Jacob Savir,Zhen Guo	10.1109/ICCD.2002.1106781
+A Distributed Computation Platform for Wireless Embedded Sensing.	Andreas Savvides,Mani B. Srivastava	10.1109/ICCD.2002.1106774
+Methodologies and Tools for Pipelined On-Chip Interconnect.	Louis Scheffer	10.1109/ICCD.2002.1106763
+Requirements for Automotive System Engineering Tools.	Joachim Schlosser	10.1109/ICCD.2002.1106795
+Checking Equivalence for Circuits Containing Incompletely Specified Boxes.	Christoph Scholl 0001,Bernd Becker 0001	10.1109/ICCD.2002.1106748
+A CAD Tool for System-on-Chip Placement and Routing with Free-Space Optical Interconnect.	Chung-Seok (Andy) Seo,Abhijit Chatterjee	10.1109/ICCD.2002.1106742
+A Stream Processor Development Platform.	Ben Serebrin,John D. Owens,Chen H. Chen,Stephen P. Crago,Ujval J. Kapasi,Peter R. Mattson,Jinyung Namkoong,Scott Rixner,William J. Dally	10.1109/ICCD.2002.1106786
+Subword Sorting with Versatile Permutation Instructions.	Zhijie Shi,Ruby B. Lee	10.1109/ICCD.2002.1106776
+Performance Enhancements to the Active Memory System.	Witawas Srisa-an,Chia-Tien Dan Lo,J. Morris Chang	10.1109/ICCD.2002.1106778
+Using Offline and Online BIST to Improve System Dependability - The TTPC-C Example.	Andreas Steininger,Johann Vilanek	10.1109/ICCD.2002.1106782
+Embedded Operating System Energy Analysis and Macro-Modeling.	Tat Kee Tan,Anand Raghunathan,Niraj K. Jha	10.1109/ICCD.2002.1106822
+Design of Delay-Insensitive Three Dimension Pipeline Array Multiplier for Image Processing.	Alexander Taubin,Karl Fant,John McCardle	10.1109/ICCD.2002.1106755
+Analysis of Blocking Dynamic Circuits.	Tyler Thorp,Dean Liu	10.1109/ICCD.2002.1106758
+TAXI: Trace Analysis for X86 Interpretation.	Stevan A. Vlaovic,Edward S. Davidson	10.1109/ICCD.2002.1106821
+Functional Verification of the IBM zSeries eServer z900 System.	Joerg Walter	10.1109/ICCD.2002.1106741
+JMA: The Java-Multithreading Architecture for Embedded Processors.	Panit Watcharawitch,Simon W. Moore	10.1109/ICCD.2002.1106824
+A Standard-Cell Placement Tool for Designs with High Row Utilization.	Xiaojian Yang,Bo-Kyung Choi,Majid Sarrafzadeh	10.1109/ICCD.2002.1106746
+Power-Performance Trade-Offs for Energy-Efficient Architectures: A Quantitative Study.	Hongbo Yang,Ramaswamy Govindarajan,Guang R. Gao,Kevin B. Theobald	10.1109/ICCD.2002.1106766
+Improving Processor Performance by Simplifying and Bypassing Trivial Computations.	Joshua J. Yi,David J. Lilja	10.1109/ICCD.2002.1106814
+Exact Closed Form Formula for Partial Mutual Inductances of On-Chip Interconnects.	Guoan Zhong,Cheng-Kok Koh	10.1109/ICCD.2002.1106807
+Register Binding Based Power Management for High-level Synthesis of Control-Flow Intensive Behaviors.	Lin Zhong 0001,Jiong Luo,Yunsi Fei,Niraj K. Jha	10.1109/ICCD.2002.1106800
+20th International Conference on Computer Design (ICCD 2002), VLSI in Computers and Processors, 16-18 September 2002, Freiburg, Germany, Proceedings		

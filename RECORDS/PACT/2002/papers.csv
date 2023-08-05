@@ -1,0 +1,30 @@
+The Use of Prediction for Accelerating Upgrade Misses in cc-NUMA Multiprocessors.	Manuel E. Acacio,José González 0002,José M. García 0001,José Duato	10.1109/PACT.2002.1106014
+Exploiting Pseudo-Schedules to Guide Data Dependence Graph Partitioning.	Alex Aletà,Josep M. Codina,F. Jesús Sánchez,Antonio González 0001,David R. Kaeli	10.1109/PACT.2002.1106027
+Parallelism in Mainstream Enterprise Platforms of the Future.	Dileep Bhandarkar	10.1109/PACT.2002.1105968
+An Evaluation of Data-Parallel Compiler Support for Line-Sweep Applications.	Daniel G. Chavarría-Miranda,John M. Mellor-Crummey	10.1109/PACT.2002.1105969
+Transparent Threads: Resource Sharing in SMT Processors for High Single-Thread Performance.	Gautham K. Dorai,Donald Yeung	10.1109/PACT.2002.1105971
+Integrating Adaptive On-Chip Storage Structures for Reduced Dynamic Power.	Steve Dropsho,Alper Buyuktosunoglu,Rajeev Balasubramonian,David H. Albonesi,Sandhya Dwarkadas,Greg Semeraro,Grigorios Magklis,Michael L. Scott	10.1109/PACT.2002.1106013
+Workload Design: Selecting Representative Program-Input Pairs.	Lieven Eeckhout,Hans Vandierendonck,Koenraad De Bosschere	10.1109/PACT.2002.1106006
+Speculative Alias Analysis for Executable Code.	Manel Fernández,Roger Espasa	10.1109/PACT.2002.1106020
+Speculative Sequential Consistency with Little Custom Storage.	Chris Gniady,Babak Falsafi	10.1109/PACT.2002.1106016
+Software Bubbles: Using Predication to Compensate for Aliasing in Software Pipelines.	Benjamin Goldberg,Emily Crutcher,Chad Huneycutt,Krishna V. Palem	10.1109/PACT.2002.1106019
+The Role of Computational Science in Energy Efficiency and Renewable Energy.	Steve Hammond	10.1109/PACT.2002.1106010
+Application Transformations for Energy and Performance-Aware Device Management.	Taliver Heath,Eduardo Pinheiro,Jerry Hom,Ulrich Kremer,Ricardo Bianchini	10.1109/PACT.2002.1106011
+Eliminating Exception Constraints of Java Programs for IA-64.	Kazuaki Ishizaki,Tatsushi Inagaki,Hideaki Komatsu,Toshio Nakatani	10.1109/PACT.2002.1106025
+Increasing and Detecting Memory Address Congruence.	Samuel Larsen,Emmett Witchel,Saman P. Amarasinghe	10.1109/PACT.2002.1105970
+Leakage Energy Management in Cache Hierarchies.	Lin Li 0002,Ismail Kadayif,Yuh-Fang Tsai,Narayanan Vijaykrishnan,Mahmut T. Kandemir,Mary Jane Irwin,Anand Sivasubramaniam	10.1109/PACT.2002.1106012
+Effective Compilation Support for Variable Instruction Set Architecture.	Jack Liu,Timothy Kong,Fred C. Chow	10.1109/PACT.2002.1106004
+Predicting Conditional Branches With Fusion-Based Hybrid Predictors.	Gabriel H. Loh,Dana S. Henry	10.1109/PACT.2002.1106015
+Cost Effective Memory Dependence Prediction using Speculation Levels and Color Sets.	Soner Önder	10.1109/PACT.2002.1106021
+Cost-Effective Compiler Directed Memory Prefetching and Bypassing.	Daniel Ortega,Eduard Ayguadé,Jean-Loup Baer,Mateo Valero	10.1109/PACT.2002.1106017
+Efficient Interconnects for Clustered Microarchitectures.	Joan-Manuel Parcerisa,Julio Sahuquillo,Antonio González 0001,José Duato	10.1109/PACT.2002.1106028
+SIGARCH Conference Guidelines.	David A. Patterson 0001	10.1109/PACT.2002.10007
+Optimizing Loop Performance for Clustered VLIW Architectures.	Yi Qian,Steve Carr 0001,Philip H. Sweany	10.1109/PACT.2002.1106026
+Dataflow Frequency Analysis Based on Whole Program Paths.	Bernhard Scholz,Eduard Mehofer	10.1109/PACT.2002.1106007
+Compiler-Controlled Caching in Superword Register Files for Multimedia Extension Architectures.	Jaewook Shin,Jacqueline Chame,Mary W. Hall	10.1109/PACT.2002.1106003
+Just-In-Time Java? Compilation for the Itanium® Processor.	Tatiana Shpeisman,Guei-Yuan Lueh,Ali-Reza Adl-Tabatabai	10.1109/PACT.2002.1106023
+Quantifying Instruction Criticality.	Eric Tune,Dean M. Tullsen,Brad Calder	10.1109/PACT.2002.1106008
+Using the Compiler to Improve Cache Replacement Decisions.	Zhenlin Wang,Kathryn S. McKinley,Arnold L. Rosenberg,Charles C. Weems	10.1109/PACT.2002.1106018
+The Computational Grid: Aggregating Performance and Enhanced Capability from Federated Resources.	Richard Wolski	10.1109/PACT.2002.1106022
+A Framework for Parallelizing Load/Stores on Embedded Processors.	Xiaotong Zhuang,Santosh Pande,John S. Greenland Jr.	10.1109/PACT.2002.1106005
+2002 International Conference on Parallel Architectures and Compilation Techniques (PACT 2002), 22-25 September 2002, Charlottesville, VA, USA		

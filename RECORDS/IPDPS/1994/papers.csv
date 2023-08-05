@@ -1,0 +1,141 @@
+Hardware Support for Synchronization in the Scalable Coherent Interface (SCI).	Nagi Aboulenein,James R. Goodman,Stein Gjessing,Philip J. Woest	10.1109/IPPS.1994.288308
+Variable Instruction Issue for Efficient MIMD Interpretation on SIMD Machines.	Nael B. Abu-Ghazaleh,Xianzhi Fan,Philip A. Wilsey,Debra A. Hensgen	10.1109/IPPS.1994.288285
+Low Cost Complexity of a General Multicast Network.	Majed Z. Al-Hajery,Kenneth E. Batcher	10.1109/IPPS.1994.288323
+On Evil Twin Networks and the Value of Limited Randomized Routing.	Brian D. Alleyne,Isaac D. Scherson	10.1109/IPPS.1994.288247
+Synchronous Bus Arbitration with Constant Logic Per Module.	Hussein M. Alnuweiri	10.1109/IPPS.1994.288321
+A Clustered Reduced Communication Element by Element Preconditioned Conjugate Gradient Algorithm for Finite Element Computations.	Alpesh Amin,P. Sadayappan,Murali Gudavalli	10.1109/IPPS.1994.288255
+Digital Equipment Corporation High Performance Fortran on Workstation Farms.	Marco Annaratone,Carl D. Offner,David B. Loveman	10.1109/IPPS.1994.288233
+Prospects of ubiquitous parallel computing.	Arvind	
+Gossiping with Multiple Sends and Receives.	Anindo Bagchi,Edward F. Schmeichel,S. Louis Hakimi	10.1109/IPPS.1994.288219
+CCL: A Portable and Tunable Collective Communication Library for Scalable Parallel Computers.	Vasanth Bala,Shlomo Kipnis,Marc Snir,Jehoshua Bruck,Robert Cypher,Pablo Elustondo,Alex Ho,Ching-Tien Ho	10.1109/IPPS.1994.288208
+Extracting Parallelism in Fortran by Translation to a Single Assignment Intermediate Form.	Robert Barry,Paraskevas Evripidou	10.1109/IPPS.1994.288281
+Automatic Array Alignment as a Step in Hierarchical Program Transformation.	Bojan Cukic,Farokh B. Bastani	10.1109/IPPS.1994.288246
+Hybrid Resource Management Algorithms for Multicomputer Systems.	Jeff Baxter,John W. C. Fu,Balkrishna Ramkumar,Janak H. Patel	10.1109/IPPS.1994.288259
+A High Performance Communications and Memory Caching Scheme for Molecular Dynamics on the CM-5.	David M. Beazley,Peter S. Lomdahl,Niels Grønbech-Jensen,Pablo Tamayo	10.1109/IPPS.1994.288213
+Fault Location in Multistage Interconnection Networks with Global and Distributed Control.	Ernst G. Bernard,Matthias Sauer 0001,Josef A. Nossek	10.1109/IPPS.1994.288209
+Time-Optimal Visibility-Related Algorithms on Meshes with Multiple Broadcasting.	Dharmavani Bhagavathi,Venkatavasu Bokka,Himabindu Gurla,Stephan Olariu,James L. Schwing,Ivan Stojmenovic,Jingyuan Zhang	10.1109/IPPS.1994.288313
+Centre for Development of Advanced Computing PARAM Parallel Supercomputer: Architecture, Programming Environment, and Applications.	Vijay P. Bhatkar	10.1109/IPPS.1994.288273
+Lookahead Processor Allocation in Mesh-Connected Massively Parallel Multicomputer.	Sourav Bhattacharya,Wei-Tek Tsai	10.1109/IPPS.1994.288204
+Efficient Matrix Chain Ordering in Polylog Time.	Phillip G. Bradford,Gregory J. E. Rawlins,Gregory E. Shannon	10.1109/IPPS.1994.288295
+How to Get Good Performance from the CM-5 Data Network.	Eric A. Brewer,Bradley C. Kuszmaul	10.1109/IPPS.1994.288205
+Latency Hiding in Message-Passing Architectures.	Ulrich Brüning 0001,Wolfgang K. Giloi,Wolfgang Schröder-Preikschat	10.1109/IPPS.1994.288227
+nCUBE Corporation : The Oracle Media Server for nCube Massively Parallel Systems.	Ron Buck	10.1109/IPPS.1994.288232
+Solving the All-Pair Shortest Path Problem on Interval and Circular-Arc Graphs.	Danny Z. Chen,D. T. Lee	10.1109/IPPS.1994.288297
+Distributed Identification of All Maximal Incomplete Subcubes in a Faulty Hypercube.	Hsing-Lung Chen,Nian-Feng Tzeng	10.1109/IPPS.1994.288224
+Redundant Synchronization Elimination for DOACROSS Loops.	Ding-Kai Chen,Pen-Chung Yew	10.1109/IPPS.1994.288260
+Fuzzy Communication for Guided Loop Scheduling in Multicomputers.	Chien-Ming Cheng,Kai Hwang 0001	10.1109/IPPS.1994.288265
+Integrating Networks and Memory Hierarchies in a Multicomputer Node Architecture.	Lynn Choi,Andrew A. Chien	10.1109/IPPS.1994.288325
+The Design of Scalable Software Libraries for Distributed Memory Concurrent Computers.	Jaeyoung Choi,David W. Walker,Jack J. Dongarra	10.1109/IPPS.1994.288214
+HyperParallel Technologies : HyperC: Portable Parallel Programming in C.	Philippe Clermont,Nicolas Paris	10.1109/IPPS.1994.288230
+The Semantics of Blocking and Nonblocking Send and Receive Primitives.	Robert Cypher,Eric Leu	10.1109/IPPS.1994.288223
+A Theoretical Network Model and the Hamming Cube Networks.	Sajal K. Das 0001,Aisheng Mao	10.1109/IPPS.1994.288324
+Efficient Parallel Algorithms for Tree-Related Problems Using the Parentheses Matching Strategy.	Sajal K. Das 0001,Kwang Bae Min,Ranette H. Halverson	10.1109/IPPS.1994.288276
+Barrier Synchronization Techniques for Distributed Process Creation.	Ronald F. DeMara,C. Lin,S. Kuo,Bahman S. Motlagh	10.1109/IPPS.1994.288243
+Interconnection Network Switch Architectures and Combining Strategies.	Susan R. Dickey,Allan Gottlieb,Yue-Sheng Liu	10.1109/IPPS.1994.288326
+Clustering and Intra-Processor Scheduling for Explicitly-Parallel Programs on Distributed-Memory Systems.	Vibha A. Dixit-Radiya,Dhabaleswar K. Panda 0001	10.1109/IPPS.1994.288241
+Communication and Computation Patterns of Large Scale Image Convolutions on Parallel Architectures.	Sandra G. Dykes,Xiaodong Zhang 0001,Haixu Yang,Yan Zhou	10.1109/IPPS.1994.288195
+Latin Cubes and Parallel Array Access.	Cong Fan,Ajay Gupta 0001,Jiuqiang Liu	10.1109/IPPS.1994.288310
+Fault Detection and Recovery in a Data-Driven Real-Time Multiprocessor.	William G. Farquhar,Paraskevas Evripidou	10.1109/IPPS.1994.288217
+Generalized Ring Interconnection Networks.	Ronald Fernandes,Arkady Kanevsky	10.1109/IPPS.1994.288322
+Massively Parallel Algorithms for Solution of the Schrodinger Equation.	Amir Fijany,Jacob Barhen,Nikzad Benny Toomarian	10.1109/IPPS.1994.288254
+Optimizing General Design Objectives in Processor-Array Design.	Kumar N. Ganapathy,Benjamin W. Wah	10.1109/IPPS.1994.288286
+The Software Crisis for the Emerging MPP Industry.	Dennis Gannon	
+Fault-Tolerant Scheduling on a Hard Real-Time Multiprocessor System.	Sunondo Ghosh,Rami G. Melhem,Daniel Mossé	10.1109/IPPS.1994.288216
+Systematic Development of an SPMD Implementation Schema for Mutually Recursive Divide-and-Conquer Specifications.	Sergei Gorlatch,Christian Lengauer	10.1109/IPPS.1994.288275
+Effect of Control Parameters on Dynamic Load Balancing.	Vasudha Govindan,Mark A. Franklin	10.1109/IPPS.1994.288263
+Efficient Barriers for Distributed Shared Memory Computers.	Dirk Grunwald,Suvas Vajracharya	10.1109/IPPS.1994.288242
+An Optimal Mesh Computer Algorithm for Constralned Delaunay Triangulation.	Sumanta Guha	10.1109/IPPS.1994.288190
+Dagger: Combining Benefits of Synchronous and Asynchronous Communication Styles.	Attila Gürsoy,Laxmikant V. Kalé	10.1109/IPPS.1994.288244
+A Multi-Paradigm Object Oriented Parallel Environment.	F. Hamelin,Jean-Marc Jézéquel,Thierry Priol	10.1109/IPPS.1994.288303
+Perforining Data Flow Testing in Parallel.	Mary Jean Harrold	10.1109/IPPS.1994.288300
+A New Combinatorial Approach to Optimal Embeddings of Rectangles.	Shou-Hsuan Stephen Huang,Hongfei Liu,Rakesh M. Verma	10.1109/IPPS.1994.288225
+An Efficient Task Allocation Algorithm and Its Use to Parallelize Irregular Gauss-Seidel Type Algorithms.	Garng M. Huang,Weerakorn Ongsakul	10.1109/IPPS.1994.288257
+Building Multithreaded Architectures with Off-the-Shelf Microprocessors.	Herbert H. J. Hum,Kevin B. Theobald,Guang R. Gao	10.1109/IPPS.1994.288287
+A Language for Conveying the Aliasing Properties of Dynamic, Pointer-Based Data Structures.	Joseph Hummel,Alexandru Nicolau,Laurie J. Hendren	10.1109/IPPS.1994.288299
+Loop Allocation Scheme for Multithreaded Dataflow Computers.	Ali R. Hurson,Joford T. Lim,Krishna M. Kavi,Behrooz A. Shirazi	10.1109/IPPS.1994.288283
+Performance Evaluation of Task Grain Programs.	Vladimir I. Ivanov	10.1109/IPPS.1994.288236
+The Block Distributed Memory Model for Shared Memory Multiprocessors.	Joseph F. JáJá,Kwan Woo Ryu	10.1109/IPPS.1994.288220
+Sorting Strings and Constructing Digital Search Trees in Parallel.	Joseph F. JáJá,Kwan Woo Ryu,Uzi Vishkin	10.1109/IPPS.1994.288278
+A Control Strategy Based on Heuristic Techniques for the Parallel Execution of Logic Programs.	Gitu Jain,Balkrishna Ramkumar,Jon G. Kuhl	10.1109/IPPS.1994.288284
+Analysis of Memory Latency Factors and Their Impact on KSR1 Performance.	Bassam Z. Kahhaleh	10.1109/IPPS.1994.288235
+Information Sharing Mechanisms in Parallel Programs.	Laxmikant V. Kalé,Amitabh Sinha	10.1109/IPPS.1994.288262
+Processor Mapping Techniques Toward Efficient Data Redistribution.	Edgar T. Kalns,Lionel M. Ni	10.1109/IPPS.1994.288261
+Deterministic Permutation Routing on a Reconfigurable Mesh.	Ashish Kapoor,Heiko Schröder 0001,Bryan Beresford-Smith	10.1109/IPPS.1994.288252
+A Parallel Algorithm for Computing Polygon Set Operations.	Raghu Karinthi,Kankanahalli Srinivas,George Almási 0001	10.1109/IPPS.1994.288312
+ProperPLACE: A Portable Parallel Algorithm for Standard Cell Placement.	Sungho Kim,Prithviraj Banerjee,Balkrishna Ramkumar,Steven Parkes,John A. Chandy	10.1109/IPPS.1994.288194
+Parallel Logic Simulation Using Time Warp on Shared-Memory Multiprocessors.	Hong K. Kim,Soon Myoung Chung	10.1109/IPPS.1994.288193
+A Direct Array Injection Technique in a Fine-Grain Multithreading Execution Model.	Chinhyun Kim,Jean-Luc Gaudiot	10.1109/IPPS.1994.288302
+Transformations Between Boundary Codes, Run Length Codes, and Linear Quadtrees.	Myung Hee Kim,Oscar H. Ibarra	10.1109/IPPS.1994.288311
+Dynamic Space Warping Algorithms on Fine-Graln Array Processors.	Heung-Nam Kim,Mary Jane Irwin,Robert Michael Owens,Chen-Mi Wu	10.1109/IPPS.1994.288196
+An Optimal Parallel Matching Algorithm for a Convex Bipartite Graph on a Mesh-Connected Computer.	Myung Ho Kim,Chang-Sung Jeong,Myung-Soo Kim	10.1109/IPPS.1994.288296
+NEC Corporation : NEC Cenju-3: A Microprocessor-Based Parallel Computer.	Nobuhiko Koike	10.1109/IPPS.1994.288271
+Toward Flexible Control of the Temporal Mapping from Concurrent Program Events to Animations.	Eileen T. Kraemer,John T. Stasko	10.1109/IPPS.1994.288199
+On the Parallel Implementation of OSI Protocol Processing Systems.	Robert Lam,Mabo Robert Ito	10.1109/IPPS.1994.288211
+AVL Trees with Relaxed Balance.	Kim S. Larsen	10.1109/IPPS.1994.288201
+On Random Sampling for Parallel Simulated Annealing.	Wen K. Lee,Kien A. Hua,Sheau-Dong Lang	10.1109/IPPS.1994.288292
+Software Assistance for Directory-Based Caches.	Zhiyuan Li 0001	10.1109/IPPS.1994.288307
+Solving Static Optimal Matching Problem in Heterogeneous Processing with Generalized Stable Marriage Algorithms.	Zhi Cheng Li	10.1109/IPPS.1994.288293
+The Symmetry Programming Language.	Kong Li,David Jefferson	10.1109/IPPS.1994.288218
+Priority Based Real-Time Communication for Large Scale Wormhole Networks.	Jong-Pyng Li,Matt W. Mutka	10.1109/IPPS.1994.288266
+Performance Prediction of Parallel Computation.	Deron Liang,Satish K. Tripathi	10.1109/IPPS.1994.288239
+Parallelization of Linearized Applications in Fortran D.	Lorie M. Liebrock,Ken Kennedy	10.1109/IPPS.1994.288319
+Accommodating Polymorphic Data Decompositions in Explicitly Parallel Programs.	Calvin Lin,Lawrence Snyder	10.1109/IPPS.1994.288317
+Decoupling Parallel and Sequential Codes: The Pyramid Approach.	Zheng Lin 0010,Songnian Zhou	10.1109/IPPS.1994.288282
+Queue Locks on Cache Coherent Multiprocessors.	Peter S. Magnusson,Anders Landin,Erik Hagersten	10.1109/IPPS.1994.288305
+Performance Analysis of pC++: A Portable Data-Parallel Programming System for Scalable Parallel Computers.	Allen D. Malony,Bernd Mohr,Peter H. Beckman,Dennis Gannon,Shelby X. Yang,François Bodin	10.1109/IPPS.1994.288316
+Designing a Parallel Debugger for Portability.	John May,Francine Berman	10.1109/IPPS.1994.288198
+A Comparison of Heuristics for Scheduling DAGs on Multiprocessors.	Carolyn McCreary,A. A. Khan,J. J. Thompson,M. E. McArdle	10.1109/IPPS.1994.288264
+Parallel Dictionaries on AVL Trees.	Muralidhar Medidi,Narsingh Deo	10.1109/IPPS.1994.288203
+Parallel Neural Network Learning Through Repetitive Bounded Depth Trajectory Branching.	Iuri Mehr,Zoran Obradovic	10.1109/IPPS.1994.288215
+The Right Stuff? Teaching Parallel Computing.	Russ Miller,Nan C. Schaller	10.1109/IPPS.1994.288191
+A Multipath Contention Model for Analyzing Job Interactions in 2-D Mesh Multicomputers.	Dugki Min,Matt W. Mutka	10.1109/IPPS.1994.288221
+Parallel Evaluation of a Parallel Architecture by Means of Calibrated Emulation.	Henk L. Muller,Paul W. A. Stallard,David H. D. Warren,Sanjay Raina	10.1109/IPPS.1994.288291
+The Generalized Class of g-Chaln Periodic Sorting Networks.	David Nassimi,Yehoshua Perl,Ronald I. Becker	10.1109/IPPS.1994.288267
+MasPar Computer Corporation : The MasPar Scalable Unix I/O System.	John R. Nickolls	10.1109/IPPS.1994.288272
+The MITRE Corporation : IVHS Traffic Modeling Using Parallel Computing: Performance Results.	William P. Niedringhaus,Jeffrey M. Opper,Lisa Rhodes,Brian L. Hughes	
+Computational Geometry on a Reconflgurable Mesh.	Madhusudan Nigam,Sartaj Sahni	
+Parallel Implementation of a Model-Based Spectral Estimator for Doppler Blood Flow Instrumentation.	D. F. García Nocetti,M. Graça Ruano,Peter J. Fish,Peter J. Fleming	10.1109/IPPS.1994.288212
+A Parallel Parsing Algorithm for Natural Language using Tree Adjoining Grammar.	Tom Nurkkala,Vipin Kumar	10.1109/IPPS.1994.288210
+Time-Optimal Proximity Algorithms on Meshes with Multiple Broadcasting.	Stephan Olariu,Ivan Stojmenovic	10.1109/IPPS.1994.288314
+Circuit-Switched Broadcasting in itd-Dimensional Tori and Meshes.	Ju-Young Lee Park,Sang Kyu Lee,Hyeong-Ah Choi	10.1109/IPPS.1994.288249
+Schedule-Based Multi-Dimensional Retiming on Data Flow Graphs.	Nelson L. Passos,Edwin Hsing-Mean Sha,Steven C. Bass	10.1109/IPPS.1994.288301
+An Evaluation of Multiprocessor Cache Coherence Based on Virtual Memory Support.	Karin Petersen,Kai Li 0001	10.1109/IPPS.1994.288306
+The Effect of Speculative Execution on Cache Performance.	Jim Pierce,Trevor N. Mudge	10.1109/IPPS.1994.288304
+Bitonic Sorting on 2D-PEC: An Algorithmic Study on a Hierarchy of Meshes Network.	Donna J. Quammen,Pearl Y. Wang	10.1109/IPPS.1994.288268
+Optimal Software Pipelining of Nested Loops.	J. Ramanujam	10.1109/IPPS.1994.288280
+A Parallel Algorithm and Architecture for Robot Path Planning.	N. Ranganathan,Bharadwaj Parthasarathy,Ken Hughes	10.1109/IPPS.1994.288289
+Models and Resource Metrics for Parallel and Distributed Computation.	John H. Reif	
+Heuristic Optimization of Speedup and Benefit/Cost for Parallel Database Scans on Shared-Memory Multiprocessors.	Michael Rys,Gerhard Weikum	10.1109/IPPS.1994.288200
+SIMD Algorithms for Matrix Multiplication on the Hypercube.	Carlos Alberto Alonso Sanches,S. W. Song 0001	10.1109/IPPS.1994.288258
+Experience with Executing Shared Memory Programs using Fine-Grain Communication and Multithreading in EM-4.	Mitsuhisa Sato,Yuetsu Kodama,Yoshinori Yamaguchi,Shuichi Sakai	10.1109/IPPS.1994.288238
+Total Exchange in Faulty SIMD Hypercubes.	Amit Sengupta,Cauligi S. Raghavendra	10.1109/IPPS.1994.288206
+Improving Parallel Program Execution Time with Message Consolidation.	Stephen Shafer,Kanad Ghose	10.1109/IPPS.1994.288222
+Efficient Embedding K-ary Complete Trees into Hypercubes.	Xiaojun Shen 0002,Qing Hu 0007,Weifa Liang	10.1109/IPPS.1994.288226
+Deterministic Routing and Sorting on Rings.	Jop F. Sibeyn	10.1109/IPPS.1994.288270
+A Framework for Programming Using Non-Atomic Variables.	Ambuj K. Singh	10.1109/IPPS.1994.288309
+A Verified Integration of Parallel Programming Paradigms in CC++.	Paolo A. G. Sivilotti	10.1109/IPPS.1994.288320
+Parallel Routing of VLSI Circuits Based on Net Independency.	Henning Spruth,Frank M. Johannes	10.1109/IPPS.1994.288192
+PRAM Algorithms for Static Dictionary Compression.	Lynn M. Stauffer,Daniel S. Hirschberg	10.1109/IPPS.1994.288279
+Transtech Parallel Systems Corporation: Parallel Benchmarks on the Transtech Paramid.	Richard S. Stephens	10.1109/IPPS.1994.288228
+Architecture and Implementation of Vulcan.	Craig B. Stunkel,Dennis G. Shea,Bülent Abali,Monty Denneau,Peter H. Hochschild,Douglas J. Joseph,Ben J. Nathanson,Mickey Tsao,Philip R. Varker	10.1109/IPPS.1994.288290
+Routing and Sorting on Meshes with Row and Column Buses.	Torsten Suel	10.1109/IPPS.1994.288269
+A High Performance Pattern Associative Oblivious Router for Tree Topologies.	Douglas H. Summerville,José G. Delgado-Frias,Stamatis Vassiliadis	10.1109/IPPS.1994.288251
+Shared Virtual Memory and Generalized Speedup.	Xian-He Sun,Jianping Zhu	10.1109/IPPS.1994.288237
+GRAPE-4: A Teraflops Massively Parallel Special-Purpose Computer System for Astrophysical itN-body Simulations.	Makoto Taiji,Junichiro Makino,Toshikazu Ebisuzaki,Daiichiro Sugimoto	10.1109/IPPS.1994.288288
+Estimation of Nested Loops Execution Time by Integer Arithmetic in Convex Polyhedra.	Nadia Tawbi	10.1109/IPPS.1994.288298
+All-to-All Communication on Meshes with Wormhole Routing.	Rajeev Thakur,Alok N. Choudhary	10.1109/IPPS.1994.288248
+Virtual Computer Corporation : Transformable Computers.	Michael Thornburg,Steve Casselman	10.1109/IPPS.1994.288231
+Integrating Functional and Imperative Parallel Programming: CC++ Solutions to the Salishan Problems.	John Thornley	10.1109/IPPS.1994.288318
+Parallel Bidirectional Heuristic Search with Dynamic Process Re-Direction.	Anestis A. Toptsis	10.1109/IPPS.1994.288294
+Parallel Algorithms for Singular Value Decomposition.	Renard Ulrey,Anthony A. Maciejewski,Howard Jay Siegel	10.1109/IPPS.1994.288253
+Concurrent Search and Insertion in K-Dimensional Height Balanced Trees.	Atul Varshneya,B. B. Madan,M. Balakrishnan	10.1109/IPPS.1994.288202
+Can Parallel Algorithms Enhance Serial Implementation?	Uzi Vishkin	10.1109/IPPS.1994.288274
+The Effects of Thread Placement on the KSR1.	Thomas D. Wagner,Evgenia Smirni,Amy W. Apon,Manish Madhukar,Lawrence W. Dowdy	10.1109/IPPS.1994.288240
+Scalable Techniques for Computing Band Linear Recurrences on Massively Parallel and Vector Supercomputers.	Haigeng Wang,Alexandru Nicolau,Stephen Keung,Kai-Yeung Siu	10.1109/IPPS.1994.288256
+Scalable Spin Locks for Multiprogrammed Systems.	Robert W. Wisniewski,Leonidas I. Kontothanassis,Michael L. Scott	10.1109/IPPS.1994.288245
+A Scalable MIMD Volume Rendering Algorithm.	Craig M. Wittenbrink,Michael Harrington	10.1109/IPPS.1994.288197
+Program Portability Across Parallel Architectures - SIMD/MIMD/SPMD/Shared/Distributed.	Michael Wolfe	10.1109/IPPS.1994.288234
+Parallel Extended GCD Algorithm.	Pou-Yah Wu,Julian Chuen-Liang Chen	10.1109/IPPS.1994.288277
+Encapsulating Networks and Routing.	B. Zerrouk,J. M. Blinn,A. Greiner	10.1109/IPPS.1994.288250
+Evaluation and Measurement of Multiprocessor Latency Patterns.	Xiaodong Zhang 0001,Yong Yan 0003,Keqiang He	10.1109/IPPS.1994.288207
+Proceedings of the 8th International Symposium on Parallel Processing, Cancún, Mexico, April 1994	Howard Jay Siegel	

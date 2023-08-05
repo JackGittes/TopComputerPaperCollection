@@ -1,0 +1,70 @@
+Brief announcement: the theory of network tracing.	Hrishikesh B. Acharya,Mohamed G. Gouda	10.1145/1582716.1582787
+Concurrent imitation dynamics in congestion games.	Heiner Ackermann,Petra Berenbrink,Simon Fischer 0001,Martin Hoefer 0001	10.1145/1582716.1582732
+Memory models: a case for rethinking parallel languages and hardware.	Sarita V. Adve	10.1145/1582716.1582718
+Partial synchrony based on set timeliness.	Marcos Kawazoe Aguilera,Carole Delporte-Gallet,Hugues Fauconnier,Sam Toueg	10.1145/1582716.1582737
+Dynamic atomic storage without consensus.	Marcos Kawazoe Aguilera,Idit Keidar,Dahlia Malkhi,Alexander Shraer	10.1145/1582716.1582726
+Brief announcement: weakest failure detectors via an egg-laying simulation.	Antonio Fernández Anta,Sergio Rajsbaum,Corentin Travers	10.1145/1582716.1582770
+Max registers, counters, and monotone circuits.	James Aspnes,Hagit Attiya,Keren Censor	10.1145/1582716.1582728
+SINR diagrams: towards algorithmically usable SINR models of wireless networks.	Chen Avin,Yuval Emek,Erez Kantor,Zvi Lotker,David Peleg,Liam Roditty	10.1145/1582716.1582750
+Brief announcement: Stateless distributed algorithms for generalized packing linear programs.	Baruch Awerbuch,Zhenghua Fu,Rohit Khandekar	10.1145/1582716.1582759
+Parsimonious flooding in dynamic graphs.	Hervé Baumann,Pierluigi Crescenzi,Pierre Fraigniaud	10.1145/1582716.1582757
+Brief announcement: non-self-stabilizing and self-stabilizing gathering in networks of mobile agents--the notion of speed.	Joffroy Beauquier,Janna Burman,Julien Clément 0002,Shay Kutten	10.1145/1582716.1582768
+Brief announcement: optimal self-stabilizing multi-token ring: a randomized solution.	Andrew Berns,Anurag Dasgupta,Sukumar Ghosh	10.1145/1582716.1582777
+Extracting quorum failure detectors.	Vibhor Bhatt,Nicholas Christman,Prasad Jayanti	10.1145/1582716.1582733
+Brief announcement: the price of anonymity: optimal consensus despite asynchrony, crash and anonymity.	François Bonnet 0001,Michel Raynal	10.1145/1582716.1582773
+Bounding the locality of distributed routing algorithms.	Prosenjit Bose,Paz Carmi,Stephane Durocher	10.1145/1582716.1582756
+Distributed discovery of large near-cliques.	Zvika Brakerski,Boaz Patt-Shamir	10.1145/1582716.1582790
+Brief announcement: locality-based aggregate computation in wireless sensor networks.	Jen-Yeu Chen,Gopal Pandurangan,Jianghai Hu	10.1145/1582716.1582775
+Fast scalable deterministic consensus for crash failures.	Bogdan S. Chlebus,Dariusz R. Kowalski,Michal Strojnowski	10.1145/1582716.1582738
+The flip markov chain and a randomising P2P protocol.	Colin Cooper,Martin E. Dyer,Andrew J. Handley	10.1145/1582716.1582742
+Brief announcement: minimum spanning trees and cone-based topology control.	Alejandro Cornejo,Nancy A. Lynch	10.1145/1582716.1582774
+The disagreement power of an adversary: extended abstract.	Carole Delporte-Gallet,Hugues Fauconnier,Rachid Guerraoui,Andreas Tielmann	10.1145/1582716.1582769
+Brief announcement: how to speed-up fault-tolerant clock generation in VLSI systems-on-chip via pipelining.	Andreas Dielacher,Matthias Függer,Ulrich Schmid 0001	10.1145/1582716.1582762
+Brief announcement: tight lower bounds for greedy routing in uniform small world rings.	Martin Dietzfelbinger,Philipp Woelfel	10.1145/1582716.1582776
+Brief announcement: deaf, dumb, and chatting robots.	Yoann Dieudonné,Shlomi Dolev,Franck Petit,Michael Segal 0001	10.1145/1582716.1582781
+Brief announcement: distributed algorithms for approximating wireless network capacity.	Michael Dinitz	10.1145/1582716.1582792
+The wireless synchronization problem.	Shlomi Dolev,Seth Gilbert,Rachid Guerraoui,Fabian Kuhn,Calvin C. Newport	10.1145/1582716.1582749
+Brief announcement: collaborative measurement of upload speeds in P2P systems.	John R. Douceur,James W. Mickens,Thomas Moscibroda,Debmalya Panigrahi	10.1145/1582716.1582798
+Preventing versus curing: avoiding conflicts in transactional memories.	Aleksandar Dragojevic,Rachid Guerraoui,Anmol V. Singh,Vasu Singh	10.1145/1582716.1582725
+Brief announcement: new bounds for the controller problem.	Yuval Emek,Amos Korman	10.1145/1582716.1582799
+Brief announcement: PUSH, a DISC shell.	Noah Paul Evans,Eric Van Hensbergen	10.1145/1582716.1582780
+Oblivious interference scheduling.	Alexander Fanghänel,Thomas Kesselheim,Harald Räcke,Berthold Vöcking	10.1145/1582716.1582752
+The effect of power-law degrees on the navigability of small worlds: [extended abstract].	Pierre Fraigniaud,George Giakkoupis	10.1145/1582716.1582755
+The weakest failure detector for solving k-set agreement.	Eli Gafni,Petr Kuznetsov	10.1145/1582716.1582735
+Efficient broadcasting in known topology radio networks with long-range interference.	Frantisek Galcík,Leszek Gasieniec,Andrzej Lingas	10.1145/1582716.1582754
+Brief announcement: global consistency can be easier than point-to-point communication.	Prasant Gopal,Anuj Gupta 0001,Pranav K. Vasishta,Piyush Bansal,Kannan Srinathan	10.1145/1582716.1582782
+Brief announcement: complexity analysis and algorithm design for pipeline configuration in distributed networks.	Yi Gu,Qishi Wu,Anne Benoit,Yves Robert	10.1145/1582716.1582795
+Correctness of gossip-based membership under message loss.	Maxim Gurevich,Idit Keidar	10.1145/1582716.1582743
+The forgiving graph: a distributed data structure for low stretch under adversarial attack.	Thomas P. Hayes,Jared Saia,Amitabh Trehan	10.1145/1582716.1582740
+Randomized mutual exclusion in O(log N / log log N) RMRs.	Danny Hendler,Philipp Woelfel	10.1145/1582716.1582727
+Emerging challenges and opportunities in parallel computing: the cretaceous redux?	Bruce Hendrickson	10.1145/1582716.1582719
+Brief announcement: virtual world consistency: a new condition for STM systems.	Damien Imbs,José Ramón González de Mendívil,Michel Raynal	10.1145/1582716.1582764
+A distributed polylogarithmic time algorithm for self-stabilizing skip graphs.	Riko Jacob,Andréa W. Richa,Christian Scheideler,Stefan Schmid 0001,Hanjo Täubig	10.1145/1582716.1582741
+The life and times of a zookeeper.	Flavio Paiva Junqueira,Benjamin C. Reed	10.1145/1582716.1582721
+Brief announcement: fast scalable Byzantine agreement in the full information model with a nonadaptive adversary.	Valerie King,Jared Saia	10.1145/1582716.1582778
+Brief announcement: a note on distributed stable matching.	Alexander Kipnis,Boaz Patt-Shamir	10.1145/1582716.1582766
+Load balancing without regret in the bulletin board model.	Robert D. Kleinberg,Georgios Piliouras,Éva Tardos	10.1145/1582716.1582731
+Brief announcement: exactly electing a unique leader is not harder than computing symmetric functions on anonymous quantum networks.	Hirotada Kobayashi,Keiji Matsumoto,Seiichiro Tani	10.1145/1582716.1582796
+Brief announcement: concurrent non-commutative boosted transactions.	Eric Koskinen,Maurice Herlihy	10.1145/1582716.1582760
+Distributed and parallel algorithms for weighted vertex cover and other covering problems.	Christos Koufogiannakis,Neal E. Young	10.1145/1582716.1582746
+Brief announcement: hardness of broadcasting in wireless networks with unreliable communication.	Fabian Kuhn,Nancy A. Lynch,Calvin C. Newport	10.1145/1582716.1582794
+Brief announcement: impossibility results for optimistic fair exchange with multiple autonomous arbiters.	Alptekin Küpçü,Anna Lysyanskaya	10.1145/1582716.1582797
+Cassandra: structured storage system on a P2P network.	Avinash Lakshman,Prashant Malik	10.1145/1582716.1582722
+Vertical paxos and primary-backup replication.	Leslie Lamport,Dahlia Malkhi,Lidong Zhou	10.1145/1582716.1582783
+Tight bounds for clock synchronization.	Christoph Lenzen 0001,Thomas Locher,Roger Wattenhofer	10.1145/1582716.1582730
+Pregel: a system for large-scale graph processing.	Grzegorz Malewicz,Matthew H. Austern,Aart J. C. Bik,James C. Dehnert,Ilan Horn,Naty Leiser,Grzegorz Czajkowski	10.1145/1582716.1582723
+On a selfish caching game.	Pietro Michiardi,Carla-Fabiana Chiasserini,Claudio Casetti,Chi-Anh La,Marco Fiore	10.1145/1582716.1582767
+Brief announcement: lightweight key agreement and digital certificates for wireless sensor networks.	Oscar García Morchon,Tobias Heer,Klaus Wehrle	10.1145/1582716.1582791
+Return of the primal-dual: distributed metric facilitylocation.	Saurav Pandit,Sriram V. Pemmaraju	10.1145/1582716.1582747
+Simple and efficient asynchronous byzantine agreement with optimal resilience.	Arpita Patra,Ashish Choudhary,C. Pandu Rangan	10.1145/1582716.1582736
+Brief announcement: perfectly secure message transmission in directed networks re-visited.	Arpita Patra,Ashish Choudhary,C. Pandu Rangan	10.1145/1582716.1582763
+Brief announcement: (more) efficient pruning of ad-hoc wireless networks.	Enoch Peserico	10.1145/1582716.1582788
+Refining the way to consensus.	Robbert van Renesse	10.1145/1582716.1582717
+Brief announcement: a platform for experimenting with mobile algorithms in a laboratory.	Matthieu Roy,Marc-Olivier Killijian	10.1145/1582716.1582785
+Fast distributed random walks.	Atish Das Sarma,Danupon Nanongkai,Gopal Pandurangan	10.1145/1582716.1582745
+Coloring unstructured wireless multi-hop networks.	Johannes Schneider 0002,Roger Wattenhofer	10.1145/1582716.1582751
+Brief announcement: distributed phase synchronization of dynamic set of processes.	R. K. Shyamasundar,Shivali Agarwal	10.1145/1582716.1582761
+Brief announcement: self-assembly as graph grammar as distributed system.	Aaron D. Sterling	10.1145/1582716.1582789
+Brief announcement: topology knowledge affects probabilistic reliable communication.	Pranav K. Vasishta,Prasant Gopal,Anuj Gupta 0001,Piyush Bansal,K. Srinathan	10.1145/1582716.1582784
+Brief announcement: optimization based rate allocation for application layer multicast.	Jinyao Yan,Martin May,Bernhard Plattner	10.1145/1582716.1582771
+Proceedings of the 28th Annual ACM Symposium on Principles of Distributed Computing, PODC 2009, Calgary, Alberta, Canada, August 10-12, 2009	Srikanta Tirthapura,Lorenzo Alvisi	

@@ -1,0 +1,124 @@
+Test generation for path-delay faults in one-dimensional iterative logic arrays.	Nabil M. Abdulrazzaq,Sandeep K. Gupta	10.1109/TEST.2000.894221
+A framework to evaluate test tradeoffs in embedded core based systems-case study on TI&apos;s TMS320C27xx.	Jais Abraham,Narayan Prasad,Srinivasa Chakravarthy B. S.,Ameet Bagwe,Rubin A. Parekhji	10.1109/TEST.2000.894233
+DIST-based detection and diagnosis of multiple faults in FPGAs.	Miron Abramovici,Charles E. Stroud	10.1109/TEST.2000.894275
+End-to-end testing for boards and systems using boundary scan.	Robert W. Barr,Chen-Huan Chiang,Edward L. Wallace	10.1109/TEST.2000.894252
+Fault distinguishing pattern generation.	Thomas Bartenstein	10.1109/TEST.2000.894285
+Deterministic partitioning techniques for fault diagnosis in scan-based BIST.	Ismet Bayraktaroglu,Alex Orailoglu	10.1109/TEST.2000.894215
+Bridging the gap between embedded test and ATE.	Martin Bell,Givargis Danialy 0001,Michael C. Howells,Stephen Pateras	10.1109/TEST.2000.894191
+HD2BIST: a hierarchical framework for BIST scheduling, data patterns delivering and diagnosis in SoCs.	Alfredo Benso,Silvia Chiusano,Stefano Di Carlo,Paolo Prinetto,Fabio Ricciato,Maurizio Spadari,Yervant Zorian	10.1109/TEST.2000.894300
+A programmable BIST architecture for clusters of multiple-port SRAMs.	Alfredo Benso,Stefano Di Carlo,Giorgio Di Natale,Paolo Prinetto,Monica Lobetti Bodoni	10.1109/TEST.2000.894249
+A software development kit for dependable applications in embedded systems.	Alfredo Benso,Silvia Chiusano,Paolo Prinetto	10.1109/TEST.2000.894204
+BISTing data paths at behavioral level.	David Berthelot,Marie-Lise Flottes,Bruno Rouzeyre	10.1109/TEST.2000.894262
+Digital signature proposal for mixed-signal circuits.	Anna Maria Brosa,Joan Figueras	10.1109/TEST.2000.894317
+Reducing device yield fallout at wafer level test with electrohydrodynamic (EHD) cleaning.	Jerry J. Broz,James C. Andersen,Reynaldo M. Rincon	10.1109/TEST.2000.894240
+Design and implementation of a parallel automatic test pattern generation algorithm with low test vector count.	Robert Butler,Brion L. Keller,Sarala Paliwal,Richard Schoonover,Joseph Swenton	10.1109/TEST.2000.894246
+Digital serial communication device testing and its implications on automatic test equipment architecture.	Yongming Cai,T. P. Warwick,Sunil G. Rane,E. Masserrat	10.1109/TEST.2000.894254
+Optimal INL/DNL testing of A/D converters using a linear model.	Sasikumar Cherubal,Abhijit Chatterjee	10.1109/TEST.2000.894225
+Non-intrusive BIST for systems-on-a-chip.	Silvia Chiusano,Paolo Prinetto,Hans-Joachim Wunderlich	10.1109/TEST.2000.894259
+Test structure verification of logical BIST: problems and solutions.	Michael Cogswell,Don Pearl,James Sage,Alan Troidl	10.1109/TEST.2000.894199
+Hardware for production test of RFID interface embedded into chips for smart cards and labels used in contactless applications.	Cristo da Costa	10.1109/TEST.2000.894241
+Variance reduction using wafer patterns in I_ddQ data.	W. Robert Daasch,James McNames,Daniel Bockelman,Kevin Cota	10.1109/TEST.2000.894206
+Reducing test data volume using external/LBIST hybrid test patterns.	Debaleena Das,Nur A. Touba	10.1109/TEST.2000.894198
+Analysis of failure sources in surface-micromachined MEMS.	Nilmoni Deb,Ronald D. Blanton	10.1109/TEST.2000.894270
+Case-based reasoning: diagnosis of faults in complex systems through reuse of experience.	L. Derere	10.1109/TEST.2000.894147
+Universal test generation using fault tuples.	Rao Desineni,Kumar N. Dwarakanath,Ronald D. Blanton	10.1109/TEST.2000.894283
+An approach to testing 200 ps echo clock to output timing on the double data rate synchronous memory.	Dieu Van Dinh,Virginia Rabitoy	10.1109/TEST.2000.894255
+Enhanced DO-RE-ME based defect level prediction using defect site aggregation-MPG-D.	Jennifer Dworak,Michael R. Grimaila,Sooryong Lee,Li-C. Wang,M. Ray Mercer	10.1109/TEST.2000.894304
+Optical interferometric probing of advanced microprocessors.	Travis M. Eiles,Keneth R. Wilsher,William K. Lo,G. Xiao	10.1109/TEST.2000.894194
+Concurrent error detection in block ciphers	Santiago Fernández-Gomez,Juan J. Rodríguez-Andina,Enrique Mandado	10.1109/TEST.2000.894310
+Test point insertion for compact test sets.	M. J. Geuzebroek,J. Th. van der Linden,Ad J. van de Goor	10.1109/TEST.2000.894217
+Low power BIST design by hypergraph partitioning: methodology and architectures.	Patrick Girard 0001,Christian Landrault,Loïs Guiller,Serge Pravossoudovitch	10.1109/TEST.2000.894260
+Test and on-line debug capabilities of IEEE Std 1149.1 in UltraSPARC-III microprocessor.	Farideh Golshan	10.1109/TEST.2000.894201
+Industrial evaluation of DRAM SIMM tests.	Ad J. van de Goor,A. Paalvast	10.1109/TEST.2000.894234
+A stand-alone integrated test core for time and frequency domain measurements.	Mohamed M. Hafed,Nazmy Abaskharoun,Gordon W. Roberts	10.1109/TEST.2000.894316
+The implementation of IEEE Std 1149.1 boundary scan test strategy within a cellular infrastructure production environment.	Stephen Harrison,Peter Collins,Greg Noeninckx	10.1109/TEST.2000.894190
+A mixed mode BIST scheme based on reseeding of folding counters.	Sybille Hellebrand,Hans-Joachim Wunderlich,Huaguo Liang	10.1109/TEST.2000.894274
+Microwave test mismatch and power de-embedding.	Peter M. Higgins,Jim Lampos	10.1109/TEST.2000.894306
+Testing and characterization of the one-bit first-order delta-sigma modulator for on-chip analog signal analysis.	Jiun-Lang Huang,Kwang-Ting Cheng	10.1109/TEST.2000.894315
+Static property checking using ATPG vs. BDD techniques.	Chung-Yang Huang,Bwolen Yang,Huan-Chih Tsai,Kwang-Ting Cheng	10.1109/TEST.2000.894219
+Streamlining programmable device and system test using IEEE Std 1532.	Neil G. Jacobson	10.1109/TEST.2000.894290
+Challenges of high supply currents during VLSI test.	Gerald H. Johnson	10.1109/TEST.2000.894314
+Power pin testing: making the test coverage complete.	Frans G. M. de Jong,Ben Kup,Rodger Schuttert	10.1109/TEST.2000.894251
+Algorithm level re-computing with shifted operands-a register transfer level concurrent error detection technique.	Ramesh Karri,Kaijie Wu 0001	10.1109/TEST.2000.894309
+A new paradigm in test for the next millennium.	Jerry Katz,Rochit Rajsuman	10.1109/TEST.2000.894239
+Test response compaction by an accumulator behaving as a multiple input non-linear feedback shift register.	Xrysovalantis Kavousianos,Dimitris Bakalis,Dimitris Nikolos	10.1109/TEST.2000.894277
+A built-in self-repair analyzer (CRESTA) for embedded DRAMs.	Tomoya Kawagoe,Jun Ohtani,Mitsutaka Niiro,Tukasa Ooishi,Mitsuhiro Hamada,Hideto Hidaka	10.1109/TEST.2000.894250
+Programming of flash with ICT rights and responsibilities.	Julia A. Keahey	10.1109/TEST.2000.894266
+Multiple-parameter CMOS IC testing with increased sensitivity for I_DDQ.	Ali Keshavarzi,Kaushik Roy 0001,Charles F. Hawkins,Manoj Sachdev,Krishnamurthy Soumyanath,Vivek De	10.1109/TEST.2000.894318
+Application of deterministic logic BIST on industrial circuits.	Gundolf Kiefer,Hans-Joachim Wunderlich,Harald P. E. Vranken,Erik Jan Marinissen	10.1109/TEST.2000.894197
+An analysis of the delay defect detection capability of the ECR test method.	Seonki Kim,Sreejit Chakravarty,Bapiraju Vinnakota	10.1109/TEST.2000.894319
+Logic mapping on a microprocessor.	Anjali Kinra,Hari Balachandran,Regy Thomas,John Carulli	10.1109/TEST.2000.894265
+Easy mixed signal test creation with test elements and procedures.	Andy Kittross	10.1109/TEST.2000.894193
+On invalidation mechanisms for non-robust delay tests.	Haluk Konuk	10.1109/TEST.2000.894230
+Identification of crosstalk switch failures in domino CMOS circuits.	Rahul Kundu,Ronald D. Blanton	10.1109/TEST.2000.894243
+Optimal analog trim techniques for improving the linearity of pipeline ADCs.	Turker Kuyel,Frank (Ching-Yuh) Tsay	10.1109/TEST.2000.894226
+Test program synthesis for path delay faults in microprocessor cores.	Wei-Cheng Lai,Angela Krstic,Kwang-Ting Cheng	10.1109/TEST.2000.894321
+Using on-chip test pattern compression for full scan SoC designs.	Helmut Lang,Jens Pfeiffer,Jeff Maguire	10.1109/TEST.2000.894258
+A good excuse for reuse: &quot;open&quot; TAP controller design.	David B. Lavo	10.1109/TEST.2000.894322
+Testing for tunneling opens.	Chien-Mo James Li,Edward J. McCluskey	10.1109/TEST.2000.894195
+Precise test generation for resistive bridging faults of CMOS combinational circuits.	Toshiyuki Maeda,Kozo Kinoshita	10.1109/TEST.2000.894244
+Technique for testing a very high speed mixed signal read channel design.	Doug Matthes,John Ford	10.1109/TEST.2000.894308
+Comparing functional and structural tests.	Peter C. Maxwell,Ismed Hartanto,Lee Bentz	10.1109/TEST.2000.894231
+Current ratios: a self-scaling technique for production IDDQ testing.	Peter C. Maxwell,Pete O&apos;Neill,Robert C. Aitken,Ronald Dudley,Neal Jaarsma,Minh Quach,Don Wiseman	10.1109/TEST.2000.894324
+Deception by design: fooling ourselves with gate-level models.	Peter C. Maxwell,Jeff Rearick	10.1109/TEST.2000.894303
+Motherboard testing using the PCI bus.	David McClintock,Lance Cunningham,Takis Petropoulos	10.1109/TEST.2000.894253
+Stuck-fault tests vs. actual defects.	Edward J. McCluskey,Chao-Wen Tseng	10.1109/TEST.2000.894222
+The testability features of the MCF5407 containing the 4th generation ColdFire(R) microprocessor core.	Teresa L. McLaurin,Frank Frederick	10.1109/TEST.2000.894202
+On-the-shelf core pattern methodology for ColdFire(R) microprocessor cores.	Teresa L. McLaurin,John C. Potter	10.1109/TEST.2000.894323
+Combinational logic synthesis for diversity in duplex systems.	Subhasish Mitra,Edward J. McCluskey	10.1109/TEST.2000.894205
+Which concurrent error detection scheme to choose ?	Subhasish Mitra,Edward J. McCluskey	10.1109/TEST.2000.894311
+Delay-fault testing and defects in deep sub-micron ICs-does critical resistance really mean anything?	Will R. Moore,Guido Gronthoud,Keith Baker,Maurice Lousberg	10.1109/TEST.2000.894196
+Selection of potentially testable path delay faults for test generation.	Atsushi Murakami,Seiji Kajihara,Tsutomu Sasao,Irith Pomeranz,Sudhakar M. Reddy	10.1109/TEST.2000.894227
+A comparison of classical scheduling approaches in power-constrained block-test scheduling.	Valentin Muresan,Xiaojun Wang 0001,Valentina Muresan,Mircea Vladutiu	10.1109/TEST.2000.894299
+Power conscious test synthesis and scheduling for BIST RTL data paths.	Nicola Nicolici,Bashir M. Al-Hashimi	10.1109/TEST.2000.894261
+Test method evaluation experiments and data.	Phil Nigh,Anne E. Gattiker	10.1109/TEST.2000.894237
+An ILP formulation to optimize test access mechanism in system-on-chip testing.	Mehrdad Nourani,Christos A. Papachristou	10.1109/TEST.2000.894301
+Considerations for implementing IEEE 1149.1 on system-on-a-chip integrated circuits.	Steven F. Oakland	10.1109/TEST.2000.894257
+DECOUPLE: defect current detection in deep submicron I_DDQ.	Yukio Okuda	10.1109/TEST.2000.894207
+Path-delay fault diagnosis in non-scan sequential circuits with at-speed test application.	Pankaj Pant,Abhijit Chatterjee	10.1109/TEST.2000.894212
+System issues in boundary-scan board test.	Kenneth P. Parker	10.1109/TEST.2000.894268
+Doing it in STIL: intelligent conversion from STIL to an ATE format.	Bruce R. Parnas	10.1109/TEST.2000.894192
+MUST: multiple-stem analysis for identifying sequentially untestable faults.	Qiang Peng,Miron Abramovici,Jacob Savir	10.1109/TEST.2000.894288
+Structural test in a board self test environment.	Ulf Pillkahn	10.1109/TEST.2000.894313
+Design-for-test methods for stand-alone SRAMs at 1 Gb/s/pin and beyond.	Harold Pilo,Stu Hall,Patrick Hansen,Steve Lamphier,Chris Murphy	10.1109/TEST.2000.894235
+Predicting device performance from pass/fail transient signal analysis data.	James F. Plusquellic,Amy Germida,Jonathan Hudson,Ernesto Staroswiecki,Chintan Patel	10.1109/TEST.2000.894320
+Optimization trade-offs for vector volume and test power.	Bahram Pouya,Alfred L. Crouch	10.1109/TEST.2000.894298
+Pattern generation tools for the development of memory core test patterns for Rambus devices.	John Privitera,Steven Woo,Craig Soldat	10.1109/TEST.2000.894236
+DFT advances in Motorola&apos;s Next-Generation 74xx PowerPCTM microprocessor.	Rajesh Raina,Robert Bailey,Dawit Belete,Vikram Khosa,Robert F. Molyneaux,Javier Prado,Ashutosh Razdan	10.1109/TEST.2000.894200
+: Reducing test application time in high-level test generation.	Srivaths Ravi 0001,Ganesh Lakshminarayana,Niraj K. Jha	10.1109/TEST.2000.894286
+On validating data hold times for flip-flops in sequential circuits.	Sudhakar M. Reddy,Irith Pomeranz,Seiji Kajihara,Atsushi Murakami,Sadami Takeoka,Mitsuyasu Ohta	10.1109/TEST.2000.894220
+Different experiments in test generation for XILINX FPGAs.	Michel Renovell,Yervant Zorian	10.1109/TEST.2000.894292
+Successful implementation of structured testing.	Ronald A. Richmond	10.1109/TEST.2000.894223
+Defect screening challenges in the Gigahertz/Nanometer age: keeping up with the tails of defect behaviors.	Mike Rodgers	10.1109/TEST.2000.894238
+Conversion of small functional test sets of nonscan blocks to scan patterns.	Don E. Ross,Tim Wood 0001,Grady Giles	10.1109/TEST.2000.894264
+Efficient test mode selection and insertion for RTL-BIST.	Subrata Roy,Gokhan Guner,Kwang-Ting Cheng	10.1109/TEST.2000.894214
+The path to one-picosecond accuracy.	Luca Sartori,Burnell G. West	10.1109/TEST.2000.894256
+A BIST approach for very deep sub-micron (VDSM) defects.	Yasuo Sato,Toyohito Ikeya,Michinobu Nakao,Takaharu Nagumo	10.1109/TEST.2000.894216
+On-line and off-line test of airborne digital systems: a reliability study.	Jacob Savir	10.1109/TEST.2000.894148
+An empirical study on the effects of test type ordering on overall test efficiency.	Jayashree Saxena,Kenneth M. Butler	10.1109/TEST.2000.894232
+It isn&apos;t just testing anymore (REDUX).	Stephen F. Scheiber	10.1109/TEST.2000.894267
+Device interfacing: the weakest link in the chain to break into the giga bit domain?	Ulrich Schoettmer,Chris Wagner,Tom Bleakley	10.1109/TEST.2000.894312
+Enhanced delay defect coverage with path-segments.	Manish Sharma,Janak H. Patel	10.1109/TEST.2000.894228
+An improved fault diagnosis algorithm based on path tracing with dynamic circuit extraction.	Kazuki Shigeta,Toshio Ishiyama	10.1109/TEST.2000.894211
+Computer-aided fault to defect mapping (CAFDM) for defect diagnosis.	Zoran Stanojevic,Hari Balachandran,D. M. H. Walker,Fred Lakbani,Jayashree Saxena,Kenneth M. Butler	10.1109/TEST.2000.894269
+Bridging fault extraction from physical design data for manufacturing test development.	Charles E. Stroud,John Marty Emmert,John R. Bailey,Khushru S. Chhor,Dragan Nikolic	10.1109/TEST.2000.894272
+Novel technique for built-in self-test of FPGA interconnects.	Xiaoling Sun,Jian Xu,Ben Chan,Pieter M. Trouborst	10.1109/TEST.2000.894276
+Register-transfer level fault modeling and test evaluation techniques for VLSI circuits.	Pradip A. Thaker,Vishwani D. Agrawal,Mona E. Zaghloul	10.1109/TEST.2000.894305
+Improving Delta-I_DDQ-based test methods.	Claude Thibeault	10.1109/TEST.2000.894208
+Increasing the IDDQ test resolution using current prediction.	Pramodchandran N. Variyam	10.1109/TEST.2000.894209
+Measuring code edges of ADCs using interpolation and its application to offset and gain error testing.	Pramodchandran N. Variyam,Vinay Agrawal	10.1109/TEST.2000.894224
+POIROT: a logic fault diagnosis tool and its applications.	Srikanth Venkataraman,Scott Brady Drummonds	10.1109/TEST.2000.894213
+Exploiting don&apos;t cares to enhance functional tests.	Mark W. Weiss,Sharad C. Seth,Shashank K. Mehta,Kent L. Einspahr	10.1109/TEST.2000.894247
+Adapting scan architectures for low power operation.	Lee Whetsel	10.1109/TEST.2000.894297
+Optimizing the flattened test-generation model for very large designs.	Peter Wohl,John A. Waicukauski	10.1109/TEST.2000.894263
+Non-scan design for testability for synchronous sequential circuits based on conflict analysis.	Dong Xiang,Yi Xu,Hideo Fujiwara	10.1109/TEST.2000.894245
+Jitter measurements of a PowerPCTM microprocessor using an analytic signal method.	Takahiro J. Yamaguchi,Mani Soma,David Halter,Jim Nissen,Rajesh Raina,Masahiro Ishida,Toshifumi Watanabe	10.1109/TEST.2000.894307
+Si-emulation: system verification using simulation and emulation.	Zan Yang,Byeong Min,Gwan Choi	10.1109/TEST.2000.894203
+Diagnostic test generation for sequential circuits.	Xiaoming Yu,Jue Wu,Elizabeth M. Rudnick	10.1109/TEST.2000.894210
+A scalable and efficient methodology to extract two node bridges from large industrial circuits.	Sujit T. Zachariah,Sreejit Chakravarty	10.1109/TEST.2000.894271
+Self test architecture for testing complex memory structures.	Kamran Zarrineh,R. Dean Adams,Thomas J. Eckenrode,Steven P. Gregor	10.1109/TEST.2000.894248
+A domain coverage metric for the validation of behavioral VHDL descriptions.	Qiushuang Zhang,Ian G. Harris	10.1109/TEST.2000.894218
+Analysis of interconnect crosstalk defect coverage of test sets.	Yi Zhao,Sujit Dey	10.1109/TEST.2000.894242
+On using IEEE P1500 SECT for test plug-n-play.	Yervant Zorian,Erik Jan Marinissen,Rohit Kapur	10.1109/TEST.2000.894273
+Wrapper design for embedded core test.	Yervant Zorian,Erik Jan Marinissen,Maurice Lousberg,Sandeep Kumar Goel	10.1109/TEST.2000.894302
+Proceedings IEEE International Test Conference 2000, Atlantic City, NJ, USA, October 2000		

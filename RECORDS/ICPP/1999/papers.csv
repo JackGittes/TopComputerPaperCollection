@@ -1,0 +1,63 @@
+Maintenance of Ambiences for Mobile Systems.	Toshihiko Ando,Kaoru Takahashi,Yasushi Kato,Norio Shiratori	10.1109/ICPP.1999.797438
+cJVM: A Single System Image of a JVM on a Cluster.	Yariv Aridor,Michael Factor,Avi Teperman	10.1109/ICPP.1999.797382
+Exploiting Multiple Levels of Parallelism in OpenMP: A Case Study.	Eduard Ayguadé,Xavier Martorell,Jesús Labarta,Marc González 0001,Nacho Navarro	10.1109/ICPP.1999.797402
+Compiler Optimizations for Parallel Sparse Programs with Array Intrinsics of Fortran 90.	Rong-Guey Chang,Tyng-Ruey Chuang,Jenq Kuen Lee	10.1109/ICPP.1999.797394
+Caching Neighborhood Protocol: A Foundation for Building Dynamic Web Caching Hierarchies with Proxy Servers.	Cho-Yu Chiang,Ming T. Liu,Mervin E. Muller	10.1109/ICPP.1999.797440
+A Bandwidth-Efficient Implementation of Mesh with Multiple Broadcasting.	Jong Hyuk Choi,Bong Wan Kim,Kyu Ho Park,Kwang-Il Park	10.1109/ICPP.1999.797431
+Moving Home-Based Lazy Release Consistency for Shared Virtual Memory Systems.	JaeWoong Chung,Byeong Hag Seong,Kyu Ho Park,Daeyeon Park	10.1109/ICPP.1999.797414
+SLC: Symbolic Scheduling for Executing Parameterized Task Graphs on Multiprocessors.	Michel Cosnard,Emmanuel Jeannot,Tao Yang	10.1109/ICPP.1999.797429
+A Strictly-Optimal Strategy to Access Multi-Dimensional Data on Parallel Disk Systems.	Sajal K. Das 0001,Maria Cristina Pinotti	10.1109/ICPP.1999.797396
+Object-Based Ordered Delivery of Messages in Object-Based Systems.	Tomoya Enokido,Hiroaki Higaki,Makoto Takizawa 0001	10.1109/ICPP.1999.797425
+Solution of Alternating-Line Processes on Modern Parallel Computers.	David Espadas,Manuel Prieto 0001,Ignacio Martín Llorente,Francisco Tirado	10.1109/ICPP.1999.797406
+Performance Evaluation of Networks of Workstations with Hardware Shared Memory Model Using Execution-Driven Simulation.	Jose Flich,Manuel P. Malumbres,Pedro López 0001,José Duato	10.1109/ICPP.1999.797399
+Parallel Media Processors for the Billion-Transistor Era.	Jason Fritts,Zhao Wu,Wayne H. Wolf	10.1109/ICPP.1999.797422
+Trace-Level Reuse.	Antonio González 0001,Jordi Tubella,Carlos Molina	10.1109/ICPP.1999.797385
+Efficient Techniques for Distributed Implementation of Search-Based AI Systems.	Gopal Gupta 0001,Enrico Pontelli	10.1109/ICPP.1999.797418
+Mobility Tolerant Maintenance of Multi-Cast Tree in Mobile Multi-Hop Radio Networks.	Sandeep K. S. Gupta,Pradip K. Srimani	10.1109/ICPP.1999.797437
+Dynamic Adaptation of Sharing Granularity in DSM Systems.	Ayal Itzkovitz,Nitzan Niv,Assaf Schuster	10.1109/ICPP.1999.797407
+An Efficient Fault-Tolerant Multicast Routing Protocol with Core-Based Tree Techniques.	Weijia Jia 0001,Gaochao Xu,Dong Xuan,Wei Zhao 0001	10.1109/ICPP.1999.797439
+Compiler Optimizations for I/O-Intensive Computations.	Mahmut T. Kandemir,Alok N. Choudhary,J. Ramanujam	10.1109/ICPP.1999.797401
+A Framework for Interprocedural Locality Optimization Using Both Loop and Data Layout Transformations.	Mahmut T. Kandemir,Alok N. Choudhary,J. Ramanujam,Prithviraj Banerjee	10.1109/ICPP.1999.797393
+Producer-Push - A Protocol Enhancement to Page-Based Software Distributed Shared Memory Systems.	Sven Karlsson,Mats Brorsson	10.1109/ICPP.1999.797415
+Correction Networks.	Marcin Kik,Miroslaw Kutylowski,Marek Piotrów	10.1109/ICPP.1999.797386
+Performance and Architectural Features of Segmented Multiple Bus System.	Jung-Joon Kim,Ahmed El-Amawy	10.1109/ICPP.1999.797400
+Coherence-Centric Logging and Recovery for Home-Based Software Distributed Shared Memory.	Angkul Kongmunvattana,Nian-Feng Tzeng	10.1109/ICPP.1999.797413
+Adaptive QoS Management Using Layered Multi-Agent System for Distributed Multimedia Applications.	Masakatsu Kosuga,Tatsuya Yamazaki,Nagao Ogino,Jun Matsuda	10.1109/ICPP.1999.797426
+Compiler Support for Data Forwarding in Scalable Shared-Memory Multiprocessors.	David A. Koufaty,Josep Torrellas	10.1109/ICPP.1999.797403
+Link Contention-Constrained Scheduling and Mapping of Tasks and Messages to a Network of Heterogeneous Processors.	Yu-Kwong Kwok,Ishfaq Ahmad	10.1109/ICPP.1999.797444
+Local Detection of Exclusive Global Predicates.	Eun-Jung Lee	10.1109/ICPP.1999.797420
+Contention Free Embedding of Complete Binary Trees into 3D Meshes in Half and Full-Duplexed Network Models.	Sang Kyu Lee,Ju-Young Lee Park	10.1109/ICPP.1999.797412
+Adaptive Disk Scheduling Algorithms for Video Servers.	Wonjun Lee 0001,Jaideep Srivastava,Won-Ho Lee	10.1109/ICPP.1999.797423
+Multi-Capacity Bin Packing Algorithms with Applications to Job Scheduling under Multiple Constraints.	William Leinberger,George Karypis,Vipin Kumar 0001	10.1109/ICPP.1999.797428
+New Delay Analysis in High Speed Networks.	Chengzhi Li,Riccardo Bettati,Wei Zhao 0001	10.1109/ICPP.1999.797433
+An Efficient Quorum-Based Scheme for Managing Replicated Data in Distributed Systems.	Ching-Min Lin,Ge-Ming Chiu,Cheng-Hong Cho	10.1109/ICPP.1999.797419
+Impact on Performance of Fused Multiply-Add Units in Aggressive VLIW Architectures.	David López 0001,Josep Llosa,Eduard Ayguadé,Mateo Valero	10.1109/ICPP.1999.797384
+Deadlock Avoidance for Switches Based on Wormhole Networks.	Olav Lysne	10.1109/ICPP.1999.797389
+Access Descriptor Based Locality Analysis for Distributed-Shared Memory Multiprocessors.	Angeles G. Navarro,Rafael Asenjo,Emilio L. Zapata,David A. Padua	10.1109/ICPP.1999.797391
+Improving Performance of Load-Store Sequences for Transaction Processing Workloads on Multiprocessors.	Jim Nilsson,Fredrik Dahlgren	10.1109/ICPP.1999.797410
+Coordinated Flows in a Formal Multi-Agent System Based on a Modal Algebra.	Panos A. Patsouris	10.1109/ICPP.1999.797436
+Adaptive Bubble Router: A Design to Improve Performance in Torus Networks.	Valentin Puente,Ramón Beivide,José A. Gregorio,J. M. Prellezo,José Duato,Cruz Izu	10.1109/ICPP.1999.797388
+FLB: Fast Load Balancing for Distributed-Memory Machines.	Andrei Radulescu,Arjan J. C. van Gemund	10.1109/ICPP.1999.797442
+Optimization of Instruction Fetch for Decision Support Workloads.	Alex Ramírez,Josep Lluís Larriba-Pey,Carlos Navarro,Xavi Serrano,Mateo Valero,Josep Torrellas	10.1109/ICPP.1999.797409
+SvPablo: A Multi-Language Architecture-Independent Performance Analysis System.	Luiz De Rose,Daniel A. Reed	10.1109/ICPP.1999.797417
+Network Congestion Monitoring and Detection Using the IMI Infrastructure.	Takeo Saitoh,Glenn Mansfield,Norio Shiratori	10.1109/ICPP.1999.797434
+Pre-Allocating Control Bandwidth in an Optical Interconnection Network.	Charles A. Salisbury,Rami G. Melhem	10.1109/ICPP.1999.797398
+Evaluating the Impact of the Programming Model on the Performance and Complexity of Software DSM Systems.	Cristiana Bentes Seidel,Ricardo Bianchini,Claudio Luis de Amorim	10.1109/ICPP.1999.797408
+Performance Study of Token-Passing Protocol for Traffic Multiplicity in Optical Networks.	S. Selvakennedy,Ashwani Kumar Ramani	10.1109/ICPP.1999.797441
+Algorithms for a Job-Scheduling Problem within a Parallel Digital Library.	Norbert Sensen	10.1109/ICPP.1999.797430
+Solving Temporal Constraint Networks with Qualitative Reasoning and Fuzzy Rules.	Timothy K. Shih,Anthony Y. Chang	10.1109/ICPP.1999.797424
+Configurable Complete Exchanges in 2D Torus-Connected Networks.	Young-Joo Suh,Kang G. Shin,Syungog An	10.1109/ICPP.1999.797432
+An Incremental Methodology for Parallelizing Legacy Stencil Codes on Message-Passing Computers.	N. S. Sundar,S. Jayanthi,P. Sadayappan,Miguel Visbal	10.1109/ICPP.1999.797416
+Mobile-Agents for Distributed Market Computing.	Shinji Tanaka,Hirofumi Yamaki,Toru Ishida 0001	10.1109/ICPP.1999.797435
+An Excursion to the Zoo of Dynamic Coterie-Based Replication Schemes.	Oliver E. Theel,Thomas Strauß	10.1109/ICPP.1999.797421
+Load Balancing in Counter-Rotated SONET Rings.	Peng-Jun Wan,Yuanyuan Yang 0001	10.1109/ICPP.1999.797443
+Parallel Algorithms for the Tree Bisector Problem and Applications.	Biing-Feng Wang,Shan-Chyun Ku,Keng-Hua Shi,Ting-Kai Hung,Pei-Sen Liu	10.1109/ICPP.1999.797404
+An Offline Algorithm for Dimension-Bound Analysis.	Paul A. S. Ward	10.1109/ICPP.1999.797397
+Characterization of Deadlocks in Irregular Networks.	Sugath Warnakulasuriya,Timothy Mark Pinkston	10.1109/ICPP.1999.797390
+Push-Pull Messaging: A High-Performance Communication Mechanism for Commodity SMP Clusters.	Kwan-Po Wong,Cho-Li Wang	10.1109/ICPP.1999.797383
+A Parallel Optimal Branch-and-Bound Algorithm for MIN-Based Multiprocessors.	Myung K. Yang,Chita R. Das	10.1109/ICPP.1999.797395
+Efficient Compositing Methods for the Sort-Last-Sparse Parallel Volume Rendering System on Distributed Memory Multicomputers.	Don-Lin Yang,Jen-Chih Yu,Yeh-Ching Chung	10.1109/ICPP.1999.797405
+The Index-Permutation Graph Model for Hierarchical Interconnection Networks.	Chi-Hsiang Yeh,Behrooz Parhami	10.1109/ICPP.1999.797387
+Routing and Embeddings in Cyclic Petersen Networks: An Efficient Extension of the Petersen Graph.	Chi-Hsiang Yeh,Behrooz Parhami	10.1109/ICPP.1999.797411
+Development and Application of a Distance Learning Support System Using Personal Computers via the Internet.	Takashi Yoshino 0001,Jun Munemori,Takaya Yuizono,Yoji Nagasawa,Shiro Ito,Kazutomo Yunokuchi	10.1109/ICPP.1999.797427
+Proceedings of the International Conference on Parallel Processing 1999, ICPP 1999, Wakamatsu, Japan, September 21-24, 1999		

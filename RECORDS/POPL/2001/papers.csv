@@ -1,0 +1,27 @@
+Mobile values, new names, and secure communication.	Martín Abadi,Cédric Fournet	10.1145/360204.360213
+What packets may come: automata for network monitoring.	Karthikeyan Bhargavan,Satish Chandra 0001,Peter J. McCann,Carl A. Gunter	10.1145/360204.360221
+Secure safe ambients.	Michele Bugliesi,Giuseppe Castagna	10.1145/360204.360223
+Stratified operational semantics for safety and correctness of the region calculus.	Cristiano Calcagno	10.1145/360204.360217
+Avoiding exponential explosion: generating compact verification conditions.	Cormac Flanagan,James B. Saxe	10.1145/360204.360220
+Efficient deductive methods for program analysis.	Harald Ganzinger	10.1145/360204.360212
+Subtyping arithmetical types.	Joseph Gil	10.1145/360204.360232
+Typing a multi-language intermediate code.	Andrew D. Gordon 0001,Don Syme	10.1145/360204.360228
+Regular expression pattern matching for XML.	Haruo Hosoya,Benjamin C. Pierce	10.1145/360204.360209
+A generic type system for the Pi-calculus.	Atsushi Igarashi,Naoki Kobayashi 0001	10.1145/360204.360215
+BI as an Assertion Language for Mutable Data Structures.	Samin S. Ishtiaq,Peter W. O&apos;Hearn	10.1145/360204.375719
+A compiler technique for improving whole-program locality.	Mahmut T. Kandemir	10.1145/360204.360219
+The size-change principle for program termination.	Chin Soon Lee,Neil D. Jones,Amir M. Ben-Amram	10.1145/360204.360210
+Computational flux.	Robin Milner	10.1145/360204.360222
+Programming language methods in computer security.	John C. Mitchell	10.1145/360204.360205
+An abstract Monte-Carlo method for the analysis of probabilistic programs.	David Monniaux	10.1145/360204.360211
+Oracle-based checking of untrusted software.	George C. Necula,Shree Prakash Rahul	10.1145/360204.360216
+Colored local type inference.	Martin Odersky,Christoph Zenger 0002,Matthias Zenger	10.1145/360204.360207
+Type-base flow analysis: from polymorphic subtyping to CFL-reachability.	Jakob Rehof,Manuel Fähndrich	10.1145/360204.360208
+Extensionality and Intensionality of the Ambient Logics.	Davide Sangiorgi	10.1145/360204.375707
+Modules, abstract types, and distributed versioning.	Peter Sewell	10.1145/360204.360225
+Type-indexed rows.	Mark Shields,Erik Meijer 0001	10.1145/360204.360230
+Nomadic pict: correct communication infrastructure for mobile computation.	Asis Unyapoth,Peter Sewell	10.1145/360204.360214
+Combining subsumption and binary methods: an object calculus with views.	Jerome Vouillon	10.1145/360204.360233
+Type-preserving garbage collectors.	Daniel C. Wang,Andrew W. Appel	10.1145/360204.360218
+Verifying safety properties of concurrent Java programs using 3-valued logic.	Eran Yahav	10.1145/360204.360206
+Conference Record of POPL 2001: The 28th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages, London, UK, January 17-19, 2001	Chris Hankin,Dave Schmidt	10.1145/360204

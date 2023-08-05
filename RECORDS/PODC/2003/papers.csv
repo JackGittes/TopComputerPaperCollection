@@ -1,0 +1,56 @@
+Asynchronous resource discovery.	Ittai Abraham,Danny Dolev	10.1145/872035.872055
+On implementing omega with weak reliability and synchrony assumptions.	Marcos Kawazoe Aguilera,Carole Delporte-Gallet,Hugues Fauconnier,Sam Toueg	10.1145/872035.872081
+On using network attached disks as shared memory.	Marcos Kawazoe Aguilera,Burkhard Englert,Eli Gafni	10.1145/872035.872082
+Scaling properties of the Internet graph.	Aditya Akella,Shuchi Chawla 0001,Arvind Kannan,Srinivasan Seshan	10.1145/872035.872087
+Distributed consensus in the presence of sectional faults.	S. Amitanand,I. Sanketh,K. Srinathan,Vinod Vaikuntanathan,C. Pandu Rangan	10.1145/872035.872065
+Cryptography and competition policy: issues with &apos;trusted computing&apos;.	Ross J. Anderson	10.1145/872035.872036
+Compact roundtrip routing with topology-independent node names.	Marta Arias,Lenore Cowen,Kofi A. Laing	10.1145/872035.872042
+Adapting to a reliable network path.	Baruch Awerbuch,Yishay Mansour	10.1145/872035.872090
+Peer-to-peer systems for prefix search.	Baruch Awerbuch,Christian Scheideler	10.1145/872035.872053
+Distributed error confinement.	Yossi Azar,Shay Kutten,Boaz Patt-Shamir	10.1145/872035.872041
+Proactive secure message transmission in asynchronous networks.	Michael Backes 0001,Christian Cachin,Reto Strobl	10.1145/872035.872069
+Brief announcement: efficient flooding in power-law networks.	Farnoush Banaei Kashani,Cyrus Shahabi	10.1145/872035.872086
+Automatic discovery of mutual exclusion algorithms.	Yoah Bar-David,Gadi Taubenfeld	10.1145/872035.872080
+Efficient reliable communication over partially authenticated networks.	Amos Beimel,Lior Malka	10.1145/872035.872070
+An asynchronous protocol for distributed computation of RSA inverses and its applications.	Christian Cachin	10.1145/872035.872058
+Brief announcement: building data structures on untrusted peer-to-peer storage with per-participant logs.	Benjie Chen,Thomer M. Gil,Athicha Muthitacharoen,Robert Tappan Morris	10.1145/872035.872073
+Scalable public-key tracing and revoking.	Yevgeniy Dodis,Nelly Fazio,Aggelos Kiayias,Moti Yung	10.1145/872035.872062
+On a network creation game.	Alex Fabrikant,Ankur Luthra,Elitza N. Maneva,Christos H. Papadimitriou,Scott Shenker	10.1145/872035.872088
+Brief announcement: efficient replication of large data objects.	Rui Fan 0004,Nancy A. Lynch	10.1145/872035.872085
+Brief announcement: early decision despite general process omission failures.	Fabrice Le Fessant,Philippe Raipin Parvédy,Michel Raynal	10.1145/872035.872068
+Efficient player-optimal protocols for strong and differential consensus.	Matthias Fitzi,Juan A. Garay	10.1145/872035.872066
+Brief announcement: an overview of the content-addressable network D2B.	Pierre Fraigniaud,Philippe Gauron	10.1145/872035.872056
+A new approach to on-demand loop-free routing in ad hoc networks.	J. J. Garcia-Luna-Aceves,Marc Mosko,Charles E. Perkins	10.1145/872035.872043
+Algorithms for dynamic multicast key distribution trees.	Justin Goshi,Richard E. Ladner	10.1145/872035.872071
+Brief announcement: deterministic skipnet.	Nicholas J. A. Harvey,J. Ian Munro	10.1145/872035.872057
+Operation-valency and the cost of coordination.	Danny Hendler,Nir Shavit	10.1145/872035.872047
+Software transactional memory for dynamic-sized data structures.	Maurice Herlihy,Victor Luchangco,Mark Moir,William N. Scherer III	10.1145/872035.872048
+tight bounds for k-set agreement with limited-scope failure detectors.	Maurice Herlihy,Lucia Draque Penso	10.1145/872035.872067
+Adaptive and efficient abortable mutual exclusion.	Prasad Jayanti	10.1145/872035.872079
+Efficient and practical constructions of LL/SC variables.	Prasad Jayanti,Srdjan Petrovic	10.1145/872035.872078
+Fair group mutual exclusion.	Prasad Jayanti,Srdjan Petrovic,King Tan	10.1145/872035.872077
+Adaptive AIMD congestion control.	Alexander Kesselman,Yishay Mansour	10.1145/872035.872089
+Broadcasting in undirected ad hoc radio networks.	Dariusz R. Kowalski,Andrzej Pelc	10.1145/872035.872045
+Performing work with asynchronous processors: message-delay-sensitive bounds.	Dariusz R. Kowalski,Alexander A. Shvartsman	10.1145/872035.872076
+Constant-time distributed dominating set approximation.	Fabian Kuhn,Roger Wattenhofer	10.1145/872035.872040
+Geometric ad-hoc routing: of theory and practice.	Fabian Kuhn,Roger Wattenhofer,Yan Zhang,Aaron Zollinger	10.1145/872035.872044
+Brief announcement: cluster-based control mechanism for communication networks.	Srikant Kuppa,Mansi Ramakrishnan Thoppian,Srinivasan Krishnamurthy,Subbarayan Venkatesan	10.1145/872035.872046
+Oblivious signature-based envelope.	Ninghui Li,Wenliang Du,Dan Boneh	10.1145/872035.872061
+Efficient revocation and threshold pairing based cryptosystems.	Benoît Libert,Jean-Jacques Quisquater	10.1145/872035.872059
+Brief announcement: impossibility results for concurrent secure two-party computation.	Yehuda Lindell	10.1145/872035.872063
+Working with mike on distributed computing theory, 1978--1992.	Nancy A. Lynch	10.1145/872035.872037
+A work-optimal deterministic algorithm for the asynchronous certified write-all problem.	Grzegorz Malewicz	10.1145/872035.872075
+Routing networks for distributed hash tables.	Gurmeet Singh Manku	10.1145/872035.872054
+Brief announcement: branching time refinement.	Panagiotis Manolios	10.1145/872035.872084
+A lattice-theoretic characterization of safety and liveness.	Panagiotis Manolios,Richard J. Trefler	10.1145/872035.872083
+Brief announcement: a method for exchanging valuable data: how to realize matching oblivious transfer.	Shin&apos;ichiro Matsuo,Wakaha Ogata	10.1145/872035.872064
+Simple and fast optimistic protocols for fair electronic exchange.	Silvio Micali	10.1145/872035.872038
+Scalable and dynamic quorum systems.	Moni Naor,Udi Wieder	10.1145/872035.872052
+Constructing fair-exchange protocols for E-commerce via distributed computation of RSA signatures.	Jung-Min Park 0001,Edwin K. P. Chong,Howard Jay Siegel	10.1145/872035.872060
+Brief announcement: extending SQL access control to derived and distributed data.	Arnon Rosenthal,Edward Sciore	10.1145/872035.872074
+Brief announcement: dynamic group communication.	André Schiper	10.1145/872035.872051
+Split-ordered lists: lock-free extensible hash tables.	Ori Shalev,Nir Shavit	10.1145/872035.872049
+Brief announcement: efficient perfectly secure communication over synchronous networks.	K. Srinathan,Vinod Vaikuntanathan,C. Pandu Rangan	10.1145/872035.872072
+Brief announcement: concurrent counting is harder than queuing.	Srikanta Tirthapura	10.1145/872035.872050
+Fischer&apos;s cryptographic protocols.	Rebecca N. Wright	10.1145/872035.872039
+Proceedings of the Twenty-Second ACM Symposium on Principles of Distributed Computing, PODC 2003, Boston, Massachusetts, USA, July 13-16, 2003	Elizabeth Borowsky,Sergio Rajsbaum	

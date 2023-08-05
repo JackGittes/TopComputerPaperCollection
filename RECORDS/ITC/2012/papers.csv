@@ -1,0 +1,71 @@
+Experiences with non-intrusive sensors for RF built-in test.	Louay Abdallah,Haralampos-G. D. Stratigopoulos,Salvador Mir,Christophe Kelma	10.1109/TEST.2012.6401587
+A dynamic programming solution for optimizing test delivery in multicore SOCs.	Mukesh Agrawal 0001,Michael Richter 0002,Krishnendu Chakrabarty	10.1109/TEST.2012.6401535
+FPGA-based synthetic instrumentation for board test.	Igor Aleksejev,Artur Jutman,Sergei Devadze,Sergei Odintsov,Thomas Wenzel	10.1109/TEST.2012.6401571
+DC temperature measurements for power gain monitoring in RF power amplifiers.	Josep Altet,Diego Mateo,Didac Gómez,Xavier Perpiñà,Miquel Vellvehí,Xavier Jordà	10.1109/TEST.2012.6401589
+&quot;Managing process variance in analog designs&quot;.	Eugene R. Atwood	10.1109/TEST.2012.6401527
+Making predictive analog/RF alternate test strategy independent of training set size.	Haithem Ayari,Florence Azaïs,Serge Bernard,Mariane Comte,Vincent Kerzerho,Olivier Potin,Michel Renovell	10.1109/TEST.2012.6401560
+Modeling, verification and pattern generation for reconfigurable scan networks.	Rafal Baranowski,Michael A. Kochte,Hans-Joachim Wunderlich	10.1109/TEST.2012.6401555
+On-chip diagnosis for early-life and wear-out failures.	Matthew Beckler,R. D. (Shawn) Blanton	10.1109/TEST.2012.6401580
+Are the IC guys helping or hindering board test?	Zoe Conroy	10.1109/TEST.2012.6401530
+Board assisted-BIST: Long and short term solutions for testpoint erosion - Reaching into the DFx toolbox.	Zoe Conroy,James J. Grealish,Harrison Miles,Anthony J. Suto,Alfred L. Crouch,Skip Meyers	10.1109/TEST.2012.6401572
+Low power test application with selective compaction in VLSI designs.	Dariusz Czysz,Janusz Rajski,Jerzy Tyszer	10.1109/TEST.2012.6401532
+Testing high-frequency and low-power designs: Do the standard rules and tools apply?	Scott Davidson	10.1109/TEST.2012.6401529
+DfT architecture and ATPG for Interconnect tests of JEDEC Wide-I/O memory-on-logic die stacks.	Sergej Deutsch,Brion L. Keller,Vivek Chickermane,Subhasish Mukherjee,Navdeep Sood,Sandeep Kumar Goel,Ji-Jan Chen,Ashok Mehta,Frank Lee,Erik Jan Marinissen	10.1109/TEST.2012.6401569
+On-die instrumentation to solve challenges for 28nm, 28Gbps timing variability and stressing.	Weichi Ding,Mingde Pan,Wilson Wong,Daniel Chow,Mike Peng Li,Sergey Y. Shumarayev	10.1109/TEST.2012.6401536
+A frequency measurement BIST implementation targeting gigahertz application.	Matthieu Dubois,Emeric de Foucauld,Christopher Mounet,Serigne Dia,Cedric Mayor	10.1109/TEST.2012.6401588
+A digital method for phase noise measurement.	Allan Ecker,Kenneth Blakkan,Mani Soma	10.1109/TEST.2012.6401537
+Improved volume diagnosis throughput using dynamic design partitioning.	Xiaoxin Fan,Huaxing Tang,Yu Huang 0005,Wu-Tung Cheng,Sudhakar M. Reddy,Brady Benware	10.1109/TEST.2012.6401564
+Adaptive test selection for post-silicon timing validation: A data mining approach.	Ming Gao,Peter Lisherness,Kwang-Ting (Tim) Cheng	10.1109/TEST.2012.6401540
+Are industrial test problems real problems? I thought research has resolved them all!	Xinli Gu	10.1109/TEST.2012.6401526
+Cell-aware Production test results from a 32-nm notebook processor.	Friedrich Hapke,Michael Reese,Jason Rivers,A. Over,V. Ravikumar,Wilfried Redemund,Andreas Glowatz,Jürgen Schlöffel,Janusz Rajski	10.1109/TEST.2012.6401533
+Calibration of a flexible high precision Power-On Reset during production test.	Gerald Hilber,Dominik Gruber,Michael Sams,Timm Ostermann	10.1109/TEST.2012.6401562
+Real-time testing method for 16 Gbps 4-PAM signal interface.	Masahiro Ishida,Kiyotaka Ichiyama,Daisuke Watanabe,Masayuki Kawabata,Toshiyuki Okayasu	10.1109/TEST.2012.6401524
+Power integrity control of ATE for emulating power supply fluctuations on customer environment.	Masahiro Ishida,Toru Nakura,Toshiyuki Kikkawa,Takashi Kusaka,Satoshi Komatsu,Kunihiro Asada	10.1109/TEST.2012.6401553
+RNA: Advanced phase tracking method for digital waveform reconstruction.	Takashi Ito,Hideo Okawara,Jinlei Liu	10.1109/TEST.2012.6401592
+Functional test content optimization for peak-power validation - An experimental study.	Vinayak Kamath,Wen Chen 0016,Nik Sumikawa,Li-C. Wang	10.1109/TEST.2012.6401586
+Multi-gigahertz arbitrary timing generator and data pattern serializer/formatter.	David C. Keezer,Te-Hui Chen,Carl Edward Gray,Hyun Woo Choi,Sungyeol Kim,Seongkwan Lee,Hosun Yoo	10.1109/TEST.2012.6401544
+Methodology for fault grading high speed I/O interfaces used in complex Graphics Processing Unit.	Animesh Khare,P. Kishore,S. Reddy,K. Rajan,A. Sanghani	10.1109/TEST.2012.6401585
+In-system constrained-random stimuli generation for post-silicon validation.	Adam B. Kinsman,Ho Fai Ko,Nicola Nicolici	10.1109/TEST.2012.6401541
+BS 1149.1 extensions for an online interconnect fault detection and recovery.	Somayeh Sadeghi Kohan,Majid Namaki-Shoushtari,Fatemeh Javaheri,Zainalabedin Navabi	10.1109/TEST.2012.6401583
+8Gbps CMOS pin electronics hardware macro with simultaneous bi-directional capability.	Shoji Kojima,Yasuyuki Arai,Tasuku Fujibe,Tsuyoshi Ataka,Atsushi Ono,Ken-ichi Sawada,Daisuke Watanabe	10.1109/TEST.2012.6401543
+Spatial estimation of wafer measurement parameters using Gaussian process models.	Nathan Kupp,Ke Huang 0001,John M. Carulli Jr.,Yiorgos Makris	10.1109/TEST.2012.6401545
+Integrated optimization of semiconductor manufacturing: A machine learning approach.	Nathan Kupp,Yiorgos Makris	10.1109/TEST.2012.6401531
+Test/ATE vision 2020 - Entrepreneurship in test CEO panel.	Ken Lanier	10.1109/TEST.2012.6401525
+Event-driven framework for configurable runtime system observability for SOC designs.	Jong Chul Lee,Faycel Kouteib,Roman Lysecky	10.1109/TEST.2012.6401554
+Design validation of RTL circuits using evolutionary swarm intelligence.	Min Li 0013,Kelson Gent,Michael S. Hsiao	10.1109/TEST.2012.6401556
+A unified method for parametric fault characterization of post-bond TSVs.	Yu-Hsiang Lin,Shi-Yu Huang,Kun-Han Tsai,Wu-Tung Cheng,Stephen K. Sunter	10.1109/TEST.2012.6401566
+On efficient silicon debug with flexible trace interconnection fabric.	Xiao Liu 0011,Qiang Xu 0001	10.1109/TEST.2012.6401539
+On modeling faults in FinFET logic circuits.	Yuxi Liu,Qiang Xu 0001	10.1109/TEST.2012.6401565
+Vulnerability-based Interleaving for Multi-Bit Upset (MBU) protection in modern microprocessors.	Michail Maniatakos,Maria K. Michael,Yiorgos Makris	10.1109/TEST.2012.6401594
+The DFT challenges and solutions for the ARM® Cortex™-A15 Microprocessor.	Teresa L. McLaurin,Frank Frederick,Rich Slobodnik	10.1109/TEST.2012.6401534
+FALCON: Rapid statistical fault coverage estimation for complex designs.	Shahrzad Mirkhani,Jacob A. Abraham,Toai Vo,Hong Shin Jun,Bill Eklow	10.1109/TEST.2012.6401584
+A design flow to maximize yield/area of physical devices via redundancy.	Mohammad Mirza-Aghatabar,Melvin A. Breuer,Sandeep K. Gupta	10.1109/TEST.2012.6401582
+Low cost high-speed test data acquisition: Accurate period estimation driven signal reconstruction using incoherent subsampling.	Thomas Moon,Hyun Woo Choi,Abhijit Chatterjee	10.1109/TEST.2012.6401591
+Driver sharing challenges for DDR4 high-volume testing with ATE.	Jose Moreira,Marc Moessinger,Koji Sasaki,Takayuki Nakamura	10.1109/TEST.2012.6401542
+Improving test compression by retaining non-pivot free variables in sequential linear decompressors.	Sreenivaas S. Muthyala,Nur A. Touba	10.1109/TEST.2012.6401557
+An ATE architecture for implementing very high efficiency concurrent testing.	Takahiro Nakajima,Takeshi Yaguchi,Hajime Sugimura	10.1109/TEST.2012.6401551
+How are failure modes, defect types and test methods changing for 32nm/28nm technologies and beyond?	Phil Nigh	10.1109/TEST.2012.6401528
+Scan test of die logic in 3D ICs using TSV probing.	Brandon Noia,Shreepad Panth,Krishnendu Chakrabarty,Sung Kyu Lim	10.1109/TEST.2012.6401568
+Capacitive sensing testability in complex memory devices.	Kenneth P. Parker	10.1109/TEST.2012.6401570
+Packet-based JTAG for remote testing.	Michele Portolan	10.1109/TEST.2012.6401573
+DART: Dependable VLSI test architecture and its implementation.	Yasuo Sato,Seiji Kajihara,Tomokazu Yoneda,Kazumi Hatayama,Michiko Inoue,Yukiya Miura,Satosni Untake,Takumi Hasegawa,Motoyuki Sato,Kotaro Shimamura	10.1109/TEST.2012.6401581
+Functional test of small-delay faults using SAT and Craig interpolation.	Matthias Sauer 0002,Stefan Kupferschmid,Alexander Czutro,Ilia Polian,Sudhakar M. Reddy,Bernd Becker 0001	10.1109/TEST.2012.6401550
+Systematic defect screening in controlled experiments using volume diagnosis.	B. Seshadri,P. Gupta,Y. T. Lin,B. Cory	10.1109/TEST.2012.6401546
+Impact of Radial defect clustering on 3D stacked IC yield from wafer to wafer stacking.	Eshan Singh	10.1109/TEST.2012.6401567
+Low power programmable PRPG with enhanced fault coverage gradient.	Jedrzej Solecki,Jerzy Tyszer,Grzegorz Mrugalski,Nilanjan Mukherjee 0001,Janusz Rajski	10.1109/TEST.2012.6401559
+Root cause identification of an hard-to-find on-chip power supply coupling fail.	Franco Stellari,Thomas Cowell,Peilin Song,Michael Sorna,Zeynep Toprak Deniz,John F. Bulzacchelli,Nandita A. Mitra	10.1109/TEST.2012.6401563
+Screening customer returns with multivariate test analysis.	Nik Sumikawa,Jeff Tikkanen,Li-C. Wang,LeRoy Winemberg,Magdy S. Abadir	10.1109/TEST.2012.6401547
+An experiment of burn-in time reduction based on parametric test analysis.	Nik Sumikawa,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2012.6401595
+Low-cost wideband periodic signal reconstruction using incoherent undersampling and back-end cost optimization.	Nicholas Tzou,Debesh Bhatta,Sen-Wen Hsiao,Hyun Woo Choi,Abhijit Chatterjee	10.1109/TEST.2012.6401552
+Automated system level functional test program generation on ATE from EDA using Functional Test Abstraction.	Motoo Ueda,Shinichi Ishikawa,Masaru Goishi,Satoru Kitagawa,Hiroshi Araki,Shuichi Inage	10.1109/TEST.2012.6401590
+Higher than Nyquist test waveform synthesis and digital phase noise injection using time-interleaved mixed-mode data converters.	Xian Wang 0003,Hyun Woo Choi,Thomas Moon,Nicholas Tzou,Abhijit Chatterjee	10.1109/TEST.2012.6401538
+Radic: A standard-cell-based sensor for on-chip aging and flip-flop metastability measurements.	Xiaoxiao Wang 0001,Dat Tran,Saji George,LeRoy Winemberg,Nisar Ahmed,Steve Palosh,Allan Dobin,Mohammad Tehranipoor	10.1109/TEST.2012.6401593
+On pinpoint capture power management in at-speed scan test generation.	Xiaoqing Wen,Y. Nishida,Kohei Miyase,Seiji Kajihara,Patrick Girard 0001,Mohammad Tehranipoor,Laung-Terng Wang	10.1109/TEST.2012.6401548
+Hybrid selector for high-X scan compression.	Peter Wohl,John A. Waicukauski,Frederic Neuveux,Jonathon E. Colburn	10.1109/TEST.2012.6401558
+A memory yield improvement scheme combining built-in self-repair and error correction codes.	Tze-Hsin Wu,Po-Yuan Chen,Mincent Lee,Bin-Yen Lin,Cheng-Wen Wu,Chen-Hung Tien,Hung-Chih Lin,Hao Chen 0053,Ching-Nen Peng,Min-Jer Wang	10.1109/TEST.2012.6401576
+A fast and accurate per-cell dynamic IR-drop estimation method for at-speed scan test pattern validation.	Yuta Yamato,Tomokazu Yoneda,Kazumi Hatayama,Michiko Inoue	10.1109/TEST.2012.6401549
+Testing strategies for a 9T sub-threshold SRAM.	Hao-Yu Yang,Chen-Wei Lin,Hung-Hsin Chen,Mango Chia-Tso Chao,Ming-Hsien Tu,Shyh-Jye Jou,Ching-Te Chuang	10.1109/TEST.2012.6401577
+A built-in self-test scheme for 3D RAMs.	Yun-Chao You,Che-Wei Chou,Jin-Fu Li,Chih-Yen Lo,Ding-Ming Kwai,Yung-Fa Chou,Cheng-Wen Wu	10.1109/TEST.2012.6401579
+Algorithm for dramatically improved efficiency in ADC linearity test.	Zhongjun Yu,Degang Chen 0001	10.1109/TEST.2012.6401561
+Low-power SRAMs power mode control logic: Failure analysis and test solutions.	Leonardo Bonet Zordan,Alberto Bosio,Luigi Dilillo,Patrick Girard 0001,Aida Todri,Arnaud Virazel,Nabil Badereddine	10.1109/TEST.2012.6401578
+2012 IEEE International Test Conference, ITC 2012, Anaheim, CA, USA, November 5-8, 2012		

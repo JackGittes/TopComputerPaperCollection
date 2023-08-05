@@ -1,0 +1,40 @@
+A few ways can take you a long way: Efficient and highly associative caches with scalable partitioning for many-core CMPs.	Daniel Sánchez 0003,Christos Kozyrakis	10.1109/HOTCHIPS.2011.7477514
+Fully integrated switched-capacitor DC-DC conversion.	Elad Alon,Hanh-Phuc Le,Seth Sanders	10.1109/HOTCHIPS.2011.7477482
+Efficient fetch mechanism by employing instruction register.	Mochamad Asri	10.1109/HOTCHIPS.2011.7477517
+Tessellation operating system: Building a real-time, responsive, high-throughput client OS for many-core architectures.	Juan A. Colmenares,Sarah Bird,Gage Eads,Steven A. Hofmeyr,Albert Kim,Rohit Poddar,Hilfi Alkaff,Krste Asanovic,John Kubiatowicz	10.1109/HOTCHIPS.2011.7477518
+Challenges of building personal robots.	Steve Cousins	10.1109/HOTCHIPS.2011.7477513
+Intel&apos;s digital random number generator (DRNG).	George Cox,Charles Dike,D. J. Johnston	10.1109/HOTCHIPS.2011.7477490
+One billion packet per second frame processing pipeline.	Mike Davies	10.1109/HOTCHIPS.2011.7477502
+Rethinking algorithms for future architectures: Communication-avoiding algorithms.	Jim Demmel	10.1109/HOTCHIPS.2011.7477498
+SeaMicro SM10000-64 server: Building datacenter servers using cell phone chips.	Ashutosh Dhodapkar,Gary Lauterbach,Sean Lie,Dhiraj Mallick,Jim Bauman,Sundar Kanthadai,Toru Kuzuhara,Gene Shen,Min Xu,Chris Zhang	10.1109/HOTCHIPS.2011.7477504
+High-efficient architecture of Godson-T many-core processor.	Dongrui Fan,Hao Zhang 0009,Da Wang,Xiaochun Ye,Fenglong Song,Junchao Zhang,Lingjun Fan	10.1109/HOTCHIPS.2011.7477489
+AMD&apos;S &quot;LLANO&quot; Fusion APU.	Denis Foley,Maurice Steinman,Alexander Branover,Greg Smaus,Antonio Asaro,Swamy Punyamurtula,Ljubisa Bajic	10.1109/HOTCHIPS.2011.7477511
+Sereno: A second generation virtualized network interface controller.	Mike Galles,Shrijeet Mukherjee	10.1109/HOTCHIPS.2011.7477503
+Integrated inductors with magnetic materials for on-chip power conversion.	Donald S. Gardner,Gerhard Schrom,Fabrice Paillet,Tanay Karnik,Shekhar Borkar	10.1109/HOTCHIPS.2011.7477481
+T4: A highly threaded server-on-a-chip with native support for heterogeneous computing.	Robert T. Golla,Paul J. Jordan	10.1109/HOTCHIPS.2011.7477506
+The Blue Gene/Q Compute chip.	Ruud A. Haring	10.1109/HOTCHIPS.2011.7477488
+The utility of fast active messages on many-core chips: Efficient supercomputing project.	R. Curtis Harting,Vishal Parikh,William J. Dally	10.1109/HOTCHIPS.2011.7477516
+The Intel® Quick Sync Video technology in the 2nd-generation Intel Core processor family.	Hong Jiang	10.1109/HOTCHIPS.2011.7477508
+The Cavium 32 Core OCTEON II 68xx.	Richard E. Kessler	10.1109/HOTCHIPS.2011.7477487
+Practical power gating and dynamic voltage/frequency scaling.	Stephen Kosonocky	10.1109/HOTCHIPS.2011.7477480
+The Maven vector-thread architecture.	Yunsup Lee,Rimas Avizienis,Alex Bishara,Richard Xia,Derek Lockhart,Christopher Batten,Krste Asanovic	10.1109/HOTCHIPS.2011.7477519
+2nd Generation Intel® Core Processor Family: Intel® Core i7, i5 and i3.	Oded Lempel	10.1109/HOTCHIPS.2011.7477509
+Facebook: Server board design.	Harry Li	10.1109/HOTCHIPS.2011.7477485
+XMOS architecture XS1 chips.	David May 0006	10.1109/HOTCHIPS.2011.7477496
+Facebook: The open compute project.	Amir Michael	10.1109/HOTCHIPS.2011.7477483
+Bandwidth engine® serial memory chip breaks 2 billion accesses/sec.	Michael J. Miller	10.1109/HOTCHIPS.2011.7477493
+1TOPS/W software programmable media processor.	David Moloney	10.1109/HOTCHIPS.2011.7477507
+Building a 40 Gbps next generation virtualized security processor: HOT CHIPS 23 - August 2011.	Jeff Pangborn	10.1109/HOTCHIPS.2011.7477492
+Hybrid memory cube (HMC).	J. Thomas Pawlowski	10.1109/HOTCHIPS.2011.7477494
+Xilinx Zynq-7000 EPP: An extensible processing platform family.	Vidya Rajagopalan,Vamsi Boppana,Sandeep Dutta,Brad Taylor,Ralph Wittig	10.1109/HOTCHIPS.2011.7477495
+TILE-Gx100 ManyCore processor: Acceleration interfaces and architecture.	Carl Ramey	10.1109/HOTCHIPS.2011.7477491
+Power management architecture of the 2nd generation Intel® Core microarchitecture, formerly codenamed Sandy Bridge.	Efi Rotem,Alon Naveh,Doron Rajwan,Avinash Ananthakrishnan,Eliezer Weissmann	10.1109/HOTCHIPS.2011.7477510
+The world&apos;s fastest DSP core: Breaking the 100 GMAC/s barrier.	Chris Rowen,Dan Nicolaescu,Rajiv Ravindran,David Heine,Grant Martin,James Kim,Dror E. Maydan,Nupur Andrews,Bill Huffman,Vakis Papaparaskeva,Shay Gal-On,Peter R. Nuth,Pushkar Patwardhan,Manish Paradkar	10.1109/HOTCHIPS.2011.7477497
+Facebook: Efficient power distribution: 277Vac distribution w/o centralized UPS 95% high efficiency solution battery cabinet as distributed backup energy unit.	Pierluigi Sarti	10.1109/HOTCHIPS.2011.7477486
+ARM processor evolution: Bringing high performance to mobile devices.	Simon Segars	10.1109/HOTCHIPS.2011.7477500
+VENICE: A compact vector processor for FPGA applications.	Aaron Severance,Guy Lemieux	10.1109/HOTCHIPS.2011.7477515
+Low-power high-density 10GBASE-T ethernet transceiver.	Ramin Shirani,Ramin Farjadrad	10.1109/HOTCHIPS.2011.7477501
+Poulson: An 8 core 32 nm next generation Intel® Itanium® processor.	Steven R. Undy	10.1109/HOTCHIPS.2011.7477505
+High-performance power-efficient x86-64 server and desktop processors using the core codenamed &quot;Bulldozer&quot;.	Sean White	10.1109/HOTCHIPS.2011.7477512
+Electrons, photons, phonons, wave, bits, and industrial design: Microsoft kinect sensor: Hot chips 23.	Dawson Yee,Scott McEldowney	10.1109/HOTCHIPS.2011.7477499
+2011 IEEE Hot Chips 23 Symposium (HCS), Stanford, CA, USA, August 17-19, 2011		

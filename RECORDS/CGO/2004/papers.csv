@@ -1,0 +1,26 @@
+Improving 64-Bit Java IPF Performance by Compressing Heap References.	Ali-Reza Adl-Tabatabai,Jay Bharadwaj,Michal Cierniak,Marsha Eng,Jesse Fang,Brian T. Lewis,Brian R. Murphy,James M. Stichnoth	10.1109/CGO.2004.1281667
+Specialized Dynamic Optimizations for High-Performance Energy-Efficient Microarchitecture.	Yoav Almog,Roni Rosner,Naftali Schwartz,Ari Schmorak	10.1109/CGO.2004.1281670
+Software-Controlled Operand-Gating.	Ramon Canal,Antonio González 0001,James E. Smith 0001	10.1109/CGO.2004.1281669
+A Compiler Scheme for Reusing Intermediate Computation Results.	Yonghua Ding,Zhiyuan Li 0001	10.1109/CGO.2004.1281681
+VHC: Quickly Building an Optimizer for Complex Embedded Architectures.	Michael Dupré,Nathalie Drach,Olivier Temam	10.1109/CGO.2004.1281663
+Exploring Code Cache Eviction Granularities in Dynamic Optimization Systems.	Kim M. Hazelwood,James E. Smith	10.1109/CGO.2004.1281666
+Using Dynamic Binary Translation to Fuse Dependent Instructions.	Shiliang Hu,James E. Smith 0001	10.1109/CGO.2004.1281676
+Targeted Path Profiling: Lower Overhead Path Profiling for Staged Dynamic Optimization Systems.	Rahul Joshi,Michael D. Bond,Craig B. Zilles	10.1109/CGO.2004.1281678
+Physical Experimentation with Prefetching Helper Threads on Intel&apos;s Hyper-Threaded Processors.	Dongkeun Kim,Shih-Wei Liao,Perry H. Wang,Juan del Cuvillo,Xinmin Tian,Xiang Zou,Hong Wang 0003,Donald Yeung,Milind Girkar,John Paul Shen	10.1109/CGO.2004.1281661
+FLASH: Foresighted Latency-Aware Scheduling Heuristic for Processors with Customized Datapaths.	Manjunath Kudlur,Kevin Fan,Michael L. Chu,Rajiv A. Ravindran,Nathan Clark,Scott A. Mahlke	10.1109/CGO.2004.1281675
+LLVM: A Compilation Framework for Lifelong Program Analysis &amp; Transformation.	Chris Lattner,Vikram S. Adve	10.1109/CGO.2004.1281665
+A Dynamically Tuned Sorting Library.	Xiaoming Li,María Jesús Garzarán,David A. Padua	10.1109/CGO.2004.1281668
+Ispike: A Post-link Optimizer for the Intel®Itanium®Architecture.	Chi-Keung Luk,Robert Muth,Harish Patil,Robert S. Cohn,P. Geoffrey Lowney	10.1109/CGO.2004.1281660
+SYZYGY - A Framework for Scalable Cross-Module IPO.	Sungdo Moon,Xinliang D. Li,Robert Hundt,Dhruva R. Chakrabarti,Luis A. Lozano,Uma Srinivasan,Shin-Ming Liu	10.1109/CGO.2004.1281664
+Static Identification of Delinquent Loads.	Vlad-Mihai Panait,Amit Sasturkar,Weng-Fai Wong	10.1109/CGO.2004.1281683
+Optimizing Translation Out of SSA Using Renaming Constraints.	Fabrice Rastello,François de Ferrière,Christophe Guillon	10.1109/CGO.2004.1281680
+Code Generation for Single-Dimension Software Pipelining of Multi-Dimensional Loops.	Hongbo Rong,Alban Douillet,Ramaswamy Govindarajan,Guang R. Gao	10.1109/CGO.2004.1281673
+Single-Dimension Software Pipelining for Multi-Dimensional Loops.	Hongbo Rong,Zhizhong Tang,Ramaswamy Govindarajan,Alban Douillet,Guang R. Gao	10.1109/CGO.2004.1281672
+Probabilistic Predicate-Aware Modulo Scheduling.	Mikhail Smelyanskiy,Scott A. Mahlke,Edward S. Davidson	10.1109/CGO.2004.1281671
+Custom Data Layout for Memory Parallelism.	Byoungro So,Mary W. Hall,Heidi E. Ziegler	10.1109/CGO.2004.1281682
+Extending Path Profiling across Loop Backedges and Procedure Boundaries.	Sriraman Tallam,Xiangyu Zhang 0001,Rajiv Gupta 0001	10.1109/CGO.2004.1281679
+Exploring the Performance Potential of Itanium® Processors with ILP-based Scheduling.	Sebastian Winkel	10.1109/CGO.2004.1281674
+The Accuracy of Initial Prediction in Two-Phase Dynamic Binary Translators.	Youfeng Wu,Maurício Breternitz Jr.,Justin Quek,Orna Etzion,Jesse Fang	10.1109/CGO.2004.1281677
+Exposing Memory Access Regularities Using Object-Relative Memory Profiling.	Qiang Wu,Artem Pyatakov,Alexey Spiridonov,Easwaran Raman,Douglas W. Clark,David I. August	10.1109/CGO.2004.1281684
+Compiler Optimization of Memory-Resident Value Communication Between Speculative Threads.	Antonia Zhai,Christopher B. Colohan,J. Gregory Steffan,Todd C. Mowry	10.1109/CGO.2004.1281662
+2nd IEEE / ACM International Symposium on Code Generation and Optimization (CGO 2004), 20-24 March 2004, San Jose, CA, USA		

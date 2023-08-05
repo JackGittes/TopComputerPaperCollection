@@ -1,0 +1,75 @@
+A Complexity-Effective Simultaneous Multithreading Architecture.	Carmelo Acosta,Ayose Falcón,Alex Ramírez,Mateo Valero	10.1109/ICPP.2005.7
+On the Architectural Requirements for Efficient Execution of Graph Algorithms.	David A. Bader,Guojing Cong,John Feo	10.1109/ICPP.2005.55
+Design and Implementation of Overlay Multicast Protocol for Multimedia Streaming.	Thilmee M. Baduge,Akihito Hiromori,Hirozumi Yamaguchi,Teruo Higashino	10.1109/ICPP.2005.30
+Embedding a Cluster-Based Overlay Mesh in Mobile Ad Hoc Networks without Cluster Heads.	Amit Banerjee,Chung-Ta King,Hung-Chang Hsiao	10.1109/ICPP.2005.36
+An ACO-Based Approach for Scheduling Task Graphs with Communication Costs.	Markus Bank,Udo Hönig,Wolfram Schiffmann	10.1109/ICPP.2005.18
+Automatic Experimental Analysis of Communication Patterns in Virtual Topologies.	Nikhil Bhatia,Fengguang Song,Felix Wolf 0001,Jack J. Dongarra,Bernd Mohr,Shirley Moore	10.1109/ICPP.2005.21
+Low Overhead High Performance Runtime Monitoring of Collective Communication.	Lars Ailo Bongo,Otto J. Anshus,John Markus Bjørndalen	10.1109/ICPP.2005.50
+Integrated Performance Monitoring of a Cosmology Application on Leading HEC Platforms.	Julian Borrill,Jonathan Carter,Leonid Oliker,David Skinner,Rupak Biswas	10.1109/ICPP.2005.47
+A Task Duplication Based Scheduling Algorithm Using Partial Schedules.	Doruk Bozdag,Füsun Özgüner,Eylem Ekici,Ümit V. Çatalyürek	10.1109/ICPP.2005.15
+A Preliminary Analysis of the MPI Queue Characteristics of Several Applications.	Ron Brightwell,Sue Goudy,Keith D. Underwood	10.1109/ICPP.2005.13
+Caching Routing Indices in Structured P2P Overlays.	Hailong Cai,Jun Wang 0001	10.1109/ICPP.2005.23
+A Peer-to-Peer Replica Management Service for High-Throughput Grids.	Antony Chazapis,Antonis Zissimos,Nectarios Koziris	10.1109/ICPP.2005.12
+Efficient Switching Supports of Distributed .NET Remoting with Network Processors.	Chung-Kai Chen,Yu-Hao Chang,Cheng-Wei Chen,Yu-Tin Chen,Chih-Chieh Yang,Jenq Kuen Lee	10.1109/ICPP.2005.35
+Multiprocessor Energy-Efficient Scheduling for Real-Time Tasks with Different Power Characteristics.	Jian-Jia Chen,Tei-Wei Kuo	10.1109/ICPP.2005.53
+Fast Barriers for Scalable ccNUMA Systems.	Liqun Cheng,John B. Carter	10.1109/ICPP.2005.39
+A Utility-Based Two Level Market Solution for Optimal Resource Allocation in Computational Grid.	Chunlin Li 0001,Layuan Li	10.1109/ICPP.2005.16
+Distributed Queue-Based Locking Using Advanced Network Features.	Ananth Devulapalli,Pete Wyckoff	10.1109/ICPP.2005.34
+Filter Decomposition for Supporting Coarse-Grained Pipelined Parallelism.	Wei Du,Gagan Agrawal	10.1109/ICPP.2005.42
+Performance Evaluation of the SGI Altix 3700.	Thomas H. Dunigan,Jeffrey S. Vetter,Patrick H. Worley	10.1109/ICPP.2005.61
+An Empirical Approach for Efficient All-to-All Personalized Communication on Ethernet Switched Clusters.	Ahmad Faraj,Xin Yuan 0001	10.1109/ICPP.2005.19
+Service Migration in Distributed Virtual Machines for Adaptive Grid Computing.	Song Fu,Cheng-Zhong Xu 0001	10.1109/ICPP.2005.71
+PFED: A Prediction-Based Fair Active Queue Management Algorithm.	Wenyu Gao,Jianxin Wang 0001,Jianer Chen,Songqiao Chen	10.1109/ICPP.2005.63
+A C/S and P2P Hybrid Resource Discovery Framework in Grid Environments.	Yili Gong,Wei Li 0008,Yuzhong Sun,Zhiwei Xu 0002	10.1109/ICPP.2005.5
+Session-Based Adaptive Overload Control for Secure Dynamic Web Applications.	Jordi Guitart,David Carrera 0001,Vicenç Beltran 0001,Jordi Torres,Eduard Ayguadé	10.1109/ICPP.2005.72
+PeerWindow: An Efficient, Heterogeneous, and Autonomic Node Collection Protocol.	Jinfeng Hu,Ming Li,Hongliang Yu,Haitao Dong,Weimin Zheng	10.1109/ICPP.2005.60
+Distributed Access Control in CROWN Groups.	Jinpeng Huai,Yu Zhang,Xianxian Li,Yunhao Liu 0001	10.1109/ICPP.2005.33
+Performance Evaluation of View-Oriented Parallel Programming.	Zhiyi Huang 0001,Martin K. Purvis,Paul Werstein	10.1109/ICPP.2005.62
+Design and Implementation of a Parallel Performance Data Management Framework.	Kevin A. Huck,Allen D. Malony,Robert Bell,Alan Morris	10.1109/ICPP.2005.29
+Supporting the Sockets Interface over User-Level Communication Architecture: Design Issues and Performance Comparisons.	Jae-Wan Jang,Jin-Soo Kim 0001	10.1109/ICPP.2005.75
+A New Fault Information Model for Fault-Tolerant Adaptive and Minimal Routing in 3-D Meshes.	Zhen Jiang,Jie Wu 0001,Dajin Wang	10.1109/ICPP.2005.9
+Peak Power Control for a QoS Capable On-Chip Network.	Yuho Jin,Eun Jung Kim 0001,Ki Hwan Yum	10.1109/ICPP.2005.59
+LiMIC: Support for High-Performance MPI Intra-node Communication on Linux Cluster.	Hyun-Wook Jin,Sayantan Sur,Lei Chai,Dhabaleswar K. Panda 0001	10.1109/ICPP.2005.48
+Clustered DBMS Scalability under Unified Ethernet Fabric.	Krishna Kant 0001,Amit Sahoo	10.1109/ICPP.2005.24
+Exploring Processor Design Options for Java-Based Middleware.	Martin Karlsson,Erik Hagersten,Kevin E. Moore,David A. Wood 0001	10.1109/ICPP.2005.38
+Push-Pull: Guided Search DAG Scheduling for Heterogeneous Clusters.	Sang Cheol Kim,Sunggu Lee	10.1109/ICPP.2005.66
+Construction and Compression of Complete Call Graphs for Post-Mortem Program Trace Analysis.	Andreas Knüpfer,Wolfgang E. Nagel	10.1109/ICPP.2005.28
+Considering the Relative Importance of Network Performance and Network Features.	William Lawry,Keith D. Underwood	10.1109/ICPP.2005.26
+A Hybrid Searching Scheme in Unstructured P2P Networks.	Xiuqi Li,Jie Wu 0001	10.1109/ICPP.2005.8
+Single Path Flooding Chain Routing in Ad Hoc Networks.	Ming Ma,Chi Ma,Yuanyuan Yang 0001	10.1109/ICPP.2005.73
+Constructing Battery-Aware Virtual Backbones in Sensor Networks.	Chi Ma,Yuanyuan Yang 0001,Zhenghao Zhang	10.1109/ICPP.2005.27
+Scheduling Data Flow Applications Using Linear Programming.	Luiz Thomaz do Nascimento,Renato Ferreira 0001,Wagner Meira Jr.,Dorgival Olavo Guedes Neto	10.1109/ICPP.2005.70
+Stimulus-Based Adaptive Sleeping for Wireless Sensor Networks.	Hoilun Ngan,Yanmin Zhu,Lionel M. Ni,Renyi Xiao	10.1109/ICPP.2005.74
+VLAN-Based Minimal Paths in PC Cluster with Ethernet on Mesh and Torus.	Tomohiro Otsuka,Michihiro Koibuchi,Akiya Jouraku,Hideharu Amano	10.1109/ICPP.2005.79
+Incremental Parallelization Using Navigational Programming: A Case Study.	Lei Pan 0001,Wenhui Zhang 0001,Arthur U. Asuncion,Ming Kin Lai,Michael B. Dillencourt,Lubomir Bic	10.1109/ICPP.2005.46
+A Vector-µSIMD-VLIW Architecture for Multimedia Applications.	Esther Salamí,Mateo Valero	10.1109/ICPP.2005.17
+A New Service Classification Strategy in Hybrid Scheduling to Support Differentiated QoS in Wireless Data Networks.	Navrati Saxena,Kalyan Basu,Sajal K. Das 0001,Maria Cristina Pinotti	10.1109/ICPP.2005.10
+Locality-Aware Randomized Load Balancing Algorithms for DHT Networks.	Haiying Shen,Cheng-Zhong Xu 0001	10.1109/ICPP.2005.49
+Scalability of Heterogeneous Computing.	Xian-He Sun,Yong Chen 0001,Ming Wu 0006	10.1109/ICPP.2005.69
+A Smart TCP Socket for Distributed Computing.	Shao Tao,Akkihebbal L. Ananda	10.1109/ICPP.2005.14
+A Novel Approach for Detecting Heap-Based Loop-Carried Dependences.	Adrian Tineo,Francisco Corbera,Angeles G. Navarro,Rafael Asenjo,Emilio L. Zapata	10.1109/ICPP.2005.11
+On Mapping Multidimensional Weak Tori on Optical Slab Waveguides.	Ramachandran Vaidyanathan,Karthik Sethuraman	10.1109/ICPP.2005.54
+Differentiated Search in Hierarchical Peer-to-Peer Networks.	Chen Wang 0010,Li Xiao 0001,Pei Zheng	10.1109/ICPP.2005.32
+Heuristics for Profile-Driven Method-Level Speculative Parallelization.	John Whaley,Christos Kozyrakis	10.1109/ICPP.2005.44
+Tuning High Performance Kernels through Empirical Compilation.	R. Clint Whaley,David B. Whalley	10.1109/ICPP.2005.77
+Optimizing Collective Communications on SMP Clusters.	Meng-Shiou Wu,Ricky A. Kendall,Kyle Wright	10.1109/ICPP.2005.56
+Message from the General Co-Chairs.		10.1109/ICPP.2005.51
+Message from the Program Co-Chairs.		10.1109/ICPP.2005.52
+Organizing Committee.		10.1109/ICPP.2005.57
+Program Committee.		10.1109/ICPP.2005.64
+Reviewers.		10.1109/ICPP.2005.67
+Fault-Tolerant Routing in Meshes/Tori Using Planarly Constructed Fault Blocks.	Dong Xiang,Jia-Guang Sun,Jie Wu 0001,Krishnaiyan Thulasiraman	10.1109/ICPP.2005.40
+SAREC: A Security-Aware Scheduling Strategy for Real-Time Applications on Clusters.	Tao Xie 0004,Xiao Qin 0001,Andrew H. Sung	10.1109/ICPP.2005.68
+Enabling Loop Fusion and Tiling for Cache Performance by Fixing Fusion-Preventing Data Dependences.	Jingling Xue,Qingguang Huang,Minyi Guo	10.1109/ICPP.2005.37
+Parallel Algorithm and Implementation for Realtime Dynamic Simulation of Power System.	Wei Xue,Jiwu Shu,Yongwei Wu,Weimin Zheng	10.1109/ICPP.2005.58
+Connected k-Hop Clustering in Ad Hoc Networks.	Shuhui Yang,Jie Wu 0001,Jiannong Cao 0001	10.1109/ICPP.2005.25
+Toward Effective NIC Caching: A Hierarchical Data Cache Architecture for iSCSI Storage Servers.	Xiaoyu Yao,Jun Wang 0001	10.1109/ICPP.2005.76
+Impact of Exploiting Load Imbalance on Coscheduling in Workstation Clusters.	Jung-Lok Yu,Driss Azougagh,Jin-Soo Kim 0001,Seung Ryoul Maeng	10.1109/ICPP.2005.45
+BluePower - A New Distributed Multihop Scatternet Formation Protocol for Bluetooth Networks.	Yuanrui Zhang,Shu Liu,Weijia Jia 0001,Xu Cheng 0001	10.1109/ICPP.2005.22
+Provisioning Virtual Private Networks in the Hose Model with Delay Requirements.	Lei Zhang,Jogesh K. Muppala,Samuel T. Chanson	10.1109/ICPP.2005.65
+Two-Tier Resource Allocation for Slowdown Differentiation on Server Clusters.	Xiaobo Zhou 0002,Yu Cai,C. Edward Chow,Marijke F. Augusteijn	10.1109/ICPP.2005.78
+A Compatible and Scalable Clock Synchronization Protocol in IEEE 802.11 Ad Hoc Networks.	Dong Zhou,Ten-Hwang Lai	10.1109/ICPP.2005.6
+First Evaluation of Parallel Methods of Automatic Global Image Registration Based on Wavelets.	Haifang Zhou,Xuejun Yang,Hengzhu Liu,Yu Tang 0014	10.1109/ICPP.2005.43
+Ferry: An Architecture for Content-Based Publish/Subscribe Services on P2P Networks.	Yingwu Zhu,Yiming Hu	10.1109/ICPP.2005.41
+Design Tradeoffs for BLAS Operations on Reconfigurable Hardware.	Ling Zhuo,Viktor K. Prasanna	10.1109/ICPP.2005.31
+34th International Conference on Parallel Processing (ICPP 2005), 14-17 June 2005, Oslo, Norway		

@@ -1,0 +1,68 @@
+An Online Heuristic for Data Placement in Computer Systems with Active Disks.	Sumalatha Adabala,José A. B. Fortes	10.1109/ICPP.2002.1040877
+Integrating Trust into Grid Resource Management Systems.	Farag Azzedin,Muthucumaru Maheswaran	10.1109/ICPP.2002.1040858
+Pattern-Based Parallel Programming.	Steven Bromling,Steve MacDonald,John Anvik,Jonathan Schaeffer,Duane Szafron,Kai Tan 0005	10.1109/ICPP.2002.1040881
+Randomized Broadcast Channel Access Algorithms for Ad Hoc Networks.	Zhijun Cai,Mi Lu,Xiaodong Wang	10.1109/ICPP.2002.1040869
+Hypercube Network Fault Tolerance: A Probabilistic Approach.	Jianer Chen,Iyad A. Kanj,Guojun Wang 0001	10.1109/ICPP.2002.1040860
+Multi-Level Shared State for Distributed Systems.	DeQing Chen,Chunqiang Tang,Xiangchuan Chen,Sandhya Dwarkadas,Michael L. Scott	10.1109/ICPP.2002.1040867
+Popularity-Based PPM: An Effective Web Prefetching Technique for High Accuracy and Low Storage.	Xin Chen 0034,Xiaodong Zhang 0001	10.1109/ICPP.2002.1040885
+Dynamic Service Composition for Wireless Web Access.	Siu Nam Chuang,Alvin T. S. Chan,Jiannong Cao 0001	10.1109/ICPP.2002.1040899
+LDBS: A Duplication Based Scheduling Algorithm for Heterogeneous Computing Systems.	Atakan Dogan,Füsun Özgüner	10.1109/ICPP.2002.1040891
+A Lower-Bound Algorithm for Minimizing Network Communication in Real-Time Systems.	Cecilia Ekelin,Jan Jonsson	10.1109/ICPP.2002.1040890
+Efficient Global Object Space Support for Distributed JVM on Cluster.	Weijian Fang,Cho-Li Wang,Francis C. M. Lau 0001	10.1109/ICPP.2002.1040893
+Honey, I Shrunk the Beowulf!	Wu-chun Feng,Michael S. Warren,Eric Weigle	10.1109/ICPP.2002.1040868
+The Tracefile Testbed - A Community Repository for Identifying and Retrieving HPC Performance Data.	Ken Ferschweiler,Scott Harrah,Dylan Keon,Mariacarla Calzarossa	10.1109/ICPP.2002.1040872
+Worst Case Analysis of a Greedy Multicast Algorithm in k-ary n-cubes.	Satoshi Fujita	10.1109/ICPP.2002.1040908
+On-line Permutation Routing on WDM All-Optical Networks.	Qian-Ping Gu	10.1109/ICPP.2002.1040898
+Dead Timestamp Identification in Stampede.	Nissim Harel,Hasnain A. Mandviwala,Kathleen Knobe,Umakishore Ramachandran	10.1109/ICPP.2002.1040864
+Introducing SCSI-to-IP Cache for Storage Area Networks.	Xubin He,Qing Yang 0001,Ming Zhang	10.1109/ICPP.2002.1040875
+A Selection Technique for Replicated Multicast Video Servers.	Akihito Hiromori,Hirozumi Yamaguchi,Keiichi Yasumoto,Teruo Higashino,Kenichi Taniguchi	10.1109/ICPP.2002.1040913
+MOBY - A Mobile Peer-to-Peer Service and Data Network.	Tzvetan Horozov,Ananth Grama,Venu Vasudevan,Sean Landis	10.1109/ICPP.2002.1040900
+Neuron - A Wide-Area Service Discovery Infrastructure.	Hung-Chang Hsiao,Chung-Ta King	10.1109/ICPP.2002.1040902
+Software Caching using Dynamic Binary Rewriting for Embedded Devices.	Chad Huneycutt,Joshua B. Fryman,Kenneth M. Mackenzie	10.1109/ICPP.2002.1040920
+A Secure Protocol for Computing Dot-Products in Clustered and Distributed Environments.	Ioannis Ioannidis,Ananth Grama,Mikhail J. Atallah	10.1109/ICPP.2002.1040894
+Space and Time Efficient Parallel Algorithms and Software for EST Clustering.	Anantharaman Kalyanaraman,Srinivas Aluru,Suresh C. Kothari	10.1109/ICPP.2002.1040889
+Minimal Sensor Integrity in Sensor Grids.	Rajgopal Kannan,Sudipta Sarangi,Sibabrata Ray,S. Sitharama Iyengar	10.1109/ICPP.2002.1040914
+Selective Preemption Strategies for Parallel Job Scheduling.	Rajkumar Kettimuthu,Vijay Subramani,Srividya Srinivasan,Thiagaraja Gopalsamy	10.1109/ICPP.2002.1040918
+Distributed Game-Tree Search Using Transposition Table Driven Work Scheduling.	Akihiro Kishimoto,Jonathan Schaeffer	10.1109/ICPP.2002.1040888
+Iterative Grid-Based Computing Using Mobile Agents.	Hairong Kuang,Lubomir Bic,Michael B. Dillencourt	10.1109/ICPP.2002.1040865
+Self-Adapting Backfilling Scheduling for Parallel Systems.	Barry G. Lawson,Evgenia Smirni,Daniela Puiu	10.1109/ICPP.2002.1040916
+Partitioning Unstructured Meshes for Homogeneous and Heterogeneous Parallel Computing Environments.	PeiZong Lee,Jan-Jan Wu,Chih-Hao Chang	10.1109/ICPP.2002.1040887
+WebGOP: A Framework for Architecting and Programming Dynamic Distributed Web Applications.	Xiaoxing Ma,Alvin T. S. Chan,Jian Lu 0001	10.1109/ICPP.2002.1040882
+A Distributed Algorithm for Knot Detection in a Distributed Graph.	D. Manivannan 0001,Mukesh Singhal	10.1109/ICPP.2002.1040905
+Exploiting Locality in the Run-Time Parallelization of Irregular Loops.	María J. Martín,David E. Singh,Juan Touriño,Francisco F. Rivera	10.1109/ICPP.2002.1040856
+Hardware Schemes for Early Register Release.	Teresa Monreal,Víctor Viñals,Antonio González 0001,Mateo Valero	10.1109/ICPP.2002.1040854
+An Optimal Randomized Ranking Algorithm on the k-channel Broadcast Communication Model.	Koji Nakano	10.1109/ICPP.2002.1040906
+Enhancing Write I/O Performance of Disk Array RM2 Tolerating Double Disk Failures.	Young Jin Nam,Dae Woong Kim,Tae-Young Choe,Chan-Ik Park	10.1109/ICPP.2002.1040876
+Out-of-Order Instruction Fetch Using Multiple Sequencers.	Paramjit S. Oberoi,Gurindar S. Sohi	10.1109/ICPP.2002.1040855
+MAC Layer Protocols for Real-Time Traffic in Ad-Hoc Wireless Networks.	Abhishek Pal,Atakan Dogan,Füsun Özgüner	10.1109/ICPP.2002.1040911
+Analysis of Memory Hierarchy Performance of Block Data Layout.	Neungsoo Park,Bo Hong,Viktor K. Prasanna	10.1109/ICPP.2002.1040857
+Dynamic Hybrid Routing (DHR) in Mobile Ad Hoc Networks.	Seungjin Park,Brian Van Voorst	10.1109/ICPP.2002.1040896
+ZEN: A Directive-Based Language for Automatic Experiment Management of Distributed and Parallel Programs.	Radu Prodan,Thomas Fahringer	10.1109/ICPP.2002.1040863
+An Efficient Fault-Tolerant Scheduling Algorithm for Real-Time Tasks with Precedence Constraints in Heterogeneous Systems.	Xiao Qin 0001,Hong Jiang 0001,David R. Swanson	10.1109/ICPP.2002.1040892
+A Best-Effort Communication Protocol for Real-Time Broadcast Networks.	Lakshmi Ramaswamy,Binoy Ravindran	10.1109/ICPP.2002.1040909
+A Technique for Adaptation to Available Resources on Clusters Independent of Synchronization Methods Used.	Umit Rencuzogullari,Sandhya Dwarkadas	10.1109/ICPP.2002.1040895
+Effective Methodology for Deadlock-Free Minimal Routing in InfiniBand Networks.	José Carlos Sancho,Antonio Robles,Jose Flich,Pedro López 0001,José Duato	10.1109/ICPP.2002.1040897
+Region Synchronization in Message Passing Systems.	Gurdip Singh,Ye Su	10.1109/ICPP.2002.1040883
+A System for Monitoring and Management of Computational Grids.	Warren Smith	10.1109/ICPP.2002.1040859
+A New Mechanism for Congestion and Deadlock Resolution.	Yong Ho Song,Timothy Mark Pinkston	10.1109/ICPP.2002.1040862
+Multithreaded Isosurface Rendering on SMPs Using Span-Space Buckets.	Peter Sulatycke,Kanad Ghose	10.1109/ICPP.2002.1040915
+Reliable MAC Layer Multicast in IEEE 802.11 Wireless Networks.	Min-Te Sun,Lifei Huang,Anish Arora,Ten-Hwang Lai	10.1109/ICPP.2002.1040910
+Tolerating Network Failures in System Area Networks.	Jeffrey Tang,Angelos Bilas	10.1109/ICPP.2002.1040866
+Streaming Media Caching Algorithms for Transcoding Proxies.	Xueyan Tang,Fan Zhang 0097,Samuel T. Chanson	10.1109/ICPP.2002.1040884
+Design and Evaluation of Scalable Switching Fabrics for High-Performance Routers.	Nian-Feng Tzeng,Ravi C. Batchu	10.1109/ICPP.2002.1040871
+Performance Comparison of Location Areas and Reporting Centers Under Aggregate Movement Behavior Mobility Models.	Huanjing Wang,Guangbin Fan,Jingyuan Zhang	10.1109/ICPP.2002.1040901
+BPA: A Fast Packet Scheduling Algorithm for Real-Time Switched Ethernet Networks.	Jinggang Wang,Binoy Ravindran	10.1109/ICPP.2002.1040870
+Computational Geometry On The OTIS-Mesh Optoelectronic Computer.	Chih-Fang Wang,Sartaj Sahni	10.1109/ICPP.2002.1040907
+Linux/SimOS - A Simulation Environment for Evaluating High-Speed Communication Systems.	Chulho Won,Ben Lee,Chansu Yu,Sangman Moh,Yong-Youn Kim,Kyoung Park	10.1109/ICPP.2002.1040874
+Engineering CORBA-Based Systems for High Performance.	Wai-Keung Wu,Shikharesh Majumdar	10.1109/ICPP.2002.1040904
+Fault-Tolerant and Deadlock-Free Routing in 2-D Meshes Using Rectilinear-Monotone Polygonal Fault Blocks.	Jie Wu 0001,Dajin Wang	10.1109/ICPP.2002.1040880
+Fault-Tolerant Routing in 2D Tori or Meshes Using Limited-Global-Safety Information.	Dong Xiang,Ai Chen	10.1109/ICPP.2002.1040878
+A Class of Multistage Conference Switching Networks for Group Communication.	Yuanyuan Yang 0001,Jianchao Wang	10.1109/ICPP.2002.1040861
+Routing Permutations with Link-Disjoint and Node-Disjoint Paths in a Class of Self-Routable Networks.	Yuanyuan Yang 0001,Jianchao Wang	10.1109/ICPP.2002.1040879
+ART: Robustness of Meshes and Tori for Parallel and Distributed Computation.	Chi-Hsiang Yeh,Behrooz Parhami	10.1109/ICPP.2002.1040903
+EMPOWER: A Scalable Framework for Network Emulation.	Pei Zheng,Lionel M. Ni	10.1109/ICPP.2002.1040873
+Optimal Video Replication and Placement on a Cluster of Video-on-Demand Servers.	Xiaobo Zhou 0002,Cheng-Zhong Xu 0001	10.1109/ICPP.2002.1040912
+Power Aware Scheduling for AND/OR Graphs in Multi-Processor Real-Time Systems.	Dakai Zhu 0001,Nevine AbouGhazaleh,Daniel Mossé,Rami G. Melhem	10.1109/ICPP.2002.1040917
+Optimal Code Size Reduction for Software-Pipelined Loops on DSP Applications.	Qingfeng Zhuge,Zili Shao,Edwin Hsing-Mean Sha	10.1109/ICPP.2002.1040919
+Load Balancing in Distributed Web Server Systems with Partial Document Replication.	Ling Zhuo,Cho-Li Wang,Francis C. M. Lau 0001	10.1109/ICPP.2002.1040886
+31st International Conference on Parallel Processing (ICPP 2002), 20-23 August 2002, Vancouver, BC, Canada		

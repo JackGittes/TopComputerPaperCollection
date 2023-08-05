@@ -1,0 +1,64 @@
+A Balanced Approach to High-Level Verification: Performance Trade-Offs in Verifying Large-Scale Multiprocessors.	Dennis Abts,Mike Roberts,David J. Lilja	10.1109/ICPP.2000.876167
+Lower Bounds on Precedence-Constrained Scheduling for Parallel Processors.	Ivan D. Baev,Waleed Meleis,Alexandre E. Eichenberger	10.1109/ICPP.2000.876172
+Matrix-Matrix Multiplication on Heterogeneous Platforms.	Olivier Beaumont,Vincent Boudet,Fabrice Rastello,Yves Robert	10.1109/ICPP.2000.876144
+Modeling Web Caching Schemes for Performance Studies.	Cho-Yu Chiang,Mikihiro Ueno,Ming T. Liu,Mervin E. Muller	10.1109/ICPP.2000.876134
+Reliable Matching and Scheduling of Precedence-Constrained Tasks in Heterogeneous Distributed Computing.	Atakan Dogan,Füsun Özgüner	10.1109/ICPP.2000.876146
+Evaluation of Loop Grouping Methods Based on Orthogonal Projection Spaces.	Ioannis Drositis,Georgios I. Goumas,Nectarios Koziris,Panayotis Tsanakas,George K. Papakonstantinou	10.1109/ICPP.2000.876163
+Specification of Performance Problems in MPI Programs with ASL.	Thomas Fahringer,Michael Gerndt,Graham D. Riley,Jesper Larsson Träff	10.1109/ICPP.2000.876072
+The Adverse Impact of the TCP Congestion-Control Mechanism in Heterogeneous Computing Systems.	Wu-chun Feng,Peerapol Tinnakornsrisuphap	10.1109/ICPP.2000.876145
+Improving the Performance of Regular Networks with Source Routing.	Jose Flich,Pedro López 0001,Manuel P. Malumbres,José Duato	10.1109/ICPP.2000.876151
+On Overlapping Partitions.	Jérôme Galtier,Stéphane Lanteri	10.1109/ICPP.2000.876162
+The NUMAchine Multiprocessor.	R. Grindley,Tarek S. Abdelrahman,Stephen Dean Brown,S. Caranci,D. DeVries,Benjamin Gamsa,A. Grbic,M. Gusat,R. Ho,Orran Krieger,Guy G. Lemieux,K. Loveless,Naraig Manjikian,P. McHardy,Sinisa Srbljic,Michael Stumm,Zvonko G. Vranesic,Zeljko Zilic	10.1109/ICPP.2000.876165
+TPO++: An Object-Oriented Message-Passing Library in C++.	Tobias Grundmann,Marcus Ritt,Wolfgang Rosenstiel	10.1109/ICPP.2000.876070
+Efficient Protocols for Permutation Routing on All-Optical Multistage Interconnection Networks.	Qian-Ping Gu,Shietung Peng	10.1109/ICPP.2000.876168
+Match Virtual Machine: An Adaptive Runtime System to Execute MATLAB in Parallel.	Malay Haldar,Anshuman Nayak,Abhay Kanhere,Pramod G. Joisha,U. Nagaraj Shenoy,Alok N. Choudhary,Prithviraj Banerjee	10.1109/ICPP.2000.876100
+A General Predictive Performance Model for Wavefront Algorithms on Clusters of SMPs.	Adolfy Hoisie,Olaf M. Lubeck,Harvey J. Wasserman,Fabrizio Petrini,Hank Alme	10.1109/ICPP.2000.876127
+The Thread-Based Protocol Engines for CC-NUMA Multiprocessors.	Hung-Chang Hsiao,Chung-Ta King	10.1109/ICPP.2000.876166
+Identifying Parallelism in Programs with Cyclic Graphs.	Yuan-Shin Hwang,Joel H. Saltz	10.1109/ICPP.2000.876120
+A Problem-Specific Fault-Tolerance Mechanism for Asynchronous, Distributed Systems.	Adriana Iamnitchi,Ian T. Foster	10.1109/ICPP.2000.876065
+Call Admission Control vs. Bandwidth Reservation: Reducing Handoff Call Dropping Rate and Providing Bandwidth Efficiency in Mobile Networks.	Jianping Jiang,Ten-Hwang Lai	10.1109/ICPP.2000.876176
+A Comprehensive Dynamic Processor Allocation Scheme for Multiprogrammed Multiprocessor Systems.	Iffat H. Kazi,David J. Lilja	10.1109/ICPP.2000.876103
+Fine-Grained Parallel VLSI Synthesis for Commercial CAD on a Network of Workstations.	Victor Kim,Prithviraj Banerjee,Kaushik De	10.1109/ICPP.2000.876158
+A Reliable Statistical Admission Control Strategy for Interactive Video-on-Demand Servers with Interval Caching.	Suneuy Kim,Chita R. Das	10.1109/ICPP.2000.876097
+Compiler Techniques for Energy Saving in Instruction Caches of Speculative Parallel Microarchitectures.	Seon Wook Kim,Rudolf Eigenmann	10.1109/ICPP.2000.876081
+A Network Co-Processor-Based Approach to Scalable Media Streaming in Servers.	Raj Krishnamurthy,Karsten Schwan,Richard West,Marcel-Catalin Rosu	10.1109/ICPP.2000.876091
+A Novel Channel-Adaptive Uplink Access Control Protocol for Nomadic Computing.	Yu-Kwong Kwok,Vincent K. N. Lau	10.1109/ICPP.2000.876174
+A Parallel Architecture for Quadtree-based Fractal Image Coding.	Shinhaeng Lee,Shinichiro Omachi,Hirotomo Aso	10.1109/ICPP.2000.876066
+Probabilistic Analysis of Cyclic Packet Transmission Scheduling in WDM Optical Networks.	Keqin Li	10.1109/ICPP.2000.876170
+An Effective Selection Policy for Load Balancing in Software DSM.	Tyng-Yeu Liang,Ce-Kuen Shieh,Jun-Qi Li	10.1109/ICPP.2000.876087
+Fast Dynamic Reconfiguration in Irregular Networks.	Olav Lysne,José Duato	10.1109/ICPP.2000.876161
+Design and Evaluation of Smart Disk Architecture for DSS Commercial Workloads.	Gokhan Memik,Mahmut T. Kandemir,Alok N. Choudhary	10.1109/ICPP.2000.876149
+Techniques for Achieving High Performance Web Servers.	Sucheta Nadimpalli,Shikharesh Majumdar	10.1109/ICPP.2000.876130
+Issues in Designing and Implementing a Scalable Virtual Interface Architecture.	Shailabh Nagar,Anand Sivasubramaniam,Jorge Rodriguez,Mazin S. Yousif	10.1109/ICPP.2000.876156
+A Scalable Parallel Subspace Clustering Algorithm for Massive Data Sets.	Harsha S. Nagesh,Sanjay Goil,Alok N. Choudhary	10.1109/ICPP.2000.876164
+Energy-Efficient Initialization Protocols for Radio Networks with No Collision Detection.	Koji Nakano,Stephan Olariu	10.1109/ICPP.2000.876141
+Energy-Efficient Deterministic Routing Protocols in Radio Networks.	Koji Nakano,Stephan Olariu,Albert Y. Zomaya	10.1109/ICPP.2000.876114
+User-Level Dynamic Page Migration for Multiprogrammed Shared-Memory Multiprocessors.	Dimitrios S. Nikolopoulos,Theodore S. Papatheodorou,Constantine D. Polychronopoulos,Jesús Labarta,Eduard Ayguadé	10.1109/ICPP.2000.876083
+On the Design of Communication-Aware Task Scheduling Strategies for Heterogeneous Systems.	Juan M. Orduña,Vicente Arnau,Aurelio Ruiz,Rodrigo Valero,José Duato	10.1109/ICPP.2000.876155
+The Double Scheme: Deadlock-Free Dynamic Reconfiguration of Cut-Through Networks.	Ruoming Pang,Timothy Mark Pinkston,José Duato	10.1109/ICPP.2000.876160
+Mining User Moving Patterns for Personal Data Allocation in a Mobile Computing System.	Wen-Chih Peng,Ming-Syan Chen	10.1109/ICPP.2000.876175
+A Scalable Task Duplication Based Scheduling Algorithm for Heterogeneous Systems.	Samantha Ranaweera,Dharma P. Agrawal	10.1109/ICPP.2000.876154
+The Effectiveness of Loop Unrolling for Modulo Scheduling in Clustered VLIW Architectures.	F. Jesús Sánchez,Antonio González 0001	10.1109/ICPP.2000.876173
+A Performance Model of Adaptive Routing in k-Ary n-Cubes with Matrix-Transpose Traffic.	Hamid Sarbazi-Azad,Lewis M. Mackenzie,Mohamed Ould-Khaoua	10.1109/ICPP.2000.876150
+Partial Resolution in Data Value Predictors.	Toshinori Sato,Itsujiro Arita	10.1109/ICPP.2000.876078
+Multicast Routing Protocol by Multicast Agent in Mobile Networks.	Hee-Sook Shin,Young-Joo Suh,Dong-Hee Kwon	10.1109/ICPP.2000.876142
+Depth First Search and Location Based Localized Routing and QoS Routing in Wireless Networks.	Ivan Stojmenovic,Mark Russell,Bosko Vukojevic	10.1109/ICPP.2000.876111
+An Efficient Algorithm for Large-Scale Matrix Transposition.	Jinwoo Suh,Viktor K. Prasanna	10.1109/ICPP.2000.876148
+GPS-Based Message Broadcasting for Inter-Vehicle Communication.	Min-Te Sun,Wu-chi Feng,Ten-Hwang Lai,Kentaro Yamada,Hiromi Okada,Kikuo Fujimura	10.1109/ICPP.2000.876143
+Non-Strict Cache Coherence: Exploiting Data-Race Tolerance in Emerging Applications.	Siddhartha V. Tambat,Sriram Vajapeyam	10.1109/ICPP.2000.876082
+Optimizing Static Job Scheduling in a Network of Heterogeneous Computers.	Xueyan Tang,Samuel T. Chanson	10.1109/ICPP.2000.876153
+A Scalable, Cost-Effective, and Flexible Disk System Using High-Performance Embedded-Processors.	Aki W. Tomita,Naoki Watanabe,Yoshifumi Takamoto,Shigekazu Inohara,Frederico B. Maciel,Hiroaki Odawara,Mamoru Sugie	10.1109/ICPP.2000.876147
+Simultaneous Multithreading-Based Routers.	Kemathat Vibhatavanij,Nian-Feng Tzeng,Angkul Kongmunvattana	10.1109/ICPP.2000.876152
+ADAPT: Automated De-Coupled Adaptive Program Transformation.	Michael Voss,Rudolf Eigenmann	10.1109/ICPP.2000.876107
+A Fault-Tolerant Adaptive and Minimal Routing Approach in n-D Meshes.	Jie Wu 0001	10.1109/ICPP.2000.876159
+Domination and Its Applications in Ad Hoc Wireless Networks with Unidirectional Links.	Jie Wu 0001,Hailan Li	10.1109/ICPP.2000.876117
+Runtime Parallel Incremental Scheduling of DAGs.	Min-You Wu,Wei Shu,Yong Chen	10.1109/ICPP.2000.876171
+Utilization-Based Admission Control for Real-Time Applications.	Dong Xuan,Chengzhi Li,Riccardo Bettati,Jianer Chen,Wei Zhao 0001	10.1109/ICPP.2000.876137
+Load Redundancy Removal through Instruction Reuse.	Jun Yang 0002,Rajiv Gupta 0001	10.1109/ICPP.2000.876075
+Building an Adaptable, Fault Tolerant, and Highly Manageable Web Server on Clusters of Non-Dedicated Workstations.	Chu-Sing Yang,Mon-Yen Luo	10.1109/ICPP.2000.876157
+Multi-Node Multicast in Three and Higher Dimensional Wormhole Tori and Meshes with Load Balance.	Ming-Hour Yang,Yu-Chee Tseng,Ming-Shian Jian,Chao Lin	10.1109/ICPP.2000.876067
+Nonblocking WDM Multicast Switching Networks.	Yuanyuan Yang 0001,Jianchao Wang,Chunming Qiao	10.1109/ICPP.2000.876169
+Multilayer VLSI Layout for Interconnection Networks.	Chi-Hsiang Yeh,Emmanouel A. Varvarigos,Behrooz Parhami	10.1109/ICPP.2000.876069
+Partitioning Loops with Variable Dependence Distances.	Yijun Yu,Erik H. D&apos;Hollander	10.1109/ICPP.2000.876124
+Solving a Media Mapping Problem in a Hierarchical Server Network with Parallel Simulated Annealing.	Xiaobo Zhou,Reinhard Lüling,Li Xie	10.1109/ICPP.2000.876089
+Proceedings of the 2000 International Conference on Parallel Processing, ICPP 2000, Toronto, Canada, August 21-24, 2000		

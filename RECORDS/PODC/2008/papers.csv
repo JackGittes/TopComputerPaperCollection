@@ -1,0 +1,93 @@
+An almost-surely terminating polynomial protocol forasynchronous byzantine agreement with optimal resilience.	Ittai Abraham,Danny Dolev,Joseph Y. Halpern	10.1145/1400751.1400804
+On the internet delay space dimensionality.	Bruno D. Abrahao,Robert D. Kleinberg	10.1145/1400751.1400810
+Failure detectors in loosely named systems.	Yehuda Afek,Israel Nir	10.1145/1400751.1400762
+Timeliness-based wait-freedom: a gracefully degrading progress condition.	Marcos Kawazoe Aguilera,Sam Toueg	10.1145/1400751.1400792
+Correctness criteria for replicated database systems with snapshot isolation replicas.	José Enrique Armendáriz-Iñigo,José Ramón Juárez-Rodríguez,José Ramón González de Mendívil,Francesc D. Muñoz-Escoí	10.1145/1400751.1400814
+On tradeoff between network connectivity, phase complexity and communication complexity of reliable communication tolerating mixed adversary.	B. V. Ashwinkumar,Arpita Patra,Ashish Choudhary,Kannan Srinathan,C. Pandu Rangan	10.1145/1400751.1400768
+Randomized consensus in expected O(n log n) individual work.	James Aspnes,Hagit Attiya,Keren Censor	10.1145/1400751.1400794
+Lower bounds for randomized consensus under a weak adversary.	Hagit Attiya,Keren Censor	10.1145/1400751.1400793
+Tight RMR lower bounds for mutual exclusion and other problems.	Hagit Attiya,Danny Hendler,Philipp Woelfel	10.1145/1400751.1400843
+A world of (Im) possibilities.	Hagit Attiya,Jennifer L. Welch	10.1145/1400751.1400859
+Greedy distributed optimization of unsplittable multicommodity flows.	Baruch Awerbuch,Rohit Khandekar	10.1145/1400751.1400834
+Stateless distributed algorithms for near optimal maximum multicommodity flows.	Baruch Awerbuch,Rohit Khandekar	10.1145/1400751.1400835
+A jamming-resistant MAC protocol for single-hop wireless networks.	Baruch Awerbuch,Andréa W. Richa,Christian Scheideler	10.1145/1400751.1400759
+Anonymous and censorship resistant content sharing in unstructured overlays.	Michael Backes 0001,Marek Hamerlik,Alessandro Linari,Matteo Maffei,Christos Tryfonopoulos,Gerhard Weikum	10.1145/1400751.1400822
+Nearest-neighbor graphs on random point sets and their applications to sensor networks.	Amitabha Bagchi,Sohit Bansal	10.1145/1400751.1400828
+Sublogarithmic distributed MIS algorithm for sparse graphs using nash-williams decomposition.	Leonid Barenboim,Michael Elkin	10.1145/1400751.1400757
+Fast self-stabilizing byzantine tolerant digital clock synchronization.	Michael Ben-Or,Danny Dolev,Ezra N. Hoch	10.1145/1400751.1400802
+BMobi_Causal: a causal broadcast protocol in mobile dynamic groups.	Chafika Benzaid,Nadjib Badache	10.1145/1400751.1400813
+Efficient randomised broadcasting in random regular networks with applications in peer-to-peer systems.	Petra Berenbrink,Robert Elsässer,Tom Friedetzky	10.1145/1400751.1400773
+Looking for the optimal conditions for solving set agreement.	François Bonnet 0001,Michel Raynal	10.1145/1400751.1400842
+Dynamic service assignment in mobile networks: the magma approach.	Edward Bortnikov,Israel Cidon,Idit Keidar	10.1145/1400751.1400839
+Brahms: byzantine resilient random membership sampling.	Edward Bortnikov,Maxim Gurevich,Idit Keidar,Gabriel Kliot,Alexander Shraer	10.1145/1400751.1400772
+On ad hoc routing with guaranteed delivery.	Mark Braverman	10.1145/1400751.1400809
+Our brothers&apos; keepers.	Alex Brodsky	10.1145/1400751.1400823
+Principles of untrusted storage: a new look at consistency conditions.	Christian Cachin,Idit Keidar,Alexander Shraer	10.1145/1400751.1400818
+New combinatorial topology upper and lower bounds for renaming.	Armando Castañeda,Sergio Rajsbaum	10.1145/1400751.1400791
+Forget him and keep on moving.	Augustin Chaintreau,Pierre Fraigniaud,Emmanuelle Lebhar	10.1145/1400751.1400806
+Scheduling tasks with dependencies on asymmetric multiprocessors.	Ioannis Chatzigiannakis,Georgios Giannoulis,Paul G. Spirakis	10.1145/1400751.1400851
+Asynchronous exclusive selection.	Bogdan S. Chlebus,Dariusz R. Kowalski	10.1145/1400751.1400801
+Virtual infrastructure for collision-prone wireless networks.	Gregory V. Chockler,Seth Gilbert,Nancy A. Lynch	10.1145/1400751.1400783
+Flooding time in edge-Markovian dynamic graphs.	Andrea E. F. Clementi,Claudio Macci,Angelo Monti,Francesco Pasquale,Riccardo Silvestri	10.1145/1400751.1400781
+Closing the complexity gap between mutual exclusion and FCFS mutual exclusion.	Robert Danek,Wojciech M. Golab	10.1145/1400751.1400844
+Snap-stabilization in message-passing systems.	Sylvie Delaët,Stéphane Devismes,Mikhail Nesterenko,Sébastien Tixeuil	10.1145/1400751.1400838
+Sharing is harder than agreeing.	Carole Delporte-Gallet,Hugues Fauconnier,Rachid Guerraoui	10.1145/1400751.1400764
+On the locality of distributed sparse spanner construction.	Bilel Derbel,Cyril Gavoille,David Peleg,Laurent Viennot	10.1145/1400751.1400788
+Online and dynamic embeddings of approximate ultrametrics.	Michael Dinitz	10.1145/1400751.1400807
+Secure communication over radio channels.	Shlomi Dolev,Seth Gilbert,Rachid Guerraoui,Calvin C. Newport	10.1145/1400751.1400767
+OCD: obsessive consensus disorder (or repetitive consensus).	Danny Dolev,Ezra N. Hoch	10.1145/1400751.1400803
+CAR-STM: scheduling-based collision avoidance and resolution for software transactional memory.	Shlomi Dolev,Danny Hendler,Adi Suissa	10.1145/1400751.1400769
+Accountability for distributed systems.	Peter Druschel	10.1145/1400751.1400754
+On the effect of the deployment setting on broadcasting in Euclidean radio networks.	Yuval Emek,Erez Kantor,David Peleg	10.1145/1400751.1400782
+Evolution of distributed computing theory: from concurrency to networks and beyond.	Michael J. Fischer	10.1145/1400751.1400858
+On a capacitated multivehicle routing problem.	Xiaojie Gao,Leonard J. Schulman	10.1145/1400751.1400776
+On the complexity of asynchronous gossip.	Chryssis Georgiou,Seth Gilbert,Rachid Guerraoui,Dariusz R. Kowalski	10.1145/1400751.1400771
+On the robustness of (semi) fast quorum-based implementations of atomic shared memory.	Chryssis Georgiou,Nicolas C. Nicolaou,Alexander A. Shvartsman	10.1145/1400751.1400817
+On fault tolerance and wireless networks.	Seth Gilbert	10.1145/1400751.1400861
+Optimizing consistency checking for memory-intensive transactions.	Justin Emile Gottschlich,Daniel A. Connors	10.1145/1400751.1400848
+Distributed churn measurement in arbitrary networks.	Vincent Gramoli,Anne-Marie Kermarrec,Erwan Le Merrer	10.1145/1400751.1400824
+A fast distributed slicing algorithm.	Vincent Gramoli,Ymir Vigfusson,Ken Birman,Anne-Marie Kermarrec,Robbert van Renesse	10.1145/1400751.1400820
+Efficient pipeline configuration in distributed heterogeneous computing environments.	Yi Gu,Qishi Wu,Mengxia Zhu,Nageswara S. V. Rao	10.1145/1400751.1400825
+Power management of devices: when should i switch off?	Ajay Gulati	10.1145/1400751.1400832
+A tradeoff analysis on message complexity and lifetime optimality for a distributed multicast algorithm in WSNs.	Song Guo 0001,Minyi Guo,Victor C. M. Leung	10.1145/1400751.1400827
+The stretched exponential distribution of internet media access patterns.	Lei Guo 0004,Enhua Tan,Songqing Chen,Zhen Xiao,Xiaodong Zhang 0001	10.1145/1400751.1400789
+Wait-free programming for general purpose computations on graphics processors.	Phuong Hoai Ha,Philippas Tsigas,Otto J. Anshus	10.1145/1400751.1400849
+Beyond nash equilibrium: solution concepts for the 21st century.	Joseph Y. Halpern	10.1145/1400751.1400752
+The forgiving tree: a self-healing distributed data structure.	Tom Hayes,Navin Rustagi,Jared Saia,Amitabh Trehan	10.1145/1400751.1400779
+Quantum distributed consensus.	Louis K. Helm	10.1145/1400751.1400841
+The future of distributed computing: renaissance or reformation?	Maurice Herlihy	10.1145/1400751.1400862
+Extracting models from design documents with mapster.	David James,Tim Leonard,John W. O&apos;Leary,Murali Talupur,Mark R. Tuttle	10.1145/1400751.1400854
+Every problem has a weakest failure detector.	Prasad Jayanti,Sam Toueg	10.1145/1400751.1400763
+Fault-tolerant implementations of atomic registers by safe registers in networks.	Colette Johnen,Lisa Higham	10.1145/1400751.1400845
+The lotus-eater attack.	Ian A. Kash,Eric J. Friedman,Joseph Y. Halpern	10.1145/1400751.1400853
+From anarchy to geometric structuring: the power of virtual coordinates.	Anne-Marie Kermarrec,Achour Mostéfaoui,Michel Raynal,Gilles Trédan,Aline Carneiro Viana	10.1145/1400751.1400829
+Packet mode and QoS algorithms for buffered crossbar switches with FIFO queuing.	Alexander Kesselman,Kirill Kogan,Michael Segal 0001	10.1145/1400751.1400796
+Efficient distributed approximation algorithms via probabilistic tree embeddings.	Maleq Khan,Fabian Kuhn,Dahlia Malkhi,Gopal Pandurangan,Kunal Talwar	10.1145/1400751.1400787
+Sleeping on the job: energy-efficient and robust broadcast for radio networks.	Valerie King,Cynthia A. Phillips,Jared Saia,Maxwell Young	10.1145/1400751.1400784
+Scheduling sensors by tilinglattices.	Andreas Klappenecker,Hyunyoung Lee,Jennifer L. Welch	10.1145/1400751.1400831
+Dynamic routing and location services in metrics of low doubling dimension.	Goran Konjevod,Andréa W. Richa,Donglin Xia	10.1145/1400751.1400808
+Improved compact routing schemes for dynamic trees.	Amos Korman	10.1145/1400751.1400777
+Distributed computation of the mode.	Fabian Kuhn,Thomas Locher,Stefan Schmid 0001	10.1145/1400751.1400756
+Optimal failure detection with low sporadic overhead and communication locality.	Alberto Lafuente,Mikel Larrea,Iratxe Soraluze Arriola,Roberto Cortiñas	10.1145/1400751.1400846
+Bounded budget connection (BBC) games or how to make friends and influence people, on a budget.	Nikolaos Laoutaris,Laura J. Poplawski,Rajmohan Rajaraman,Ravi Sundaram,Shang-Hua Teng	10.1145/1400751.1400774
+Collaborative enforcement of firewall policies in virtual private networks.	Alex X. Liu,Fei Chen 0001	10.1145/1400751.1400766
+The impact of randomization in smoothing networks.	Marios Mavronicolas,Thomas Sauerwald	10.1145/1400751.1400797
+Distributed order scheduling and its application to multi-core dram controllers.	Thomas Moscibroda,Onur Mutlu	10.1145/1400751.1400799
+Distributed averaging in the presence of a sparse cut.	Hariharan Narayanan	10.1145/1400751.1400836
+Model checking transactional memory with spin.	John W. O&apos;Leary,Bratin Saha,Mark R. Tuttle	10.1145/1400751.1400816
+Tight bounds for delay-sensitive aggregation.	Yvonne Anne Oswald,Stefan Schmid 0001,Roger Wattenhofer	10.1145/1400751.1400778
+Distributed algorithms for ultrasparse spanners and linear size skeletons.	Seth Pettie	10.1145/1400751.1400786
+Gossip-based aggregate computation: computing faster with non address-oblivious schemes.	Roberto Di Pietro,Pietro Michiardi	10.1145/1400751.1400837
+The asynchronous bounded-cycle model.	Peter Robinson 0002,Ulrich Schmid 0001	10.1145/1400751.1400815
+A log-star distributed maximal independent set algorithm for growth-bounded graphs.	Johannes Schneider 0002,Roger Wattenhofer	10.1145/1400751.1400758
+Mobile proactive secret sharing.	David A. Schultz,Barbara Liskov,Moses D. Liskov	10.1145/1400751.1400856
+The power of simulation relations.	Roberto Segala	10.1145/1400751.1400860
+Transactional memory retry mechanisms.	Michael F. Spear,Andrew Sveikauskas,Michael L. Scott	10.1145/1400751.1400850
+Efficient single phase unconditionally secure message transmission with optimum communication complexity.	Kannan Srinathan,Ashish Choudhary,Arpita Patra,C. Pandu Rangan	10.1145/1400751.1400855
+A dynamic exchange game.	László Toka,Pietro Michiardi	10.1145/1400751.1400821
+The internet is flat: a brief history of networking in the next ten years.	Donald F. Towsley	10.1145/1400751.1400753
+Maximizing quorum availability in multi-clustered systems.	Roman Vitenberg,Ricardo Jiménez-Peris	10.1145/1400751.1400811
+Balancing energy consumption for uniform data gathering wireless sensor networks.	Haibo Zhang 0001,Hong Shen 0001,Yawen Chen 0001,Zonghua Zhang	10.1145/1400751.1400830
+Optimizing data popularity conscious bloom filters.	Ming Zhong,Pin Lu,Kai Shen,Joel I. Seiferas	10.1145/1400751.1400798
+Anti-Omega: the weakest failure detector for set agreement.	Piotr Zielinski	10.1145/1400751.1400761
+Proceedings of the Twenty-Seventh Annual ACM Symposium on Principles of Distributed Computing, PODC 2008, Toronto, Canada, August 18-21, 2008	Rida A. Bazzi,Boaz Patt-Shamir	

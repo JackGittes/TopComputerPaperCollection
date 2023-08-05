@@ -1,0 +1,58 @@
+Performance impact of proxies in data intensive client-server applications.	Michael D. Beynon,Alan Sussman,Joel H. Saltz	10.1145/305138.305216
+Microservers: a new memory semantics for massively parallel computing.	Jay B. Brockman,Peter M. Kogge,Thomas L. Sterling,Vincent W. Freeh,Shannon K. Kuntz	10.1145/305138.305234
+A graphic parallelizing environment for user-compiler interaction.	Claudia Roberta Calidonna,Maurizio Giordano,Mario Mango Furnari	10.1145/305138.305198
+Problem space promotion and its evaluation as a technique for efficient parallel computation.	Bradford L. Chamberlain,E. Christopher Lewis,Lawrence Snyder	10.1145/305138.305208
+A tile selection algorithm for data locality and cache interference.	Jacqueline Chame,Sungdo Moon	10.1145/305138.305245
+Nonlinear array layouts for hierarchical memory systems.	Siddhartha Chatterjee,Vibhor V. Jain,Alvin R. Lebeck,Shyam Mundhra,Mithuna Thottethodi	10.1145/305138.305231
+Reorganizing global schedules for register allocation.	Gang Chen,Michael D. Smith 0001	10.1145/305138.305224
+Cyclic dependence based data reference prediction.	Chi-Hung Chi,Jun-Li Yuan,Chin-Ming Cheung	10.1145/305138.305186
+Parallel I/O for scientific applications on heterogeneous clusters: a resource-utilization approach.	Yong E. Cho,Marianne Winslett,Szu-Wen Kuo,Jonghyun Lee 0001,Ying Chen 0001	10.1145/305138.305200
+Reducing branch misprediction penalties via dynamic control independence detection.	Yuan C. Chou,Jason Fung,John Paul Shen	10.1145/305138.305175
+New shape analysis techniques for automatic parallelization of C codes.	Francisco Corbera,Rafael Asenjo,Emilio L. Zapata	10.1145/305138.305196
+A comparison of two approaches for independent scaling up of processing and communication capacities in multicomputer networks.	A. Ferre-Vilaplana,José M. Bernabéu-Aubán	10.1145/305138.305217
+A new method to make communication latency uniform: distributed routing balancing.	Daniel Franco 0002,Indhira Garcés,Emilio Luque	10.1145/305138.305195
+Shared virtual memory with automatic update support.	Liviu Iftode,Matthias A. Blumrich,Cezary Dubnicki,David L. Oppenheimer,Jaswinder Pal Singh,Kai Li 0001	10.1145/305138.305191
+Comparing the memory system performance of the HP V-class and SGI Origin 2000 multiprocessors using microbenchmarks and scientific applications.	Ravi R. Iyer 0001,Nancy M. Amato,Lawrence Rauchwerger,Laxmi N. Bhuyan	10.1145/305138.305211
+Application scaling under shared virtual memory on a cluster of SMPs.	Dongming Jiang,Brian O&apos;Kelley,Xiang Yu,Sanjeev Kumar,Angelos Bilas,Jaswinder Pal Singh	10.1145/305138.305190
+Communication conscious radix sort.	Daniel Jiménez-González,Josep Lluís Larriba-Pey,Juan J. Navarro	10.1145/305138.305166
+An integer linear programming approach for optimizing cache locality.	Mahmut T. Kandemir,Prithviraj Banerjee,Alok N. Choudhary,J. Ramanujam,Eduard Ayguadé	10.1145/305138.305247
+Symmetry and performance in consistency protocols.	Peter J. Keleher	10.1145/305138.305157
+An experimental evaluation of tiling and shackling for memory hierarchy management.	Induprakas Kodukula,Keshav Pingali,Robert Cox,Dror E. Maydan	10.1145/305138.305243
+An affine partitioning algorithm to maximize parallelism and minimize communication.	Amy W. Lim,Gerald I. Cheong,Monica S. Lam	10.1145/305138.305197
+Clustered speculative multithreaded processors.	Pedro Marcuello,Antonio González 0001	10.1145/305138.305214
+Increasing effective IPC by exploiting distant parallelism.	Ivan Martel,Daniel Ortega,Eduard Ayguadé,Mateo Valero	10.1145/305138.305212
+Improving the performance of bristled CC-NUMA systems using virtual channels and adaptivity.	José F. Martínez,Josep Torrellas,José Duato	10.1145/305138.305194
+Thread fork/join techniques for multi-level parallelism exploitation in NUMA multiprocessors.	Xavier Martorell,Eduard Ayguadé,Nacho Navarro,Julita Corbalán,Marc González 0001,Jesús Labarta	10.1145/305138.305206
+Improving memory hierarchy performance for irregular applications.	John M. Mellor-Crummey,David B. Whalley,Ken Kennedy	10.1145/305138.305228
+High-level semantic optimization of numerical codes.	Vijay Menon 0002,Keshav Pingali	10.1145/305138.305230
+Dynamic removal of redundant computations.	Carlos Molina,Antonio González 0001,Jordi Tubella	10.1145/305138.305239
+A comparative analysis of four parallelisation schemes.	Nandini Mukherjee,John R. Gurd	10.1145/305138.305204
+Exploiting SIMD parallelism in DSP and multimedia algorithms using the AltiVec technology.	Huy Nguyen,Lizy Kurian John	10.1145/305138.305150
+A quantitative architectural evaluation of synchronization algorithms and disciplines on ccNUMA systems: the case of the SGI Origin2000.	Dimitrios S. Nikolopoulos,Theodore S. Papatheodorou	10.1145/305138.305209
+Dynamic remote memory acquisition for parallel data mining on ATM-connected PC cluster.	Masato Oguchi,Masaru Kitsuregawa	10.1145/305138.305199
+Improving the performance of speculatively parallel applications on the Hydra CMP.	Kunle Olukotun,Lance Hammond,Mark Willey	10.1145/305138.305155
+Responsiveness without interrupts.	Dejan Perkovic,Peter J. Keleher	10.1145/305138.305172
+Low-level router design and its impact on supercomputer system performance.	Valentin Puente,José A. Gregorio,Cruz Izu,Ramón Beivide,Fernando Vallejo	10.1145/305138.305193
+Adding a vector unit to a superscalar processor.	Francisca Quintana,Jesús Corbal,Roger Espasa,Mateo Valero	10.1145/305138.305148
+On the complexity of list scheduling algorithms for distributed-memory systems.	Andrei Radulescu,Arjan J. C. van Gemund	10.1145/305138.305162
+Resource usage models for instruction scheduling: two new models and a classification.	V. Janaki Ramanan,Ramaswamy Govindarajan	10.1145/305138.305226
+Software trace cache.	Alex Ramírez,Josep Lluís Larriba-Pey,Carlos Navarro,Josep Torrellas,Mateo Valero	10.1145/305138.305178
+Classifying load and store instructions for memory renaming.	Glenn Reinman,Brad Calder,Dean M. Tullsen,Gary S. Tyson,Todd M. Austin	10.1145/305138.305218
+Eliminating synchronization bottlenecks in object-based programs using adaptive replication.	Martin C. Rinard,Pedro C. Diniz	10.1145/305138.305167
+Improving virtual function call target prediction via dependence-based pre-computation.	Amir Roth,Andreas Moshovos,Gurindar S. Sohi	10.1145/305138.305213
+The pool of subsectors cache design.	Jeffrey B. Rothman,Alan Jay Smith	10.1145/305138.305156
+Mechanisms and policies for supporting fine-grained cycle stealing.	Kyung Dong Ryu,Jeffrey K. Hollingsworth,Peter J. Keleher	10.1145/305138.305170
+A locality sensitive multi-module cache with explicit management.	F. Jesús Sánchez,Antonio González 0001	10.1145/305138.305158
+Efficient management of memory hierarchies in embedded DRAM systems.	Ashley Saulsbury,Su-Jaen Huang,Fredrik Dahlgren	10.1145/305138.305236
+A comparison of MPI, SHMEM and cache-coherent shared address space programming models on the SGI Origin2000.	Hongzhang Shan,Jaswinder Pal Singh	10.1145/305138.305210
+CACHET: an adaptive cache coherence protocol for distributed shared-memory systems.	Xiaowei Shen,Arvind,Larry Rudolph	10.1145/305138.305187
+Reducing cache misses using hardware and software page placement.	Timothy Sherwood,Brad Calder,Joel S. Emer	10.1145/305138.305189
+Realizing the performance potential of the virtual interface architecture.	Evan Speight,Hazim Abdel-Shafi,John K. Bennett	10.1145/305138.305192
+A new &quot;quad-tree-based&quot; sub-system allocation technique for mesh-connected parallel machines.	Jeeraporn Srisawat,Nikitas A. Alexandridis	10.1145/305138.305160
+A design analysis of a hybrid technology multithreaded architecture for petaflops scale computation3.	Thomas L. Sterling,Larry A. Bergman	10.1145/305138.305205
+The design and evaluation of high performance communication using a Gigabit Ethernet.	Shinji Sumimoto,Hiroshi Tezuka,Atsushi Hori,Hiroshi Harada,Toshiyuki Takahashi,Yutaka Ishikawa	10.1145/305138.305202
+SMARTS: exploiting temporal locality and parallelism through vertical execution.	Suvas Vajracharya,Steve Karmesin,Peter H. Beckman,James Crotinger,Allen D. Malony,Sameer Shende,R. R. Oldehoeft,Stephen Smith 0002	10.1145/305138.305207
+Adapting cache line size to application behavior.	Alexander V. Veidenbaum,Weiyu Tang,Rajesh K. Gupta 0001,Alexandru Nicolau,Xiaomei Ji	10.1145/305138.305188
+The scalability of multigrain systems.	Donald Yeung	10.1145/305138.305203
+Fast cluster failover using virtual memory-mapped communication.	Yuanyuan Zhou 0001,Peter M. Chen,Kai Li 0001	10.1145/305138.305215
+Proceedings of the 13th international conference on Supercomputing, ICS 1999, Rhodes, Greece, June 20-25, 1999	Theodore S. Papatheodorou,Mateo Valero,Constantine D. Polychronopoulos,Yoichi Muraoka,Jesús Labarta	10.1145/305138

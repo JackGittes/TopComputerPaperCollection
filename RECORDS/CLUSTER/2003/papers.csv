@@ -1,0 +1,80 @@
+Parallel Job Scheduling on Multicluster Computing Systems.	Jemal H. Abawajy,Sivarama P. Dandamudi	10.1109/CLUSTR.2003.1253294
+Co-Ordinated Coscheduling in Time-Sharing Clusters through a Generic Framework.	Saurabh Agarwal,Gyu Sang Choi,Chita R. Das,Andy B. Yoo,Shailabh Nagar	10.1109/CLUSTR.2003.1253303
+GridRM: An Extensible Resource Monitoring System.	Mark Baker,Garry Smith	10.1109/CLUSTR.2003.1253317
+Communication Middleware Systems for Heterogenous Clusters: A Comparative Study.	Daniel Balkanski,Mario Trams,Wolfgang Rehm	10.1109/CLUSTR.2003.1253359
+On the InfiniBand Subnet Discovery Process.	Aurelio Bermúdez,Rafael Casado,Francisco J. Quiles 0001,Timothy Mark Pinkston,José Duato	10.1109/CLUSTR.2003.1253361
+Coordinated Checkpoint versus Message Log for Fault Tolerant MPI.	Aurélien Bouteiller,Pierre Lemarinier,Géraud Krawezik,Franck Cappello	10.1109/CLUSTR.2003.1253321
+A Performance Comparison of Linux and a Lightweight Kernel.	Ron Brightwell,Rolf Riesen,Keith D. Underwood,Trammell Hudson,Patrick G. Bridges,Arthur B. Maccabe	10.1109/CLUSTR.2003.1253322
+Building and Managing Clusters with NPACI Rocks.	Greg Bruno,Mason J. Katz,Philip M. Papadopoulos,Federico D. Sacerdoti,L. Liew,N. Ninaba	10.1109/CLUSTER.2003.10009
+A Distributed Performance Analysis Architecture for Clusters.	Holger Brunst,Wolfgang E. Nagel,Allen D. Malony	10.1109/CLUSTR.2003.1253301
+The ProcessManagement Component of a Scalable Systems Software Environment.	Ralph Butler,Narayan Desai,Andrew Lusk,Ewing L. Lusk	10.1109/CLUSTR.2003.1253315
+The Gridbus Toolkit for Grid and Utility Computing.	Rajkumar Buyya	10.1109/CLUSTER.2003.10011
+Improving the Performance of MPI Derived Datatypes by Optimizing Memory-Access Cost.	Surendra Byna,William D. Gropp,Xian-He Sun,Rajeev Thakur	10.1109/CLUSTR.2003.1253341
+Computing Large-Scale Alignments on a Multi-Cluster.	Chunxi Chen,Bertil Schmidt	10.1109/CLUSTR.2003.1253297
+Efficient Structured Data Access in Parallel File Systems.	Avery Ching,Alok N. Choudhary,Wei-keng Liao,Robert B. Ross,William D. Gropp	10.1109/CLUSTR.2003.1253331
+Improving Performance of a Dynamic Load Balancing System by Using Number of Effective Tasks.	Min Choi,Jung-Lok Yu,Hojoong Kim,Seung Ryoul Maeng	10.1109/CLUSTR.2003.1253344
+&quot;Plug-and-Play&quot; Cluster Computing Using Mac OS X.	Dean E. Dauger,Viktor K. Decyk	10.1109/CLUSTR.2003.1253343
+High Service Reliability for Cluster Server Systems.	Mustafa Mat Deris,M. Rabiei,Ahmad Noraziah,H. M. Suzuri	10.1109/CLUSTR.2003.1253326
+BCFG: A Con.guration Management Tool for Heterogeneous Environments.	Narayan Desai,Andrew Lusk,Rick Bradshaw,Rémy Evard	10.1109/CLUSTR.2003.1253358
+Distributed Recursive Sets: Programmability and Effectiveness for Data Intensive Applications.	Roxana Diaconescu,Reidar Conradi	10.1109/CLUSTR.2003.1253354
+HPCM: A Pre-Compiler Aided Middleware for the Mobility of Legacy Code.	Cong Du,Xian-He Sun,Kasidit Chanchio	10.1109/CLUSTR.2003.1253314
+JavaSplit: A Runtime for Execution of Monolithic Java Programs on Heterogeneous Collections of Commodity Workstations.	Michael Factor,Assaf Schuster,Konstantin Shagin	10.1109/CLUSTR.2003.1253306
+A Kernel Running in a DSM - Design Aspects of a Distributed Operating System.	Ralph Göckelmann,Michael Schöttner,Stefan Frenz,Peter Schulthess	10.1109/CLUSTR.2003.1253353
+Using MPI-2: Advanced Features of the Message Passing Interface.	William D. Gropp,Ewing L. Lusk,Robert B. Ross,Rajeev Thakur	10.1109/CLUSTER.2003.10010
+Dynamic Scheduling of Parallel Real-Time Jobs by Modelling Spare Capabilities in Heterogeneous Clusters.	Ligang He,Stephen A. Jarvis,Daniel P. Spooner,Graham R. Nudd	10.1109/CLUSTR.2003.1253293
+FJM: A High Performance Java Message Library.	Tsun-Yu Hsiao,Ming-Chun Cheng,Hsin-Ta Chiao,Shyan-Ming Yuan	10.1109/CLUSTR.2003.1253349
+View I/O: Improving the Performance of Non-Contiguous I/O.	Florin Isaila,Walter F. Tichy	10.1109/CLUSTR.2003.1253332
+Efficient Distributed Disk Caching in Data Grid Management.	Song Jiang 0001,Xiaodong Zhang 0001	10.1109/CLUSTR.2003.1253346
+Cluster Architecture with Lightweighted Redundant TCP Stacks.	Hai Jin 0001,Zhiyuan Shao	10.1109/CLUSTR.2003.1253350
+Grid Demo - Live Demonstrations of Grid Technologies and Applications.	Péter Kacsuk,Rajkumar Buyya	10.1109/CLUSTER.2003.10000
+Interstitial Computing: Utilizing Spare Cycles on Supercomputers.	Stephen D. Kleban,Scott H. Clearwater	10.1109/CLUSTR.2003.1253295
+Performance Evaluation of Routing Algorithms in RHiNET-2 Cluster.	Michihiro Koibuchi,Konosuke Watanabe,Kenichi Kono,Akiya Jouraku,Hideharu Amano	10.1109/CLUSTR.2003.1253339
+Efficient Parallel Out-of-Core Matrix Transposition.	Sriram Krishnamoorthy,Gerald Baumgartner,Daniel Cociorva,Chi-Chung Lam,P. Sadayappan	10.1109/CLUSTR.2003.1253328
+Performance Analysis of a Large-Scale Cosmology Application on Three Cluster Systems.	Zhiling Lan,Prathibha Deshikachar	10.1109/CLUSTR.2003.1253299
+Availability Prediction and Modeling of High Availability OSCAR Cluster.	Chokchai Leangsuksun,Lixin Shen,Tong Liu 0008,Hertong Song,Stephen L. Scott	10.1109/CLUSTR.2003.1253337
+Run-Time Prediction of Parallel Applications on Shared Environments.	Byoung-Dai Lee,Jennifer M. Schopf	10.1109/CLUSTR.2003.1253355
+OptimalGrid: Middleware for Automatic Deployment of Distributed FEM Problems on an Internet-Based Computing Grid.	Tobin J. Lehman,James H. Kaufman	10.1109/CLUSTR.2003.1253312
+VegaFS: A Prototype for File-Sharing Crossing Multiple Administrative Domains.	Wei Li 0008,Jianmin Liang,Zhiwei Xu 0002	10.1109/CLUSTR.2003.1253319
+Dynamic Self-Adaptive Replica Location Method in Data Grids.	Dongsheng Li 0001,Nong Xiao,Xicheng Lu,Yijie Wang 0001,Kai Lu	10.1109/CLUSTR.2003.1253345
+Adding Memory Resource Consideration into Workload Distribution for Software DSM Systems.	Tyng-Yeu Liang,Yen-Tao Liu,Ce-Kuen Shieh	10.1109/CLUSTR.2003.1253335
+Parallel Design Pattern for Computational Biology and Scientific Computing Applications.	Weiguo Liu,Bertil Schmidt	10.1109/CLUSTR.2003.1253348
+An Instance-Oriented Security Mechanism in Grid-Based Mobile Agent System.	Tianchi Ma,Shanping Li	10.1109/CLUSTR.2003.1253356
+QoS-Aware Adaptive Resource Management in Distributed Multimedia System Using Server Clusters.	Mohammad Riaz Moghal,Mohammad Saleem Mian	10.1109/CLUSTR.2003.1253360
+Optimizing Mechanisms for Latency Tolerance in Remote Memory Access Communication on Clusters.	Jarek Nieplocha,Vinod Tipparaju,Manojkumar Krishnan,Gopalakrishnan Santhanaraman,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2003.1253309
+Adaptive Grid Resource Brokering.	Abdulla Othman,Peter M. Dew,Karim Djemame,Iain Gourlay	10.1109/CLUSTR.2003.1253313
+Shared Memory Mirroring for Reducing Communication Overhead on Commodity Networks.	Bruce J. Palmer,Jarek Nieplocha,Edoardo Aprà	10.1109/CLUSTR.2003.1253342
+Designing Next Generation Clusters with Infiniband: Opportunities and Challenges.	Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2003.10012
+A High Performance Redundancy Scheme for Cluster File Systems.	Manoj Pillai,Mario Lauria	10.1109/CLUSTR.2003.1253318
+A System Recovery Benchmark for Clusters.	Ira Pramanick,James Mauro,Ji Zhu	10.1109/CLUSTR.2003.1253338
+Towards Load Balancing Support for I/O-Intensive Parallel Jobs in a Cluster of Workstations.	Xiao Qin 0001,Hong Jiang 0001,Yifeng Zhu,David R. Swanson	10.1109/CLUSTR.2003.1253305
+From Clusters to the Fabric: The Job Management Perspective.	Thomas Röblitz,Florian Schintke,Alexander Reinefeld	10.1109/CLUSTR.2003.1253351
+Implications of a PIM Architectural Model for MPI.	Arun Rodrigues,Richard C. Murphy,Peter M. Kogge,Jay B. Brockman,Ron Brightwell,Keith D. Underwood	10.1109/CLUSTR.2003.1253323
+Wide Area Cluster Monitoring with Ganglia.	Federico D. Sacerdoti,Mason J. Katz,Matthew L. Massie,David E. Culler	10.1109/CLUSTR.2003.1253327
+Kernel Implementations of Locality-Aware Dispatching Techniques for Web Server Clusters.	Michele Di Santo,Nadia Ranaldo,Eugenio Zimeo	10.1109/CLUSTR.2003.1253311
+A Hierarchical and Distributed Approach for Mapping Large Applications to Heterogeneous Grids Using Genetic Algorithms.	Soumya Sanyal 0002,Amit Jain,Sajal K. Das 0001,Rupak Biswas	10.1109/CLUSTR.2003.1253357
+Reusable Mobile Agents for Cluster Computing.	Ichiro Satoh	10.1109/CLUSTR.2003.1253324
+Load Distribution for Heterogeneous and Non-Dedicated Clusters Based on Dynamic Monitoring and Differentiated Services.	Hermes Senger,Liria Matsumoto Sato	10.1109/CLUSTR.2003.1253316
+A Robust Scheduling Strategy for Moldable Scheduling of Parallel Jobs.	Sudha Srinivasan,Sriram Krishnamoorthy,P. Sadayappan	10.1109/CLUSTR.2003.1253304
+An Energy-Based Implicit Co-Scheduling Model for Beowulf Cluster.	Somsak Sriprayoonsakul,Putchong Uthayopas	10.1109/CLUSTR.2003.1253336
+Performance Analysis of Java Message-Passing Libraries on Fast Ethernet, Myrinet and SCI Clusters.	Guillermo L. Taboada,Juan Touriño,Ramon Doallo	10.1109/CLUSTR.2003.1253307
+Optimized Implementation of Extendible Hashing to Support Large File System Directory.	Rongfeng Tang,Dan Meng,Sining Wu	10.1109/CLUSTR.2003.1253347
+A Performance Monitor Based on Virtual Global Time for Clusters of PCs.	Michela Taufer,Thomas Stricker	10.1109/CLUSTR.2003.1253300
+Impact of Computational Resource Reservation to the Communication Performance in the Hypercluster Environment.	Jim Kai-Wing Tse,Daniel Pak-Kong Lun	10.1109/CLUSTR.2003.1253310
+Towards an Efficient Cluster-Based E-Commerce Server.	Victoria Ungureanu,Benjamin Melamed,Michael N. Katehakis	10.1109/CLUSTR.2003.1253352
+Compiler Optimized Remote Method Invocation.	Ronald Veldema,Michael Philippsen	10.1109/CLUSTR.2003.1253308
+Application-Bypass Reduction for Large-Scale Clusters.	Adam Wagner,Darius Buntinas,Dhabaleswar K. Panda 0001,Ron Brightwell	10.1109/CLUSTR.2003.1253340
+CTFS: A New Light-Weight, Cooperative Temporary File System for Cluster-Based Web Servers.	Jun Wang 0001	10.1109/CLUSTR.2003.1253330
+A General Self-Adaptive Task Scheduling System for Non-Dedicated Heterogeneous Computing.	Ming Wu 0006,Xian-He Sun	10.1109/CLUSTR.2003.1253334
+Supporting Efficient Noncontiguous Access in PVFS over InfiniBand.	Jiesheng Wu,Pete Wyckoff,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2003.1253333
+Message from the TFCC Co-Chairs.		10.1109/CLUSTER.2003.10003
+Message from the General Co-Chairs.		10.1109/CLUSTER.2003.10008
+Message from the Program Co-Chairs.		10.1109/CLUSTER.2003.10007
+Cluster 2003 Conference Organization Committee.		10.1109/CLUSTER.2003.10001
+Program Committee.		10.1109/CLUSTER.2003.10006
+Additional Reviewers.		10.1109/CLUSTER.2003.10004
+Cluster 2003 Sponsors.		10.1109/CLUSTER.2003.10005
+Auto-CFD: Efficiently Parallelizing CFD Applications on Clusters.	Li Xiao 0001,Xiaodong Zhang 0001,Zhengqian Kuang,Baiming Feng,Jichang Kang	10.1109/CLUSTR.2003.1253298
+Design and Performance of the Dawning Cluster File System.	Jin Xiong,Sining Wu,Dan Meng,Ninghui Sun,Guojie Li	10.1109/CLUSTR.2003.1253320
+A Case Study of Parallel I/O for Biological Sequence Search on Linux Clusters.	Yifeng Zhu,Hong Jiang 0001,Xiao Qin 0001,David R. Swanson	10.1109/CLUSTR.2003.1253329
+A Cluster-Based Solution for High Performance Hmmpfam Using EARTH Execution Model.	Weirong Zhu,Yanwei Niu,Jizhu Lu,Chuan Shen,Guang R. Gao	10.1109/CLUSTR.2003.1253296
+2003 IEEE International Conference on Cluster Computing (CLUSTER 2003), 1-4 December 2003, Kowloon, Hong Kong, China		

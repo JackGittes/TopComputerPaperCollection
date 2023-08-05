@@ -1,0 +1,86 @@
+Extending I/O through high performance data services.	Hasan Abbasi,Jay F. Lofstead,Fang Zheng,Karsten Schwan,Matthew Wolf,Scott Klasky	10.1109/CLUSTR.2009.5289167
+GridAtlas - A grid application and resource configuration repository and discovery service.	Enis Afgan,Purushotham V. Bangalore,Dustin Duncan	10.1109/CLUSTR.2009.5289195
+Scalable I/O forwarding framework for high-performance computing systems.	Nawab Ali,Philip H. Carns,Kamil Iskra,Dries Kimpe,Samuel Lang,Robert Latham,Robert B. Ross,Lee Ward,P. Sadayappan	10.1109/CLUSTR.2009.5289188
+Performance analysis of memory transfers and GEMM subroutines on NVIDIA Tesla GPU cluster.	Veerendra Allada,Troy Benjegerdes,Brett M. Bode	10.1109/CLUSTR.2009.5289124
+On optimizing I/O through InfiniBand RDMA for commodity clusters.	Benjamin A. Allan,Helen Chen,Scott Cranford,Ron Minnich,Don W. Rudish,Lee Ward	10.1109/CLUSTR.2009.5289146
+Integrating Web 2.0 technologies with scientific simulation codes for real-time collaboration.	Gabrielle Allen,Frank Löffler 0001,Thomas Radke,Erik Schnetter,Edward Seidel	10.1109/CLUSTR.2009.5289130
+An application based MPI message throughput benchmark.	Brian W. Barrett,K. Scott Hemmert	10.1109/CLUSTR.2009.5289198
+Two-phase load distribution for rendering large 3D models on a graphics cluster.	Alexandre Beaudoin,Dhrubajyoti Goswami,Sudhir P. Mudur	10.1109/CLUSTR.2009.5289203
+Numerically stable, single-pass, parallel statistics algorithms.	Janine Bennett,Ray W. Grout,Philippe P. Pébay,Diana C. Roe,David C. Thompson 0001	10.1109/CLUSTR.2009.5289161
+A global operating system for HPC clusters.	Emiliano Betti,Marco Cesati,Roberto Gioiosa,Francesco Piermaria	10.1109/CLUSTR.2009.5289191
+Reasons for a pessimistic or optimistic message logging protocol in MPI uncoordinated failure, recovery.	Aurélien Bouteiller,Thomas Ropars,George Bosilca,Christine Morin,Jack J. Dongarra	10.1109/CLUSTR.2009.5289157
+Cluster fault-tolerance: An experimental evaluation of checkpointing and MapReduce through simulation.	Thomas C. Bressoud,Michael Kozuch	10.1109/CLUSTR.2009.5289185
+24/7 Characterization of petascale I/O workloads.	Philip H. Carns,Robert Latham,Robert B. Ross,Kamil Iskra,Samuel Lang,Katherine Riley	10.1109/CLUSTR.2009.5289150
+A distributed device paradigm for commodity, applications.	Enrique Cauich,John U. Duselis,Richert Wang,Isaac D. Scherson	10.1109/CLUSTR.2009.5289202
+Resource selection and allocation for dynamic adaptive computing in heterogeneous clusters.	John U. Duselis,Enrique Cauich,Richert Wang,Isaac D. Scherson	10.1109/CLUSTR.2009.5289204
+MITHRA: Multiple data independent tasks on a heterogeneous resource architecture.	Reza Farivar 0002,Abhishek Verma,Ellick Chan,Roy H. Campbell	10.1109/CLUSTR.2009.5289201
+An assessment of multi-core for a performance prediction model of tomographic reconstruction.	Paula Cecilia Fritzsche,Ronal Muresano,Dolores Rexachs,Emilio Luque	10.1109/CLUSTR.2009.5289137
+Combining I/O operations for multiple array variables in parallel netCDF.	Kui Gao,Wei-keng Liao,Alok N. Choudhary,Robert B. Ross,Robert Latham	10.1109/CLUSTR.2009.5289153
+Resource manager with multi-core support for parallel desktop.	Jose Ramon García,Josep L. Lérida,Porfidio Hernández	10.1109/CLUSTR.2009.5289134
+The event data store and I/O framework for the ATLAS experiment at the Large Hadron Collider.	Peter van Gemmeren,David Malon	10.1109/CLUSTR.2009.5289147
+Finding a tradeoff between host interrupt load and MPI latency over Ethernet.	Brice Goglin,Nathalie Furmento	10.1109/CLUSTR.2009.5289165
+Overlapping computation and communication in SMT clusters with commodity interconnects.	Georgios I. Goumas,Nikos Anastopoulos,Nectarios Koziris,Nikolas Ioannou	10.1109/CLUSTR.2009.5289174
+Investigating the use of GPU-accelerated nodes for SAR image formation.	Timothy D. R. Hartley,Ahmed Fasih,Charles A. Berdanier,Füsun Özgüner,Ümit V. Çatalyürek	10.1109/CLUSTR.2009.5289125
+On-demand file staging system for Linux clusters.	Atsushi Hori,Yoshikazu Kamoshida,Hiroya Matsuba,Kazuki Ohta,Takashi Yasui,Shinji Sumimoto,Yutaka Ishikawa	10.1109/CLUSTR.2009.5289189
+XCPU2 distributed seamless desktop extension.	Latchesar Ionkov,Eric Van Hensbergen	10.1109/CLUSTR.2009.5289166
+Experiences with hybrid clusters.	Damir Jamsek,Eric Van Hensbergen	10.1109/CLUSTR.2009.5289126
+Comparing map-reduce and FREERIDE for data-intensive applications.	Wei Jiang,Vignesh T. Ravi,Gagan Agrawal	10.1109/CLUSTR.2009.5289199
+Live virtual machine migration with adaptive, memory compression.	Hai Jin 0001,Li Deng,Song Wu 0001,Xuanhua Shi,Xiaodong Pan	10.1109/CLUSTR.2009.5289170
+GPU clusters for high-performance computing.	Volodymyr V. Kindratenko,Jeremy Enos,Guochun Shi,Michael T. Showerman,Galen Wesley Arnold,John E. Stone,James C. Phillips,Wen-mei W. Hwu	10.1109/CLUSTR.2009.5289128
+Reducing network contention with mixed workloads on modern multicore, clusters.	Matthew J. Koop,Miao Luo,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2009.5289162
+A symmetric O(n log n) message distributed snapshot algorithm for large-scale systems.	Ajay D. Kshemkalyani	10.1109/CLUSTR.2009.5289139
+Dynamic screen division for load balancing the raycasting of irregular data.	Bernardo B. Labronici,Cristiana Bentes,Lúcia Maria de A. Drummond,Ricardo C. Farias	10.1109/CLUSTR.2009.5289164
+Interfaces for coordinated access in the file system.	Samuel Lang,Robert Latham,Robert B. Ross,Dries Kimpe	10.1109/CLUSTR.2009.5289152
+Topics on measuring real power usage on high performance computing platforms.	James H. Laros III,Kevin T. Pedretti,Suzanne M. Kelly,John P. Vandyke,Kurt B. Ferreira,Courtenay T. Vaughan,Mark Swan	10.1109/CLUSTR.2009.5289179
+Power-aware scheduling of virtual machines in DVFS-enabled clusters.	Gregor von Laszewski,Lizhe Wang 0001,Andrew J. Younge,Xi He 0002	10.1109/CLUSTR.2009.5289182
+Message passing for GPGPU clusters: CudaMPI.	Orion Sky Lawlor	10.1109/CLUSTR.2009.5289129
+HPP-Controller: An intra-node controller designed for connecting heterogeneous CPUs.	Qiang Li,Panyong Zhang,Ninghui Sun	10.1109/CLUSTR.2009.5289136
+Architecting iSCSI-based I/O systems for high performance computing clusters.	Jacob Liberman,Li Ou,Suneet Chandok	10.1109/CLUSTR.2009.5289138
+MDCSim: A multi-tier data center simulation, platform.	Seung-Hwan Lim,Bikash Sharma,Gunwoo Nam,Eun-Kyoung Kim,Chita R. Das	10.1109/CLUSTR.2009.5289159
+Implementing WebGIS on Hadoop: A case study of improving small file I/O performance on HDFS.	Xuhui Liu,Jizhong Han,Yunqin Zhong,Chengde Han,Xubin He	10.1109/CLUSTR.2009.5289196
+Computing median values in a cloud environment using GridBatch and MapReduce.	Huan Liu,Dan Orban	10.1109/CLUSTR.2009.5289194
+On-line automatic resource selection in distributed computing.	Hao Liu 0005,Søren-Aksel Sørensen,Amril Nazir	10.1109/CLUSTR.2009.5289181
+Analyzing massive astrophysical datasets: Can Pig/Hadoop or a relational DBMS help?	Sarah Loebman,Dylan Nunley,YongChul Kwon,Bill Howe,Magdalena Balazinska,Jeffrey P. Gardner	10.1109/CLUSTR.2009.5289149
+Fast-Response Dynamic Routing Balancing for high-speed interconnection networks.	Diego Lugones,Daniel Franco 0002,Emilio Luque	10.1109/CLUSTR.2009.5289142
+DCR: A fully transparent checkpoint/restart framework for distributed systems.	Can Ma,Zhigang Huo,Jingnan Cai,Dan Meng	10.1109/CLUSTR.2009.5289172
+Improving metadata management for small files in HDFS.	Grant Mackey,Saba Sehrish,Jun Wang 0001	10.1109/CLUSTR.2009.5289133
+Using a cluster as a memory resource: A fast and large virtual memory on MPI.	Hiroko Midorikawa,Kazuhiro Saito,Mitsuhisa Sato,Taisuke Boku	10.1109/CLUSTR.2009.5289180
+Overlapped checkpointing with hardware assist.	Christopher Mitchell,James Nunez,Jun Wang 0001	10.1109/CLUSTR.2009.5289154
+WinBioinfTools: Bioinformatics tools for Windows cluster.	Hisham Mohamed,Mohamed Ibrahim Abouelhoda	10.1109/CLUSTR.2009.5289141
+Parallel implementation of a tightly coupled ablation prediction code using MPI.	Nathan Mullenix,Alex Povitsky	10.1109/CLUSTR.2009.5289140
+How SPMD applications could be efficiently executed on multicore environments?	Ronal Muresano,Dolores Rexachs,Emilio Luque	10.1109/CLUSTR.2009.5289135
+A compiler for high performance computing with many-core accelerators.	Naohito Nakasato,J. Jun Jun Makino	10.1109/CLUSTR.2009.5289127
+Distributed control plane architecture of next generation IP routers.	Kim Khoa Nguyen,Brigitte Jaumard	10.1109/CLUSTR.2009.5289143
+VCCP: A transparent, coordinated checkpointing system for virtualization-based cluster computing.	Hong Ong,Natthapol Saragol,Kasidit Chanchio,Chokchai Leangsuksun	10.1109/CLUSTR.2009.5289183
+Workload-adaptive management of energy-smart disk storage systems.	Ekow J. Otoo,Doron Rotem,Shih-Chiang Tsao	10.1109/CLUSTR.2009.5289151
+Granules: A lightweight, streaming runtime for cloud computing with support, for Map-Reduce.	Shrideep Pallickara,Jaliya Ekanayake,Geoffrey C. Fox	10.1109/CLUSTR.2009.5289160
+A performance evaluation of scientific I/O workloads on Flash-based SSDs.	Stan Park,Kai Shen	10.1109/CLUSTR.2009.5289148
+Improving I/O performance using soft-QoS-based dynamic storage cache partitioning.	Christina M. Patrick,Rajat Garg,Seung Woo Son 0001,Mahmut T. Kandemir	10.1109/CLUSTR.2009.5289192
+Oblivious routing schemes in extended generalized Fat Tree networks.	Germán Rodríguez,Cyriel Minkenberg,Ramón Beivide,Ronald P. Luijten,Jesús Labarta,Mateo Valero	10.1109/CLUSTR.2009.5289145
+Zone Clusters: A virtual cluster based upon solaris containers.	Ellard T. Roush,Zoram Thanga	10.1109/CLUSTR.2009.5289197
+Design alternatives for implementing fence synchronization in MPI-2 one-sided communication for InfiniBand clusters.	Gopalakrishnan Santhanaraman,Tejus Gangadharappa,Sundeep Narravula,Amith R. Mamidala,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2009.5289200
+Increasing the availability provided by RADIC with low overhead.	Guna Santos,Leonardo Fialho,Dolores Rexachs,Emilio Luque	10.1109/CLUSTR.2009.5289163
+HPMR: Prefetching and pre-shuffling in shared MapReduce computation environment.	Sangwon Seo,Ingook Jang,Kyungchang Woo,Inkyo Kim,Jin-Soo Kim 0001,Seungryoul Maeng	10.1109/CLUSTR.2009.5289171
+Scheduling strategies for HPC as a service (HPCaaS).	Gilad Shainer,Tong Liu,Jeffrey Layton,Joshua Mora	10.1109/CLUSTR.2009.5289158
+Analytical modeling and optimization for affinity based thread scheduling on multicore systems.	Fengguang Song,Shirley Moore,Jack J. Dongarra	10.1109/CLUSTR.2009.5289173
+Utility analysis for Internet-oriented server consolidation in VM-based data centers.	Ying Song,Yanwei Zhang,Yuzhong Sun,Weisong Shi	10.1109/CLUSTR.2009.5289190
+RDMA over Ethernet - A preliminary study.	Hari Subramoni,Ping Lai,Miao Luo,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2009.5289144
+V-MCS: A configuration system for virtual machines.	Xian-He Sun,Cong Du,Hongbo Zou,Yong Chen 0001,Prerak Shukla	10.1109/CLUSTR.2009.5289131
+HPC failure prediction proficiency metrics.	Narate Taerat,Chokchai Leangsuksun	10.1109/CLUSTR.2009.5289156
+Data mining analysis to validate performance tuning practices for HPL.	Tuan Zea Tan,Rick Siow Mong Goh,Verdi March,Simon See	10.1109/CLUSTR.2009.5289175
+Fault-aware, utility-based job scheduling on Blue, Gene/P systems.	Wei Tang 0001,Zhiling Lan,Narayan Desai,Daniel Buettner	10.1109/CLUSTR.2009.5289206
+Coordinating the use of GPU and CPU for improving performance of compute intensive applications.	George Teodoro,Rafael Sachetto Oliveira,Olcay Sertel,Metin N. Gurcan,Wagner Meira Jr.,Ümit V. Çatalyürek,Renato Ferreira 0001	10.1109/CLUSTR.2009.5289193
+A scalable and generic task scheduling system for communication libraries.	François Trahay,Alexandre Denis 0001	10.1109/CLUSTR.2009.5289169
+An efficient hardware-software approach to network fault tolerance with InfiniBand.	Abhinav Vishnu,Manojkumar Krishnan,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2009.5289168
+Cross-domain metadata management in data intensive distributed computing environment.	Xinqi Wang,Ismail Akturk,Tevfik Kosar	10.1109/CLUSTR.2009.5289122
+Two-phase conflict detection for transactional memory on clusters.	Ruibo Wang,Kai Lu,Xicheng Lu	10.1109/CLUSTR.2009.5289123
+Accelerating SIFT on parallel architectures.	Seth Warn,Wesley Emeneker,Jackson D. Cothren,Amy W. Apon	10.1109/CLUSTR.2009.5289155
+Using clouds for metagenomics: A case study.	Jared Wilkening,Andreas Wilke,Narayan Desai,Folker Meyer	10.1109/CLUSTR.2009.5289187
+Integrating software distributed shared memory and message passing programming.	H&apos;sien J. Wong,Alistair P. Rendell	10.1109/CLUSTR.2009.5289176
+Parallel application signature.	Alvaro Wong,Dolores Rexachs,Emilio Luque	10.1109/CLUSTR.2009.5289132
+How reliable are parallel disk systems when energy-saving schemes are involved?	Shu Yin,Xiaojun Ruan,Adam Manzanares,Xiao Qin 0001	10.1109/CLUSTR.2009.5289184
+An innovative application execution toolkit for multicluster grids.	Zhifeng Yun,Zhou Lei,Gabrielle Allen,Daniel S. Katz,Tevfik Kosar,Shantenu Jha,Jagannathan Ramanujam	10.1109/CLUSTR.2009.5289121
+SJMR: Parallelizing spatial join with MapReduce on clusters.	Shubin Zhang,Jizhong Han,Zhiyong Liu,Kai Wang,Zhiyong Xu 0003	10.1109/CLUSTR.2009.5289178
+Batch queue resource scheduling for workflow applications.	Yang Zhang,Charles Koelbel,Keith D. Cooper	10.1109/CLUSTR.2009.5289186
+Reliability-aware scalability models for high performance computing.	Ziming Zheng,Zhiling Lan	10.1109/CLUSTR.2009.5289177
+Proceedings of the 2009 IEEE International Conference on Cluster Computing, August 31 - September 4, 2009, New Orleans, Louisiana, USA		

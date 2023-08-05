@@ -1,0 +1,115 @@
+How will CAD handle billion-transistor systems? (panel).	Robert C. Aitken,Jason Cong,Randy Harr,Kenneth L. Shepard,Wayne H. Wolf	10.1145/288548.288552
+Verification of RTL generated from scheduled behavior in a high-level synthesis flow.	Pranav Ashar,Subhrajit Bhattacharya,Anand Raghunathan,Akira Mukaiyama	10.1145/288548.289080
+Gate-size selection for standard cell libraries.	Frederik Beeftink,Prabhakar Kudva,David S. Kung 0001,Leon Stok	10.1145/288548.289084
+Dynamic power management of electronic systems.	Luca Benini,Alessandro Bogliolo,Giovanni De Micheli	10.1145/288548.289120
+Node sampling: a robust RTL power modeling approach.	Alessandro Bogliolo,Luca Benini	10.1145/288548.289071
+Static compaction using overlapped restoration and segment pruning.	Surendra Bommu,Srimat T. Chakradhar,Kiran B. Doreswamy	10.1145/288548.288592
+Dynamic fault collapsing and diagnostic test pattern generation for sequential circuits.	Vamsi Boppana,W. Kent Fuchs	10.1145/288548.288593
+Interface synthesis: a vertical slice from digital logic to software components.	Gaetano Borriello,Luciano Lavagno,Ross B. Ortega	10.1145/288548.289119
+Robust latch mapping for combinational equivalence checking.	Jerry R. Burch,Vigyan Singhal	10.1145/288548.289087
+Tight integration of combinational verification methods.	Jerry R. Burch,Vigyan Singhal	10.1145/288548.289088
+Graph matching-based algorithms for FPGA segmentation design.	Yao-Wen Chang,Jai-Ming Lin,D. F. Wong 0001	10.1145/288548.288557
+Fast and exact simultaneous gate and wire sizing by Lagrangian relaxation.	Chung-Ping Chen,Chris C. N. Chu,D. F. Wong 0001	10.1145/288548.289097
+Architecture driven circuit partitioning.	Chau-Shen Chen,TingTing Hwang,C. L. Liu 0001	10.1145/288548.289062
+Estimation of power sensitivity in sequential circuits with power macromodeling application.	Zhanping Chen,Kaushik Roy 0001,Edwin K. P. Chong	10.1145/288548.289072
+Synthesis of application specific instructions for embedded DSP software.	Hoon Choi,Seung Ho Hwang,Chong-Min Kyung,In-Cheol Park	10.1145/288548.289109
+Control generation for embedded systems based on composition of modal processes.	Pai H. Chou,Ken Hines,Kurt Partridge,Gaetano Borriello	10.1145/288548.288559
+A graph-partitioning-based approach for multi-layer constrained via minimization.	Yih-Chih Chou,Youn-Long Lin	10.1145/288548.289065
+A general approach for regularity extraction in datapath circuits.	Amit Chowdhary,Sudhakar Kale,Phani K. Saripella,Naresh Sehgal,Rajesh K. Gupta 0001	10.1145/288548.289050
+Fanout optimization under a submicron transistor-level delay model.	Pasquale Cocchini,Massoud Pedram,Gianluca Piccinini,Maurizio Zamboni	10.1145/288548.289085
+Multiway partitioning with pairwise movement.	Jason Cong,Sung Kyu Lim	10.1145/288548.289079
+Delay-oriented technology mapping for heterogeneous FPGAs with bounded resources.	Jason Cong,Songjie Xu	10.1145/288548.288558
+Noise considerations in circuit optimization.	Andrew R. Conn,Ruud A. Haring,Chandramouli Visweswariah	10.1145/288548.288617
+Lazy transition systems: application to timing optimization of asynchronous circuits.	Jordi Cortadella,Michael Kishinevsky,Alex Kondratyev,Luciano Lavagno,Alexander Taubin,Alexandre Yakovlev	10.1145/288548.288633
+Efficient analog circuit synthesis with simultaneous yield and robustness optimization.	Geert Debyser,Georges G. E. Gielen	10.1145/288548.288630
+Phase noise in oscillators: DAEs and colored noise sources.	Alper Demir 0001	10.1145/288548.288602
+High-level design validation and test.	Sujit Dey,Jacob A. Abraham,Yervant Zorian	10.1145/288548.288550
+CORDS: hardware-software co-synthesis of reconfigurable real-time distributed embedded systems.	Robert P. Dick,Niraj K. Jha	10.1145/288548.288561
+Symbolic algorithms for layout-oriented synthesis of pass transistor logic circuits.	Fabrizio Ferrandi,Alberto Macii,Enrico Macii,Massimo Poncino,Riccardo Scarsi,Fabio Somenzi	10.1145/288548.288619
+Shaping a VLSI wire to minimize delay using transmission line model.	Youxin Gao,D. F. Wong 0001	10.1145/288548.289096
+Wireplanning in logic synthesis.	Wilsin Gosti,Amit Narayan,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli	10.1145/288548.288556
+Simulation of high-Q oscillators.	Mark M. Gourary,Sergey L. Ulyanov,Michael M. Zharov,Sergey G. Rusakov	10.1145/288548.288601
+Verification by approximate forward and backward reachability.	Shankar G. Govindaraju,David L. Dill	10.1145/288548.289055
+Determination of worst-case aggressor alignment for delay calculation.	Paul D. Gross,Ravishankar Arunachalam,Karthik Rajagopal,Lawrence T. Pileggi	10.1145/288548.288616
+Optimal 2-D cell layout with integrated transistor folding.	Avaneendra Gupta,John P. Hayes	10.1145/288548.288590
+Test set compaction algorithms for combinational circuits.	Ilker Hamzaoglu,Janak H. Patel	10.1145/288548.288615
+Design of experiments in BDD variable ordering: lessons learned.	Justin E. Harlow III,Franc Brglez	10.1145/288548.289103
+Using precomputation in architecture and logic resynthesis.	Soha Hassoun,Carl Ebeling	10.1145/288548.288632
+Efficient equivalence checking of multi-phase designs using retiming.	Gagan Hasteer,Anmol Mathur,Prithviraj Banerjee	10.1145/288548.289086
+Efficient encoding for exact symbolic automata-based scheduling.	Steve Haynal,Forrest Brewer	10.1145/288548.289074
+Energy-efficiency in presence of deep submicron noise.	Rajamohana Hegde,Naresh R. Shanbhag	10.1145/288548.288618
+Embedded memories in system design - from technology to systems architecture.	Soren Hein,Vijay Nagasamy,Bernhard Rohfleisch,Christoforos E. Kozyrakis,Nikil D. Dutt,Francky Catthoor	10.1145/288548.288549
+GPCAD: a tool for CMOS op-amp synthesis.	Maria del Mar Hershenson,Stephen P. Boyd,Thomas H. Lee	10.1145/288548.288628
+Proposal of a timing model for CMOS logic gates driving a CRC load.	Akio Hirata,Hidetoshi Onodera,Keikichi Tamaru	10.1145/288548.289083
+Formal verification of pipeline control using controlled token nets and abstract interpretation.	Pei-Hsin Ho,Adrian J. Isles,Timothy Kam	10.1145/288548.289082
+On-line scheduling of hard real-time tasks on variable voltage processor.	Inki Hong,Miodrag Potkonjak,Mani B. Srivastava	10.1145/288548.289105
+CONCERT: a concurrent transient fault simulator for nonlinear analog circuits.	Junwei Hou,Abhijit Chatterjee	10.1145/288548.289058
+A fast, accurate, and non-statistical method for fault coverage estimation.	Michael S. Hsiao	10.1145/288548.288594
+High-level variable selection for partial-scan implementation.	Frank F. Hsu,Janak H. Patel	10.1145/288548.288564
+Real-time operating systems for embedded computing.	Serge Hustin,Miodrag Potkonjak,Eric Verhulst,Wayne H. Wolf	10.1145/288548.289349
+Testability analysis and multi-frequency ATPG for analog circuits and systems.	Sam D. Huynh,Seongwon Kim,Mani Soma,Jinyan Zhang	10.1145/288548.289057
+Reencoding for cycle-time minimization under fixed encoding length.	Balakrishnan Iyer,Maciej J. Ciesielski	10.1145/288548.288631
+Sampling schemes for computing OBDD variable orderings.	Jawahar Jain,William Adams,Masahiro Fujita	10.1145/288548.289099
+Adaptive variable reordering for symbolic model checking.	Gila Kamhi,Limor Fix	10.1145/288548.289054
+Arbitrary rectilinear block packing based on sequence pair.	Maggie Zhiwei Kang,Wayne Wei-Ming Dai	10.1145/288548.288623
+High-order Nyström schemes for efficient 3-D capacitance extraction.	Sharad Kapur,David E. Long	10.1145/288548.288604
+Intellectual property protection by watermarking combinational logic synthesis solutions.	Darko Kirovski,Yean-Yow Hwang,Miodrag Potkonjak,Jason Cong	10.1145/288548.288609
+Functional debugging of systems-on-chip.	Darko Kirovski,Miodrag Potkonjak,Lisa M. Guerra	10.1145/288548.289081
+Analysis of emerging core-based design lifecycle.	Kayhan Küçükçakar	10.1145/288548.289068
+Accurate calculation of bit-level transition activity using word-level statistics and entropy function.	Efstathios D. Kyriakis-Bitzaros,Spiridon Nikolaidis 0001,Anna Tatsaki	10.1145/288548.289095
+Signature hiding techniques for FPGA intellectual property protection.	John C. Lach,William H. Mangione-Smith,Miodrag Potkonjak	10.1145/288548.288606
+Transforming control-flow intensive designs to facilitate power management.	Ganesh Lakshminarayana,Anand Raghunathan,Niraj K. Jha,Sujit Dey	10.1145/288548.289107
+Using a single input to support multiple scan chains.	Kuen-Jong Lee,Jih-Jeen Chen,Cheng-Hua Huang	10.1145/288548.288563
+A quantitative approach to development and validation of synthetic benchmarks for behavioral synthesis.	Chunho Lee,Miodrag Potkonjak	10.1145/288548.289052
+An efficient DC root solving algorithm with guaranteed convergence for analog integrated CMOS circuits.	Francky Leyn,Georges G. E. Gielen,Willy M. C. Sansen	10.1145/288548.288629
+Efficient transient electrothermal simulation of CMOS VLSI circuits under electrical overstress.	Tong Li,Ching-Han Tsai,Sung-Mo Kang	10.1145/288548.288553
+Hardware/software co-synthesis with memory hierarchies.	Yanbing Li,Wayne H. Wolf	10.1145/288548.289066
+h-gamma: an RC delay metric based on a gamma distribution approximation of the homogeneous response.	Tao Lin,Emrah Acar,Lawrence T. Pileggi	10.1145/288548.288555
+Network flow based circuit partitioning for time-multiplexed FPGAs.	Huiqun Liu,D. F. Wong 0001	10.1145/288548.289077
+The design of a cache-friendly BDD library.	David E. Long	10.1145/288548.289102
+On accelerating pattern matching for technology mapping.	Yusuke Matsunaga	10.1145/288548.288587
+Finding all simple disjunctive decompositions using irredundant sum-of-products forms.	Shin-ichi Minato,Giovanni De Micheli	10.1145/288548.288586
+Approximate reachability don&apos;t cares for CTL model checking.	In-Ho Moon,Jae-Young Jang,Gary D. Hachtel,Fabio Somenzi,Jun Yuan 0007,Carl Pixley	10.1145/288548.289053
+CMOS analog circuit stack generation with matching constraints.	Ravindranath Naiknaware,Terri S. Fiez	10.1145/288548.289056
+Waiting false path analysis of sequential logic circuits for performance optimization.	Kazuhiro Nakamura,Kazuyoshi Takagi,Shinji Kimura,Katsumasa Watanabe	10.1145/288548.289059
+The channeled-BSG: a universal floorplan for simultaneous place/route with IC applications.	Shigetoshi Nakatake,Keishi Sakanushi,Yoji Kajitani,Masahiro Kawakita	10.1145/288548.289064
+Improving the computational performance of ILP-based problems.	M. Narasimhan,J. Ramanujam	10.1145/288548.289091
+Simulation of coupling capacitances using matrix partitioning.	Tuyen V. Nguyen,Anirudh Devgan,Ali Sadigh	10.1145/288548.288554
+Communication synthesis for distributed embedded systems.	Ross B. Ortega,Gaetano Borriello	10.1145/288548.289067
+Asymptotically efficient retiming under setup and hold constraints.	Marios C. Papaefthymiou	10.1145/288548.289060
+A new algorithm for the reduction of incompletely specified finite state machines.	Jorge M. Pena,Arlindo L. Oliveira	10.1145/288548.289075
+Synthesis of BIST hardware for performance testing of MCM interconnections.	Rajesh Pendurkar,Abhijit Chatterjee,Yervant Zorian	10.1145/288548.288562
+Model reduction of time-varying linear systems using approximate multipoint Krylov-subspace projectors.	Joel R. Phillips	10.1145/288548.288583
+Power invariant vector sequence compaction.	Ali Pinar,C. L. Liu 0001	10.1145/288548.289073
+Analysis of watermarking techniques for graph coloring problem.	Gang Qu 0001,Miodrag Potkonjak	10.1145/288548.288607
+Techniques for energy minimization of communication pipelines.	Gang Qu 0001,Miodrag Potkonjak	10.1145/288548.289092
+On the optimization power of retiming and resynthesis transformations.	Rajeev K. Ranjan 0001,Vigyan Singhal,Fabio Somenzi,Robert K. Brayton	10.1145/288548.289061
+Removal of memory access bottlenecks for scheduling control-flow intensive behavioral descriptions.	Srivaths Ravi 0001,Ganesh Lakshminarayana,Niraj K. Jha	10.1145/288548.289089
+Interconnect in high speed designs: problems, methodologies and tools.	Phillip J. Restle,Joel R. Phillips,Ibrahim M. Elfadel	10.1145/288548.288551
+PowerDrive: a fast, canonical POWER estimator for DRIVing synthEsis.	Sumit Roy 0003,Harm Arts,Prithviraj Banerjee	10.1145/288548.289094
+Reduced-order modelling of linear time-varying systems.	Jaijeet S. Roychowdhury	10.1145/288548.288581
+Estimating noise in RF systems.	Jaijeet S. Roychowdhury,Alper Demir 0001	10.1145/288548.288612
+The multi-BSG: stochastic approach to an optimum packing of convex-rectilinear blocks.	Keishi Sakanushi,Shigetoshi Nakatake,Yoji Kajitani	10.1145/288548.288624
+Full-chip verification of UDSM designs.	Resve A. Saleh,David Overhauser,Sandy Taylor	10.1145/288548.289070
+A simultaneous routing tree construction and fanout optimization algorithm.	Amir H. Salek,Jinan Lou,Massoud Pedram	10.1145/288548.289098
+A performance-driven layer assignment algorithm for multiple interconnect trees.	Prashant Saxena,C. L. Liu 0001	10.1145/288548.288589
+Word-level decision diagrams, WLCDs and division.	Christoph Scholl 0001,Bernd Becker 0001,Thomas M. Weis	10.1145/288548.289114
+SpC: synthesis of pointers in C: application of pointer analysis to the behavioral synthesis from C.	Luc Séméria,Giovanni De Micheli	10.1145/288548.289051
+Implementation and use of SPFDs in optimizing Boolean networks.	Subarnarekha Sinha,Robert K. Brayton	10.1145/288548.288584
+Polynomial methods for component matching and verification.	James Smith 0001,Giovanni De Micheli	10.1145/288548.289115
+Symbolic model checking of process networks using interval diagram techniques.	Karsten Strehl,Lothar Thiele	10.1145/288548.289117
+A linear optimal test generation algorithm for interconnect testing.	Chauchin Su	10.1145/288548.288626
+Getting to the bottom of deep submicron.	Dennis Sylvester,Kurt Keutzer	10.1145/288548.288614
+Integrating floorplanning in data-transfer based high-level synthesis.	Shantanu Tarafdar,Miriam Leeser,Zixin Yin	10.1145/288548.289063
+On primitive fault test generation in non-scan sequential circuits.	Ramesh C. Tekumalla,Premachandran R. Menon	10.1145/288548.288625
+Domino logic synthesis using complex static gates.	Tyler Thorp,Gin Yee,Carl Sechen	10.1145/288548.288620
+Integrating logic retiming and register placement.	Tzu-Chieh Tien,Hsiao-Pin Su,Yu-Wen Tsay,Yih-Chih Chou,Youn-Long Lin	10.1145/288548.288591
+Period assignment in multidimensional periodic scheduling.	Wim F. J. Verhaegh,Emile H. L. Aarts,Paul C. N. van Gorp	10.1145/288548.289090
+Static power optimization of deep submicron CMOS circuits for dual VT technology.	Qi Wang,Sarma B. K. Vrudhula	10.1145/288548.289076
+Core integration: overview and challenges.	Enno Wein	10.1145/288548.289069
+On multilevel circuit partitioning.	Sverre Wichlund	10.1145/288548.289078
+Slicing floorplans with pre-placed modules.	Fung Yu Young,D. F. Wong 0001	10.1145/288548.288622
+Multipoint moment matching model for multiport distributed interconnect networks.	Qingjian Yu,Janet Meiling Wang,Ernest S. Kuh	10.1145/288548.288565
+Technology mapping for domino logic.	Min Zhao 0001,Sachin S. Sapatnekar	10.1145/288548.288621
+Representation of process mode correlation for scheduling.	Dirk Ziegenbein,Kai Richter 0001,Rolf Ernst,Jürgen Teich,Lothar Thiele	10.1145/288548.288560
+Proceedings of the 1998 IEEE/ACM International Conference on Computer-Aided Design, ICCAD 1998, San Jose, CA, USA, November 8-12, 1998	Hiroto Yasuura	

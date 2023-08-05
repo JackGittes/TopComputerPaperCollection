@@ -1,0 +1,102 @@
+Analysis of Substrate Thermal Gradient Effects on Optimal Buffer Insertion.	Amir H. Ajami,Kaustav Banerjee,Massoud Pedram	10.1109/ICCAD.2001.968596
+CALiBeR: A Software Pipelining Algorithm for Clustered Embedded VLIW Processors.	Cagdas Akturan,Margarida F. Jacome	10.1109/ICCAD.2001.968606
+Constraint Satisfaction for Relative Location Assignment and Scheduling.	Carlos A. Alba Pinto,Bart Mesman,Jochen A. G. Jess	10.1109/ICCAD.2001.968652
+Faster SAT and Smaller BDDs via Common Function Structure.	Fadi A. Aloul,Igor L. Markov,Karem A. Sakallah	10.1109/ICCAD.2001.968669
+Minimum-Buffered Routing of Non-Critical Nets for Slew Rate and Reliability Control.	Charles J. Alpert,Andrew B. Kahng,Bao Liu,Ion I. Mandoiu,Alexander Zelikovsky	10.1109/ICCAD.2001.968659
+Stars in VCC: Complementing Simulation with Worst-Case Analysis.	Felice Balarin	10.1109/ICCAD.2001.968683
+Coupled Analysis of Electromigration Reliability and Performance in ULSI Signal Nets.	Kaustav Banerjee,Amit Mehrotra	10.1109/ICCAD.2001.10006
+Min-Area Retiming on Dynamic Circuit Structures.	Jason Baumgartner,Andreas Kuehlmann	10.1109/ICCAD.2001.968615
+An Assembly-Level Execution-Time Model for Pipelined Architectures.	Giovanni Beltrame,Carlo Brandolese,William Fornaciari,Fabio Salice,Donatella Sciuto,Vito Trianni	10.1109/ICCAD.2001.968618
+IC Power Distribution Challenges.	Sudhakar Bobba,Tyler Thorp,Kathirgamar Aingaran,Dean Liu	10.1109/ICCAD.2001.968729
+Compatible Observability Don&apos;t Cares Revisited.	Robert K. Brayton	10.1109/ICCAD.2001.968725
+Practical Considerations in RLCK Crosstalk Analysis for Digital Integrated Circuits.	Steven C. Chan,Kenneth L. Shepard	10.1109/ICCAD.2001.968721
+Area and Power Reduction of Embedded DSP Systems using Instruction Compression and Re-Configurable Encoding.	Subash Chandar G.,Mahesh Mehendale,R. Govindarajan	10.1109/ICCAD.2001.968727
+Induction-Based Gate-Level Verification of Multipliers.	Ying-Tsai Chang,Kwang-Ting Cheng	10.1109/ICCAD.2001.968617
+Single-Pass Redundancy Addition and Removal.	Chih-Wei Jim Chang,Malgorzata Marek-Sadowska	10.1109/ICCAD.2001.968723
+Non-linear Quantification Scheduling in Image Computation.	Pankaj Chauhan,Edmund M. Clarke,Somesh Jha,James H. Kukula,Thomas R. Shiple,Helmut Veith,Dong Wang	10.1109/ICCAD.2001.968636
+Compact Modeling and SPICE-Based Simulation for Electrothermal Analysis of Multilevel ULSI Interconnects.	TingYen Chiang,Kaustav Banerjee,Krishna Saraswat	10.1109/ICCAD.2001.968613
+Efficient Canonical Form for Boolean Matching of Complex Functions in Large Libraries.	Jovanka Ciric,Carl Sechen	10.1109/ICCAD.2001.968724
+A Convex Programming Approach to Positive Real Rational Approximation.	Carlos P. Coelho,Joel R. Phillips,Luís Miguel Silveira	10.1109/ICCAD.2001.968626
+Multilevel Approach to Full-Chip Gridless Routing.	Jason Cong,Jie Fang,Yan Zhang VI	10.1109/ICCAD.2001.968655
+Simulation-Based Automatic Generation of Signomial and Posynomial Performance Models for Analog Integrated Circuit Sizing.	Walter Daems,Georges G. E. Gielen,Willy M. C. Sansen	10.1109/ICCAD.2001.968600
+Techniques for Including Dielectrics when Extracting Passive Low-Order Models of High Speed Interconnect.	Luca Daniel,Alberto L. Sangiovanni-Vincentelli,Jacob K. White 0001	10.1109/ICCAD.2001.968625
+A Router for Symmetrical FPGAs Based on Exact Routing Density Evaluation.	Nak-Woong Eum,Taewhan Kim,Chong-Min Kyung	10.1109/ICCAD.2001.968610
+Local Search for Final Placement in VLSI Design.	Oluf Faroe,David Pisinger,Martin Zachariasen	10.1109/ICCAD.2001.968708
+System-Level Exploration for Pareto-Optimal Configurations in Parameterized Systems-on-a-Chip.	Tony Givargis,Frank Vahid,Jörg Henkel	10.1109/ICCAD.2001.968593
+False-Noise Analysis using Logic Implications.	Alexey Glebov,Sergey Gavrilov,David T. Blaauw,Supamas Sirichotiyakul,Chanhee Oh,Vladimir Zolotov	10.1109/ICCAD.2001.968695
+Direct Transistor-Level Layout for Digital Blocks.	Prakash Gopalakrishnan,Rob A. Rutenbar	10.1109/ICCAD.2001.968713
+Addressing the Timing Closure Problem by Integrating Logic Optimization and Placement.	Wilsin Gosti,Sunil P. Khatri,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.2001.968622
+The Sizing Rules Method for Analog Integrated Circuit Design.	Helmut E. Graeb,Stephan Zizala,Josef Eckmüller,Kurt Antreich	10.1109/ICCAD.2001.968645
+Partition-Based Decision Heuristics for Image Computation Using SAT and BDDs.	Aarti Gupta,Zijiang Yang 0006,Pranav Ashar,Lintao Zhang,Sharad Malik	10.1109/ICCAD.2001.968635
+A System for Synthesizing Optimized FPGA Hardware from MATLAB.	Malay Haldar,Anshuman Nayak,Alok N. Choudhary,Prithviraj Banerjee	10.1109/ICCAD.2001.968639
+Model Reduction of Variable-Geometry Interconnects using Variational Spectrally-Weighted Balanced Truncation.	Payam Heydari,Massoud Pedram	10.1109/ICCAD.2001.968716
+BOOM - A Heuristic Boolean Minimizer.	Jan Hlavicka,Petr Fiser	10.1109/ICCAD.2001.968667
+A Methodology for the Design of Application Specific Instruction Set Processors (ASIP) using the Machine Description Language LISA.	Andreas Hoffmann 0002,Oliver Schliebusch,Achim Nohl,Gunnar Braun,Oliver Wahlen,Heinrich Meyr	10.1109/ICCAD.2001.968726
+CASh: A Novel &quot;Clock as Shield&quot; Design Methodology for Noise Immune Precharge-Evaluate Logic.	Yonghee Im,Kaushik Roy 0001	10.1109/ICCAD.2001.968644
+Software-Assisted Cache Replacement Mechanisms for Embedded Systems.	Prabhat Jain,Srinivas Devadas,Daniel W. Engels,Larry Rudolph	10.1109/ICCAD.2001.968607
+Low Power System Scheduling and Synthesis.	Niraj K. Jha	10.1109/ICCAD.2001.968629
+On Identifying Don&apos;t Care Inputs of Test Patterns for Combinational Circuits.	Seiji Kajihara,Kohei Miyase	10.1109/ICCAD.2001.968648
+Highly Accurate Fast Methods for Extraction and Sparsification of Substrate Coupling Based on Low-Rank Approximation.	Joe Kanapka,Jacob K. White 0001	10.1109/ICCAD.2001.968661
+Improving Memory Energy Using Access Pattern Classification.	Mahmut T. Kandemir,Ugur Sezer,Victor Delaluz	10.1109/ICCAD.2001.968619
+Instruction Generation for Hybrid Reconfigurable Systems.	Ryan Kastner,Seda Ogrenci Memik,Elaheh Bozorgzadeh,Majid Sarrafzadeh	10.1109/ICCAD.2001.968608
+Behavior-to-Placed RTL Synthesis with Performance-Driven Placement.	Daehong Kim,Jinyong Jung,Sunghyun Lee,Jinhwan Jeon,Kiyoung Choi	10.1109/ICCAD.2001.968640
+Multigrid-Like Technique for Power Grid Analysis.	Joseph N. Kozhaya,Sani R. Nassif,Farid N. Najm	10.1109/ICCAD.2001.968685
+ASF: A Practical Simulation-Based Methodology for the Synthesis of Custom Analog Circuits.	Michael Krasnicki,Rodney Phelps,James R. Hellums,Mark McClung,Rob A. Rutenbar,L. Richard Carley	10.1109/ICCAD.2001.968646
+Static Scheduling of Multi-Domain Memories For Functional Verification.	Murali Kudlugi,Charles Selvidge,Russell Tessier	10.1109/ICCAD.2001.968590
+Will Nanotechnology Change the Way We Design and Verify Systems? (Panel).	Andreas Kuehlmann,Robert W. Dutton,Paul D. Franzon,Seth Copen Goldstein,Philip Luekes,Eric Parker,Thomas N. Theis	
+Congestion Aware Layout Driven Logic Synthesis.	Thomas Kutzschebauch,Leon Stok	10.1109/ICCAD.2001.968621
+The Design and Optimization of SOC Test Solutions.	Erik Larsson,Zebo Peng,Gunnar Carlsson	10.1109/ICCAD.2001.968697
+Power Grid Transient Simulation in Linear Time Based on Transmission-Line-Modeling Alternating-Direction-Implicit Method.	Yu-Min Lee,Charlie Chung-Ping Chen	10.1109/ICCAD.2001.968601
+On the Signal Bounding Problem in Timing Analysis.	Jin-Fuw Lee,Daniel L. Ostapko,Jeffery Soreff,C. K. Wong	10.1109/ICCAD.2001.968693
+Embedded Tutorial: CAD Solutions and Outstanding Challenges for Mixed-Signal and RF IC Design.	Domine Leenaerts,Rob A. Rutenbar,Georges G. E. Gielen	10.1109/ICCAD.2001.968633
+Behavioral Modeling of Analog Circuits by Wavelet Collocation Method.	Xin Li 0001,Xuan Zeng 0001,Dian Zhou,Xieting Ling	10.1109/ICCAD.2001.968599
+System Level Design with Spade: an M-JPEG Case Study.	Paul Lieverse,Todor P. Stefanov,Pieter van der Wolf,Ed F. Deprettere	10.1109/ICCAD.2001.968594
+Challenges in Power-Ground Integrity.	Shen Lin,Norman Chang	10.1109/ICCAD.2001.968730
+Efficient Performance Estimation for General Real-Time Task Systems.	Hongchao (Stephanie) Liu,Xiaobo Sharon Hu	10.1109/ICCAD.2001.968681
+Fast 3-D Inductance Extraction in Lossy Multi-Layer Substrate.	Minqing Liu,Tiejun Yu,Wayne Wei-Ming Dai	10.1109/ICCAD.2001.968663
+An Integrated Data Path Optimization for Low Power Based on Network Flow Method.	Chun-Gi Lyuh,Taewhan Kim,Chien-Liang Liu	10.1109/ICCAD.2001.968704
+Formulae and Applications of Interconnect Estimation Considering Shield Insertion and Net Ordering.	James D. Z. Ma,Lei He 0001	10.1109/ICCAD.2001.968641
+Application-Driven Processor Design Exploration for Power-Performance Trade-off Analysis.	Diana Marculescu,Anoop Iyer	10.1109/ICCAD.2001.968638
+System-Level Power/Performance Analysis of Portable Multimedia Systems Communicating over Wireless Channels.	Radu Marculescu,Amit Nandi,Luciano Lavagno,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.2001.968620
+A Symbolic Simulation-Based Methodology for Generating Black-Box Timing Models of Custom Macrocells.	Clayton B. McDonald,Randal E. Bryant	10.1109/ICCAD.2001.968691
+A Super-Scheduler for Embedded Reconfigurable Systems.	Seda Ogrenci Memik,Elaheh Bozorgzadeh,Ryan Kastner,Majid Sarrafzadeh	10.1109/ICCAD.2001.968653
+NetBench: A Benchmarking Suite for Network Processors.	Gokhan Memik,William H. Mangione-Smith,Wendong Hu	10.1109/ICCAD.2001.968595
+On the Optimization Power of Redundancy Addition and Removal Techniques for Sequential Circuits.	Enrique San Millán,Luis Entrena,José Alberto Espejo	10.1109/ICCAD.2001.968603
+A Force-Directed Maze Router.	Fan Mo,Abdallah Tabbara,Robert K. Brayton	10.1109/ICCAD.2001.968658
+Placement Driven Retiming with a Coupled Edge Timing Model.	Ingmar Neumann,Wolfgang Kunz	10.1109/ICCAD.2001.968604
+I-CoPES: Fast Instruction Code Placement for Embedded Systems to Improve Performance and Energy Efficiency.	Sri Parameswaran,Jörg Henkel	10.1109/ICCAD.2001.968728
+Symbolic Algebra and Timing Driven Data-flow Synthesis.	Armita Peymandoust,Giovanni De Micheli	10.1109/ICCAD.2001.968637
+Simulation Approaches for Strongly Coupled Interconnect Systems.	Joel R. Phillips,Luís Miguel Silveira	10.1109/ICCAD.2001.968665
+What is the Limit of Energy Saving by Dynamic Voltage Scaling?	Gang Qu 0001	10.1109/ICCAD.2001.968707
+Transient Power Management Through High Level Synthesis.	Vijay Raghunathan,Srivaths Ravi 0001,Anand Raghunathan,Ganesh Lakshminarayana	10.1109/ICCAD.2001.968703
+An Analytical High-Level Battery Model for Use in Energy Management of Portable Electronic Systems.	Daler N. Rakhmatov,Sarma B. K. Vrudhula	10.1109/ICCAD.2001.968687
+A Trajectory Piecewise-Linear Approach to Model Order Reduction and Fast Simulation of Nonlinear Circuits and Micromachined Devices.	Michal Rewienski,Jacob White 0001	10.1109/ICCAD.2001.968627
+Power-Delay Modeling of Dynamic CMOS Gates for Circuit Optimization.	José Luis Rosselló,Jaume Segura 0001	10.1109/ICCAD.2001.968689
+Automatic Hierarchical Design: Fantasy or Reality? (Panel).	Rob A. Rutenbar,Olivier Coudert,Patrick Groeneveld,Jürgen Koehl,Scott Peterson,Vivek Raghavan,Naresh Soni	10.1109/ICCAD.2001.10010
+Accurate CMOS Bridge Fault Modeling with Neural Network-Based VHDL Saboteurs.	Donald B. Shaw,Dhamin Al-Khalili,Côme Rozon	10.1109/ICCAD.2001.968700
+Recursive Bipartitioning of BDDs for Performance Driven Synthesis of Pass Transistor Logic Circuits.	Rupesh S. Shelar,Sachin S. Sapatnekar	10.1109/ICCAD.2001.968674
+Interconnect Resource-Aware Placement for Hierarchical FPGAs.	Amit Singh 0001,Ganapathy Parthasarathy,Malgorzata Marek-Sadowska	10.1109/ICCAD.2001.968609
+Energy Efficient Real-Time Scheduling.	Amit Sinha,Anantha P. Chandrakasan	10.1109/ICCAD.2001.968679
+Sequential SPFDs.	Subarnarekha Sinha,Andreas Kuehlmann,Robert K. Brayton	10.1109/ICCAD.2001.968602
+Verification of Integer Multipliers on the Arithmetic Bit Level.	Dominik Stoffel,Wolfgang Kunz	10.1109/ICCAD.2001.968616
+Hybrid Structured Clock Network Construction.	Haihua Su,Sachin S. Sapatnekar	10.1109/ICCAD.2001.968643
+Crosstalk Fault Detection by Dynamic Idd.	Xiaoyun Sun,Seonki Kim,Bapiraju Vinnakota	10.1109/ICCAD.2001.968650
+A New Algorithm for Routing Tree Construction with Buffer Insertion and Wire Sizing under Obstacle Constraints.	Xiaoping Tang,Ruiqi Tian,Hua Xiang 0001,D. F. Wong 0001	10.1109/ICCAD.2001.968597
+A Simulation-Based Method for the Verification of Shared Memory in Multiprocessor Systems.	Scott A. Taylor,Carl Ramey,Craig Barner,David Asher	10.1109/ICCAD.2001.968591
+Integral Design Representations for Embedded Systems.	Lothar Thiele	10.1109/ICCAD.2001.968631
+A Layout-Aware Synthesis Methodology for RF Circuits.	Peter J. Vancorenland,Geert Van der Plas,Michiel Steyaert,Georges G. E. Gielen,Willy M. C. Sansen	10.1109/ICCAD.2001.968647
+Optimisation Problems for Dynamic Concurrent Task-Based Systems.	Diederik Verkest,Peng Yang,Chun Wong,Paul Marchal	10.1109/ICCAD.2001.968632
+A Search-Based Bump-and-Refit Approach to Incremental Routing for ECO Applications in FPGAs.	Vinay Verma,Shantanu Dutt	10.1109/ICCAD.2001.968611
+Bus Encoding to Prevent Crosstalk Delay.	Bret M. Victor,Kurt Keutzer	10.1109/ICCAD.2001.968598
+REDI: An Efficient Fault Oriented Procedure to Identify Redundant Faults in Combinational Logic Circuits.	Chen Wang 0014,Irith Pomeranz,Sudhakar M. Reddy	10.1109/ICCAD.2001.968649
+A Probabilistic Constructive Approach to Optimization Problems.	Jennifer L. Wong,Farinaz Koushanfar,Seapahn Meguerdichian,Miodrag Potkonjak	10.1109/ICCAD.2001.968676
+Area Minimization of Power Distribution Network Using Efficient Nonlinear Programming Techniques.	Xiaohai Wu,Xianlong Hong,Yici Cai,Chung-Kuan Cheng,Jun Gu,Wayne Wei-Ming Dai	10.1109/ICCAD.2001.968612
+Algorithm Level Re-Computing - A Register Transfer Level Concurrent Error Detection Technique.	Kaijie Wu 0001,Ramesh Karri	10.1109/ICCAD.2001.968702
+An Algorithm for Simultaneous Pin Assignment and Routing.	Hua Xiang 0001,Xiaoping Tang,D. F. Wong 0001	10.1109/ICCAD.2001.968623
+Predicting the Performance of Synchronous Discrete Event Simulation Systems.	Jinsheng Xu,Moon-Jung Chung	10.1109/ICCAD.2001.968592
+Congestion Reduction During Placement Based on Integer Programming.	Xiaojian Yang,Ryan Kastner,Majid Sarrafzadeh	10.1109/ICCAD.2001.968712
+Solution of Parallel Language Equations for Logic Synthesis.	Nina Yevtushenko 0001,Tiziano Villa,Robert K. Brayton,Alexandre Petrenko,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.2001.968605
+Efficient Conflict Driven Learning in Boolean Satisfiability Solver.	Lintao Zhang,Conor F. Madigan,Matthew W. Moskewicz,Sharad Malik	10.1109/ICCAD.2001.968634
+Improving the Robustness of a Surface Integral Formulation for Wideband Impendance Extraction of 3D Structures.	Zhenhai Zhu,Jingfang Huang,Ben Song,Jacob K. White 0001	10.1109/ICCAD.2001.968718
+Color Permutation: An Iterative Algorithm for Memory Packing.	Jianwen Zhu,Edward S. Rogers Sr.	10.1109/ICCAD.2001.968651
+Proceedings of the 2001 IEEE/ACM International Conference on Computer-Aided Design, ICCAD 2001, San Jose, CA, USA, November 4-8, 2001	Rolf Ernst	

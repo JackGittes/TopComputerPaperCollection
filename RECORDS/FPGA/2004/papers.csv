@@ -1,0 +1,68 @@
+Active leakage power optimization for FPGAs.	Jason Helge Anderson,Farid N. Najm,Tim Tuan	10.1145/968280.968287
+Implementation of elliptic curve cryptosystems over GF(2n) in optimal normal basis on a reconfigurable computer.	Sashisu Bajracharya,Chang Shu 0003,Kris Gaj,Tarek A. El-Ghazawi	10.1145/968280.968354
+Time and area efficient pattern matching on FPGAs.	Zachary K. Baker,Viktor K. Prasanna	10.1145/968280.968312
+An FPGA prototype for the experimental evaluation of a multizone network cache.	Paul Berube,José Nelson Amaral,Mike H. MacGregor	10.1145/968280.968341
+High-speed systolic array for gene matching.	Gabriel Caffarena,Slobodan Bojanic,Juan A. López,Carlos E. Pedreira,Octavio Nieto-Taladriz	10.1145/968280.968325
+A flexible hardware architecture for 2-D discrete wavelet transform.	Richard Carbone,Andreas E. Savakis	10.1145/968280.968319
+Least-significant bit optimization techniques for FPGAs.	Mark L. Chang,Scott Hauck	10.1145/968280.968334
+Low-power technology mapping for FPGA architectures with dual supply voltages.	Deming Chen,Jason Cong,Fei Li 0003,Lei He 0001	10.1145/968280.968297
+An FPGA implementation of the two-dimensional finite-difference time-domain (FDTD) algorithm.	Wang Chen,Panos Kosmas,Miriam Leeser,Carey M. Rappaport	10.1145/968280.968311
+Subframe multiplexing for FPGA manufacturing test configuration.	Erik Chmelar	10.1145/968280.968315
+Flexibility measurement of domain-specific reconfigurable hardware.	Katherine Compton,Scott Hauck	10.1145/968280.968303
+Application-specific instruction generation for configurable processor architectures.	Jason Cong,Yiping Fan,Guoling Han,Zhiru Zhang	10.1145/968280.968307
+A synthesis oriented omniscient manual editor.	Tomasz S. Czajkowski,Jonathan Rose	10.1145/968280.968295
+FPGA modelling for high-performance algorithms.	Martin Danek,Josef Kolár	10.1145/968280.968335
+What is the right model for programming and using modern FPGAs?	André DeHon,Brad L. Hutchings,Daryl Rudusky,James Hwang,Nikhil,Salil Raje,Adrian Stoica	10.1145/968280.968281
+Nanowire-based sublithographic programmable logic arrays.	André DeHon,Michael J. Wilson	10.1145/968280.968299
+Hardware co-simulation in system generator of the AES-128 encryption algorithm.	Daniel Denning,Malachy Devlin,James Irvine 0001	10.1145/968280.968322
+FPGA-based implementation of single-precision exponential unit.	Christopher C. Doss,Robert L. Riley Jr.	10.1145/968280.968324
+A magnetoelectronic macrocell employing reconfigurable threshold logic.	Steve Ferrera,Nicholas P. Carter	10.1145/968280.968301
+A novel coarse-grain reconfigurable data-path for accelerating DSP kernels.	Michalis D. Galanis,George Theodoridis,Spyros Tragoudas,Dimitrios Soudris,Constantinos E. Goutis	10.1145/968280.968337
+Reducing leakage energy in FPGAs using region-constrained placement.	Aman Gayasen,Yuh-Fang Tsai,Narayanan Vijaykrishnan,Mahmut T. Kandemir,Mary Jane Irwin,Tim Tuan	10.1145/968280.968289
+A quantitative analysis of the speedup factors of FPGAs over processors.	Zhi Guo,Walid A. Najjar,Frank Vahid,Kees A. Vissers	10.1145/968280.968304
+The gigahertz FPGA: design consideration and applications.	Jong-Ru Guo,Chao You,Michael Chu,Robert W. Heikaus,Kuan Zhou,Okan Erdogan,Jiedong Diao,Bryan S. Goda,Russell P. Kraft,John F. McDonald	10.1145/968280.968326
+Using an FPGA coprocessor for improving execution speed of TRT-LUT: one of the feature extraction algorithms for ATLAS LVL2 trigger.	Christian Hinkelbein,Andrei Khomich,Andreas Kugel,Reinhard Männer,Matthias Müller 0006	10.1145/968280.968321
+Automatic discovery, selection, and specialization of modules in RCADE.	Ranjesh G. Jaganathan,Matthew Simpson,Ron Sass	10.1145/968280.968348
+High level area, delay and power estimation for FPGAs.	Tianyi Jiang,Xiaoyong Tang,Prithviraj Banerjee	10.1145/968280.968329
+Preliminary performance analysis of flex power FPGA, a power reconfigurable device with fine granularity.	Takashi Kawanami,Masakazu Hioki,Hiroshi Nagase,Toshiyuki Tsutsumi,Tadashi Nakagawa,Toshihiro Sekigawa,Hanpei Koike	10.1145/968280.968351
+A compiled accelerator for biological cell signaling simulations.	John F. Keane,Christopher Bradley,Carl Ebeling	10.1145/968280.968313
+An embedded true random number generator for FPGAs.	Paul Kohlbrenner,Kris Gaj	10.1145/968280.968292
+Low energy FPGA interconnect design.	Rohini Krishnan,José Pineda de Gyvez,Martijn T. Bennebroek	10.1145/968280.968345
+A reconfigurable unit for a clustered programmable-reconfigurable processor.	Richard B. Kujoth,Chi-Wei Wang,Derek B. Gottlieb,Jeffrey J. Cook,Nicholas P. Carter	10.1145/968280.968309
+FPGA-based supercomputing: an implementation for molecular dynamics.	Ian Kuon,Navid Azizi,Ahmad Darabiha,Aaron Egier,Paul Chow	10.1145/968280.968340
+Transistor grouping and metal layer trade-offs in automatic tile layout of FPGAs.	Ian Kuon,Aaron Egier,Jonathan Rose	10.1145/968280.968327
+Bit-level super-systolic array for FIR filter with a FPGA-based bit-serial semi-systolic multiplier.	Jae-Jin Lee,Gi-Yong Song	10.1145/968280.968328
+Online placement infrastructure to support run-time reconfiguration.	Brian Leonard,Jeff Young,Ron Sass	10.1145/968280.968347
+Low-power FPGA using pre-defined dual-Vdd/dual-Vt fabrics.	Fei Li 0003,Yan Lin 0001,Lei He 0001,Jason Cong	10.1145/968280.968288
+Fast adders in modern FPGAs.	Jianhua Liu,Michael Chang,Chung-Kuan Cheng,John F. MacDonald,Nan-Chi Chou,Peter Suaris	10.1145/968280.968330
+Routing architecture for multi-context FPGAs.	Andrea Lodi 0002,Roberto Giansante,Carlo Chiesa,Luca Ciccarelli,Mario Toma,Fabio Campi	10.1145/968280.968318
+Making visible the thermal behaviour of embedded microprocessors on FPGAs: a progress report.	Sergio López-Buedo,Eduardo I. Boemo	10.1145/968280.968293
+SHAPER: synthesis for hybrid FPGA architectures containing PLA elements using reconvergence analysis.	A. Manoj Kumar,B. Jayaram 0002,V. Kamakoti 0001	10.1145/968280.968333
+FPGA implementation of a high speed network interface card for optical burst switched networks.	Pronita Mehrotra,Mrugendra Singhai,Mike Pratt,Mark Cassada,Patrick Hamilton	10.1145/968280.968344
+A high performance 32-bit ALU for programmable logic.	Paul Metzgen	10.1145/968280.968291
+On the design of a function-specific reconfigurable: hardware accelerator for the MAC-layer in WLANs.	Thilo Pionteck,Thorsten Staake,Thomas Stiefmeier,Lukusa D. Kabulepa,Manfred Glesner	10.1145/968280.968352
+Evaluation of low-leakage design techniques for field programmable gate arrays.	Arifur Rahman,Vijay Polavarapuv	10.1145/968280.968285
+An algorithm for trading off quantization error with hardware resources for MATLAB based FPGA design.	Sanghamitra Roy,Debjit Sinha,Prithviraj Banerjee	10.1145/968280.968349
+An FPGA implementation of bene permutation networks.	Anatole D. Ruslanov,Jeremy R. Johnson	10.1145/968280.968317
+Dynamically reconfigurable architecture for high-throughput processing of data centric applications.	Magesh Sadasivam,Sangjin Hong	10.1145/968280.968343
+An FPGA implementation of block truncation coding for gray and color images.	Sherif M. Saif,Hazem M. Abbas,Salwa M. Nassar	10.1145/968280.968316
+A left-edge algorithm approach for scheduling and allocation of hardware contexts in dynamically reconfigurable architectures.	Remy Eskinazi Sant&apos;Anna,Manoel Eusebio de Lima,Paulo Romero Martins Maciel	10.1145/968280.968355
+Multi-resource aware partitioning algorithms for FPGAs with heterogeneous resources.	Navaratnasothie Selvakkumaran,Abhishek Ranjan,Salil Raje,George Karypis	10.1145/968280.968339
+Using reconfigurability to achieve real-time profiling for hardware/software codesign.	Lesley Shannon,Paul Chow	10.1145/968280.968308
+Exploration of pipelined FPGA interconnect structures.	Akshay Sharma,Katherine Compton,Carl Ebeling,Scott Hauck	10.1145/968280.968284
+Buffer schemes for runtime reconfiguration of function variants in communication systems.	Helmut Steckenbiller,Rudi Knorr	10.1145/968280.968323
+Incremental physical resynthesis for timing optimization.	Peter Suaris,Lung-Tien Liu,Yuzheng Ding,Nan-Chi Chou	10.1145/968280.968296
+SPFD-based one-to-many rewiring.	Katsunori Tanaka,Shigeru Yamashita,Yahiko Kambayashi	10.1145/968280.968332
+Highly pipelined asynchronous FPGAs.	John Teifel,Rajit Manohar	10.1145/968280.968300
+Power analysis and estimation tool integrated with XPOWER.	Elias Todorovich,Eduardo I. Boemo,Francisco Cardells-Tormo,Javier Valls	10.1145/968280.968356
+FPGAs vs. CPUs: trends in peak floating-point performance.	Keith D. Underwood	10.1145/968280.968305
+Roving testing using new built-in-self-tester designs for FPGAs.	Vinay Verma,Shantanu Dutt	10.1145/968280.968350
+An algorithmic approach by heuristics to dynamical reconfiguration of logic resources on reconfigurable FPGAs.	Phan Cong Vinh,Jonathan P. Bowen	10.1145/968280.968342
+The SFRA: a corner-turn FPGA architecture.	Nicholas Weaver,John R. Hauser,John Wawrzynek	10.1145/968280.968283
+Improving the reliability of FPGA circuits using triple-modular redundancy (TMR) &amp; efficient voter placement.	Michael J. Wirthlin	10.1145/968280.968338
+A constraints programming approach to communication scheduling on SoPC architectures.	Christophe Wolinski,Krzysztof Kuchcinski,Maya B. Gokhale	10.1145/968280.968336
+A VHDL MPEG-7 shape descriptor extractor.	Bret Woz,Andreas E. Savakis	10.1145/968280.968320
+In-system FPGA prototyping of an itanium microarchitecture.	Roland E. Wunderlich,James C. Hoe	10.1145/968280.968346
+Divide and concatenate: a scalable hardware architecture for universal MAC.	Bo Yang 0010,Ramesh Karri,David A. McGrew	10.1145/968280.968353
+Addressing application integrity attacks using a reconfigurable architecture.	Joseph Zambreno,Rahul Simha,Alok N. Choudhary	10.1145/968280.968331
+Proceedings of the ACM/SIGDA 12th International Symposium on Field Programmable Gate Arrays, FPGA 2004, Monterey, California, USA, February 22-24, 2004	Russell Tessier,Herman Schmit	10.1145/968280

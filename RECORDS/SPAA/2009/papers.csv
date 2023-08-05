@@ -1,0 +1,49 @@
+Distributed algorithms for QoS load balancing.	Heiner Ackermann,Simon Fischer 0001,Martin Hoefer 0001,Marcel Schöngens	10.1145/1583991.1584046
+Memory models: a case for rethinking parallel languages and hardware.	Sarita V. Adve	10.1145/1583991.1584005
+Mapping filtering streaming applications with communication costs.	Kunal Agrawal,Anne Benoit,Fanny Dufossé,Yves Robert	10.1145/1583991.1583997
+Remote storage with byzantine servers.	Marcos Kawazoe Aguilera,Ram Swaminathan	10.1145/1583991.1584062
+Inherent limitations on disjoint-access parallel implementations of transactional memory.	Hagit Attiya,Eshcar Hillel,Alessia Milani	10.1145/1583991.1584015
+Buffer management for colored packets with deadlines.	Yossi Azar,Uriel Feige,Iftah Gamzu,Thomas Moscibroda,Prasad Raghavendra	10.1145/1583991.1584068
+Communication-optimal parallel and sequential Cholesky decomposition: extended abstract.	Grey Ballard,James Demmel,Olga Holtz,Oded Schwartz	10.1145/1583991.1584054
+Scheduling to minimize staleness and stretch in real-time data warehouses.	MohammadHossein Bateni,Lukasz Golab,Mohammad Taghi Hajiaghayi,Howard J. Karloff	10.1145/1583991.1583998
+A DoS-resilient information system for dynamic data management.	Matthias Baumgart 0001,Christian Scheideler,Stefan Schmid 0001	10.1145/1583991.1584064
+Brief announcement: low depth cache-oblivious sorting.	Guy E. Blelloch,Phillip B. Gibbons,Harsha Vardhan Simhadri	10.1145/1583991.1584024
+Parallel sparse matrix-vector and matrix-transpose-vector multiplication using compressed sparse blocks.	Aydin Buluç,Jeremy T. Fineman,Matteo Frigo,John R. Gilbert,Charles E. Leiserson	10.1145/1583991.1584053
+Brief announcement: performance potential of an easy-to-program PRAM-on-chip prototype versus state-of-the-art processor.	George C. Caragea,A. Beliz Saybasili,Xingzhi Wen,Uzi Vishkin	10.1145/1583991.1584038
+Speed scaling of processes with arbitrary speedup curves on a multiprocessor.	Ho-Leung Chan,Jeff Edmonds,Kirk Pruhs	10.1145/1583991.1583994
+Routing without ordering.	Bernadette Charron-Bost,Antoine Gaillard,Jennifer L. Welch,Josef Widder	10.1145/1583991.1584034
+Locally scalable randomized consensus for synchronous crash failures.	Bogdan S. Chlebus,Dariusz R. Kowalski	10.1145/1583991.1584063
+Optimizing transactions for captured memory.	Aleksandar Dragojevic,Yang Ni,Ali-Reza Adl-Tabatabai	10.1145/1583991.1584049
+Brief announcement: selfishness in transactional memory.	Raphael Eidenbenz,Roger Wattenhofer	10.1145/1583991.1584002
+On the complexity of the regenerator placement problem in optical networks.	Michele Flammini,Alberto Marchetti-Spaccamela,Gianpiero Monaco,Luca Moscardelli,Shmuel Zaks	10.1145/1583991.1584035
+An optimal local approximation algorithm for max-min linear programs.	Patrik Floréen,Joel Kaasinen,Petteri Kaski,Jukka Suomela	10.1145/1583991.1584058
+On randomized representations of graphs using short labels.	Pierre Fraigniaud,Amos Korman	10.1145/1583991.1584031
+Reducers and other Cilk++ hyperobjects.	Matteo Frigo,Pablo Halpern,Charles E. Leiserson,Stephen Lewin-Berlin	10.1145/1583991.1584017
+The bell is ringing in speed-scaled multiprocessor scheduling.	Gero Greiner,Tim Nonner,Alexander Souza	10.1145/1583991.1583996
+Emerging challenges and opportunities in parallel computing: the cretaceous redux?	Bruce Hendrickson	10.1145/1583991.1584029
+Field-split parallel architecture for high performance multi-match packet classification using FPGAs.	Weirong Jiang,Viktor K. Prasanna	10.1145/1583991.1584044
+The life and times of a zookeeper.	Flavio Paiva Junqueira,Benjamin C. Reed	10.1145/1583991.1584007
+On avoiding spare aborts in transactional memory.	Idit Keidar,Dmitri Perelman	10.1145/1583991.1584013
+At-most-once semantics in asynchronous shared memory.	Sotiris Kentros,Aggelos Kiayias,Nicolas C. Nicolaou,Alexander A. Shvartsman	10.1145/1583991.1584003
+Competitive buffer management for multi-queue switches in qos networks using packet buffering algorithms.	Koji M. Kobayashi,Shuichi Miyazaki,Yasuo Okabe	10.1145/1583991.1584070
+Weak graph colorings: distributed algorithms and applications.	Fabian Kuhn	10.1145/1583991.1584032
+Gradient clock synchronization in dynamic networks.	Fabian Kuhn,Thomas Locher,Rotem Oshman	10.1145/1583991.1584059
+Brief announcement: TeraByte TokuSampleSort sorts 1TB in 197s.	Bradley C. Kuszmaul	10.1145/1583991.1584026
+Cassandra: a structured storage system on a P2P network.	Avinash Lakshman,Prashant Malik	10.1145/1583991.1584009
+Scalable reader-writer locks.	Yossi Lev,Victor Luchangco,Marek Olszewski	10.1145/1583991.1584020
+Brief announcement: the impact of classical electronics constraints on a solid-state logical qubit memory.	James E. Levy,Anand Ganti,Cynthia A. Phillips,Benjamin R. Hamlet,Andrew J. Landahl,Thomas M. Gurrieri,Robert D. Carr,Malcolm S. Carroll	10.1145/1583991.1584039
+Pregel: a system for large-scale graph processing.	Grzegorz Malewicz,Matthew H. Austern,Aart J. C. Bik,James C. Dehnert,Ilan Horn,Naty Leiser,Grzegorz Czajkowski	10.1145/1583991.1584010
+A randomized, o(log w)-depth 2 smoothing network.	Marios Mavronicolas,Thomas Sauerwald	10.1145/1583991.1584043
+Power-aware online file allocation in mobile ad hoc networks: [extended abstract].	Jan Mehler,Friedhelm Meyer auf der Heide	10.1145/1583991.1584072
+Finding similar users in social networks: extended abstract.	Aviv Nisgav,Boaz Patt-Shamir	10.1145/1583991.1584042
+A lightweight in-place implementation for software thread-level speculation.	Cosmin E. Oancea,Alan Mycroft,Tim Harris 0001	10.1145/1583991.1584050
+Brief announcement: parameterized maximum and average degree approximation in topic-based publish-subscribe overlay network design.	Melih Onus,Andréa W. Richa	10.1145/1583991.1584000
+Classifying peer-to-peer network coding schemes.	Christian Ortolf,Christian Schindelhauer,Arne Vater	10.1145/1583991.1584066
+Approximation algorithms for time-constrained scheduling on line networks.	Harald Räcke,Adi Rosén	10.1145/1583991.1584071
+The weakest failure detector for wait-free dining under eventual weak exclusion.	Srikanth Sastry,Scott M. Pike,Jennifer L. Welch	10.1145/1583991.1584021
+Towards transactional memory semantics for C++.	Tatiana Shpeisman,Ali-Reza Adl-Tabatabai,Robert Geva,Yang Ni,Adam Welc	10.1145/1583991.1584012
+Beyond nested parallelism: tight bounds on work-stealing overheads for parallel futures.	Daniel Spoonhower,Guy E. Blelloch,Phillip B. Gibbons,Robert Harper 0001	10.1145/1583991.1584019
+Brief announcement: a lower bound for depth-restricted work stealing.	Jim Sukha	10.1145/1583991.1584025
+NZTM: nonblocking zero-indirection transactional memory.	Fuad Tabba,Mark Moir,James R. Goodman,Andrew W. Hay,Cong Wang	10.1145/1583991.1584048
+Dynamic external hashing: the limit of buffering.	Zhewei Wei,Ke Yi 0001,Qin Zhang 0001	10.1145/1583991.1584055
+SPAA 2009: Proceedings of the 21st Annual ACM Symposium on Parallelism in Algorithms and Architectures, Calgary, Alberta, Canada, August 11-13, 2009	Friedhelm Meyer auf der Heide,Michael A. Bender	10.1145/1583991

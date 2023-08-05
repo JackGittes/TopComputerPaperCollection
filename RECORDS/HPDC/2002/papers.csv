@@ -1,0 +1,56 @@
+GridMapper: A Tool for Visualizing the Behavior of Large-Scale Distributed Systems.	William E. Allcock,Joseph Bester,John Bresnahan,Ian T. Foster,Jarek Gawor,Joseph A. Insley,Joseph M. Link,Michael E. Papka	10.1109/HPDC.2002.1029917
+The GridLab Grid Application Toolkit.	Gabrielle Allen,Kelly Davis,Thomas Dramlitsch,Tom Goodale,Ian Kelley,Gerd Lanfermann,Jason Novotny,Thomas Radke,Kashif Rasul,Michael Russell,Edward Seidel,Oliver Wehrens	10.1109/HPDC.2002.1029941
+Adaptive Timeout Discovery Using the Network Weather Service.	Matthew S. Allen,Richard Wolski,James S. Plank	10.1109/HPDC.2002.1029901
+BioGRID - An European Grid for Molecular Biology.	Piotr Bala,Jaroslaw Pytlinski,Miroslaw Nazaruk,Victor Alessandrini,Denis Girou,Dietmar W. Erwin,Daniel Mallmann,Jon MacLaren,John Brooke,Jan Frode Myklebust	10.1109/HPDC.2002.1029942
+Interactive and Descriptor-Based Deployment of Object-Oriented Grid Applications.	Françoise Baude,Denis Caromel,Fabrice Huet,Lionel Mestre,Julien Vayssière	10.1109/HPDC.2002.1029907
+Bringing the Grid to the Biomedical Workbench.	Robert M. Baxter,Neil P. Chue Hong,Richard A. Baldock,Bill Hill,James Sharpe	10.1109/HPDC.2002.1029947
+A High-Performance Cluster Storage Server.	Keith Bell,Andrew A. Chien,Mario Lauria	10.1109/HPDC.2002.1029931
+Flexibility, Manageability, and Performance in a Grid Storage Appliance.	John Bent,Venkateshwaran Venkataramani,Nick LeRoy,Alain Roy,Joseph Stanley,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau,Miron Livny	10.1109/HPDC.2002.1029898
+Distributed Model Coupling Framework.	Matthew T. Bettencourt	10.1109/HPDC.2002.1029928
+The Performance of Processor Co-Allocation in Multicluster Systems.	Anca I. D. Bucur,Dick H. J. Epema	10.1109/HPDC.2002.1029944
+A Case for Proactivity in Directory Services.	Fabián E. Bustamante,Patrick M. Widener,Karsten Schwan	10.1109/HPDC.2002.1029945
+Software Architecture-Based Adaptation for Grid Computing.	Shang-Wen Cheng,David Garlan,Bradley R. Schmerl,Peter Steenkiste,Ningning Hu	10.1109/HPDC.2002.1029939
+Investigating the Limits of SOAP Performance for Scientific Computing.	Kenneth Chiu,Madhusudhan Govindaraju,Randall Bramley	10.1109/HPDC.2002.1029924
+Local Discovery of System Architecture - Application Parameter Sensitivity: An Empirical Technique for Adaptive Grid Applications.	Ivan Corey,John R. Johnson,Jeffrey S. Vetter	10.1109/HPDC.2002.1029940
+Grid Services in Action: Grid Enabled Optimisation and Design Search.	Simon J. Cox,Richard P. Boardman,Liming Chen 0001,Mihai C. Duta,Murat Hakki Eres,Matt J. Fairman,Zhuoan Jiao,Michael B. Giles,Carole A. Goble,Graeme E. Pound,Andy J. Keane,Mark Scott,Nigel Shadbolt,Barry Tao,Jasmin L. Wason,Gang Xue	10.1109/HPDC.2002.1029943
+Coven - A Framework for High Performance Problem Solving Environments.	Nathan DeBardeleben,Walter B. Ligon III,Sourabh Pandit,Daniel C. Stanzione Jr.	10.1109/HPDC.2002.1029929
+GriPhyN and LIGO, Building a Virtual Data Grid for Gravitational Wave Scientists.	Ewa Deelman,Carl Kesselman,Gaurang Mehta,Leila Meshkat,Laura Pearlman,Kent Blackburn,Phil Ehrens,Albert Lazzarini,Roy Williams,Scott Koranda	10.1109/HPDC.2002.1029922
+An Evaluation of Object-Based Data Transfers on High Performance Networks.	Phillip M. Dickens,William Gropp	10.1109/HPDC.2002.1029925
+Dynamic Right-Sizing in FTP (drsFTP): Enhancing Grid Performance in User-Space.	Mark K. Gardner,Wu-chun Feng,Mike Fisk	10.1109/HPDC.2002.1029902
+Grid-Based Knowledge Discovery Services for High Throughput Informatics.	Moustafa Ghanem,Yike Guo,Anthony Rowe 0002,Patrick Wendel	10.1109/HPDC.2002.1029946
+A Scalable QoS-Aware Service Aggregation Model for Peer-to-Peer Computing Grids.	Xiaohui Gu,Klara Nahrstedt	10.1109/HPDC.2002.1029905
+Dynamic Monitoring of High-Performance Distributed Applications.	Dan Gunter,Brian Tierney,Keith R. Jackson,Jason Lee 0001,Martin Stoufer	10.1109/HPDC.2002.1029915
+IQ-RUDP: Coordinating Application Adaptation with Network Transport.	Qi He,Karsten Schwan	10.1109/HPDC.2002.1029937
+QoS-Based Resource Discovery in Intermittently Available Environments.	Yun Huang,Nalini Venkatasubramanian	10.1109/HPDC.2002.1029903
+Location-Transparent Naming in Grid Computing Using Legion-G.	Marty Humphrey,Shaun Arnold,Glenn S. Wasson	10.1109/HPDC.2002.1029948
+A Peer-to-Peer Approach to Resource Location in Grid Environments.	Adriana Iamnitchi,Ian T. Foster,Daniel Nurmi	10.1109/HPDC.2002.1029949
+Partitionable Services: A Framework for Seamlessly Adapting Distributed Applications to Heterogeneous Environments.	Anca-Andreea Ivan,Josh Harman,Michael Allen,Vijay Karamcheti	10.1109/HPDC.2002.1029908
+Virtual Services in Data Grids.	Arun Jagatheesan,Reagan W. Moore,Arcot Rajasekar,Bing Zhu 0001	10.1109/HPDC.2002.1029950
+Adaptive Online Data Compression.	Emmanuel Jeannot,Björn Knutsson,Mats Björkman	10.1109/HPDC.2002.1029938
+Design and Implementation of Secured Information Services for the ASCI Grid.	Wilbur R. Johnson	10.1109/HPDC.2002.1029920
+Architecture Requirements for Commercializing Grid Resources.	Chris Kenyon,Giorgos Cheliotis	10.1109/HPDC.2002.1029921
+On the Viability of Component Frameworks for High Performance Distributed Computing: A Case Study.	Dawid Kurzyniec,Vaidy S. Sunderam,Mauro Migliardi	10.1109/HPDC.2002.1029927
+InfoGram: A Grid Service that Supports Both Information Queries and Job Execution.	Gregor von Laszewski,Jarek Gawor,Carlos J. Peña,Ian T. Foster	10.1109/HPDC.2002.1029933
+Design and Evaluation of a Resource Selection Framework for Grid Applications.	Chuang Liu 0006,Lingyun Yang,Ian T. Foster,Dave Angulo	10.1109/HPDC.2002.1029904
+Backtracking and Re-Execution in the Automatic Debugging of Parallelized Programs.	Gregory Matthews,Robert Hood,Stephen Johnson,P. F. Leggett	10.1109/HPDC.2002.1029913
+Multigrain Parallelism for Eigenvalue Computations on Networks of Clusters.	James R. McCombs,Andreas Stathopoulos	10.1109/HPDC.2002.1029912
+A Batch Script Generator Web Service for Computational Portals.	Stephen A. Mock,Choon-Han Youn,Marlon E. Pierce,Geoffrey C. Fox,Mary P. Thomas	10.1109/HPDC.2002.1029951
+Leveraging Run Time Knowledge about Event Rates to Improve Memory Utilization in Wide Area Data Stream Filtering.	Beth Plale	10.1109/HPDC.2002.1029916
+MySRB &amp; SRB: Components of a Data Grid.	Arcot Rajasekar,Michael Wan,Reagan W. Moore	10.1109/HPDC.2002.1029930
+UNICORE - Globus Interoperability: Getting the Best of Both Worlds.	Michael Rambadt,Philipp Wieder	10.1109/HPDC.2002.1029952
+Decoupling Computation and Data Scheduling in Distributed Data-Intensive Applications.	Kavitha Ranganathan,Ian T. Foster	10.1109/HPDC.2002.1029935
+A Decentralized, Adaptive Replica Location Mechanism.	Matei Ripeanu,Ian T. Foster	10.1109/HPDC.2002.1029900
+Using Semantic Information to Guide Efficient Parallel I/O on Clusters.	Martin Schulz 0001	10.1109/HPDC.2002.1029911
+Evaluating Web Services Based Implementations of GridRPC.	Satoshi Shirasuna,Hidemoto Nakada,Satoshi Matsuoka,Satoshi Sekiguchi	10.1109/HPDC.2002.1029923
+An Enterprise-Based Grid Resource Management System.	Quinn Snell,Kevin Tew,Joseph J. Ekstrom,Mark J. Clement	10.1109/HPDC.2002.1029906
+Distributed Job Scheduling on Computational Grids Using Multiple Simultaneous Requests.	Vijay Subramani,Rajkumar Kettimuthu,Srividya Srinivasan,P. Sadayappan	10.1109/HPDC.2002.1029936
+Lightweight Self-Organizing Frameworks for Metacomputing.	Vaidy S. Sunderam,Dawid Kurzyniec	10.1109/HPDC.2002.1029909
+Using Kernel Couplings to Predict Parallel Application Performance.	Valerie E. Taylor,Xingfu Wu,Jonathan Geisler,Rick L. Stevens	10.1109/HPDC.2002.1029910
+Error Scope on a Computational Grid: Theory and Practice.	Douglas Thain,Miron Livny	10.1109/HPDC.2002.1029919
+A Metascheduler For The Grid.	Sathish S. Vadhiyar,Jack J. Dongarra	10.1109/HPDC.2002.1029934
+Predicting Sporadic Grid Data Transfers.	Sudharshan Vazhkudai,Jennifer M. Schopf	10.1109/HPDC.2002.1029918
+Scalability of a Distributed Neural Information Retrieval System.	Michael Weeks 0001,Victoria J. Hodge,Jim Austin	10.1109/HPDC.2002.1029953
+A Comparison of TCP Automatic Tuning Techniques for Distributed Computing.	Eric Weigle,Wu-chun Feng	10.1109/HPDC.2002.1029926
+Distributed Computing with Load-Managed Active Storage.	Rajiv Wickremesinghe,Jeffrey S. Chase,Jeffrey Scott Vitter	10.1109/HPDC.2002.1029899
+A Secure Distributed Search System.	Yinglian Xie,David R. O&apos;Hallaron,Michael K. Reiter	10.1109/HPDC.2002.1029932
+11th IEEE International Symposium on High Performance Distributed Computing (HPDC-11 2002), 23-26 July 2002, Edinburgh, Scotland, UK		

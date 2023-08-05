@@ -1,0 +1,49 @@
+Starfish: Fault-Tolerant Dynamic MPI Programs on Clusters of Workstations.	Adnan Agbaria,Roy Friedman	10.1109/HPDC.1999.805295
+Using Gateway System to Provide a Desktop Access to High Performance Computational Resources.	Erol Akarsu,Geoffrey C. Fox,Tomasz Haupt,Alexey Kalinichenko,Kang-Seok Kim,Praveen Sheethaalnath,Choon-Han Youn	10.1109/HPDC.1999.805309
+The Cactus Computational Toolkit and using Distributed Computing to Collide Neutron Stars.	Gabrielle Allen,Tom Goodale,Joan Massó,Edward Seidel	10.1109/HPDC.1999.805282
+MATmarks: A Shared Memory Environment for MATLAB Programming.	George Almási 0001,Calin Cascaval,David A. Padua	10.1109/HPDC.1999.805318
+Toward a Common Component Architecture for High-Performance Scientific Computing.	Robert C. Armstrong,Dennis Gannon,Al Geist,Katarzyna Keahey,Scott R. Kohn,Lois C. McInnes,Steven G. Parker,Brent A. Smolinski	10.1109/HPDC.1999.805289
+A Resource Description Environment for Distributed Computing Systems.	Matthias Brune,Alexander Reinefeld,Jörg Varnholt	10.1109/HPDC.1999.805307
+A Performance Broker for CORBA.	Kevin Butler,Mark J. Clement,Quinn Snell	10.1109/HPDC.1999.805278
+PARED: A Framework for the Adaptive Solution of PDEs.	José G. Castaños,John E. Savage	10.1109/HPDC.1999.805291
+Data Management for Large-Scale Scientific Computations in High Performance Distributed Systems.	Alok N. Choudhary,Mahmut T. Kandemir,Harsha S. Nagesh,Jaechun No,Xiaohui Shen,Valerie E. Taylor,Sachin More,Rajeev Thakur	10.1109/HPDC.1999.805306
+High Performance Phylogenetic Inference.	Mark J. Clement,Quinn Snell,Glenn Judd,Michael Whiting	10.1109/HPDC.1999.805315
+Using Embedded Network Processors to Implement Global Memory Management in a Workstation Cluster.	Yvonne Coady,Joon Suan Ong,Michael J. Feeley	10.1109/HPDC.1999.805312
+DUNES: A Performance-Oriented System Support Environment for Dependency Maintenance in Workstation Networks.	John Cruz,Kihong Park	10.1109/HPDC.1999.805311
+Resource Co-Allocation in Computational Grids.	Karl Czajkowski,Ian T. Foster,Carl Kesselman	10.1109/HPDC.1999.805301
+An Evaluation of Linear Models for Host Load Prediction.	Peter A. Dinda,David R. O&apos;Hallaron	10.1109/HPDC.1999.805285
+Distributed Applications in a German Gigabit WAN.	Thomas Eickermann,Wolfgang Frings,Stefan Posse,Gernot Goebbels,Roland Völpel	10.1109/HPDC.1999.805292
+Reducing Data Distribution Bottlenecks by Employing Data Visualization Filters.	Ernest Franke,Michael Magee	10.1109/HPDC.1999.805305
+Baglets: Adding Hierarchical Scheduling to Aglets.	Arvind Gopalan,Sajid Saleem,Matthias Martin,Daniel Andresen	10.1109/HPDC.1999.805302
+QoS as Middleware: Bandwidth Reservation System Design.	Gary Hoo,William E. Johnston	10.1109/HPDC.1999.805320
+Adaptive Write Detection in Home-based Software DSMs.	Weiwu Hu,Weisong Shi,Zhimin Tang	10.1109/HPDC.1999.805324
+CrispORB: High Performance CORBA for System Area Network.	Yuji Imai,Toshiaki Saeki,Tooru Ishizaki,Mitsuhiro Kishimoto	10.1109/HPDC.1999.805277
+Steering Data Streams in Distributed Computational Laboratories.	Carsten Isert,Davis King 0001,Karsten Schwan,Beth Plale,Greg Eisenhauer	10.1109/HPDC.1999.805313
+Remote Application Scheduling on Metacomputing Systems.	Heath A. James,Kenneth A. Hawick	10.1109/HPDC.1999.805322
+Grids as Production Computing Environments: The Engineering Aspects of NASA&apos;s Information Power Grid.	William E. Johnston,Dennis Gannon,Bill Nitzberg	10.1109/HPDC.1999.805298
+Techniques for Automating Distributed Real-Time Applications Design.	Dong-In Kang,Richard Gerber 0001,Leana Golubchik,Jeffrey K. Hollingsworth	10.1109/HPDC.1999.805294
+Predictive Application-Performance Modeling in a Computational Grid Environment.	Nirav H. Kapadia,José A. B. Fortes,Carla E. Brodley	10.1109/HPDC.1999.805281
+Dodo: A User-level System for Exploiting Idle Memory in Workstation Clusters.	Samir Koussih,Anurag Acharya 0001,Sanjeev Setia	10.1109/HPDC.1999.805310
+A Methodology for Supporting Collaborative Exploratory Analysis of Massive Data Sets in Tele-Immersive Environments.	Jason Leigh,Andrew E. Johnson 0001,Thomas A. DeFanti,Stuart Bailey,Robert L. Grossman	10.1109/HPDC.1999.805283
+Spatially Decomposed Multigrain MOM Problems on NOWs.	Walter B. Ligon III,Anthony Q. Martin,Daniel C. Stanzione Jr.	10.1109/HPDC.1999.805293
+Direct Queries for Discovering Network Resource Properties in a Distributed Environment.	Bruce Lowekamp,David R. O&apos;Hallaron,Thomas R. Gross	10.1109/HPDC.1999.805280
+To Overprovision or To Share via QoS-aware Resource Management?	Klara Nahrstedt	10.1109/HPDC.1999.805299
+Distributed Processing for Cinematic Holographic Particle Image Velocimetry.	Y. Pu,Daniel Andresen	10.1109/HPDC.1999.805319
+MPI Code Encapsulating using Parallel CORBA Object.	Christophe René,Thierry Priol	10.1109/HPDC.1999.805276
+An Approach for MPI based Metacomputing.	Michael M. Resch,Edgar Gabriel,Alfred Geiger	10.1109/HPDC.1999.805314
+The UNICORE Architecture Seamless Access to Distributed Resources.	Mathilde Romberg	10.1109/HPDC.1999.805308
+An Approach to Immersive Performance Visualization of Parallel and Wide-Area Distributed Applications.	Luiz De Rose,Mario Pantano,Ruth A. Aydt,Eric Shaffer,Benjamin Schaeffer,Shannon Whitmore,Daniel A. Reed	10.1109/HPDC.1999.805304
+Passive, Domain-Independent, End-to-End Message Passing Performance Monitoring to Support Adaptive Applications in MSHN.	Matthew C. Schnaidt,Debra A. Hensgen,John Falby,Taylor Kidd,David St. John	10.1109/HPDC.1999.805316
+Dynamic Task Migration in Home-based Software DSM Systems.	Weisong Shi,Weiwu Hu,Zhimin Tang,M. Rasit Eskicioglu	10.1109/HPDC.1999.805317
+Accurately Measuring MPI Broadcasts in a Computational Grid.	Bronis R. de Supinski,Nicholas T. Karonis	10.1109/HPDC.1999.805279
+Overview of a Performance Evaluation System for Global Computing Scheduling Algorithms.	Atsuko Takefusa,Satoshi Matsuoka,Hidemoto Nakada,Kento Aida,Umpei Nagashima	10.1109/HPDC.1999.805287
+A Network-Aware Distributed Storage Cache for Data Intensive Environments.	Brian Tierney,Jason Lee 0001,Brian Crowley,Mason Holding,Jeremy Hylton,Fred L. Drake	10.1109/HPDC.1999.805297
+Proteus: A Runtime Reconfigurable Distributed Shared Memory System.	Jyh-Chang Ueng,Ce-Kuen Shieh,Wu-Hwa Liu,Chi-Chang Lin	10.1109/HPDC.1999.805321
+CAT: A High Performance Distributed Component Architecture Toolkit for the Grid.	Juan E. Villacis,Madhusudhan Govindaraju,David Stern,Andrew Whitaker,Fabian Breg,Prafulla Deuskar,Benjamin Temko,Dennis Gannon,Randall Bramley	10.1109/HPDC.1999.805290
+Six Misconceptions about Reliable Distributed Computing.	Werner Vogels,Robbert van Renesse,Kenneth P. Birman	10.1109/HPDC.1999.805300
+Fault Tolerant Computing on the Grid: What are My Options?	Jon B. Weissman	10.1109/HPDC.1999.805323
+Predicting the CPU Availability of Time-shared Unix Systems on the Computational Grid.	Richard Wolski,Neil T. Spring,Jim Hayes	10.1109/HPDC.1999.805288
+Portable Petaflop/s Programming: Applying Distributed Computing Methodology to the Grid within a Single Machine Room.	Paul R. Woodward,Sarah E. Anderson	10.1109/HPDC.1999.805284
+Process Hijacking.	Victor C. Zandy,Barton P. Miller,Miron Livny	10.1109/HPDC.1999.805296
+Job-Length Estimation and Performance in Backfilling Schedulers.	Dmitry N. Zotkin,Peter J. Keleher	10.1109/HPDC.1999.805303
+Proceedings of the Eighth IEEE International Symposium on High Performance Distributed Computing, HPDC&apos;99, Redondo Beach, California, USA, August 3-6, 1999.		

@@ -1,0 +1,36 @@
+vIC: Interrupt Coalescing for Virtual Machine Storage Device IO.	Irfan Ahmad 0005,Ajay Gulati,Ali José Mashtizadeh	
+vIOMMU: Efficient IOMMU Emulation.	Nadav Amit,Muli Ben-Yehuda,Dan Tsafrir,Assaf Schuster	
+Okeanos: Wasteless Journaling for Fast and Reliable Multistream Storage.	Stergios V. Anastasiadis	
+Vsys: A Programmable sudo.	Sapan Bhatia,Giovanni Di Stasi,Thom Haddow,Andy C. Bavier,Steve Muir,Larry L. Peterson	
+A Case for NUMA-aware Contention Management on Multicore Systems.	Sergey Blagodurov,Sergey Zhuravlev,Mohammad Dashti 0002,Alexandra Fedorova	
+Toward Online Testing of Federated and Heterogeneous Distributed Systems.	Marco Canini,Vojin Jovanovic,Daniele Venzano,Boris Spasojevic,Olivier Crameri,Dejan Kostic	
+The Design and Evolution of Live Storage Migration in VMware ESX.	Ali José Mashtizadeh,Emré Celebi,Tal Garfinkel,Min Cai	
+Semantics of Caching with SPOCA: A Stateless, Proportional, Optimally-Consistent Addressing Algorithm.	Ashish Chawla,Benjamin C. Reed,Karl Juhnke,Ghousuddin Syed	
+HiTune: Dataflow-Based Performance Analysis for Big Data Cloud.	Jinquan Dai,Jie Huang,Shengsheng Huang,Bo Huang 0002,Yan Liu	
+TidyFS: A Simple and Small Distributed File System.	Dennis Fetterly,Maya Haridasan,Michael Isard,Swaminathan Sundararaman	
+Building a High-performance Deduplication System.	Fanglu Guo,Petros Efstathopoulos	
+CDE: Using System Call Interposition to Automatically Create Portable Software Packages.	Philip J. Guo,Dawson R. Engler	
+G2: A Graph Processing System for Diagnosing Distributed Systems.	Zhenyu Guo,Dong Zhou,Haoxiang Lin,Mao Yang,Fan Long,Chaoqiang Deng,Changshu Liu,Lidong Zhou	
+Pegasus: Coordinated Scheduling for Virtualized Accelerator-based Systems.	Vishakha Gupta,Karsten Schwan,Niraj Tolia,Vanish Talwar,Parthasarathy Ranganathan	
+TimeGraph: GPU Scheduling for Real-Time Multi-Tasking Environments.	Shinpei Kato,Karthik Lakshmanan,Ragunathan Rajkumar,Yutaka Ishikawa	
+Polygraph: System for Dynamic Reduction of False Alerts in Large-Scale IT Service Delivery Environments.	Sangkyum Kim,Winnie Cheng,Shang Guo,Laura Z. Luan,Daniela Rosu 0001,Abhijit Bose	
+Power Budgeting for Virtualized Data Centers.	Harold Lim,Aman Kansal,Jie Liu 0001	
+In-situ MapReduce for Log Processing.	Dionysios Logothetis,Chris Trezzo,Kevin C. Webb 0001,Kenneth Yocum	
+Taming the Flying Cable Monster: A Topology Design and Optimization Framework for Data-Center Networks.	Jayaram Mudigonda,Praveen Yalagandula,Jeffrey C. Mogul	
+Internet-scale Visualization and Detection of Performance Events.	Jeffrey Pang,Subhabrata Sen,Oliver Spatscheck,Shobha Venkataraman	
+Enabling Security in Cloud Storage SLAs with CloudProof.	Raluca Ada Popa,Jacob R. Lorch,David Molnar,Helen J. Wang,Li Zhuang	
+Autonomous Storage Management for Personal Devices with PodBase.	Ansley Post,Juan Navarro,Petr Kuznetsov,Peter Druschel	
+Exception-Less System Calls for Event-Driven Servers.	Livio Soares,Michael Stumm	
+Eyo: Device-Transparent Personal Storage.	Jacob Strauss,Justin Mazzola Paluska,Chris Lesniewski-Laas,Bryan Ford,Robert Tappan Morris,M. Frans Kaashoek	
+Slow Down or Sleep, That Is the Question.	Etienne Le Sueur,Gernot Heiser	
+FVD: A High-Performance Virtual Machine Image Format for Cloud.	Chunqiang Tang	
+Online Migration for Geo-distributed Storage Systems.	Nguyen Tran,Marcos K. Aguilera,Mahesh Balakrishnan 0001	
+Resizable, Scalable, Concurrent Hash Tables via Relativistic Programming.	Josh Triplett,Paul E. McKenney,Jonathan Walpole	
+Victim Disk First: An Asymmetric Cache to Boost the Performance of Disk Arrays under Faulty Conditions.	Shenggang Wan,Qiang Cao 0001,Jianzhong Huang 0001,Siyi Li,Xin Li,Shenghui Zhan,Li Yu,Changsheng Xie,Xubin He	
+jVPFS: Adding Robustness to a Secure Stacked File System with Untrusted Local Storage Components.	Carsten Weinhold	
+OFRewind: Enabling Record and Replay Troubleshooting for Networks.	Andreas Wundsam,Dan Levin,Srini Seetharaman,Anja Feldmann	
+SiLo: A Similarity-Locality based Near-Exact Deduplication Scheme with Low RAM Overhead and High Throughput.	Wen Xia,Hong Jiang 0001,Dan Feng 0001,Yu Hua 0001	
+Context-based Online Configuration-Error Detection.	Yinglian Xie,Rina Panigrahy,Junfeng Yang,Chad Verbowski,Arunvijay Kumar	
+ORDER: Object centRic DEterministic Replay for Java.	Zhemin Yang,Min Yang 0002,Lvcai Xu,Haibo Chen 0001,Binyu Zang	
+Low Cost Working Set Size Tracking.	Weiming Zhao,Xinxin Jin,Zhenlin Wang,Xiaolin Wang 0001,Yingwei Luo,Xiaoming Li	
+2011 USENIX Annual Technical Conference, Portland, OR, USA, June 15-17, 2011	Jason Nieh,Carl A. Waldspurger	

@@ -1,0 +1,51 @@
+Parallelism in dynamic well-spaced point sets.	Umut A. Acar,Andrew Cotter,Benoît Hudson,Duru Türkoglu	10.1145/1989493.1989498
+Brief announcement: RedRem: a parallel redundancy remover.	Hrishikesh B. Acharya,Mohamed G. Gouda	10.1145/1989493.1989536
+On multi-processor speed scaling with migration: extended abstract.	Susanne Albers,Antonios Antoniadis 0001,Gero Greiner	10.1145/1989493.1989539
+Tight bounds for anonymous adopt-commit objects.	James Aspnes,Faith Ellen	10.1145/1989493.1989548
+Convergence to equilibrium of logit dynamics for strategic games.	Vincenzo Auletta,Diodato Ferraioli,Francesco Pasquale,Paolo Penna,Giuseppe Persiano	10.1145/1989493.1989522
+Brief announcement: reclaiming the energy of a schedule, models and algorithms.	Guillaume Aupy,Anne Benoit,Fanny Dufossé,Yves Robert	10.1145/1989493.1989512
+Recommender systems with non-binary grades.	Yossi Azar,Aviv Nisgav,Boaz Patt-Shamir	10.1145/1989493.1989528
+Brief announcement: communication bounds for heterogeneous architectures.	Grey Ballard,James Demmel,Andrew Gearhart	10.1145/1989493.1989531
+Graph expansion and communication costs of fast matrix multiplication: regular submission.	Grey Ballard,James Demmel,Olga Holtz,Oded Schwartz	10.1145/1989493.1989495
+Scheduling irregular parallel computations on hierarchical caches.	Guy E. Blelloch,Jeremy T. Fineman,Phillip B. Gibbons,Harsha Vardhan Simhadri	10.1145/1989493.1989553
+Near linear-work parallel SDD solvers, low-diameter decomposition, and low-stretch subgraphs.	Guy E. Blelloch,Anupam Gupta 0001,Ioannis Koutis,Gary L. Miller,Richard Peng,Kanat Tangwongsan	10.1145/1989493.1989496
+Linear-work greedy parallel approximate set cover and variants.	Guy E. Blelloch,Richard Peng,Kanat Tangwongsan	10.1145/1989493.1989497
+The car sharing problem.	Patrick Briest,Christoph Raupach	10.1145/1989493.1989518
+Parallelism and data movement characterization of contemporary application classes.	Victoria Caparrós Cabezas,Phillip Stanley-Marbell	10.1145/1989493.1989506
+Brief announcement: better speedups for parallel max-flow.	George Constantin Caragea,Uzi Vishkin	10.1145/1989493.1989511
+Brief announcement: full reversal routing as a linear dynamical system.	Bernadette Charron-Bost,Matthias Függer,Jennifer L. Welch,Josef Widder	10.1145/1989493.1989510
+Brief announcement: read invisibility, virtual world consistency and permissiveness are compatible.	Tyler Crain,Damien Imbs,Michel Raynal	10.1145/1989493.1989546
+A tight runtime bound for synchronous gathering of autonomous robots with limited visibility.	Bastian Degener,Barbara Kempkes,Tobias Langner,Friedhelm Meyer auf der Heide,Peter Pietrzyk 0001,Roger Wattenhofer	10.1145/1989493.1989515
+Brief announcement: a partitioned ticket lock.	David Dice	10.1145/1989493.1989543
+Flat-combining NUMA locks.	David Dice,Virendra J. Marathe,Nir Shavit	10.1145/1989493.1989502
+Brief announcement: multilane - a concurrent blocking multiset.	David Dice,Oleksandr Otenko	10.1145/1989493.1989545
+Stabilizing consensus with the power of two choices.	Benjamin Doerr,Leslie Ann Goldberg,Lorenz Minder,Thomas Sauerwald,Christian Scheideler	10.1145/1989493.1989516
+On a bounded budget network creation game.	Shayan Ehsani,MohammadAmin Fazli,Abbas Mehrabian,Sina Sadeghian Sadeghabad,MohammadAli Safari,Morteza Saghafian,Saber ShokatFadaee	10.1145/1989493.1989523
+Maximising lifetime for fault-tolerant target coverage in sensor networks.	Thomas Erlebach,Tom Grant,Frank Kammer	10.1145/1989493.1989521
+Online packet-routing in grids with bounded buffers.	Guy Even,Moti Medina	10.1145/1989493.1989525
+A highly-efficient wait-free universal construction.	Panagiota Fatourou,Nikolaos D. Kallimanis	10.1145/1989493.1989549
+Sparse spanners vs. compact routing.	Cyril Gavoille,Christian Sommer 0001	10.1145/1989493.1989526
+Data-oblivious external-memory algorithms for the compaction, selection, and sorting of outsourced data.	Michael T. Goodrich	10.1145/1989493.1989555
+Brief announcement: large-scale multimaps.	Michael T. Goodrich,Michael Mitzenmacher	10.1145/1989493.1989532
+Brief announcement: transaction polymorphism.	Vincent Gramoli,Rachid Guerraoui	10.1145/1989493.1989544
+On a local protocol for concurrent file transfers.	MohammadTaghi Hajiaghayi,Rohit Khandekar,Guy Kortsarz,Vahid Liaghat	10.1145/1989493.1989538
+Approximation algorithms for secondary spectrum auctions.	Martin Hoefer 0001,Thomas Kesselheim,Berthold Vöcking	10.1145/1989493.1989520
+Understanding bloom filter intersection for lazy address-set disambiguation.	Mark C. Jeffrey,J. Gregory Steffan	10.1145/1989493.1989551
+Brief announcement: locality-enhancing loop transformations for tree traversal algorithms.	Youngjoon Jo,Milind Kulkarni 0001	10.1145/1989493.1989534
+Convergence of local communication chain strategies via linear transformations: or how to trade locality for speed.	Peter Kling,Friedhelm Meyer auf der Heide	10.1145/1989493.1989517
+Re-Chord: a self-stabilizing chord overlay network.	Sebastian Kniesburges,Andreas Koutsopoulos,Christian Scheideler	10.1145/1989493.1989527
+Location-based memory fences.	Edya Ladan-Mozes,I-Ting Angelina Lee,Dmitry Vyukov	10.1145/1989493.1989503
+Filtering: a method for solving graph problems in MapReduce.	Silvio Lattanzi,Benjamin Moseley,Siddharth Suri,Sergei Vassilvitskii	10.1145/1989493.1989505
+Brief announcement: program regularization in verifying memory consistency.	Lei Li,Tianshi Chen 0002,Yunji Chen,Ling Li 0001,Cheng Qian,Weiwu Hu	10.1145/1989493.1989535
+Brief announcement: distributed shared memory based on computation migration.	Mieszko Lis,Keun Sup Shim,Myong Hyon Cho,Christopher W. Fletcher,Michel A. Kinsy,Ilia A. Lebedev,Omer Khan,Srinivas Devadas	10.1145/1989493.1989530
+Finding heavy distinct hitters in data streams.	Thomas Locher	10.1145/1989493.1989541
+Brief announcement: paging for multicore processors.	Alejandro López-Ortiz,Alejandro Salinger	10.1145/1989493.1989513
+On scheduling in map-reduce and flow-shops.	Benjamin Moseley,Anirban Dasgupta 0001,Ravi Kumar 0001,Tamás Sarlós	10.1145/1989493.1989540
+A study of transactional memory vs. locks in practice.	Victor Pankratius,Ali-Reza Adl-Tabatabai	10.1145/1989493.1989500
+Optimizing hybrid transactional memory: the importance of nonspeculative operations.	Torvald Riegel,Patrick Marlier,Martin Nowack,Pascal Felber,Christof Fetzer	10.1145/1989493.1989501
+Sharing-aware algorithms for virtual machine colocation.	Michael Sindelar,Ramesh K. Sitaraman,Prashant J. Shenoy	10.1145/1989493.1989554
+A lock-free algorithm for concurrent bags.	Håkan Sundell,Anders Gidenstam,Marina Papatriantafilou,Philippas Tsigas	10.1145/1989493.1989550
+The pochoir stencil compiler.	Yuan Tang,Rezaul Alam Chowdhury,Bradley C. Kuszmaul,Chi-Keung Luk,Charles E. Leiserson	10.1145/1989493.1989508
+Brief announcement: processor allocation for optimistic parallelization of irregular programs.	Francesco Versaci,Keshav Pingali	10.1145/1989493.1989533
+Work-stealing for mixed-mode parallelism by deterministic team-building.	Martin Wimmer 0003,Jesper Larsson Träff	10.1145/1989493.1989507
+SPAA 2011: Proceedings of the 23rd Annual ACM Symposium on Parallelism in Algorithms and Architectures, San Jose, CA, USA, June 4-6, 2011 (Co-located with FCRC 2011)	Rajmohan Rajaraman,Friedhelm Meyer auf der Heide	10.1145/1989493

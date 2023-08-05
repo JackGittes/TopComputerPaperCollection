@@ -1,0 +1,25 @@
+The effect of reconfigurable units in superscalar processors.	Jorge E. Carrillo,Paul Chow	10.1145/360276.360328
+Simultaneous logic decomposition with technology mapping in FPGA designs.	Gang Chen 0020,Jason Cong	10.1145/360276.360298
+Performance-driven mapping for CPLD architectures.	Deming Chen,Jason Cong,Milos D. Ercegovac,Zhijun Huang	10.1145/360276.360296
+Fast implementations of secret-key block ciphers using mixed inner- and outer-round pipelining.	Pawel Chodowiec,Po Khuon,Kris Gaj	10.1145/360276.360309
+Configuration compression for FPGA-based embedded systems.	Andreas Dandalis,Viktor K. Prasanna	10.1145/360276.360342
+Algorithmic transformations in the implementation of K- means clustering on reconfigurable hardware.	Mike Estlick,Miriam Leeser,James Theiler,John J. Szymanski	10.1145/360276.360311
+Evaluation of the streams-C C-to-FPGA compiler: an applications perspective.	Janette Frigo,Maya B. Gokhale,Dominique Lavenier	10.1145/360276.360326
+Detailed routing architectures for embedded programmable logic IP cores.	Peter Hallschmid,Steven J. E. Wilton	10.1145/360276.360300
+A memory coherence technique for online transient error recovery of FPGA configurations.	Wei-Je Huang,Edward J. McCluskey	10.1145/360276.360344
+Is marriage in the cards for programmable logic, microprocessors and ASICs?	Sinan Kaptanoglu,John East,Tim Garverick,Scott Hauck,Tavana Tavana,Steven Trimberger,Ronnie Vasishta	10.1145/360276.360313
+LRoute: a delay minimal router for hierarchical CPLDs.	K. K. Lee,D. F. Wong 0001	10.1145/360276.360290
+Using sparse crossbars within LUT.	Guy G. Lemieux,David M. Lewis	10.1145/360276.360299
+An FPGA-based video compressor for H.263 compatible bit streams.	Gerhard Lienhart,Reinhard Männer,Klaus-Henning Noffz,Ralf Lay	10.1145/360276.360356
+Reprogrammable network packet processing on the field programmable port extender (FPX).	John W. Lockwood,Naji Naufel,Jonathan S. Turner,David E. Taylor	10.1145/360276.360304
+Matching and searching analysis for parallel hardware implementation on FPGAs.	Pablo Moisset,Pedro C. Diniz,Joonseok Park	10.1145/360276.360324
+Runtime and quality tradeoffs in FPGA placement and routing.	Chandra Mulpuri,Scott Hauck	10.1145/360276.360294
+FPGA implementation of a novel, fast motion estimation algorithm for real-time video compression.	Seetharaman Ramachandran,S. Srinivasan 0001	10.1145/360276.360358
+A pipelined architecture for partitioned DWT based lossy image compression using FPGA&apos;s.	Jörg Ritter 0002,Paul Molitor	10.1145/360276.360350
+Mixing buffers and pass transistors in FPGA routing architectures.	Mike Sheng,Jonathan Rose	10.1145/360276.360302
+The case for registered routing switches in field programmable gate arrays.	Deshanand P. Singh,Stephen Dean Brown	10.1145/360276.360331
+Interconnect pipelining in a throughput-intensive FPGA architecture.	Amit Singh 0001,Arindam Mukherjee 0001,Malgorzata Marek-Sadowska	10.1145/360276.360323
+Attacking the semantic gap between application programming languages and configurable hardware.	Greg Snider,Barry Shackleford,Richard J. Carter	10.1145/360276.360322
+Run-Time defect tolerance using JBits.	Prasanna Sundararajan,Steve Guccione	10.1145/360276.360346
+A crosstalk-aware timing-driven router for FPGAs.	Steven J. E. Wilton	10.1145/360276.360292
+Proceedings of the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2001, Monterey, CA, USA, February 11-13, 2001	Scott Hauck,Martine D. F. Schlag,Russell Tessier	10.1145/360276

@@ -1,0 +1,41 @@
+The effect of LUT and cluster size on deep-submicron FPGA performance and density.	Elias Ahmed,Jonathan Rose	10.1145/329166.329171
+Determining the optimum extended instruction-set architecture for application specific reconfigurable VLIW CPUs (poster abstract).	Cesare Alippi,William Fornaciari,Laura Pozzi,Mariagiovanna Sami	10.1145/329166.329214
+Design and implementation of an FPGA based processor for compressed images (poster abstract).	V. S. Balakrishnan,Hardy J. Pottinger,Fikret Erçal,Mukesh Agarwal	10.1145/329166.329213
+Automatic generation of FPGA routing architectures from high-level descriptions.	Vaughn Betz,Jonathan Rose	10.1145/329166.329203
+FPGA clock management for low power applications (poster abstract).	Ian Brynjolfson,Zeljko Zilic	10.1145/329166.329216
+New parallelization and convergence results for NC: a negotiation-based FPGA router.	Pak K. Chan,Martine D. F. Schlag	10.1145/329166.329201
+Technology mapping for k/m-macrocell based FPGAs.	Jason Cong,Hui Huang 0001,Xin Yuan 0005	10.1145/329166.329179
+Synthesis for FPGAs with embedded memory blocks.	Jason Cong,Kenneth Yan	10.1145/329166.329183
+An FPGA implementation and performance evaluation of the Serpent block cipher.	Adam J. Elbirt,Christof Paar	10.1145/329166.329176
+Virtualization of FPGA via segmentation (poster abstract).	William Fornaciari,Vincenzo Piuri,Luigi Ripamonti	10.1145/329166.329226
+Low power digital design in FPGAs (poster abstract): a study of pipeline architectures implemented in a FPGA using a low supply voltage to reduce power consumption.	Andrés D. García,Jean-Luc Danger,Wayne P. Burleson	10.1145/329166.329220
+Synthesis and domain-specific optimization of KressArray-based reconfigurable computing engines (poster abstract).	Reiner W. Hartenstein,Michael Herz,Thomas Hoffmann 0001,Ulrich Nageldinger	10.1145/329166.329224
+Programmable memory blocks supporting content-addressable memory.	Frank Heile,Andrew Leaver,Kerry Veenstra	10.1145/329166.329173
+A representation for dynamic graphs in reconfigurable hardware and its application to fundamental graph algorithms.	Lorenz Huelsbergen	10.1145/329166.329190
+Novel hardware-software architecture for the recursive merge filtering algorithm (poster abstract).	Piyush Jamkhandi,Amar Mukherjee,Kunal Mukherjee,Robert Franceschini	10.1145/329166.329218
+Technology mapping issues for an FPGA with lookup tables and PLA-like blocks.	Alireza Kaviani,Stephen Dean Brown	10.1145/329166.329180
+Factoring large numbers with programmable hardware.	Hea Joung Kim,William H. Mangione-Smith	10.1145/329166.329177
+A reconfigurable multi-function computing cache architecture.	Huesung Kim,Arun K. Somani,Akhilesh Tyagi	10.1145/329166.329185
+A benchmark suite for evaluating configurable computing systems--status, reflections, and future directions.	S. Kumar,Luiz Pires,Subburajan Ponnuswamy,C. Nanavati,J. Golusky,M. Vojta,S. Wadi,D. Pandalai,Henk A. E. Spaanenburg	10.1145/329166.329193
+Tolerating operational faults in cluster-based FPGAs.	Vijay Lakamraju,Russell Tessier	10.1145/329166.329205
+Coarse-grained carry architecture for FPGA (poster abstract).	Hyuk-Jun Lee,Michael J. Flynn	10.1145/329166.329211
+Generating highly-routable sparse crossbars for PLDs.	Guy G. Lemieux,Paul Leventis,David M. Lewis	10.1145/329166.329199
+Cost minimization of partitioned circuits with complex resource constraints in FPGAs (poster abstract).	Yu-Chung Lin,Su-Feng Tseng,Tsai-Ming Hsieh	10.1145/329166.329212
+Field programmable port extender (FPX) for distributed routing and queuing.	John W. Lockwood,Jonathan S. Turner,David E. Taylor	10.1145/329166.329196
+Timing-driven placement for FPGAs.	Alexander Marquardt,Vaughn Betz,Jonathan Rose	10.1145/329166.329208
+Real-time, frame-rate face detection on a configurable hardware system (poster abstract).	Rob McCready,Jonathan Rose	10.1145/329166.329221
+FPGA implementation and analysis of image restoration.	F. S. Ogrenci,Aggelos K. Katsaggelos,Majid Sarrafzadeh	10.1145/329166.329217
+Synthesizing full-systolic arrays for matrix product on Xilinx&apos;s XC4000(E, EX) FPGAs (poster abstract).	Abdelkrim Kamel Oudjida,Sabrina Titri,Mustapha Hamerlain	10.1145/329166.329225
+Algorithm analysis and mapping environment for adaptive computing systems (poster abstract).	Eric K. Pauer,Paul D. Fiore,John M. Smith,Cory S. Myers	10.1145/329166.329209
+The John Henry Syndrome (panel session)(abstract only): humans vs. machines as FPGA designers.	Herman Schmit,Ray Andraka,Philip Friedin,Satnam Singh,Tim Southgate	10.1145/329166.329188
+Scalable interconnect and power distribution for island-style FPGAs (poster abstract).	Herman Schmit,David Whelihan,Peter Kamarchik,Frank Gennari	10.1145/329166.329223
+An FPGA-based genetic algorithm machine (poster abstract).	Barry Shackleford,Etsuko Okushi,Mitsuhiro Yasuda,Hisao Koizumi,Katsuhiko Seo,Takashi Iwamoto,Hiroto Yasuura	10.1145/329166.329215
+Implementing a RAKE receiver for wireless communications on an FPGA-based computer system.	Ali M. Shankiti,Miriam Leeser	10.1145/329166.329198
+A novel high throughput reconfigurable FPGA architecture.	Amit Singh 0001,Luca Macchiarulo,Arindam Mukherjee 0001,Malgorzata Marek-Sadowska	10.1145/329166.329174
+Reconfigurable target recognition system (poster abstract).	Gábor Szedö,Sandeep Neema,Jason Scott,Ted Bapty	10.1145/329166.329222
+Power estimation approach for SRAM-based FPGAs.	Karlheinz Weiß,Carsten Oetker,Igor Katchan,Thorsten Steckstor,Wolfgang Rosenstiel	10.1145/329166.329207
+Heterogeneous technology mapping for FPGAs with dual-port embedded memory arrays.	Steven J. E. Wilton	10.1145/329166.329182
+Improving the performance and efficiency of an adaptive amplification operation using configurable hardware (poster abstract).	Michael J. Wirthlin,Paul S. Graham	10.1145/329166.329219
+The application of genetic algorithms to the design of reconfigurable reasoning VLSI chips.	Moritoshi Yasunaga,Jung Hwan Kim,Ikuo Yoshihara	10.1145/329166.329191
+A C compiler for a processor with a reconfigurable functional unit.	Zhi Alex Ye,U. Nagaraj Shenoy,Prithviraj Banerjee	10.1145/329166.329187
+Proceedings of the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2000, Monterey, CA, USA, February 10-11, 2000	Steve Trimberger,Scott Hauck	10.1145/329166

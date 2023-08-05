@@ -1,0 +1,43 @@
+Leslie Lamport&apos;s properties and actions.	Martín Abadi	10.1145/383962.383973
+Lamport on mutual exclusion: 27 years of planting seeds.	James H. Anderson	10.1145/383962.383967
+An improved lower bound for the time complexity of mutual exclusion.	James H. Anderson,Yong-Jik Kim	10.1145/383962.383996
+Dynamic input/output automata, a formal model for dynamic systems.	Paul C. Attie,Nancy A. Lynch	10.1145/383962.384051
+Reliability and performance of hierarchical RAID with multiple controllers.	Sung Hoon Baek,Bong Wan Kim,Eui Joung Joung,Chong-Won Park	10.1145/383962.384036
+Nearly optimal perfectly-periodic schedules.	Amotz Bar-Noy,Aviv Nisgav,Boaz Patt-Shamir	10.1145/383962.383998
+Practical multi-candidate election system.	Olivier Baudron,Pierre-Alain Fouque,David Pointcheval,Jacques Stern,Guillaume Poupard	10.1145/383962.384044
+Restoration by path concatenation: fast recovery of MPLS paths.	Anat Bremler-Barr,Yehuda Afek,Haim Kaplan,Edith Cohen,Michael Merritt	10.1145/383962.383980
+Selective private function evaluation with applications to private statistics.	Ran Canetti,Yuval Ishai,Ravi Kumar 0001,Michael K. Reiter,Ronitt Rubinfeld,Rebecca N. Wright	10.1145/383962.384047
+An efficient communication strategy for ad-hoc mobile networks.	Ioannis Chatzigiannakis,Sotiris E. Nikoletseas,Paul G. Spirakis	10.1145/383962.384053
+The do-all problem in broadcast networks.	Bogdan S. Chlebus,Dariusz R. Kowalski,Andrzej Lingas	10.1145/383962.384000
+Distributed multi-broadcast in unknown radio networks.	Andrea E. F. Clementi,Angelo Monti,Riccardo Silvestri	10.1145/383962.384040
+Lock-free reference counting.	David Detlefs,Paul Alan Martin,Mark Moir,Guy L. Steele Jr.	10.1145/383962.384016
+Computing almost shortest paths.	Michael Elkin	10.1145/383962.383983
+Adding networks.	Panagiota Fatourou,Maurice Herlihy	10.1145/383962.384049
+Detecting distributed cycles of garbage in large-scale systems.	Fabrice Le Fessant	10.1145/383962.384018
+The concurrency hierarchy, and algorithms for unbounded concurrency.	Eli Gafni,Michael Merritt,Gadi Taubenfeld	10.1145/383962.384008
+String realizers of posets with applications to distributed computing.	Vijay K. Garg,Chakarat Skawratananond	10.1145/383962.383988
+On scalable and efficient distributed failure detectors.	Indranil Gupta,Tushar Deepak Chandra,Germán S. Goldszmidt	10.1145/383962.384010
+A note on group mutual exclusion.	Vassos Hadzilacos	10.1145/383962.383997
+Average probe complexity in quorum systems.	Yehuda Hassin,David Peleg	10.1145/383962.384014
+On the generalized dining philosophers problem.	Oltea Mihaela Herescu,Catuscia Palamidessi	10.1145/383962.383994
+On beyond registers: wait-free readable objects.	Maurice Herlihy	10.1145/383962.383979
+Competitive concurrent distributed queuing.	Maurice Herlihy,Srikanta Tirthapura,Roger Wattenhofer	10.1145/383962.384001
+Replicated condition monitoring.	Yongqiang Huang,Hector Garcia-Molina	10.1145/383962.384026
+An optimally robust hybrid mix network.	Markus Jakobsson,Ari Juels	10.1145/383962.384046
+Computing property-preserving behaviour abstractions from trace reductions: abstraction-based verification of linear-time properties under fairness.	Simon St. James,Ulrich Ultes-Nitsche	10.1145/383962.384027
+The IceCube approach to the reconciliation of divergent replicas.	Anne-Marie Kermarrec,Antony I. T. Rowstron,Marc Shapiro 0001,Peter Druschel	10.1145/383962.384020
+The ABCD&apos;s of Paxos.	Butler W. Lampson	10.1145/383962.383969
+Randomized shared queues.	Hyunyoung Lee,Jennifer L. Welch	10.1145/383962.384050
+Analysis of a cone-based distributed topology control algorithm for wireless multi-hop networks.	Li Li 0002,Joseph Y. Halpern,Paramvir Bahl,Yi-Min Wang,Roger Wattenhofer	10.1145/383962.384043
+Distributed MST for constant diameter graphs.	Zvi Lotker,Boaz Patt-Shamir,David Peleg	10.1145/383962.383984
+Implementing atomic objects in a dynamic environment.	Nancy A. Lynch	10.1145/383962.383977
+Optimal scheduling for disconnected cooperation.	Grzegorz Malewicz,Alexander Russell,Alexander A. Shvartsman	10.1145/383962.384048
+Compressed bloom filters.	Michael Mitzenmacher	10.1145/383962.384004
+Correction: practical implementations of non-blocking synchronization primitives.	Mark Moir	10.1145/383962.384054
+A hierarchy of conditions for consensus solvability.	Achour Mostéfaoui,Sergio Rajsbaum,Michel Raynal,Matthieu Roy	10.1145/383962.384006
+A framework for semantic reasoning about Byzantine quorum systems.	Evelyn Tumlin Pierce,Lorenzo Alvisi	10.1145/383962.384052
+Sticks and stones: a coding scheme for parameterized verification.	Amir Pnueli	10.1145/383962.383971
+The LATEX legacy: 2.09 and all that.	Chris Rowley	10.1145/383962.383978
+Bandwidth constrained placement in a WAN.	Arun Venkataramani,Phoebe Weidmann,Michael Dahlin	10.1145/383962.384002
+Exploitng event stream interpretation in publish-subscribe systems.	Yuanyuan Zhao,Robert E. Strom	10.1145/383962.384023
+Proceedings of the Twentieth Annual ACM Symposium on Principles of Distributed Computing, PODC 2001, Newport, Rhode Island, USA, August 26-29, 2001	Ajay D. Kshemkalyani,Nir Shavit	

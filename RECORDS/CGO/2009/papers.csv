@@ -1,0 +1,27 @@
+Techniques for Region-Based Register Allocation.	Ivan D. Baev	10.1109/CGO.2009.31
+Workload Reduction for Multi-input Feedback-Directed Optimization.	Paul Berube,José Nelson Amaral,Rayson Ho,Raúl Silvera	10.1109/CGO.2009.23
+Revisiting Out-of-SSA Translation for Correctness, Code Quality and Efficiency.	Benoit Boissinot,Alain Darte,Fabrice Rastello,Benoît Dupont de Dinechin,Christophe Guillon	10.1109/CGO.2009.19
+Communication-Sensitive Static Dataflow for Parallel Message Passing Applications.	Greg Bronevetsky	10.1109/CGO.2009.32
+Stream Compilation for Real-Time Embedded Multicore Systems.	Yoonseo Choi,Yuan Lin 0002,Nathan Chong,Scott A. Mahlke,Trevor N. Mudge	10.1109/CGO.2009.27
+Two-Level Dictionary Code Compression: A New Scheme to Improve Instruction Code Density of Embedded Applications.	Mikael Collin,Mats Brorsson	10.1109/CGO.2009.16
+A Fast and Precise Static Loop Analysis Based on Abstract Interpretation, Program Slicing and Polytope Models.	Paul Lokuciejewski,Daniel Cordes,Heiko Falk,Peter Marwedel	10.1109/CGO.2009.17
+A Practical Approach to Hardware Performance Monitoring Based Dynamic Optimizations in a Production JVM.	John Cuthbertson,Sandhya Viswanathan,Konstantin Bobrovsky,Alexander Astapchuk,Eric Kaczmarek,Uma Srinivasan	10.1109/CGO.2009.13
+Detecting and Eliminating Potential Violations of Sequential Consistency for Concurrent C/C++ Programs.	Yuelu Duan,Xiaobing Feng 0002,Lei Wang 0004,Chao Zhang,Pen-Chung Yew	10.1109/CGO.2009.29
+Fast Track: A Software System for Speculative Program Optimization.	Kirk Kelsey,Tongxin Bai,Chen Ding 0001,Chengliang Zhang	10.1109/CGO.2009.18
+Transparent Debugging of Dynamically Optimized Code.	Naveen Kumar 0002,Bruce R. Childers,Mary Lou Soffa	10.1109/CGO.2009.28
+Automatic Feature Generation for Machine Learning Based Optimizing Compilation.	Hugh Leather,Edwin V. Bonilla,Michael F. P. O&apos;Boyle	10.1109/CGO.2009.21
+An Evaluation of Misaligned Data Access Handling Mechanisms in Dynamic Binary Translation Systems.	Jianjun Li,Chenggang Wu 0002,Wei-Chung Hsu	10.1109/CGO.2009.22
+Perflint: A Context Sensitive Performance Advisor for C++ Programs.	Lixia Liu,Silvius Rus	10.1109/CGO.2009.36
+Cross-Input Learning and Discriminative Prediction in Evolvable Virtual Machines.	Feng Mao,Xipeng Shen	10.1109/CGO.2009.10
+Scenario Based Optimization: A Framework for Statically Enabling Online Optimizations.	Jason Mars,Robert Hundt	10.1109/CGO.2009.24
+OptiScope: Performance Accountability for Optimizing Compilers.	Tipp Moseley,Dirk Grunwald,Ramesh Peri	10.1109/CGO.2009.26
+Wave Propagation and Deep Propagation for Pointer Analysis.	Fernando Magno Quintão Pereira,Daniel Berlin	10.1109/CGO.2009.9
+Profiling k-Iteration Paths: A Generalization of the Ball-Larus Profiling Algorithm.	Subhajit Roy 0001,Y. N. Srikant	10.1109/CGO.2009.11
+Procedural Abstraction with Reverse Prefix Trees.	Stefan Schäckeler,Weijia Shang	10.1109/CGO.2009.25
+Building Approximate Calling Context from Partial Call Traces.	Mauricio J. Serrano,Xiaotong Zhuang	10.1109/CGO.2009.12
+Reducing Memory Ordering Overheads in Software Transactional Memory.	Michael F. Spear,Maged M. Michael,Michael L. Scott,Peng Wu 0001	10.1109/CGO.2009.30
+Software Pipelined Execution of Stream Programs on GPUs.	Abhishek Udupa,R. Govindarajan,Matthew J. Thazhuthaveetil	10.1109/CGO.2009.20
+Computer Generation of General Size Linear Transform Libraries.	Yevgen Voronenko,Frédéric de Mesmay,Markus Püschel	10.1109/CGO.2009.33
+ESoftCheck: Removal of Non-vital Checks for Fault Tolerance.	Jing Yu 0015,María Jesús Garzarán,Marc Snir	10.1109/CGO.2009.14
+Alchemist: A Transparent Dependence Distance Profiling Infrastructure.	Xiangyu Zhang 0001,Armand Navabi,Suresh Jagannathan	10.1109/CGO.2009.15
+Proceedings of the CGO 2009, The Seventh International Symposium on Code Generation and Optimization, Seattle, Washington, USA, March 22-25, 2009		

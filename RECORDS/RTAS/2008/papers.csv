@@ -1,0 +1,36 @@
+Regular Specifications of Resource Requirements for Embedded Control Software.	Rajeev Alur,Gera Weiss	10.1109/RTAS.2008.13
+Physical Assembly Mapper: A Model-Driven Optimization Tool for QoS-Enabled Component Middleware.	Krishnakumar Balasubramanian 0001,Douglas C. Schmidt	10.1109/RTAS.2008.36
+NetQoPE: A Model-Driven Network QoS Provisioning Engine for Distributed Real-time and Embedded Systems.	Jaiganesh Balasubramanian,Sumant Tambe,Balakrishnan Dasarathy,Shrirang Gadgil,Frederick Porter,Aniruddha S. Gokhale,Douglas C. Schmidt	10.1109/RTAS.2008.32
+Hybrid-priority Scheduling of Resource-Sharing Sporadic Task Systems.	Sanjoy K. Baruah,Nathan Fisher	10.1109/RTAS.2008.7
+Real-Time Synchronization on Multiprocessors: To Block or Not to Block, to Suspend or Spin?	Björn B. Brandenburg,John M. Calandrino,Aaron Block,Hennadiy Leontyev,James H. Anderson	10.1109/RTAS.2008.27
+Approximation Algorithms for Multiprocessor Energy-Efficient Scheduling of Periodic Real-Time Tasks with Uncertain Task Execution Time.	Jian-Jia Chen,Chuan-Yue Yang,Hsueh-I Lu,Tei-Wei Kuo	10.1109/RTAS.2008.24
+Measurement Techniques in a Hybrid Approach for Deriving Tight Execution-time Bounds of Program Segments in Fully-featured Processors.	Juan A. Colmenares,Chansik Im,K. H. (Kane) Kim,Raymond Klefstad,Chae-Deok Lim	10.1109/RTAS.2008.35
+Access Control for Adaptive Reservations on Multi-User Systems.	Tommaso Cucinotta	10.1109/RTAS.2008.16
+Real-Time Dynamic Power Management through Device Forbidden Regions.	Vinay Devadas,Hakan Aydin	10.1109/RTAS.2008.21
+Real-Time Distributed Discrete-Event Execution with Fault Tolerance.	Thomas Huining Feng,Edward A. Lee	10.1109/RTAS.2008.22
+A Hybrid DVS Scheme for Interactive 3D Games.	Yan Gu 0003,Samarjit Chakraborty	10.1109/RTAS.2008.33
+A Modular Worst-case Execution Time Analysis Tool for Java Processors.	Trevor Harmon,Martin Schoeberl,Raimund Kirner,Raymond Klefstad	10.1109/RTAS.2008.34
+Schedulability Analysis of MSC-based System Models.	Lei Ju,Abhik Roychoudhury,Samarjit Chakraborty	10.1109/RTAS.2008.9
+Virtualizing Disk Performance.	Tim Kaldewey,Theodore M. Wong,Richard A. Golding,Anna Povzner,Scott A. Brandt,Carlos Maltzahn	10.1109/RTAS.2008.31
+Automated Middleware QoS Configuration Techniques for Distributed Real-time and Embedded Systems.	Amogh Kavimandan,Aniruddha S. Gokhale	10.1109/RTAS.2008.29
+A Metaheuristic Approach for Best Effort Timing Analysis Targeting Complex Legacy Real-Time Systems.	Johan Kraft,Yue Lu 0005,Christer Norström,Anders Wall	10.1109/RTAS.2008.25
+Distributed Resource Kernels: OS Support for End-To-End Resource Isolation.	Karthik Lakshmanan,Raj Rajkumar	10.1109/RTAS.2008.37
+Equivalence between Schedule Representations: Theory and Applications.	Matthieu Lemerre,Vincent David,Christophe Aussaguès,Guy Vidal-Naquet	10.1109/RTAS.2008.17
+Modular Code Generation from Triggered and Timed Block Diagrams.	Roberto Lublinerman,Stavros Tripakis	10.1109/RTAS.2008.12
+QoS Support in the X11 Window System.	Nicola Manica,Luca Abeni,Luigi Palopoli 0002	10.1109/RTAS.2008.20
+Hybrid Timing Analysis of Modern Processor Pipelines via Hardware/Software Interactions.	Sibin Mohan,Frank Mueller 0001	10.1109/RTAS.2008.19
+Optimizing the Implementation of Communication in Synchronous Reactive Models.	Marco Di Natale,Guoqiang Wang,Alberto L. Sangiovanni-Vincentelli	10.1109/RTAS.2008.23
+Hybrid Hardware-Software Architecture for Reconfigurable Real-Time Systems.	Rodolfo Pellizzoni,Marco Caccamo	10.1109/RTAS.2008.14
+TOSSTI: Saving Time and Energy in TinyOS with Software Thread Integration.	Zane D. Purvis,Alexander G. Dean	10.1109/RTAS.2008.38
+Bounding Worst-Case Response Time for Tasks with Non-Preemptive Regions.	Harini Ramaprasad,Frank Mueller 0001	10.1109/RTAS.2008.18
+Coexistence of Real-Time and Interactive &amp; Batch Tasks in DVS Systems.	Saowanee Saewong,Raj Rajkumar	10.1109/RTAS.2008.40
+Efficient On-line Schedulability Test for Feedback Scheduling of Soft Real-Time Tasks under Fixed-Priority.	Rodrigo M. Santos,Giuseppe Lipari,Enrico Bini	10.1109/RTAS.2008.26
+WirelessHART: Applying Wireless Technology in Real-Time Industrial Process Control.	Jianping Song,Song Han 0002,Aloysius K. Mok,Deji Chen 0001,Mike Lucas,Mark Nixon,Wally Pratt	10.1109/RTAS.2008.15
+Throttling On-Disk Schedulers to Meet Soft-Real-Time Requirements.	Mark J. Stanovich,Theodore P. Baker,An-I Andy Wang	10.1109/RTAS.2008.30
+A Switch Design for Real-Time Industrial Networks.	Qixin Wang,Sathish Gopalakrishnan,Xue Liu 0001,Lui Sha	10.1109/RTAS.2008.8
+Using Trace Scratchpads to Reduce Execution Times in Predictable Real-Time Architectures.	Jack Whitham,Neil C. Audsley	10.1109/RTAS.2008.11
+Buffer Capacity Computation for Throughput Constrained Streaming Applications with Data-Dependent Inter-Task Communication.	Maarten Wiggers,Marco Bekooij,Gerard J. M. Smit	10.1109/RTAS.2008.10
+WCET Analysis for Multi-Core Processors with Shared L2 Instruction Caches.	Jun Yan 0008,Wei Zhang 0002	10.1109/RTAS.2008.6
+Incorporating Resource Safety Verification to Executable Model-based Development for Embedded Systems.	Jianliang Yi,Honguk Woo,James C. Browne,Aloysius K. Mok,Fei Xie,Ella M. Atkins,Chan-Gun Lee	10.1109/RTAS.2008.28
+Hardware/Software Partitioning and Static Task Scheduling on Runtime Reconfigurable FPGAs using a SMT Solver.	Mingxuan Yuan,Xiuqiang He 0001,Zonghua Gu 0001	10.1109/RTAS.2008.39
+Proceedings of the 14th IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2008, April 22-24, 2008, St. Louis, Missouri, USA		

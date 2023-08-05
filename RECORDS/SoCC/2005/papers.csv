@@ -1,0 +1,82 @@
+Power minimization of rotary clock design.	Zhengtao Yu 0002,Xun Liu	10.1109/SOCC.2005.1554446
+Thermal-aware mapping and placement for 3-D NoC designs.	Charles Addo-Quaye	10.1109/SOCC.2005.1554447
+Improved memory strategy for logmap turbo decoders.	Imran Ahmed 0001,Tughrul Arslan,Sajid Baloch	10.1109/SOCC.2005.1554470
+FPGA implementation of the &quot;pyramids&quot; block cipher.	Abdullah AlKalbany,Hussein Ahmad Al Hassan,Magdy Saeb	10.1109/SOCC.2005.1554509
+Precharged SRAM cell for ultra low-power on-chip cache.	Ramy E. Aly,Magdy A. Bayoumi	10.1109/SOCC.2005.1554467
+Novel 7T sram cell for low power cache design.	Ramy E. Aly,Md. Ibrahim Faisal,Magdy A. Bayoumi	10.1109/SOCC.2005.1554488
+Mapping of partial reconfigurable data flows to Xilinx FPGAs.	Akshay Athalye,Sangjin Hong	10.1109/SOCC.2005.1554473
+Accurate Simulation Environment for Signal Isolation in Mixed-Signal Design.	Suman K. Banerjee,Radu M. Secareanu,Eric Nabity,Alain Duvallet,Olin L. Hartin	10.1109/SOCC.2005.1554471
+Automatic gain control circuit for power line communication application.	Chung-Yuan Chen,Tai-Ping Sun	10.1109/SOCC.2005.1554452
+An IR drop-driven placer for standard cells in a SOC design.	Jun Cheng Chi,Tsung Hui Huang,Mely Chen Chi	10.1109/SOCC.2005.1554448
+A 10 Gb/s Wide-Band Current-Mode Logic I/O Interface for High-Speed Interconnect in 0.18μm CMOS Technology.	Ching-Te Chiu,Jen-Ming Wu,Shuo-Hung Hsu,Min-Sheng Kao,Chih-Hsien Jen,Yarsun Hsu	10.1109/SOCC.2005.1554506
+Hybrid test data compression technique for SOC scan testing.	Sangwook Cho,Jaehoon Song,Hyunbean Yi,Sungju Park	10.1109/SOCC.2005.1554457
+CMOS SoC for irrigation control.	José Camargo da Costa,Adson Ferreira da Rocha,Leonardo R. A. X. de Menezes,Ricardo Pezzuol Jacobi,Alexandre R. S. Romariz,R. R. P. Soares,Gilmar S. Beserra,J. D. Costa,Genival Mariano de Araujo,W. A. Araujo,J. C. Sd. S. Marra,W. A. Amaral,P. R. O. Vogel,A. L. da Silva,A. Jd. O. Martins,L. R. Povoa	10.1109/SOCC.2005.1554453
+Designing for signal integrity in wave-pipelined SOC global interconnects.	Vinita V. Deodhar,Jeffrey A. Davis	10.1109/SOCC.2005.1554496
+Adaptive MTCMOS for dynamic leakage and frequency control using variable footer strength.	Harmander Singh Deogun,Dennis Sylvester,Rahul M. Rao,Kevin J. Nowka	10.1109/SOCC.2005.1554483
+Efficient VLSI Architecture for Real-Time Motion Estimation in Advanced Video Coding.	Tiago Dias,Nuno Roma,Leonel Sousa	10.1109/SOCC.2005.1554465
+Operating system support for dynamically reconfigurable SoC architectures.	Alberto Donato,Fabrizio Ferrandi,Marco D. Santambrogio,Donatella Sciuto	10.1109/SOCC.2005.1554501
+I Models and Tools for the Dynamic Reconfiguration of FPGAs.	Adam Donlin,Jürgen Becker 0001,Michael Hübner 0001	10.1109/SOCC.2005.1554518
+Synchronous latency-insensitive design for multiple clock domain.	Anders Edman,Christer Svensson,Behzad Mesgarzadeh	10.1109/SOCC.2005.1554462
+DG-SRAM: a low leakage memory circuit.	Praveen Elakkumanan,Charan Thondapu,Ramalingam Sridhar	10.1109/SOCC.2005.1554487
+Support for multiprocessor synchronization and resource sharing in system-on-programmable chips with softcores.	Paolo Gai,Giuseppe Lipari,Marco Di Natale,Matteo Duranti,Alberto Ferrari	10.1109/SOCC.2005.1554472
+A CMOS RF tuning wide-band bandpass filter for wireless applications.	Zhiqiang Gao,Jianguo Ma,Mingyan Yu,Yizheng Ye	10.1109/SOCC.2005.1554460
+Including Power Supply Variations into Static Timing Analysis: Methodology and Flow.	Mariagrazia Graziano,Cristiano Forzan,Davide Pandini	10.1109/SOCC.2005.1554500
+A Power Efficient Reconfigurable Max-Log-MAP Turbo Decoder for Wireless Communication Systems.	Jong Hun Han,Ahmet T. Erdogan,Tughrul Arslan	10.1109/SOCC.2005.1554504
+Improving Error Resilience for Compressed Test Sets by Don&apos;t Care Assignment.	Hamidreza Hashempour,Fabrizio Lombardi	10.1109/SOCC.2005.1554456
+Standards-compliant IP-based ASIC and SoC design.	Amir Hekmatpour,Kenneth Goodnow,Hemen Shah	10.1109/SOCC.2005.1554521
+A Flow Graph Technique for DFT Controller Modification.	Mohammad Hosseinabady,Pejman Lotfi-Kamran,Pedram A. Riahi,Fabrizio Lombardi,Zainalabedin Navabi	10.1109/SOCC.2005.1554454
+An improved implementation method of AHB BusMatrix.	Soo Yun Hwang,Kyoung-Sun Jhang	10.1109/SOCC.2005.1554497
+A 2 GHz and 5GHz dual-band direct conversion RF frontend for multi-standard applications.	Yong-Seok Hwang,Sang-Sun Yoo,Hyung-Joun Yoo	10.1109/SOCC.2005.1554492
+A highly reconfigurable computing array: DSP plane of a 3D heterogeneous SoC.	Vijay K. Jain,Sanjukta Bhanja,Glenn H. Chapman,Lavanya Doddannagari	10.1109/SOCC.2005.1554503
+CMOS passive RFID transponder with read-only memory for low cost fabrication.	Woochul Jeon,John Melngailis,Robert W. Newcomb	10.1109/SOCC.2005.1554490
+Gigascale ASIC/SoC design using wave-pipelined multiplexed (WPM) routing.	Ajay Joshi,Jeffrey A. Davis	10.1109/SOCC.2005.1554481
+High-Performance On-Chip Interconnect Circuit Technologies for sub-65nm CMOS.	Himanshu Kaul	10.1109/SOCC.2005.1554522
+A Low Jitter Programmable Frequency Synthesizer for 4.25Gbps Serial Link Applications.	Ram Kelkar,Dave Flye,Anjali Malladi,Joseph Natonio,Chri Scoville,Ken Short,Pradeep Thiagarajan	10.1109/SOCC.2005.1554443
+A novel multiplier for high-speed applications.	Amir Khatibzadeh,Kaamran Raahemifar,Majid Ahmadi	10.1109/SOCC.2005.1554516
+Differential Pass Transistor Pulsed Latch.	Moo-young Kim,Inhwa Jung,Young-Ho Kwak,Sunghoon Ahn,Chulwoo Kim	10.1109/SOCC.2005.1554514
+GPSDVS: An improved task-based dynamic voltage scaling scheme for general-purpose systems.	Sookyoung Kim,Thomas L. Martin	10.1109/SOCC.2005.1554468
+Resistive Loss and Trans-Impedance Characterization of Nonlinear Transmission Lines on CMOS SOI Substrate.	Jinsook Kim,Weiping Ni,Edwin C. Kan	10.1109/SOCC.2005.1554495
+A band-switching wide-band CMOS LC QVCO for multi-standard applications.	Ji-Hoon Kim,Hyung-Joun Yoo	10.1109/SOCC.2005.1554491
+3.125Gbps Reference-less Clock and Data Recovery using 4X Oversampling.	Sung-Sop Lee,Hyung-Wook Jang,Jin-Ku Kang	10.1109/SOCC.2005.1554444
+A low jitter delay-locked loop with a realignment duty cycle corrector.	Larry Li,Hou-Ming Chen,Robert Chen-Hao Chang	10.1109/SOCC.2005.1554458
+Novel VLSI architecture of motion estimation for H.264 standard.	Xiang Li,Rahul Chopra,Kenneth W. Hsu	10.1109/SOCC.2005.1554476
+A Low Power Heterogenous Reconfigurable Architecture For Embedded Generic Finite State Machines.	Zhenyu Liu,Tughrul Arslan,Sami Khawam,Ahmet T. Erdogan	10.1109/SOCC.2005.1554474
+Hardware Design of Sphere Decoding for MIMO Systems.	Zhaohui Liu,Kevin Dickson,John V. McCanny	10.1109/SOCC.2005.1554512
+1.8-V 10-GHZ ring VCO design using 0.18-μm CMOS technology.	Hai Qi Liu,Wang Ling Goh,Liter Siek	10.1109/SOCC.2005.1554459
+A CMOS Voltage Reference with Temperature Sensor using Self-PTAT Current Compensation.	Chih-Peng Liu,Han-Pang Huang	10.1109/SOCC.2005.1554450
+Hybrid Voltage and Current References Based on Double ZTC Points.	Chih-Peng Liu,Han-Pang Huang	10.1109/SOCC.2005.1554451
+Shifted Leakage Power Characteristics of Dynamic Circuits Due to Gate Oxide Tunneling.	Zhiyu Liu,Volkan Kursun	10.1109/SOCC.2005.1554484
+Reliability-aware floorplanning for 3D circuits.	Jacob R. Minz,Eric Wong 0002,Sung Kyu Lim	10.1109/SOCC.2005.1554461
+Design and implementation of interface circuitry for cmos-based saw gas sensors.	Faisal Mohd-Yasin,K. F. Tye,Mamun Bin Ibne Reaz	10.1109/SOCC.2005.1554486
+Design and implementation of phase correlation based motion estimator.	Andrea Molino,Fabrizio Vacca,Guido Masera	10.1109/SOCC.2005.1554513
+Limiting amplifiers for next-generation multi-channel optical I/0 interfaces in SoCs.	Paul Muller,Yusuf Leblebici	10.1109/SOCC.2005.1554493
+Design study of (2 x 2) core architecture for matrix multiplications via programmable graph architecture.	Jun-Hee Mun,Muling Peng,Sangjin Hong,Alex Doboli,K. Wendy Tang	10.1109/SOCC.2005.1554463
+A High-Performance Router Design for VDSM NoCs.	Ashok Narasimhan,Karthik Srinivasan,Ramalingam Sridhar	10.1109/SOCC.2005.1554515
+Workload Clustering for Increasing Energy Savings on Embedded MPSoCs.	Sri Hari Krishna Narayanan,Özcan Özturk 0001,Mahmut T. Kandemir,Mustafa Karaköy	10.1109/SOCC.2005.1554485
+Virtual Hierarchical Design Representations for Distributed Optimization of Multi-Million Gate Designs.	Thi Nguyen,Kaijian Shi	10.1109/SOCC.2005.1554499
+Design and implementation of a shared buffer architecture for a gigabit Ethernet packet switch.	Stephen O&apos;Kane,Sakir Sezer,Ciaran Toal	10.1109/SOCC.2005.1554511
+On-Chip Memory Management for Embedded MpSoC Architectures Based on Data Compression.	Özcan Özturk 0001,Mahmut T. Kandemir,Mary Jane Irwin,Suleyman Tosun	10.1109/SOCC.2005.1554489
+On-Chip Power Noise Reduction Techniques in High Performance SoC-Based Integrated Circuits.	Mikhail Popovich,Eby G. Friedman,Radu M. Secareanu,Olin L. Hartin	10.1109/SOCC.2005.1554517
+A New Breed of Power-Aware Hybrid Shifters.	Raghavan Ramadoss	10.1109/SOCC.2005.1554482
+Effective IP reuse for high quality SOC design.	Soujanna Sarkar,Subash Chandar G.,Sanjay Shinde	10.1109/SOCC.2005.1554498
+Serial RapidlO: Benefiting System Interconnects.	Travis Scheckel	10.1109/SOCC.2005.1554519
+Resource allocation methodology for the segmented bus platform.	Tiberiu Seceleanu,Ville Leppänen,Jyri Suomi,Olli Nevalainen	10.1109/SOCC.2005.1554479
+Digital signal processors for communications, video infrastructure, and audio.	Nat Seshan,Todd Hiers,Gustavo Martinez,Anthony Seely,Zoran Nikolic	10.1109/SOCC.2005.1554520
+A Clock Isolation Method For Complex SoC Designs.	Kaijian Shi,Hichem Belhadj	10.1109/SOCC.2005.1554505
+Combined simulator statistics and block code sampling to study performance enhancement of microarchitecture.	Huibin Shi,Chris Bailey 0002,Glenn Farrall,Neil Hastie,Sam Jenkins	10.1109/SOCC.2005.1554449
+3.48mW 2.4GHz range Frequency Synthesizer Architecture with Two-Point Channel Control for Fast Settling Performance.	Sangho Shin,Kwyro Lee,Sung-Mo Kang	10.1109/SOCC.2005.1554442
+Novel secret-key IPR protection in FPGA environment.	Bassel Soudan,Wael Adi,Abdulrahman Hanoun	10.1109/SOCC.2005.1554508
+Testing system-on-a-chip using artificial immune system.	Cleonilson Protásio de Souza,Raimundo Carlos Silvério Freire,Francisco Marcos de Assis	10.1109/SOCC.2005.1554455
+Simultaneous memory and bus partitioning for SoC architectures.	Suresh Srinivasan,Federico Angiolini,Martino Ruggiero,Luca Benini,Narayanan Vijaykrishnan	10.1109/SOCC.2005.1554478
+System Level Design Methodology for System On Chips using Multi-Threaded Graphs.	Syed Suhaib,Deepak Mathaikutty,Sandeep K. Shukla	10.1109/SOCC.2005.1554480
+Online-adaptive Reconfigurable Hardware Architecture and Runtime Environment.	Alexander Thomas,Jürgen Becker 0001	10.1109/SOCC.2005.1554502
+Constraint-based Code mapping for heterogeneous Chip multiprocessors.	Suleyman Tosun,Nazanin Mansouri,Mahmut T. Kandemir,Özcan Özturk 0001	10.1109/SOCC.2005.1554464
+Digital clock frequency doubler.	Sanjay Kumar Wadhwa,Qadeer Ahmad Khan,Kulbhushan Misri,Deeya Muhury	10.1109/SOCC.2005.1554445
+Dynamic fraction control bus: new SOC on-chip communication architecture design.	Nan Wang,Magdy A. Bayoumi	10.1109/SOCC.2005.1554494
+A novel five-transistor (5T) sram cell for high performance cache.	Michael Wieckowski,Martin Margala	10.1109/SOCC.2005.1554469
+Bus Buffer Evaluation of Different Arbitration Algorithms.	Xufan Wu,Jun Yang 0006,Longxing Shi	10.1109/SOCC.2005.1554507
+A hierarchically-controlled SIMD machine for 2D DCT on FPGAs.	Xizhen Xu,Sotirios G. Ziavras	10.1109/SOCC.2005.1554510
+FPGA-based vector processor for algebraic equation solvers.	Hongyan Yang,Sotirios G. Ziavras	10.1109/SOCC.2005.1554475
+Integrated assignment of registers and functional units for heterogeneous vliw-architectures.	Thomas Zeitlhofer,Bernhard Wess	10.1109/SOCC.2005.1554477
+Architecture and design methodology for synthesizable reconfigurable array targeting wireless system-on-chip applications.	Cheng Zhan,Sami Khawam,Tughrul Arslan,Iain Lindsay	10.1109/SOCC.2005.1554466
+Proceedings 2005 IEEE International SOC Conference, September 25-28, 2005, Washington Dulles Airport, Herndon, VA, USA		

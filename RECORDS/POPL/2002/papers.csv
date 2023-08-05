@@ -1,0 +1,31 @@
+Analyzing security protocols with secrecy types and logic programs.	Martín Abadi,Bruno Blanchet	10.1145/503272.503277
+Adaptive functional programming.	Umut A. Acar,Guy E. Blelloch,Robert Harper 0001	10.1145/503272.503296
+Mining specifications.	Glenn Ammons,Rastislav Bodík,James R. Larus	10.1145/503272.503275
+The SLAM project: debugging system software via static analysis.	Thomas Ball,Sriram K. Rajamani	10.1145/503272.503274
+Representation independence, confinement and access control [extended abstract].	Anindya Banerjee 0001,David A. Naumann	10.1145/503272.503289
+Bounding space usage of conservative garbage collectors.	Hans-Juergen Boehm	10.1145/503272.503282
+Types as models: model checking message-passing programs.	Sagar Chaki,Sriram K. Rajamani,Jakob Rehof	10.1145/503272.503278
+Systematic design of program transformation frameworks by abstract interpretation.	Patrick Cousot,Radhia Cousot	10.1145/503272.503290
+From POPL to the classroom and back.	Matthias Felleisen	10.1145/503272.503285
+Predicate abstraction for software verification.	Cormac Flanagan,Shaz Qadeer	10.1145/503272.503291
+Stack inspection: theory and variants.	Cédric Fournet,Andrew D. Gordon 0001	10.1145/503272.503301
+Lazy abstraction.	Thomas A. Henzinger,Ranjit Jhala,Rupak Majumdar,Grégoire Sutre	10.1145/503272.503279
+The strength of non-size increasing computation.	Martin Hofmann 0001	10.1145/503272.503297
+A uniform type structure for secure information flow.	Kohei Honda 0001,Nobuko Yoshida	10.1145/503272.503281
+Resource usage analysis.	Atsushi Igarashi,Naoki Kobayashi 0001	10.1145/503272.503303
+Role analysis.	Viktor Kuncak,Patrick Lam 0001,Martin C. Rinard	10.1145/503272.503276
+Proving correctness of compiler optimizations by temporal logic.	David Lacey,Neil D. Jones,Eric Van Wyk,Carl Christian Frederiksen	10.1145/503272.503299
+Composing dataflow analyses and transformations.	Sorin Lerner,David Grove,Craig Chambers	10.1145/503272.503298
+Scalable formal design methods for asynchronous VLSI.	Rajit Manohar	10.1145/503272.503295
+Bisimulation congruences in safe ambients.	Massimo Merro,Matthew Hennessy	10.1145/503272.503280
+CCured: type-safe retrofitting of legacy code.	George C. Necula,Scott McPeak,Westley Weimer	10.1145/503272.503286
+Functional logic overloading.	Matthias Neubauer,Peter Thiemann 0001,Martin Gasbichler,Michael Sperber	10.1145/503272.503294
+The hardness of cache conscious data placement.	Erez Petrank,Dror Rawitz	10.1145/503272.503283
+Towards automatic construction of staged compilers.	Matthai Philipose,Craig Chambers,Susan J. Eggers	10.1145/503272.503284
+Information flow inference for ML.	François Pottier,Vincent Simonet	10.1145/503272.503302
+Stochastic lambda calculus and monads of probability distributions.	Norman Ramsey,Avi Pfeffer	10.1145/503272.503288
+An efficient profile-analysis framework for data-layout optimizations.	Shai Rubin,Rastislav Bodík,Trishul M. Chilimbi	10.1145/503272.503287
+A type system for certified binaries.	Zhong Shao,Bratin Saha,Valery Trifonov,Nikolaos Papaspyrou	10.1145/503272.503293
+Exploiting prolific types for memory management and optimizations.	Yefim Shuf,Manish Gupta 0002,Rajesh Bordawekar,Jaswinder Pal Singh	10.1145/503272.503300
+The first-order theory of subtyping constraints.	Zhendong Su 0001,Alexander Aiken,Joachim Niehren,Tim Priesnitz,Ralf Treinen	10.1145/503272.503292
+Conference Record of POPL 2002: The 29th SIGPLAN-SIGACT Symposium on Principles of Programming Languages, Portland, OR, USA, January 16-18, 2002	John Launchbury,John C. Mitchell	10.1145/503272

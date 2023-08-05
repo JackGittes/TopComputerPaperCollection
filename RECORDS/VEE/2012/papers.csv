@@ -1,0 +1,22 @@
+Transparent dynamic instrumentation.	Derek Bruening,Qin Zhao,Saman P. Amarasinghe	10.1145/2151024.2151043
+Enhancing TCP throughput of highly available virtual machines via speculative communication.	Balazs Gerofi,Yutaka Ishikawa	10.1145/2151024.2151038
+Replacement attacks against VM-protected applications.	Sudeep Ghosh,Jason Hiser,Jack W. Davidson	10.1145/2151024.2151051
+Adding dynamically-typed language support to a statically-typed language compiler: performance evaluation, analysis, and tradeoffs.	Kazuaki Ishizaki,Takeshi Ogasawara,José G. Castaños,Priya Nagpurkar,David Edelsohn,Toshio Nakatani	10.1145/2151024.2151047
+libdft: practical dynamic data flow tracking for commodity systems.	Vasileios P. Kemerlis,Georgios Portokalidis,Kangkook Jee,Angelos D. Keromytis	10.1145/2151024.2151042
+Challenges in building a real, large private cloud.	Evangelos Kotsovinos	10.1145/2151024.2151026
+Modeling virtualized applications using machine learning techniques.	Sajib Kundu,Raju Rangaswami,Ajay Gulati,Ming Zhao 0002,Kaushik Dutta	10.1145/2151024.2151028
+Execution mining.	Geoffrey Lefebvre,Brendan Cully,Christopher Head,Mark Spear,Norman C. Hutchinson,Mike Feeley,Andrew Warfield	10.1145/2151024.2151044
+Unpicking the knot: teasing apart VM/application interdependencies.	Yi Lin,Stephen M. Blackburn,Daniel Frampton	10.1145/2151024.2151048
+Virtualization challenges: a view from server consolidation perspective.	Hui Lv 0001,Yaozu Dong,Jiangang Duan,Kevin Tian	10.1145/2151024.2151030
+DVM: towards a datacenter-scale virtual machine.	Zhiqiang Ma 0002,Zhonghua Sheng,Lin Gu 0001,Liufei Wen,Gong Zhang	10.1145/2151024.2151032
+CompSC: live migration with pass-through devices.	Zhenhao Pan,Yaozu Dong,Yu Chen 0004,Lei Zhang,Zhijiao Zhang	10.1145/2151024.2151040
+DDGacc: boosting dynamic DDG-based binary optimizations through specialized hardware support.	Demos Pavlou,Enric Gibert,Fernando Latorre,Antonio González 0001	10.1145/2151024.2151046
+Protecting applications against TOCTTOU races by user-space caching of file metadata.	Mathias Payer,Thomas R. Gross	10.1145/2151024.2151052
+SecondSite: disaster tolerance as a service.	Shriram Rajagopalan,Brendan Cully,Ryan O&apos;Connor,Andrew Warfield	10.1145/2151024.2151039
+Facilitating inter-application interactions for OS-level virtualization.	Zhiyong Shan,Xin Wang 0001,Tzi-cker Chiueh,Xiaofeng Meng 0001	10.1145/2151024.2151036
+Block storage virtualization with commodity secure digital cards.	Harvey Tuch,Cyprien Laplace,Kenneth C. Barr,Bi Wu	10.1145/2151024.2151050
+REEact: a customizable virtual execution manager for multicore platforms.	Wei Wang 0054,Tanima Dey,Ryan W. Moore,Mahmut Aktasoglu,Bruce R. Childers,Jack W. Davidson,Mary Jane Irwin,Mahmut T. Kandemir,Mary Lou Soffa	10.1145/2151024.2151031
+V2E: combining hardware virtualization and softwareemulation for transparent and extensible malware analysis.	Lok-Kwong Yan,Manjukumar Jayachandra,Mu Zhang 0001,Heng Yin 0001	10.1145/2151024.2151053
+SimTester: a controllable and observable testing framework for embedded systems.	Tingting Yu,Witawas Srisa-an,Gregg Rothermel	10.1145/2151024.2151034
+Swift: a register-based JIT compiler for embedded JVMs.	Yuan Zhang 0009,Min Yang 0002,Bo Zhou,Zhemin Yang,Weihua Zhang,Binyu Zang	10.1145/2151024.2151035
+Proceedings of the 8th International Conference on Virtual Execution Environments, VEE 2012, London, UK, March 3-4, 2012 (co-located with ASPLOS 2012)	Steven Hand 0001,Dilma Da Silva	10.1145/2151024

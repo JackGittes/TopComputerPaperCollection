@@ -1,0 +1,74 @@
+Regeneration with virtual copies for replicated databases.	Nabil R. Adam,Rajiv Tewari	10.1109/ICDCS.1991.148705
+Implementing and programming causal distributed shared memory.	Mustaque Ahamad,Phillip W. Hutto,Ranjit John	10.1109/ICDCS.1991.148677
+An implementation of F-channels, a preferable alternative to FIFO channels.	Mohan Ahuja	10.1109/ICDCS.1991.148662
+ASTRA-an asynchronous remote procedure call facility.	Akkihebbal L. Ananda,B. H. Tay,E. K. Koh	10.1109/ICDCS.1991.148661
+Co-scheduling compute-intensive tasks on a network of workstations: model and algorithms.	Mikhail J. Atallah,Christina Lock,Dan C. Marinescu,Howard Jay Siegel,Thomas L. Casavant	10.1109/ICDCS.1991.148687
+Multicast group membership management in high speed wide area networks.	Joshua S. Auerbach,Madan Gopal,Marc A. Kaplan,Shay Kutten	10.1109/ICDCS.1991.148670
+Hybrid partitioning for particle-in-cell simulation on shared memory systems.	Nasser G. Azari,Soo-Young Lee	10.1109/ICDCS.1991.148721
+Integrated design, simulation, and verification of real-time systems.	Rajive L. Bagrodia,Chien-Chung Shen	10.1109/ICDCS.1991.148660
+Overlapping window algorithm for computing GVT in Time Warp.	Reid A. Baldwin,Moon-Jung Chung,Yunmo Chung	10.1109/ICDCS.1991.148722
+A comparison of two approaches to build reliable distributed file servers.	Anupam Bhide,E. N. Elnozahy,Stephen P. Morgan,A. Siegel	10.1109/ICDCS.1991.148734
+Supporting the development of network programs.	Bernd Bruegge,Peter Steenkiste	10.1109/ICDCS.1991.148738
+Static analysis of concurrent software for deriving synchronization constraints.	Richard H. Carver,Kuo-Chung Tai	10.1109/ICDCS.1991.148724
+Debugging and performance monitoring for distributed systems: problems and prospects.	Thomas L. Casavant,Peter C. Bates,Thomas Bemmerl,Gary M. Koob,Daniel A. Reed,Zary Segall	10.1109/ICDCS.1991.148693
+Performance analysis of DQDB behaviour with priority levels.	Vincenzo Catania,L. Mazzola,Antonio Puliafito,Lorenzo Vita	10.1109/ICDCS.1991.148641
+A service acquisition mechanism for the client/service model in Cygnus.	Rong N. Chang,Chinya V. Ravishankar	10.1109/ICDCS.1991.148648
+Implementing consistency control mechanisms in the Clouds distributed operating system.	Raymond C. Chen,Partha Dasgupta	10.1109/ICDCS.1991.148636
+Flexible, fault-tolerant routing criteria for circuit-switched hypercubes.	Ge-Ming Chiu,Suresh Chalasani,Cauligi S. Raghavendra	10.1109/ICDCS.1991.148729
+An efficient submesh allocation strategy for mesh computer systems.	Po-Jen Chuang,Nian-Feng Tzeng	10.1109/ICDCS.1991.148674
+Distributed processing of filtering queries in HyperFile.	Chris Clifton,Hector Garcia-Molina	10.1109/ICDCS.1991.148643
+Performance comparisons of buffer coherency policies.	Asit Dan,Philip S. Yu	10.1109/ICDCS.1991.148666
+Performance of transaction scheduling policies for parallel database systems.	S. Dandamudi,C.-Y. Chow	10.1109/ICDCS.1991.148652
+A synchronization mechanism for an object oriented distributed system.	Dominique Decouchant,P. Le Dot,Michel Riveill,Cécile Roisin,Xavier Rousset de Pina	10.1109/ICDCS.1991.148657
+Approximations of the mean resequencing waiting time in M/GI/c systems.	Yiping Ding,Howard A. Sholl,Lester Lipsky	10.1109/ICDCS.1991.148639
+A statistical approach for parallel optimization with application to VLSI placement.	Kemal Efe	10.1109/ICDCS.1991.148720
+Performance optimization of integrated network control schemes in packet-switched networks.	Philip H. Enslow Jr.,Ian F. Akyildiz,K. Wang	10.1109/ICDCS.1991.148640
+The hyper-deBruijn multiprocessor networks.	Elango Ganesan,Dhiraj K. Pradhan	10.1109/ICDCS.1991.148716
+Aggressive transmissions over redundant paths.	Hector Garcia-Molina,Ben Kao,Daniel Barbará	10.1109/ICDCS.1991.148665
+Dynamic reconfiguration in an object-based programming language with distributed shared data.	Brent Hailpern,Gail E. Kaiser	10.1109/ICDCS.1991.148645
+A hierarchical modeling of availability in distributed systems.	Salim Hariri,Hasan B. Mutlu	10.1109/ICDCS.1991.148664
+Models of parallel learning systems.	Tzung-Pei Hong,Shian-Shyong Tseng	10.1109/ICDCS.1991.148653
+Efficient distributed processor level fault diagnosis of multiple processor systems.	Seyed H. Hosseini,Nizar Jamal	10.1109/ICDCS.1991.148707
+DisCo specification language: marriage of actions and objects.	H.-M. Järvinen,Reino Kurki-Suonio	10.1109/ICDCS.1991.148656
+Crash recovery with little overhead.	Tong-Ying Tony Juang,S. Venkatesan 0001	10.1109/ICDCS.1991.148709
+Group communication in the Amoeba distributed operating system.	M. Frans Kaashoek,Andrew S. Tanenbaum	10.1109/ICDCS.1991.148669
+Real-time communication in multi-hop networks.	Dilip D. Kandlur,Kang G. Shin,Domenico Ferrari	10.1109/ICDCS.1991.148681
+Modeling wormhole routing in a hypercube.	Jong Kim 0001,Chita R. Das	10.1109/ICDCS.1991.148699
+Exploiting problem dynamics through result sharing in dataflow environments.	S. Krishnaprasad,Behrooz A. Shirazi,Ali R. Hurson	10.1109/ICDCS.1991.148651
+The Stealth distributed scheduler.	Phillip Krueger,Rohit Chawla	10.1109/ICDCS.1991.148686
+Processor allocation vs. job scheduling on hypercube computers.	Phillip Krueger,Ten-Hwang Lai,V. A. Radiya	10.1109/ICDCS.1991.148700
+A randomized voting algorithm.	Akhil Kumar 0001	10.1109/ICDCS.1991.148703
+DRISP: a versatile scheme for distributed fault-tolerant queues.	Pen-Nan Lee,Yiwei Chen,J. M. Holdman	10.1109/ICDCS.1991.148732
+BNB self-routing permutation network.	Sungchang Lee,Mi Lu	10.1109/ICDCS.1991.148728
+A checkpointing scheme for heterogeneous distributed database systems.	Jong Tae Lim,Song Chun Moon	10.1109/ICDCS.1991.148733
+A comparative study of three token ring protocols for real-time communications.	Cheng-Chew Lim,Lijun Yao,Wei Zhao 0001	10.1109/ICDCS.1991.148682
+A dynamic load balancing policy with a central job dispatcher (LBC).	Hwa-Chun Lin,Cauligi S. Raghavendra	10.1109/ICDCS.1991.148675
+Parallel programming: achieving portability through abstraction.	Ying Liu,Ambuj K. Singh	10.1109/ICDCS.1991.148737
+Using tracing to direct our reasoning about distributed programs.	William S. Lloyd,Phil Kearns	10.1109/ICDCS.1991.148725
+An object-oriented approach to formal specification of reactive systems.	Neel Madhav,Sigurd Meldal	10.1109/ICDCS.1991.148655
+Nectar CAB: a high-speed network processor.	Onat Menzilcioglu,Steven Schlick	10.1109/ICDCS.1991.148718
+A token based distributed mutual exclusion algorithm based on quorum agreements.	Masaaki Mizuno,Mitchell L. Neilsen,Raghavendra Rao	10.1109/ICDCS.1991.148690
+Membership algorithms for asynchronous distributed systems.	Louise E. Moser,P. M. Melliar-Smith,Vivek Agrawala	10.1109/ICDCS.1991.148713
+Reliable broadcast protocol for selectively partially ordering PDUs (SPO protocol).	Akihito Nakamura,Makoto Takizawa 0001	10.1109/ICDCS.1991.148671
+A DAG-based algorithm for distributed mutual exclusion.	Mitchell L. Neilsen,Masaaki Mizuno	10.1109/ICDCS.1991.148689
+Performance of local area network protocols for hard real-time applications.	Joseph Kee-Yin Ng,Jane W.-S. Liu	10.1109/ICDCS.1991.148683
+Probabilistic clock synchronization in large distributed systems.	Alan Olson,Kang G. Shin	10.1109/ICDCS.1991.148679
+CLIDE: a distributed, symbolic programming system based on large-grained persistent objects.	Mark P. Pearson,Partha Dasgupta	10.1109/ICDCS.1991.148736
+An object-based approach to implementing distributed concurrency control.	Steven S. Popovich,Shyhtsun Felix Wu,Gail E. Kaiser	10.1109/ICDCS.1991.148644
+Dynamic reconfiguration of distributed programs.	James M. Purtilo,Christine Hofmeister	10.1109/ICDCS.1991.148726
+Load balancing on generalized hypercube and mesh multiprocessors with LAL.	Xiaoshu Qian,Qing Yang 0001	10.1109/ICDCS.1991.148701
+Critical factors in NUMA memory management.	Jayashree Ramanathan,Lionel M. Ni	10.1109/ICDCS.1991.148717
+Rectifying corrupted files in distributed file systems.	Sampath Rangarajan,Donald S. Fussell	10.1109/ICDCS.1991.148708
+A model of naming for fine-grained service specification in distributed systems.	K. Ravindran,K. K. Ramakrishnan	10.1109/ICDCS.1991.148649
+Load balancing with network cooperation.	Margaret A. Schaar,Kemal Efe,Lois M. L. Delcambre,Laxmi N. Bhuyan	10.1109/ICDCS.1991.148685
+Supporting resource discovery among public Internet archives using a spectrum of information quality.	Michael F. Schwartz,Darren R. Hardy,William K. Heinzman,Glenn C. Hirschowitz	10.1109/ICDCS.1991.148647
+A transfer policy for global scheduling algorithms to schedule tasks with deadlines.	Niranjan G. Shivaratri,Mukesh Singhal	10.1109/ICDCS.1991.148673
+On the validity of the global time assumption.	A. K. Singh	10.1109/ICDCS.1991.148678
+Efficient distributed algorithms for leader election in complete networks.	Gurdip Singh	10.1109/ICDCS.1991.148712
+Electing leaders based upon performance: the delay model.	Suresh Singh,James F. Kurose	10.1109/ICDCS.1991.148711
+Super Star: a new optimally fault tolerant network architecture.	Sumit Sur,Pradip K. Srimani	10.1109/ICDCS.1991.148730
+Detection and exploitation of file working sets.	Carl D. Tait,Dan Duchamp	10.1109/ICDCS.1991.148635
+Heterogeneous process migration by recompilation.	Marvin Theimer,Barry Hayes	10.1109/ICDCS.1991.148637
+Using multiple replica classes to improve performance in distributed systems.	Peter Triantafillou,David J. Taylor	10.1109/ICDCS.1991.148704
+Distributed garbage collection of active objects.	Douglas Washabaugh,Dennis G. Kafura	10.1109/ICDCS.1991.148691
+10th International Conference on Distributed Computing Systems (ICDCS 1991), May 20-24, 1991, Arlington, Texas, USA		

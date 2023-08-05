@@ -1,0 +1,35 @@
+Just in time: adding value to the IO pipelines of high performance applications with JITStaging.	Hasan Abbasi,Greg Eisenhauer,Matthew Wolf,Karsten Schwan,Scott Klasky	10.1145/1996130.1996137
+Introspective end-system modeling to optimize the transfer time of rate based protocols.	Vishal Ahuja,Amitabha Banerjee,Matthew K. Farrens,Dipak Ghosal,Giuseppe Serazzi	10.1145/1996130.1996140
+VMFlock: virtual machine co-migration for the cloud.	Samer Al-Kiswany,Dinesh Subhraveti,Prasenjit Sarkar,Matei Ripeanu	10.1145/1996130.1996153
+Design space exploration for aggressive core replication schemes in CMPs.	Lluc Alvarez,Ramon Bertran,Marc González 0001,Xavier Martorell,Nacho Navarro,Eduard Ayguadé	10.1145/1996130.1996169
+A distributed look-up architecture for text mining applications using mapreduce.	Atilla Soner Balkir,Ian T. Foster,Andrey Rzhetsky	10.1145/1996130.1996174
+Algorithm-based recovery for iterative methods without checkpointing.	Zizhong Chen	10.1145/1996130.1996142
+Tradeoffs Between Profit and Customer Satisfaction for Service Provisioning in the Cloud.	Junliang Chen,Chen Wang 0008,Bing Bing Zhou,Lei Sun,Young Choon Lee,Albert Y. Zomaya	10.1145/1996130.1996161
+Live gang migration of virtual machines.	Umesh Deshpande,Xiaoshuang Wang,Kartik Gopalan	10.1145/1996130.1996151
+Adapting MapReduce for HPC environments.	Zacharia Fadika,Elif Dede,Madhusudhan Govindaraju,Lavanya Ramakrishnan	10.1145/1996130.1996166
+Energy-efficient E-puting everywhere.	Wu-chun Feng	10.1145/1996130.1996146
+Exclusive squashing for thread-level speculation.	Álvaro García-Yágüez,Diego R. Llanos Ferraris,Arturo González-Escribano	10.1145/1996130.1996172
+Juggle: proactive load balancing on multicore computers.	Steven A. Hofmeyr,Juan A. Colmenares,Costin Iancu,John Kubiatowicz	10.1145/1996130.1996134
+Experiences using smaash to manage data-intensive simulations.	Randy Hudson,John Norris,Lynn B. Reid,Klaus Weide,George Cal Jordan IV,Michael E. Papka	10.1145/1996130.1996158
+Wrangler: virtual cluster provisioning for the cloud.	Gideon Juve,Ewa Deelman	10.1145/1996130.1996173
+Enhancement of Xen&apos;s scheduler for MapReduce workloads.	Hui Kang,Yao Chen,Jennifer L. Wong,Radu Sion,Jason Wu	10.1145/1996130.1996164
+Cache injection for parallel applications.	Edgar A. León,Rolf Riesen,Kurt B. Ferreira,Arthur B. Maccabe	10.1145/1996130.1996135
+Experience of parallelizing cryo-EM 3D reconstruction on a CPU-GPU heterogeneous system.	Linchuan Li,Xingjian Li 0002,Guangming Tan,Mingyu Chen 0001,Peiheng Zhang	10.1145/1996130.1996157
+Performance and energy modeling for live migration of virtual machines.	Haikun Liu,Cheng-Zhong Xu 0001,Hai Jin 0001,Jiayu Gong,Xiaofei Liao	10.1145/1996130.1996154
+Six degrees of scientific data: reading patterns for extreme scale science IO.	Jay F. Lofstead,Milo Polte,Garth A. Gibson,Scott Klasky,Karsten Schwan,Ron A. Oldfield,Matthew Wolf,Qing Liu 0002	10.1145/1996130.1996139
+Interactivity on the grid: limitations and opportunities.	Marco Meoni	10.1145/1996130.1996171
+Towards a profound analysis of bags-of-tasks in parallel systems and their performance impact.	Tran Ngoc Minh,Lex Wolters	10.1145/1996130.1996148
+Going back and forth: efficient multideployment and multisnapshotting on clouds.	Bogdan Nicolae,John Bresnahan,Kate Keahey,Gabriel Antoniu	10.1145/1996130.1996152
+Supporting GPU sharing in cloud environments with a transparent runtime consolidation framework.	Vignesh T. Ravi,Michela Becchi,Gagan Agrawal,Srimat T. Chakradhar	10.1145/1996130.1996160
+HyFlow: a high performance distributed software transactional memory framework.	Mohamed M. Saad,Binoy Ravindran	10.1145/1996130.1996167
+A cost-intelligent application-specific data layout scheme for parallel file systems.	Huaiming Song,Yanlong Yin,Yong Chen 0001,Xian-He Sun	10.1145/1996130.1996138
+ClusterSs: a task-based programming model for clusters.	Enric Tejedor,Montse Farreras,David Grove,Rosa M. Badia,Gheorghe Almási 0001,Jesús Labarta	10.1145/1996130.1996168
+Dynamic adaptive scheduling for virtual machines.	Chuliang Weng,Qian Liu,Lei Yu,Minglu Li 0001	10.1145/1996130.1996163
+Experiences with self-organizing, decentralized grids using the grid appliance.	David Isaac Wolinsky,Renato J. O. Figueiredo	10.1145/1996130.1996156
+Exascale opportunities and challenges.	Katherine A. Yelick	10.1145/1996130.1996132
+Incremental placement of interactive perception applications.	Nezih Yigitbasi,Lily B. Mummert,Padmanabhan Pillai,Dick H. J. Epema	10.1145/1996130.1996149
+InContext: simple parallelism for distributed applications.	Sunghwan Yoo,Hyojeong Lee,Charles Edwin Killian,Milind Kulkarni 0001	10.1145/1996130.1996144
+Software-directed data access scheduling for reducing disk energy consumption.	Yuanrui Zhang,Jun Liu 0008,Ellis Herbert Wilson,Mahmut T. Kandemir	10.1145/1996130.1996175
+Capping the electricity cost of cloud-scale data centers with impacts on power markets.	Yanwei Zhang,Yefu Wang,Xiaorui Wang	10.1145/1996130.1996170
+Vrisha: using scaling properties of parallel programs for bug detection and localization.	Bowen Zhou,Milind Kulkarni 0001,Saurabh Bagchi	10.1145/1996130.1996143
+Proceedings of the 20th ACM International Symposium on High Performance Distributed Computing, HPDC 2011, San Jose, CA, USA, June 8-11, 2011	Arthur B. Maccabe,Douglas Thain	

@@ -1,0 +1,31 @@
+Related Field Analysis.	Aneesh Aggarwal,Keith H. Randall	10.1145/378795.378850
+SafeTSA: A Type Safe and Referentially Secure Mobile-Code Representation Based on Static Single Assignment Form.	Wolfram Amme,Niall Dalton,Michael Franz,Jeffery von Ronne	10.1145/378795.378825
+Optimal Spilling for CISC Machines with Few Registers.	Andrew W. Appel,Lal George	10.1145/378795.378854
+A Framework for Reducing the Cost of Instrumented Code.	Matthew Arnold,Barbara G. Ryder	10.1145/378795.378832
+Java without the Coffee Breaks: A Nonintrusive Multiprocessor Garbage Collector.	David F. Bacon,C. Richard Attanasio,Han Bok Lee,V. T. Rajan,Stephen E. Smith	10.1145/378795.378819
+Automatic Predicate Abstraction of C Programs.	Thomas Ball,Rupak Majumdar,Todd D. Millstein,Sriram K. Rajamani	10.1145/378795.378846
+Composing High-Performance Memory Allocators.	Emery D. Berger,Benjamin G. Zorn,Kathryn S. McKinley	10.1145/378795.378821
+Exact Analysis of the Cache Behavior of Nested Loops.	Siddhartha Chatterjee,Erin Parker,Philip J. Hanlon,Alvin R. Lebeck	10.1145/378795.378859
+A Parallel, Real-Time Garbage Collector.	Perry Cheng,Guy E. Blelloch	10.1145/378795.378823
+Efficient Representations and Abstractions for Quantifying and Exploiting Data Reference Locality.	Trishul M. Chilimbi	10.1145/378795.378840
+Enforcing High-Level Protocols in Low-Level Software.	Robert DeLine,Manuel Fähndrich	10.1145/378795.378811
+Bytecode Compression via Profiled Grammar Rewriting.	William S. Evans,Christopher W. Fraser	10.1145/378795.378827
+Language Support for Regions.	David Gay,Alexander Aiken	10.1145/378795.378815
+On the Importance of Points-to Analysis and Other Memory Disambiguation Methods for C Programs.	Rakesh Ghiya,Daniel M. Lavery,David C. Sehr	10.1145/378795.378806
+Dynamic Variables.	David R. Hanson,Todd A. Proebsting	10.1145/378795.378857
+Demand-Driven Pointer Analysis.	Nevin Heintze,Olivier Tardieu	10.1145/378795.378802
+Ultra-fast Aliasing Analysis using CLA: A Million Lines of C Code in a Second.	Nevin Heintze,Olivier Tardieu	10.1145/378795.378855
+Dynamic Software Updating.	Michael W. Hicks,Jonathan T. Moore,Scott Nettles	10.1145/378795.378798
+Design and Implementation of Generics for the .NET Common Language Runtime.	Andrew Kennedy,Don Syme	10.1145/378795.378797
+Using Annotation to Reduce Dynamic Optimization Time.	Chandra Krintz,Brad Calder	10.1145/378795.378831
+ESP: A Language for Programmable Devices.	Sanjeev Kumar,Yitzhak Mandelbaum,Xiang Yu,Kai Li 0001	10.1145/378795.378862
+Asynchronous Exceptions in Haskell.	Simon Marlow,Simon L. Peyton Jones,Andrew Moran,John H. Reppy	10.1145/378795.378858
+The Pointer Assertion Logic Engine.	Anders Møller,Michael I. Schwartzbach	10.1145/378795.378851
+Principled Scavenging.	Stefan Monnier,Bratin Saha,Zhong Shao	10.1145/378795.378817
+Facile: A Language and Compiler for High-Performance Processor Simulators.	Eric Schnarr,Mark D. Hill,James R. Larus	10.1145/378795.378864
+Heap Profiling for Space-Efficient Java.	Ran Shaham,Elliot K. Kolodner,Shmuel Sagiv	10.1145/378795.378820
+A Unified Framework for Schedule and Storage Optimization.	William Thies,Frédéric Vivien,Jeffrey Sheldon,Saman P. Amarasinghe	10.1145/378795.378852
+Incrementalized Pointer and Escape Analysis.	Frédéric Vivien,Martin C. Rinard	10.1145/378795.378804
+SPL: A Language and Compiler for DSP Algorithms.	Jianxin Xiong,Jeremy R. Johnson,Robert W. Johnson,David A. Padua	10.1145/378795.378860
+Timestamped Whole Program Path Representation and its Applications.	Youtao Zhang,Rajiv Gupta 0001	10.1145/378795.378835
+Proceedings of the 2001 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Snowbird, Utah, USA, June 20-22, 2001	Michael Burke,Mary Lou Soffa	10.1145/378795

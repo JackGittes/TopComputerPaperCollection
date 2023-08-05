@@ -1,0 +1,146 @@
+Optimized EVM Testing for IEEE 802.11a/n RF ICs.	Erkan Acar,Sule Ozev,Ganesh Srinivasan,Friedrich Taenzler	10.1109/TEST.2008.4700602
+Parametric Testing of Optical Interfaces.	Brice Achkir,Pavel Zivny,Bill Eklow	10.1109/TEST.2008.4700655
+Bridging the gap between Design and Test Engineering for Functional Pattern Development.	Ernst Aderholz,Heiko Ahrens,Michael Rohleder	10.1109/TEST.2008.4700609
+Optimized Circuit Failure Prediction for Aging: Practicality and Promise.	Mridul Agarwal,Varsha Balakrishnan,Anshuman Bhuyan,Kyunglok Kim,Bipul C. Paul,Wenping Wang,Bo Yang,Yu Cao 0001,Subhasish Mitra	10.1109/TEST.2008.4700619
+DFT Architecture for Automotive Microprocessors using On-Chip Scan Compression supporting Dual Vendor ATPG.	Heiko Ahrens,Rolf Schlagenhaft,Helmut Lang,V. Srinivasan,Enrico Bruzzano	10.1109/TEST.2008.4700600
+Defect Oriented Testing of the Strap Problem Under Process Variations in DRAMs.	Zaid Al-Ars,Said Hamdioui,Ad J. van de Goor,Georg Mueller	10.1109/TEST.2008.4700631
+Design for Test of Asynchronous NULL Convention Logic (NCL) Circuits.	Waleed K. Al-Assadi,Sindhu Kakarla	10.1109/TEST.2008.4700611
+NoC Reconfiguration for Utilizing the Largest Fault-free Connected Sub-structure.	Armin Alaghi,Mahshid Sedghi,Naghmeh Karimi,Zainalabedin Navabi	10.1109/TEST.2008.4700688
+&quot;Plug &amp; Test&quot; at System Level via Testable TLM Primitives.	Homa Alemzadeh,Stefano Di Carlo,Fatemeh Refan,Paolo Prinetto,Zainalabedin Navabi	10.1109/TEST.2008.4700610
+Hardware-based Error Rate Testing of Digital Baseband Communication Systems.	Amirhossein Alimohammad,Saeed Fouladi Fard,Bruce F. Cockburn	10.1109/TEST.2008.4700653
+Peak Power Reduction Through Dynamic Partitioning of Scan Chains.	Sobeeh Almukhaizim,Ozgur Sinanoglu	10.1109/TEST.2008.4700573
+Generating Test Signals for Noise-Based NPR/ACPR Type Tests in Production.	Sadok Aouini,Gordon W. Roberts	10.1109/TEST.2008.4700623
+Hardware Overhead Reduction for Memory BIST.	Masayuki Arai,Kazuhiko Iwasaki,Michinobu Nakao,Iwao Suzuki	10.1109/TEST.2008.4700690
+Low Power Test.	Swapnil Bahl,Rajiv Sarkar,Akhil Garg 0001	10.1109/TEST.2008.4700682
+Diagnosis of design-silicon timing mismatch with feature encoding and importance ranking - the methodology explained.	Pouria Bastani,Nicholas Callegari,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2008.4700588
+Robust Design-for-Productization Practices for High Quality Automotive Products.	Paolo Bernardi,Fabio Melchiori,Davide Pandini,Santo Pugliese,Davide Appello	10.1109/TEST.2008.5483612
+Improving the Accuracy of Test Compaction through Adaptive Test Update.	Sounil Biswas,Ronald D. Blanton	10.1109/TEST.2008.4700706
+CONCAT: CONflict Driven Learning in ATPG for Industrial designs.	Surendra Bommu,Kameshwar Chandrasekar,Rahul Kundu,Sanjay Sengupta	10.1109/TEST.2008.4700566
+FPGA Time Measurement Module: Preliminary Results.	William J. Bowhers	10.1109/TEST.2008.4700703
+Modeling Test Escape Rate as a Function of Multiple Coverages.	Kenneth M. Butler,John M. Carulli Jr.,Jayashree Saxena	10.1109/TEST.2008.4700605
+On-line Failure Detection in Memory Order Buffers.	Javier Carretero,Xavier Vera,Pedro Chaparro,Jaume Abella 0001	10.1109/TEST.2008.4700582
+Testing Methodology of Embedded DRAMs.	Chi-Min Chang,Mango Chia-Tso Chao,Rei-Fu Huang,Ding-Yuan Chen	10.1109/TEST.2008.4700618
+Test Quality Improvement with Timing-aware ATPG: Screening small delay defect case study.	Che-Jen Jerry Chang,Takeo Kobayashi	10.1109/TEST.2008.4700702
+Transition Test on UltraSPARC- T2 Microprocessor.	Liang-Chi Chen,Paul Dickinson,Prasad Mantri,Murali M. R. Gala,Peter Dahlgren,Subhra Bhattacharya,Olivier Caty,Kevin Woodling,Thomas A. Ziaja,David Curwen,Wendy Yee,Ellen Su,Guixiang Gu,Tim Nguyen	10.1109/TEST.2008.4700599
+A Power-Aware Test Methodology for Multi-Supply Multi-Voltage Designs.	Vivek Chickermane,Patrick R. Gallagher Jr.,James Sage,Paul Yuan,Krishna Chakravadhanula	10.1109/TEST.2008.4700572
+IEEE 1500 Compatible Secure Test Wrapper For Embedded IP Cores.	Geng-Ming Chiu,James Chien-Mo Li	10.1109/TEST.2008.4700683
+Solder Bead on High Density Interconnect Printed Circuit Board.	Brandon Chu	10.1109/TEST.2008.4700590
+Low Power Scan Shift and Capture in the EDT Environment.	Dariusz Czysz,Mark Kassab,Xijiang Lin,Grzegorz Mrugalski,Janusz Rajski,Jerzy Tyszer	10.1109/TEST.2008.4700585
+High Test Quality in Low Pin Count Applications.	Jayant D&apos;Souza,Subramanian Mahadevan,Nilanjan Mukherjee 0001,Graham Rhodes,Jocelyn Moreau,Thomas Droniou,Paul Armagnat,Damien Sartoretti	10.1109/TEST.2008.4700700
+Justifying DFT with a Hierarchical Top-Down Cost-Benefit Model.	Scott Davidson	10.1109/TEST.2008.4700656
+The Advantages of Limiting P1687 to a Restricted Subset.	Jason Doege,Alfred L. Crouch	10.1109/TEST.2008.4700643
+Solving In-Circuit Defect Coverage Holes with a Novel Boundary Scan Application.	Dave F. Dubberke,James J. Grealish,Bill Van Dick	10.1109/TEST.2008.4700579
+DFT Implementationis for Striking the Right Balance between Test Cost and Test Quality for Automotive SOCs.	Amit Dutta,Srinivasulu Alampally,V. Prasanth,Rubin A. Parekhji	10.1109/TEST.2008.5483610
+IEEE P1581 drastically simplifies connectivity test for memory devices.	Heiko Ehrenberg	10.1109/TEST.2008.4700681
+Towards a World Without Test Escapes: The Use of Volume Diagnosis to Improve Test Quality.	Stefan Eichenberger,Jeroen Geuzebroek,Camelia Hora,Bram Kruseman,Ananta K. Majhi	10.1109/TEST.2008.4700604
+On-chip Timing Uncertainty Measurements on IBM Microprocessors.	Robert L. Franch,Phillip J. Restle,James K. Norman,William V. Huott,Joshua Friedrich,R. Dixon,Steve Weitzel,K. van Goor,Gerard Salem	10.1109/TEST.2008.4700707
+Low cost testing of multi-GBit device pins with ATE assisted loopback instrument.	William Fritzsche,Asim E. Haque	10.1109/TEST.2008.4700558
+Unraveling Variability for Process/Product Improvement.	Anne Gattiker	10.1109/TEST.2008.4700550
+Integration of Hardware Assertions in Systems-on-Chip.	Jeroen Geuzebroek,Bart Vermeulen	10.1109/TEST.2008.4700593
+Test Access Mechanism for Multiple Identical Cores.	Grady Giles,Jing Wang,Anuja Sehgal,Kedarnath J. Balakrishnan,James Wingfield	10.1109/TEST.2008.4700553
+A High-Speed Structural Method for Testing Address Decoder Faults in Flash Memories.	Olivier Ginez,Jean-Michel Portal,Hassen Aziza	10.1109/TEST.2008.4700633
+Detection and Diagnosis of Static Scan Cell Internal Defect.	Ruifeng Guo,Liyang Lai,Yu Huang 0005,Wu-Tung Cheng	10.1109/TEST.2008.4700596
+Extraction, Simulation and Test Generation for Interconnect Open Defects Based on Enhanced Aggressor-Victim Model.	Stefan Hillebrecht,Ilia Polian,Piet Engelke,Bernd Becker 0001,Martin Keim,Wu-Tung Cheng	10.1109/TEST.2008.4700642
+Finding Power/Ground Defects on Connectors - Case Study.	Steve Hird,Reggie Weng	10.1109/TEST.2008.4700591
+On Accelerating Path Delay Fault Simulation of Long Test Sequences.	I-De Huang,Yi-Shing Chang,Suriyaprakash Natarajan,Ramesh Sharma,Sandeep K. Gupta	10.1109/TEST.2008.4700625
+Is It Cost-Effective to Achieve Very High Fault Coverage for Testing Homogeneous SoCs with Core-Level Redundancy?	Lin Huang 0002,Qiang Xu 0001	10.1109/TEST.2008.4700697
+VAST: Virtualization-Assisted Concurrent Autonomous Self-Test.	Hiroaki Inoue,Yanjing Li,Subhasish Mitra	10.1109/TEST.2008.4700583
+Implicit Identification of Non-Robustly Unsensitizable Paths using Bounded Delay Model.	Dheepakkumaran Jayaraman,Edward Flanigan,Spyros Tragoudas	10.1109/TEST.2008.4700626
+Built-in Self-Calibration of On-chip DAC and ADC.	Wei Jiang,Vishwani D. Agrawal	10.1109/TEST.2008.4700638
+Linearity Test Time Reduction for Analog-to-Digital Converters Using the Kalman Filter with Experimental Parameter Estimation.	Le Jin	10.1109/TEST.2008.4700637
+On the Correlation between Controller Faults and Instruction-Level Errors in Modern Microprocessors.	Naghmeh Karimi,Michail Maniatakos,Abhijit Jas,Yiorgos Makris	10.1109/TEST.2008.4700613
+Direct Cell-Stability Test Techniques for an SRAM Macro with Asymmetric Cell-Bias-Voltage Modulation.	Akira Katayama,Tomoaki Yabe,Osamu Hirabayashi,Yasuhisa Takeyama,Keiichi Kushida,Takahiko Sasaki,Nobuaki Otsuka	10.1109/TEST.2008.4700616
+An Electronic Module for 12.8 Gbps Multiplexing and Loopback Test.	David C. Keezer,Dany Minier,Patrice Ducharme,A. M. Majid	10.1109/TEST.2008.4700624
+A Tutorial on STDF Fail Datalog Standard.	Ajay Khoche,Phil Burlison,John Rowe,Glenn Plowman	10.1109/TEST.2008.4700654
+Wafer-Level Characterization of Probecards using NAC Probing.	Gyu-Yeol Kim,Eon-Jo Byunb,Ki-Sang Kang,Young-Hyun Jun,Bai-Sun Kong	10.1109/TEST.2008.4700571
+Distributed Embedded Logic Analysis for Post-Silicon Validation of SOCs.	Ho Fai Ko,Adam B. Kinsman,Nicola Nicolici	10.1109/TEST.2008.4700594
+VLSI Test Exercise Courses for Students in EE Department.	Satoshi Komatsu	10.1109/TEST.2008.4700689
+Analysis of Retention Time Distribution of Embedded DRAM - A New Method to Characterize Across-Chip Threshold Voltage Variation.	Wei Kong,Paul C. Parries,G. Wang,Subramanian S. Iyer	10.1109/TEST.2008.4700556
+SOC Test Optimization with Compression-Technique Selection.	Anders Larsson,Xin Zhang,Erik Larsson,Krishnendu Chakrabarty	10.1109/TEST.2008.4700685
+Failing Frequency Signature Analysis.	Jaekwang Lee,Edward J. McCluskey	10.1109/TEST.2008.4700561
+A Novel Pattern Generation Framework for Inducing Maximum Crosstalk Effects on Delay-Sensitive Paths.	Jeremy Lee,Mohammad Tehranipoor	10.1109/TEST.2008.4700641
+Jitter and Signal Integrity Verification for Synchronous and Asynchronous I/Os at Multiple to 10 GHz/Gbps.	Mike P. Li	10.1109/TEST.2008.4700649
+A Low-Cost Programmable Memory BIST Design for Multiple Memory Instances.	Chung-Fu Lin,Chia-Fu Huang,De-Chung Lu,Chih-Chiang Hsu,Wen-Tsung Chiu,Yu-Wei Chen,Yeong-Jar Chang	10.1109/TEST.2008.4700691
+Evaluating the Effectiveness of Physically-Aware N-Detect Test using Real Silicon.	Yen-Tzu Lin,Osei Poku,Ronald D. Blanton,Phil Nigh,Peter Lloyd,Vikram Iyengar	10.1109/TEST.2008.4700606
+Test Generation for Interconnect Opens.	Xijiang Lin,Janusz Rajski	10.1109/TEST.2008.4700640
+Capture and Shift Toggle Reduction (CASTR) ATPG to Minimize Peak Power Supply Noise.	Hsiu-Ting Lin,Jen-Yang Wen,James Li,Ming-Tung Chang,Min-Hsiu Tsai,Sheng-Chih Huang,Chili-Mou Tseng	10.1109/TEST.2008.4700701
+Diagnosis of Logic-to-chain Bridging Faults.	Wei-Chih Liu,Wei-Lin Tsai,Hsiu-Ting Lin,James Chien-Mo Li	10.1109/TEST.2008.4700695
+A Generic Framework for Scan Capture Power Reduction in Test Compression Environment.	Xiao Liu 0011,Feng Yuan,Qiang Xu 0001	10.1109/TEST.2008.4700699
+Managing Test in the End-to-End, Mega Supply Chain.	Mike Lydon	10.1109/TEST.2008.4700540
+Power Distribution Failure Analysis Using Transition-Delay Fault Patterns.	Junxia Ma,Jeremy Lee,Mohammad Tehranipoor	10.1109/TEST.2008.4700696
+A Method to Generate a Very Low Distortion, High Frequency Sine Waveform Using an AWG.	Akinori Maeda	10.1109/TEST.2008.4700607
+Testing Techniques for Hardware Security.	Mehrdad Majzoobi,Farinaz Koushanfar,Miodrag Potkonjak	10.1109/TEST.2008.4700636
+Jitters in high performance microprocessors.	T. M. Mak	10.1109/TEST.2008.4700650
+Embedded Testing in an In-Circuit Test Environment.	John Malian,Bill Eklow	10.1109/TEST.2008.4700652
+Fabrication Defects and Fault Models for DNA Self-Assembled Nanoelectronics.	Vincent Mao,Chris Dwyer,Krishnendu Chakrabarty	10.1109/TEST.2008.4700634
+Platform Independent Test Access Port Architecture.	Arie Margulis,David Akselrod,Tim Wood 0001,Sopho Metsis	10.1109/TEST.2008.4700687
+External Loopback Testing Experiences with High Speed Serial Interfaces.	Anne Meixner,Akira Kakizawa,Benoit Provost,Serge Bedwani	10.1109/TEST.2008.4700557
+Low Energy On-Line SBST of Embedded Processors.	Andreas Merentitis,Nektarios Kranitis,Antonis M. Paschalis,Dimitris Gizopoulos	10.1109/TEST.2008.4700581
+RTL Error Diagnosis Using a Word-Level SAT-Solver.	Saeed Mirzaeian,Feijun (Frank) Zheng,Kwang-Ting (Tim) Cheng	10.1109/TEST.2008.4700568
+Non-contact Testing for SoC and RCP (SIPs) at Advanced Nodes.	Brian Moore 0001,Marc Mangrum,Chris Sellathamby,Md. Mahbub Reja,T. Weng,Brenda Bai,Edwin Walter Reid,Igor M. Filanovsky,Steven Slupsky	10.1109/TEST.2008.4700612
+Beyond 10 Gbps? Challenges of Characterizing Future I/O Interfaces with Automated Test Equipment.	Jose Moreira,Heidi Barnes,Hiroshi Kaga,Michael Comai,Bernhard Roth,Morgan Culver	10.1109/TEST.2008.4700651
+High Throughput Diagnosis via Compression of Failure Data in Embedded Memory BIST.	Nilanjan Mukherjee 0001,Artur Pogiel,Janusz Rajski,Jerzy Tyszer	10.1109/TEST.2008.4700554
+IEEE 1500 Core Wrapper Optimization Techniques and Implementation.	Brendan Mullane,Michael Higgins,Ciaran MacNamee	10.1109/TEST.2008.4700629
+Power-Aware At-Speed Scan Test Methodology for Circuits with Synchronous Clocks.	Benoit Nadeau-Dostie,Kiyoshi Takeshita,Jean-Francois Cote	10.1109/TEST.2008.4700574
+An Automatic Post Silicon Clock Tuning System for Improving System Performance based on Tester Measurements.	Kelageri Nagaraj,Sandip Kundu	10.1109/TEST.2008.4700565
+A New Wafer Level Latent Defect Screening Methodology for Highly Reliable DRAM Using a Response Surface Method.	Junghyun Nam,Sunghoon Chun,Gibum Koo,Yanggi Kim,Byungsoo Moon,Jonghyoung Lim,Jaehoon Joo,Sangseok Kang,Hoonjung Kim,Kyeongseon Shin,Kisang Kang,Sungho Kang	10.1109/TEST.2008.4700632
+EVM Testing of Wireless OFDM Transceivers Using Intelligent Back-End Digital Signal Processing Algorithms.	Vishwanath Natarajan,Hyun Woo Choi,Deuk Lee,Rajarajan Senguttuvan,Abhijit Chatterjee	10.1109/TEST.2008.4700603
+Using Implications for Online Error Detection.	Kundan Nepal,Nuno Alves,Jennifer Dworak,R. Iris Bahar	10.1109/TEST.2008.4700614
+A History-Based Diagnosis Technique for Static and Dynamic Faults in SRAMs.	Alexandre Ney,Alberto Bosio,Luigi Dilillo,Patrick Girard 0001,Serge Pravossoudovitch,Arnaud Virazel,Magali Bastian	10.1109/TEST.2008.4700555
+Efficient High-Speed Interface Verification and Fault Analysis.	Thomas Nirmaier,Jose Torres Zaguirre,Eric Liau,Wolfgang Spirkl,Armin Rettenberger,Doris Schmitt-Landsiedel	10.1109/TEST.2008.4700559
+Augmenting Boundary-Scan Tests for Enhanced Defect Coverage.	Dayton Norrgard,Kenneth P. Parker	10.1109/TEST.2008.4700580
+Wireless Test Structure for Integrated Systems.	Ziad Noun,Philippe Cauvet,Marie-Lise Flottes,David Andreu 0001,Serge Bernard	10.1109/TEST.2008.4700704
+Production Multivariate Outlier Detection Using Principal Components.	Peter M. O&apos;Neill	10.1109/TEST.2008.4700549
+Launch-on-Shift-Capture Transition Tests.	Intaik Park,Edward J. McCluskey	10.1109/TEST.2008.4700648
+Boundary-Scan Testing of Power/Ground Pins.	Kenneth P. Parker,Neil G. Jacobson	10.1109/TEST.2008.4700628
+DFX of a 3rd Generation, 16-core/32-thread UltraSPARC- CMT Microprocessor.	Ishwar Parulkar,Sriram Anandakumar,Gaurav Agarwal,Gordon Liu,Krishna Rajan,Frank Chiu,Rajesh Pendurkar	10.1109/TEST.2008.4700552
+Having FUN with Analog Test.	Robert A. Pease	10.1109/TEST.2008.4700542
+Functional Test and Speed/Power Sorting of the IBM POWER6 and Z10 Processors.	Tung N. Pham,Frances Clougherty,Gerard Salem,James M. Crafts,Jon Tetzloff,Pamela Moczygemba,Timothy M. Skergan	10.1109/TEST.2008.4700598
+The Importance of Functional-Like Access for Memory Test.	Jonathan Phelps,Chuck Johnson,Corey Goodrich,Aman Kokrady	10.1109/TEST.2008.4700692
+A New Language Approach for IJTAG.	Michele Portolan,Suresh Goyal,Bradford G. Van Treuren,Chen-Huan Chiang,Tapan J. Chakraborty,Thomas B. Cook	10.1109/TEST.2008.4700644
+Computing at the Crossroads (And What Does it Mean to Verification and Test?).	Jan M. Rabaey	10.1109/TEST.2008.4700541
+Achieving Zero-Defects for Automotive Applications.	Rajesh Raina	10.1109/TEST.2008.5483611
+This is a Test: How to Tell if DFT and Test Are Adding Value to Your Company.	Jeff Rearick	10.1109/TEST.2008.4700543
+Time-dependent Behaviour of Full Open Defects in Interconnect Lines.	Rosa Rodríguez-Montañés,Daniel Arumí,Joan Figueras,Stefan Eichenberger,Camelia Hora,Bram Kruseman	10.1109/TEST.2008.4700575
+Engineering Test Coverage on Complex Sockets.	Myron Schneider,Ayub Shafi	10.1109/TEST.2008.4700578
+Frequency and Power Correlation between At-Speed Scan and Functional Tests.	Shlomi Sde-Paz,Eyal Salomon	10.1109/TEST.2008.4700586
+A Cost Analysis Framework for Multi-core Systems with Spares.	Saeed Shamshiri,Peter Lisherness,Sung-Jui (Song-Ra) Pan,Kwang-Ting Cheng	10.1109/TEST.2008.4700562
+Efficiently Performing Yield Enhancements by Identifying Dominant Physical Root Cause from Test Fail Data.	Manish Sharma,Brady Benware,Lei Ling,David Abercrombie,Lincoln Lee,Martin Keim,Huaxing Tang,Wu-Tung Cheng,Ting-Pu Tai,Yi-Jung Chang,Reinhart Lin,Albert Mann	10.1109/TEST.2008.4700589
+A Field Analysis of System-level Effects of Soft Errors Occurring in Microprocessors used in Information Systems.	Syed Zafar Shazli,Mohammed A. Abdul-Aziz,Mehdi Baradaran Tahoori,David R. Kaeli	10.1109/TEST.2008.4700615
+Align-Encode: Improving the Encoding Capability of Test Stimulus Decompressors.	Ozgur Sinanoglu	10.1109/TEST.2008.4700647
+Scan Based Testing of Dual/Multi Core Processors for Small Delay Defects.	Adit D. Singh	10.1109/TEST.2008.4700563
+Optical Diagnostics for IBM POWER6- Microprocessor.	Peilin Song,Stephen Ippolito,Franco Stellari,John Sylvestri,Tim Diemoz,George Smith,Paul Muench,Norm James,Seongwon Kim,Hector Saenz	10.1109/TEST.2008.4700597
+An Efficient Secure Scan Design for an SoC Embedding AES Core.	Jaehoon Song,Taejin Jung,Junseop Lee,Hyeran Jeong,Byeongjin Kim,Sungju Park	10.1109/TEST.2008.4700693
+Architecture for Testing Multi-Voltage Domain SOC.	Laurent Souef,Christophe Eychenne,Emmanuel Alie	10.1109/TEST.2008.4700592
+Statistical Yield Modeling for Sub-wavelength Lithography.	Aswin Sreedhar,Sandip Kundu	10.1109/TEST.2008.4700576
+Octal-Site EVM Tests for WLAN Transceivers on &quot;Very&quot; Low-Cost ATE Platforms.	Ganesh Srinivasan,Hui-Chuan Chao,Friedrich Taenzler	10.1109/TEST.2008.4700601
+Overview of a High Speed Top Side Socket Solution.	John Stewart,Temitope Animashaun	10.1109/TEST.2008.4700705
+Observations of Supply-Voltage-Noise Dispersion in Sub-nsec.	Kan Takeuchi,Genichi Tanaka,Hiroaki Matsushita,Kenichi Yoshizumi,Yusaku Katsuki,Takao Sato	10.1109/TEST.2008.4700621
+A Hybrid A/D Converter with 120dB SNR and -125dB THD.	Mamoru Tamba	10.1109/TEST.2008.4700622
+On-chip Programmable Capture for Accurate Path Delay Test and Characterization.	Rajeshwary Tayade,Jacob A. Abraham	10.1109/TEST.2008.4700564
+System JTAG Initiative Group Advancements.	Bradford G. Van Treuren	10.1109/TEST.2008.4700698
+Problems Using Boundary-Scan for Memory Cluster Tests.	Bradford G. Van Treuren,Chen-Huan Chiang,Kenneth Honaker	10.1109/TEST.2008.4700645
+A Shared Parallel Built-In Self-Repair Scheme for Random Access Memories in SOCs.	Tsu-Wei Tseng,Jin-Fu Li	10.1109/TEST.2008.4700617
+The Economics of Harm Prevention through Design for Testability.	Louis Y. Ungar	10.1109/TEST.2008.4700657
+SoC Yield Improvement: Redundant Architectures to the Rescue?	Julien Vial,Alberto Bosio,Patrick Girard 0001,Christian Landrault,Serge Pravossoudovitch,Arnaud Virazel	10.1109/TEST.2008.4700686
+Implementation Update: Logic Mapping On SPARC- Microprocessors.	Anjali Vij,Richard Ratliff	10.1109/TEST.2008.4700560
+Embedded Power Delivery Decoupling in Small Form Factor Test Sockets.	Omer Vikinski,Shaul Lupo,Gregory Sizikov,Chee Yee Chung	10.1109/TEST.2008.4700569
+Leveraging IEEE 1641 for Tester-Independent ATE Software.	Bethany Van Wagenen,Jon Vollmar,Dan Thornton	10.1109/TEST.2008.4700608
+Turbo1500: Toward Core-Based Design for Test and Diagnosis Using the IEEE 1500 Standard.	Laung-Terng Wang,Ravi Apte,Shianling Wu,Boryau Sheu,Kuen-Jong Lee,Xiaoqing Wen,Wen-Ben Jone,Chia-Hsien Yeh,Wei-Shin Wang,Hao-Jan Chao,Jianghao Guo,Jinsong Liu,Yanlong Niu,Yi-Chih Sung,Chi-Chun Wang,Fangfang Li	10.1109/TEST.2008.4700630
+Deterministic Diagnostic Pattern Generation (DDPG) for Compound Defects.	Fei Wang,Yu Hu 0001,Huawei Li 0001,Xiaowei Li 0001,Jing Ye 0001,Yu Huang 0005	10.1109/TEST.2008.4700587
+Measurement Repeatability for RF Test Within the Load-board Constraints of High Density and Fine Pitch SOC Applications.	Thomas P. Warwick,Gustavo Rivera,David Waite,James Russell,Jeffrey Smith	10.1109/TEST.2008.4700570
+Increasing Scan Compression by Using X-chains.	Peter Wohl,John A. Waicukauski,Frederic Neuveux	10.1109/TEST.2008.4700646
+The Test Features of the Quad-Core AMD Opteron- Microprocessor.	Tim Wood 0001,Grady Giles,Chris Kiszely,Martin Schuessler,Daniela Toneva,Joel Irby,Michael Mateja	10.1109/TEST.2008.4700551
+Test-Access Solutions for Three-Dimensional SOCs.	Xiaoxia Wu,Yibo Chen,Krishnendu Chakrabarty,Yuan Xie 0001	10.1109/TEST.2008.4700684
+A Study of Outlier Analysis Techniques for Delay Testing.	Sean H. Wu,Dragoljub Gagi Drmanac,Li-C. Wang	10.1109/TEST.2008.4700548
+SAT-based State Justification with Adaptive Mining of Invariants.	Weixin Wu,Michael S. Hsiao	10.1109/TEST.2008.4700567
+Reducing Power Supply Noise in Linear-Decompressor-Based Test Data Compression Environment for At-Speed Scan Testing.	Meng-Fan Wu,Jiun-Lang Huang,Xiaoqing Wen,Kohei Miyase	10.1109/TEST.2008.4700584
+Overview of IEEE P1450.6.2 Standard; Creating CTL Model For Memory Test and Repair.		10.1109/TEST.2008.4700680
+A New Method for Measuring Aperture Jitter in ADC Output and Its Application to ENOB Testing.	Takahiro J. Yamaguchi,Masayuki Kawabata,Mani Soma,Masahiro Ishida,K. Sawami,Koichiro Uekusa	10.1109/TEST.2008.4700639
+Detection of Internal Stuck-open Faults in Scan Chains.	Fan Yang 0060,Sreejit Chakravarty,Narendra Devta-Prasanna,Sudhakar M. Reddy,Irith Pomeranz	10.1109/TEST.2008.4700577
+Diagnosis of Mask-Effect Multiple Timing Faults in Scan Chains.	Jing Ye 0001,Fei Wang,Yu Hu 0001,Xiaowei Li 0001	10.1109/TEST.2008.4700694
+Interconnect-Aware and Layout-Oriented Test-Pattern Selection for Small-Delay Defects.	Mahmut Yilmaz,Krishnendu Chakrabarty,Mohammad Tehranipoor	10.1109/TEST.2008.4700627
+An Effective and Flexible Multiple Defect Diagnosis Methodology Using Error Propagation Analysis.	Xiaochun Yu,Ronald D. Blanton	10.1109/TEST.2008.4700595
+SoC Test Architecture Design and Optimization Considering Power Supply Noise Effects.	Feng Yuan,Qiang Xu 0001	10.1109/TEST.2008.4700620
+Built-in Self-Test and Fault Diagnosis for Lab-on-Chip Using Digital Microfluidic Logic Gates.	Yang Zhao 0001,Tao Xu 0002,Krishnendu Chakrabarty	10.1109/TEST.2008.4700635
+2008 IEEE International Test Conference, ITC 2008, Santa Clara, California, USA, October 26-31, 2008	Douglas Young,Nur A. Touba	

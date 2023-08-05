@@ -1,0 +1,309 @@
+Area efficient asynchronous SDM routers using 2-stage Clos switches.	Wei Song 0002,Doug A. Edwards,Jim D. Garside,William J. Bainbridge	10.1109/DATE.2012.6176710
+Testing RF circuits with true non-intrusive built-in sensors.	Louay Abdallah,Haralampos-G. D. Stratigopoulos,Salvador Mir,Josep Altet	10.1109/DATE.2012.6176657
+Double-patterning friendly grid-based detailed routing with online conflict resolution.	Islam S. Abed,Amr G. Wassal	10.1109/DATE.2012.6176706
+Complexity, quality and robustness - the challenges of tomorrow&apos;s automotive electronics.	Ulrich Abelein,Helmut Lochner,Daniel Hahn,Stefan Straube	10.1109/DATE.2012.6176573
+Design of a collective communication infrastructure for barrier synchronization in cluster-based nanoscale MPSoCs.	José L. Abellán,Juan Fernández Peinador,Manuel E. Acacio,Davide Bertozzi,Daniele Bortolotti,Andrea Marongiu,Luca Benini	10.1109/DATE.2012.6176519
+PCASA: Probabilistic control-adjusted Selective Allocation for shared caches.	Konstantinos Aisopos,Jaideep Moses,Ramesh Illikkal,Ravishankar R. Iyer 0001,Donald Newell	10.1109/DATE.2012.6176517
+AFRA: A low cost high performance reliable routing for 3D mesh NoCs.	Sara Akbari,Ali Shafiee,Mahmood Fathy,Reza Berangi	10.1109/DATE.2012.6176490
+Benefits of green energy and proportionality in high speed wide area networks connecting data centers.	Baris Aksanli,Tajana Simunic Rosing,Inder Monga	10.1109/DATE.2012.6176458
+Design of low-complexity digital finite impulse response filters on FPGAs.	Levent Aksoy,Eduardo Costa 0001,Paulo F. Flores,José Monteiro 0001	10.1109/DATE.2012.6176675
+Accelerators and emulators: Can they become the platform of choice for hardware verification?	Bashir M. Al-Hashimi,Ronny Morad	
+A divide and conquer based distributed run-time mapping methodology for many-core platforms.	Iraklis Anagnostopoulos,Alexandros Bartzas,Georgios Kathareios,Dimitrios Soudris	10.1109/DATE.2012.6176442
+Towards improving simulation of analog circuits using model order reduction.	Henda Aridhi,Mohamed H. Zaki,Sofiène Tahar	10.1109/DATE.2012.6176699
+Probabilistic response time bound for CAN messages with arbitrary deadlines.	Philip Axer,Maurice Sebastian,Rolf Ernst	10.1109/DATE.2012.6176662
+Impact of resistive-open defects on the heat current of TAS-MRAM architectures.	Joao Azevedo,Arnaud Virazel,Alberto Bosio,Luigi Dilillo,Patrick Girard 0001,Aida Todri-Sanial,Guillaume Prenat,Jérémy Alvarez-Herault,Ken Mackay	10.1109/DATE.2012.6176526
+A methodology for automated design of hard-real-time embedded streaming systems.	Mohamed Bamakhrama,Jiali Teddy Zhai,Hristo Nikolov,Todor P. Stefanov	10.1109/DATE.2012.6176632
+Quantifying the impact of frequency scaling on the energy efficiency of the single-chip cloud computer.	Andrea Bartolini,MohammadSadegh Sadri,John-Nicholas Furst,Ayse Kivilcim Coskun,Luca Benini	10.1109/DATE.2012.6176459
+VaMV: Variability-aware Memory Virtualization.	Luis Angel D. Bathen,Nikil D. Dutt,Alex Nicolau,Puneet Gupta 0001	10.1109/DATE.2012.6176479
+SURF algorithm in FPGA: A novel architecture for high demanding industrial applications.	Niccolò Battezzati,Stefano Colazzo,M. Maffione,L. Senepa	10.1109/DATE.2012.6176451
+SAFER PATH: Security architecture using fragmented execution and replication for protection against trojaned hardware.	Mark R. Beaumont,Bradley D. Hopkins,Tristan Newby	10.1109/DATE.2012.6176642
+MOUSSE: Scaling modelling and verification to complex Heterogeneous Embedded Systems evolution.	Markus Becker 0001,Gilles B. Defo,Franco Fummi,Wolfgang Müller 0003,Graziano Pravadelli,Sara Vinco	10.1109/DATE.2012.6176482
+P2012: Building an ecosystem for a scalable, modular and high-efficiency embedded computing accelerator.	Luca Benini,Eric Flamand,Didier Fuin,Diego Melpignano	10.1109/DATE.2012.6176639
+Layout-Driven Robustness Analysis for misaligned Carbon Nanotubes in CNTFET-based standard cells.	Matthias Beste,Mehdi Baradaran Tahoori	10.1109/DATE.2012.6176729
+An MILP-based aging-aware routing algorithm for NoCs.	Kshitij Bhardwaj,Koushik Chakraborty,Sanghamitra Roy	10.1109/DATE.2012.6176489
+Spintronic memristor based temperature sensor design with CMOS current reference.	Xiuyuan Bi,Chao Zhang,Hai Li 0001,Yiran Chen 0001,Robinson E. Pino	10.1109/DATE.2012.6176693
+An adaptive approach for online fault management in many-core architectures.	Cristiana Bolchini,Antonio Miele,Donatella Sciuto	10.1109/DATE.2012.6176589
+FAST-GP: An RTL functional verification framework based on fault simulation on GP-GPUs.	Nicola Bombieri,Franco Fummi,Valerio Guarnieri	10.1109/DATE.2012.6176532
+UPaRC - Ultra-fast power-aware reconfiguration controller.	Robin Bonamy,Hung-Manh Pham,Sébastien Pillement,Daniel Chillet	10.1109/DATE.2012.6176705
+Power management of multi-core chips: Challenges and pitfalls.	Pradip Bose,Alper Buyuktosunoglu,John A. Darringer,Meeta Sharma Gupta,Michael B. Healy,Hans M. Jacobson,Indira Nair,Jude A. Rivers,Jeonghee Shin,Augusto Vega,Alan J. Weger	10.1109/DATE.2012.6176638
+State-of-the-art tools and techniques for quantitative modeling and analysis of embedded systems.	Marius Bozga,Alexandre David,Arnd Hartmanns,Holger Hermanns,Kim G. Larsen,Axel Legay,Jan Tretmans	10.1109/DATE.2012.6176499
+Simulation of the steady state of oscillators in the time domain.	Hans Georg Brachtendorf,Kai Bittner,Rainer Laur	10.1109/DATE.2012.6176702
+Batteries and battery management systems for electric vehicles.	M. Brandl,Harald Gall,Martin M. Wenger,Vincent R. H. Lorentz,Martin Giegerich,Federico Baronti,Gabriele Fantechi,Luca Fanucci,Roberto Roncella,Roberto Saletti,Sergio Saponara,Alexander Thaler,Martin Cifrain,W. Prochazka	10.1109/DATE.2012.6176637
+VLSI legalization with minimum perturbation by iterative augmentation.	Ulrich Brenner	10.1109/DATE.2012.6176579
+Error patterns in MLC NAND flash memory: Measurement, characterization, and analysis.	Yu Cai,Erich F. Haratsch,Onur Mutlu,Ken Mai	10.1109/DATE.2012.6176524
+An hybrid architecture to detect transient faults in microprocessors: An experimental validation.	Salvatore Campagna,Massimo Violante	10.1109/DATE.2012.6176590
+Moore meets maxwell.	Raul Camposano,Dipanjan Gope,Stefano Grivet-Talocia,Vikram Jandhyala	10.1109/DATE.2012.6176688
+Towards parallel execution of IEC 61131 industrial cyber-physical systems applications.	Arquimedes Canedo,Mohammad Abdullah Al Faruque	10.1109/DATE.2012.6176530
+Panel: What is EDA doing for trailing edge technologies?	Marco Casale-Rossi,Pierluigi Rolandi,Andreas Bruening,Antun Domic,Rainer Kress 0002,Joseph Sawicki,Christian Sebeke	10.1109/DATE.2012.6176620
+Embedded systems and software challenges in electric vehicles.	Samarjit Chakraborty,Martin Lukasiewycz,Christian Buckl,Suhaib A. Fahmy,Naehyuck Chang,Sangyoung Park,Younghyun Kim 0001,Patrick Leteinturier,Hans Adlkofer	10.1109/DATE.2012.6176508
+A scan pattern debugger for partial scan industrial designs.	Kameshwar Chandrasekar,Supratik K. Misra,Sanjay Sengupta,Michael S. Hsiao	10.1109/DATE.2012.6176531
+RTL analysis and modifications for improving at-speed test.	Kai-Hui Chang,Hong-Zu Chou,Igor L. Markov	10.1109/DATE.2012.6176504
+Congestion-aware scheduling for NoC-based reconfigurable systems.	Hung-Lin Chao,Yean-Ru Chen,Sheng-Ya Tong,Pao-Ann Hsiung,Sao-Jie Chen	10.1109/DATE.2012.6176721
+Static analysis of asynchronous clock domain crossings.	Shubhyant Chaturvedi	10.1109/DATE.2012.6176664
+An FPGA-based parallel processor for Black-Scholes option pricing using finite differences schemes.	Georgios Chatziparaskevas,Andreas Brokalakis,Ioannis Papaefstathiou	10.1109/DATE.2012.6176562
+Dynamically reconfigurable hybrid cache: An energy-efficient last-level cache design.	Yu-Ting Chen,Jason Cong,Hui Huang 0001,Bin Liu 0006,Chunyue Liu,Miodrag Potkonjak,Glenn Reinman	10.1109/DATE.2012.6176431
+Characterization of the bistable ring PUF.	Qingqing Chen 0004,György Csaba,Paolo Lugli,Ulf Schlichtmann,Ulrich Rührmair	10.1109/DATE.2012.6176596
+Out-of-order parallel simulation for ESL design.	Weiwei Chen 0001,Xu Han 0002,Rainer Dömer	10.1109/DATE.2012.6176447
+QBf-based boolean function bi-decomposition.	Huan Chen 0001,Mikolás Janota,João Marques-Silva 0001	10.1109/DATE.2012.6176606
+CACTI-3DD: Architecture-level modeling for 3D die-stacked DRAM main memory.	Ke Chen 0020,Sheng Li 0007,Naveen Muralimanohar,Jung Ho Ahn,Jay B. Brockman,Norman P. Jouppi	10.1109/DATE.2012.6176428
+Nano-Electro-Mechanical relays for FPGA routing: Experimental demonstration and a design technique.	Chen Chen 0018,W. Scott Lee,Roozbeh Parsa,Soogine Chong,J. Provine,Jeff Watt,Roger T. Howe,H.-S. Philip Wong,Subhasish Mitra	10.1109/DATE.2012.6176703
+Online scheduling for multi-core shared reconfigurable fabric.	Liang Chen,Thomas Marconi,Tulika Mitra	10.1109/DATE.2012.6176537
+3DHLS: Incorporating high-level synthesis in physical planning of three-dimensional (3D) ICs.	Yibo Chen,Guangyu Sun 0003,Qiaosha Zou,Yuan Xie 0001	10.1109/DATE.2012.6176673
+Comparison of Self-Timed Ring and Inverter Ring Oscillators as entropy sources in FPGAs.	Abdelkarim Cherkaoui,Viktor Fischer,Alain Aubert,Laurent Fesquet	10.1109/DATE.2012.6176697
+New foundry models - accelerations in transformations of the semiconductor industry.	Mojy Chian	10.1109/DATE.2012.6176422
+A Network-on-Chip-based turbo/LDPC decoder architecture.	Carlo Condo,Maurizio Martina,Guido Masera	10.1109/DATE.2012.6176715
+Combining module selection and replication for throughput-driven streaming programs.	Jason Cong,Muhuan Huang,Bin Liu 0006,Peng Zhang 0007,Yi Zou	10.1109/DATE.2012.6176645
+Multi-objective aware extraction of task-level parallelism using genetic algorithms.	Daniel Cordes,Peter Marwedel	10.1109/DATE.2012.6176503
+A flexible and fast software implementation of the FFT on the BPE platform.	Teo Cupaiuolo,Daniele Lo Iacono	10.1109/DATE.2012.6176598
+Modeling static-order schedules in synchronous dataflow graphs.	Morteza Damavandpeyma,Sander Stuijk,Twan Basten,Marc Geilen,Henk Corporaal	10.1109/DATE.2012.6176588
+S/DC: A storage and energy efficient data prefetcher.	Xianglei Dang,Xiaoyin Wang,Dong Tong 0001,Junlin Lu,Jiangfang Yi,Keyi Wang	10.1109/DATE.2012.6176515
+PUF-based secure test wrapper design for cryptographic SoC testing.	Amitabh Das,Ünal Koçabas,Ahmad-Reza Sadeghi,Ingrid Verbauwhede	10.1109/DATE.2012.6176618
+Dynamic Directories: A mechanism for reducing on-chip interconnect power in multicores.	Abhishek Das,Matthew Schuchhardt,Nikos Hardavellas,Gokhan Memik,Alok N. Choudhary	10.1109/DATE.2012.6176456
+Verification coverage of embedded multicore applications.	Etem Deniz,Alper Sen 0001,Jim Holt	10.1109/DATE.2012.6176471
+Dynamic-priority arbiter and multiplexer soft macros for on-chip networks switches.	Giorgos Dimitrakopoulos,Emmanouil Kalligeros	10.1109/DATE.2012.6176527
+Multi-core architecture design for ultra-low-power wearable health monitoring systems.	Ahmed Yasir Dogan,Jeremy Constantin,Martino Ruggiero,Andreas Burg,David Atienza	10.1109/DATE.2012.6176640
+Mechatronic system for energy efficiency in bus transport.	Monica Donno,Aleck Ferrari,Annalisa Scarpelli,Pietro Perlo,Alberto Bocca	10.1109/DATE.2012.6176493
+Minimizing the latency of quantum circuits during mapping to the ion-trap circuit fabric.	Mohammad Javad Dousti,Massoud Pedram	10.1109/DATE.2012.6176612
+Estimation based power and supply voltage management for future RF-powered multi-core smart cards.	Norbert Druml,Christian Steger,Reinhold Weiss,Andreas Genser,Josef Haid	10.1109/DATE.2012.6176497
+High performance reliable variable latency carry select addition.	Kai Du,Peter J. Varman,Kartik Mohanram	10.1109/DATE.2012.6176685
+Refinement of UML/MARTE models for the design of networked embedded systems.	Emad Samuel Malki Ebeid,Franco Fummi,Davide Quaglia,Francesco Stefanni	10.1109/DATE.2012.6176654
+CATRA- congestion aware trapezoid-based routing algorithm for on-chip networks.	Masoumeh Ebrahimi,Masoud Daneshtalab,Pasi Liljeberg,Juha Plosila,Hannu Tenhunen	10.1109/DATE.2012.6176488
+Automatic transition between structural system views in a safety relevant embedded systems development process.	Christian Ellen,Christoph Etzien,Markus Oertel	10.1109/DATE.2012.6176607
+Exploring pausible clocking based GALS design for 40-nm system integration.	Xin Fan 0003,Milos Krstic,Eckhard Grass,Birgit Sanders,Christoph Heer	10.1109/DATE.2012.6176663
+Harmonic semi-partitioned scheduling for fixed-priority real-time tasks on multi-core platform.	Ming Fan 0001,Gang Quan	10.1109/DATE.2012.6176521
+Intelligent and collaborative embedded computing in automation engineering.	Mohammad Abdullah Al Faruque,Arquimedes Canedo	10.1109/DATE.2012.6176494
+Pathways to servers of the future.	Gerhard P. Fettweis,Wolfgang E. Nagel,Wolfgang Lehner	10.1109/DATE.2012.6176577
+NBTI mitigation by optimized NOP assignment and insertion.	Farshad Firouzi,Saman Kiamehr,Mehdi Baradaran Tahoori	10.1109/DATE.2012.6176465
+SPDF: A schedulable parametric data-flow MoC.	Pascal Fradet,Alain Girault,Peter Poplavko	10.1109/DATE.2012.6176572
+Evaluation of a new RFID system performance monitoring approach.	Gilles Fritz,Vincent Beroulle,Oum-El-Kheir Aktouf,David Hély	10.1109/DATE.2012.6176591
+Design of streaming applications on MPSoCs using abstract clocks.	Abdoulaye Gamatié	10.1109/DATE.2012.6176571
+Robust and flexible mapping for real-time distributed applications during the early design phases.	Junhe Gan,Paul Pop,Flavius Gruian,Jan Madsen	10.1109/DATE.2012.6176631
+A clustering-based scheme for concurrent trace in debugging NoC-based multicore systems.	Jianliang Gao,Jianxin Wang,Yinhe Han 0001,Lei Zhang 0008,Xiaowei Li 0001	10.1109/DATE.2012.6176427
+Design of an intrinsically-linear double-VCO-based ADC with 2nd-order noise shaping.	Peng Gao,Xinpeng Xing,Jan Craninckx,Georges G. E. Gielen	10.1109/DATE.2012.6176678
+Time analysable synchronisation techniques for parallelised hard real-time applications.	Mike Gerdes 0001,Florian Kluge,Theo Ungerer,Christine Rochange,Pascal Sainrat	10.1109/DATE.2012.6176555
+DRAM selection and configuration for real-time mobile systems.	Manil Dev Gomony,Christian Weis,Benny Akesson,Norbert Wehn,Kees Goossens	10.1109/DATE.2012.6176432
+Memory-map selection for firm real-time SDRAM controllers.	Sven Goossens,Tim Kouters,Benny Akesson,Kees Goossens	10.1109/DATE.2012.6176609
+Time-triggered implementations of mixed-criticality automotive software.	Dip Goswami,Martin Lukasiewycz,Reinhard Schneider 0001,Samarjit Chakraborty	10.1109/DATE.2012.6176680
+ITRS 2011 Analog EDA Challenges and Approaches.	Helmut Graeb	10.1109/DATE.2012.6176575
+Partial online-synthesis for mixed-grained reconfigurable architectures.	Artjom Grudnitsky,Lars Bauer,Jörg Henkel	10.1109/DATE.2012.6176720
+On-line scheduling of target sensitive periodic tasks with the gravitational task model.	Raphael Guerra,Gerhard Fohler	10.1109/DATE.2012.6176536
+Enabling dynamic assertion-based verification of embedded software through model-driven design.	Giuseppe Di Guglielmo,Luigi Di Guglielmo,Franco Fummi,Graziano Pravadelli	10.1109/DATE.2012.6176430
+ASIC implementations of five SHA-3 finalists.	Xu Guo 0001,Meeta Srivastav,Sinan Huang,Dinesh Ganta,Michael B. Henry,Leyla Nazhandali,Patrick Schaumont	10.1109/DATE.2012.6176643
+Layout-aware optimization of stt mrams.	Sumeet Kumar Gupta,Sang Phill Park,Niladri Narayan Mojumder,Kaushik Roy 0001	10.1109/DATE.2012.6176595
+A guiding coverage metric for formal verification.	Finn Haedicke,Daniel Große,Rolf Drechsler	10.1109/DATE.2012.6176546
+Dynamic cache management in multi-core architectures through run-time adaptation.	Fazal Hameed,Lars Bauer,Jörg Henkel	10.1109/DATE.2012.6176518
+NOCEVE: Network on chip emulation and verification environment.	Omar Hammami,Xinyu Li,Jean-Marc Brault	10.1109/DATE.2012.6176452
+Component-based and aspect-oriented methodology and tool for Real-Time Embedded Control Systems Design.	Rédha Hamouche,Rémy Kocik	10.1109/DATE.2012.6176586
+AIR (Aerial Image Retargeting): A novel technique for in-fab automatic model-based retargeting-for-yield.	Ayman Yehia Hamouda,Mohab Anis,Karim S. Karim	10.1109/DATE.2012.6176728
+State-based full predication for low power coarse-grained reconfigurable architecture.	Kyuseung Han,Seongsik Park,Kiyoung Choi	10.1109/DATE.2012.6176704
+Reducing the energy cost of computing through efficient co-scheduling of parallel workloads.	Can Hankendi,Ayse K. Coskun	10.1109/DATE.2012.6176641
+Multi-token resource sharing for pipelined asynchronous systems.	John Hansen,Montek Singh	10.1109/DATE.2012.6176674
+DfT schemes for resistive open defects in RRAMs.	Nor Zaidi Haron,Said Hamdioui	10.1109/DATE.2012.6176603
+Genetic/bio design automation for (re-)engineering biological systems.	Soha Hassoun	10.1109/DATE.2012.6176469
+Revealing side-channel issues of complex circuits by enhanced leakage models.	Annelie Heuser,Werner Schindler,Marc Stöttinger	10.1109/DATE.2012.6176672
+On effective flip-chip routing via pseudo single redistribution layer.	Hsin-Wu Hsu,Meng-Ling Chen,Hung-Ming Chen,Hung-Chun Li,Shi-Hao Chen	10.1109/DATE.2012.6176727
+Salvaging chips with caches beyond repair.	Hsunwei Hsiung,Byeongju Cha,Sandeep K. Gupta	10.1109/DATE.2012.6176686
+Static scheduling of a Time-Triggered Network-on-Chip based on SMT solving.	Jia Huang,Jan Olaf Blech,Andreas Raabe,Christian Buckl,Alois C. Knoll	10.1109/DATE.2012.6176522
+Off-path leakage power aware routing for SRAM-based FPGAs.	Keheng Huang,Yu Hu 0001,Xiaowei Li 0001,Bo Liu 0018,Hongjin Liu,Jian Gong	10.1109/DATE.2012.6176438
+Worst-case delay analysis of Variable Bit-Rate flows in network-on-chip with aggregate scheduling.	Fahimeh Jafari,Axel Jantsch,Zhonghai Lu	10.1109/DATE.2012.6176457
+MAPG: Memory access power gating.	Kwangok Jeong,Andrew B. Kahng,Seokhyeong Kang,Tajana Simunic Rosing,Richard D. Strong	10.1109/DATE.2012.6176651
+Co-design techniques for distributed real-time embedded systems with communication security constraints.	Ke Jiang,Petru Eles,Zebo Peng	10.1109/DATE.2012.6176633
+On the optimality of K longest path generation algorithm under memory constraints.	Jie Jiang,Matthias Sauer 0002,Alexander Czutro,Bernd Becker 0001,Ilia Polian	10.1109/DATE.2012.6176507
+On effective TSV repair for 3D-stacked ICs.	Li Jiang 0002,Qiang Xu 0001,Bill Eklow	10.1109/DATE.2012.6176602
+Post-deployment trust evaluation in wireless cryptographic ICs.	Yier Jin,Dzmitry Maliuk,Yiorgos Makris	10.1109/DATE.2012.6176636
+Advances in variation-aware modeling, verification, and testing of analog ICs.	Dimitri de Jonghe,Elie Maricau,Georges G. E. Gielen,Trent McConaghy,Bratislav Tasic,Haralampos-G. D. Stratigopoulos	10.1109/DATE.2012.6176730
+Hybrid simulation for extensible processor cores.	Jovana Jovic,Sergey Yakoushkin,Luis Gabriel Murillo,Juan Fernando Eusse,Rainer Leupers,Gerd Ascheid	10.1109/DATE.2012.6176480
+Statistical thermal modeling and optimization considering leakage power variations.	Da-Cheng Juan,Yi-Lin Chuang,Diana Marculescu,Yao-Wen Chang	10.1109/DATE.2012.6176544
+A resilient architecture for low latency communication in shared-L1 processor clusters.	Mohammad Reza Kakoee,Igor Loi,Luca Benini	10.1109/DATE.2012.6176623
+An architecture-level approach for mitigating the impact of process variations on extensible processors.	Mehdi Kamal,Ali Afzali-Kusha,Saeed Safari,Massoud Pedram	10.1109/DATE.2012.6176516
+Test generation for clock-domain crossing faults in integrated circuits.	Naghmeh Karimi,Krishnendu Chakrabarty,Pallav Gupta,Srinivas Patil	10.1109/DATE.2012.6176505
+Generating instruction streams using abstract CSP.	Yoav Katz,Michal Rimon,Avi Ziv	10.1109/DATE.2012.6176425
+Programmability and performance portability aspects of heterogeneous multi-/manycore systems.	Christoph W. Kessler,Usman Dastgeer,Samuel Thibault,Raymond Namyst,Andrew Richards,Uwe Dolinsky,Siegfried Benkner,Jesper Larsson Träff,Sabri Pllana	10.1109/DATE.2012.6176582
+On-chip source synchronous interface timing test scheme with calibration.	Hyunjin Kim,Jacob A. Abraham	10.1109/DATE.2012.6176574
+Cyber-physical cloud computing: The binding and migration problem.	Christoph M. Kirsch,Eloi Pereira,Raja Sengupta 0002,Hao Chen,Robert Hansen,Jiangchuan Huang,Florian Landolt,Michael Lippautz,Andreas Rottmann,Ryan Swick,Rainer Trummer,D. Vizzini	10.1109/DATE.2012.6176587
+Optimal energy management and recovery for FEV.	Kosmas Knoedler,Jochen Steinmann,Sylvain Laversanne,Stephen Jones,Arno Huss,Emre Kural,David Sanchez,Oliver Bringmann 0001,Jochen Zimmermann	10.1109/DATE.2012.6176557
+Current source modeling for power and timing analysis at different supply voltages.	Christoph Knoth,Hela Jedda,Ulf Schlichtmann	10.1109/DATE.2012.6176629
+Exploiting area/delay tradeoffs in high-level synthesis.	Alex Kondratyev,Luciano Lavagno,Mike Meyer,Yosinori Watanabe	10.1109/DATE.2012.6176646
+Mach-Zehnder interferometer based design of all optical reversible binary adder.	Saurabh Kotiyal,Himanshu Thapliyal,Nagarajan Ranganathan	10.1109/DATE.2012.6176564
+Towards a wireless medical smart card.	Stefan Krone,Bjoern Almeroth,Falko Guderian,Gerhard P. Fettweis	10.1109/DATE.2012.6176708
+A case study on the application of real phase-change RAM to main memory subsystem.	Suknam Kwon,Dongki Kim,Youngsik Kim,Sungjoo Yoo,Sunggu Lee	10.1109/DATE.2012.6176474
+A high performance split-radix FFT with constant geometry architecture.	Joyce Kwong,Manish Goel	10.1109/DATE.2012.6176717
+Model driven resource usage simulation for critical embedded systems.	Michaël Lafaye,Laurent Pautet,Etienne Borde,Marc Gatti,David Faura	10.1109/DATE.2012.6176486
+Non-solution implications using reverse domination in a modern SAT-based debugging environment.	Bao Le,Hratch Mangassarian,Brian Keng,Andreas G. Veneris	10.1109/DATE.2012.6176548
+Virtual platforms: Breaking new grounds.	Rainer Leupers,Grant Martin,Roman Plyaskin,Andreas Herkersdorf,Frank Schirrmeister,Tim Kogel,Martin Vaupel	10.1109/DATE.2012.6176558
+Holistic modeling of embedded systems with multi-discipline feedback: Application to a Precollision Mitigation Braking System.	Antoine Lévêque,François Pêcheux,Marie-Minerve Louërat,Hassan Aboushady,Fabio Cenni,Serge Scotti,Abdelbasset Massouri,Laurent Clavier	10.1109/DATE.2012.6176567
+A sensor-assisted self-authentication framework for hardware trojan detection.	Min Li,Azadeh Davoodi,Mohammad Tehranipoor	10.1109/DATE.2012.6176698
+Custom on-chip sensors for post-silicon failing path isolation in the presence of process variations.	Min Li,Azadeh Davoodi,Lin Xie	10.1109/DATE.2012.6176726
+RAG: An efficient reliability analysis of logic circuits on graphics processing units.	Min Li 0013,Michael S. Hsiao	10.1109/DATE.2012.6176487
+Reli: Hardware/software Checkpoint and Recovery scheme for embedded processors.	Tuo Li 0001,Roshan G. Ragel,Sri Parameswaran	10.1109/DATE.2012.6176621
+Real-time implementation and performance optimization of 3D sound localization on GPUs.	Yun Liang 0001,Zheng Cui,Shengkui Zhao,Kyle Rupnow,Yihao Zhang,Douglas L. Jones,Deming Chen	10.1109/DATE.2012.6176610
+Dual Greedy: Adaptive garbage collection for page-mapping solid-state disks.	Wen-Huei Lin,Li-Pin Chang	10.1109/DATE.2012.6176443
+A probabilistic analysis method for functional qualification under Mutation Analysis.	Hsiu-Yi Lin,Chun-Yao Wang,Shih-Chieh Chang,Yung-Chih Chen,Hsuan-Ming Chou,Ching-Yi Huang,Yen-Chi Yang,Chun-Chien Shen	10.1109/DATE.2012.6176448
+Neighbor-aware dynamic thermal management for multi-core platform.	Guanglei Liu,Ming Fan 0001,Gang Quan	10.1109/DATE.2012.6176460
+Parallel probing: Dynamic and constant time setup procedure in circuit switching NoC.	Shaoteng Liu,Axel Jantsch,Zhonghai Lu	10.1109/DATE.2012.6176691
+Agglomerative-based flip-flop merging with signal wirelength optimization.	Shih-Ying Liu,Chieh-Jui Lee,Hung-Ming Chen	10.1109/DATE.2012.6176580
+A fast analog circuit yield estimation method for medium and high dimensional problems.	Bo Liu 0003,Jarir Messaoudi,Georges G. E. Gielen	10.1109/DATE.2012.6176569
+Compositional system-level design exploration with planning of high-level synthesis.	Hung-Yi Liu,Michele Petracca,Luca P. Carloni	10.1109/DATE.2012.6176550
+Parallel statistical analysis of analog circuits by GPU-accelerated graph-based approach.	Xuexin Liu,Sheldon X.-D. Tan,Hai Wang 0002	10.1109/DATE.2012.6176615
+A GPU-accelerated envelope-following method for switching power converter simulation.	Xuexin Liu,Sheldon X.-D. Tan,Hai Wang 0002,Hao Yu 0001	10.1109/DATE.2012.6176701
+A block-level flash memory management scheme for reducing write activities in PCM-based embedded systems.	Duo Liu,Tianzheng Wang 0001,Yi Wang 0003,Zhiwei Qin,Zili Shao	10.1109/DATE.2012.6176593
+Accurately timed transaction level models for virtual prototyping at high abstraction level.	Kun Lu 0005,Daniel Mueller-Gritschneder,Ulf Schlichtmann	10.1109/DATE.2012.6176446
+A cyberphysical synthesis approach for error recovery in digital microfluidic biochips.	Yan Luo,Krishnendu Chakrabarty,Tsung-Yi Ho	10.1109/DATE.2012.6176682
+Efficient Gröbner basis reductions for formal verification of galois field multipliers.	Jinpeng Lv,Priyank Kalla,Florian Enescu	10.1109/DATE.2012.6176625
+Smart power unit with ultra low power radio trigger capabilities for wireless sensor networks.	Michele Magno,Stevan Jovica Marinkovic,Davide Brunelli,Emanuel M. Popovici,Brendan O&apos;Flynn,Luca Benini	10.1109/DATE.2012.6176436
+Application-specific memory partitioning for joint energy and lifetime optimization.	Haroon Mahmood,Massimo Poncino,Mirko Loghi,Enrico Macii	10.1109/DATE.2012.6176498
+An efficient framework for passive compact dynamical modeling of multiport linear systems.	Zohaib Mahmood,Roberto Suaya,Luca Daniel	10.1109/DATE.2012.6176676
+Stability and yield-oriented ultra-low-power embedded 6T SRAM cell design optimization.	Adam Makosiej,Olivier Thomas,Andrei Vladimirescu,Amara Amara	10.1109/DATE.2012.6176439
+Approximating checkers for simulation acceleration.	Biruk Mammo,Debapriya Chatterjee,Dmitry Pidan,Amir Nahir,Avi Ziv,Ronny Morad,Valeria Bertacco	10.1109/DATE.2012.6176449
+Enhancing non-linear kernels by an optimized memory hierarchy in a High Level Synthesis flow.	Stéphane Mancini,Frédéric Rousseau 0001	10.1109/DATE.2012.6176666
+A fast, source-synchronous ring-based network-on-chip design.	Ayan Mandal,Sunil P. Khatri,Rabi N. Mahapatra	10.1109/DATE.2012.6176709
+Using multi-objective design space exploration to enable run-time resource management for reconfigurable architectures.	Giovanni Mariani,Vlad Mihai Sima,Gianluca Palermo,Vittorio Zaccaria,Cristina Silvano,Koen Bertels	10.1109/DATE.2012.6176578
+Hierarchical analog circuit reliability analysis using multivariate nonlinear regression and active learning sample selection.	Elie Maricau,Dimitri de Jonghe,Georges G. E. Gielen	10.1109/DATE.2012.6176568
+Verification of partial designs using incremental QBF solving.	Paolo Marin,Christian Miller,Matthew Lewis 0004,Bernd Becker 0001	10.1109/DATE.2012.6176547
+Preemption delay analysis for floating non-preemptive region scheduling.	José Marinho,Vincent Nélis,Stefan M. Petters,Isabelle Puaut	10.1109/DATE.2012.6176520
+Challenges and emerging solutions in testing TSV-based 2 1 over 2D- and 3D-stacked ICs.	Erik Jan Marinissen	10.1109/DATE.2012.6176689
+EDA solutions to new-defect detection in advanced process technologies.	Erik Jan Marinissen,Gilbert Vandling,Sandeep Kumar Goel,Friedrich Hapke,Jason Rivers,Nikolaus Mittermaier,Swapnil Bahl	10.1109/DATE.2012.6176444
+Fast and lightweight support for nested parallelism on cluster-based embedded many-cores.	Andrea Marongiu,Paolo Burgio,Luca Benini	10.1109/DATE.2012.6176441
+Timing analysis of cyber-physical applications for hybrid communication protocols.	Alejandro Masrur,Dip Goswami,Samarjit Chakraborty,Jian-Jia Chen,Anuradha Annaswamy,Ansuman Banerjee	10.1109/DATE.2012.6176681
+The mobile society - chances and challenges for micro- and power electronics.	Klaus Meder	10.1109/DATE.2012.6176421
+Fast isomorphism testing for a graph-based analog circuit synthesis framework.	Markus Meissner,Oliver Mitea,Linda Luy,Lars Hedrich	10.1109/DATE.2012.6176570
+Analysis and runtime management of 3D systems with stacked DRAM for boosting energy efficiency.	Jie Meng,Ayse K. Coskun	10.1109/DATE.2012.6176545
+Designing FlexRay-based automotive architectures: A holistic OEM approach.	Paul Milbredt,Michael Glaß,Martin Lukasiewycz,Andreas Steininger,Jürgen Teich	10.1109/DATE.2012.6176477
+MEDS: Mockup Electronic Data Sheets for automated testing of cyber-physical systems using digital mockups.	Bailey Miller,Frank Vahid,Tony Givargis	10.1109/DATE.2012.6176585
+IR-drop analysis of graphene-based power distribution networks.	Sandeep Miryala,Andrea Calimera,Enrico Macii,Massimo Poncino	10.1109/DATE.2012.6176437
+Formal methods for ranking counterexamples through assumption mining.	Srobona Mitra,Ansuman Banerjee,Pallab Dasgupta	10.1109/DATE.2012.6176627
+Hierarchical propagation of geometric constraints for full-custom physical design of ICs.	Maximilian Mittag,Andreas Krinke,Göran Jerke,Wolfgang Rosenstiel	10.1109/DATE.2012.6176599
+SCFIT: A FPGA-based fault injection technique for SEU fault model.	Abbas Mohammadi 0001,Mojtaba Ebrahimi,Alireza Ejlali,Seyed Ghassem Miremadi	10.1109/DATE.2012.6176538
+UWB: Innovative architectures enable disruptive low power wireless applications.	Dominique Morche,Michaël Pelissier,Gilles Masson,Pierre Vincent	10.1109/DATE.2012.6176576
+Predictive control of networked control systems over differentiated services lossy networks.	Riccardo Muradore,Davide Quaglia,Paolo Fiorini	10.1109/DATE.2012.6176683
+Verifying jitter in an analog and mixed signal design using dynamic time warping.	Rajeev Narayanan,Alaeddine Daghar,Mohamed H. Zaki,Sofiène Tahar	10.1109/DATE.2012.6176584
+RSM: A small and fast countermeasure for AES, secure against 1st and 2nd-order zero-offset SCAs.	Maxime Nassar,Youssef Souissi,Sylvain Guilley,Jean-Luc Danger	10.1109/DATE.2012.6176671
+An analytical technique for characterization of transceiver IQ imbalances in the loop-back mode.	Afsaneh Nassery,Sule Ozev	10.1109/DATE.2012.6176656
+Task implementation of synchronous finite state machines.	Marco Di Natale,Haibo Zeng 0001	10.1109/DATE.2012.6176464
+Yield optimization for radio frequency receiver at system level.	Sergey A. Nazin,Dominique Morche,Alexandre Reinhardt	10.1109/DATE.2012.6176614
+Analysis and design of sub-harmonically injection locked oscillators.	Arkosnato Neogy,Jaijeet S. Roychowdhury	10.1109/DATE.2012.6176677
+Design for test and reliability in ultimate CMOS.	Michael Nicolaidis,Lorena Anghel,Nacer-Eddine Zergainoh,Yervant Zorian,Tanay Karnik,Keith A. Bowman,James W. Tschanz,Shih-Lien Lu,Carlos Tokunaga,Arijit Raychowdhury,Muhammad M. Khellah,Jaydeep Kulkarni,Vivek De,Dimiter Avresky	10.1109/DATE.2012.6176556
+Measuring and improving the robustness of automotive smart power microelectronics.	Thomas Nirmaier,Volker Meyer zu Bexten,Markus Tristl,Manuel Harrant,Matthias Kunze 0002,Monica Rafaila,Julia Lau,Georg Pelz	10.1109/DATE.2012.6176619
+Performance-reliability tradeoff analysis for multithreaded applications.	Isil Öz,Haluk Rahmi Topcuoglu,Mahmut T. Kandemir,Oguz Tosun	10.1109/DATE.2012.6176624
+A framework for simulating hybrid MTJ/CMOS circuits: Atoms to system approach.	Georgios Panagopoulos,Charles Augustine,Kaushik Roy 0001	10.1109/DATE.2012.6176592
+An FPGA-based accelerator for cortical object classification.	Mi Sun Park,Srinidhi Kestur,Jagdish Sabarad,Vijaykrishnan Narayanan,Mary Jane Irwin	10.1109/DATE.2012.6176559
+Weighted area technique for electromechanically enabled logic computation with cantilever-based NEMS switches.	Shruti Patil,Min-Woo Jang,Chia-Ling Chen,Dongjin Lee,Zhijang Ye,Walter E. Partlo,David J. Lilja,Stephen A. Campbell,Tianhong Cui	10.1109/DATE.2012.6176565
+Middleware services for network interoperability in smart energy efficient buildings.	Edoardo Patti,Andrea Acquaviva,Francesco Abate,Anna Osello,A. Cocuccio,Marco Jahn,Marc Jentsch,Enrico Macii	10.1109/DATE.2012.6176491
+CrashTest&apos;ing SWAT: Accurate, gate-level evaluation of symptom-based resiliency solutions.	Andrea Pellegrini,Robert Smolinski,Lei Chen,Xin Fu,Siva Kumar Sastry Hari,Junhao Jiang,Sarita V. Adve,Todd M. Austin,Valeria Bertacco	10.1109/DATE.2012.6176660
+Timing Modeling with AUTOSAR - Current state and future directions.	Marie-Agnès Peraldi-Frati,Hans Blom,Daniel Karlsson,Stefan Kuntz	10.1109/DATE.2012.6176604
+An integrated test generation tool for enhanced coverage of Simulink/Stateflow models.	Prakash Mohan Peranandam,Sachin Raviram,Manoranjan Satpathy,Anand Yeolekar,Ambar A. Gadkari,S. Ramesh 0002	10.1109/DATE.2012.6176485
+Amplitude demodulation-based EM analysis of different RSA implementations.	Guilherme Perin,Lionel Torres,Pascal Benoit,Philippe Maurine	10.1109/DATE.2012.6176670
+Design space pruning through hybrid analysis in system-level design space exploration.	Roberta Piscitelli,Andy D. Pimentel	10.1109/DATE.2012.6176600
+Exploiting binary translation for fast ASIP design space exploration on FPGAs.	Sebastiano Pomata,Paolo Meloni,Giuseppe Tuveri,Luigi Raffo,Menno Lindwer	10.1109/DATE.2012.6176533
+Fixed origin corner square inspection layout regularity metric.	Marc Pons 0001,Marc-Nicolas Morgan,Christian Piguet	10.1109/DATE.2012.6176581
+An accurate Single Event Effect digital design flow for reliable system level design.	Julian J. H. Pontes,Ney Calazans,Pascal Vivet	10.1109/DATE.2012.6176466
+Leveraging reconfigurability to raise productivity in FPGA functional debug.	Zissis Poulos,Yu-Shen Yang,Jason Helge Anderson,Andreas G. Veneris,Bao Le	10.1109/DATE.2012.6176481
+Sliding-Mode Control to Compensate PVT Variations in dual core systems.	Hamid Reza Pourshaghaghi,Hamed Fatemi,José Pineda de Gyvez	10.1109/DATE.2012.6176650
+An instruction scratchpad memory allocation for the precision timed architecture.	Aayush Prakash,Hiren D. Patel	10.1109/DATE.2012.6176553
+Research and innovation on Advanced Computing - an EU perspective.	Thierry Van der Pyl	10.1109/DATE.2012.6176539
+A flit-level speedup scheme for network-on-chips using self-reconfigurable bi-directional channels.	Zhiliang Qian,Ying Fei Teh,Chi-Ying Tsui	10.1109/DATE.2012.6176692
+Automated generation of directed tests for transition coverage in cache coherence protocols.	Xiaoke Qin,Prabhat Mishra 0001	10.1109/DATE.2012.6176423
+Challenges and new trends in probabilistic timing analysis.	Sophie Quinton,Rolf Ernst,Dominique Bertrand,Patrick Meumeu Yomsi	10.1109/DATE.2012.6176605
+Formal analysis of sporadic overload in real-time systems.	Sophie Quinton,Matthias Hanke,Rolf Ernst	10.1109/DATE.2012.6176523
+Analysis of instruction-level vulnerability to dynamic voltage and temperature variations.	Abbas Rahimi,Luca Benini,Rajesh K. Gupta 0001	10.1109/DATE.2012.6176659
+Post-synthesis leakage power minimization.	Mohammad Rahman,Carl Sechen	10.1109/DATE.2012.6176440
+Verifying timing synchronization constraints in distributed embedded architectures.	A. C. Rajeev,Swarup Mohalik,S. Ramesh 0002	10.1109/DATE.2012.6176463
+Logic encryption: A fault analysis perspective.	Jeyavijayan Rajendran,Youngok K. Pino,Ozgur Sinanoglu,Ramesh Karri	10.1109/DATE.2012.6176634
+On ESL verification of memory consistency for system-on-chip multiprocessing.	Eberle A. Rambo,Olav P. Henschel,Luiz C. V. dos Santos	10.1109/DATE.2012.6176424
+Scalable progress verification in credit-based flow-control systems.	Sayak Ray,Robert K. Brayton	10.1109/DATE.2012.6176626
+Mapping into LUT structures.	Sayak Ray,Alan Mishchenko,Niklas Eén,Robert K. Brayton,Stephen Jang,Chao Chen	10.1109/DATE.2012.6176724
+Test pin count reduction for NoC-based Test delivery in multicore SOCs.	Michael Richter 0002,Krishnendu Chakrabarty	10.1109/DATE.2012.6176601
+Optimization intensive energy harvesting.	Mahsan Rofouei,Mohammad Ali Ghodrat,Miodrag Potkonjak,Alfonso Martinez-Nova	10.1109/DATE.2012.6176476
+An out-of-order superscalar processor on FPGA: The ReOrder Buffer design.	Mathieu Rosiere,Jean Lou Desbarbieux,Nathalie Drach,Franck Wajsbürt	10.1109/DATE.2012.6176719
+Using timing analysis for the design of future switched based Ethernet automotive networks.	Jonas Rox,Rolf Ernst,Paolo Giusto	10.1109/DATE.2012.6176433
+Automated critical device identification for configurable analogue transistors.	Robert Rudolf,Pouya Taatizadeh,Reuben Wilcock,Peter R. Wilson	10.1109/DATE.2012.6176616
+A new SBST algorithm for testing the register file of VLIW processors.	Davide Sabena,Matteo Sonza Reorda,Luca Sterpone	10.1109/DATE.2012.6176506
+A hybrid HW-SW approach for intermittent error mitigation in streaming-based embedded systems.	Mohamed M. Sabry,David Atienza,Francky Catthoor	10.1109/DATE.2012.6176661
+Thermal balancing of liquid-cooled 3D-MPSoCs using channel modulation.	Mohamed M. Sabry,Arvind Sridhar,David Atienza	10.1109/DATE.2012.6176543
+Toward virtualizing branch direction prediction.	Maryam Sadooghi-Alvandi,Kaveh Aasaraai,Andreas Moshovos	10.1109/DATE.2012.6176514
+A high-performance dense block matching solution for automotive 6D-vision.	Henning Sahlbach,Sean Whitty,Rolf Ernst	10.1109/DATE.2012.6176475
+Row-shift decompositions for index generation functions.	Tsutomu Sasao	10.1109/DATE.2012.6176725
+Investigating the effects of Inverted Temperature Dependence (ITD) on clock distribution networks.	Alessandro Sassone,Andrea Calimera,Alberto Macii,Enrico Macii,Massimo Poncino,Richard Goldman,Vazgen Melikyan,Eduard Babayan,Salvatore Rinaudo	10.1109/DATE.2012.6176453
+On demand dependent deactivation of automotive ECUs.	Christoph Schmutzler,Martin Simons 0001,Jürgen Becker 0001	10.1109/DATE.2012.6176435
+Large signal simulation of integrated inductors on semi-conducting substrates.	Wim Schoenmaker,Michael Matthes,Bart De Smedt,Sascha Baumanns,Caren Tischendorf,Rick Janssen	10.1109/DATE.2012.6176679
+Comparative analysis of SRAM memories used as PUF primitives.	Geert Jan Schrijen,Vincent van der Leest	10.1109/DATE.2012.6176696
+Towards new applications of multi-function logic: Image multi-filtering.	Lukás Sekanina,Vojtech Salajka	10.1109/DATE.2012.6176608
+A SAT-based fitness function for evolutionary optimization of polymorphic circuits.	Lukás Sekanina,Zdenek Vasícek	10.1109/DATE.2012.6176563
+Power-efficient error-resiliency for H.264/AVC Context-Adaptive Variable Length Coding.	Muhammad Shafique 0001,Bruno Zatt,Semeen Rehman,Florian Kriebel,Jörg Henkel	10.1109/DATE.2012.6176560
+Bounding WCET of applications using SDRAM with Priority Based Budget Scheduling in MPSoCs.	Hardik Shah,Andreas Raabe,Alois C. Knoll	10.1109/DATE.2012.6176554
+Cross entropy minimization for efficient estimation of SRAM failure rate.	Mohammed Abdul Shahid	10.1109/DATE.2012.6176467
+TempoMP: Integrated prediction and management of temperature in heterogeneous MPSoCs.	Shervin Sharifi,Raid Zuhair Ayoub,Tajana Simunic Rosing	10.1109/DATE.2012.6176542
+Ultra low power litho friendly local assist circuitry for variability resilient 8T SRAM.	Vibhu Sharma,Stefan Cosemans,Maryam Ashouei,Jos Huisken,Francky Catthoor,Wim Dehaene	10.1109/DATE.2012.6176649
+Scheduling for register file energy minimization in explicit datapath architectures.	Dongrui She,Yifan He,Bart Mesman,Henk Corporaal	10.1109/DATE.2012.6176502
+Enabling advanced inference on sensor nodes through direct use of compressively-sensed signals.	Mohammed Shoaib,Niraj K. Jha,Naveen Verma	10.1109/DATE.2012.6176511
+A closed-loop system for artifact mitigation in ambulatory electrocardiogram monitoring.	Mohammed Shoaib,Gene Marsh,Harinath Garudadri,Somdeb Majumdar	10.1109/DATE.2012.6176510
+Hazard driven test generation for SMT processors.	Padmaraj Singh,Vijaykrishnan Narayanan,David L. Landis	10.1109/DATE.2012.6176472
+Correct-by-construction multi-component SoC design.	Roopak Sinha,Partha S. Roop,Zoran Salcic,Samik Basu 0001	10.1109/DATE.2012.6176551
+Workload-aware voltage regulator optimization for power efficient multi-core processors.	Abhishek A. Sinkar,Hao Wang 0011,Nam Sung Kim	10.1109/DATE.2012.6176667
+Eliminating invariants in UML/OCL models.	Mathias Soeken,Robert Wille,Rolf Drechsler	10.1109/DATE.2012.6176669
+Hybrid source-level simulation of data caches using abstract cache models.	Stefan Stattelmann,Gernot Gebhard,Christoph Cullmann,Oliver Bringmann 0001,Wolfgang Rosenstiel	10.1109/DATE.2012.6176500
+A TDM NoC supporting QoS, multicast, and fast connection set-up.	Radu Andrei Stefan,Anca Mariana Molnos,Jude Angelo Ambrose,Kees Goossens	10.1109/DATE.2012.6176690
+Guidelines for model based systems engineering.	Dierk Steinbach	10.1109/DATE.2012.6176450
+TagTM - accelerating STMs with hardware tags for fast meta-data access.	Srdjan Stipic,Sasa Tomic,Ferad Zyulkyarov,Adrián Cristal,Osman S. Ünsal,Mateo Valero	10.1109/DATE.2012.6176429
+Selective flexibility: Breaking the rigidity of datapath merging.	Mirjana Stojilovic,David Novo,Lazar Saranovac,Philip Brisk,Paolo Ienne	10.1109/DATE.2012.6176718
+A cycle-approximate, mixed-ISA simulator for the KAHRISMA architecture.	Timo Stripf,Ralf König 0001,Jürgen Becker 0001	10.1109/DATE.2012.6176426
+Automatic generation of functional models for embedded processor extensions.	Fei Sun	10.1109/DATE.2012.6176484
+Modeling and design exploration of FBDRAM as on-chip memory.	Guangyu Sun 0003,Cong Xu,Yuan Xie 0001	10.1109/DATE.2012.6176712
+A scalable GPU-based approach to accelerate the multiple-choice knapsack problem.	Bharath Suri,Unmesh D. Bordoloi,Petru Eles	10.1109/DATE.2012.6176665
+Application-specific power-efficient approach for reducing register file vulnerability.	Hamed Tabkhi,Gunar Schirner	10.1109/DATE.2012.6176535
+Energy-efficient branch prediction with Compiler-guided History Stack.	Mingxing Tan,Xianhua Liu 0001,Zichao Xie,Dong Tong 0001,Xu Cheng 0001	10.1109/DATE.2012.6176513
+Multi-patch generation for multi-error logic rectification by interpolation with cofactor reduction.	Kai-Fu Tang,Po-Kai Huang,Chun-Nan Chou,Chung-Yang Huang	10.1109/DATE.2012.6176722
+Transistor-level gate model based statistical timing analysis considering correlations.	Qin Tang,Amir Zjajo,Michel Berkelaar,Nick van der Meijs	10.1109/DATE.2012.6176628
+Memristor technology in future electronic system design.	Ronald Tetzlaff,Andreas Bruening	10.1109/DATE.2012.6176541
+Fast cycle estimation methodology for instruction-level emulator.	David Thach,Yutaka Tamiya,Shinya Kuwamura,Atsushi Ike	10.1109/DATE.2012.6176470
+Model checking of Scenario-Aware Dataflow with CADP.	Bart D. Theelen,Joost-Pieter Katoen,Hao Wu 0013	10.1109/DATE.2012.6176552
+Optimizing performance analysis for synchronous dataflow graphs with shared resources.	Daniel Thiele,Rolf Ernst	10.1109/DATE.2012.6176549
+Automated construction of a cycle-approximate transaction level model of a memory controller.	Vladimir Todorov,Daniel Mueller-Gritschneder,Helmut Reinig,Ulf Schlichtmann	10.1109/DATE.2012.6176653
+Beyond CMOS - benchmarking for future technologies.	Clivia M. Sotomayor Torres,Jouni Ahopelto,Mart W. M. Graef,R. M. Popp,Wolfgang Rosenstiel	10.1109/DATE.2012.6176445
+Design and analysis of via-configurable routing fabrics for structured ASICs.	Hsin-Pei Tsai,Rung-Bin Lin,Liang-Chi Lai	10.1109/DATE.2012.6176707
+Towards accurate hardware stereo correspondence: A real-time FPGA implementation of a segmentation-based adaptive support weight algorithm.	Christos Ttofis,Theocharis Theocharides	10.1109/DATE.2012.6176561
+Low-power embedded system for real-time correction of fish-eye automotive cameras.	Mauro Turturici,Sergio Saponara,Luca Fanucci,Emilio Franchi	10.1109/DATE.2012.6176492
+Efficiency evaluation of parametric failure mitigation techniques for reliable SRAM operation.	Elena I. Vatajelu,Joan Figueras	10.1109/DATE.2012.6176700
+Low-cost implementations of on-the-fly tests for random number generators.	Filip Veljkovic,Vladimir Rozic,Ingrid Verbauwhede	10.1109/DATE.2012.6176635
+Input vector monitoring on line concurrent BIST based on multilevel decoding logic.	Ioannis Voyiatzis	10.1109/DATE.2012.6176684
+PowerAdviser: An RTL power platform for interactive sequential optimizations.	Nainala Vyagrheswarudu,Subrangshu Das,Abhishek Ranjan	10.1109/DATE.2012.6176529
+Design of a low-energy data processing architecture for WSN nodes.	Cedric Walravens,Wim Dehaene	10.1109/DATE.2012.6176534
+Monitoring active filters under automotive aging scenarios with embedded instrument.	Jinbo Wan,Hans G. Kerkhoff	10.1109/DATE.2012.6176658
+3D-FlashMap: A physical-location-aware block mapping strategy for 3D NAND flash memory.	Yi Wang 0003,Luis Angel D. Bathen,Zili Shao,Nikil D. Dutt	10.1109/DATE.2012.6176694
+Accurate source-level simulation of embedded software with respect to compiler optimizations.	Zhonglei Wang,Jörg Henkel	10.1109/DATE.2012.6176501
+Low power aging-aware register file design by duty cycle balancing.	Shuai Wang 0006,Tao Jin,Chuanlei Zheng,Guangshan Duan	10.1109/DATE.2012.6176528
+Response-surface-based design space exploration and optimisation of wireless sensor nodes with tunable energy harvesters.	Leran Wang,Tom J. Kazmierski,Bashir M. Al-Hashimi,Mansour Aloufi,Joseph Wenninger	10.1109/DATE.2012.6176566
+A compression-based area-efficient recovery architecture for nonvolatile processors.	Yiqun Wang,Yongpan Liu,Yumeng Liu,Daming Zhang,Shuangchen Li,Baiko Sai,Mei-Fang Chiang,Huazhong Yang	10.1109/DATE.2012.6176714
+An operational matrix-based algorithm for simulating linear and fractional differential circuits.	Yuanzhe Wang,Haotian Liu,Grantham K. H. Pang,Ngai Wong	10.1109/DATE.2012.6176597
+Run-time power-gating in caches of GPUs for leakage energy savings.	Yue Wang,Soumyaroop Roy,Nagarajan Ranganathan	10.1109/DATE.2012.6176483
+Runtime power estimator calibration for high-performance microprocessors.	Hai Wang 0002,Sheldon X.-D. Tan,Xuexin Liu,Ashish Gupta 0007	10.1109/DATE.2012.6176496
+Extending the lifetime of NAND flash memory by salvaging bad blocks.	Chundong Wang 0001,Weng-Fai Wong	10.1109/DATE.2012.6176473
+Multiple-source and multiple-destination charge migration in hybrid electrical energy storage systems.	Yanzhi Wang,Qing Xie 0001,Massoud Pedram,Younghyun Kim 0001,Naehyuck Chang,Massimo Poncino	10.1109/DATE.2012.6176455
+An energy efficient DRAM subsystem for 3D integrated SoCs.	Christian Weis,Igor Loi,Luca Benini,Norbert Wehn	10.1109/DATE.2012.6176668
+Virtualized on-chip distributed computing for heterogeneous reconfigurable multi-core systems.	Stephan Werner 0002,Oliver Oey,Diana Göhringer,Michael Hübner 0001,Jürgen Becker 0001	10.1109/DATE.2012.6176478
+Automatic design of low-power encoders using reversible circuit synthesis.	Robert Wille,Rolf Drechsler,Christof Osewold,Alberto García Ortiz	10.1109/DATE.2012.6176648
+Debugging of inconsistent UML/OCL models.	Robert Wille,Mathias Soeken,Rolf Drechsler	10.1109/DATE.2012.6176655
+Mitigating lifetime underestimation: A system-level approach considering temperature variations and correlations between failure mechanisms.	Kai-Chiang Wu,Ming-Chao Lee,Diana Marculescu,Shih-Chieh Chang	10.1109/DATE.2012.6176687
+Impact of TSV area on the dynamic range and frame rate performance of 3D-integrated image sensors.	Adi Xhakoni,David San Segundo Bello,Georges G. E. Gielen	10.1109/DATE.2012.6176611
+State of health aware charge management in hybrid electrical energy storage systems.	Qing Xie 0001,Xue Lin,Yanzhi Wang,Massoud Pedram,Donghwa Shin,Naehyuck Chang	10.1109/DATE.2012.6176652
+Variation-aware leakage power model extraction for system-level hierarchical power analysis.	Yang Xu 0019,Bing Li 0005,Ralph Hasholzner,Bernhard Rohfleisch,Christian Haubelt,Jürgen Teich	10.1109/DATE.2012.6176495
+Efficient variation-aware EM-semiconductor coupled solver for the TSV structures in 3D IC.	Yuanzhe Xu,Wenjian Yu,Quan Chen,Lijun Jiang,Ngai Wong	10.1109/DATE.2012.6176583
+A multi-parameter bio-electric ASIC sensor with integrated 2-wire data transmission protocol for wearable healthcare system.	Geng Yang,Jian Chen 0001,Fredrik Jonsson,Hannu Tenhunen,Li-Rong Zheng 0001	10.1109/DATE.2012.6176512
+Playing games with scenario- and resource-aware SDF graphs through policy iteration.	Yang Yang,Marc Geilen,Twan Basten,Sander Stuijk,Henk Corporaal	10.1109/DATE.2012.6176462
+Almost every wire is removable: A modeling and solution for removing any circuit wire.	Xiaoqing Yang,Tak-Kei Lam,Wai-Chung Tang,Yu-Liang Wu	10.1109/DATE.2012.6176723
+Clock skew scheduling for timing speculation.	Rong Ye,Feng Yuan,Hai Zhou,Qiang Xu 0001	10.1109/DATE.2012.6176630
+Challenges in verifying an integrated 3D design.	Tsunwai Gary Yip,Chuan Yung Hung,Venu Iyengar	10.1109/DATE.2012.6176454
+Experimentally driven verification of synthetic biological circuits.	Boyan Yordanov,Evan Appleton,Rishi Ganguly,Ebru Aydin Gol,Swati Banerjee Carr,Swapnil Bhatia,Traci Haddock,Calin Belta,Douglas Densmore	10.1109/DATE.2012.6176468
+A complexity adaptive channel estimator for low power.	Zhibin Yu,C. H. van Berkel,Hong Li	10.1109/DATE.2012.6176716
+Bloom filter-based dynamic wear leveling for phase-change RAM.	Joosung Yun,Sunggu Lee,Sungjoo Yoo	10.1109/DATE.2012.6176713
+A cross-layer approach for new reliability-performance trade-offs in MLC NAND flash memories.	Cristian Zambelli,Marco Indaco,Michele Fabiano,Stefano Di Carlo,Paolo Prinetto,Piero Olivo,Davide Bertozzi	10.1109/DATE.2012.6176622
+Modeling and testing of interference faults in the nano NAND Flash memory.	Jin Zha,Xiaole Cui,Chung Len Lee 0001	10.1109/DATE.2012.6176525
+Voltage propagation method for 3-D power grid analysis.	Cheng Zhang,Vasilis F. Pavlidis,Giovanni De Micheli	10.1109/DATE.2012.6176613
+Fair energy resource allocation by minority game algorithm for smart buildings.	Chun Zhang,Wei Wu,Hantao Huang,Hao Yu 0001	10.1109/DATE.2012.6176434
+Asymmetry of MTJ switching and its implication to STT-RAM designs.	Yaojun Zhang,Xiaobin Wang,Yong Li 0009,Alex K. Jones,Yiran Chen 0001	10.1109/DATE.2012.6176695
+Architecting a common-source-line array for bipolar non-volatile memory devices.	Bo Zhao 0007,Jun Yang 0002,Youtao Zhang,Yiran Chen 0001,Hai Li 0001	10.1109/DATE.2012.6176594
+Power-efficient calibration and reconfiguration for on-chip optical communication.	Yan Zheng,Peter Lisherness,Ming Gao,Jock Bovington,Shiyuan Yang,Kwang-Ting Cheng	10.1109/DATE.2012.6176711
+Analysis of multi-domain scenarios for optimized dynamic power management strategies.	Jochen Zimmermann,Oliver Bringmann 0001,Wolfgang Rosenstiel	10.1109/DATE.2012.6176617
+Side channel analysis of the SHA-3 finalists.	Michael Zohner,Michael Kasper,Marc Stöttinger,Sorin A. Huss	10.1109/DATE.2012.6176644
+Predicting best design trade-offs: A case study in processor customization.	Marcela Zuluaga,Edwin V. Bonilla,Nigel P. Topham	10.1109/DATE.2012.6176647
+2012 Design, Automation &amp; Test in Europe Conference &amp; Exhibition, DATE 2012, Dresden, Germany, March 12-16, 2012	Wolfgang Rosenstiel,Lothar Thiele	

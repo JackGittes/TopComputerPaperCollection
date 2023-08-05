@@ -1,0 +1,19 @@
+Characterization &amp; analysis of a server consolidation benchmark.	Padma Apparao,Ravi R. Iyer 0001,Xiaomin Zhang,Donald Newell,Tom Adelmeyer	10.1145/1346256.1346260
+Process-shared and persistent code caches.	Derek Bruening,Vladimir Kiriansky	10.1145/1346256.1346265
+A method specialisation and virtualised execution environment for Java.	Andrew M. Cheadle,A. J. Field,Johan Nyström-Persson	10.1145/1346256.1346264
+Cell GC: using the cell synergistic processor as a garbage collection coprocessor.	Chen-Yong Cher,Michael Gschwind	10.1145/1346256.1346276
+Execution replay of multiprocessor virtual machines.	George W. Dunlap,Dominic G. Lucchetti,Michael A. Fetterman,Peter M. Chen	10.1145/1346256.1346273
+Policy enforcement and compliance proofs for Xen virtual machines.	Bernhard Jansen,HariGovind V. Ramasamy,Matthias Schunter	10.1145/1346256.1346271
+A principled approach to nondeferred reference-counting garbage collection.	Pramod G. Joisha	10.1145/1346256.1346275
+VMM-based hidden process detection and identification using Lycosid.	Stephen T. Jones,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau	10.1145/1346256.1346269
+Inter-domain socket communications supporting high performance and full binary compatibility on Xen.	Kangho Kim,Chei-Yol Kim,Sung-In Jung,Hyun-Sup Shin,Jin-Soo Kim	10.1145/1346256.1346259
+Netchannel: a VMM-level mechanism for continuous, transparentdevice access during VM migration.	Sanjay Kumar,Karsten Schwan	10.1145/1346256.1346261
+Trace fragment selection within method-based JVMs.	Duane Merrill,Kim M. Hazelwood	10.1145/1346256.1346263
+Improving Xen security through disaggregation.	Derek Gordon Murray,Grzegorz Milos,Steven Hand 0001	10.1145/1346256.1346278
+Running a Java VM inside an operating system kernel.	Takashi Okumura,Bruce R. Childers,Daniel Mossé	10.1145/1346256.1346279
+Scheduling I/O in virtual machine monitors.	Diego Ongaro,Alan L. Cox,Scott Rixner	10.1145/1346256.1346258
+Opening black boxes: using semantic information to combat virtual machine image sprawl.	Darrell Reimer,Arun Thomas,Glenn Ammons,Todd W. Mummert,Bowen Alpern,Vasanth Bala	10.1145/1346256.1346272
+Virtual machine-provided context sensitive page mappings.	Nathan E. Rosenblum,Gregory Cooksey,Barton P. Miller	10.1145/1346256.1346268
+Using hypervisor to provide data secrecy for user applications on a per-page basis.	Jisoo Yang,Kang G. Shin	10.1145/1346256.1346267
+Applications of a feather-weight virtual machine.	Yang Yu,Hariharan Kolam,Lap-Chung Lam,Tzi-cker Chiueh	10.1145/1346256.1346280
+Proceedings of the 4th International Conference on Virtual Execution Environments, VEE 2008, Seattle, WA, USA, March 5-7, 2008	David Gregg,Vikram S. Adve,Brian N. Bershad	10.1145/1346256

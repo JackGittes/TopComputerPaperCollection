@@ -1,0 +1,71 @@
+Intra-die process parameter variation and leakage analysis of cache at the microarchitectural level.	Manjari Agarwal,Praveen Elakkumanan,Ramalingam Sridhar	10.1109/SOCC.2007.4545431
+Online thermal-aware scheduling for multiple clock domain CMPs.	Amirali Shayan Arani	10.1109/SOCC.2007.4545444
+High defect tolerant low cost memory chips.	Costas Argyrides,Ahmad A. Al-Yamani,Dhiraj K. Pradhan	10.1109/SOCC.2007.4545440
+Improved decoding algorithm for high reliable reed muller coding.	Costas Argyrides,Dhiraj K. Pradhan	10.1109/SOCC.2007.4545435
+Multilevel MPSOC simulation using an MDE approach.	Rabie Ben Atitallah,Éric Piel,Smaïl Niar,Philippe Marquet,Jean-Luc Dekeyser	10.1109/SOCC.2007.4545457
+Reduced computation and memory access for VBSME using pixel truncation.	Asral Bahari,Tughrul Arslan,Ahmet T. Erdogan	10.1109/SOCC.2007.4545426
+A programmable FFT/IFFT/Windowing processor for multi standard DSL applications.	Vijayavardhan Baireddy,Himamshu Khasnis,Rajesh Mundhada	10.1109/SOCC.2007.4545470
+X-Route: An X-architecture full-chip multilevel router.	Chen-Feng Chang,Yao-Wen Chang	10.1109/SOCC.2007.4545464
+A flexible two-layer external memory management for H.264/AVC decoder.	Chang-Hsuan Chang,Ming-Hung Chang,Wei Hwang	10.1109/SOCC.2007.4545462
+A 65nm low power 2T1D embedded DRAM with leakage current reduction.	Mu-Tien Chang,Po-Tsang Huang,Wei Hwang	10.1109/SOCC.2007.4545459
+Design of a downlink baseband receiver for IEEE 802.16E OFDMA mode in high mobility.	Kang-Chuan Chang,Jun-Wei Lin,Tzi-Dar Chiueh	10.1109/SOCC.2007.4545479
+Low-voltage zero quiescent current PFM boost converter for portable devices.	Hou-Ming Chen,Robert C. Chang,Chih-Liang Huang	10.1109/SOCC.2007.4545453
+Hardware architecture for lossless image compression based on context-based modeling and arithmetic coding.	Xiaolin Chen,Nishan Canagarajah,José Luis Núñez-Yáñez,Raffaele Vitulli	10.1109/SOCC.2007.4545469
+Analysis and design of an efficient complementary energy path adiabatic logic for low-power system applications.	Cihun-Siyong Alex Gong,Muh-Tian Shiue,Ci-Tong Hong,Chun-Hsien Su,Kai-Wen Yao	10.1109/SOCC.2007.4545468
+Predictable system interconnects through accurate early wire characterization.	I. Hatyrnaz,Stéphane Badel,Nuria Pazos,Yusuf Leblebici	10.1109/SOCC.2007.4545476
+ESD protection design for Giga-Hz high-speed I/O interfaces in a 130-nm CMOS process.	Yuan-Wen Hsiao,Ming-Dou Ker,Po-Yen Chiu,Chun Huang,Yuh-Kuang Tseng	10.1109/SOCC.2007.4545474
+Design of ultra low power CML MUXs and latches with forward body bias.	Hsiang-Ju Hsu,Ching-Te Chiu,Yarsun Hsu	10.1109/SOCC.2007.4545445
+A 1V CMOS low-noise amplifier with inductive resonated for 3.1-10.6GHz UWB wireless receiver.	Zhe-Yang Huang,Che-Cheng Huang,Chun-Chieh Chen,Chung-Chih Hung	10.1109/SOCC.2007.4545416
+A 1V-2.39mW capacitor-coupling resonated low noise amplifier for 3-5GHz ultra-wideband system.	Zhe-Yang Huang,Che-Cheng Huang,Chun-Chieh Chen,Chung-Chih Hung	10.1109/SOCC.2007.4545436
+Hierarchical power delivery network analysis using Markov chains.	Pei-Yu Huang,Chih-Kang Lin,Yu-Min Lee	10.1109/SOCC.2007.4545475
+QuteIP: An IP qualification framework for System on Chip.	Hsing-Chih Hung,Ting-Hao Lin,Chung-Yang Huang	10.1109/SOCC.2007.4545466
+An efficient power reduction technique for flash ADC.	Yuh-Shyan Hwang,Jeen-Fong Lin,Cheng-Chung Huang,Jiann-Jong Chen,Wen-Ta Lee	10.1109/SOCC.2007.4545422
+A ZigBee compliant baseband and MAC processor.	Sinae Ji,Woon Hong Kim,Chulho Chung,Jaeseok Kim	10.1109/SOCC.2007.4545433
+Implementation of floating-point operations for 3D graphics on a coarse-grained reconfigurable architecture.	Manhwee Jo,V. K. Prasad Arava,Hoonmo Yang,Kiyoung Choi	10.1109/SOCC.2007.4545442
+A triple-mode feed-forward sigma-delta modulator design for GSM / WCDMA / WLAN applications.	Babita R. Jose,Jimson Mathew,P. Mythili,Dhiraj K. Pradhan	10.1109/SOCC.2007.4545481
+Assertion based design error diagnosis for core-based SoCs.	Mohammad Reza Kakoee,Mohammad Hossein Neishaburi,Masoud Daneshtalab,Saeed Safari	10.1109/SOCC.2007.4545472
+Performance analysis of IEEE defined LDPC codes under various decoding algorithms and their implementation on a reconfigurable instruction cell architecture.	Zahid Khan,Tughrul Arslan,Ahmet T. Erdogan,Sami Khawam,Ioannis Nousias,Mark Milward,Ying Yi	10.1109/SOCC.2007.4545443
+An incremental floorplanning algorithm for temperature reduction.	Won-Jin Kim,Ki-Seok Chung	10.1109/SOCC.2007.4545428
+A 1.5V mixed signal biomedical SOC for implantable cardioverter defibrillators.	Kilhwan Kim,Unsun Cho,Seunghyun Lim,Youngcheol Chae,Yunho Jung,Gunhee Han,Jaeseok Kim	10.1109/SOCC.2007.4545414
+Surveillance camera SOC architecture using one-bit motion detection for portable applications.	Jeong Hun Kim,Jeongwoo Park,Kwangjae Lee,Kyoungbum Kim,Kwang-Hyun Baek,Suki Kim	10.1109/SOCC.2007.4545429
+Stochastic glitch elimination considering path correlation.	Youse Kim,Naeun Zang,Juho Kim	10.1109/SOCC.2007.4545451
+A 10-BIT 100MS/s pipelined ADC IN 0.18μm CMOS technology.	Hwei-Yu Lee,Shen-Iuan Liu	10.1109/SOCC.2007.4545413
+A 250MHz 11BIT 20mW low-hold-pedestal CMOS fully differential track-and-hold circuit.	Tsung-Sum Lee,Chi-Chang Lu,Jian-Ting Zhan	10.1109/SOCC.2007.4545423
+A 7-BIT 400MS/s sub-ranging flash ADC in 0.18um CMOS.	Hwei-Yu Lee,I-Hsin Wang,Shen-Iuan Liu	10.1109/SOCC.2007.4545415
+Industrial experience with cycle error computation of cycle-accurate transaction level models.	Junghee Lee,Joonhwan Yi	10.1109/SOCC.2007.4545448
+Diagnosing scan chains using SAT-based diagnostic pattern generation.	Jin-Fu Li,Feijun (Frank) Zheng,Kwang-Ting Cheng	10.1109/SOCC.2007.4545473
+Reconfigurable architecture for video applications.	Chung-Jr Lian,Po-Chih Tseng,Tung-Chien Chen,Yu-Wei Chang,Liang-Gee Chen	10.1109/SOCC.2007.4545417
+A data-reuse scheme for avoiding unnecessary memory accesses in MPEG-4 ASP video decoder.	Wei-Cheng Lin,Chung-Ho Chen	10.1109/SOCC.2007.4545467
+A fast pull-in scheme of plls using a triple path nonlinear phase frequency detector.	Minglang Lin,Ahmet T. Erdogan,Tughrul Arslan,Adrian Stoica	10.1109/SOCC.2007.4545437
+Mixed-VTH (MVT) CMOS circuit design for low power cell libraries.	Jiun-Yi Lin,Li-Rong Wang,Chia-Lin Hu,Shyh-Jye Jou	10.1109/SOCC.2007.4545454
+Design of a SIMD multimedia SoC platform.	Guang-Huei Lin,Ya-Nan Wen,Xiao-Long Wu,Sao-Jie Chen,Yu Hen Hu	10.1109/SOCC.2007.4545424
+A prototype of a wireless-based test system.	Jing-Jia Liou,Chih-Tsun Huang,Cheng-Wen Wu,Ching-Cheng Tien,Chi-Hu Wang,Hsi-Pin Ma,Ying-Yen Chen,Yueh-Chih Hsu,Li-Ming Denq,Chien-Jung Chiu,Young-Wey Li,Chieh-Ming Chang	10.1109/SOCC.2007.4545463
+An independent-gate FinFET SRAM cell for high data stability and enhanced integration density.	Zhiyu Liu,Sherif A. Tawfik,Volkan Kursun	10.1109/SOCC.2007.4545427
+Reconfigurable video motion estimation processor.	Liang Lu,John V. McCanny,Sakir Sezer	10.1109/SOCC.2007.4545425
+A merged MuGFET and planar SOI process.	Andrew Marshall,C. Rinn Cleavelin,Weize Xiong,Christian Pacha,Gerhard Knoblinger,Klaus Von Armin,Thomas Schulz,Klaus Schruefer,Ken Matthews,Wolfgang Molzer,Paul Patruno,Christian Russ	10.1109/SOCC.2007.4545421
+A 2.4GHz 256/1024-bit Encryption Accelerator reconfigurable Montgomery multiplier in 90nm CMOS.	Sanu Mathew,David Money Harris,Mark A. Anders 0001,Steven Hsu,Ram Krishnamurthy 0001	10.1109/SOCC.2007.4545418
+Accelerating pattern matching for DPI.	Jun Mu,Sakir Sezer,Gareth Douglas,Dwayne Burns,Emi Garcia,Mike Hutton,Kevin Cackovic	10.1109/SOCC.2007.4545432
+Multiple clock domain synchronization for network on chip architectures.	Jabulani Nyathi,Souradip Sarkar,Partha Pratim Pande	10.1109/SOCC.2007.4545477
+Robust 3GHz CMOS low noise amplifier adapted for RFID receivers.	Varun V. Ramaswamy,Manjari Agarwal,Ramalingam Sridhar	10.1109/SOCC.2007.4545434
+Device allocation on the SegBus platform based on communication scheduling cost minimization.	Tiberiu Seceleanu,Ville Leppänen,Olli Nevalainen	10.1109/SOCC.2007.4545456
+A wakeup rush current and charge-up time analysis method for programmable power-gating designs.	Kaijian Shi,Jingsong Li	10.1109/SOCC.2007.4545450
+Power evaluation of the arbitration policy for different on-chip bus based SoC platform.	Prakash Srinivasan,Ali Ahmadinia,Ahmet T. Erdogan,Tughrul Arslan	10.1109/SOCC.2007.4545449
+Power estimation framework for single processor based SoC platform.	Prakash Srinivasan,Ali Ahmadinia,Ahmet T. Erdogan,Tughrul Arslan	10.1109/SOCC.2007.4545452
+A spur-reduction technique in a fully integrated CMOS frequency synthesizer for 5-GHz WLAN SOC.	Yuan Sun,Liter Siek	10.1109/SOCC.2007.4545439
+Low-power high-performance FinFET sequential circuits.	Sherif A. Tawfik,Volkan Kursun	10.1109/SOCC.2007.4545446
+Programmable CRC circuit architecture.	Ciaran Toal,Sakir Sezer,Xin Yang 0010,Kieran McLaughlin,Dwayne Burns,Tiberiu Seceleanu	10.1109/SOCC.2007.4545441
+Context-specific leakage and delay analysis of a 65nm standard cell library for lithography-induced variability.	Darsun Tsiena,Chien Kuo Wang,William W. J. Wang,Yajun Ran,Philippe Hurat,Nishath Verghese	10.1109/SOCC.2007.4545471
+Low-power 1.25-GHZ signal bandwidth 4-bit CMOS analog-to-digital converter for high spurious-free dynamic range wideband communications.	Mingzhen Wang,Chien-In Henry Chen	10.1109/SOCC.2007.4545438
+A 45nm dual-port SRAM with write and read capability enhancement at low voltage.	D. P. Wang,Hung-Jen Liao,Hiroyuki Yamauchi,Y. H. Chen,Y. L. Lin,S. H. Lin,D. C. Liu,Huan-Cheng Chang,W. Hwang	10.1109/SOCC.2007.4545460
+An 11, 424 gate-count zero-overhead dynamic optically reconfigurable gate array VLSI.	Minoru Watanabe	10.1109/SOCC.2007.4545430
+Early selection of system implementation choice among SoC, SoP and 3-D Integration.	Roshan Weerasekera,Li-Rong Zheng 0001,Dinesh Pamunuwa,Hannu Tenhunen	10.1109/SOCC.2007.4545455
+Symbolic verification and error prediction methodology.	Chun-Jen Wei,Guang-Huei Lin,Ya-Nan Wen,Sao-Jie Chen,Yu Hen Hu	10.1109/SOCC.2007.4545458
+H.264/AVC decoder SoC towards the low cost mobile video player.	Sumek Wisayataksin,Dongju Li,Tsuyoshi Isshiki,Hiroaki Kunieda	10.1109/SOCC.2007.4545447
+Area-driven decoupling capacitance allocation based on space sensitivity analysis for signal integrity.	Jin-Tai Yan,Zhi-Wei Chen,Ming-Yuen Wu	10.1109/SOCC.2007.4545478
+Design of cost-efficient memory-based FFT processors using single-port memories.	Yao-Xian Yang,Jin-Fu Li,Hsiang-Ning Liu,Chin-Long Wey	10.1109/SOCC.2007.4545419
+A versatile content addressable memory architecture.	Xin Yang 0010,Sakir Sezer,John V. McCanny,Dwayne Burns	10.1109/SOCC.2007.4545461
+Using power gating techniques in area-array SoC floorplan design.	Chi-Yi Yeh,Hung-Ming Chen,Li-Da Huang,Wei-Ting Wei,Chao-Hung Lu,Chien-Nan Jimmy Liu	10.1109/SOCC.2007.4545465
+An all-digital phase-frequency tunable clock generator for wireless OFDM communications systems.	Jui-Yuan Yu,Juinn-Ting Chen,Mei-Hui Yang,Ching-Che Chung,Chen-Yi Lee	10.1109/SOCC.2007.4545480
+A compact pipelined architecture with high-throughput for context-based binary arithmetic coding.	Chu Yu,Hwai-Tsu Hu	10.1109/SOCC.2007.4545420
+Baseband design for passive semi-UWB wireless sensor and identification systems.	Zhuo Zou,Majid Baghaei Nejad,Hannu Tenhunen,Li-Rong Zheng 0001	10.1109/SOCC.2007.4545482
+2007 IEEE International SOC Conference, Tampere, Finland, November 19-21, 2007		

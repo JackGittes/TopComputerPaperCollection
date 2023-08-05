@@ -1,0 +1,73 @@
+A G-Line-Based Network for Fast and Efficient Barrier Synchronization in Many-Core CMPs.	José L. Abellán,Juan Fernández 0001,Manuel E. Acacio	10.1109/ICPP.2010.34
+Extending the Monte Carlo Processor Modeling Technique: Statistical Performance Models of the Niagara 2 Processor.	Waleed Alkohlani,Jeanine E. Cook,Ram Srinivasan	10.1109/ICPP.2010.44
+Reliability and Performance Optimization of Pipelined Real-Time Systems.	Anne Benoit,Fanny Dufossé,Alain Girault,Yves Robert	10.1109/ICPP.2010.24
+Block-Parallel Programming for Real-Time Embedded Applications.	David Black-Schaffer,William J. Dally	10.1109/ICPP.2010.37
+Identifying the Root Causes of Wait States in Large-Scale Parallel Applications.	David Böhme,Markus Geimer,Felix Wolf 0001,Lukas Arnold	10.1109/ICPP.2010.18
+Checkpointing vs. Migration for Post-Petascale Supercomputers.	Franck Cappello,Henri Casanova,Yves Robert	10.1109/ICPP.2010.26
+Modelization and Performance Evaluation of the DIET Middleware.	Eddy Caron,Benjamin Depardon,Frédéric Desprez	10.1109/ICPP.2010.45
+Incentive Compatible Online Scheduling of Malleable Parallel Jobs with Individual Deadlines.	Thomas E. Carroll,Daniel Grosu	10.1109/ICPP.2010.60
+Minimizing Stretch and Makespan of Multiple Parallel Task Graphs via Malleable Allocations.	Henri Casanova,Frédéric Desprez,Frédéric Suter	10.1109/ICPP.2010.16
+Scalability of a Parallel JPEG Encoder on Shared Memory Architectures.	David Castells-Rufas,Jaume Joven,Jordi Carrabina	10.1109/ICPP.2010.58
+Integer Number Crunching on the Cell Processor.	Hsieh-Chung Chen,Chen-Mou Cheng,Shih-Hao Hung,Zong-Cing Lin	10.1109/ICPP.2010.59
+Dynamic Switching-Frequency Scaling: Scheduling Overcommitted Domains in Xen VMM.	Huacai Chen,Hai Jin 0001,Kan Hu,Jian Huang	10.1109/ICPP.2010.36
+Distributed Minimum Transmission Multicast Routing Protocol for Wireless Sensor Networks.	Long Cheng 0005,Sajal K. Das 0001,Jiannong Cao 0001,Canfeng Chen,Jian Ma 0001	10.1109/ICPP.2010.28
+Hyperscalar: A Novel Dynamically Reconfigurable Multi-core Architecture.	Jih-Ching Chiu,Yu-Liang Chou,Po-Kai Chen	10.1109/ICPP.2010.35
+A Lightweight, GPU-Based Software RAID System.	Matthew L. Curry,H. Lee Ward,Anthony Skjellum,Ron Brightwell	10.1109/ICPP.2010.64
+MemX: Virtualization of Cluster-Wide Memory.	Umesh Deshpande,Beilan Wang,Shafee Haque,Michael R. Hines,Kartik Gopalan	10.1109/ICPP.2010.74
+Dual-Phase Just-in-Time Workflow Scheduling in P2P Grid Systems.	Sheng Di,Cho-Li Wang	10.1109/ICPP.2010.31
+Toward Harnessing DOACROSS Parallelism for Multi-GPGPUs.	Peng Di,Qing Wan,Xuemeng Zhang,Hui Wu 0001,Jingling Xue	10.1109/ICPP.2010.13
+Microwiper: Efficient Memory Propagation in Live Migration of Virtual Machines.	Yuyang Du,Hongliang Yu,Guangyu Shi,Jian Chen,Weimin Zheng	10.1109/ICPP.2010.23
+PacketC Language and Parallel Processing of Masked Databases.	Ralph Duncan,Peder Jungck,Kenneth Ross	10.1109/ICPP.2010.55
+Massive Social Network Analysis: Mining Twitter for Social Good.	David Ediger,Karl Jiang,E. Jason Riedy,David A. Bader,Courtney D. Corley,Robert M. Farber,William N. Reynolds	10.1109/ICPP.2010.66
+Heterogeneous Mini-rank: Adaptive, Power-Efficient Memory Architecture.	Kun Fang 0005,Hongzhong Zheng,Zhichun Zhu	10.1109/ICPP.2010.11
+Efficient Work Stealing for Fine Grained Parallelism.	Karl-Filip Faxén	10.1109/ICPP.2010.39
+Automatic Generation of Stream Descriptors for Streaming Architectures.	Lei Gao,David Zaretsky,Gaurav Mittal,Dan Schonfeld,Prith Banerjee	10.1109/ICPP.2010.38
+A Gray-Box Feedback Control Approach for System-Level Peak Power Management.	Jiayu Gong,Cheng-Zhong Xu 0001	10.1109/ICPP.2010.63
+Detailed Load Balance Analysis of Large Scale Parallel Applications.	Kevin A. Huck,Jesús Labarta	10.1109/ICPP.2010.61
+Model-Driven Traffic Data Acquisition in Vehicular Sensor Networks.	Chih-Chieh Hung,Wen-Chih Peng	10.1109/ICPP.2010.50
+Characterizing the Relation Between Apex-Map Synthetic Probes and Reuse Distance Distributions.	Khaled Z. Ibrahim,Erich Strohmaier	10.1109/ICPP.2010.43
+Parallel Exact Inference on a CPU-GPGPU Heterogenous System.	Hyeran Jeon,Yinglong Xia,Viktor K. Prasanna	10.1109/ICPP.2010.15
+Optimizing HPC Fault-Tolerant Environment: An Analytical Approach.	Hui Jin 0001,Yong Chen 0001,Huaiyu Zhu 0002,Xian-He Sun	10.1109/ICPP.2010.80
+Designing Power-Aware Collective Communication Algorithms for InfiniBand Clusters.	Krishna Chaitanya Kandalla,Emilio Pasquale Mancini,Sayantan Sur,Dhabaleswar K. Panda 0001	10.1109/ICPP.2010.78
+Cyberaide onServe: Software as a Service on Production Grids.	Tobias Kurze,Lizhe Wang 0001,Gregor von Laszewski,Jie Tao 0001,Marcel Kunze,David Kramer,Wolfgang Karl	10.1109/ICPP.2010.47
+System-Level, Unified In-band and Out-of-band Dynamic Thermal Control.	Dong Li 0001,Rong Ge 0002,Kirk W. Cameron	10.1109/ICPP.2010.22
+A Theoretical Framework for Value Prediction in Parallel Systems.	Shaoshan Liu,Christine Eisenbeis,Jean-Luc Gaudiot	10.1109/ICPP.2010.10
+Speculative Execution on GPU: An Exploratory Study.	Shaoshan Liu,Christine Eisenbeis,Jean-Luc Gaudiot	10.1109/ICPP.2010.53
+Task Assignment with Cache Partitioning and Locking for WCET Minimization on MPSoC.	Tiantian Liu 0001,Yingchao Zhao 0001,Minming Li,Chun Jason Xue	10.1109/ICPP.2010.65
+A Stack-on-Demand Execution Model for Elastic Computing.	Ricky K. K. Ma,King Tin Lam,Cho-Li Wang,Chenggang Zhang	10.1109/ICPP.2010.79
+Handling Conflicts with Compiler&apos;s Help in Software Transactional Memory Systems.	Sandya Mannarswamy,R. Govindarajan	10.1109/ICPP.2010.56
+Energy Efficient Prefetching with Buffer Disks for Cluster File Systems.	Adam Manzanares,Xiaojun Ruan,Shu Yin,Jiong Xie,Zhiyang Ding,Yun Tian,James Majors,Xiao Qin 0001	10.1109/ICPP.2010.48
+Distributing a Metric-Space Search Index onto Processors.	Mauricio Marín,Flavio Ferrarotti,Veronica Gil-Costa	10.1109/ICPP.2010.51
+A Machine Learning Approach for Optimizing Parallel Logic Simulation.	Sina Meraji,Carl Tropper	10.1109/ICPP.2010.62
+Design and Implementation of a Hybrid Parallel Performance Measurement System.	Alan Morris,Allen D. Malony,Sameer Shende,Kevin A. Huck	10.1109/ICPP.2010.57
+Rearchitecting MapReduce for Heterogeneous Multicore Processors with Explicitly Managed Memories.	Anastasios Papagiannis,Dimitrios S. Nikolopoulos	10.1109/ICPP.2010.21
+Parameterized Schedulability Analysis on Uniform Multiprocessors.	Risat Mahmud Pathan,Jan Jonsson	10.1109/ICPP.2010.40
+Optimal Task Reallocation in Heterogeneous Distributed Computing Systems with Age-Dependent Delay Statistics.	Jorge E. Pezoa,Majeed M. Hayat,Zhuoyao Wang,Sagar Dhakal	10.1109/ICPP.2010.20
+Performance Management of Accelerated MapReduce Workloads in Heterogeneous Clusters.	Jorda Polo,David Carrera 0001,Yolanda Becerra 0001,Vicenç Beltran 0001,Jordi Torres,Eduard Ayguadé	10.1109/ICPP.2010.73
+Exploitation of Dynamic Communication Patterns through Static Analysis.	Robert Preissl,Bronis R. de Supinski,Martin Schulz 0001,Daniel J. Quinlan,Dieter Kranzlmüller,Thomas Panas	10.1109/ICPP.2010.14
+An Efficient Randomized Routing Protocol for Single-Hop Radio Networks.	Sanguthevar Rajasekaran,Dolly Sharma,Reda A. Ammar,Nicholas Lownes	10.1109/ICPP.2010.25
+Gossamer: A Lightweight Approach to Using Multicore Machines.	Joseph A. Roback,Gregory R. Andrews	10.1109/ICPP.2010.12
+A MapReduce Style Framework for Computations on Trees.	William Sarje,Srinivas Aluru	10.1109/ICPP.2010.42
+Energy Modeling of Wireless Sensor Nodes Based on Petri Nets.	Ali Shareef,Yifeng Zhu	10.1109/ICPP.2010.19
+A DHT-Aided Chunk-Driven Overlay for Scalable and Efficient Peer-to-Peer Live Streaming.	Haiying Shen,Lianyu Zhao,Ze Li,Jin Li 0001	10.1109/ICPP.2010.32
+Near-Optimal Rendezvous Protocols for RDMA-Enabled Clusters.	Matthew Small,Zheng Gu,Xin Yuan 0001	10.1109/ICPP.2010.72
+Starling: Minimizing Communication Overhead in Virtualized Computing Platforms Using Decentralized Affinity-Aware Migration.	Jason D. Sonnek,James B. S. G. Greensky,Robert Reutiman,Abhishek Chandra	10.1109/ICPP.2010.30
+Lock-Free Multiway Search Trees.	Michael Spiegel,Paul F. Reynolds Jr.	10.1109/ICPP.2010.68
+Improving Application Performance and Predictability Using Multiple Virtual Lanes in Modern Multi-core InfiniBand Clusters.	Hari Subramoni,Ping Lai,Sayantan Sur,Dhabaleswar K. Panda 0001	10.1109/ICPP.2010.54
+SAM: A Semantic-Aware Multi-tiered Source De-duplication Framework for Cloud Backup.	Yujuan Tan,Hong Jiang 0001,Dan Feng 0001,Lei Tian 0001,Zhichao Yan,Guohui Zhou	10.1109/ICPP.2010.69
+Using Mobile Mules for Collecting Data from an Isolated Wireless Sensor Network.	Yu-Chee Tseng,Wan-Ting Lai,Chi-Fu Huang,Fang-Jing Wu	10.1109/ICPP.2010.75
+Achieving Fair or Differentiated Cache Sharing in Power-Constrained Chip Multiprocessors.	Xiaorui Wang,Kai Ma,Yefu Wang	10.1109/ICPP.2010.9
+Power Management in Heterogeneous Multi-tier Web Clusters.	Peijian Wang,Yong Qi,Xue Liu,Ying Chen 0004,Xiao Zhong	10.1109/ICPP.2010.46
+FlashCoop: A Locality-Aware Cooperative Buffer Management for SSD-Based Storage Cluster.	Qingsong Wei,Bozhao Gong,Suraj Pathak,Y. C. Tay	10.1109/ICPP.2010.71
+Hint-K: An Efficient Multi-level Cache Using K-Step Hints.	Chentao Wu,Xubin He,Qiang Cao 0001,Changsheng Xie	10.1109/ICPP.2010.70
+A Scalable Parallel Algorithm for Large-Scale Protein Sequence Homology Detection.	Changjun Wu,Ananth Kalyanaraman,William R. Cannon	10.1109/ICPP.2010.41
+Efficient PageRank and SpMV Computation on AMD GPUs.	Tianji Wu,Bo Wang 0067,Yi Shan,Feng Yan 0003,Yu Wang 0002,Ningyi Xu	10.1109/ICPP.2010.17
+A Quantitative Study of Accountability in Wireless Multi-hop Networks.	Zhifeng Xiao,Yang Xiao 0001,Jie Wu 0001	10.1109/ICPP.2010.29
+Revisting Tag Collision Problem in RFID Systems.	Lei Yang 0025,Jinsong Han,Yong Qi,Cheng Wang 0001,Yunhao Liu 0001,Ying Chen 0004,Xiao Zhong	10.1109/ICPP.2010.27
+Optimal Overlay Construction on Heterogeneous Live Peer-to-Peer Streaming Systems.	Min Yang 0008,Yuanyuan Yang 0001	10.1109/ICPP.2010.77
+A Simple Effective Scheme to Enhance the Capability of Web Servers Using P2P Networks.	Jie Yu 0008,Liming Lu,Zhoujun Li 0001,Xiaofeng Wang 0002,Jinshu Su	10.1109/ICPP.2010.76
+Cubic Ring Networks: A Polymorphic Topology for Network-on-Chip.	Bilal Zafar 0002,Jeff Draper,Timothy Mark Pinkston	10.1109/ICPP.2010.52
+Towards Building Efficient Content-Based Publish/Subscribe Systems over Structured P2P Overlays.	Shengdong Zhang,Ji Wang,Rui Shen,Jie Xu 0007	10.1109/ICPP.2010.33
+Subgraph Enumeration in Large Social Contact Networks Using Parallel Color Coding and Streaming.	Zhao Zhao,Maleq Khan,V. S. Anil Kumar 0001,Madhav V. Marathe	10.1109/ICPP.2010.67
+DISQO: A Distributed Framework for Spatial Queries over Moving Objects.	Baihua Zheng,Wang-Chien Lee,Ken C. K. Lee,Julian Winter,Meng-Chang Chen	10.1109/ICPP.2010.49
+39th International Conference on Parallel Processing, ICPP 2010, San Diego, California, USA, 13-16 September 2010		

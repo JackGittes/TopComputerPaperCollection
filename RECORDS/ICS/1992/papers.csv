@@ -1,0 +1,47 @@
+Exploiting heterogeneous parallelism on a multithreaded multiprocessor.	Gail A. Alverson,Robert Alverson,David Callahan,Brian D. Koblenz,Allan Porterfield,Burton J. Smith	10.1145/143369.143408
+Paralex: an environment for parallel programming in distributed systems.	Özalp Babaoglu,Lorenzo Alvisi,Alessandro Amoroso,Renzo Davoli,Luigi-Alberto Giachini	10.1145/143369.143406
+A scalable, object-oriented finite element solver for partial differential equations on multicomputers.	Graham F. Carey,Joe Schmidt,Vineet Singh,Dennis Yelton	10.1145/143369.143438
+Tolerating data access latency with register preloading.	William Y. Chen,Scott A. Mahlke,Wen-mei W. Hwu,Tokuzo Kiyohara,Pohua P. Chang	10.1145/143369.143394
+Compiler and runtime support for irregularly coupled regular meshes.	Craig M. Chase,Kay Crowley,Joel H. Saltz,Anthony P. Reeves	10.1145/143369.143447
+Parallel SAS multicluster algorithms for solving linear systems with reflexive coefficient matrices.	Hsin-Chu Chen	10.1145/143369.143449
+Scheduling in parallel systems with a hierarchical organization of tasks.	S. P. Cheng,Sivarama P. Dandamudi	10.1145/143369.143437
+Life span strategy - a compiler-based approach to cache coherence.	Hoichi Cheong	10.1145/143369.143402
+Automatic software cache coherence through vectorization.	Ervan Darnell,John M. Mellor-Crummey,Ken Kennedy	10.1145/143369.143398
+Experiments with an ocean circulation model on CEDAR.	Luiz De Rose,Kyle A. Gallivan,Efstratios Gallopoulos	10.1145/143369.143440
+A general algorithm for data dependence analysis.	Christine Eisenbeis,Jean-Claude Sogno	10.1145/143369.143422
+Automatic performance prediction to support parallelization of Fortran programs for massively parallel systems.	Thomas Fahringer,Roman Blasko,Hans P. Zima	10.1145/143369.143431
+Supercomputing out of recycled garbage: preliminary experience with Piranha.	David Gelernter,David Kaminsky	10.1145/143369.143444
+A methodology for high-level synthesis of communication on multicomputers.	Manish Gupta,Prithviraj Banerjee	10.1145/143369.143433
+Manchester data-flow: a progress report.	John R. Gurd,David F. Snelling	10.1145/143369.143412
+Performance analysis of the CM-2, a massively parallel SIMD computer.	Jukka Helin	10.1145/143369.143382
+Evaluation of compiler optimizations for Fortran D on MIMD distributed memory machines.	Seema Hiranandani,Ken Kennedy,Chau-Wen Tseng	10.1145/143369.143372
+Benchmarking a vector-processor prototype based on multithreaded streaming/FIFO vector (MSFV) architecture.	Tetsuo Hironaka,Takashi Hashimoto,Keizo Okazaki,Kazuaki J. Murakami,Shinji Tomita	10.1145/143369.143420
+Preconditioning parallel multisplittings for solving linear systems of equations.	Chiou-Ming Huang,Dianne P. O&apos;Leary	10.1145/143369.143454
+A parallel execution environment for a sequential object oriented language.	Jean-Marc Jézéquel,Françoise André,F. Bergheul	10.1145/143369.143434
+Optimizing for parallelism and data locality.	Ken Kennedy,Kathryn S. McKinley	10.1145/143369.143427
+Deriving good transformations for mapping nested loops on hierarchical parallel machines in polynomial time.	Kamlesh G. Kumar,Dattatraya Kulkarni,Anupam Basu	10.1145/143369.143390
+Compile-time analysis of communicating processes.	Peter B. Ladkin,Barbara Simons	10.1145/143369.143417
+Supercomputing and transputers.	Falk Langhammer,Francis Wray	10.1145/143369.143396
+A comprehensive approach to parallel data flow analysis.	Yong-Fong Lee,Barbara G. Ryder	10.1145/143369.143415
+Array privatization for parallel execution of loops.	Zhiyuan Li 0001	10.1145/143369.143426
+On storage schemes for parallel array access.	Zhiyong Liu,Xiaobo Li 0001,Jia-Huai You	10.1145/143369.143421
+Register requirements of pipelined processors.	William H. Mangione-Smith,Santosh G. Abraham,Edward S. Davidson	10.1145/143369.143419
+Array abstractions using semantic analysis of trapezoid congruences.	François Masdupuy	10.1145/143369.143414
+The CODE 2.0 graphical parallel programming language.	Peter W. Newton,James C. Browne	10.1145/143369.143405
+A transformational approach to compiling Sisal for distributed memory architectures.	Michael F. P. O&apos;Boyle,G. A. Hedayat	10.1145/143369.143429
+On exact data dependence analysis.	Kleanthis Psarris	10.1145/143369.143424
+Evaluation of compiler generated parallel programs on three multicomputers.	Roland Rühl	10.1145/143369.143375
+Parallel program visualization using SIEVE.1.	Sekhar R. Sarukkai,Dennis Gannon	10.1145/143369.143404
+An architectural framework for migration from CISC to higher performance platforms.	Gabriel M. Silberman,Kemal Ebcioglu	10.1145/143369.143410
+Characterizing memory performance in vector multiprocessors.	J. E. Smith,W. R. Taylor	10.1145/143369.143379
+Orthogonal s-step methods for nonsymmetric linear systems of equations.	Charles D. Swanson,Anthony T. Chronopoulos	10.1145/143369.143450
+Evaluation of the lock mechanism in a snooping cache.	Toshiaki Tarui,Takayuki Nakagawa,Noriyasu Ido,Machiko Asaie,Mamoru Sugie	10.1145/143369.143384
+Processor allocation and loop scheduling on multiprocessor computers.	Nadia Tawbi,Paul Feautrier	10.1145/143369.143387
+Conflict-free access of vectors with power-of-two strides.	Mateo Valero,Tomás Lang,Eduard Ayguadé	10.1145/143369.143403
+Low level scheduling using the hierarchical task graph.	David R. Wallace	10.1145/143369.143388
+Speedup of band linear recurrences in the presence of resource constraints.	Haigeng Wang,Alexandru Nicolau	10.1145/143369.143452
+Automatic data mapping for distributed-memory parallel computers.	Skef Wholey	10.1145/143369.143377
+Minimizing the Lennard-Jones potential function on a massively parallel computer.	Guoliang Xue,Robert S. Maier 0002,J. Ben Rosen	10.1145/143369.143443
+PYRROS: static task scheduling and code generation for message passing multiprocessors.	Tao Yang 0009,Apostolos Gerasoulis	10.1145/143369.143446
+ABCL/onEM-4: a new software/hardware architecture for object-oriented concurrent computing on an extended dataflow supercomputer.	Masahiro Yasugi,Satoshi Matsuoka,Akinori Yonezawa	10.1145/143369.143392
+Proceedings of the 6th international conference on Supercomputing, ICS 1992, Washington, DC, USA, July 19-24, 1992	Ken Kennedy,Constantine D. Polychronopoulos	10.1145/143369

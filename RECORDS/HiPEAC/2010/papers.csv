@@ -1,0 +1,27 @@
+Improving Performance by Reducing Aborts in Hardware Transactional Memory.	Mohammad Ansari,Behram Khan,Mikel Luján,Christos Kotselidis,Chris C. Kirkham,Ian Watson	10.1007/978-3-642-11515-8_5
+Performance and Power Aware CMP Thread Allocation Modeling.	Yaniv Ben-Itzhak,Israel Cidon,Avinoam Kolodny	10.1007/978-3-642-11515-8_18
+Buffer Sizing for Self-timed Stream Programs on Heterogeneous Distributed Memory Multiprocessors.	Paul M. Carpenter,Alex Ramírez,Eduard Ayguadé	10.1007/978-3-642-11515-8_9
+Offload - Automating Code Migration to Heterogeneous Multicore Systems.	Pete Cooper,Uwe Dolinsky,Alastair F. Donaldson,Andrew Richards,Colin Riley,George Russell	10.1007/978-3-642-11515-8_25
+Split Register Allocation: Linear Complexity Without the Performance Penalty.	Boubacar Diouf,Albert Cohen 0001,Fabrice Rastello,John Cavazos	10.1007/978-3-642-11515-8_7
+Larrabee: A Many-Core Intel Architecture for Visual Computing.	Roger Espasa	10.1007/978-3-642-11515-8_2
+Maestro: Orchestrating Lifetime Reliability in Chip Multiprocessors.	Shuguang Feng,Shantanu Gupta,Amin Ansari,Scott A. Mahlke	10.1007/978-3-642-11515-8_15
+Analysis of Task Offloading for Accelerators.	Roger Ferrer,Vicenç Beltran 0001,Marc González 0001,Xavier Martorell,Eduard Ayguadé	10.1007/978-3-642-11515-8_24
+Energy and Throughput Efficient Transactional Memory for Embedded Multicore Systems.	Cesare Ferri,Samantha Wood,Tali Moreshet,R. Iris Bahar,Maurice Herlihy	10.1007/978-3-642-11515-8_6
+Trace-Based Data Layout Optimizations for Multi-core Processors.	Olga Golovanevsky,Alon Dayan,Ayal Zaks,David Edelsohn	10.1007/978-3-642-11515-8_8
+Multi-level Hardware Prefetching Using Low Complexity Delta Correlating Prediction Tables with Partial Matching.	Marius Grannæs,Magnus Jahre,Lasse Natvig	10.1007/978-3-642-11515-8_19
+Remote Store Programming.	Henry Hoffmann,David Wentzlaff,Anant Agarwal	10.1007/978-3-642-11515-8_3
+RELOCATE: Register File Local Access Pattern Redistribution Mechanism for Power and Thermal Management in Out-of-Order Embedded Processor.	Houman Homayoun,Aseem Gupta,Alexander V. Veidenbaum,Avesta Sasan,Fadi J. Kurdahi,Nikil D. Dutt	10.1007/978-3-642-11515-8_17
+Embedded Systems as Datacenters.	Bob Iannucci	10.1007/978-3-642-11515-8_1
+DIEF: An Accurate Interference Feedback Mechanism for Chip Multiprocessor Memory Systems.	Magnus Jahre,Marius Grannæs,Lasse Natvig	10.1007/978-3-642-11515-8_22
+Combining Locality Analysis with Online Proactive Job Co-scheduling in Chip Multiprocessors.	Yunlian Jiang,Kai Tian,Xipeng Shen	10.1007/978-3-642-11515-8_16
+Memory-Aware Application Mapping on Coarse-Grained Reconfigurable Arrays.	Yongjoo Kim,Jongeun Lee,Aviral Shrivastava,Jonghee W. Yoon,Yunheung Paek	10.1007/978-3-642-11515-8_14
+Virtual Ways: Efficient Coherence for Architecturally Visible Storage in Automatic Instruction Set Extensions.	Theo Kluter,Samuel Burri,Philip Brisk,Edoardo Charbon,Paolo Ienne	10.1007/978-3-642-11515-8_11
+Computer Generation of Efficient Software Viterbi Decoders.	Frédéric de Mesmay,Srinivas Chellappa,Franz Franchetti,Markus Püschel	10.1007/978-3-642-11515-8_26
+Automatically Tuning Sparse Matrix-Vector Multiplication for GPU Architectures.	Alexander Monakov,Anton Lokhmotov,Arutyun Avetisyan	10.1007/978-3-642-11515-8_10
+Accelerating XML Query Matching through Custom Stack Generation on FPGAs.	Roger Moussalli,Mariam Salloum,Walid A. Najjar,Vassilis J. Tsotras	10.1007/978-3-642-11515-8_12
+An Application-Aware Load Balancing Strategy for Network Processors.	Rainer Ohlendorf,Michael Meitinger,Thomas Wild,Andreas Herkersdorf	10.1007/978-3-642-11515-8_13
+Low-Overhead, High-Speed Multi-core Barrier Synchronization.	John Sartori,Rakesh Kumar 0002	10.1007/978-3-642-11515-8_4
+SRP: Symbiotic Resource Partitioning of the Memory Hierarchy in CMPs.	Shekhar Srikantaiah,Mahmut T. Kandemir	10.1007/978-3-642-11515-8_21
+Tagged Procedure Calls (TPC): Efficient Runtime Support for Task-Based Parallelism on the Cell Processor.	George Tzenakis,Konstantinos Kapelonis,Michail Alvanos,Konstantinos Koukos,Dimitrios S. Nikolopoulos,Angelos Bilas	10.1007/978-3-642-11515-8_23
+Scalable Shared-Cache Management by Containing Thrashing Workloads.	Yuejian Xie,Gabriel H. Loh	10.1007/978-3-642-11515-8_20
+High Performance Embedded Architectures and Compilers, 5th International Conference, HiPEAC 2010, Pisa, Italy, January 25-27, 2010. Proceedings	Yale N. Patt,Pierfrancesco Foglia,Evelyn Duesterwald,Paolo Faraboschi,Xavier Martorell	10.1007/978-3-642-11515-8

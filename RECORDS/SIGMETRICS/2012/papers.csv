@@ -1,0 +1,62 @@
+Introduction to network experiments using the GENI cyberinfrastructure.	Jay Aikat,Kevin Jeffay	10.1145/2254756.2254830
+Versatile refresh: low complexity refresh scheduling for high-throughput multi-banked eDRAM.	Mohammad Alizadeh,Adel Javanmard,Shang-Tse Chuang,Sundar Iyer,Yi Lu 0001	10.1145/2254756.2254787
+Efficient rank aggregation using partial data.	Ammar Ammar,Devavrat Shah	10.1145/2254756.2254799
+Stable and efficient pricing for inter-domain traffic forwarding.	Elliot Anshelevich,Ameya Hate,Koushik Kar,Michael Usher	10.1145/2254756.2254803
+Fast cost efficient designs by building upon the plackett and burman method.	Manish Arora,Feng Wang,Bob Rychlik,Dean M. Tullsen	10.1145/2254756.2254822
+Workload analysis of a large-scale key-value store.	Berk Atikoglu,Yuehai Xu,Eitan Frachtenberg,Song Jiang 0001,Mike Paleczny	10.1145/2254756.2254766
+POTRA: a framework for building power models for next generation multicore architectures.	Ramon Bertran,Marc González 0001,Xavier Martorell,Nacho Navarro,Eduard Ayguadé	10.1145/2254756.2254827
+Does lean imply green?: a study of the power performance implications of Java runtime bloat.	Suparna Bhattacharya,Karthick Rajamani,Kanchi Gopinath,Manish Gupta	10.1145/2254756.2254789
+Congestion control meets medium access: throughput, delay, and complexity.	Shreeshankar Bodas,Devavrat Shah,Damon Wischik	10.1145/2254756.2254812
+Don&apos;t let the negatives bring you down: sampling from streams of signed updates.	Edith Cohen,Graham Cormode,Nick G. Duffield	10.1145/2254756.2254798
+Measuring and characterizing home networks.	Lucas DiCioccio,Renata Teixeira,Catherine Rosenberg	10.1145/2254756.2254804
+On the efficacy of fine-grained traffic splitting protocols in data center networks.	Advait Abhay Dixit,Pawan Prakash,Ramana Rao Kompella,Y. Charlie Hu	10.1145/2254756.2254818
+Fair sampling across network flow measurements.	Nick G. Duffield	10.1145/2254756.2254800
+Temperature management in data centers: why some (might) like it hot.	Nosayba El-Sayed,Ioan A. Stefanovici,George Amvrosiadis,Andy A. Hwang,Bianca Schroeder	10.1145/2254756.2254778
+Characterizing continuous time random walks on time varying graphs.	Daniel R. Figueiredo 0001,Philippe Nain,Bruno F. Ribeiro,Edmundo de Souza e Silva,Don Towsley	10.1145/2254756.2254794
+Content-aware traffic engineering.	Benjamin Frank,Ingmar Poese,Georgios Smaragdakis,Steve Uhlig,Anja Feldmann	10.1145/2254756.2254819
+Performance evaluation of the random replacement policy for networks of caches.	Massimo Gallo,Bruno Kauffmann,Luca Muscariello,Alain Simonian,Christian Tanguy	10.1145/2254756.2254810
+Energy-efficient congestion control.	Lingwen Gan,Anwar Walid,Steven H. Low	10.1145/2254756.2254770
+Classifying internet one-way traffic.	Eduard Glatz,Xenofontas A. Dimitropoulos	10.1145/2254756.2254821
+Bundling practice in BitTorrent: what, how, and why.	Jinyoung Han,Seungbae Kim,Taejoong Chung,Ted Taekyoung Kwon,Hyunchul Kim,Yanghee Choi	10.1145/2254756.2254768
+Basic theory and some applications of martingales.	Richard A. Hayden	10.1145/2254756.2254828
+Fluid limit of an asynchronous optical packet switch with shared per link full range wavelength conversion.	Benny Van Houdt,Luca Bortolussi	10.1145/2254756.2254772
+Understanding performance anomalies of SSDs and their impact in enterprise application environment.	Jian Hu,Hong Jiang 0001,Prakash Manden	10.1145/2254756.2254820
+Towards optimal error-estimating codes through the lens of Fisher information analysis.	Nan Hua,Ashwin Lall,Baochun Li,Jun (Jim) Xu	10.1145/2254756.2254773
+Minimizing slowdown in heterogeneous size-aware dispatching systems.	Esa Hyytiä,Samuli Aalto,Aleksi Penttinen	10.1145/2254756.2254763
+Uniform approximation of the distribution for the number of retransmissions of bounded documents.	Predrag R. Jelenkovic,Evangelia D. Skiani	10.1145/2254756.2254771
+Multi-hop network tomography: path reconstruction and per-hop arrival time estimation from partial information.	Matthias Keller,Jan Beutel,Lothar Thiele	10.1145/2254756.2254823
+What is a good buffer cache replacement scheme for mobile flash storage?	Hyojun Kim,Moonkyung Ryu,Umakishore Ramachandran	10.1145/2254756.2254786
+Modeling randomness in network traffic.	Markus Laner,Philipp Svoboda,Markus Rupp	10.1145/2254756.2254809
+Bipartite graph structures for efficient balancing of heterogeneous loads.	Mathieu Leconte,Marc Lelarge,Laurent Massoulié	10.1145/2254756.2254764
+A scalable architecture for maintaining packet latency measurements.	Myungjin Lee,Nick G. Duffield,Ramana Rao Kompella	10.1145/2254756.2254808
+Beyond random walk and metropolis-hastings samplers: why you should not backtrack for unbiased graph sampling.	Chul-Ho Lee,Xin Xu,Do Young Eun	10.1145/2254756.2254795
+D-factor: a quantitative model of application slow-down in multi-resource shared systems.	Seung-Hwan Lim,Jae-Seok Huh,Youngjae Kim 0001,Galen M. Shipman,Chita R. Das	10.1145/2254756.2254790
+High-performance computing in mobile services.	Zhen Liu 0001	10.1145/2254756.2254759
+Renewable and cooling aware workload management for sustainable data centers.	Zhenhua Liu 0002,Yuan Chen 0001,Cullen E. Bash,Adam Wierman,Daniel Gmach,Zhikui Wang,Manish Marwah,Chris Hyser	10.1145/2254756.2254779
+Network forensics: random infection vs spreading epidemic.	Chris Milling,Constantine Caramanis,Shie Mannor,Sanjay Shakkottai	10.1145/2254756.2254784
+Saving on cooling: the thermal scheduling problem.	Koyel Mukherjee,Samir Khuller,Amol Deshpande	10.1145/2254756.2254811
+Distributed wide-area traffic management for cloud services.	Srinivas Narayana,Joe Wenjie Jiang,Jennifer Rexford,Mung Chiang	10.1145/2254756.2254817
+Towards a statistical characterization of the competitiveness of oblivious routing.	Gábor Németh,Gábor Rétvári	10.1145/2254756.2254806
+Learning the graph of epidemic cascades.	Praneeth Netrapalli,Sujay Sanghavi	10.1145/2254756.2254783
+Pricing cloud bandwidth reservations under demand uncertainty.	Di Niu,Chen Feng 0001,Baochun Li	10.1145/2254756.2254776
+Smartphones vs. laptops: comparing web browsing behavior and the implications for caching.	Ioannis Papapanagiotou,Erich M. Nahum,Vasileios Pappas	10.1145/2254756.2254824
+Performance implications of flash and storage class memories.	Naresh M. Patel	10.1145/2254756.2254758
+TCAM-based NFA implementation.	Kunyang Peng,Qunfeng Dong	10.1145/2254756.2254802
+Micro and macro views of discrete-state markov models and their application to efficient simulation with phase-type distributions.	Philipp Reinecke,Miklós Telek,Katinka Wolter	10.1145/2254756.2254826
+A first look at cellular machine-to-machine traffic: large scale measurement and characterization.	Muhammad Zubair Shafiq,Lusheng Ji,Alex X. Liu,Jeffrey Pang,Jia Wang 0001	10.1145/2254756.2254767
+Optimal queue-size scaling in switched networks.	Devavrat Shah,Neil S. Walton,Yuan Zhong	10.1145/2254756.2254762
+Rumor centrality: a universal source detector.	Devavrat Shah,Tauhid Zaman	10.1145/2254756.2254782
+Power and energy containers for multicore servers.	Kai Shen,Arrvindh Shriraman,Sandhya Dwarkadas,Xiao Zhang	10.1145/2254756.2254814
+Applications of machine learning to performance evaluation.	Edmundo de Souza e Silva,Daniel Sadoc Menasché	10.1145/2254756.2254829
+Comparing metro-area cellular and WiFi performance: extended abstract.	Joel Sommers,Paul Barford	10.1145/2254756.2254805
+Clustered embedding of massive social networks.	Han Hee Song,Berkant Savas,Tae Won Cho,Vacha Dave,Zhengdong Lu,Inderjit S. Dhillon,Yin Zhang 0001,Lili Qiu	10.1145/2254756.2254796
+Provisioning for large scale cloud computing services.	Yue Tan,Yingdong Lu,Cathy H. Xia	10.1145/2254756.2254816
+Delay tails in MapReduce scheduling.	Jian Tan,Xiaoqiao Meng,Li Zhang 0002	10.1145/2254756.2254761
+Optimized cloud placement of virtual clusters using biased importance sampling.	Asser N. Tantawi	10.1145/2254756.2254813
+How well can congestion pricing neutralize denial of service attacks?	Ashish Vulimiri,Gul A. Agha,Philip Brighten Godfrey,Karthik Lakshminarayanan	10.1145/2254756.2254775
+Characterizing the impact of the workload on the value of dynamic resizing in data centers.	Kai Wang 0039,Minghong Lin,Florin Ciucu,Adam Wierman,Chuang Lin 0002	10.1145/2254756.2254815
+Energy storage in datacenters: what, where, and how much?	Di Wang 0003,Chuangang Ren,Anand Sivasubramaniam,Bhuvan Urgaonkar,Hosam K. Fathy	10.1145/2254756.2254780
+Providing fairness on shared-memory multiprocessors via process scheduling.	Di Xu,Chenggang Wu 0002,Pen-Chung Yew,Jianjun Li,Zhenjiang Wang	10.1145/2254756.2254792
+ADP: automated diagnosis of performance pathologies using hardware events.	Wucherl Yoo,Kevin Larson,Lee Baugh,Sangkyum Kim,Roy H. Campbell	10.1145/2254756.2254791
+Range tomography.	Sajjad Zarifzadeh,Madhwaraj G. K.,Constantine Dovrolis	10.1145/2254756.2254807
+ACM SIGMETRICS/PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS &apos;12, London, United Kingdom, June 11-15, 2012	Peter G. Harrison,Martin F. Arlitt,Giuliano Casale	10.1145/2254756

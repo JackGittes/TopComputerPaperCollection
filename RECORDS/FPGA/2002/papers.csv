@@ -1,0 +1,27 @@
+EVE: a CAD tool for manual placement and pipelining assistance of FPGA circuits.	William Chow,Jonathan Rose	10.1145/503048.503061
+SPFD-based global rewiring.	Jason Cong,Yizhou Lin,Wangning Long	10.1145/503048.503060
+Parallel-beam backprojection: an FPGA implementation optimized for medical imaging.	Srdjan Coric,Miriam Leeser,Eric L. Miller 0001,Marc Trepanier	10.1145/503048.503080
+Efficient architectures for implementing montgomery modular multiplication and RSA modular exponentiation on reconfigurable logic.	Alan Daly,William P. Marnane	10.1145/503048.503055
+A flexible floating-point format for optimizing data-paths and operators in FPGA based DSPs.	J. Dido,N. Géraudie,L. Loiseau,O. Payeur,Yvon Savaria,D. Poirier	10.1145/503048.503056
+Data reorganization engines for the next generation of system-on-a-chip FPGAs.	Pedro C. Diniz,Joonseok Park	10.1145/503048.503082
+A faster distributed arithmetic architecture for FPGAs.	Radhika S. Grover,Weijia Shang,Qiang Li	10.1145/503048.503054
+Interconnect enhancements for a high-speed PLD architecture.	Michael D. Hutton,Vinson Chan,Peter Kazarian,Victor Maruri,Tony Ngai,Jim Park,Rakesh H. Patel,Bruce Pedersen,Jay Schleicher,Sergey Y. Shumarayev	10.1145/503048.503050
+Cryptographic rights management of FPGA intellectual property cores.	Tom Kean	10.1145/503048.503065
+Incremental reconfiguration of multi-FPGA systems.	K. K. Lee,D. F. Wong 0001	10.1145/503048.503078
+Circuit design of routing switches.	Guy G. Lemieux,David M. Lewis	10.1145/503048.503052
+Configuration prefetching techniques for partial reconfigurable coprocessor with relocation and defragmentation.	Zhiyuan Li 0008,Scott Hauck	10.1145/503048.503076
+Analysis of quasi-static scheduling techniques in a virtualized reconfigurable machine.	Yury Markovsky,Eylon Caspi,Randy Huang,Joseph Yeh,Michael Chu,John Wawrzynek,André DeHon	10.1145/503048.503077
+FPGA test time reduction through a novel interconnect testing scheme.	Stuart McCracken,Zeljko Zilic	10.1145/503048.503069
+Automatic layout of domain-specific reconfigurable subsystems for system-on-a-chip.	Shawn Phillips,Scott Hauck	10.1145/503048.503073
+Timing verification of dynamically reconfigurable logic for the xilinx virtex FPGA series.	Ian Robertson,James Irvine 0001,Patrick Lysaght,David Robinson	10.1145/503048.503068
+FPGA switch block layout and evaluation.	Herman Schmit,Vikas Chandra	10.1145/503048.503051
+Application of FPGA technology to accelerate the finite-difference time-domain (FDTD) method.	Ryan N. Schneider,Laurence E. Turner,Michal M. Okoniewski	10.1145/503048.503063
+FPGA implementation of neighborhood-of-four cellular automata random number generators.	Barry Shackleford,Motoo Tanaka,Richard J. Carter,Greg Snider	10.1145/503048.503064
+Dynamic power consumption in Virtex[tm]-II FPGA family.	Li Shang,Alireza Kaviani,Kusuma Bathala	10.1145/503048.503072
+Integrated retiming and placement for field programmable gate arrays.	Deshanand P. Singh,Stephen Dean Brown	10.1145/503048.503059
+Constrained clock shifting for field programmable gate arrays.	Deshanand P. Singh,Stephen Dean Brown	10.1145/503048.503067
+Efficient circuit clustering for area and power reduction in FPGAs.	Amit Singh 0001,Malgorzata Marek-Sadowska	10.1145/503048.503058
+Performance-constrained pipelining of software loops onto reconfigurable hardware.	Greg Snider	10.1145/503048.503075
+A dynamically reconfigurable adaptive viterbi decoder.	Sriram Swaminathan,Russell Tessier,Dennis Goeckel,Wayne P. Burleson	10.1145/503048.503081
+On the sensitivity of FPGA architectural conclusions to experimental assumptions, tools, and techniques.	Andy Yan,Rebecca Cheng,Steven J. E. Wilton	10.1145/503048.503071
+Proceedings of the ACM/SIGDA International Symposium on Field Programmable Gate Arrays, FPGA 2002, Monterey, CA, USA, February 24-26, 2002	Martine D. F. Schlag,Steve Trimberger	10.1145/503048

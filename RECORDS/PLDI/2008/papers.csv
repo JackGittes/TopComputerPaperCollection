@@ -1,0 +1,35 @@
+Automatic volume management for programmable microfluidics.	Ahmed M. Amin,Mithuna Thottethodi,T. N. Vijaykumar,Steven Wereley,Stephen C. Jacobson	10.1145/1375581.1375590
+SharC: checking data sharing strategies for multithreaded C.	Zachary R. Anderson,David Gay,Robert Ennals,Eric A. Brewer	10.1145/1375581.1375600
+Immix: a mark-region garbage collector with space efficiency, fast collection, and mutator performance.	Stephen M. Blackburn,Kathryn S. McKinley	10.1145/1375581.1375586
+Foundations of the C++ concurrency memory model.	Hans-Juergen Boehm,Sarita V. Adve	10.1145/1375581.1375591
+A practical automatic polyhedral parallelizer and locality optimizer.	Uday Bondhugula,Albert Hartono,J. Ramanujam,P. Sadayappan	10.1145/1375581.1375595
+Type-preserving compilation for large-scale optimizing object-oriented compilers.	Juan Chen,Chris Hawblitzel,Frances Perry,Michael Emmi,Jeremy Condit,Derrick Coetzee,Polyvios Pratikakis	10.1145/1375581.1375604
+Inferring locks for atomic sections.	Sigmund Cherem,Trishul M. Chilimbi,Sumit Gulwani	10.1145/1375581.1375619
+Dataflow analysis for concurrent programs using datarace detection.	Ravi Chugh,Jan Wen Voung,Ranjit Jhala,Sorin Lerner	10.1145/1375581.1375620
+Sound, complete and scalable path-sensitive analysis.	Isil Dillig,Thomas Dillig,Alex Aiken	10.1145/1375581.1375615
+Explaining failures of program analyses.	Daniel von Dincklage,Amer Diwan	10.1145/1375581.1375614
+Certifying low-level programs with hardware interrupts and preemptive threads.	Xinyu Feng 0001,Zhong Shao,Yuan Dong,Yu Guo	10.1145/1375581.1375603
+Velodrome: a sound and complete dynamic atomicity checker for multithreaded programs.	Cormac Flanagan,Stephen N. Freund,Jaeheon Yi	10.1145/1375581.1375618
+Grammar-based whitebox fuzzing.	Patrice Godefroid,Adam Kiezun,Michael Y. Levin	10.1145/1375581.1375607
+Model checking transactional memories.	Rachid Guerraoui,Thomas A. Henzinger,Barbara Jobstmann,Vasu Singh	10.1145/1375581.1375626
+Program analysis as constraint solving.	Sumit Gulwani,Saurabh Srivastava 0001,Ramarathnam Venkatesan	10.1145/1375581.1375616
+Copy coalescing by graph recoloring.	Sebastian Hack,Gerhard Goos	10.1145/1375581.1375610
+Discovering properties about arrays in simple programs.	Nicolas Halbwachs,Mathias Péron	10.1145/1375581.1375623
+Expressive and safe static reflection with MorphJ.	Shan Shan Huang,Yannis Smaragdakis	10.1145/1375581.1375592
+Bootstrapping: a technique for scalable flow and context-sensitive pointer alias analysis.	Vineet Kahlon	10.1145/1375581.1375613
+Orchestrating the execution of stream programs on multicore platforms.	Manjunath Kudlur,Scott A. Mahlke	10.1145/1375581.1375596
+Quantitative information flow as network flow capacity.	Stephen McCamant,Michael D. Ernst	10.1145/1375581.1375606
+Fair stateless model checking.	Madanlal Musuvathi,Shaz Qadeer	10.1145/1375581.1375625
+Register allocation by puzzle solving.	Fernando Magno Quintão Pereira,Jens Palsberg	10.1145/1375581.1375609
+A study of concurrent real-time garbage collectors.	Filip Pizlo,Erez Petrank,Bjarne Steensgaard	10.1145/1375581.1375587
+Iterative optimization in the polyhedral model: part ii, multidimensional time.	Louis-Noël Pouchet,Cédric Bastoul,Albert Cohen 0001,John Cavazos	10.1145/1375581.1375594
+Liquid types.	Patrick Maxim Rondon,Ming Kawaguchi,Ranjit Jhala	10.1145/1375581.1375602
+Race directed random testing of concurrent programs.	Koushik Sen	10.1145/1375581.1375584
+Sketching concurrent data structures.	Armando Solar-Lezama,Christopher Grant Jones,Rastislav Bodík	10.1145/1375581.1375599
+Checking race freedom via linear programming.	Tachio Terauchi	10.1145/1375581.1375583
+Deriving linearizable fine-grained concurrent objects.	Martin T. Vechev,Eran Yahav	10.1145/1375581.1375598
+Conditional correlation analysis for safe region-based memory management.	Xi Wang 0005,Zhilei Xu,Xuezheng Liu,Zhenyu Guo,Xiaoge Wang,Zheng Zhang 0001	10.1145/1375581.1375588
+XMem: type-safe, transparent, shared memory for cross-runtime communication and coordination.	Michal Wegiel,Chandra Krintz	10.1145/1375581.1375621
+Efficient program execution indexing.	Bin Xin 0001,William N. Sumner,Xiangyu Zhang 0001	10.1145/1375581.1375611
+Full functional verification of linked data structures.	Karen Zee,Viktor Kuncak,Martin C. Rinard	10.1145/1375581.1375624
+Proceedings of the ACM SIGPLAN 2008 Conference on Programming Language Design and Implementation, Tucson, AZ, USA, June 7-13, 2008	Rajiv Gupta 0001,Saman P. Amarasinghe	10.1145/1375581

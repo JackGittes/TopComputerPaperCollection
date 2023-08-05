@@ -1,0 +1,29 @@
+Multicores from the Compiler&apos;s Perspective: A Blessing or a Curse?.	Saman P. Amarasinghe	10.1109/CGO.2005.22
+Collecting and Exploiting High-Accuracy Call Graph Profiles in Virtual Machines.	Matthew Arnold,David Grove	10.1109/CGO.2005.9
+Context Threading: A Flexible and Efficient Dispatch Technique for Virtual Machine Interpreters.	Marc Berndl,Benjamin Vitale,Mathew Zaleski,Angela Demke Brown	10.1109/CGO.2005.14
+Practical Path Profiling for Dynamic Optimizers.	Michael D. Bond,Kathryn S. McKinley	10.1109/CGO.2005.28
+Maintaining Consistency and Bounding Capacity of Software Code Caches.	Derek Bruening,Saman P. Amarasinghe	10.1109/CGO.2005.19
+Automatic Generation of High-Performance Trace Compressors.	Martin Burtscher,Nana B. Sam	10.1109/CGO.2005.6
+Combining Models and Guided Empirical Search to Optimize for Multiple Levels of the Memory Hierarchy.	Chun Chen 0002,Jacqueline Chame,Mary W. Hall	10.1109/CGO.2005.10
+Optimizing Address Code Generation for Array-Intensive DSP Applications.	Guilin Chen,Mahmut T. Kandemir	10.1109/CGO.2005.23
+A General Compiler Framework for Speculative Optimizations Using Data Speculative Code Motion.	Xiaoru Dai,Antonia Zhai,Wei-Chung Hsu,Pen-Chung Yew	10.1109/CGO.2005.1
+Performance of Runtime Optimization on BLAST.	Abhinav Das,Jiwei Lu,Howard Chen 0002,Jinpyo Kim,Pen-Chung Yew,Wei-Chung Hsu,Dong-yuan Chen	10.1109/CGO.2005.25
+Practical and Accurate Low-Level Pointer Analysis.	Bolei Guo,Matthew J. Bridges,Spyridon Triantafyllis,Guilherme Ottoni,Easwaran Raman,David I. August	10.1109/CGO.2005.27
+Virtual Machine Learning: Thinking like a Computer Architect.	Michael Hind	10.1109/CGO.2005.37
+Effective Adaptive Computing Environment Management via Dynamic Optimization.	Shiwen Hu,Madhavi Gopal Valluri,Lizy Kurian John	10.1109/CGO.2005.17
+A Progressive Register Allocator for Irregular Architectures.	David Koes,Seth Copen Goldstein	10.1109/CGO.2005.4
+Optimizing Sorting with Genetic Algorithms.	Xiaoming Li,María Jesús Garzarán,David A. Padua	10.1109/CGO.2005.24
+Phase-Aware Remote Profiling.	Priya Nagpurkar,Chandra Krintz,Timothy Sherwood	10.1109/CGO.2005.26
+Compile-Time Concurrent Marking Write Barrier Removal.	V. Krishna Nandivada,David Detlefs	10.1109/CGO.2005.12
+Sentinel PRE: Hoisting beyond Exception Dependency with Dynamic Deoptimization.	Rei Odaira,Kei Hiraki	10.1109/CGO.2005.32
+Compiler Managed Dynamic Instruction Placement in a Low-Power Code Cache.	Rajiv A. Ravindran,Pracheeti D. Nagarkar,Ganesh S. Dasika,Eric D. Marsman,Robert M. Senger,Scott A. Mahlke,Richard B. Brown	10.1109/CGO.2005.13
+SWIFT: Software Implemented Fault Tolerance.	George A. Reis,Jonathan Chang,Neil Vachharajani,Ram Rangan,David I. August	10.1109/CGO.2005.34
+Superword-Level Parallelism in the Presence of Control Flow.	Jaewook Shin,Mary W. Hall,Jacqueline Chame	10.1109/CGO.2005.33
+Predicting Unroll Factors Using Supervised Classification.	Mark Stephenson,Saman P. Amarasinghe	10.1109/CGO.2005.29
+Automatically Reducing Repetitive Synchronization with a Just-in-Time Compiler for Java.	Mark G. Stoodley,Vijay Sundaresan	10.1109/CGO.2005.7
+A Programmable Hardware Path Profiler.	Kapil Vaswani,Matthew J. Thazhuthaveetil,Y. N. Srikant	10.1109/CGO.2005.3
+Efficient SIMD Code Generation for Runtime Alignment and Length Conversion.	Peng Wu 0001,Alexandre E. Eichenberger,Amy Wang	10.1109/CGO.2005.18
+Building Intrusion-Tolerant Secure Software.	Tao Zhang 0037,Xiaotong Zhuang,Santosh Pande	10.1109/CGO.2005.8
+Model-Based Framework: An Approach for Profit-Driven Optimization.	Min Zhao 0009,Bruce R. Childers,Mary Lou Soffa	10.1109/CGO.2005.2
+Reactive Techniques for Controlling Software Speculation.	Craig B. Zilles,Naveen Neelakantam	10.1109/CGO.2005.30
+3nd IEEE / ACM International Symposium on Code Generation and Optimization (CGO 2005), 20-23 March 2005, San Jose, CA, USA		

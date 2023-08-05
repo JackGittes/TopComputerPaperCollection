@@ -1,0 +1,17 @@
+Transistors to toys: teaching systems to freshmen.	Peter M. Chen	10.1145/1735997.1735998
+Multi-stage replay with crosscut.	Jim Chow,Dominic G. Lucchetti,Tal Garfinkel,Geoffrey Lefebvre,Ryan Gardner,Joshua Mason,Sam Small,Peter M. Chen	10.1145/1735997.1736002
+VMKit: a substrate for managed runtime environments.	Nicolas Geoffray,Gaël Thomas 0001,Julia Lawall,Gilles Muller,Bertil Folliot	10.1145/1735997.1736006
+DBT path selection for holistic memory efficiency and performance.	Apala Guha,Kim M. Hazelwood,Mary Lou Soffa	10.1145/1735997.1736018
+Optimizing crash dump in virtualized environments.	Yijian Huang,Haibo Chen 0001,Binyu Zang	10.1145/1735997.1736003
+Looking beyond a singularity.	Galen C. Hunt	10.1145/1735997.1735999
+AASH: an asymmetry-aware scheduler for hypervisors.	Vahid Kazempour,Ali Kamali,Alexandra Fedorova	10.1145/1735997.1736011
+Dynamic binary translation specialized for embedded systems.	Goh Kondoh,Hideaki Komatsu	10.1145/1735997.1736019
+Supporting soft real-time tasks in the xen hypervisor.	Min Lee,A. S. Krishnakumar,Parameshwaran Krishnan,Navjot Singh 0001,Shalini Yajnik	10.1145/1735997.1736012
+Novel online profiling for virtual machines.	Manjiri A. Namjoshi,Prasad A. Kulkarni	10.1145/1735997.1736016
+Efficient runtime tracking of allocation sites in Java.	Rei Odaira,Kazunori Ogata,Kiyokuni Kawachiya,Tamiya Onodera,Toshio Nakatani	10.1145/1735997.1736014
+Capability wrangling made easy: debugging on a microkernel with valgrind.	Aaron Pohle,Björn Döbel,Michael Roitzsch,Hermann Härtig	10.1145/1735997.1736001
+Evaluation of a just-in-time compiler retrofitted for PHP.	Michiaki Tatsubori,Akihiko Tozawa,Toyotaro Suzumura,Scott Trent,Tamiya Onodera	10.1145/1735997.1736015
+Improving compiler-runtime separation with XIR.	Ben L. Titzer,Thomas Würthinger,Doug Simon,Marcelo Cintra	10.1145/1735997.1736005
+Energy-efficient storage in virtual machine environments.	Lei Ye 0008,Gen Lu,Sushanth Kumar,Chris Gniady,John H. Hartman	10.1145/1735997.1736009
+Neon: system support for derived data management.	Qing Zhang,John McCullough,Justin Ma,Nabil Schear,Michael Vrable,Amin Vahdat,Alex C. Snoeren,Geoffrey M. Voelker,Stefan Savage	10.1145/1735997.1736008
+Proceedings of the 6th International Conference on Virtual Execution Environments, VEE 2010, Pittsburgh, Pennsylvania, USA, March 17-19, 2010	Marc E. Fiuczynski,Emery D. Berger,Andrew Warfield	10.1145/1735997

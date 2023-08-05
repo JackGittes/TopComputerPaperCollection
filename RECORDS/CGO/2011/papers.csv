@@ -1,0 +1,31 @@
+The language, optimizer, and tools mess.	Erik R. Altman	10.1109/CGO.2011.5764667
+Language and compiler support for auto-tuning variable-accuracy algorithms.	Jason Ansel,Yee Lok Wong,Cy P. Chan,Marek Olszewski,Alan Edelman,Saman P. Amarasinghe	10.1109/CGO.2011.5764677
+LAR-CC: Large atomic regions with conditional commits.	Edson Borin,Youfeng Wu,Maurício Breternitz Jr.,Cheng Wang 0013	10.1109/CGO.2011.5764674
+Practical memory checking with Dr. Memory.	Derek Bruening,Qin Zhao	10.1109/CGO.2011.5764689
+The runtime abort graph and its application to software transactional memory optimization.	Dhruva R. Chakrabarti,Prithviraj Banerjee,Hans-Juergen Boehm,Pramod G. Joisha,Robert S. Schreiber	10.1109/CGO.2011.5764673
+Extendable pattern-oriented optimization directives.	Huimin Cui,Jingling Xue,Lei Wang 0004,Yang Yang,Xiaobing Feng 0002,Dongrui Fan	10.1109/CGO.2011.5764679
+Highly scalable distributed dataflow analysis.	Joseph L. Greathouse,Chelsea LeBlanc,Todd M. Austin,Valeria Bertacco	10.1109/CGO.2011.5764695
+Flow-sensitive pointer analysis for millions of lines of code.	Ben Hardekopf,Calvin Lin	10.1109/CGO.2011.5764696
+Runtime automatic speculative parallelization.	Ben Hertzberg,Kunle Olukotun	10.1109/CGO.2011.5764675
+MAO - An extensible micro-architectural optimizer.	Robert Hundt,Easwaran Raman,Martin Thuresson,Neil Vachharajani	10.1109/CGO.2011.5764669
+A trace-based Java JIT compiler retrofitted from a method-based compiler.	Hiroshi Inoue,Hiroshige Hayashizaki,Peng Wu 0001,Toshio Nakatani	10.1109/CGO.2011.5764692
+Link-time optimization for power efficiency in a tagless instruction cache.	Timothy M. Jones 0001,Sandro Bartolini,Jonas Maebe,Dominique Chanet	10.1109/CGO.2011.5764672
+Neighborhood-aware data locality optimization for NoC-based multicores.	Mahmut T. Kandemir,Yuanrui Zhang,Jun Liu 0008,Taylan Yemliha	10.1109/CGO.2011.5764687
+Whole-function vectorization.	Ralf Karrenberg,Sebastian Hack	10.1109/CGO.2011.5764682
+Automatic parallelization of fine-grained meta-functions on a chip multiprocessor.	Sanghoon Lee 0006,James Tuck	10.1109/CGO.2011.5764681
+Formally verifying a compiler: Why? How? How far?	Xavier Leroy	10.1109/CGO.2011.5764668
+Dynamic register promotion of stack variables.	Jianjun Li,Chenggang Wu 0002,Wei-Chung Hsu	10.1109/CGO.2011.5764671
+Pinpointing data locality problems using data-centric analysis.	Xu Liu 0001,John M. Mellor-Crummey	10.1109/CGO.2011.5764685
+On-chip cache hierarchy-aware tile scheduling for multicore machines.	Jun Liu 0008,Yuanrui Zhang,Wei Ding 0008,Mahmut T. Kandemir	10.1109/CGO.2011.5764684
+Dynamically accelerating client-side web applications through decoupled execution.	Mojtaba Mehrara,Scott A. Mahlke	10.1109/CGO.2011.5764676
+Prioritizing constraint evaluation for efficient points-to analysis.	Rupesh Nasre,Ramaswamy Govindarajan	10.1109/CGO.2011.5764694
+Intel&apos;s Array Building Blocks: A retargetable, dynamic compiler and embedded language.	Chris J. Newburn,Byoungro So,Zhenying Liu,Michael D. McCool,Anwar M. Ghuloum,Stefanus Du Toit,Zhi-Gang Wang,Zhaohui Du,Yongjian Chen,Gansha Wu,Peng Guo,Zhanglin Liu,Dan Zhang	10.1109/CGO.2011.5764690
+Vapor SIMD: Auto-vectorize once, run everywhere.	Dorit Nuzman,Sergei Dyshel,Erven Rohou,Ira Rosen,Kevin Williams 0001,David Yuste,Albert Cohen 0001,Ayal Zaks	10.1109/CGO.2011.5764683
+Predictive modeling in a polyhedral optimization space.	Eunjung Park,Louis-Noël Pouchet,John Cavazos,Albert Cohen 0001,P. Sadayappan	10.1109/CGO.2011.5764680
+Automated locality optimization based on the reuse distance of string operations.	Silvius Rus,Raksit Ashok,David Xinliang Li	10.1109/CGO.2011.5764686
+Using machines to learn method-specific compilation strategies.	Ricardo Nabinger Sanchez,José Nelson Amaral,Duane Szafron,Marius Pirvu,Mark G. Stoodley	10.1109/CGO.2011.5764693
+Phase-based tuning for better utilization of performance-asymmetric multicore processors.	Tyler Sondag,Hridesh Rajan	10.1109/CGO.2011.5764670
+A HW/SW co-designed heterogeneous multi-core virtual machine for energy-efficient general purpose computing.	Youfeng Wu,Shiliang Hu,Edson Borin,Cheng Wang 0013	10.1109/CGO.2011.5764691
+Acculock: Accurate and efficient detection of data races.	Xinwei Xie,Jingling Xue	10.1109/CGO.2011.5764688
+Automated programmable control and parameterization of compiler optimizations.	Qing Yi	10.1109/CGO.2011.5764678
+Proceedings of the CGO 2011, The 9th International Symposium on Code Generation and Optimization, Chamonix, France, April 2-6, 2011		

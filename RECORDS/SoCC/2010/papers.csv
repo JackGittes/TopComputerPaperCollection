@@ -1,0 +1,97 @@
+A multi-channel frequency detection and monitoring system.	Mohammed A. S. Abdallah,Omar S. Elkeelany	10.1109/SOCC.2010.5784652
+High speed recursion-free CORDIC architecture.	Shakeel S. Abdulla,Haewoon Nam,Earl E. Swartzlander Jr.,Jacob A. Abraham	10.1109/SOCC.2010.5784666
+Estimation of characteristic variation of photodiodes and its compensation method in an optically reconfigurable gate array.	Yuji Aoyama,Minoru Watanabe	10.1109/SOCC.2010.5784753
+Binary object recognition system on FPGA with bSOM.	Kofi Appiah,Andrew Hunter,Patrick Dickinson,Hongying Meng	10.1109/SOCC.2010.5784755
+A novel architectural approach for control architectures in RF transceivers.	Siegfried Brandstätter,Burkhard Neurauter,Mario Huemer	10.1109/SOCC.2010.5784667
+A holistic view on low power design.	Thomas Büchner	10.1109/SOCC.2010.5784643
+Flow oriented routing for NOCS.	Everton Carara,Fernando Moraes 0001	10.1109/SOCC.2010.5784697
+What You Need to Know About Patent Litigation.	Jo Dale Carothers	10.1109/SOCC.2010.5784685
+Statistical electro-thermal analysis with high compatibility of leakage power models.	Huai-Chung Chang,Pei-Yu Huang,Ting-Jung Li,Yu-Min Lee	10.1109/SOCC.2010.5784747
+Implementation of a hardware-efficient EEG processor for brain monitoring systems.	Chiu-Kuo Chen,Ericson Chua,Shao-Yen Tseng,Chih-Chung Fu,Wai-Chi Fang	10.1109/SOCC.2010.5784735
+Energy and delay-aware mapping for real-time digital processing system on network on chip platforms.	Yiou Chen,Jianhao Hu,Gengsheng Chen,Xiang Ling 0002	10.1109/SOCC.2010.5784699
+Handling shared variable synchronization in multi-core Network-on-Chips with distributed memory.	Xiaowen Chen,Zhonghai Lu,Axel Jantsch,Shuming Chen	10.1109/SOCC.2010.5784680
+A 10B 200MHz pipeline ADC with minimal feedback penalty and 0.35pJ/conversion-step.	Gang Chen,Yifei Luo,Jiayin Tian,Kuan Zhou	10.1109/SOCC.2010.5784665
+Case study: Runtime reduction of a buffer insertion algorithm using GPU parallel programming.	Won Ha Choi,Xun Liu	10.1109/SOCC.2010.5784744
+A 40 Mbps H.264/AVC CAVLC decoder using a 64-bit multiple-issue video parsing coprocessor.	Soonwoo Choi,Jason Jong Kyu Park,Moonmo Koo,Daewoong Kim,Soo-Ik Chae	10.1109/SOCC.2010.5784729
+Comparative performance evaluation of wireless and optical NoC architectures.	Sujay Deb,Kevin Chang 0002,Amlan Ganguly,Partha Pratim Pande	10.1109/SOCC.2010.5784675
+Power minimization methodology for VCTL topologies.	Osman Kubilay Ekekon,Samed Maltabas,Martin Margala,Ugur Çilingiroglu	10.1109/SOCC.2010.5784688
+Power analysis for Asynchronous CLICHÉ Network-on-Chip.	Mohamed A. Abd El-Ghany,Gursharan Reehal,Darek Korzec,Mohammed Ismail 0001	10.1109/SOCC.2010.5784677
+A method for efficient NoC test scheduling using deterministic routing.	Rana Farah,Haidar Harmanani	10.1109/SOCC.2010.5784696
+FoN: Fault-on-Neighbor aware routing algorithm for Networks-on-Chip.	Chaochao Feng,Zhonghai Lu,Axel Jantsch,Jinwen Li,Minxuan Zhang	10.1109/SOCC.2010.5784672
+MMPI: A flexible and efficient multiprocessor message passing interface for NoC-based MPSoC.	Fangfa Fu,Siyue Sun,Xin&apos;an Hu,Junjie Song,Jinxiang Wang 0001,Mingyan Yu	10.1109/SOCC.2010.5784695
+Optimization and predication of leakage current characteristics in wide domino OR gates under PVT variation.	Na Gong,Ramalingam Sridhar	10.1109/SOCC.2010.5784663
+Run-time communication bypassing for energy-efficient, low-latency per-core DVFS on Network-on-Chip.	Liang Guang,Ethiopia Nigussie,Hannu Tenhunen	10.1109/SOCC.2010.5784674
+Highly programmable switched-capacitor filters using biquads with nonuniform internal clocks.	Oliver E. Gysel,Paul J. Hurst,Stephen H. Lewis	10.1109/SOCC.2010.5784636
+NBTI-aware statistical timing analysis framework.	Sangwoo Han,Juho Kim	10.1109/SOCC.2010.5784734
+An efficient VLSI architecture for extended variable block sizes motion estimation.	Weifeng He,Weiwei Chen,Zhigang Mao	10.1109/SOCC.2010.5784692
+Orthogonal shift level comparison reuse for structuring element shape independent VLSI-Architectures of 2D morphological operations.	Markus Holzer 0002,Ruben Bartholomä,Thomas Greiner,Wolfgang Rosenstiel	10.1109/SOCC.2010.5784731
+A 65nm CMOS ultra low power and low noise 131M front-end transimpedance amplifier.	Jiaping Hu,Yong-Bin Kim,Joseph Ayers	10.1109/SOCC.2010.5784645
+Enhanced IEEE 1500 test wrapper for testing small RAMs in SOCs.	Yu-Jen Huang,Yun-Chao You,Jin-Fu Li	10.1109/SOCC.2010.5784742
+A routing architecture exploration for coarse-grained reconfigurable architecture with automated seu-tolerance evaluation.	Takashi Imagawa,Masayuki Hiromoto,Hiroyuki Ochi,Takashi Sato	10.1109/SOCC.2010.5784754
+Effect of a polywell leometry on a CMOS photodiode array.	Paul V. Jansz-Drávetzky,Steven Hinckley,Graham Wild	10.1109/SOCC.2010.5784694
+Energy efficient computation with self-adaptive single-ended body bias.	Senthil Jayapal,Jan Stuijt,Jos Huisken,Yiannos Manoli	10.1109/SOCC.2010.5784687
+A CMOS low-power low-offset and high-speed fully dynamic latched comparator.	HeungJun Jeon,Yong-Bin Kim	10.1109/SOCC.2010.5784646
+Resource constrained mapping of data flow graphs onto coarse-grained reconfigurable array.	Naifeng Jing,Weifeng He,Zhigang Mao	10.1109/SOCC.2010.5784756
+Quality-driven SoC architecture synthesis for embedded applications.	Lech Józwiak	10.1109/SOCC.2010.5784686
+Clock buffer with duty cycle corrector.	Shao-Ku Kao,Yong-De You	10.1109/SOCC.2010.5784648
+High speed and low power transceiver design with CNFET and CNT bundle interconnect.	Young Bok Kim,Yong-Bin Kim	10.1109/SOCC.2010.5784733
+Hybrid MOSFET/CNFET based power gating structure.	Kyung Ki Kim,Haiqing Nan,Ken Choi	10.1109/SOCC.2010.5784689
+A 1.7Gbps DLL-based Clock Data Recovery in 0.35µm CMOS.	Sang-Ho Kim,Hyung-Min Park,Tae-Ho Kim,Jin-Ku Kang,Jin-Ho Kim,Jae-Youl Lee,Yoon-Kyung Choi,Myunghee Lee	10.1109/SOCC.2010.5784641
+A design procedure of predictive RF MOSFET model for compatibility with ITRS.	SinNyoung Kim,Akira Tsuchiya,Hidetoshi Onodera	10.1109/SOCC.2010.5784704
+Exploiting large on-chip memory space through data recomputation.	Hakduran Koc,Mahmut T. Kandemir,Ehat Ercanli	10.1109/SOCC.2010.5784683
+Simultaneous co-design of distributed on-chip power supplies and decoupling capacitors.	Selçuk Köse,Eby G. Friedman	10.1109/SOCC.2010.5784662
+Unleash the parallelism of 3DIC partitioning on GPGPU.	Hsien-Kai Kuo,Bo-Cheng Charles Lai,Jing-Yang Jou	10.1109/SOCC.2010.5784745
+A digitally self-calibrated low-noise 7-bit folding A/D converter.	Minah Kwon,Dahsom Kim,Daeyun Kim,Junho Moon,Minkyu Song	10.1109/SOCC.2010.5784637
+A multimedia content generation methodology in support to SOC decoder development and validation.	Tuyet-Trang Lam,Ricardo Citro	10.1109/SOCC.2010.5784693
+Simultaneous voltage island generation and floorplanning.	Houng-Yi Li,Iris Hui-Ru Jiang,Hung-Ming Chen	10.1109/SOCC.2010.5784739
+Power noise suppression technique using active decoupling capacitor for TSV 3D integration.	Tien-Hung Lin,Po-Tsang Huang,Wei Hwang	10.1109/SOCC.2010.5784737
+Expandable MDC-based FFT architecture and its generator for high-performance applications.	Bu-Ching Lin,Yu-Hsiang Wang,Juinn-Dar Huang,Jing-Yang Jou	10.1109/SOCC.2010.5784750
+TERA: A FPGA-based trace-driven emulation framework for designing on-chip communication architectures.	Dan Liu,Yi Feng 0003,Jingjin Zhou,Dong Tong 0001,Xu Cheng 0001,Keyi Wang	10.1109/SOCC.2010.5784749
+A 70dB SNDR 10-MHz BW hybrid delta-sigma/pipeline ADC in 0.18-µm CMOS.	Xiong Liu,Alan N. Willson Jr.	10.1109/SOCC.2010.5784649
+Interconnect system compression analysis for multi-core architectures.	Jiangjiang Liu 0002,Jianyong Zhang,Nihar R. Mahapatra	10.1109/SOCC.2010.5784654
+Towards formal system-level verification of security requirements during hardware/software codesign.	Johannes Loinig,Christian Steger,Reinhold Weiss,Ernst Haselsteiner	10.1109/SOCC.2010.5784702
+Design and analysis of an advanced static blocked multithreading architecture.	Ye Lu 0003,Sakir Sezer,John V. McCanny	10.1109/SOCC.2010.5784736
+System-level exploration of mesh-based NoC architectures for multimedia applications.	Ning Ma,Zhonghai Lu,Zhibo Pang,Li-Rong Zheng 0001	10.1109/SOCC.2010.5784728
+A run-time distributed cooperative approach to optimize power consumption in MPSoCs.	Imen Mansouri,Fabien Clermidy,Pascal Benoit,Lionel Torres	10.1109/SOCC.2010.5784664
+Delay dependent power optimisation of combinational circuits using AND-Inverter graphs.	Rashmi Mehrotra,Tom English,Emanuel M. Popovici,Michel P. Schellekens	10.1109/SOCC.2010.5784661
+Simulation based study of on-chip antennas for a reconfigurable hybrid 3D wireless NoC.	Ankit More,Baris Taskin	10.1109/SOCC.2010.5784673
+From Film to Silicon: The Migration of Document Archiving Technology.	P. R. Mukund	10.1109/SOCC.2010.5784727
+A differential read subthreshold SRAM bitcell with self-adaptive leakage cut off scheme.	Bai Na,Xuan Chen,Yang Jun,Longxin Shi	10.1109/SOCC.2010.5784678
+A prediction-based, data Migration Algorithm for hybrid Architecture NoC systems.	Jon Nafziger,Annie Avakian,Ranga Vemuri	10.1109/SOCC.2010.5784671
+An automated control code generation approach for the SegBus platform.	Moazzam Fareed Niazi,Tiberiu Seceleanu,Hannu Tenhunen	10.1109/SOCC.2010.5784752
+Dependable SRAM with enhanced read-/write-margins by fine-grained assist bias control for low-voltage operation.	Koji Nii,Makoto Yabuuchi,Hidehiro Fujiwara,Hirofumi Nakano,Kazuya Ishihara,Hiroyuki Kawai,Kazutami Arimoto	10.1109/SOCC.2010.5784684
+A 1 ppm/°C bandgap voltage reference with new second-order Taylor curvature compensation.	Ralph Oberhuber,Rahul Prakash,Vadim Ivanov	10.1109/SOCC.2010.5784635
+A BDD-based approach to design power-aware on-line detectors for digital circuits.	Gopal Paul,Santosh Biswas,Chittaranjan A. Mandal,Bhargab B. Bhattacharya	10.1109/SOCC.2010.5784691
+Hermes-AA: A 65nm asynchronous NoC router with adaptive routing.	Julian J. H. Pontes,Matheus T. Moreira,Fernando Moraes 0001,Ney Calazans	10.1109/SOCC.2010.5784676
+Comparison of performance parameters of SRAM designs in 16nm CMOS and CNTFET technologies.	Anuj Pushkarna,Sajna Raghavan,Hamid Mahmoodi	10.1109/SOCC.2010.5784690
+Way-load balancing scheme for mobile cache LRU replacement.	Satish Raghunath,Naveen Davanam,Lakshmi Deepika Bobbala,Byeong Kil Lee	10.1109/SOCC.2010.5784682
+Low power nonvolatile SRAM circuit with integrated low voltage nanocrystal PMOS Flash.	Shantanu Rajwade,Wing-Kei S. Yu,Sarah Q. Xu,Tuo-Hung Hou,G. Edward Suh,Edwin Kan	10.1109/SOCC.2010.5784679
+A Folding Strategy for SAT solvers based on Shannon&apos;s expansion theorem.	Siwat Saibua,Po-Yu Kuo,Dian Zhou,Ming-e Jing	10.1109/SOCC.2010.5784748
+Low-energy configurable syndrome/chien search multi-channel Reed Solomon decoder.	Hamed Salah,Hazem A. Ahmed,Tallal Elshabrawy,Hossam A. H. Fahmy	10.1109/SOCC.2010.5784681
+Thermal estimation for accurate estimation of impact of BTI aging effects on nano-scale SRAM circuits.	Ankitchandra Shah,Hamid Mahmoodi	10.1109/SOCC.2010.5784741
+Process technology and design parameter impact on SRAM Bit-Cell Sleep effectiveness.	Gururaj Shamanna,Bhunesh S. Kshatri,Raja Gaurav,Y. S. Tew,Percy Marfatia,Y. K. Raghavendra,V. Naik	10.1109/SOCC.2010.5784653
+Low-power SOC implementation: What you need to know.	Kaijian Shi	10.1109/SOCC.2010.5784644
+A novel architecture for discrete chaotic signal generators.	Qihang Shi,Xinzhi Xu,Jingbo Guo	10.1109/SOCC.2010.5784669
+Frequency-independent fast-lock register-controlled DLL with wide-range duty cycle adjuster.	Dongsuk Shin,Joo-Hwan Cho,Young-Jung Choi,Byong-Tae Chung	10.1109/SOCC.2010.5784640
+Footer voltage feedforward domino technique for wide fan-in dynamic logic.	Rahul Singh,AhReum Kim,Suhwan Kim	10.1109/SOCC.2010.5784740
+Jitter transfer function model and VLSI jitter filter circuits.	Hongjiang Song,Jianan Song,Aritra Dey,Yan Song	10.1109/SOCC.2010.5784639
+Variation-tolerant design of D-flipflops.	Hiroki Sunagawa,Hidetoshi Onodera	10.1109/SOCC.2010.5784732
+DyML: Dynamic Multi-Level flow control for Networks on Chip.	Wen-Chung Tsai,Ying-Cherng Lan,Sao-Jie Chen,Yu Hen Hu	10.1109/SOCC.2010.5784670
+A globally-interconnected modular CMP system with communication on the fly.	Marek Tudruj,Lukasz Masko	10.1109/SOCC.2010.5784698
+A SystemCAMS extension for the simulation of non-linear circuits.	Thomas Uhle,Karsten Einwich	10.1109/SOCC.2010.5784751
+Thermal modelling of 3D multicore systems in a flip-chip package.	Kameswar Rao Vaddina,Tamoghna Mitra,Pasi Liljeberg,Juha Plosila	10.1109/SOCC.2010.5784700
+Fan-in sensitive low power dynamic circuits performance statistical characterization.	Jinhui Wang,Na Gong,Wuchen Wu,Ligang Hou	10.1109/SOCC.2010.5784655
+Design of a link-controller architecture for multiple serial link protocols.	Lei Wang,Pawankumar Hegde,Vishal Nawathe,Roman Staszewski,Poras T. Balsara,Vojin G. Oklobdzija	10.1109/SOCC.2010.5784757
+Efficient multicasting scheme for irregular mesh-based NoCs.	Xiaohang Wang 0001,Mei Yang,Yingtao Jiang,Peng Liu 0016	10.1109/SOCC.2010.5784701
+A high-resolution and fast-conversion readout circuit for differential capacitive sensors.	Jong-Kwan Woo,Hyunjoong Lee,SungHo Ahn,Suhwan Kim	10.1109/SOCC.2010.5784638
+Estimation of maximum application-level power supply noise.	Tung-Yeh Wu,Sriram Sambamurthy,Jacob A. Abraham	10.1109/SOCC.2010.5784738
+Run-time configuration prefetching to reduce the overhead of dynamically reconfiguration.	Binbin Wu,Like Yan,Yuan Wen,Tianzhou Chen	10.1109/SOCC.2010.5784651
+Routability-driven RDL routing with pin reassignment.	Jin-Tai Yan,Ke-Chyuan Chen,Zhi-Wei Chen	10.1109/SOCC.2010.5784746
+Thermal via planning for temperature reduction in 3D ICs.	Jin-Tai Yan,Yu-Cheng Chang,Zhi-Wei Chen	10.1109/SOCC.2010.5784703
+High-Performance random data lookup for network processing.	Xin Yang 0010,Sakir Sezer,John V. McCanny,Dwayne Burns	10.1109/SOCC.2010.5784758
+A CMOS 5.4/3.24Gbps dual-rate clock and data recovery design for DisplayPort v1.2.	Jae-Wook Yoo,Tae-Ho Kim,Dong-Kyun Kim,Jin-Ku Kang	10.1109/SOCC.2010.5784642
+A CMOS 6 bit 250MS/s A/D converter with input voltage range detectors.	Kwang Yoon,Won Kim	10.1109/SOCC.2010.5784647
+8Gbps high-speed I/O transmitter with scalable speed, swing and equalization levels.	Mohammed Younus,Hongjiang Song	10.1109/SOCC.2010.5784650
+A high-efficiency reconfigurable 2-D Discrete Wavelet Transform engine for JPEG2000 implementation on next generation digital cameras.	Xin Zhao,Ying Yi,Ahmet T. Erdogan,Tughrul Arslan	10.1109/SOCC.2010.5784730
+A mixed-signal timing circuit in 90nm CMOS for energy detection IR-UWB receivers.	Qin Zhou,Jia Mao,Zhuo Zou,Fredrik Jonsson,Li-Rong Zheng 0001	10.1109/SOCC.2010.5784668
+Annual IEEE International SoC Conference, SoCC 2010, September 27-29, 2010, Las Vegas, NV, USA, Proceedings	Thomas Büchner,Ramalingam Sridhar,Andrew Marshall,Norbert Schuhmann	

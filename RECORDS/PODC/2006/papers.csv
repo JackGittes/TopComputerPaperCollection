@@ -1,0 +1,39 @@
+Distributed computing meets game theory: robust mechanisms for rational secret sharing and multiparty computation.	Ittai Abraham,Danny Dolev,Rica Gonen,Joseph Y. Halpern	10.1145/1146381.1146393
+Object location using path separators.	Ittai Abraham,Cyril Gavoille	10.1145/1146381.1146411
+Common2 extended to stacks and unbounded concurrency.	Yehuda Afek,Eli Gafni,Adam Morrison 0001	10.1145/1146381.1146415
+Stably computable predicates are semilinear.	Dana Angluin,James Aspnes,David Eisenstat	10.1145/1146381.1146425
+Transactional contention management as a non-clairvoyant scheduling problem.	Hagit Attiya,Leah Epstein,Hadas Shachnai,Tami Tamir	10.1145/1146381.1146428
+Synchronizing without locks is inherently expensive.	Hagit Attiya,Rachid Guerraoui,Danny Hendler,Petr Kouznetsov	10.1145/1146381.1146427
+Veracity radius: capturing the locality of distributed computations.	Yitzhak Birk,Idit Keidar,Liran Liss,Assaf Schuster,Ran Wolff 0001	10.1145/1146381.1146399
+Routing without regret: on convergence to nash equilibria of regret-minimizing algorithms in routing games.	Avrim Blum,Eyal Even-Dar,Katrina Ligett	10.1145/1146381.1146392
+Grouped distributed queues: distributed queue, proportional share multiprocessor scheduling.	Bogdan Caprita,Jason Nieh,Clifford Stein 0001	10.1145/1146381.1146396
+Adversarial queuing on the multiple-access channel.	Bogdan S. Chlebus,Dariusz R. Kowalski,Mariusz A. Rokicki	10.1145/1146381.1146398
+Self-stabilizing byzantine agreement.	Ariel Daliot,Danny Dolev	10.1145/1146381.1146405
+Local approximation schemes for topology control.	Mirela Damian,Saurav Pandit,Sriram V. Pemmaraju	10.1145/1146381.1146413
+Century papers at the first quarter-century milestone.	Danny Dolev	10.1145/1146381.1146383
+An Omega (n log n) lower bound on the cost of mutual exclusion.	Rui Fan 0004,Nancy A. Lynch	10.1145/1146381.1146423
+Single-scanner multi-writer snapshot implementations are fast!	Panagiota Fatourou,Nikolaos D. Kallimanis	10.1145/1146381.1146416
+Optimally efficient multi-valued byzantine agreement.	Matthias Fitzi,Martin Hirt	10.1145/1146381.1146407
+Oracle size: a new measure of difficulty for communication tasks.	Pierre Fraigniaud,David Ilcinkas,Andrzej Pelc	10.1145/1146381.1146410
+An O(1) RMRs leader election algorithm.	Wojciech M. Golab,Danny Hendler,Philipp Woelfel	10.1145/1146381.1146417
+Quorum placement in networks: minimizing network congestion.	Daniel Golovin,Anupam Gupta 0001,Bruce M. Maggs,Florian Oprea,Michael K. Reiter	10.1145/1146381.1146388
+Towards a theory of transactional contention managers.	Rachid Guerraoui,Maurice Herlihy,Bastian Pochon	10.1145/1146381.1146429
+How fast can a very robust read be?	Rachid Guerraoui,Marko Vukolic	10.1145/1146381.1146419
+The art of multiprocessor programming.	Maurice Herlihy	10.1145/1146381.1146382
+Lower bound for scalable Byzantine Agreement.	Dan Holtby,Bruce M. Kapron,Valerie King	10.1145/1146381.1146424
+EquiCast: scalable multicast with selfish users.	Idit Keidar,Roie Melamed,Ariel Orda	10.1145/1146381.1146394
+Timeliness, failure-detectors, and consensus performance.	Idit Keidar,Alexander Shraer	10.1145/1146381.1146408
+Distributed social systems.	Jon M. Kleinberg	10.1145/1146381.1146384
+Optimal-stretch name-independent compact routing in doubling metrics.	Goran Konjevod,Andréa W. Richa,Donglin Xia	10.1145/1146381.1146412
+Reliable broadcast in radio networks: the bounded collision case.	Chiu-Yuen Koo,Vartika Bhandari,Jonathan Katz,Nitin H. Vaidya	10.1145/1146381.1146420
+Distributed verification of minimum spanning trees.	Amos Korman,Shay Kutten	10.1145/1146381.1146389
+On the complexity of distributed graph coloring.	Fabian Kuhn,Roger Wattenhofer	10.1145/1146381.1146387
+Peer counting and sampling in overlay networks: random walk methods.	Laurent Massoulié,Erwan Le Merrer,Anne-Marie Kermarrec,Ayalvadi J. Ganesh	10.1145/1146381.1146402
+When selfish meets evil: byzantine players in a virus inoculation game.	Thomas Moscibroda,Stefan Schmid 0001,Roger Wattenhofer	10.1145/1146381.1146391
+On the topologies formed by selfish peers.	Thomas Moscibroda,Stefan Schmid 0001,Roger Wattenhofer	10.1145/1146381.1146403
+Computing separable functions via gossip.	Damon Mosk-Aoyama,Devavrat Shah	10.1145/1146381.1146401
+Irreducibility and additivity of set agreement-oriented failure detector classes.	Achour Mostéfaoui,Sergio Rajsbaum,Michel Raynal,Corentin Travers	10.1145/1146381.1146406
+Possibility and complexity of probabilistic reliable communication in directed networks.	Kannan Srinathan,C. Pandu Rangan	10.1145/1146381.1146421
+Sketching asynchronous streams over a sliding window.	Srikanta Tirthapura,Bojian Xu,Costas Busch	10.1145/1146381.1146397
+Life is not a state-machine: the long road from research to production.	Werner Vogels	10.1145/1146381.1146385
+Proceedings of the Twenty-Fifth Annual ACM Symposium on Principles of Distributed Computing, PODC 2006, Denver, CO, USA, July 23-26, 2006	Eric Ruppert,Dahlia Malkhi	

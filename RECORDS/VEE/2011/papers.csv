@@ -1,0 +1,22 @@
+Virtualization in the age of heterogeneous machines.	David F. Bacon	10.1145/1952682.1952684
+Dolly: virtualization-driven database provisioning for the cloud.	Emmanuel Cecchet,Rahul Singh,Upendra Sharma,Prashant J. Shenoy	10.1145/1952682.1952691
+Performance profiling of virtual machines.	Jiaqing Du,Nipun Sehrawat,Willy Zwaenepoel	10.1145/1952682.1952686
+Fast and correct performance recovery of operating systems using a virtual machine monitor.	Kenichi Kourai	10.1145/1952682.1952696
+SymCall: symbiotic virtualization through VMM-to-guest upcalls.	John R. Lange,Peter A. Dinda	10.1145/1952682.1952707
+Minimal-overhead virtualization of a large scale supercomputer.	John R. Lange,Kevin T. Pedretti,Peter A. Dinda,Patrick G. Bridges,Chang Bae,Philip Soltero,Alexander Merritt	10.1145/1952682.1952705
+ReHype: enabling VM survival across hypervisor failures.	Michael Le,Yuval Tamir	10.1145/1952682.1952692
+Patch auditing in infrastructure as a service clouds.	Lionel Litty,David Lie	10.1145/1952682.1952702
+Perfctr-Xen: a framework for performance counter virtualization.	Ruslan Nikolaev 0001,Godmar Back	10.1145/1952682.1952687
+Fast and space-efficient virtual machine checkpointing.	Eunbyung Park,Bernhard Egger,Jaejin Lee	10.1145/1952682.1952694
+Fine-grained user-space security through virtualization.	Mathias Payer,Thomas R. Gross	10.1145/1952682.1952703
+Hybrid binary rewriting for memory access instrumentation.	Amitabha Roy 0002,Steven Hand 0001,Tim Harris 0001	10.1145/1952682.1952711
+Evaluation of delta compression techniques for efficient live migration of large virtual machines.	Petter Svärd,Benoit Hudzia,Johan Tordsson,Erik Elmroth	10.1145/1952682.1952698
+Rethink the virtual machine template.	Kun Wang,Jia Rao,Cheng-Zhong Xu 0001	10.1145/1952682.1952690
+Selective hardware/software memory virtualization.	Xiaolin Wang 0001,Jiarui Zang,Zhenlin Wang,Yingwei Luo,Xiaoming Li 0001	10.1145/1952682.1952710
+Overdriver: handling memory overload in an oversubscribed cloud.	Dan Williams,Hani Jamjoom,Yew-Huey Liu,Hakim Weatherspoon	10.1145/1952682.1952709
+CloudNet: dynamic pooling of cloud resources by live WAN migration of virtual machines.	Timothy Wood 0001,K. K. Ramakrishnan,Prashant J. Shenoy,Jacobus E. van der Merwe	10.1145/1952682.1952699
+Virtual WiFi: bring virtualization from wired to wireless.	Lei Xia,Sanjay Kumar,Xue Yang 0007,Praveen Gopalakrishnan,York Liu,Sebastian Schoenberg,Xingang Guo	10.1145/1952682.1952706
+Fast restore of checkpointed memory using working set estimation.	Irene Zhang,Alex Garthwaite,Yury Baskakov,Kenneth C. Barr	10.1145/1952682.1952695
+Dynamic cache contention detection in multi-threaded applications.	Qin Zhao,David Koh,Syed Raza,Derek Bruening,Weng-Fai Wong,Saman P. Amarasinghe	10.1145/1952682.1952688
+Workload-aware live storage migration for clouds.	Jie Zheng,Tze Sing Eugene Ng,Kunwadee Sripanidkulchai	10.1145/1952682.1952700
+Proceedings of the 7th International Conference on Virtual Execution Environments, VEE 2011, Newport Beach, CA, USA, March 9-11, 2011 (co-located with ASPLOS 2011)	Erez Petrank,Doug Lea	10.1145/1952682

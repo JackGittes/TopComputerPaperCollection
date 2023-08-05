@@ -1,0 +1,69 @@
+An Agent-Based Infrastructure for Parallel Java on Heterogeneous Cluster.	Jameela Al-Jaroodi,Nader Mohamed,Hong Jiang 0001,David R. Swanson	10.1109/CLUSTR.2002.1137724
+Performance and Implementation of Distributed Data CPHF and SCF Algorithms.	Yuri Alexeev,Michael W. Schmidt,Theresa L. Windus,Mark S. Gordon,Ricky A. Kendall	10.1109/CLUSTR.2002.1137738
+Blue Gene/L, a System-On-A-Chip.	George S. Almási,Daniel K. Beece,Ralph Bellofatto,Gyan Bhanot,Randy Bickford,Matthias A. Blumrich,Arthur A. Bright,José R. Brunheroto,Calin Cascaval,José G. Castaños,Luis Ceze,Paul Coteus,Siddhartha Chatterjee,Dong Chen 0005,George L.-T. Chiu,Thomas M. Cipolla,Paul Crumley,Alina Deutsch,Marc Boris Dombrowa,Wilm E. Donath,Maria Eleftheriou,Blake G. Fitch,Joseph Gagliano,Alan Gara,Robert S. Germain,Mark Giampapa,Manish Gupta 0002,Fred G. Gustavson,Shawn Hall,Ruud A. Haring,David F. Heidel,Philip Heidelberger,Lorraine Herger,Dirk Hoenicke,T. Jamal-Eddine,Gerard V. Kopcsay,Alphonso P. Lanzetta,Derek Lieber,M. Lu,Mark P. Mendell,Lawrence S. Mok,José E. Moreira,Ben J. Nathanson,Matthew Newton,Martin Ohmacht,Rick A. Rand,Richard D. Regan,Ramendra K. Sahoo,Alda Sanomiya,Eugen Schenfeld,Sarabjeet Singh,Peilin Song,Burkhard D. Steinmacher-Burow,Karin Strauss,Richard A. Swetz,Todd Takken,R. Brett Tremaine,Mickey Tsao,Pavlos Vranas,T. J. Christopher Ward,Michael E. Wazlowski,J. Brown,Thomas A. Liebsch,A. Schram,G. Ulsh	10.1109/CLUSTR.2002.1137766
+High Performance User Level Sockets over Gigabit Ethernet.	Pavan Balaji,Piyush Shivam,Pete Wyckoff,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2002.1137745
+BioOpera: Cluster-Aware Computing.	Win Bausch,Cesare Pautasso,Reto Schaeppi,Gustavo Alonso	10.1109/CLUSTR.2002.1137734
+Low-Cost Non-Intrusive Debugging Strategies for Distributed Parallel Programs.	Michael D. Beynon,Henrique Andrade,Joel H. Saltz	10.1109/CLUSTR.2002.1137778
+Interconnects: Which One Is Right for You?	Brett M. Bode	10.1109/CLUSTR.2002.1137764
+Production Clustering at Pratt &amp; Whitney: Desktop Supercomputing for Engineering Design.	Pete Bradley	10.1109/CLUSTR.2002.1137742
+Blades - An Emerging System Design Model for Economic Delivery of High Performance Computing.	Kirk Bresniker	10.1109/CLUSTR.2002.1137722
+Memory Mapped Networks: A New Deal for Distributed Shared Memories? The SciFS Experience.	Emmanuel Cecchet	10.1109/CLUSTR.2002.1137751
+MyVIA: A Design and Implementation of the High Performance Virtual Interface Architecture.	Yu Chen,Xiaoge Wang,Zhenqiang Jiao,Jun Xie,Zhihui Du,Sanli Li	10.1109/CLUSTR.2002.1137741
+Noncontiguous I/O through PVFS.	Avery Ching,Alok N. Choudhary,Wei-keng Liao,Robert B. Ross,William Gropp	10.1109/CLUSTR.2002.1137773
+Scalable Loop Self-Scheduling Schemes for Heterogeneous Clusters.	Anthony T. Chronopoulos,Satish Penmatsa,Ning Yu	10.1109/CLUSTR.2002.1137767
+A Data Parallel Programming Model Based on Distributed Objects.	Roxana Diaconescu,Reidar Conradi	10.1109/CLUSTR.2002.1137782
+A Parallelization Technique that Improves Performance and Cluster Utilization Efficiency for Heterogeneous Clusters of Workstations.	Gerardo Díaz-Cuéllar,David A. Garza-Salazar	10.1109/CLUSTR.2002.1137756
+Trends in High Performance Computing and Using Numerical Libraries on Cluster.	Jack J. Dongarra	10.1109/CLUSTR.2002.1137743
+Clusters as Large-Scale.	Rémy Evard,Narayan Desai,John-Paul Navarro,Daniel Nurmi	10.1109/CLUSTR.2002.1137729
+On the Evaluation of JavaSymphony for Cluster Applications.	Thomas Fahringer,Alexandru Jugravu,Beniamino Di Martino,Salvatore Venticinque,Hans Moritsch	10.1109/CLUSTR.2002.1137772
+The Bladed Beowulf: A Cost-Effective Alternative to Traditional Beowulf.	Wu-chun Feng,Michael S. Warren,Eric Weigle	10.1109/CLUSTR.2002.1137753
+Scalable Resource Management in High Performance Computers.	Eitan Frachtenberg,Fabrizio Petrini,Juan Fernández 0001,Salvador Coll	10.1109/CLUSTR.2002.1137759
+A Distributed Data Implementation of Parallel Full CI Program.	Zhengting Gan,Yuri Alexeev,Ricky A. Kendall,Mark S. Gordon	10.1109/CLUSTR.2002.1137786
+Compiling Tiled Iteration Spaces for Clusters.	Georgios I. Goumas,Nikolaos Drosinos,Maria Athanasaki,Nectarios Koziris	10.1109/CLUSTR.2002.1137768
+Goals Guiding Design: PVM and MP.	William Gropp,Ewing L. Lusk	10.1109/CLUSTR.2002.1137754
+Algorithmic Mechanism Design for Load Balancing in Distributed Systems.	Daniel Grosu,Anthony T. Chronopoulos	10.1109/CLUSTR.2002.1137780
+Efficient Barrier Using Remote Memory Operations on VIA-Based Clusters.	Rinku Gupta,Vinod Tipparaju,Jarek Nieplocha,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2002.1137732
+Using Idle Disks in a Cluster as a High-Performance Storage System.	Jørgen S. Hansen,Renaud Lachaiz	10.1109/CLUSTR.2002.1137774
+Reliable Blast UDP: Predictable High Performance Bulk Data Transfer.	Eric He,Jason Leigh,Oliver T. W. Yu,Thomas A. DeFanti	10.1109/CLUSTR.2002.1137760
+Indexing the Web - A Challenge for Supercomputers.	Monika Rauch Henzinger	10.1109/CLUSTR.2002.1137763
+Parallel Pattern Identification in Biological Sequences on Clusters.	Chun-Hsi Huang,Ratnabali Biswas	10.1109/CLUSTR.2002.1137737
+Adaptive Message Management Using Hybrid Channel Model in Parallel File System.	Joon-Hyung Hwangbo,Sang-Ki Lee,Yoon-Young Lee,Dae-Wha Seo	10.1109/CLUSTR.2002.1137752
+CEJVM: &quot;Cluster Enabled Java Virtual Machine&quot;.	Muhammad Umar Janjua,Muhammad Mehboob Yasin,Ch. Falak Sher,K. Awan,I. Hassan	10.1109/CLUSTR.2002.1137771
+Leveraging Standard Core Technologies to Programmatically Build Linux Cluster Appliances.	Mason J. Katz,Philip M. Papadopoulos,Greg Bruno	10.1109/CLUSTR.2002.1137728
+An Extensible, Portable, Scalable Cluster Management Software Architecture.	James H. Laros III,Lee Ward,Nathan W. Dauchy,Ron Brightwell,Trammell Hudson,Ruth Klundt	10.1109/CLUSTR.2002.1137757
+COMB: A Portable Benchmark Suite for Assessing MPI Overlap.	William Lawry,Christopher Wilson,Arthur B. Maccabe,Ron Brightwell	10.1109/CLUSTR.2002.1137785
+Community Services: A Toolkit for Rapid Deployment of Network Services.	Byoung-Dai Lee,Jon B. Weissman	10.1109/CLUSTR.2002.1137781
+Processor Allocation on Cplant: Achieving General Processor Locality Using One-Dimensional Allocation Strategies.	Vitus J. Leung,Esther M. Arkin,Michael A. Bender,David P. Bunde,Jeanette Johnston,Alok Lal,Joseph S. B. Mitchell,Cynthia A. Phillips,Steven S. Seiden	10.1109/CLUSTR.2002.1137758
+I/O Analysis and Optimization for an AMR Cosmology Application.	Jianwei Li,Wei-keng Liao,Alok N. Choudhary,Valerie E. Taylor	10.1109/CLUSTR.2002.1137736
+Design and Validation of Portable Communication Infrastructure for Fault-Tolerant Cluster Middleware.	Ming Li 0020,Wenchao Tao,Daniel Goldberg 0002,Israel Hsu,Yuval Tamir	10.1109/CLUSTR.2002.1137755
+Research Directions in Parallel I/O for Clusters.	Walter B. Ligon III	10.1109/CLUSTR.2002.1137777
+Job Scheduling for Prime Time vs. Non-Prime Time.	Virginia Mary Lo,Jens Mache	10.1109/CLUSTR.2002.1137789
+MPI in 2002: Has it Been Ten Years Already?	Ewing L. Lusk	10.1109/CLUSTR.2002.1137776
+Experience in Offloading Protocol Processing to a Programmable NIC.	Arthur B. Maccabe,Wenbin Zhu,Jim Otto,Rolf Riesen	10.1109/CLUSTR.2002.1137730
+MAGE- A Metacomputing Environment for Parallel Program Development on Cluster Computers.	M. T. McMahon,B. P. DeLong,M. E. Fotta,G. J. Weinstock,A. E. Williams	10.1109/CLUSTR.2002.1137784
+Scalable Cluster Administration - Chiba City I Approach and Lessons Learned.	John-Paul Navarro,Rémy Evard,Daniel Nurmi,Narayan Desai	10.1109/CLUSTR.2002.1137749
+Design and Implementation of CC-NUMA Card II for SCI-Based PC Clustering.	Soo-Cheol Oh,Sang-Hwa Chung,Hankook Jang	10.1109/CLUSTR.2002.1137739
+Cplant? Runtime System Support for Multi-Processor and Heterogeneous Compute Nodes.	Kevin T. Pedretti,Ron Brightwell,Joshua Williams	10.1109/CLUSTR.2002.1137748
+SilkRoad II: A Multi-Paradigm Runtime System for Cluster Computing.	Liang Peng,Weng-Fai Wong,Chung-Kwong Yuen	10.1109/CLUSTR.2002.1137779
+A New Architecture for Secure Carrier-Class Clusters.	Makan Pourzandi,Ibrahim Haddad,Charles Levert,Miroslaw Zakrzewski,Michel Dagenais	10.1109/CLUSTR.2002.1137790
+ZENTURIO: An Experiment Management System for Cluster and Grid Computing.	Radu Prodan,Thomas Fahringer	10.1109/CLUSTR.2002.1137723
+I-Cluster: The Execution Sandbox.	Bruno Richard 0002	10.1109/CLUSTR.2002.1137733
+Cluster Based Hybrid Hash Join: Analysis and Evaluation.	Erich Schikuta,Peter Kirkovits	10.1109/CLUSTR.2002.1137783
+User-Level Remote Data Access in Overlay Metacomputers.	Jeff Siegel,Paul Lu	10.1109/CLUSTR.2002.1137787
+An Architecture for Integrated Resource Management of MPI Jobs.	Steve Sistare,Jack Test,Dave Plauger	10.1109/CLUSTR.2002.1137769
+Socket Cloning for Cluster-Based Web Servers.	Yiu-Fai Sit,Cho-Li Wang,Francis C. M. Lau 0001	10.1109/CLUSTR.2002.1137762
+Supermon: A High-Speed Cluster Monitoring System.	Matthew J. Sottile,Ronald G. Minnich	10.1109/CLUSTR.2002.1137727
+Launching into the Future of Commodity Cluster Computing.	Thomas L. Sterling	10.1109/CLUSTR.2002.1137765
+Selective Buddy Allocation for Scheduling Parallel Jobs on Clusters.	Vijay Subramani,Rajkumar Kettimuthu,Srividya Srinivasan,Jeanette Johnston,P. Sadayappan	10.1109/CLUSTR.2002.1137735
+Shell over a Cluster (SHOC): Towards Achieving Single System Image via the Shell.	C. M. Tan,C. P. Tan,Weng-Fai Wong	10.1109/CLUSTR.2002.1137725
+First Light of the Earth Simulator and Its PC Cluster Applications.	Keiji Tani,Takayuki Aoki,Satoshi Matsuoka,Satoru Ohkura,Hitoshi Uehara,Tetsuo Aoyagi	10.1109/CLUSTR.2002.1137744
+Design of a Middleware-Based Cluster Management Platform with Task Management and Migration.	Filip De Turck,Stefaan Vanhastel,Pieter Thysebaert,Bruno Volckaert,Piet Demeester,Bart Dhoedt	10.1109/CLUSTR.2002.1137788
+Protocol-Dependent Message-Passing Performance on Linux Clusters.	Dave Turner,Xuehua Chen	10.1109/CLUSTR.2002.1137746
+Kernel-Level Caching for Optimizing I/O by Exploiting Inter-Application Data Sharing.	Murali Vilayannur,Mahmut T. Kandemir,Anand Sivasubramaniam	10.1109/CLUSTR.2002.1137775
+Disaster Tolerant Wolfpack Geo-Clusters.	Richard S. Wilkins,Xing Du,Robert A. Cochran,Matthias Popp	10.1109/CLUSTR.2002.1137750
+Mixed Mode Matrix Multiplication.	Meng-Shiou Wu,Srinivas Aluru,Ricky A. Kendall	10.1109/CLUSTR.2002.1137747
+Impact of On-Demand Connection Management in MPI over VIA.	Jiesheng Wu,Jiuxing Liu,Pete Wyckoff,Dhabaleswar K. Panda 0001	10.1109/CLUSTR.2002.1137740
+Integrated Admission and Congestion Control for QoS Support in Clusters.	Ki Hwan Yum,Eun Jung Kim 0001,Chita R. Das,Mazin S. Yousif,José Duato	10.1109/CLUSTR.2002.1137761
+Supporting MPI Collective Communication on Network Processors.	Qianfeng Zhang,Chamath Keppitiyagama,Alan S. Wagner	10.1109/CLUSTR.2002.1137731
+JESSICA2: A Distributed Java Virtual Machine with Transparent Thread Migration Support.	Wenzhang Zhu,Cho-Li Wang,Francis C. M. Lau 0001	10.1109/CLUSTR.2002.1137770
+2002 IEEE International Conference on Cluster Computing (CLUSTER 2002), 23-26 September 2002, Chicago, IL, USA		

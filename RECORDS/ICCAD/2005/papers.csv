@@ -1,0 +1,148 @@
+Parametric test development for RF circuits targeting physical fault locations and using specification-based fault definitions.	Erkan Acar,Sule Ozev	10.1109/ICCAD.2005.1560043
+Accurate estimation and modeling of total chip leakage considering inter- &amp; intra-die process variations.	Amit Agarwal 0001,Kunhyuk Kang,Kaushik Roy 0001	10.1109/ICCAD.2005.1560162
+Hierarchical performance macromodels of feasible regions for synthesis of analog and RF circuits.	Anuradha Agarwal,Ranga Vemuri	10.1109/ICCAD.2005.1560106
+An architecture and a wrapper synthesis approach for multi-clock latency-insensitive systems.	Ankur Agiwal,Montek Singh	10.1109/ICCAD.2005.1560209
+Post-verification debugging of hierarchical designs.	Moayad Fahim Ali,Sean Safarpour,Andreas G. Veneris,Magdy S. Abadir,Rolf Drechsler	10.1109/ICCAD.2005.1560184
+Efficient LTL compilation for SAT-based model checking.	Roy Armoni,Sergey Egorov,Ranan Fraer,Dmitry Korchemny,Moshe Y. Vardi	10.1109/ICCAD.2005.1560185
+Complementary use of runtime validation and model checking.	Ali Alphan Bayazit,Sharad Malik	10.1109/ICCAD.2005.1560217
+Pessimism reduction in crosstalk noise aware STA.	Murat R. Becer,Vladimir Zolotov,Rajendran Panda,Amir Grinshpon,Ilan Algor,Rafi Levy,Chanhee Oh	10.1109/ICCAD.2005.1560199
+Efficient analog platform characterization through analog constraint graphs.	Fernando De Bernardinis,Alberto L. Sangiovanni-Vincentelli	10.1109/ICCAD.2005.1560104
+Formalizing designer&apos;s preferences for multiattribute optimization with application to leakage-delay tradeoffs.	Sarvesh Bhardwaj,Sarma B. K. Vrudhula	10.1109/ICCAD.2005.1560158
+Automatic generalized phase abstraction for formal verification.	Per Bjesse,James H. Kukula	10.1109/ICCAD.2005.1560220
+A multi-harmonic probe technique for computing oscillator steady states.	Kapil D. Boianapally,Ting Mei,Jaijeet S. Roychowdhury	10.1109/ICCAD.2005.1560139
+Parameterized model order reduction of nonlinear dynamical systems.	Bradley N. Bond,Luca Daniel	10.1109/ICCAD.2005.1560117
+A statistical study of the effectiveness of BIST jitter measurement techniques.	David Bordoley,Hieu Nguyen,Mani Soma	10.1109/ICCAD.2005.1560047
+A cocktail approach on random access scan toward low power and high efficiency test.	Krishnendu Chakrabarty,J. E. Chen	10.1109/ICCAD.2005.1560046
+NoCEE: energy macro-model extraction methodology for network on chip routers.	Jeremy Chan,Sri Parameswaran	10.1109/ICCAD.2005.1560073
+CDMA/FDMA-interconnects for future ULSI communications.	M. Frank Chang	10.1109/ICCAD.2005.1560203
+Simulation-based bug trace minimization with BMC-based refinement.	Kai-Hui Chang,Valeria Bertacco,Igor L. Markov	10.1109/ICCAD.2005.1560216
+Post-placement rewiring and rebuffering by exhaustive search for functional symmetries.	Kai-Hui Chang,Igor L. Markov,Valeria Bertacco	10.1109/ICCAD.2005.1560040
+Response shaper: a novel technique to enhance unknown tolerance for output response compaction.	Mango Chia-Tso Chao,Seongmoon Wang,Srimat T. Chakradhar,Kwang-Ting Cheng	10.1109/ICCAD.2005.1560044
+Reducing structural bias in technology mapping.	Satrajit Chatterjee,Alan Mishchenko,Robert K. Brayton,Xinning Wang,Timothy Kam	10.1109/ICCAD.2005.1560122
+Eliminating wire crossings for molecular quantum-dot cellular automata implementation.	Amitabh Chaudhary,Danny Z. Chen,Kevin Whitton,Michael T. Niemier,Ramprasad Ravichandran	10.1109/ICCAD.2005.1560130
+IMF: interconnect-driven multilevel floorplanning for large-scale building-module designs.	Tung-Chieh Chen,Yao-Wen Chang,Shyh-Chang Lin	10.1109/ICCAD.2005.1560057
+Code restructuring for improving cache performance of MPSoCs.	Guilin Chen,Mahmut T. Kandemir	10.1109/ICCAD.2005.1560076
+Runtime integrity checking for inter-object connections.	Guilin Chen,Mahmut T. Kandemir	10.1109/ICCAD.2005.1560083
+Integrating loop and data optimizations for locality within a constraint network based framework.	Guilin Chen,Ozcan Ozturk 0001,Mahmut T. Kandemir,Ibrahim Kolcu	10.1109/ICCAD.2005.1560078
+A sliding window scheme for accurate clock mesh analysis.	Hongyu Chen,Chao-Yang Yeh,Gustavo R. Wilke,Subodh M. Reddy,Hoa-van Nguyen,William W. Walker,Rajeev Murgai	10.1109/ICCAD.2005.1560197
+Efficient algorithms for buffer insertion in general circuits based on network flow.	Ruiming Chen,Hai Zhou	10.1109/ICCAD.2005.1560087
+Fast and efficient phase conflict detection and correction in standard-cell layouts.	Charles C. Chiang,Andrew B. Kahng,Subarna Sinha,Xu Xu 0001	10.1109/ICCAD.2005.1560055
+TACO: temperature aware clock-tree optimization.	Minsik Cho,Suhail Ahmed,David Z. Pan	10.1109/ICCAD.2005.1560133
+Parametric yield maximization using gate sizing based on efficient statistical power and delay gradient computation.	Kaviraj Chopra,Saumil Shah,Ashish Srivastava,David T. Blaauw,Dennis Sylvester	10.1109/ICCAD.2005.1560212
+Energy-efficient platform designs for real-world wireless sensing applications.	Pai H. Chou,Chulsung Park	10.1109/ICCAD.2005.1560192
+Architecture and compilation for data bandwidth improvement in configurable embedded processors.	Jason Cong,Guoling Han,Zhiru Zhang	10.1109/ICCAD.2005.1560075
+Robust mixed-size placement under tight white-space constraints.	Jason Cong,Michail Romesis,Joseph R. Shinnerl	10.1109/ICCAD.2005.1560058
+Thermal via planning for 3-D ICs.	Jason Cong,Yan Zhang	10.1109/ICCAD.2005.1560164
+Hybrid CMOS/nanoelectronic digital circuits: devices, architectures, and design automation.	André DeHon,Konstantin Likharev	10.1109/ICCAD.2005.1560097
+Buffer insertion under process variations for delay minimization.	Liang Deng,Martin D. F. Wong	10.1109/ICCAD.2005.1560086
+Kauffman networks: analysis and applications.	Elena Dubrova,Maxim Teslenko,Andrés Martinelli	10.1109/ICCAD.2005.1560115
+System software techniques for low-power operation in wireless sensor networks.	Prabal Dutta,David E. Culler	10.1109/ICCAD.2005.1560194
+Computer-aided design for DNA self-assembly: process and applications.	Chris Dwyer	10.1109/ICCAD.2005.1560149
+A routing algorithm for flip-chip design.	Jia-Wei Fang,I-Jye Lin,Ping-Hung Yuh,Yao-Wen Chang,Jyh-Herng Wang	10.1109/ICCAD.2005.1560165
+An exact algorithm for the maximal sharing of partial terms in multiple constant multiplications.	Paulo F. Flores,José Monteiro 0001,Eduardo A. C. da Costa	10.1109/ICCAD.2005.1560032
+Global signaling over lossy transmission lines.	Michael P. Flynn,Joshua Jaeyoung Kang	10.1109/ICCAD.2005.1560205
+Serial-link bus: a low-power on-chip bus architecture.	Maged Ghoneima,Yehea I. Ismail,Muhammad M. Khellah,James W. Tschanz,Vivek De	10.1109/ICCAD.2005.1560126
+The impact of the nanoscale on computing systems.	Seth Copen Goldstein	10.1109/ICCAD.2005.1560148
+Storage assignment during high-level synthesis for configurable architectures.	Wenrui Gong,Gang Wang 0015,Ryan Kastner	10.1109/ICCAD.2005.1560030
+Acyclic modeling of combinational loops.	Amit Gupta,Charles Selvidge	10.1109/ICCAD.2005.1560091
+Gate sizing using incremental parameterized statistical timing analysis.	Matthew R. Guthaus,Natesan Venkateswaran,Chandu Visweswariah,Vladimir Zolotov	10.1109/ICCAD.2005.1560213
+Wirelength optimization by optimal block orientation.	Xin Hao,Forrest Brewer	10.1109/ICCAD.2005.1560041
+Statistical timing analysis with two-sided constraints.	Khaled R. Heloue,Farid N. Najm	10.1109/ICCAD.2005.1560178
+Fast-yet-accurate PVT simulation by combined direct and iterative methods.	Bo Hu,C.-J. Richard Shi	10.1109/ICCAD.2005.1560118
+A cache-defect-aware code placement algorithm for improving the performance of processors.	Tohru Ishihara,Farzan Fallah	10.1109/ICCAD.2005.1560207
+Accurate delay computation for noisy waveform shapes.	Amit Jain,David T. Blaauw,Vladimir Zolotov	10.1109/ICCAD.2005.1560198
+Efficient statistical capacitance variability modeling with orthogonal principle factor analysis.	Rong Jiang 0002,Wenyin Fu,Janet Meiling Wang,Vince Lin,Charlie Chung-Ping Chen	10.1109/ICCAD.2005.1560153
+Intrinsic shortest path length: a new, accurate a priori wirelength estimator.	Andrew B. Kahng,Sherief Reda	10.1109/ICCAD.2005.1560059
+Architecture and details of a high quality, large-scale analytical placer.	Andrew B. Kahng,Sherief Reda,Qinke Wang	10.1109/ICCAD.2005.1560188
+2D data locality: definition, abstraction, and application.	Mahmut T. Kandemir	10.1109/ICCAD.2005.1560077
+The feasibility of on-chip interconnection using antennas.	Kenneth K. O,Kihong Kim,Brian A. Floyd,Jesal Mehta,Hyun Yoon,Chih-Ming Hung,Daniel F. Bravo,Timothy O. Dickson,Xiaoling Guo,Ran Li 0001,Narasimhan Trichy,James Caserta,Wayne R. Bomstad II,Jason Branch,Dong-Jun Yang,Jose L. Bohorquez,Jie Chen 0032,Eunyoung Seok,Li Gao,Aravind Sugavanam,Jau-Jr Lin,S. Yu,Changhua Cao,M.-H. Hwang,Y.-R. Ding,S.-H. Hwang,Hsin-Ta Wu,N. Zhang,Joe E. Brewer	10.1109/ICCAD.2005.1560204
+FinFETs for nanoscale CMOS digital integrated circuits.	Tsu-Jae King 0001	10.1109/ICCAD.2005.1560065
+Embedded tutorial: formal equivalence checking between system-level models and RTL.	Alfred Kölbl,Yuan Lu,Anmol Mathur	10.1109/ICCAD.2005.1560201
+Incremental partitioning-based vectorless power grid verification.	Dionysios Kouroussis,Imad A. Ferzli,Farid N. Najm	10.1109/ICCAD.2005.1560094
+Statistical based link insertion for robust clock network design.	Wai-Ching Douglas Lam,Jitesh Jain,Cheng-Kok Koh,Venkataramanan Balakrishnan,Yiran Chen 0001	10.1109/ICCAD.2005.1560134
+SPIDER: simultaneous post-layout IR-drop and metal density enhancement with redundant fill.	Kwok-Shing Leung	10.1109/ICCAD.2005.1560036
+Variational analysis of large power grids by exploring statistical sampling sharing and spatial locality.	Peng Li 0001	10.1109/ICCAD.2005.1560146
+Compiler-directed voltage scaling on communication links for reducing power consumption.	Feihui Li,Guilin Chen,Mahmut T. Kandemir	10.1109/ICCAD.2005.1560111
+Improving scratch-pad memory reliability through compiler-guided data block duplication.	Feihui Li,Guilin Chen,Mahmut T. Kandemir,Ibrahim Kolcu	10.1109/ICCAD.2005.1560208
+Synthesis methodology for built-in at-speed testing.	Yinghua Li,Alex Kondratyev,Robert K. Brayton	10.1109/ICCAD.2005.1560061
+Defining statistical sensitivity for timing optimization of logic circuits with large-scale process and environmental variations.	Xin Li 0001,Jiayong Le,Mustafa Celik,Lawrence T. Pileggi	10.1109/ICCAD.2005.1560180
+Parameterized interconnect order reduction with explicit-and-implicit multi-parameter moment matching for inter/intra-die variations.	Xin Li 0001,Peng Li 0001,Lawrence T. Pileggi	10.1109/ICCAD.2005.1560174
+Projection-based performance modeling for inter/intra-die variations.	Xin Li 0001,Jiayong Le,Lawrence T. Pileggi,Andrzej J. Strojwas	10.1109/ICCAD.2005.1560160
+Performance-centering optimization for system-level analog design exploration.	Xin Li 0001,Jian Wang,Lawrence T. Pileggi,Tun-Shih Chen,Wanju Chiang	10.1109/ICCAD.2005.1560105
+Flip-flop insertion with shifted-phase clocks for FPGA power reduction.	Hyeonmin Lim,Kyungsoo Lee,Youngjin Cho,Naehyuck Chang	10.1109/ICCAD.2005.1560090
+Clustering for processing rate optimization.	Chuan Lin 0002,Jia Wang 0003,Hai Zhou	10.1109/ICCAD.2005.1560062
+Trade-off between latch and flop for min-period sequential circuit designs with crosstalk.	Chuan Lin 0002,Hai Zhou	10.1109/ICCAD.2005.1560089
+Fast thermal simulation for architecture level dynamic thermal management.	Pu Liu,Zhenyu Qi,Hang Li,Lingling Jin,Wei Wu 0024,Sheldon X.-D. Tan,Jun Yang 0002	10.1109/ICCAD.2005.1560145
+An efficient method for terminal reduction of interconnect circuits considering delay variations.	Pu Liu,Sheldon X.-D. Tan,Hang Li,Zhenyu Qi,Jun Kong,Bruce McGaughy,Lei He	10.1109/ICCAD.2005.1560176
+Computational geometry based placement migration.	Tao Luo 0002,Haoxing Ren,Charles J. Alpert,David Zhigang Pan	10.1109/ICCAD.2005.1560038
+A layout dependent full-chip copper electroplating topography model.	Jianfeng Luo,Qing Su,Charles C. Chiang,Jamil Kawa	10.1109/ICCAD.2005.1560053
+Interval-valued statistical modeling of oxide chemical-mechanical polishing.	James D. Ma,Claire Fang Fang,Rob A. Rutenbar,Xiaolin Xie,Duane S. Boning	10.1109/ICCAD.2005.1560054
+Verification of executable pipelined machines with bit-level interfaces.	Panagiotis Manolios,Sudarshan K. Srinivasan	10.1109/ICCAD.2005.1560182
+A complete compositional reasoning framework for the efficient verification of pipelined machines.	Panagiotis Manolios,Sudarshan K. Srinivasan	10.1109/ICCAD.2005.1560183
+Adaptive designs for power and thermal optimization.	Richard McGowen	10.1109/ICCAD.2005.1560050
+Steady-state analysis of voltage and current controlled oscillators.	Amit Mehrotra,Suihua Lu,David C. Lee,Amit Narayan	10.1109/ICCAD.2005.1560141
+An efficient and robust technique for tracking amplitude and frequency envelopes in oscillators.	Ting Mei,Jaijeet S. Roychowdhury	10.1109/ICCAD.2005.1560137
+Oscillator-AC: restoring rigour to linearized small-signal analysis of oscillators.	Ting Mei,Jaijeet S. Roychowdhury	10.1109/ICCAD.2005.1560138
+Dynamic voltage scaling for the schedulability of jitter-constrained real-time embedded systems.	Bren Mochocki,Razvan Racu,Rolf Ernst	10.1109/ICCAD.2005.1560109
+Reducing pessimism in RLC delay estimation using an accurate analytical frequency dependent model for inductance.	Mosin Mondal,Yehia Massoud	10.1109/ICCAD.2005.1560154
+Design automation issues for biofluidic microchips.	Tamal Mukherjee	10.1109/ICCAD.2005.1560113
+Transition-by-transition FSM traversal for reachability analysis in bounded model checking.	Minh D. Nguyen,Dominik Stoffel,Markus Wedler,Wolfgang Kunz	10.1109/ICCAD.2005.1560219
+Robust automated synthesis methodology for integrated spiral inductors with variability.	Arthur Nieuwoudt,Yehia Massoud	10.1109/ICCAD.2005.1560119
+Application-specific network-on-chip architecture customization via long-range link insertion.	Ümit Y. Ogras,Radu Marculescu	10.1109/ICCAD.2005.1560072
+An escape routing framework for dense boards with high-speed design constraints.	Muhammet Mustafa Ozdal,Martin D. F. Wong,Philip S. Honsinger	10.1109/ICCAD.2005.1560166
+Optimal routing algorithms for pin clusters in high-density multichip modules.	Muhammet Mustafa Ozdal,Martin D. F. Wong,Philip S. Honsinger	10.1109/ICCAD.2005.1560167
+An efficient and effective detailed placement algorithm.	Min Pan,Natarajan Viswanathan,Chris C. N. Chu	10.1109/ICCAD.2005.1560039
+Static timing analysis considering power supply variations.	Sanjay Pant,David T. Blaauw	10.1109/ICCAD.2005.1560095
+RTL SAT simplification by Boolean and interval arithmetic reasoning.	Ganapathy Parthasarathy,Madhu K. Iyer,Kwang-Ting Cheng,Forrest Brewer	10.1109/ICCAD.2005.1560082
+A hybrid linear equation solver and its application in quadratic placement.	Haifeng Qian,Sachin S. Sapatnekar	10.1109/ICCAD.2005.1560190
+Via-configurable routing architectures and fast design mappability estimation for regular fabrics.	Yajun Ran,Malgorzata Marek-Sadowska	10.1109/ICCAD.2005.1560035
+Battery optimization vs energy optimization: which to choose and when?	Ravishankar Rao,Sarma B. K. Vrudhula	10.1109/ICCAD.2005.1560108
+System level verification of digital signal processing applications based on the polynomial abstraction technique.	Tarvo Raudvere,Ashish Kumar Singh,Ingo Sander,Axel Jantsch	10.1109/ICCAD.2005.1560080
+Hardware synthesis from guarded atomic actions with performance specifications.	Daniel L. Rosenband	10.1109/ICCAD.2005.1560170
+Cellular wave computers and CNN technology - a SoC architecture with xK processors and sensor arrays.	Tamás Roska	10.1109/ICCAD.2005.1560129
+Design of DNA origami.	Paul W. K. Rothemund	10.1109/ICCAD.2005.1560114
+Thermal simulation techniques for nanoscale transistors.	Jeremy A. Rowlette,Eric Pop,Sanjiv Sinha,Mathew Panzer,Kenneth E. Goodson	10.1109/ICCAD.2005.1560068
+ConvexFit: an optimal minimum-error convex fitting and smoothing algorithm with application to gate-sizing.	Sanghamitra Roy,Weijen Chen	10.1109/ICCAD.2005.1560063
+SAT based solutions for consistency problems in formal property specifications for open systems.	Suchismita Roy,Sayantan Das,Prasenjit Basu,Pallab Dasgupta,Partha Pratim Chakrabarti	10.1109/ICCAD.2005.1560186
+Double-gate SOI devices for low-power and high-performance applications.	Kaushik Roy 0001,Hamid Mahmoodi-Meimand,Saibal Mukhopadhyay,Hari Ananthan,Aditya Bansal,Tamer Cakici	10.1109/ICCAD.2005.1560067
+Performance-driven read-after-write dependencies softening in high-level synthesis.	Rafael Ruiz-Sautua,María C. Molina,Jose Manuel Mendias,Román Hermida	10.1109/ICCAD.2005.1560031
+Deadlock-free routing and component placement for irregular mesh-based networks-on-chip.	Martin K. F. Schafer,Thomas Hollstein,Heiko Zimmer,Manfred Glesner	10.1109/ICCAD.2005.1560071
+Power-aware microsensor design.	Brian Schott,Michael Bajura	10.1109/ICCAD.2005.1560193
+Test planning for the effective utilization of port-scalable testers for heterogeneous core-based SOCs.	Anuja Sehgal,Krishnendu Chakrabarty	10.1109/ICCAD.2005.1560045
+Optimal integration of inter-task and intra-task dynamic voltage scaling techniques for hard real-time applications.	Jaewon Seo,Taewhan Kim,Nikil D. Dutt	10.1109/ICCAD.2005.1560110
+Discrete Vt assignment and gate sizing using a self-snapping continuous formulation.	Saumil Shah,Ashish Srivastava,Dushyant Sharma,Dennis Sylvester,David T. Blaauw,Vladimir Zolotov	10.1109/ICCAD.2005.1560157
+Expanding the frequency range of AWE via time shifting.	Ahmed M. Shebaita,Chirayu S. Amin,Florentin Dartu,Yehea I. Ismail	10.1109/ICCAD.2005.1560196
+Equivalence verification of polynomial datapaths with fixed-size bit-vectors using finite ring algebra.	Namrata Shekhar,Priyank Kalla,Florian Enescu,Sivaram Gopalakrishnan	10.1109/ICCAD.2005.1560081
+Memory access optimization of dynamic binary translation for reconfigurable architectures.	Montek Singh	10.1109/ICCAD.2005.1560210
+Statistical technology mapping for parametric yield.	Ashish Kumar Singh,Murari Mani,Michael Orshansky	10.1109/ICCAD.2005.1560121
+Fast timing closure by interconnect criticality driven delay relaxation.	Love Singhal,Elaheh Bozorgzadeh	10.1109/ICCAD.2005.1560171
+Statistical gate sizing for timing yield optimization.	Debjit Sinha,Narendra V. Shenoy,Hai Zhou	10.1109/ICCAD.2005.1560214
+A unified framework for statistical timing analysis with coupling and multiple input switching.	Debjit Sinha,Hai Zhou	10.1109/ICCAD.2005.1560179
+An automated technique for topology and route generation of application specific on-chip interconnection networks.	Krishnan Srinivasan,Karam S. Chatha,Goran Konjevod	10.1109/ICCAD.2005.1560070
+Performance analysis of carbon nanotube interconnects for VLSI applications.	Navin Srivastava,Kaustav Banerjee	10.1109/ICCAD.2005.1560098
+Digital RF processor (DRP™) for cellular phones.	Robert Bogdan Staszewski,Khurram Muhammad,Dirk Leipold	10.1109/ICCAD.2005.1560051
+New decompilation techniques for binary-level co-processor generation.	Greg Stiff,Frank Vahid	10.1109/ICCAD.2005.1560127
+Total power-optimal pipelining and parallel processing under process variations in nanometer technology.	Peter Suaris,Taeho Kgil,Keith A. Bowman,Vivek De,Trevor N. Mudge	10.1109/ICCAD.2005.1560125
+A mapping algorithm for defect-tolerance of reconfigurable nano-architectures.	Mehdi Baradaran Tahoori	10.1109/ICCAD.2005.1560150
+The circuit design of the synergistic processor element of a CELL processor.	Osamu Takahashi,Russ Cook,Scott R. Cottier,Sang H. Dhong,Brian K. Flachs,Koji Hirairi,Atsushi Kawasumi,Hiroaki Murakami,Hiromi Noro,Hwa-Joon Oh,S. Onish,Juergen Pille,Joel Silberman	10.1109/ICCAD.2005.1560049
+Physics-based compact modeling for nonclassical CMOS.	Vishal P. Trivedi,Jerry G. Fossum,Leo Mathew,Murshed M. Chowdhury,Weimin Zhang,Glenn O. Workman,Bich-Yen Nguyen	10.1109/ICCAD.2005.1560066
+Statistical timing analysis driven post-silicon-tunable clock-tree synthesis.	Jeng-Liang Tsai,Lizheng Zhang	10.1109/ICCAD.2005.1560132
+Worst-case analysis to obtain stable read/write DC margin of high density 6T-SRAM-array with local Vth variability.	Yasumasa Tsukamoto,Koji Nii,Susumu Imaoka,Yuji Oda,Shigeki Ohbayashi,Tomoaki Yoshizawa,Hiroshi Makino,Koichiro Ishibashi,Hirofumi Shinohara	10.1109/ICCAD.2005.1560101
+A more reliable reduction algorithm for behavioral model extraction.	Dmitry Vasilyev,Jacob K. White 0001	10.1109/ICCAD.2005.1560175
+Practical techniques to reduce skew and its variations in buffered clock networks.	Ganesh Venkataraman,Nikhil Jayakumar,Jiang Hu,Peng Li 0001,Sunil P. Khatri,Anand Rajaram,Patrick McGuinness,Charles J. Alpert	10.1109/ICCAD.2005.1560135
+Weighted control scheduling.	Aravind Vijayakumar,Forrest Brewer	10.1109/ICCAD.2005.1560169
+Mixed-size placement via line search.	Kristofer Vorwerk,Andrew A. Kennings	10.1109/ICCAD.2005.1560189
+System-level power and thermal modeling and analysis by orthogonal polynomial based response surface approach (OPRS).	Janet Meiling Wang,Bharat Srinivas,Dongsheng Ma,Charlie Chung-Ping Chen,Jun Li 0066	10.1109/ICCAD.2005.1560161
+Fast balanced stochastic truncation via a quadratic extension of the alternating direction implicit iteration.	Ngai Wong,Venkataramanan Balakrishnan	10.1109/ICCAD.2005.1560173
+FPGA device and architecture evaluation considering process variations.	Ho-Yan Wong,Lerong Cheng,Yan Lin 0001,Lei He 0001	10.1109/ICCAD.2005.1560034
+Post-placement voltage island generation under performance requirement.	Huaizhi Wu,I-Min Liu,Martin D. F. Wong,Yusu Wang	10.1109/ICCAD.2005.1560085
+DiCER: distributed and cost-effective redundancy for variation tolerance.	Di Wu 0017,Ganesh Venkataraman,Jiang Hu,Quiyang Li,Rabi N. Mahapatra	10.1109/ICCAD.2005.1560100
+Noise margin analysis for dynamic logic circuits.	Suwen Yang,Mark R. Greenstreet	10.1109/ICCAD.2005.1560102
+Timing-aware power noise reduction in layout.	Chao-Yang Yeh,Malgorzata Marek-Sadowska	10.1109/ICCAD.2005.1560143
+Scalable compositional minimization via static analysis.	Fadi A. Zaraket,Jason Baumgartner,Adnan Aziz	10.1109/ICCAD.2005.1560218
+A high efficiency full-chip thermal simulation algorithm.	Yong Zhan,Sachin S. Sapatnekar	10.1109/ICCAD.2005.1560144
+Statistical critical path analysis considering correlations.	Yaping Zhan,Andrzej J. Strojwas,Mahesh Sharma,David Newmark	10.1109/ICCAD.2005.1560156
+Fast algorithms for IR drop analysis in large power grid.	Yu Zhong,Martin D. F. Wong	10.1109/ICCAD.2005.1560093
+Improving the efficiency of static timing analysis with false paths.	Shuo Zhou,Bo Yao,Hongyu Chen,Yi Zhu 0002,Chung-Kuan Cheng,Michael D. Hutton,Truman Collins,Sridhar Srinivasan,Nan-Chi Chou,Peter Suaris	10.1109/ICCAD.2005.1560123
+FastSies: a fast stochastic integral equation solver for modeling the rough surface effect.	Zhenhai Zhu,Jacob K. White 0001	10.1109/ICCAD.2005.1560152
+2005 International Conference on Computer-Aided Design, ICCAD 2005, San Jose, CA, USA, November 6-10, 2005		

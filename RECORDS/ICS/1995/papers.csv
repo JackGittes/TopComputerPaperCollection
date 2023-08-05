@@ -1,0 +1,52 @@
+Performance Evaluation of a Parallel I/O Architecture.	Sandra Johnson Baylor,Caroline Benveniste,Yarsun Hsu	10.1145/224538.224645
+Optimization and Parallelization of a Commodity Trade Model for the IBM SP1/2, using Parallel Programming Tools.	Donna Bergmark	10.1145/224538.224565
+Communication Strategies for Out-of-Core Programs on Distributed Memory Machines.	Rajesh Bordawekar,Alok N. Choudhary	10.1145/224538.224642
+Performance Optimization for Parallel Tape Arrays.	Tzi-cker Chiueh	10.1145/224538.224635
+A Compiler-Directed Distributed Shared Memory System.	Tzi-cker Chiueh,Manish Verma	10.1145/224538.224547
+A Comparative Study of Single Hop WDM Interconnections for Multiprocessors.	Kiran Raghavendra Desai,Kanad Ghose	10.1145/224538.224555
+The Portable Parallel Implementation of Two Novel Mathematical Biology Algorithms in ZPL.	Marios D. Dikaiakos,Daphne Manoussaki,Calvin Lin,Diana E. Woodward	10.1145/224538.224632
+Hardware Implementation Issues of Data Prefetching.	Nathalie Drach	10.1145/224538.224568
+Optimum Modulo Schedules for Minimum Register Requirements.	Alexandre E. Eichenberger,Edward S. Davidson,Santosh G. Abraham	10.1145/224538.224542
+The Threaded Communication Library: Preliminary Experiences on a Multiprocessor with Dual-Processor Nodes.	Nasser Elmasri,Herbert H. J. Hum,Guang R. Gao	10.1145/224538.224561
+A Comparison of Parallel Programming Paradigms and Data Distributions for a Limited Area Numerical Weather Forecast Routine.	Robert van Engelen,Lex Wolters	10.1145/224538.224629
+On the Utility of Threads for Data Parallel Programming.	Thomas Fahringer,Matthew Haines,Piyush Mehrotra	10.1145/224538.224544
+Reducing Communication by Honoring Multiple Alignments.	David A. Garza-Salazar,A. P. Wim Böhm	10.1145/224538.224548
+A Data Cache with Multiple Caching Strategies Tuned to Different Types of Locality.	Antonio González 0001,Carlos Aliagas,Mateo Valero	10.1145/224538.224622
+Petri Net Modeling of Interconnection Networks for Massively Parallel Architectures.	José A. Gregorio,Fernando Vallejo,Ramón Beivide,Carmen Carrión 0001	10.1145/224538.224550
+Dynamic Load Balancing of Data Parallel Applications on a Distributed Network.	Mounir Hamdi,Chi-kin Lee	10.1145/224538.224557
+Efficient Embeddings into the Hypercube Using Matrix Transformations.	Mounir Hamdi,Siang W. Song	10.1145/224538.224572
+Deep Blue System Overview.	Feng-Hsiung Hsu,Murray Campbell,A. Joseph Hoane Jr.	10.1145/224538.224567
+PPFS: a High Performance Portable Parallel File System.	James V. Huber Jr.,Andrew A. Chien,Christopher L. Elford,David S. Blumenthal,Daniel A. Reed	10.1145/224538.224638
+Semi-linear and Bi-base Storage Schemes Classes: General Overview and Case Study.	Jacques Jorda,Abdelaziz Mzoughi,Daniel Litaize	10.1145/224538.224574
+Techniques for Reducing Overheads of Shared-Memory Multiprocessing.	Alain Kägi,Nagi Aboulenein,Doug Burger,James R. Goodman	10.1145/224538.224540
+Efficient Address Generation for Block-Cyclic Distributions.	Ken Kennedy,Nenad Nedeljkovic,Ajay Sethi	10.1145/224538.224558
+Amon: A Parallel Slice Algorithm for Wire Routing.	Hesham Keshk,Shin-ichiro Mori,Hiroshi Nakashima,Shinji Tomita	10.1145/224538.224562
+Dynamic Load Balancing for the Simulation of Granular Materials.	R. Knecht,Gregory Allen Kohring	10.1145/224538.224556
+Data Forwarding in Scalable Shared-Memory Multiprocessors.	David A. Koufaty,Xiangfeng Chen,David K. Poulsen,Josep Torrellas	10.1145/224538.224569
+A Dataflow Language with Object-based Extension and its Implementation on a Commercially Available Parallel Machine.	Shigeru Kusakabe,Taku Nagai,Yoshihiro Yamashita,Rin-Ichiro Taniguchi,Makoto Amamiya	10.1145/224538.224575
+Compiler Cache Optimizations for Banded Matrix Problems.	Wei Li 0015	10.1145/224538.224541
+Upper Time Bounds for Executing PRAM-Programs on the LogP-Machine.	Welf Löwe,Wolf Zimmermann	10.1145/224538.224543
+Enhancing Array Dataflow Dependence Analysis with On-demand Global Value Propagation.	Vadim Maslov	10.1145/224538.224570
+Integral Knapsack Problems: Parallel Algorithms and Their Implementations on Distributed Systems.	Daniel González-Morales,José L. Roda,Francisco Almeida,Casiano Rodríguez,F. García	10.1145/224538.224564
+Extending High Performance Fortran for the Support of Unstructured Computations.	Andreas Müller,Roland Rühl	10.1145/224538.224552
+Scalar Processor of the VPP500 Parallel Supercomputer.	Yasuhiko Nakashima,Toshiaki Kitamura,Hideo Tamura,Masaaki Takiuchi,Ken&apos;ichi Miura	10.1145/224538.224624
+Compiler Reduction of Synchronisation in Shared Virtual Memory Systems.	Michael F. P. O&apos;Boyle,François Bodin	10.1145/224538.224619
+Optimal Tile Size Adjustment in Compiling General DOACROSS Loop Nests.	Hiroshi Ohta,Yasuhiko Saito,Masahiro Kainaga,Hiroyuki Ono	10.1145/224538.224571
+Architecture-independent Locality-improving Transformations of Computational Graphs Embedded in k-Dimensions.	Chao-Wei Ou,Manoj Gunwani,Sanjay Ranka	10.1145/224538.224573
+Idiom Recognition in the Polaris Parallelizing Compiler.	William M. Pottenger,Rudolf Eigenmann	10.1145/224538.224655
+Run-Time Methods for Parallelizing Partially Parallel Loops.	Lawrence Rauchwerger,Nancy M. Amato,David A. Padua	10.1145/224538.224553
+The DMBC: Architecture and Fundamental Operations.	Sartaj Sahni	10.1145/224538.224545
+Using Asynchronous and Bulk Communications to Construct an Optimizing Compiler for Distributed-Memory Machines with Consideration Given to Communications Costs.	Hiroyuki Sato,Takeshi Nanri,Masaaki Shimasaki	10.1145/224538.224559
+HPF Compiler for the AP1000.	Tatsuya Shindo,Hidetoshi Iwashita,Tsunehisa Doi,Junichi Hagiwara,Shaun Kaneshiro	10.1145/224538.224560
+Decoupling Synchronization and Data Transfer in Message Passing Systems of Parallel Computers.	Thomas Stricker,James M. Stichnoth,David R. O&apos;Hallaron,Susan Hinrichs,Thomas R. Gross	10.1145/224538.224539
+Advanced Compilation Techniques in the PARADIGM Compiler for Distributed-memory Multicomputers.	Ernesto Su,Antonio Lain,Shankar Ramaswamy,Daniel J. Palermo,Eugene W. Hodges IV,Prithviraj Banerjee	10.1145/224538.224650
+Implementation of Sparta, a Highly Parallel Circuit Simulator by the Preconditioned Jacobi Method, on a Distributed Memory Machine.	Reiji Suda,Yoshio Oyanagi	10.1145/224538.224563
+Deep Blue: Computer Chess and Massively Parallel Systems (extended abstract).	C. J. Tan	10.1145/224538.224566
+Vectorization beyond Data Dependences.	Peiyi Tang,Nianshu Gao	10.1145/224538.224652
+Unified Compilation Techniques for Shared and Distributed Address Space Machines.	Chau-Wen Tseng,Jennifer-Ann M. Anderson,Saman P. Amarasinghe,Monica S. Lam	10.1145/224538.224546
+Gated SSA-based Demand-Driven Symbolic Analysis for Parallelizing Compilers.	Peng Tu,David A. Padua	10.1145/224538.224648
+Efficient Resolution of Sparse Indirections in Data-Parallel Compilers.	Manuel Ujaldon,Emilio L. Zapata	10.1145/224538.224551
+A Near-Optimal Broadcasting Algorithm in All-Port Wormhole-Routed Hypercubes.	Chien-Min Wang,Chiu-Yu Ku	10.1145/224538.224554
+A Macrotask-level Unlimited Speculative Execution on Multiprocessors.	Hayato Yamana,Mitsuhisa Sato,Yuetsu Kodama,Hirofumi Sakane,Shuichi Sakai,Yoshinori Yamaguchi	10.1145/224538.224620
+Multiprocessor Scalability Predictions Through Detailed Program Execution Analysis.	Xiaodong Zhang 0001,Zhichen Xu	10.1145/224538.224549
+Proceedings of the 9th international conference on Supercomputing, ICS 1995, Barcelona, Spain, July 3-7, 1995	Mateo Valero	10.1145/224538

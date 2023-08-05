@@ -1,0 +1,54 @@
+Safe open-nested transactions through ownership.	Kunal Agrawal,I-Ting Angelina Lee,Jim Sukha	10.1145/1378533.1378553
+Many random walks are faster than one.	Noga Alon,Chen Avin,Michal Koucký 0001,Gady Kozma,Zvi Lotker,Mark R. Tuttle	10.1145/1378533.1378557
+Distributed voronoi diagram computation in wireless sensor networks.	Waleed Alsalih,Kamrul Islam 0001,Yurai Núñez Rodríguez,Henry Xiao	10.1145/1378533.1378597
+Fundamental parallel algorithms for private-cache chip multiprocessors.	Lars Arge,Michael T. Goodrich,Michael J. Nelson 0002,Nodari Sitchinava	10.1145/1378533.1378573
+Partial snapshot objects.	Hagit Attiya,Rachid Guerraoui,Eric Ruppert	10.1145/1378533.1378591
+Cost sharing mechanisms for near-optimal traffic aggregation and network design.	Baruch Awerbuch,Rohit Khandekar	10.1145/1378533.1378546
+Graphical congestion games with linear latencies.	Vittorio Bilò,Angelo Fanelli 0001,Michele Flammini,Luca Moscardelli	10.1145/1378533.1378571
+Combinable memory-block transactions.	Guy E. Blelloch,Phillip B. Gibbons,Harsha Vardhan Simhadri	10.1145/1378533.1378537
+Data replication in p2p environments.	André Brinkmann,Sascha Effert	10.1145/1378533.1378570
+Communication in wireless networks with directional antennas.	Ioannis Caragiannis,Christos Kaklamanis,Evangelos Kranakis,Danny Krizanc,Andreas Wiese	10.1145/1378533.1378592
+Online multicast with egalitarian cost sharing.	Moses Charikar,Howard J. Karloff,Claire Mathieu,Joseph Naor,Michael E. Saks	10.1145/1378533.1378544
+Energy-optimal distributed algorithms for minimum spanning trees.	Yongwook Choi,Maleq Khan,V. S. Anil Kumar 0001,Gopal Pandurangan	10.1145/1378533.1378569
+Cache-efficient dynamic programming algorithms for multicores.	Rezaul Alam Chowdhury,Vijaya Ramachandran	10.1145/1378533.1378574
+Ased: availability, security, and debugging support usingtransactional memory.	JaeWoong Chung,Woongki Baek,Nathan Grasso Bronson,Jiwon Seo 0002,Christos Kozyrakis,Kunle Olukotun	10.1145/1378533.1378599
+Improving software concurrency with hardware-assisted memory snapshot.	JaeWoong Chung,Jiwon Seo 0002,Woongki Baek,Chi Cao Minh,Austen McDonald,Christos Kozyrakis,Kunle Olukotun	10.1145/1378533.1378596
+Improved approximations for multiprocessor scheduling under uncertainty.	Christopher Y. Crutchfield,Zoran Dzunic,Jeremy T. Fineman,David R. Karger,Jacob Scott 0001	10.1145/1378533.1378579
+Distributed packing in planar graphs.	Andrzej Czygrinow,Michal Hanckowiak,Wojciech Wawrzyniak	10.1145/1378533.1378541
+A primal-dual resource augmentation analysis of a constant approximate algorithm for stable coalitions in a cluster.	Nedialko B. Dimitrov,Indrajit Roy 0001	10.1145/1378533.1378578
+Optimal speedup on a low-degree multi-core parallel architecture (LoPRAM).	Reza Dorrigiv,Alejandro López-Ortiz,Alejandro Salinger	10.1145/1378533.1378568
+On spreading recommendations via social gossip.	Yaacov Fernandess,Dahlia Malkhi	10.1145/1378533.1378547
+Polylogarithmic network navigability using compact metrics with small stretch.	Pierre Fraigniaud,Cyril Gavoille	10.1145/1378533.1378542
+Trade-offs between the size of advice and broadcasting time in trees.	Emanuele G. Fusco,Andrzej Pelc	10.1145/1378533.1378545
+Fractal communication in software data dependency graphs.	Daniel Greenfield,Simon W. Moore	10.1145/1378533.1378555
+On obstruction-free transactions.	Rachid Guerraoui,Michal Kapalka	10.1145/1378533.1378587
+RaceTM: detecting data races using transactional memory.	Shantanu Gupta,Florin Sultan,Srihari Cadambi,Franjo Ivancic,Martin Rötteler	10.1145/1378533.1378551
+Utilizing shared data in chip multiprocessors with the nahalal architecture.	Zvika Guz,Idit Keidar,Avinoam Kolodny,Uri C. Weiser	10.1145/1378533.1378535
+Leveraging non-blocking collective communication in high-performance applications.	Torsten Hoefler,Peter Gottschling,Andrew Lumsdaine	10.1145/1378533.1378554
+Tight competitive ratios for parallel disk prefetching and caching.	Wing-Kai Hon,Rahul Shah,Peter J. Varman,Jeffrey Scott Vitter	10.1145/1378533.1378593
+A first insight into object-aware hardware transactional memory.	Behram Khan,Matthew Horsnell,Ian Rogers,Mikel Luján,Andrew Dinn,Ian Watson	10.1145/1378533.1378552
+Checkpoints and continuations instead of nested transactions.	Eric Koskinen,Maurice Herlihy	10.1145/1378533.1378563
+Dreadlocks: efficient deadlock detection.	Eric Koskinen,Maurice Herlihy	10.1145/1378533.1378585
+Graph partitioning into isolated, high conductance clusters: theory, computation and applications to preconditioning.	Ioannis Koutis,Gary L. Miller	10.1145/1378533.1378559
+Scheduling strategies for optimistic parallel execution of irregular programs.	Milind Kulkarni 0001,Patrick Carribault,Keshav Pingali,Ganesh Ramanarayanan,Bruce Walter,Kavita Bala,L. Paul Chew	10.1145/1378533.1378575
+A consistency architecture for hierarchical shared caches.	Edya Ladan-Mozes,Charles E. Leiserson	10.1145/1378533.1378536
+Competitive non-migratory scheduling for flow time and energy.	Tak Wah Lam,Lap-Kei Lee,Isaac Kar-Keung To,Prudence W. H. Wong	10.1145/1378533.1378580
+What can be approximated locally?: case study: dominating sets in planar graphs.	Christoph Lenzen 0001,Yvonne Anne Oswald,Roger Wattenhofer	10.1145/1378533.1378540
+A temperature-aware virtual submesh allocation scheme for noc-based manycore chips.	Xiongfei Liao,Wu Jigang,Thambipillai Srikanthan	10.1145/1378533.1378567
+Improved distributed approximate matching.	Zvi Lotker,Boaz Patt-Shamir,Seth Pettie	10.1145/1378533.1378558
+Against lock-based semantics for transactional memory.	Victor Luchangco	10.1145/1378533.1378549
+Practical weak-atomicity semantics for java stm.	Vijay Menon 0002,Steven Balensiefer,Tatiana Shpeisman,Ali-Reza Adl-Tabatabai,Richard L. Hudson,Bratin Saha,Adam Welc	10.1145/1378533.1378588
+The adaptive transactional memory test platform: a tool for experimenting with transactional code for rock (poster).	Mark Moir,Kevin Moore,Daniel Nussbaum	10.1145/1378533.1378595
+Fast distributed scheduling via primal-dual.	Alessandro Panconesi,Mauro Sozio	10.1145/1378533.1378577
+Automatic data partitioning in software transactional memories.	Torvald Riegel,Christof Fetzer,Pascal Felber	10.1145/1378533.1378562
+A transactional approach to lock scalability.	Amitabha Roy 0002,Keir Fraser,Steven Hand 0001	10.1145/1378533.1378550
+Parallelizing dynamic information flow tracking.	Olatunji Ruwase,Phillip B. Gibbons,Todd C. Mowry,Vijaya Ramachandran,Shimin Chen,Michael Kozuch,Michael P. Ryan	10.1145/1378533.1378538
+Finding strongly connected components in parallel using o(log2n) reachability queries.	Warren Schudy	10.1145/1378533.1378560
+Operational analysis of processor speed scaling.	Kai Shen,Alex Zhang,Terence Kelly,Christopher Stewart	10.1145/1378533.1378566
+RingSTM: scalable transactions with a single atomic instruction.	Michael F. Spear,Maged M. Michael,Christoph von Praun	10.1145/1378533.1378583
+Directed transmission method, a fully asynchronous approach to solve sparse linear systems in parallel.	Fei Wei,Huazhong Yang	10.1145/1378533.1378598
+Irrevocable transactions and their applications.	Adam Welc,Bratin Saha,Ali-Reza Adl-Tabatabai	10.1145/1378533.1378584
+Adaptive transaction scheduling for transactional memory systems.	Richard M. Yoo,Hsien-Hsin S. Lee	10.1145/1378533.1378564
+Kicking the tires of software transactional memory: why the going gets tough.	Richard M. Yoo,Yang Ni,Adam Welc,Bratin Saha,Ali-Reza Adl-Tabatabai,Hsien-Hsin S. Lee	10.1145/1378533.1378582
+Commit phase in timestamp-based stm.	Rui Zhang,Zoran Budimlic,William N. Scherer III	10.1145/1378533.1378589
+SPAA 2008: Proceedings of the 20th Annual ACM Symposium on Parallelism in Algorithms and Architectures, Munich, Germany, June 14-16, 2008	Friedhelm Meyer auf der Heide,Nir Shavit	10.1145/1378533

@@ -1,0 +1,50 @@
+Optimality, fairness, and robustness in speed scaling designs.	Lachlan L. H. Andrew,Minghong Lin,Adam Wierman	10.1145/1811039.1811044
+The price of anarchy in parallel queues revisited.	Jonatha Anselmi,Bruno Gaujal	10.1145/1811039.1811083
+An analytical framework to infer multihop path reliability in MANETs.	Nelson Antunes,Gonçalo Jacinto,António Pacheco 0001	10.1145/1811039.1811076
+A unifying approach to product-forms in networks with finite capacity constraints.	Simonetta Balsamo,Peter G. Harrison,Andrea Marin	10.1145/1811039.1811043
+A distributed scheduling algorithm for wireless networks with constant overhead and arbitrary binary interference.	Jean-Claude Bermond,Dorian Mazauric,Vishal Misra,Philippe Nain	10.1145/1811039.1811079
+Randomized load balancing with general service time distributions.	Maury Bramson,Yi Lu,Balaji Prabhakar	10.1145/1811039.1811071
+CWS: a model-driven scheduling policy for correlated workloads.	Giuliano Casale,Ningfang Mi,Evgenia Smirni	10.1145/1811039.1811068
+Channel fragmentation in dynamic spectrum access systems: a theoretical study.	Edward G. Coffman Jr.,Philippe Robert,Florian Simatos,Shuzo Tarumi,Gil Zussman	10.1145/1811039.1811077
+Deep diving into BitTorrent locality.	Rubén Cuevas,Nikolaos Laoutaris,Xiaoyuan Yang 0001,Georgos Siganos,Pablo Rodriguez 0001	10.1145/1811039.1811081
+Elon: enabling efficient and long-term reprogramming for wireless sensor networks.	Wei Dong 0001,Yunhao Liu 0001,Xiaofan Wu,Lin Gu 0001,Chun Chen 0001	10.1145/1811039.1811046
+Load balancing via random local search in closed and open systems.	Ayalvadi Ganesh 0001,Sarah Lilienthal,D. Manjunath,Alexandre Proutière,Florian Simatos	10.1145/1811039.1811072
+A mean field model of work stealing in large-scale systems.	Nicolas Gast,Bruno Gaujal	10.1145/1811039.1811042
+A query language and runtime tool for evaluating behavior of multi-tier servers.	Saeed Ghanbari,Gokul Soundararajan,Cristiana Amza	10.1145/1811039.1811055
+Incentive compatibility and dynamics of congestion control.	Brighten Godfrey,Michael Schapira,Aviv Zohar,Scott Shenker	10.1145/1811039.1811051
+Small subset queries and bloom filters using ternary associative memories, with applications.	Ashish Goel,Pankaj Gupta 0002	10.1145/1811039.1811056
+Distributed caching over heterogeneous mobile networks.	Stratis Ioannidis,Laurent Massoulié,Augustin Chaintreau	10.1145/1811039.1811075
+Inferring applications at the network layer using collective traffic statistics.	Yu Jin 0001,Nick G. Duffield,Patrick Haffner,Subhabrata Sen,Zhi-Li Zhang	10.1145/1811039.1811082
+Distributed sensor network localization from local connectivity: performance analysis for the HOP-TERRAIN algorithm.	Amin Karbasi,Sewoong Oh	10.1145/1811039.1811047
+Optimal propagation of security patches in mobile wireless networks: extended abstract.	M. H. R. Khouzani,Saswati Sarkar,Eitan Altman	10.1145/1811039.1811084
+Transparent, lightweight application execution replay on commodity multiprocessor operating systems.	Oren Laadan,Nicolas Viennot,Jason Nieh	10.1145/1811039.1811057
+Managing the cost, energy consumption, and carbon footprint of internet services.	Kien Le,Ozlem Bilgir,Ricardo Bianchini,Margaret Martonosi,Thu D. Nguyen	10.1145/1811039.1811085
+Scheduling in multichannel wireless networks with flow-level dynamics.	Shihuan Liu,Lei Ying,R. Srikant 0001	10.1145/1811039.1811061
+Leveraging parallelism for multi-dimensional packetclassification on software routers.	Yadi Ma,Suman Banerjee 0001,Shan Lu 0001,Cristian Estan	10.1145/1811039.1811065
+Coordinated power management of voltage islands in CMPs.	Asit K. Mishra,Shekhar Srikantaiah,Mahmut T. Kandemir,Chita R. Das	10.1145/1811039.1811086
+Incentivizing peer-assisted services: a fluid shapley value approach.	Vishal Misra,Stratis Ioannidis,Augustin Chaintreau,Laurent Massoulié	10.1145/1811039.1811064
+On the flow-level dynamics of a packet-switched network.	Ciamac Cyrus Moallemi,Devavrat Shah	10.1145/1811039.1811050
+Rigorous statistical analysis of internet loss measurements.	Hung X. Nguyen,Matthew Roughan	10.1145/1811039.1811087
+Coloring spatial point processes with applications to peer discovery in large wireless networks.	Jian Ni,R. Srikant 0001,Xinzhou Wu	10.1145/1811039.1811059
+Semidefinite optimization for transient analysis of queues.	Takayuki Osogami,Rudy Raymond	10.1145/1811039.1811088
+CFTL: a convertible flash translation layer adaptive to data access patterns.	Dongchul Park,Biplob K. Debnath,David H. C. Du	10.1145/1811039.1811089
+A case for unsupervised-learning-based spam filtering.	Feng Qian 0001,Abhinav Pathak,Yu Charlie Hu,Zhuoqing Morley Mao,Yinglian Xie	10.1145/1811039.1811090
+Distributed averaging in dynamic networks.	Shreevatsa Rajagopalan,Devavrat Shah	10.1145/1811039.1811091
+Successive c-optimal designs: a scalable technique to optimize the measurements on large networks.	Guillaume Sagnol,Mustapha Bouhtou,Stéphane Gaubert	10.1145/1811039.1811080
+Program behavior prediction using a statistical metric model.	Ruhi Sarikaya,Canturk Isci,Alper Buyuktosunoglu	10.1145/1811039.1811092
+Dynamics in congestion games.	Devavrat Shah,Jinwoo Shin	10.1145/1811039.1811052
+Delay optimal queue-based CSMA.	Devavrat Shah,Jinwoo Shin	10.1145/1811039.1811093
+Qualitative properties of alpha-weighted scheduling policies.	Devavrat Shah,John N. Tsitsiklis,Yuan Zhong	10.1145/1811039.1811067
+Detecting sources of computer viruses in networks: theory and experiment.	Devavrat Shah,Tauhid Zaman	10.1145/1811039.1811063
+Characterizing and modeling user activity on smartphones: summary.	Alex Shye,Benjamin Scholbrock,Gokhan Memik,Peter A. Dinda	10.1145/1811039.1811094
+Detecting traffic anomalies using an equilibrium property.	Fernando Silveira,Christophe Diot,Nina Taft,Ramesh Govindan	10.1145/1811039.1811095
+Characterizing the soft error vulnerability of multicores running multithreaded applications.	Niranjan Soundararajan,Anand Sivasubramaniam,Vijay Narayanan	10.1145/1811039.1811096
+Can multipath mitigate power law delays?: effects of parallelism on tail performance.	Jian Tan,Wei Wei 0001,Bo Jiang 0003,Ness B. Shroff,Donald F. Towsley	10.1145/1811039.1811097
+Practical performance models for complex, popular applications.	Eno Thereska,Björn Döbel,Alice X. Zheng,Peter Nobel	10.1145/1811039.1811041
+Distributed user profiling via spectral methods.	Dan-Cristian Tomozei,Laurent Massoulié	10.1145/1811039.1811098
+Optimal tradeoff between exposed and hidden nodes in large wireless networks.	Peter M. van de Ven,Augustus J. E. M. Janssen,Johan van Leeuwaarden	10.1145/1811039.1811060
+Optimal recovery of single disk failure in RDP code storage systems.	Liping Xiang,Yinlong Xu,John C. S. Lui,Qian Chang	10.1145/1811039.1811054
+Self-synchronizing properties of CSMA wireless multi-hop networks.	Kuang Xu,Olivier Dousse,Patrick Thiran	10.1145/1811039.1811048
+A unified modeling framework for distributed resource allocation of general fork and join processing networks.	Haiquan (Chuck) Zhao,Cathy H. Xia,Zhen Liu 0001,Donald F. Towsley	10.1145/1811039.1811073
+RSIO: automatic user interaction detection and scheduling.	Haoqiang Zheng,Jason Nieh	10.1145/1811039.1811069
+SIGMETRICS 2010, Proceedings of the 2010 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, New York, New York, USA, 14-18 June 2010	Vishal Misra,Paul Barford,Mark S. Squillante	10.1145/1811039

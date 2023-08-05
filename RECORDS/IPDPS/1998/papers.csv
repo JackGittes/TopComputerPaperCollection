@@ -1,0 +1,126 @@
+Configuration Independent Analysis for Characterizing Shared-Memory Applications.	Gheith A. Abandah,Edward S. Davidson	10.1109/IPPS.1998.669960
+Memory Hierarchy Management for Iterative Graph Structures.	Ibraheem Al-Furaih,Sanjay Ranka	10.1109/IPPS.1998.669929
+Resource Placement in 2D Tori.	Bader Almohammad,Bella Bose	10.1109/IPPS.1998.669952
+An Efficient Parallel Algorithms for High Dimensional Similarity Join.	Khaled Alsabti,Sanjay Ranka,Vineet Singh	10.1109/IPPS.1998.669980
+Toward a Universal Mapping Algorithm for Accessing Trees in Parallel Memory Systems.	Vincenzo Auletta,Sajal K. Das 0001,Amelia De Vivo,Maria Cristina Pinotti,Vittorio Scarano	10.1109/IPPS.1998.669955
+Lower Bounds on Communication Loads and Optimal Placements in Torus Networks.	M. Cemil Azizoglu,Ömer Egecioglu	10.1109/IPPS.1998.669957
+Vector Prefix and Reduction Computation on Coarse-Grained, Distributed-Memory Parallel Machines.	Seungjo Bae,Dongmin Kim,Sanjay Ranka	10.1109/IPPS.1998.669934
+Optimizing Parallel Applications for Wide-Area Clusters.	Henri E. Bal,Aske Plaat,Mirjam G. Bakker,Peter Dozy,Rutger F. H. Hofman	10.1109/IPPS.1998.670017
+Local Enumeration Techniques for Sparse Algorithms.	Gerardo Bandera,Pablo P. Trabado,Emilio L. Zapata	10.1109/IPPS.1998.669889
+C++ Expression Templates Performance Issues in Scientific Computing.	Federico Bassetti,Kei Davis,Daniel J. Quinlan	10.1109/IPPS.1998.669993
+Rapid Development of Real-Time Systems Using RTExpress.	Milissa M. Benincasa,Richard Besler,Diane Brassaw,Ralph Kohler Jr.	10.1109/IPPS.1998.669986
+Impact of Switch Design on the Application Performance of Cache-Coherent Multiprocessors.	Laxmi N. Bhuyan,Hu-Jun Wang,Ravi R. Iyer 0001,Akhilesh Kumar	10.1109/IPPS.1998.669958
+Aggressive Dynamic Execution of Multimedia Kernel Traces.	Benjamin Bishop,Robert Michael Owens,Mary Jane Irwin	10.1109/IPPS.1998.669994
+On the Bisection Width and Expansion of Butterfly Networks.	Claudson F. Bornstein,Ami Litman,Bruce M. Maggs,Ramesh K. Sitaraman,Tal Yatzkar	10.1109/IPPS.1998.669902
+VPPB - A Visualization and Performance Prediction Tool for Multithreaded Solaris Programs.	Magnus Broberg,Lars Lundberg,Håkan Grahn	10.1109/IPPS.1998.670014
+DEEP: A Development Environment for Parallel Programs.	Brian Q. Brode,Chris R. Warber	10.1109/IPPS.1998.669985
+Locality and Performance of Page- and Object-Based DSMs.	Bryan Roger Buck,Peter J. Keleher	10.1109/IPPS.1998.670001
+An Efficient Counting Network.	Costas Busch,Marios Mavronicolas	10.1109/IPPS.1998.669944
+Evaluating ASIC, DSP, and RISC Architectures for Embedded Applications.	Marc E. Campbell	10.1109/IPPS.1998.669987
+Minimizing Total Communication Distance of Time-Step Optimal Broadcast in Mesh Networks.	Songluan Cang,Jie Wu 0001	10.1109/IPPS.1998.669882
+Processor Lower Bound Formulas for Array Computations and Parametric Diophantine Systems.	Peter R. Cappello,Ömer Egecioglu	10.1109/IPPS.1998.669897
+Evaluation of Compiler and Runtime Library Approaches for Supporting Parallel Regular Applications.	Dhruva R. Chakrabarti,Prithviraj Banerjee,Antonio Lain	10.1109/IPPS.1998.669893
+Memory Space Representation for Heterogeneous Network Process Migration.	Kasidit Chanchio,Xian-He Sun	10.1109/IPPS.1998.670020
+The Generalized Lambda Test.	Weng-Long Chang,Chih-Ping Chu,Jesse Wu	10.1109/IPPS.1998.669908
+Design, Implementation and Evaluation of Parallel Pipelined STAP on Parallel Computers.	Alok N. Choudhary,Wei-keng Liao,Donald D. Weiner,Pramod K. Varshney,Richard W. Linderman,Mark H. Linderman	10.1109/IPPS.1998.669914
+Low Memory Cost Dynamic Scheduling of Large Coarse Grain Task Graphs.	Michel Cosnard,Emmanuel Jeannot,Laurence Rougeot	10.1109/IPPS.1998.669966
+Multiprocessor Architectures Using Multi-Hop Multi-OPS Lightwave Networks and Distributed Control.	David Coudert,Afonso Ferreira,Xavier Muñoz	10.1109/IPPS.1998.669903
+Performance Sensitivity of Space Sharing Processor Scheduling in Distributed-Memory Multicomputers.	Sivarama P. Dandamudi,Hai Yu	10.1109/IPPS.1998.669948
+Register-Sensitive Software Pipelining.	Amod K. Dani,V. Janaki Ramanan,Ramaswamy Govindarajan	10.1109/IPPS.1998.669910
+Rendering Computer Animations on a Network of Workstations.	Timothy D. Davis,Edward W. Davis	10.1109/IPPS.1998.670007
+ACEcard: A High-Performance Architecture for Run-Time Reconfiguration.	Don Davis,Jonathan Harris	10.1109/IPPS.1998.669990
+Protocols for Non-Deterministic Communication over Synchronous Channels.	Erik D. Demaine	10.1109/IPPS.1998.669884
+Utilization and Predictability in Scheduling the IBM SP2 with Backfilling.	Dror G. Feitelson,Ahuva Mu&apos;alem Weil	10.1109/IPPS.1998.669970
+Partitioned Schedules for Clustered VLIW Architectures.	Marcio Merino Fernandes,Josep Llosa,Nigel P. Topham	10.1109/IPPS.1998.669945
+Optimistic Synchronization of Mixed-Mode Simulators.	Peter Frey,Radharamanan Radhakrishnan	10.1109/IPPS.1998.670002
+WILDFIRE Heterogeneous Adaptive Parallel Processing Systems.	Bradley K. Fross,Dennis M. Hawver,James B. Peterson	10.1109/IPPS.1998.669989
+Trace-Driven Debugging of Message Passing Programs.	Michael A. Frumkin,Robert Hood,Luis Lopez	10.1109/IPPS.1998.670012
+Hiding Communication Latency in Data Parallel Applications.	Vivek Garg,David E. Schimmel	10.1109/IPPS.1998.669883
+Medical Image Processing and Visualization on Heterogeneous Clusters of Symmetric Multiprocessors Using MPI and POSIX Threads.	Christoph Giess,Achim Mayer,Harald Evers,Hans-Peter Meinzer	10.1109/IPPS.1998.669916
+Parallel Performance Visualization Using Moments of Utilization Data.	T. J. Godin,Michael J. Quinn,Cherri M. Pancake	10.1109/IPPS.1998.670015
+High Performance Data Mining Using Data Cubes on Parallel Computers.	Sanjay Goil,Alok N. Choudhary	10.1109/IPPS.1998.669979
+Characterization for Java Memory Behavior.	Alex Gontmakher,Assaf Schuster	10.1109/IPPS.1998.670000
+An Enhanced Co-Scheduling Method Using Reduced MS-State Diagrams.	Ramaswamy Govindarajan,N. S. S. Narasimha Rao,Erik R. Altman,Guang R. Gao	10.1109/IPPS.1998.669906
+A Flexible Class of Parallel Matrix Multiplication Algorithms.	John A. Gunnels,Calvin Lin,Greg Morrow,Robert A. van de Geijn	10.1109/IPPS.1998.669898
+An Improved Output-Size Sensitive Parallel Algorithm for Hidden-Surface Removal for Terrains.	Neelima Gupta,Sandeep Sen	10.1109/IPPS.1998.669913
+Compile-Time Synchronization Optimization for Software DSMs.	Hwansoo Han,Chau-Wen Tseng	10.1109/IPPS.1998.669997
+An O((log log n)2) Time Convex Hull Algorithm on Reconfigurable Meshes.	Tatsuya Hayashi,Koji Nakano,Stephan Olariu	10.1109/IPPS.1998.669953
+Sorting on Clusters of SMPs.	David R. Helman,Joseph F. JáJá	10.1109/IPPS.1998.669981
+A Case for Aggregate Networks.	Raymond Hoare,Henry G. Dietz	10.1109/IPPS.1998.669905
+NoWait-RPC: Extending ONC RPC to a Fully Compatible Message Passing System.	Thomas Hopfner,Franz Fischer,Georg Färber	10.1109/IPPS.1998.669920
+Automatic Differentiation for Message-Passing Parallel Programs.	Paul D. Hovland,Christian H. Bischof	10.1109/IPPS.1998.669896
+Optimal All-to-Some Personalized Communication on Hypercubes.	Y. Charlie Hu	10.1109/IPPS.1998.669886
+An Expression-Rewriting Framework to Generic Communication Sets for HPF Programs with Block-Cyclic Distribution.	Gwan-Hwan Hwang,Jenq Kuen Lee	10.1109/IPPS.1998.669891
+An AT2 Optimal Mapping of Sorting onto the Mesh Connected Array without Comparators.	Ju-wook Jang	10.1109/IPPS.1998.669982
+ScalParC: A New Scalable and Efficient Parallel Classification Algorithm for Mining Large Datasets.	Mahesh V. Joshi,George Karypis,Vipin Kumar 0001	10.1109/IPPS.1998.669983
+Experimental Validation of Parallel Computation Models on the Intel Paragon.	Ben H. H. Juurlink	10.1109/IPPS.1998.669961
+A Generalized Framework for Global Communication Optimization.	Mahmut T. Kandemir,Prithviraj Banerjee,Alok N. Choudhary,J. Ramanujam,U. Nagaraj Shenoy	10.1109/IPPS.1998.669892
+Improved Concurrency Control Techniques For Multi-Dimensional Index Structures.	Kothuri Venkata Ravi Kanth,David Serena,Ambuj K. Singh	10.1109/IPPS.1998.669984
+Update Protocols and Iterative Scientific Applications.	Peter J. Keleher	10.1109/IPPS.1998.669999
+Efficient Barrier Synchronization Mechanism for BSP Model on Message Passing Architectures.	Jin-Soo Kim,Soonhoi Ha,Chu Shik Jhon	10.1109/IPPS.1998.669922
+A Clustered Approach to Multithreaded Processors.	Venkata Krishnan,Josep Torrellas	10.1109/IPPS.1998.669992
+Optimally Locating a Structured Facility of a Specified Length in a Weighted Tree Network.	Shan-Chyun Ku,Biing-Feng Wang	10.1109/IPPS.1998.669942
+SIMD and Mixed-Mode Implementations of a Visual Tracking Algorithm.	Mark Bernd Kulaczewski,Howard Jay Siegel	10.1109/IPPS.1998.670005
+Code Transformations for Low Power Caching in Embedded Multimedia Processors.	Chidamber Kulkarni,Francky Catthoor,Hugo De Man	10.1109/IPPS.1998.669928
+Benchmarking the Task Graph Scheduling Algorithms.	Yu-Kwong Kwok,Ishfaq Ahmad	10.1109/IPPS.1998.669967
+An Efficient RMS Admission Control and Its Application to Multiprocessor Scheduling.	Sylvain Lauzac,Rami G. Melhem,Daniel Mossé	10.1109/IPPS.1998.669964
+Fault-Tolerant Switched Local Area Networks.	Paul S. LeMahieu,Vasken Bohossian,Jehoshua Bruck	10.1109/IPPS.1998.670011
+High-Performance External Computations Using User-Controllable I/O.	Jang Sun Lee,Sung Hoon Ko,Sanjay Ranka,Byung Eui Min	10.1109/IPPS.1998.669931
+Asymptotically Optimal Randomized Tree Embedding in Static Networks.	Keqin Li	10.1109/IPPS.1998.669951
+Multicasting and Broadcasting in Large WDM Networks.	Weifa Liang,Hong Shen	10.1109/IPPS.1998.669941
+Tree-Based Multicasting in Wormhole-Routed Irregular Topologies.	Ran Libeskind-Hadas,Dominic Mazzoni,Ranjith Rajagopalan	10.1109/IPPS.1998.669919
+Optimal Contention-Free Unicast-Based Multicasting in Switch-Based Networks of Workstations.	Ran Libeskind-Hadas,Dominic Mazzoni,Ranjith Rajagopalan	10.1109/IPPS.1998.669940
+A Scalable VLSI Architecture for Binary Prefix Sums.	Rong Lin,Koji Nakano,Stephan Olariu,Maria Cristina Pinotti,James L. Schwing,Albert Y. Zomaya	10.1109/IPPS.1998.669936
+Compiler-Optimization of Implicit Reductions for Distributed Memory Multiprocessors.	Bo Lu,John M. Mellor-Crummey	10.1109/IPPS.1998.669887
+Managing Concurrent Access for Shared Memory Active Messages.	Steven Lumetta,David E. Culler	10.1109/IPPS.1998.669925
+Comparing the Optimal Performance of Different MIMD Multiprocessor Architectures.	Lars Lundberg,Håkan Lennerstad	10.1109/IPPS.1998.669962
+A Performance Evaluation of CP List Scheduling Heuristics for Communication Intensive Task Graphs.	Benjamin S. Macey,Albert Y. Zomaya	10.1109/IPPS.1998.669968
+Adaptive Quality Equalizing: High-Performance Load Balancing for Parallel Branch-and-Bound Across Applications and Computing Systems.	Nihar R. Mahapatra,Shantanu Dutt	10.1109/IPPS.1998.670019
+Scheduling Algorithms Exploiting Spare Capacity and Tasks&apos; Laxities for Fault Detection and Location in Real-Time Multiprocessor Systems.	K. Mahesh,G. Manimaran,C. Siva Ram Murthy,Arun K. Somani	10.1109/IPPS.1998.670009
+Synthesis of a Systolic Array Genetic Algorithm.	Graham M. Megson,I. M. Bland	10.1109/IPPS.1998.669933
+Predicated Software Pipelining Technique for Loops with Conditions.	Dragan Milicev,Zoran Jovanovic	10.1109/IPPS.1998.669907
+Thread-Based vs Event-Based Implementation of a Group Communication Service.	Shivakant Mishra,Rongguang Yang	10.1109/IPPS.1998.669947
+Prioritized Token-Based Mutual Exclusion for Distributed Systems.	Frank Mueller 0001	10.1109/IPPS.1998.670018
+NOW Parallel Reconstruction of Functional Images.	Frank Munz,T. Stephan,Ursula Maier,Thomas Ludwig 0002,Arndt Bode,Sibylle Ziegler,Stephan G. Nekolla,Peter Bartenstein,Markus Schwaiger	10.1109/IPPS.1998.669912
+Broadcast-Efficient Algorithms on the Coarse-Grain Broadcast Communication Model with Few Channels.	Koji Nakano,Stephan Olariu,James L. Schwing	10.1109/IPPS.1998.669885
+The Design of COMPASS: An Execution Driven Simulator for Commercial Applications Running on Shared Memory Multiprocessors.	Ashwini K. Nanda,Yiming Hu,Moriyoshi Ohara,Caroline Benveniste,Mark Giampapa,Maged M. Michael	10.1109/IPPS.1998.669963
+Design and Implementation of a Parallel I/O Runtime System for Irregular Applications.	Jaechun No,Sung-Soon Park,Jesús Carretero 0001,Alok N. Choudhary,Pang Chen	10.1109/IPPS.1998.669926
+Emulating Direct Products by Index-Shuffle Graphs.	Bojana Obrenic	10.1109/IPPS.1998.669937
+Experimental Study of Compiler Techniques for NUMA Machines.	Yunheung Paek,David A. Padua	10.1109/IPPS.1998.669909
+The Robust-Algorithm Approach to Fault Tolerance on Processor Arrays: Fault Models, Fault Diameter, and Basic Algorithms.	Behrooz Parhami,Chi-Hsiang Yeh	10.1109/IPPS.1998.670010
+An Efficient Logging Scheme for Lazy Release Consistent Distributed Shared Memory Systems.	Taesoon Park,Heon Young Yeom	10.1109/IPPS.1998.669998
+Using PI/OT to Support Complex Parallel I/O.	Ian Parsons,Jonathan Schaeffer,Duane Szafron,Ronald C. Unrau	10.1109/IPPS.1998.669927
+Total Exchange on k-ary n-cubes with Adaptive Routing.	Fabrizio Petrini	10.1109/IPPS.1998.669924
+Deterministic Routing of h-relations on the Multibutterfly.	Andrea Pietracaprina	10.1109/IPPS.1998.669943
+The Implicit Pipeline Method.	John B. Pormann	10.1109/IPPS.1998.670006
+Preliminary Results from a Parallel MATLAB Compiler.	Michael J. Quinn,Alexey G. Malishevsky,Nagajagadeswar Seelam,Yan Zhao	10.1109/IPPS.1998.669894
+Design of a FEM Computation Engine for Real-Time Laparoscopic Surgery Simulation.	Alex Rhomberg,Rolf Enzler,Markus Thaler,Gerhard Tröster	10.1109/IPPS.1998.670004
+Guidelines for Data-Parallel Cycle-Stealing in Networks of Workstations.	Arnold L. Rosenberg	10.1109/IPPS.1998.669965
+Jacobi Orderings for Multi-Port Hypercubes.	Dolors Royo,Antonio González 0001,Miguel Valero-García	10.1109/IPPS.1998.669895
+Predicting the Running Times of Parallel Programs by Simulation.	Radu Rugina,Klaus E. Schauser	10.1109/IPPS.1998.669996
+Distributed Dynamic Control of Circuit-Switched Banyan Networks.	Charles A. Salisbury,Rami G. Melhem	10.1109/IPPS.1998.669904
+Performance Prediction in Production Environments.	Jennifer M. Schopf,Francine Berman	10.1109/IPPS.1998.669995
+A Hardware/Software Co-Design System Using Configurable Computing Technology.	John Schwel	10.1109/IPPS.1998.669991
+Clustering and Reassignment-Based Mapping Strategy for Message Passing Architectures.	Miquel A. Senar,Ana Ripoll,Ana Cortés,Emilio Luque	10.1109/IPPS.1998.669950
+A Quantitative Code Analysis of Scientific Systolic Programs: DSP vs. Matrix Algorithms.	Radovan Sernec,Matej Zajc,Jurij F. Tasic	10.1109/IPPS.1998.669918
+Performance and Experience with LAPI - a New High-Performance Communication Library for the IBM RS/6000 SP.	Gautam Shah,Jarek Nieplocha,Jamshed H. Mirza,Chulho Kim,Robert J. Harrison,Rama Govindaraju,Kevin J. Gildea,Paul DiNicola,Carl A. Bender	10.1109/IPPS.1998.669923
+Parallel Tree Building on a Range of Shared Address Space Multiprocessors: Algorithms and Application Performance.	Hongzhang Shan,Jaswinder Pal Singh	10.1109/IPPS.1998.669959
+Hyper Butterfly Network: A Scalable Optimally Fault Tolerant Architecture.	Wei Shi,Pradip K. Srimani	10.1109/IPPS.1998.670008
+Solving the Maximum Clique Problem Using PUBB.	Yuji Shinano,Tetsuya Fujie,Yoshiko Ikebe,Ryuichi Hirabayashi	10.1109/IPPS.1998.669935
+The Effect of the Router Arbitration Policy on the Scalability of ServerNet.	Vladimir Shurbanov,Dimiter R. Avresky,Robert W. Horst	10.1109/IPPS.1998.669988
+HIPIQS: A High-Performance Switch Architecture Using Input Queuing.	Rajeev Sivaram,Craig B. Stunkel,Dhabaleswar K. Panda 0001	10.1109/IPPS.1998.669901
+Analyzing the Individual/Combined Effects of Speculative and Guarded Execution on a Superscalar Architecture.	M. Srinivas,Alexandru Nicolau	10.1109/IPPS.1998.669911
+Airshed Pollution Modeling: A Case Study in Application Development in an HPF Environment.	Jaspal Subhlok,Peter Steenkiste,James M. Stichnoth,Peter Lieu	10.1109/IPPS.1998.670003
+Caching-Efficient Multithreaded Fast Multiplication of Sparse Matrices.	Peter Sulatycke,Kanad Ghose	10.1109/IPPS.1998.669899
+Predicate Control for Active Debugging of Distributed Programs.	Ashis Tarafdar,Vijay K. Garg	10.1109/IPPS.1998.670013
+The VEGA Moderately Parallel MIMD, Moderately Parallel SIMD, Architectures for High Performance Array Signal Processing.	Mikael Taveniku,Anders Ahlander,Magnus Jonsson,Bertil Svensson	10.1109/IPPS.1998.669915
+Pin-Down Cache: A Virtual Memory Management Technique for Zero-Copy Communication.	Hiroshi Tezuka,Francis O&apos;Carroll,Atsushi Hori,Yutaka Ishikawa	10.1109/IPPS.1998.669932
+Optimizing Data Scheduling on Processor-in-Memory Arrays.	Yi Tian,Edwin Hsing-Mean Sha,Chantana Chantrapornchai,Peter M. Kogge	10.1109/IPPS.1998.669890
+Nearly Optimal Algorithms for Broadcast on d-Dimensional All-Port and Wormhole-Routed Torus.	Jyh-Jong Tsay,Wen-Tsong Wang	10.1109/IPPS.1998.669881
+A Comparative Study of Five Parallel Genetic Algorithms Using the Traveling Salesman Problem.	Lee Wang,Anthony A. Maciejewski,Howard Jay Siegel,Vwani P. Roychowdhury	10.1109/IPPS.1998.669938
+Efficient Fine-Grain Thread Migration with Active Threads.	Boris Weissman,Benedict Gomes,Jürgen Quittek,Michael Holtkamp	10.1109/IPPS.1998.669949
+A New Self-Routing Multicast Network.	Yuanyuan Yang 0001,Jianchao Wang	10.1109/IPPS.1998.669939
+Permutation Capability of Optical Multistage Interconnect Networks.	Yuanyuan Yang 0001,Jianchao Wang,Yi Pan 0001	10.1109/IPPS.1998.669900
+Dynamic Processor Allocation with the Solaris Operating System.	Kelvin K. Yue,David J. Lilja	10.1109/IPPS.1998.669946
+Sharing Random Bits with No Process Coordination.	Marius Zimand	10.1109/IPPS.1998.669956
+12th International Parallel Processing Symposium / 9th Symposium on Parallel and Distributed Processing (IPPS/SPDP &apos;98), March 30 - April 3, 1998, Orlando, Florida, USA, Proceedings		

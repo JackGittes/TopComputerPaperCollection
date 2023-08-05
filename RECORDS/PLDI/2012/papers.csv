@@ -1,0 +1,49 @@
+Parallelizing top-down interprocedural analyses.	Aws Albarghouthi,Rahul Kumar 0002,Aditya V. Nori,Sriram K. Rajamani	10.1145/2254064.2254091
+And then there were none: a stall-free real-time garbage collector for reconfigurable hardware.	David F. Bacon,Perry Cheng,Sunil Shukla	10.1145/2254064.2254068
+A dynamic program analysis to find floating-point accuracy problems.	Florian Benz,Andreas Hildebrandt 0001,Sebastian Hack	10.1145/2254064.2254118
+Proving acceptability properties of relaxed nondeterministic approximate programs.	Michael Carbin,Deokhwan Kim,Sasa Misailovic,Martin C. Rinard	10.1145/2254064.2254086
+Synthesising graphics card programs from DSLs.	Luke Cartey,Rune B. Lyngsø,Oege de Moor	10.1145/2254064.2254080
+Polyhedra scanning revisited.	Chun Chen 0002	10.1145/2254064.2254123
+Type-directed automatic incrementalization.	Yan Chen 0001,Jana Dunfield,Umut A. Acar	10.1145/2254064.2254100
+Diderot: a parallel DSL for image analysis and visualization.	Charisee Chiw,Gordon L. Kindlmann,John H. Reppy,Lamont Samuels,Nick Seltzer	10.1145/2254064.2254079
+Input-sensitive profiling.	Emilio Coppa,Camil Demetrescu,Irene Finocchi	10.1145/2254064.2254076
+Automated error diagnosis using abductive inference.	Isil Dillig,Thomas Dillig,Alex Aiken	10.1145/2254064.2254087
+Compiling a high-level language for GPUs: (via language support for architectures and compilers).	Christophe Dubach,Perry Cheng,Rodric M. Rabbah,David F. Bacon,Stephen J. Fink	10.1145/2254064.2254066
+Self-stabilizing Java.	Yong Hun Eom,Brian Demsky	10.1145/2254064.2254099
+Effective parallelization of loops in the presence of I/O operations.	Min Feng 0001,Rajiv Gupta 0001,Iulian Neamtiu	10.1145/2254064.2254122
+Engage: a deployment management system.	Jeffrey Fischer,Rupak Majumdar,Shahram Esmaeilsabzali	10.1145/2254064.2254096
+SuperC: parsing all of C by taming the preprocessor.	Paul Gazzillo,Robert Grimm 0001	10.1145/2254064.2254103
+Automated synthesis of symbolic instruction encodings from I/O samples.	Patrice Godefroid,Ankur Taly	10.1145/2254064.2254116
+Synthesizing software verifiers from proof rules.	Sergey Grebenshchikov,Nuno P. Lopes,Corneliu Popeea,Andrey Rybalchenko	10.1145/2254064.2254112
+Speculative linearizability.	Rachid Guerraoui,Viktor Kuncak,Giuliano Losa	10.1145/2254064.2254072
+Fast and precise hybrid type inference for JavaScript.	Brian Hackett,Shu-yu Guo	10.1145/2254064.2254094
+Concurrent data representation synthesis.	Peter Hawkins,Alex Aiken,Kathleen Fisher,Martin C. Rinard,Mooly Sagiv	10.1145/2254064.2254114
+Dynamic trace-based analysis of vectorization potential of applications.	Justin Holewinski,Ragavendar Ramamurthi,Mahesh Ravishankar,Naznin Fauzia,Louis-Noël Pouchet,Atanas Rountev,P. Sadayappan	10.1145/2254064.2254108
+Understanding and detecting real-world performance bugs.	Guoliang Jin,Linhai Song,Xiaoming Shi,Joel Scherpelz,Shan Lu 0001	10.1145/2254064.2254075
+Speculative separation for privatization and reductions.	Nick P. Johnson,Hanjun Kim 0001,Prakash Prabhu,Ayal Zaks,David I. August	10.1145/2254064.2254107
+Deterministic parallelism via liquid effects.	Ming Kawaguchi,Patrick Maxim Rondon,Alexander Bakst,Ranjit Jhala	10.1145/2254064.2254071
+Static analysis and compiler design for idempotent processing.	Marc de Kruijf,Karthikeyan Sankaralingam,Somesh Jha	10.1145/2254064.2254120
+Efficient state merging in symbolic execution.	Volodymyr Kuznetsov,Johannes Kinder,Stefan Bucur,George Candea	10.1145/2254064.2254088
+Chimera: hybrid program analysis for determinism.	Dongyoon Lee,Peter M. Chen,Jason Flinn,Satish Narayanasamy	10.1145/2254064.2254119
+Verifying GPU kernels by test amplification.	Alan Leung,Manish Gupta 0010,Yuvraj Agarwal,Rajesh Gupta 0001,Ranjit Jhala,Sorin Lerner	10.1145/2254064.2254110
+Dynamic synthesis for relaxed memory models.	Feng Liu,Nayden Nedev,Nedyalko Prisadnikov,Martin T. Vechev,Eran Yahav	10.1145/2254064.2254115
+A compiler framework for extracting superword level parallelism.	Jun Liu 0008,Yuanrui Zhang,Ohyoung Jang,Wei Ding 0008,Mahmut T. Kandemir	10.1145/2254064.2254106
+RockSalt: better, faster, stronger SFI for the x86.	Greg Morrisett,Gang Tan,Joseph Tassarotti,Jean-Baptiste Tristan,Edward Gan	10.1145/2254064.2254111
+Multicore acceleration of priority-based schedulers for concurrency bug detection.	Santosh Nagarakatte,Sebastian Burckhardt,Milo M. K. Martin,Madanlal Musuvathi	10.1145/2254064.2254128
+Logical inference techniques for loop parallelization.	Cosmin E. Oancea,Lawrence Rauchwerger	10.1145/2254064.2254124
+Design and implementation of sparse global analyses for C-like languages.	Hakjoo Oh,Kihong Heo,Wonchan Lee,Woosuk Lee,Kwangkeun Yi	10.1145/2254064.2254092
+The implicit calculus: a new foundation for generic programming.	Bruno C. d. S. Oliveira,Tom Schrijvers,Wontae Choi,Wonchan Lee,Kwangkeun Yi	10.1145/2254064.2254070
+Type-directed completion of partial expressions.	Daniel Perelman,Sumit Gulwani,Thomas Ball,Dan Grossman	10.1145/2254064.2254098
+Race detection for web applications.	Boris Petrov,Martin T. Vechev,Manu Sridharan,Julian Dolby	10.1145/2254064.2254095
+Fully automatic and precise detection of thread safety violations.	Michael Pradel,Thomas R. Gross	10.1145/2254064.2254126
+Parcae: a system for flexible parallel execution.	Arun Raman,Ayal Zaks,Jae W. Lee,David I. August	10.1145/2254064.2254082
+Scalable and precise dynamic datarace detection for structured parallelism.	Raghavan Raman,Jisheng Zhao,Vivek Sarkar,Martin T. Vechev,Eran Yahav	10.1145/2254064.2254127
+Test-case reduction for C compiler bugs.	John Regehr,Yang Chen 0024,Pascal Cuoq,Eric Eide,Chucky Ellison,Xuejun Yang	10.1145/2254064.2254104
+Adaptive input-aware compilation for graphics engines.	Mehrzad Samadi,Amir Hormati,Mojtaba Mehrara,Janghaeng Lee,Scott A. Mahlke	10.1145/2254064.2254067
+Synchronising C/C++ and POWER.	Susmit Sarkar,Kayvan Memarian,Scott Owens,Mark Batty,Peter Sewell,Luc Maranget,Jade Alglave,Derek Williams	10.1145/2254064.2254102
+JANUS: exploiting parallelism via hindsight.	Omer Tripp,Roman Manevich,John Field,Mooly Sagiv	10.1145/2254064.2254083
+Reagents: expressing and composing fine-grained concurrency.	Aaron Turon	10.1145/2254064.2254084
+Sound and precise analysis of parallel programs through schedule specialization.	Jingyue Wu,Yang Tang,Gang Hu,Heming Cui,Junfeng Yang	10.1145/2254064.2254090
+Algorithmic profiling.	Dmitrijs Zaparanuks,Matthias Hauswirth	10.1145/2254064.2254074
+Language-based control and mitigation of timing channels.	Danfeng Zhang,Aslan Askarov,Andrew C. Myers	10.1145/2254064.2254078
+ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI &apos;12, Beijing, China - June 11 - 16, 2012	Jan Vitek,Haibo Lin,Frank Tip	10.1145/2254064

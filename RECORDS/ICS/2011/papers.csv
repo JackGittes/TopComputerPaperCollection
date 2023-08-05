@@ -1,0 +1,53 @@
+Rethinking shared-memory languages and hardware.	Sarita V. Adve	10.1145/1995896.1995898
+Karma: scalable deterministic record-replay.	Arkaprava Basu,Jayaram Bobba,Mark D. Hill	10.1145/1995896.1995950
+SRC: information retrieval as a persistent parallel service on supercomputer infrastructure.	Tobias Berka,Marián Vajtersic	10.1145/1995896.1995952
+Poster: programming clusters of GPUs with OMPSs.	Javier Bueno,Alejandro Duran,Xavier Martorell,Eduard Ayguadé,Rosa M. Badia,Jesús Labarta	10.1145/1995896.1995961
+An idiom-finding tool for increasing productivity of accelerators.	Laura Carrington,Mustafa M. Tikir,Catherine Olschanowsky,Michael Laurenzano,Joshua Peraza,Allan Snavely,Stephen Poole 0001	10.1145/1995896.1995928
+Poster: revisiting virtual channel memory for performance and fairness on multi-core architecture.	Licheng Chen,Yongbing Huang,Yungang Bao,Onur Mutlu,Guangming Tan,Mingyu Chen 0001	10.1145/1995896.1995962
+Predictive coordination of multiple on-chip resources for chip multiprocessors.	Jian Chen 0030,Lizy Kurian John	10.1145/1995896.1995927
+Hystor: making the best use of solid state drives in high performance storage systems.	Feng Chen 0005,David A. Koufaty,Xiaodong Zhang 0001	10.1145/1995896.1995902
+Coordinating processor and main memory for efficientserver power control.	Ming Chen 0002,Xiaorui Wang,Xue Li	10.1145/1995896.1995917
+SecureME: a hardware-software approach to full system security.	Siddhartha Chhabra,Brian Rogers,Yan Solihin,Milos Prvulovic	10.1145/1995896.1995914
+A QHD-capable parallel H.264 decoder.	Chi Ching Chi,Ben H. H. Juurlink	10.1145/1995896.1995945
+SRC: automatic extraction of SST/macro skeleton models.	Amruth Rudraiah Dakshinamurthy	10.1145/1995896.1995965
+SRC: soft error detection and recovery for high performance linpack.	Teresa Davies,Zizhong Chen	10.1145/1995896.1995955
+High performance linpack benchmark: a fault tolerant implementation without checkpointing.	Teresa Davies,Christer Karlsson,Hui Liu,Chong Ding,Zizhong Chen	10.1145/1995896.1995923
+SRC: Damaris - using dedicated i/o cores for scalable post-petascale HPC simulations.	Matthieu Dorier	10.1145/1995896.1995953
+Cost-effectively offering private buffers in SoCs and CMPs.	Zhen Fang,Li Zhao 0002,Ravishankar R. Iyer 0001,Carlos Flores Fajardo,German Fabila Garcia,Seung Eun Lee,Bin Li 0018,Steve R. King,Xiaowei Jiang,Srihari Makineni	10.1145/1995896.1995940
+SRC: facilitating efficient parallelization of information storage and retrieval on large data sets.	Steven Feldman	10.1145/1995896.1995964
+SRC: virtual i/o caching: dynamic storage cache management for concurrent workloads.	Michael R. Frasca,Ramya Prabhakar	10.1145/1995896.1995959
+Modeling the performance of an algebraic multigrid cycle on HPC platforms.	Hormozd Gahvari,Allison H. Baker,Martin Schulz 0001,Ulrike Meier Yang,Kirk E. Jordan,William Gropp	10.1145/1995896.1995924
+ZEBRA: a data-centric, hybrid-policy hardware transactional memory design.	J. Rubén Titos Gil,Anurag Negi,Manuel E. Acacio,José M. García 0001,Per Stenström	10.1145/1995896.1995906
+Performance modeling as the key to extreme scale computing.	William D. Gropp	10.1145/1995896.1995930
+Using GPUs to compute large out-of-card FFTs.	Liang Gu,Jakob Siegel,Xiaoming Li	10.1145/1995896.1995937
+Challenges and opportunities in renewable energy and energy efficiency.	Steven W. Hammond	10.1145/1995896.1995920
+Generic topology mapping strategies for large-scale parallel architectures.	Torsten Hoefler,Marc Snir	10.1145/1995896.1995909
+Performance impact and interplay of SSD parallelism through advanced commands, allocation strategy and data granularity.	Yang Hu 0007,Hong Jiang 0001,Dan Feng 0001,Lei Tian 0001,Hao Luo 0009,Shu Ping Zhang	10.1145/1995896.1995912
+Optimizing throughput/power trade-offs in hardware transactional memory using DVFS and intelligent scheduling.	Clay Hughes,Tao Li 0006	10.1145/1995896.1995918
+An execution strategy and optimized runtime support for parallelizing irregular reductions on modern GPUs.	Xin Huo,Vignesh T. Ravi,Wenjing Ma,Gagan Agrawal	10.1145/1995896.1995900
+SRC: an automatic code overlaying technique for multicores with explicitly-managed memory hierarchies.	Choonki Jang	10.1145/1995896.1995960
+Poster: implications of merging phases on scalability of multi-core architectures.	Madhavan Manivannan,Ben H. H. Juurlink,Per Stenström	10.1145/1995896.1995963
+Automatic SIMD vectorization of fast fourier transforms for the larrabee and AVX instruction sets.	Daniel S. McFarlin,Volodymyr Arbatov,Franz Franchetti,Markus Püschel	10.1145/1995896.1995938
+F2BFLY: an on-chip free-space optical network with wavelength-switching.	Jin Ouyang,Chuan Yang,Dimin Niu,Yuan Xie 0001,Zhiwen Liu	10.1145/1995896.1995949
+SRC: FenixOS - a research operating system focused on high scalability and reliability.	Stavros Passas,Sven Karlsson	10.1145/1995896.1995954
+Controlling cache utilization of HPC applications.	Swann Perarnau,Marc Tchiboukdjian,Guillaume Huard	10.1145/1995896.1995942
+MDR: performance model driven runtime for heterogeneous parallel platforms.	Jacques A. Pienaar,Anand Raghunathan,Srimat T. Chakradhar	10.1145/1995896.1995933
+Optimizing the datacenter for data-centric workloads.	Stijn Polfliet,Frederick Ryckbosch,Lieven Eeckhout	10.1145/1995896.1995926
+SRC: OpenSHMEM library development.	Swaroop Suhas Pophale	10.1145/1995896.1995957
+Multiset signatures for transactional memory.	Ricardo Quislant,Eladio Gutiérrez,Oscar G. Plata,Emilio L. Zapata	10.1145/1995896.1995905
+Page placement in hybrid memory systems.	Luiz E. Ramos,Eugene Gorbatov,Ricardo Bianchini	10.1145/1995896.1995911
+The elephant and the mice: the role of non-strict fine-grain synchronization for modern many-core architectures.	Juergen Ributzka,Yuhei Hayashi,Joseph B. Manzano,Guang R. Gao	10.1145/1995896.1995948
+MP-PIPE: a massively parallel protein-protein interaction prediction engine.	Andrew Schoenrock,Frank K. H. A. Dehne,James R. Green,Ashkan Golshani,Sylvain Pitre	10.1145/1995896.1995946
+Characterizing the impact of soft errors on iterative methods in scientific computing.	Manu Shantharam,Sowmyalatha Srinivasmurthy,Padma Raghavan	10.1145/1995896.1995922
+Automating GPU computing in MATLAB.	Chun-Yu Shei,Pushkar Ratnalikar,Arun Chauhan 0001	10.1145/1995896.1995936
+Poster: DVFS management in real-processors.	Vasileios Spiliopoulos,Georgios Keramidas,Stefanos Kaxiras,Konstantinos Efstathiou 0002	10.1145/1995896.1995956
+Cosmic microwave background map-making at the petascale and beyond.	Rajesh Sudarsan,Julian Borrill,Christopher Cantalupo,Theodore Kisner,Kamesh Madduri,Leonid Oliker,Yili Zheng,Horst D. Simon	10.1145/1995896.1995944
+Transactional conflict decoupling and value prediction.	Fuad Tabba,Andrew W. Hay,James R. Goodman	10.1145/1995896.1995904
+Scalable fine-grained call path tracing.	Nathan R. Tallent,John M. Mellor-Crummey,Michael Franco,Reed Landrum,Laksono Adhianto	10.1145/1995896.1995908
+SRC: enabling petascale data analysis for scientific applications through data reorganization.	Yuan Tian 0004	10.1145/1995896.1995958
+Mint: realizing CUDA performance in 3D stencil methods with annotated C.	Didem Unat,Xing Cai,Scott B. Baden	10.1145/1995896.1995932
+Processing data streams with hard real-time constraints on heterogeneous systems.	Uri Verner,Assaf Schuster,Mark Silberstein	10.1145/1995896.1995915
+Active pebbles: parallel programming for data-driven applications.	Jeremiah Willcock,Torsten Hoefler,Nicholas Gerard Edmonds,Andrew Lumsdaine	10.1145/1995896.1995934
+Automatic generation of executable communication specifications from parallel applications.	Xing Wu 0004,Frank Mueller 0001,Scott Pakin	10.1145/1995896.1995901
+A composite and scalable cache coherence protocol for large scale CMPs.	Yi Xu,Yu Du,Youtao Zhang,Jun Yang 0002	10.1145/1995896.1995941
+Proceedings of the 25th International Conference on Supercomputing, 2011, Tucson, AZ, USA, May 31 - June 04, 2011	David K. Lowenthal,Bronis R. de Supinski,Sally A. McKee	10.1145/1995896

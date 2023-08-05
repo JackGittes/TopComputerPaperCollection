@@ -1,0 +1,103 @@
+Soft error reliability aware placement and routing for FPGAs.	Mohammed A. Abdul-Aziz,Mehdi Baradaran Tahoori	10.1109/TEST.2010.5699279
+Leveraging existing power control circuits and power delivery architecture for variability measurement.	Dhruva Acharyya,Kanak Agarwal,Jim Plusquellic	10.1109/TEST.2010.5699268
+An on-line monitoring technique for electrode degradation in bio-fluidic microsystems.	Qais Al-Gayem,Hongyuan Liu 0001,Andrew Richardson 0001,Nick Burd,M. Kumar	10.1109/TEST.2010.5699269
+Improving fault diagnosis accuracy by automatic test set modification.	Luca Amati,Cristiana Bolchini,Fabio Salice,Federico Franzoso	10.1109/TEST.2010.5699250
+A low-cost ATE phase signal generation technique for test applications.	Sadok Aouini,Kun Chuai,Gordon W. Roberts	10.1109/TEST.2010.5699202
+Evaluation techniques of frequency-dependent I/Q imbalances in wideband quadrature mixers.	Koji Asami,Toshiaki Kurihara,Yushi Inada	10.1109/TEST.2010.5699223
+Timing skew compensation technique using digital filter with novel linear phase condition.	Koji Asami,Hiroyuki Miyajima,Tsuyoshi Kurosawa,Takenori Tateiwa,Haruo Kobayashi 0001	10.1109/TEST.2010.5699234
+Practical active compensation techniques for ATE power supply response for testing of mixed signal data storage SOCs.	Suri Basharapandiyan,Yi Cai	10.1109/TEST.2010.5699263
+A programmable BIST for DRAM testing and diagnosis.	Paolo Bernardi,Michelangelo Grosso,Matteo Sonza Reorda,Y. Zhang	10.1109/TEST.2010.5699247
+A tester architecture suitable for MEMS calibration and testing.	Lyl M. Ciganda Brasca,Paolo Bernardi,Matteo Sonza Reorda,Dimitri Barbieri,Maurizio Straiotto,Luciano Bonaria	10.1109/TEST.2010.5699298
+Highly efficient parallel ATPG based on shared memory.	X. Cai,Peter Wohl,John A. Waicukauski,Pramod Notiyath	10.1109/TEST.2010.5699236
+A kernel-based approach for functional test program generation.	Po-Hsien Chang,Li-C. Wang,Jayanta Bhadra	10.1109/TEST.2010.5699216
+Mining AC delay measurements for understanding speed-limiting paths.	Janine Chen,Brendon Bolin,Li-C. Wang,Jing Zeng,Dragoljub Gagi Drmanac,Michael Mateja	10.1109/TEST.2010.5699258
+The AB-filling methodology for power-aware at-speed scan testing.	Tsung-Tang Chen,Po-Han Wu,Kung-Han Chen,Jiann-Chyi Rau,Shih-Ming Tzeng	10.1109/TEST.2010.5699299
+Optimization of burn-in test for many-core processors through adaptive spatiotemporal power migration.	Minki Cho,Nikhil Sathe,Arijit Raychowdhury,Saibal Mukhopadhyay	10.1109/TEST.2010.5699205
+Design and test of latch-based circuits to maximize performance, yield, and delay test quality.	Kun Young Chung,Sandeep K. Gupta	10.1109/TEST.2010.5699209
+Solutions for undetected shorts on IEEE 1149.1 self-monitoring pins.	C. J. Clark,Dave Dubberke,Kenneth P. Parker,Bill Tuthill	10.1109/TEST.2010.5699259
+Testing the IBM Power 7™ 4 GHz eight core microprocessor.	James Crafts,David Bogdan,Dennis Conti,Donato O. Forlenza,Orazio P. Forlenza,William V. Huott,Mary P. Kusko,Edward Seymour,Timothy Taylor,Brian Walsh	10.1109/TEST.2010.5699204
+AXIe®: Open architecture test system standard.	Al Czamara	10.1109/TEST.2010.5699293
+Low power compression of incompatible test cubes.	Dariusz Czysz,Grzegorz Mrugalski,Nilanjan Mukherjee 0001,Janusz Rajski,Przemyslaw Szczerbicki,Jerzy Tyszer	10.1109/TEST.2010.5699274
+Post-manufacturing ECC customization based on Orthogonal Latin Square codes and its application to ultra-low power caches.	Rudrajit Datta,Nur A. Touba	10.1109/TEST.2010.5699221
+Mutation-based diagnostic test generation for hardware design error diagnosis.	Shujun Deng,Kwang-Ting Cheng,Jinian Bian,Zhiqiu Kong	10.1109/TEST.2010.5699307
+Hard to find, easy to find systematics; just find them.	Rao Desineni,Leah Pastel,Maroun Kassab,Robert Redburn	10.1109/TEST.2010.5699240
+Towards effective and compression-friendly test of memory interface logic.	V. R. Devanathan,Alan Hales,Sumant Kale,Dharmesh Sonkar	10.1109/TEST.2010.5699212
+Clock Gate Test Points.	Narendra Devta-Prasanna,Arun Gunda	10.1109/TEST.2010.5699208
+Multiple fault activation cycle tests for transistor stuck-open faults.	Narendra Devta-Prasanna,Arun Gunda,Sudhakar M. Reddy,Irith Pomeranz	10.1109/TEST.2010.5699313
+Automated test program generation for automotive devices.	Anke Drappa,Peter Huber,Jon Vollmar	10.1109/TEST.2010.5699253
+A new method for estimating spectral performance of ADC from INL.	Jingbo Duan,Le Jin,Degang Chen 0001	10.1109/TEST.2010.5699273
+MT-SBST: Self-test optimization in multithreaded multicore architectures.	Nikos Foutris,Mihalis Psarakis,Dimitris Gizopoulos,Andreas Apostolakis,Xavier Vera,Antonio González 0001	10.1109/TEST.2010.5699277
+A roaming memory test bench for detecting particle induced SEUs.	Jean Marc Gallière,Paolo Rech,Patrick Girard 0001,Luigi Dilillo	10.1109/TEST.2010.5699302
+Defect-oriented cell-internal testing.	Friedrich Hapke,Wilfried Redemund,Jürgen Schlöffel,Rene Krenz-Baath,Andreas Glowatz,Michael Wittke,Hamidreza Hashempour,Stefan Eichenberger	10.1109/TEST.2010.5699229
+On generation of a universal path candidate set containing testable long paths.	Zijian He,Tao Lv 0001,Huawei Li 0001,Xiaowei Li 0001	10.1109/TEST.2010.5699308
+Principal Component Analysis-based compensation for measurement errors due to mechanical misalignments in PCB testing.	Xin He,Yashwant K. Malaiya,Anura P. Jayasumana,Kenneth P. Parker,Stephen Hird	10.1109/TEST.2010.5699249
+QED: Quick Error Detection tests for effective post-silicon validation.	Ted Hong,Yanjing Li,Sung-Boem Park,Diana Mui,David Lin,Ziyad Abdel Kaleq,Nagib Hakim,Helia Naeimi,Donald S. Gardner,Subhasish Mitra	10.1109/TEST.2010.5699215
+Case study of scan chain diagnosis and PFA on a low yield wafer.	Yu Huang 0005,Brady Benware,Wu-Tung Cheng,Ting-Pu Tai,Feng-Ming Kuo,Yuan-Shih Chen	10.1109/TEST.2010.5699310
+Detecting memory faults in the presence of bit line coupling in SRAM devices.	Sandra Irobi,Zaid Al-Ars,Said Hamdioui	10.1109/TEST.2010.5699246
+Redundant core testing on the cell BE microprocessor.	David Iverson,Dan Dickinson,John Masson,Christina Newman-LaBounty,Daniel Simmons,William Tanona	10.1109/TEST.2010.5699206
+Modeling TSV open defects in 3D-stacked DRAM.	Li Jiang 0002,Yuxi Liu,Lian Duan,Yuan Xie 0001,Qiang Xu 0001	10.1109/TEST.2010.5699217
+A MEMS based device interface board.	Nabeeh Kandalaft,Iftekhar Ibne Basith,Rashid Rashidzadeh	10.1109/TEST.2010.5699296
+RADPro: Automatic RF analyzer and diagnostic program generation tool.	Sukeshwar Kannan,Bruce C. Kim,Ganesh Srinivasan,Friedrich Taenzlar,Richard Antley,Craig Force,Falah Mohammed	10.1109/TEST.2010.5699233
+Using context based methods for test data compression.	Sara Karamati,Zainalabedin Navabi	10.1109/TEST.2010.5699301
+Precision audio nulling instrumentation achieves near -140dB measurements in a production environment.	Carl Karandjeff,Chris Hannaford	10.1109/TEST.2010.5699262
+Dynamic channel allocation for higher EDT compression in SoC designs.	Mark Kassab,Grzegorz Mrugalski,Nilanjan Mukherjee 0001,Janusz Rajski,Jakub Janicki,Jerzy Tyszer	10.1109/TEST.2010.5699227
+ADC linearity testing method with single analog monitoring port.	Tomohiro Kawachi,Koichi Irie	10.1109/TEST.2010.5699244
+Low cost at-speed testing using On-Product Clock Generation compatible with test compression.	Brion L. Keller,Krishna Chakravadhanula,Brian Foutz,Vivek Chickermane,R. Malneedi,Thomas J. Snethen,Vikram Iyengar,David E. Lackey,Gary Grise	10.1109/TEST.2010.5699276
+Modeling the impact of process variation on resistive bridge defects.	S. Saqib Khursheed,Shida Zhong,Robert C. Aitken,Bashir M. Al-Hashimi,Sandip Kundu	10.1109/TEST.2010.5699230
+A high density small size RF test module for high throughput multiple resource testing.	Masayuki Kimishima,S. Mizuno,T. Seki,H. Takeuti,Haruki Nagami,Hideki Shirasu,Y. Haraguti,J. Okayasu,M. Nakanishi	10.1109/TEST.2010.5699232
+Experiences with parametric BIST for production testing PLLs with picosecond precision.	Rakesh Kinger,Swetha Narasimhawsamy,Stephen K. Sunter	10.1109/TEST.2010.5699243
+Automated trace signals selection using the RTL descriptions.	Ho Fai Ko,Nicola Nicolici	10.1109/TEST.2010.5699214
+System reliability evaluation using concurrent multi-level simulation of structural faults.	Michael A. Kochte,Christian G. Zoellin,Rafal Baranowski,Michael E. Imhof,Hans-Joachim Wunderlich,Nadereh Hatami,Stefano Di Carlo,Paolo Prinetto	10.1109/TEST.2010.5699309
+A high linearity compact timing vernier for CMOS timing generator.	Jun Kohno,Tatsuro Akiyama,Dai Kato,Makoto Imamura	10.1109/TEST.2010.5699174
+Post-production performance calibration in analog/RF devices.	Nathan Kupp,He Huang,Petros Drineas,Yiorgos Makris	10.1109/TEST.2010.5699225
+A practical scan re-use scheme for system test.	Kelly Lee	10.1109/TEST.2010.5699306
+nGFSIM : A GPU-based fault simulator for 1-to-n detection and its applications.	Huawei Li 0001,Dawen Xu 0002,Yinhe Han 0001,Kwang-Ting Cheng,Xiaowei Li 0001	10.1109/TEST.2010.5699235
+Fault models and test methods for subthreshold SRAMs.	Chen-Wei Lin,Hung-Hsin Chen,Hao-Yu Yang,Mango Chia-Tso Chao,Rei-Fu Huang	10.1109/TEST.2010.5699245
+Mask versus Schematic - an enhanced design-verification flow for first silicon success.	Tseng-Chin Luo,Eric Leong,Mango Chia-Tso Chao,Philip A. Fisher,Wen-Hsiang Chang	10.1109/TEST.2010.5699238
+Complete testing of receiver jitter tolerance.	Timothy Daniel Lyons	10.1109/TEST.2010.5699175
+Rapid FPGA delay characterization using clock synthesis and sparse sampling.	Mehrdad Majzoobi,Eva L. Dyer,Ahmed Elnably,Farinaz Koushanfar	10.1109/TEST.2010.5699248
+Analog neural network design for RF built-in self-test.	Dzmitry Maliuk,Haralampos-G. D. Stratigopoulos,He Huang,Yiorgos Makris	10.1109/TEST.2010.5699272
+Structural approach for built-in tests in RF devices.	Deepa Mannath,Dallas Webster,Victor Montaño-Martinez,David Cohen,Shai Kush,Ganesan Thiagarajan,Adesh Sontakke	10.1109/TEST.2010.5699241
+Low capture power at-speed test in EDT environment.	Elham K. Moghaddam,Janusz Rajski,Sudhakar M. Reddy,Xijiang Lin,Nilanjan Mukherjee 0001,Mark Kassab	10.1109/TEST.2010.5699275
+Synthetic DSP approach for novel FPGA-based measurement of error vector magnitude.	Devin Morris,William R. Eisenstadt,Andrea Paganini,Mustapha Slamani,Timothy Platt,John Ferrario	10.1109/TEST.2010.5699224
+Path coverage based functional test generation for processor marginality validation.	Suriyaprakash Natarajan,Arun Krishnamachary,Eli Chiprout,Rajesh Galivanche	10.1109/TEST.2010.5699257
+Automatic classification of bridge defects.	Jeffrey E. Nelson,Wing Chiu Tam,Ronald D. Blanton	10.1109/TEST.2010.5699231
+Optimization methods for post-bond die-internal/external testing in 3D stacked ICs.	Brandon Noia,Krishnendu Chakrabarty,Erik Jan Marinissen	10.1109/TEST.2010.5699219
+A fast and highly accurate path delay emulation framework for logic-emulation of timing speculation.	Shuou Nomura,Karthikeyan Sankaralingam,Ranganathan Sankaralingam	10.1109/TEST.2010.5699267
+STIL P1450.4: A standard for test flow specification.	Jim O&apos;Reilly,Ajay Khoche,Ernst Wahl,Bruce R. Parnas	10.1109/TEST.2010.5699254
+Constrained ATPG for functional RTL circuits using F-Scan.	Marie Engelene J. Obien,Satoshi Ohtake,Hideo Fujiwara	10.1109/TEST.2010.5699265
+Lessons from at-speed scan deployment on an Intel® Itanium® microprocessor.	Pankaj Pant,Joshua Zelman,Glenn Colón-Bonet,Jennifer Flint,Steve Yurash	10.1109/TEST.2010.5699256
+Surviving state disruptions caused by test: The &quot;Lobotomy Problem&quot;.	Kenneth P. Parker	10.1109/TEST.2010.5699260
+Scan chain securization though Open-Circuit Deadlocks.	Michele Portolan,Bradford G. Van Treuren,Suresh Goyal	10.1109/TEST.2010.5699300
+Validating the performance of a 32nm CMOS high speed serial link receiver with adaptive equalization and baud-rate clock data recovery.	Sudeep Puligundla,Fulvio Spagna,Lidong Chen,Amanda Tran	10.1109/TEST.2010.5699242
+Characterizing mechanical performance of Board Level Interconnects for In-Circuit Test.	Rosa D. Reinosa,Aileen Allen,Elizabeth Benedetto,Alan Mcallister	10.1109/TEST.2010.5699252
+New tools and methodology for advanced parametric and defect structure test.	Raphael Robertazzi,Louis Medina,Ernesto Shiling,Garry Moore,Ronald Geiger,Jiun-Hsin Liao,John Williamson	10.1109/TEST.2010.5699201
+Shadow checker (SC): A low-cost hardware scheme for online detection of faults in small memory structures of a microprocessor.	Rance Rodrigues,Sandip Kundu,Omer Khan	10.1109/TEST.2010.5699222
+RT-level design-for-testability and expansion of functional test sequences for enhanced defect coverage.	Alodeep Sanyal,Krishnendu Chakrabarty,Mahmut Yilmaz,Hideo Fujiwara	10.1109/TEST.2010.5699266
+Error-locality-aware linear coding to correct multi-bit upsets in SRAMs.	Saeed Shamshiri,Kwang-Ting Cheng	10.1109/TEST.2010.5699220
+Predictive analysis for projecting test compression levels.	Ozgur Sinanoglu,Sobeeh Almukhaizim	10.1109/TEST.2010.5699228
+Methodology for early and accurate test power estimation at RTL.	Abhay Singh,Milan Shetty,Srivaths Ravi 0001,Ravindra Nibandhe	10.1109/TEST.2010.5699305
+Package test interface fixture considering low cost solution, high electrical performance, and compatibility with fine pitch packages.	Ki-Jae Song,Hunkyo Seo,Sang-hyun Ko	10.1109/TEST.2010.5699264
+On techniques for handling soft errors in digital circuits.	Warin Sootkaneung,Kewal K. Saluja	10.1109/TEST.2010.5699278
+AXIe® 2.0 and MVP-C: Open ATE software standards.	Kenneth Spargo	10.1109/TEST.2010.5699294
+A novel approach to improve test coverage of BSR cells.	Ankush Srivastava,Ajay Prajapati,Vinay Soni	10.1109/TEST.2010.5699295
+BIST of I/O circuit parameters via standard boundary scan.	Stephen K. Sunter,Matthias Tilmann	10.1109/TEST.2010.5699207
+Systematic defect identification through layout snippet clustering.	Wing Chiu Tam,Osei Poku,Ronald D. Blanton	10.1109/TEST.2010.5699239
+DFM aware bridge pair extraction for manufacturing test development.	Sarveswara Tammali,Vishal Khatri,Gowrysankar Shanmugam,Mark Terry	10.1109/TEST.2010.5699304
+On maximizing the compound yield for 3D Wafer-to-Wafer stacked ICs.	Mottaqiallah Taouil,Said Hamdioui,Jouke Verbree,Erik Jan Marinissen	10.1109/TEST.2010.5699218
+Vendor-agnostic native compression engine.	Vance Threatt,Atchyuth Gorti,Jeff Rearick,Shaishav Parikh,Anirudh Kadiyala,Aditya Jagirdar,Andy Halliday	10.1109/TEST.2010.5699311
+Parity prediction synthesis for nano-electronic gate designs.	D. A. Tran,Arnaud Virazel,Alberto Bosio,Luigi Dilillo,Patrick Girard 0001,Serge Pravossoudovitch,Hans-Joachim Wunderlich	10.1109/TEST.2010.5699312
+Detecting and diagnosing open defects.	Dat Tran,LeRoy Winemberg,Darrell Carder,Xijiang Lin,Joe LeBritton,Bruce Swanson	10.1109/TEST.2010.5699303
+Test cycle power optimization for scan-based designs.	Kun-Han Tsai,Yu Huang 0005,Wu-Tung Cheng,Ting-Pu Tai,Augusli Kifli	10.1109/TEST.2010.5699213
+Clock control architecture and ATPG for reducing pattern count in SoC designs with multiple clock domains.	Tom Waayers,Richard Morren,Xijiang Lin,Mark Kassab	10.1109/TEST.2010.5699211
+Concurrent test planning.	Bethany Van Wagenen,Edward Seng	10.1109/TEST.2010.5699255
+Commanded Test Access Port operations.	Lee Whetsel	10.1109/TEST.2010.5699261
+Increasing PRPG-based compression by delayed justification.	Peter Wohl,John A. Waicukauski,T. Finklea	10.1109/TEST.2010.5699226
+Is test power reduction through X-filling good enough?	Fangmei Wu,Luigi Dilillo,Alberto Bosio,Patrick Girard 0001,Serge Pravossoudovitch,Arnaud Virazel,Mohammad Tehranipoor,Kohei Miyase,Xiaoqing Wen,Nisar Ahmed	10.1109/TEST.2010.5699297
+Testing of latch based embedded arrays using scan tests.	Fan Yang 0060,Sreejit Chakravarty	10.1109/TEST.2010.5699210
+Adaptive test flow for mixed-signal/RF circuits using learned information from device under test.	Ender Yilmaz,Sule Ozev,Kenneth M. Butler	10.1109/TEST.2010.5699271
+The scan-DFT features of AMD&apos;s next-generation microprocessor core.	Mahmut Yilmaz,Baosheng Wang,Jayalakshmi Rajaraman,Tom Olsen,Kanwaldeep Sobti,Dwight Elvey,Jeff Fitzgerald,Grady Giles,Wei-Yu Chen	10.1109/TEST.2010.5699203
+Estimating defect-type distributions through volume diagnosis and defect behavior attribution.	Xiaochun Yu,Ronald D. Blanton	10.1109/TEST.2010.5699270
+A diagnostic test generation system.	Yu Zhang,Vishwani D. Agrawal	10.1109/TEST.2010.5699237
+Board-level fault diagnosis using an error-flow dictionary.	Zhaobo Zhang,Zhanglei Wang,Xinli Gu,Krishnendu Chakrabarty	10.1109/TEST.2010.5699251
+2011 IEEE International Test Conference, ITC 2010, Austin, TX, USA, November 2-4, 2010	Ron Press,Erik H. Volkerink	

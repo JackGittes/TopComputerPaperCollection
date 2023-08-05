@@ -1,0 +1,38 @@
+Trace Cache Sampling Filter.	Michael Behar,Avi Mendelson,Avinoam Kolodny	10.1109/PACT.2005.38
+Performance Analysis of System Overheads in TCP/IP Workloads.	Nathan L. Binkert,Lisa R. Hsu,Ali G. Saidi,Ronald G. Dreslinski,Andrew L. Schultz,Steven K. Reinhardt	10.1109/PACT.2005.35
+Deep Jam: Conversion of Coarse-Grain Parallelism to Instruction-Level and Vector Parallelism for Irregular Applications.	Patrick Carribault,Albert Cohen 0001,William Jalby	10.1109/PACT.2005.16
+Multiple Page Size Modeling and Optimization.	Calin Cascaval,Evelyn Duesterwald,Peter F. Sweeney,Robert W. Wisniewski	10.1109/PACT.2005.32
+Communication Optimizations for Fine-Grained UPC Applications.	Wei-Yu Chen,Costin Iancu,Katherine A. Yelick	10.1109/PACT.2005.13
+Maximizing CMP Throughput with Mediocre Cores.	John D. Davis,James Laudon,Kunle Olukotun	10.1109/PACT.2005.42
+Optimizing Compiler for the CELL Processor.	Alexandre E. Eichenberger,Kathryn M. O&apos;Brien,Kevin O&apos;Brien,Peng Wu 0001,Tong Chen 0001,Peter H. Oden,Daniel A. Prener,Janice C. Shepherd,Byoungro So,Zehra Sura,Amy Wang,Tao Zhang,Peng Zhao,Michael Gschwind	10.1109/PACT.2005.33
+Instruction Based Memory Distance Analysis and its Application.	Changpeng Fang,Steve Carr 0001,Soner Önder,Zhenlin Wang	10.1109/PACT.2005.26
+Future Execution: A Hardware Prefetching Technique for Chip Multiprocessors.	Ilya Ganusov,Martin Burtscher	10.1109/PACT.2005.23
+Variable-Based Multi-module Data Caches for Clustered VLIW Processors.	Enric Gibert,Jaume Abella 0001,F. Jesús Sánchez,Xavier Vera,Antonio González 0001	10.1109/PACT.2005.40
+Automatic Selection of Compiler Options Using Non-parametric Inferential Statistics.	Masayo Haneda,Peter M. W. Knijnenburg,Harry A. G. Wijshoff	10.1109/PACT.2005.9
+HUNTing the Overlap.	Costin Iancu,Parry Husbands,Paul Hargrove	10.1109/PACT.2005.25
+Automatic Tuning Matrix Multiplication Performance on Graphics Hardware.	Changhao Jiang,Marc Snir	10.1109/PACT.2005.10
+Compiler Directed Early Register Release.	Timothy M. Jones 0001,Michael F. P. O&apos;Boyle,Jaume Abella 0001,Antonio González 0001,Oguz Ergin	10.1109/PACT.2005.14
+Efficient Techniques for Advanced Data Dependence Analysis.	Konstantinos Kyriakopoulos,Kleanthis Psarris	10.1109/PACT.2005.19
+Memory Coloring: A Compiler Approach for Scratchpad Memory Management.	Lian Li 0002,Lin Gao 0002,Jingling Xue	10.1109/PACT.2005.27
+A Simple Divide-and-Conquer Approach for Neural-Class Branch Prediction.	Gabriel H. Loh	10.1109/PACT.2005.6
+Characterization of TCC on Chip-Multiprocessors.	Austen McDonald,JaeWoong Chung,Hassan Chafi,Chi Cao Minh,Brian D. Carlstrom,Lance Hammond,Christos Kozyrakis,Kunle Olukotun	10.1109/PACT.2005.11
+Memory State Compressors for Giga-Scale Checkpoint/Restore.	Andreas Moshovos,Alexandros Kostopoulos	10.1109/PACT.2005.28
+HPS: Hybrid Profiling Support.	Hussam Mousa,Chandra Krintz	10.1109/PACT.2005.24
+Variational Path Profiling.	Erez Perelman,Trishul M. Chilimbi,Brad Calder	10.1109/PACT.2005.41
+Exploiting Coarse-Grain Verification Parallelism for Power-Efficient Fault Tolerance.	M. Wasiur Rashid,Edwin J. Tan,Michael C. Huang 0001,David H. Albonesi	10.1109/PACT.2005.20
+Multi-Core to the Masses.	Justin R. Rattner	10.1109/PACT.2005.31
+Data Centric Transformations on Non-Integer Iteration Spaces.	Swarup Kumar Sahoo,Gagan Agrawal	10.1109/PACT.2005.15
+Design and Implementation of a Compiler Framework for Helper Threading on Multi-core Processors.	Yonghong Song,Spiros Kalogeropulos,Partha Tirumalai	10.1109/PACT.2005.17
+Parallel Programming and Parallel Abstractions in Fortress.	Guy L. Steele Jr.	10.1109/PACT.2005.34
+Extended Whole Program Paths.	Sriraman Tallam,Rajiv Gupta 0001,Xiangyu Zhang 0001	10.1109/PACT.2005.22
+Store-Ordered Streaming of Shared Memory.	Thomas F. Wenisch,Stephen Somogyi,Nikolaos Hardavellas,Jangwoo Kim,Chris Gniady,Anastassia Ailamaki,Babak Falsafi	10.1109/PACT.2005.37
+Exploiting Coarse-Grained Parallelism to Accelerate Protein Motif Finding with a Network Processor.	Ben Wun,Jeremy Buhler,Patrick Crowley	10.1109/PACT.2005.21
+Message from the General Chair.		10.1109/PACT.2005.29
+Message from the Program Chair.		10.1109/PACT.2005.30
+Tutorials and Workshops.		10.1109/PACT.2005.39
+Committees.		10.1109/PACT.2005.12
+Reviewers.		10.1109/PACT.2005.36
+An Event-Driven Multithreaded Dynamic Optimization Framework.	Weifeng Zhang 0003,Brad Calder,Dean M. Tullsen	10.1109/PACT.2005.7
+A Distributed Control Path Architecture for VLIW Processors.	Hongtao Zhong,Kevin Fan,Scott A. Mahlke,Michael S. Schlansker	10.1109/PACT.2005.5
+Dual-Core Execution: Building a Highly Scalable Single-Thread Instruction Window.	Huiyang Zhou	10.1109/PACT.2005.18
+14th International Conference on Parallel Architectures and Compilation Techniques (PACT 2005), 17-21 September 2005, St. Louis, MO, USA		

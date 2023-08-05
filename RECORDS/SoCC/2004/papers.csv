@@ -1,0 +1,98 @@
+A leakage-tolerant low-leakage register file with conditional sleep transistor.	Amit Agarwal 0001,Kaushik Roy 0001,Ram K. Krishnamurthy	10.1109/SOCC.2004.1362421
+Video transmission through domain specific reconfigurable architecurtes over short distance wireless medium utilizing Bluetooth IEEE 802.15.1™ standard [architecurtes read architectures].	Imran Ahmed 0001,Tughrul Arslan,Sami Khawam	10.1109/SOCC.2004.1362331
+Application specific instruction memory transformations for power efficient, fault resilient embedded processors.	Raid Ayoub,Peter Petrov,Alex Orailoglu	10.1109/SOCC.2004.1362405
+A compensation technique for transistor mismatch in current mirrors.	Sripriya R. Bandi,Ponnathpur R. Mukund	10.1109/SOCC.2004.1362449
+Coarse-grain reconfigurable XPP devices for adaptive high-end mobile video-processing.	Jürgen Becker 0001,Martin Vorbach	10.1109/SOCC.2004.1362392
+A scalable and robust rail-to-rail delay cell for DLLs.	Håkan Bengtson,Christer Svensson	10.1109/SOCC.2004.1362378
+Silencer!: a tool for substrate noise coupling analysis.	Patrick Birrer,Terri S. Fiez,Kartikeya Mayaram	10.1109/SOCC.2004.1362367
+Substrate noise optimization in early floorplanning for mixed signal SOCs.	Grzegorz Blakiewicz,Marcin Jeske,Malgorzata Chrzanowska-Jeske	10.1109/SOCC.2004.1362443
+A 800 MHz PowerPC SOC with PCI-X DDR266, DDRII-667, and RAID assist.	Gerard Boudon,Alan Wall,Joe Foster,Barry Wolford,John Fakiris	10.1109/SOCC.2004.1362402
+FPGA implementation of efficient Kalman band-pass sigma-delta filter for application in FM demodulation.	Charoensak Charayaphan,Saman S. Abeysekera	10.1109/SOCC.2004.1362379
+System-level design of low-cost FPGA hardware for real-time ICA-based blind source separation.	Charoensak Charayaphan,Farook Sattar	10.1109/SOCC.2004.1362380
+Low power repeaters driving RC interconnects with delay and bandwidth constraints.	Guoqing Chen,Eby G. Friedman	10.1109/SOCC.2004.1362455
+An improved delay-hopped transmitted-reference ultra wideband architecture.	Xiaomin Chen,Sayfe Kiaei	10.1109/SOCC.2004.1362463
+Optimum design and trade-offs for a triple-band LNA for GSM, WCDMA and GPS applications.	Nazanin Darbanian,Sayfe Kiaei,Shahin Farahani	10.1109/SOCC.2004.1362472
+A generic macromodel for coupling between inductors and interconnects for R.F.I.C. layouts.	Tejasvi Das,Ghanshyam Nayak,Ponnathpur R. Mukund	10.1109/SOCC.2004.1362361
+Leakage aware SER reduction technique for UDSM logic circuits.	Praveen Elakkumanan,Vishwanath Ananthakrishnan,Ashok Narasimhan,Ramalingam Sridhar	10.1109/SOCC.2004.1362357
+An embedded read only memory architecture with a complementary and two interchangeable power/performance design points.	Steven Eustis	10.1109/SOCC.2004.1362403
+3-22GHz CMOS distributed single-balanced mixer.	Xiaohua Fan,Edgar Sánchez-Sinencio	10.1109/SOCC.2004.1362362
+An asynchronous on-chip network router with quality-of-service (QoS) support.	Tomaz Feliciian,Stephen B. Furber	10.1109/SOCC.2004.1362432
+Robust multi-phase clock generation with reduced jitter.	Kalle Folkesson,Christer Svensson	10.1109/SOCC.2004.1362393
+Mixed-signal DFE for multi-drop, gb/s, memory buses - a feasibility study.	Henrik Fredriksson,Christer Svensson	10.1109/SOCC.2004.1362384
+An efficient reformulation based architecture for adaptive forward error correction decoding in wireless applications.	Yao Gang,Tughrul Arslan,Ahmet T. Erdogan	10.1109/SOCC.2004.1362387
+A 3.8Ghz channel-select filter using 0.18μm CMOS.	Jiandong Ge,Anh Dinh	10.1109/SOCC.2004.1362471
+Low-power on-chip bus architecture using dynamic relative delays.	Maged Ghoneima,Yehea I. Ismail	10.1109/SOCC.2004.1362419
+CoolPression - a hybrid significance compression technique for reducing energy in caches.	Mrinmoy Ghosh,Weidong Shi,Hsien-Hsin S. Lee	10.1109/SOCC.2004.1362477
+Analysis and design of monolithic, high PSR, linear regulators for SoC applications.	Vishal Gupta 0003,Gabriel A. Rincón-Mora,Prasun Raha	10.1109/SOCC.2004.1362447
+Message from the Technical Program Chair.	Dong S. Ha 0001	10.1109/SOCC.2004.1362319
+Adaptive response surface modeling-based method for analog circuit sizing.	Donghoon Han,Abhijit Chatterjee	10.1109/SOCC.2004.1362368
+A low clock load conditional flip-flop.	Martin Hansson,Atila Alvandpour	10.1109/SOCC.2004.1362394
+Analysis and design of low-power multi-threshold MCML.	Hassan Hassan 0001,Mohab Anis,Mohamed I. Elmasry	10.1109/SOCC.2004.1362338
+Impact of technology scaling on RF CMOS.	Hassan Hassan 0001,Mohab Anis,Mohamed I. Elmasry	10.1109/SOCC.2004.1362363
+MOS current mode logic: design, optimization, and variability.	Hassan Hassan 0001,Mohab Anis,Mohamed I. Elmasry	10.1109/SOCC.2004.1362424
+A novel half-rate architecture for high-speed clock and data recovery.	Qiurong He,Milton Feng	10.1109/SOCC.2004.1362461
+Multilevel routing with jumper insertion for antenna avoidance.	Tsung-Yi Ho,Yao-Wen Chang,Sao-Jie Chen	10.1109/SOCC.2004.1362351
+Simultaneous bidirectional PAM-4 link with built-in self-test.	Ming-Ta Hsieh,Gerald E. Sobelman	10.1109/SOCC.2004.1362426
+Low-power driven standard-cell placement based on a multilevel force-directed algorithm.	Yu-Hsiung Huang,Mely Chen Chi	10.1109/SOCC.2004.1362383
+An adaptive 4-PAM decision-feedback equalizer for chip-to-chip signaling.	Marcus van Ierssel,Joyce Wong,Ali Sheikholeslami	10.1109/SOCC.2004.1362442
+Analog-to-digital conversion for SONET OC-192.	Ayman H. Ismail,Mohamed I. Elmasry	10.1109/SOCC.2004.1362344
+Synthesis of SystemC models from SDF Ptolemy descriptions.	Brian A. Jackson,James R. Armstrong	10.1109/SOCC.2004.1362377
+FPGA-efficient phase-to-I/Q architecture.	Ireneusz Janiszewski,Hermann Meuth,Bernhard Hoppe	10.1109/SOCC.2004.1362468
+Fast parallel soft Viterbi decoder mapping on a reconfigurable DSP platform.	Amir Hosein Kamalizad,Richard Plettner,Chengzhi Pan,Nader Bagherzadeh	10.1109/SOCC.2004.1362330
+Message from the General Chair.	Sung-Mo Kang	10.1109/SOCC.2004.1362318
+Power-efficient implementation of turbo decoder in SDR system.	Byung-Tae Kang,Narayanan Vijaykrishnan,Mary Jane Irwin,Theocharis Theocharides	10.1109/SOCC.2004.1362372
+A virtual channel router for on-chip networks.	Nikolay Kavaldjiev,Gerard J. M. Smit,Pierre G. Jansen	10.1109/SOCC.2004.1362438
+A memory allocation and assignment method using multiway partitioning.	Nam-Hoon Kim,Peter A. Beerel,Ralph Peng	10.1109/SOCC.2004.1362382
+On-chip network based embedded core testing.	Jong-Sun Kim,Min-Su Hwang,Seungsu Roh,Ja-Young Lee,Kangmin Lee,Se-Joong Lee,Hoi-Jun Yoo	10.1109/SOCC.2004.1362415
+High speed mixed analog/digital PRML architecture for optical data storage system.	Maxim Konakov,Jae-Wook Lee,Junghyun Lee,Eun-Jin Ryu,Eingseob Cho,Jungeun Lee,Hyunsu Chae,Jeongwon Lee	10.1109/SOCC.2004.1362410
+A new level shifter in ultra deep sub-micron for low to wide range voltage applications.	Kyoung-Hoi Koo,Jin-Ho Seo,Myeong-Lyong Ko,Jae-Whui Kim	10.1109/SOCC.2004.1362388
+An efficient error-masking technique for improving the soft-error robustness of static CMOS circuits.	Srivathsan Krishnamohan,Nihar R. Mahapatra	10.1109/SOCC.2004.1362416
+A background calibration scheme for pipelined ADCs including non-linear operational amplifier gain and reference error correction.	Andreas Larsson,Sameer R. Sonkusale	10.1109/SOCC.2004.1362343
+A power-aware scalable pipelined Booth multiplier.	Hanho Lee	10.1109/SOCC.2004.1362373
+SoC design of remote terminals for wireless telemetry system.	Wonjae Lee,Sangyun Hwang,Minho Kwon,Seongjoo Lee,Jaeseok Kim	10.1109/SOCC.2004.1362462
+Design of a programmable cryptoprocessor for multiple cryptosystems.	Jeemyong Lee,Wooseok Kwon,Sanghun Lee,Chanho Lee	10.1109/SOCC.2004.1362389
+SRAM word-oriented redundancy methodology using built in self-repair.	Jihyun Lee,Young-Jun Lee,Yong-Bin Kim	10.1109/SOCC.2004.1362414
+A new multi-channel on-chip-bus architecture for system-on-chips.	Sanghun Lee,Chanho Lee,Hyuk-Jae Lee	10.1109/SOCC.2004.1362444
+Low energy transmission coding for on-chip serial communications.	Kangmin Lee,Se-Joong Lee,Hoi-Jun Yoo	10.1109/SOCC.2004.1362398
+A novel phase detector for PAM-4 clock recovery in high speed serial links.	Kahn Li Lim,Zeljko Zilic	10.1109/SOCC.2004.1362386
+A circuit-switched network architecture for network-on-chip.	Jian Liu,Li-Rong Zheng 0001,Hannu Tenhunen	10.1109/SOCC.2004.1362349
+A high-performance parallel mode EBCOT encoder architecture design for JPEG2000.	Yun Long,Chunhui Zhang,Fadi J. Kurdahi	10.1109/SOCC.2004.1362411
+A weighted fair queuing finishing tag computation architecture and implementation.	Colm McKillen,Sakir Sezer	10.1109/SOCC.2004.1362431
+On-chip testing of embedded silicon transducers.	Salvador Mir,Benoît Charlot,Libor Rufer,Bernard Courtois	10.1109/SOCC.2004.1362334
+A 0.13μm 1Gb/s/channel store-and-forward network on-chip.	Filippo Mondinelli,Michele Borgatti,Zsolt Miklós Kovács-Vajna	10.1109/SOCC.2004.1362381
+Reducing crosstalk noise in high speed FPGAs.	Arindam Mukherjee 0001	10.1109/SOCC.2004.1362391
+Retiming and clock scheduling to minimize simultaneous switching.	Arindam Mukherjee 0001,Rajsaktish Sankaranarayan	10.1109/SOCC.2004.1362427
+A high-speed power and resolution adaptive flash analog-to-digital converter.	Sunny Nahata,Kyusun Choi,Jincheol Yoo	10.1109/SOCC.2004.1362342
+Network processors for access network (NP4AN): trends and challenges.	Xiaoning Nie,Ulf Nordqvist,Lajos Gazsi,Dake Liu	10.1109/SOCC.2004.1362430
+Multi-processor SoC integration: a case study on BlueGene/L.	Pascal Nsame,Yvon Savaria	10.1109/SOCC.2004.1362408
+Bandgap yield loss due to dislocations on RFSiGe transceiver ICs: failure analysis, design.	Ralph Oberhuber,Christoph Hechtl,Klaus Schimpf,Berthold Staufer	10.1109/SOCC.2004.1362385
+Rapid energy estimation of computations on FPGA based soft processors.	Jingzhao Ou,Viktor K. Prasanna	10.1109/SOCC.2004.1362437
+Global interconnect optimization with simultaneous macrocell placement and repeater insertion.	Yuantao Peng,Xun Liu	10.1109/SOCC.2004.1362456
+Decoupling capacitors for power distribution systems with multiple power supply voltages.	Mikhail Popovich,Eby G. Friedman	10.1109/SOCC.2004.1362454
+Parallel time interleaved delta sigma band pass analog to digital converter for SOC applications.	Saiyu Ren,Ray Siferd,Robert Blumgold	10.1109/SOCC.2004.1362345
+A new design for built-in self-test of 5GHz low noise amplifiers.	Jee-Youl Ryu,Bruce C. Kim	10.1109/SOCC.2004.1362450
+Clock tree tuning using shortest paths polygon.	Haydar Saaied,Dhamin Al-Khalili,Asim J. Al-Khalili	10.1109/SOCC.2004.1362350
+Transparent SOC: on-chip analyzing techniques and implementation for embedded processor.	Makoto Saen,Motohiro Nakagawa,Junichi Nishimoto,Tomoyuki Kodama,Fumio Arakawa	10.1109/SOCC.2004.1362348
+A synchronous interface for SoCs with multiple clock domains.	Visvesh S. Sathe 0001,Conrad H. Ziesler,Marios C. Papaefthymiou,Suhwan Kim,Stephen V. Kosonocky	10.1109/SOCC.2004.1362396
+High-gain high-speed operational amplifier in digital 120nm CMOS.	Franz Schlögl,Horst Dietrich,Horst Zimmermann	10.1109/SOCC.2004.1362448
+Signal integrity implications of inductor-to-circuit proximity.	Radu M. Secareanu,Qiang Li,Sushil Bharatan,Carl Kyono,Rainer Thoma,Mel Miller,Olin L. Hartin	10.1109/SOCC.2004.1362354
+Communication on a segmented bus.	Tiberiu Seceleanu	10.1109/SOCC.2004.1362409
+Battery-efficient task execution on portable reconfigurable computing.	Balasubramanian Sethuraman,Jawad Khan,Ranga Vemuri	10.1109/SOCC.2004.1362420
+Coaxial polymer pillars: ultra-low inductance compliant wafer-level electrical input/output interconnects for power distribution.	Kaveh Shakeri,Muhannad S. Bakir,James D. Meindl	10.1109/SOCC.2004.1362356
+Achieving higher dynamic range in flash A/D converters.	Nikolas Stefanou,Sameer R. Sonkusale	10.1109/SOCC.2004.1362397
+A generic reconfigurable neural network architecture as a network on chip.	Theocharis Theocharides,Greg M. Link,Narayanan Vijaykrishnan,Mary Jane Irwin,Vamsi Srikantam	10.1109/SOCC.2004.1362404
+Exploration of GFP frame delineation architectures for network processing.	Ciaran Toal,Sakir Sezer	10.1109/SOCC.2004.1362390
+ChipPower: an architecture-level leakage simulator.	Yuh-Fang Tsai,Ananth Hegde Ankadi,Narayanan Vijaykrishnan,Mary Jane Irwin,Theocharis Theocharides	10.1109/SOCC.2004.1362476
+Clock tree layout design for reduced delay uncertainty.	Dimitrios Velenis,Marios C. Papaefthymiou,Eby G. Friedman	10.1109/SOCC.2004.1362399
+Circuit level modeling and simulation of mixed-technology systems.	Bo Wan,Pavel V. Nikitin,C.-J. Richard Shi	10.1109/SOCC.2004.1362369
+Fast techniques for standby leakage reduction in MTCMOS circuits.	Wenxin Wang,Mohab Anis,Shawki Areibi	10.1109/SOCC.2004.1362337
+High throughput and low power FIR filtering IP cores.	C. H. Wang,Ahmet T. Erdogan,Tughrul Arslan	10.1109/SOCC.2004.1362374
+VLSI design and analysis of a critical-band processor for speech recognition.	Chao Wang,Yit-Chow Tong,Yu Shao	10.1109/SOCC.2004.1362466
+An optically differential reconfigurable gate array using a 0.18 μm CMOS process.	Minoru Watanabe,Fuminori Kobayashi	10.1109/SOCC.2004.1362436
+A 32Kb SRAM cache using current mode operation and asynchronous wave-pipelined decoders.	Michael Wieckowski,Martin Margala	10.1109/SOCC.2004.1362425
+An application-specific processor hard macro for real-time control.	Xiaofeng Wu,Vassilios A. Chouliaras,Roger Goodall	10.1109/SOCC.2004.1362467
+Crosstalk induced fault analysis in DRAMs.	Zemo Yang,Samiha Mourad	10.1109/SOCC.2004.1362395
+POMR: a power-optimal maze routing methodology.	Ahmed Youssef,Mohab Anis,Mohamed I. Elmasry	10.1109/SOCC.2004.1362355
+Extended dynamic voltage scaling for low power design.	Bo Zhai,David T. Blaauw,Dennis Sylvester,Krisztián Flautner	10.1109/SOCC.2004.1362475
+Mutual inductance modeling for multiple RLC interconnects with application to shield insertion.	Junmou Zhang,Eby G. Friedman	10.1109/SOCC.2004.1362457
+Proceedings 2004 IEEE International SOC Conference, September 12-15, 2004, Hilton Santa Clara, CA, USA		

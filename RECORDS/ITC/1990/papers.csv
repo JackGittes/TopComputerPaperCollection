@@ -1,0 +1,139 @@
+Global cost functions for test generation.	Miron Abramovici,David T. Miller,R. Henning	10.1109/TEST.1990.113998
+Frequency enhancement of digital VLSI test systems.	Leslie Ackner,Mark R. Barber	10.1109/TEST.1990.114053
+CMP3F: a high speed fault simulator for the Connection Machine.	Ajit Agrawal,Debashis Bhattacharya	10.1109/TEST.1990.114049
+Why is less information from logic simulation more useful in fault simulation?	Sheldon B. Akers Jr.,Sungju Park,Balakrishnan Krishnamurthy,Ashok Swaminathan	10.1109/TEST.1990.114096
+Failure probability algorithm for test systems to reduce false alarms.	Don R. Allen	10.1109/TEST.1990.114079
+IDDQ testing because &apos;zero defects isn&apos;t enough&apos;: a Philips perspective.	Keith Baker,Bas Verhelst	10.1109/TEST.1990.114025
+Analysis of cellular automata used as pseudorandom pattern generators.	Paul H. Bardell	10.1109/TEST.1990.114093
+Testability considerations in the design of the MC68340 Integrated Processor Unit.	Philip E. Bishop,Grady Giles,Sudarshan Iyengar,C. Thomas Glover,Wai-On Law	10.1109/TEST.1990.114040
+Fast embedded A/D converter testing using the microcontroller&apos;s resources.	Ram Bobba,B. Stevens	10.1109/TEST.1990.114073
+Test features of the MC145472 ISDN U-transceivers.	Luis A. Bonet,J. Ganger,Jim Girardeau,Carlos Greaves,M. Pendleton,David Yatim	10.1109/TEST.1990.114002
+Obstacles and an approach towards concurrent engineering.	Melvin A. Breuer	10.1109/TEST.1990.114029
+State transition graph analysis as a key to BIST fault coverage.	Ove Brynestad,Einar J. Aas,Anne E. Vallestad	10.1109/TEST.1990.114065
+Criteria for analyzing high frequency testing performance of VLSI automatic test equipment.	Phil Burlison	10.1109/TEST.1990.114054
+A diagnostic test pattern generation algorithm.	Paolo Camurati,Davide Medina,Paolo Prinetto,Matteo Sonza Reorda	10.1109/TEST.1990.114000
+An interactive environment for the transparent logic simulation and testing of integrated circuits.	Grant L. Castrodale,Apostolos Dollas,William T. Krakow	10.1109/TEST.1990.114047
+A study of faulty signatures using a matrix formulation.	John C. Chan,Jacob A. Abraham	10.1109/TEST.1990.114067
+Bridging faults and their implication to PLAs.	V. Chandramouli,Ravi K. Gulati,Ramaswami Dandapani,Deepak K. Goel	10.1109/TEST.1990.114103
+A study of the optimization of DC parametric tests.	J. Morris Chang	10.1109/TEST.1990.114057
+Single-fault fault collapsing analysis in sequential logic circuits.	Jwu E. Chen,Chung-Len Lee 0001,Wen-Zen Shen	10.1109/TEST.1990.114098
+Functional test generation for finite state machines.	Kwang-Ting Cheng,Jing-Yang Jou	10.1109/TEST.1990.114014
+Diagnosis for wiring interconnects.	Wu-Tung Cheng,James L. Lewandowski,Eleanor Wu	10.1109/TEST.1990.114069
+An optimization based approach to the partial scan design problem.	Vivek Chickermane,Janak H. Patel	10.1109/TEST.1990.114045
+Scan based guided probe technology delivers Cyclone to the market.	Chul J. Choi	10.1109/TEST.1990.114008
+A fourth generation analog incircuit program generator.	David T. Crook	10.1109/TEST.1990.114074
+An experimental study on reject ratio prediction for VLSI circuits: Kokomo revisited.	Dharam Vir Das,Sharad C. Seth,Paul T. Wagner,John C. Anderson,Vishwani D. Agrawal	10.1109/TEST.1990.114087
+Towards a standard approach for controlling board-level test functions.	Bulent I. Dervisoglu	10.1109/TEST.1990.114071
+Design of integrated circuits fully testable for delay-faults and multifaults.	Srinivas Devadas,Kurt Keutzer	10.1109/TEST.1990.114034
+QML (qualified manufacturing line): a method of providing high quality integrated circuits.	Noel E. Donlin	10.1109/TEST.1990.114030
+An empirical relationship between test transparency and fault coverage.	Robert B. Elo	10.1109/TEST.1990.114123
+ASIC CAD system based on hierarchical design-for-testability.	Michiaki Emori,Takashi Aikyo,Yasuhide Machida,Jun-ichi Shikatani	10.1109/TEST.1990.114048
+Testing for parametric faults in static CMOS circuits.	F. Joel Ferguson,Martin Taylor,Tracy Larrabee	10.1109/TEST.1990.114052
+Scan test architectures for digital board testers.	Matthew L. Fichtenbaum,Gordon D. Robinson	10.1109/TEST.1990.114036
+Increased CMOS IC stuck-at fault coverage with reduced I DDQ test sets.	Ronald R. Fritzemeier,Jerry M. Soden,R. Keith Treece,Charles F. Hawkins	10.1109/TEST.1990.114051
+Jitter minimization technique for mixed signal testing.	Yasuo Furukawa,Makoto Kimura,Masao Sugai,Shinichi Kimura,Michael Purtell	10.1109/TEST.1990.114075
+Testability features of the 68040.	Michael G. Gallup,William Ledbetter Jr.,Ralph McGarity,Steve McMahan,Kenneth Scheuer,Clark G. Shepard,Lal Sood	10.1109/TEST.1990.114091
+Weighted random test program generation for a per-pin tester.	J. Gartner,B. Driscoll,Donato O. Forlenza,Orazio P. Forlenza,Timothy J. Koprowski,T. Lizambri,R. Olsen,S. Robertson,P. Ryan,A. Walter	10.1109/TEST.1990.114122
+Sequential logic synthesis for testability using register-transfer level descriptions.	Abhijit Ghosh,Srinivas Devadas,A. Richard Newton	10.1109/TEST.1990.114033
+Time margin issues in disk drive testing.	Durwin Gill	10.1109/TEST.1990.114020
+Mixed-mode ATPG under input constraints.	C. Thomas Glover	10.1109/TEST.1990.114012
+Fault grading the Intel 80486.	Naga Gollakota,Ahmad Zaidi	10.1109/TEST.1990.114092
+On automatic testpoint insertion in sequential circuits.	Harald Gundlach,Klaus D. Müller-Glaser	10.1109/TEST.1990.114132
+The use of tolerance intervals in the characterization of semiconductor devices.	Yolanda T. Hadeed,Kevin T. Lewis	10.1109/TEST.1990.114136
+Wave+: An easy-to-use vector generation language for compilers.	Masahiro Handa,Russel L. Steinweg	10.1109/TEST.1990.114121
+Generating pseudo-exhaustive vectors for external testing.	Sybille Hellebrand,Hans-Joachim Wunderlich,Oliver F. Haberl	10.1109/TEST.1990.114082
+Extending binary searches to two and three dimensions [IC testing].	Robert L. Hickling	10.1109/TEST.1990.114088
+New approach to integrate LSI design databases with e-beam tester.	Arthur Hu,Hironobu Niijima	10.1109/TEST.1990.114128
+Fault simulation of logic designs on parallel processors with distributed memory.	Leendert M. Huisman,Raja Daoud	10.1109/TEST.1990.114084
+Direct access test scheme-design of block and core cells for embedded ASICs.	Venkata R. Immaneni,Srinivas Raman	10.1109/TEST.1990.114058
+Design of signature circuits based on weight distributions of error-correcting codes.	Kazuhiko Iwasaki,Noboru Yamaguchi	10.1109/TEST.1990.114095
+Boundary scan test used at board level: moving towards reality.	Frans G. M. de Jong	10.1109/TEST.1990.114022
+Identification of faulty processing elements by space-time compression of test responses.	Mark G. Karpovsky,Lev B. Levitin,Feodor S. Vainstein	10.1109/TEST.1990.114078
+Color reproduction test for CCD image sensors.	Haruo Kato	10.1109/TEST.1990.114059
+Multiplexing test system channels for data rates above 1 Gb/s.	David C. Keezer	10.1109/TEST.1990.114043
+An architecture for high-speed analog in-circuit testing.	Larry Klein,John Bridgeman	10.1109/TEST.1990.114068
+A BIST scheme using microprogram ROM for large capacity memories.	Hiroki Koike,Toshio Takeshima,Masahide Takada	10.1109/TEST.1990.114099
+Minimal overhead modification of iterative logic arrays for C-testability.	Tsu-Wei Ku,Mani Soma	10.1109/TEST.1990.114117
+Marginal fault diagnosis based on e-beam static fault imaging with CAD interface.	Norio Kuji,Kiyoshi Matsumoto	10.1109/TEST.1990.114129
+An advanced test system architecture for synchronous and asynchronous control of mixed signal device testing.	Jun Kurita,Nobuyuki Kasuga,Kiyoyasu Hiwada	10.1109/TEST.1990.114061
+Optimal placement of IEEE 1149.1 test port and boundary scan resources for wafer scale integration.	David L. Landis,Padmaraj Singh	10.1109/TEST.1990.114009
+Automatic electro-optical testing of automobile dashboard displays in a factory environment.	Frank J. Langley,C. A. Robinson,R. A. Passero	10.1109/TEST.1990.114019
+ATE-based functional ISDN testing.	Kenneth Lanier	10.1109/TEST.1990.114004
+On the charge sharing problem in CMOS stuck-open fault testing.	Kuen-Jong Lee,Melvin A. Breuer	10.1109/TEST.1990.114050
+Hierarchical test assembly for macro based VLSI design.	Jens Leenstra,Lambert Spaanenburg	10.1109/TEST.1990.114063
+Functional test and diagnosis: a proposed JTAG sample mode scan tester.	Mark F. Lefebvre	10.1109/TEST.1990.114035
+Concurrent engineering.	Al Lowenstein,Steve Schlosser,Greg Winter	10.1109/TEST.1990.114028
+The dynamic reduction of fault simulation.	Fadi Maamari,Janusz Rajski	10.1109/TEST.1990.114097
+Hierarchical self-test concept based on the JTAG standard.	Johann Maierhofer	10.1109/TEST.1990.114010
+Practical partitioning for testability with time-shared boundary scan.	Rafic Z. Makki,Krisbnm Palaniswami	10.1109/TEST.1990.114118
+Optimized testing of meshes.	Miroslaw Malek,Banu Özden	10.1109/TEST.1990.114077
+Current testing.	Wojciech Maly	10.1109/TEST.1990.114027
+Arrangement of latches in scan-path design to improve delay fault coverage.	Weiwei Mao,Michael D. Ciletti	10.1109/TEST.1990.114046
+Networking verification process and environments: an extension of the product realization process for new network capabilities.	Y. M. Mastoris,P. D. Nash	10.1109/TEST.1990.114076
+A novel built-in self-repair approach to VLSI memory yield enhancement.	Pinaki Mazumder,Jih-Shyr Yih	10.1109/TEST.1990.114101
+Why, IDDQ? [CMOS IC testing].	Steven D. McEuen	10.1109/TEST.1990.114024
+Functional and IDDQ testing on a static RAM.	R. Meershoek,Bas Verhelst,Rory McInerney,Loek Thijssen	10.1109/TEST.1990.114113
+Macro-testability and the VSP.	R. Mehtani,Keith Baker,C. M. Huizer,P. J. Hynes,Jos van Beers	10.1109/TEST.1990.114090
+An improved procedure to test CMOS ICs for latch-up.	Roberto Menozzi,Massimo Lanzoni,Luca Selmi,Bruno Riccò	10.1109/TEST.1990.114126
+High-speed fixture interconnects for mixed-signal IC testing.	Joseph A. Mielke,Keith A. Pope	10.1109/TEST.1990.114108
+Diagnosing CMOS bridging faults with stuck-at fault dictionaries.	Steven D. Millman,Edward J. McCluskey,John M. Acken	10.1109/TEST.1990.114104
+The Waveform and Vector Exchange Specification (WAVES).	Larry Moran,Robert Hillman,Phil Burlison,Tom Gurda	10.1109/TEST.1990.114119
+The capability of capability indices with an application to guardbanding in a test environment.	Paul Mullenix	10.1109/TEST.1990.114111
+A new procedure for weighted random built-in self-test.	Fidel Muradali,Vinod K. Agarwal,Benoit Nadeau-Dostie	10.1109/TEST.1990.114081
+Integrating boundary scan test into an ASIC design flow.	Math Muris	10.1109/TEST.1990.114056
+Critical parameters for high-performance dynamic response measurements.	Donald F. Murray,C. Michael Nash	10.1109/TEST.1990.114055
+Experimental evaluation of concurrent fault simulation algorithms on scalable, hierarchically defined test cases.	William H. Nicholls,Arnold W. Nordsieck,Mani Soma	10.1109/TEST.1990.114085
+Efficient UBIST implementation for microprocessor sequencing parts.	Michael Nicolaidis	10.1109/TEST.1990.114038
+Realization of an efficient design verification test used on a microinstruction controlled self test.	Yasuyuki Nozuyama	10.1109/TEST.1990.114039
+Testable design and support tool for cell based test.	Takuji Ogihara,Yasushi Koseko,Genichi Yonemori,Hiroyuki Kawai	10.1109/TEST.1990.114131
+Analog test requirements of linear echo cancellation ISDN devices.	David K. Oka	10.1109/TEST.1990.114001
+enVision: the inside story.	Don Organ	10.1109/TEST.1990.114064
+Technique for transfer of analog prototypes (DV&apos;s) to production.	Michael P. Palumbo	10.1109/TEST.1990.114112
+Empirical failure analysis and validation of fault models in CMOS VLSI.	Ashish Pancholy,Janusz Rajski,Larry J. McNaughton	10.1109/TEST.1990.114114
+Design of scan-testable CMOS sequential circuits.	Bong-Hee Park,Premachandran R. Menon	10.1109/TEST.1990.114044
+A language for describing boundary-scan devices.	Kenneth P. Parker,Stig Oresjo	10.1109/TEST.1990.114021
+A method to calculate necessary assignments in algorithmic test pattern generation.	Janusz Rajski,Henry Cox	10.1109/TEST.1990.113997
+Testability preserving transformations in multi-level logic synthesis.	Janusz Rajski,Jagadeesh Vasudevamurthy	10.1109/TEST.1990.114032
+A new approach to mixed-signal diagnosis.	Ravi Rastogi,Kenneth F. Sierzega	10.1109/TEST.1990.114072
+From specification to measurement: the bottleneck in analog industrial testing.	Robert Van Rijsinge,A. A. R. M. Haggenburg,C. de Vries,Hans Wallinga	10.1109/TEST.1990.114016
+Interconnect testing of boards with partial boundary scan.	Gordon D. Robinson,John G. Deshayes	10.1109/TEST.1990.114070
+Built-in self-test in a 24 bit floating point digital signal processor.	Narumi Sakashita,Hisako Sawai,Eiichi Teraoka,Toshiki Fugiyama,Toru Kengaku,Yukihiko Shimazu,Takeshi Tokuda	10.1109/TEST.1990.114106
+ASSIST (Allied Signal&apos;s Standardized Integrated Scan Test).	Gordon Sapp	10.1109/TEST.1990.114005
+Innovative techniques for improved testability.	Endre F. Sarkany,Robert F. Lusch	10.1109/TEST.1990.114006
+Cellular automata based self-test for programmable data paths.	Jos van Sas,Francky Catthoor,Hugo De Man	10.1109/TEST.1990.114094
+AC product defect level and yield loss.	Jacob Savir	10.1109/TEST.1990.114089
+A multiple seed linear feedback shift register.	Jacob Savir,William H. McAnney	10.1109/TEST.1990.114080
+Improving wafer sort yields with radius-tip probes.	Samuel Schleifer	10.1109/TEST.1990.114109
+Complete self-test architecture for a coprocessor [cryptography].	Thomas M. Schwair,Hartmut C. Ritter	10.1109/TEST.1990.114107
+Development of a new standard for test.	William W. Sebesta,Bas Verhelst,Michael G. Wahl	10.1109/TEST.1990.114120
+A picosecond external electro-optic prober using laser diodes.	Mitsuru Shinagawa,Tadao Nagatsuma	10.1109/TEST.1990.114127
+On the evaluation of process-fault tolerance ability of CMOS integrated circuits.	Etienne Sicard,Kozo Kinoshita	10.1109/TEST.1990.114115
+Zero defects or zero stuck-at faults-CMOS IC process improvement with IDDQ.	Jerry M. Soden,Ronald R. Fritzemeier,Charles F. Hawkins	10.1109/TEST.1990.114026
+A design-for-test methodology for active analog filters.	Mani Soma	10.1109/TEST.1990.114017
+Parallel pattern fault simulation based on stem faults in combinational circuits.	Ohyoung Song,Premachandran R. Menon	10.1109/TEST.1990.114086
+A comprehensive approach for modeling and testing analog and mixed-signal devices.	T. Michael Souders,Gerard N. Stenbakken	10.1109/TEST.1990.114015
+Fast and accurate testing of ISDN S/T interface devices using pseudo error rate techniques.	Billy W. Sprinkle	10.1109/TEST.1990.114003
+ATPG issues for board designs implementing boundary scan.	Don Sterba,Andy Halliday,Don McClean	10.1109/TEST.1990.114023
+CMOS bridging fault detection.	Thomas M. Storey,Wojciech Maly	10.1109/TEST.1990.114102
+Error masking in self-testable circuits.	Albrecht P. Stroele,Hans-Joachim Wunderlich	10.1109/TEST.1990.114066
+Multiple path sensitization for hierarchical circuit testing.	Chau-Chin Su,Charles R. Kime	10.1109/TEST.1990.114013
+Computer-aided design of pseudoexhaustive BIST for semiregular circuits.	Chau-Chin Su,Charles R. Kime	10.1109/TEST.1990.114083
+Testability implemented in the VAX 6000 model 400.	John Sweeney	10.1109/TEST.1990.114007
+A fine pitch probe technology for VLSI wafer testing.	T. Tada,R. Takagi,S. Nakao,M. Hyozo,T. Arakawa,K. Sawada,M. Ueda	10.1109/TEST.1990.114110
+An analysis of ATE computational architecture.	Anthony Taylor	10.1109/TEST.1990.114062
+Test engineers role in QML.	Robert W. Thomas	10.1109/TEST.1990.114031
+A high-speed pin-memory architecture using multiport dynamic RAMs.	Sheng-Jen Tsai,Wha-Joon Lee	10.1109/TEST.1990.114041
+TDRC-a symbolic simulation based design for testability rules checker.	Prab Varma	10.1109/TEST.1990.114130
+Failure coverage of functional test methods: a comparative experimental evaluation.	Raoul Velazco,Catherine Bellon,Bernard Martinet	10.1109/TEST.1990.114124
+Analysis of failures on memories using expert system techniques.	Thierry Viacroze,Marc Lequeux	10.1109/TEST.1990.114100
+ATPG for ultra-large structured designs.	John A. Waicukauski,Paul A. Shupe,David Giramma,Arshad Matin	10.1109/TEST.1990.113999
+Stress profile derivation-an empirical approach.	Alan C. Walker	10.1109/TEST.1990.114018
+A rapid dither algorithm advances A/D converter testing.	Jack Weimer,Kevin Baade,John Fitzsimmons,Brian Lowe	10.1109/TEST.1990.114060
+A testable design of logic circuits under highly observable condition.	Xiaoqing Wen,Kozo Kinoshita	10.1109/TEST.1990.114116
+Sequencer Per Pin test system architecture.	Burnell West,Tom Napier	10.1109/TEST.1990.114042
+Event qualification: a gateway to at-speed system testing.	Lee Whetsel	10.1109/TEST.1990.114011
+Errors in testing.	Richard H. Williams,Charles F. Hawkins	10.1109/TEST.1990.114125
+Challenge of design and test of ultra-large-scale circuits.	Akihiko Yamada	10.1109/TEST.1990.113996
+The boundary-scan master: target applications and functional requirements.	Chi W. Yau,Najmi T. Jarwala	10.1109/TEST.1990.114037
+EEODM: An effective BIST scheme for ROMs.	Yervant Zorian,André Ivanov	10.1109/TEST.1990.114105
+Proceedings IEEE International Test Conference 1990, Washington, D.C., USA, September 10-14, 1990		

@@ -1,0 +1,73 @@
+Performance Characterization of a Hierarchical MPI Implementation on Large-scale Distributed-memory Platforms.	Sadaf R. Alam,Richard F. Barrett,Jeffery A. Kuehn,Steve Poole 0001	10.1109/ICPP.2009.51
+Direct N-body Kernels for Multicore Platforms.	Nitin Arora,Aashay Shringarpure,Richard W. Vuduc	10.1109/ICPP.2009.71
+Accelerating Lattice Boltzmann Fluid Flow Simulations Using Graphics Processors.	Peter Bailey,Joe Myre,Stuart D. C. Walsh,David J. Lilja,Martin O. Saar	10.1109/ICPP.2009.38
+Speeding Up Distributed MapReduce Applications Using Hardware Accelerators.	Yolanda Becerra 0001,Vicenç Beltran 0001,David Carrera 0001,Marc González 0001,Jordi Torres,Eduard Ayguadé	10.1109/ICPP.2009.59
+Computing the Throughput of Replicated Workflows on Heterogeneous Platforms.	Anne Benoit,Matthieu Gallet,Bruno Gaujal,Yves Robert	10.1109/ICPP.2009.41
+Optimizing the Latency of Streaming Applications under Throughput and Reliability Constraints.	Anne Benoit,Mourad Hakem,Yves Robert	10.1109/ICPP.2009.24
+Integrated Performance Views in Charm++: Projections Meets TAU.	Scott Biersdorff,Chee Wai Lee,Allen D. Malony,Laxmikant V. Kalé	10.1109/ICPP.2009.49
+Parallel Phase Model: A Programming Model for High-end Parallel Machines with Manycores.	Ron Brightwell,Mike Heroux,Zhaofang Wen,Junfeng Wu	10.1109/ICPP.2009.69
+Cache-Efficient, Intranode, Large-Message MPI Communication with MPICH2-Nemesis.	Darius Buntinas,Brice Goglin,David Goodell,Guillaume Mercier,Stéphanie Moreaud	10.1109/ICPP.2009.22
+A Heuristic for Mapping Virtual Machines and Links in Emulation Testbeds.	Rodrigo N. Calheiros,Rajkumar Buyya,César A. F. De Rose	10.1109/ICPP.2009.7
+End-User Diagnosis of Communication Paths in Sensor Network Systems.	Qing Cao,Dong Wang 0002,Tarek F. Abdelzaher	10.1109/ICPP.2009.75
+Exploiting Simulation Slack to Improve Parallel Simulation Speed.	Jianwei Chen,Murali Annavaram,Michel Dubois 0001	10.1109/ICPP.2009.50
+Improving Resource Availability by Relaxing Network Allocation Constraints on Blue Gene/P.	Narayan Desai,Darius Buntinas,Daniel Buettner,Pavan Balaji,Anthony Chan	10.1109/ICPP.2009.33
+Barcelona OpenMP Tasks Suite: A Set of Benchmarks Targeting the Exploitation of Task Parallelism in OpenMP.	Alejandro Duran,Xavier Teruel,Roger Ferrer,Xavier Martorell,Eduard Ayguadé	10.1109/ICPP.2009.64
+Using Subfiling to Improve Programming Flexibility and Performance of Parallel Shared-file I/O.	Kui Gao,Wei-keng Liao,Arifa Nisar,Alok N. Choudhary,Robert B. Ross,Robert Latham	10.1109/ICPP.2009.68
+LeWI: A Runtime Balancing Algorithm for Nested Parallelism.	Marta Garcia 0001,Julita Corbalán,Jesús Labarta	10.1109/ICPP.2009.56
+CIFTS: A Coordinated Infrastructure for Fault-Tolerant Systems.	Rinku Gupta,Peter H. Beckman,Byung-Hoon Park,Ewing L. Lusk,Paul Hargrove,Al Geist,Dhabaleswar K. Panda 0001,Andrew Lumsdaine,Jack J. Dongarra	10.1109/ICPP.2009.20
+Thread Merging Schemes for Multithreaded Clustered VLIW Processors.	Manoj Gupta 0001,Fermín Sánchez,Josep Llosa	10.1109/ICPP.2009.48
+A Partition-Merge Based Cache-Conscious Parallel Sorting Algorithm for CMP with Shared Cache.	Song Hao,Zhihui Du,David A. Bader,Yin Ye	10.1109/ICPP.2009.26
+Group Operation Assembly Language - A Flexible Way to Express Collective Communication.	Torsten Hoefler,Christian Siebert,Andrew Lumsdaine	10.1109/ICPP.2009.70
+Complexity Analysis and Performance Evaluation of Matrix Product on Multicore Architectures.	Mathias Jacquelin,Loris Marchal,Yves Robert	10.1109/ICPP.2009.40
+Generalizing k-Betweenness Centrality Using Short Paths and a Parallel Multithreaded Implementation.	Karl Jiang,David Ediger,David A. Bader	10.1109/ICPP.2009.76
+Fast Isosurface Extraction for Medical Volume Dataset on Cell BE.	Hai Jin 0001,Bo Li 0001,Ran Zheng,Qin Zhang 0004	10.1109/ICPP.2009.47
+Perfomance Models for Blocked Sparse Matrix-Vector Multiplication Kernels.	Vasileios Karakasis,Georgios I. Goumas,Nectarios Koziris	10.1109/ICPP.2009.21
+A Parallel Skeleton Library for Multi-core Clusters.	Yuki Karasawa,Hideya Iwasaki	10.1109/ICPP.2009.18
+Bank-aware Dynamic Cache Partitioning for Multicore Architectures.	Dimitris Kaseridis,Jeffrey Stuecheli,Lizy K. John	10.1109/ICPP.2009.55
+Efficient Scheduling of Nested Parallel Loops on Multi-Core Systems.	Arun Kejariwal,Alexandru Nicolau,Alexander V. Veidenbaum,Utpal Banerjee,Constantine D. Polychronopoulos	10.1109/ICPP.2009.19
+A Parallel Branch and Bound Algorithm for Workflow QoS Optimization.	Kevin Kofler,Irfan Ul Haq,Erich Schikuta	10.1109/ICPP.2009.34
+Scalability of Time- and Space-Efficient Embedded Runge-Kutta Solvers for Distributed Address Space.	Matthias Korch,Thomas Rauber	10.1109/ICPP.2009.14
+Analysis of Parallel Algorithms for Energy Conservation in Scalable Multicore Architectures.	Vijay Anand Korthikanti,Gul Agha	10.1109/ICPP.2009.74
+Designing Efficient FTP Mechanisms for High Performance Data-Transfer over InfiniBand.	Ping Lai,Hari Subramoni,Sundeep Narravula,Amith R. Mamidala,Dhabaleswar K. Panda 0001	10.1109/ICPP.2009.72
+A Distributed Three-hop Routing Protocol to Increase the Capacity of Hybrid Networks.	Ze Li,Haiying Shen	10.1109/ICPP.2009.36
+Hardware Implementation Study of the Deficit Table Egress Link Scheduling Algorithm.	Raúl Martínez,José M. Claver,Francisco José Alfaro,José L. Sánchez 0002	10.1109/ICPP.2009.65
+On the Scalability of Parallel Verilog Simulation.	Sina Meraji,Wei Zhang 0034,Carl Tropper	10.1109/ICPP.2009.9
+Using Coherence Information and Decay Techniques to Optimize L2 Cache Leakage in CMPs.	Matteo Monchiero,Ramon Canal,Antonio González 0001	10.1109/ICPP.2009.28
+Employing Transactional Memory and Helper Threads to Speedup Dijkstra&apos;s Algorithm.	Konstantinos Nikas,Nikos Anastopoulos,Georgios I. Goumas,Nectarios Koziris	10.1109/ICPP.2009.60
+A Resource Optimized Remote-Memory-Access Architecture for Low-latency Communication.	Mondrian Nüssle,Martin Scherer,Ulrich Brüning 0001	10.1109/ICPP.2009.62
+Green Multicore-SoC Software-Execution Framework with Timely-Power-Gating Scheme.	Masafumi Onouchi,Keisuke Toyama 0003,Tohru Nojiri,Makoto Sato,Masayoshi Mase,Jun Shirako,Mikiko Sato,Masashi Takada,Masayuki Ito,Hiroyuki Mizuno,Mitaro Namiki,Keiji Kimura,Hironori Kasahara	10.1109/ICPP.2009.6
+Mapping the FDTD Application to Many-Core Chip Architectures.	Daniel A. Orozco,Guang R. Gao	10.1109/ICPP.2009.44
+Accelerating Checkpoint Operation by Node-Level Write Aggregation on Multicore Systems.	Xiangyong Ouyang,Karthik Gopalakrishnan,Dhabaleswar K. Panda 0001	10.1109/ICPP.2009.73
+Heterogeneity-Aware Erasure Codes for Peer-to-Peer Storage Systems.	Lluis Pamies-Juarez,Pedro García López,Marc Sánchez Artigas	10.1109/ICPP.2009.15
+End-to-End Study of Parallel Volume Rendering on the IBM Blue Gene/P.	Tom Peterka,Hongfeng Yu 0001,Robert B. Ross,Kwan-Liu Ma,Robert Latham	10.1109/ICPP.2009.27
+Fine-grain Parallelism Using Multi-core, Cell/BE, and GPU Systems: Accelerating the Phylogenetic Likelihood Function.	Frederico Pratas,Pedro Trancoso,Alexandros Stamatakis,Leonel Sousa	10.1109/ICPP.2009.30
+Code Semantic-Aware Runahead Threads.	Tanausú Ramírez,Alex Pajuelo,Oliverio J. Santana,Mateo Valero	10.1109/ICPP.2009.17
+Broker Selection Strategies in Interoperable Grid Systems.	Ivan Rodero,Francesc Guim 0001,Julita Corbalán,Liana Fong,Seyed Masoud Sadjadi	10.1109/ICPP.2009.63
+Performance Evaluation of Energy-Efficient Parallel I/O Systems with Write Buffer Disks.	Xiaojun Ruan,Adam Manzanares,Shu Yin,Ziliang Zong,Xiao Qin 0001	10.1109/ICPP.2009.10
+Using Standards-Based Interfaces to Share Data across Grid Infrastructures.	Karolina Sarnowska,Andrew S. Grimshaw,Erwin Laure	10.1109/ICPP.2009.67
+Scalable Parallel Execution of an Event-Based Radio Signal Propagation Model for Cluttered 3D Terrains.	Sudip K. Seal,Kalyan S. Perumalla	10.1109/ICPP.2009.42
+Performance Analysis of DHT Algorithms for Range-Query and Multi-Attribute Resource Discovery in Grids.	Haiying Shen,Cheng-Zhong Xu 0001	10.1109/ICPP.2009.37
+SandStone: A DHT Based Carrier Grade Distributed Storage System.	Guangyu Shi,Jian Chen,Hao Gong,Lingyuan Fan,Haiqiang Xue,Qingming Lu,Liang Liang	10.1109/ICPP.2009.31
+GePSeA: A General-Purpose Software Acceleration Framework for Lightweight Task Offloading.	Ajeet Singh,Pavan Balaji,Wu-chun Feng	10.1109/ICPP.2009.39
+Stochastic-Based Robust Dynamic Resource Allocation in a Heterogeneous Computing System.	Jay Smith,Edwin K. P. Chong,Anthony A. Maciejewski,Howard Jay Siegel	10.1109/ICPP.2009.45
+Optimizing Communication Scheduling Using Dataflow Semantics.	Adrian Soviani,Jaswinder Pal Singh	10.1109/ICPP.2009.66
+Load Balance in the Phylogenetic Likelihood Kernel.	Alexandros Stamatakis,Michael Ott 0001	10.1109/ICPP.2009.29
+A Parallel Algorithm for Computing Betweenness Centrality.	Guangming Tan,Dengbiao Tu,Ninghui Sun	10.1109/ICPP.2009.53
+A Strategy-proof Pricing Scheme for Multiple Resource Type Allocations.	Yong Meng Teo,Marian Mihailescu	10.1109/ICPP.2009.23
+Investigating High Performance RMA Interfaces for the MPI-3 Standard.	Vinod Tipparaju,William Gropp,Hubert Ritzdorf,Rajeev Thakur,Jesper Larsson Träff	10.1109/ICPP.2009.54
+DORA: A Dynamic File Assignment Strategy with Replication.	Jonathan Tjioe,Renata Widjaja,Abraham Lee,Tao Xie	10.1109/ICPP.2009.8
+Slotted Wavelength Scheduling for Bulk Transfers in Research Networks.	Zhe Wang,Sanjay Ranka,Ye Xia 0001	10.1109/ICPP.2009.61
+DTM: Decoupled Hardware Transactional Memory to Support Unbounded Transaction and Operating System.	Shaogang Wang,Weixia Xu,Zhengbin Pang,Dan Wu,Qiang Dou,Xiaodong Yang	10.1109/ICPP.2009.52
+Computing Equilibria in Bimatrix Games by Parallel Vertex Enumeration.	Jonathan Widger,Daniel Grosu	10.1109/ICPP.2009.11
+Run to Potential: Sweep Coverage in Wireless Sensor Networks.	Min Xi,Kui Wu 0001,Yong Qi,Jizhong Zhao,Yunhao Liu 0001,Mo Li 0001	10.1109/ICPP.2009.43
+Performance Limits of Fair-Access in Underwater Sensor Networks.	Yang Xiao 0001,Miao Peng,John H. Gibson,Geoffrey G. Xie,Ding-Zhu Du	10.1109/ICPP.2009.32
+On Maximum Stability with Enhanced Scalability in High-Churn DHT Deployment.	Junfeng Xie,Zhenhua Li 0001,Guihai Chen,Jie Wu 0001	10.1109/ICPP.2009.12
+Exploring the Cost-Availability Tradeoff in P2P Storage Systems.	Zhi Yang 0001,Yafei Dai,Zhen Xiao	10.1109/ICPP.2009.46
+SEIF: Search Enhanced by Intelligent Feedback in Unstructured P2P Networks.	Xiaoyu Yang 0003,Yiming Hu	10.1109/ICPP.2009.25
+SkipStream: A Clustered Skip Graph Based On-demand Streaming Scheme over Ubiquitous Environments.	Qifeng Yu,Tianyin Xu,Baoliu Ye,Sanglu Lu,Daoxu Chen	10.1109/ICPP.2009.57
+Register Versioning: A Low-Complexity Implementation of Register Renaming in Out-of-Order Microarchitectures.	Hui Zeng,Kanad Ghose,Dmitry Ponomarev 0001	10.1109/ICPP.2009.77
+An Efficient Collaborative Filtering Approach Using Smoothing and Fusing.	Daqiang Zhang,Jiannong Cao 0001,Jingyu Zhou,Minyi Guo,Vaskar Raychoudhury	10.1109/ICPP.2009.16
+Mediacoop: Hierarchical Lookup for P2P-VoD Services.	Tieying Zhang,Jianming Lv,Xueqi Cheng	10.1109/ICPP.2009.58
+CED: A Community-Based Event Delivery Protocol in Publish/Subscribe Systems for Delay Tolerant Sensor Network (DTSN).	Jinqi Zhu,Ming Liu 0002,Jiannong Cao 0001,Guihai Chen,Hai-gang Gong,Fulong Xu	10.1109/ICPP.2009.13
+Constructing Gene Regulatory Networks on Clusters of Cell Processors.	Jaroslaw Zola,Abhinav Sarje,Srinivas Aluru	10.1109/ICPP.2009.35
+ICPP 2009, International Conference on Parallel Processing, Vienna, Austria, 22-25 September 2009		

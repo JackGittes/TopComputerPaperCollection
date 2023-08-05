@@ -1,0 +1,47 @@
+Architecture-specific packing for virtex-5 FPGAs.	Taneem Ahmed,Paul D. Kundarewich,Jason Helge Anderson,Brad L. Taylor,Rajat Aggarwal	10.1145/1344671.1344675
+Flexible FPGA-based parallel architecture for identification of repetitive sequences in interleaved pulse trains.	Amin Ansari,Keyvan Amiri	10.1145/1344671.1344730
+Reconfigurable computing for learning Bayesian networks.	Narges Bani Asadi,Teresa H. Meng,Wing H. Wong	10.1145/1344671.1344702
+An integrated debugging environment for FPGA computing platforms.	Kevin Camera,Robert W. Brodersen	10.1145/1344671.1344719
+Architectural improvements for field programmable counter arrays: enabling efficient synthesis of fast compressor trees on FPGAs.	Alessandro Cevrero,Panagiotis Athanasopoulos,Hadi Parandeh-Afshar,Ajay K. Verma,Philip Brisk,Frank K. Gürkaynak,Yusuf Leblebici,Paolo Ienne	10.1145/1344671.1344699
+Efficient tiling patterns for reconfigurable gate arrays.	Sumanta Chaudhuri,Jean-Luc Danger,Philippe Hoogvorst,Sylvain Guilley	10.1145/1344671.1344709
+Trace-based framework for concurrent development of process and FPGA architecture considering process variation and reliability.	Lerong Cheng,Yan Lin 0001,Lei He 0001	10.1145/1344671.1344696
+A complexity-effective architecture for accelerating full-system multiprocessor simulations using FPGAs.	Eric S. Chung,Eriko Nurvitadhi,James C. Hoe,Babak Falsafi,Ken Mai	10.1145/1344671.1344684
+Pattern-based behavior synthesis for FPGA resource reduction.	Jason Cong,Wei Jiang	10.1145/1344671.1344688
+Lithographic aerial image simulation with FPGA-based hardwareacceleration.	Jason Cong,Yi Zou	10.1145/1344671.1344683
+FPGA based multiple-channel vibration analyzer for industrial applications with reconfigurable post-processing capabilities for automatic failure detection on machinery.	Luis Miguel Contreras-Medina,René de Jesús Romero-Troncoso,Jose de Jesus Rangel-Magdaleno,Jesus Roberto Millan-Almaraz	10.1145/1344671.1344724
+A hardware framework for the fast generation of multiple long-period random number streams.	Ishaan L. Dalal,Deian Stefan	10.1145/1344671.1344707
+When FPGAs are better at floating-point than microprocessors.	Florent de Dinechin,Jérémie Detrey,Octavian Cret,Radu Tudoran	10.1145/1344671.1344717
+Efficient ASIP design for configurable processors with fine-grained resource sharing.	Quang Dinh,Deming Chen,Martin D. F. Wong	10.1145/1344671.1344687
+Extreme parallel architectures for the masses.	Tarek A. El-Ghazawi,Guy G. Lemieux	10.1145/1344671.1344691
+Modeling routing demand for early-stage FPGA architecture development.	Wei Mark Fang,Jonathan Rose	10.1145/1344671.1344694
+Beyond the arithmetic constraint: depth-optimal mapping of logic chains in LUT-based FPGAs.	Michael T. Frederick,Arun K. Somani	10.1145/1344671.1344679
+Fpga-based data acquisition system for a positron emission tomography (PET) scanner.	Michael Haselman,Robert Miyaoka,Thomas K. Lewellen,Scott Hauck	10.1145/1344671.1344727
+WireMap: FPGA technology mapping for improved routability.	Stephen Jang,Billy Chan,Kevin Chung,Alan Mishchenko	10.1145/1344671.1344680
+Configurable decoders with application in fast partial reconfiguration of FPGAs.	Matthew Collin Jordan,Ramachandran Vaidyanathan	10.1145/1344671.1344715
+HybridOS: runtime support for reconfigurable accelerators.	John H. Kelm,Steven S. Lumetta	10.1145/1344671.1344703
+Area and delay trade-offs in the circuit and architecture design of FPGAs.	Ian Kuon,Jonathan Rose	10.1145/1344671.1344695
+Designing with extreme parallelism.	Guy G. Lemieux,Tarek A. El-Ghazawi	10.1145/1344671.1344673
+The amorphous FPGA architecture.	Mingjie Lin	10.1145/1344671.1344700
+TORCH: a design tool for routing channel segmentation in FPGAs.	Mingjie Lin,Abbas El Gamal	10.1145/1344671.1344693
+High-quality, deterministic parallel placement for FPGAs on commodity hardware.	Adrian Ludwin,Vaughn Betz,Ketan Padalia	10.1145/1344671.1344676
+Implementing high-speed string matching hardware for network intrusion detection systems.	Atul Mahajan,Benfano Soewito,Sai K. Parsi,Ning Weng,Haibo Wang 0005	10.1145/1344671.1344726
+High-throughput interconnect wave-pipelining for global communication in FPGAs.	Terrence S. T. Mak,N. Pete Sedcole,Peter Y. K. Cheung,Wayne Luk	10.1145/1344671.1344714
+Retrieving 3-d information with FPGA-based stream processing.	Hidenori Matsubayashi,Shinsuke Nino,Toru Aramaki,Yuichiro Shibata,Kiyoshi Oguri	10.1145/1344671.1344721
+A type system for static typing of a domain-specific language.	Paul Edward McKechnie,Nathan A. Lindop,Wim Vanderbauwhede	10.1145/1344671.1344712
+Mapping for better than worst-case delays in LUT-based FPGA designs.	Kirill Minkovich,Jason Cong	10.1145/1344671.1344681
+Communication bottleneck in hardware-software partitioning.	Maryam Moazeni,Alireza Vahdatpour,Karthik Gururaj,Majid Sarrafzadeh	10.1145/1344671.1344722
+From the bitstream to the netlist.	Jean-Baptiste Note,Éric Rannaud	10.1145/1344671.1344729
+A novel FPGA logic block for improved arithmetic performance.	Hadi Parandeh-Afshar,Philip Brisk,Paolo Ienne	10.1145/1344671.1344698
+A-Ports: an efficient abstraction for cycle-accurate performance models on FPGAs.	Michael Pellauer,Muralidaran Vijayaraghavan,Michael Adler,Arvind,Joel S. Emer	10.1145/1344671.1344685
+CHiMPS: a high-level compilation flow for hybrid CPU-FPGA architectures.	Andrew Putnam,Dave Bennett,Eric Dellinger,Jeff Mason,Prasanna Sundararajan	10.1145/1344671.1344720
+FPGA implementation of a novel algorithm for on-line bar breakage detection on induction motors.	Jose de Jesus Rangel-Magdaleno,René de Jesús Romero-Troncoso,Luis Miguel Contreras-Medina,Arturo Garcia-Perez	10.1145/1344671.1344725
+Measuring and modeling FPGA clock variability.	N. Pete Sedcole,Justin S. J. Wong,Peter Y. K. Cheung	10.1145/1344671.1344713
+A pipelined binary tree as a case study on designing efficient circuits for an FPGA in a bram aware design.	David Sheldon,Frank Vahid	10.1145/1344671.1344728
+C is for circuits: capturing FPGA circuits as sequential code for portability.	Scott Sirowy,Greg Stitt,Frank Vahid	10.1145/1344671.1344689
+Enforcing long-path timing closure for FPGA routing with path searches on clamped lexicographic spirals.	Keith So	10.1145/1344671.1344677
+Speed and yield enhancement by track swapping on critical paths utilizing random variations for FPGAs.	Yuuri Sugihara,Yohei Kume,Kazutoshi Kobayashi,Hidetoshi Onodera	10.1145/1344671.1344711
+FPGA-optimised high-quality uniform random number generators.	David B. Thomas,Wayne Luk	10.1145/1344671.1344706
+Efficient FPGA implementation of qr decomposition using a systolic array architecture.	Xiaojun Wang,Miriam Leeser	10.1145/1344671.1344718
+FPGA interconnect design using logical effort.	Haile Yu,Yuk Hei Chan,Philip Heng Wai Leong	10.1145/1344671.1344710
+Vector processing as a soft-core CPU accelerator.	Jason Yu,Guy G. Lemieux,Christopher Eagleston	10.1145/1344671.1344704
+Proceedings of the ACM/SIGDA 16th International Symposium on Field Programmable Gate Arrays, FPGA 2008, Monterey, California, USA, February 24-26, 2008	Mike Hutton,Paul Chow	10.1145/1344671

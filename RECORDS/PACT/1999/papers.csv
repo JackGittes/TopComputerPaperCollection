@@ -1,0 +1,38 @@
+Dynamic Linking on a Shared-Memory Multiprocessor.	Bowen Alpern,Mark Charney,Jong-Deok Choi,Anthony Cocchi,Derek Lieber	10.1109/PACT.1999.807524
+A Fully Asynchronous Superscalar Architecture.	D. K. Arvind 0001,Robert D. Mullins	10.1109/PACT.1999.807401
+High-End Computing Technology: Where is it Heading?	Greg Astfalk	10.1109/PACT.1999.807439
+A Multithreaded Java Microcontroller for Thread-Oriented Real-Time Event Handling.	Uwe Brinkschulte,C. Krakowski,Jochen Kreuzinger,Theo Ungerer	10.1109/PACT.1999.807403
+Exploring Last n Value Prediction.	Martin Burtscher,Benjamin G. Zorn	10.1109/PACT.1999.807407
+A Cost-Effective Clustered Architecture.	Ramon Canal,Joan-Manuel Parcerisa,Antonio González 0001	10.1109/PACT.1999.807517
+Performance Characteristics of a Network of Commodity Multiprocessors for the NAS Benchmarks Using a Hybrid Memory Model.	Franck Cappello,Olivier Richard	10.1109/PACT.1999.807434
+Predicated Static Single Assignment.	Lori Carter,Beth Simon,Brad Calder,Larry Carter,Jeanne Ferrante	10.1109/PACT.1999.807561
+On Dynamic Speculative Thread Partitioning and the MEM-Slicing Algorithm.	Lucian Codrescu,D. Scott Wills	10.1109/PACT.1999.807404
+On the Complexity of Loop Fusion.	Alain Darte	10.1109/PACT.1999.807510
+Automatic Analytical Modeling for the Estimation of Cache Misses.	Basilio B. Fraguela,Ramon Doallo,Emilio L. Zapata	10.1109/PACT.1999.807544
+Lower Bounding Techniques for the Multiprocessor Scheduling Problem with Communication Delay.	Satoshi Fujita,Tadanori Nakagawa	10.1109/PACT.1999.807534
+Control-Flow Speculation through Value Prediction for Superscalar Processors.	José González 0002,Antonio González 0001	10.1109/PACT.1999.807406
+On Index Set Splitting.	Martin Griebl,Paul Feautrier,Christian Lengauer	10.1109/PACT.1999.807572
+Automatic Parallelization of Recursive Procedures.	Manish Gupta,Sayak Mukhopadhyay,Navin Sinha	10.1109/PACT.1999.807504
+Cameron: High level Language Compilation for Reconfigurable Systems.	Jeffrey Hammes,Robert Rinker,A. P. Wim Böhm,Walid A. Najjar,Bruce A. Draper,J. Ross Beveridge	10.1109/PACT.1999.807557
+The Effect of Program Optimization on Trace Cache Efficiency.	Derek L. Howard,Mikko H. Lipasti	10.1109/PACT.1999.807570
+On Reducing False Sharing while Improving Locality on Shared Memory Multiprocessors.	Mahmut T. Kandemir,Alok N. Choudhary,J. Ramanujam,Prithviraj Banerjee	10.1109/PACT.1999.807529
+Optimizing Data Locality for SCI-Based PC-Clusters with the SmiLE Monitoring Approach.	Wolfgang Karl,Markus Leberecht,Martin Schulz 0001	10.1109/PACT.1999.807523
+The Need for Fast Communication in Hardware-Based Speculative Chip Multiprocessors.	Venkata Krishnan,Josep Torrellas	10.1109/PACT.1999.807402
+Reducing Cache Conflicts by Partitioning and Privatizing Shared Arrays.	Zhiyuan Li 0001	10.1109/PACT.1999.807525
+Branch Prediction Using Selective Branch Inversion.	Srilatha Manne,Artur Klauser,Dirk Grunwald	10.1109/PACT.1999.807405
+Exploring Instruction-Fetch Bandwidth Requirement in Wide-Issue Superscalar Processors.	Pierre Michaud,André Seznec,Stéphan Jourdan	10.1109/PACT.1999.807388
+Localizing Non-Affine Array References.	Nicholas Mitchell,Larry Carter,Jeanne Ferrante	10.1109/PACT.1999.807526
+Looking at History to Filter Allocations in Prediction Tables.	Enric Morancho,José M. Llabería,Àngel Olivé	10.1109/PACT.1999.807577
+The Modulo Interval: A Simple and Practical Representation for Program Analysis.	Tsuneo Nakanishi,Kazuki Joe,Constantine D. Polychronopoulos,Akira Fukuda	10.1109/PACT.1999.807422
+Efficient Parallelization Using Combined Loop and Data Transformations.	Michael F. P. O&apos;Boyle,Peter M. W. Knijnenburg	10.1109/PACT.1999.807573
+MPEG-2 Video Decompression on Simultaneous Multithreaded Multimedia Processors.	Heiko Oehring,Ulrich Sigmund,Theo Ungerer	10.1109/PACT.1999.807400
+Caching and Predicting Branch Sequences for Improved Fetch Effectiveness.	Soner Önder,Jun Xu,Rajiv Gupta 0001	10.1109/PACT.1999.807575
+In Search of Speculative Thread-Level Parallelism.	Jeffrey T. Oplinger,David L. Heine,Monica S. Lam	10.1109/PACT.1999.807576
+Quantifying the Benefits of SPECint Distant Parallelism in Simultaneous Multi-Threading Architectures.	Daniel Ortega,Ivan Martel,Venkata Krishnan,Eduard Ayguadé,Mateo Valero	10.1109/PACT.1999.807436
+Data Dependence Testing in Practice.	Kleanthis Psarris,Konstantinos Kyriakopoulos	10.1109/PACT.1999.807571
+Evaluating Register Allocation and Instruction Scheduling Techniques in Out-Of-Order Issue Processors.	Madhavi Gopal Valluri,R. Govindarajan	10.1109/PACT.1999.807420
+Linux Alighted: Down to Earth Clusters.	Beau Vrolyk	10.1109/PACT.1999.807555
+Containers on the Parallelization of General-Purpose Java Programs.	Peng Wu 0001,David A. Padua	10.1109/PACT.1999.807421
+LaTTe: A Java VM Just-In-Time Compiler with Fast and Efficient Register Allocation.	Byung-Sun Yang,Soo-Mook Moon,Seongbae Park,Junpyo Lee,SeungIl Lee,Jinpyo Park,Yoo C. Chung,Suhyun Kim,Kemal Ebcioglu,Erik R. Altman	10.1109/PACT.1999.807503
+Memory System Support for Image Processing.	Lixin Zhang 0002,John B. Carter,Wilson C. Hsieh,Sally A. McKee	10.1109/PACT.1999.807426
+Proceedings of the 1999 International Conference on Parallel Architectures and Compilation Techniques, Newport Beach, California, USA, October 12-16, 1999		

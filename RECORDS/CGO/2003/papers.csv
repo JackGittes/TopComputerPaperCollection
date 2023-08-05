@@ -1,0 +1,30 @@
+Dynamic Profiling and Trace Cache Generation.	Marc Berndl,Laurie J. Hendren	10.1109/CGO.2003.1191552
+An Infrastructure for Adaptive Dynamic Optimization.	Derek Bruening,Timothy Garnett,Saman P. Amarasinghe	10.1109/CGO.2003.1191551
+Optimizing Memory Accesses For Spatial Computation.	Mihai Budiu,Seth Copen Goldstein	10.1109/CGO.2003.1191547
+Optimal and Efficient Speculation-Based Partial Redundancy Elimination.	Qiong Cai,Jingling Xue	10.1109/CGO.2003.1191536
+Dynamic Trace Selection Using Performance Monitoring Hardware Sampling.	Howard Chen 0002,Wei-Chung Hsu,Dong-yuan Chen	10.1109/CGO.2003.1191535
+TEST: A Tracer for Extracting Speculative Thread.	Michael K. Chen,Kunle Olukotun	10.1109/CGO.2003.1191554
+Phi-Predication for Light-Weight If-Conversion.	Weihaw Chuang,Brad Calder,Jeanne Ferrante	10.1109/CGO.2003.1191544
+Optimizations to Prevent Cache Penalties for the Intel ® Itanium 2 Processor.	Jean-Francois Collard,Daniel M. Lavery	10.1109/CGO.2003.1191537
+The Transmeta Code Morphing - Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges.	James C. Dehnert,Brian Grant,John P. Banning,Richard Johnson,Thomas Kistler,Alexander Klaiber,Jim Mattson	10.1109/CGO.2003.1191529
+Code Optimization for Code Compression.	Milenko Drinic,Darko Kirovski,Hoi Vo	10.1109/CGO.2003.1191555
+Addressing Mode Selection.	Erik Eckstein,Bernhard Scholz	10.1109/CGO.2003.1191557
+Design, Implementation and Evaluation of Adaptive Recompilation with On-Stack Replacement.	Stephen J. Fink,Feng Qian	10.1109/CGO.2003.1191549
+Local Scheduling Techniques for Memory Coherence in a Clustered VLIW Processor with a Distributed Data Cache.	Enric Gibert,F. Jesús Sánchez,Antonio González 0001	10.1109/CGO.2003.1191545
+Optimization Opportunities Created by Global Data Reordering.	Gadi Haber,Moshe Klausner,Vadim Eisenberg,Bilha Mendelson,Maxim Gurevich	10.1109/CGO.2003.1191548
+Adaptive Online Context-Sensitive Inlining.	Kim M. Hazelwood,David Grove	10.1109/CGO.2003.1191550
+Integrated Prepass Scheduling for a Java Just-In-Time Compiler on the IA-64 Architecture.	Tatsushi Inagaki,Hideaki Komatsu,Toshio Nakatani	10.1109/CGO.2003.1191542
+Jumbo: Run-Time Code Generation for Java and Its Applications.	Sam Kamin,Lars Clausen,Ava Jarvis	10.1109/CGO.2003.1191532
+Dynamic Binary Translation for Accumulator-Oriented Architectures.	Ho-Seop Kim,James E. Smith 0001	10.1109/CGO.2003.1191530
+Coupling On-Line and Off-Line Profile Information to Improve Program Performance.	Chandra Krintz	10.1109/CGO.2003.1191534
+Speculative Register Promotion Using Advanced Load Address Table (ALAT).	Jin Lin,Tong Chen 0010,Wei-Chung Hsu,Pen-Chung Yew	10.1109/CGO.2003.1191539
+METRIC: Tracking Down Inefficiencies in the Memory Hierarchy via Binary Rewriting.	Jaydeep Marathe,Frank Mueller 0001,Tushar Mohan,Bronis R. de Supinski,Sally A. McKee,Andy Yoo	10.1109/CGO.2003.1191553
+Reality-Based Optimization.	Scott McFarling	10.1109/CGO.2003.1191533
+Retargetable and Reconfigurable Software Dynamic Translation.	Kevin Scott,Naveen Kumar 0002,S. Velusamy,Bruce R. Childers,Jack W. Davidson,Mary Lou Soffa	10.1109/CGO.2003.1191531
+Optimization for the Intel® Itanium ®Architectur Register Stack.	Alex Settle,Daniel A. Connors,Gerolf Hoflehner,Daniel M. Lavery	10.1109/CGO.2003.1191538
+Predicate-Aware Scheduling: A Technique for Reducing Resource Constraints.	Mikhail Smelyanskiy,Scott A. Mahlke,Edward S. Davidson,Hsien-Hsin S. Lee	10.1109/CGO.2003.1191543
+Improving Quasi-Dynamic Schedules through Region Slip.	Francesco Spadini,Brian Fahs,Sanjay J. Patel,Steven S. Lumetta	10.1109/CGO.2003.1191541
+Inlining of Mathematical Functions in HP-UX for Itanium ® 2.	James W. Thomas	10.1109/CGO.2003.1191540
+Compiler Optimization-Space Exploration.	Spyridon Triantafyllis,Manish Vachharajani,Neil Vachharajani,David I. August	10.1109/CGO.2003.1191546
+Hiding Program Slices for Software Security.	Xiangyu Zhang 0001,Rajiv Gupta 0001	10.1109/CGO.2003.1191556
+1st IEEE / ACM International Symposium on Code Generation and Optimization (CGO 2003), 23-26 March 2003, San Francisco, CA, USA	Richard Johnson,Tom Conte 0001,Wen-mei W. Hwu	

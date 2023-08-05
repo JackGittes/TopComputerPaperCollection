@@ -1,0 +1,35 @@
+Implementation techniques for a parallel relative debugger.	David Abramson 0001,Rok Sosic,Greg Watson	10.1109/PACT.1996.552670
+A compiler transformation to improve memory access time in SIMD systems.	Mayez A. Al-Mouhamed,Lubomir F. Bic,Husam Abu-Haimed	10.1109/PACT.1996.552665
+Managing the computing space in the mpC compiler.	Dmitry Arapov,Alexey Ya. Kalinov,Alexey L. Lastovetsky	10.1109/PACT.1996.552660
+Performance and hardware complexity tradeoffs in designing multithreaded architectures.	Michael Bekerman,Avi Mendelson,Gad Sheaffer	10.1109/PACT.1996.552552
+Combining optimization for cache and instruction-level parallelism.	Steve Carr 0001	10.1109/PACT.1996.552672
+Improving branch prediction accuracy by reducing pattern history table interference.	Po-Yung Chang,Marius Evers,Yale N. Patt	10.1109/PACT.1996.554029
+A robust compile time method for scheduling task parallelism on distributed memory machines.	Sekhar Darbha,Santosh Pande	10.1109/PACT.1996.552662
+Optimal fine and medium grain parallelism detection in polyhedral reduced dependence graphs.	Alain Darte,Frédéric Vivien	10.1109/PACT.1996.552676
+A heuristic approach for finding a solution to the constant-degree parallelism alignment problem.	Claude G. Diderich,Marc Gengler	10.1109/PACT.1996.552656
+Elastic-plastic flow simulation using the Supercomputer Toolkit.	Alexander Goikhman,Jacob Katzenelson	10.1109/PACT.1996.552659
+Compiling C for the EARTH multithreaded architecture.	Laurie J. Hendren,Xinan Tang,Yingchun Zhu,Guang R. Gao,Xun Xue,Haiying Cai,Pierre Ouellet	10.1109/PACT.1996.552551
+Branch prediction and simultaneous multithreading.	Sébastien Hily,André Seznec	10.1109/PACT.1996.552664
+Dynamic parallelization of modifications to directed acyclic graphs.	Lorenz Huelsbergen	10.1109/PACT.1996.554032
+Nomadic Threads: a migrating multithreaded approach to remote memory accesses in multiprocessors.	Stephen Jenks,Jean-Luc Gaudiot	10.1109/PACT.1996.554028
+The effects of mispredicted-path execution on branch prediction structures.	Stéphan Jourdan,Tse-Hao Hsing,Jared Stark,Yale N. Patt	10.1109/PACT.1996.552555
+Bulk Synchronous Parallel: practical experience with a model for parallel computing.	Danny Krizanc,Anton Saarimaki	10.1109/PACT.1996.552669
+Address generation of dataflow fine-grain parallel data-structures on a distributed-memory computer.	Shigeru Kusakabe,Taku Nagai,Kentaro Inenaga,Makoto Amamiya	10.1109/PACT.1996.552658
+I-Structure Software Cache: a split-phase transaction runtime cache system.	Wen-Yen Lin,Jean-Luc Gaudiot	10.1109/PACT.1996.552655
+Loop induction variable canonicalization in parallelizing compilers.	Shin-Ming Liu,Raymond Lo,Fred C. Chow	10.1109/PACT.1996.554033
+Swing module scheduling: a lifetime-sensitive approach.	Josep Llosa,Antonio González 0001,Eduard Ayguadé,Mateo Valero	10.1109/PACT.1996.554030
+A fine-grain multithreading superscalar architecture.	M. Loikkanen,Nader Bagherzadeh	10.1109/PACT.1996.552663
+Automatic partitioning of signal processing programs for symmetric multiprocessors.	Chris J. Newburn,John Paul Shen	10.1109/PACT.1996.552675
+An efficient, global resource-directed approach to exploiting instruction-level parallelism.	Steven Novack,Alexandru Nicolau	10.1109/PACT.1996.552637
+A compiler algorithm to reduce invalidation latency in virtual shared memory systems.	Michael F. P. O&apos;Boyle,Andy Nisbet,Rupert W. Ford	10.1109/PACT.1996.552673
+Multithread execution mechanisms on RICA-1 for massively parallel computation.	Kazuaki Okamoto,Shuichi Sakai,Hiroshi Matsuoka,Takashi Yokota,Hideo Hirono	10.1109/PACT.1996.552653
+Adaptive granularity: transparent integration of fine- and coarse-grain communication.	Daeyeon Park,Rafael H. Saavedra	10.1109/PACT.1996.554034
+Using the parallel complexity of programs to improve compaction.	Marc Pouzet	10.1109/PACT.1996.554031
+The compiler TwoL for the design of parallel implementations.	Thomas Rauber,Gudula Rünger	10.1109/PACT.1996.552677
+Improving the effectiveness of software prefetching with adaptive executions.	Rafael H. Saavedra,Daeyeon Park	10.1109/PACT.1996.552556
+Performance tuning scientific codes for dataflow execution.	Andrew Shaw,Arvind,R. Paul Johnson	10.1109/PACT.1996.552668
+Identifying the capability of overlapping computation with communication.	Andrew Sohn,Jui Ku,Yuetsu Kodama,Mitsuhisa Sato,Hirofumi Sakane,Hayato Yamana,Shuichi Sakai,Yoshinori Yamaguchi	10.1109/PACT.1996.552657
+The design of a modulo scheduler for a superscalar RISC processor.	P. Tinumalai,Boris Beylin,Krishna Subramanian 0003	10.1109/PACT.1996.552642
+The superthreaded architecture: thread pipelining with run-time data dependence checking and control speculation.	Jenn-Yuan Tsai,Pen-Chung Yew	10.1109/PACT.1996.552553
+A scalable register file architecture for dynamically scheduled processors.	Steven Wallace,Nader Bagherzadeh	10.1109/PACT.1996.552666
+Proceedings of the Fifth International Conference on Parallel Architectures and Compilation Techniques, PACT&apos;96, Boston, MA, USA, October 20-23, 1996		

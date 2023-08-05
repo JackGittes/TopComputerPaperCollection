@@ -1,0 +1,122 @@
+Characterizing within-die variation from multiple supply port IDDQ measurements.	Kanak Agarwal,Dhruva Acharyya,Jim Plusquellic	10.1145/1687399.1687479
+Improved heuristics for finite word-length polynomial datapath optimization.	Bijan Alizadeh,Masahiro Fujita	10.1145/1687399.1687536
+Consistency-based characterization for IC Trojan detection.	Yousra Alkabani,Farinaz Koushanfar	10.1145/1687399.1687426
+Compacting test vector sets via strategic use of implications.	Nuno Alves,Jennifer Dworak,R. Iris Bahar,Kundan Nepal	10.1145/1687399.1687418
+Memory organization and data layout for instruction set extensions with architecturally visible storage.	Panagiotis Athanasopoulos,Philip Brisk,Yusuf Leblebici,Paolo Ienne	10.1145/1687399.1687527
+Yield estimation of SRAM circuits using &quot;Virtual SRAM Fab&quot;.	Aditya Bansal,Rama N. Singh,Rouwaida Kanj,Saibal Mukhopadhyay,Jin-Fuw Lee,Emrah Acar,Amith Singhee,Keunwoo Kim,Ching-Te Chuang,Sani R. Nassif,Fook-Luen Heng,Koushik K. Das	10.1145/1687399.1687516
+A scalable decision procedure for fixed-width bit-vectors.	Roberto Bruttomesso,Natasha Sharygina	10.1145/1687399.1687403
+Multi-level clustering for clock skew optimization.	Jonas Casanova,Jordi Cortadella	10.1145/1687399.1687502
+Task management in MPSoCs: An ASIP approach.	Jerónimo Castrillón,Diandian Zhang,Torsten Kempf,Bart Vanthournout,Rainer Leupers,Gerd Ascheid	10.1145/1687399.1687508
+Security against hardware Trojan through a novel application of design obfuscation.	Rajat Subhra Chakraborty,Swarup Bhunia	10.1145/1687399.1687424
+Active-passive co-synthesis of multi-GigaHertz radio frequency circuits with broadband parametric macromodels of on-chip passives.	Ritochit Chakraborty,Arun V. Sathanur,Vikram Jandhyala	10.1145/1687399.1687540
+A rigorous framework for convergent net weighting schemes in timing-driven placement.	Tony F. Chan,Jason Cong,Eric Radke	10.1145/1687399.1687454
+How to consider shorts and guarantee yield rate improvement for redundant wire insertion.	Fong-Yuan Chang,Ren-Song Tsay,Wai-Kei Mak	10.1145/1687399.1687407
+A methodology for robust, energy efficient design of Spin-Torque-Transfer RAM arrays at scaled technologies.	Subho Chatterjee,Mitchelle Rasquinha,Sudhakar Yalamanchili,Saibal Mukhopadhyay	10.1145/1687399.1687489
+Scan power reduction in linear test data compression scheme.	Mingjing Chen,Alex Orailoglu	10.1145/1687399.1687417
+Fast detection of node mergers using logic implications.	Yung-Chih Chen,Chun-Yao Wang	10.1145/1687399.1687545
+BIST design optimization for large-scale embedded memory cores.	Tzuo-Fan Chien,Wen-Chi Chao,James Chien-Mo Li,Yao-Wen Chang,Kuan-Yu Liao,Ming-Tung Chang,Min-Hsiu Tsai,Chih-Mou Tseng	10.1145/1687399.1687435
+Nanoelectromechanical (NEM) relays integrated with CMOS SRAM for improved stability and low leakage.	Soogine Chong,Kerem Akarvardar,Roozbeh Parsa,Jun-Bo Yoon,Roger T. Howe,Subhasish Mitra,H.-S. Philip Wong	10.1145/1687399.1687490
+Voltage-drop aware analytical placement by global power spreading for mixed-size circuit designs.	Yi-Lin Chuang,Po-Wei Lee,Yao-Wen Chang	10.1145/1687399.1687523
+A hierarchy of subgraphs underlying a timing graph and its use in capturing topological correlation in SSTA.	Jaeyong Chung,Jacob A. Abraham	10.1145/1687399.1687461
+Automatic memory partitioning and scheduling for throughput and power optimization.	Jason Cong,Wei Jiang,Bin Liu 0006,Yi Zou	10.1145/1687399.1687528
+Scheduling with soft constraints.	Jason Cong,Bin Liu 0006,Zhiru Zhang	10.1145/1687399.1687410
+Parallel multi-level analytical global placement on graphics processing units.	Jason Cong,Yi Zou	10.1145/1687399.1687525
+Introduction to GPU programming for EDA.	John F. Croix,Sunil P. Khatri	10.1145/1687399.1687451
+GRPlacer: Improving routability and wire-length of global routing with circuit replacement.	Ke-Ren Dai,Chien-Hung Lu,Yih-Lang Li	10.1145/1687399.1687466
+Taming irregular EDA applications on GPUs.	Yangdong Deng,Bo D. Wang,Shuai Mu 0002	10.1145/1687399.1687501
+PCRAMsim: System-level performance, energy, and area modeling for Phase-Change RAM.	Xiangyu Dong,Norman P. Jouppi,Yuan Xie 0001	10.1145/1687399.1687449
+Final-value ODEs: Stable numerical integration and its application to parallel circuit analysis.	Wei Dong 0002,Peng Li 0001	10.1145/1687399.1687476
+TAPE: Thermal-aware agent-based power econom multi/many-core architectures.	Thomas Ebi,Mohammad Abdullah Al Faruque,Jörg Henkel	10.1145/1687399.1687457
+A hierarchical floating random walk algorithm for fabric-aware 3D capacitance extraction.	Tarek A. El-Moselhy,Ibrahim M. Elfadel,Luca Daniel	10.1145/1687399.1687539
+The epsilon-approximation to discrete VT assignment for leakage power minimization.	Yujia Feng,Shiyan Hu	10.1145/1687399.1687453
+IPR: In-Place Reconfiguration for FPGA fault tolerance.	Zhe Feng 0002,Yu Hu 0002,Lei He 0001,Rupak Majumdar	10.1145/1687399.1687422
+A framework for early and systematic evaluation of design rules.	Rani S. Ghaida,Puneet Gupta 0001	10.1145/1687399.1687513
+Binning optimization based on SSTA for transparently-latched circuits.	Min Gong,Hai Zhou,Jun Tao 0001,Xuan Zeng 0001	10.1145/1687399.1687462
+QLMOR: A new projection-based approach for nonlinear model order reduction.	Chenjie Gu	10.1145/1687399.1687474
+Timing yield-aware color reassignment and detailed placement perturbation for double patterning lithography.	Mohit Gupta,Kwangok Jeong,Andrew B. Kahng	10.1145/1687399.1687512
+Maximizing performance of thermally constrained multi-core processors by dynamic voltage and frequency control.	Vinay Hanumaiah,Sarma B. K. Vrudhula,Karam S. Chatha	10.1145/1687399.1687458
+Quantifying robustness metrics in parameterized static timing analysis.	Khaled R. Heloue,Chandramouli V. Kashyap,Farid N. Najm	10.1145/1687399.1687438
+Nonvolatile memristor memory: Device characteristics and design implications.	Yenpo Ho,Garng M. Huang,Peng Li 0001	10.1145/1687399.1687491
+Simultaneous layout migration and decomposition for double patterning technology.	Chin-Hsiung Hsu,Yao-Wen Chang,Sani R. Nassif	10.1145/1687399.1687510
+Interpolant generation without constructing resolution graph.	Chih-Jen Hsu,Shao-Lun Huang,Chi-An Wu,Chung-Yang Huang	10.1145/1687399.1687402
+A contamination aware droplet routing algorithm for digital microfluidic biochips.	Tsung-Wei Huang,Chun-Hsien Lin,Tsung-Yi Ho	
+Adaptive sampling for efficient failure probability analysis of SRAM cells.	Javid Jaffari,Mohab Anis	10.1145/1687399.1687515
+A hybrid local-global approach for multi-core thermal management.	Ramkumar Jayaseelan,Tulika Mitra	10.1145/1687399.1687459
+Interpolating functions from large Boolean relations.	Jie-Hong Roland Jiang,Hsuan-Po Lin,Wei-Lun Hung	10.1145/1687399.1687544
+Layout-driven test-architecture design and optimization for 3D SoCs under pre-bond test-pin-count constraint.	Li Jiang 0002,Qiang Xu 0001,Krishnendu Chakrabarty,T. M. Mak	10.1145/1687399.1687434
+An elegant hardware-corroborated statistical repair and test methodology for conquering aging effects.	Rouwaida Kanj,Rajiv V. Joshi,Chad Adams,James D. Warnock,Sani R. Nassif	10.1145/1687399.1687494
+A study of Through-Silicon-Via impact on the 3D stacked IC layout.	Dae Hyun Kim 0004,Krit Athikulwongse,Sung Kyu Lim	10.1145/1687399.1687524
+DeltaSyn: An efficient logic difference optimizer for ECO synthesis.	Smita Krishnaswamy,Haoxing Ren,Nilesh Modi,Ruchir Puri	10.1145/1687399.1687546
+An accurate and efficient performance analysis approach based on queuing model for network on chip.	Ming-che Lai,Lei Gao,Nong Xiao,Zhiying Wang 0003	10.1145/1687399.1687505
+An efficient wakeup scheduling considering resource constraint for sensor-based power gating designs.	Ming-Chao Lee,Yu-Ting Chen,Yo-Tzu Cheng,Shih-Chieh Chang	10.1145/1687399.1687485
+Multi-functional interconnect co-optimization for fast and reliable 3D stacked ICs.	Young-Joon Lee,Rohan Goel,Sung Kyu Lim	10.1145/1687399.1687519
+An efficient pre-assignment routing algorithm for flip-chip designs.	Po-Wei Lee,Chung-Wei Lin,Yao-Wen Chang,Chin-Fang Shen,Wei-Chih Tseng	10.1145/1687399.1687443
+Retiming and time borrowing: Optimizing high-performance pulsed-latch-based circuits.	Seonggwan Lee,Seungwhun Paik,Youngsoo Shin	10.1145/1687399.1687471
+Timing model extraction for sequential circuits considering process variations.	Bing Li 0005,Ning Chen 0006,Ulf Schlichtmann	10.1145/1687399.1687463
+Operating system scheduling for efficient online self-test in robust systems.	Yanjing Li,Onur Mutlu,Subhasish Mitra	10.1145/1687399.1687436
+Generation of optimal obstacle-avoiding rectilinear Steiner minimum tree.	Liang Li,Zaichen Qian,Evangeline F. Y. Young	10.1145/1687399.1687405
+Virtual probe: A statistically optimal framework for minimum-cost silicon characterization of nanoscale integrated circuits.	Xin Li 0001,Rob A. Rutenbar,R. D. (Shawn) Blanton	10.1145/1687399.1687481
+MOLES: Malicious off-chip leakage enabled by side-channels.	Lang Lin,Wayne P. Burleson,Christof Paar	10.1145/1687399.1687425
+Pad assignment for die-stacking System-in-Package design.	Yu-Chen Lin,Wai-Kei Mak,Chris Chu,Ting-Chi Wang	10.1145/1687399.1687445
+Obstacle-avoiding rectilinear Steiner tree construction based on Steiner point selection.	Chih-Hung Liu 0001,Shih-Yi Yuan,Sy-Yen Kuo,Jung-Hung Weng	10.1145/1687399.1687406
+Battery allocation for wireless sensor network lifetime maximization under cost constraints.	Hengyu Long,Yongpan Liu,Yiqun Wang,Robert P. Dick,Huazhong Yang	10.1145/1687399.1687529
+A novel post-ATPG IR-drop reduction scheme for at-speed scan testing in broadcast-scan-based test compression environment.	Kohei Miyase,Yuta Yamato,Kenji Noda,Hideaki Ito,Kazumi Hatayama,Takashi Aikyo,Xiaoqing Wen,Seiji Kajihara	10.1145/1687399.1687420
+Thermal modeling for 3D-ICs with integrated microchannel cooling.	Hitoshi Mizunuma,Chia-Lin Yang,Yi-Chang Lu	10.1145/1687399.1687447
+Global routing revisited.	Michael D. Moffitt	10.1145/1687399.1687549
+Genetic design automation.	Chris J. Myers,Nathan A. Barker,Hiroyuki Kuwahara,Kevin R. Jones,Curtis Madsen,Nam-Phuong D. Nguyen	10.1145/1687399.1687531
+A performance analytical model for Network-on-Chip with constant service time routers.	Nikita Nikitin,Jordi Cortadella	10.1145/1687399.1687506
+SAT-based protein design.	Noah Ollikainen,Ellen Sentovich,Carlos Coelho,Andreas Kuehlmann,Tanja Kortemme	
+PSTA-based branch and bound approach to the silicon speedpath isolation problem.	Sari Onaissi,Khaled R. Heloue,Farid N. Najm	10.1145/1687399.1687439
+Exact route matching algorithms for analog and mixed signal integrated circuits.	Muhammet Mustafa Ozdal,Renato Fernandes Hentschke	10.1145/1687399.1687442
+Timing Arc based logic analysis for false noise reduction.	Murthy Palla,Jens Bargfrede,Stephan Eggersglüß,Walter Anheier,Rolf Drechsler	10.1145/1687399.1687440
+A circuit-software co-design approach for improving EDP in reconfigurable frameworks.	Somnath Paul,Subho Chatterjee,Saibal Mukhopadhyay,Swarup Bhunia	10.1145/1687399.1687423
+A variation-aware preferential design approach for memory based reconfigurable computing.	Somnath Paul,Saibal Mukhopadhyay,Swarup Bhunia	10.1145/1687399.1687431
+On soft error rate analysis of scaled CMOS designs - A statistical perspective.	Huan-Kai Peng,Charles H.-P. Wen,Jayanta Bhadra	10.1145/1687399.1687428
+From 2D to 3D NoCs: A case study on worst-case communication performance.	Yue Qian,Zhonghai Lu,Wenhua Dou	10.1145/1687399.1687504
+The synthesis of combinational logic to generate probabilities.	Weikang Qian,Marc D. Riedel,Kia Bazargan,David J. Lilja	10.1145/1687399.1687470
+A method for calculating hard QoS guarantees for Networks-on-Chip.	Dara Rahmati,Srinivasan Murali,Luca Benini,Federico Angiolini,Giovanni De Micheli,Hamid Sarbazi-Azad	10.1145/1687399.1687507
+Variability analysis of FinFET-based devices and circuits considering electrical confinement and width quantization.	Seid Hadi Rasouli,Kazuhiko Endo,Kaustav Banerjee	10.1145/1687399.1687495
+CRISP: Congestion reduction by iterated spreading during placement.	Jarrod A. Roy,Natarajan Viswanathan,Gi-Joon Nam,Charles J. Alpert,Igor L. Markov	10.1145/1687399.1687467
+POWER7 - Verification challenge of a multi-core processor.	Klaus-Dieter Schubert	10.1145/1687399.1687551
+REMiS: Run-time energy minimization scheme in a reconfigurable processor with dynamic power-gated instruction set.	Muhammad Shafique 0001,Lars Bauer,Jörg Henkel	10.1145/1687399.1687411
+Synthesizing sequential register-based computation with biochemistry.	Adam Shea,Marc D. Riedel,Brian Fett,Keshab K. Parhi	
+Synthesizing complementary circuits automatically.	ShengYu Shen,Jianmin Zhang,Ying Qin,Sikun Li	10.1145/1687399.1687472
+Energy-optimal dynamic thermal management for green computing.	Donghwa Shin,Jihun Kim,Naehyuck Chang,Jinhang Choi,Sung Woo Chung,Eui-Young Chung	10.1145/1687399.1687520
+Mitigation of intra-array SRAM variability using adaptive voltage architecture.	Ashish Kumar Singh,Ku He,Constantine Caramanis,Michael Orshansky	10.1145/1687399.1687517
+Value assignment of adjustable delay buffers for clock skew minimization in multi-voltage mode designs.	Yu-Shih Su,Wing-Kai Hon,Cheng-Chih Yang,Shih-Chieh Chang,Yeong-Jar Chang	10.1145/1687399.1687500
+Computing quadratic approximations for the isochrons of oscillators: A general theory and advanced numerical methods.	Onder Suvak,Alper Demir 0001	10.1145/1687399.1687475
+Adaptive power management using reinforcement learning.	Ying Tan,Wei Liu,Qinru Qiu	10.1145/1687399.1687486
+A parallel preconditioning strategy for efficient transistor-level circuit simulation.	Heidi Thornquist,Eric R. Keiter,Robert J. Hoekstra,David M. Day,Erik G. Boman	10.1145/1687399.1687477
+First steps towards SAT-based formal analog verification.	Saurabh K. Tiwary,Anubhav Gupta,Joel R. Phillips,Claudio Pinello,Radu Zlatanovici	10.1145/1687399.1687401
+Resilience in computer systems and networks.	Kishor S. Trivedi,Dong Seong Kim 0001,Rahul Ghosh	10.1145/1687399.1687415
+Resilient circuits - Enabling energy-efficient performance and reliability.	James W. Tschanz,Keith A. Bowman,Chris Wilkerson,Shih-Lien Lu,Tanay Karnik	10.1145/1687399.1687414
+Power-switch routing for coarse-grain MTCMOS technologies.	Tsun-Ming Tseng,Mango Chia-Tso Chao,Chien Pang Lu,Chen Hsing Lo	10.1145/1687399.1687408
+A study of routability estimation and clustering in placement.	Kalliopi Tsota,Cheng-Kok Koh,Venkataramanan Balakrishnan	10.1145/1687399.1687468
+An electrical-level superposed-edge approach to statistical serial link simulation.	Michael J. Tsuk,Daniel Dvorscak,Chin Siong Ong,Jacob White 0001	10.1145/1687399.1687533
+An algorithm for identifying dominant-edge metabolic pathways.	Ehsan Ullah,Kyongbum Lee,Soha Hassoun	
+Intrinsic NBTI-variability aware statistical pipeline performance assessment and tuning.	Balaji Vaidyanathan,Anthony S. Oates,Yuan Xie 0001	10.1145/1687399.1687429
+Iterative layering: Optimizing arithmetic circuits by structuring the information flow.	Ajay K. Verma,Philip Brisk,Paolo Ienne	10.1145/1687399.1687547
+DynaTune: Circuit-level optimization for timing speculation considering dynamic path behavior.	Lu Wan,Deming Chen	10.1145/1687399.1687430
+Decoupling capacitance efficient placement for reducing transient power supply noise.	Xiaoyi Wang,Yici Cai,Qiang Zhou 0001,Sheldon X.-D. Tan,Thom Jefferson A. Eguia	10.1145/1687399.1687538
+Modeling of layout-dependent stress effect in CMOS design.	Chi-Chao Wang,Wei Zhao,Frank Liu 0001,Min Chen 0024,Yu Cao 0001	10.1145/1687399.1687496
+Pre-ATPG path selection for near optimal post-ATPG process space coverage.	Jiniun Xionq,Yiyu Shi 0001,Vladimir Zolotov,Chandu Visweswariah	10.1145/1687399.1687419
+GREMA: Graph reduction based efficient mask assignment for double patterning technology.	Yue Xu,Chris Chu	10.1145/1687399.1687511
+Fast 3-D thermal analysis of complex interconnect structures using electrical modeling and simulation methodologies.	Chuan Xu,Lijun Jiang,Seshadri K. Kolluri,Barry J. Rubin,Alina Deutsch,Howard H. Smith,Kaustav Banerjee	10.1145/1687399.1687521
+Temporal and spatial idleness exploitation for optimal-grained leakage control.	Hao Xu 0010,Ranga Vemuri,Wen-Ben Jone	10.1145/1687399.1687487
+Layout-dependent STI stress analysis and stress-aware RF/analog circuit design optimization.	Jiying Xue,Zuochang Ye,Yangdong Deng,Hongrui Wang,Liu Yang,Zhiping Yu	10.1145/1687399.1687497
+Optimal layer assignment for escape routing of buses.	Tan Yan,Hui Kong,Martin D. F. Wong	10.1145/1687399.1687444
+Joint design-time and post-silicon optimization for digitally tuned analog circuits.	Wei Yao 0002,Yiyu Shi 0001,Lei He 0001,Sudhakar Pamarti	10.1145/1687399.1687534
+Leveraging efficient parallel pattern search for clock mesh optimization.	Xiaoji Ye,Srinath Narasimhan,Peng Li 0001	10.1145/1687399.1687499
+Fast and reliable passivity assessment and enforcement with extended Hamiltonian pencil.	Zuochang Ye,Luís Miguel Silveira,Joel R. Phillips	10.1145/1687399.1687542
+An efficient algorithm for modeling spatially-correlated process variation in statistical full-chip leakage analysis.	Zuochang Ye,Zhiping Yu	10.1145/1687399.1687455
+CROP: Fast and effective congestion refinement of placement.	Yanheng Zhang,Chris Chu	10.1145/1687399.1687465
+Gene-regulatory memories: Electrical-equivalent modeling, simulation and parameter identification.	Yong Zhang 0049,Peng Li 0001	10.1145/1687399.1687492
+GHM: A generalized Hamiltonian method for passivity test of impedance/admittance descriptor systems.	Zheng Zhang 0005,Chi-Un Lei,Ngai Wong	10.1145/1687399.1687541
+Fast trade-off evaluation for digital signal processing systems during wordlength optimization.	Linsheng Zhang,Yan Zhang 0066,Wenbiao Zhou	10.1145/1687399.1687535
+Minimizing expected energy consumption through optimal integration of DVS and DPM.	Baoxian Zhao,Hakan Aydin	10.1145/1687399.1687484
+Enhanced reliability-aware power management through shared recovery technique.	Baoxian Zhao,Hakan Aydin,Dakai Zhu 0001	10.1145/1687399.1687412
+Pre-bond testable low-power clock tree design for 3D stacked ICs.	Xin Zhao 0001,Dean L. Lewis,Hsien-Hsin S. Lee,Sung Kyu Lim	10.1145/1687399.1687433
+Energy reduction for STT-RAM using early write termination.	Ping Zhou,Bo Zhao 0007,Jun Yang 0002,Youtao Zhang	10.1145/1687399.1687448
+Post-fabrication measurement-driven oxide breakdown reliability prediction and management.	Cheng Zhuo,David T. Blaauw,Dennis Sylvester	10.1145/1687399.1687482
+Voltage binning under process variation.	Vladimir Zolotov,Chandu Visweswariah,Jinjun Xiong	10.1145/1687399.1687480
+2009 International Conference on Computer-Aided Design, ICCAD 2009, San Jose, CA, USA, November 2-5, 2009	Jaijeet S. Roychowdhury	10.1145/1687399

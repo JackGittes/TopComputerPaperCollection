@@ -1,0 +1,166 @@
+Design-for-test methodology for Motorola PowerPC microprocessors.	Magdy S. Abadir,Rajesh Raina	10.1109/TEST.1999.805812
+Position Statement: Increasing Test Coverage in a VLSI Design Course.	Jacob A. Abraham	10.1109/TEST.1999.805864
+Using roving STARs for on-line testing and diagnosis of FPGAs in fault-tolerant applications.	Miron Abramovici,Charles E. Stroud,Carter Hamilton,Sajitha Wijesuriya,Vinay Verma	10.1109/TEST.1999.805830
+Panel: Increasing test coverage in a VLSI desgin course.	Vishwani D. Agrawal	
+Limited access testing of analog circuits: handling tolerances.	Cherif Ahrikencheikh,Michael Spears	10.1109/TEST.1999.805782
+It Makes Sense to Combine DFT and DFR/DFY.	Robert C. Aitken	10.1109/TEST.1999.805874
+Trends in SLI design and their effect on test.	Robert C. Aitken,Fidel Muradali	10.1109/TEST.1999.805787
+Scan Insertion at the Behavioral Level.	Chouki Aktouf	10.1109/TEST.1999.805858
+SCITT: Bringing DRAMs Into the Test Fold.	Frank W. Angelotti	10.1109/TEST.1999.805871
+A method to improve the performance of high-speed waveform digitizing.	Koji Asami,Shinsuke Tajiri	10.1109/TEST.1999.805827
+Analog Fault Simulation: Need it? No. It is already done.	Eugene R. Atwood	10.1109/TEST.1999.805790
+SIA Roadmaps: Sunset Boulevard for l_DDQ.	Keith Baker	10.1109/TEST.1999.805854
+Expediting ramp-to-volume production.	Hari Balachandran,Jason Parker,Gordon Gammie,John W. Olson,Craig Force,Kenneth M. Butler,Sri Jandhyala	10.1109/TEST.1999.805619
+Correlation of logical failures to a suspect process step.	Hari Balachandran,Jason Parker,Daniel Shupp,Stephanie Butler,Kenneth M. Butler,Craig Force,Jason Smith	10.1109/TEST.1999.805768
+Test process optimization: closing the gap in the defect spectrum.	Norma Barrett,Simon Martin 0001,Chryssa Dislis	10.1109/TEST.1999.805621
+Embedded X86 testing methodology.	Luis Basto,Asif Khan,Pete Hodakievic	10.1109/TEST.1999.805771
+IMEMS accelerometer testing-test laboratory development and usage.	Richard W. Beegle,Robert W. Brocato,Ronald W. Grant	10.1109/TEST.1999.805648
+Test features of a core-based co-processor array for video applications.	Jos van Beers,Harry Van Herten	10.1109/TEST.1999.805788
+HD-BIST: a hierarchical framework for BIST scheduling and diagnosis in SOCs.	Alfredo Benso,Silvia Cataldo,Silvia Chiusano,Paolo Prinetto,Yervant Zorian	10.1109/TEST.1999.805837
+Testing an MCM for high-energy physics experiments: a case study.	Alfredo Benso,Silvia Chiusano,Paolo Prinetto,Simone Giovannetti,Riccardo Mariani,Silvano Motto	10.1109/TEST.1999.805612
+An algorithm for row-column self-repair of RAMs and its implementation in the Alpha 21264.	Dilip K. Bhavsar	10.1109/TEST.1999.805645
+Static component interconnect test technology (SCITT) a new technology for assembly testing.	Alex S. Biewenga,Henk D. L. Hollmann,Frans G. M. de Jong,Maurice Lousberg	10.1109/TEST.1999.805766
+STIL: the device-oriented database for the test development lifecycle.	Nathan Biggs	10.1109/TEST.1999.805880
+An on-line BISTed SRAM IP core.	Monica Lobetti Bodoni,Alessio Pricco,Alfredo Benso,Silvia Chiusano,Paolo Prinetto	10.1109/TEST.1999.805832
+Design for In-System Programming.	David A. Bonnett	10.1109/TEST.1999.805638
+Probe contact resistance variations during elevated temperature wafer test.	Jerry J. Broz,Reynaldo M. Rincon	10.1109/TEST.1999.805761
+Increasing Test Coverage in a VLSI Design Course.	Michael L. Bushnell	10.1109/TEST.1999.805865
+A study of test quality/tester scan memory trade-offs using the SEMATECH test methods data.	Kenneth M. Butler	10.1109/TEST.1999.805815
+Towards a standardized procedure for automatic test equipment timing accuracy evaluation.	Y. Cai,W. R. Ortner,C. T. Garrenton	10.1109/TEST.1999.805774
+On-line fault detection in DSP circuits using extrapolated checksums with minimal test points.	Sudip Chakrabarti,Abhijit Chatterjee	10.1109/TEST.1999.805828
+Fault modeling of suspended thermal MEMS.	Benoît Charlot,Salvador Mir,Érika F. Cota,Marcelo Lubaszewski,Bernard Courtois	10.1109/TEST.1999.805646
+Test generation for crosstalk-induced delay in integrated circuits.	Wei-Yu Chen,Sandeep K. Gupta,Melvin A. Breuer	10.1109/TEST.1999.805630
+High time for high level ATPG.	Wu-Tung Cheng	10.1109/TEST.1999.805848
+High speed digital transceivers: A challenge for manufacturing.	Clifford B. Cole,Thomas P. Warwick	10.1109/TEST.1999.805632
+The testability features of the 3rd generation ColdFire family of microprocessors.	Alfred L. Crouch,Michael Mateja,Teresa L. McLaurin,John C. Potter,Dat Tran	10.1109/TEST.1999.805823
+Estimating the integral non-linearity of A/D-converters via the frequency domain.	Nico Csizmadia,Augustus J. E. M. Janssen	10.1109/TEST.1999.805805
+The value of tester accuracy.	Wajih Dalal,Song Miao	10.1109/TEST.1999.805775
+Changing our Path to High Level ATPG.	Scott Davidson	10.1109/TEST.1999.805849
+ITC&apos;99 Benchmark Circuits - Preliminary Results.	Scott Davidson	10.1109/TEST.1999.805857
+Design for testability: it is time to deliver it for Time-to-Market.	Bulent I. Dervisoglu	10.1109/TEST.1999.805845
+Modeling the probability of defect excitation for a commercial IC with implications for stuck-at fault-based ATPG strategies.	Jennifer Dworak,Michael R. Grimaila,Sooryong Lee,Li-C. Wang,M. Ray Mercer	10.1109/TEST.1999.805836
+Applications of semiconductor test economics, and multisite testing to lower cost of test.	Andrew C. Evans	10.1109/TEST.1999.805620
+DFT, DFY, DFR: Who Cares?	R. Scott Fetherston	10.1109/TEST.1999.805875
+A comparison of bridging fault simulation methods.	R. Scott Fetherston,Imtiaz P. Shaik,Siyad C. Ma	10.1109/TEST.1999.805783
+Analog Fault Simulation: Key to Product Quality, or a Foot in the Door.	Craig Force	10.1109/TEST.1999.805791
+RF (gigahertz) ATE production testing on wafer: options and tradeoffs.	Dean A. Gahagan	10.1109/TEST.1999.805760
+Defect detection using power supply transient signal analysis.	Amy Germida,Zheng Yan,James F. Plusquellic,Fidel Muradali	10.1109/TEST.1999.805615
+Minimized power consumption for scan-based BIST.	Stefan Gerstendörfer,Hans-Joachim Wunderlich	10.1109/TEST.1999.805616
+Fault diagnosis in scan-based BIST using both time and space information.	Jayabrata Ghosh-Dastidar,Debaleena Das,Nur A. Touba	10.1109/TEST.1999.805618
+Industrial evaluation of stress combinations for march tests applied to SRAMs.	Ad J. van de Goor,Ivo Schanstra	10.1109/TEST.1999.805831
+Checking sequence generation for asynchronous sequential elements.	Sezer Gören 0001,F. Joel Ferguson	10.1109/TEST.1999.805762
+Closing The Gap Between Process Development and Mixed Signal Design and Testing.	Hosam Haggag	10.1109/TEST.1999.805792
+Port interference faults in two-port memories.	Said Hamdioui,Ad J. van de Goor	10.1109/TEST.1999.805833
+VLSI design 101 - The test module.	John Harrington	10.1109/TEST.1999.805866
+Testing reusable IP-a case study.	Peter Harrod	10.1109/TEST.1999.805772
+Static Component Interconnection Test Technology (SCITT).	Steffen Hellmold	10.1109/TEST.1999.805872
+Logic BIST for large industrial designs: real issues and case studies.	Graham Hetherington,Tony Fryars,Nagesh Tamarapalli,Mark Kassab,Abu S. M. Hassan,Janusz Rajski	10.1109/TEST.1999.805650
+Effective oscillation-based test for application to a DTMF filter bank.	Gloria Huertas,Diego Vázquez,Adoración Rueda,José L. Huertas	10.1109/TEST.1999.805779
+The attack of the &quot;Holey Shmoos&quot;: a case study of advanced DFD and picosecond imaging circuit analysis (PICA).	William V. Huott,Moyra K. McManus,Daniel R. Knebel,Steve Steen,Dennis Manzer,Pia N. Sanda,Steve Wilson,Yuen H. Chan,Antonio Pelella,Stanislav Polonsky	10.1109/TEST.1999.805820
+High Time For High Level ATPG.	Mahesh A. Iyer	10.1109/TEST.1999.805847
+Clustering based techniques for I_DDQ testing.	Sri Jandhyala,Hari Balachandran,Anura P. Jayasumana	10.1109/TEST.1999.805802
+Particulate failures for surface-micromachined MEMS.	Tao Jiang,Ronald D. Blanton	10.1109/TEST.1999.805647
+Delay testing considering power supply noise effects.	Yi-Min Jiang,Angela Krstic,Kwang-Ting Cheng	10.1109/TEST.1999.805629
+Statistical threshold formulation for dynamic I_dd test.	Wanli Jiang,Bapiraju Vinnakota	10.1109/TEST.1999.805614
+Is DFT right for you?	Jim Johnson	10.1109/TEST.1999.805843
+SCITT: Back to Basics in Mass Production Testing.	Frans G. M. de Jong	10.1109/TEST.1999.805870
+Static component interconnection test technology in practice.	Frans G. M. de Jong,Rob Raaijmakers	10.1109/TEST.1999.805780
+Is Analog Fault Simulation a Key to Product Quality? Practical Considerations.	Bozena Kaminska	10.1109/TEST.1999.805789
+High level ATPG is important and is on its way!	Rohit Kapur	10.1109/TEST.1999.805850
+Test support processors for enhanced testability of high performance circuits.	David C. Keezer,Q. Zhou	10.1109/TEST.1999.805811
+Using STIL to describe embedded core test requirements.	Brion L. Keller	10.1109/TEST.1999.805881
+Speed-up of high accuracy analog test stimulus optimization.	Abdelhakim Khouas,Anne Derieux	10.1109/TEST.1999.805635
+A high-level BIST synthesis method based on a region-wise heuristic for an integer linear programming.	Han Bin Kim,Dong Sam Ha	10.1109/TEST.1999.805822
+Delay fault testing of IP-based designs via symbolic path modeling.	HyungWon Kim 0001,John P. Hayes	10.1109/TEST.1999.805838
+A probe scheduling algorithm for MCM substrates.	Bruce C. Kim,Pinshan Jiang,Se Hyun Park	10.1109/TEST.1999.805611
+Towards reducing &quot;functional only&quot; fails for the UltraSPARC microprocessors.	Anjali Kinra	10.1109/TEST.1999.805624
+Flexible ATE module with reconfigurable circuit and its application [to CMOS imager test].	Tagashi Kitagaki	10.1109/TEST.1999.805826
+Testability of the Philips 80C51 micro-controller.	M. H. Konijnenburg,J. Th. van der Linden,Ad J. van de Goor	10.1109/TEST.1999.805813
+Benchmarking DAT with the ITC&apos;99 ATPG Benchmarks.	Mario Konijnenburg,Hans van der Linden,Jeroen Geuzebroek	10.1109/TEST.1999.805859
+Transient current testing of 0.25 μm CMOS devices.	Bram Kruseman,Peter Janssen,Victor Zieren	10.1109/TEST.1999.805613
+Linearity testing issues of analog to digital converters.	Turker Kuyel	10.1109/TEST.1999.805804
+Relating linearity test results to design flaws of pipelined analog to digital converters.	Turker Kuyel,Haydar Bilhan	10.1109/TEST.1999.805807
+Exploiting defect clustering to screen bare die for infant mortality failures: an experimental study.	David R. Lakin II,Adit D. Singh	10.1109/TEST.1999.805610
+Eliminating the Ouija board: automatic thresholds and probabilistic I_DDQ diagnosis.	David B. Lavo,Tracy Larrabee,Jonathon E. Colburn	10.1109/TEST.1999.805840
+Critical path identification and delay tests of dynamic circuits.	Kyung Tek Lee,Jacob A. Abraham	10.1109/TEST.1999.805764
+The integration of boundary-scan test methods to a mixed-signal environment.	Adam W. Ley	10.1109/TEST.1999.805626
+A new method for jitter decomposition through its distribution tail fitting.	Mike P. Li,Jan B. Wilstrup,Ross Jessen,Dennis Petrich	10.1109/TEST.1999.805809
+Design for (physical) debug for silicon microsurgery and probing of flip-chip packaged integrated circuits.	Richard H. Livengood,Donna Medeiros	10.1109/TEST.1999.805819
+Is there a STIL for mixed signal testing?	Marc Loranger	10.1109/TEST.1999.805882
+Delay testing of SOI circuits: Challenges with the history effect.	Eric W. MacDonald,Nur A. Touba	10.1109/TEST.1999.805640
+The evolution of a system test process [for Motorola GSM products].	Simon Martin 0001,Robert Bleck,Chryssa Dislis,Des Farren	10.1109/TEST.1999.805796
+Automatic timing margin failure location analysis by CycleStretch method.	Mitsuo Matsumoto,Yoshiharu Ikeda	10.1109/TEST.1999.805637
+Testing high speed high accuracy analog to digital converters embedded in systems on a chip.	Solomon Max	10.1109/TEST.1999.805806
+Current ratios: a self-scaling technique for production I_DDQ testing.	Peter C. Maxwell,Pete O&apos;Neill,Robert C. Aitken,Ronald Dudley,Neal Jaarsma,Minh Quach,Don Wiseman	10.1109/TEST.1999.805803
+Self-checking scheme for very fast clocks&apos; skew correction.	Cecilia Metra,Flavio Giovanelli,Mani Soma,Bruno Riccò	10.1109/TEST.1999.805793
+A design diversity metric and reliability analysis for redundant systems.	Subhasish Mitra,Nirmal R. Saxena,Edward J. McCluskey	10.1109/TEST.1999.805794
+IDDQ testing in deep submicron integrated circuits.	Anthony C. Miller	10.1109/TEST.1999.805801
+DFT, DFY, and DFR; Which One(s) Do You Worry About?	James A. Monzel	10.1109/TEST.1999.805876
+Synthesis of pattern generators based on cellular automata with phase shifters.	Grzegorz Mrugalski,Jerzy Tyszer,Janusz Rajski	10.1109/TEST.1999.805651
+An embedded technique for at-speed interconnect testing.	Benoit Nadeau-Dostie,Jean-Francois Cote,Harry Hulvershorn,Stephen Pateras	10.1109/TEST.1999.805765
+Built-in self-test for GHz embedded SRAMs using flexible pattern generator and new repair algorithm.	Shigeru Nakahara,Keiichi Higeta,Masaki Kohno,Toshiaki Kawamura,Keizo Kakitani	10.1109/TEST.1999.805644
+Low overhead test point insertion for scan-based BIST.	Michinobu Nakao,Seiji Kobayashi,Kazumi Hatayama,Kazuhiko Iijima,Seiji Terada	10.1109/TEST.1999.805649
+Switch-level delay test.	Suriyaprakash Natarajan,Sandeep K. Gupta,Melvin A. Breuer	10.1109/TEST.1999.805628
+Failure analysis of timing and IDDq-only failures from the SEMATECH test methods experiment.	Phil Nigh,David P. Vallett,Atul Patel,Jason Wright,Franco Motika,Donato O. Forlenza,Ray Kurtulik,Wendy Chong	10.1109/TEST.1999.805883
+High Time for Higher Level BIST.	Christos A. Papachristou	10.1109/TEST.1999.805851
+An efficient on-line-test and back-up scheme for embedded processors.	Matthias Pflanz,Heinrich Theodor Vierhaus,F. Pompsch	10.1109/TEST.1999.805829
+On achieving complete coverage of delay faults in full scan circuits using locally available lines.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/TEST.1999.805824
+Applying lessons learned from TDDB testing.	E. James Prendergast	10.1109/TEST.1999.805856
+Auto-calibrating analog timer for on-chip testing.	Benoit Provost,Edgar Sánchez-Sinencio	10.1109/TEST.1999.805778
+DFT advances in the Motorola&apos;s MPC7400, a PowerPC G4 microprocessor.	Carol Pyron,Mike Alexander,James Golab,George Joos,Bruce Long,Robert F. Molyneaux,Rajesh Raina,Nandu Tendolkar	10.1109/TEST.1999.805623
+Characterization and optimization of the production probing process.	Minh Quach,Rich Samuelson,David Shaw	10.1109/TEST.1999.805652
+The HASS development process.	David Rahe	10.1109/TEST.1999.805781
+Testing a system-on-a-chip with embedded microprocessor.	Rochit Rajsuman	10.1109/TEST.1999.805773
+Practical scan test generation and application for embedded FIFOs.	Jeff Rearick	10.1109/TEST.1999.805643
+Application of Tools Developed at the University of Iowa to ITC Benchmarks.	Sudhakar M. Reddy	10.1109/TEST.1999.805860
+Optimal conditions for Boolean and current detection of floating gate faults.	Michel Renovell,André Ivanov,Yves Bertrand,Florence Azaïs,Sumbal Rafiq	10.1109/TEST.1999.805770
+High-level ATPG: a real topic or an academic amusement?	Matteo Sonza Reorda	10.1109/TEST.1999.805852
+Design of a test simulation environment for test program development.	J. J. O. Riordan	10.1109/TEST.1999.805636
+Increasing test coverage in a VLSI design course.	Michel Robert	10.1109/TEST.1999.805867
+DFT, test lifecycles and the product lifecycle.	Gordon D. Robinson	10.1109/TEST.1999.805799
+Thin Gate Oxide Reliability.	Jeffrey L. Roehr	10.1109/TEST.1999.805855
+High-level ATPG for Early Power Analysis.	Wolfgang Roethig	10.1109/TEST.1999.805853
+Subband filtering scheme for analog and mixed-signal circuit testing.	Jeongjin Roh,Jacob A. Abraham	10.1109/TEST.1999.805634
+Silicon debug: scan chains alone are not enough.	Gert-Jan van Rootselaar,Bart Vermeulen	10.1109/TEST.1999.805821
+LT-RTPG: a new test-per-scan BIST TPG for low heat dissipation.	Seongmoon Wang,Sandeep K. Gupta	10.1109/TEST.1999.805617
+High level test bench generation using software engineering concepts.	Jean François Santucci,Christophe Paoli	10.1109/TEST.1999.805861
+Resistive bridge fault modeling, simulation and test generation.	Vijay R. Sar-Dessai,D. M. H. Walker	10.1109/TEST.1999.805784
+Breaking the complexity spiral in board test.	Stephen F. Scheiber	10.1109/TEST.1999.805625
+An integrated approach to behavioral-level design-for-testability using value-range and variable testability techniques.	Sandhya Seshadri,Michael S. Hsiao	10.1109/TEST.1999.805817
+The effects of test compaction on fault diagnosis.	Yun Shao 0002,Ruifeng Guo,Sudhakar M. Reddy,Irith Pomeranz	10.1109/TEST.1999.805842
+A DFT technique for high performance circuit testing.	Mansour Shashaani,Manoj Sachdev	10.1109/TEST.1999.805641
+The test requirements model (TeRM) communicating test information throughout the product life cycle.	Lee A. Shombert,Danny C. Davis,Eric M. Bukata	10.1109/TEST.1999.805818
+Testability evaluation of sequential designs incorporating the multi-mode scannable memory element.	Adit D. Singh,Egor S. Sogomonyan,Michael Gössel,Markus Seuring	10.1109/TEST.1999.805642
+Panel Statement: Increasing test coverage in a VLSI design course.	Mani Soma	10.1109/TEST.1999.805868
+Diagnostic techniques for the IBM S/390 600 MHz G5 microprocessor.	Peilin Song,Franco Motika,Daniel R. Knebel,Rick Rizzolo,Mary P. Kusko,Julie Lee,Moyra K. McManus	10.1109/TEST.1999.805841
+Functional verification of intellectual properties (IP): a simulation-based solution for an application-specific instruction-set processor.	Manfred Stadler,Thomas Röwer,Hubert Kaeslin,Norbert Felber,Wolfgang Fichtner,Markus Thalmann	10.1109/TEST.1999.805763
+Robust test methods applied to functional design verification.	Susana Stoica	10.1109/TEST.1999.805816
+System design verification tests - an overview.	Susana Stoica	10.1109/TEST.1999.805797
+BIST for phase-locked loops in digital applications.	Stephen K. Sunter,Aubin Roy	10.1109/TEST.1999.805777
+A new approach to RF impedance test.	Dino Ren Tao	10.1109/TEST.1999.805633
+Automatic Functional Test Generation - A Reality.	Raghuram S. Tapuri	10.1109/TEST.1999.805862
+Robust testability of primitive faults using test points.	Ramesh C. Tekumalla,Premachandran R. Menon	10.1109/TEST.1999.805639
+An histogram based procedure for current testing of active defects.	Claude Thibeault	10.1109/TEST.1999.805800
+Accurate path delay fault coverage is feasible.	Spyros Tragoudas	10.1109/TEST.1999.805631
+STAR-ATPG: a high speed test pattern generator for large scan designs.	Kuo-Hui Tsai,Tompson,Janusz Rajski,Malgorzata Marek-Sadowska	10.1109/TEST.1999.805835
+Design for test and time to market-friends or foes.	Jon Turino	10.1109/TEST.1999.805844
+Design for Yield and Reliability is MORE Important Than DFT.	D. M. H. Walker	10.1109/TEST.1999.805877
+Tradeoff analysis for producing high quality tests for custom circuits in PowerPC microprocessors.	Li-C. Wang,Magdy S. Abadir	10.1109/TEST.1999.805814
+An accurate simulation model of the ATE test environment for very high speed devices.	Thomas P. Warwick,Jung Cho,Yi Cai,Bill Ortner	10.1109/TEST.1999.805776
+Accuracy requirements in at-speed functional test.	Burnell G. West	10.1109/TEST.1999.805808
+At-speed structural test.	Burnell G. West	10.1109/TEST.1999.805810
+Addressable test ports an approach to testing embedded cores.	Lee Whetsel	10.1109/TEST.1999.805839
+PC manufacturing test in a high volume environment.	David Williams	10.1109/TEST.1999.805798
+Practical optical waveform probing of flip-chip CMOS devices.	Keneth R. Wilsher,William K. Lo	10.1109/TEST.1999.805825
+Output in still, input in still.	Peter Wohl	10.1109/TEST.1999.805879
+Using Verilog simulation libraries for ATPG.	Peter Wohl,John A. Waicukauski	10.1109/TEST.1999.805834
+Position Statement: Testing in a VLSI Design Course.	Wayne H. Wolf	10.1109/TEST.1999.805869
+The test and debug features of the AMD-K7 microprocessor.	Timothy J. Wood	10.1109/TEST.1999.805622
+DFT is all I can afford, who cares about Design for Yield or Design for Reliability!	David M. Wu	10.1109/TEST.1999.805873
+&quot;DFY and DFR are more important than DFT&quot;.	David M. Wu	10.1109/TEST.1999.805878
+Interconnect delay fault testing with IEEE 1149.1.	Yuejian Wu,Paul Soong	10.1109/TEST.1999.805767
+SymSim: symbolic fault simulation of data-flow data-path designs at the Register-Transfer level.	Sitaran Yadavalli,Sudhakar M. Reddy	10.1109/TEST.1999.805785
+Finite state machine synthesis with concurrent error detection.	Chaohuang Zeng,Nirmal R. Saxena,Edward J. McCluskey	10.1109/TEST.1999.805795
+Using LSSD to test modules at the board level.	Thomas A. Ziaja	10.1109/TEST.1999.805627
+Towards a standard for embedded core test: an example.	Yervant Zorian,Erik Jan Marinissen,Rohit Kapur,Tony Taylor,Lee Whetsel	10.1109/TEST.1999.805786
+Proceedings IEEE International Test Conference 1999, Atlantic City, NJ, USA, 27-30 September 1999		

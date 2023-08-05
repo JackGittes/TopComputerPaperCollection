@@ -1,0 +1,115 @@
+Separating temperature effects from ring-oscillator readings to measure true IR-drop on a chip.	Zahi S. Abuhamdeh,Vincent D&apos;Alassandro,Richard Pico,Dale Montrone,Alfred L. Crouch,Andrew Tracy	10.1109/TEST.2007.4437591
+Low cost characterization of RF transceivers through IQ data analysis.	Erkan Acar,Sule Ozev	10.1109/TEST.2007.4437641
+Cost effective manufacturing test using mission mode tests.	Parmod Aggarwal	10.1109/TEST.2007.4437662
+On using lossless compression of debug data in embedded logic analysis.	Ehab Anis,Nicola Nicolici	10.1109/TEST.2007.4437613
+A comparative study of continuous sampling plans for functional board testing.	Jukka Antila,Timo Karhu	10.1109/TEST.2007.4437650
+Automotive IC&apos;s: less testing, more prevention.	Davide Appello	10.1109/TEST.2007.4437699
+An algorithm to evaluate wide-band quadrature mixers.	Koji Asami	10.1109/TEST.2007.4437642
+Analyzing the risk of timing modeling based on path delay tests.	Pouria Bastani,Benjamin N. Lee,Li-C. Wang,Savithri Sundareswaran,Magdy S. Abadir	10.1109/TEST.2007.4437587
+Achieving serendipitous N-detect mark-offs in Multi-Capture-Clock scan patterns.	Gaurav Bhargava,Dale Meehl,James Sage	10.1109/TEST.2007.4437648
+Power dissipation, variations and nanoscale CMOS design: Test challenges and self-calibration/self-repair solutions.	Swarup Bhunia,Kaushik Roy 0001	10.1109/TEST.2007.4437659
+SiP-test: Predicting delivery quality.	Alex S. Biewenga,Frans G. M. de Jong	10.1109/TEST.2007.4437652
+Estimating stuck fault coverage in sequential logic using state traversal and entropy analysis.	Soumitra Bose,Vishwani D. Agrawal	10.1109/TEST.2007.4437635
+Delay fault simulation with bounded gate delay mode.	Soumitra Bose,Hillary Grimes,Vishwani D. Agrawal	10.1109/TEST.2007.4437637
+Management of common-mode currents in semiconductor ATE.	William J. Bowhers	10.1109/TEST.2007.4437619
+Protocol requirements in an SJTAG/IJTAG environment.	Gunnar Carlsson,Johan Holmqvist,Erik Larsson	10.1109/TEST.2007.4437658
+A practical approach to comprehensive system test &amp; debug using boundary scan based test architecture.	Tapan J. Chakraborty,Chen-Huan Chiang,Bradford G. Van Treuren	10.1109/TEST.2007.4437663
+California scan architecture for high quality and low power testing.	Kyoung Youn Cho,Subhasish Mitra,Edward J. McCluskey	10.1109/TEST.2007.4437634
+A matched expansion MEMS probe card with low CTE LTCC substrate.	Seong-Hun Choe,Shuji Tanaka,Masayoshi Esashi	10.1109/TEST.2007.4437618
+Where is car IC testing going?	Steve Comen	10.1109/TEST.2007.4437696
+Redefining and testing interconnect faults in Mesh NoCs.	Érika F. Cota,Fernanda Lima Kastensmidt,Maico Cassel,Paulo Meirelles,Alexandre M. Amory,Marcelo Lubaszewski	10.1109/TEST.2007.4437574
+IJTAG: The path to organized instrument connectivity.	Alfred L. Crouch	10.1109/TEST.2007.4437656
+A stochastic pattern generation and optimization framework for variation-tolerant, power-safe scan test.	V. R. Devanathan,C. P. Ravikumar,V. Kamakoti 0001	10.1109/TEST.2007.4437596
+PMScan : A power-managed scan for simultaneous reduction of dynamic and leakage power during scan test.	V. R. Devanathan,C. P. Ravikumar,Rajat Mehrotra,V. Kamakoti 0001	10.1109/TEST.2007.4437598
+Which defects are most critical? optimizing test sets to minimize failures due to test escapes.	Jennifer Dworak	10.1109/TEST.2007.4437565
+IEEE P1581 can solve your board level memory cluster test problems.	Heiko Ehrenberg	10.1109/TEST.2007.4437625
+The new ATE: Protocol aware.	Andrew C. Evans	10.1109/TEST.2007.4437617
+A high accuracy high throughput jitter test solution on ATE for 3GBPS and 6gbps serial-ata.	Yongquan Fan,Yi Cai,Zeljko Zilic	10.1109/TEST.2007.4437594
+Implementing bead probe technology for in-circuit test: A case study.	Mike Farrell,Glen Leinbach	10.1109/TEST.2007.4437599
+On-chip timing uncertainty measurements on IBM microprocessors.	Robert L. Franch,Phillip J. Restle,James K. Norman,William V. Huott,Joshua Friedrich,R. Dixon,Steve Weitzel,K. van Goor,Gerard Salem	10.1109/TEST.2007.4437560
+Design for test features of the ARM clock control macro.	Frank Frederick,Teresa L. McLaurin	10.1109/TEST.2007.4437586
+On ATPG for multiple aggressor crosstalk faults in presence of gate delays.	Kunal P. Ganeshpure,Sandip Kundu	10.1109/TEST.2007.4437563
+How to ensure zero defects from the beginning with semiconductor test methods.	Bernd Gessner	10.1109/TEST.2007.4437697
+Embedded multi-detect ATPG and Its Effect on the Detection of Unmodeled Defects.	Jeroen Geuzebroek,Erik Jan Marinissen,Ananta K. Majhi,Andreas Glowatz,Friedrich Hapke	10.1109/TEST.2007.4437649
+A concurrent approach for testing address decoder faults in eFlash memories.	Olivier Ginez,Patrick Girard 0001,Christian Landrault,Serge Pravossoudovitch,Arnaud Virazel,Jean Michel Daga	10.1109/TEST.2007.4437567
+Advancements in at-speed array BIST: multiple improvements.	Kevin W. Gorman,Michael Roberge,Adrian Paparelli,Gary Pomichter,Stephen Sliva,William Corbin	10.1109/TEST.2007.4437566
+Co-development of test electronics and PCI Express interface for a multi-Gbps optical switching network.	Carl Edward Gray,Odile Liboiron-Ladouceur,David C. Keezer,Keren Bergman	10.1109/TEST.2007.4437623
+A complete test set to diagnose scan chain failures.	Ruifeng Guo,Yu Huang 0005,Wu-Tung Cheng	10.1109/TEST.2007.4437579
+Enhancing signal controllability in functional test-benches through automatic constraint extraction.	Onur Guzey,Li-C. Wang,Jayanta Bhadra	10.1109/TEST.2007.4437615
+Programmable deterministic Built-In Self-Test.	Abdul Wahid Hakmi,Hans-Joachim Wunderlich,Christian G. Zoellin,Andreas Glowatz,Friedrich Hapke,Jürgen Schlöffel,Laurent Souef	10.1109/TEST.2007.4437611
+A methodology for detecting performance faults in microprocessors via performance monitoring hardware.	Miltiadis Hatzimihail,Mihalis Psarakis,Dimitris Gizopoulos,Antonis M. Paschalis	10.1109/TEST.2007.4437646
+A heuristic for thermal-safe SoC test scheduling.	Zhiyuan He 0002,Zebo Peng,Petru Eles	10.1109/TEST.2007.4437573
+Diagnose compound scan chain and system logic defects.	Yu Huang 0005,Wu-Tung Cheng,Ruifeng Guo,Will Hsu,Yuan-Shih Chen,Albert Mann	10.1109/TEST.2007.4437578
+Data jitter measurement using a delta-time-to-voltage converter method.	Kiyotaka Ichiyama,Masahiro Ishida,Takahiro J. Yamaguchi,Mani Soma	10.1109/TEST.2007.4437569
+Case study of a low power MTCMOS based ARM926 SoC : Design, analysis and test challenges.	Sachin Idgunji	10.1109/TEST.2007.4437661
+Characterization of NBTI induced temporal performance degradation in nano-scale SRAM array using IDDQ.	Kunhyuk Kang,Muhammad Ashraful Alam,Kaushik Roy 0001	10.1109/TEST.2007.4437590
+Fundamentals of timing information for test: How simple can we get?	Rohit Kapur,Jindrich Zejda,Thomas W. Williams	10.1109/TEST.2007.4437609
+Multi-GHz loopback testing using MEMs switches and SiGe logic.	David C. Keezer,Dany Minier,Patrice Ducharme,Doris Viens,Greg Flynn,John McKillop	10.1109/TEST.2007.4437581
+SPARTAN: a spectral and information theoretic approach to partial-scan.	Omar I. Khan,Michael L. Bushnell,Suresh Kumar Devanathan,Vishwani D. Agrawal	10.1109/TEST.2007.4437620
+Testing for systematic defects based on DFM guidelines.	Dongok Kim,M. Enamul Amyeen,Srikanth Venkataraman,Irith Pomeranz,Swagato Basumallick,Berni Landau	10.1109/TEST.2007.4437603
+Sigma-delta ADC characterization using noise transfer function pole-zero tracking.	Hochul Kim,Kye-Shin Lee	10.1109/TEST.2007.4437654
+Verification and debugging of IDDQ test of low power chips.	Michael Laisne,Triphuong Nguyen,Songlin Zuo,Xiangdong Pan,Hailong Cui,Cher Bai,A. Street,M. Parley,Neetu Agrawal,K. Sundararaman	10.1109/TEST.2007.4437628
+Using timing flexibility of automatic test equipment to complement X-tolerant test compression techniques.	Andreas Leininger,Martin Fischer 0002,Michael Richter 0002,Michael Gössel	10.1109/TEST.2007.4437577
+A scanisland based design enabling prebond testability in die-stacked microprocessors.	Dean L. Lewis,Hsien-Hsin S. Lee	10.1109/TEST.2007.4437621
+New methods for receiver internal jitter measurement.	Mike P. Li,Jinhua Chen	10.1109/TEST.2007.4437570
+Efficient power droop aware delay fault testing.	Bin Li,Lei Fang 0002,Michael S. Hsiao	10.1109/TEST.2007.4437597
+A generic and reconfigurable test paradigm using Low-cost integrated Poly-Si TFTs.	Jing Li 0073,Swaroop Ghosh,Kaushik Roy 0001	10.1109/TEST.2007.4437622
+Impact of Quad Flat No Lead package (QFN) on automated X-ray inspection (AXI).	Tee Chwee Liong,Andy Pascual	10.1109/TEST.2007.4437601
+Using built-in sensors to cope with long duration transient faults in future technologies.	Carlos Arthur Lang Lisbôa,Fernanda Lima Kastensmidt,Egas Henes Neto,Gilson I. Wirth,Luigi Carro	10.1109/TEST.2007.4437631
+Test yield estimation for analog/RF circuits over multiple correlated measurements.	Fang Liu 0029,Erkan Acar,Sule Ozev	10.1109/TEST.2007.4437643
+Efficient simulation of parametric faults for multi-stage analog circuits.	Fang Liu 0029,Sule Ozev	10.1109/TEST.2007.4437630
+Interconnect open defect diagnosis with minimal physical information.	Chen Liu,Wei Zou,Sudhakar M. Reddy,Wu-Tung Cheng,Manish Sharma,Huaxing Tang	10.1109/TEST.2007.4437580
+An efficient SAT-based path delay fault ATPG with an unified sensitization model.	Shun-Yen Lu,Ming-Ting Hsieh,Jing-Jia Liou	10.1109/TEST.2007.4437589
+Modeling facet roughening errors in self-assembly by snake tile sets.	Xiaojun Ma,Jing Huang 0001,Fabrizio Lombardi	10.1109/TEST.2007.4437640
+Testing of Vega2, a chip multi-processor with spare processors.	Samy Makar,Tony Altinis,Niteen Patkar,Janet Wu	10.1109/TEST.2007.4437584
+A universal DC to logic performance correlation.	Andrew Marshall	10.1109/TEST.2007.4437701
+Principles and results of some test cost reduction methods for ASICs.	Peter C. Maxwell	10.1109/TEST.2007.4437702
+Enhanced testing of clock faults.	Teresa L. McLaurin,Rich Slobodnik,Kun-Han Tsai,Ana Keim	10.1109/TEST.2007.4437651
+Novel compensation scheme for local clocks of high performance microprocessors.	Cecilia Metra,Martin Omaña 0001,T. M. Mak,Simon Tam 0001	10.1109/TEST.2007.4437645
+Circuit failure prediction to overcome scaled CMOS reliability challenges.	Subhasish Mitra,Mridul Agarwal	10.1109/TEST.2007.4437665
+Dependable clock distribution for crosstalk aware design.	Yukiya Miura	10.1109/TEST.2007.4437644
+Design for testability features of the SUN microsystems niagara2 CMP/CMT SPARC chip.	Robert F. Molyneaux,Thomas A. Ziaja,Hong Kim,Shahryar Aryani,Sungbae Hwang,Alex Hsieh	10.1109/TEST.2007.4437561
+High throughput non-contact SiP testing.	Brian Moore 0001,Chris Sellathamby,Philippe Cauvet,Hérvé Fleury,M. Paulson,Md. Mahbub Reja,Lin Fu,Brenda Bai,Edwin Walter Reid,Igor M. Filanovsky,Steven Slupsky	10.1109/TEST.2007.4437595
+Analyzing and addressing the impact of test fixture relays for multi-gigabit ATE I/O characterization applications.	Jose Moreira,Heidi Barnes,Guenter Hoersch	10.1109/TEST.2007.4437582
+Rapid UHF RFID silicon debug and production testing.	Udaya Shankar Natarajan,Hemalatha Shanmugasundaram,Prachi Deshpande,Chin Soon Wah	10.1109/TEST.2007.4437593
+GRAAL: a new fault tolerant design paradigm for mitigating the flaws of deep nanometric technologies.	Michael Nicolaidis	10.1109/TEST.2007.4437666
+Statistical test: A new paradigm to improve test effectiveness &amp; efficiency.	Peter M. O&apos;Neill	10.1109/TEST.2007.4437700
+Real-time signal processing - a new PLL test approach.	Hideo Okawara	10.1109/TEST.2007.4437605
+Gate delay ratio model for unified path delay analysis.	Yukio Okuda	10.1109/TEST.2007.4437592
+Mining-guided state justification with partitioned navigation tracks.	Ankur Parikh,Weixin Wu,Michael S. Hsiao	10.1109/TEST.2007.4437588
+A bead probe CAD strategy for in-circuit test.	Kenneth P. Parker,Don DeMille	10.1109/TEST.2007.4437600
+Finding power/ground defects on connectors - a new approach.	Kenneth P. Parker,Stephen Hird	10.1109/TEST.2007.4437624
+Delay defect diagnosis using segment network faults.	Osei Poku,Ronald D. Blanton	10.1109/TEST.2007.4437602
+On the saturation of n-detection test sets with increased n.	Irith Pomeranz,Sudhakar M. Reddy	10.1109/TEST.2007.4437647
+Critical roles of RF and microwave electromagnetic field solver simulators in multi-gigabit high-speed digital applications.	Minh Quach,Mark Hinton,Regee Petaja	10.1109/TEST.2007.4437583
+Power-aware test: Challenges and solutions.	Srivaths Ravi 0001	10.1109/TEST.2007.4437660
+Measurement ratio testing for improved quality and outlier detection.	Jeffrey L. Roehr	10.1109/TEST.2007.4437616
+A stereo audio Σ∑ ADC architecture with embedded SNDR self-test.	Luís Rolíndez,Salvador Mir,Jean-Louis Carbonéro,Dimitri Goguet,Nabil Chouba	10.1109/TEST.2007.4437653
+Backside E-Beam Probing on Nano scale devices.	Rudolf Schlangen,Reiner Leihkauf,Uwe Kerst,Christian Boit,Rajesh Jain,Tahir Malik,Keneth R. Wilsher,Ted R. Lundquist,Bernd Krüger	10.1109/TEST.2007.4437627
+Test cost reduction for the AMD™ Athlon processor using test partitioning.	Anuja Sehgal,Jeff Fitzgerald,Jeff Rearick	10.1109/TEST.2007.4437562
+ERTG: A test generator for error-rate testing.	Shideh Shahidi,Sandeep K. Gupta	10.1109/TEST.2007.4437638
+Faster defect localization in nanometer technology based on defective cell diagnosis.	Manish Sharma,Wu-Tung Cheng,Ting-Pu Tai,Y. S. Cheng,Will Hsu,Chen Liu,Sudhakar M. Reddy,Albert Mann	10.1109/TEST.2007.4437604
+Diagnosis for MRAM write disturbance fault.	Chin-Lung Su,Chih-Wea Tsai,Cheng-Wen Wu,Ji-Jan Chen,Wen Ching Wu,Chien-Chung Hung,Ming-Jer Kao	10.1109/TEST.2007.4437568
+Low cost automatic mixed-signal board test using IEEE 1149.4.	Srividya Sundar,Bruce C. Kim,Toby Byrd,Felipe Toledo,Sudhir Wokhlu,Erika Beskar,Raul Rousselin,David Cotton,Gary Kendall	10.1109/TEST.2007.4437629
+A selt-testing BOST for high-frequency PLLs, DLLs, and SerDes.	Stephen K. Sunter,Aubin Roy	10.1109/TEST.2007.4437571
+X-canceling MISR - An X-tolerant methodology for compacting output responses with unknowns using a MISR.	Nur A. Touba	10.1109/TEST.2007.4437576
+JTAG system test in a MicroTCA world.	Bradford G. Van Treuren,Adam W. Ley	10.1109/TEST.2007.4437657
+Silicon evaluation of longest path avoidance testing for small delay defects.	Ritesh P. Turakhia,W. Robert Daasch,Mark Ward,John Van Slyke	10.1109/TEST.2007.4437564
+Automated handling of programmable on-product clock generation (OPCG) circuitry for delay test vector generation.	Anis Uzzaman,Bibo Li,Thomas J. Snethen,Brion L. Keller,Gary Grise	10.1109/TEST.2007.4437610
+ACCE: Automatic correction of control-flow errors.	Ramtilak Vemu,Sankar Gurumurthy,Jacob A. Abraham	10.1109/TEST.2007.4437639
+The design-for-testability features of a general purpose microprocessor.	Da Wang,Xiaoxin Fan,Xiang Fu 0007,Hui Liu,Ke Wen,Rui Li,Huawei Li 0001,Yu Hu 0001,Xiaowei Li 0001	10.1109/TEST.2007.4437585
+A low cost test data compression technique for high n-detection fault coverage.	Seongmoon Wang,Zhanglei Wang,Wenlong Wei,Srimat T. Chakradhar	10.1109/TEST.2007.4437612
+A novel scheme to reduce power supply noise for high-quality at-speed scan testing.	Xiaoqing Wen,Kohei Miyase,Seiji Kajihara,Tatsuya Suzuki,Yuta Yamato,Patrick Girard 0001,Yuji Ohsumi,Laung-Terng Wang	10.1109/TEST.2007.4437632
+Car IC test changing but the same quality goal.	Gary Wittie	10.1109/TEST.2007.4437698
+Fully X-tolerant combinational scan compression.	Peter Wohl,John A. Waicukauski,Sanjay Ramnath	10.1109/TEST.2007.4437575
+Statistical analysis and optimization of parametric delay test.	Sean Hsi Yuan Wu,Benjamin N. Lee,Li-C. Wang,Magdy S. Abadir	10.1109/TEST.2007.4437626
+Fast and effective fault simulation for path delay faults based on selected testable paths.	Dong Xiang,Yang Zhao 0001,Kaiwei Li,Hideo Fujiwara	10.1109/TEST.2007.4437636
+A fully digital-compatible BIST strategy for ADC linearity testing.	Hanqing Xing,Hanjun Jiang,Degang Chen 0001,Randall L. Geiger	10.1109/TEST.2007.4437655
+Functional testing of digital microfluidic biochips.	Tao Xu 0002,Krishnendu Chakrabarty	10.1109/TEST.2007.4437614
+Pattern-directed circuit virtual partitioning for test power reduction.	Qiang Xu 0001,Dianwei Hu,Dong Xiang	10.1109/TEST.2007.4437633
+Achieving high transition delay fault coverage with partial DTSFF scan chains.	Gefu Xu,Adit D. Singh	10.1109/TEST.2007.4437608
+Test-wrapper designs for the detection of signal-integrity faults on core-external interconnects of SoCs.	Qiang Xu 0001,Yubin Zhang,Krishnendu Chakrabarty	10.1109/TEST.2007.4437572
+An FFT-based jitter separation method for high-frequency jitter testing with a 10x reduction in test time.	Takahiro J. Yamaguchi,H. X. Hou,Koji Takayama,Dave Armstrong,Masahiro Ishida,Mani Soma	10.1109/TEST.2007.4437607
+A methodology for systematic built-in self-test of phase-locked loops targeting at parametric failures.	Guo Yu,Peng Li 0001	10.1109/TEST.2007.4437606
+Design-for-reliability: A soft error case study.	Ming Zhang	10.1109/TEST.2007.4437664
+2007 IEEE International Test Conference, ITC 2007, Santa Clara, California, USA, October 21-26, 2007	Jill Sibert,Janusz Rajski	

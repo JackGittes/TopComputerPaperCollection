@@ -1,0 +1,74 @@
+Dynamic Reconfiguration in High-Speed Computer Clusters.	Dimiter R. Avresky,Natcho H. Natchev,Vladimir Shurbanov	10.1109/CLUSTR.2001.960004
+Adaptive Cluster Computing using JavaSpaces.	Jyoti Batheja,Manish Parashar	10.1109/CLUSTR.2001.959993
+The Master-Slave Paradigm with Heterogeneous Processors.	Olivier Beaumont,Arnaud Legrand,Yves Robert	10.1109/CLUSTR.2001.960008
+Future Directions for the Scyld Advanced Beowulf Management System.	Donald Becker	10.1109/CLUSTR.2001.959963
+The Scyld Beowulf System.	Don Becker	10.1109/CLUSTER.2001.10004
+Emerging Technologies for MultiCluster/Grid Computing.	Rajkumar Buyya,Mark Baker	10.1109/CLUSTER.2001.10001
+Scalable Cluster Computing-Opportunities and Challenges.	William J. Camp	10.1109/CLUSTR.2001.960012
+Approximation Algorithms for Data Distribution with Load Balancing of Web Servers.	Li-Chuan Chen,Hyeong-Ah Choi	10.1109/CLUSTR.2001.959988
+Building a Scalable Web Server with Global Object Space Support on Heterogeneous Clusters.	Ge Chen,Cho-Li Wang,Francis C. M. Lau 0001	10.1109/CLUSTR.2001.959992
+A Class of Loop Self-Scheduling for Heterogeneous Clusters.	Anthony T. Chronopoulos,Manuel Benche,Daniel Grosu,Razvan Andonie	10.1109/CLUSTR.2001.959989
+Using Multirail Networks in High-Performance Clusters.	Salvador Coll,Eitan Frachtenberg,Fabrizio Petrini,Adolfy Hoisie,Leonid Gurvits	10.1109/CLUSTR.2001.959946
+Numerically-Intensive &quot;Plug-and-Play&quot; Parallel Computing.	Dean E. Dauger,Viktor K. Decyk	10.1109/CLUSTR.2001.959955
+The Lightweight Protocol CLIC: Performance of an MPI implementation on CLIC.	Antonio F. Díaz,Julio Ortega 0001,Antonio Cañas,F. J. Fernández,Alberto Prieto	10.1109/CLUSTR.2001.960005
+High Performance Computing and Trends: Connected Computational Requirements with Computing Resources.	Jack J. Dongarra	10.1109/CLUSTR.2001.959962
+Parallel and Adaptive Reduction of Hyperspectral Data to Intrinsic Dimensionality.	Tarek A. El-Ghazawi,Sinthop Kaewpijit,Jacqueline Le Moigne	10.1109/CLUSTR.2001.959958
+GulfStream - a System for Dynamic Topology Management in Multi-domain Server Farms.	Sameh A. Fakhouri,Germán S. Goldszmidt,Michael H. Kalantar,John A. Pershing,Indranil Gupta	10.1109/CLUSTR.2001.959951
+GMSOCKS - A Direct Sockets Implementation on Myrinet.	Markus Fischer	10.1109/CLUSTR.2001.959979
+Programmability and Performance of M++ Self-Migrating Threads.	Munehiro Fukuda,Naoya Suzuki,Luís Miguel Campos,Shin-ya Kobayashi	10.1109/CLUSTR.2001.959994
+Performance Evaluation of Parallel File Systems for PC Clusters and ASCI Red.	Sharad Garg,Jens Mache	10.1109/CLUSTR.2001.959973
+Dense Computing with Transmeta&apos;s Crusoe (invited).	Dean Gaudet	10.1109/CLUSTR.2001.959953
+CPPvm - Parallel Programming in C++.	Steffen Görzig	10.1109/CLUSTR.2001.959965
+Advanced Cluster Programming with MP.	William Gropp	10.1109/CLUSTER.2001.10003
+Design and Implementation of Highly Available Linux Clusters.	Ibrahim Haddad,Frederic Rossi	10.1109/CLUSTER.2001.10005
+Dynamic Cluster Configuration and Management using JavaSpaces.	Kenneth A. Hawick,Heath A. James	10.1109/CLUSTR.2001.959966
+A Visualization Tool for Analyzing Cluster Performance Data.	Rena A. Haynes,Patricia Crossno,Eric Russell	10.1109/CLUSTR.2001.959990
+Hierarchical Cluster for Scalable Web Servers.	Jonghyuck Hong,Dongseung Kim	10.1109/CLUSTR.2001.959969
+SCore: An Integrated Cluster System Software Package for High Performance Cluster Computing.	Atsushi Hori	10.1109/CLUSTR.2001.960013
+Semi-Continuous Transmission for Cluster-Based Video Servers.	Sandy Irani,Nalini Venkatasubramanian	10.1109/CLUSTR.2001.959991
+Clusterfile: A Flexible Physical Layout Parallel File System.	Florin Isaila,Walter F. Tichy	10.1109/CLUSTR.2001.959949
+Workload Management: More Than Just Job Scheduling.	James Patton Jones,Bill Nitzberg,Bob Henderson	10.1109/CLUSTR.2001.959959
+Scheduling parallel adaptive applications in networks of workstations and clusters of processors.	Djemai Kebbal,El-Ghazali Talbi,Jean-Marc Geib	10.1109/CLUSTR.2001.959960
+Dynamic Allocation of Nodes on a Large Space-Shared Cluster.	Lisa Kennicott,Lee Ann Fisk	10.1109/CLUSTR.2001.959985
+IEEE 1394 and RFC 2734; a viable HSI for hypercubes.	Kurt L. Keville,Robert Tompkin	10.1109/CLUSTR.2001.959968
+Parallel Standard Cell Placement on a Cluster of Workstations.	Faris H. Khundakjie,Patrick H. Madden,Nael B. Abu-Ghazaleh,Mehmet Can Yildiz	10.1109/CLUSTR.2001.959956
+SOVIA: A User-level Sockets Layer Over Virtual Interface Architecture.	Jin-Soo Kim,Kangho Kim,Sung-In Jung	10.1109/CLUSTR.2001.960006
+A Low-Cost, High-Density Mounting System for Computer Clusters.	John F. Kolen,Tim Hutcheson	10.1109/CLUSTR.2001.959970
+Table-Comparison Prefetching in VIA-based Parallel File System.	Yoon-Young Lee,Dae-Wha Seo,Chei-Yol Kim	10.1109/CLUSTR.2001.959971
+High Performance Computing with Microsoft Windows 2000.	David A. Lifka	10.1109/CLUSTR.2001.959950
+Next Generation Parallel Virtual File System.	Walter B. Ligon III	10.1109/CLUSTR.2001.959947
+The Parallel Virtual File System for Commodity Clusters.	Walter B. Ligon III,Robert B. Ross	10.1109/CLUSTER.2001.10006
+A Parallel Programming Environment for a V-Busbased PC-cluste.	Sang Seok Lim,Yunheung Paek,Kyu Ho Park,Jay P. Hoeflinger	10.1109/CLUSTR.2001.959983
+Cluster Trend: DataSpeaking.	Peng Liu,Zhihui Du	10.1109/CLUSTR.2001.959972
+Programming with MPI on Clusters.	Ewing L. Lusk	10.1109/CLUSTR.2001.960000
+Stingray: Cone tracing using a software DSM for SCI clusters.	Alexandre Meyer,Emmanuel Cecchet	10.1109/CLUSTR.2001.959957
+Early Experiences with the Myricom 2000 Switch on an SMP Beowulf-Class Cluster for Unstructured Adaptive Meshing.	Charles D. Norton,Thomas A. Cwik	10.1109/CLUSTR.2001.959945
+&quot;Architecture Recapitulates Phylogeny&quot;: How Scalability Requires Specializatio.	Steve Oberlin	10.1109/CLUSTER.2001.10000
+DECK-SCI: High-Performance Communication and Multithreading for SCI Clusters.	Fabio A. D. de Oliveira,Rafael Bohrer Ávila,Marcos E. Barreto,Philippe Olivier Alexandre Navaux,César A. F. De Rose	10.1109/CLUSTR.2001.960003
+NPACI Rocks: Tools and Techniques for Easily Deploying Manageable Linux Clusters.	Philip M. Papadopoulos,Mason J. Katz,Greg Bruno	10.1109/CLUSTR.2001.959986
+An efficiency and scalability model for heterogeneous clusters.	Luis Pastor,José Luis Bosque	10.1109/CLUSTR.2001.960009
+Aspects of the InfiniBand(tm) Architecture.	Gregory F. Pfister	10.1109/CLUSTR.2001.960002
+A High-Availability Clustering Architecture with Data Integrity Guarantees.	Richard Rabbat,Tom McNeal,Tim Burke	10.1109/CLUSTR.2001.959974
+Teragrids: The Future of Terascale Cluster Computing.	Daniel A. Reed	10.1109/CLUSTR.2001.959999
+Performance and Analysis of the PCI-DDC Remote-Write Implementation.	Eric Renault,Pierre David	10.1109/CLUSTR.2001.959978
+Sharing Partitionable Workloads in Heterogeneous NOWs: Greedier Is Not Better.	Arnold L. Rosenberg	10.1109/CLUSTR.2001.959961
+Cluster Rolling Upgrade using Multiple Version Support.	Ellard T. Roush	10.1109/CLUSTR.2001.959952
+PVL: An Object Oriented Software Library for Parallel Signal Processing.	Edward Rutledge,Jeremy Kepner	10.1109/CLUSTR.2001.959954
+Graph Partitioning for Dynamic, Adaptive and Multi-phase Scientific Simulations.	Kirk Schloegel,George Karypis,Vipin Kumar 0001	10.1109/CLUSTR.2001.959987
+OSCAR and the Beowulf Arms Race for the &quot;Cluster Standard&quot;.	Stephen L. Scott	10.1109/CLUSTR.2001.959964
+Reliably Locking System V Shared Memory for User Level Communication in Linux.	Friedrich Seifert,Wolfgang Rehm	10.1109/CLUSTR.2001.960007
+Recent Advances in Cluster Networks.	Charles L. Seitz	10.1109/CLUSTR.2001.960001
+Communication with Threads in Software DSM.	Weiwu Hu,Gang Shi,Fuxin Zhang	10.1109/CLUSTR.2001.959967
+An SCI-based Software VIA System for PC Clustering.	Jeonghee Shin,Sang-Hwa Chung,Woojong Hah	10.1109/CLUSTR.2001.959982
+Adaptive Runtime Partitioning of AMR Applications on Heterogeneous Clusters.	Shweta Sinha,Manish Parashar	10.1109/CLUSTR.2001.960010
+Cluster-Based Computing with Active, Persistent Objects on the Web.	Frank Sommers,Shahram Ghandeharizadeh,Shan Gao	10.1109/CLUSTR.2001.959995
+PVM Support for Cluster.	Paul L. Springer	10.1109/CLUSTR.2001.959975
+A Distributed Object Model for Solving Irregularly Structured Problems on Cluster.	Yudong Sun,Cho-Li Wang	10.1109/CLUSTR.2001.959976
+Intelligence in High Performance Network Interface Card: Hardware vs. Software.	Bernard Tourancheau,Roland Westrelin	10.1109/CLUSTR.2001.959981
+A Reconfigurable Extension to the Network Interface of Beowulf Clusters.	Keith D. Underwood,Ron Sass,Walter B. Ligon III	10.1109/CLUSTR.2001.959980
+Cluster Software Tools : Beauty is in Simplicity.	Putchong Uthayopas	10.1109/CLUSTR.2001.959984
+The Grid, Virtual Organizations, and Problem-Solving Environments.	David W. Walker	10.1109/CLUSTR.2001.960011
+Experiences with Oasis+: A Fault Tolerant Storage System.	David Watson,Yan Luo,Brett D. Fleisch	10.1109/CLUSTR.2001.959948
+Cluster and Grid Superservers: The Dawning Experiences in China.	Zhiwei Xu 0002,Ninghui Sun,Dan Meng,Wei Li 0008	10.1109/CLUSTR.2001.959996
+Towards High-Level Programming Support for Scientific Computing on Clusters.	Hans P. Zima	10.1109/CLUSTR.2001.959977
+2001 IEEE International Conference on Cluster Computing (CLUSTER 2001), 8-11 October 2001, Newport Beach, CA, USA		

@@ -1,0 +1,22 @@
+PDS: a virtual execution environment for software deployment.	Bowen Alpern,Joshua S. Auerbach,Vasanth Bala,Thomas Frauenhofer,Todd W. Mummert,Michael Pigott	10.1145/1064979.1065004
+Instrumenting annotated programs.	Marina Biberstein,Vugranam C. Sreedhar,Bilha Mendelson,Daniel Citron,Alberto Giammaria	10.1145/1064979.1065002
+The entropia virtual machine for desktop grids.	Brad Calder,Andrew A. Chien,Ju Wang 0010,Don Yang	10.1145/1064979.1065005
+Exploiting frequent field values in java objects for reducing heap memory requirements.	Guangyu Chen,Mahmut T. Kandemir,Mary Jane Irwin	10.1145/1064979.1064990
+The pauseless GC algorithm.	Cliff Click,Gil Tene,Michael Wolf	10.1145/1064979.1064988
+Supporting per-processor local-allocation buffers using lightweight user-level preemption notification.	Alex Garthwaite,David Dice,Derek White	10.1145/1064979.1064985
+An execution layer for aspect-oriented programming languages.	Michael Haupt,Mira Mezini,Christoph Bockisch,Tom Dinkelaker,Michael Eichberg,Michael Krebs	10.1145/1064979.1065000
+A programmable microkernel for real-time systems.	Christoph M. Kirsch,Marco A. A. Sanvido,Thomas A. Henzinger	10.1145/1064979.1064986
+An efficient and generic reversible debugger using the virtual machine based approach.	Toshihiko Koju,Shingo Takada 0001,Norihisa Doi	10.1145/1064979.1064992
+Escape analysis in the context of dynamic compilation and deoptimization.	Thomas Kotzmann,Hanspeter Mössenböck	10.1145/1064979.1064996
+HyperSpector: virtual distributed monitoring environments for secure intrusion detection.	Kenichi Kourai,Shigeru Chiba	10.1145/1064979.1065006
+Module-aware translation for real-life desktop applications.	Jianhui Li,Peng Zhang,Orna Etzion	10.1145/1064979.1064993
+Diagnosing performance overheads in the xen virtual machine environment.	Aravind Menon,Jose Renato Santos,Yoshio Turner,G. John Janakiraman,Willy Zwaenepoel	10.1145/1064979.1064984
+Application servers: virtualizing location, resources, memory, users and threads for business applications and web applications.	Martin Nally	10.1145/1064979.1064981
+Virtual machine showdown: stack versus registers.	Yunhe Shi,David Gregg,Andrew Beatty,M. Anton Ertl	10.1145/1064979.1065001
+A unified view of virtualization.	James E. Smith 0001	10.1145/1064979.1064980
+Using page residency to balance tradeoffs in tracing garbage collection.	Daniel Spoonhower,Guy E. Blelloch,Robert Harper 0001	10.1145/1064979.1064989
+Inlining java native calls at runtime.	Levon Stepanian,Angela Demke Brown,Allan Kielstra,Gita Koblents,Kevin Stoodley	10.1145/1064979.1064997
+Optimized interval splitting in a linear scan register allocator.	Christian Wimmer,Hanspeter Mössenböck	10.1145/1064979.1064998
+Friendly virtual machines: leveraging a feedback-control model for application adaptation.	Yuting Zhang,Azer Bestavros,Mina Guirguis,Ibrahim Matta,Richard West	10.1145/1064979.1064983
+Planning for code buffer management in distributed virtual execution environments.	Shukang Zhou,Bruce R. Childers,Mary Lou Soffa	10.1145/1064979.1064994
+Proceedings of the 1st International Conference on Virtual Execution Environments, VEE 2005, Chicago, IL, USA, June 11-12, 2005	Michael Hind,Jan Vitek	10.1145/1064979

@@ -1,0 +1,80 @@
+Replication Based QoS Framework for Flash Arrays.	Nihat Altiparmak,Ali Saman Tosun	10.1109/CLUSTER.2012.53
+Hierarchical Clustering Strategies for Fault Tolerance in Large Scale HPC Systems.	Leonardo Arturo Bautista-Gomez,Thomas Ropars,Naoya Maruyama,Franck Cappello,Satoshi Matsuoka	10.1109/CLUSTER.2012.71
+Adjustable Credit Scheduling for High Performance Network Virtualization.	Zhibo Chang,Jian Li 0021,Ruhui Ma,Zhiqiang Huang,Haibing Guan	10.1109/CLUSTER.2012.27
+DOSAS: Mitigating the Resource Contention in Active Storage Systems.	Chao Chen,Yong Chen 0001,Philip C. Roth	10.1109/CLUSTER.2012.66
+A Decoupled Execution Paradigm for Data-Intensive High-End Computing.	Yong Chen 0001,Chao Chen,Xian-He Sun,William D. Gropp,Rajeev Thakur	10.1109/CLUSTER.2012.80
+Performance Analysis of Parallel Processing Systems with Horizontal Decomposition.	Hanwei Chen,Jianwei Yin,Calton Pu	10.1109/CLUSTER.2012.11
+Harmony: Towards Automated Self-Adaptive Consistency in Cloud Storage.	Houssem-Eddine Chihoub,Shadi Ibrahim,Gabriel Antoniu,María S. Pérez 0001	10.1109/CLUSTER.2012.56
+The Load Rebalancing Problem in Distributed File Systems.	Hsueh-Yi Chung,Che-Wei Chang,Hung-Chang Hsiao,Yu-Chang Chao	10.1109/CLUSTER.2012.31
+Evaluation and Optimization of Breadth-First Search on NUMA Cluster.	Zehan Cui,Licheng Chen,Mingyu Chen 0001,Yungang Bao,Yongbing Huang,Huiwei Lv	10.1109/CLUSTER.2012.29
+Cloud Based Short Read Mapping Service.	Dong Dai 0001,Xi Li 0003,Chao Wang 0003,Xuehai Zhou	10.1109/CLUSTER.2012.60
+Characterization and Comparison of Cloud versus Grid Workloads.	Sheng Di,Derrick Kondo,Walfredo Cirne	10.1109/CLUSTER.2012.35
+Multicore-Enabled Smart Storage for Clusters.	Zhiyang Ding,Xunfei Jiang,Shu Yin,Xiao Qin 0001,Kai-Hsiung Chang,Xiaojun Ruan,Mohammed I. Alghamdi,Meikang Qiu	10.1109/CLUSTER.2012.70
+Memvisor: Application Level Memory Mirroring via Binary Translation.	Haoliang Dong,Wei Sun,Bin Wang,Haiyang Sun,Zhengwei Qi,Haibing Guan,Yaozu Dong	10.1109/CLUSTER.2012.68
+Damaris: How to Efficiently Leverage Multicore Parallelism to Achieve Scalable, Jitter-free I/O.	Matthieu Dorier,Gabriel Antoniu,Franck Cappello,Marc Snir,Leigh Orf	10.1109/CLUSTER.2012.26
+PIC: Partitioned Iterative Convergence for Clusters.	Reza Farivar 0002,Anand Raghunathan,Srimat T. Chakradhar,Harshit Kharbanda,Roy H. Campbell	10.1109/CLUSTER.2012.84
+clone_n(): Parallel Thread Creation for Upcoming Many-Core Architectures.	Balazs Gerofi,Atsushi Hori,Yutaka Ishikawa	10.1109/CLUSTER.2012.85
+On Optimal and Balanced Sparse Matrix Partitioning Problems.	Anaël Grandjean,Johannes Langguth,Bora Uçar	10.1109/CLUSTER.2012.77
+Improving Resource Utilization in MapReduce.	Zhenhua Guo 0004,Geoffrey C. Fox,Mo Zhou,Yang Ruan	10.1109/CLUSTER.2012.69
+Mastiff: A MapReduce-based System for Time-Based Big Data Analytics.	Sijie Guo,Jin Xiong,Weiping Wang,Rubao Lee	10.1109/CLUSTER.2012.10
+KNOWAC: I/O Prefetch via Accumulated Knowledge.	Jun He,Xian-He Sun,Rajeev Thakur	10.1109/CLUSTER.2012.83
+A Job Scheduling Design for Visualization Services Using GPU Clusters.	Wei-Hsien Hsu,Chun-Fu Wang,Kwan-Liu Ma,Hongfeng Yu 0001,Jacqueline H. Chen	10.1109/CLUSTER.2012.63
+Differentiating Your Friends for Scaling Online Social Networks.	Yewei Huang,Qianni Deng,Yanmin Zhu	10.1109/CLUSTER.2012.55
+Adaptive and Scalable Optimizations for High Performance SR-IOV.	Zhiqiang Huang,Ruhui Ma,Jian Li 0021,Zhibo Chang,Haibing Guan	10.1109/CLUSTER.2012.28
+Dynamic Network Forecasting Using SimGrid Simulations.	Matthieu Imbert,Eddy Caron	10.1109/CLUSTER.2012.40
+Designing an Offloaded Nonblocking MPI_Allgather Collective Using CORE-Direct.	Grigori Inozemtsev,Ahmad Afsahi	10.1109/CLUSTER.2012.75
+Enabling Fast, Noncontiguous GPU Data Movement in Hybrid MPI+GPU Environments.	John Jenkins,James Dinan,Pavan Balaji,Nagiza F. Samatova,Rajeev Thakur	10.1109/CLUSTER.2012.72
+Cache Promotion Policy Using Re-reference Interval Prediction.	Gangyong Jia,Xi Li 0003,Chao Wang 0003,Xuehai Zhou,Zongwei Zhu	10.1109/CLUSTER.2012.32
+Memory Affinity: Balancing Performance, Power, Thermal and Fairness for Multi-core Systems.	Gangyong Jia,Xi Li 0003,Chao Wang 0003,Xuehai Zhou,Zongwei Zhu	10.1109/CLUSTER.2012.33
+DisplayCluster: An Interactive Visualization Environment for Tiled Displays.	Gregory P. Johnson,Gregory D. Abram,Brandt M. Westing,Paul A. Navrátil,Kelly P. Gaither	10.1109/CLUSTER.2012.78
+Optimizing Process-to-Core Mappings for Application Level Multi-dimensional MPI Communications.	Christer Karlsson,Teresa Davies,Zizhong Chen	10.1109/CLUSTER.2012.47
+Towards Fault-Tolerant Energy-Efficient High Performance Computing in the Cloud.	Kurt L. Keville,Rohan Garg 0001,David J. Yates,Kapil Arya,Gene Cooperman	10.1109/CLUSTER.2012.74
+Synergy: A Middleware for Energy Conservation in Mobile Devices.	Harshit Kharbanda,Manoj Krishnan,Roy H. Campbell	10.1109/CLUSTER.2012.64
+Low-Latency Collectives for the Intel SCC.	Adán Kohler,Martin Radetzki,Philipp Gschwandtner,Thomas Fahringer	10.1109/CLUSTER.2012.58
+Community Clustering for Distributed Publish/Subscribe Systems.	Wei Li,Songlin Hu,Jintao Li,Hans-Arno Jacobsen	10.1109/CLUSTER.2012.67
+A Node-based Parallel Game Tree Algorithm Using GPUs.	Liang Li 0003,Hong Liu 0018,Peiyu Liu,Taoying Liu,Wei Li 0008,Hao Wang 0002	10.1109/CLUSTER.2012.45
+D4D: Inter-datacenter Bulk Transfers with ISP Friendliness.	Yangyang Li,Hongbo Wang 0001,Peng Zhang,Jiankang Dong,Shiduan Cheng	10.1109/CLUSTER.2012.44
+Backfilling under Two-tier Virtual Machines.	Xiaocheng Liu,Chen Wang 0008,Xiaogang Qiu,Bing Bing Zhou,Bin Chen 0003,Albert Y. Zomaya	10.1109/CLUSTER.2012.36
+D2T: Doubly Distributed Transactions for High Performance and Distributed Computing.	Jay F. Lofstead,Jai Dayal,Karsten Schwan,Ron A. Oldfield	10.1109/CLUSTER.2012.79
+Accelerating Distributed Updates with Asynchronous Ordered Writes in a Parallel File System.	Youyou Lu,Jiwu Shu,Shuai Li,Letian Yi	10.1109/CLUSTER.2012.38
+eco-IDC: Trade Delay for Energy Cost with Service Delay Guarantee for Internet Data Centers.	Jianying Luo,Lei Rao,Xue Liu 0001	10.1109/CLUSTER.2012.23
+ME2: Efficient Live Migration of Virtual Machine with Memory Exploration and Encoding.	Yanqing Ma,Hongbo Wang 0001,Jiankang Dong,Yangyang Li,Shiduan Cheng	10.1109/CLUSTER.2012.52
+Generic Parallel Programming for Massive Remote Sensing Data Processing.	Yan Ma 0001,Lizhe Wang 0001,Dingsheng Liu,Peng Liu 0024,Jun Wang 0001,Jie Tao 0001	10.1109/CLUSTER.2012.51
+Autotuning Stencil-Based Computations on GPUs.	Azamat Mametjanov,Daniel Lowell,Ching-Chen Ma,Boyana Norris	10.1109/CLUSTER.2012.46
+The Power and Challenges of Transformative I/O.	Adam Manzanares,John Bent,Meghan Wingate,Garth A. Gibson	10.1109/CLUSTER.2012.86
+Built-in Device Simulator for OS Performance Evaluation.	Junjie Mao,Yu Chen 0004,Yaozu Dong	10.1109/CLUSTER.2012.30
+A GPU-accelerated Branch-and-Bound Algorithm for the Flow-Shop Scheduling Problem.	Nouredine Melab,Imen Chakroun,Mohand Mezmaz,Daniel Tuyttens	10.1109/CLUSTER.2012.18
+Automated Load Balancing Invocation Based on Application Characteristics.	Harshitha Menon,Nikhil Jain,Gengbin Zheng,Laxmikant V. Kalé	10.1109/CLUSTER.2012.61
+Hiding Checkpoint Overhead in HPC Applications with a Semi-Blocking Algorithm.	Xiang Ni,Esteban Meneses,Laxmikant V. Kalé	10.1109/CLUSTER.2012.82
+SOME: Selective Offloading for a Mobile Computing Environment.	Sehoon Park,Youngil Choi,Qichen Chen,Heon Y. Yeom	10.1109/CLUSTER.2012.49
+On the Effects of CPU Caches on MPI Point-to-Point Communications.	Simone Pellegrini,Torsten Hoefler,Thomas Fahringer	10.1109/CLUSTER.2012.22
+A New End-to-End Flow-Control Mechanism for High Performance Computing Clusters.	Javier Prades,Federico Silla,José Duato,Holger Fröning,Mondrian Nüssle	10.1109/CLUSTER.2012.15
+Towards a Cost-Aware Data Migration Approach for Key-Value Stores.	Xiulei Qin,Wenbo Zhang 0006,Wei Wang 0049,Jun Wei 0001,Xin Zhao,Tao Huang 0001	10.1109/CLUSTER.2012.14
+Minimizing Network Contention in InfiniBand Clusters with a QoS-Aware Data-Staging Framework.	Raghunath Rajachandrasekar,Jai Jaswani,Hari Subramoni,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2012.90
+Improving I/O Throughput with PRIMACY: Preconditioning ID-Mapper for Compressing Incompressibility.	Neil Shah,Eric R. Schendel,Sriram Lakshminarasimhan,Saurabh V. Pendse,Terry Rogers,Nagiza F. Samatova	10.1109/CLUSTER.2012.16
+BWCC: A FS-Cache Based Cooperative Caching System for Network Storage System.	Liu Shi,Zhenjun Liu,Lu Xu 0001	10.1109/CLUSTER.2012.41
+Adapting Irregular Computations to Large CPU-GPU Clusters in the MADNESS Framework.	Vlad Slavici,Raghu Varier,Gene Cooperman,Robert J. Harrison	10.1109/CLUSTER.2012.42
+sEBP: Event Based Polling for Efficient I/O Virtualization.	Kun Tian,Yaozu Dong,Xiang Mi,Haibing Guan	10.1109/CLUSTER.2012.50
+Overlay-Centric Load Balancing: Applications to UTS and B&amp;B.	Trong-Tuan Vu,Bilel Derbel,Ali Asim,Ahcène Bendjoudi,Nouredine Melab	10.1109/CLUSTER.2012.17
+High Performance and High Capacity Hybrid Shingled-Recording Disk System.	Jiguang Wan,Nannan Zhao,Yifeng Zhu,Jibin Wang,Yu Mao,Peng Chen 0014,Changsheng Xie	10.1109/CLUSTER.2012.21
+Design of Hardware-Based Communication Performance Measurement Tool.	Zhan Wang,Zheng Cao,Xiaoli Liu 0002,Yong Su,Feilong Liu,Xuejun An	10.1109/CLUSTER.2012.12
+Phase Detection for Loop-Based Programs on Multicore Architectures.	Chao Wang 0003,Xi Li 0003,Dong Dai 0001,Gangyong Jia,Xuehai Zhou	10.1109/CLUSTER.2012.73
+Transactional Multi-row Access Guarantee in the Key-Value Store.	Yaoguang Wang,Weiming Lu 0001,Baogang Wei	10.1109/CLUSTER.2012.57
+HAaaS: Towards Highly Available Distributed Systems.	Yaoguang Wang,Weiming Lu 0001,Bin Yu,Baogang Wei	10.1109/CLUSTER.2012.59
+Clover: A Distributed File System of Expandable Metadata Service Derived from HDFS.	Youwei Wang,Jiang Zhou,Can Ma,Weiping Wang 0005,Dan Meng,Jason Kei	10.1109/CLUSTER.2012.54
+Using 1000+ GPUs and 10000+ CPUs for Sedimentary Basin Simulations.	Mei Wen,Huayou Su,Wenjie Wei,Nan Wu 0003,Xing Cai,Chunyuan Zhang	10.1109/CLUSTER.2012.37
+SDM: A Stripe-Based Data Migration Scheme to Improve the Scalability of RAID-6.	Chentao Wu,Xubin He,Jizhong Han,Huailiang Tan,Changsheng Xie	10.1109/CLUSTER.2012.24
+Building a TaaS Platform for Web Service Load Testing.	Minzhi Yan,Hailong Sun 0001,Xu Wang 0007,Xudong Liu 0001	10.1109/CLUSTER.2012.20
+Affinity-aware Virtual Cluster Optimization for MapReduce Applications.	Cairong Yan,Ming Zhu 0004,Xin Yang 0006,Ze Yu,Min Li 0012,Youqun Shi,Xiaolin Li 0001	10.1109/CLUSTER.2012.13
+DFG-base Dynamic Operation Partitioning for Heterogeneous Multicluster VLIW DSP Processor.	Yangzhao Yang,Zeng Zhao,Naijie Gu	10.1109/CLUSTER.2012.43
+Cx: Concurrent Execution for the Cross-Server Operations in a Distributed File System.	Letian Yi,Jiwu Shu,Jiaxin Ou,Ying Zhao	10.1109/CLUSTER.2012.65
+Accelerating Expectation-Maximization Algorithms with Frequent Updates.	Jiangtao Yin,Yanfeng Zhang,Lixin Gao 0001	10.1109/CLUSTER.2012.81
+Evaluating Power-Monitoring Capabilities on IBM Blue Gene/P and Blue Gene/Q.	Kazutomo Yoshii,Kamil Iskra,Rinku Gupta,Peter H. Beckman,Venkatram Vishwanath,Chenjie Yu,Susan Coghlan	10.1109/CLUSTER.2012.62
+A Locality-based Performance Model for Load-and-Compute Style Computation.	Liang Yuan,Yunquan Zhang	10.1109/CLUSTER.2012.25
+HerpRap: A Hybrid Array Architecture Providing Any Point-in-Time Data Tracking for Datacenter.	Lingfang Zeng,Dan Feng 0001,Bo Mao,Jianxi Chen,Qingsong Wei,Wenguo Liu 0004	10.1109/CLUSTER.2012.19
+ANOLE: A Profiling-Driven Adaptive Lock Waiter Detection Scheme for Efficient MP-guest Scheduling.	Jian Zhang,Yaozu Dong,Jiangang Duan	10.1109/CLUSTER.2012.39
+A Reliable and High-Performance Distributed Storage System for P2P-VoD Service.	Jing Zhao,Hongbo Wang 0001,Jiankang Dong,Shiduan Cheng	10.1109/CLUSTER.2012.48
+Data Partitioning on Heterogeneous Multicore and Multi-GPU Systems Using Functional Performance Models of Data-Parallel Applications.	Ziming Zhong,Vladimir Rychkov,Alexey L. Lastovetsky	10.1109/CLUSTER.2012.34
+An Out-of-Core Eigensolver on SSD-equipped Clusters.	Zheng Zhou 0003,Erik Saule,Hasan Metin Aktulga,Chao Yang 0001,Esmond G. Ng,Pieter Maris,James P. Vary,Ümit V. Çatalyürek	10.1109/CLUSTER.2012.76
+GPGPU Memory Estimation and Optimization Targeting OpenCL Architecture.	Junfeng Zhu,Gang Chen 0012,Baifeng Wu	10.1109/CLUSTER.2012.9
+2012 IEEE International Conference on Cluster Computing, CLUSTER 2012, Beijing, China, September 24-28, 2012		

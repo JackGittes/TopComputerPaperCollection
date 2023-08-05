@@ -1,0 +1,30 @@
+Efficient Backtracking Instruction Schedulers.	Santosh G. Abraham,Waleed Meleis,Ivan D. Baev	10.1109/PACT.2000.888354
+Characterization of Silent Stores.	Gordon B. Bell,Kevin M. Lepak,Mikko H. Lipasti	10.1109/PACT.2000.888338
+Custom Wide Counterflow Pipelines for High-Performance Embedded Applications.	Bruce R. Childers,Jack W. Davidson	10.1109/PACT.2000.888331
+The Dynamic Trace Memorization Reuse Technique.	Amarildo T. da Costa,Felipe M. G. França,Eliseu M. Chaves Filho	10.1109/PACT.2000.888334
+Faster FFTs via Architecture-Cognizance.	Kang Su Gatlin,Larry Carter	10.1109/PACT.2000.888349
+Branch Prediction in Multi-Threaded Processors.	Jayanth Gummaraju,Manoj Franklin	10.1109/PACT.2000.888342
+A Lightweight Algorithm for Dynamic If-Conversion during Dynamic Optimization.	Kim M. Hazelwood,Thomas M. Conte	10.1109/PACT.2000.888332
+Global Register Partitioning.	Jason Hiser,Steve Carr 0001,Philip H. Sweany	10.1109/PACT.2000.888256
+Dynamic Branch Prediction for a VLIW Processor.	Jan Hoogerbrugge	10.1109/PACT.2000.888345
+Exploring Sub-Block Value Reuse for Superscalar Processors.	Jian Huang,David J. Lilja	10.1109/PACT.2000.888335
+A Unified Compiler Framework for Control and Data Speculation.	Roy Dz-Ching Ju,Kevin Nomura,Uma Mahadevan,Le-Chun Wu	10.1109/PACT.2000.888340
+Data Relation Vectors: A New Abstraction for Data Optimizations.	Mahmut T. Kandemir,J. Ramanujam	10.1109/PACT.2000.888347
+Combined Selection of Tile Sizes and Unroll Factors Using Iterative Compilation.	Toru Kisuki,Peter M. W. Knijnenburg,Michael F. P. O&apos;Boyle	10.1109/PACT.2000.888348
+Neighborhood Prefetching on Multiprocessors Using Instruction History.	David M. Koppelman	10.1109/PACT.2000.888337
+Hiding Relaxed Memory Consistency with Compilers.	Jaejin Lee,David A. Padua	10.1109/PACT.2000.888336
+On Some Implementation Issues for Value Prediction on Wide-Issue ILP Processors.	Sang Jeong Lee,Pen-Chung Yew	10.1109/PACT.2000.888339
+Instruction Scheduling for Clustered VLIW DSPs.	Rainer Leupers	10.1109/PACT.2000.888353
+aSOC: A Scalable, Single-Chip Communications Architecture.	Jian Liang,Sriram Swaminathan,Russell Tessier	10.1109/PACT.2000.888329
+Fine Grained Multithreading with Process Calculi.	Luís M. B. Lopes,Fernando M. A. Silva,Vasco Thudichum Vasconcelos	10.1109/PACT.2000.888346
+Applying Data Speculation in Modulo Scheduled Loops.	Uma Mahadevan,Kevin Nomura,Roy Dz-Ching Ju,Rick Hank	10.1109/PACT.2000.888341
+Hybrid Parallel Circuit Simulation Approaches.	Edwin Naroska,Rung-Ji Shang,Feipei Lai,Uwe Schwiegelshohn	10.1109/PACT.2000.888350
+Address Partitioning in DSM Clusters with Parallel Coherence Controllers.	Ilanthiraiyan Pragaspathy,Babak Falsafi	10.1109/PACT.2000.888330
+The Effect of Code Reordering on Branch Prediction.	Alex Ramírez,Josep Lluís Larriba-Pey,Mateo Valero	10.1109/PACT.2000.888343
+Multithreaded Programming of PC Clusters.	Martin Schulz 0001	10.1109/PACT.2000.888351
+Exploring the Limits of Sub-Word Level Parallelism.	Kevin Scott,Jack W. Davidson	10.1109/PACT.2000.888333
+A Taxonomy of Branch Mispredictions, and Alloyed Prediction as a Robust Solution to Wrong-History Mispredictions.	Kevin Skadron,Margaret Martonosi,Douglas W. Clark	10.1109/PACT.2000.888344
+Register Queues: A New Hardware/Software Approach to Efficient Software Pipelining.	Mikhail Smelyanskiy,Gary S. Tyson,Edward S. Davidson	10.1109/PACT.2000.888255
+Region Formation Analysis with Demand-Driven Inlining for Region-Based Optimization.	Tom Way,Ben Breech,Lori L. Pollock	10.1109/PACT.2000.888257
+A Fast Algorithm for Scheduling Instructions with Deadline Constraints on RISC Processors.	Hui Wu 0001,Joxan Jaffar,Roland H. C. Yap	10.1109/PACT.2000.888352
+Proceedings of the 2000 International Conference on Parallel Architectures and Compilation Techniques (PACT&apos;00), Philadelphia, Pennsylvania, USA, October 15-19, 2000		

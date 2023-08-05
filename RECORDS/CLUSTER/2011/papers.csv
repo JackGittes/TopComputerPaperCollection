@@ -1,0 +1,78 @@
+DARE: Adaptive Data Replication for Efficient Cluster Scheduling.	Cristina L. Abad,Yi Lu 0001,Roy H. Campbell	10.1109/CLUSTER.2011.26
+Datamation: A Quarter of a Century and Four Orders of Magnitude Later.	Paolo Bertasi,Michele Bonazza,Marco Bressan 0002,Enoch Peserico	10.1109/CLUSTER.2011.75
+A Framework for Data-Intensive Computing with Cloud Bursting.	Tekin Bicer,David Chiu 0001,Gagan Agrawal	10.1109/CLUSTER.2011.21
+Reservation-Based Overbooking for HPC Clusters.	Georg Birkenheuer,André Brinkmann	10.1109/CLUSTER.2011.74
+Implementation of Multigrid on QPACE.	Matthias Bolten,Daniel Brinkers,Ulrich Rüde,Markus Stürmer	10.1109/CLUSTER.2011.48
+Performance Portability of a GPU Enabled Factorization with the DAGuE Framework.	George Bosilca,Aurélien Bouteiller,Thomas Hérault,Pierre Lemarinier,Narapat Ohm Saengpatsa,Stanimire Tomov,Jack J. Dongarra	10.1109/CLUSTER.2011.51
+On Scalability for MPI Runtime Systems.	George Bosilca,Thomas Hérault,Ala Rezmerita,Jack J. Dongarra	10.1109/CLUSTER.2011.29
+A Sampling-Based Approach for Communication Libraries Auto-Tuning.	Elisabeth Brunet,François Trahay,Alexandre Denis 0001,Raymond Namyst	10.1109/CLUSTER.2011.41
+Design of HPC Node with Heterogeneous Processors.	Zheng Cao,Hongwei Tang,Qiang Li,Bo Li 0009,Fei Chen,Kai Wang,Xuejun An,Ninghui Sun	10.1109/CLUSTER.2011.23
+Achieving Scalable Parallelization for the Hessenberg Factorization.	Anthony M. Castaldo,R. Clint Whaley	10.1109/CLUSTER.2011.16
+Predictive and Distributed Routing Balancing for High Speed Interconnection Networks.	Carlos Nunez Castillo,Diego Lugones,Daniel Franco 0002,Emilio Luque	10.1109/CLUSTER.2011.66
+Automatically Selecting the Number of Aggregators for Collective I/O Operations.	Mohamad Chaarawi,Edgar Gabriel	10.1109/CLUSTER.2011.79
+HEaRS: A Hierarchical Energy-Aware Resource Scheduler for Virtualized Data Centers.	Hui Chen,Meina Song,Junde Song,Ada Gavrilovska,Karsten Schwan	10.1109/CLUSTER.2011.60
+Exploring Fine-Grained Task-Based Execution on Multi-GPU Systems.	Long Chen 0020,Oreste Villa,Guang R. Gao	10.1109/CLUSTER.2011.50
+FastQuery: A Parallel Indexing System for Scientific Data.	Jerry Chi-Yuan Chou,Kesheng Wu,Prabhat	10.1109/CLUSTER.2011.86
+Performance Behavior Prediction Scheme for Shared-Memory Parallel Applications.	John Corredor,Juan Carlos Moure,Dolores Rexachs,Daniel Franco 0002,Emilio Luque	10.1109/CLUSTER.2011.58
+Heterogeneous Cloud Computing.	Stephen P. Crago,Kyle Dunn,Patrick Eads,Lorin Hochstein,Dong-In Kang,Mikyung Kang,Devendra Modium,Karandeep Singh,Jinwoo Suh,John Paul Walters	10.1109/CLUSTER.2011.49
+Experience on Comparison of Operating Systems Scalability on the Multi-core Architecture.	Yan Cui 0002,Yingxin Wang,Yu Chen 0004,Yuanchun Shi	10.1109/CLUSTER.2011.31
+Application I/O and Data Management.	William W. Dai	10.1109/CLUSTER.2011.84
+Optimizing Network I/O Virtualization with Efficient Interrupt Coalescing and Virtual Receive Side Scaling.	Yaozu Dong,Dongxiao Xu,Yang Zhang,Guangdeng Liao	10.1109/CLUSTER.2011.12
+High Performance Dense Linear System Solver with Soft Error Resilience.	Peng Du,Piotr Luszczek,Jack J. Dongarra	10.1109/CLUSTER.2011.38
+Multicore/GPGPU Portable Computational Kernels via Multidimensional Arrays.	H. Carter Edwards,Daniel Sunderland,Chris Amsler,Sam Mish	10.1109/CLUSTER.2011.47
+Performance Characterization and Optimization of Atomic Operations on AMD GPUs.	Marwa K. Elteir,Heshan Lin,Wu-chun Feng	10.1109/CLUSTER.2011.34
+AA-Dedupe: An Application-Aware Source Deduplication Approach for Cloud Backup Services in the Personal Computing Environment.	Yinjin Fu,Hong Jiang 0001,Nong Xiao,Lei Tian 0001,Fang Liu 0002	10.1109/CLUSTER.2011.20
+Parallel I/O Performance for Application-Level Checkpointing on the Blue Gene/P System.	Jing Fu 0002,Misun Min,Robert Latham,Christopher D. Carothers	10.1109/CLUSTER.2011.81
+RDMA Based Replication of Multiprocessor Virtual Machines over High-Performance Interconnects.	Balazs Gerofi,Yutaka Ishikawa	10.1109/CLUSTER.2011.13
+Performance Analysis and Benchmarking of the Intel SCC.	Philipp Gschwandtner,Thomas Fahringer,Radu Prodan	10.1109/CLUSTER.2011.24
+Automatic Task Re-organization in MapReduce.	Zhenhua Guo 0004,Marlon E. Pierce,Geoffrey C. Fox,Mo Zhou	10.1109/CLUSTER.2011.44
+Large-Scale Simulator for Global Data Infrastructure Optimization.	Sergio Herrero-Lopez,John R. Williams,Abel Sanchez	10.1109/CLUSTER.2011.15
+Evolutionary Scheduling of Parallel Tasks Graphs onto Homogeneous Clusters.	Sascha Hunold,Joachim Lepping	10.1109/CLUSTER.2011.45
+Locality-Aware Parallel Process Mapping for Multi-core HPC Systems.	Joshua Hursey,Jeffrey M. Squyres,Terry Dontje	10.1109/CLUSTER.2011.59
+TDP-Shell: A Generic Framework to Improve Interoperability between Batch Queue Systems and Monitoring Tools.	Vicente Ivars,Miquel A. Senar,Elisa Heymann	10.1109/CLUSTER.2011.73
+Performance of a Virtual Cluster in a General-Purpose Teaching Laboratory.	Eric Johnson 0002,Patrick Garrity,Timothy Yates,Richard A. Brown	10.1109/CLUSTER.2011.76
+Accelerating Galois Field Arithmetic for Reed-Solomon Erasure Codes in Storage Applications.	Sebastian Kalcher,Volker Lindenstruth	10.1109/CLUSTER.2011.40
+Scalability of Semi-implicit Time Integrators for Nonhydrostatic Galerkin-Based Atmospheric Models on Large Scale Clusters.	James F. Kelly,Frank X. Giraldo,Gabriele Jost	10.1109/CLUSTER.2011.70
+Analyzing the Performance Bottlenecks of the POWER7-IH Network.	Darren J. Kerbyson,Kevin J. Barker	10.1109/CLUSTER.2011.35
+Energy Templates: Exploiting Application Information to Save Energy.	Darren J. Kerbyson,Abhinav Vishnu,Kevin J. Barker	10.1109/CLUSTER.2011.33
+An RMS for Non-predictably Evolving Applications.	Cristian Klein,Christian Pérez	10.1109/CLUSTER.2011.56
+PIDX: Efficient Parallel I/O for Multi-resolution Multi-dimensional Scientific Datasets.	Sidharth Kumar,Venkatram Vishwanath,Philip H. Carns,Brian Summa,Giorgio Scorzelli,Valerio Pascucci,Robert B. Ross,Jacqueline Chen,Hemanth Kolla,Ray W. Grout	10.1109/CLUSTER.2011.19
+Supporting Computing Element Heterogeneity in P2P Grids.	Jaehwan Lee 0001,Peter J. Keleher,Alan Sussman	10.1109/CLUSTER.2011.25
+Scheduling Workflows in Opportunistic Environments.	María del Mar López,Elisa Heymann,Miquel A. Senar	10.1109/CLUSTER.2011.72
+Process Distance-Aware Adaptive MPI Collective Communications.	Teng Ma,Thomas Hérault,George Bosilca,Jack J. Dongarra	10.1109/CLUSTER.2011.30
+Methodology for Performance Evaluation of the Input/Output System on Computer Clusters.	Sandra Méndez,Dolores Rexachs,Emilio Luque	10.1109/CLUSTER.2011.83
+Dynamic Load Balance for Optimized Message Logging in Fault Tolerant HPC Applications.	Esteban Meneses,Laxmikant V. Kalé,Greg Bronevetsky	10.1109/CLUSTER.2011.39
+Can a Decentralized Metadata Service Layer Benefit Parallel Filesystems?	Vilobh Meshram,Xavier Besseron,Xiangyong Ouyang,Raghunath Rajachandrasekar,Ravi Prakash 0001,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2011.85
+Asynchronous Collective Output with Non-dedicated Cores.	Phil Miller,Shen Li,Chao Mei	10.1109/CLUSTER.2011.82
+Model-Driven Simulation to Evaluate Performance Impact of Workload Features on Parallel Systems.	Tran Ngoc Minh,Lex Wolters	10.1109/CLUSTER.2011.27
+Incorporating Network RAM and Flash into Fast Backing Store for Clusters.	Tia Newhall,Douglas Woos	10.1109/CLUSTER.2011.22
+CULZSS: LZSS Lossless Data Compression on CUDA.	Adnan Ozsoy,D. Martin Swany	10.1109/CLUSTER.2011.52
+Experimental and Numerical Study of the Effect of Geometric Parameters on Liquid Single-Phase Pressure Drop in Micro-Scale Pin-Fin Arrays.	Valerie Pezzullo,Steven Voinier	10.1109/CLUSTER.2011.91
+Symphony: A Scheduler for Client-Server Applications on Coprocessor-Based Heterogeneous Clusters.	M. Mustafa Rafique,Srihari Cadambi,Kunal Rao,Ali Raza Butt,Srimat T. Chakradhar	10.1109/CLUSTER.2011.46
+Parallel Greedy Genetic Algorithm for Job Scheduling in Cluster Enviornments.	Gholamali Rahnavard,Jharrod Lafon,Hadi Sharifi	10.1109/CLUSTER.2011.57
+ResourceExchange: Latency-Aware Scheduling in Virtualized Environments with High Performance Fabrics.	Adit Ranadive,Ada Gavrilovska,Karsten Schwan	10.1109/CLUSTER.2011.14
+Performance Optimization of Data Structures Using Memory Access Characterization.	Ashay Rane,James C. Browne	10.1109/CLUSTER.2011.77
+Multiphase LBM Distributed over Multiple GPUs.	Carlos Rosales	10.1109/CLUSTER.2011.9
+Design and Implementation of Broadcast Algorithms for Extreme-Scale Systems.	Pavel Shamis,Richard L. Graham,Manjunath Gorentla Venkata,Joshua Ladd	10.1109/CLUSTER.2011.17
+An Energy-Efficient Scheme for Cloud Resource Provisioning Based on CloudSim.	Yuxiang Shi,Xiaohong Jiang 0002,Kejiang Ye	10.1109/CLUSTER.2011.63
+MPI Alltoall Personalized Exchange on GPGPU Clusters: Design Alternatives and Benefit.	Ashish Kumar Singh,Sreeram Potluri,Hao Wang 0002,Krishna Chaitanya Kandalla,Sayantan Sur,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2011.67
+An ISO-Energy-Efficient Approach to Scalable System Power-Performance Optimization.	Shuaiwen Song,Matthew Grove,Kirk W. Cameron	10.1109/CLUSTER.2011.37
+Quartile and Outlier Detection on Heterogeneous Clusters Using Distributed Radix Sort.	Kyle Spafford,Jeremy S. Meredith,Jeffrey S. Vetter	10.1109/CLUSTER.2011.53
+Design and Evaluation of Network Topology-/Speed- Aware Broadcast Algorithms for InfiniBand Clusters.	Hari Subramoni,Krishna Chaitanya Kandalla,Jérôme Vienne,Sayantan Sur,Bill Barth,Karen A. Tomko,Robert T. McLay,Karl W. Schulz,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2011.43
+Improving MapReduce Performance via Heterogeneity-Load-Aware Partition Function.	Huifeng Sun,Junliang Chen,Chuanchang Liu,Zibin Zheng,Nan Yu,Zhi Yang	10.1109/CLUSTER.2011.68
+Automatic Computer System Characterization for a Parallelizing Compiler.	Alan Sussman,Norman Lo,Timothy Anderson	10.1109/CLUSTER.2011.32
+EDO: Improving Read Performance for Scientific Applications through Elastic Data Organization.	Yuan Tian 0004,Scott Klasky,Hasan Abbasi,Jay F. Lofstead,Ray W. Grout,Norbert Podhorszki,Qing Liu 0002,Yandong Wang,Weikuan Yu	10.1109/CLUSTER.2011.18
+Automatic Hybrid OpenMP + MPI Program Generation for Dynamic Programming Problems.	Denny R. Vandenberg,Quentin F. Stout	10.1109/CLUSTER.2011.28
+Play It Again, SimMR!	Abhishek Verma,Ludmila Cherkasova,Roy H. Campbell	10.1109/CLUSTER.2011.36
+Optimized Non-contiguous MPI Datatype Communication for GPU Clusters: Design, Implementation and Evaluation with MVAPICH2.	Hao Wang 0002,Sreeram Potluri,Miao Luo,Ashish Kumar Singh,Xiangyong Ouyang,Sayantan Sur,Dhabaleswar K. Panda 0001	10.1109/CLUSTER.2011.42
+Improving I/O Forwarding Throughput with Data Compression.	Benjamin Welton,Dries Kimpe,Jason Cope,Christina M. Patrick,Kamil Iskra,Robert B. Ross	10.1109/CLUSTER.2011.80
+Performance Emulation of Cell-Based AMR Cosmology Simulations.	Jingjin Wu,Roberto E. González,Zhiling Lan,Nickolay Y. Gnedin,Andrey V. Kravtsov,Douglas H. Rudd,Yongen Yu	10.1109/CLUSTER.2011.10
+Improving PCM Endurance with Randomized Address Remapping in Hybrid Memory System.	Gang Wu 0008,Jian Gao,Huxing Zhang,Yaozu Dong	10.1109/CLUSTER.2011.62
+Implementing High Performance Remote Method Invocation in CCA.	Jian Yin 0002,Khushbu Agarwal,Manoj Krishnan,Daniel G. Chavarría-Miranda,Ian Gorton,Tom Epperly	10.1109/CLUSTER.2011.78
+BMF: Bitmapped Mass Fingerprinting for Fast Protein Identification.	Weikuan Yu,K. John Wu,Wei-Shinn Ku,Cong Xu,Juan Gao	10.1109/CLUSTER.2011.11
+Frequent Itemset Mining on Large-Scale Shared Memory Machines.	Yan Zhang,Fan Zhang,Jason D. Bakos	10.1109/CLUSTER.2011.69
+GPApriori: GPU-Accelerated Frequent Itemset Mining.	Fan Zhang,Yan Zhang,Jason D. Bakos	10.1109/CLUSTER.2011.61
+Data Partitioning on Heterogeneous Multicore Platforms.	Ziming Zhong,Vladimir Rychkov,Alexey L. Lastovetsky	10.1109/CLUSTER.2011.64
+Evaluating Performance Impacts of Delayed Failure Repairing on Large-Scale Systems.	Zhou Zhou,Wei Tang 0001,Ziming Zheng,Zhiling Lan,Narayan Desai	10.1109/CLUSTER.2011.71
+Investigating Scenario-Conscious Asynchronous Rendezvous over RDMA.	Judicael A. Zounmevo,Ahmad Afsahi	10.1109/CLUSTER.2011.65
+2011 IEEE International Conference on Cluster Computing (CLUSTER), Austin, TX, USA, September 26-30, 2011		

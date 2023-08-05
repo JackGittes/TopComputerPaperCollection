@@ -1,0 +1,80 @@
+Tutorial: &quot;Manufacturing test of systems-on-a-chip (SoCs)&quot;.	Jacob A. Abraham	10.1109/SOCC.2011.6085148
+High performance multi-engine regular expression processing.	Thianantha Arumugam,Sakir Sezer,Dwayne Burns,Vishalini Vasu	10.1109/SOCC.2011.6085117
+Compiler-assisted technique for rapid performance estimation of FPGA-based processors.	Yan Lin Aung,Siew Kei Lam,Thambipillai Srikanthan	10.1109/SOCC.2011.6085116
+VFSMC - a core for cycle accurate multithreaded processing in hard real-time Systems-on-Chip.	Siegfried Brandstätter,Mario Huemer	10.1109/SOCC.2011.6085111
+Technology trends and implications on SoC design.	Jeffrey L. Burns	10.1109/SOCC.2011.6085094
+An analog gamma correction method for high dynamic range applications.	Yuan Cao 0003,Amine Bermak	10.1109/SOCC.2011.6085112
+Design and optimization methods for digital microfluidic biochips: A vision for functional diversity and more than moore.	Krishnendu Chakrabarty	10.1109/SOCC.2011.6085141
+An analytical model to estimate PCM failure probability due to process variations.	Mu-Tien Chang,Bruce L. Jacob	10.1109/SOCC.2011.6085128
+A SAR ADC BIST for simplified linearity test.	An-Sheng Chao,Soon-Jyh Chang,Hsin-Wen Ting	10.1109/SOCC.2011.6085122
+Transport Layer Assisted Routing for Non-Stationary Irregular mesh of thermal-aware 3D Network-on-Chip systems.	Chih-Hao Chao,Tsu-Chu Yin,Shu-Yen Lin,An-Yeu Wu	10.1109/SOCC.2011.6085086
+TSV-based 3D-IC placement for timing optimization.	Yi-Rong Chen,Hung-Ming Chen,Shih-Ying Liu	10.1109/SOCC.2011.6085087
+A register-transfer level testability analyzer.	Yen-An Chen,Chun-Yao Wang,Ching-Yi Huang,Hsiu-Yi Lin	10.1109/SOCC.2011.6085107
+High reliability built-in self-detection and self-correction design for DCT/IDCT application.	Chang-Hsin Cheng,Chun-Lung Hsu,Chung-Kai Liu,Shih-Yin Lin	10.1109/SOCC.2011.6085106
+The pending arrival of Phase Change Memory: The implications on the memory-storage hierarchy and on future systems development.	Stefanie Chiras	10.1109/SOCC.2011.6085095
+Baseband signal processing in SDR.	Tzi-Dar Chiueh	10.1109/SOCC.2011.6085144
+Ultra low power QC-LDPC decoder with high parallelism.	Ying Cui,Xiao Peng 0002,Zhixiang Chen 0002,Xiongxin Zhao,Yichao Lu,Dajiang Zhou,Satoshi Goto	10.1109/SOCC.2011.6085136
+Concept and design of exhaustive-parallel search algorithm for Network-on-Chip.	Meganathan Deivasigamani,Shaghayeghsadat Tabatabaei,Naveed Ul Mustafa,Hamza Ijaz,Haris Bin Aslam,Shaoteng Liu,Axel Jantsch	10.1109/SOCC.2011.6085123
+Double-differential recording and AGC using amplifier ASIC.	Shin-Liang Deng,Chun-Yi Li,Robert Rieger	10.1109/SOCC.2011.6085121
+Low power 120 KSPS 12bit SAR ADC with a novel switch control method for internal CDAC.	Abhisek Dey,Tarun Kanti Bhattacharyya	10.1109/SOCC.2011.6085099
+An energy-efficient 10T SRAM-based FIFO memory operating in near-/sub-threshold regions.	Wei-Hung Du,Ming-Hung Chang,Hao-Yi Yang,Wei Hwang	10.1109/SOCC.2011.6085069
+A silicon core for an acoustic archival tag.	Godi Fischer,H. Thomas Rossby	10.1109/SOCC.2011.6085097
+Novel adaptive keeper LBL technique for low power and high performance register files.	Na Gong,Geng Tang,Jinhui Wang,Ramalingam Sridhar	10.1109/SOCC.2011.6085071
+Low power tri-state register files design for modern out-of-order processors.	Na Gong,Geng Tang,Jinhui Wang,Ramalingam Sridhar	10.1109/SOCC.2011.6085113
+PVT variations aware optimal sleep vector determination of dual VT domino OR circuits.	Na Gong,Jinhui Wang,Ramalingam Sridhar	10.1109/SOCC.2011.6085092
+Fair rate packet arbitration in Network-on-Chip.	Falko Guderian,Erik Fischer,Markus Winter 0002,Gerhard P. Fettweis	10.1109/SOCC.2011.6085085
+CGA: Combining cluster analysis with genetic algorithm for regression suite reduction of microprocessors.	Liucheng Guo,Jiangfang Yi,Liang Zhang,Xiaoyin Wang,Dong Tong 0001	10.1109/SOCC.2011.6085105
+System power analysis with DVFS on ESL virtual platform.	Wen-Tsan Hsieh,Jen-Chieh Yeh,Shih-Che Lin,Hsing-Chuang Liu,Yi-Siou Chen	10.1109/SOCC.2011.6085102
+Multi-Pheromone ACO-based routing in Network-on-Chip system inspired by economic phenomenon.	Hsien-Kai Hsin,En-Jui Chang,Chih-Hao Chao,Shu-Yen Lin,An-Yeu Wu	10.1109/SOCC.2011.6085084
+Configurable baseband designs and implementations of WiMAX/LTE dual systems based on multi-core DSP.	Jen-Yuan Hsu,Chien-Yu Kao,Ping-Heng Kuo,Pangan Ting	10.1109/SOCC.2011.6085146
+On-demand memory sub-system for multi-core SoCs.	Po-Tsang Huang,Yung Chang,Wei Hwang	10.1109/SOCC.2011.6085132
+Yield-award placement optimization for Switched-Capacitor analog integrated circuits.	Chien-Chih Huang,Jwu-E Chen,Pei-Wen Luo,Chin-Long Wey	10.1109/SOCC.2011.6085127
+Recent research and emerging challenges in design and optimization for digital microfluidic biochips.	Tsung-Wei Huang,Yan-You Lin,Jia-Wen Chang,Tsung-Yi Ho	10.1109/SOCC.2011.6085143
+Plenary: Boosting performance efficiency in multiprocessor systems through multi-threading.	Gideon D. Intrater	10.1109/SOCC.2011.6085140
+Integration of code optimization and hardware exploration for a VLIW architecture by using fuzzy control system.	Xiaoyan Jia,Gerhard P. Fettweis	10.1109/SOCC.2011.6085072
+Sleep signal slew rate modulation for mode transition noise suppression in ground gated integrated circuits.	Hailong Jiao,Volkan Kursun	10.1109/SOCC.2011.6085093
+Computation and communication aware run-time mapping for NoC-based MPSoC platforms.	Samarth Kaushik,Amit Kumar Singh 0002,Thambipillai Srikanthan	10.1109/SOCC.2011.6085078
+A design strategy for sub-threshold circuits considering energy-minimization and yield-maximization.	Junya Kawashima,Hiroyuki Ochi,Hiroshi Tsutsui,Takashi Sato	10.1109/SOCC.2011.6085076
+Efficient design and synthesis of decimation filters for wideband delta-sigma ADCs.	Rajaram Mohan Roy Koppula,Sakkarapani Balagopal,Vishal Saxena	10.1109/SOCC.2011.6085120
+A novel approach to estimate the impact of analog circuit performance based on the small signal model under process variations.	Po-Yu Kuo,Siwat Saibua,Dian Zhou	10.1109/SOCC.2011.6085098
+Tutorial: &quot;Design of high-speed wireline transceivers&quot;.	Jri Lee	10.1109/SOCC.2011.6085149
+Functional verifications for SoC software/hardware co-design: From virtual platform to physical platform.	Yi-Li Lin,Alvin W. Y. Su	10.1109/SOCC.2011.6085104
+Exploring Virtual-Channel architecture in FPGA based Networks-on-Chip.	Ye Lu 0003,John V. McCanny,Sakir Sezer	10.1109/SOCC.2011.6085089
+A CAD methodology for automatic topology selection &amp; sizing.	Supriyo Maji,Pradip Mandal	10.1109/SOCC.2011.6085101
+Monitor strategies for variability reduction considering correlation between power and timing variability.	Joan Mauricio,Francesc Moll,Josep Altet	10.1109/SOCC.2011.6085081
+A multi-segment clocking scheme to reduce on-chip EMI.	Behzad Mesgarzadeh,Iman Esmaeil Zadeh,Atila Alvandpour	10.1109/SOCC.2011.6085110
+Low voltage SRAMs and the scalability of the 9T Supply Feedback SRAM.	Janna Mezhibovsky,Adam Teman,Alexander Fish	10.1109/SOCC.2011.6085135
+A 65nm standard cell set and flow dedicated to automated asynchronous circuits design.	Matheus T. Moreira,Bruno Cruz de Oliveira,Julian J. H. Pontes,Ney Calazans	10.1109/SOCC.2011.6085103
+A low power wide tuning range VCO with coupled LC tanks.	Shouxian Mou,Kaixue Ma,Kiat Seng Yeo,Nagarajan Mahalingam,Bharatha Kumar Thangarasu	10.1109/SOCC.2011.6085075
+Dynamic calibration of feedback DAC non-linearity for a 4th order CT sigma delta for digital hearing aids.	Syed R. Naqvi,Ilker Deligoz,Sayfe Kiaei,Bertan Bakkaloglu	10.1109/SOCC.2011.6085129
+Configurable workload generators for multicore architectures.	Amayika Panda,Annie Avakian,Ranga Vemuri	10.1109/SOCC.2011.6085077
+Design of complex circuits using the Via-Configurable transistor array regular layout fabric.	Marc Pons 0001,Francesc Moll,Antonio Rubio 0001,Jaume Abella 0001,Xavier Vera,Antonio González 0001	10.1109/SOCC.2011.6085126
+Recent research and emerging challenges in the System-Level Design of digital microfluidic biochips.	Paul Pop,Elena Maftei,Jan Madsen	10.1109/SOCC.2011.6085142
+Instruction set customization for area-constrained FPGA designs.	Alok Prakash,Siew Kei Lam,Christopher T. Clarke,Thambipillai Srikanthan	10.1109/SOCC.2011.6085114
+Power characteristics of Asynchronous Networks-on-Chip.	Maher Rashed,Mohamed A. Abd El-Ghany,Mohammed Ismail 0001	10.1109/SOCC.2011.6085125
+A parametric DFM solution for analog circuits: Electrical driven hot spot detection, analysis and correction flow.	Rami F. Salem,Ahmed Arafa,Sherif Hany,Abdelrahman ElMously,Haitham Eissa,Mohamed Dessouky,David Nairn,Mohab H. Anis	10.1109/SOCC.2011.6085082
+De-Cache: A novel caching scheme for large-scale NoC based multiprocessor systems-on-chips.	Azeez Sanusi,Magdy A. Bayoumi	10.1109/SOCC.2011.6085079
+Well tapping methodologies in power-gating design.	Kaijian Shi,David Tester	10.1109/SOCC.2011.6085133
+VLSI design of area-efficient memory access architectures for quasi-cyclic LDPC codes.	Ming-Der Shieh,Shih-Hao Fang,Shing-Chung Tang,Der-Wei Yang	10.1109/SOCC.2011.6085108
+An energy-efficient OFDM-based baseband transceiver design for ubiquitous healthcare monitoring applications.	Tzu-Chun Shih,Tsan-Wen Chen,Wei-Hao Sung,Ping-Yuan Tsai,Chen-Yi Lee	10.1109/SOCC.2011.6085118
+Floorplanning challenges in early chip planning.	Jeonghee Shin,John A. Darringer,Guojie Luo,Merav Aharoni,Alexey Lvov,Gi-Joon Nam,Michael B. Healy	10.1109/SOCC.2011.6085096
+Tutorial: &quot;Post silicon debug of SOC designs&quot;.	Virendra Singh,Masahiro Fujita	10.1109/SOCC.2011.6085147
+Low power Gm-boosted differential Colpitts VCO.	Yi-Pei Su,Wei-Yi Hu,Jia-Wei Lin,Yun-Chung Chen,Sakir Sezer,Sao-Jie Chen	10.1109/SOCC.2011.6085109
+A reduced signal feed-through 6-tap pre-emphasis circuit for use in a 10GB/S backplane communications system.	Harry Tai,Peter Noel,Tad A. Kwasniewski	10.1109/SOCC.2011.6085130
+Feasibility study for communication over Power Distribution Networks of microprocessors.	Rajesh Thirugnanam,Dong Sam Ha	10.1109/SOCC.2011.6085131
+HoneyComb: A multi-grained dynamically reconfigurable runtime adaptive hardware architecture.	Alexander Thomas,Michael Rückauer,Jürgen Becker 0001	10.1109/SOCC.2011.6085115
+A low-power all-digital phase modulator pair for LINC transmitters.	Ping-Yuan Tsai,Tsan-Wen Chen,Chen-Yi Lee	10.1109/SOCC.2011.6085074
+TSV sharing through multiplexing for TSV count minimization in high-level synthesis.	Wen-Pin Tu,Yen-Hsin Lee,Shih-Hsu Huang	10.1109/SOCC.2011.6085124
+Luncheon Speaker: &quot;Introduction to SoC testing&quot;.	Laung-Terng Wang	10.1109/SOCC.2011.6085153
+A gate sizing method for glitch power reduction.	Lei Wang,Markus Olbrich,Erich Barke,Thomas Büchner,Markus Bühler,Philipp V. Panitz	10.1109/SOCC.2011.6085070
+A compact delay-recycled clock skew-compensation and/or duty-cycle-correction circuit.	Yi-Ming Wang,Jen-Tsung Yu,Yuandi Surya,Chung-Hsun Huang	10.1109/SOCC.2011.6085073
+Power-aware design technique for PAC Duo based embedded system.	Shui-An Wen,Huang-Lun Lin,Chi Wu,Chun-Chin Chen,Kun-Hsien Tsai,Wei-Min Cheng	10.1109/SOCC.2011.6085134
+A 144-configuration context MEMS optically reconfigurable gate array.	Yuichiro Yamaji,Minoru Watanabe	10.1109/SOCC.2011.6085083
+Simultaneous escape routing based on routability-driven net ordering.	Jin-Tai Yan,Tung-Yen Sung,Zhi-Wei Chen	10.1109/SOCC.2011.6085100
+A novel methodology for Multi-Project System-on-a-Chip.	Chih-Chyau Yang,Nien-Hsiang Chang,Shih-Lun Chen,Wei-De Chien,Chi-Shi Chen,Chien-Ming Wu,Chun-Ming Huang	10.1109/SOCC.2011.6085090
+A high-performance low VMIN 55nm 512Kb disturb-free 8T SRAM with adaptive VVSS control.	Hao-I Yang,Shih-Chi Yang,Mao-Chih Hsia,Yung-Wei Lin,Yi-Wei Lin,Chien-Hen Chen,Chi-Shin Chang,Geng-Cing Lin,Yin-Nien Chen,Ching-Te Chuang,Wei Hwang,Shyh-Jye Jou,Nan-Chun Lien,Hung-Yu Li,Kuen-Di Lee,Wei-Chiang Shih,Ya-Ping Wu,Wen-Ta Lee,Chih-Chiang Hsu	10.1109/SOCC.2011.6085080
+Design of a neural recording amplifier with tunable pseudo resistors.	Kai-Wen Yao,Cihun-Siyong Alex Gong,Shan-Ci Yang,Muh-Tian Shiue	10.1109/SOCC.2011.6085119
+A single-phase energy metering SoC with IAS-DSP and ultra low power metering mode.	Yan Zhao,Nianxiong Tan,Kun Yang,Shupeng Zhong,Changyou Men	10.1109/SOCC.2011.6085091
+Fault tolerant application-specific NoC topology synthesis for three-dimensional integrated circuits.	Yi-Xue Zheng,Po-Ping Kan,Liang-Bi Chen,Kai-Yang Hsieh,Bo-Chuan Cheng,Katherine Shu-Min Li	10.1109/SOCC.2011.6085088
+Software defined radio based frequency domain chaotic cognitive radio.	Ruolin Zhou,Xue Li 0002,Jian Zhang,Zhiqiang Wu 0001	10.1109/SOCC.2011.6085145
+IEEE 24th International SoC Conference, SOCC 2011, Taipei, Taiwan, September 26-28, 2011		
