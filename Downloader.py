@@ -86,9 +86,11 @@ def download(root_dir: str, priority_list=None):
                 continue
             res = prepare_doi_list(year_vol_dir)
             if res is False:
-                logger.warning("No available paper"
+                logger.warning("No available paper "
                                "found in {}-{}.".format(conf_jnl,
                                                         year_vol_dir))
+                with open(os.path.join(year_vol_dir, "status.log"), "w") as fp:
+                    fp.write("NoDOI")
                 continue
             pdf_path = os.path.join(year_vol_dir, "PDF")
             if not os.path.exists(pdf_path):
